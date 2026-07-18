@@ -30,7 +30,9 @@ LEAGUE_KEYS = TEAM_LEAGUES | NO_TEAM_LEAGUES
 ALLOWED_DOMAINS = {"league-one.jp", "all.rugby", "jrfu.jp", "rugby-japan.jp"}
 
 HEIGHT_RANGE = (150, 230)
-WEIGHT_RANGE = (60, 170)
+# P5-3: 下限60は男子プロ基準で、女子セブンズ代表の実測値(56kg等、JRFU公式公表)を
+# 誤って null 化していたため 45 に拡大（実データに合わせた妥当性範囲の修正）。
+WEIGHT_RANGE = (45, 170)
 BIRTHYEAR_RANGE = (1970, 2010)
 
 

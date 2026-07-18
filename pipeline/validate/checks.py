@@ -7,6 +7,7 @@ caps_monotonic だけは new 側の dict を書き換えて前回値を維持す
 from __future__ import annotations
 
 from dataclasses import dataclass, field
+from typing import Any
 
 from pipeline.schemas import TEAM_LEAGUES, normalize_name_en
 
@@ -41,14 +42,21 @@ def check_dup_id(players: list[dict]) -> CheckResult:
 
 
 def check_dup_person(players_by_league: dict[str, list[dict]]) -> CheckResult:
-    """同一リーグ内で name_en+birthdate が両方非nullで重複 → エラー。"""
+    """同一リーグ内で name_en+birthdate が両方非nullで重複 → エラー。
+
+    P5-3: squad もキーに含める。age-grade は同一人物が複数squad（u18とu20等）に
+    同時選出されるのが実データで確認された正当なケースで、1 squad = 1レコードの
+    設計（10）のため squad が異なればエラーにしない（squad跨ぎの同一人物は
+    check_cross_person が merge candidate として提示する）。squad が null の
+    既存リーグは従来と同じ挙動。
+    """
     r = CheckResult()
     for league, players in players_by_league.items():
-        seen: dict[tuple[str, str], str] = {}
+        seen: dict[tuple[str, str, Any], str] = {}
         for p in players:
             if not p.get("name_en") or not p.get("birthdate"):
                 continue
-            key = (normalize_name_en(p["name_en"]), p["birthdate"])
+            key = (normalize_name_en(p["name_en"]), p["birthdate"], p.get("squad"))
             if key in seen:
                 r.errors.append(f"dup_person: {league} で {p['id']} と {seen[key]} が同一人物")
             else:

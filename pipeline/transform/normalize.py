@@ -242,6 +242,87 @@ def standing(rows_raw: list[dict], *, league: str, season: str) -> tuple[Optiona
     return model.model_dump(by_alias=True), warnings
 
 
+def _jrfu_is_minor(birthdate_raw: Optional[str], league: str) -> bool:
+    """生年月日から18歳未満(is_minor)を判定する（P5-3: 10のポリシー準拠）。
+
+    生年月日が取得できたレコードは実年齢で判定する（squadラベル(u17等)は選考時点の
+    区分に過ぎず、選手が既に成人している場合がある実データを確認済み。年齢で
+    判定するのが事実に忠実）。生年月日が欠落している場合は、00原則5（判断に迷ったら
+    保守的に）に従い league で仮判定する: age-grade（高校生年代を含みうる）は
+    True、sevens-national（実質的に成人主体の代表チーム）は False とする。
+    """
+    if isinstance(birthdate_raw, str):
+        m = re.fullmatch(r"(\d{4})/(\d{2})/(\d{2})", birthdate_raw.strip())
+        if m:
+            y, mo, d = (int(x) for x in m.groups())
+            try:
+                bd = datetime(y, mo, d)
+            except ValueError:
+                bd = None
+            if bd is not None:
+                now = datetime.now(JST).replace(tzinfo=None)
+                age = now.year - bd.year - ((now.month, now.day) < (bd.month, bd.day))
+                return age < 18
+    return league == "age-grade"
+
+
+def player_jrfu_squad(raw: dict, *, league: str) -> tuple[Optional[dict], list[str]]:
+    """JRFU（rugby-japan.jp）セブンズ/U代表 選手詳細ページ raw dict → Player dict（P5-3）。
+
+    raw は pipeline.scrape.jrfu._parse_detail() の出力に detail_id/squad/
+    _education（学校名 name_raw+type 判定済みリスト）/_career（所属名リスト）を
+    加えたもの。school_id は付与しない（P5-1同様、migrate_schools.py が別途解決）。
+    """
+    did = raw.get("detail_id")
+    squad = raw.get("squad")
+    if not did or not squad:
+        return None, ["jrfu squad: detail_id/squad 欠落のためスキップ"]
+
+    name_ja = raw.get("name_ja")
+    name_en = raw.get("name_en")
+    if not (name_en or name_ja):
+        return None, [f"jrfu_{squad}_{did}: name_en/name_ja が両方欠落のためスキップ"]
+    slug = f"{_slugify(name_en)}-{did}" if name_en else f"jrfu-{squad}-{did}"
+
+    now = _now()
+    education = [
+        {"name_raw": e["name_raw"], "type": e["type"],
+         "source_url": raw["detail_url"], "scraped_at": now}
+        for e in raw.get("_education", []) if e.get("name_raw") and e.get("type")
+    ]
+    career = [
+        {"team": c["team"], "source_url": raw["detail_url"]}
+        for c in raw.get("_career", []) if c.get("team")
+    ]
+
+    data = {
+        "id": f"jrfu_{squad}_{did}",
+        "source": "rugby-japan.jp",
+        "source_url": raw["detail_url"],
+        "scraped_at": now,
+        "name_en": name_en,
+        "name_ja": name_ja,
+        "slug": slug,
+        "position": raw.get("position"),
+        "team_id": None,
+        "league": league,
+        "height_cm": raw.get("height_cm"),
+        "weight_kg": raw.get("weight_kg"),
+        "birthdate": raw.get("birthdate"),
+        "nationality": ["JP"],  # 02: 全て日本代表(男女セブンズ/U代表)スコッドのため
+        "career": career,
+        "education": education,
+        "instagram": raw.get("instagram"),
+        "squad": squad,
+        "is_minor": _jrfu_is_minor(raw.get("birthdate"), league),
+    }
+    try:
+        model, w = Player.parse(data)
+    except ValidationError as exc:
+        return None, [f"jrfu_{squad}_{did}: Player 検証失敗 {exc.error_count()} 件のためスキップ"]
+    return model.model_dump(by_alias=True), w
+
+
 def match_jrfu(g: dict, *, home_slug: str, away_slug: str, game_id) -> tuple[Optional[dict], list[str]]:
     """JRFU（rugby-japan.jp）game.php の1試合分 dict → Match dict（02: 日本代表日程）。
 

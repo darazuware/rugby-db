@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "name_en_normalized": "koshi tsumura",
+    "birthdate": "2007-06-20",
+    "members": [
+      {
+        "league": "age-grade",
+        "id": "jrfu_u18_496082"
+      },
+      {
+        "league": "age-grade",
+        "id": "jrfu_u20_504960"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "yuga ichikawa",
+    "birthdate": "2007-06-04",
+    "members": [
+      {
+        "league": "age-grade",
+        "id": "jrfu_u18_496083"
+      },
+      {
+        "league": "age-grade",
+        "id": "jrfu_u20_505357"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "soshi kataoka",
+    "birthdate": "2007-10-12",
+    "members": [
+      {
+        "league": "age-grade",
+        "id": "jrfu_u18_496092"
+      },
+      {
+        "league": "age-grade",
+        "id": "jrfu_u20_504973"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "kohaku suda",
+    "birthdate": "2007-12-14",
+    "members": [
+      {
+        "league": "age-grade",
+        "id": "jrfu_u18_496096"
+      },
+      {
+        "league": "age-grade",
+        "id": "jrfu_u20_504977"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "tsunehidemichi fukuda",
+    "birthdate": "2007-05-17",
+    "members": [
+      {
+        "league": "age-grade",
+        "id": "jrfu_u18_496099"
+      },
+      {
+        "league": "age-grade",
+        "id": "jrfu_u20_504978"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "gentaro sakata",
+    "birthdate": "2008-01-23",
+    "members": [
+      {
+        "league": "age-grade",
+        "id": "jrfu_u18_496100"
+      },
+      {
+        "league": "age-grade",
+        "id": "jrfu_u20_505362"
+      }
+    ]
+  }
+]

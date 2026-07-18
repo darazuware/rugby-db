@@ -1,0 +1,4407 @@
+[
+  {
+    "id": "jrfu_u17_319611",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319611",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "TAKASHI YOSHIMURA",
+    "name_ja": "吉村隆志",
+    "name_kana": null,
+    "slug": "takashi-yoshimura-319611",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 176,
+    "weight_kg": 110,
+    "birthdate": "2002-10-26",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "本郷高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319611",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319612",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319612",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "MATSUI ASEI",
+    "name_ja": "松井亜星",
+    "name_kana": null,
+    "slug": "matsui-asei-319612",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 174,
+    "weight_kg": 110,
+    "birthdate": "2002-11-27",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "大阪桐蔭高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319612",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319613",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319613",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "KAMEYAMA SHOHTARO",
+    "name_ja": "亀山昇太郎",
+    "name_kana": null,
+    "slug": "kameyama-shohtaro-319613",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 176,
+    "weight_kg": 105,
+    "birthdate": "2002-09-17",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "茗溪学園高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319613",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319614",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319614",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "KEI HONDA",
+    "name_ja": "本田啓",
+    "name_kana": null,
+    "slug": "kei-honda-319614",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 171,
+    "weight_kg": 115,
+    "birthdate": "2002-10-09",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "東福岡高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319614",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319615",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319615",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Soutaro Matsunaga",
+    "name_ja": "松永壮太朗",
+    "name_kana": null,
+    "slug": "soutaro-matsunaga-319615",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 187,
+    "weight_kg": 75,
+    "birthdate": "2002-07-04",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "京都市立京都工学院高校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319615",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319616",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319616",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "TAISEI FUKUDA",
+    "name_ja": "福田大晟",
+    "name_kana": null,
+    "slug": "taisei-fukuda-319616",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 175,
+    "weight_kg": 88,
+    "birthdate": "2002-10-29",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "中部大学春日丘高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319616",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319617",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319617",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "DAITO TONE",
+    "name_ja": "登根大斗",
+    "name_kana": null,
+    "slug": "daito-tone-319617",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 163,
+    "weight_kg": 63,
+    "birthdate": "2002-07-03",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "奈良県立御所実業高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319617",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319618",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319618",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "KOUKI TERASHITA",
+    "name_ja": "寺下功起",
+    "name_kana": null,
+    "slug": "kouki-terashita-319618",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 174,
+    "weight_kg": 76,
+    "birthdate": "2002-05-09",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "東福岡高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319618",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319621",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319621",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Ryuji Kobayashi",
+    "name_ja": "小林龍司",
+    "name_kana": null,
+    "slug": "ryuji-kobayashi-319621",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 178,
+    "weight_kg": 85,
+    "birthdate": "2002-10-10",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "奈良県立御所実業高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319621",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319622",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319622",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "KANTA MURAO",
+    "name_ja": "村尾幹太",
+    "name_kana": null,
+    "slug": "kanta-murao-319622",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 168,
+    "weight_kg": 83,
+    "birthdate": "2002-07-09",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "東福岡高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319622",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319623",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319623",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "KEITO AOKI",
+    "name_ja": "青木恵斗",
+    "name_kana": null,
+    "slug": "keito-aoki-319623",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 186,
+    "weight_kg": 105,
+    "birthdate": "2002-06-14",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "桐蔭学園高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319623",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319624",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319624",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "KENJI NIGARA",
+    "name_ja": "二重賢治",
+    "name_kana": null,
+    "slug": "kenji-nigara-319624",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 178,
+    "weight_kg": 86,
+    "birthdate": "2002-07-24",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "天理高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319624",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319625",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319625",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "SOUMA YOSHIDA",
+    "name_ja": "吉田爽真",
+    "name_kana": null,
+    "slug": "souma-yoshida-319625",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 176,
+    "weight_kg": 88,
+    "birthdate": "2002-12-28",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "國學院大學栃木高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319625",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319626",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319626",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "KENJI SATOU",
+    "name_ja": "佐藤健次",
+    "name_kana": null,
+    "slug": "kenji-satou-319626",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 177,
+    "weight_kg": 93,
+    "birthdate": "2003-01-04",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "桐蔭学園高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319626",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319627",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319627",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "REN FUKUI",
+    "name_ja": "福井蓮",
+    "name_kana": null,
+    "slug": "ren-fukui-319627",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 172,
+    "weight_kg": 83,
+    "birthdate": "2002-09-04",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "東福岡高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319627",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319628",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319628",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "MASANORI MIYAO",
+    "name_ja": "宮尾昌典",
+    "name_kana": null,
+    "slug": "masanori-miyao-319628",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 162,
+    "weight_kg": 65,
+    "birthdate": "2002-06-01",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "京都成章高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319628",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319629",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319629",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "TAICHI KUGINO",
+    "name_ja": "久木野太一",
+    "name_kana": null,
+    "slug": "taichi-kugino-319629",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 176,
+    "weight_kg": 83,
+    "birthdate": "2002-10-21",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "福岡県立小倉高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319629",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319630",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319630",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "SHO EGUCHI",
+    "name_ja": "江口翔",
+    "name_kana": null,
+    "slug": "sho-eguchi-319630",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 170,
+    "weight_kg": 75,
+    "birthdate": "2002-10-21",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "東福岡高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319630",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319631",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319631",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "YOUTA AKIHAMA",
+    "name_ja": "秋濱悠太",
+    "name_kana": null,
+    "slug": "youta-akihama-319631",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 176,
+    "weight_kg": 80,
+    "birthdate": "2002-05-16",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "桐蔭学園高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319631",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319632",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319632",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "KOUHEI YASUDA",
+    "name_ja": "安田昂平",
+    "name_kana": null,
+    "slug": "kouhei-yasuda-319632",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 180,
+    "weight_kg": 74,
+    "birthdate": "2002-07-08",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "奈良県立御所実業高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319632",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319633",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319633",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "KOUHEI SAKAMOTO",
+    "name_ja": "坂本公平",
+    "name_kana": null,
+    "slug": "kouhei-sakamoto-319633",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 178,
+    "weight_kg": 80,
+    "birthdate": "2002-07-28",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "東福岡高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319633",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u17_319634",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u17/member/detail/319634",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "RYO YOSHINO",
+    "name_ja": "吉野遼",
+    "name_kana": null,
+    "slug": "ryo-yoshino-319634",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 176,
+    "weight_kg": 73,
+    "birthdate": "2002-04-10",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "東福岡高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u17/member/detail/319634",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u17",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496077",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496077",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Atsushi KATSUMATA",
+    "name_ja": "勝又篤",
+    "name_kana": null,
+    "slug": "atsushi-katsumata-496077",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 172,
+    "weight_kg": 95,
+    "birthdate": "2007-06-06",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "東福岡高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496077",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496078",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496078",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Hayato TANABE",
+    "name_ja": "田邊隼翔",
+    "name_kana": null,
+    "slug": "hayato-tanabe-496078",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 173,
+    "weight_kg": 99,
+    "birthdate": "2007-05-15",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "桐蔭学園高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496078",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496079",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496079",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Haruya FURUSAWA",
+    "name_ja": "古澤晴也",
+    "name_kana": null,
+    "slug": "haruya-furusawa-496079",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 177,
+    "weight_kg": 110,
+    "birthdate": "2008-03-25",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "常翔学園高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496079",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496080",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496080",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Akito YOSHI",
+    "name_ja": "喜瑛人",
+    "name_kana": null,
+    "slug": "akito-yoshi-496080",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 172,
+    "weight_kg": 100,
+    "birthdate": "2007-12-15",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "桐蔭学園高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496080",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496081",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496081",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Haruta KAKUHOU",
+    "name_ja": "角方温太",
+    "name_kana": null,
+    "slug": "haruta-kakuhou-496081",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 178,
+    "weight_kg": 105,
+    "birthdate": "2007-05-25",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "東海大学付属大阪仰星高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496081",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496082",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496082",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Koshi TSUMURA",
+    "name_ja": "津村晃志",
+    "name_kana": null,
+    "slug": "koshi-tsumura-496082",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 176,
+    "weight_kg": 96,
+    "birthdate": "2007-06-20",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "奈良県立御所実業高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496082",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496083",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496083",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Yuga ICHIKAWA",
+    "name_ja": "市川結雅",
+    "name_kana": null,
+    "slug": "yuga-ichikawa-496083",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 191,
+    "weight_kg": 105,
+    "birthdate": "2007-06-04",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "名古屋高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496083",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496084",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496084",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Ryuki SASABE",
+    "name_ja": "笹部隆毅",
+    "name_kana": null,
+    "slug": "ryuki-sasabe-496084",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 189,
+    "weight_kg": 100,
+    "birthdate": "2007-05-08",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "東海大学付属相模高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496084",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496085",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496085",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Seri TOMARI",
+    "name_ja": "泊晴理",
+    "name_kana": null,
+    "slug": "seri-tomari-496085",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 192,
+    "weight_kg": 105,
+    "birthdate": "2007-11-07",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "大阪桐蔭高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496085",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496086",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496086",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Maika DAVETA",
+    "name_ja": "マイカ・ダヴェタ",
+    "name_kana": null,
+    "slug": "maika-daveta-496086",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 192,
+    "weight_kg": 98,
+    "birthdate": "2007-04-10",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "開志国際高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496086",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496087",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496087",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Shoichi SUDO",
+    "name_ja": "須藤蒋一",
+    "name_kana": null,
+    "slug": "shoichi-sudo-496087",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 176,
+    "weight_kg": 102,
+    "birthdate": "2007-08-08",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "東福岡高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496087",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496088",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496088",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Yuki MINAMIKAWA",
+    "name_ja": "南川祐樹",
+    "name_kana": null,
+    "slug": "yuki-minamikawa-496088",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 183,
+    "weight_kg": 92,
+    "birthdate": "2007-07-15",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "京都成章高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496088",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496089",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496089",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Teppei YAMADA",
+    "name_ja": "山田哲平",
+    "name_kana": null,
+    "slug": "teppei-yamada-496089",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 182,
+    "weight_kg": 96,
+    "birthdate": "2007-06-02",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "佐賀県立佐賀工業高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496089",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496090",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496090",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Loketi BRUCENEOL",
+    "name_ja": "ロケティ・ブルースネオル",
+    "name_kana": null,
+    "slug": "loketi-bruceneol-496090",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 184,
+    "weight_kg": 108,
+    "birthdate": "2008-01-21",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "目黒学院高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496090",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496091",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496091",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Shoya ARAKI",
+    "name_ja": "荒木奨陽",
+    "name_kana": null,
+    "slug": "shoya-araki-496091",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 172,
+    "weight_kg": 72,
+    "birthdate": "2007-06-02",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "中部大学春日丘高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496091",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496092",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496092",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Soshi KATAOKA",
+    "name_ja": "片岡湊志",
+    "name_kana": null,
+    "slug": "soshi-kataoka-496092",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 170,
+    "weight_kg": 65,
+    "birthdate": "2007-10-12",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "京都市立京都工学院高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496092",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496093",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496093",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Naohiro MOTOHASHI",
+    "name_ja": "元橋直海",
+    "name_kana": null,
+    "slug": "naohiro-motohashi-496093",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 178,
+    "weight_kg": 81,
+    "birthdate": "2008-02-12",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "常翔学園高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496093",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496094",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496094",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Yutaro SUGIYAMA",
+    "name_ja": "杉山祐太朗",
+    "name_kana": null,
+    "slug": "yutaro-sugiyama-496094",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 174,
+    "weight_kg": 79,
+    "birthdate": "2007-08-12",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "京都市立京都工学院高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496094",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496095",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496095",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Yusei YAMORI",
+    "name_ja": "矢守勇生",
+    "name_kana": null,
+    "slug": "yusei-yamori-496095",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 179,
+    "weight_kg": 86,
+    "birthdate": "2008-01-23",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "大阪桐蔭高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496095",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496096",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496096",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Kohaku SUDA",
+    "name_ja": "須田琥珀",
+    "name_kana": null,
+    "slug": "kohaku-suda-496096",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 172,
+    "weight_kg": 78,
+    "birthdate": "2007-12-14",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "大阪桐蔭高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496096",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496097",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496097",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Soji TESAKI",
+    "name_ja": "手崎颯志",
+    "name_kana": null,
+    "slug": "soji-tesaki-496097",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 176,
+    "weight_kg": 84,
+    "birthdate": "2007-09-21",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "大阪桐蔭高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496097",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496098",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496098",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Sora HAYASHI",
+    "name_ja": "林宙",
+    "name_kana": null,
+    "slug": "sora-hayashi-496098",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 181,
+    "weight_kg": 95,
+    "birthdate": "2007-05-04",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "京都市立京都工学院高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496098",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496099",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496099",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Tsunehidemichi FUKUDA",
+    "name_ja": "福田恒秀道",
+    "name_kana": null,
+    "slug": "tsunehidemichi-fukuda-496099",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 171,
+    "weight_kg": 76,
+    "birthdate": "2007-05-17",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "國學院大學栃木高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496099",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496100",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496100",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Gentaro SAKATA",
+    "name_ja": "坂田弦太郎",
+    "name_kana": null,
+    "slug": "gentaro-sakata-496100",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 172,
+    "weight_kg": 72,
+    "birthdate": "2008-01-23",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "天理高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496100",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496101",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496101",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Taigo TAKANASHI",
+    "name_ja": "高梨太吾",
+    "name_kana": null,
+    "slug": "taigo-takanashi-496101",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 175,
+    "weight_kg": 80,
+    "birthdate": "2008-01-10",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "流通経済大学柏高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496101",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u18_496102",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u18/member/detail/496102",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Ryuta HIRAO",
+    "name_ja": "平尾龍太",
+    "name_kana": null,
+    "slug": "ryuta-hirao-496102",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 168,
+    "weight_kg": 75,
+    "birthdate": "2007-10-27",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "東福岡高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u18/member/detail/496102",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u18",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504957",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504957",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Keigo ARUGA",
+    "name_ja": "有賀啓悟",
+    "name_kana": null,
+    "slug": "keigo-aruga-504957",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 171,
+    "weight_kg": 102,
+    "birthdate": "2006-07-18",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "帝京大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504957",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504958",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504958",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Songha RI",
+    "name_ja": "李星河",
+    "name_kana": null,
+    "slug": "songha-ri-504958",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 178,
+    "weight_kg": 103,
+    "birthdate": "2006-02-28",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "同志社大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504958",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504959",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504959",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Seia KAWANAI",
+    "name_ja": "河内晟歩",
+    "name_kana": null,
+    "slug": "seia-kawanai-504959",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 177,
+    "weight_kg": 98,
+    "birthdate": "2006-11-23",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "関西学院大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504959",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504960",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504960",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Koshi TSUMURA",
+    "name_ja": "津村晃志",
+    "name_kana": null,
+    "slug": "koshi-tsumura-504960",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 176,
+    "weight_kg": 96,
+    "birthdate": "2007-06-20",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "帝京大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504960",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504961",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504961",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Sota MIURA",
+    "name_ja": "三浦颯太",
+    "name_kana": null,
+    "slug": "sota-miura-504961",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 177,
+    "weight_kg": 102,
+    "birthdate": "2006-10-02",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "帝京大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504961",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504962",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504962",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Kanta KAWAGOE",
+    "name_ja": "川越寛太",
+    "name_kana": null,
+    "slug": "kanta-kawagoe-504962",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 181,
+    "weight_kg": 110,
+    "birthdate": "2006-09-22",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "関西学院大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504962",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504963",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504963",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Haruto SASAKI",
+    "name_ja": "佐々木大斗",
+    "name_kana": null,
+    "slug": "haruto-sasaki-504963",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 176,
+    "weight_kg": 111,
+    "birthdate": "2006-05-02",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "明治大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504963",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504964",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504964",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Keitatsu MOTOYAMA",
+    "name_ja": "本山佳龍",
+    "name_kana": null,
+    "slug": "keitatsu-motoyama-504964",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 188,
+    "weight_kg": 113,
+    "birthdate": "2006-12-26",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [
+      {
+        "team": "静岡ブルーレヴズ",
+        "from": null,
+        "to": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504964"
+      }
+    ],
+    "season_stats": null,
+    "education": [],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504965",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504965",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Kotaro KUMAGAE",
+    "name_ja": "熊谷鼓太郎",
+    "name_kana": null,
+    "slug": "kotaro-kumagae-504965",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 196,
+    "weight_kg": 105,
+    "birthdate": "2006-10-30",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "明治大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504965",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504966",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504966",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Masato HYAKUTAKE",
+    "name_ja": "百武聖仁",
+    "name_kana": null,
+    "slug": "masato-hyakutake-504966",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 187,
+    "weight_kg": 108,
+    "birthdate": "2006-04-24",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "明治大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504966",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504967",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504967",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Masato YANASE",
+    "name_ja": "梁瀬将斗",
+    "name_kana": null,
+    "slug": "masato-yanase-504967",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 184,
+    "weight_kg": 102,
+    "birthdate": "2006-06-28",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "関西学院大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504967",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504968",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504968",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Taiga YAMAZAKI",
+    "name_ja": "山崎太雅",
+    "name_kana": null,
+    "slug": "taiga-yamazaki-504968",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 189,
+    "weight_kg": 103,
+    "birthdate": "2006-10-05",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "慶應義塾大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504968",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504969",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504969",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Kise SIN",
+    "name_ja": "申驥世",
+    "name_kana": null,
+    "slug": "kise-sin-504969",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 175,
+    "weight_kg": 93,
+    "birthdate": "2006-05-17",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "慶應義塾大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504969",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504970",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504970",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Riku FUJIKUBO",
+    "name_ja": "藤久保陸",
+    "name_kana": null,
+    "slug": "riku-fujikubo-504970",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 181,
+    "weight_kg": 100,
+    "birthdate": "2006-07-17",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "帝京大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504970",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504971",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504971",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Akihiro TSUBONE",
+    "name_ja": "坪根章晃",
+    "name_kana": null,
+    "slug": "akihiro-tsubone-504971",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 185,
+    "weight_kg": 105,
+    "birthdate": "2006-03-14",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "帝京大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504971",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504973",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504973",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Soshi KATAOKA",
+    "name_ja": "片岡湊志",
+    "name_kana": null,
+    "slug": "soshi-kataoka-504973",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 172,
+    "weight_kg": 70,
+    "birthdate": "2007-10-12",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "立命館大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504973",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504974",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504974",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Yuki KOBAYASHI",
+    "name_ja": "小林祐貴",
+    "name_kana": null,
+    "slug": "yuki-kobayashi-504974",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 168,
+    "weight_kg": 75,
+    "birthdate": "2007-02-19",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "慶應義塾大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504974",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504975",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504975",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Takeru NIWA",
+    "name_ja": "丹羽雄丸",
+    "name_kana": null,
+    "slug": "takeru-niwa-504975",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 172,
+    "weight_kg": 75,
+    "birthdate": "2006-10-01",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "同志社大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504975",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504976",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504976",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Rio IWAKURA",
+    "name_ja": "岩倉吏臣",
+    "name_kana": null,
+    "slug": "rio-iwakura-504976",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 177,
+    "weight_kg": 90,
+    "birthdate": "2006-08-05",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "山梨学院大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504976",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504977",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504977",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Kohaku SUDA",
+    "name_ja": "須田琥珀",
+    "name_kana": null,
+    "slug": "kohaku-suda-504977",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 172,
+    "weight_kg": 78,
+    "birthdate": "2007-12-14",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "法政大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504977",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504978",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504978",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Tsunehidemichi FUKUDA",
+    "name_ja": "福田恒秀道",
+    "name_kana": null,
+    "slug": "tsunehidemichi-fukuda-504978",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 171,
+    "weight_kg": 76,
+    "birthdate": "2007-05-17",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "帝京大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504978",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504979",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504979",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Shinnosuke UCHIDA",
+    "name_ja": "内田慎之甫",
+    "name_kana": null,
+    "slug": "shinnosuke-uchida-504979",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 167,
+    "weight_kg": 73,
+    "birthdate": "2006-07-06",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "筑波大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504979",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504980",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504980",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Isa FUKADA",
+    "name_ja": "深田衣咲",
+    "name_kana": null,
+    "slug": "isa-fukada-504980",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 172,
+    "weight_kg": 80,
+    "birthdate": "2006-12-12",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "筑波大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504980",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_504981",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/504981",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Ryuto KOGA",
+    "name_ja": "古賀龍人",
+    "name_kana": null,
+    "slug": "ryuto-koga-504981",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 184,
+    "weight_kg": 86,
+    "birthdate": "2006-07-17",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "明治大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/504981",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_505357",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/505357",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Yuga ICHIKAWA",
+    "name_ja": "市川結雅",
+    "name_kana": null,
+    "slug": "yuga-ichikawa-505357",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 190,
+    "weight_kg": 105,
+    "birthdate": "2007-06-04",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "青山学院大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/505357",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_505358",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/505358",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Yuta OTABE",
+    "name_ja": "小田部祐太",
+    "name_kana": null,
+    "slug": "yuta-otabe-505358",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 176,
+    "weight_kg": 88,
+    "birthdate": "2008-04-01",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "中央大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/505358",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_505359",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/505359",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Chikara FUKUDA",
+    "name_ja": "福田周平",
+    "name_kana": null,
+    "slug": "chikara-fukuda-505359",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 178,
+    "weight_kg": 100,
+    "birthdate": "2006-11-28",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "関西学院大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/505359",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_505360",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/505360",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Keigo SATO",
+    "name_ja": "佐藤啓護",
+    "name_kana": null,
+    "slug": "keigo-sato-505360",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 169,
+    "weight_kg": 68,
+    "birthdate": "2008-02-24",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "中央大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/505360",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_505361",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/505361",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Yura MORIOKA",
+    "name_ja": "森岡悠良",
+    "name_kana": null,
+    "slug": "yura-morioka-505361",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 178,
+    "weight_kg": 81,
+    "birthdate": "2007-06-16",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "青山学院大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/505361",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u20_505362",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u20/member/detail/505362",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Gentaro SAKATA",
+    "name_ja": "坂田弦太郎",
+    "name_kana": null,
+    "slug": "gentaro-sakata-505362",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 172,
+    "weight_kg": 72,
+    "birthdate": "2008-01-23",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "近畿大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u20/member/detail/505362",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u20",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497477",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497477",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Sojiro OTSUKA",
+    "name_ja": "大塚壮二郎",
+    "name_kana": null,
+    "slug": "sojiro-otsuka-497477",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 178,
+    "weight_kg": 110,
+    "birthdate": "2004-07-05",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "関西学院大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497477",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497478",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497478",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Daisuke TASHIRO",
+    "name_ja": "田代大介",
+    "name_kana": null,
+    "slug": "daisuke-tashiro-497478",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 180,
+    "weight_kg": 109,
+    "birthdate": "2004-11-27",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "明治大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497478",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497479",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497479",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Motonari YAMASHITA",
+    "name_ja": "山下源也",
+    "name_kana": null,
+    "slug": "motonari-yamashita-497479",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 175,
+    "weight_kg": 105,
+    "birthdate": "2006-03-18",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "東洋大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497479",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497480",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497480",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Shun ARAKAWA",
+    "name_ja": "荒川駿",
+    "name_kana": null,
+    "slug": "shun-arakawa-497480",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 176,
+    "weight_kg": 102,
+    "birthdate": "2004-10-01",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "同志社大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497480",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497481",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497481",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Kyoya TANAKA",
+    "name_ja": "田中京也",
+    "name_kana": null,
+    "slug": "kyoya-tanaka-497481",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 175,
+    "weight_kg": 100,
+    "birthdate": "2005-09-14",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "立命館大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497481",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497482",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497482",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Shun MARUO",
+    "name_ja": "丸尾瞬",
+    "name_kana": null,
+    "slug": "shun-maruo-497482",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 173,
+    "weight_kg": 96,
+    "birthdate": "2004-04-13",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "関東学院大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497482",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497483",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497483",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Yoshikazu OKADA",
+    "name_ja": "岡田恭和",
+    "name_kana": null,
+    "slug": "yoshikazu-okada-497483",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 182,
+    "weight_kg": 110,
+    "birthdate": "2005-10-18",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "東洋大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497483",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497484",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497484",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Fuga SANAKI",
+    "name_ja": "佐名木風雅",
+    "name_kana": null,
+    "slug": "fuga-sanaki-497484",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 183,
+    "weight_kg": 115,
+    "birthdate": "2005-12-24",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "京都産業大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497484",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497485",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497485",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Yuta HATTA",
+    "name_ja": "八田優太",
+    "name_kana": null,
+    "slug": "yuta-hatta-497485",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 185,
+    "weight_kg": 115,
+    "birthdate": "2004-04-05",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "京都産業大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497485",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497486",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497486",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Shuntaro ISOBE",
+    "name_ja": "磯部俊太朗",
+    "name_kana": null,
+    "slug": "shuntaro-isobe-497486",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 190,
+    "weight_kg": 108,
+    "birthdate": "2004-07-14",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "筑波大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497486",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497487",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497487",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Kaoru OKADA",
+    "name_ja": "岡田薫瑠",
+    "name_kana": null,
+    "slug": "kaoru-okada-497487",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 185,
+    "weight_kg": 100,
+    "birthdate": "2004-07-26",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "関西大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497487",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497488",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497488",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Taiga KURAKAKE",
+    "name_ja": "倉掛太雅",
+    "name_kana": null,
+    "slug": "taiga-kurakake-497488",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 190,
+    "weight_kg": 100,
+    "birthdate": "2005-09-29",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "明治大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497488",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497489",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497489",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Kota YAMAUCHI",
+    "name_ja": "山内滉太",
+    "name_kana": null,
+    "slug": "kota-yamauchi-497489",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 191,
+    "weight_kg": 108,
+    "birthdate": "2004-11-02",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "法政大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497489",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497490",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497490",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Chuka ISHIBASHI",
+    "name_ja": "石橋チューカ",
+    "name_kana": null,
+    "slug": "chuka-ishibashi-497490",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 190,
+    "weight_kg": 105,
+    "birthdate": "2004-04-10",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "京都産業大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497490",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497491",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497491",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Manato NAKAMORI",
+    "name_ja": "中森真翔",
+    "name_kana": null,
+    "slug": "manato-nakamori-497491",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 190,
+    "weight_kg": 93,
+    "birthdate": "2005-12-24",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "筑波大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497491",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497492",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497492",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Tensei MATSUZAKI",
+    "name_ja": "松崎天晴",
+    "name_kana": null,
+    "slug": "tensei-matsuzaki-497492",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 175,
+    "weight_kg": 104,
+    "birthdate": "2005-12-04",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "青山学院大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497492",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497493",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497493",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Kanta MIURA",
+    "name_ja": "三浦幹太",
+    "name_kana": null,
+    "slug": "kanta-miura-497493",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 184,
+    "weight_kg": 91,
+    "birthdate": "2004-07-17",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "法政大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497493",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497495",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497495",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Rikuto NAKAYA",
+    "name_ja": "中谷陸人",
+    "name_kana": null,
+    "slug": "rikuto-nakaya-497495",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 182,
+    "weight_kg": 105,
+    "birthdate": "2005-04-15",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "同志社大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497495",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497497",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497497",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Ryoku MASUO",
+    "name_ja": "舛尾緑",
+    "name_kana": null,
+    "slug": "ryoku-masuo-497497",
+    "position": "FW",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 186,
+    "weight_kg": 109,
+    "birthdate": "2004-10-19",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "立正大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497497",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497501",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497501",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Akira IKUTA",
+    "name_ja": "生田旭",
+    "name_kana": null,
+    "slug": "akira-ikuta-497501",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 164,
+    "weight_kg": 72,
+    "birthdate": "2006-01-21",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "東洋大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497501",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497502",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497502",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Kanta HIROSE",
+    "name_ja": "廣瀬幹太",
+    "name_kana": null,
+    "slug": "kanta-hirose-497502",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 182,
+    "weight_kg": 77,
+    "birthdate": "2004-05-07",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "福岡工業大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497502",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497503",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497503",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Haruto WATANABE",
+    "name_ja": "渡邊晴斗",
+    "name_kana": null,
+    "slug": "haruto-watanabe-497503",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 171,
+    "weight_kg": 76,
+    "birthdate": "2004-12-10",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "近畿大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497503",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497504",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497504",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Ryunosuke ITO",
+    "name_ja": "伊藤龍之介",
+    "name_kana": null,
+    "slug": "ryunosuke-ito-497504",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 172,
+    "weight_kg": 77,
+    "birthdate": "2004-11-20",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "明治大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497504",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497505",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497505",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Joe OHTSURU",
+    "name_ja": "大鶴誠",
+    "name_kana": null,
+    "slug": "joe-ohtsuru-497505",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 176,
+    "weight_kg": 90,
+    "birthdate": "2004-06-05",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "京都大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497505",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497506",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497506",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Daiki WATANABE",
+    "name_ja": "渡邉大樹",
+    "name_kana": null,
+    "slug": "daiki-watanabe-497506",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 182,
+    "weight_kg": 87,
+    "birthdate": "2005-09-11",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "立正大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497506",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497507",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497507",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Futo SATO",
+    "name_ja": "佐藤楓斗",
+    "name_kana": null,
+    "slug": "futo-sato-497507",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 178,
+    "weight_kg": 88,
+    "birthdate": "2005-11-08",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "帝京大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497507",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497508",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497508",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Sakuya NAKAO",
+    "name_ja": "中尾朔也",
+    "name_kana": null,
+    "slug": "sakuya-nakao-497508",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 182,
+    "weight_kg": 90,
+    "birthdate": "2004-09-16",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "福岡工業大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497508",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497509",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497509",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Seita YAMADA",
+    "name_ja": "山田晟大",
+    "name_kana": null,
+    "slug": "seita-yamada-497509",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 178,
+    "weight_kg": 85,
+    "birthdate": "2006-01-02",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "天理大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497509",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497510",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497510",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Chisu LEE",
+    "name_ja": "李智寿",
+    "name_kana": null,
+    "slug": "chisu-lee-497510",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 180,
+    "weight_kg": 82,
+    "birthdate": "2004-11-06",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "朝鮮大学校",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497510",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497511",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497511",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Kohaku EBISAWA",
+    "name_ja": "海老澤琥珀",
+    "name_kana": null,
+    "slug": "kohaku-ebisawa-497511",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 173,
+    "weight_kg": 82,
+    "birthdate": "2004-10-27",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "明治大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497511",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497512",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497512",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Keishu OTA",
+    "name_ja": "太田啓嵩",
+    "name_kana": null,
+    "slug": "keishu-ota-497512",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 182,
+    "weight_kg": 80,
+    "birthdate": "2005-05-14",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "近畿大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497512",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497513",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497513",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Mirai KISHI",
+    "name_ja": "岸未来",
+    "name_kana": null,
+    "slug": "mirai-kishi-497513",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 180,
+    "weight_kg": 88,
+    "birthdate": "2004-12-08",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "近畿大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497513",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497514",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497514",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Eito SHIRAI",
+    "name_ja": "白井瑛人",
+    "name_kana": null,
+    "slug": "eito-shirai-497514",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 178,
+    "weight_kg": 83,
+    "birthdate": "2005-10-22",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "明治大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497514",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497515",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497515",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Jingo TAKENOSHITA",
+    "name_ja": "竹之下仁吾",
+    "name_kana": null,
+    "slug": "jingo-takenoshita-497515",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 180,
+    "weight_kg": 86,
+    "birthdate": "2004-06-11",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "明治大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497515",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_u23_497516",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/u23/member/detail/497516",
+    "scraped_at": "2026-07-18T20:10:55+09:00",
+    "name_en": "Tasuku MASUYAMA",
+    "name_ja": "増山将",
+    "name_kana": null,
+    "slug": "tasuku-masuyama-497516",
+    "position": "BK",
+    "team_id": null,
+    "league": "age-grade",
+    "height_cm": 177,
+    "weight_kg": 82,
+    "birthdate": "2004-04-14",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "筑波大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/u23/member/detail/497516",
+        "scraped_at": "2026-07-18T20:10:55+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "u23",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  }
+]

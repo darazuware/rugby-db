@@ -1,0 +1,689 @@
+{
+  "league": "age-grade",
+  "signings": [
+    {
+      "id": "jrfu_u17_319611",
+      "name_en": "TAKASHI YOSHIMURA",
+      "name_ja": "吉村隆志",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319612",
+      "name_en": "MATSUI ASEI",
+      "name_ja": "松井亜星",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319613",
+      "name_en": "KAMEYAMA SHOHTARO",
+      "name_ja": "亀山昇太郎",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319614",
+      "name_en": "KEI HONDA",
+      "name_ja": "本田啓",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319615",
+      "name_en": "Soutaro Matsunaga",
+      "name_ja": "松永壮太朗",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319616",
+      "name_en": "TAISEI FUKUDA",
+      "name_ja": "福田大晟",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319617",
+      "name_en": "DAITO TONE",
+      "name_ja": "登根大斗",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319618",
+      "name_en": "KOUKI TERASHITA",
+      "name_ja": "寺下功起",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319621",
+      "name_en": "Ryuji Kobayashi",
+      "name_ja": "小林龍司",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319622",
+      "name_en": "KANTA MURAO",
+      "name_ja": "村尾幹太",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319623",
+      "name_en": "KEITO AOKI",
+      "name_ja": "青木恵斗",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319624",
+      "name_en": "KENJI NIGARA",
+      "name_ja": "二重賢治",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319625",
+      "name_en": "SOUMA YOSHIDA",
+      "name_ja": "吉田爽真",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319626",
+      "name_en": "KENJI SATOU",
+      "name_ja": "佐藤健次",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319627",
+      "name_en": "REN FUKUI",
+      "name_ja": "福井蓮",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319628",
+      "name_en": "MASANORI MIYAO",
+      "name_ja": "宮尾昌典",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319629",
+      "name_en": "TAICHI KUGINO",
+      "name_ja": "久木野太一",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319630",
+      "name_en": "SHO EGUCHI",
+      "name_ja": "江口翔",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319631",
+      "name_en": "YOUTA AKIHAMA",
+      "name_ja": "秋濱悠太",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319632",
+      "name_en": "KOUHEI YASUDA",
+      "name_ja": "安田昂平",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319633",
+      "name_en": "KOUHEI SAKAMOTO",
+      "name_ja": "坂本公平",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u17_319634",
+      "name_en": "RYO YOSHINO",
+      "name_ja": "吉野遼",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496077",
+      "name_en": "Atsushi KATSUMATA",
+      "name_ja": "勝又篤",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496078",
+      "name_en": "Hayato TANABE",
+      "name_ja": "田邊隼翔",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496079",
+      "name_en": "Haruya FURUSAWA",
+      "name_ja": "古澤晴也",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496080",
+      "name_en": "Akito YOSHI",
+      "name_ja": "喜瑛人",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496081",
+      "name_en": "Haruta KAKUHOU",
+      "name_ja": "角方温太",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496082",
+      "name_en": "Koshi TSUMURA",
+      "name_ja": "津村晃志",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496083",
+      "name_en": "Yuga ICHIKAWA",
+      "name_ja": "市川結雅",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496084",
+      "name_en": "Ryuki SASABE",
+      "name_ja": "笹部隆毅",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496085",
+      "name_en": "Seri TOMARI",
+      "name_ja": "泊晴理",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496086",
+      "name_en": "Maika DAVETA",
+      "name_ja": "マイカ・ダヴェタ",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496087",
+      "name_en": "Shoichi SUDO",
+      "name_ja": "須藤蒋一",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496088",
+      "name_en": "Yuki MINAMIKAWA",
+      "name_ja": "南川祐樹",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496089",
+      "name_en": "Teppei YAMADA",
+      "name_ja": "山田哲平",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496090",
+      "name_en": "Loketi BRUCENEOL",
+      "name_ja": "ロケティ・ブルースネオル",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496091",
+      "name_en": "Shoya ARAKI",
+      "name_ja": "荒木奨陽",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496092",
+      "name_en": "Soshi KATAOKA",
+      "name_ja": "片岡湊志",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496093",
+      "name_en": "Naohiro MOTOHASHI",
+      "name_ja": "元橋直海",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496094",
+      "name_en": "Yutaro SUGIYAMA",
+      "name_ja": "杉山祐太朗",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496095",
+      "name_en": "Yusei YAMORI",
+      "name_ja": "矢守勇生",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496096",
+      "name_en": "Kohaku SUDA",
+      "name_ja": "須田琥珀",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496097",
+      "name_en": "Soji TESAKI",
+      "name_ja": "手崎颯志",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496098",
+      "name_en": "Sora HAYASHI",
+      "name_ja": "林宙",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496099",
+      "name_en": "Tsunehidemichi FUKUDA",
+      "name_ja": "福田恒秀道",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496100",
+      "name_en": "Gentaro SAKATA",
+      "name_ja": "坂田弦太郎",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496101",
+      "name_en": "Taigo TAKANASHI",
+      "name_ja": "高梨太吾",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u18_496102",
+      "name_en": "Ryuta HIRAO",
+      "name_ja": "平尾龍太",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504957",
+      "name_en": "Keigo ARUGA",
+      "name_ja": "有賀啓悟",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504958",
+      "name_en": "Songha RI",
+      "name_ja": "李星河",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504959",
+      "name_en": "Seia KAWANAI",
+      "name_ja": "河内晟歩",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504960",
+      "name_en": "Koshi TSUMURA",
+      "name_ja": "津村晃志",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504961",
+      "name_en": "Sota MIURA",
+      "name_ja": "三浦颯太",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504962",
+      "name_en": "Kanta KAWAGOE",
+      "name_ja": "川越寛太",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504963",
+      "name_en": "Haruto SASAKI",
+      "name_ja": "佐々木大斗",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504964",
+      "name_en": "Keitatsu MOTOYAMA",
+      "name_ja": "本山佳龍",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504965",
+      "name_en": "Kotaro KUMAGAE",
+      "name_ja": "熊谷鼓太郎",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504966",
+      "name_en": "Masato HYAKUTAKE",
+      "name_ja": "百武聖仁",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504967",
+      "name_en": "Masato YANASE",
+      "name_ja": "梁瀬将斗",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504968",
+      "name_en": "Taiga YAMAZAKI",
+      "name_ja": "山崎太雅",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504969",
+      "name_en": "Kise SIN",
+      "name_ja": "申驥世",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504970",
+      "name_en": "Riku FUJIKUBO",
+      "name_ja": "藤久保陸",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504971",
+      "name_en": "Akihiro TSUBONE",
+      "name_ja": "坪根章晃",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504973",
+      "name_en": "Soshi KATAOKA",
+      "name_ja": "片岡湊志",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504974",
+      "name_en": "Yuki KOBAYASHI",
+      "name_ja": "小林祐貴",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504975",
+      "name_en": "Takeru NIWA",
+      "name_ja": "丹羽雄丸",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504976",
+      "name_en": "Rio IWAKURA",
+      "name_ja": "岩倉吏臣",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504977",
+      "name_en": "Kohaku SUDA",
+      "name_ja": "須田琥珀",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504978",
+      "name_en": "Tsunehidemichi FUKUDA",
+      "name_ja": "福田恒秀道",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504979",
+      "name_en": "Shinnosuke UCHIDA",
+      "name_ja": "内田慎之甫",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504980",
+      "name_en": "Isa FUKADA",
+      "name_ja": "深田衣咲",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_504981",
+      "name_en": "Ryuto KOGA",
+      "name_ja": "古賀龍人",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_505357",
+      "name_en": "Yuga ICHIKAWA",
+      "name_ja": "市川結雅",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_505358",
+      "name_en": "Yuta OTABE",
+      "name_ja": "小田部祐太",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_505359",
+      "name_en": "Chikara FUKUDA",
+      "name_ja": "福田周平",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_505360",
+      "name_en": "Keigo SATO",
+      "name_ja": "佐藤啓護",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_505361",
+      "name_en": "Yura MORIOKA",
+      "name_ja": "森岡悠良",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u20_505362",
+      "name_en": "Gentaro SAKATA",
+      "name_ja": "坂田弦太郎",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497477",
+      "name_en": "Sojiro OTSUKA",
+      "name_ja": "大塚壮二郎",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497478",
+      "name_en": "Daisuke TASHIRO",
+      "name_ja": "田代大介",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497479",
+      "name_en": "Motonari YAMASHITA",
+      "name_ja": "山下源也",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497480",
+      "name_en": "Shun ARAKAWA",
+      "name_ja": "荒川駿",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497481",
+      "name_en": "Kyoya TANAKA",
+      "name_ja": "田中京也",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497482",
+      "name_en": "Shun MARUO",
+      "name_ja": "丸尾瞬",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497483",
+      "name_en": "Yoshikazu OKADA",
+      "name_ja": "岡田恭和",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497484",
+      "name_en": "Fuga SANAKI",
+      "name_ja": "佐名木風雅",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497485",
+      "name_en": "Yuta HATTA",
+      "name_ja": "八田優太",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497486",
+      "name_en": "Shuntaro ISOBE",
+      "name_ja": "磯部俊太朗",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497487",
+      "name_en": "Kaoru OKADA",
+      "name_ja": "岡田薫瑠",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497488",
+      "name_en": "Taiga KURAKAKE",
+      "name_ja": "倉掛太雅",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497489",
+      "name_en": "Kota YAMAUCHI",
+      "name_ja": "山内滉太",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497490",
+      "name_en": "Chuka ISHIBASHI",
+      "name_ja": "石橋チューカ",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497491",
+      "name_en": "Manato NAKAMORI",
+      "name_ja": "中森真翔",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497492",
+      "name_en": "Tensei MATSUZAKI",
+      "name_ja": "松崎天晴",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497493",
+      "name_en": "Kanta MIURA",
+      "name_ja": "三浦幹太",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497495",
+      "name_en": "Rikuto NAKAYA",
+      "name_ja": "中谷陸人",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497497",
+      "name_en": "Ryoku MASUO",
+      "name_ja": "舛尾緑",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497501",
+      "name_en": "Akira IKUTA",
+      "name_ja": "生田旭",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497502",
+      "name_en": "Kanta HIROSE",
+      "name_ja": "廣瀬幹太",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497503",
+      "name_en": "Haruto WATANABE",
+      "name_ja": "渡邊晴斗",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497504",
+      "name_en": "Ryunosuke ITO",
+      "name_ja": "伊藤龍之介",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497505",
+      "name_en": "Joe OHTSURU",
+      "name_ja": "大鶴誠",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497506",
+      "name_en": "Daiki WATANABE",
+      "name_ja": "渡邉大樹",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497507",
+      "name_en": "Futo SATO",
+      "name_ja": "佐藤楓斗",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497508",
+      "name_en": "Sakuya NAKAO",
+      "name_ja": "中尾朔也",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497509",
+      "name_en": "Seita YAMADA",
+      "name_ja": "山田晟大",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497510",
+      "name_en": "Chisu LEE",
+      "name_ja": "李智寿",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497511",
+      "name_en": "Kohaku EBISAWA",
+      "name_ja": "海老澤琥珀",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497512",
+      "name_en": "Keishu OTA",
+      "name_ja": "太田啓嵩",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497513",
+      "name_en": "Mirai KISHI",
+      "name_ja": "岸未来",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497514",
+      "name_en": "Eito SHIRAI",
+      "name_ja": "白井瑛人",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497515",
+      "name_en": "Jingo TAKENOSHITA",
+      "name_ja": "竹之下仁吾",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_u23_497516",
+      "name_en": "Tasuku MASUYAMA",
+      "name_ja": "増山将",
+      "team_id": null
+    }
+  ],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [],
+  "pending_departures": [],
+  "newly_finished_rounds": []
+}
