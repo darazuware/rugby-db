@@ -1,351 +1,207 @@
 ---
+/**
+ * /players/[slug] — master (SSOT) 駆動の選手ページ（04, 06）。
+ *
+ * データ源は data/master/players/*.json のみ。master.ts 経由で取得し、
+ * player_merges を適用済み（重複人物は1ページに統合、getStaticPaths から除外）。
+ * 本文は playerText.ts のテンプレ生成文のみ（自由記述禁止・null項目は出さない）。
+ */
 export const prerender = true;
 import Layout from "../../layouts/Layout.astro";
-import { getCollection, type CollectionEntry } from "astro:content";
-import { getTeamSlug } from "../../utils/team_utils";
-import AffiliateBanner from "../../components/AffiliateBanner.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import JSONLD from "../../components/JSONLD.astro";
 import AdSenseUnit from "../../components/AdSenseUnit.astro";
-import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import AffiliateBanner from "../../components/AffiliateBanner.astro";
+import PlayerAvatar from "../../components/PlayerAvatar.astro";
+import { getTeamSlug } from "../../utils/team_utils";
+import {
+  getAllPlayers,
+  getTeamById,
+  teamDisplayName,
+  type Player,
+  type Team,
+} from "../../lib/master";
+import { buildPlayerBioSentences, calcAge } from "../../lib/playerText";
+import { positionJa } from "../../lib/positions";
 
 export async function getStaticPaths() {
-  const players = await getCollection("players");
-  return players.map((entry: CollectionEntry<"players">) => {
-    // スラグの末尾（ファイル名部分）のみをURLパラメータとして使用
-    const parts = entry.slug.split('/');
-    const flatSlug = parts[parts.length - 1];
-    return {
-      params: { slug: flatSlug },
-      props: { entry },
-    };
-  });
+  const players = await getAllPlayers();
+  return players.map((player) => ({
+    params: { slug: player.slug },
+    props: { player },
+  }));
 }
 
-const { entry } = Astro.props;
-if (!entry) return Astro.redirect("/404");
-const { Content } = await entry.render();
-const isLeagueOne =
-  entry.data.league === "league-one" || entry.data.league === "leagueone";
-const isJapanese = entry.data.country === "日本";
-const isForeign = entry.data.country && entry.data.country !== "日本";
+const { player } = Astro.props as { player: Player };
 
-// 漢字が含まれているか、日本の学校出身かを確認
-const hasKanji = entry.data.name_ja && /[\u4E00-\u9FFF]/.test(entry.data.name_ja);
-const hasJapaneseSchool = (entry.data.high_school || "").includes("高校") || (entry.data.university || "").includes("大学");
+const team: Team | undefined = player.team_id
+  ? await getTeamById(player.team_id)
+  : undefined;
+const teamName = teamDisplayName(team);
+const teamColor: string | null =
+  (team?.colors?.primary as string | undefined) ??
+  (team?.colors?.main as string | undefined) ??
+  null;
 
-// 日本語を優先（メインに表示）するかどうかの判定
-// 日本人選手、または国籍不明で日本の学校出身、またはLeague One所属の場合は日本語メイン
-const prefersJapaneseMain = isJapanese || hasKanji || (hasJapaneseSchool && !isForeign) || (!isForeign && isLeagueOne);
+const posJa = positionJa(player.position);
+const age = calcAge(player.birthdate);
+const bioSentences = buildPlayerBioSentences(player, { teamName });
 
-const mainName = prefersJapaneseMain
-  ? (entry.data.name_ja || entry.data.title)
-  : (entry.data.name_en || entry.data.title);
-const subName = prefersJapaneseMain
-  ? (entry.data.name_en || entry.data.title)
-  : (entry.data.name_ja || entry.data.title);
-const showSub = subName && subName !== mainName;
+// 表示名: 日本語優先。サブは読み仮名 or 英語表記（メインと異なる場合のみ）。
+const mainName = player.name_ja || player.name_en || player.slug;
+const subCandidate = player.name_kana || player.name_en || null;
+const subName = subCandidate && subCandidate !== mainName ? subCandidate : null;
+const prefersJa = !!player.name_ja;
 
+// 出典表示名（信頼性の明示: 04）
+const SOURCE_LABEL: Record<string, string> = {
+  "league-one.jp": "リーグワン公式",
+  "all.rugby": "all.rugby",
+  jrfu: "日本ラグビーフットボール協会",
+};
+const sourceLabel = SOURCE_LABEL[player.source] ?? player.source;
+const updatedDate = (player.scraped_at || "").slice(0, 10);
+
+// チームページ遷移（teams ルートは P2-3 で master 化予定。現行の [league]/[slug] に合わせる）
+const leagueSegment = player.league.startsWith("league-one")
+  ? "league-one"
+  : player.league;
+const teamHref =
+  teamName != null ? `/teams/${leagueSegment}/${getTeamSlug(teamName)}/` : null;
+
+// 国旗（nationality 表示用）
 const FLAG_MAP: Record<string, string> = {
-  '日本': '🇯🇵',
-  'Japan': '🇯🇵',
-  'オーストラリア': '🇦🇺',
-  'Australia': '🇦🇺',
-  'ニュージーランド': '🇳🇿',
-  'New Zealand': '🇳🇿',
-  '南アフリカ': '🇿🇦',
-  'South Africa': '🇿🇦',
-  'フィジー': '🇫🇯',
-  'Fiji': '🇫🇯',
-  'トンガ': '🇹🇴',
-  'Tonga': '🇹🇴',
-  'サモア': '🇼🇸',
-  'Samoa': '🇼🇸',
-  'フランス': '🇫🇷',
-  'France': '🇫🇷',
-  'イングランド': '🏴󠁧󠁢󠁥󠁮󠁧󠁿',
-  'England': '🏴󠁧󠁢󠁥󠁮󠁧󠁿',
-  'ウェールズ': '🏴󠁧󠁢󠁷󠁬󠁳󠁿',
-  'Wales': '🏴󠁧󠁢󠁷󠁬󠁳󠁿',
-  'スコットランド': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
-  'Scotland': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
-  'アイルランド': '🇮🇪',
-  'Ireland': '🇮🇪',
-  'イタリア': '🇮🇹',
-  'Italy': '🇮🇹',
-  'アルゼンチン': '🇦🇷',
-  'Argentina': '🇦🇷',
-  'アメリカ': '🇺🇸',
-  'USA': '🇺🇸',
-  'カナダ': '🇨🇦',
-  'Canada': '🇨🇦',
-  'ジョージア': '🇬🇪',
-  'Georgia': '🇬🇪',
-  'ウルグアイ': '🇺🇾',
-  'Uruguay': '🇺🇾',
-  'ポルトガル': '🇵🇹',
-  'Portugal': '🇵🇹',
-  'ルーマニア': '🇷🇴',
-  'Romania': '🇷🇴',
-  'ナミビア': '🇳🇦',
-  'Namibia': '🇳🇦',
-  'チリ': '🇨🇱',
-  'Chile': '🇨🇱',
-  'United Kingdom': '🇬🇧',
-  'Royaume-Uni': '🇬🇧',
-  'Afrique du Sud': '🇿🇦',
-  'Ecosse': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
-  'Pay de Galles': '🏴󠁧󠁢󠁷󠁬󠁳󠁿',
-  'Irlande': '🇮🇪',
+  日本: "🇯🇵",
+  Japan: "🇯🇵",
+  オーストラリア: "🇦🇺",
+  Australia: "🇦🇺",
+  ニュージーランド: "🇳🇿",
+  "New Zealand": "🇳🇿",
+  南アフリカ: "🇿🇦",
+  "South Africa": "🇿🇦",
+  フィジー: "🇫🇯",
+  Fiji: "🇫🇯",
+  トンガ: "🇹🇴",
+  Tonga: "🇹🇴",
+  サモア: "🇼🇸",
+  Samoa: "🇼🇸",
+  フランス: "🇫🇷",
+  France: "🇫🇷",
+  イングランド: "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  England: "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  ウェールズ: "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+  Wales: "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+  スコットランド: "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+  Scotland: "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+  アイルランド: "🇮🇪",
+  Ireland: "🇮🇪",
+  イタリア: "🇮🇹",
+  Italy: "🇮🇹",
+  アルゼンチン: "🇦🇷",
+  Argentina: "🇦🇷",
+  ジョージア: "🇬🇪",
+  Georgia: "🇬🇪",
 };
+const flagFor = (c: string): string => FLAG_MAP[c] ?? "";
 
-const getCountryFromBirthplace = (val: string) => {
-  if (!val) return "";
-  // Pattern: "City (Country)"
-  const match = val.match(/\(([^)]+)\)/);
-  if (match) return match[1];
-  return val;
-};
-
-const getFlag = (country: string, capsStr: string) => {
-  if (FLAG_MAP[country]) return FLAG_MAP[country];
-  for (const [name, flag] of Object.entries(FLAG_MAP)) {
-    if (capsStr.includes(name)) return flag;
-  }
-  return "";
-};
-
-const generateBio = (data: CollectionEntry<"players">["data"], name: string) => {
-  const parts = [];
-  const teamName = data.team || "";
-  const leagueName = data.league?.toUpperCase() || "";
-  const position = data.position || "選手";
-  
-  parts.push(`${name}選手は、${leagueName ? `${leagueName}の` : ""}${teamName ? `${teamName}に所属する` : ""}${position}です。`);
-  
-  if (data.height && data.weight) {
-    parts.push(`身長${data.height}cm、体重${data.weight}kgの体格を活かしたプレーが持ち味です。`);
-  } else if (data.height) {
-    parts.push(`身長${data.height}cmの体格を活かしたプレーが特徴です。`);
-  }
-  
-  if (data.age) {
-    parts.push(`現在${data.age}歳（${data.birth_date && data.birth_date !== '---' ? data.birth_date : ''}）です。`);
-  }
-  
-  if (data.birth_place_scraped && data.birth_place_scraped !== '---') {
-    parts.push(`${data.birth_place_scraped}出身。`);
-  }
-  
-  const education = [];
-  if (data.rugby_school && data.rugby_school !== '---') education.push(`${data.rugby_school}`);
-  if (data.junior_high_school && data.junior_high_school !== '---') education.push(`${data.junior_high_school}`);
-  
-  // 高校生の場合は出身高校を表示しない（現在所属しているため）
-  const isHS = data.category === 'high-school' || data.league?.includes('high school');
-  const isUni = data.category === 'university' || data.league?.includes('university');
-
-  if (!isHS && data.high_school && data.high_school !== '---') {
-    education.push(`${data.high_school}`);
-  }
-  
-  // 大学生および高校生の場合は出身大学を表示しない
-  if (!isUni && !isHS && data.university && data.university !== '---') {
-    education.push(`${data.university}`);
-  }
-
-  if (education.length > 0) {
-    parts.push(`${education.join("、")}の出身です。`);
-  }
-
-  if (data.caps && data.caps !== "0" && data.caps !== "なし" && data.caps !== '---') {
-    parts.push(`代表キャリアでは${data.caps}を記録しており、国際経験も豊富です。`);
-  }
-  
-  if (data.league_one_caps && data.league_one_caps !== "0" && data.league_one_caps !== '---') {
-    parts.push(`リーグワン通算では${data.league_one_caps}試合に出場しています。`);
-  }
-
-  return parts.join(" ");
-};
-
-const playerBio = generateBio(entry.data, mainName);
-const isHighSchool = entry.data.category === 'high-school' || entry.data.league?.includes('high school');
-const isUniversity = entry.data.category === 'university' || entry.data.league?.includes('university');
-
-// --- Connect Logic Start ---
-const allPlayers = await getCollection("players");
-
-// 校名の名寄せマップ
-const SCHOOL_MAPPING: Record<string, string> = {
-  '東海大大阪仰星': '東海大仰星',
-  '伏見工業': '京都工学院',
-  '江の川': '石見智翠館',
-};
-
-const normalizeSchool = (name: string) => {
-  if (!name || name === '---') return '';
-  const clean = name.replace('高校', '').replace('高', '').trim();
-  return SCHOOL_MAPPING[clean] || clean;
-};
-
-const getAcademicYear = (birthDate?: string, age?: number | null) => {
-  if (birthDate && birthDate !== '---') {
-    const parts = birthDate.split('-');
-    if (parts.length >= 2) {
-      const year = parseInt(parts[0]);
-      const month = parseInt(parts[1]);
-      return month >= 4 ? year : year - 1;
-    }
-  }
-  if (age) {
-    // 2026年シーズン基準で概算
-    return 2026 - age - 1;
-  }
-  return null;
-};
-
-const currentHS = normalizeSchool(entry.data.high_school || "");
-const currentUni = normalizeSchool(entry.data.university || "");
-const currentAY = getAcademicYear(entry.data.birth_date, entry.data.age);
-
-interface Mate {
-  name: string;
-  slug: string;
-  team: string | undefined;
-  position: string | undefined;
-  diff: number;
+// 統計行（値が null のものは出さない = 04「null項目の文は出さない」）
+interface StatRow {
+  label: string;
+  sub: string;
+  value: string | null;
+  href?: string | null;
+  accent?: boolean;
 }
+const allStats: StatRow[] = [
+  {
+    label: "ポジション",
+    sub: "POSITION",
+    value: posJa ?? player.position,
+    href: player.position
+      ? `/players?position=${encodeURIComponent(player.position)}`
+      : null,
+  },
+  {
+    label: "所属チーム",
+    sub: "CURRENT TEAM",
+    value: teamName,
+    href: teamHref,
+    accent: true,
+  },
+  { label: "年齢", sub: "AGE", value: age != null ? `${age}歳` : null },
+  { label: "生年月日", sub: "BIRTH DATE", value: player.birthdate },
+  {
+    label: "身長",
+    sub: "HEIGHT",
+    value: player.height_cm != null ? `${player.height_cm}cm` : null,
+  },
+  {
+    label: "体重",
+    sub: "WEIGHT",
+    value: player.weight_kg != null ? `${player.weight_kg}kg` : null,
+  },
+  {
+    label: "リーグ通算",
+    sub: "LEAGUE CAPS",
+    value: player.league_caps != null ? `${player.league_caps}` : null,
+  },
+  {
+    label: "代表キャップ",
+    sub: "CAPS",
+    value: player.caps ? `${player.caps.team} ${player.caps.count}` : null,
+  },
+  {
+    label: "国籍",
+    sub: "NATIONALITY",
+    value: player.nationality.length ? player.nationality.join("・") : null,
+  },
+];
+const stats = allStats.filter((s) => s.value != null && s.value !== "");
+const half = Math.ceil(stats.length / 2);
+const statsLeft = stats.slice(0, half);
+const statsRight = stats.slice(half);
 
-const findMates = (schoolType: 'high_school' | 'university') => {
-  const schoolName = schoolType === 'high_school' ? currentHS : currentUni;
-  if (!schoolName || !currentAY) return { seniors: [], synced: [], juniors: [] };
+// キャリア（career[] があれば所属チームを列挙表示。事実のみ）
+const careerEntries = player.career.filter((c) => !!c.team);
 
-  const mates: Mate[] = allPlayers.filter((p: CollectionEntry<"players">) => {
-    if (p.slug === entry.slug) return false;
-    const isL1 = p.data.league === 'league-one' || p.data.league === 'leagueone';
-    if (!isL1) return false;
-
-    const pSchool = normalizeSchool(p.data[schoolType] || "");
-    if (pSchool !== schoolName) return false;
-
-    const pAY = getAcademicYear(p.data.birth_date, p.data.age);
-    if (!pAY) return false;
-
-    const diff = pAY - currentAY;
-    const maxDiff = schoolType === 'high_school' ? 2 : 3;
-    return Math.abs(diff) <= maxDiff;
-  }).map((p: CollectionEntry<"players">) => {
-    const pAY = getAcademicYear(p.data.birth_date, p.data.age);
-    const diff = (pAY || 0) - (currentAY || 0);
-    return {
-      name: p.data.name_ja || p.data.title,
-      slug: p.slug,
-      team: p.data.team,
-      position: p.data.position,
-      diff: diff
-    };
-  });
-
-  return {
-    seniors: mates.filter((m: Mate) => m.diff < 0).sort((a: Mate, b: Mate) => b.diff - a.diff),
-    synced: mates.filter((m: Mate) => m.diff === 0),
-    juniors: mates.filter((m: Mate) => m.diff > 0).sort((a: Mate, b: Mate) => a.diff - b.diff),
-  };
+// JSONLD 互換データ
+const jsonldData = {
+  title: mainName,
+  name_en: player.name_en,
+  team: teamName,
+  position: posJa ?? player.position,
+  height: player.height_cm,
+  weight: player.weight_kg,
+  birth_date: player.birthdate,
+  nationality: player.nationality[0] ?? null,
 };
 
-const hsMates = findMates('high_school');
-const uniMates = findMates('university');
-const hasMates = hsMates.seniors.length > 0 || hsMates.synced.length > 0 || hsMates.juniors.length > 0 ||
-                 uniMates.seniors.length > 0 || uniMates.synced.length > 0 || uniMates.juniors.length > 0;
-// --- Connect Logic End ---
-// キャリアタイムラインデータの解析
-const careerHistoryData = entry.data.career_history_json
-  ? JSON.parse(entry.data.career_history_json)
-  : [];
-
-// タイムラインの開始年を決定（最初の所属年）
-const currentYear = 2026;
-const careerStartYear = careerHistoryData.length > 0 
-  ? careerHistoryData[0].year 
-  : (entry.data.age ? currentYear - (entry.data.age - 20) : currentYear - 5);
-
-// 25年分の枠を作る
-const timelineYears = Array.from({ length: 25 }, (_, i) => careerStartYear + i);
-
-// キャリアデータのマッピング {year: teams[]}
-const careerMap = new Map();
-careerHistoryData.forEach((d: any) => {
-  careerMap.set(d.year, d.teams);
-});
-
-// 各チームの連続所属期間（Period）を抽出
-const teamPeriods: any[] = [];
-let currentTracking = new Map(); // team -> {team, start, end}
-
-timelineYears.forEach(year => {
-  const teamsInYear = careerMap.get(year) || [];
-  
-  // 現在追跡中で、かつ今年のリストにないチームは一度終了
-  for (const [team, period] of currentTracking.entries()) {
-    if (!teamsInYear.includes(team)) {
-      teamPeriods.push({ ...period });
-      currentTracking.delete(team);
-    }
-  }
-  
-  // 今年のリストにあり、かつ追跡中ではないチームは開始、あればend更新
-  teamsInYear.forEach((team: string) => {
-    if (!currentTracking.has(team)) {
-      currentTracking.set(team, { team, start: year, end: year });
-    } else {
-      currentTracking.get(team).end = year;
-    }
-  });
-});
-for (const period of currentTracking.values()) {
-  teamPeriods.push(period);
-}
-
-// カラム割り当て（重なり回避）
-teamPeriods.sort((a, b) => a.start - b.start || b.end - a.end);
-const colLastYears: number[] = [];
-const periodsWithCol = teamPeriods.map(p => {
-  let colIndex = 0;
-  // 移籍（同じ年に終わりと始まりが重なる）は「重なり」と見なさず同じカラムを許容する (> に変更)
-  while (colLastYears[colIndex] > p.start) {
-    colIndex++;
-  }
-  colLastYears[colIndex] = p.end;
-  
-  // そのチームにとって最初の期間かどうかを確認（出戻り判定）
-  const firstPeriodOfTeam = teamPeriods.find(tp => tp.team === p.team);
-  const isReEntry = firstPeriodOfTeam && firstPeriodOfTeam.start < p.start;
-  
-  return { ...p, colIndex, isReEntry };
-});
+const metaDesc = [
+  teamName ? `${teamName}所属` : null,
+  posJa ?? player.position,
+  player.height_cm != null ? `身長${player.height_cm}cm` : null,
+  player.weight_kg != null ? `体重${player.weight_kg}kg` : null,
+]
+  .filter(Boolean)
+  .join("、");
 ---
 
 <Layout
-  title={`${mainName}${showSub ? ` (${subName})` : ''} | ラグビー選手名鑑 | RUGBY PICKS`}
-  description={`${entry.data.team}所属、${entry.data.position}。身長${
-    entry.data.height
-  }cm、体重${
-    entry.data.weight
-  }kg。${entry.data.league?.toUpperCase()} の注目選手、${mainName}（${subName}）のプロフィールと詳細スタッツ。`}
+  title={`${mainName}${subName ? ` (${subName})` : ""} | ラグビー選手名鑑 | RUGBY PICKS`}
+  description={`${mainName}のプロフィール。${metaDesc}。出典データに基づく正確な選手情報。`}
 >
-  <JSONLD type="SportsPlayer" data={entry.data} />
+  <JSONLD type="SportsPlayer" data={jsonldData} />
   <div class="py-4">
-    <Breadcrumbs items={[
-      { label: "選手名鑑", href: "/players" },
-      { label: mainName }
-    ]} />
-    <div
-      class="bg-card rounded-3xl shadow-2xl overflow-hidden border border-border-dim"
-    >
+    <Breadcrumbs items={[{ label: "選手名鑑", href: "/players" }, { label: mainName }]} />
+
+    <div class="bg-card rounded-3xl shadow-2xl overflow-hidden border border-border-dim">
+      {/* ヘッダー */}
       <div class="bg-gray-900 p-8 text-white relative">
-        <div class="absolute top-0 right-0 p-8 opacity-10">
-          <span class="text-9xl font-black">{entry.data.position}</span>
-        </div>
+        {player.position && (
+          <div class="absolute top-0 right-0 p-8 opacity-10 pointer-events-none">
+            <span class="text-9xl font-black">{player.position}</span>
+          </div>
+        )}
 
         <div class="relative z-10">
           <a
@@ -354,621 +210,134 @@ const periodsWithCol = teamPeriods.map(p => {
           >
             ← 選手一覧に戻る
           </a>
-          {
-            prefersJapaneseMain ? (
-              <>
-                <h1 class="text-5xl font-black mb-2">{mainName}</h1>
-                {showSub && (
-                  <p class="text-xl text-gray-400 font-bold uppercase tracking-widest">
-                    {subName}
-                  </p>
-                )}
-              </>
-            ) : (
-              <>
-                <h1 class="text-5xl md:text-7xl font-black mb-2 uppercase tracking-tighter leading-none">
-                  {mainName?.split(" ").join("  ")}
-                </h1>
-                {showSub && (
-                  <p class="text-2xl text-gray-300 font-bold tracking-widest italic mt-4">
-                    {subName}
-                  </p>
-                )}
-              </>
-            )
-          }
+
+          <div class="flex items-center gap-6">
+            <PlayerAvatar
+              name={mainName}
+              color={teamColor}
+              size={96}
+              class="rounded-2xl shadow-xl shrink-0"
+            />
+            <div>
+              <h1 class="text-4xl md:text-5xl font-black mb-2">{mainName}</h1>
+              {subName && (
+                <p
+                  class={
+                    prefersJa
+                      ? "text-xl text-gray-400 font-bold uppercase tracking-widest"
+                      : "text-xl text-gray-300 font-bold tracking-widest italic"
+                  }
+                >
+                  {subName}
+                </p>
+              )}
+            </div>
+          </div>
         </div>
       </div>
 
+      {/* 本体 */}
       <div class="p-8">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
-          <div class="space-y-6">
-            <div
-              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
-            >
-              <div class="flex flex-col">
-                <span class="font-black text-foreground text-sm">ポジション</span>
-                <span
-                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
-                  >POSITION</span
-                >
-              </div>
-              <a
-                href={`/players?position=${entry.data.position}`}
-                class="font-black text-foreground text-xl tracking-tighter hover:text-yellow-600 transition-colors underline decoration-border-dim/50 hover:decoration-yellow-400 decoration-2 underline-offset-4"
-              >
-                {entry.data.position}
-              </a>
-            </div>
-
-            <div
-              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
-            >
-              <div class="flex flex-col">
-                <span class="font-black text-foreground text-sm">所属チーム</span>
-                <span
-                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
-                  >CURRENT TEAM</span
-                >
-              </div>
-              <a
-                href={`/teams/${
-                  entry.data.league || "league-one"
-                }/${getTeamSlug(entry.data.team || "")}/`}
-                class="font-black text-yellow-600 text-lg tracking-tight text-right ml-4 leading-tight hover:text-foreground transition-colors underline decoration-yellow-50 dark:decoration-yellow-900/30 hover:decoration-foreground decoration-2 underline-offset-4"
-              >
-                {entry.data.team}
-              </a>
-            </div>
-
-            <div
-              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
-            >
-              <div class="flex flex-col">
-                <span class="font-black text-foreground text-sm">年齢</span>
-                <span
-                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
-                  >AGE</span
-                >
-              </div>
-              {entry.data.age ? (
-              <a
-                href={`/players?search=${encodeURIComponent(
-                  entry.data.age + "歳"
-                )}`}
-                class="font-black text-foreground text-xl tracking-tighter hover:text-yellow-600 transition-colors underline decoration-border-dim/50 hover:decoration-yellow-400 decoration-2 underline-offset-4"
-              >
-                {entry.data.age}<span class="text-xs ml-1">歳</span>
-              </a>
-              ) : (
-                <span class="font-black text-foreground/20 text-lg tracking-tighter">---</span>
-              )}
-            </div>
-
-            <div
-              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
-            >
-              <div class="flex flex-col">
-                <span class="font-black text-foreground text-sm">生年月日</span>
-                <span
-                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
-                  >BIRTH DATE</span
-                >
-              </div>
-              <span class="font-black text-foreground text-lg tracking-tighter"
-                >{entry.data.birth_date && entry.data.birth_date !== "---" ? entry.data.birth_date : "---"}</span
-              >
-            </div>
-
-            {/* 出身地 / Birthplace */}
-            <div
-              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
-            >
-              <div class="flex flex-col">
-                <span class="font-black text-foreground text-sm">出身地</span>
-                <span
-                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
-                  >BIRTHPLACE</span
-                >
-              </div>
-              <div class="flex items-center gap-2">
-                {entry.data.birth_place_scraped ? (
-                  <>
-                    {getFlag(getCountryFromBirthplace(entry.data.birth_place_scraped), "") && (
-                      <span class="text-2xl leading-none">{getFlag(getCountryFromBirthplace(entry.data.birth_place_scraped), "")}</span>
-                    )}
-                    <span class="font-black text-foreground text-lg tracking-tighter">
-                      {entry.data.birth_place_scraped}
+        {/* 統計グリッド */}
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
+          {[statsLeft, statsRight].map((col) => (
+            <div class="space-y-6">
+              {col.map((s) => (
+                <div class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3">
+                  <div class="flex flex-col">
+                    <span class="font-black text-foreground text-sm">{s.label}</span>
+                    <span
+                      class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
+                    >
+                      {s.sub}
                     </span>
-                  </>
-                ) : (
-                  <span class="font-black text-foreground/20 text-lg tracking-tighter">---</span>
-                )}
-              </div>
-            </div>
-          </div>
-
-          <div class="space-y-6">
-            <div
-              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
-            >
-              <div class="flex flex-col">
-                <span class="font-black text-foreground text-sm">身長 / 体重</span
-                >
-                <span
-                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
-                  >HEIGHT / WEIGHT</span
-                >
-              </div>
-              <div class="flex gap-2">
-                <a
-                  href={`/players?search=${encodeURIComponent(
-                    entry.data.height + "cm"
-                  )}`}
-                  class="font-black text-foreground text-xl tracking-tighter hover:text-yellow-600 transition-colors underline decoration-border-dim/50 hover:decoration-yellow-400 decoration-2 underline-offset-4"
-                >
-                  {entry.data.height}<span class="text-xs mx-0.5 text-foreground/20"
-                    >cm</span
-                  >
-                </a>
-                <span class="text-foreground/10">/</span>
-                <a
-                  href={`/players?search=${encodeURIComponent(
-                    entry.data.weight + "kg"
-                  )}`}
-                  class="font-black text-foreground text-xl tracking-tighter hover:text-yellow-600 transition-colors underline decoration-border-dim/50 hover:decoration-yellow-400 decoration-2 underline-offset-4"
-                >
-                  {entry.data.weight}<span class="text-xs ml-0.5 text-foreground/20"
-                    >kg</span
-                  >
-                </a>
-              </div>
-            </div>
-
-            <div
-              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
-            >
-              <div class="flex flex-col">
-                <span class="font-black text-foreground text-sm">出身中学</span>
-                <span
-                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
-                  >JUNIOR HIGH</span
-                >
-              </div>
-              <a
-                href={`/players?search=${encodeURIComponent(
-                  entry.data.junior_high_school || ""
-                )}`}
-                class="font-black text-foreground text-base text-right leading-tight ml-4 hover:text-yellow-600 transition-colors underline decoration-border-dim/50 hover:decoration-yellow-400 decoration-2 underline-offset-4"
-              >
-                {entry.data.junior_high_school || "---"}
-              </a>
-            </div>
-
-            <div
-              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
-            >
-              <div class="flex flex-col">
-                <span class="font-black text-foreground text-sm">ラグビースクール</span>
-                <span
-                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
-                  >RUGBY SCHOOL</span
-                >
-              </div>
-              <a
-                href={`/players?search=${encodeURIComponent(
-                  entry.data.rugby_school || ""
-                )}`}
-                class="font-black text-foreground text-base text-right leading-tight ml-4 hover:text-yellow-600 transition-colors underline decoration-border-dim/50 hover:decoration-yellow-400 decoration-2 underline-offset-4"
-              >
-                {entry.data.rugby_school || "---"}
-              </a>
-            </div>
-
-            {!isHighSchool && (
-            <div
-              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
-            >
-              <div class="flex flex-col">
-                <span class="font-black text-foreground text-sm">出身高校</span>
-                <span
-                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
-                  >HIGH SCHOOL</span
-                >
-              </div>
-              <a
-                href={`/players?search=${encodeURIComponent(
-                  entry.data.high_school || ""
-                )}`}
-                class="font-black text-foreground text-base text-right leading-tight ml-4 hover:text-yellow-600 transition-colors underline decoration-border-dim/50 hover:decoration-yellow-400 decoration-2 underline-offset-4"
-              >
-                {entry.data.high_school || "---"}
-              </a>
-            </div>
-            )}
-
-            {!isUniversity && !isHighSchool && (
-            <div
-              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
-            >
-              <div class="flex flex-col">
-                <span class="font-black text-foreground text-sm">出身大学</span>
-                <span
-                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
-                  >UNIVERSITY</span
-                >
-              </div>
-              <a
-                href={`/players?search=${encodeURIComponent(
-                  entry.data.university || ""
-                )}`}
-                class="font-black text-foreground text-base text-right leading-tight ml-4 hover:text-yellow-600 transition-colors underline decoration-border-dim/50 hover:decoration-yellow-400 decoration-2 underline-offset-4"
-              >
-                {entry.data.university || "---"}
-              </a>
-            </div>
-            )}
-
-            <div
-              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
-            >
-              <div class="flex flex-col">
-                <span class="font-black text-foreground text-sm">
-                  {
-                    isLeagueOne
-                      ? "代表キャップ数（リーグワン）"
-                      : "代表キャップ数"
-                  }
-                </span>
-                <span
-                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
-                >
-                  {isLeagueOne ? "TEST CAPS (LEAGUE ONE)" : "TEST CAPS"}
-                </span>
-              </div>
-              <div class="flex flex-col items-end">
-                {entry.data.caps ? (
-                  <span class="font-black text-foreground text-lg tracking-tighter flex items-center gap-2">
-                    {getFlag(entry.data.country || "", entry.data.caps || "") && (
-                      <span class="text-2xl leading-none">{getFlag(entry.data.country || "", entry.data.caps || "")}</span>
-                    )}
-                    {entry.data.caps}
-                  </span>
-                ) : null}
-                {isLeagueOne && entry.data.league_one_caps && (
-                  <span class={`font-black tracking-tighter ${entry.data.caps ? 'text-xs text-foreground/40 mt-1' : 'text-lg text-foreground'}`}>
-                    L1出場: {entry.data.league_one_caps} <span class="text-[10px]">試合</span>
-                  </span>
-                )}
-                {!entry.data.caps && (!isLeagueOne || !entry.data.league_one_caps) && (
-                  <span class="font-black text-foreground/20 text-lg tracking-tighter">---</span>
-                )}
-              </div>
-            </div>
-          </div>
-        </div>
-
-        {/* プロフィール紹介文（AdSense SEO対策） */}
-        <div class="mb-12 bg-yellow-400/5 p-8 rounded-2xl border-l-4 border-yellow-400">
-          <h2 class="text-xl font-black mb-4 flex items-center gap-2">
-            <span class="text-yellow-400">PROFILE</span>
-            <span>選手紹介</span>
-          </h2>
-          <p class="text-foreground/80 leading-relaxed font-medium">
-            {playerBio}
-          </p>
-        </div>
-
-        {/* アフィリエイトセクション */}
-        <div class="mb-12">
-          <AffiliateBanner league={entry.data.league} />
-        </div>
-
-        {/* Content Ad */}
-        <AdSenseUnit slot="player-content-ad" />
-
-        {/* 25-YEAR CAREER TIMELINE (PERIOD VIEW) - プロ選手のみ表示 */}
-        {entry.data.league !== 'high-school' && entry.data.league !== 'university' && (
-        <section class="mt-12 bg-gray-900 rounded-3xl overflow-hidden shadow-2xl border border-white/5 font-sans">
-          <div class="bg-gradient-to-r from-gray-900 to-gray-800 px-8 py-6 flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-white/5">
-            <div class="flex flex-col">
-              <h2 class="text-2xl font-black text-white italic tracking-tighter leading-none flex items-center gap-3">
-                <span class="text-yellow-400">CAREER</span>
-                <span>TIMELINE</span>
-              </h2>
-              <span class="text-[10px] font-bold text-gray-500 uppercase tracking-[0.2em] mt-2">25年間のキャリア軌道</span>
-            </div>
-            <div class="flex items-center gap-4">
-              <div class="flex items-center gap-2">
-                <span class="w-2 h-2 rounded-full bg-yellow-400 animate-pulse"></span>
-                <span class="text-[9px] font-bold text-gray-400 uppercase tracking-widest text-[#94a3b8]">TRACKING PERSISTENCE</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="p-4 md:p-8 bg-[#0b0f1a] overflow-x-auto">
-            <div class="relative min-w-[300px]" style={`height: ${timelineYears.length * 40}px;`}>
-              {/* Vertical Spine */}
-              <div class="absolute left-8 md:left-24 top-0 bottom-0 w-px bg-gradient-to-b from-yellow-400/50 via-gray-800 to-gray-800/10 hidden md:block z-0"></div>
-
-              {/* Rows as Background */}
-              <div class="absolute inset-0 z-0">
-                {timelineYears.map((year, index) => {
-                  const isFuture = year > currentYear;
-                  const isCurrent = year === currentYear;
-                  return (
-                    <div 
-                      class={`flex items-center h-[40px] border-b border-white/[0.02] ${isFuture ? 'opacity-20' : ''}`}
+                  </div>
+                  {s.href ? (
+                    <a
+                      href={s.href}
+                      class={`font-black tracking-tighter hover:text-yellow-600 transition-colors underline decoration-border-dim/50 hover:decoration-yellow-400 decoration-2 underline-offset-4 text-right ml-4 ${
+                        s.accent ? "text-yellow-600 text-lg" : "text-foreground text-xl"
+                      }`}
                     >
-                      <div class="w-16 md:w-24 flex-shrink-0 flex items-center justify-end pr-4 md:pr-8">
-                        <span class={`text-[10px] md:text-xs font-black tracking-tighter ${isCurrent ? 'text-yellow-400' : 'text-gray-500'}`}>
-                          {year}
-                        </span>
-                      </div>
-                      <div class="flex-grow"></div>
-                    </div>
-                  );
-                })}
-              </div>
-
-              {/* Career Periods as Vertical Bars */}
-              <div class="absolute top-0 bottom-0 left-12 md:left-28 right-0 z-10 pointer-events-none">
-                {periodsWithCol.map((p) => {
-                  // 前後の期間との「継承（移籍）」をチェック
-                  const prevTransfer = periodsWithCol.find(pp => pp.colIndex === p.colIndex && pp.end === p.start && pp.team !== p.team);
-                  const nextTransfer = periodsWithCol.find(pp => pp.colIndex === p.colIndex && pp.start === p.end && pp.team !== p.team);
-                  
-                  const startOffset = prevTransfer ? 20 : 0;
-                  const endOffset = nextTransfer ? 20 : 0;
-
-                  const top = (p.start - careerStartYear) * 40 + startOffset + 4;
-                  const height = (p.end - p.start + 1) * 40 - startOffset - endOffset - 8;
-                  const left = p.colIndex * 160; // カラム幅
-                  const isCurrentPeriod = p.end >= currentYear;
-                  
-                  return (
-                    <div 
-                      class={`
-                        absolute p-2 transition-all duration-300 pointer-events-auto
-                        flex flex-col justify-center rounded-lg border-2
-                        ${p.isReEntry 
-                          ? 'bg-yellow-400/10 border-yellow-400/50 text-yellow-400 shadow-[0_0_15px_rgba(250,204,21,0.1)]' 
-                          : 'bg-white/5 border-white/10 text-white hover:bg-white/[0.08] hover:border-white/20'}
-                        ${isCurrentPeriod ? 'shadow-[0_0_20px_rgba(255,255,255,0.05)]' : ''}
-                      `}
-                      style={`top: ${top}px; height: ${height}px; left: ${left}px; width: 150px;`}
-                      title={`${p.team} (${p.start} - ${p.end})`}
+                      {s.value}
+                    </a>
+                  ) : (
+                    <span
+                      class={`font-black tracking-tighter text-right ml-4 ${
+                        s.accent ? "text-yellow-600 text-lg" : "text-foreground text-xl"
+                      }`}
                     >
-                      <div class="flex flex-col h-full justify-between py-1">
-                        <div class="flex items-start justify-between gap-1">
-                          <span class={`font-black tracking-tighter leading-none ${height < 25 ? 'text-[8px]' : height < 35 ? 'text-[10px]' : 'text-xs'}`}>
-                            {p.team}
-                          </span>
-                          {p.isReEntry && height > 20 && (
-                             <span class="text-[7px] bg-yellow-400 text-black px-1 rounded font-black uppercase leading-tight self-start shrink-0">Return</span>
-                          )}
-                        </div>
-                        {height > 50 && (
-                          <div class="flex justify-between items-end opacity-40">
-                             <span class="text-[8px] font-bold">{p.start}</span>
-                             <span class="text-[8px] font-bold">{p.end >= 2026 ? '-' : p.end}</span>
-                          </div>
-                        )}
-                      </div>
-                    </div>
-                  );
-                })}
-              </div>
+                      {s.value}
+                    </span>
+                  )}
+                </div>
+              ))}
             </div>
-          </div>
+          ))}
+        </div>
 
-          <div class="bg-gray-900/50 p-6 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4">
-            <div class="flex items-center gap-6">
-              <div class="flex items-center gap-2">
-                <div class="w-3 h-3 rounded bg-white/5 border border-white/10"></div>
-                <span class="text-[9px] font-bold text-gray-500 uppercase tracking-widest">Permanent / 継続所属</span>
-              </div>
-              <div class="flex items-center gap-2">
-                <div class="w-3 h-3 rounded bg-yellow-400/20 border border-yellow-400/50"></div>
-                <span class="text-[9px] font-bold text-yellow-400 uppercase tracking-widest">Re-entry / 再加入</span>
-              </div>
-            </div>
-            <p class="text-[10px] text-gray-600 font-bold italic">
-              ※Professional Career Visualization (Uncut Periods)
-            </p>
+        {/* 国旗（国籍があれば） */}
+        {player.nationality.length > 0 && (
+          <div class="flex flex-wrap gap-2 mb-8">
+            {player.nationality.map((c) => (
+              <span
+                class="inline-flex items-center gap-2 bg-border-dim/10 rounded-full px-3 py-1 text-sm font-bold text-foreground"
+              >
+                {flagFor(c) && <span class="text-lg leading-none">{flagFor(c)}</span>}
+                {c}
+              </span>
+            ))}
           </div>
-        </section>
         )}
 
-        <section class="mt-12 prose dark:prose-invert max-w-none prose-headings:font-black prose-headings:text-foreground bg-gray-900 p-8 rounded-3xl border border-white/5 shadow-2xl">
-          <div class="flex items-center gap-3 mb-8">
-            <h2 class="text-2xl font-black text-white italic tracking-tighter leading-none m-0">
-              <span class="text-yellow-400">PLAYER</span>
-              <span>STORY</span>
-            </h2>
-          </div>
-          <div class="text-gray-300 leading-relaxed">
-            <Content />
-          </div>
-        </section>
-
-        {/* CONNECT: 同校・同年出身の繋がり */}
-        {hasMates && (
-          <section class="mt-12 bg-gray-900 rounded-3xl overflow-hidden shadow-2xl border border-white/5">
-            <div class="bg-gradient-to-r from-gray-900 to-gray-800 px-8 py-6 flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-white/5">
-              <div class="flex flex-col">
-                <h2 class="text-2xl font-black text-white italic tracking-tighter leading-none flex items-center gap-3">
-                  <span class="text-yellow-400">SCHOOL</span>
-                  <span>CONNECT</span>
-                </h2>
-                <span class="text-[10px] font-bold text-gray-500 uppercase tracking-[0.2em] mt-2">同校出身のリーグワン選手</span>
-              </div>
-              <div class="flex gap-2">
-                <span class="px-3 py-1 bg-white/5 rounded-full text-[9px] font-bold text-gray-400 uppercase tracking-widest border border-white/5">Network Analysis</span>
-              </div>
-            </div>
-
-            <div class="p-8 space-y-16">
-              {/* 高校セクション */}
-              {(hsMates.seniors.length > 0 || hsMates.synced.length > 0 || hsMates.juniors.length > 0) && (
-                <div class="relative">
-                  <div class="absolute -left-4 top-0 bottom-0 w-1 bg-gradient-to-b from-yellow-400/50 via-yellow-400/10 to-transparent rounded-full hidden md:block"></div>
-                  <h3 class="flex items-center gap-4 mb-8">
-                    <span class="bg-yellow-400 text-black px-3 py-1 rounded-lg text-xs font-black italic shadow-xl shadow-yellow-400/20 uppercase tracking-widest skew-x-[-10deg]">HIGH SCHOOL</span>
-                    <span class="text-2xl font-black text-white tracking-tight">{entry.data.high_school}</span>
-                  </h3>
-
-                  <div class="space-y-10">
-                    {/* 先輩 */}
-                    {hsMates.seniors.length > 0 && (
-                      <div class="space-y-4">
-                        <h4 class="text-[10px] font-black text-gray-500 uppercase tracking-[0.3em] flex items-center gap-3">
-                          <span class="w-8 h-px bg-gray-800"></span>
-                          SENIORS / 先輩
-                        </h4>
-                        <div class="flex flex-wrap gap-3">
-                          {hsMates.seniors.map(m => (
-                            <a href={`/players/${m.slug}/`} class="group relative bg-white/5 hover:bg-yellow-400 border border-white/5 hover:border-yellow-400 rounded-2xl p-4 transition-all duration-300 w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.33%-12px)]">
-                              <div class="flex flex-col">
-                                <span class="text-[9px] font-bold text-gray-500 group-hover:text-black/60 uppercase mb-1">{m.team}</span>
-                                <span class="text-base font-black text-white group-hover:text-black truncate">{m.name}</span>
-                                <span class="text-[10px] font-black text-yellow-400 group-hover:text-black/80 mt-1 uppercase tracking-tighter italic">{Math.abs(m.diff)}学年上</span>
-                              </div>
-                            </a>
-                          ))}
-                        </div>
-                      </div>
-                    )}
-
-                    {/* 同期 */}
-                    {hsMates.synced.length > 0 && (
-                      <div class="space-y-4">
-                        <h4 class="text-[10px] font-black text-yellow-400/50 uppercase tracking-[0.3em] flex items-center gap-3">
-                          <span class="w-8 h-px bg-yellow-400/20"></span>
-                          SYNCHRONIZED / 同期
-                        </h4>
-                        <div class="flex flex-wrap gap-3">
-                          {hsMates.synced.map(m => (
-                            <a href={`/players/${m.slug}/`} class="group relative bg-yellow-400/10 hover:bg-yellow-400 border border-yellow-400/20 hover:border-yellow-400 rounded-2xl p-4 transition-all duration-300 w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.33%-12px)]">
-                              <div class="flex flex-col">
-                                <span class="text-[9px] font-bold text-yellow-400/60 group-hover:text-black/60 uppercase mb-1">{m.team}</span>
-                                <span class="text-base font-black text-white group-hover:text-black truncate">{m.name}</span>
-                                <span class="text-[10px] font-black text-yellow-500 group-hover:text-black/80 mt-1 uppercase tracking-tighter italic">同期</span>
-                              </div>
-                            </a>
-                          ))}
-                        </div>
-                      </div>
-                    )}
-
-                    {/* 後輩 */}
-                    {hsMates.juniors.length > 0 && (
-                      <div class="space-y-4">
-                        <h4 class="text-[10px] font-black text-gray-500 uppercase tracking-[0.3em] flex items-center gap-3">
-                          <span class="w-8 h-px bg-gray-800"></span>
-                          JUNIORS / 後輩
-                        </h4>
-                        <div class="flex flex-wrap gap-3">
-                          {hsMates.juniors.map(m => (
-                            <a href={`/players/${m.slug}/`} class="group relative bg-white/5 hover:bg-yellow-400 border border-white/5 hover:border-yellow-400 rounded-2xl p-4 transition-all duration-300 w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.33%-12px)]">
-                              <div class="flex flex-col">
-                                <span class="text-[9px] font-bold text-gray-500 group-hover:text-black/60 uppercase mb-1">{m.team}</span>
-                                <span class="text-base font-black text-white group-hover:text-black truncate">{m.name}</span>
-                                <span class="text-[10px] font-black text-yellow-400 group-hover:text-black/80 mt-1 uppercase tracking-tighter italic">{Math.abs(m.diff)}学年下</span>
-                              </div>
-                            </a>
-                          ))}
-                        </div>
-                      </div>
-                    )}
-                  </div>
-                </div>
-              )}
-
-              {/* 大学セクション */}
-              {(uniMates.seniors.length > 0 || uniMates.synced.length > 0 || uniMates.juniors.length > 0) && (
-                <div class="relative">
-                  <div class="absolute -left-4 top-0 bottom-0 w-1 bg-gradient-to-b from-blue-400/50 via-blue-400/10 to-transparent rounded-full hidden md:block"></div>
-                  <h3 class="flex items-center gap-4 mb-8">
-                    <span class="bg-blue-600 text-white px-3 py-1 rounded-lg text-xs font-black italic shadow-xl shadow-blue-600/20 uppercase tracking-widest skew-x-[-10deg]">UNIVERSITY</span>
-                    <span class="text-2xl font-black text-white tracking-tight">{entry.data.university}</span>
-                  </h3>
-
-                  <div class="space-y-10">
-                    {/* 先輩 */}
-                    {uniMates.seniors.length > 0 && (
-                      <div class="space-y-4">
-                        <h4 class="text-[10px] font-black text-gray-500 uppercase tracking-[0.3em] flex items-center gap-3">
-                          <span class="w-8 h-px bg-gray-800"></span>
-                          SENIORS / 先輩
-                        </h4>
-                        <div class="flex flex-wrap gap-3">
-                          {uniMates.seniors.map(m => (
-                            <a href={`/players/${m.slug}/`} class="group relative bg-white/5 hover:bg-blue-500 border border-white/5 hover:border-blue-500 rounded-2xl p-4 transition-all duration-300 w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.33%-12px)]">
-                              <div class="flex flex-col">
-                                <span class="text-[9px] font-bold text-gray-500 group-hover:text-white/60 uppercase mb-1">{m.team}</span>
-                                <span class="text-base font-black text-white group-hover:text-white truncate">{m.name}</span>
-                                <span class="text-[10px] font-black text-blue-400 group-hover:text-white/80 mt-1 uppercase tracking-tighter italic">{Math.abs(m.diff)}学年上</span>
-                              </div>
-                            </a>
-                          ))}
-                        </div>
-                      </div>
-                    )}
-
-                    {/* 同期 */}
-                    {uniMates.synced.length > 0 && (
-                      <div class="space-y-4">
-                        <h4 class="text-[10px] font-black text-blue-400/50 uppercase tracking-[0.3em] flex items-center gap-3">
-                          <span class="w-8 h-px bg-blue-400/20"></span>
-                          SYNCHRONIZED / 同期
-                        </h4>
-                        <div class="flex flex-wrap gap-3">
-                          {uniMates.synced.map(m => (
-                            <a href={`/players/${m.slug}/`} class="group relative bg-blue-600/10 hover:bg-blue-600 border border-blue-600/20 hover:border-blue-600 rounded-2xl p-4 transition-all duration-300 w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.33%-12px)]">
-                              <div class="flex flex-col">
-                                <span class="text-[9px] font-bold text-blue-400/60 group-hover:text-white/60 uppercase mb-1">{m.team}</span>
-                                <span class="text-base font-black text-white group-hover:text-white truncate">{m.name}</span>
-                                <span class="text-[10px] font-black text-blue-300 group-hover:text-white/80 mt-1 uppercase tracking-tighter italic">同期</span>
-                              </div>
-                            </a>
-                          ))}
-                        </div>
-                      </div>
-                    )}
-
-                    {/* 後輩 */}
-                    {uniMates.juniors.length > 0 && (
-                      <div class="space-y-4">
-                        <h4 class="text-[10px] font-black text-gray-500 uppercase tracking-[0.3em] flex items-center gap-3">
-                          <span class="w-8 h-px bg-gray-800"></span>
-                          JUNIORS / 後輩
-                        </h4>
-                        <div class="flex flex-wrap gap-3">
-                          {uniMates.juniors.map(m => (
-                            <a href={`/players/${m.slug}/`} class="group relative bg-white/5 hover:bg-blue-500 border border-white/5 hover:border-blue-500 rounded-2xl p-4 transition-all duration-300 w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.33%-12px)]">
-                              <div class="flex flex-col">
-                                <span class="text-[9px] font-bold text-gray-500 group-hover:text-white/60 uppercase mb-1">{m.team}</span>
-                                <span class="text-base font-black text-white group-hover:text-white truncate">{m.name}</span>
-                                <span class="text-[10px] font-black text-blue-400 group-hover:text-white/80 mt-1 uppercase tracking-tighter italic">{Math.abs(m.diff)}学年下</span>
-                              </div>
-                            </a>
-                          ))}
-                        </div>
-                      </div>
-                    )}
-                  </div>
-                </div>
-              )}
-            </div>
-            
-            <div class="bg-white/5 p-6 border-t border-white/5">
-              <p class="text-[10px] text-gray-500 leading-relaxed font-bold">
-                ※学年は生年月日および推定年齢から算出しています。リーグワン所属の現役選手のみを表示対象としています。
-              </p>
-            </div>
+        {/* 本文（テンプレ生成・自由記述なし） */}
+        {bioSentences.length > 0 && (
+          <section class="mb-10">
+            <h2 class="text-lg font-black text-foreground mb-3">プロフィール</h2>
+            <p class="text-foreground/80 leading-relaxed">{bioSentences.join("")}</p>
           </section>
         )}
+
+        {/* キャリア（career[] があれば） */}
+        {careerEntries.length > 0 && (
+          <section class="mb-10">
+            <h2 class="text-lg font-black text-foreground mb-3">これまでの所属</h2>
+            <ul class="space-y-2">
+              {careerEntries.map((c) => (
+                <li class="flex items-center gap-3 border-b border-border-dim/20 pb-2">
+                  <span class="font-bold text-foreground">{c.team}</span>
+                  {(c.from != null || c.to != null) && (
+                    <span class="text-sm text-foreground/50 font-mono">
+                      {c.from ?? "?"}–{c.to ?? "現在"}
+                    </span>
+                  )}
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        <div class="my-8">
+          <AffiliateBanner />
+        </div>
+        <div class="my-8">
+          <AdSenseUnit />
+        </div>
+
+        {/* 最終更新 / 出典（信頼性の明示: 04） */}
+        <div class="mt-8 pt-4 border-t border-border-dim/20 text-[11px] text-foreground/40 font-bold">
+          {updatedDate && <span>最終更新: {updatedDate}</span>}
+          {updatedDate && <span class="mx-2">/</span>}
+          <span>出典: </span>
+          <a
+            href={player.source_url}
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+            class="underline hover:text-yellow-600"
+          >
+            {sourceLabel}
+          </a>
+        </div>
       </div>
     </div>
   </div>
