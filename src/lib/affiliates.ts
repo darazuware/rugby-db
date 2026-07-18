@@ -34,8 +34,8 @@ export const LEAGUE_WATCH_MAP: Record<string, string[]> = {
     "league-one-d3": ["jsports", "dazn"],
     "top14": ["dazn"],
     "super-rugby": ["wowow"],
-    "urc": ["dazn"],
-    "premiership": ["dazn"],
+    // urc / premiership は国内視聴手段が未検証のため未登録（既存記事は「国内配信なし」と記載、
+    // DAZN配信の根拠を確認できたら追加する）。未登録リーグはボタン非表示になる。
 };
 
 /**
