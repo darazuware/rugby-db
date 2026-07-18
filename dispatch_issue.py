@@ -7,8 +7,8 @@ import sys
 import os
 from github import Github
 
-# GitHub認証
-TOKEN = "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"
+# GitHub認証（環境変数 GITHUB_TOKEN から読む。直書き禁止）
+TOKEN = os.environ.get("GITHUB_TOKEN", "")
 REPO_NAME = "darazuware/rugby-db"
 
 def create_issue(title, body="", issue_type="task"):
