@@ -44,5 +44,15 @@
     { "city_ja": "ブリスベン", "stadium_ja": "ブリスベン・スタジアム", "capacity": 52500 },
     { "city_ja": "ニューカッスル", "stadium_ja": "ニューカッスル・スタジアム", "capacity": 33000 },
     { "city_ja": "タウンズビル", "stadium_ja": "ノース・クイーンズランド・スタジアム", "capacity": 25455 }
+  ],
+  "host_cities_note": "州名は一般的な地理情報（変動しない事実）。大会関連の詳細（現地アクセス・チケット等）は公式発表を確認してください。",
+  "host_cities": [
+    { "city_ja": "シドニー", "state_ja": "ニューサウスウェールズ州", "is_japan_match_city": false },
+    { "city_ja": "パース", "state_ja": "西オーストラリア州", "is_japan_match_city": false },
+    { "city_ja": "アデレード", "state_ja": "南オーストラリア州", "is_japan_match_city": true },
+    { "city_ja": "メルボルン", "state_ja": "ビクトリア州", "is_japan_match_city": false },
+    { "city_ja": "ブリスベン", "state_ja": "クイーンズランド州", "is_japan_match_city": true },
+    { "city_ja": "ニューカッスル", "state_ja": "ニューサウスウェールズ州", "is_japan_match_city": true },
+    { "city_ja": "タウンズビル", "state_ja": "クイーンズランド州", "is_japan_match_city": false }
   ]
 }

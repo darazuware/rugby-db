@@ -3,10 +3,25 @@ import fs from "fs";
 import Layout from "../../layouts/Layout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import JSONLD from "../../components/JSONLD.astro";
+import PRNotice from "../../components/PRNotice.astro";
+import OverseasTravelButtons from "../../components/OverseasTravelButtons.astro";
 
 const rwc = JSON.parse(fs.readFileSync(new URL("../../../data/manual/rwc2027.json", import.meta.url), "utf-8"));
 
 export const prerender = true;
+
+// 開催都市ガイド用: host_cities（州名等の地理情報）と venues（会場・収容人数）を都市名で結合
+interface Venue { city_ja: string; stadium_ja: string; capacity: number }
+interface HostCity { city_ja: string; state_ja: string; is_japan_match_city: boolean }
+const venuesByCity = new Map<string, Venue[]>();
+for (const v of rwc.venues as Venue[]) {
+  if (!venuesByCity.has(v.city_ja)) venuesByCity.set(v.city_ja, []);
+  venuesByCity.get(v.city_ja)!.push(v);
+}
+const cityGuides = (rwc.host_cities as HostCity[]).map((c) => ({
+  ...c,
+  stadiums: venuesByCity.get(c.city_ja) ?? [],
+}));
 
 // Format date to "2027年10月3日（日）" style
 function formatDate(dateStr: string): string {
@@ -62,9 +77,10 @@ const jsonLdData = {
         <h1 class="text-4xl md:text-6xl font-black text-foreground italic tracking-tighter mb-4 leading-tight">
           {rwc.tournament.name_ja}
         </h1>
-        <p class="text-foreground/60 font-bold tracking-[0.05em] text-sm md:text-base mb-12">
+        <p class="text-foreground/60 font-bold tracking-[0.05em] text-sm md:text-base mb-4">
           {formatDate(rwc.tournament.start_date)}〜{formatDate(rwc.tournament.end_date)}開催
         </p>
+        <PRNotice />
 
         {/* Tournament Overview */}
         <section class="mb-16">
@@ -285,11 +301,52 @@ const jsonLdData = {
           </div>
         </section>
 
+        {/* Host City Guide */}
+        <section class="mb-16">
+          <h2 class="text-2xl md:text-3xl font-black text-foreground mb-2 uppercase tracking-tight">
+            開催都市ガイド
+          </h2>
+          <p class="text-foreground/50 text-xs font-bold mb-6">
+            {rwc.host_cities_note}
+          </p>
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {cityGuides.map((c) => (
+              <div class={`bg-card border-2 rounded-lg p-6 transition-all ${
+                c.is_japan_match_city
+                  ? "border-yellow-400 shadow-lg shadow-yellow-400/20"
+                  : "border-border-dim"
+              }`}>
+                <div class="flex items-center justify-between mb-1">
+                  <h3 class="text-xl font-black text-foreground">
+                    {c.city_ja}
+                  </h3>
+                  {c.is_japan_match_city && (
+                    <span class="text-xs font-black bg-yellow-400 text-black px-3 py-1 rounded-full uppercase tracking-widest">
+                      日本代表試合
+                    </span>
+                  )}
+                </div>
+                <p class="text-foreground/50 text-xs font-bold mb-4">
+                  {c.state_ja}
+                </p>
+                <div class="space-y-1 mb-4">
+                  {c.stadiums.map((s) => (
+                    <p class="text-foreground/80 text-sm font-bold">
+                      {s.stadium_ja}（収容{s.capacity.toLocaleString('ja-JP')}人）
+                    </p>
+                  ))}
+                </div>
+                <OverseasTravelButtons city={c.city_ja} compact />
+              </div>
+            ))}
+          </div>
+        </section>
+
         {/* Notice */}
         <section class="mb-16">
           <div class="bg-yellow-400/10 border-l-4 border-yellow-400 rounded-r-lg p-6">
             <p class="text-foreground/70 font-bold text-sm leading-relaxed">
-              情報は判明次第更新します。日程・会場・対戦相手は予定のため、変更される可能性があります。
+              情報は判明次第更新します。日程・会場・対戦相手は予定のため、変更される可能性があります。宿泊・航空券の空き状況や価格は変動するため、渡航計画は公式発表・各予約サービスで最新情報をご確認ください。
             </p>
           </div>
         </section>

@@ -72,3 +72,33 @@ export const ACCOMMODATION_PROVIDERS: Record<string, AccommodationProvider> = {
 export function getAccommodationProviders(): AccommodationProvider[] {
     return Object.values(ACCOMMODATION_PROVIDERS);
 }
+
+export interface FlightProvider {
+    id: string;
+    name: string;
+    /** ASP経由の航空券検索導線URL。本番URLはユーザーが貼るまでプレースホルダーのまま。 */
+    url: string;
+}
+
+// 海外宿泊予約サービス（P4-5）。venue_areas.json は国内会場のみのため、
+// RWC2027（豪州）等の海外開催地ではこちらを使う。
+export const OVERSEAS_ACCOMMODATION_PROVIDERS: Record<string, AccommodationProvider> = {
+    agoda: { id: "agoda", name: "Agoda", url: "#TODO_ASP_URL" },
+    bookingcom: { id: "bookingcom", name: "Booking.com", url: "#TODO_ASP_URL" },
+};
+
+/** 海外宿泊予約サービス一覧を返す（RWC2027特集ページ等、海外開催地ページ専用）。参照: docs/renewal/07_AFFILIATE.md */
+export function getOverseasAccommodationProviders(): AccommodationProvider[] {
+    return Object.values(OVERSEAS_ACCOMMODATION_PROVIDERS);
+}
+
+// 航空券検索サービス（P4-5、RWC2027等の海外渡航向け）
+export const FLIGHT_PROVIDERS: Record<string, FlightProvider> = {
+    skyticket: { id: "skyticket", name: "skyticket", url: "#TODO_ASP_URL" },
+    expedia: { id: "expedia", name: "Expedia", url: "#TODO_ASP_URL" },
+};
+
+/** 航空券検索サービス一覧を返す（RWC2027特集ページ等、海外渡航ページ専用）。参照: docs/renewal/07_AFFILIATE.md */
+export function getFlightProviders(): FlightProvider[] {
+    return Object.values(FLIGHT_PROVIDERS);
+}

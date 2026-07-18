@@ -1,0 +1,64 @@
+---
+// 海外開催地（RWC2027等）向けの宿泊・航空券導線ボタン（P4-5）。
+// venue_areas.json は国内会場のみ対応のため、海外都市ではこちらを使う。
+// 参照: docs/renewal/07_AFFILIATE.md
+import {
+    getOverseasAccommodationProviders,
+    getFlightProviders,
+    AFFILIATE_LINK_ATTRS,
+} from "../lib/affiliates";
+
+interface Props {
+    /** 表示用の都市名（例: "シドニー"）。ラベル文言にのみ使用、リンク先は固定プレースホルダー */
+    city?: string | null;
+    /** 1件のみ表示するコンパクト表示 */
+    compact?: boolean;
+    class?: string;
+}
+
+const { city, compact = false, class: className = "" } = Astro.props;
+const accommodationProviders = compact
+    ? getOverseasAccommodationProviders().slice(0, 1)
+    : getOverseasAccommodationProviders();
+const flightProviders = compact ? getFlightProviders().slice(0, 1) : getFlightProviders();
+---
+
+{
+    (accommodationProviders.length > 0 || flightProviders.length > 0) && (
+        <div class={`flex flex-wrap items-center gap-2 ${className}`}>
+            {!compact && (
+                <span class="text-[10px] font-bold text-foreground/40 uppercase tracking-widest">
+                    {city ? `${city}の` : ""}宿泊・航空券:
+                </span>
+            )}
+            {accommodationProviders.map((p) => (
+                <a
+                    href={p.url}
+                    rel={AFFILIATE_LINK_ATTRS.rel}
+                    target={AFFILIATE_LINK_ATTRS.target}
+                    class={
+                        compact
+                            ? "inline-flex items-center gap-1 px-2.5 py-1 bg-foreground/10 text-foreground text-[9px] font-black rounded-lg hover:bg-foreground/20 transition-colors uppercase tracking-wide whitespace-nowrap"
+                            : "inline-flex items-center gap-2 px-6 py-3 bg-foreground/10 text-foreground hover:bg-foreground/20 transition-all rounded-xl font-black text-[10px] uppercase tracking-widest border border-border-dim/50"
+                    }
+                >
+                    {compact ? `${p.name}で探す` : `ホテルを探す（${p.name}）`}
+                </a>
+            ))}
+            {flightProviders.map((p) => (
+                <a
+                    href={p.url}
+                    rel={AFFILIATE_LINK_ATTRS.rel}
+                    target={AFFILIATE_LINK_ATTRS.target}
+                    class={
+                        compact
+                            ? "inline-flex items-center gap-1 px-2.5 py-1 bg-foreground/10 text-foreground text-[9px] font-black rounded-lg hover:bg-foreground/20 transition-colors uppercase tracking-wide whitespace-nowrap"
+                            : "inline-flex items-center gap-2 px-6 py-3 bg-foreground/10 text-foreground hover:bg-foreground/20 transition-all rounded-xl font-black text-[10px] uppercase tracking-widest border border-border-dim/50"
+                    }
+                >
+                    {compact ? `${p.name}` : `航空券を探す（${p.name}）`}
+                </a>
+            ))}
+        </div>
+    )
+}
