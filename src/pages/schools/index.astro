@@ -1,0 +1,92 @@
+---
+/**
+ * /schools — 学校一覧（P5-4, 10）。出身選手一覧ページへの入口。
+ * データ源は data/master/schools/schools.json + players/*.json のみ。
+ */
+export const prerender = true;
+import Layout from "../../layouts/Layout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import { getAllSchools, type School } from "../../lib/master";
+import { getSchoolPlayerIndex } from "../../lib/connections";
+
+const [schools, index] = await Promise.all([getAllSchools(), getSchoolPlayerIndex()]);
+
+interface Row {
+  school: School;
+  count: number;
+}
+
+const rows: Row[] = schools
+  .map((school) => ({ school, count: (index.get(school.id) ?? []).length }))
+  .filter((r) => r.count > 0)
+  .sort((a, b) => b.count - a.count || a.school.name.localeCompare(b.school.name, "ja"));
+
+const hsRows = rows.filter((r) => r.school.type === "hs");
+const univRows = rows.filter((r) => r.school.type === "univ");
+---
+
+<Layout
+  title="学校一覧 | 出身選手データベース | RUGBY PICKS"
+  description={`高校・大学別のラグビー選手出身校データベース。${schools.length}校を掲載。masterデータのみから生成。`}
+>
+  <main class="bg-background min-h-screen py-12 px-4">
+    <div class="max-w-5xl mx-auto">
+      <Breadcrumbs items={[{ label: "学校" }]} />
+
+      <header class="mb-12 text-center">
+        <h1 class="text-4xl md:text-5xl font-black text-foreground tracking-tighter italic mb-4 uppercase">
+          SCHOOL<span class="text-yellow-400">DATABASE</span>
+        </h1>
+        <p class="text-foreground/60 font-bold italic max-w-2xl mx-auto">
+          出身校別に選手を検索。{rows.length}校・{rows.reduce((sum, r) => sum + r.count, 0)}名を掲載。
+        </p>
+      </header>
+
+      {univRows.length > 0 && (
+        <section class="mb-12">
+          <h2 class="text-lg font-black text-foreground mb-4 border-l-4 border-yellow-400 pl-4">
+            大学（{univRows.length}校）
+          </h2>
+          <ul class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
+            {univRows.map((r) => (
+              <li>
+                <a
+                  href={`/schools/${r.school.id}`}
+                  class="flex items-center justify-between gap-2 p-4 rounded-2xl bg-card border border-border-dim hover:border-yellow-400/50 transition-all group"
+                >
+                  <span class="font-bold text-foreground group-hover:text-yellow-600 transition-colors truncate">
+                    {r.school.name}
+                  </span>
+                  <span class="text-[10px] font-black text-foreground/40 shrink-0">{r.count}名</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      {hsRows.length > 0 && (
+        <section>
+          <h2 class="text-lg font-black text-foreground mb-4 border-l-4 border-yellow-400 pl-4">
+            高校（{hsRows.length}校）
+          </h2>
+          <ul class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
+            {hsRows.map((r) => (
+              <li>
+                <a
+                  href={`/schools/${r.school.id}`}
+                  class="flex items-center justify-between gap-2 p-4 rounded-2xl bg-card border border-border-dim hover:border-yellow-400/50 transition-all group"
+                >
+                  <span class="font-bold text-foreground group-hover:text-yellow-600 transition-colors truncate">
+                    {r.school.name}
+                  </span>
+                  <span class="text-[10px] font-black text-foreground/40 shrink-0">{r.count}名</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+    </div>
+  </main>
+</Layout>

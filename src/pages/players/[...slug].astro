@@ -17,13 +17,16 @@ import { getTeamSlug } from "../../utils/team_utils";
 import {
   canHaveIndividualPlayerPage,
   getAllPlayers,
+  getAllSchools,
   getTeamById,
   teamDisplayName,
   type Player,
+  type School,
   type Team,
 } from "../../lib/master";
 import { buildPlayerBioSentences, calcAge } from "../../lib/playerText";
 import { positionJa } from "../../lib/positions";
+import { getSchoolmates, playerBadges, type SchoolmateRelation } from "../../lib/connections";
 
 export async function getStaticPaths() {
   const players = await getAllPlayers();
@@ -49,6 +52,19 @@ const teamColor: string | null =
 const posJa = positionJa(player.position);
 const age = calcAge(player.birthdate);
 const bioSentences = buildPlayerBioSentences(player, { teamName });
+
+// つながりグラフ（P5-4, 10）: 出身校ベースの同期/先輩後輩 + 年代別/セブンズ代表バッジ。
+// 学校→選手インデックスはビルド中一度だけ構築される（lib/connections.ts）。
+const badges = playerBadges(player);
+const schoolGroups = await getSchoolmates(player);
+const allSchools: School[] = schoolGroups.length > 0 ? await getAllSchools() : [];
+const schoolById = new Map(allSchools.map((s) => [s.id, s]));
+const RELATION_LABEL: Record<SchoolmateRelation, string> = {
+  senior: "先輩",
+  junior: "後輩",
+  sync: "同期",
+  unknown: "同校",
+};
 
 // 表示名: 日本語優先。サブは読み仮名 or 英語表記（メインと異なる場合のみ）。
 const mainName = player.name_ja || player.name_en || player.slug;
@@ -281,6 +297,17 @@ const metaDesc = [
           ))}
         </div>
 
+        {/* バッジ（年代別代表・セブンズ代表・代表キャップ。squad/caps 由来のみ） */}
+        {badges.length > 0 && (
+          <div class="flex flex-wrap gap-2 mb-6">
+            {badges.map((b) => (
+              <span class="inline-flex items-center bg-yellow-400/10 text-yellow-600 rounded-full px-3 py-1 text-xs font-black uppercase tracking-widest">
+                {b.label}
+              </span>
+            ))}
+          </div>
+        )}
+
         {/* 国旗（国籍があれば） */}
         {player.nationality.length > 0 && (
           <div class="flex flex-wrap gap-2 mb-8">
@@ -319,6 +346,63 @@ const metaDesc = [
                 </li>
               ))}
             </ul>
+          </section>
+        )}
+
+        {/* つながりグラフ（P5-4, 10）: 出身校の同期・先輩後輩 */}
+        {schoolGroups.length > 0 && (
+          <section class="mb-10">
+            <h2 class="text-lg font-black text-foreground mb-3">同じ出身校の選手</h2>
+            <div class="space-y-6">
+              {schoolGroups.map((group) => {
+                const school = schoolById.get(group.schoolId);
+                if (!school || group.mates.length === 0) return null;
+                return (
+                  <div>
+                    <a
+                      href={`/schools/${group.schoolId}`}
+                      class="inline-block text-sm font-black text-foreground/70 hover:text-yellow-600 transition-colors mb-3 underline decoration-border-dim/50 decoration-2 underline-offset-4"
+                    >
+                      {school.name}
+                    </a>
+                    <ul class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                      {group.mates.map((mate) => {
+                        const mateName = mate.player.name_ja || mate.player.name_en || mate.player.slug;
+                        const mateBadges = playerBadges(mate.player);
+                        const relationLabel = RELATION_LABEL[mate.relation];
+                        const content = (
+                          <>
+                            <span class="px-2 py-0.5 bg-border-dim/20 text-foreground/60 rounded-full text-[9px] font-black uppercase tracking-widest shrink-0">
+                              {relationLabel}
+                            </span>
+                            <span class="font-bold text-foreground truncate">{mateName}</span>
+                            {mateBadges.map((b) => (
+                              <span class="px-2 py-0.5 bg-yellow-400/10 text-yellow-600 rounded-full text-[9px] font-black uppercase tracking-widest shrink-0">
+                                {b.label}
+                              </span>
+                            ))}
+                          </>
+                        );
+                        return (
+                          <li class="flex items-center gap-2 p-3 rounded-xl bg-background border border-border-dim">
+                            {canHaveIndividualPlayerPage(mate.player) ? (
+                              <a
+                                href={`/players/${mate.player.slug}`}
+                                class="flex items-center gap-2 min-w-0 hover:text-yellow-600 transition-colors flex-1"
+                              >
+                                {content}
+                              </a>
+                            ) : (
+                              <div class="flex items-center gap-2 min-w-0 flex-1">{content}</div>
+                            )}
+                          </li>
+                        );
+                      })}
+                    </ul>
+                  </div>
+                );
+              })}
+            </div>
           </section>
         )}
 

@@ -1,0 +1,199 @@
+---
+/**
+ * /schools/[id] — 学校ページ（P5-4, 04, 10）。
+ *
+ * データ源は data/master/schools/schools.json + players/*.json の education.school_id のみ。
+ * 出身選手一覧はロングテールSEOの受け皿。未成年（is_minor）の表示制限は master.ts の
+ * 読み込み層（sanitizeMinorPlayer）で既に強制済みなのでこのページでは何もしない。
+ * 高校生（league="highschool"）は個別ページを持たない（10）ため、ここでは一覧行のみで表示する。
+ */
+export const prerender = true;
+import Layout from "../../layouts/Layout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import {
+  canHaveIndividualPlayerPage,
+  getAllSchools,
+  type Player,
+  type School,
+} from "../../lib/master";
+import { getSchoolPlayerIndex, playerBadges } from "../../lib/connections";
+import { positionJa } from "../../lib/positions";
+
+export async function getStaticPaths() {
+  const [schools, index] = await Promise.all([getAllSchools(), getSchoolPlayerIndex()]);
+  return schools.map((school) => ({
+    params: { id: school.id },
+    props: { school, players: index.get(school.id) ?? [] },
+  }));
+}
+
+const { school, players } = Astro.props as { school: School; players: Player[] };
+
+const TYPE_LABEL: Record<School["type"], string> = { hs: "高校", univ: "大学" };
+const typeLabel = TYPE_LABEL[school.type];
+
+function gradYearOf(p: Player): number | null {
+  const edu = p.education.find((e) => e.school_id === school.id);
+  return edu?.grad_year ?? null;
+}
+
+// 卒業年降順（新しい方を先に）。不明は末尾。
+function sortByGradYearDesc(list: Player[]): Player[] {
+  return [...list].sort((a, b) => {
+    const ya = gradYearOf(a);
+    const yb = gradYearOf(b);
+    if (ya == null && yb == null) return 0;
+    if (ya == null) return 1;
+    if (yb == null) return -1;
+    return yb - ya;
+  });
+}
+
+// 個別ページのある選手（卒業生・現役プロ・代表等） / 個別ページの無い高校生（10のポリシー）
+const alumni = sortByGradYearDesc(players.filter(canHaveIndividualPlayerPage));
+const currentHsStudents = sortByGradYearDesc(players.filter((p) => !canHaveIndividualPlayerPage(p)));
+
+const displayName = school.name;
+const metaDescParts = [
+  `${displayName}${typeLabel}`,
+  alumni.length > 0 ? `出身選手${alumni.length}名` : null,
+  currentHsStudents.length > 0 ? `在籍選手${currentHsStudents.length}名` : null,
+];
+const metaDesc = metaDescParts.filter(Boolean).join("、") + "。masterデータのみから生成。";
+---
+
+<Layout
+  title={`${displayName} | 出身選手一覧 | RUGBY PICKS`}
+  description={`${displayName}（${typeLabel}）出身のラグビー選手一覧。${metaDesc}`}
+>
+  <div class="py-4 max-w-5xl mx-auto px-4">
+    <Breadcrumbs items={[{ label: "学校", href: "/schools" }, { label: displayName }]} />
+
+    <div class="bg-card rounded-3xl shadow-2xl overflow-hidden border border-border-dim mb-10">
+      <div class="bg-gray-900 p-8 text-white relative">
+        <div class="relative z-10">
+          <a
+            href="/schools"
+            class="inline-flex items-center text-yellow-400 font-bold mb-6 hover:translate-x-1 transition-transform"
+          >
+            ← 学校一覧に戻る
+          </a>
+          <span
+            class="inline-block bg-yellow-400 text-black px-3 py-1 rounded-full font-black text-[10px] uppercase tracking-widest mb-4"
+          >
+            {typeLabel}
+          </span>
+          <h1 class="text-3xl md:text-5xl font-black mb-2 tracking-tight break-words">
+            {displayName}
+          </h1>
+          {school.pref && <p class="text-gray-400 font-bold">{school.pref}</p>}
+        </div>
+      </div>
+
+      <div class="p-8">
+        <section class="mb-10">
+          <div class="flex items-center gap-4 mb-6">
+            <h2 class="text-lg font-black text-foreground">出身選手</h2>
+            <span
+              class="px-3 py-1 bg-background border border-border-dim rounded-lg text-[10px] font-black text-foreground/40 uppercase tracking-widest"
+            >
+              {alumni.length} 名
+            </span>
+          </div>
+
+          {alumni.length === 0 ? (
+            <p class="text-foreground/40 font-bold text-sm">現在、データベースに掲載選手はいません。</p>
+          ) : (
+            <ul class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+              {alumni.map((p) => {
+                const name = p.name_ja || p.name_en || p.slug;
+                const gradYear = gradYearOf(p);
+                const badges = playerBadges(p);
+                const posJa = positionJa(p.position);
+                return (
+                  <li>
+                    <a
+                      href={`/players/${p.slug}`}
+                      class="flex flex-col gap-1 p-4 rounded-2xl bg-background border border-border-dim hover:border-yellow-400/50 transition-all group"
+                    >
+                      <div class="flex items-center justify-between gap-2">
+                        <span class="font-black text-foreground group-hover:text-yellow-600 transition-colors truncate">
+                          {name}
+                        </span>
+                        {gradYear && (
+                          <span class="text-[10px] font-bold text-foreground/40 shrink-0">
+                            {gradYear}年卒
+                          </span>
+                        )}
+                      </div>
+                      <div class="flex flex-wrap items-center gap-1.5">
+                        {posJa && (
+                          <span class="text-[10px] font-bold text-foreground/50 uppercase tracking-widest">
+                            {posJa}
+                          </span>
+                        )}
+                        {badges.map((b) => (
+                          <span class="px-2 py-0.5 bg-yellow-400/10 text-yellow-600 rounded-full text-[9px] font-black uppercase tracking-widest">
+                            {b.label}
+                          </span>
+                        ))}
+                      </div>
+                    </a>
+                  </li>
+                );
+              })}
+            </ul>
+          )}
+        </section>
+
+        {currentHsStudents.length > 0 && (
+          <section>
+            <div class="flex items-center gap-4 mb-6">
+              <h2 class="text-lg font-black text-foreground">在籍選手（高校生）</h2>
+              <span
+                class="px-3 py-1 bg-background border border-border-dim rounded-lg text-[10px] font-black text-foreground/40 uppercase tracking-widest"
+              >
+                {currentHsStudents.length} 名
+              </span>
+            </div>
+            <p class="text-[11px] text-foreground/40 font-bold mb-4">
+              未成年保護のため個別ページは作成していません（氏名・学年・出場記録のみ掲載）。
+            </p>
+            <ul class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+              {currentHsStudents.map((p) => {
+                const name = p.name_ja || p.name_en;
+                const gradYear = gradYearOf(p);
+                const badges = playerBadges(p);
+                const posJa = positionJa(p.position);
+                return (
+                  <li class="flex flex-col gap-1 p-4 rounded-2xl bg-background border border-border-dim">
+                    <div class="flex items-center justify-between gap-2">
+                      <span class="font-black text-foreground truncate">{name}</span>
+                      {gradYear && (
+                        <span class="text-[10px] font-bold text-foreground/40 shrink-0">
+                          {gradYear}年卒
+                        </span>
+                      )}
+                    </div>
+                    <div class="flex flex-wrap items-center gap-1.5">
+                      {posJa && (
+                        <span class="text-[10px] font-bold text-foreground/50 uppercase tracking-widest">
+                          {posJa}
+                        </span>
+                      )}
+                      {badges.map((b) => (
+                        <span class="px-2 py-0.5 bg-yellow-400/10 text-yellow-600 rounded-full text-[9px] font-black uppercase tracking-widest">
+                          {b.label}
+                        </span>
+                      ))}
+                    </div>
+                  </li>
+                );
+              })}
+            </ul>
+          </section>
+        )}
+      </div>
+    </div>
+  </div>
+</Layout>

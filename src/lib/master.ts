@@ -160,6 +160,20 @@ export interface Standing {
 /** dup_id → canonical_id（data/manual/player_merges.json、01の canonical_id 運用） */
 export type PlayerMerges = Record<string, string>;
 
+/**
+ * 学校（10_YOUTH_AGEGRADE.md, P5-1）。data/master/schools/schools.json の1レコード。
+ * pref/name_kana はソースに無い限り null（P5-5/P5-6の公式名簿スクレイパーが実データで埋める）。
+ */
+export interface School {
+  id: string;
+  name: string;
+  name_kana: string | null;
+  type: "hs" | "univ";
+  pref: string | null;
+  source_url: string | null;
+  scraped_at: string | null;
+}
+
 // ---------------------------------------------------------------------------
 // パス
 // ---------------------------------------------------------------------------
@@ -169,6 +183,7 @@ const PLAYERS_DIR = join(MASTER_DIR, "players");
 const TEAMS_DIR = join(MASTER_DIR, "teams");
 const MATCHES_DIR = join(MASTER_DIR, "matches");
 const STANDINGS_DIR = join(MASTER_DIR, "standings");
+const SCHOOLS_FILE = join(MASTER_DIR, "schools", "schools.json");
 const MANUAL_DIR = join(process.cwd(), "data", "manual");
 
 // ---------------------------------------------------------------------------
@@ -427,6 +442,40 @@ export async function getStandingByLeague(league: LeagueKey): Promise<Standing |
 }
 
 // ---------------------------------------------------------------------------
+// Schools（P5-4: 学校ページ + つながりグラフ。10_YOUTH_AGEGRADE.md）
+// ---------------------------------------------------------------------------
+
+let _schoolsCache: Promise<School[]> | null = null;
+
+async function loadAllSchoolsRaw(): Promise<School[]> {
+  return readJsonSafe<School[]>(SCHOOLS_FILE, []);
+}
+
+export function getAllSchools(): Promise<School[]> {
+  if (!_schoolsCache) _schoolsCache = loadAllSchoolsRaw();
+  return _schoolsCache;
+}
+
+let _schoolByIdCache: Promise<Map<string, School>> | null = null;
+
+async function getSchoolByIdIndex(): Promise<Map<string, School>> {
+  if (!_schoolByIdCache) {
+    _schoolByIdCache = getAllSchools().then((schools) => new Map(schools.map((s) => [s.id, s])));
+  }
+  return _schoolByIdCache;
+}
+
+export async function getSchoolById(id: string): Promise<School | undefined> {
+  const index = await getSchoolByIdIndex();
+  return index.get(id);
+}
+
+/** 学校の表示名（name優先、無ければ null）。将来 name_kana 併記が必要ならここに集約する。 */
+export function schoolDisplayName(school: School | null | undefined): string | null {
+  return school?.name ?? null;
+}
+
+// ---------------------------------------------------------------------------
 // テスト用: モジュールキャッシュのリセット（本番コードからは呼ばない）
 // ---------------------------------------------------------------------------
 
@@ -436,4 +485,6 @@ export function __resetMasterCacheForTests(): void {
   _teamsCache = null;
   _matchesCache = null;
   _standingsCache = null;
+  _schoolsCache = null;
+  _schoolByIdCache = null;
 }
