@@ -151,8 +151,12 @@ def player_allrugby(raw: dict, *, league: str, team_id: str) -> tuple[Optional[d
     return model.model_dump(by_alias=True), w
 
 
-def team_allrugby(raw: dict, *, league: str) -> tuple[Optional[dict], list[str]]:
-    """all.rugby のクラブ → Team dict。id はクラブ slug（migrate_legacy と一致）。"""
+def team_allrugby(raw: dict, *, league: str, roster_mode: str = "full") -> tuple[Optional[dict], list[str]]:
+    """all.rugby のクラブ → Team dict。id はクラブ slug（migrate_legacy と一致）。
+
+    roster_mode="partial"（P4-6: urc/premiership等、日本人・スター選手のみ収集するリーグ）
+    を渡すと 03 の roster_sym 検証が免除される（01 L108 準拠）。
+    """
     slug = raw.get("slug")
     if not slug:
         return None, ["all.rugby team: slug 欠落のためスキップ"]
@@ -163,7 +167,7 @@ def team_allrugby(raw: dict, *, league: str) -> tuple[Optional[dict], list[str]]
         "name_en": raw.get("name_en") or (None if raw.get("name_ja") else slug),
         "source_url": f"https://all.rugby/club/{slug}/squad",
         "scraped_at": _now(),
-        "roster_mode": "full",
+        "roster_mode": roster_mode,
         "roster_ids": raw.get("roster_ids", []),
     }
     try:
@@ -178,12 +182,21 @@ def standing_allrugby(rows_raw: list[dict], *, league: str, season: str,
     """all.rugby 順位表の行リスト → Standing dict。team_id はクラブ slug。
 
     列順（all.rugby）: PTS, PL, W, D, L。played≠W+D+L や数値欠落の行は落とす。
+
+    引分0の空欄補正（P4-6, 2026-07-19 実ページ確認）: all.rugby は引分 0 を空欄で
+    表示する（例: URC表 glasgow PL17 W12 D空欄 L5）。他の数値が揃っていて
+    W+L=PL が成立する場合のみ機械的検証つきで drawn=0 とみなす（推測ではなく
+    算術で確認できるケースに限定。それ以外の空欄は従来どおり行ごと除外）。
     """
     warnings: list[str] = []
     rows = []
     for r in rows_raw:
         tid = r.get("team_id")
         vals = {k: _to_int(r.get(k)) for k in ("rank", "played", "won", "drawn", "lost", "points")}
+        if (vals["drawn"] is None and str(r.get("drawn") or "").strip() == ""
+                and None not in (vals["played"], vals["won"], vals["lost"])
+                and vals["played"] == vals["won"] + vals["lost"]):
+            vals["drawn"] = 0
         if tid is None or any(vals[k] is None for k in ("rank", "played", "won", "drawn", "lost", "points")):
             warnings.append(f"{league} standings: team={tid} の数値欠落のため行を除外")
             continue

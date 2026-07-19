@@ -15,6 +15,11 @@
     collect_national() -> 同形式（P1-7）。日本代表＋pipeline.scrape.jrfu が返す
       直近対戦国のみのスコッドを対象とし、テストキャップ enrich は常時行う
       （対象人数が少ないため ALL_RUGBY_ENRICH フラグに依存しない）。
+    collect_star(tournament) -> 同形式（P4-6）。tournament は "urc" / "premiership"。
+      00の条件付きスコープ（フルスコッドは取得しない）に従い、選手個別ページを
+      全員enrichした上で「日本人選手」または「代表テストキャップがソースに記載」の
+      いずれかを満たす選手のみを収集する（機械的に確認可能な基準のみ使用、AIの
+      恣意的選定は行わない）。Team は roster_mode="partial" で書き込む。
 """
 from __future__ import annotations
 
@@ -50,6 +55,19 @@ TOURNAMENTS = {
     "super-rugby-pacific": {"key": "super-rugby-pacific", "league": "super-rugby"},
 }
 
+# P4-6: 部分収集トーナメント（00 条件付きスコープ: チームページ＋日本人・スター選手のみ、
+# フルスコッド名鑑はやらない）。key は all.rugby の URL キー（2026-07-19 に実ページで確認:
+#   /tournament/urc/table → title "URC Table 2025 / 2026 (BKT United Rugby Championship)"、club 16件
+#     (benetton/bulls/cardiff/connacht/dragons/edinburgh/glasgow/leinster/lions/munster/
+#      ospreys/scarlets/sharks/stormers/ulster/zebre)
+#   /tournament/premiership/table → title "Premiership Table 2025 / 2026 (Gallagher Premiership)"、club 10件
+#     (bath/bristol/exeter/gloucester/harlequins/leicester/newcastle/northampton/sale/saracens)
+#   ※ united-rugby-championship / premiership-rugby / gallagher-premiership は 404）。
+STAR_TOURNAMENTS = {
+    "urc": {"key": "urc", "league": "urc"},
+    "premiership": {"key": "premiership", "league": "premiership"},
+}
+
 # クラブ slug → 日本語表記（data/legacy/top14_teams.json 由来の事実、migrate_legacy と一致）。
 # 昇降格で live 表に出た未知 slug は英語名でフォールバックする。
 NAME_JA = {
@@ -67,6 +85,27 @@ NAME_JA = {
 # Super Rugby Pacific のクラブは、確認済みの和文表記の出典（data/legacy 含む）が
 # 無いため意図的に未登録（原則3: 不明は null）。team_allrugby が英語名/slugへ
 # フォールバックする。
+#
+# URC / Premiership のクラブ和文表記（P4-6）: 既存サイト表示データ data/teams.json
+# （league="urc"/"premiership" の team_name）由来の事実。all.rugby slug との対応は
+# 同ファイルの team_en_name / slug で機械的に突合した（AIによる新規翻訳はしない）。
+NAME_JA |= {
+    # URC（data/teams.json league="urc"）
+    "benetton": "ベネットン・ラグビー・トレヴィーゾ", "bulls": "ヴォーダコム・ブルズ",
+    "cardiff": "カーディフ・ラグビー", "connacht": "コナート・ラグビー",
+    "dragons": "ドラゴンズ・ラグビー", "edinburgh": "エディンバラ・ラグビー",
+    "glasgow": "グラスゴー・ウォリアーズ", "leinster": "レンスター・ラグビー",
+    "lions": "エミレーツ・ライオンズ", "munster": "マンスター・ラグビー",
+    "ospreys": "オスプリーズ", "scarlets": "スカーレッツ",
+    "sharks": "ハリウッドベッツ・シャークス", "stormers": "DHLストーマーズ",
+    "ulster": "アルスター・ラグビー", "zebre": "ゼブレ・パルマ",
+    # Premiership（data/teams.json league="premiership"）
+    "bath": "バース・ラグビー", "bristol": "ブリストル・ベアーズ",
+    "exeter": "エクセター・チーフス", "gloucester": "グロスター・ラグビー",
+    "harlequins": "ハーレクインズ", "leicester": "レスター・タイガーズ",
+    "newcastle": "ニューカッスル・ファルコンズ", "northampton": "ノーサンプトン・セインツ",
+    "sale": "セール・シャークス", "saracens": "サラセンズ",
+}
 
 # スモークテスト用の上限（本番未設定）。ALL_RUGBY_MAX_TEAMS / _MAX_PLAYERS。
 _MAX_TEAMS = int(os.environ.get("ALL_RUGBY_MAX_TEAMS", "0")) or None
@@ -276,6 +315,55 @@ def parse_player_caps(html: str, country_display: str) -> Optional[int]:
     return None
 
 
+def parse_sporting_nationality(html: str) -> Optional[str]:
+    """選手個別ページの bio から Sporting nationality（代表資格国）の国名を返す。
+
+    bio の 'Sporting nationality' 行の国旗 img alt（'Drapeau {国名}'）を使う。
+    無ければ None（原則3: 不明は null）。
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    bio = soup.find("div", class_="bio")
+    if not bio:
+        return None
+    for div in bio.find_all("div"):
+        span = div.find("span", class_="gras")
+        if not span or span.get_text(strip=True) != "Sporting nationality":
+            continue
+        img = div.find("img")
+        if img and img.get("alt"):
+            country = img["alt"].replace("Drapeau ", "").strip()
+            if country:
+                return country
+    return None
+
+
+def _enrich_star(raw: dict) -> None:
+    """P4-6 用 enrich: 選手個別ページ1回のfetchで nationality/career/テストキャップを補完。
+
+    テストキャップは bio の Sporting nationality（代表資格国）に対する通算試合数
+    （parse_player_caps、JOverall の TEAM 集計）をソース記載値のままセットする。
+    収集対象の選別に必要なため ALL_RUGBY_ENRICH フラグに関わらず常に行う。
+    """
+    html = _get(f"{BASE}/player/{raw['slug']}")
+    time.sleep(_SLEEP)
+    if html is None:
+        return
+    bio = parse_player_bio(html)
+    if bio["nationality"]:
+        raw["nationality"] = bio["nationality"]
+    if bio["career"]:
+        raw["career"] = bio["career"]
+    country = parse_sporting_nationality(html)
+    if country:
+        caps_count = parse_player_caps(html, country)
+        if caps_count is not None and caps_count > 0:
+            raw["caps"] = {
+                "team": country,
+                "count": caps_count,
+                "source_url": f"{BASE}/player/{raw['slug']}",
+            }
+
+
 def _enrich_national(raw: dict, country_display: str) -> None:
     """national squad 用 enrich: nationality/career/代表通算試合数を1回のfetchで補完。
 
@@ -349,6 +437,95 @@ def collect(tournament: str) -> dict:
         team, tw = normalize.team_allrugby(
             {"slug": slug, "name_ja": NAME_JA.get(slug), "roster_ids": roster_ids},
             league=league,
+        )
+        warnings.extend(tw)
+        if team is not None:
+            teams_out.append(team)
+
+    standings_out: list[dict] = []
+    valid = {t["id"] for t in teams_out}
+    rows = [r for r in standing_rows_raw if r["team_id"] in valid]
+    standing, sw = normalize.standing_allrugby(
+        rows, league=league, season=season,
+        source_url=f"{BASE}/tournament/{cfg['key']}/table",
+    )
+    warnings.extend(sw)
+    if standing is not None:
+        standings_out.append(standing)
+
+    return {
+        "players": players_out,
+        "teams": teams_out,
+        "matches": [],
+        "standings": standings_out,
+        "warnings": warnings,
+    }
+
+
+def collect_star(tournament: str) -> dict:
+    """P4-6: URC / Premiership の部分収集（00 条件付きスコープ厳守）。
+
+    チームと順位表は全件、選手は以下の**機械的に確認可能な基準**を満たす者のみ収集する
+    （AIの知識による恣意的な「スター」選定はしない。00「有名選手」定義=代表キャップ
+    保持者、および本タスク指示の「日本人選手」に対応）:
+      (a) 日本人選手: 選手個別ページ bio の国籍国旗に Japan が含まれる
+      (b) スター選手: 選手個別ページの通算成績表に Sporting nationality（代表資格国）の
+          テストキャップ（通算試合数 >= 1）が記載されている
+    判定のため squad 全員の個別ページを1回ずつ fetch する（_enrich_star）。
+    基準を満たさない選手・個別ページ取得失敗で判定不能な選手は master に書かない。
+    Team は roster_mode="partial"（03: roster_sym 検証免除、01 L108）で書き込む。
+    """
+    cfg = STAR_TOURNAMENTS[tournament]
+    league = cfg["league"]
+    warnings: list[str] = []
+
+    html = _get(f"{BASE}/tournament/{cfg['key']}/table")
+    time.sleep(_SLEEP)
+    if html is None:
+        warnings.append(f"{league}: トーナメント表取得失敗")
+        return {"players": [], "teams": [], "matches": [], "standings": [], "warnings": warnings}
+
+    club_slugs, standing_rows_raw = parse_tournament_table(html)
+    sm = re.search(r"(20\d{2})\s*/\s*(20\d{2})", html)
+    season = f"{sm.group(1)}-{sm.group(2)[2:]}" if sm else "unknown"
+    if _MAX_TEAMS:
+        club_slugs = club_slugs[:_MAX_TEAMS]
+
+    teams_out: list[dict] = []
+    players_out: list[dict] = []
+    seen_players: set[str] = set()
+
+    for slug in club_slugs:
+        shtml = _get(f"{BASE}/club/{slug}/squad")
+        time.sleep(_SLEEP)
+        if shtml is None:
+            warnings.append(f"{league}: club/{slug}/squad 取得失敗、スキップ")
+            continue
+        squad = parse_squad(shtml)
+        if _MAX_PLAYERS:
+            squad = squad[:_MAX_PLAYERS]
+
+        roster_ids: list[str] = []
+        for raw in squad:
+            if raw["slug"] in seen_players:
+                continue
+            seen_players.add(raw["slug"])
+            _enrich_star(raw)
+            # 選別（上記 docstring の機械的基準のみ）
+            is_japanese = "Japan" in raw.get("nationality", [])
+            has_test_caps = raw.get("caps") is not None
+            if not (is_japanese or has_test_caps):
+                continue
+            player, pw = normalize.player_allrugby(raw, league=league, team_id=slug)
+            warnings.extend(pw)
+            if player is None:
+                continue
+            players_out.append(player)
+            roster_ids.append(player["id"])
+
+        team, tw = normalize.team_allrugby(
+            {"slug": slug, "name_ja": NAME_JA.get(slug), "roster_ids": roster_ids},
+            league=league, roster_mode="partial",
         )
         warnings.extend(tw)
         if team is not None:

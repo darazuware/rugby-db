@@ -30,6 +30,9 @@ export async function getStaticPaths() {
         },
         { params: { league: "top14" }, props: { leagueName: "Top 14" } },
         { params: { league: "urc" }, props: { leagueName: "URC" } },
+        // P4-6: Premiership はチームページ＋日本人・スター選手のみの部分収集リーグ（00）。
+        // URC と同じレイアウト（フルスコッド検索なし）で生成する。
+        { params: { league: "premiership" }, props: { leagueName: "Premiership" } },
     ];
 }
 
@@ -77,7 +80,9 @@ const filteredTeams = (teamsData as any[])
 
 // 当該リーグの順位データと試合結果を取得
 const isTop14 = league === "top14";
-const isURC = league === "urc";
+// 部分収集リーグ（00/P4-6: urc/premiership はチーム＋日本人・スター選手のみ）。
+// フルスコッドが無いため選手検索・クラブ一覧セクションを出さない（従来のURC挙動を踏襲）。
+const isURC = league === "urc" || league === "premiership";
 
 const rawStandings = getLeagueStandings(standingsData, league as LeagueId);
 const fullResults = (resultsData as any)[league || ""] || [];
@@ -145,7 +150,8 @@ const leagueNameMap: Record<string, { en: string; jp: string }> = {
     "league-one": { en: "LEAGUE ONE", jp: "リーグワン" },
     "super-rugby": { en: "SUPER RUGBY", jp: "スーパーラグビー" },
     "top14": { en: "TOP 14", jp: "トップ14" },
-    "urc": { en: "URC", jp: "ユナイテッド・ラグビー・チャンピオンシップ" }
+    "urc": { en: "URC", jp: "ユナイテッド・ラグビー・チャンピオンシップ" },
+    "premiership": { en: "PREMIERSHIP", jp: "プレミアシップ" }
 };
 const currentNames = leagueNameMap[league || ""] || { en: leagueTitle, jp: safeLeagueName };
 

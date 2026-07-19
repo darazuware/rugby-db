@@ -1,0 +1,168 @@
+{
+  "league": "urc",
+  "season": "2025-26",
+  "scraped_at": "2026-07-19T11:52:36+09:00",
+  "source_url": "https://all.rugby/tournament/urc/table",
+  "rows": [
+    {
+      "rank": 1,
+      "team_id": "glasgow",
+      "played": 17,
+      "won": 12,
+      "drawn": 0,
+      "lost": 5,
+      "points": 60,
+      "bonus": null
+    },
+    {
+      "rank": 2,
+      "team_id": "stormers",
+      "played": 17,
+      "won": 12,
+      "drawn": 1,
+      "lost": 4,
+      "points": 59,
+      "bonus": null
+    },
+    {
+      "rank": 3,
+      "team_id": "leinster",
+      "played": 17,
+      "won": 11,
+      "drawn": 0,
+      "lost": 6,
+      "points": 58,
+      "bonus": null
+    },
+    {
+      "rank": 4,
+      "team_id": "bulls",
+      "played": 17,
+      "won": 11,
+      "drawn": 0,
+      "lost": 6,
+      "points": 54,
+      "bonus": null
+    },
+    {
+      "rank": 5,
+      "team_id": "lions",
+      "played": 17,
+      "won": 10,
+      "drawn": 1,
+      "lost": 6,
+      "points": 53,
+      "bonus": null
+    },
+    {
+      "rank": 6,
+      "team_id": "munster",
+      "played": 17,
+      "won": 10,
+      "drawn": 0,
+      "lost": 7,
+      "points": 51,
+      "bonus": null
+    },
+    {
+      "rank": 7,
+      "team_id": "cardiff",
+      "played": 17,
+      "won": 10,
+      "drawn": 0,
+      "lost": 7,
+      "points": 50,
+      "bonus": null
+    },
+    {
+      "rank": 8,
+      "team_id": "ulster",
+      "played": 17,
+      "won": 9,
+      "drawn": 1,
+      "lost": 7,
+      "points": 50,
+      "bonus": null
+    },
+    {
+      "rank": 9,
+      "team_id": "connacht",
+      "played": 17,
+      "won": 9,
+      "drawn": 0,
+      "lost": 8,
+      "points": 49,
+      "bonus": null
+    },
+    {
+      "rank": 10,
+      "team_id": "sharks",
+      "played": 17,
+      "won": 7,
+      "drawn": 1,
+      "lost": 9,
+      "points": 41,
+      "bonus": null
+    },
+    {
+      "rank": 11,
+      "team_id": "ospreys",
+      "played": 17,
+      "won": 7,
+      "drawn": 2,
+      "lost": 8,
+      "points": 39,
+      "bonus": null
+    },
+    {
+      "rank": 12,
+      "team_id": "edinburgh",
+      "played": 17,
+      "won": 7,
+      "drawn": 0,
+      "lost": 10,
+      "points": 38,
+      "bonus": null
+    },
+    {
+      "rank": 13,
+      "team_id": "benetton",
+      "played": 17,
+      "won": 6,
+      "drawn": 2,
+      "lost": 9,
+      "points": 33,
+      "bonus": null
+    },
+    {
+      "rank": 14,
+      "team_id": "scarlets",
+      "played": 17,
+      "won": 4,
+      "drawn": 1,
+      "lost": 12,
+      "points": 25,
+      "bonus": null
+    },
+    {
+      "rank": 15,
+      "team_id": "dragons",
+      "played": 17,
+      "won": 3,
+      "drawn": 3,
+      "lost": 11,
+      "points": 25,
+      "bonus": null
+    },
+    {
+      "rank": 16,
+      "team_id": "zebre",
+      "played": 17,
+      "won": 2,
+      "drawn": 0,
+      "lost": 15,
+      "points": 15,
+      "bonus": null
+    }
+  ]
+}

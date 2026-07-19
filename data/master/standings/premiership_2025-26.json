@@ -1,0 +1,108 @@
+{
+  "league": "premiership",
+  "season": "2025-26",
+  "scraped_at": "2026-07-19T12:54:37+09:00",
+  "source_url": "https://all.rugby/tournament/premiership/table",
+  "rows": [
+    {
+      "rank": 1,
+      "team_id": "northampton",
+      "played": 17,
+      "won": 14,
+      "drawn": 1,
+      "lost": 2,
+      "points": 72,
+      "bonus": null
+    },
+    {
+      "rank": 2,
+      "team_id": "bath",
+      "played": 17,
+      "won": 12,
+      "drawn": 0,
+      "lost": 5,
+      "points": 64,
+      "bonus": null
+    },
+    {
+      "rank": 3,
+      "team_id": "leicester",
+      "played": 17,
+      "won": 12,
+      "drawn": 0,
+      "lost": 5,
+      "points": 62,
+      "bonus": null
+    },
+    {
+      "rank": 4,
+      "team_id": "exeter",
+      "played": 17,
+      "won": 10,
+      "drawn": 1,
+      "lost": 6,
+      "points": 60,
+      "bonus": null
+    },
+    {
+      "rank": 5,
+      "team_id": "saracens",
+      "played": 17,
+      "won": 10,
+      "drawn": 0,
+      "lost": 7,
+      "points": 57,
+      "bonus": null
+    },
+    {
+      "rank": 6,
+      "team_id": "bristol",
+      "played": 17,
+      "won": 11,
+      "drawn": 0,
+      "lost": 6,
+      "points": 54,
+      "bonus": null
+    },
+    {
+      "rank": 7,
+      "team_id": "sale",
+      "played": 17,
+      "won": 4,
+      "drawn": 0,
+      "lost": 13,
+      "points": 31,
+      "bonus": null
+    },
+    {
+      "rank": 8,
+      "team_id": "gloucester",
+      "played": 17,
+      "won": 4,
+      "drawn": 0,
+      "lost": 13,
+      "points": 27,
+      "bonus": null
+    },
+    {
+      "rank": 9,
+      "team_id": "harlequins",
+      "played": 17,
+      "won": 5,
+      "drawn": 0,
+      "lost": 12,
+      "points": 26,
+      "bonus": null
+    },
+    {
+      "rank": 10,
+      "team_id": "newcastle",
+      "played": 17,
+      "won": 2,
+      "drawn": 0,
+      "lost": 15,
+      "points": 12,
+      "bonus": null
+    }
+  ]
+}
