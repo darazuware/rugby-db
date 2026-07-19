@@ -1,0 +1,128 @@
+{
+  "league": "league-one-d1",
+  "season": "2025-26",
+  "scraped_at": "2026-07-18T14:47:25+09:00",
+  "source_url": "https://league-one.jp/standings/",
+  "rows": [
+    {
+      "rank": 1,
+      "team_id": "lo_team_101",
+      "played": 18,
+      "won": 16,
+      "drawn": 0,
+      "lost": 2,
+      "points": 75,
+      "bonus": null
+    },
+    {
+      "rank": 2,
+      "team_id": "lo_team_102",
+      "played": 18,
+      "won": 16,
+      "drawn": 0,
+      "lost": 2,
+      "points": 74,
+      "bonus": null
+    },
+    {
+      "rank": 3,
+      "team_id": "lo_team_97",
+      "played": 18,
+      "won": 14,
+      "drawn": 0,
+      "lost": 4,
+      "points": 70,
+      "bonus": null
+    },
+    {
+      "rank": 4,
+      "team_id": "lo_team_99",
+      "played": 18,
+      "won": 9,
+      "drawn": 0,
+      "lost": 9,
+      "points": 48,
+      "bonus": null
+    },
+    {
+      "rank": 5,
+      "team_id": "lo_team_108",
+      "played": 18,
+      "won": 9,
+      "drawn": 0,
+      "lost": 9,
+      "points": 41,
+      "bonus": null
+    },
+    {
+      "rank": 6,
+      "team_id": "lo_team_103",
+      "played": 18,
+      "won": 8,
+      "drawn": 0,
+      "lost": 10,
+      "points": 39,
+      "bonus": null
+    },
+    {
+      "rank": 7,
+      "team_id": "lo_team_98",
+      "played": 18,
+      "won": 7,
+      "drawn": 0,
+      "lost": 11,
+      "points": 36,
+      "bonus": null
+    },
+    {
+      "rank": 8,
+      "team_id": "lo_team_105",
+      "played": 18,
+      "won": 7,
+      "drawn": 0,
+      "lost": 11,
+      "points": 34,
+      "bonus": null
+    },
+    {
+      "rank": 9,
+      "team_id": "lo_team_104",
+      "played": 18,
+      "won": 7,
+      "drawn": 0,
+      "lost": 11,
+      "points": 33,
+      "bonus": null
+    },
+    {
+      "rank": 10,
+      "team_id": "lo_team_107",
+      "played": 18,
+      "won": 6,
+      "drawn": 0,
+      "lost": 12,
+      "points": 30,
+      "bonus": null
+    },
+    {
+      "rank": 11,
+      "team_id": "lo_team_100",
+      "played": 18,
+      "won": 5,
+      "drawn": 0,
+      "lost": 13,
+      "points": 20,
+      "bonus": null
+    },
+    {
+      "rank": 12,
+      "team_id": "lo_team_106",
+      "played": 18,
+      "won": 4,
+      "drawn": 0,
+      "lost": 14,
+      "points": 20,
+      "bonus": null
+    }
+  ]
+}

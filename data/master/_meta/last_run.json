@@ -1,0 +1,172 @@
+{
+  "top14": {
+    "run_at": "2026-07-18T14:32:09+09:00",
+    "counts": {
+      "players": 1106,
+      "teams": 14
+    },
+    "warnings": [
+      "top14 standings: team=bayonne の数値欠落のため行を除外",
+      "top14 standings: team=bordeaux の数値欠落のため行を除外",
+      "top14 standings: team=castres の数値欠落のため行を除外",
+      "top14 standings: team=clermont の数値欠落のため行を除外",
+      "top14 standings: team=la-rochelle の数値欠落のため行を除外",
+      "top14 standings: team=lyon の数値欠落のため行を除外",
+      "top14 standings: team=montpellier の数値欠落のため行を除外",
+      "top14 standings: team=paris の数値欠落のため行を除外",
+      "top14 standings: team=pau の数値欠落のため行を除外",
+      "top14 standings: team=perpignan の数値欠落のため行を除外",
+      "top14 standings: team=racing-92 の数値欠落のため行を除外",
+      "top14 standings: team=toulon の数値欠落のため行を除外",
+      "top14 standings: team=toulouse の数値欠落のため行を除外",
+      "top14 standings: team=vannes の数値欠落のため行を除外"
+    ]
+  },
+  "super-rugby": {
+    "run_at": "2026-07-18T14:32:50+09:00",
+    "counts": {
+      "players": 545,
+      "teams": 11
+    },
+    "warnings": [
+      "super-rugby standings: team=hurricanes の数値欠落のため行を除外",
+      "super-rugby standings: team=chiefs の数値欠落のため行を除外",
+      "super-rugby standings: team=blues の数値欠落のため行を除外",
+      "super-rugby standings: team=crusaders の数値欠落のため行を除外",
+      "super-rugby standings: team=brumbies の数値欠落のため行を除外",
+      "super-rugby standings: team=reds の数値欠落のため行を除外",
+      "super-rugby standings: team=waratahs の数値欠落のため行を除外",
+      "super-rugby standings: team=western-force の数値欠落のため行を除外",
+      "super-rugby standings: team=highlanders の数値欠落のため行を除外",
+      "super-rugby standings: team=fijian-drua の数値欠落のため行を除外",
+      "super-rugby standings: team=moana-pasifika の数値欠落のため行を除外"
+    ]
+  },
+  "league-one-d1": {
+    "run_at": "2026-07-18T14:47:25+09:00",
+    "counts": {
+      "players": 693,
+      "teams": 12
+    },
+    "warnings": []
+  },
+  "national": {
+    "run_at": "2026-07-18T14:49:49+09:00",
+    "counts": {
+      "players": 337,
+      "teams": 0
+    },
+    "warnings": []
+  },
+  "sevens-national": {
+    "run_at": "2026-07-18T20:07:26+09:00",
+    "counts": {
+      "players": 28,
+      "teams": 0
+    },
+    "warnings": [
+      "jrfu sevens-national: 学校名19件を正規表現・Sonnetいずれでもtype判定できず（例: ['(公財)日本ラグビーフットボール協会 / コカ・コーラボトラーズジャパン(株)', \"Mie Women's Rugby Football Club PEARLS\", 'NECグリーンロケッツ東葛']）",
+      "jrfu sevens-national: ANTHROPIC_API_KEY未設定のためSonnetフォールバックをスキップ（未判定19件は学校扱いにしない: 所属欄はcareerへ、出身校欄はeducationから除外）"
+    ]
+  },
+  "age-grade": {
+    "run_at": "2026-07-18T20:10:55+09:00",
+    "counts": {
+      "players": 113,
+      "teams": 0
+    },
+    "warnings": [
+      "jrfu age-grade: 学校名1件を正規表現・Sonnetいずれでもtype判定できず（例: ['静岡ブルーレヴズ']）",
+      "jrfu age-grade: ANTHROPIC_API_KEY未設定のためSonnetフォールバックをスキップ（未判定1件は学校扱いにしない: 所属欄はcareerへ、出身校欄はeducationから除外）"
+    ]
+  },
+  "university": {
+    "run_at": "2026-07-18T22:14:36+09:00",
+    "counts": {
+      "players": 721,
+      "teams": 0
+    },
+    "warnings": [
+      "university 帝京大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 筑波大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
+      "university 立教大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 成城大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 一橋大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 学習院大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 大東文化大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 東洋大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 東海大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 流通経済大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 法政大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 立正大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 日本大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 関東学院大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 中央大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
+      "university 専修大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 山梨学院大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 拓殖大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
+      "university 白鷗大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
+      "university 國學院大學: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 立命館大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 京都産業大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 摂南大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 天理大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 関西大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 同志社大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 近畿大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 大阪体育大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 甲南大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 大阪経済大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 大阪国際大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 追手門学院大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
+      "university 大阪産業大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university: id重複 univ_龍谷大学__市川翔太 を検出、2件目以降を除外"
+    ]
+  },
+  "highschool": {
+    "run_at": "2026-07-19T01:56:12+09:00",
+    "counts": {
+      "players": 388,
+      "teams": 0
+    },
+    "warnings": [
+      "highschool 北海道遠軽高校: 公式の部員名簿ページが無いためスキップ（公式の部員名簿ページが確認できず（2026-07-19調査））",
+      "highschool 立命館慶祥高校: 公式の部員名簿ページが無いためスキップ（公式の部員名簿ページが確認できず（2026-07-19調査））",
+      "highschool 秋田工業高校: 公式の部員名簿ページが無いためスキップ（公式の部員名簿ページが確認できず（2026-07-19調査））",
+      "highschool 茗溪学園高校: 公式の部員名簿ページが無いためスキップ（部公式は Wix（meikeirugbyclub.wixsite.com）でJS描画のみ、静的取得不可（2026-07-19確認））",
+      "highschool 昌平高校: 公式の部員名簿ページが無いためスキップ（部公式 shohei-eagles.jimdofree.com にスタッフ紹介のみ、選手名簿なし（2026-07-19確認））",
+      "highschool 専修大学松戸高校: 公式の部員名簿ページが無いためスキップ（公式の部員名簿ページが確認できず（2026-07-19調査））",
+      "highschool 早稲田実業学校: 公式の部員名簿ページが無いためスキップ（部公式 wasedajgrugby.jp に選手名簿なし（2026-07-19確認））",
+      "highschool 桐蔭学園高校: 公式の部員名簿ページが無いためスキップ（部公式 toinrfc.r-cms.jp の /member/ はスタッフ紹介のみ、選手名簿は非公開（2026-07-19確認））",
+      "highschool 東海大学付属相模高校: 公式の部員名簿ページが無いためスキップ（部公式 tokaisagamirugby.boy.jp は戦績・チーム紹介のみ、選手名簿なし（2026-07-19確認））",
+      "highschool 中部大学春日丘高校: 公式の部員名簿ページが無いためスキップ（公式の部員名簿ページが確認できず（SNSのみ、2026-07-19調査））",
+      "highschool 京都成章高校: 公式の部員名簿ページが無いためスキップ（学校公式 kyoto-seisho.ed.jp の部活ページに選手名簿なし（2026-07-19確認））",
+      "highschool 東海大学付属大阪仰星高校: 公式の部員名簿ページが無いためスキップ（学校公式の部活ページ（bukatsunavi）の部員一覧は非公開（member領域が空、2026-07-19確認））",
+      "highschool 常翔学園高校: 公式の部員名簿ページが無いためスキップ（部公式 navyreds.com はスタッフ陣営のみ、選手名簿なし（2026-07-19確認））",
+      "highschool 大阪桐蔭高校: 公式の部員名簿ページが無いためスキップ（学校公式 osakatoin.ed.jp の部活ページに選手名簿なし（2026-07-19確認））",
+      "highschool 東福岡高校: 公式の部員名簿ページが無いためスキップ（学校公式の部活ページ（bukatsunavi）の部員一覧は非公開（member領域が空、2026-07-19確認））",
+      "highschool 福岡県立筑紫高等学校: 公式の部員名簿ページが無いためスキップ（部公式 chikushi-rugby.net の2026メンバーはテキスト名簿なし（画像のみ・本文空、2026-07-19確認））",
+      "highschool 長崎北陽台高校: 公式の部員名簿ページが無いためスキップ（部公式 hokuyo-rfc.sakura.ne.jp は旧式フレームサイトで名簿テキストなし、hbnet.jp の member は写真ページ（2026-07-19確認））",
+      "highschool 九州学院高校: 公式の部員名簿ページが無いためスキップ（公式の部員名簿ページが確認できず（2026-07-19調査））",
+      "highschool 大分東明高校: 公式の部員名簿ページが無いためスキップ（学校公式の部活ページ（bukatsunavi）はスタッフのみ公開、選手名簿なし（2026-07-19確認））",
+      "highschool 宮崎県立高鍋高等学校: 公式の部員名簿ページが無いためスキップ（公式の部員名簿ページが確認できず（2026-07-19調査））",
+      "highschool 鹿児島実業高校: 公式の部員名簿ページが無いためスキップ（公式の部員名簿ページが確認できず（SNSのみ、2026-07-19調査））"
+    ]
+  },
+  "urc": {
+    "run_at": "2026-07-19T11:52:36+09:00",
+    "counts": {
+      "players": 226,
+      "teams": 16
+    },
+    "warnings": []
+  },
+  "premiership": {
+    "run_at": "2026-07-19T12:54:37+09:00",
+    "counts": {
+      "players": 120,
+      "teams": 10
+    },
+    "warnings": []
+  }
+}

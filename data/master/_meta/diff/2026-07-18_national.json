@@ -1,0 +1,2043 @@
+{
+  "league": "national",
+  "signings": [
+    {
+      "id": "ar_aaron-grandidier",
+      "name_en": "Aaron GRANDIDIER",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_adam-hastings",
+      "name_en": "Adam HASTINGS",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_aidan-ross",
+      "name_en": "Aidan ROSS",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_alessandro-fusco",
+      "name_en": "Alessandro FUSCO",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_alessandro-garbisi",
+      "name_en": "Alessandro GARBISI",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_alessandro-izekor",
+      "name_en": "Alessandro IZEKOR",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_alessandro-ortombina",
+      "name_en": "Alessandro ORTOMBINA",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_alex-craig",
+      "name_en": "Alex CRAIG",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_alex-samuel",
+      "name_en": "Alex SAMUEL",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_alexandre-roumat",
+      "name_en": "Alexandre ROUMAT",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_allan-alaalatoa",
+      "name_en": "Allan ALAALATOA",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_andrea-zambonin",
+      "name_en": "Andrea ZAMBONIN",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_andrew-kellaway",
+      "name_en": "Andrew KELLAWAY",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_andrew-porter",
+      "name_en": "Andrew PORTER",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_andrew-quattrin",
+      "name_en": "Andrew QUATTRIN",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_andy-christie",
+      "name_en": "Andy ONYEAMA-CHRISTIE",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_ange-capuozzo",
+      "name_en": "Ange CAPUOZZO",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_angus-bell",
+      "name_en": "Angus BELL",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_anthony-jelonch",
+      "name_en": "Anthony JELONCH",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_antoine-dupont",
+      "name_en": "Antoine DUPONT",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_antoine-hastoy",
+      "name_en": "Antoine HASTOY",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_austin-creighton",
+      "name_en": "Austin CREIGHTON",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_baptiste-erdocio",
+      "name_en": "Baptiste ERDOCIO",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_baptiste-jauneau",
+      "name_en": "Baptiste JAUNEAU",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_baptiste-serin",
+      "name_en": "Baptiste SERIN",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_barnabe-massa",
+      "name_en": "Barnabé MASSA",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_barnaby-waddell",
+      "name_en": "Barnaby WADDELL",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_ben-donaldson",
+      "name_en": "Ben DONALDSON",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_ben-gunter",
+      "name_en": "Ben GUNTER",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_ben-white",
+      "name_en": "Ben WHITE",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_billy-bohan",
+      "name_en": "Billy BOHAN",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_billy-pollard",
+      "name_en": "Billy POLLARD",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_blair-kinghorn",
+      "name_en": "Blair KINGHORN",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_brandon-paenga-amosa",
+      "name_en": "Brandon PAENGA-AMOSA",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_brock-gallagher",
+      "name_en": "Brock GALLAGHER",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_bryn-ward",
+      "name_en": "Bryn WARD",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_bundee-aki",
+      "name_en": "Bundee AKI",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_caelan-doris",
+      "name_en": "Caelan DORIS",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_calixto-martinez",
+      "name_en": "Cali MARTINEZ",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_callum-botchar",
+      "name_en": "Callum BOTCHAR",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_caolin-blade",
+      "name_en": "Caolin BLADE",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_carlo-tizzano",
+      "name_en": "Carlo TIZZANO",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_carter-gordon",
+      "name_en": "Carter GORDON",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_charles-ollivon",
+      "name_en": "Charles OLLIVON",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_charlie-lawrence",
+      "name_en": "Charlie LAWRENCE",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_cian-prendergast",
+      "name_en": "Cian PRENDERGAST",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_ciaran-frawley",
+      "name_en": "Ciarán FRAWLEY",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_cody-nhanala",
+      "name_en": "Cody NHANALA",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_cole-keith",
+      "name_en": "Cole KEITH",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_cooper-coats",
+      "name_en": "Cooper COATS",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_corey-toole",
+      "name_en": "Corey TOOLE",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_cormac-izuchukwu",
+      "name_en": "Cormac IZUCHUKWU",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_craig-casey",
+      "name_en": "Craig CASEY",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_d-arcy-rae",
+      "name_en": "D'Arcy RAE",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_damian-penaud",
+      "name_en": "Damian PENAUD",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_dan-sheehan",
+      "name_en": "Dan SHEEHAN",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_danilo-fischetti",
+      "name_en": "Danilo FISCHETTI",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_daragh-doyle",
+      "name_en": "Daragh DOYLE",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_darcy-graham",
+      "name_en": "Darcy GRAHAM",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_darragh-murray",
+      "name_en": "Darragh MURRAY",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_dave-cherry",
+      "name_en": "Dave CHERRY",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_david-odiase",
+      "name_en": "David ODIASE",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_declan-meredith",
+      "name_en": "Declan MEREDITH",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_demba-bamba",
+      "name_en": "Demba BAMBA",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_dewald-kotze",
+      "name_en": "Dewald KOTZE",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_dorian-aldegheri",
+      "name_en": "Dorian ALDEGHERI",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_duhan-van-der-merwe",
+      "name_en": "Duhan VAN DER MERWE",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_dylan-pietsch",
+      "name_en": "Dylan PIETSCH",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_dylan-richardson",
+      "name_en": "Dylan RICHARDSON",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_dylan-riley",
+      "name_en": "Dylan RILEY",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_edoardo-todaro",
+      "name_en": "Edoardo TODARO",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_edwin-edogbo",
+      "name_en": "Edwin EDOGBO",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_elliot-millar-mills",
+      "name_en": "Elliot MILLAR-MILLS",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_emerson-prior",
+      "name_en": "Emerson PRIOR",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_emilien-gailleton",
+      "name_en": "Émilien GAILLETON",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_emmanuel-meafou",
+      "name_en": "Emmanuel MEAFOU",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_enoch-opoku-gyamfi",
+      "name_en": "Enoch OPOKU-GYAMFI",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_epineri-uluiviti",
+      "name_en": "Epineri ULUIVITI",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_esei-ha-angana",
+      "name_en": "Esei HA'ANGANA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_evan-olmstead",
+      "name_en": "Evan OLMSTEAD",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_ewan-ashman",
+      "name_en": "Ewan ASHMAN",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_fabien-brau-boirie",
+      "name_en": "Fabien BRAU-BOIRIE",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_federico-ruzza",
+      "name_en": "Federico RUZZA",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_fergus-burke",
+      "name_en": "Fergus BURKE",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_filipo-daugunu",
+      "name_en": "Filipo DAUGUNU",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_finlay-bealham",
+      "name_en": "Finlay BEALHAM",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_finn-russell",
+      "name_en": "Finn RUSSELL",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_florian-verhaeghe",
+      "name_en": "Florian VERHAEGHE",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_foster-dewitt",
+      "name_en": "Foster DEWITT",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_francois-cros",
+      "name_en": "François CROS",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_fraser-mcreight",
+      "name_en": "Fraser MCREIGHT",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_freddy-douglas",
+      "name_en": "Freddy DOUGLAS",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_gael-drean",
+      "name_en": "Gaël DRÉAN",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_gael-fickou",
+      "name_en": "Gaël FICKOU",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_garry-ringrose",
+      "name_en": "Garry RINGROSE",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_george-horne",
+      "name_en": "George HORNE",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_george-turner",
+      "name_en": "George TURNER",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_georges-henri-colombe",
+      "name_en": "Georges-Henri COLOMBE",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_giacomo-da-re",
+      "name_en": "Giacomo DA RE",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_giacomo-nicotera",
+      "name_en": "Giacomo NICOTERA",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_gianmarco-lucchesi",
+      "name_en": "Gianmarco LUCCHESI",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_giosue-zilocchi",
+      "name_en": "Giosué ZILOCCHI",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_giulio-marini",
+      "name_en": "Giulio MARINI",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_grant-gilchrist",
+      "name_en": "Grant GILCHRIST",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_greg-alldritt",
+      "name_en": "Greg ALLDRITT",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_gregor-brown",
+      "name_en": "Gregor BROWN",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_gregor-hiddleston",
+      "name_en": "Gregor HIDDLESTON",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_guillaume-cramont",
+      "name_en": "Guillaume CRAMONT",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_gus-mccarthy",
+      "name_en": "Gus MCCARTHY",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_hamish-stewart",
+      "name_en": "Hamish STEWART",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_harri-morris",
+      "name_en": "Harri MORRIS",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_harry-byrne",
+      "name_en": "Harry BYRNE",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_harry-hockings",
+      "name_en": "Harry HOCKINGS",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_harry-potter",
+      "name_en": "Harry POTTER",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_harry-wilson",
+      "name_en": "Harry WILSON",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_hayate-era",
+      "name_en": "Hayate ERA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_hugo-auradou",
+      "name_en": "Hugo AURADOU",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_hugo-keenan",
+      "name_en": "Hugo KEENAN",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_hunter-paisami",
+      "name_en": "Hunter PAISAMI",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_huw-jones",
+      "name_en": "Huw JONES",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_iain-henderson",
+      "name_en": "Iain HENDERSON",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_ignacio-brex",
+      "name_en": "Ignacio BREX",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_ion-neculai",
+      "name_en": "Ion NECULAI",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_itsuki-kamimura",
+      "name_en": "Itsuki KAMIMURA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_izi-sword",
+      "name_en": "Izi SWORD",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_izzak-kelly",
+      "name_en": "Izzak KELLY",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_jack-conan",
+      "name_en": "Jack CONAN",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_jack-cornelsen",
+      "name_en": "Jack CORNELSEN",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_jack-crowley",
+      "name_en": "Jack CROWLEY",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_jack-dempsey",
+      "name_en": "Jack DEMPSEY",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_jack-shaw",
+      "name_en": "Jack SHAW",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_jacob-ince",
+      "name_en": "Jacob INCE",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_jacob-stockdale",
+      "name_en": "Jacob STOCKDALE",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_jake-gordon",
+      "name_en": "Jake GORDON",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_james-lowe",
+      "name_en": "James LOWE",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_james-naylor",
+      "name_en": "James NAYLOR",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_james-o-connor",
+      "name_en": "James O'CONNOR",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_james-ryan",
+      "name_en": "James RYAN",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_james-slipper",
+      "name_en": "James SLIPPER",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_jamie-dobie",
+      "name_en": "Jamie DOBIE",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_jamie-osborne",
+      "name_en": "Jamie OSBORNE",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_jamie-ritchie",
+      "name_en": "Jamie RITCHIE",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_jamison-gibson-park",
+      "name_en": "Jamison GIBSON-PARK",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_jason-higgins",
+      "name_en": "Jason HIGGINS",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_jean-baptiste-gros",
+      "name_en": "Jean-Baptiste GROS",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_jefferson-poirot",
+      "name_en": "Jefferson POIROT",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_jeremy-loughman",
+      "name_en": "Jeremy LOUGHMAN",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_jeremy-williams",
+      "name_en": "Jeremy WILLIAMS",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_jimi-maximin",
+      "name_en": "Jimi MAXIMIN",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_jimmy-o-brien",
+      "name_en": "Jimmy O'BRIEN",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_jock-campbell",
+      "name_en": "Jock CAMPBELL",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_joe-mccarthy",
+      "name_en": "Joe MCCARTHY",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_jones-spencer",
+      "name_en": "Spencer JONES",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_jonny-gray",
+      "name_en": "Jonny GRAY",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_joseph-sua-ali-i",
+      "name_en": "Joseph SUA'ALI'I",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_josh-bayliss",
+      "name_en": "Josh BAYLISS",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_josh-canham",
+      "name_en": "Josh CANHAM",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_josh-mcindoe",
+      "name_en": "Josh MCINDOE",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_josh-nasser",
+      "name_en": "Josh NASSER",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_josh-van-der-flier",
+      "name_en": "Josh VAN DER FLIER",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_joshua-brennan",
+      "name_en": "Joshua BRENNAN",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_josiah-morra",
+      "name_en": "Josiah MORRA",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_julien-marchand",
+      "name_en": "Julien MARCHAND",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_kalani-thomas",
+      "name_en": "Kalani THOMAS",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_kalvin-gourgues",
+      "name_en": "Kalvin GOURGUES",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_kanji-shimokawa",
+      "name_en": "Kanji SHIMOKAWA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_kazuma-ueda",
+      "name_en": "Kazuma UEDA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_keijiro-tamefusa",
+      "name_en": "Keijiro TAMEFUSA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_kenji-sato-",
+      "name_en": "Kenji SATO",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_kenta-fukuda",
+      "name_en": "Kenta FUKUDA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_kenta-kobayashi",
+      "name_en": "Kenta KOBAYASHI",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_killian-tixeront",
+      "name_en": "Killian TIXERONT",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_kippei-ishida",
+      "name_en": "Kippei ISHIDA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_kyle-rowe",
+      "name_en": "Kyle ROWE",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_kyle-steeves",
+      "name_en": "Kyle STEEVES",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_kyle-steyn",
+      "name_en": "Kyle STEYN",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_kyle-tremblay",
+      "name_en": "Kyle TREMBLAY",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_lachlan-shaw",
+      "name_en": "Lachie SHAW",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_len-ikitau",
+      "name_en": "Len IKITAU",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_lenni-nouchi",
+      "name_en": "Lenni NOUCHI",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_leonardo-marin",
+      "name_en": "Leonardo MARIN",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_liam-james",
+      "name_en": "Liam JAMES",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_liam-mcconnell",
+      "name_en": "Liam MCCONNELL",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_lockie-kratz",
+      "name_en": "Lockie KRATZ",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_lorenzo-cannone",
+      "name_en": "Lorenzo CANNONE",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_lorenzo-pani",
+      "name_en": "Lorenzo PANI",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_louis-bielle-biarrey",
+      "name_en": "Louis BIELLE-BIARREY",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_louis-lynagh",
+      "name_en": "Louis LYNAGH",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_lua-makisi",
+      "name_en": "Lua MAKISI",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_lucas-rumball",
+      "name_en": "Lucas RUMBALL",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_lukhan-lealaiaulolo-tui",
+      "name_en": "Lukhan SALAKAIA-LOTO",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_mackenzie-hansen",
+      "name_en": "Mack HANSEN",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_magnus-bradbury",
+      "name_en": "Magnus BRADBURY",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_malik-faissal",
+      "name_en": "Malik FAISSAL",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_mamoru-harada",
+      "name_en": "Mamoru HARADA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_manuel-zuliani",
+      "name_en": "Manuel ZULIANI",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_marco-riccioni",
+      "name_en": "Marco RICCIONI",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_marko-gazzotti",
+      "name_en": "Marko GAZZOTTI",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_marshall-sykes",
+      "name_en": "Marshall SYKES",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_martin-page-relo",
+      "name_en": "Martin PAGE-RELO",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_mason-flesch",
+      "name_en": "Mason FLESCH",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_matt-faessler",
+      "name_en": "Matt FAESSLER",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_matt-fagerson",
+      "name_en": "Matt FAGERSON",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_matt-oworu",
+      "name_en": "Matt OWORU",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_matt-tierney",
+      "name_en": "Matt TIERNEY",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_matthieu-jalibert",
+      "name_en": "Matthieu JALIBERT",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_max-jorgensen",
+      "name_en": "Max JORGENSEN",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_max-spring",
+      "name_en": "Max SPRING",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_max-williamson",
+      "name_en": "Max WILLIAMSON",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_maxime-lamothe",
+      "name_en": "Maxime LAMOTHE",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_maxime-lucu",
+      "name_en": "Maxime LUCU",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_michael-leitch",
+      "name_en": "Michael LEITCH",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_michael-milne",
+      "name_en": "Michael MILNE",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_michele-lamaro",
+      "name_en": "Michele LAMARO",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_mickael--guillard",
+      "name_en": "Mickaël GUILLARD",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_mike-stolberg",
+      "name_en": "Mike STOLBERG",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_miles-amatosero",
+      "name_en": "Miles AMATOSERO",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_mirco-spagnolo",
+      "name_en": "Mirco SPAGNOLO",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_mirko-belloni",
+      "name_en": "Mirko BELLONI",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_monty-ioane",
+      "name_en": "Monty IOANE",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_morgan-di-nardo",
+      "name_en": "Morgan DI NARDO",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_moses-alo-emile",
+      "name_en": "Moses ALO-EMILE",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_muhamed-hasa",
+      "name_en": "Muhamed HASA",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_murphy-walker",
+      "name_en": "Murphy WALKER",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_naoto-saito",
+      "name_en": "Naoto SAITO",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_nathan-doak",
+      "name_en": "Nathan DOAK",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_nathan-mcbeth",
+      "name_en": "Nathan MCBETH",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_nic-benn",
+      "name_en": "Nic BENN",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_niccolo-cannone",
+      "name_en": "Niccolò CANNONE",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_nick-champion-de-crespigny",
+      "name_en": "Nick CHAMPION DE CRESPIGNY",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_nick-frost",
+      "name_en": "Nick FROST",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_nick-timoney",
+      "name_en": "Nick TIMONEY",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_nicolas-depoortere",
+      "name_en": "Nicolas DEPOORTÈRE",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_noah-flesch",
+      "name_en": "Noah FLESCH",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_noah-nene",
+      "name_en": "Noah NÉNÉ",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_nolann-le-garrec",
+      "name_en": "Nolann LE GARREC",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_ollie-smith",
+      "name_en": "Ollie SMITH",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_oscar-jegou",
+      "name_en": "Oscar JÉGOU",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_pablo-dimcheff",
+      "name_en": "Pablo DIMCHEFF",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_paddy-mccarthy",
+      "name_en": "Paddy MCCARTHY",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_paolo-garbisi",
+      "name_en": "Paolo GARBISI",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_patrick-harrison",
+      "name_en": "Patrick HARRISON",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_paul-boudehent",
+      "name_en": "Paul BOUDEHENT",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_paul-graou",
+      "name_en": "Paul GRAOU",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_paulo-odogwu",
+      "name_en": "Paolo ODOGWU",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_peato-mauvaka",
+      "name_en": "Péato MAUVAKA",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_pete-samu",
+      "name_en": "Pete SAMU",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_peter-nelson",
+      "name_en": "Peter NELSON",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_pierre-bochaton",
+      "name_en": "Pierre BOCHATON",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_pierre-louis-barassi",
+      "name_en": "Pierre-Louis BARASSI",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_pierre-schoeman",
+      "name_en": "Pierre SCHOEMAN",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_piers-von-dadelszen",
+      "name_en": "Piers VON DADELSZEN",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_reda-wardi",
+      "name_en": "Reda WARDI",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_regis-montagne",
+      "name_en": "Régis MONTAGNE",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_riccardo-favretto",
+      "name_en": "Riccardo FAVRETTO",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_rob-valetini",
+      "name_en": "Rob VALETINI",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_robbie-henshaw",
+      "name_en": "Robbie HENSHAW",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_robbie-povey",
+      "name_en": "Robbie POVEY",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_robert-baloucoune",
+      "name_en": "Robert BALOUCOUNE",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_rodrigue-neti",
+      "name_en": "Rodrigue NETI",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_romain-ntamack",
+      "name_en": "Romain NTAMACK",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_romain-taofifenua",
+      "name_en": "Romain TAOFIFENUA",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_ronan-kelleher",
+      "name_en": "Ronan KELLEHER",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_rory-darge",
+      "name_en": "Rory DARGE",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_rory-hutchinson",
+      "name_en": "Rory HUTCHINSON",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_rory-sutherland",
+      "name_en": "Rory SUTHERLAND",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_ross-thompson",
+      "name_en": "Ross THOMPSON",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_ross-vintcent",
+      "name_en": "Ross VINTCENT",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_ryan-baird",
+      "name_en": "Ryan BAIRD",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_ryan-lonergan",
+      "name_en": "Ryan LONERGAN",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_ryosuke-iwaihara",
+      "name_en": "Ryosuke IWAIHARA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_ryunosuke-ito",
+      "name_en": "Ryunosuke ITO",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_sam-greene",
+      "name_en": "Sam GREENE",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_sam-illo",
+      "name_en": "Sam ILLO",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_sam-miller",
+      "name_en": "Sam MILLER",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_sam-prendergast",
+      "name_en": "Sam PRENDERGAST",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_samisoni-tua",
+      "name_en": "Samisoni TUA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_scott-cummings",
+      "name_en": "Scott CUMMINGS",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_sean-jansen",
+      "name_en": "Sean JANSEN",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_seb-stephen",
+      "name_en": "Seb STEPHEN",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_seungsin-lee",
+      "name_en": "Seungsin LEE",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_shinobu-fujiwara",
+      "name_en": "Shinobu FUJIWARA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_shinya-komura",
+      "name_en": "Shinya KOMURA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_sho-furuhata",
+      "name_en": "Sho FURUHATA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_shu-yamamoto",
+      "name_en": "Shu YAMAMOTO",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_shuhei-takeuchi",
+      "name_en": "Shuhei TAKEUCHI",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_shunsuke-uenobo",
+      "name_en": "Shunsuke UENOBO",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_simone-ferrari",
+      "name_en": "Simone FERRARI",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_sion-parry",
+      "name_en": "Siôn PARRY",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_sione-tuipulotu",
+      "name_en": "Sione TUIPULOTU",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_sipili-falatea",
+      "name_en": "Sipili FALATEA",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_sojiro-otsuka",
+      "name_en": "Sojiro OTSUKA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_stafford-mcdowall",
+      "name_en": "Stafford MCDOWALL",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_stephen-varney",
+      "name_en": "Stephen VARNEY",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_stephen-webb",
+      "name_en": "Stephen WEBB",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_stuart-mccloskey",
+      "name_en": "Stuart MCCLOSKEY",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_syoudai-hirao",
+      "name_en": "Shodai HIRAO",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_tadhg-beirne",
+      "name_en": "Tadhg BEIRNE",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_tadhg-furlong",
+      "name_en": "Tadhg FURLONG",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_taira-main",
+      "name_en": "Taira MAIN",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_takato-okabe",
+      "name_en": "Takato OKABE",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_takoda-mcmullin",
+      "name_en": "Takoda MCMULLIN",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_takuro-matsunaga",
+      "name_en": "Takuro MATSUNAGA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_tane-edmed",
+      "name_en": "Tane EDMED",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_taniela-tupou",
+      "name_en": "Taniela TUPOU",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_tate-mcdermott",
+      "name_en": "Tate MCDERMOTT",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_temo-matiu",
+      "name_en": "Temo MATIU",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_tevita-tatafu",
+      "name_en": "Tevita TATAFU",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_theo-attissogbe",
+      "name_en": "Théo ATTISSOGBE",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_thibaud-flament",
+      "name_en": "Thibaud FLAMENT",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_thomas-laclayat",
+      "name_en": "Thomas LACLAYAT",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_thomas-ramos",
+      "name_en": "Thomas RAMOS",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_thomas-staniforth",
+      "name_en": "Tom STANIFORTH",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_tiennan-costley",
+      "name_en": "Tiennan COSTLEY",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_tom-clarkson",
+      "name_en": "Tom CLARKSON",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_tom-farrell",
+      "name_en": "Tom FARRELL",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_tom-hooper",
+      "name_en": "Tom HOOPER",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_tom-jordan",
+      "name_en": "Tom JORDAN",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_tom-o-toole",
+      "name_en": "Tom O'TOOLE",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_tom-robertson",
+      "name_en": "Tom ROBERTSON",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_tom-stewart",
+      "name_en": "Tom STEWART",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_tom-wright",
+      "name_en": "Tom WRIGHT",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_tommaso-di-bartolomeo",
+      "name_en": "Tommaso DI BARTOLOMEO",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_tommaso-menoncello",
+      "name_en": "Tommaso MENONCELLO",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_tommy-allan",
+      "name_en": "Tommaso ALLAN",
+      "name_ja": null,
+      "team_id": "italy"
+    },
+    {
+      "id": "ar_tommy-o-brien",
+      "name_en": "Tommy O'BRIEN",
+      "name_ja": null,
+      "team_id": "ireland"
+    },
+    {
+      "id": "ar_tomoki-osada",
+      "name_en": "Tomoki OSADA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_tyler-ardron",
+      "name_en": "Tyler ARDRON",
+      "name_ja": null,
+      "team_id": "canada"
+    },
+    {
+      "id": "ar_tyler-paul",
+      "name_en": "Tyler PAUL",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_warner-dearns",
+      "name_en": "Warner DEARNS",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_will-hurd",
+      "name_en": "Will HURD",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_yoram-moefana",
+      "name_en": "Yoram MOEFANA",
+      "name_ja": null,
+      "team_id": "france"
+    },
+    {
+      "id": "ar_yoshitaka-yazaki",
+      "name_en": "Yoshitaka YAZAKI",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_yuki-ikeda",
+      "name_en": "Yuki IKEDA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_yuya-hirose",
+      "name_en": "Yuya HIROSE",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_zander-fagerson",
+      "name_en": "Zander FAGERSON",
+      "name_ja": null,
+      "team_id": "scotland"
+    },
+    {
+      "id": "ar_zane-nonggorr",
+      "name_en": "Zane NONGGORR",
+      "name_ja": null,
+      "team_id": "australia"
+    }
+  ],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [],
+  "pending_departures": [],
+  "newly_finished_rounds": [
+    {
+      "season": "2026",
+      "round": null,
+      "match_ids": [
+        "jrfu_29964",
+        "jrfu_29966",
+        "jrfu_29969"
+      ]
+    }
+  ]
+}

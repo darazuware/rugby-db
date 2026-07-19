@@ -1,0 +1,733 @@
+{
+  "league": "league-one-d1",
+  "signings": [
+    {
+      "id": "lo_484300",
+      "name_en": "Sam Kieron Jeffries",
+      "name_ja": "サム ・K・ジェフリーズ",
+      "team_id": "lo_team_99"
+    },
+    {
+      "id": "lo_484824",
+      "name_en": "Faf De Klerk",
+      "name_ja": "ファフ ・デクラーク",
+      "team_id": "lo_team_107"
+    },
+    {
+      "id": "lo_492757",
+      "name_en": "Liam Coltman",
+      "name_ja": "リアム ・コルトマン",
+      "team_id": "lo_team_107"
+    },
+    {
+      "id": "lo_492897",
+      "name_en": "Dai Kawahara",
+      "name_ja": "川原 大",
+      "team_id": "lo_team_106"
+    },
+    {
+      "id": "lo_492898",
+      "name_en": "Bunsuke Kurita",
+      "name_ja": "栗田 文介",
+      "team_id": "lo_team_106"
+    },
+    {
+      "id": "lo_492907",
+      "name_en": "Ryotaro Nose",
+      "name_ja": "能勢 涼太郎",
+      "team_id": "lo_team_98"
+    },
+    {
+      "id": "lo_492908",
+      "name_en": "Renji Oike",
+      "name_ja": "御池 蓮二",
+      "team_id": "lo_team_98"
+    },
+    {
+      "id": "lo_493165",
+      "name_en": "Larry Tipoai Luteru",
+      "name_ja": "ラリー ・ティポアイルテール",
+      "team_id": "lo_team_100"
+    },
+    {
+      "id": "lo_493177",
+      "name_en": "Yusei Tanaka",
+      "name_ja": "田中 勇成",
+      "team_id": "lo_team_100"
+    },
+    {
+      "id": "lo_493178",
+      "name_en": "Miuaustin Moriyama",
+      "name_ja": "森山 海宇オスティン",
+      "team_id": "lo_team_100"
+    },
+    {
+      "id": "lo_493179",
+      "name_en": "Takashi Omoto",
+      "name_ja": "大本 峻士",
+      "team_id": "lo_team_100"
+    },
+    {
+      "id": "lo_493277",
+      "name_en": "Genki Ikuta",
+      "name_ja": "生田 弦己",
+      "team_id": "lo_team_107"
+    },
+    {
+      "id": "lo_493278",
+      "name_en": "Kosho Muto",
+      "name_ja": "武藤 航生",
+      "team_id": "lo_team_107"
+    },
+    {
+      "id": "lo_493279",
+      "name_en": "Kazuki Kurizaki",
+      "name_ja": "栗崎 和樹",
+      "team_id": "lo_team_107"
+    },
+    {
+      "id": "lo_493307",
+      "name_en": "Kanjiro Naramoto",
+      "name_ja": "楢本 幹志朗",
+      "team_id": "lo_team_102"
+    },
+    {
+      "id": "lo_493567",
+      "name_en": "taira shota",
+      "name_ja": "平 翔太",
+      "team_id": "lo_team_106"
+    },
+    {
+      "id": "lo_493601",
+      "name_en": "Yuui Matsubara",
+      "name_ja": "松原 結生",
+      "team_id": "lo_team_108"
+    },
+    {
+      "id": "lo_493618",
+      "name_en": "Shunsuke Uenobo",
+      "name_ja": "上ノ坊 駿介",
+      "team_id": "lo_team_101"
+    },
+    {
+      "id": "lo_493619",
+      "name_en": "Yoshiki Omachi",
+      "name_ja": "大町 佳生",
+      "team_id": "lo_team_101"
+    },
+    {
+      "id": "lo_493657",
+      "name_en": "Masaki Shima",
+      "name_ja": "島 正輝",
+      "team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_493658",
+      "name_en": "Daichi Kurihara",
+      "name_ja": "栗原 大地",
+      "team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_493659",
+      "name_en": "Toki Toshikawa",
+      "name_ja": "利川 桐生",
+      "team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_493660",
+      "name_en": "Ryusei Shibata",
+      "name_ja": "柴田 竜成",
+      "team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_493667",
+      "name_en": "Hingano Lolohea",
+      "name_ja": "ヒンガノ ・ロロヘア",
+      "team_id": "lo_team_104"
+    },
+    {
+      "id": "lo_493677",
+      "name_en": "Sione Polutele",
+      "name_ja": "シオネ ・ポルテレ",
+      "team_id": "lo_team_101"
+    },
+    {
+      "id": "lo_493679",
+      "name_en": "Takato Nasu",
+      "name_ja": "奈須 貴大",
+      "team_id": "lo_team_98"
+    },
+    {
+      "id": "lo_493687",
+      "name_en": "Quinten Strange",
+      "name_ja": "クインティン ・ストレインジ",
+      "team_id": "lo_team_100"
+    },
+    {
+      "id": "lo_493697",
+      "name_en": "Tenta Kobayashi",
+      "name_ja": "小林 典大",
+      "team_id": "lo_team_99"
+    },
+    {
+      "id": "lo_493698",
+      "name_en": "Kosuke Sugiura",
+      "name_ja": "杉浦 皓亮",
+      "team_id": "lo_team_99"
+    },
+    {
+      "id": "lo_493699",
+      "name_en": "Kengo Nonaka",
+      "name_ja": "野中 健吾",
+      "team_id": "lo_team_99"
+    },
+    {
+      "id": "lo_493700",
+      "name_en": "Shuho Fukushima",
+      "name_ja": "福島 秀法",
+      "team_id": "lo_team_99"
+    },
+    {
+      "id": "lo_493727",
+      "name_en": "Hampei Nishino",
+      "name_ja": "西野 帆平",
+      "team_id": "lo_team_104"
+    },
+    {
+      "id": "lo_493728",
+      "name_en": "Higuma Taiyo",
+      "name_ja": "日隈 太陽",
+      "team_id": "lo_team_104"
+    },
+    {
+      "id": "lo_493747",
+      "name_en": "Kaito Takata",
+      "name_ja": "高(はしごだか)田 凱斗",
+      "team_id": "lo_team_102"
+    },
+    {
+      "id": "lo_496057",
+      "name_en": "Tisileli Loketi",
+      "name_ja": "ティシレリ ・ロケティ",
+      "team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_496608",
+      "name_en": "Walt Steenkamp",
+      "name_ja": "ウォルト ・スティーンカンプ",
+      "team_id": "lo_team_106"
+    },
+    {
+      "id": "lo_497167",
+      "name_en": "Tavake Oto",
+      "name_ja": "タヴァケ ・オト",
+      "team_id": "lo_team_105"
+    },
+    {
+      "id": "lo_497168",
+      "name_en": "Shunichiro Naka",
+      "name_ja": "中 俊一朗",
+      "team_id": "lo_team_105"
+    },
+    {
+      "id": "lo_497169",
+      "name_en": "Kazuya Yamamura",
+      "name_ja": "山村 和也",
+      "team_id": "lo_team_105"
+    },
+    {
+      "id": "lo_497170",
+      "name_en": "Tomoki Kusuda",
+      "name_ja": "楠田 知己",
+      "team_id": "lo_team_105"
+    },
+    {
+      "id": "lo_497171",
+      "name_en": "Koki Miyashita",
+      "name_ja": "宮下 晃毅",
+      "team_id": "lo_team_105"
+    },
+    {
+      "id": "lo_497357",
+      "name_en": "Takashi Oshita",
+      "name_ja": "大下 貴志",
+      "team_id": "lo_team_101"
+    },
+    {
+      "id": "lo_497360",
+      "name_en": "Riku Tomita",
+      "name_ja": "富田 陸",
+      "team_id": "lo_team_101"
+    },
+    {
+      "id": "lo_500227",
+      "name_en": "Jayden Joubert",
+      "name_ja": "ジェイデン ・ジュベール",
+      "team_id": "lo_team_102"
+    },
+    {
+      "id": "lo_502146",
+      "name_en": "Juan Oosthuyzen",
+      "name_ja": "ジュアン ・ウーストハイゼン",
+      "team_id": "lo_team_102"
+    }
+  ],
+  "transfers": [
+    {
+      "id": "lo_483732",
+      "name_en": "Yasue Yoshimitsu",
+      "name_ja": "安江 祥光",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483733",
+      "name_en": "Towa Kondo",
+      "name_ja": "近藤 翔耶",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483734",
+      "name_en": "Yuki Asai",
+      "name_ja": "浅井 勇暉",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483735",
+      "name_en": "Yuma Uenobo",
+      "name_ja": "上ノ坊 悠馬",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483736",
+      "name_en": "Shaun Stevenson",
+      "name_ja": "ショーン ・スティーブンソン",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483737",
+      "name_en": "Akira Ieremia",
+      "name_ja": "アキラ ・イエレミア",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483738",
+      "name_en": "Ollie Stonham",
+      "name_ja": "オリー ・ストーンハム",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483739",
+      "name_en": "Bryn Hall",
+      "name_ja": "ブリン ・ホール",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483740",
+      "name_en": "Merwe Olivier",
+      "name_ja": "メルヴェ ・オリヴィエ",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483741",
+      "name_en": "Jennings Tsuyoshi",
+      "name_ja": "ジニングス ツヨシ",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483742",
+      "name_en": "Reo Matsushita",
+      "name_ja": "松下 怜央",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483743",
+      "name_en": "Kanji Futamura",
+      "name_ja": "二村 莞司",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483744",
+      "name_en": "Ougi Yanamoto",
+      "name_ja": "梁本 旺義",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483745",
+      "name_en": "David Van Zeeland",
+      "name_ja": "デーヴィッド ・ヴァンジーランド",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483746",
+      "name_en": "Toui Kai",
+      "name_ja": "甲斐 登生",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483747",
+      "name_en": "Kazuki Kato",
+      "name_ja": "加藤 一希",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483748",
+      "name_en": "Rikus Pretorius",
+      "name_ja": "リカス ・プレトリアス",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483749",
+      "name_en": "Halatoa Vailea",
+      "name_ja": "ハラトア ・ヴァイレア",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483750",
+      "name_en": "Haruto Kida",
+      "name_ja": "木田 晴斗",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483751",
+      "name_en": "Atsushi Oshikawa",
+      "name_ja": "押川 敦治",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483752",
+      "name_en": "Asipeli Moala",
+      "name_ja": "アシペリ ・モアラ",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483753",
+      "name_en": "Rikuto Fukuda",
+      "name_ja": "福田 陸人",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483754",
+      "name_en": "Yota Kamimori",
+      "name_ja": "紙森 陽太",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483755",
+      "name_en": "Opeti Helu",
+      "name_ja": "オペティ ・ヘル",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483756",
+      "name_en": "David Bulbring",
+      "name_ja": "デーヴィッド ・ブルブリング",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483757",
+      "name_en": "Masaya Tamaki",
+      "name_ja": "玉置 将也",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483758",
+      "name_en": "Kenshi Yamamoto",
+      "name_ja": "山本 剣士",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483759",
+      "name_en": "Gerhard van den Heever",
+      "name_ja": "ゲラード ・ファンデンヒーファー",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483760",
+      "name_en": "Koga Nezuka",
+      "name_ja": "根塚 洸雅",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483761",
+      "name_en": "Bernard Foley",
+      "name_ja": "バーナード ・フォーリー",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483762",
+      "name_en": "Takeo Suenaga",
+      "name_ja": "末永 健雄",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483763",
+      "name_en": "PieterLappiesLabuschagne",
+      "name_ja": "ピーター ・ラピース・ラブスカフニ",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483764",
+      "name_en": "Hiroyuki Yamasaki",
+      "name_ja": "山崎 洋之",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483765",
+      "name_en": "Ruan Botha",
+      "name_ja": "ルアン ・ボタ",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483766",
+      "name_en": "Shunta Koga",
+      "name_ja": "古賀 駿汰",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483767",
+      "name_en": "Faulua Makisi",
+      "name_ja": "マキシ ファウルア",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483768",
+      "name_en": "Kota Kaishi",
+      "name_ja": "海士 広大",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483769",
+      "name_en": "Satoshi Saita",
+      "name_ja": "才田 智",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483770",
+      "name_en": "Ippei Okada",
+      "name_ja": "岡田 一平",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483771",
+      "name_en": "Sione Teaupa",
+      "name_ja": "テアウパ シオネ",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483772",
+      "name_en": "Finau Tupa",
+      "name_ja": "トゥパ フィナウ",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483773",
+      "name_en": "Yuhei Shimada",
+      "name_ja": "島田 悠平",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483774",
+      "name_en": "Katsuya Okuma",
+      "name_ja": "大熊 克哉",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483775",
+      "name_en": "Harumichi Tatekawa",
+      "name_ja": "立川 理道",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483776",
+      "name_en": "Tomoki Kishioka",
+      "name_ja": "岸岡 智樹",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483777",
+      "name_en": "Kazuhiro Taniguchi",
+      "name_ja": "谷口 和洋",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483778",
+      "name_en": "Naoaki Horibe",
+      "name_ja": "堀部 直壮",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483779",
+      "name_en": "Yuki Aoki",
+      "name_ja": "青木 祐樹",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483780",
+      "name_en": "Kengo Kitagawa",
+      "name_ja": "北川 賢吾",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483781",
+      "name_en": "Genki Mizobuchi",
+      "name_ja": "溝渕 元気",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483782",
+      "name_en": "Izi Sword",
+      "name_ja": "イジ— ・ソード",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483783",
+      "name_en": "Kenkichi Yanagawa",
+      "name_ja": "梁川 賢吉",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483784",
+      "name_en": "Yamada Hibiki",
+      "name_ja": "山田 響",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483785",
+      "name_en": "Yuya Hirose",
+      "name_ja": "廣瀬 雄也",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_483786",
+      "name_en": "Hayate Era",
+      "name_ja": "江良 颯",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_485500",
+      "name_en": "Shinobu Fujiwara",
+      "name_ja": "藤原 忍",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_485518",
+      "name_en": "Tyler Paul",
+      "name_ja": "タイラー ・ポール",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_486437",
+      "name_en": "Keijiro Tamefusa",
+      "name_ja": "為房 慶次朗",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_486438",
+      "name_en": "Malcolm Marx",
+      "name_ja": "マルコム ・マークス",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_488107",
+      "name_en": "Harry Willard",
+      "name_ja": "ハリー ・ウィラード",
+      "from_team_id": "lo_team_122",
+      "to_team_id": "lo_team_97"
+    }
+  ],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [],
+  "pending_departures": [
+    {
+      "id": "lo_390",
+      "name_en": "Faf De Klerk",
+      "name_ja": "ファフ ・デクラーク",
+      "team_id": "lo_team_107"
+    },
+    {
+      "id": "lo_483476",
+      "name_en": "Genki Sudou",
+      "name_ja": "須藤 元樹",
+      "team_id": "lo_team_100"
+    },
+    {
+      "id": "lo_484385",
+      "name_en": "Vea Taumoefolau",
+      "name_ja": "ヴェア ・タモエフォラウ",
+      "team_id": "lo_team_103"
+    },
+    {
+      "id": "lo_484810",
+      "name_en": "Dino Lamb",
+      "name_ja": "ディノ ・ラム",
+      "team_id": "lo_team_107"
+    },
+    {
+      "id": "lo_790",
+      "name_en": "Pieter Steph Du Toit",
+      "name_ja": "ピーターステフ ・デュトイ",
+      "team_id": "lo_team_104"
+    }
+  ],
+  "newly_finished_rounds": []
+}
