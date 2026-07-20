@@ -22,23 +22,25 @@ from pipeline import llm_fallback
 from pipeline.transform import normalize
 
 BASE = "https://league-one.jp"
+STANDINGS_URL = f"{BASE}/standings/"
 
 # 学校名の種別判定（正規表現）。jrfu.py と同じ日本語サフィックスに加え、
-# 外国人選手向けの英語表記（high school/university）も判定する。
+# 外国人選手向けの英語表記（high school/grammar school/university）も判定する。
 _HS_SUFFIX_RE = re.compile(r"(高等学校|高等科|高校)$")
 _UNIV_SUFFIX_RE = re.compile(r"(大学校|大学)$")
-_EN_HS_RE = re.compile(r"high\s*school$", re.IGNORECASE)
+_EN_HS_RE = re.compile(r"(high\s*school|grammar\s*school)$", re.IGNORECASE)
 _EN_UNIV_RE = re.compile(r"(university|univ\.?)$", re.IGNORECASE)
+# 末尾の「（日本語訳・国名等）」括弧はサフィックス判定の邪魔になるので判定時のみ除去。
+_TRAILING_PAREN_RE = re.compile(r"[（(][^）)]*[）)]\s*$")
 
 
 def _classify_school_regex(name: str) -> Optional[str]:
-    s = name.strip()
+    s = _TRAILING_PAREN_RE.sub("", name.strip()).strip()
     if _HS_SUFFIX_RE.search(s) or _EN_HS_RE.search(s):
         return "hs"
     if _UNIV_SUFFIX_RE.search(s) or _EN_UNIV_RE.search(s):
         return "univ"
     return None
-STANDINGS_URL = f"{BASE}/standings/"
 _HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "

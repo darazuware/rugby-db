@@ -43,13 +43,13 @@
     ]
   },
   "league-one-d1": {
-    "run_at": "2026-07-20T11:36:26+09:00",
+    "run_at": "2026-07-20T12:31:23+09:00",
     "counts": {
       "players": 693,
       "teams": 12
     },
     "warnings": [
-      "league-one-d1: 出身校194件を正規表現・Sonnetいずれでもtype判定できず（例: [\"'Apifo'ouCollege\", \"AfrikaansBoys'HighSchool（アフリカ—ンスボーイズ高校）\", 'AlexanderRoadHighSchool（アレクサンダーロード高校）']）"
+      "league-one-d1: 出身校186件を正規表現・Sonnetいずれでもtype判定できず（例: [\"'Apifo'ouCollege\", 'AucklandGrammar', 'DeLaSalleCollege']）"
     ]
   },
   "national": {
@@ -172,17 +172,17 @@
     "warnings": []
   },
   "league-one-d2": {
-    "run_at": "2026-07-20T11:50:32+09:00",
+    "run_at": "2026-07-20T12:45:11+09:00",
     "counts": {
       "players": 439,
       "teams": 8
     },
     "warnings": [
-      "league-one-d2: 出身校140件を正規表現・Sonnetいずれでもtype判定できず（例: ['AtAndrew’sCollege', 'Auckland Grammar School', 'AucklandGrammarSchool']）"
+      "league-one-d2: 出身校135件を正規表現・Sonnetいずれでもtype判定できず（例: ['AtAndrew’sCollege', 'Aucklandgrammar', 'BeechenCliffSchool']）"
     ]
   },
   "league-one-d3": {
-    "run_at": "2026-07-20T12:01:31+09:00",
+    "run_at": "2026-07-20T12:55:52+09:00",
     "counts": {
       "players": 337,
       "teams": 6
