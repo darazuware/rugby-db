@@ -18,10 +18,12 @@ interface BannerInfo {
     provider: string;
 }
 
-const getBannerInfo = (leagueId?: string): BannerInfo => {
+const getBannerInfo = (leagueId?: string): BannerInfo | null => {
     const providers = getWatchProviders(leagueId ?? "league-one");
-    const primary = providers[0] ?? { name: "配信サービス", url: "#TODO_ASP_URL" };
-    const providerLabel = providers.map((p) => p.name).join(" / ") || primary.name;
+    const primary = providers[0];
+    // 視聴サービス未登録のリーグ（urc / premiership 等）はバナー自体を出さない
+    if (!primary) return null;
+    const providerLabel = providers.map((p) => p.name).join(" / ");
 
     switch (leagueId) {
         case "super-rugby":
@@ -64,6 +66,7 @@ const getBannerInfo = (leagueId?: string): BannerInfo => {
 const banner = getBannerInfo(league);
 ---
 
+{banner && (
 <div
     class={`relative overflow-hidden rounded-[2rem] bg-gradient-to-br ${
         banner.color
@@ -114,7 +117,7 @@ const banner = getBannerInfo(league);
                target={AFFILIATE_LINK_ATTRS.target}
                rel={AFFILIATE_LINK_ATTRS.rel}
                class="inline-flex items-center gap-3 px-10 py-5 bg-white text-gray-950 rounded-2xl font-black text-lg hover:bg-yellow-400 hover:text-black hover:scale-105 active:scale-95 transition-all shadow-xl shadow-white/10 group/btn">
-                無料で視聴する
+                公式サイトで詳細を見る
                 <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 group-hover:translate-x-1 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg>
             </a>
             {
@@ -133,3 +136,4 @@ const banner = getBannerInfo(league);
     >
     </div>
 </div>
+)}

@@ -2,9 +2,9 @@
 // P4-1: アフィリエイトリンク一元管理。ASP変更・URL差替は本ファイルのみで完結させる。
 // 参照: docs/renewal/07_AFFILIATE.md
 //
-// 重要: URLは全てプレースホルダー（#TODO_ASP_URL）。
+// 重要: 現在のURLは各サービスの公式サイト（アフィリエイトIDなし）。
 // 実際のアフィリエイトリンクはユーザーがASP管理画面から取得し、本ファイルに直接貼ること。
-// AIはこのファイルに実IDを書かない。
+// AIはこのファイルに実ID（ASPリンク）を書かない。
 
 export const AFFILIATE_LINK_ATTRS = {
     rel: "sponsored noopener",
@@ -20,10 +20,10 @@ export interface WatchProvider {
 
 // 視聴サービス定義（ASP切替時はここだけ差し替える）
 export const WATCH_PROVIDERS: Record<string, WatchProvider> = {
-    dazn: { id: "dazn", name: "DAZN", url: "#TODO_ASP_URL" },
-    jsports: { id: "jsports", name: "J SPORTS", url: "#TODO_ASP_URL" },
-    wowow: { id: "wowow", name: "WOWOW", url: "#TODO_ASP_URL" },
-    skyperfectv: { id: "skyperfectv", name: "スカパー!", url: "#TODO_ASP_URL" },
+    dazn: { id: "dazn", name: "DAZN", url: "https://www.dazn.com/ja-JP/welcome" },
+    jsports: { id: "jsports", name: "J SPORTS", url: "https://www.jsports.co.jp/rugby/" },
+    wowow: { id: "wowow", name: "WOWOW", url: "https://www.wowow.co.jp/" },
+    skyperfectv: { id: "skyperfectv", name: "スカパー!", url: "https://www.skyperfectv.co.jp/" },
 };
 
 // リーグID → 視聴サービス対応表
@@ -64,8 +64,8 @@ export interface AccommodationProvider {
 // 宿泊予約サービス定義（P4-2、参照: docs/renewal/07_AFFILIATE.md）
 // エリア指定は data/manual/venue_areas.json を引いて呼び出し側が付与する（URL自体は固定プレースホルダー）。
 export const ACCOMMODATION_PROVIDERS: Record<string, AccommodationProvider> = {
-    rakutentravel: { id: "rakutentravel", name: "楽天トラベル", url: "#TODO_ASP_URL" },
-    jalan: { id: "jalan", name: "じゃらん", url: "#TODO_ASP_URL" },
+    rakutentravel: { id: "rakutentravel", name: "楽天トラベル", url: "https://travel.rakuten.co.jp/" },
+    jalan: { id: "jalan", name: "じゃらん", url: "https://www.jalan.net/" },
 };
 
 /** 全宿泊予約サービスを返す（リーグ非依存、会場エリアが判明した試合/チームページでのみ表示する） */
@@ -83,8 +83,8 @@ export interface FlightProvider {
 // 海外宿泊予約サービス（P4-5）。venue_areas.json は国内会場のみのため、
 // RWC2027（豪州）等の海外開催地ではこちらを使う。
 export const OVERSEAS_ACCOMMODATION_PROVIDERS: Record<string, AccommodationProvider> = {
-    agoda: { id: "agoda", name: "Agoda", url: "#TODO_ASP_URL" },
-    bookingcom: { id: "bookingcom", name: "Booking.com", url: "#TODO_ASP_URL" },
+    agoda: { id: "agoda", name: "Agoda", url: "https://www.agoda.com/ja-jp/" },
+    bookingcom: { id: "bookingcom", name: "Booking.com", url: "https://www.booking.com/index.ja.html" },
 };
 
 /** 海外宿泊予約サービス一覧を返す（RWC2027特集ページ等、海外開催地ページ専用）。参照: docs/renewal/07_AFFILIATE.md */
@@ -94,8 +94,8 @@ export function getOverseasAccommodationProviders(): AccommodationProvider[] {
 
 // 航空券検索サービス（P4-5、RWC2027等の海外渡航向け）
 export const FLIGHT_PROVIDERS: Record<string, FlightProvider> = {
-    skyticket: { id: "skyticket", name: "skyticket", url: "#TODO_ASP_URL" },
-    expedia: { id: "expedia", name: "Expedia", url: "#TODO_ASP_URL" },
+    skyticket: { id: "skyticket", name: "skyticket", url: "https://skyticket.jp/" },
+    expedia: { id: "expedia", name: "Expedia", url: "https://www.expedia.co.jp/" },
 };
 
 /** 航空券検索サービス一覧を返す（RWC2027特集ページ等、海外渡航ページ専用）。参照: docs/renewal/07_AFFILIATE.md */

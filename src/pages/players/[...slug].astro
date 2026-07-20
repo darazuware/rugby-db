@@ -49,6 +49,14 @@ const teamColor: string | null =
   (team?.colors?.main as string | undefined) ??
   null;
 
+// 出身校（education から高校/大学を1件ずつ。is_minor は出さない: 10のポリシー）
+const eduHs = !player.is_minor
+  ? player.education.find((e) => e.type === "hs")
+  : undefined;
+const eduUniv = !player.is_minor
+  ? player.education.find((e) => e.type === "univ")
+  : undefined;
+
 const posJa = positionJa(player.position);
 const age = calcAge(player.birthdate);
 const bioSentences = buildPlayerBioSentences(player, { teamName });
@@ -173,6 +181,18 @@ const allStats: StatRow[] = [
     label: "国籍",
     sub: "NATIONALITY",
     value: player.nationality.length ? player.nationality.join("・") : null,
+  },
+  {
+    label: "出身高校",
+    sub: "HIGH SCHOOL",
+    value: eduHs?.name_raw ?? null,
+    href: eduHs?.school_id ? `/schools/${eduHs.school_id}` : null,
+  },
+  {
+    label: "出身大学",
+    sub: "UNIVERSITY",
+    value: eduUniv?.name_raw ?? null,
+    href: eduUniv?.school_id ? `/schools/${eduUniv.school_id}` : null,
   },
 ];
 const stats = allStats.filter((s) => s.value != null && s.value !== "");
