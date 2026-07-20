@@ -2,6 +2,7 @@ import { describe, expect, it } from "vitest";
 import {
   applyPlayerMerges,
   canHaveIndividualPlayerPage,
+  dedupePlayersById,
   getAllPlayers,
   getAllTeams,
   sanitizeMinorPlayer,
@@ -39,6 +40,42 @@ function makePlayer(overrides: Partial<Player> = {}): Player {
     ...overrides,
   };
 }
+
+describe("dedupePlayersById", () => {
+  it("national と クラブの同一id重複をクラブ側に畳む", () => {
+    const nat = makePlayer({
+      id: "ar_1", slug: "s", league: "national", team_id: "france",
+      nationality: ["France"], caps: { team: "France", count: 2, source_url: null },
+      height_cm: 190,
+    });
+    const club = makePlayer({
+      id: "ar_1", slug: "s", league: "top14", team_id: "pau", height_cm: 185,
+    });
+
+    const result = dedupePlayersById([nat, club]);
+    expect(result).toHaveLength(1);
+    expect(result[0].league).toBe("top14");
+    expect(result[0].team_id).toBe("pau");
+    expect(result[0].height_cm).toBe(185); // クラブ側の既存値は上書きしない
+    expect(result[0].caps?.count).toBe(2); // null 項目のみ national から補う
+    expect(result[0].nationality).toEqual(["France"]);
+  });
+
+  it("クラブが先・national が後でも結果は同じ", () => {
+    const club = makePlayer({ id: "ar_1", league: "top14", team_id: "pau" });
+    const nat = makePlayer({
+      id: "ar_1", league: "national", team_id: "france", nationality: ["France"],
+    });
+    const result = dedupePlayersById([club, nat]);
+    expect(result).toHaveLength(1);
+    expect(result[0].team_id).toBe("pau");
+    expect(result[0].nationality).toEqual(["France"]);
+  });
+
+  it("重複が無ければ全件そのまま返す", () => {
+    expect(dedupePlayersById([makePlayer({ id: "a" }), makePlayer({ id: "b" })])).toHaveLength(2);
+  });
+});
 
 describe("applyPlayerMerges", () => {
   it("merges が空なら元の配列をそのまま返す", () => {

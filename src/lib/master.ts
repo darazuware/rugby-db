@@ -256,6 +256,59 @@ export function applyPlayerMerges(players: Player[], merges: PlayerMerges): Play
   return players.filter((p) => !dupIds.has(p.id));
 }
 
+/**
+ * 同一 id が複数リーグのファイルに入っている重複を1レコードに畳む。
+ *
+ * all.rugby 由来の代表選手（national.json）は、同じ id・同じ slug のまま所属クラブ
+ * リーグ（top14 / urc / super-rugby / premiership）にも入っている。そのまま結合すると
+ * slug が衝突し getStaticPaths が重複パスを返すため、ここで統合する。
+ *
+ * - canonical はクラブ側（league !== "national"）。所属チームページとの整合を優先する。
+ *   全レコードが national の場合は最初のレコードを canonical にする。
+ * - canonical が null/空の項目のみ相手側から補う（既存値は上書きしない。applyPlayerMerges と同じ方針）。
+ * - id が同じなので merged_from には積まない（別 id の人物統合は player_merges 側の役目）。
+ */
+export function dedupePlayersById(players: Player[]): Player[] {
+  const byId = new Map<string, Player>();
+  const result: Player[] = [];
+
+  for (const player of players) {
+    const existing = byId.get(player.id);
+    if (!existing) {
+      const copy = { ...player };
+      byId.set(player.id, copy);
+      result.push(copy);
+      continue;
+    }
+    // クラブ側を canonical にする（既存が national なら入れ替える）
+    const canonical = existing.league === "national" && player.league !== "national"
+      ? Object.assign(existing, player, {
+          caps: existing.caps ?? player.caps,
+          nationality: existing.nationality?.length ? existing.nationality : player.nationality,
+          career: existing.career?.length ? existing.career : player.career,
+          education: existing.education?.length ? existing.education : player.education,
+        })
+      : existing;
+    const other = canonical === existing ? player : existing;
+
+    if (canonical.caps == null) canonical.caps = other.caps;
+    if (canonical.league_caps == null) canonical.league_caps = other.league_caps;
+    if ((canonical.nationality?.length ?? 0) === 0) canonical.nationality = other.nationality;
+    if ((canonical.career?.length ?? 0) === 0) canonical.career = other.career;
+    if ((canonical.education?.length ?? 0) === 0) canonical.education = other.education;
+    if (canonical.season_stats == null) canonical.season_stats = other.season_stats;
+    if (canonical.height_cm == null) canonical.height_cm = other.height_cm;
+    if (canonical.weight_kg == null) canonical.weight_kg = other.weight_kg;
+    if (canonical.birthdate == null) canonical.birthdate = other.birthdate;
+    if (canonical.name_ja == null) canonical.name_ja = other.name_ja;
+    if (canonical.name_kana == null) canonical.name_kana = other.name_kana;
+    if (canonical.instagram == null) canonical.instagram = other.instagram;
+    if (canonical.image_url == null) canonical.image_url = other.image_url;
+  }
+
+  return result;
+}
+
 // ---------------------------------------------------------------------------
 // 未成年ポリシー（10_YOUTH_AGEGRADE.md「未成年の個人情報ポリシー（絶対）」）
 //
@@ -311,7 +364,7 @@ export function getAllPlayers(): Promise<Player[]> {
   if (!_playersCache) {
     _playersCache = (async () => {
       const [raw, merges] = await Promise.all([loadAllPlayersRaw(), loadPlayerMerges()]);
-      return applyPlayerMerges(raw, merges);
+      return applyPlayerMerges(dedupePlayersById(raw), merges);
     })();
   }
   return _playersCache;
