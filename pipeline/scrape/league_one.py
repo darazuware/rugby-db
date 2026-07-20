@@ -18,9 +18,26 @@ from typing import Optional
 import requests
 from bs4 import BeautifulSoup
 
+from pipeline import llm_fallback
 from pipeline.transform import normalize
 
 BASE = "https://league-one.jp"
+
+# 学校名の種別判定（正規表現）。jrfu.py と同じ日本語サフィックスに加え、
+# 外国人選手向けの英語表記（high school/university）も判定する。
+_HS_SUFFIX_RE = re.compile(r"(高等学校|高等科|高校)$")
+_UNIV_SUFFIX_RE = re.compile(r"(大学校|大学)$")
+_EN_HS_RE = re.compile(r"high\s*school$", re.IGNORECASE)
+_EN_UNIV_RE = re.compile(r"(university|univ\.?)$", re.IGNORECASE)
+
+
+def _classify_school_regex(name: str) -> Optional[str]:
+    s = name.strip()
+    if _HS_SUFFIX_RE.search(s) or _EN_HS_RE.search(s):
+        return "hs"
+    if _UNIV_SUFFIX_RE.search(s) or _EN_UNIV_RE.search(s):
+        return "univ"
+    return None
 STANDINGS_URL = f"{BASE}/standings/"
 _HEADERS = {
     "User-Agent": (
@@ -171,6 +188,14 @@ def parse_player_page(html: str, pid: str) -> dict:
     if m:
         league_caps = m.group(1)
 
+    education_segments_raw: list[str] = []
+    m = re.search(r"出身校・チーム歴\s*：\s*(.+?)(?:\s*登録区分|\s*リーグワンキャップ数|$)", detail)
+    if m:
+        for seg in m.group(1).split("\xa0"):
+            seg = seg.strip()
+            if seg:
+                education_segments_raw.append(seg)
+
     image_url = None
     img = soup.select_one(".player-kv-img img")
     if img and img.get("src", "").startswith("http"):
@@ -186,6 +211,7 @@ def parse_player_page(html: str, pid: str) -> dict:
         "birthdate": birthdate,
         "league_caps": league_caps,
         "image_url": image_url,
+        "education_segments_raw": education_segments_raw,
     }
 
 
@@ -208,6 +234,8 @@ def collect(division: str) -> dict:
     teams_out: list[dict] = []
     players_out: list[dict] = []
     roster_by_team: dict[str, list[str]] = {}
+    team_meta: list[tuple[str, str, list[str]]] = []  # (tid, team_name, pids)
+    raws_by_pid: dict[str, dict] = {}
 
     for tid, std_name in team_list:
         html = _get(f"{BASE}/team/{tid}")
@@ -220,14 +248,48 @@ def collect(division: str) -> dict:
         if _MAX_PLAYERS:
             pids = pids[:_MAX_PLAYERS]
 
-        roster_ids: list[str] = []
+        kept_pids: list[str] = []
         for pid in pids:
             phtml = _get(f"{BASE}/player/{pid}")
             time.sleep(_SLEEP)
             if phtml is None:
                 warnings.append(f"{league}: player/{pid} 取得失敗、スキップ")
                 continue
-            raw = parse_player_page(phtml, pid)
+            raws_by_pid[pid] = parse_player_page(phtml, pid)
+            kept_pids.append(pid)
+        team_meta.append((tid, team_name, kept_pids))
+
+    # 出身校の正規表現分類→未判定分のみまとめてSonnetフォールバック（jrfu.py と同方針）。
+    unresolved: set[str] = set()
+    for raw in raws_by_pid.values():
+        for seg in raw.get("education_segments_raw", []):
+            if _classify_school_regex(seg) is None:
+                unresolved.add(seg)
+    llm_result: dict[str, str] = {}
+    if unresolved:
+        llm_result = llm_fallback.classify_school_names(sorted(unresolved))
+        still_unresolved = sorted(set(unresolved) - set(llm_result))
+        if still_unresolved:
+            warnings.append(
+                f"{league}: 出身校{len(still_unresolved)}件を正規表現・Sonnet"
+                f"いずれでもtype判定できず（例: {still_unresolved[:3]}）"
+            )
+
+    def _type_of(name: str) -> Optional[str]:
+        return _classify_school_regex(name) or llm_result.get(name)
+
+    for raw in raws_by_pid.values():
+        education: list[dict] = []
+        for seg in raw.get("education_segments_raw", []):
+            t = _type_of(seg)
+            if t is not None:
+                education.append({"name_raw": seg, "type": t})
+        raw["_education"] = education
+
+    for tid, team_name, kept_pids in team_meta:
+        roster_ids: list[str] = []
+        for pid in kept_pids:
+            raw = raws_by_pid[pid]
             player, pw = normalize.player(raw, league=league, team_id=f"lo_team_{tid}")
             warnings.extend(pw)
             if player is None:

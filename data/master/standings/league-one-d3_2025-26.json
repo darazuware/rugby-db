@@ -1,0 +1,68 @@
+{
+  "league": "league-one-d3",
+  "season": "2025-26",
+  "scraped_at": "2026-07-20T12:01:31+09:00",
+  "source_url": "https://league-one.jp/standings/",
+  "rows": [
+    {
+      "rank": 1,
+      "team_id": "lo_team_120",
+      "played": 15,
+      "won": 14,
+      "drawn": 0,
+      "lost": 1,
+      "points": 67,
+      "bonus": null
+    },
+    {
+      "rank": 2,
+      "team_id": "lo_team_118",
+      "played": 15,
+      "won": 12,
+      "drawn": 1,
+      "lost": 2,
+      "points": 63,
+      "bonus": null
+    },
+    {
+      "rank": 3,
+      "team_id": "lo_team_117",
+      "played": 15,
+      "won": 6,
+      "drawn": 0,
+      "lost": 9,
+      "points": 31,
+      "bonus": null
+    },
+    {
+      "rank": 4,
+      "team_id": "lo_team_122",
+      "played": 15,
+      "won": 5,
+      "drawn": 2,
+      "lost": 8,
+      "points": 25,
+      "bonus": null
+    },
+    {
+      "rank": 5,
+      "team_id": "lo_team_119",
+      "played": 15,
+      "won": 3,
+      "drawn": 1,
+      "lost": 11,
+      "points": 16,
+      "bonus": null
+    },
+    {
+      "rank": 6,
+      "team_id": "lo_team_121",
+      "played": 15,
+      "won": 3,
+      "drawn": 0,
+      "lost": 12,
+      "points": 16,
+      "bonus": null
+    }
+  ]
+}

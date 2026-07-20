@@ -68,6 +68,7 @@ def player(raw: dict, *, league: str, team_id: Optional[str]) -> tuple[Optional[
         "birthdate": raw.get("birthdate"),
         "league_caps": raw.get("league_caps"),
         "image_url": raw.get("image_url"),
+        "education": raw.get("_education") or [],
     }
     try:
         model, w = Player.parse(data)

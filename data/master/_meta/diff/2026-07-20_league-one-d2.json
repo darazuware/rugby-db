@@ -1,0 +1,248 @@
+{
+  "league": "league-one-d2",
+  "signings": [
+    {
+      "id": "lo_485037",
+      "name_en": "Kaipono Kayoshi",
+      "name_ja": "カイポノ ・カヨシ",
+      "team_id": "lo_team_109"
+    },
+    {
+      "id": "lo_493247",
+      "name_en": "Shido Nagata",
+      "name_ja": "長田 士導",
+      "team_id": "lo_team_114"
+    },
+    {
+      "id": "lo_493547",
+      "name_en": "Noah Lolesio",
+      "name_ja": "ノア ・ロレシオ",
+      "team_id": "lo_team_112"
+    },
+    {
+      "id": "lo_493587",
+      "name_en": "Hayato Ishibashi",
+      "name_ja": "石橋 隼",
+      "team_id": "lo_team_116"
+    },
+    {
+      "id": "lo_493588",
+      "name_en": "Ezra Paulo",
+      "name_ja": "エズラ ・パウロ",
+      "team_id": "lo_team_110"
+    },
+    {
+      "id": "lo_493597",
+      "name_en": "Yukito Akasako",
+      "name_ja": "赤迫 幸知",
+      "team_id": "lo_team_116"
+    },
+    {
+      "id": "lo_493598",
+      "name_en": "Yuma Kikumoto",
+      "name_ja": "菊本 有真",
+      "team_id": "lo_team_116"
+    },
+    {
+      "id": "lo_493599",
+      "name_en": "Shuichi Kobayashi",
+      "name_ja": "小林 修市",
+      "team_id": "lo_team_116"
+    },
+    {
+      "id": "lo_493600",
+      "name_en": "Kaishun Azuma",
+      "name_ja": "東 海隼",
+      "team_id": "lo_team_116"
+    },
+    {
+      "id": "lo_493602",
+      "name_en": "Daigo Yoshimoto",
+      "name_ja": "吉本 大悟",
+      "team_id": "lo_team_114"
+    },
+    {
+      "id": "lo_493603",
+      "name_en": "Raito Sakita",
+      "name_ja": "崎田 士人",
+      "team_id": "lo_team_114"
+    },
+    {
+      "id": "lo_493604",
+      "name_en": "Shuki Usuda",
+      "name_ja": "薄田 周希",
+      "team_id": "lo_team_114"
+    },
+    {
+      "id": "lo_493627",
+      "name_en": "Yoshinobu Otake",
+      "name_ja": "大竹 慶宣",
+      "team_id": "lo_team_111"
+    },
+    {
+      "id": "lo_493628",
+      "name_en": "Keito Hayashi",
+      "name_ja": "林 慶音",
+      "team_id": "lo_team_111"
+    },
+    {
+      "id": "lo_493629",
+      "name_en": "Tomoki Yumbe",
+      "name_ja": "弓部 智希",
+      "team_id": "lo_team_111"
+    },
+    {
+      "id": "lo_493630",
+      "name_en": "Junnosuke Ito",
+      "name_ja": "伊藤 潤乃助",
+      "team_id": "lo_team_111"
+    },
+    {
+      "id": "lo_493631",
+      "name_en": "Noel Kawamura",
+      "name_ja": "河村 ノエル",
+      "team_id": "lo_team_111"
+    },
+    {
+      "id": "lo_493632",
+      "name_en": "Taisei Konishi",
+      "name_ja": "小西 泰誠",
+      "team_id": "lo_team_111"
+    },
+    {
+      "id": "lo_493717",
+      "name_en": "Takuru Kamimura",
+      "name_ja": "上村 拓",
+      "team_id": "lo_team_110"
+    },
+    {
+      "id": "lo_493737",
+      "name_en": "Atsuhiro Yoshida",
+      "name_ja": "吉田 温広",
+      "team_id": "lo_team_115"
+    },
+    {
+      "id": "lo_493738",
+      "name_en": "Yu Yomogita",
+      "name_ja": "蓬田 雄",
+      "team_id": "lo_team_115"
+    },
+    {
+      "id": "lo_493739",
+      "name_en": "Shoma Kai",
+      "name_ja": "甲斐 匠馬",
+      "team_id": "lo_team_115"
+    },
+    {
+      "id": "lo_493740",
+      "name_en": "Jo Kuramori",
+      "name_ja": "蔵森 晟",
+      "team_id": "lo_team_115"
+    },
+    {
+      "id": "lo_493741",
+      "name_en": "Yuki Ando",
+      "name_ja": "安藤 悠樹",
+      "team_id": "lo_team_115"
+    },
+    {
+      "id": "lo_493742",
+      "name_en": "Riku Ono",
+      "name_ja": "大野 莉駒",
+      "team_id": "lo_team_115"
+    },
+    {
+      "id": "lo_496047",
+      "name_en": "So Ibaragi",
+      "name_ja": "茨木 颯",
+      "team_id": "lo_team_110"
+    },
+    {
+      "id": "lo_496797",
+      "name_en": "Yutaro Yamaguchi",
+      "name_ja": "山口 湧太郎",
+      "team_id": "lo_team_113"
+    },
+    {
+      "id": "lo_496798",
+      "name_en": "Yuki Kikuchi",
+      "name_ja": "菊池 優希",
+      "team_id": "lo_team_113"
+    },
+    {
+      "id": "lo_496799",
+      "name_en": "Taison Mogami",
+      "name_ja": "最上 太尊",
+      "team_id": "lo_team_113"
+    },
+    {
+      "id": "lo_497177",
+      "name_en": "Ichimaro Okuhira",
+      "name_ja": "奥平 一磨呂",
+      "team_id": "lo_team_112"
+    },
+    {
+      "id": "lo_497178",
+      "name_en": "Sota Hashimoto",
+      "name_ja": "橋本 颯太",
+      "team_id": "lo_team_112"
+    }
+  ],
+  "transfers": [
+    {
+      "id": "lo_484438",
+      "name_en": "Viliame Suwawa",
+      "name_ja": "ヴィリアミ ・スワワ",
+      "from_team_id": "lo_team_112",
+      "to_team_id": "lo_team_115"
+    }
+  ],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [],
+  "pending_departures": [
+    {
+      "id": "lo_1174",
+      "name_en": "Hayato Ishibashi",
+      "name_ja": "石橋 隼",
+      "team_id": "lo_team_116"
+    },
+    {
+      "id": "lo_1175",
+      "name_en": "Yukito Akasako",
+      "name_ja": "赤迫 幸知",
+      "team_id": "lo_team_116"
+    },
+    {
+      "id": "lo_1176",
+      "name_en": "Yuma Kikumoto",
+      "name_ja": "菊本 有真",
+      "team_id": "lo_team_116"
+    },
+    {
+      "id": "lo_1177",
+      "name_en": "Kaishun Azuma",
+      "name_ja": "東 海隼",
+      "team_id": "lo_team_116"
+    },
+    {
+      "id": "lo_1178",
+      "name_en": "Shuichi Kobayashi",
+      "name_ja": "小林 修市",
+      "team_id": "lo_team_116"
+    },
+    {
+      "id": "lo_160",
+      "name_en": "Christian Lealiifano",
+      "name_ja": "クリスチャン ・リアリーファノ",
+      "team_id": "lo_team_112"
+    },
+    {
+      "id": "lo_483529",
+      "name_en": "Amanaki Taiyo Lotoahea",
+      "name_ja": "ロトアヘア アマナキ大洋",
+      "team_id": "lo_team_109"
+    }
+  ],
+  "newly_finished_rounds": []
+}
