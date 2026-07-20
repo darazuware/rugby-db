@@ -1,5 +1,243 @@
 [
   {
+    "name_en_normalized": "masanori miyao",
+    "birthdate": "2002-06-01",
+    "members": [
+      {
+        "league": "age-grade",
+        "id": "jrfu_u17_319628"
+      },
+      {
+        "league": "league-one-d1",
+        "id": "lo_484304"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "yoshiyuki koga",
+    "birthdate": "1998-08-28",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_484882"
+      },
+      {
+        "league": "sevens-national",
+        "id": "jrfu_sevens_m_481731"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "tomu takamoto",
+    "birthdate": "2001-10-10",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_484906"
+      },
+      {
+        "league": "sevens-national",
+        "id": "jrfu_sevens_m_481736"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "taichi kugino",
+    "birthdate": "2002-10-21",
+    "members": [
+      {
+        "league": "age-grade",
+        "id": "jrfu_u17_319629"
+      },
+      {
+        "league": "league-one-d1",
+        "id": "lo_484861"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "keitatsu motoyama",
+    "birthdate": "2006-12-26",
+    "members": [
+      {
+        "league": "age-grade",
+        "id": "jrfu_u20_504964"
+      },
+      {
+        "league": "league-one-d1",
+        "id": "lo_484148"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "taisei fukuda",
+    "birthdate": "2002-10-29",
+    "members": [
+      {
+        "league": "age-grade",
+        "id": "jrfu_u17_319616"
+      },
+      {
+        "league": "league-one-d1",
+        "id": "lo_484153"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "koki miyasaka",
+    "birthdate": "2002-03-01",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_484713"
+      },
+      {
+        "league": "sevens-national",
+        "id": "jrfu_sevens_m_481734"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "haruhiko uemura",
+    "birthdate": "2000-11-13",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_484687"
+      },
+      {
+        "league": "sevens-national",
+        "id": "jrfu_sevens_m_481726"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "keito aoki",
+    "birthdate": "2002-06-14",
+    "members": [
+      {
+        "league": "age-grade",
+        "id": "jrfu_u17_319623"
+      },
+      {
+        "league": "league-one-d1",
+        "id": "lo_484451"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "jone nabetelevu",
+    "birthdate": "1999-02-22",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_485369"
+      },
+      {
+        "league": "sevens-national",
+        "id": "jrfu_sevens_m_481727"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "takemichi nakano",
+    "birthdate": "1996-12-18",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_485514"
+      },
+      {
+        "league": "sevens-national",
+        "id": "jrfu_sevens_m_481733"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "daito tone",
+    "birthdate": "2002-07-03",
+    "members": [
+      {
+        "league": "age-grade",
+        "id": "jrfu_u17_319617"
+      },
+      {
+        "league": "league-one-d2",
+        "id": "lo_484401"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "ryuji kobayashi",
+    "birthdate": "2002-10-10",
+    "members": [
+      {
+        "league": "age-grade",
+        "id": "jrfu_u17_319621"
+      },
+      {
+        "league": "league-one-d2",
+        "id": "lo_484531"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "naoya ogita",
+    "birthdate": "2002-09-20",
+    "members": [
+      {
+        "league": "league-one-d2",
+        "id": "lo_483542"
+      },
+      {
+        "league": "sevens-national",
+        "id": "jrfu_sevens_m_481725"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "ryosei takai",
+    "birthdate": "2001-12-09",
+    "members": [
+      {
+        "league": "league-one-d2",
+        "id": "lo_485129"
+      },
+      {
+        "league": "sevens-national",
+        "id": "jrfu_sevens_m_481732"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "ren ouchi",
+    "birthdate": "1999-01-22",
+    "members": [
+      {
+        "league": "league-one-d3",
+        "id": "lo_484630"
+      },
+      {
+        "league": "sevens-national",
+        "id": "jrfu_sevens_m_481724"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "kenji nigara",
+    "birthdate": "2002-07-24",
+    "members": [
+      {
+        "league": "age-grade",
+        "id": "jrfu_u17_319624"
+      },
+      {
+        "league": "league-one-d3",
+        "id": "lo_484258"
+      }
+    ]
+  },
+  {
     "name_en_normalized": "koshi tsumura",
     "birthdate": "2007-06-20",
     "members": [
