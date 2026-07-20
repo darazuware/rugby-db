@@ -22,8 +22,8 @@ draft: true
 
 それぞれの月額料金・配信対象試合数・同時視聴可能端末数などの詳細は変動するため、契約前に必ず公式サイトでご確認ください。
 
-<a href="#TODO_ASP_URL" rel="sponsored noopener" target="_blank" class="inline-block px-6 py-3 bg-yellow-400 text-black font-black rounded-xl no-underline mr-3">J SPORTSの公式サイトで詳細を見る</a>
-<a href="#TODO_ASP_URL" rel="sponsored noopener" target="_blank" class="inline-block px-6 py-3 bg-yellow-400 text-black font-black rounded-xl no-underline">DAZNの公式サイトで詳細を見る</a>
+<a href="https://www.jsports.co.jp/rugby/" rel="noopener" target="_blank" class="inline-block px-6 py-3 bg-yellow-400 text-black font-black rounded-xl no-underline mr-3">J SPORTSの公式サイトで詳細を見る</a>
+<a href="https://www.dazn.com/ja-JP/welcome" rel="noopener" target="_blank" class="inline-block px-6 py-3 bg-yellow-400 text-black font-black rounded-xl no-underline">DAZNの公式サイトで詳細を見る</a>
 
 ※ 放送・配信内容は予告なく変更される場合があります。契約前に必ず公式サイトで最新の配信対象・料金をご確認ください。
 

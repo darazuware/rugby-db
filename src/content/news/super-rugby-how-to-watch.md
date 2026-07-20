@@ -23,7 +23,7 @@ WOWOWは衛星放送・オンライン配信の両方に対応した有料サー
 - **月額料金・配信対象試合の詳細**: 変動するため要確認（公式サイトでご確認ください）
 - **視聴方法（放送/オンデマンド）の最新情報**: 要確認（公式サイトでご確認ください）
 
-<a href="#TODO_ASP_URL" rel="sponsored noopener" target="_blank" class="inline-block px-6 py-3 bg-yellow-400 text-black font-black rounded-xl no-underline">WOWOWの公式サイトで詳細を見る</a>
+<a href="https://www.wowow.co.jp/" rel="noopener" target="_blank" class="inline-block px-6 py-3 bg-yellow-400 text-black font-black rounded-xl no-underline">WOWOWの公式サイトで詳細を見る</a>
 
 ※ 放送・配信内容は予告なく変更される場合があります。契約前に必ず公式サイトで最新の配信対象・料金をご確認ください。
 

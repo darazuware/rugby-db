@@ -37,7 +37,7 @@ tags: ["URC", "チーム紹介", "2025-26", "スカーレッツ"]
 | :--- | :--- | :--- |
 | Alec HEPBURN | アレック・ヘップバーン | PR |
 | Taine PLUMTREE | テイン・プラムツリー | LO |
-| Josh McLAOD | ジョシュ・マクラウド | FL/No8 |
+| Josh MacLEOD | ジョシュ・マクラウド | FL/No8 |
 | Dane BLACKER | デイン・ブラッカー | SH |
 | Steff Jac JONES | ステフ・ジャク・ジョーンズ | SO |
 | Johnnie WILLIAMS | ジョニー・ウィリアムズ | CTB |
