@@ -43,7 +43,7 @@ tags: ["URC", "チーム紹介", "2025-26", "オスプレーズ"]
 | Jack WALSH | ジャック・ウォルシュ | SO |
 | Tom FLORENCE | トム・フローレンス | CTB |
 | Phil COKANASIGA | フィル・コカナシガ | CTB |
-| Kieran GILES | キーラン・ジャイルズ | WTB |
+| Keelan GILES | キーラン・ジャイルズ | WTB |
 | Iestyn HOPKINS | イェスティン・ホプキンス | FB |
 | Morgan MORRIS | モルガン・モリス | FL/No8 |
 

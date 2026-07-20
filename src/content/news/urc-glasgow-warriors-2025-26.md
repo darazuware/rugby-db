@@ -42,7 +42,7 @@ tags: ["URC", "チーム紹介", "2025-26", "グラスゴー・ウォリアー�
 
 | 選手名 | カタカナ | ポジション |
 | :--- | :--- | :--- |
-| Sam TARAKHAI | サム・タラカイ | PR |
+| Sam TALAKAI | サム・タラカイ | PR |
 | Grant STEWART | グラント・スチュワート | HO |
 | Max WILLIAMSON | マックス・ウィリアムソン | LO |
 | Dylan COCKBURN | ディラン・コクバーン | LO |
@@ -51,7 +51,7 @@ tags: ["URC", "チーム紹介", "2025-26", "グラスゴー・ウォリアー�
 | Duncan WEIR | ダンカン・ウィアー | SO |
 | Stafford McDOWALL | スタッフォード・マクドウォール | CTB |
 | Cameron VAN WYK | キャメロン・ファン・ワイク | WTB |
-| Harry PROVAN | ハリー・プロヴァン | FB |
+| Harry PROVAN | ハリー・プロヴァン | WTB |
 | Sione VAILANU | シオネ・ヴァイラヌ | FL/No8 |
 
 ---

@@ -39,7 +39,7 @@ tags: ["URC", "チーム紹介", "2025-26", "ドラゴンズ"]
 | Ben CARTER | ベン・カーター | LO |
 | Tom YOUNG | トム・ヤング | FL/No8 |
 | Morgan LLOYD | モルガン・ロイド | SH |
-| Jack LLOYD | ジャック・ロイド | SO |
+| Jac LLOYD | ジャク・ロイド | SO |
 | Aneurin OWEN | アニューリン・オーウェン | CTB |
 | Jared ROSSER | ジャレッド・ロッサー | WTB |
 | Oli WOODMAN | オリ・ウッドマン | FB |

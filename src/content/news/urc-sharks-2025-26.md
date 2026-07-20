@@ -31,7 +31,6 @@ tags: ["URC", "チーム紹介", "2025-26", "シャークス"]
 | Siya KOLISI | シヤ・コリシ | FL/No8 | 南アフリカ | 77 |
 | Jaden HENDRIKSE | ジェイデン・ヘンドリクセ | SH | 南アフリカ | 13 |
 | Makazole MAPIMPI | マカゾレ・マピンピ | WTB | 南アフリカ | 45 |
-| Lukhanyo AM | ルカニョ・アム | CTB | 南アフリカ | 45 |
 
 ## その他在籍選手（2025-26シーズン）
 
@@ -45,7 +44,7 @@ tags: ["URC", "チーム紹介", "2025-26", "シャークス"]
 | Edwill VAN DER MERWE | エドウィル・ファン・デル・メルウェ | WTB |
 | Marnus POTGIETER | マルナス・ポトヒーター | WTB |
 | Grant WILLIAMS | グラント・ウィリアムズ | SH |
-| Manu TSITIKA | マヌ・ツィツカ | FL/No8 |
+| Emmanuel TSHITUKA | エマヌエル・チトゥカ | FL/No8 |
 
 ---
 *データ基準日: 2026-04-21*

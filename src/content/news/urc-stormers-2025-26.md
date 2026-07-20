@@ -36,11 +36,11 @@ tags: ["URC", "チーム紹介", "2025-26", "ストーマーズ"]
 | :--- | :--- | :--- |
 | Neethling FOUCHE | ニートリング・フーシェ | PR |
 | JD SCHICKERLING | JDシッカーリング | LO |
-| Reuben VAN HEERDEN | ルーベン・ファン・ヘールデン | LO |
+| Ruben VAN HEERDEN | ルベン・ファン・ヘールデン | LO |
 | Hacjivah DAYIMANI | ハジヴァ・ダイマニ | FL/No8 |
 | Evan ROOS | エヴァン・ルース | FL/No8 |
 | Dewaldt DUVENAGE | デウォルト・デュベナージ | SH |
-| Sasha FEINBERG-MNGOMEZULU | サシャ・ファインバーグ=ムンゴメズル | SO |
+| Sacha FEINBERG-MNGOMEZULU | サシャ・ファインバーグ=ムンゴメズル | SO |
 | Ruhan NEL | ルハン・ネル | CTB |
 | Seabelo SENATLA | シアベロ・セナトラ | WTB |
 | Leolin ZAS | レオリン・ザス | WTB |

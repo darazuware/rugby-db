@@ -35,10 +35,10 @@ tags: ["URC", "チーム紹介", "2025-26", "マンスター"]
 
 | 選手名 | カタカナ | ポジション |
 | :--- | :--- | :--- |
-| Tom AHERN | トム・エイハーン | LO |
+| Thomas AHERN | トム・エイハーン | LO |
 | Diarmuid BARRON | ディアミュード・バロン | HO |
 | Lee BARRON | リー・バロン | HO |
-| Ruán QUINN | ルアン・クイン | FL/No8 |
+| Ruadhán QUINN | ルアン・クイン | FL/No8 |
 | Jack O'DONOGHUE | ジャック・オドノヒュー | FL/No8 |
 | Paddy PATTERSON | パディ・パターソン | SH |
 | Tom FARRELL | トム・ファレル | CTB |

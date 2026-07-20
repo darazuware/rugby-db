@@ -45,10 +45,9 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "サラセンズ"]
 | Tom WILLIS | トム・ウィリス | No.8 |
 | Fergus BURKE | ファーガス・バーク | フライハーフ |
 | Elliot DALY | エリオット・デイリー | センター |
-| Richard WIGGLESWORTH | リチャード・ウィグルズワース | スクラムハーフ |
 | Tietie TUIMAUGA | ティエティエ・トゥイマウガ | プロップ |
-| Henry BEATON | ヘンリー・ビートン | プロップ |
-| Jackson GONZALEZ | ジャクソン・ゴンザレス | フランカー |
+| Harvey BEATON | ハーヴィー・ビートン | プロップ |
+| Juan Martín GONZÁLEZ | フアン・マルティン・ゴンサレス | フランカー |
 
 ---
 *データ基準日: 2026-04-22*

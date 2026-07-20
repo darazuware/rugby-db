@@ -32,7 +32,7 @@ tags: ["URC", "チーム紹介", "2025-26", "アルスター"]
 | Stuart McCLOSKEY | スチュアート・マクロスキー | CTB | アイルランド | 17 |
 | James HUME | ジェームズ・ヒューム | CTB | アイルランド | 20 |
 | Jacob STOCKDALE | ジェイコブ・ストックデール | WTB | アイルランド | 37 |
-| Mike LOWRY | マイク・ローリー | FB | アイルランド | 15 |
+| Michael LOWRY | マイケル・ローリー | FB | アイルランド | 15 |
 
 ## その他在籍選手（2025-26シーズン）
 
@@ -42,7 +42,6 @@ tags: ["URC", "チーム紹介", "2025-26", "アルスター"]
 | John ANDREW | ジョン・アンドリュー | HO |
 | Charlie IRVINE | チャーリー・アーヴィン | LO |
 | Cormac IZUCHUKWU | コーマック・イズチュクウ | LO |
-| Sean REIDY | ショーン・レッフェル | FL/No8 |
 | Nathan DOAK | ネイサン・ドーク | SH |
 | Jake FLANNERY | ジェイク・フラナリー | SO |
 | Ben CARSON | ベン・カーソン | CTB |

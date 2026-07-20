@@ -32,7 +32,7 @@ tags: ["URC", "チーム紹介", "2025-26", "カーディフ"]
 | Ben THOMAS | ベン・トーマス | SO | ウェールズ | 7 |
 | Mason GRADY | メイソン・グレイディ | CTB | ウェールズ | 6 |
 | Josh ADAMS | ジョシュ・アダムス | WTB | ウェールズ | 59 |
-| Lee HALFPENNY | リー・ハーフペニー | FB | ウェールズ | 100 |
+| Leigh HALFPENNY | リー・ハーフペニー | FB | ウェールズ | 100 |
 | Cam WINNETT | カム・ウィネット | FB | ウェールズ | 5 |
 
 ## その他在籍選手（2025-26シーズン）
@@ -43,9 +43,9 @@ tags: ["URC", "チーム紹介", "2025-26", "カーディフ"]
 | Rory THORNTON | ロリー・ソーントン | LO |
 | Josh McNALLY | ジョシュ・マクナリー | LO |
 | Dan THOMAS | ダン・トーマス | FL/No8 |
-| Ioan DAVIES | イオアン・デイヴィス | SH |
+| Ieuan DAVIES | イウアン・デイヴィス | SH |
 | Ioan LLOYD | イオアン・ロイド | SO |
-| Harry MILLARD | ハリー・ミラード | CTB |
+| Harri MILLARD | ハリー・ミラード | CTB |
 | Theo CABANGO | テオ・カバンゴ | WTB |
 | Tom BOWEN | トム・ボウエン | FB |
 

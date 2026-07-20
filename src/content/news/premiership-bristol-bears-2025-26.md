@@ -44,8 +44,8 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "ブリストル�
 | Benjamin GRONDONA | ベンハミン・グロンドーナ | No.8 |
 | Benjamin ELIZALDE | ベンハミン・エリザルデ | フルバック |
 | Gabriel IBITOYE | ガブリエル・イビトイエ | ウィング |
-| Morgan PROTHEROE | モーガン・プロセロー | ウィング |
-| Steven WORSLEY | スティーブン・ウォーズリー | フライハーフ |
+| Mat PROTHEROE | マット・プロセロー | ウィング |
+| Sam WORSLEY | サム・ウォーズリー | フライハーフ |
 
 ---
 *データ基準日: 2026-04-22*

@@ -18,7 +18,7 @@ from typing import Optional
 import requests
 from bs4 import BeautifulSoup
 
-from pipeline import llm_fallback
+from pipeline import llm_fallback, school_types
 from pipeline.transform import normalize
 
 BASE = "https://league-one.jp"
@@ -35,12 +35,17 @@ _TRAILING_PAREN_RE = re.compile(r"[（(][^）)]*[）)]\s*$")
 
 
 def _classify_school_regex(name: str) -> Optional[str]:
+    """サフィックス判定 → ローカル辞書（pipeline.school_types）。判定不能は None。
+
+    school_types は海外表記（College/Grammar School/Hoerskool 等）と国内の
+    表記ゆれ（常翔学園・日本航空石川 等）を API 無しで吸収する。
+    """
     s = _TRAILING_PAREN_RE.sub("", name.strip()).strip()
     if _HS_SUFFIX_RE.search(s) or _EN_HS_RE.search(s):
         return "hs"
     if _UNIV_SUFFIX_RE.search(s) or _EN_UNIV_RE.search(s):
         return "univ"
-    return None
+    return school_types.classify(name)
 _HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -273,7 +278,7 @@ def collect(division: str) -> dict:
         still_unresolved = sorted(set(unresolved) - set(llm_result))
         if still_unresolved:
             warnings.append(
-                f"{league}: 出身校{len(still_unresolved)}件を正規表現・Sonnet"
+                f"{league}: 出身校{len(still_unresolved)}件を正規表現・辞書・Sonnet"
                 f"いずれでもtype判定できず（例: {still_unresolved[:3]}）"
             )
 

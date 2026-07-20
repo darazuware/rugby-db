@@ -40,10 +40,10 @@ tags: ["URC", "チーム紹介", "2025-26", "スカーレッツ"]
 | Josh MacLEOD | ジョシュ・マクラウド | FL/No8 |
 | Dane BLACKER | デイン・ブラッカー | SH |
 | Steff Jac JONES | ステフ・ジャク・ジョーンズ | SO |
-| Johnnie WILLIAMS | ジョニー・ウィリアムズ | CTB |
-| Elis MEE | エリス・ミー | WTB |
+| Johnny WILLIAMS | ジョニー・ウィリアムズ | CTB |
+| Ellis MEE | エリス・ミー | WTB |
 | Jac DAVIES | ジャック・デイヴィス | FB |
-| Iori BADUM | イオリ・バダム | FB |
+| Iori BADHAM | イオリ・バダム | FB |
 
 ---
 *データ基準日: 2026-04-21*

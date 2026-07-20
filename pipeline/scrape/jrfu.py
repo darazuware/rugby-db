@@ -34,7 +34,7 @@ from typing import Optional
 import requests
 from bs4 import BeautifulSoup
 
-from pipeline import llm_fallback
+from pipeline import llm_fallback, school_types
 from pipeline.transform import normalize
 
 BASE = "https://www.rugby-japan.jp"
@@ -212,13 +212,13 @@ def _num(text: Optional[str]) -> Optional[str]:
 
 
 def _classify_school_regex(name: str) -> Optional[str]:
-    """学校名文字列 -> "hs"|"univ"|None（サフィックスで判定できない場合はNone）。"""
+    """学校名文字列 -> "hs"|"univ"|None（サフィックス→ローカル辞書、不能ならNone）。"""
     s = name.strip()
     if _HS_SUFFIX_RE.search(s):
         return "hs"
     if _UNIV_SUFFIX_RE.search(s):
         return "univ"
-    return None
+    return school_types.classify(s)
 
 
 def _parse_detail(html: str, detail_url: str) -> dict:
@@ -355,7 +355,7 @@ def _classify_and_build(all_raws: list[dict], *, league: str) -> tuple[list[dict
         still_unresolved = sorted(set(llm_input) - set(llm_result))
         if still_unresolved:
             warnings.append(
-                f"jrfu {league}: 学校名{len(still_unresolved)}件を正規表現・Sonnet"
+                f"jrfu {league}: 学校名{len(still_unresolved)}件を正規表現・辞書・Sonnet"
                 f"いずれでもtype判定できず（例: {still_unresolved[:3]}）"
             )
         if not llm_result and not os.environ.get("ANTHROPIC_API_KEY"):

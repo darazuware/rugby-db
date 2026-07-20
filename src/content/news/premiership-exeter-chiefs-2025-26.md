@@ -43,7 +43,7 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "エクセター�
 | Bachuki TCHUMBADZE | バチュキ・チュンバゼ | プロップ |
 | Jack YEANDLE | ジャック・イエンドル | フッカー |
 | Harvey SKINNER | ハーヴィー・スキナー | フライハーフ |
-| Joe HODGE | ジョー・ホッジ | フルバック |
+| Josh HODGE | ジョシュ・ホッジ | フルバック |
 | Tom WYATT | トム・ワイアット | ウィング |
 
 ---

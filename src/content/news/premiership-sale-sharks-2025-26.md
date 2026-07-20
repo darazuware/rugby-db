@@ -41,8 +41,8 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "セール・シ�
 | Dan DU PREEZ | ダン・デュ・プレア | フランカー |
 | Gus WARR | ガス・ウォー | スクラムハーフ |
 | Robert DU PREEZ | ロバート・デュ・プレア | フライハーフ |
-| Dan HODKINSON | ダン・ホジキンソン | ロック |
-| Erwan VAN RHYN | アーワン・ファン・レイン | ロック |
+| Dylan HODKINSON | ディラン・ホジキンソン | ロック |
+| Ernst VAN RHYN | エルンスト・ファン・レイン | ロック |
 | Joe CARPENTER | ジョー・カーペンター | フルバック |
 | Sam DUGDALE | サム・ダグデール | フランカー |
 | Tom BURROW | トム・バロー | ロック |

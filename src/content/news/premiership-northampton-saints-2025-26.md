@@ -42,7 +42,6 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "ノーサンプ�
 | Tom WEST | トム・ウェスト | プロップ |
 | Emmanuel IYOGUN | エマニュエル・イヨグン | プロップ |
 | Trevor DAVISON | トレバー・デイヴィソン | プロップ |
-| Jack KELLEHER | ジャック・ケレハー | フランカー |
 | Jack LEWIS | ジャック・ルイス | フランカー |
 | Sam GRAHAM | サム・グラハム | フランカー |
 | Aidan PUGH | エイダン・ピュー | スクラムハーフ |

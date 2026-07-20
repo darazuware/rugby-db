@@ -35,15 +35,15 @@ tags: ["URC", "チーム紹介", "2025-26", "ゼブレ・パルマ"]
 | 選手名 | カタカナ | ポジション |
 | :--- | :--- | :--- |
 | Luca RIZZOLI | ルカ・リッツォーリ | PR |
-| Gianpietro RIBALDI | ジャンピエトロ・リバルディ | HO |
-| Leonardo KRUMOV | レオナルド・クルモフ | LO |
+| Giampietro RIBALDI | ジャンピエトロ・リバルディ | HO |
+| Leonard KRUMOV | レオナルド・クルモフ | LO |
 | Matteo CANALI | マッテオ・カナーリ | LO |
-| Bautista STABILE | バウティスタ・スタービレ | FL/No8 |
+| Bautista STAVILE | バウティスタ・スタヴィレ | FL/No8 |
 | Guido VOLPI | グイド・ヴォルピ | FL/No8 |
 | Gonzalo GARCIA | ゴンサロ・ガルシア | SH |
 | Giacomo DA RE | ジャコモ・ダ・レ | SO |
 | Giulio BERTACCINI | ジュリオ・ベルタッチーニ | CTB |
-| Alberto BATISTA | アルバート・バティスタ | WTB |
+| Albert BATISTA | アルバート・バティスタ | WTB |
 | Mirko BELLONI | ミルコ・ベッローニ | FB |
 | Davide RUGGERI | ダヴィデ・ルッジェーリ | FL/No8 |
 

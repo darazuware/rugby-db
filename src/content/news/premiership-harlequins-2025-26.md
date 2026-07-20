@@ -44,7 +44,6 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "ハーレクイ�
 | Kieran TREADWELL | キーラン・トレッドウェル | ロック |
 | Will EVANS | ウィル・エヴァンス | フランカー |
 | Tyrone GREEN | タイロン・グリーン | フルバック |
-| Andre ESTERHUIZEN | アンドレ・エスターハイゼン | センター |
 | Will PORTER | ウィル・ポーター | スクラムハーフ |
 
 ---

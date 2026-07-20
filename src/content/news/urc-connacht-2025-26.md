@@ -43,7 +43,7 @@ tags: ["URC", "チーム紹介", "2025-26", "コナハト"]
 | Josh IOANE | ジョシュ・イオアネ | SO |
 | David HAWKSHAW | デイヴィッド・ホークショウ | CTB |
 | Cathal FORDE | カタル・フォード | CTB |
-| Shane BOLTON | シェーン・ボルトン | WTB |
+| Shayne BOLTON | シェイン・ボルトン | WTB |
 | Chay MULLINS | チェイ・マリンズ | FB |
 
 ---

@@ -48,7 +48,7 @@ tags: ["URC", "チーム紹介", "2025-26", "エディンバラ"]
 | Mosese TUIPULOTU | モセセ・トゥイプロトゥ | CTB |
 | Matt CURRIE | マット・カリー | CTB |
 | Nairn MONCRIEFF | ネアン・モンクリーフ | WTB |
-| Matt DAVIDSON | マット・デイヴィドソン | FB |
+| Matt DAVIDSON | マット・デイヴィドソン | CTB/FB |
 
 ---
 *データ基準日: 2026-04-21*

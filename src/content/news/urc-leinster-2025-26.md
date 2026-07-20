@@ -40,7 +40,7 @@ tags: ["URC", "チーム紹介", "2025-26", "レンスター"]
 | Sam PRENDERGAST | サム・プレンダーガスト | SO | アイルランド | 8 |
 | Robbie HENSHAW | ロビー・ヘンショウ | CTB | アイルランド | 82 |
 | Garry RINGROSE | ギャリー・リングローズ | CTB | アイルランド | 67 |
-| Liam IOANE | リーコ・イオアネ | CTB | ニュージーランド | 63 |
+| Rieko IOANE | リーコ・イオアネ | CTB | ニュージーランド | 63 |
 | James LOWE | ジェームズ・ロウ | WTB | アイルランド | 40 |
 | Jordan LARMOUR | ジョーダン・ラーモア | WTB | アイルランド | 32 |
 | Hugo KEENAN | ヒューゴ・キーナン | FB | アイルランド | 46 |
@@ -56,11 +56,11 @@ tags: ["URC", "チーム紹介", "2025-26", "レンスター"]
 | Brian DEENY | ブライアン・ディーニー | LO |
 | Billy CORRIGAN | ビリー・コリガン | LO |
 | Will CONNORS | ウィル・コナーズ | FL/No8 |
-| Ciar FRAWLEY | シアー・フローリー | SO |
+| Ciarán FRAWLEY | シアラン・フローリー | SO |
 | Tommy O'BRIEN | トミー・オブライエン | CTB |
 | Jack DEEGAN | ジャック・ディーガン | CTB |
 | Andrew OSBORNE | アンドリュー・オズボーン | WTB |
-| Henry McLERLEAN | ヘンリー・マクラーリーン | FB |
+| Henry McERLEAN | ヘンリー・マカーリーン | FB |
 | Scott PENNY | スコット・ペニー | FL/No8 |
 | Max DEEGAN | マックス・ディーガン | FL/No8 |
 

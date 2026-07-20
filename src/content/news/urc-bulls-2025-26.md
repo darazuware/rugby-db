@@ -29,8 +29,7 @@ tags: ["URC", "チーム紹介", "2025-26", "ブルズ"]
 | Marcell COETZEE | マルセル・クッツェー | FL/No8 | 南アフリカ | 50 |
 | Marco VAN STADEN | マルコ・ファン・スタデン | FL/No8 | 南アフリカ | 14 |
 | Jan SERFONTEIN | ヤン・サーフォンテイン | CTB | 南アフリカ | 21 |
-| Curt-Lee ARENDSE | カート=リー・アレンゼ | WTB | 南アフリカ | 10 |
-| Aphelele FASSI | アフェレレ・ファッシ | WTB | 南アフリカ | 15 |
+| Kurt-Lee ARENDSE | カートリー・アレンセ | WTB | 南アフリカ | 10 |
 | Willie LE ROUX | ウィリー・ル・ルー | FB | 南アフリカ | 87 |
 
 ## その他在籍選手（2025-26シーズン）

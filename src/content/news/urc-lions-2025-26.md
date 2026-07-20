@@ -29,7 +29,7 @@ tags: ["URC", "チーム紹介", "2025-26", "ライオンズ"]
 
 | 選手名 | カタカナ | ポジション |
 | :--- | :--- | :--- |
-| Haiko POHLMAN | ハイコ・ポールマン | PR |
+| Heiko POHLMANN | ハイコ・ポールマン | PR |
 | Seb LOMBARD | セブ・ロンバード | PR |
 | PJ BOTHA | PJボータ | HO |
 | Etienne OOSTHUIZEN | エティエンヌ・オーストハイゼン | LO |

@@ -96,6 +96,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "Oakham School",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "Loughborough University",
         "type": "univ",
         "grad_year": null,
@@ -167,7 +175,16 @@
     "league_caps": 11,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "DeLaSalleCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764242922563-_-UD_004_Manaaki_Selby-Rickit_%E2%91%A0.jpg",
     "squad": null,
@@ -195,7 +212,16 @@
     "league_caps": 38,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "DeLaSalleCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764241796121-_-UD_024_Tamati_Ioane_%E2%91%A0.jpg",
     "squad": null,
@@ -451,6 +477,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "大阪朝鮮高級学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "法政大学",
         "type": "univ",
         "grad_year": null,
@@ -660,6 +694,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "ウェルスクールアッピントン",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "テクノロジー中央大学",
         "type": "univ",
         "grad_year": null,
@@ -739,7 +781,16 @@
     "league_caps": 14,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "マタマタカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764241156245-_-UD_038_Tana_Tuhakaraina_%E2%91%A0.jpg",
     "squad": null,
@@ -768,6 +819,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "ウェスリーカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "オークランド工科大学",
@@ -1024,6 +1083,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "トンガカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "花園大学",
         "type": "univ",
         "grad_year": null,
@@ -1059,6 +1126,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "トンガカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "摂南大学",
@@ -1619,7 +1694,16 @@
     "league_caps": 65,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ハートパラオカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764240257913-_-UD_003_Otere_Black_%E2%91%A0.jpg",
     "squad": null,
@@ -1738,6 +1822,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "東京朝鮮中高級学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "帝京大学",
@@ -1864,7 +1956,24 @@
     "league_caps": 42,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "OtagoBoysH.S.",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
+        "name_raw": "Wesleycollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764240983225-_-UD_017_Sekonaia_Pole_%E2%91%A0.jpg",
     "squad": null,
@@ -2027,7 +2136,16 @@
     "league_caps": 34,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "アランモアカトリックカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764242593595-_-UD_022_Brody_Macaskill_%E2%91%A0.jpg",
     "squad": null,
@@ -2505,7 +2623,16 @@
     "league_caps": 26,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "オークランドグラマースクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764208177470-_-SF_Shaun_Stevenson_%E2%91%A1.jpg",
     "squad": null,
@@ -2533,7 +2660,16 @@
     "league_caps": 19,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "SaintPatrick’sCollegeSilve",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764207380486-_-SF_Akira_Ieremia%E2%91%A1.jpg",
     "squad": null,
@@ -2561,7 +2697,16 @@
     "league_caps": 0,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "FalstedSchool",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764207825050-_-SF_Ollie_Stonham_%E2%91%A1.jpg",
     "squad": null,
@@ -2589,7 +2734,16 @@
     "league_caps": 53,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "セントピーターズカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764208933483-_-SF_Bryn_Hall%E2%91%A1.jpg",
     "squad": null,
@@ -2654,7 +2808,16 @@
     "league_caps": 0,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "SwamiVivekanadaCallege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764208202154-_-SF_Tsuyoshi__Jennings%E2%91%A1.jpg",
     "squad": null,
@@ -2775,6 +2938,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "常翔学園",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "同志社大学",
         "type": "univ",
         "grad_year": null,
@@ -2812,6 +2983,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "StLaurence'sCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "拓殖大学",
         "type": "univ",
         "grad_year": null,
@@ -2847,6 +3026,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "石見智翠館",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "近畿大学",
@@ -2928,7 +3115,16 @@
     "league_caps": 63,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "GreyCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764209981991-_-SF_Rikus_Pretorius_.jpg",
     "squad": null,
@@ -3226,7 +3422,16 @@
     "league_caps": 78,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ニューイントンカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764207803888-_-SF_Opeti_Helu%E2%91%A1.jpg",
     "squad": null,
@@ -3259,6 +3464,14 @@
         "school_id": null,
         "name_raw": "AlexanderRoadHighSchool（アレクサンダーロード高校）",
         "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
+        "name_raw": "Universityofjohannesburg（ヨハ",
+        "type": "univ",
         "grad_year": null,
         "source_url": null,
         "scraped_at": null
@@ -3389,6 +3602,14 @@
         "grad_year": null,
         "source_url": null,
         "scraped_at": null
+      },
+      {
+        "school_id": null,
+        "name_raw": "UniversityofPretoria（プレトリ",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
       }
     ],
     "instagram": null,
@@ -3463,7 +3684,24 @@
     "league_caps": 73,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "RedfieldCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
+        "name_raw": "UniversityofSydney（シドニー大",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764208832320-_-SF_Bernard_Foley%E2%91%A1.jpg",
     "squad": null,
@@ -3541,6 +3779,14 @@
         "school_id": null,
         "name_raw": "GreyCollegeHighSchool（グレイカレッジ高校）",
         "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
+        "name_raw": "UniversityoftheFreeState（フリ",
+        "type": "univ",
         "grad_year": null,
         "source_url": null,
         "scraped_at": null
@@ -3701,6 +3947,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "日本航空高等学校石川",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "天理大学",
@@ -4362,6 +4616,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "アングリカンチャーチグラマースクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "拓殖大学",
         "type": "univ",
         "grad_year": null,
@@ -4577,6 +4839,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "ネルソンカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "オタゴ大学",
@@ -5002,7 +5272,16 @@
     "league_caps": 14,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ウェスリーカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764047308983-_-KS_8_Kauvaka_Kaivelata_%E2%91%A0.jpg",
     "squad": null,
@@ -5068,6 +5347,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "トンガカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "花園大学",
@@ -5631,6 +5918,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "デラセラカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "山梨学院大学",
         "type": "univ",
         "grad_year": null,
@@ -5665,7 +5960,16 @@
     "league_caps": 78,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "大阪朝鮮高級学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764049774779-_-KS_48_Seungsin_Lee_%E2%91%A0.jpg",
     "squad": null,
@@ -6318,6 +6622,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "ラトゥ・サーララ・スクナメモリアルスクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "東海大学",
         "type": "univ",
         "grad_year": null,
@@ -6601,6 +6913,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "HoerskoolNoordheuwel",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "東洋大学",
         "type": "univ",
         "grad_year": null,
@@ -6638,6 +6958,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "PaarlGymnasium",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "立正大学",
         "type": "univ",
         "grad_year": null,
@@ -6673,6 +7001,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "日本航空石川",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "東洋大学",
@@ -6847,6 +7183,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "大阪朝鮮高級学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -6885,6 +7229,14 @@
       {
         "school_id": null,
         "name_raw": "ウェリングトン高校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
+        "name_raw": "ウェリントンカレッジ",
         "type": "hs",
         "grad_year": null,
         "source_url": null,
@@ -6963,7 +7315,16 @@
     "league_caps": 36,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "StPatrickCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764153424447-_-SW_059_Joshua_Nohra_1.jpg",
     "squad": null,
@@ -7171,7 +7532,16 @@
     "league_caps": 63,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "PalmerstonNorthBoys",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764154306768-_-SW_032_Liam_Mitchell_1.jpg",
     "squad": null,
@@ -7249,6 +7619,14 @@
         "school_id": null,
         "name_raw": "盛岡工高校",
         "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
+        "name_raw": "関東学院大",
+        "type": "univ",
         "grad_year": null,
         "source_url": null,
         "scraped_at": null
@@ -7453,7 +7831,16 @@
     "league_caps": 78,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ニュープリマスボーイズハイスクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764154255564-_-SW_039_Lachlan_Boshier_1.jpg",
     "squad": null,
@@ -7608,7 +7995,16 @@
     "league_caps": 62,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "セントポールズカトリックカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764152278385-_-SW_037_Esei_Haangana_1.jpg",
     "squad": null,
@@ -7681,7 +8077,16 @@
     "league_caps": 57,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ブリスベンボーイズカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764154032570-_-SW_006_Ben_Gunter_1.jpg",
     "squad": null,
@@ -7754,7 +8159,16 @@
     "league_caps": 70,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "TheSouthportSchool（サウスポート高校）",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764153588105-_-SW_050_Dylan_Riley_1.jpg",
     "squad": null,
@@ -8325,6 +8739,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "オタゴボーイズハイスクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "オタゴ大学",
         "type": "univ",
         "grad_year": null,
@@ -8526,6 +8948,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "目黒学院",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "東洋大学",
         "type": "univ",
         "grad_year": null,
@@ -8561,6 +8991,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "マウントアルバートグラマースクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "慶應義塾大学",
@@ -8777,7 +9215,16 @@
     "league_caps": 15,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ホーリークロスカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1763949444562-_-SB_Semi_Radradra_%E2%91%A0.jpg",
     "squad": null,
@@ -8805,7 +9252,16 @@
     "league_caps": 11,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "セントジョセフナッジーカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1763948557501-_-SB_Daniel_Maiava_%E2%91%A0.jpg",
     "squad": null,
@@ -9169,7 +9625,16 @@
     "league_caps": 29,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "StPaul'sCollegiateSchoolinHamilton",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1763949834705-_-SB_Valynce_Te_Whare_%E2%91%A0.jpg",
     "squad": null,
@@ -9235,6 +9700,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "JohnMcGlashanCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "OtagoUniversity",
@@ -9579,6 +10052,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "オタフフカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "帝京大学",
@@ -10581,7 +11062,16 @@
     "league_caps": 44,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ウェズレイカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1766116711903-_-SB_Charles_Piutau_%E2%91%A0%20(1).jpg",
     "squad": null,
@@ -10609,7 +11099,16 @@
     "league_caps": 16,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "MackillopCatholicCollegeCanberra",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1763948742588-_-SB_Jack_Wright_%E2%91%A0.jpg",
     "squad": null,
@@ -10638,6 +11137,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "TongaCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "花園大学",
@@ -10992,6 +11499,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "LeleanMemorialSchool",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "摂南大学",
         "type": "univ",
         "grad_year": null,
@@ -11026,7 +11541,16 @@
     "league_caps": 23,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ロトルアボーイズハイスクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1763963888647-_-TS_00_Kaleb_Trask_1.jpg",
     "squad": null,
@@ -11054,7 +11578,16 @@
     "league_caps": 3,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "セントポールズ・カレッジエイト・スクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1766396016287-_-TS_00_Gideon_Wrampling_1.JPG",
     "squad": null,
@@ -11127,7 +11660,16 @@
     "league_caps": 15,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ウィットギフト・スクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1763964232797-_-TS_00_George_Hammond_1.jpg",
     "squad": null,
@@ -11330,6 +11872,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "日本航空高校石川",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -11412,6 +11962,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "御所実業",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "明治大学",
         "type": "univ",
         "grad_year": null,
@@ -11492,6 +12050,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "パール・ジムナジアム",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "立正大学",
@@ -11791,6 +12357,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "クライスツ・カレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "リンカーン大学",
@@ -12182,6 +12756,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "伏見工業",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -12352,6 +12934,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "荒尾",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "帝京大学",
@@ -12875,7 +13465,16 @@
     "league_caps": 34,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "タウランガ・ボーイズ・カレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1766396501463-_-TS_32_Sam_Cane_1.JPG",
     "squad": null,
@@ -12948,7 +13547,16 @@
     "league_caps": 6,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "StPatrick'sCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764765983914-_-lt_54_tjay_clarke_1%20(1).jpg",
     "squad": null,
@@ -12976,7 +13584,16 @@
     "league_caps": 44,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "LeleanMemorialSchool",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764149680301-_-LT_25_Netani_Vakayalia_1.jpg",
     "squad": null,
@@ -13004,7 +13621,16 @@
     "league_caps": 13,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "IonaCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764148885323-_-LT_28_Callum_MacDonald_1.jpg",
     "squad": null,
@@ -13559,6 +14185,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "ケルストンボーイズ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "摂南大学",
         "type": "univ",
         "grad_year": null,
@@ -13593,7 +14227,16 @@
     "league_caps": 73,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "SaintKentigernCollege（セントケンティガンカレッジ）",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764149545059-_-LT_22_Seta_Tamanivalu_1.jpg",
     "squad": null,
@@ -14111,6 +14754,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "関西学院高等部",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "関西学院大学",
         "type": "univ",
         "grad_year": null,
@@ -14505,7 +15156,16 @@
     "league_caps": 4,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "オタゴボーイズハイスクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764149599009-_-LT_42_Motoki_Tanaka_1.jpg",
     "squad": null,
@@ -14533,7 +15193,16 @@
     "league_caps": 61,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "パーマストンノースボーイズハイスクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764150103773-_-LT_02_Rob_Thompson_1.jpg",
     "squad": null,
@@ -14609,6 +15278,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "オタゴボーイズハイスクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "オタゴ大学",
         "type": "univ",
         "grad_year": null,
@@ -14651,6 +15328,14 @@
         "grad_year": null,
         "source_url": null,
         "scraped_at": null
+      },
+      {
+        "school_id": null,
+        "name_raw": "St.Andrew'sCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
       }
     ],
     "instagram": null,
@@ -14680,7 +15365,16 @@
     "league_caps": 37,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "'Apifo'ouCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764149453812-_-LT_03_Shannon_Frizell_1.jpg",
     "squad": null,
@@ -15023,7 +15717,16 @@
     "league_caps": 17,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "マッセーハイスクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764750486535-_-TV_54_Mark_Telea_%E2%91%A0.jpg",
     "squad": null,
@@ -15051,7 +15754,16 @@
     "league_caps": 15,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "セント・ピーターズ　カレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764750064246-_-TV_6_Hamdahn_Tuipulotu_%E2%91%A0.jpg",
     "squad": null,
@@ -15079,7 +15791,16 @@
     "league_caps": 2,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "セントジョセフズナジーカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764750085603-_-TV_22_Harrison_Goggin_%E2%91%A0.jpg",
     "squad": null,
@@ -15107,7 +15828,16 @@
     "league_caps": 24,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ステレンボッシュカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764749597406-_-TV_13_Schalk_Erasmus_%E2%91%A0.jpg",
     "squad": null,
@@ -15172,7 +15902,16 @@
     "league_caps": 8,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "キングスカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764748562760-_-TV_42_Aidan_Morgan_%E2%91%A0.jpg",
     "squad": null,
@@ -15256,7 +15995,16 @@
     "league_caps": 15,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "御所実業",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764750335486-_-TV_10_Hanjiro_Hirai_%E2%91%A0.jpg",
     "squad": null,
@@ -15284,7 +16032,16 @@
     "league_caps": 66,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ハミルトンボーイズ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764750026634-_-TV_47_Nicholas_Mccurran_%E2%91%A0.jpg",
     "squad": null,
@@ -15312,7 +16069,16 @@
     "league_caps": 72,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "伏見工業",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764750440982-_-TV_40_Rikiya_Matsuda_%E2%91%A0.jpg",
     "squad": null,
@@ -15340,7 +16106,16 @@
     "league_caps": 6,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "常翔学園",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764751391916-_-TV_28_Issa_Yamakawa_%E2%91%A0.jpg",
     "squad": null,
@@ -15480,7 +16255,16 @@
     "league_caps": 68,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "常翔学園",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764749686481-_-TV_53_Taichi_Takahashi_%E2%91%A0.jpg",
     "squad": null,
@@ -15536,7 +16320,16 @@
     "league_caps": 3,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "御所実業",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764749145133-_-TV_41_Masahiro_Kitamura_%E2%91%A0.jpg",
     "squad": null,
@@ -15564,7 +16357,16 @@
     "league_caps": 45,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "リンディスファーンカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764749864022-_-TV_60_Tiaan_Falcon_%E2%91%A0.jpg",
     "squad": null,
@@ -15676,7 +16478,16 @@
     "league_caps": 52,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "石見智翠館",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764748756344-_-TV_12_Ryusei_Kato_%E2%91%A0.jpg",
     "squad": null,
@@ -15816,7 +16627,16 @@
     "league_caps": 43,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "オタゴボーイズ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764749521789-_-TV_21_Josh_Dickson_%E2%91%A0.jpg",
     "squad": null,
@@ -16159,6 +16979,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "ロトルアボーイズハイスクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "花園大学",
         "type": "univ",
         "grad_year": null,
@@ -16283,7 +17111,16 @@
     "league_caps": 41,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ブリスベンステート高",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1763972929084-_-MH_Trevor_Hosea_-(1).jpg",
     "squad": null,
@@ -16311,7 +17148,16 @@
     "league_caps": 0,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ロトルアボーイズハイスクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1763972471940-_-MH_Haruto_Takahashi_-(1).jpg",
     "squad": null,
@@ -16457,7 +17303,16 @@
     "league_caps": 5,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "グレイカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1763972031187-_-MH_FC_Du_Plessis_-(1).jpg",
     "squad": null,
@@ -16522,7 +17377,16 @@
     "league_caps": 65,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "リストンカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1763973941577-_-MH_Lemeki_Lomano_Lava_-(1).jpg",
     "squad": null,
@@ -16550,7 +17414,16 @@
     "league_caps": 45,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "トゥポウカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1763973915615-_-MH_Larry_Sulunga_-(1).jpg",
     "squad": null,
@@ -16578,7 +17451,16 @@
     "league_caps": 31,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "セントケンティガンカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1763972448944-_-MH_Johnny_Faauli_-(1).jpg",
     "squad": null,
@@ -16736,6 +17618,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "日本航空石川",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "大東文化大学",
         "type": "univ",
         "grad_year": null,
@@ -16770,7 +17660,16 @@
     "league_caps": 13,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ナッジーカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1763972900639-_-MH_Tony_Hunt_-(1).jpg",
     "squad": null,
@@ -17685,6 +18584,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "ブリッツ高",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "プレトリア大学",
         "type": "univ",
         "grad_year": null,
@@ -17857,6 +18764,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "桐蔭学園中等教育学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "早稲田大学",
         "type": "univ",
         "grad_year": null,
@@ -17939,6 +18854,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "AucklandGrammar",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "山梨学院大学",
         "type": "univ",
         "grad_year": null,
@@ -17973,7 +18896,16 @@
     "league_caps": 40,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "マウントアルバートグラマースクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1763973987560-_-MH_Waimana_Kapa_-(1).jpg",
     "squad": null,
@@ -18263,7 +19195,16 @@
     "league_caps": 49,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "セントキャサリンズムアランズスクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1763973151627-_-MH_Pablo_Matera_%20(1).jpg",
     "squad": null,
@@ -18292,6 +19233,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "ランギトトカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "オークランド大学",
@@ -18329,6 +19278,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "クライスト・カレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "カンタベリー大学",
@@ -18501,6 +19458,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "デラセラカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "マヌカウ工科大学",
@@ -18765,6 +19730,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "流通経済大学柏",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "立命館大学",
         "type": "univ",
         "grad_year": null,
@@ -18839,6 +19812,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "大阪朝鮮高級学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "明治大学",
         "type": "univ",
         "grad_year": null,
@@ -18874,6 +19855,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "大阪朝鮮高級学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "帝京大学",
@@ -19621,6 +20610,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "TongaCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "花園大学",
         "type": "univ",
         "grad_year": null,
@@ -19701,6 +20698,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "大阪朝鮮高級校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "日本大学",
@@ -19875,6 +20880,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "日本航空高校石川",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -19910,6 +20923,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "常翔学園",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "立命館大学",
@@ -20036,7 +21057,16 @@
     "league_caps": 6,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ブリスベンステートハイスクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764024041038-_-YE_7_Nesta_Mahina_%E2%91%A0.jpg",
     "squad": null,
@@ -20157,6 +21187,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "セントピーターズスクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "シドニー大学",
         "type": "univ",
         "grad_year": null,
@@ -20239,6 +21277,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "セントビーズカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "拓殖大学",
         "type": "univ",
         "grad_year": null,
@@ -20273,7 +21319,16 @@
     "league_caps": 70,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "トゥポウカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764023407843-_-YE_28_Amanaki_Saumaki_%E2%91%A0.jpg",
     "squad": null,
@@ -20346,7 +21401,16 @@
     "league_caps": 12,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ブリスベングラマースクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1766116697962-_-YE_42_Levi_Aumua_%E2%91%A0%20(1).jpg",
     "squad": null,
@@ -20374,7 +21438,16 @@
     "league_caps": 9,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "MaritzburgCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764023558222-_-YE_21_Jeandre_Labuschagne_%E2%91%A0.jpg",
     "squad": null,
@@ -20450,6 +21523,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "マリストブラザーズ高",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "摂南大学",
         "type": "univ",
         "grad_year": null,
@@ -20484,7 +21565,16 @@
     "league_caps": 33,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "StBede'sCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764024080573-_-YE_23_Billy_Harmon_%20%E2%91%A0.jpg",
     "squad": null,
@@ -20512,7 +21602,24 @@
     "league_caps": 14,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "StAndrewsCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
+        "name_raw": "UniversityofSouthAfrica(UNISA)",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764024176887-_-YE_50_Brendan_Owen_%E2%91%A0.jpg",
     "squad": null,
@@ -20667,7 +21774,16 @@
     "league_caps": 42,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "HoerskoolWaterkloof",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1766116776728-_-YE_30_Faf_de_Klerk_%E2%91%A0%20(1).jpg",
     "squad": null,
@@ -20875,7 +21991,16 @@
     "league_caps": 65,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "StPaul’sCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1766116836710-_-YE_13_Liakimatagi_Moli_%E2%91%A0%20(1).jpg",
     "squad": null,
@@ -21443,7 +22568,24 @@
     "league_caps": 69,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "MaritzburgCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
+        "name_raw": "UniversityofPretoria",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1766116757597-_-YE_37_Jesse_Kriel_%E2%91%A0%20(1).jpg",
     "squad": null,
@@ -21871,6 +23013,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "Leleanmemorialschool",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "東海大学",
         "type": "univ",
         "grad_year": null,
@@ -22032,7 +23182,16 @@
     "league_caps": 0,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "クリフトンカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764122692014-_-%E8%B6%B3%E7%AB%8B%E5%8F%8B%E5%93%89.jpg",
     "squad": null,
@@ -22060,7 +23219,16 @@
     "league_caps": 12,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "オークランド・グラマー・スクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764066808757-_-RT_22_Felix_Kalapu_%E2%91%A2.jpg",
     "squad": null,
@@ -22128,6 +23296,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "玉川学園高等部",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "日本体育大学",
         "type": "univ",
         "grad_year": null,
@@ -22163,6 +23339,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "大阪朝鮮高級学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "京都産業大学",
@@ -22371,7 +23555,16 @@
     "league_caps": 37,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "マナカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764066127793-_-RT_34_TJ_Perenara_%E2%91%A2.jpg",
     "squad": null,
@@ -22436,7 +23629,16 @@
     "league_caps": 53,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "セントジョセフカレッジグレゴリーテラス",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764067198324-_-RT_25_Liam_Gill_%E2%91%A2.jpg",
     "squad": null,
@@ -22465,6 +23667,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "セントジョセフカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "シドニー大学",
@@ -22772,6 +23982,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "マウントアルバートグラマースクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "リンカーン大学",
@@ -23160,7 +24378,16 @@
     "league_caps": 70,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "セントジョセフグレゴリーテラスカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764065376249-_-RT_36_Isaac_Lucas_%E2%91%A2.jpg",
     "squad": null,
@@ -23541,6 +24768,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "トゥポウカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "埼玉工業大学",
@@ -23937,7 +25172,16 @@
     "league_caps": 11,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "アングリカン・チャーチ・グラマー・スクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764067144827-_-RT_43_Larzlo_Sword_%E2%91%A2.jpg",
     "squad": null,
@@ -24230,6 +25474,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "セント　グレゴリー　カレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "朝日大学",
         "type": "univ",
         "grad_year": null,
@@ -24264,7 +25516,16 @@
     "league_caps": 7,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "St.AlbansCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764036837049-_-SB_Simon_Miller_%E2%91%A0.jpg",
     "squad": null,
@@ -24365,6 +25626,14 @@
         "grad_year": null,
         "source_url": null,
         "scraped_at": null
+      },
+      {
+        "school_id": null,
+        "name_raw": "University of South Africa",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
       }
     ],
     "instagram": null,
@@ -24425,6 +25694,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "日本航空高等学校石川",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "近畿大学",
         "type": "univ",
         "grad_year": null,
@@ -24462,6 +25739,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "ハミルトンボーイズハイスクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "リンカーン大学",
         "type": "univ",
         "grad_year": null,
@@ -24496,7 +25781,24 @@
     "league_caps": 1,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "Emmanuel college",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
+        "name_raw": "Queensland university of techn",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764384374891-_-SD_11_Tai_Dowling_%E2%91%A0.jpg",
     "squad": null,
@@ -24552,7 +25854,24 @@
     "league_caps": 15,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ナシヌセンカンダリースクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
+        "name_raw": "エレスメアカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764751953316-_-TV_57_Jone_Nabetelevu_%E2%91%A0.jpg",
     "squad": null,
@@ -24676,6 +25995,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "日本航空高等学校石川",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -24755,7 +26082,16 @@
     "league_caps": 7,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "カンタベリーカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764749395200-_-TV_23_Zach_Gallagher_%E2%91%A0.jpg",
     "squad": null,
@@ -24783,7 +26119,16 @@
     "league_caps": 39,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ヨハネスブルクカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764751448012-_-TV_20_Lourens_Erasmus_%E2%91%A0.jpg",
     "squad": null,
@@ -24941,7 +26286,16 @@
     "league_caps": 41,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "キングスカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764748360247-_-TV_29_Isaiah_Mapusua_%E2%91%A0.jpg",
     "squad": null,
@@ -24969,7 +26323,16 @@
     "league_caps": 0,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "御所実業",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764749812634-_-TV_39_Taninaka_Kippei_%E2%91%A0.jpg",
     "squad": null,
@@ -25081,7 +26444,16 @@
     "league_caps": 51,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ラトゥナヴラカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764751487832-_-TV_55_Viliame_Tuidraki_%E2%91%A0.jpg",
     "squad": null,
@@ -25137,7 +26509,16 @@
     "league_caps": 50,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ブリスベンステート",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764748538451-_-TV_19_William_Tupou_%E2%91%A0.jpg",
     "squad": null,
@@ -25266,7 +26647,24 @@
     "league_caps": 83,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ブリスベングラマースクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
+        "name_raw": "University of Queensland",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764581751401-_-SW_013_Jack_Cornelsen_1.jpg",
     "squad": null,
@@ -25385,6 +26783,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "関西学院高等部",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "関西学院大学",
@@ -25557,6 +26963,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "アングリカン・チャーチ・グラマー・スクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "クイーンズランド大学",
@@ -25838,7 +27252,16 @@
     "league_caps": 27,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ハミルトンボーイズ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1766387597545-_-TV_43_Shinya_Komura_%E2%91%A0.jpg",
     "squad": null,
@@ -25874,6 +27297,14 @@
         "grad_year": null,
         "source_url": null,
         "scraped_at": null
+      },
+      {
+        "school_id": null,
+        "name_raw": "University of Otago",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
       }
     ],
     "instagram": null,
@@ -25904,6 +27335,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "ウッドハウス・グローブ・スクール",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "ダラム大学",
@@ -25940,7 +27379,16 @@
     "league_caps": 33,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ランゴタイカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1765343396397-_-26_Ardie_Savea_%E2%91%A0.jpg",
     "squad": null,
@@ -26013,7 +27461,16 @@
     "league_caps": 74,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "日本航空石川",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1766387336538-_-TV_50_Siosaia_Fifita_%E2%91%A0.jpg",
     "squad": null,
@@ -26041,7 +27498,16 @@
     "league_caps": 10,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "FrancisDouglasMemorialCollege",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1768868564220-_-IMG_5556.jpeg",
     "squad": null,
@@ -26467,6 +27933,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "関西学院高等部",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "関西学院大学",
@@ -27055,7 +28529,16 @@
     "league_caps": 5,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ネルソンカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1773019898255-_-UD_055_Quinten_Strange_%E2%91%A0.jpg",
     "squad": null,
@@ -27390,6 +28873,14 @@
         "grad_year": null,
         "source_url": null,
         "scraped_at": null
+      },
+      {
+        "school_id": null,
+        "name_raw": "チェネルカレッジ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
       }
     ],
     "instagram": null,
@@ -27419,7 +28910,16 @@
     "league_caps": 45,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "HoerskoolRustenburg",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1773709670305-_-%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%88.jpg",
     "squad": null,
