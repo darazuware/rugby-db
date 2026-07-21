@@ -36,6 +36,7 @@ def main() -> int:
 
     report = team_sites.monitor(divisions, limit=args.limit)
     total_new = 0
+    renames: list[tuple[str, dict]] = []
     for team in report["teams"]:
         mark = {"ok": "OK", "unreachable": "NG"}[team["status"]]
         note = "初回スナップショット" if team["first_run"] else f"新着{len(team['new_items'])}件"
@@ -44,6 +45,15 @@ def main() -> int:
             total_new += 1
             print(f"       - {item['date']} {item['title'][:60]}")
             print(f"         {item['url']}")
+        renames.extend((team["name"], i) for i in team["rename_signals"])
+
+    for item in report.get("league_rename_news", []):
+        renames.append(("リーグ公式", item))
+    if renames:
+        print("\n=== 改称・エンブレム関連の告知（表示名の更新要否を確認） ===")
+        for source, item in renames:
+            print(f"  [{source}] {item['date']} {item['title'][:70]}")
+            print(f"    {item['url']}")
     for warning in report["warnings"]:
         print(f"WARN {warning}", file=sys.stderr)
     print(f"\n{report['checked_at']} / 対象{len(report['teams'])}チーム / 新着{total_new}件")

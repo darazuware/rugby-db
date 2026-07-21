@@ -82,12 +82,23 @@ _NOISE_PATH_RE = re.compile(
     r"/(ticket|store|shop|privacy|policy|contact|sitemap|recruit|login|cart)(/|$)",
     re.IGNORECASE,
 )
+# 月別アーカイブ・ページャ等の一覧リンク（記事本体ではない）。
+_NOISE_QUERY_RE = re.compile(r"(^|&)(ym|page|paged|cat|category|tag)=", re.IGNORECASE)
+
+
+# 改称・新チーム名の告知を見つけるためのキーワード（AZ-COM丸和の新名称は2026年8月上旬発表予定）。
+_RENAME_RE = re.compile(
+    r"(チーム名(称)?(の)?(変更|決定|発表)|新チーム名|新名称|改称|名称変更|"
+    r"新エンブレム|エンブレム.*(決定|発表|刷新)|リブランディング)"
+)
 
 
 def _is_noise(url: str) -> bool:
     parsed = urlparse(url)
     host = parsed.netloc.lower()
     if any(host == h or host.endswith("." + h) for h in _NOISE_HOSTS):
+        return True
+    if parsed.query and _NOISE_QUERY_RE.search(parsed.query):
         return True
     return bool(_NOISE_PATH_RE.search(parsed.path))
 
@@ -176,6 +187,7 @@ class _Robots:
 # --------------------------------------------------------------------------
 
 _PROFILE_KEYS = {
+    "公式チーム名称": "official_name",
     "公式サイト": "official_url",
     "ホストエリア自治体名": "home_area",
     "練習グラウンド所在地": "practice_ground",
@@ -220,8 +232,14 @@ def discover_official_urls(divisions: Iterable[str] = DIVISIONS) -> dict:
             profile = _parse_profile(res.text)
             if not profile.get("official_url"):
                 warnings.append(f"{team.get('id')}: 公式サイト行が見つからない")
+            official_name = profile.get("official_name")
+            if official_name and official_name != team.get("name_ja"):
+                warnings.append(
+                    f"{team.get('id')}: チーム名がリーグ公式と不一致"
+                    f"（master='{team.get('name_ja')}' / league-one.jp='{official_name}'）"
+                )
             for key, value in profile.items():
-                if key == "practice_ground":
+                if key in ("practice_ground", "official_name"):
                     continue
                 if value and team.get(key) != value:
                     team[key] = value
@@ -526,6 +544,25 @@ def _snapshot_path(team_id: str):
     return SNAPSHOT_DIR / f"{team_id}.json"
 
 
+def _check_league_news(robots: _Robots, warnings: list[str]) -> list[dict]:
+    """リーグ公式ニュースから改称告知を拾う。
+
+    チーム名称はリーグ公式（league-one.jp）を正とするため、各チームHPだけでなく
+    リーグ側の告知も見る。前回スナップショットとの差分ではなく、直近の記事から
+    キーワード一致したものを毎回返す（見落とし防止）。
+    """
+    res = _fetch_page(f"{BASE}/news/", robots, warnings)
+    if res is None:
+        warnings.append("リーグ公式ニュース一覧を取得できない")
+        return []
+    hits = [i for i in _extract_items(res.text, res.url) if _RENAME_RE.search(i["title"])]
+    io.write_json(
+        SNAPSHOT_DIR / "_league_news.json",
+        {"checked_at": datetime.now(io.JST).isoformat(timespec="seconds"), "items": hits},
+    )
+    return hits
+
+
 def monitor(divisions: Iterable[str] = DIVISIONS, limit: Optional[int] = None) -> dict:
     """全チーム公式HPを巡回し、前回スナップショットとの差分を返す。"""
     robots = _Robots()
@@ -579,8 +616,18 @@ def monitor(divisions: Iterable[str] = DIVISIONS, limit: Optional[int] = None) -
                     "item_count": len(crawled["items"]),
                     "new_items": [] if not prev else new_items,
                     "changed_pages": changed_pages,
+                    # 改称・エンブレム変更の告知は表示名の更新が必要になるため個別に立てる。
+                    "rename_signals": [
+                        i for i in ([] if not prev else new_items) if _RENAME_RE.search(i["title"])
+                    ],
                 }
             )
-    report = {"checked_at": checked_at, "teams": results, "warnings": warnings}
+    league_news = _check_league_news(robots, warnings)
+    report = {
+        "checked_at": checked_at,
+        "teams": results,
+        "league_rename_news": league_news,
+        "warnings": warnings,
+    }
     io.write_json(REPORT_DIR / f"{checked_at[:10]}.json", report)
     return report
