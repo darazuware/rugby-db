@@ -80,13 +80,6 @@ const subCandidate = player.name_kana || player.name_en || null;
 const subName = subCandidate && subCandidate !== mainName ? subCandidate : null;
 const prefersJa = !!player.name_ja;
 
-// 出典表示名（信頼性の明示: 04）
-const SOURCE_LABEL: Record<string, string> = {
-  "league-one.jp": "リーグワン公式",
-  "all.rugby": "all.rugby",
-  jrfu: "日本ラグビーフットボール協会",
-};
-const sourceLabel = SOURCE_LABEL[player.source] ?? player.source;
 const updatedDate = (player.scraped_at || "").slice(0, 10);
 
 // チームページ遷移（teams ルートは P2-3 で master 化予定。現行の [league]/[slug] に合わせる）
@@ -227,7 +220,7 @@ const metaDesc = [
 
 <Layout
   title={`${mainName}${subName ? ` (${subName})` : ""} | ラグビー選手名鑑 | RUGBY PICKS`}
-  description={`${mainName}のプロフィール。${metaDesc}。出典データに基づく正確な選手情報。`}
+  description={`${mainName}のプロフィール。${metaDesc}。正確な選手情報をお届けします。`}
 >
   <JSONLD type="SportsPlayer" data={jsonldData} />
   <div class="py-4">
@@ -433,20 +426,12 @@ const metaDesc = [
           <AdSenseUnit />
         </div>
 
-        {/* 最終更新 / 出典（信頼性の明示: 04） */}
-        <div class="mt-8 pt-4 border-t border-border-dim/20 text-[11px] text-foreground/40 font-bold">
-          {updatedDate && <span>最終更新: {updatedDate}</span>}
-          {updatedDate && <span class="mx-2">/</span>}
-          <span>出典: </span>
-          <a
-            href={player.source_url}
-            target="_blank"
-            rel="noopener noreferrer nofollow"
-            class="underline hover:text-yellow-600"
-          >
-            {sourceLabel}
-          </a>
-        </div>
+        {/* 最終更新 */}
+        {updatedDate && (
+          <div class="mt-8 pt-4 border-t border-border-dim/20 text-[11px] text-foreground/40 font-bold">
+            <span>最終更新: {updatedDate}</span>
+          </div>
+        )}
       </div>
     </div>
   </div>
