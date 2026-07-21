@@ -431,5 +431,20 @@
       "lo_484938",
       "lo_484947"
     ]
+  },
+  {
+    "id": "lo_team_azcom_maruwa",
+    "league": "league-one-d3",
+    "name_ja": "AZ-COM丸和MOMOTARO'S",
+    "name_en": null,
+    "source_url": "https://league-one.jp/news/5536",
+    "scraped_at": "2026-07-21T19:02:58+09:00",
+    "home_area": null,
+    "home_stadiums": [],
+    "founded": null,
+    "colors": {},
+    "official_url": "https://www.momotaros.jp/",
+    "roster_mode": "partial",
+    "roster_ids": []
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-21T18:54:34+09:00",
+  "checked_at": "2026-07-21T19:04:07+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -7,7 +7,7 @@
       "name": "浦安D-Rocks",
       "official_url": "https://urayasu-d-rocks.com",
       "status": "ok",
-      "first_run": true,
+      "first_run": false,
       "item_count": 40,
       "new_items": [],
       "changed_pages": []
@@ -18,7 +18,7 @@
       "name": "コベルコ神戸スティーラーズ",
       "official_url": "https://www.kobesteelers.com/",
       "status": "ok",
-      "first_run": true,
+      "first_run": false,
       "item_count": 60,
       "new_items": [],
       "changed_pages": []
@@ -29,7 +29,7 @@
       "name": "埼玉パナソニックワイルドナイツ",
       "official_url": "https://panasonic.co.jp/sports/wildknights/",
       "status": "ok",
-      "first_run": true,
+      "first_run": false,
       "item_count": 34,
       "new_items": [],
       "changed_pages": []
@@ -40,7 +40,7 @@
       "name": "東芝ブレイブルーパス東京",
       "official_url": "https://www.bravelupus.com/",
       "status": "ok",
-      "first_run": true,
+      "first_run": false,
       "item_count": 42,
       "new_items": [],
       "changed_pages": []
@@ -51,7 +51,7 @@
       "name": "トヨタヴェルブリッツ",
       "official_url": "https://verblitz.toyotatimes-sports.toyota/",
       "status": "ok",
-      "first_run": true,
+      "first_run": false,
       "item_count": 9,
       "new_items": [],
       "changed_pages": []
@@ -59,8 +59,8 @@
     {
       "team_id": "lo_team_105",
       "league": "league-one-d1",
-      "name": "三重ホンダヒート",
-      "official_url": "http://www.honda-heat.jp",
+      "name": "栃木ホンダヒート",
+      "official_url": "https://www.honda-heat.jp/",
       "status": "ok",
       "first_run": true,
       "item_count": 60,
@@ -73,10 +73,13 @@
       "name": "三菱重工相模原ダイナボアーズ",
       "official_url": "https://dynaboars.mhi.com/",
       "status": "ok",
-      "first_run": true,
+      "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": []
+      "changed_pages": [
+        "https://www.mhi.com/jp/company/sports/dynaboars/",
+        "https://www.mhi.com/jp/company/sports/dynaboars/news"
+      ]
     },
     {
       "team_id": "lo_team_107",
@@ -84,7 +87,7 @@
       "name": "横浜キヤノンイーグルス",
       "official_url": "https://www.canon-eagles.jp/",
       "status": "ok",
-      "first_run": true,
+      "first_run": false,
       "item_count": 12,
       "new_items": [],
       "changed_pages": []
@@ -95,7 +98,7 @@
       "name": "リコーブラックラムズ東京",
       "official_url": "https://blackrams-tokyo.com/",
       "status": "ok",
-      "first_run": true,
+      "first_run": false,
       "item_count": 5,
       "new_items": [],
       "changed_pages": []
@@ -106,7 +109,7 @@
       "name": "クボタスピアーズ船橋・東京ベイ",
       "official_url": "http://www.kubota-spears.com/",
       "status": "ok",
-      "first_run": true,
+      "first_run": false,
       "item_count": 56,
       "new_items": [],
       "changed_pages": []
@@ -117,7 +120,7 @@
       "name": "静岡ブルーレヴズ",
       "official_url": "https://www.shizuoka-bluerevs.com",
       "status": "ok",
-      "first_run": true,
+      "first_run": false,
       "item_count": 60,
       "new_items": [],
       "changed_pages": []
@@ -128,7 +131,7 @@
       "name": "東京サントリーサンゴリアス",
       "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
       "status": "ok",
-      "first_run": true,
+      "first_run": false,
       "item_count": 40,
       "new_items": [],
       "changed_pages": []
@@ -136,8 +139,8 @@
     {
       "team_id": "lo_team_109",
       "league": "league-one-d2",
-      "name": "NECグリーンロケッツ東葛",
-      "official_url": "https://green.necrockets.net/",
+      "name": "JR東日本グリーンウォリアーズ東葛",
+      "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": true,
       "item_count": 3,
@@ -150,7 +153,7 @@
       "name": "九州電力キューデンヴォルテクス",
       "official_url": "https://www.kyudenvoltex.com/",
       "status": "ok",
-      "first_run": true,
+      "first_run": false,
       "item_count": 40,
       "new_items": [],
       "changed_pages": []
@@ -161,10 +164,12 @@
       "name": "清水建設江東ブルーシャークス",
       "official_url": "https://blue-sharks.jp/",
       "status": "ok",
-      "first_run": true,
+      "first_run": false,
       "item_count": 24,
       "new_items": [],
-      "changed_pages": []
+      "changed_pages": [
+        "https://blue-sharks.jp/"
+      ]
     },
     {
       "team_id": "lo_team_112",
@@ -172,7 +177,7 @@
       "name": "豊田自動織機シャトルズ愛知",
       "official_url": "https://shuttles-aichi.com/",
       "status": "ok",
-      "first_run": true,
+      "first_run": false,
       "item_count": 12,
       "new_items": [],
       "changed_pages": []
@@ -183,10 +188,14 @@
       "name": "日本製鉄釜石シーウェイブス",
       "official_url": "https://kamaishi-seawaves.com/",
       "status": "ok",
-      "first_run": true,
+      "first_run": false,
       "item_count": 15,
       "new_items": [],
-      "changed_pages": []
+      "changed_pages": [
+        "https://kamaishi-seawaves.com/",
+        "https://kamaishi-seawaves.com/news/",
+        "https://kamaishi-seawaves.com/news/info/"
+      ]
     },
     {
       "team_id": "lo_team_114",
@@ -194,10 +203,13 @@
       "name": "花園近鉄ライナーズ",
       "official_url": "https://hanazono-liners.jp/",
       "status": "ok",
-      "first_run": true,
+      "first_run": false,
       "item_count": 30,
       "new_items": [],
-      "changed_pages": []
+      "changed_pages": [
+        "https://hanazono-liners.jp/",
+        "https://hanazono-liners.jp/news/"
+      ]
     },
     {
       "team_id": "lo_team_115",
@@ -205,7 +217,7 @@
       "name": "日野レッドドルフィンズ",
       "official_url": "https://hino-reddolphins.com/",
       "status": "ok",
-      "first_run": true,
+      "first_run": false,
       "item_count": 19,
       "new_items": [],
       "changed_pages": []
@@ -216,79 +228,13 @@
       "name": "レッドハリケーンズ大阪",
       "official_url": "https://docomo-rugby.jp/",
       "status": "ok",
-      "first_run": true,
+      "first_run": false,
       "item_count": 45,
       "new_items": [],
-      "changed_pages": []
-    },
-    {
-      "team_id": "lo_team_117",
-      "league": "league-one-d3",
-      "name": "クリタウォーターガッシュ昭島",
-      "official_url": "https://www.kurita-watergush.jp/",
-      "status": "ok",
-      "first_run": true,
-      "item_count": 44,
-      "new_items": [],
-      "changed_pages": []
-    },
-    {
-      "team_id": "lo_team_118",
-      "league": "league-one-d3",
-      "name": "狭山セコムラガッツ",
-      "official_url": "https://www.rugguts.secom.co.jp/",
-      "status": "ok",
-      "first_run": true,
-      "item_count": 40,
-      "new_items": [],
-      "changed_pages": []
-    },
-    {
-      "team_id": "lo_team_119",
-      "league": "league-one-d3",
-      "name": "中国電力レッドレグリオンズ",
-      "official_url": "https://rrrfc.red/",
-      "status": "ok",
-      "first_run": true,
-      "item_count": 19,
-      "new_items": [],
-      "changed_pages": []
-    },
-    {
-      "team_id": "lo_team_120",
-      "league": "league-one-d3",
-      "name": "マツダスカイアクティブズ広島",
-      "official_url": "https://www.skyactivs.com/",
-      "status": "ok",
-      "first_run": true,
-      "item_count": 46,
-      "new_items": [],
-      "changed_pages": []
-    },
-    {
-      "team_id": "lo_team_121",
-      "league": "league-one-d3",
-      "name": "ヤクルトレビンズ戸田",
-      "official_url": "https://www.yakult.co.jp/sports/rugby/",
-      "status": "ok",
-      "first_run": true,
-      "item_count": 12,
-      "new_items": [],
-      "changed_pages": []
-    },
-    {
-      "team_id": "lo_team_122",
-      "league": "league-one-d3",
-      "name": "ルリーロ福岡",
-      "official_url": "https://leriro-fukuoka.com/",
-      "status": "ok",
-      "first_run": true,
-      "item_count": 11,
-      "new_items": [],
-      "changed_pages": []
+      "changed_pages": [
+        "https://docomo-rugby.jp/"
+      ]
     }
   ],
-  "warnings": [
-    "NECグリーンロケッツ東葛: 公式サイトが移転: https://green.necrockets.net/ -> https://www.jreast.co.jp/greenwarriors/"
-  ]
+  "warnings": []
 }

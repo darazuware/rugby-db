@@ -6,10 +6,12 @@ export const TEAM_SLUG_MAP: Record<string, string> = {
     埼玉パナソニックワイルドナイツ: "saitama-panasonic-wild-knights",
     東芝ブレイブルーパス東京: "toshiba-brave-lupus-tokyo",
     トヨタヴェルブリッツ: "toyota-verblitz",
+    栃木ホンダヒート: "tochigi-honda-heat",
     三重ホンダヒート: "mie-honda-heat",
     三菱重工相模原ダイナボアーズ: "mitsubishi-sagamihara-dynaboars",
     横浜キヤノンイーグルス: "yokohama-canon-eagles",
     リコーブラックラムズ東京: "ricoh-black-rams-tokyo",
+    JR東日本グリーンウォリアーズ東葛: "jr-east-green-warriors-tokatsu",
     NECグリーンロケッツ東葛: "nec-green-rockets-tokatsu",
     九州電力キューデンヴォルテクス: "kyuden-voltex",
     清水建設江東ブルーシャークス: "shimizu-koto-blue-sharks",
@@ -27,6 +29,7 @@ export const TEAM_SLUG_MAP: Record<string, string> = {
     ヤクルトレビンズ戸田: "yakult-levins",
     "クボタスピアーズ船橋・東京ベイ": "kubota-spears-funabashi-tokyo-bay",
     ルリーロ福岡: "leriro-fukuoka",
+    "AZ-COM丸和MOMOTARO'S": "azcom-maruwa-momotaros",
 
     // Top 14
     "トゥールーズ": "toulouse",

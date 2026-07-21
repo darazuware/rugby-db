@@ -1,0 +1,111 @@
+{
+  "team_id": "lo_team_azcom_maruwa",
+  "league": "league-one-d3",
+  "name": "AZ-COM丸和MOMOTARO'S",
+  "official_url": "https://www.momotaros.jp/",
+  "checked_at": "2026-07-21T19:03:20+09:00",
+  "status": "ok",
+  "relocated_to": null,
+  "pages": [
+    {
+      "url": "https://www.momotaros.jp/",
+      "hash": "6fc297ac13b198b5"
+    },
+    {
+      "url": "https://www.momotaros.jp/news/",
+      "hash": "b25aca7ea95cae6e"
+    }
+  ],
+  "items": [
+    {
+      "url": "https://www.momotaros.jp/archives/others/6534/",
+      "title": "2025-26スポンサー 選手交流会",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://www.momotaros.jp/archives/category/news-all-2026/news-report-2026/",
+      "title": "レポート｜2026",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://www.momotaros.jp/archives/news-all-2025/news-report-2025/6522/",
+      "title": "ラグビー留学レポートWeek3～4",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://www.momotaros.jp/archives/category/news-all-2025/news-report-2025/",
+      "title": "レポート｜2025",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://www.momotaros.jp/archives/news-all-2026/news-recruiting-2026/6504/",
+      "title": "【重要】練習試合に関するお知らせ",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://www.momotaros.jp/archives/category/news-all-2026/news-recruiting-2026/",
+      "title": "試合情報｜2026",
+      "date": "2026-06-26"
+    },
+    {
+      "url": "https://www.momotaros.jp/archives/news-all-2026/news-report-2026/6471/",
+      "title": "ラグビー留学レポートWeek1～2",
+      "date": "2026-06-20"
+    },
+    {
+      "url": "https://www.momotaros.jp/archives/news-all-2026/news-info-2026/6458/",
+      "title": "【2026-27シーズン】新加入スタッフのお知らせ",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://www.momotaros.jp/archives/category/news-all-2026/news-info-2026/",
+      "title": "お知らせ｜2026",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://www.momotaros.jp/archives/news-all-2026/news-report-2026/6442/",
+      "title": "【コラム】コツコツの先にあるワクワク。リーグワンが待ち遠しい。",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://www.momotaros.jp/archives/news-all-2026/news-report-2026/6428/",
+      "title": "リーグワンヴィレッジに出展しました！",
+      "date": "2026-06-09"
+    },
+    {
+      "url": "https://www.momotaros.jp/archives/news-all-2026/news-report-2026/6406/",
+      "title": "柏たなか たんぼ運動会 2026",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://www.momotaros.jp/archives/news-all-2026/news-info-2026/6397/",
+      "title": "「リーグワンヴィレッジ」出展のお知らせ",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://www.momotaros.jp/archives/news-all-2026/news-info-2026/6388/",
+      "title": "ラグビー留学決定のお知らせ",
+      "date": "2026-05-30"
+    },
+    {
+      "url": "https://www.momotaros.jp/archives/news-all-2026/news-info-2026/6370/",
+      "title": "【2026-27シーズン】新加入メンバーのお知らせ",
+      "date": "2026-05-13"
+    },
+    {
+      "url": "https://www.momotaros.jp/archives/news-all-2026/news-report-2026/6347/",
+      "title": "スポーツドリームかしわ2026Spring",
+      "date": "2026-05-12"
+    },
+    {
+      "url": "https://www.momotaros.jp/archives/news-all-2026/news-report-2026/6334/",
+      "title": "モラージュ柏スポーツカーニバル",
+      "date": "2026-05-11"
+    },
+    {
+      "url": "https://www.momotaros.jp/archives/news-all-2026/news-info-2026/6278/",
+      "title": "【2026年度】新加入選手・スタッフのお知らせ",
+      "date": "2026-04-28"
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "team_id": "lo_team_109",
   "league": "league-one-d2",
-  "name": "NECグリーンロケッツ東葛",
-  "official_url": "https://green.necrockets.net/",
-  "checked_at": "2026-07-21T18:54:34+09:00",
+  "name": "JR東日本グリーンウォリアーズ東葛",
+  "official_url": "https://www.jreast.co.jp/greenwarriors/",
+  "checked_at": "2026-07-21T19:04:07+09:00",
   "status": "ok",
-  "relocated_to": "https://www.jreast.co.jp/greenwarriors/",
+  "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",

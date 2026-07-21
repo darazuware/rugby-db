@@ -24,16 +24,16 @@
     "official_site": "http://www.kubota-spears.com/"
   },
   {
-    "team_name": "三重ホンダヒート",
-    "team_en_name": "三重ホンダヒート（2025-26）",
-    "slug": "mie-honda-heat",
+    "team_name": "栃木ホンダヒート",
+    "team_en_name": "TOCHIGI Honda HEAT",
+    "slug": "tochigi-honda-heat",
     "league": "league-one",
-    "home_ground": "三重交通G スポーツの杜 鈴鹿",
-    "home_ground_address": "三重県鈴鹿市御薗町１６６９",
+    "home_ground": "",
+    "home_ground_address": "",
     "division": "Division 1",
-    "host_area": "三重県",
+    "host_area": "",
     "legal_entity": "本田技研工業株式会社",
-    "official_site": "http://www.honda-heat.jp/"
+    "official_site": "https://www.honda-heat.jp/"
   },
   {
     "team_name": "コベルコ神戸スティーラーズ",
@@ -240,16 +240,16 @@
     "official_site": "https://www.yakult.co.jp/sports/rugby/"
   },
   {
-    "team_name": "NECグリーンロケッツ東葛",
-    "team_en_name": "NECグリーンロケッツ東葛（2025-26）",
-    "slug": "nec-green-rockets-tokatsu",
+    "team_name": "JR東日本グリーンウォリアーズ東葛",
+    "team_en_name": "JR EAST GREEN WARRIORS TOKATSU",
+    "slug": "jr-east-green-warriors-tokatsu",
     "league": "league-one",
     "home_ground": "柏の葉公園総合競技場",
     "home_ground_address": "千葉県柏市柏の葉４−１",
     "division": "Division 2",
     "host_area": "千葉県我孫子市、柏市、松戸市、流山市、野田市、鎌ケ谷市、白井市、印西市",
-    "legal_entity": "日本電気株式会社",
-    "official_site": "https://green.necrockets.net/"
+    "legal_entity": "東日本旅客鉄道株式会社",
+    "official_site": "https://www.jreast.co.jp/greenwarriors/"
   },
   {
     "team_name": "クリタウォーターガッシュ昭島",
@@ -814,5 +814,17 @@
     "league": "university",
     "home_ground": "",
     "home_ground_address": ""
+  },
+  {
+    "team_name": "AZ-COM丸和MOMOTARO'S",
+    "team_en_name": "AZ-COM MARUWA MOMOTARO'S",
+    "slug": "azcom-maruwa-momotaros",
+    "league": "league-one",
+    "home_ground": "",
+    "home_ground_address": "",
+    "division": "Division 3",
+    "host_area": "",
+    "legal_entity": "株式会社丸和運輸機関",
+    "official_site": "https://www.momotaros.jp/"
   }
 ]
