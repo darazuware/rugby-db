@@ -1,0 +1,81 @@
+{
+  "team_id": "lo_team_107",
+  "league": "league-one-d1",
+  "name": "横浜キヤノンイーグルス",
+  "official_url": "https://www.canon-eagles.jp/",
+  "checked_at": "2026-07-21T18:41:46+09:00",
+  "status": "ok",
+  "relocated_to": null,
+  "pages": [
+    {
+      "url": "https://www.canon-eagles.jp/",
+      "hash": "785fd730e7facb6b"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/",
+      "hash": "5e9142496436cdd6"
+    }
+  ],
+  "items": [
+    {
+      "url": "https://www.canon-eagles.jp/about/jersey.html",
+      "title": "2026.07.17 TEAM 2026-27シーズンのジャージが決定しました",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20260716.html",
+      "title": "2026.07.16 TEAM ネーションズチャンピオンシップ2026 フランス代表戦に横浜キヤノンイーグルスの選手が選出されました",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20260714.html",
+      "title": "2026.07.14 TEAM 横浜キヤノンイーグルスの選手が南アフリカ代表としてウェールズ代表戦に出場します",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20260709.html",
+      "title": "2026.07.09 TEAM ネーションズチャンピオンシップ2026 アイルランド代表戦に横浜キヤノンイーグルスの選手が選出されました",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/event/20260709.html",
+      "title": "2026.07.09 EVENT 7月・8月のイベント出演予定",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20260708.html",
+      "title": "2026.07.08 TEAM 横浜キヤノンイーグルスの選手が南アフリカ代表としてイングランド代表戦に出場します",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/supporters/20260707.html",
+      "title": "2026.07.07 SUPPORTER 2026-27シーズンサポーターズクラブ会員募集のお知らせ",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20260702.html",
+      "title": "2026.07.02 TEAM ネーションズチャンピオンシップ2026 イタリア代表戦に横浜キヤノンイーグルスの選手が選出されました",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20260701.html",
+      "title": "2026.07.01 TEAM 2026-27シーズン新体制のお知らせ",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20260701-3.html",
+      "title": "2026.07.01 TEAM 2026-27シーズン ディビジョン編成・大会日程について",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20260701-2.html",
+      "title": "2026.07.01 TEAM 2026-27シーズン 新入団選手のお知らせ",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20260629.html",
+      "title": "2026.06.29 TEAM 横浜キヤノンイーグルスの選手が南アフリカ代表としてイングランド代表戦に出場します",
+      "date": "2026-06-29"
+    }
+  ]
+}

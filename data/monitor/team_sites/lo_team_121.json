@@ -1,0 +1,81 @@
+{
+  "team_id": "lo_team_121",
+  "league": "league-one-d3",
+  "name": "ヤクルトレビンズ戸田",
+  "official_url": "https://www.yakult.co.jp/sports/rugby/",
+  "checked_at": "2026-07-21T18:41:46+09:00",
+  "status": "ok",
+  "relocated_to": null,
+  "pages": [
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/",
+      "hash": "61986e638e582be3"
+    },
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/",
+      "hash": "78b72bff28d15d1f"
+    }
+  ],
+  "items": [
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1439",
+      "title": "2025-26シーズン退団選手および退団スタッフについて",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/",
+      "title": "MORE",
+      "date": "2026-05-15"
+    },
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1437",
+      "title": "JRLO 2025-26 Div.3 第15節試合結果について",
+      "date": "2026-05-11"
+    },
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/result/index.html",
+      "title": "大会日程",
+      "date": "2026-05-11"
+    },
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1434",
+      "title": "JRLO 2025-26 Div.3 第14節試合結果について",
+      "date": "2026-05-03"
+    },
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1432",
+      "title": "JRLO 2025-26 Div.3 第14節出場メンバーおよびイベント情報について",
+      "date": "2026-05-01"
+    },
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1430",
+      "title": "トレーニングマッチの試合結果について",
+      "date": "2026-04-27"
+    },
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1429",
+      "title": "JRLO 2025-26 Div.3 第13節試合結果について",
+      "date": "2026-04-27"
+    },
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1427",
+      "title": "トレーニングマッチのメンバーについて（4月25日）",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1426",
+      "title": "JRLO 2025-26 Div.3 第13節出場メンバーおよびイベント情報について",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1422",
+      "title": "ヤクルトレビンズ戸田公式ファンクラブお友達紹介キャンペーン実施",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1421",
+      "title": "ヤクルトレビンズ戸田公式ファンクラブ駆け込み入会キャンペーンの実施",
+      "date": "2026-04-23"
+    }
+  ]
+}

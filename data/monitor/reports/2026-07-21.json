@@ -1,0 +1,39 @@
+{
+  "checked_at": "2026-07-21T18:44:41+09:00",
+  "teams": [
+    {
+      "team_id": "lo_team_117",
+      "league": "league-one-d3",
+      "name": "クリタウォーターガッシュ昭島",
+      "official_url": "https://www.kurita-watergush.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 44,
+      "new_items": [],
+      "changed_pages": []
+    },
+    {
+      "team_id": "lo_team_118",
+      "league": "league-one-d3",
+      "name": "狭山セコムラガッツ",
+      "official_url": "https://www.rugguts.secom.co.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 40,
+      "new_items": [],
+      "changed_pages": []
+    },
+    {
+      "team_id": "lo_team_119",
+      "league": "league-one-d3",
+      "name": "中国電力レッドレグリオンズ",
+      "official_url": "https://rrrfc.red/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 19,
+      "new_items": [],
+      "changed_pages": []
+    }
+  ],
+  "warnings": []
+}

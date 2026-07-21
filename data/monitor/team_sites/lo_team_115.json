@@ -1,0 +1,116 @@
+{
+  "team_id": "lo_team_115",
+  "league": "league-one-d2",
+  "name": "日野レッドドルフィンズ",
+  "official_url": "https://hino-reddolphins.com/",
+  "checked_at": "2026-07-21T18:41:46+09:00",
+  "status": "ok",
+  "relocated_to": null,
+  "pages": [
+    {
+      "url": "https://hino-reddolphins.com/",
+      "hash": "ea9799d99936a5d0"
+    },
+    {
+      "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
+      "hash": "dcf9ef443a66e556"
+    }
+  ],
+  "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-07-17/",
+      "title": "7/10八王子市役所へ表敬訪問しました",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-07-16/",
+      "title": "株式会社平山を表敬訪問しました",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-07-15/",
+      "title": "千代田運輸株式会社を表敬訪問しました",
+      "date": "2026-07-15"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-07-13/",
+      "title": "新加入選手のお知らせ",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-07-10/",
+      "title": "6/26薬物乱用防止「６・２６街頭キャンペーン」に参加しました",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-07-09/",
+      "title": "2026-27シーズン新体制ならびに 新加入スタッフのお知らせ",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-07-08/",
+      "title": "6/26古河市役所へ表敬訪問しました",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-07-07/",
+      "title": "ジャパンラグビー リーグワン ライジング2026参加のお知らせ",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-07-06/",
+      "title": "6/25太田市役所へ表敬訪問しました",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-07-03/",
+      "title": "くいもの屋わん 豊田北口/南大沢店 九州魂 南大沢店 特別クーポン継続実施のお知らせ",
+      "date": "2026-07-03"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-07-01/",
+      "title": "【スポットコーチ】三菱製鋼 Steelersの練習に参加しました",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-06-29/",
+      "title": "6/23日野市役所へ表敬訪問しました",
+      "date": "2026-06-29"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-06-24/",
+      "title": "7/4イオンモール多摩平の森『たまもりスポーツイベント』詳細のお知らせ",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-06-18/",
+      "title": "6/27太田タグラグビーフェスタ参加のお知らせ",
+      "date": "2026-06-18"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-06-17/",
+      "title": "6/16羽村市役所へ表敬訪問しました",
+      "date": "2026-06-17"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-06-16/",
+      "title": "7/4イオンモール多摩平の森『たまもりスポーツイベント』に参加します",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-06-15/",
+      "title": "6/14日野警察署 痴漢撲滅キャンペーンに参加しました",
+      "date": "2026-06-15"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-06-11/",
+      "title": "6/14日野警察署 痴漢撲滅キャンペーン参加のお知らせ",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-06-05/",
+      "title": "6/7レドルフィンお出かけのお知らせ",
+      "date": "2026-06-05"
+    }
+  ]
+}

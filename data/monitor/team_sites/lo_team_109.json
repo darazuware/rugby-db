@@ -1,0 +1,28 @@
+{
+  "team_id": "lo_team_109",
+  "league": "league-one-d2",
+  "name": "NECグリーンロケッツ東葛",
+  "official_url": "https://green.necrockets.net/",
+  "checked_at": "2026-07-21T18:41:46+09:00",
+  "status": "ok",
+  "relocated_to": "https://www.jreast.co.jp/greenwarriors/",
+  "pages": [
+    {
+      "url": "https://green.necrockets.net/news/",
+      "hash": "2931d5ab9440eb03"
+    },
+    {
+      "url": "https://green.necrockets.net/news/",
+      "hash": "2931d5ab9440eb03"
+    },
+    {
+      "url": "https://green.necrockets.net/topics/",
+      "hash": "2931d5ab9440eb03"
+    },
+    {
+      "url": "https://green.necrockets.net/topics/",
+      "hash": "2931d5ab9440eb03"
+    }
+  ],
+  "items": []
+}

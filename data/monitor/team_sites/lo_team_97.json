@@ -1,0 +1,301 @@
+{
+  "team_id": "lo_team_97",
+  "league": "league-one-d1",
+  "name": "クボタスピアーズ船橋・東京ベイ",
+  "official_url": "http://www.kubota-spears.com/",
+  "checked_at": "2026-07-21T18:41:46+09:00",
+  "status": "ok",
+  "relocated_to": null,
+  "pages": [
+    {
+      "url": "https://www.kubota-spears.com/",
+      "hash": "512e15e4934fc5ca"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/",
+      "hash": "901b1a7872ddf66c"
+    }
+  ],
+  "items": [
+    {
+      "url": "https://www.kubota-spears.com/news/2026/07/21/140000.html",
+      "title": "2026.07.21 ニュース・トピックス",
+      "date": "2026-07-21"
+    },
+    {
+      "url": "https://www.kubota-spears.com/event/2026/07/17/120000.html",
+      "title": "2026.07.17 イベント情報",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/07/16/140000.html",
+      "title": "2026.07.16 ニュース・トピックス",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "https://www.kubota-spears.com/academy_news/2026/07/14/120000.html",
+      "title": "2026.07.14 育成活動",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://www.kubota-spears.com/social-contribution/2026/07/13/123000.html",
+      "title": "2026.07.13 CSR（社会貢献活動）",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/07/07/161500.html",
+      "title": "2026.07.07 ニュース・トピックス",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/07/02/170000.html",
+      "title": "2026.07.02 ニュース・トピックス",
+      "date": "2026-07-02"
+    },
+    {
+      "url": "https://www.kubota-spears.com/schedule/",
+      "title": "2026.07.01 ニュース・トピックス",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/07/01/150000.html",
+      "title": "2026.07.01 ニュース・トピックス",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/07/01/120000.html",
+      "title": "2026.07.01 ニュース・トピックス",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/06/30/141500.html",
+      "title": "2026.06.30 ニュース・トピックス",
+      "date": "2026-06-30"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/06/29/170000.html",
+      "title": "2026.06.29 ニュース・トピックス",
+      "date": "2026-06-29"
+    },
+    {
+      "url": "https://www.kubota-spears.com/goods/2026/06/24/160000.html",
+      "title": "2026.06.24 グッズ",
+      "date": "2026-06-24"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/06/19/123000.html",
+      "title": "2026.06.19 ニュース・トピックス",
+      "date": "2026-06-19"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/06/16/120000.html",
+      "title": "2026.06.16 ニュース・トピックス",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/06/16/100000.html",
+      "title": "2026.06.16 ニュース・トピックス",
+      "date": "2026-06-16"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/06/12/140000.html",
+      "title": "2026.06.12 ニュース・トピックス",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://www.kubota-spears.com/goods/2026/06/12/144500.html",
+      "title": "2026.06.12 グッズ",
+      "date": "2026-06-12"
+    },
+    {
+      "url": "https://www.kubota-spears.com/partner_news/2026/06/11/144500.html",
+      "title": "2026.06.11 パートナー",
+      "date": "2026-06-11"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/06/10/140000.html",
+      "title": "2026.06.10 ニュース・トピックス",
+      "date": "2026-06-10"
+    },
+    {
+      "url": "https://www.kubota-spears.com/photo/",
+      "title": "2026.06.08 ニュース・トピックス",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://www.kubota-spears.com/event/2026/06/08/161500.html",
+      "title": "2026.06.08 イベント情報",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://www.kubota-spears.com/event/2026/06/08/160000.html",
+      "title": "2026.06.08 イベント情報",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://www.kubota-spears.com/calendar/play-off01/2026/0607/1505_00.html",
+      "title": "2026.06.08 ニュース・トピックス",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/06/04/120000.html",
+      "title": "2026.06.04 ニュース・トピックス",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://www.kubota-spears.com/event/2026/06/04/121500.html",
+      "title": "2026.06.04 イベント情報",
+      "date": "2026-06-04"
+    },
+    {
+      "url": "https://www.kubota-spears.com/schedule/index.php",
+      "title": "2026.06.01 ニュース・トピックス",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://www.kubota-spears.com/calendar/play-off01/2026/0531/1405_00.html",
+      "title": "2026.06.01 ニュース・トピックス",
+      "date": "2026-06-01"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/05/28/120000.html",
+      "title": "2026.05.28 ニュース・トピックス",
+      "date": "2026-05-28"
+    },
+    {
+      "url": "https://www.kubota-spears.com/calendar/play-off01/2026/0524/1430_00.html",
+      "title": "2026.05.25 ニュース・トピックス",
+      "date": "2026-05-25"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/05/13/120000.html",
+      "title": "2026.05.13 ニュース・トピックス",
+      "date": "2026-05-13"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/05/13/114500.html",
+      "title": "2026.05.13 ニュース・トピックス",
+      "date": "2026-05-13"
+    },
+    {
+      "url": "https://www.kubota-spears.com/event/2026/05/08/120000.html",
+      "title": "2026.05.08 イベント情報",
+      "date": "2026-05-08"
+    },
+    {
+      "url": "https://www.kubota-spears.com/goods/2026/04/27/130000.html",
+      "title": "2026.04.27 グッズ",
+      "date": "2026-04-27"
+    },
+    {
+      "url": "https://www.kubota-spears.com/event/2026/04/17/120000.html",
+      "title": "2026.04.17 イベント情報",
+      "date": "2026-04-17"
+    },
+    {
+      "url": "https://www.kubota-spears.com/social-contribution/2026/04/08/120000.html",
+      "title": "2026.04.08 CSR（社会貢献活動）",
+      "date": "2026-04-08"
+    },
+    {
+      "url": "https://www.kubota-spears.com/academy_news/2026/04/06/120000.html",
+      "title": "2026.04.06 育成活動",
+      "date": "2026-04-06"
+    },
+    {
+      "url": "https://www.kubota-spears.com/event/2026/03/25/120000.html",
+      "title": "2026.03.25 イベント情報",
+      "date": "2026-03-25"
+    },
+    {
+      "url": "https://www.kubota-spears.com/partner_news/2026/03/10/130000.html",
+      "title": "2026.03.10 パートナー",
+      "date": "2026-03-10"
+    },
+    {
+      "url": "https://www.kubota-spears.com/goods/2026/03/04/120000.html",
+      "title": "2026.03.04 グッズ",
+      "date": "2026-03-04"
+    },
+    {
+      "url": "https://www.kubota-spears.com/academy_news/2026/02/25/153000.html",
+      "title": "2026.02.25 育成活動",
+      "date": "2026-02-25"
+    },
+    {
+      "url": "https://www.kubota-spears.com/academy_news/2026/02/25/100000.html",
+      "title": "2026.02.25 育成活動",
+      "date": "2026-02-25"
+    },
+    {
+      "url": "https://www.kubota-spears.com/partner_news/2026/02/17/120000.html",
+      "title": "2026.02.17 パートナー",
+      "date": "2026-02-17"
+    },
+    {
+      "url": "https://www.kubota-spears.com/goods/2026/02/13/120000.html",
+      "title": "2026.02.13 グッズ",
+      "date": "2026-02-13"
+    },
+    {
+      "url": "https://www.kubota-spears.com/partner_news/2026/01/22/130000.html",
+      "title": "2026.01.22 パートナー",
+      "date": "2026-01-22"
+    },
+    {
+      "url": "https://www.kubota-spears.com/goods/2026/01/13/120000.html",
+      "title": "2026.01.13 グッズ",
+      "date": "2026-01-13"
+    },
+    {
+      "url": "https://www.kubota-spears.com/goods/2025/12/05/120000.html",
+      "title": "2025.12.05 グッズ",
+      "date": "2025-12-05"
+    },
+    {
+      "url": "https://www.kubota-spears.com/partner_news/2025/12/04/120000.html",
+      "title": "2025.12.04 パートナー",
+      "date": "2025-12-04"
+    },
+    {
+      "url": "https://www.kubota-spears.com/social-contribution/2025/10/02/120000.html",
+      "title": "2025.10.02 CSR（社会貢献活動）",
+      "date": "2025-10-02"
+    },
+    {
+      "url": "https://www.kubota-spears.com/social-contribution/2025/07/04/120000.html",
+      "title": "2025.07.04 CSR（社会貢献活動）",
+      "date": "2025-07-04"
+    },
+    {
+      "url": "https://www.kubota-spears.com/social-contribution/2025/07/02/120000.html",
+      "title": "2025.07.02 CSR（社会貢献活動）",
+      "date": "2025-07-02"
+    },
+    {
+      "url": "https://www.kubota-spears.com/social-contribution/2025/04/30/100000.html",
+      "title": "2025.04.30 CSR（社会貢献活動）",
+      "date": "2025-04-30"
+    },
+    {
+      "url": "https://www.kubota-spears.com/academy_news/2025/04/25/100000.html",
+      "title": "2025.04.25 育成活動",
+      "date": "2025-04-25"
+    },
+    {
+      "url": "https://www.kubota-spears.com/academy_news/2024/04/05/130000.html",
+      "title": "2024.04.05 育成活動",
+      "date": "2024-04-05"
+    },
+    {
+      "url": "https://www.kubota-spears.com/academy_news/2023/07/05/141500.html",
+      "title": "2023.07.05 育成活動",
+      "date": "2023-07-05"
+    },
+    {
+      "url": "https://www.kubota-spears.com/social-contribution/2023/04/24/100000.html",
+      "title": "2023.04.24 CSR（社会貢献活動）",
+      "date": "2023-04-24"
+    }
+  ]
+}

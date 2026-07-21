@@ -1,0 +1,42 @@
+{
+  "team_id": "lo_team_108",
+  "league": "league-one-d1",
+  "name": "リコーブラックラムズ東京",
+  "official_url": "https://blackrams-tokyo.com/",
+  "checked_at": "2026-07-21T18:41:46+09:00",
+  "status": "ok",
+  "relocated_to": null,
+  "pages": [
+    {
+      "url": "https://blackrams-tokyo.com/",
+      "hash": "20e5c2391613cffc"
+    }
+  ],
+  "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260721a.html",
+      "title": "ブラックラムズ東京オンラインショップ 新グッズ販売のお知らせ",
+      "date": "2026-07-21"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20260721b.html",
+      "title": "7月29日(水)・31日(金) RAMOVE限定「練習見学＆グラウンド開放イベント」のご案内",
+      "date": "2026-07-21"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260718a.html",
+      "title": "【試合後コメント】7月18日(土) ネーションズチャンピオンシップ2026 日本代表 対 フランス代表",
+      "date": "2026-07-18"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20260717a.html",
+      "title": "7月31日(金)「盆踊りフェス2026」参加のお知らせ",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260716a.html",
+      "title": "2025-26シーズン 退団選手(追加)のお知らせ",
+      "date": "2026-07-16"
+    }
+  ]
+}

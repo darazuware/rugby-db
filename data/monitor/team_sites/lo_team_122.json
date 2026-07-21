@@ -1,0 +1,76 @@
+{
+  "team_id": "lo_team_122",
+  "league": "league-one-d3",
+  "name": "ルリーロ福岡",
+  "official_url": "https://leriro-fukuoka.com/",
+  "checked_at": "2026-07-21T18:41:46+09:00",
+  "status": "ok",
+  "relocated_to": null,
+  "pages": [
+    {
+      "url": "https://leriro-fukuoka.com/",
+      "hash": "c63bdf3216ef9c25"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news",
+      "hash": "ec5763d222926053"
+    }
+  ],
+  "items": [
+    {
+      "url": "https://leriro-fukuoka.com/news-detail?id=264",
+      "title": "『JAPAN BASE SEVENS 2026』に出場します。",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news",
+      "title": "NEWS一覧",
+      "date": "2026-07-17"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news-detail?id=263",
+      "title": "新加入選手のお知らせ",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news-detail?id=262",
+      "title": "追加退団選手スタッフのお知らせ",
+      "date": "2026-07-14"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news-detail?id=261",
+      "title": "2026ルリーロラグビーキャンプ in UKIHA 開催のお知らせ",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news-detail?id=260",
+      "title": "「ジャパンラグビー リーグワン ライジング」出場のお知らせ",
+      "date": "2026-07-07"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news-detail?id=259",
+      "title": "新加入スタッフのお知らせ",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news-detail?id=258",
+      "title": "新加入スタッフ徳重元気が大木町「地域おこし協力隊」に就任",
+      "date": "2026-07-04"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news-detail?id=257",
+      "title": "新加入スタッフのお知らせ",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news-detail?id=253",
+      "title": "退団選手・スタッフのお知らせ(追加）",
+      "date": "2026-07-01"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news-detail?id=256",
+      "title": "公開練習開催のお知らせ",
+      "date": "2026-06-24"
+    }
+  ]
+}
