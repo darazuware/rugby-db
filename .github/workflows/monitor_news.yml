@@ -1,0 +1,84 @@
+name: Monitor News
+
+# 公式サイト監視。日本のチーム広報は平日日中（おおむね12:00〜18:00 JST）に
+# 選手の加入・退団を出すため、1日1回の 06:00 JST では最大24時間遅れる。
+# 「軽量チェックを日中に高頻度」＋「全チーム巡回を1日2回」に分ける。
+on:
+  schedule:
+    # 統括団体のみ（3サイト・約10秒）: 平日 11/13/15/17/19時 JST = 02/04/06/08/10 UTC
+    - cron: '0 2,4,6,8,10 * * 1-5'
+    # 全26チーム巡回: 13:00 JST（= 04 UTC）と 20:00 JST（= 11 UTC）毎日
+    - cron: '0 4 * * *'
+    - cron: '0 11 * * *'
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: '巡回範囲'
+        required: false
+        default: full
+        type: choice
+        options:
+          - full
+          - sources
+
+permissions:
+  contents: write
+
+# daily_update と同時に走るとpush競合するため、監視同士も直列化する。
+concurrency:
+  group: monitor-news
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Determine scope
+        id: scope
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "scope=${{ inputs.scope }}" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "0 4 * * *" ] || [ "${{ github.event.schedule }}" = "0 11 * * *" ]; then
+            echo "scope=full" >> "$GITHUB_OUTPUT"
+          else
+            echo "scope=sources" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Monitor (full)
+        if: steps.scope.outputs.scope == 'full'
+        run: python3 scripts/monitor_team_sites.py 2>&1 | tee monitor.log
+
+      - name: Monitor (sources only)
+        if: steps.scope.outputs.scope == 'sources'
+        run: python3 scripts/monitor_team_sites.py --sources-only 2>&1 | tee monitor.log
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/monitor
+          if git diff --cached --quiet; then
+            echo "変更なし。コミットしない。"
+          else
+            git commit -m "chore: monitor_news $(date -u -d '+9 hours' +'%Y-%m-%d %H:%M JST') (${{ steps.scope.outputs.scope }})"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      # 選手の加入・退団・代表招集が出たときだけ通知する（改称告知も含む）。
+      - name: Notify highlights
+        if: always()
+        continue-on-error: true
+        run: python3 scripts/notify_monitor.py
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}

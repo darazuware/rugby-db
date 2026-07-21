@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-21T19:23:16+09:00",
+  "checked_at": "2026-07-21T19:45:52+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -12,20 +12,48 @@
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
-    },
+    }
+  ],
+  "sources": [
     {
-      "team_id": "lo_team_101",
-      "league": "league-one-d1",
-      "name": "コベルコ神戸スティーラーズ",
-      "official_url": "https://www.kobesteelers.com/",
+      "key": "league_one",
+      "name": "リーグワン公式",
+      "url": "https://league-one.jp/news/",
       "status": "ok",
       "first_run": false,
-      "item_count": 60,
+      "item_count": 10,
       "new_items": [],
-      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "key": "jrfu",
+      "name": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 10,
+      "new_items": [],
+      "rename_signals": []
+    },
+    {
+      "key": "pnc",
+      "name": "パシフィック・ネーションズカップ（World Rugby）",
+      "url": "https://www.world.rugby/news",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 1,
+      "new_items": [
+        {
+          "url": "https://www.world.rugby/news/1044665/japan-league-1",
+          "title": "リーグワン2024-25シーズン総括とW杯への展望 5期目を迎えたNTTジャパンラグビーリーグワンは6月7日、東京のMUFGスタジアム決勝が行われ、コベルコ神戸スティーラーズがクボタスピアーズ船橋・東京ベイを22-13で下して、リーグワン初優勝を飾った。 月 8 日 6月 月 2026 年 · 分読み取り1 分",
+          "date": "",
+          "category": null
+        }
+      ],
       "rename_signals": []
     }
   ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": []
 }

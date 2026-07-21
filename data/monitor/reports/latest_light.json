@@ -1,0 +1,39 @@
+{
+  "checked_at": "2026-07-21T19:46:36+09:00",
+  "teams": [],
+  "sources": [
+    {
+      "key": "league_one",
+      "name": "リーグワン公式",
+      "url": "https://league-one.jp/news/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 10,
+      "new_items": [],
+      "rename_signals": []
+    },
+    {
+      "key": "jrfu",
+      "name": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 10,
+      "new_items": [],
+      "rename_signals": []
+    },
+    {
+      "key": "pnc",
+      "name": "パシフィック・ネーションズカップ（World Rugby）",
+      "url": "https://www.world.rugby/news",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 1,
+      "new_items": [],
+      "rename_signals": []
+    }
+  ],
+  "highlights": [],
+  "league_rename_news": [],
+  "warnings": []
+}

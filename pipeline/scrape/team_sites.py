@@ -92,6 +92,55 @@ _RENAME_RE = re.compile(
     r"新エンブレム|エンブレム.*(決定|発表|刷新)|リブランディング)"
 )
 
+# 読者の関心が最も高いのは選手の加入・退団。改称より優先して拾い、通知の先頭に出す。
+_ROSTER_RE = re.compile(
+    r"(新加入|加入内定|加入のお知らせ|入団|移籍|獲得|補強|契約(更新|更改|締結|継続|満了|解除)|"
+    r"退団|退部|離脱|引退|現役引退|卒業|新体制|選手登録|追加登録|キャプテン|主将|"
+    r"(ヘッド)?コーチ(就任|退任|契約)|監督(就任|退任)|(就任|退任)のお知らせ)"
+)
+# 代表招集（ブレイブブロッサムズ / PNC 系）。試合ごとの「メンバー発表」は
+# 毎節出て通知が埋もれるため、代表・招集に関する語だけを対象にする。
+_SQUAD_RE = re.compile(
+    r"(代表(候補)?(メンバー|スコッド|選手|チーム|活動|合宿)?[^。]{0,6}(選出|招集|決定|発表)|"
+    r"日本代表|ブレイブブロッサムズ|サクラフィフティーン|"
+    r"squad|call-?up|named|selection)",
+    re.IGNORECASE,
+)
+_INJURY_RE = re.compile(r"(負傷|けが|怪我|手術|復帰|コンディション)")
+
+
+def _categorize(title: str) -> Optional[str]:
+    """記事タイトルを通知カテゴリに分類する。該当なしは None（=通常の新着）。"""
+    if _ROSTER_RE.search(title):
+        return "roster"
+    if _SQUAD_RE.search(title):
+        return "squad"
+    if _INJURY_RE.search(title):
+        return "injury"
+    if _RENAME_RE.search(title):
+        return "rename"
+    return None
+
+
+# チーム公式HP以外に監視する統括団体・大会公式。チーム名だけでなく代表招集・大会情報の一次情報源。
+EXTRA_SOURCES = (
+    {"key": "league_one", "name": "リーグワン公式", "url": f"{BASE}/news/"},
+    {"key": "jrfu", "name": "日本ラグビー協会（ブレイブブロッサムズ）", "url": "https://www.rugby-japan.jp/news/"},
+    {
+        "key": "pnc",
+        "name": "パシフィック・ネーションズカップ（World Rugby）",
+        "url": "https://www.world.rugby/news",
+        # 一覧に日付が出ないため URL パターンで記事を判定する。
+        "article_re": re.compile(r"/news/\d{4,}/"),
+        # World Rugby 全体のニュースは量が多い。PNC・日本関連だけに絞る。
+        "topic_re": re.compile(
+            r"(pacific[- ]nations|\bpnc\b|japan|brave blossoms|fiji|samoa|tonga|"
+            r"usa eagles|canada)",
+            re.IGNORECASE,
+        ),
+    },
+)
+
 
 def _is_noise(url: str) -> bool:
     parsed = urlparse(url)
@@ -294,8 +343,12 @@ def _link_contexts(a) -> list[str]:
     return contexts
 
 
-def _extract_items(html: str, page_url: str) -> list[dict]:
-    """日付を伴う同一ホスト内リンクを新着記事候補として抽出する。"""
+def _extract_items(html: str, page_url: str, article_re: Optional[re.Pattern] = None) -> list[dict]:
+    """日付を伴う同一ホスト内リンクを新着記事候補として抽出する。
+
+    article_re を渡した場合、日付が無くても記事URLパターンに一致すれば拾う
+    （world.rugby のように一覧に日付を出さないサイト向け。date は "" になる）。
+    """
     soup = BeautifulSoup(html, "html.parser")
     host = urlparse(page_url).netloc
     items: dict[str, dict] = {}
@@ -307,7 +360,9 @@ def _extract_items(html: str, page_url: str) -> list[dict]:
         title = contexts[0]
         date = next((d for d in (_extract_date(c, href) for c in contexts) if d), None)
         if not date:
-            continue
+            if article_re is None or not article_re.search(urlparse(href).path):
+                continue
+            date = ""
         title = title or contexts[-1]
         if not (4 <= len(title) <= 160):
             continue
@@ -544,32 +599,61 @@ def _snapshot_path(team_id: str):
     return SNAPSHOT_DIR / f"{team_id}.json"
 
 
-def _check_league_news(robots: _Robots, warnings: list[str]) -> list[dict]:
-    """リーグ公式ニュースから改称告知を拾う。
+def _check_source(source: dict, robots: _Robots, warnings: list[str], checked_at: str) -> dict:
+    """統括団体・大会公式のニュース一覧を巡回し、新着差分とカテゴリ該当記事を返す。
 
     チーム名称はリーグ公式（league-one.jp）を正とするため、各チームHPだけでなく
-    リーグ側の告知も見る。前回スナップショットとの差分ではなく、直近の記事から
-    キーワード一致したものを毎回返す（見落とし防止）。
+    リーグ側の告知も見る。改称は見落とすと表示名がずれるため、差分に出なくても
+    直近記事からキーワード一致を毎回返す。
     """
-    res = _fetch_page(f"{BASE}/news/", robots, warnings)
+    # 正規表現は JSON に載せられないため、レポートには識別情報だけを渡す。
+    meta = {k: source[k] for k in ("key", "name", "url")}
+    path = SNAPSHOT_DIR / f"_{source['key']}.json"
+    prev = io.read_json(path, default={}) or {}
+    prev_urls = {i["url"] for i in prev.get("items", [])}
+
+    res = _fetch_page(source["url"], robots, warnings)
     if res is None:
-        warnings.append("リーグ公式ニュース一覧を取得できない")
-        return []
-    hits = [i for i in _extract_items(res.text, res.url) if _RENAME_RE.search(i["title"])]
-    io.write_json(
-        SNAPSHOT_DIR / "_league_news.json",
-        {"checked_at": datetime.now(io.JST).isoformat(timespec="seconds"), "items": hits},
-    )
-    return hits
+        warnings.append(f"{source['name']}: ニュース一覧を取得できない")
+        return {**meta, "status": "unreachable", "new_items": [], "rename_signals": []}
+
+    items = _extract_items(res.text, res.url, article_re=source.get("article_re"))
+    topic_re = source.get("topic_re")
+    if topic_re is not None:
+        items = [i for i in items if topic_re.search(i["title"]) or topic_re.search(i["url"])]
+    if not items:
+        warnings.append(f"{source['name']}: 記事リンクを抽出できない（JS描画の可能性）")
+    new_items = [] if not prev else [i for i in items if i["url"] not in prev_urls]
+    for item in new_items:
+        item["category"] = _categorize(item["title"])
+    io.write_json(path, {"checked_at": checked_at, "url": res.url, "items": items})
+    return {
+        **meta,
+        "status": "ok",
+        "first_run": not prev,
+        "item_count": len(items),
+        "new_items": new_items,
+        # 改称のみ差分に関係なく毎回返す（見落とし防止）。
+        "rename_signals": [i for i in items if _RENAME_RE.search(i["title"])],
+    }
 
 
-def monitor(divisions: Iterable[str] = DIVISIONS, limit: Optional[int] = None) -> dict:
-    """全チーム公式HPを巡回し、前回スナップショットとの差分を返す。"""
+def monitor(
+    divisions: Iterable[str] = DIVISIONS,
+    limit: Optional[int] = None,
+    teams: bool = True,
+    sources: bool = True,
+) -> dict:
+    """全チーム公式HPと統括団体サイトを巡回し、前回スナップショットとの差分を返す。
+
+    teams=False で統括団体のみ（軽量・高頻度チェック用）、
+    sources=False でチーム公式HPのみを巡回する。
+    """
     robots = _Robots()
     checked_at = datetime.now(io.JST).isoformat(timespec="seconds")
     results, warnings = [], []
     count = 0
-    for division in divisions:
+    for division in divisions if teams else ():
         for team in io.read_records(io.teams_path(division)):
             official_url = team.get("official_url")
             team_id = team.get("id")
@@ -605,6 +689,9 @@ def monitor(divisions: Iterable[str] = DIVISIONS, limit: Optional[int] = None) -
             }
             if status == "ok":
                 io.write_json(_snapshot_path(team_id), snapshot)
+            team_new = [] if not prev else new_items
+            for item in team_new:
+                item["category"] = _categorize(item["title"])
             results.append(
                 {
                     "team_id": team_id,
@@ -614,20 +701,39 @@ def monitor(divisions: Iterable[str] = DIVISIONS, limit: Optional[int] = None) -
                     "status": status,
                     "first_run": not prev,
                     "item_count": len(crawled["items"]),
-                    "new_items": [] if not prev else new_items,
+                    "new_items": team_new,
                     "changed_pages": changed_pages,
                     # 改称・エンブレム変更の告知は表示名の更新が必要になるため個別に立てる。
-                    "rename_signals": [
-                        i for i in ([] if not prev else new_items) if _RENAME_RE.search(i["title"])
-                    ],
+                    "rename_signals": [i for i in team_new if _RENAME_RE.search(i["title"])],
                 }
             )
-    league_news = _check_league_news(robots, warnings)
+
+    source_results = [
+        _check_source(s, robots, warnings, checked_at) for s in (EXTRA_SOURCES if sources else ())
+    ]
+
+    # 読者の関心が高い順（選手動向 > 代表招集 > 負傷）に、全ソース横断でまとめる。
+    highlights: list[dict] = []
+    for team in results:
+        for item in team["new_items"]:
+            if item.get("category") in ("roster", "squad", "injury"):
+                highlights.append({"source": team["name"], **item})
+    for src in source_results:
+        for item in src["new_items"]:
+            if item.get("category") in ("roster", "squad", "injury"):
+                highlights.append({"source": src["name"], **item})
+    order = {"roster": 0, "squad": 1, "injury": 2}
+    highlights.sort(key=lambda i: (order[i["category"]], i["date"]), reverse=False)
+
     report = {
         "checked_at": checked_at,
         "teams": results,
-        "league_rename_news": league_news,
+        "sources": source_results,
+        "highlights": highlights,
+        "league_rename_news": [i for s in source_results for i in s["rename_signals"]],
         "warnings": warnings,
     }
-    io.write_json(REPORT_DIR / f"{checked_at[:10]}.json", report)
+    # 全巡回は日次レポートとして残す。軽量巡回（統括団体のみ等）は日次を上書きしない。
+    name = f"{checked_at[:10]}.json" if teams and sources else "latest_light.json"
+    io.write_json(REPORT_DIR / name, report)
     return report

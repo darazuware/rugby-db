@@ -59,13 +59,7 @@ jobs:
       - name: Generate news articles
         run: python3 -m pipeline.news_gen 2>&1 | tee pipeline_news.log
 
-      # 全チーム公式HPの巡回。新着記事の差分と、改称・エンブレム変更の告知を検出する
-      # （チーム名称はリーグ公式を正とするため league-one.jp のニュースも見る）。
-      # 監視失敗でデータ更新を止めないよう continue-on-error。
-      - name: Monitor team official sites
-        if: steps.mode.outputs.mode == 'full'
-        continue-on-error: true
-        run: python3 scripts/monitor_team_sites.py 2>&1 | tee team_sites.log
+      # 公式サイト監視は monitor_news.yml に移管（日中に高頻度で回すため）。
 
       - name: Commit and push
         run: |
@@ -87,7 +81,7 @@ jobs:
         run: |
           python3 -m pipeline.notify --status success \
             --title "daily_update 成功 (${{ steps.mode.outputs.mode }})" \
-            --log pipeline_run.log --log pipeline_news.log --log team_sites.log \
+            --log pipeline_run.log --log pipeline_news.log \
             --news-list news_changed.txt
 
       - name: Notify failure
