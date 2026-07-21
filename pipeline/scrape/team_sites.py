@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import hashlib
 import re
+import subprocess
 import time
 from datetime import datetime
 from typing import Iterable, Optional
@@ -36,8 +37,21 @@ _HEADERS = {
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
         "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "ja,en;q=0.8",
+    # 企業サイト（suntory.co.jp / jreast.co.jp 等）のWAFは UA だけだと 403 を返す。
+    # 実ブラウザと同じ sec-fetch-* / sec-ch-ua を添えると通常のナビゲーションとして扱われる。
+    "Accept": (
+        "text/html,application/xhtml+xml,application/xml;q=0.9,"
+        "image/avif,image/webp,*/*;q=0.8"
+    ),
+    "Accept-Language": "ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-ch-ua": '"Chromium";v="126", "Not.A/Brand";v="24"',
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": '"macOS"',
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "none",
+    "sec-fetch-user": "?1",
+    "upgrade-insecure-requests": "1",
 }
 _TIMEOUT = 20
 _SLEEP = 1.5
@@ -48,7 +62,7 @@ _NEWS_PATHS = ("", "/news", "/news/", "/topics", "/topics/", "/information/", "/
 
 # 記事リンク判定に使う日付表記（本文 or URL 側）。
 _DATE_RES = (
-    re.compile(r"(20\d{2})[.\-/年](\d{1,2})[.\-/月](\d{1,2})"),
+    re.compile(r"(20\d{2})\s*[.\-/年]\s*(\d{1,2})\s*[.\-/月]\s*(\d{1,2})"),
     re.compile(r"/(20\d{2})/(\d{1,2})/(\d{1,2})/"),
     re.compile(r"/(20\d{2})(\d{2})(\d{2})"),
 )
@@ -78,14 +92,53 @@ def _is_noise(url: str) -> bool:
     return bool(_NOISE_PATH_RE.search(parsed.path))
 
 
-def _get(url: str) -> Optional[requests.Response]:
+class _CurlResponse:
+    """curl フォールバック時の最小レスポンス（requests.Response 互換の使用部分のみ）。"""
+
+    def __init__(self, url: str, text: str, content_type: str) -> None:
+        self.url = url
+        self.text = text
+        self.headers = {"content-type": content_type}
+        self.status_code = 200
+
+    def json(self):
+        import json
+
+        return json.loads(self.text)
+
+
+def _curl_get(url: str) -> Optional[_CurlResponse]:
+    """requests が 403 の場合の HTTP/2 フォールバック。
+
+    suntory.co.jp / jreast.co.jp の WAF は HTTP/1.1 の requests を弾くが、
+    ブラウザと同じ HTTP/2 + sec-fetch-* なら通常のナビゲーションとして通る。
+    """
+    cmd = ["curl", "-sS", "--http2", "-L", "--compressed", "-m", str(_TIMEOUT), "-w", "\n%{content_type}"]
+    for key, value in _HEADERS.items():
+        cmd += ["-H", f"{key}: {value}"]
+    cmd.append(url)
+    try:
+        proc = subprocess.run(cmd, capture_output=True, timeout=_TIMEOUT + 10)
+    except (OSError, subprocess.TimeoutExpired):
+        return None
+    if proc.returncode != 0 or not proc.stdout:
+        return None
+    body, _, content_type = proc.stdout.decode("utf-8", "replace").rpartition("\n")
+    if not body.strip():
+        return None
+    return _CurlResponse(url, body, content_type.strip())
+
+
+def _get(url: str):
     for attempt in range(_RETRIES + 1):
         try:
             res = requests.get(url, headers=_HEADERS, timeout=_TIMEOUT)
             if res.status_code == 200:
                 res.encoding = res.apparent_encoding or res.encoding
                 return res
-            if res.status_code in (404, 403, 410):
+            if res.status_code == 403:
+                return _curl_get(url)
+            if res.status_code in (404, 410):
                 return None
         except requests.RequestException:
             pass
@@ -255,9 +308,14 @@ def _discover_news_paths(html: str, page_url: str) -> list[str]:
         if urlparse(href).netloc != host or _is_noise(href):
             continue
         path = urlparse(href).path.rstrip("/")
-        if re.search(r"/(news|topics|information|info|blog)$", path) and href not in found:
+        # 新着一覧本体に加え、年別アーカイブ（/news/2026.html 等）も対象にする。
+        # 一覧トップが JS 描画でも年別ページは静的HTMLのことが多い。
+        if (
+            re.search(r"/(news|topics|information|info|blog)$", path)
+            or re.search(r"/(news|topics|information|info|blog)/20\d\d(\.html)?$", path)
+        ) and href not in found:
             found.append(href.split("#")[0])
-    return found[:3]
+    return found[:4]
 
 
 def _follow_relocation(html: str, page_url: str) -> Optional[str]:
@@ -347,22 +405,63 @@ def _crawl_site(official_url: str, robots: _Robots) -> dict:
     if not targets:
         targets = [official_url.rstrip("/") + p for p in _NEWS_PATHS[1:]]
 
+    # 幅優先で最大6ページ。記事が取れなかったページからは、そのページ自身のリンクを
+    # たどって1段だけ深追いする（トップ→/news/→/news/2026.html のようなサイト対策）。
     seen: set[str] = set()
-    for url in targets[:4]:
+    queue = list(targets)
+    depth = {url: 0 for url in queue}
+    while queue and len(pages) < 6:
+        url = queue.pop(0)
         if url in seen:
             continue
         seen.add(url)
         res = top if (top is not None and url == top.url) else _fetch_page(url, robots, warnings)
         if res is None:
             continue
+        found_here = _extract_items(res.text, res.url)
+        if not found_here and depth[url] < 2:
+            for child in _discover_news_paths(res.text, res.url):
+                if child not in seen and child not in depth:
+                    depth[child] = depth[url] + 1
+                    queue.append(child)
         pages.append(
             {
                 "url": res.url,
                 "hash": hashlib.sha256(res.text.encode("utf-8", "ignore")).hexdigest()[:16],
             }
         )
-        for item in _extract_items(res.text, res.url):
+        for item in found_here:
             items.setdefault(item["url"], item)
+
+    if not items:
+        # 年別アーカイブの直接指定。一覧トップが JS 描画でも
+        # /news/2026.html や /news/2026/ は静的HTMLで配信されているサイトがある。
+        base = (relocated_to or official_url).rstrip("/")
+        year = datetime.now(io.JST).year
+        candidates = [
+            f"{base}/news/{year}.html",
+            f"{base}/news/{year}/",
+            f"{base}/topics/{year}.html",
+            f"{base}/topics/{year}/",
+        ]
+        for url in candidates:
+            if url in seen:
+                continue
+            res = _fetch_page(url, robots, warnings)
+            if res is None:
+                continue
+            found_here = _extract_items(res.text, res.url)
+            if not found_here:
+                continue
+            pages.append(
+                {
+                    "url": res.url,
+                    "hash": hashlib.sha256(res.text.encode("utf-8", "ignore")).hexdigest()[:16],
+                }
+            )
+            for item in found_here:
+                items.setdefault(item["url"], item)
+            break
 
     if not items:
         # WordPress REST（JS描画サイトでも記事一覧が JSON で取れることが多い）。

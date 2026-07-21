@@ -3,26 +3,38 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://green.necrockets.net/",
-  "checked_at": "2026-07-21T18:41:46+09:00",
+  "checked_at": "2026-07-21T18:54:34+09:00",
   "status": "ok",
   "relocated_to": "https://www.jreast.co.jp/greenwarriors/",
   "pages": [
     {
-      "url": "https://green.necrockets.net/news/",
-      "hash": "2931d5ab9440eb03"
+      "url": "https://www.jreast.co.jp/greenwarriors/",
+      "hash": "8a3aa6a3d81141f2"
     },
     {
-      "url": "https://green.necrockets.net/news/",
-      "hash": "2931d5ab9440eb03"
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
+      "hash": "22897dfa37682983"
     },
     {
-      "url": "https://green.necrockets.net/topics/",
-      "hash": "2931d5ab9440eb03"
-    },
-    {
-      "url": "https://green.necrockets.net/topics/",
-      "hash": "2931d5ab9440eb03"
+      "url": "https://www.jreast.co.jp/greenwarriors/news/",
+      "hash": "9876677a0359f080"
     }
   ],
-  "items": []
+  "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/#2026-07-21-01",
+      "title": "FAN CLUB GW東葛公式ファンクラブ「CLUB GREEN WARRIORS」9 月中旬入会開始予定 2026.07.21",
+      "date": "2026-07-21"
+    },
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0710-01/",
+      "title": "EVENT 「グリウォリ祭り」8月8日（土）開催！ 2026.07.10",
+      "date": "2026-07-10"
+    },
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0701-01/",
+      "title": "EVENT JR東日本グリーンウォリアーズ東葛 発足式実施のご案内 2026.07.01",
+      "date": "2026-07-01"
+    }
+  ]
 }

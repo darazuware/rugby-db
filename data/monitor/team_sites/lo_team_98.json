@@ -3,25 +3,29 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-07-21T18:41:46+09:00",
+  "checked_at": "2026-07-21T18:54:34+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "e6e33dc9a17ee0bc"
+      "hash": "eaf8bc55e47a35b2"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "3d0a96f140a22e3e"
+      "hash": "a62ce5eb035f20a8"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news?category=1",
-      "hash": "b1a6bb409a434df9"
+      "hash": "c94b6489e15e3007"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news?category=5",
-      "hash": "58e78e27a2f03df4"
+      "hash": "ee6be30c8ab243ca"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news?category=3",
+      "hash": "2941b5d150a0b311"
     }
   ],
   "items": [
@@ -211,6 +215,11 @@
       "date": "2026-05-10"
     },
     {
+      "url": "https://www.shizuoka-bluerevs.com/news/3080",
+      "title": "2026.5.7[THU] TICKET 5/9(土)横浜キヤノンイーグルス戦の当日券販売について",
+      "date": "2026-05-07"
+    },
+    {
       "url": "https://www.shizuoka-bluerevs.com/news/3074",
       "title": "2026.5.5[TUE] TEAM 大戸 裕矢選手 現役引退のお知らせ",
       "date": "2026-05-05"
@@ -266,6 +275,11 @@
       "date": "2026-04-20"
     },
     {
+      "url": "https://www.shizuoka-bluerevs.com/news/3057",
+      "title": "2026.4.17[FRI] TICKET 4/18(土)埼玉パナソニックワイルドナイツ戦の当日券販売について",
+      "date": "2026-04-17"
+    },
+    {
       "url": "https://www.shizuoka-bluerevs.com/news/3042",
       "title": "2026.4.16[THU] EVENT ※6月10日(水)更新※ ≪REVNISTA FESTIVAL 2026 supported by 大興金属≫は6月13日(土)開催",
       "date": "2026-04-16"
@@ -281,49 +295,39 @@
       "date": "2026-04-08"
     },
     {
+      "url": "https://www.shizuoka-bluerevs.com/news/3021",
+      "title": "2026.4.1[WED] TICKET 静岡県内にお住まいの500組1,000名をリーグ最終戦にご招待",
+      "date": "2026-04-01"
+    },
+    {
       "url": "https://www.shizuoka-bluerevs.com/news/3001",
       "title": "FAN CLUB 2026/3/31 ららぽーと磐田＜スポーツ・エンタメパスポート＞",
       "date": "2026-03-31"
     },
     {
+      "url": "https://www.shizuoka-bluerevs.com/news/3015",
+      "title": "2026.3.27[FRI] TICKET 3/28(土)コベルコ神戸スティーラーズ戦の当日券販売について",
+      "date": "2026-03-27"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/2983",
+      "title": "2026.3.27[FRI] SDGs 【販売終了・完売御礼】カーボン・オフセット付チケットのラストは天竜杉コースター付",
+      "date": "2026-03-27"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3005",
+      "title": "2026.3.25[WED] TICKET 最終戦は春華堂スペシャルスイーツ付きテーブルシートが登場",
+      "date": "2026-03-25"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3004",
+      "title": "2026.3.25[WED] TICKET リーグ最終戦は3月30日(月)からチケット先行発売",
+      "date": "2026-03-25"
+    },
+    {
       "url": "https://www.shizuoka-bluerevs.com/news/3003",
       "title": "2026.3.21[SAT] TEAM トレーニングマッチの実施について",
       "date": "2026-03-21"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/2986",
-      "title": "OTHERS 2026/3/11 【オフィシャルグッズ統括(マネジャー候補）】募集",
-      "date": "2026-03-11"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/2965",
-      "title": "2026.3.2[MON] TEAM 負傷による選手の長期欠場のお知らせ",
-      "date": "2026-03-02"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/2956",
-      "title": "2026.2.23[MON] TEAM 負傷による選手の長期欠場のお知らせ",
-      "date": "2026-02-23"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/2917",
-      "title": "2026.1.30[FRI] TEAM シーズン終盤4試合のキックオフ時間が決定（2/13更新）",
-      "date": "2026-01-30"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/2897",
-      "title": "2026.1.19[MON] TEAM 新規加入選手のお知らせ",
-      "date": "2026-01-19"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/2671",
-      "title": "2025.8.8[FRI] TEAM トレーニング一般公開スケジュール",
-      "date": "2025-08-08"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/1325",
-      "title": "HOST AREA 2023/11/8 ＜レヴサポ＞加盟店のご紹介",
-      "date": "2023-11-08"
     }
   ]
 }

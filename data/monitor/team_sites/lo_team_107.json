@@ -3,7 +3,7 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-07-21T18:41:46+09:00",
+  "checked_at": "2026-07-21T18:54:34+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -14,6 +14,10 @@
     {
       "url": "https://www.canon-eagles.jp/news/",
       "hash": "5e9142496436cdd6"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/2026.html",
+      "hash": "e97500df7e62b394"
     }
   ],
   "items": [

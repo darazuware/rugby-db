@@ -3,7 +3,7 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-07-21T18:41:46+09:00",
+  "checked_at": "2026-07-21T18:54:34+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -14,6 +14,18 @@
     {
       "url": "https://www.skyactivs.com/news",
       "hash": "3327fabd508e847d"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/2091",
+      "hash": "08e3d27a1417f115"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/2035",
+      "hash": "aa5c2d1ee5d7883e"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/2001",
+      "hash": "a50f33c855a6e0f7"
     }
   ],
   "items": [
@@ -221,6 +233,31 @@
       "url": "https://www.skyactivs.com/news/3787",
       "title": "2026.03.16[MON] GAME 【イベント情報】vsルリーロ福岡",
       "date": "2026-03-16"
+    },
+    {
+      "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",
+      "title": "詳細はこちらから",
+      "date": "2025-03-08"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/2091#primary",
+      "title": "Skip to content",
+      "date": "2025-03-06"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/2091#",
+      "title": "ニュース一覧へ戻る arrow_forward",
+      "date": "2025-03-06"
+    },
+    {
+      "url": "https://www.skyactivs.com/",
+      "title": "arrow_back トップページへ戻る",
+      "date": "2025-03-06"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/2001#",
+      "title": "ニュース一覧へ戻る arrow_forward",
+      "date": "2022-08-08"
     }
   ]
 }

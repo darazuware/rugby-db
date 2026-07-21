@@ -3,7 +3,7 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-07-21T18:41:46+09:00",
+  "checked_at": "2026-07-21T18:54:34+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -22,6 +22,10 @@
     {
       "url": "https://www.honda-heat.jp/news/?category=event",
       "hash": "1777c945b913f3e9"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/?category=training",
+      "hash": "3a83f865d8bff9f0"
     }
   ],
   "items": [
@@ -279,6 +283,51 @@
       "url": "https://www.honda-heat.jp/news/2274/",
       "title": "イベント 2026.1.9 【ホストゲームイベント】2月7日(土)リーグワン第7節 ラガマルくん来場のお知らせ",
       "date": "2026-01-09"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/1010/",
+      "title": "練習 2021.10.4 三重ホンダヒート 新チームジャージ発表",
+      "date": "2021-10-04"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/875/",
+      "title": "練習 2020.11.3 【合同練習】11/3(火) vs 大阪体育大学",
+      "date": "2020-11-03"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/837/",
+      "title": "練習 2020.6.22 Honda HEAT練習再開のお知らせ",
+      "date": "2020-06-22"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/743/",
+      "title": "練習 2019.10.10 【合同練習】vs 豊田自動織機シャトルズ",
+      "date": "2019-10-10"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/739/",
+      "title": "練習 2019.9.26 【合同練習】vs NTTドコモレッドハリケーンズ",
+      "date": "2019-09-26"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/499/",
+      "title": "練習 2018.7.31 網走合宿2日目",
+      "date": "2018-07-31"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/412/",
+      "title": "練習 2018.3.22 大分キャンプ4日目 ②",
+      "date": "2018-03-22"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/410/",
+      "title": "練習 2018.3.22 大分キャンプ４日目 ①",
+      "date": "2018-03-22"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/409/",
+      "title": "練習 2018.3.21 大分キャンプ３日目",
+      "date": "2018-03-21"
     }
   ]
 }
