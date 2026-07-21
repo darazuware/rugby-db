@@ -36,6 +36,7 @@ SCRAPERS: dict[str, object] = {
     "league-one-d3": lambda: league_one.collect("d3"),
     "top14": lambda: all_rugby.collect("top14"),
     "super-rugby": lambda: all_rugby.collect("super-rugby-pacific"),
+    "mlr": lambda: all_rugby.collect("mlr"),
     # P4-6: URC/Premiership は部分収集（チーム全件＋日本人・代表キャップ保持者のみ、
     # 選定基準は all_rugby.collect_star docstring 参照）
     "urc": lambda: all_rugby.collect_star("urc"),
@@ -48,7 +49,7 @@ SCRAPERS: dict[str, object] = {
 }
 ALL_LEAGUES = [
     "league-one-d1", "league-one-d2", "league-one-d3",
-    "top14", "super-rugby", "urc", "premiership", "national",
+    "top14", "super-rugby", "mlr", "urc", "premiership", "national",
     "sevens-national", "age-grade", "university", "highschool",
 ]
 

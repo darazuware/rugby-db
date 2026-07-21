@@ -22,6 +22,7 @@ export const TEAM_LEAGUES = [
   "urc",
   "premiership",
   "nrl",
+  "mlr",
 ] as const;
 
 export const NO_TEAM_LEAGUES = [

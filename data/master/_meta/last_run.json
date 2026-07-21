@@ -190,5 +190,15 @@
     "warnings": [
       "league-one-d3: 出身校54件を正規表現・Sonnetいずれでもtype判定できず（例: ['AorereCollege', 'AranmoreCatholicCollege', 'FaserCoastAnglican']）"
     ]
+  },
+  "mlr": {
+    "run_at": "2026-07-22T08:12:37+09:00",
+    "counts": {
+      "players": 202,
+      "teams": 6
+    },
+    "warnings": [
+      "mlr standings: team=chicago の数値欠落のため行を除外"
+    ]
   }
 }

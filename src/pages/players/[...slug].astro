@@ -86,8 +86,13 @@ const updatedDate = (player.scraped_at || "").slice(0, 10);
 const leagueSegment = player.league.startsWith("league-one")
   ? "league-one"
   : player.league;
+// MLR はチーム詳細ページ（legacy data/teams.json 駆動）を持たないため、
+// チーム名はテキスト表示にとどめてリンク切れを避ける（選手個別ページは master から生成）。
+const HAS_TEAM_PAGES = leagueSegment !== "mlr";
 const teamHref =
-  teamName != null ? `/teams/${leagueSegment}/${getTeamSlug(teamName)}/` : null;
+  teamName != null && HAS_TEAM_PAGES
+    ? `/teams/${leagueSegment}/${getTeamSlug(teamName)}/`
+    : null;
 
 // 国旗（nationality 表示用）
 const FLAG_MAP: Record<string, string> = {

@@ -53,6 +53,7 @@ _RETRIES = 2
 TOURNAMENTS = {
     "top14": {"key": "top-14", "league": "top14"},
     "super-rugby-pacific": {"key": "super-rugby-pacific", "league": "super-rugby"},
+    "mlr": {"key": "mlr", "league": "mlr"},
 }
 
 # P4-6: 部分収集トーナメント（00 条件付きスコープ: チームページ＋日本人・スター選手のみ、

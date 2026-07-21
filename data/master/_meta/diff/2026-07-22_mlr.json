@@ -1,0 +1,1223 @@
+{
+  "league": "mlr",
+  "signings": [
+    {
+      "id": "ar_adam-chadwick",
+      "name_en": "Adam CHADWICK",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_aidan-king-",
+      "name_en": "Aidan KING",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_aidan-ridgway",
+      "name_en": "Aidan RIDGWAY",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_alejandro-martinez-tapia",
+      "name_en": "Alejandro MARTINEZ TAPIA",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_alessandro-heaney",
+      "name_en": "Alessandro HEANEY",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_alex-hernandez",
+      "name_en": "Alex HERNANDEZ",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_alex-lopeti",
+      "name_en": "Ale LOPETI",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_alex-maughan",
+      "name_en": "Alex MAUGHAN",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_alexander-mackenzie",
+      "name_en": "Alex MACKENZIE",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_andre-riaan-warner",
+      "name_en": "André Riaan WARNER",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_andrew-quattrin",
+      "name_en": "Andrew QUATTRIN",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_baden-godfrey",
+      "name_en": "Baden GODFREY",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_bailey-wilson",
+      "name_en": "Bailey WILSON",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_bart-vermeulen",
+      "name_en": "Bart VERMEULEN",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_ben-houston",
+      "name_en": "Ben HOUSTON",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_ben-lesage",
+      "name_en": "Ben LESAGE",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_ben-sugars",
+      "name_en": "Ben SUGARS",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_benjamin-bonasso",
+      "name_en": "Ben BONASSO",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_bill-meakes",
+      "name_en": "Billy MEAKES",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_bill-whiteside",
+      "name_en": "Bill WHITESIDE",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_braemar-murray",
+      "name_en": "Braemar MURRAY",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_brandon-harvey",
+      "name_en": "Brandon HARVEY",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_brock-webster",
+      "name_en": "Brock WEBSTER",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_calixto-martinez",
+      "name_en": "Cali MARTINEZ",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_callum-botchar",
+      "name_en": "Callum BOTCHAR",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_calvin-liulamaga",
+      "name_en": "Calvin LIULAMAGA",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_cam-gerlach",
+      "name_en": "Cam GERLACH",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_campbell-robb",
+      "name_en": "Campbell ROBB",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_cassh-maluia",
+      "name_en": "Cassh MALUIA",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_charlie-abel",
+      "name_en": "Charlie ABEL",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_charlie-walsh",
+      "name_en": "Charlie WALSH",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_chase-jones",
+      "name_en": "Chase JONES",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_christian-poidevin",
+      "name_en": "Christian POIDEVIN",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_christopher-hilsenbeck",
+      "name_en": "Christopher HILSENBECK",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_coby-miln",
+      "name_en": "Coby MILN",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_cole-semu",
+      "name_en": "Cole SEMU",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_collin-grosse",
+      "name_en": "Collin GROSSE",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_conner-mooneyham",
+      "name_en": "Conner MOONEYHAM",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_connor-buckley",
+      "name_en": "Connor BUCKLEY",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_connor-devos",
+      "name_en": "Connor DEVOS",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_connor-robinson",
+      "name_en": "Connor ROBINSON",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_corbin-smith",
+      "name_en": "Corbin SMITH",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_cory-gilliland-daniel",
+      "name_en": "Cory GILLILAND-DANIEL",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_cyrille-cama",
+      "name_en": "Cyrille CAMA",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_damien-hoyland",
+      "name_en": "Damien HOYLAND",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_dan-kriel",
+      "name_en": "Dan KRIEL",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_david-coetzer",
+      "name_en": "Davy COETZER",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_declan-leaney",
+      "name_en": "Declan LEANEY",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_dewald-donald",
+      "name_en": "Dewald DONALD",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_dewald-kotze",
+      "name_en": "Dewald KOTZE",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_divan-rossouw",
+      "name_en": "Divan ROSSOUW",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_dominic-akina",
+      "name_en": "Dom AKINA",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_dorian-jones",
+      "name_en": "Dorian JONES",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_drake-davis",
+      "name_en": "Drake DAVIS",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_duncan-matthews",
+      "name_en": "Duncan MATTHEWS",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_ed-timpson",
+      "name_en": "Ed TIMPSON",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_ej-freeman",
+      "name_en": "EJ FREEMAN",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_elias-garza",
+      "name_en": "Elias GARZA",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_emmanuel-albert",
+      "name_en": "Emmanuel ALBERT",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_erich-storti",
+      "name_en": "Erich STORTI",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_ethan-mcveigh",
+      "name_en": "Ethan MCVEIGH",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_ezekiel-lindenmuth",
+      "name_en": "Ezekiel LINDENMUTH",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_faka-osi-pifeleti",
+      "name_en": "Faka'osi PIFELETI",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_filipe-vakasiuola",
+      "name_en": "Filipe VAKASIUOLA",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_fred-apulu",
+      "name_en": "Fred APULU",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_gonzalo-bertranou",
+      "name_en": "Gonzalo BERTRANOU",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_harison-mataele",
+      "name_en": "Harison MATAELE",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_harley-wheeler",
+      "name_en": "Harley WHEELER",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_harrison-boyle",
+      "name_en": "Harrison BOYLE",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_ignacio-peculo",
+      "name_en": "Ignacio PÉCULO",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_ishma-eel-safodien",
+      "name_en": "Ishy SAFODIEN",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_jackson-zabierek",
+      "name_en": "Jackson ZABIEREK",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_jacob-norris",
+      "name_en": "Jacob NORRIS",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_jake-kinneeveauk",
+      "name_en": "Jake KINNEEVEAUK",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_jake-turnbull",
+      "name_en": "Jake TURNBULL",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_jamason-fa-anana-schultz",
+      "name_en": "Jamason FA'ANANA-SCHULTZ",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_james-scott",
+      "name_en": "James SCOTT",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_jason-damm",
+      "name_en": "Jason DAMM",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_jason-emery",
+      "name_en": "Jason EMERY",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_jason-robertson",
+      "name_en": "Jason ROBERTSON",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_jason-tidwell",
+      "name_en": "Jason TIDWELL",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_jay-renton",
+      "name_en": "Jay RENTON",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_jeron-pantor",
+      "name_en": "Jeron PANTOR",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_joe-johnston",
+      "name_en": "Joe JOHNSTON",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_joe-taufete-e",
+      "name_en": "Joe TAUFETE'E",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_joel-hodgson",
+      "name_en": "Joel HODGSON",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_johan-momsen",
+      "name_en": "Johan MOMSEN",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_john-lefevre",
+      "name_en": "John LEFEVRE",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_john-powers",
+      "name_en": "John POWERS",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_john-rizzo",
+      "name_en": "John RIZZO",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_jordan-jackson-hope",
+      "name_en": "Jordan JACKSON-HOPE",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_jordan-trainor",
+      "name_en": "Jordan TRAINOR",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_joseph-mano",
+      "name_en": "Joe MANO",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_juan-philip-smith",
+      "name_en": "JP SMITH",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_julian-roberts",
+      "name_en": "Julian ROBERTS",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_junior-gafa",
+      "name_en": "Junior GAFA",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_jurie-van-vuuren",
+      "name_en": "Jurie VAN VUUREN",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_justus-tavai",
+      "name_en": "Justus TAVAI",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_kaleb-geiger",
+      "name_en": "Kaleb GEIGER",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_kalisi-moli",
+      "name_en": "Kalisi MOLI",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_karl-keane",
+      "name_en": "Karl KEANE",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_keni-nasoqeqe",
+      "name_en": "Keni NASOQEQE",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_kienan-higgins",
+      "name_en": "Kienan HIGGINS",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_killian-coghlan",
+      "name_en": "Killian COGHLAN",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_kirby-myhill",
+      "name_en": "Kirby MYHILL",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_koby-baker",
+      "name_en": "Koby BAKER",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_koikoi-nelligan",
+      "name_en": "KoiKoi NELLIGAN",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_kyle-ciquera",
+      "name_en": "Kyle CIQUERA",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_lance-williams",
+      "name_en": "Lance WILLIAMS",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_larome-white",
+      "name_en": "LaRome WHITE",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_lauina-futi",
+      "name_en": "Lauina FUTI",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_liam-fletcher",
+      "name_en": "Liam FLETCHER",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_liki-chan-tung",
+      "name_en": "Liki CHAN-TUNG",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_line-latu",
+      "name_en": "Line LATU",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_lucas-rumball",
+      "name_en": "Lucas RUMBALL",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_luke-carty",
+      "name_en": "Luke CARTY",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_luke-white",
+      "name_en": "Luke WHITE",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_ma-ake-muti",
+      "name_en": "Ma'ake MUTI",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_maclean-jones",
+      "name_en": "Maclean JONES",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_makeen-alikhan",
+      "name_en": "Makeen ALIKHAN",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_malacchi-esdale",
+      "name_en": "Malacchi ESDALE",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_malcolm-may",
+      "name_en": "Malcolm MAY",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_maliu-niuafe",
+      "name_en": "Maliu NIUAFE",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_manu-filimone",
+      "name_en": "Filimone MANU",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_mark-bennett",
+      "name_en": "Mark BENNETT",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_mark-o-keeffe",
+      "name_en": "Mark O'KEEFFE",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_marno-redelinghuys",
+      "name_en": "Marno REDELINGHUYS",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_marques-fuala-au",
+      "name_en": "Marques FUALA'AU",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_mason-flesch",
+      "name_en": "Mason FLESCH",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_mason-pedersen",
+      "name_en": "Mason PEDERSEN",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_mathis-demandolx",
+      "name_en": "Mathis DEMANDOLX",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_matt-anticev",
+      "name_en": "Matt ANTICEV",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_matt-carrion",
+      "name_en": "Matt CARRION",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_matt-oworu",
+      "name_en": "Matt OWORU",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_matthias-douglas",
+      "name_en": "Matthias DOUGLAS",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_max-lehmann",
+      "name_en": "Max LEHMANN",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_max-schumacher",
+      "name_en": "Max SCHUMACHER",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_michael-baska",
+      "name_en": "Michael BASKA",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_michael-hand",
+      "name_en": "Michael HAND",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_michael-scott",
+      "name_en": "Michael SCOTT",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_mitch-wilson",
+      "name_en": "Mitch WILSON",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_nathan-den-hoedt",
+      "name_en": "Nathan DEN HOEDT",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_nathan-salmon",
+      "name_en": "Nathan SALMON",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_nathan-sylvia",
+      "name_en": "Nathan SYLVIA",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_nick-boyer",
+      "name_en": "Nick BOYER",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_nick-chan",
+      "name_en": "Nick CHAN",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_noah-brown",
+      "name_en": "Noah BROWN",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_nolan-tuamoheloa",
+      "name_en": "Nolan TUAMOHELOA",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_oliver-kane",
+      "name_en": "Oliver KANE",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_ollie-aylmer",
+      "name_en": "Ollie AYLMER",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_ollie-devoto",
+      "name_en": "Ollie DEVOTO",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_oscar-lennon",
+      "name_en": "Oscar LENNON",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_oscar-treacy",
+      "name_en": "Oscar TREACY",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_owen-sheehy",
+      "name_en": "Owen SHEEHY",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_paddy-beattie",
+      "name_en": "Paddy BEATTIE",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_paddy-ryan-1998",
+      "name_en": "Paddy RYAN",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_paul-mullen",
+      "name_en": "Paul MULLEN",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_paula-balekana",
+      "name_en": "Paula BALEKANA",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_payton-telea-ilalio",
+      "name_en": "Payton TELEA-ILALIO",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_perry-humphreys",
+      "name_en": "Perry HUMPHREYS",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_peyton-wall",
+      "name_en": "Peyton WALL",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_piers-von-dadelszen",
+      "name_en": "Piers VON DADELSZEN",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_ramiro-gurovich",
+      "name_en": "Ramiro GUROVICH",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_reece-botha",
+      "name_en": "Reece BOTHA",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_remy-thomson",
+      "name_en": "Rémy THOMSON",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_reuben-palmer",
+      "name_en": "Reuben PALMER",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_rhyno-herbst",
+      "name_en": "Rhyno HERBST",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_rick-rose",
+      "name_en": "Rick ROSE",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_riekert-hattingh",
+      "name_en": "Riekert HATTINGH",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_rob-harley",
+      "name_en": "Rob HARLEY",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_ronan-murphy",
+      "name_en": "Ronan MURPHY",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_rory-van-vugt",
+      "name_en": "Rory VAN VUGT",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_ross-depperschmidt",
+      "name_en": "Ross DEPPERSCHMIDT",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_ruben-de-haas",
+      "name_en": "Ruben DE HAAS",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_rufus-mclean",
+      "name_en": "Rufus MCLEAN",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_ryan-james",
+      "name_en": "Ryan JAMES",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_sam-golla",
+      "name_en": "Sam GOLLA",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_santiago-videla",
+      "name_en": "Santiago VIDELA",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_sean-mcnulty",
+      "name_en": "Sean MCNULTY",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_semi-kunatani",
+      "name_en": "Semi KUNATANI",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_seth-smith",
+      "name_en": "Seth SMITH",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_sione-tupou-",
+      "name_en": "Sione TUPOU",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_steffan-crimp",
+      "name_en": "Steffan CRIMP",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_tas-smith",
+      "name_en": "Tas SMITH",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_tavite-lopeti",
+      "name_en": "Tavite LOPETI",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_tayne-hemopo",
+      "name_en": "Tayne HEMOPO",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_tesimoni-tonga-uiha",
+      "name_en": "Moni TONGA'UIHA",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_tevita-mapa",
+      "name_en": "Tevita MAPA",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_tevita-naqali",
+      "name_en": "Tevita NAQALI",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_tevita-sole",
+      "name_en": "Tevita SOLE",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_theo-fourie",
+      "name_en": "Theo FOURIE",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_tia-i-vavao",
+      "name_en": "Tia'i VAVAO",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_tiaan-loots",
+      "name_en": "Tiaan LOOTS",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_tom-pittman",
+      "name_en": "Tom PITTMAN",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_tomas-bekerman",
+      "name_en": "Tomás BEKERMAN",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_tomas-casares",
+      "name_en": "Tomás CASARES",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_tonga-kofe",
+      "name_en": "Tonga KOFE",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_wayne-van-der-bank",
+      "name_en": "Wayne VAN DER BANK",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_will-leonard",
+      "name_en": "Will LEONARD",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_will-sherman",
+      "name_en": "Will SHERMAN",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_wilton-rebolo",
+      "name_en": "Wilton REBOLO",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_zion-going",
+      "name_en": "Zion GOING",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    }
+  ],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [],
+  "pending_departures": [],
+  "newly_finished_rounds": []
+}

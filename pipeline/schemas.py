@@ -18,7 +18,7 @@ from pydantic import BaseModel, ConfigDict, Field, field_validator, model_valida
 # リーグキー（01）。チーム所属必須のリーグと、team_id=null を許可するリーグ（03）
 TEAM_LEAGUES = {
     "league-one-d1", "league-one-d2", "league-one-d3",
-    "top14", "super-rugby", "urc", "premiership", "nrl",
+    "top14", "super-rugby", "urc", "premiership", "nrl", "mlr",
 }
 NO_TEAM_LEAGUES = {"national", "sevens-national", "age-grade", "university", "highschool"}
 LEAGUE_KEYS = TEAM_LEAGUES | NO_TEAM_LEAGUES
