@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-21T20:07:36+09:00",
+  "checked_at": "2026-07-22T14:17:10+09:00",
   "teams": [],
   "sources": [
     {
@@ -19,7 +19,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54077",
+          "title": "SMBCカップ 第23回全国小学生タグラグビー大会開催のお知らせ 2026.7.22 （水） 小学生 タグラグビー 大会 普及育成",
+          "date": "2026-07-22",
+          "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54043",
+          "title": "（7/21更新）令和8年度第13回全国高等学校7人制ラグビーフットボール大会 出場チームおよび組み合わせ決定のお知らせ 2026.7.21 （火） セブンズ 高校 日本協会 全国高等学校7人制ラグビーフットボール大会",
+          "date": "2026-07-21",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {

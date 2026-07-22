@@ -1,7 +1,13 @@
 {
-  "checked_at": "2026-07-21T20:07:36+09:00",
+  "checked_at": "2026-07-22T14:17:10+09:00",
   "url": "https://www.rugby-japan.jp/news/",
   "items": [
+    {
+      "url": "https://www.rugby-japan.jp/news/54077",
+      "title": "SMBCカップ 第23回全国小学生タグラグビー大会開催のお知らせ 2026.7.22 （水） 小学生 タグラグビー 大会 普及育成",
+      "date": "2026-07-22",
+      "category": null
+    },
     {
       "url": "https://www.rugby-japan.jp/news/54082",
       "title": "太陽生命ウィメンズセブンズシリーズ2026 第3戦北九州大会 チャレンジチーム福岡合宿および参加メンバーのお知らせ 2026.7.21 （火） アカデミー・強化育成 女子 セブンズ 大会・試合",
@@ -16,6 +22,12 @@
       "url": "https://www.rugby-japan.jp/news/54079",
       "title": "（7/21更新）男子日本代表 網走合宿実施のお知らせ 2026.7.21 （火） 15人制男子日本代表 WBB",
       "date": "2026-07-21"
+    },
+    {
+      "url": "https://www.rugby-japan.jp/news/54043",
+      "title": "（7/21更新）令和8年度第13回全国高等学校7人制ラグビーフットボール大会 出場チームおよび組み合わせ決定のお知らせ 2026.7.21 （火） セブンズ 高校 日本協会 全国高等学校7人制ラグビーフットボール大会",
+      "date": "2026-07-21",
+      "category": null
     },
     {
       "url": "https://www.rugby-japan.jp/news/53985",
@@ -41,16 +53,6 @@
       "url": "https://www.rugby-japan.jp/news/54072",
       "title": "「ネーションズチャンピオンシップ2026」日本代表 対 フランス代表 試合結果のお知らせ 2026.7.18 （土） 15人制男子日本代表 WBB ネーションズチャンピオンシップ 日本代表戦",
       "date": "2026-07-18"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54078",
-      "title": "「JAPAN BASE SEVENS 2026」開催のお知らせ 2026.7.17 （金） セブンズ JAPANBASE",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54076",
-      "title": "2026年度 第2回TIDユースキャンプ（Bigman & Fastman Camp） スケジュールおよび参加メンバーのお知らせ 2026.7.17 （金） 高校日本代表 高校 アカデミー・強化育成",
-      "date": "2026-07-17"
     }
   ]
 }
