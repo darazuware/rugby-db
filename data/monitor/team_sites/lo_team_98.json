@@ -3,29 +3,17 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-07-21T19:04:07+09:00",
+  "checked_at": "2026-07-22T15:38:23+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "eaf8bc55e47a35b2"
+      "hash": "f0fe842f79baccd1"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "a62ce5eb035f20a8"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news?category=1",
-      "hash": "c94b6489e15e3007"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news?category=5",
-      "hash": "ee6be30c8ab243ca"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news?category=3",
-      "hash": "2941b5d150a0b311"
+      "hash": "faa712fe4863654c"
     }
   ],
   "items": [
@@ -135,156 +123,6 @@
       "date": "2026-06-26"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3110",
-      "title": "2026.6.14[SUN] SCHOOL ＜全力！ラグビースクール体験会＞を6/27(土)に開催",
-      "date": "2026-06-14"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3117",
-      "title": "2026.6.13[SAT] TEAM 大戸 裕矢氏がアシスタントコーチに就任",
-      "date": "2026-06-13"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3094",
-      "title": "2026.6.13[SAT] FAN CLUB ＜レヴニスタアワード＞MIP of the Yearは北村 瞬太郎選手",
-      "date": "2026-06-13"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3093",
-      "title": "2026.6.13[SAT] FAN CLUB ＜レヴニスタアワード＞TRY of the Yearが決定",
-      "date": "2026-06-13"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3113",
-      "title": "2026.6.9[TUE] TEAM 本山 佳龍選手がWorld Rugby Junior World Championship 2026へ",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3096",
-      "title": "2026.6.1[MON] SDGs リバーフレンドシップ団体と連携した河川清掃の参加者募集",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3092",
-      "title": "2026.5.29[FRI] EVENT ＜レヴニスタアワード＞MIP of the Yearの投票をスタート",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3078",
-      "title": "2026.5.29[FRI] EVENT ＜レヴニスタアワード＞TRY of the Yearがスタート",
-      "date": "2026-05-29"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3102",
-      "title": "2026.5.28[THU] TEAM シーズンアワード2025-26が決定",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3091",
-      "title": "2026.5.22[FRI] SDGs 2025-26シーズンの思い出投稿でSCRUM Actionアプリポイントをゲット！",
-      "date": "2026-05-22"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3086",
-      "title": "2026.5.18[MON] EVENT SCRUM Action App限定のサイン入りグッズオンライン抽選会を実施！",
-      "date": "2026-05-18"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3089",
-      "title": "2026.5.16[SAT] TEAM 8選手がJAPAN XVの大分合宿に参加",
-      "date": "2026-05-16"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3087",
-      "title": "2026.5.16[SAT] TEAM 退団選手およびスタッフのお知らせ",
-      "date": "2026-05-16"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/2889",
-      "title": "2026.5.14[THU] TEAM 本山 佳龍選手がU20日本代表候補に選出",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3081",
-      "title": "2026.5.12[TUE] EVENT 5/17(日)にCLUB REVS有料会員限定ファンイベントを実施",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3079",
-      "title": "2026.5.10[SUN] TEAM 代表取締役社長 山谷拓志より2025-26シーズンを終えてのメッセージ",
-      "date": "2026-05-10"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3080",
-      "title": "2026.5.7[THU] TICKET 5/9(土)横浜キヤノンイーグルス戦の当日券販売について",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3074",
-      "title": "2026.5.5[TUE] TEAM 大戸 裕矢選手 現役引退のお知らせ",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3067",
-      "title": "2026.5.3[SUN] EVENT 5/9(土)も自治体PRブースが出店！ご当地マスコットも来場！",
-      "date": "2026-05-03"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3073",
-      "title": "2026.5.1[FRI] EVENT SCRUM Actionアプリのポイントラリーを5/2(土)から実施",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3069",
-      "title": "2026.4.30[THU] EVENT 御朱印をモチーフにした来場記念［御闘印］をプレゼント",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3062",
-      "title": "2026.4.27[MON] SDGs 【国内プロスポーツクラブ初】スタジアム最寄駅からスタジアムへグリーンスローモビリティを運行",
-      "date": "2026-04-27"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3068",
-      "title": "2026.4.26[SUN] SDGs 5/9(土)の試合後にSCRUM Action App利用者限定のグッズ抽選会",
-      "date": "2026-04-26"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3064",
-      "title": "2026.4.26[SUN] EVENT 【母の日ワークショップ】5/9(土)はドライフラワーでマイリウムをつくろう！",
-      "date": "2026-04-26"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3016",
-      "title": "2026.4.23[THU] SDGs リーグ最終戦も＜フードドライブ supported by 古山精機＞でSCRUM Action！",
-      "date": "2026-04-23"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3056",
-      "title": "2026.4.21[TUE] FAN CLUB 5/9(土)のCLUB REVS会員限定イベントの参加者募集",
-      "date": "2026-04-21"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3032",
-      "title": "2026.4.21[TUE] EVENT うなぎパイでお馴染みの春華堂のキッチンカーが5/9(土)に出店！",
-      "date": "2026-04-21"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3031",
-      "title": "2026.4.20[MON] EVENT 5/9(土)はよしもとお笑い芸人4組によるお笑いライブ！",
-      "date": "2026-04-20"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3057",
-      "title": "2026.4.17[FRI] TICKET 4/18(土)埼玉パナソニックワイルドナイツ戦の当日券販売について",
-      "date": "2026-04-17"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3042",
-      "title": "2026.4.16[THU] EVENT ※6月10日(水)更新※ ≪REVNISTA FESTIVAL 2026 supported by 大興金属≫は6月13日(土)開催",
-      "date": "2026-04-16"
-    },
-    {
       "url": "https://www.shizuoka-bluerevs.com/news/3039",
       "title": "SPONSOR 2026/4/16 ［静岡ブルーレヴズ応援米］が新発売！",
       "date": "2026-04-16"
@@ -295,39 +133,19 @@
       "date": "2026-04-08"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3021",
-      "title": "2026.4.1[WED] TICKET 静岡県内にお住まいの500組1,000名をリーグ最終戦にご招待",
-      "date": "2026-04-01"
-    },
-    {
       "url": "https://www.shizuoka-bluerevs.com/news/3001",
       "title": "FAN CLUB 2026/3/31 ららぽーと磐田＜スポーツ・エンタメパスポート＞",
       "date": "2026-03-31"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3015",
-      "title": "2026.3.27[FRI] TICKET 3/28(土)コベルコ神戸スティーラーズ戦の当日券販売について",
-      "date": "2026-03-27"
+      "url": "https://www.shizuoka-bluerevs.com/news/2986",
+      "title": "OTHERS 2026/3/11 【オフィシャルグッズ統括(マネジャー候補）】募集",
+      "date": "2026-03-11"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/2983",
-      "title": "2026.3.27[FRI] SDGs 【販売終了・完売御礼】カーボン・オフセット付チケットのラストは天竜杉コースター付",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3005",
-      "title": "2026.3.25[WED] TICKET 最終戦は春華堂スペシャルスイーツ付きテーブルシートが登場",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3004",
-      "title": "2026.3.25[WED] TICKET リーグ最終戦は3月30日(月)からチケット先行発売",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3003",
-      "title": "2026.3.21[SAT] TEAM トレーニングマッチの実施について",
-      "date": "2026-03-21"
+      "url": "https://www.shizuoka-bluerevs.com/news/1325",
+      "title": "HOST AREA 2023/11/8 ＜レヴサポ＞加盟店のご紹介",
+      "date": "2023-11-08"
     }
   ]
 }

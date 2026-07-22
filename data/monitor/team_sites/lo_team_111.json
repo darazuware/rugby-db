@@ -3,28 +3,38 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-07-21T19:04:07+09:00",
+  "checked_at": "2026-07-22T15:38:23+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "b729575e3999694f"
+      "hash": "f6d9a0243bda3b22"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "273e53827ccf4153"
+      "hash": "a3517c73eee2cf19"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "468e96662752f1f0"
+      "hash": "ebb4e6a2efa0a8e5"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "0b3dcd7742a52c0e"
+      "hash": "5b5cd013e192a96d"
     }
   ],
   "items": [
+    {
+      "url": "https://blue-sharks.jp/news/2026/07/24996/",
+      "title": "ヤローズタラナキブルズ研修レポート Vol.3 (伊藤潤乃助)",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/07/24990/",
+      "title": "グロスターラグビー研修レポート Vol.2（山田雅也）",
+      "date": "2026-07-24"
+    },
     {
       "url": "https://blue-sharks.jp/news/2026/07/24984/",
       "title": "グロスターラグビー研修レポート Vol.1（奥原尚之）",
@@ -37,12 +47,12 @@
     },
     {
       "url": "https://blue-sharks.jp/news/2026/07/24974/",
-      "title": "ヤローズタラナキブルズ研修レポート Vol.1 (田森海音)",
+      "title": "お知らせ 2026/07/13 ヤローズタラナキブルズ研修レポート Vol.1 (田森海音)",
       "date": "2026-07-24"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/07/24960/",
-      "title": "7月5日 「ラグビー体験教室」開催のご報告",
+      "title": "お知らせ 2026/07/07 7月5日 「ラグビー体験教室」開催のご報告",
       "date": "2026-07-24"
     },
     {
@@ -68,7 +78,7 @@
     {
       "url": "https://blue-sharks.jp/information/",
       "title": "もっと見る",
-      "date": "2026-07-16"
+      "date": "2026-07-22"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/06/24931/",
@@ -96,18 +106,8 @@
       "date": "2026-05-24"
     },
     {
-      "url": "https://blue-sharks.jp/news/2026/05/24794/",
-      "title": "お知らせ 2026/05/15 ◇日本製鉄釜石シーウェイブス戦マッチレポート",
-      "date": "2026-05-24"
-    },
-    {
       "url": "https://blue-sharks.jp/news/2026/05/24774/",
       "title": "お知らせ 2026/05/17 2025-26シーズン退団選手・スタッフのお知らせ",
-      "date": "2026-05-24"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/05/24580/",
-      "title": "お知らせ 2026/05/14 ファン感謝祭2025-26 イベント内容変更のご案内",
       "date": "2026-05-24"
     },
     {

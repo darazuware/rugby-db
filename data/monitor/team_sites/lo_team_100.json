@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-07-21T19:45:52+09:00",
+  "checked_at": "2026-07-22T15:38:23+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "df042252c8e3056b"
+      "hash": "f06d97b14334c394"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "445f4073a8cf8f77"
+      "hash": "3c332788b12edf66"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/team/index_1988.html",
+      "title": "チーム 2026.07.22 株式会社アルマスポーツとのオフィシャルサプライヤー契約締結のお知らせ",
+      "date": "2026-07-22"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_1987.html",
       "title": "チーム 2026.07.21 株式会社ドームとのオフィシャルサプライヤー契約終了のお知らせ",
@@ -59,7 +64,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_1977.html",
-      "title": "ゲーム 2026.07.01 NTTジャパンラグビー リーグワン2026-27 ディビジョン編成および大会日程のお知らせ",
+      "title": "2026.07.01 ニュース NTTジャパンラグビー リーグワン2026-27 ディビジョン編成および大会日程のお知らせ",
       "date": "2026-07-01"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/game/index_1935.html",
       "title": "2026.04.22 ニュース 【メンバー発表】NTTジャパンラグビー リーグワン 2025-26 ディビジョン1 第16節 静岡ブルーレヴズ戦（4月24日）",
       "date": "2026-04-22"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_1933.html",
-      "title": "2026.04.21 ニュース ツイ ヘンドリック選手 現役引退のお知らせ",
-      "date": "2026-04-21"
     }
   ]
 }

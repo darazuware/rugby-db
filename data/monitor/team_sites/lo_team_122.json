@@ -3,28 +3,33 @@
   "league": "league-one-d3",
   "name": "ルリーロ福岡",
   "official_url": "https://leriro-fukuoka.com/",
-  "checked_at": "2026-07-21T19:21:48+09:00",
+  "checked_at": "2026-07-22T15:38:23+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://leriro-fukuoka.com/",
-      "hash": "c63bdf3216ef9c25"
+      "hash": "e21e266016a68381"
     },
     {
       "url": "https://leriro-fukuoka.com/news",
-      "hash": "ec5763d222926053"
+      "hash": "17d456b8f50fdca5"
     }
   ],
   "items": [
     {
-      "url": "https://leriro-fukuoka.com/news-detail?id=264",
-      "title": "『JAPAN BASE SEVENS 2026』に出場します。",
-      "date": "2026-07-17"
+      "url": "https://leriro-fukuoka.com/news-detail?id=254",
+      "title": "7月参加イベントのお知らせ",
+      "date": "2026-07-21"
     },
     {
       "url": "https://leriro-fukuoka.com/news",
       "title": "NEWS一覧",
+      "date": "2026-07-21"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news-detail?id=264",
+      "title": "『JAPAN BASE SEVENS 2026』に出場します。",
       "date": "2026-07-17"
     },
     {
@@ -66,11 +71,6 @@
       "url": "https://leriro-fukuoka.com/news-detail?id=253",
       "title": "退団選手・スタッフのお知らせ(追加）",
       "date": "2026-07-01"
-    },
-    {
-      "url": "https://leriro-fukuoka.com/news-detail?id=256",
-      "title": "公開練習開催のお知らせ",
-      "date": "2026-06-24"
     }
   ]
 }

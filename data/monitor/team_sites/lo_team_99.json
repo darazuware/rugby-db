@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-07-21T19:04:07+09:00",
+  "checked_at": "2026-07-22T15:38:23+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "b717892ff2a269e1"
+      "hash": "daef031bccd4bd97"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "a605acc997b73b64"
+      "hash": "5c694b642e1edb8b"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/818.html",
+      "title": "2026年 7月22日 Day818 『第52回三田納涼カーニバル♪』",
+      "date": "2026-07-22"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2607-1025.html",
       "title": "2026年 7月17日 #1025 中村 亮土 『出られない時期やくすぶっている時期を大事に、自分の準備をしていく』",
@@ -61,11 +66,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2606-1022.html",
       "title": "2026年 6月26日 #1022 中野 幹 『本当に大事なのはラグビーのいちばん基本的なプレー』",
       "date": "2026-06-26"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2606-1021.html",
-      "title": "2026年 6月25日 #1021 小野 晃征 『PROUD TO BE SUNGOLIATH』-3",
-      "date": "2026-06-25"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2526rmmasg.html",
