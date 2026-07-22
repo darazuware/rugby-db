@@ -7,6 +7,13 @@ import PRNotice from "../../components/PRNotice.astro";
 import OverseasTravelButtons from "../../components/OverseasTravelButtons.astro";
 
 const rwc = JSON.parse(fs.readFileSync(new URL("../../../data/manual/rwc2027.json", import.meta.url), "utf-8"));
+// 出場国名（プール表の日本語短縮名）→ 各国ハブページの slug。
+// national_teams_config の name（「◯◯代表」）から「代表」を除いた短縮名で対応づける。
+const nationalTeamsConfig = JSON.parse(fs.readFileSync(new URL("../../../data/national_teams_config.json", import.meta.url), "utf-8"));
+const teamSlugByName: Record<string, string> = {};
+for (const t of nationalTeamsConfig as Array<{ name: string; slug: string }>) {
+  teamSlugByName[t.name.replace(/代表$/, "").trim()] = t.slug;
+}
 
 export const prerender = true;
 
@@ -218,10 +225,21 @@ const jsonLdData = {
                 </div>
                 <div class="space-y-2">
                   {teams.map((team: string) => (
-                    <div class="flex items-center gap-2 text-foreground/80 font-bold text-sm">
-                      <span class="w-1.5 h-1.5 bg-yellow-400 rounded-full"></span>
-                      {team}
-                    </div>
+                    teamSlugByName[team] ? (
+                      <a
+                        href={`/national-teams/${teamSlugByName[team]}/`}
+                        class="flex items-center gap-2 text-foreground/80 hover:text-yellow-400 font-bold text-sm transition-colors group"
+                      >
+                        <span class="w-1.5 h-1.5 bg-yellow-400 rounded-full"></span>
+                        <span class="group-hover:underline">{team}</span>
+                        <span class="text-[10px] opacity-40 group-hover:opacity-100">記事・選手 ›</span>
+                      </a>
+                    ) : (
+                      <div class="flex items-center gap-2 text-foreground/80 font-bold text-sm">
+                        <span class="w-1.5 h-1.5 bg-yellow-400 rounded-full"></span>
+                        {team}
+                      </div>
+                    )
                   ))}
                 </div>
               </div>

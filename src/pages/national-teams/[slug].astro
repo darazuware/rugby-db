@@ -3,6 +3,7 @@ import Layout from "../../layouts/Layout.astro";
 import nationalTeamsConfig from "../../../data/national_teams_config.json";
 import nationalPlayersMap from "../../../data/national_players_map.json";
 import NationalPlayerList from "../../components/NationalPlayerList";
+import { getCollection, type CollectionEntry } from "astro:content";
 
 export const prerender = true;
 
@@ -20,6 +21,28 @@ if (!team) {
 }
 
 const players = (nationalPlayersMap as any)[team.id] || [];
+
+// その国の関連記事（news）。tag か title にチーム名（「代表」を除いた短縮名）を含むものを集める。
+// 未来pubDate・下書きは除外（news 一覧と同じ JST 基準）。
+const nowJst = Date.now() + 9 * 60 * 60 * 1000;
+const countryTag = team.name.replace(/代表$/, "").trim();
+const allNews = await getCollection(
+  "news",
+  (e: CollectionEntry<"news">) => !e.data.draft && e.data.pubDate.valueOf() <= nowJst,
+);
+// タイトルに国名を含む記事＝その国が主題（tag の substring 一致は
+// 「日本代表」タグを他国記事が持つため誤検知するので使わない）。
+// 先頭タグが国名と完全一致する場合も拾う（国別ガイドは先頭タグが国名）。
+const teamArticles = allNews
+  .filter(
+    (e: CollectionEntry<"news">) =>
+      e.data.title.includes(countryTag) ||
+      (e.data.tags ?? [])[0] === countryTag,
+  )
+  .sort(
+    (a: CollectionEntry<"news">, b: CollectionEntry<"news">) =>
+      b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+  );
 
 // ヒーローセクションの背景グラデーション
 const bgGradient = `linear-gradient(135deg, ${team.color} 0%, #111 100%)`;
@@ -50,7 +73,7 @@ const bgGradient = `linear-gradient(135deg, ${team.color} 0%, #111 100%)`;
                 <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-black opacity-75"></span>
                 <span class="relative inline-flex rounded-full h-2 w-2 bg-black"></span>
               </span>
-              Road to 2027 World Cup
+              <a href="/rwc2027/" class="hover:underline">Road to 2027 World Cup ›</a>
             </div>
             <h1 class="text-2xl sm:text-3xl md:text-5xl lg:text-6xl font-black text-white leading-tight tracking-tighter break-words">
               {team.name.toUpperCase()}
@@ -91,24 +114,52 @@ const bgGradient = `linear-gradient(135deg, ${team.color} 0%, #111 100%)`;
                 <div class="text-4xl font-black text-foreground italic">{players.length}<span class="text-sm ml-1 opacity-40">Players</span></div>
               </div>
               <div>
-                <div class="text-[10px] font-black text-foreground/30 uppercase tracking-widest mb-1">Avg Age</div>
+                <div class="text-[10px] font-black text-foreground/30 uppercase tracking-widest mb-1">Most Caps</div>
                 <div class="text-4xl font-black text-foreground italic">
-                  {Math.round(players.reduce((acc: number, p: any) => acc + (p.age || 0), 0) / players.filter((p: any) => p.age).length || 0)}
-                  <span class="text-sm ml-1 opacity-40">Years</span>
+                  {Math.max(0, ...players.map((p: any) => parseInt(p.caps_display || "0", 10) || 0))}
+                  <span class="text-sm ml-1 opacity-40">Caps</span>
                 </div>
               </div>
               <div class="pt-8 mt-8 border-t border-border-dim/10">
                 <p class="text-[11px] font-bold text-foreground/40 leading-relaxed">
-                  ※掲載選手はRUGBY PICKSのデータベースから抽出された代表歴保持者です。2027年W杯の最終選出とは異なる場合があります。
+                  ※現在代表に選ばれている（近年テストマッチに出場した）選手をキャップ数順に掲載しています。2027年ワールドカップ本大会の最終メンバーは未定です。
                 </p>
               </div>
             </div>
           </div>
         </aside>
 
-        {/* 右側：選手一覧（React） */}
-        <div class="lg:w-3/4">
-          <NationalPlayerList client:load initialPlayers={players} teamColor={team.color} textColor={team.text_color || '#fff'} />
+        {/* 右側：記事＋選手一覧 */}
+        <div class="lg:w-3/4 space-y-12">
+          {teamArticles.length > 0 && (
+            <section>
+              <h2 class="text-[12px] font-black text-foreground/40 uppercase tracking-[0.3em] italic mb-6 border-b border-border-dim/10 pb-4">
+                {countryTag}の記事
+              </h2>
+              <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                {teamArticles.map((a) => (
+                  <a
+                    href={`/news/${a.slug}/`}
+                    class="group block bg-card/30 border border-border-dim/50 hover:border-yellow-400/50 rounded-2xl p-5 transition-all hover:-translate-y-1"
+                  >
+                    <div class="text-[10px] font-black text-yellow-400/70 uppercase tracking-widest mb-2">
+                      {a.data.category || "NEWS"}
+                    </div>
+                    <h3 class="text-sm font-black text-foreground group-hover:text-yellow-400 transition-colors leading-snug">
+                      {a.data.title}
+                    </h3>
+                  </a>
+                ))}
+              </div>
+            </section>
+          )}
+
+          <section>
+            <h2 class="text-[12px] font-black text-foreground/40 uppercase tracking-[0.3em] italic mb-6 border-b border-border-dim/10 pb-4">
+              現役の代表選手
+            </h2>
+            <NationalPlayerList client:load initialPlayers={players} teamColor={team.color} textColor={team.text_color || '#fff'} />
+          </section>
         </div>
       </div>
     </div>

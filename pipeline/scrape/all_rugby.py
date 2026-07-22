@@ -552,6 +552,16 @@ def collect_star(tournament: str) -> dict:
     }
 
 
+RWC2027_SLUGS = [
+    # 自動出場（RWC2023 各プール上位3）
+    "new-zealand", "france", "italy", "south-africa", "ireland", "scotland",
+    "wales", "australia", "fiji", "england", "argentina", "japan",
+    # 予選勝ち上がり
+    "georgia", "spain", "portugal", "romania", "hong-kong", "zimbabwe",
+    "uruguay", "chile", "usa", "canada", "tonga", "samoa",
+]
+
+
 def collect_national() -> dict:
     """代表（national.json、02: 日本代表＋直近1年で日本と対戦する国のみ）を収集する。
 
@@ -570,6 +580,11 @@ def collect_national() -> dict:
 
     slugs: list[str] = ["japan"]
     for s in sched.get("opponent_slugs", []):
+        if s not in slugs:
+            slugs.append(s)
+    # RWC2027 出場24カ国は常時収集する（サイトが RWC2027 全チームを扱うため）。
+    # all.rugby の国 slug。取得失敗した slug は下のループで warn+skip される。
+    for s in RWC2027_SLUGS:
         if s not in slugs:
             slugs.append(s)
     if _MAX_TEAMS:

@@ -1,218 +1,218 @@
 [
-    {
-        "id": "japan",
-        "name": "日本代表",
-        "en_name": "Japan Brave Blossoms",
-        "flag": "🇯🇵",
-        "color": "#e60012",
-        "text_color": "#ffffff",
-        "slug": "japan"
-    },
-    {
-        "id": "new-zealand",
-        "name": "ニュージーランド代表",
-        "en_name": "All Blacks",
-        "flag": "🇳🇿",
-        "color": "#000000",
-        "text_color": "#ffffff",
-        "slug": "new-zealand"
-    },
-    {
-        "id": "south-africa",
-        "name": "南アフリカ代表",
-        "en_name": "Springboks",
-        "flag": "🇿🇦",
-        "color": "#006400",
-        "text_color": "#ffcc00",
-        "slug": "south-africa"
-    },
-    {
-        "id": "france",
-        "name": "フランス代表",
-        "en_name": "Les Bleus",
-        "flag": "🇫🇷",
-        "color": "#002395",
-        "text_color": "#ffffff",
-        "slug": "france"
-    },
-    {
-        "id": "ireland",
-        "name": "アイルランド代表",
-        "en_name": "Ireland",
-        "flag": "🇮🇪",
-        "color": "#009a44",
-        "text_color": "#ffffff",
-        "slug": "ireland"
-    },
-    {
-        "id": "england",
-        "name": "イングランド代表",
-        "en_name": "England",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "color": "#ffffff",
-        "text_color": "#ce1124",
-        "slug": "england"
-    },
-    {
-        "id": "australia",
-        "name": "オーストラリア代表",
-        "en_name": "Wallabies",
-        "flag": "🇦🇺",
-        "color": "#ffcd00",
-        "text_color": "#00643c",
-        "slug": "australia"
-    },
-    {
-        "id": "scotland",
-        "name": "スコットランド代表",
-        "en_name": "Scotland",
-        "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-        "color": "#002b5c",
-        "text_color": "#ffffff",
-        "slug": "scotland"
-    },
-    {
-        "id": "wales",
-        "name": "ウェールズ代表",
-        "en_name": "Wales",
-        "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
-        "color": "#d30731",
-        "text_color": "#ffffff",
-        "slug": "wales"
-    },
-    {
-        "id": "argentina",
-        "name": "アルゼンチン代表",
-        "en_name": "Los Pumas",
-        "flag": "🇦🇷",
-        "color": "#75aadb",
-        "text_color": "#ffffff",
-        "slug": "argentina"
-    },
-    {
-        "id": "fiji",
-        "name": "フィジー代表",
-        "en_name": "Flying Fijians",
-        "flag": "🇫🇯",
-        "color": "#ffffff",
-        "text_color": "#00bce4",
-        "slug": "fiji"
-    },
-    {
-        "id": "italy",
-        "name": "イタリア代表",
-        "en_name": "Azzurri",
-        "flag": "🇮🇹",
-        "color": "#0064aa",
-        "text_color": "#ffffff",
-        "slug": "italy"
-    },
-    {
-        "id": "georgia",
-        "name": "ジョージア代表",
-        "en_name": "The Lelos",
-        "flag": "🇬🇪",
-        "color": "#8b0000",
-        "text_color": "#ffffff",
-        "slug": "georgia"
-    },
-    {
-        "id": "samoa",
-        "name": "サモア代表",
-        "en_name": "Manu Samoa",
-        "flag": "🇼🇸",
-        "color": "#002395",
-        "text_color": "#ffffff",
-        "slug": "samoa"
-    },
-    {
-        "id": "tonga",
-        "name": "トンガ代表",
-        "en_name": "Ikale Tahi",
-        "flag": "🇹🇴",
-        "color": "#c10000",
-        "text_color": "#ffffff",
-        "slug": "tonga"
-    },
-    {
-        "id": "namibia",
-        "name": "ナミビア代表",
-        "en_name": "Welwitschias",
-        "flag": "🇳🇦",
-        "color": "#003580",
-        "text_color": "#ffffff",
-        "slug": "namibia"
-    },
-    {
-        "id": "usa",
-        "name": "アメリカ代表",
-        "en_name": "Eagles",
-        "flag": "🇺🇸",
-        "color": "#002868",
-        "text_color": "#ffffff",
-        "slug": "usa"
-    },
-    {
-        "id": "canada",
-        "name": "カナダ代表",
-        "en_name": "Canada",
-        "flag": "🇨🇦",
-        "color": "#ff0000",
-        "text_color": "#ffffff",
-        "slug": "canada"
-    },
-    {
-        "id": "uruguay",
-        "name": "ウルグアイ代表",
-        "en_name": "Los Teros",
-        "flag": "🇺🇾",
-        "color": "#5bc2e7",
-        "text_color": "#ffffff",
-        "slug": "uruguay"
-    },
-    {
-        "id": "chile",
-        "name": "チリ代表",
-        "en_name": "Los Condores",
-        "flag": "🇨🇱",
-        "color": "#0039a6",
-        "text_color": "#ffffff",
-        "slug": "chile"
-    },
-    {
-        "id": "portugal",
-        "name": "ポルトガル代表",
-        "en_name": "Os Lobos",
-        "flag": "🇵🇹",
-        "color": "#ff0000",
-        "text_color": "#ffffff",
-        "slug": "portugal"
-    },
-    {
-        "id": "spain",
-        "name": "スペイン代表",
-        "en_name": "Los Leones",
-        "flag": "🇪🇸",
-        "color": "#c60b1e",
-        "text_color": "#ffffff",
-        "slug": "spain"
-    },
-    {
-        "id": "hong-kong",
-        "name": "香港代表",
-        "en_name": "Hong Kong China",
-        "flag": "🇭🇰",
-        "color": "#ea171e",
-        "text_color": "#ffffff",
-        "slug": "hong-kong"
-    },
-    {
-        "id": "romania",
-        "name": "ルーマニア代表",
-        "en_name": "The Oaks",
-        "flag": "🇷🇴",
-        "color": "#002b7f",
-        "text_color": "#fcd116",
-        "slug": "romania"
-    }
+  {
+    "id": "japan",
+    "name": "日本代表",
+    "en_name": "Japan Brave Blossoms",
+    "flag": "🇯🇵",
+    "color": "#e60012",
+    "text_color": "#ffffff",
+    "slug": "japan"
+  },
+  {
+    "id": "new-zealand",
+    "name": "ニュージーランド代表",
+    "en_name": "All Blacks",
+    "flag": "🇳🇿",
+    "color": "#000000",
+    "text_color": "#ffffff",
+    "slug": "new-zealand"
+  },
+  {
+    "id": "south-africa",
+    "name": "南アフリカ代表",
+    "en_name": "Springboks",
+    "flag": "🇿🇦",
+    "color": "#006400",
+    "text_color": "#ffcc00",
+    "slug": "south-africa"
+  },
+  {
+    "id": "france",
+    "name": "フランス代表",
+    "en_name": "Les Bleus",
+    "flag": "🇫🇷",
+    "color": "#002395",
+    "text_color": "#ffffff",
+    "slug": "france"
+  },
+  {
+    "id": "ireland",
+    "name": "アイルランド代表",
+    "en_name": "Ireland",
+    "flag": "🇮🇪",
+    "color": "#009a44",
+    "text_color": "#ffffff",
+    "slug": "ireland"
+  },
+  {
+    "id": "england",
+    "name": "イングランド代表",
+    "en_name": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "color": "#ffffff",
+    "text_color": "#ce1124",
+    "slug": "england"
+  },
+  {
+    "id": "australia",
+    "name": "オーストラリア代表",
+    "en_name": "Wallabies",
+    "flag": "🇦🇺",
+    "color": "#ffcd00",
+    "text_color": "#00643c",
+    "slug": "australia"
+  },
+  {
+    "id": "scotland",
+    "name": "スコットランド代表",
+    "en_name": "Scotland",
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "color": "#002b5c",
+    "text_color": "#ffffff",
+    "slug": "scotland"
+  },
+  {
+    "id": "wales",
+    "name": "ウェールズ代表",
+    "en_name": "Wales",
+    "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "color": "#d30731",
+    "text_color": "#ffffff",
+    "slug": "wales"
+  },
+  {
+    "id": "argentina",
+    "name": "アルゼンチン代表",
+    "en_name": "Los Pumas",
+    "flag": "🇦🇷",
+    "color": "#75aadb",
+    "text_color": "#ffffff",
+    "slug": "argentina"
+  },
+  {
+    "id": "fiji",
+    "name": "フィジー代表",
+    "en_name": "Flying Fijians",
+    "flag": "🇫🇯",
+    "color": "#ffffff",
+    "text_color": "#00bce4",
+    "slug": "fiji"
+  },
+  {
+    "id": "italy",
+    "name": "イタリア代表",
+    "en_name": "Azzurri",
+    "flag": "🇮🇹",
+    "color": "#0064aa",
+    "text_color": "#ffffff",
+    "slug": "italy"
+  },
+  {
+    "id": "georgia",
+    "name": "ジョージア代表",
+    "en_name": "The Lelos",
+    "flag": "🇬🇪",
+    "color": "#8b0000",
+    "text_color": "#ffffff",
+    "slug": "georgia"
+  },
+  {
+    "id": "samoa",
+    "name": "サモア代表",
+    "en_name": "Manu Samoa",
+    "flag": "🇼🇸",
+    "color": "#002395",
+    "text_color": "#ffffff",
+    "slug": "samoa"
+  },
+  {
+    "id": "tonga",
+    "name": "トンガ代表",
+    "en_name": "Ikale Tahi",
+    "flag": "🇹🇴",
+    "color": "#c10000",
+    "text_color": "#ffffff",
+    "slug": "tonga"
+  },
+  {
+    "id": "zimbabwe",
+    "name": "ジンバブエ代表",
+    "en_name": "Sables",
+    "flag": "🇿🇼",
+    "color": "#006b3f",
+    "text_color": "#ffce00",
+    "slug": "zimbabwe"
+  },
+  {
+    "id": "usa",
+    "name": "アメリカ代表",
+    "en_name": "Eagles",
+    "flag": "🇺🇸",
+    "color": "#002868",
+    "text_color": "#ffffff",
+    "slug": "usa"
+  },
+  {
+    "id": "canada",
+    "name": "カナダ代表",
+    "en_name": "Canada",
+    "flag": "🇨🇦",
+    "color": "#ff0000",
+    "text_color": "#ffffff",
+    "slug": "canada"
+  },
+  {
+    "id": "uruguay",
+    "name": "ウルグアイ代表",
+    "en_name": "Los Teros",
+    "flag": "🇺🇾",
+    "color": "#5bc2e7",
+    "text_color": "#ffffff",
+    "slug": "uruguay"
+  },
+  {
+    "id": "chile",
+    "name": "チリ代表",
+    "en_name": "Los Condores",
+    "flag": "🇨🇱",
+    "color": "#0039a6",
+    "text_color": "#ffffff",
+    "slug": "chile"
+  },
+  {
+    "id": "portugal",
+    "name": "ポルトガル代表",
+    "en_name": "Os Lobos",
+    "flag": "🇵🇹",
+    "color": "#ff0000",
+    "text_color": "#ffffff",
+    "slug": "portugal"
+  },
+  {
+    "id": "spain",
+    "name": "スペイン代表",
+    "en_name": "Los Leones",
+    "flag": "🇪🇸",
+    "color": "#c60b1e",
+    "text_color": "#ffffff",
+    "slug": "spain"
+  },
+  {
+    "id": "hong-kong",
+    "name": "香港代表",
+    "en_name": "Hong Kong China",
+    "flag": "🇭🇰",
+    "color": "#ea171e",
+    "text_color": "#ffffff",
+    "slug": "hong-kong"
+  },
+  {
+    "id": "romania",
+    "name": "ルーマニア代表",
+    "en_name": "The Oaks",
+    "flag": "🇷🇴",
+    "color": "#002b7f",
+    "text_color": "#fcd116",
+    "slug": "romania"
+  }
 ]

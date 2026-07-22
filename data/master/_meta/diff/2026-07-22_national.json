@@ -1,0 +1,4734 @@
+{
+  "league": "national",
+  "signings": [
+    {
+      "id": "ar_aaron-wainwright",
+      "name_en": "Aaron WAINWRIGHT",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_abel-da-cunha",
+      "name_en": "Abel DA CUNHA",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_abraham-papali-i",
+      "name_en": "Abraham PAPALI'I",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_adam-beard",
+      "name_en": "Adam BEARD",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_adrian-mitu",
+      "name_en": "Adrian MITU",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_adrian-motoc",
+      "name_en": "Adrian MOȚOC",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_afonso-tapadinhas",
+      "name_en": "Afonso TAPADINHAS",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_agustin-moyano",
+      "name_en": "Agustín MOYANO",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_aiden-burnett",
+      "name_en": "Aiden BURNETT",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_aisea-halo",
+      "name_en": "Aisea HALO",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_aj-alatimu",
+      "name_en": "AJ ALATIMU",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_aka-tabutsadze",
+      "name_en": "Aka TABUTSADZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_aki-seiuli",
+      "name_en": "Aki SEIULI",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_alamanda-motuga",
+      "name_en": "Alamanda MOTUGA",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_alberto-carmona",
+      "name_en": "Alberto CARMONA",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_alejandro-laforga",
+      "name_en": "Alejandro LAFORGA",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_aleksandre-kuntelia",
+      "name_en": "Aleksandre KUNTELIA",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_alex-coles",
+      "name_en": "Alex COLES",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_alex-mann",
+      "name_en": "Alex MANN",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_alex-maughan",
+      "name_en": "Alex MAUGHAN",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_alex-mitchell",
+      "name_en": "Alex MITCHELL",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_alex-saleta",
+      "name_en": "Alex SALETA",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_alexander-post",
+      "name_en": "Alex POST",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_alexandru-bucur",
+      "name_en": "Alexandru BUCUR",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_alexandru-savin",
+      "name_en": "Alexandru SAVIN",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_alfonso-escobar",
+      "name_en": "Alfonso ESCOBAR",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_alfonso-vidal",
+      "name_en": "Alfonso VIDAL",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_alfredo-almeida",
+      "name_en": "Alfredo ALMEIDA",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_alin-conache",
+      "name_en": "Alin CONACHE",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_alvar-gimeno",
+      "name_en": "Álvar GIMENO",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_alvaro-garcia",
+      "name_en": "Álvaro GARCIA",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_andre-cunha",
+      "name_en": "André CUNHA",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_andre-esterhuizen",
+      "name_en": "André ESTERHUIZEN",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_andre-hugo-venter",
+      "name_en": "André-Hugo VENTER",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_andrei-mahu",
+      "name_en": "Andreï MAHU",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_andres-vilaseca",
+      "name_en": "Andrés VILASECA",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_andro-dvali",
+      "name_en": "Andro DVALI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_aniol-franch",
+      "name_en": "ANIOL FRANCH",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_anthony-alves",
+      "name_en": "Anthony ALVÈS",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_anton-lienert-brown",
+      "name_en": "Anton LIENERT-BROWN",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_anton-segner",
+      "name_en": "Anton SEGNER",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_antonio-mitrea",
+      "name_en": "Antonio MITREA",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_antonio-prim",
+      "name_en": "António PRIM",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_antonio-suarez",
+      "name_en": "Antonio SUÁREZ",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_anzelo-tuitavuki",
+      "name_en": "Anzelo TUITAVUKI",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_aphelele-fassi",
+      "name_en": "Aphelele FASSI",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_archie-griffin",
+      "name_en": "Archie GRIFFIN",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_ardie-savea",
+      "name_en": "Ardie SAVEA",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_arturo-ten-hoever",
+      "name_en": "Arturo TEN HOEVER",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_asafo-aumua",
+      "name_en": "Asafo AUMUA",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_asenathi-ntlabakanye",
+      "name_en": "Asenathi NTLABAKANYE",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_asher-opoku",
+      "name_en": "Asher OPOKU",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_atila-septar",
+      "name_en": "Atila SEPTAR",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_atunaisa-moli",
+      "name_en": "Atu MOLI",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_atunaisa-sokobale",
+      "name_en": "Atunaisa SOKOBALE",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_augusto-bohme",
+      "name_en": "Augusto BÖHME",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_augusto-villanueva",
+      "name_en": "Augusto VILLANUEVA",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_bachuki-tchumbadze",
+      "name_en": "Bachuki TCHUMBADZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_baltazar-gurruchaga",
+      "name_en": "Baltazar GURRUCHAGA",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_bautista-basso",
+      "name_en": "Bautista BASSO",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_bautista-delguy",
+      "name_en": "Bautista DELGUY",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_bautista-guemes",
+      "name_en": "Bautista GUEMES",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_beauden-barrett",
+      "name_en": "Beauden BARRETT",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_beka-gigashvili",
+      "name_en": "Beka GIGASHVILI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_beka-gorgadze",
+      "name_en": "Beka GORGADZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_beka-saghinadze",
+      "name_en": "Beka SAGINADZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_beka-shvangiradze",
+      "name_en": "Beka SHVANGIRADZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_beltran-ortega",
+      "name_en": "Beltrán ORTEGA",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_ben-axten-burrett",
+      "name_en": "Ben AXTEN-BURRETT",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_ben-carter",
+      "name_en": "Ben CARTER",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_ben-earl",
+      "name_en": "Ben EARL",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_ben-jason-dixon",
+      "name_en": "Ben-Jason DIXON",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_ben-nee-nee",
+      "name_en": "Ben NEE-NEE",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_ben-spencer",
+      "name_en": "Ben SPENCER",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_ben-tameifuna",
+      "name_en": "Ben TAMEIFUNA",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_ben-thomas",
+      "name_en": "Ben THOMAS",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_ben-warren",
+      "name_en": "Ben WARREN",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_benhard-janse-van-rensburg",
+      "name_en": "Benhard JANSE VAN RENSBURG",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_benjamin-bonasso",
+      "name_en": "Ben BONASSO",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_beno--obano-",
+      "name_en": "Beno OBANO",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_bernardo-vazquez",
+      "name_en": "Bernardo VÁZQUEZ",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_bevan-rodd",
+      "name_en": "Bevan RODD",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_billy-proctor",
+      "name_en": "Billy PROCTOR",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_blair-murray",
+      "name_en": "Blair MURRAY",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_boan-venter",
+      "name_en": "Boan VENTER",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_bongi-mbonambi",
+      "name_en": "Bongi MBONAMBI",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_boris-wenger",
+      "name_en": "Boris WENGER",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_bornwell-gwinji",
+      "name_en": "Bornwell GWINJI",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_brandon-harvey",
+      "name_en": "Brandon HARVEY",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_brandon-mudzekenyedzi",
+      "name_en": "Brandon MUDZEKENYEDZI",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_brendon-nell-1995",
+      "name_en": "Brendon NELL",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_brodie-coghlan",
+      "name_en": "Brodie COGHLAN",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_bruce-houston",
+      "name_en": "Bruce HOUSTON",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_bruno-saez",
+      "name_en": "Bruno SÁEZ",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_bryan-chiang",
+      "name_en": "Bryan CHIANG",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_cadan-murley",
+      "name_en": "Cadan MURLEY",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_caleb-clarke",
+      "name_en": "Caleb CLARKE",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_caleb-muntz",
+      "name_en": "Caleb MUNTZ",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_callum-mcfeat-smith",
+      "name_en": "Callum MCFEAT-SMITH",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_callum-sheedy",
+      "name_en": "Callum SHEEDY",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_calum-scott",
+      "name_en": "Calum SCOTT",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_cameron-hanekom",
+      "name_en": "Cameron HANEKOM",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_cameron-roigard",
+      "name_en": "Cam ROIGARD",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_canan-moodie",
+      "name_en": "Canan MOODIE",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_carlos-deus",
+      "name_en": "Carlos DEUS",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_carlu-sadie",
+      "name_en": "Carlü SADIE",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_chandler-cunningham-south",
+      "name_en": "Chandler CUNNINGHAM-SOUTH",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_charlie-abel",
+      "name_en": "Charlie ABEL",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_charlie-ewels",
+      "name_en": "Charlie EWELS",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_cheslin-kolbe",
+      "name_en": "Cheslin KOLBE",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_chris-coleman",
+      "name_en": "Chris COLEMAN",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_christian-lio-willie",
+      "name_en": "Christian LIO-WILLIE",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_christian-poidevin",
+      "name_en": "Christian POIDEVIN",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_christopher-hilsenbeck",
+      "name_en": "Christopher HILSENBECK",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_clemente-armstrong",
+      "name_en": "Clemente ARMSTRONG",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_clemente-saavedra",
+      "name_en": "Clemente SAAVEDRA",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_cleopas-kundiona",
+      "name_en": "Cleopas KUNDIONA",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_cobus-reinach",
+      "name_en": "Cobus REINACH",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_cobus-wiese",
+      "name_en": "Cobus WIESE",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_codie-taylor",
+      "name_en": "Codie TAYLOR",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_cody-thomas",
+      "name_en": "Cody THOMAS",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_conner-mooneyham",
+      "name_en": "Conner MOONEYHAM",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_connor-tupai",
+      "name_en": "Connor TUPAI",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_cortez-ratima",
+      "name_en": "Cortez RATIMA",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_cory-gilliland-daniel",
+      "name_en": "Cory GILLILAND-DANIEL",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_cosmin-manole",
+      "name_en": "Cosmin MANOLE",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_cristi-boboc",
+      "name_en": "Cristi BOBOC",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_cristian-chirica",
+      "name_en": "Cristian CHIRICA",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_cristobal-game",
+      "name_en": "Cristóbal GAME",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_dachi-papunashvili",
+      "name_en": "Dachi PAPUNASHVILI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_dafydd-jenkins",
+      "name_en": "Dafydd JENKINS",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_damian-bonaparte",
+      "name_en": "Damian BONAPARTE",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_damian-de-allende",
+      "name_en": "Damian DE ALLENDE",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_damian-mckenzie",
+      "name_en": "Damian MCKENZIE",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_damian-willemse",
+      "name_en": "Damian WILLEMSE",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_dan-cooke",
+      "name_en": "Dan COOKE",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_dan-edwards",
+      "name_en": "Dan EDWARDS",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_dana-fourie",
+      "name_en": "Dana FOURIE",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_daniel-plai",
+      "name_en": "Daniel PLAI",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_danny-southworth",
+      "name_en": "Danny SOUTHWORTH",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_danny-toala",
+      "name_en": "Danny TOALA",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_danuț-jipa",
+      "name_en": "Dănuț JIPA",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_dato-abdushelishvili",
+      "name_en": "Dato ABDUSHELISHVILI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_david-costa",
+      "name_en": "David COSTA",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_david-wallis-de-carvalho",
+      "name_en": "David WALLIS",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_davit-lagvilava",
+      "name_en": "Davit LAGVILAVA",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_davit-niniashvili",
+      "name_en": "Davit NINIASHVILI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_demur-epremidze",
+      "name_en": "Demur EPREMIDZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_demur-tapladze",
+      "name_en": "Demuri TAPLADZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_dewi-lake",
+      "name_en": "Dewi LAKE",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_diego-escobar",
+      "name_en": "Diego ESCOBAR",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_diego-gonzalez",
+      "name_en": "Diego GONZÁLEZ",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_diego-pinheiro-ruiz",
+      "name_en": "Diego PINHEIRO RUIZ",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_dillon-lewis",
+      "name_en": "Dillon LEWIS",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_diogo-hasse-ferreira",
+      "name_en": "Diogo Hasse FERREIRA",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_diogo-rodrigues",
+      "name_en": "Diogo RODRIGUES",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_dion-khumalo",
+      "name_en": "Dion KHUMALO",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_domingo-saavedra",
+      "name_en": "Domingo SAAVEDRA",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_domingos-cabral",
+      "name_en": "Domingos CABRAL",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_dominic-besag",
+      "name_en": "Dominic BESAG",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_dragos-ser",
+      "name_en": "Dragoș SER",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_du-plessis-kirifi",
+      "name_en": "Du'Plessis KIRIFI",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_duarte-nunes",
+      "name_en": "Duarte NUNES",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_duarte-torgal",
+      "name_en": "Duarte TORGAL",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_duncan-paia-aua",
+      "name_en": "Duncan PAIA'AUA",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_dylan-mccann",
+      "name_en": "Dylan MCCANN",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_dylan-schwartz",
+      "name_en": "Dylan SCHWARTZ",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_dylan-utete",
+      "name_en": "Dylan UTETE",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_eben-etzebeth",
+      "name_en": "Eben ETZEBETH",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_eddie-james",
+      "name_en": "Eddie JAMES",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_eduard-cioroaba",
+      "name_en": "Eduard CIOROABĂ",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_edward-sigauke",
+      "name_en": "Edward SIGAUKE",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_edwill-van-der-merwe",
+      "name_en": "Edwill VAN DER MERWE",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_efrain-elias",
+      "name_en": "Efraín ELÍAS",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_ekain-imaz",
+      "name_en": "Ekain IMAZ",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_elia-canakaivata",
+      "name_en": "Elia CANAKAIVATA",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_elisapeta-alofipo",
+      "name_en": "Elisapeta ALOFIPO",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_elliott-daly",
+      "name_en": "Elliot DALY",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_ellis-genge",
+      "name_en": "Ellis GENGE",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_ellis-mee",
+      "name_en": "Ellis MEE",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_elrigh-louw",
+      "name_en": "Elrigh LOUW",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_embrose-papier",
+      "name_en": "Embrose PAPIER",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_emilio-shea",
+      "name_en": "Emilio SHEA",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_emmanuel-iyogun",
+      "name_en": "Emmanuel IYOGUN",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_ereatara-enari",
+      "name_en": "Ere ENARI",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_eric-chui-wai-lap",
+      "name_en": "Eric Chui WAI LAP",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_erich-storti",
+      "name_en": "Erich STORTI",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_ernesto-tchimino",
+      "name_en": "Ernesto TCHIMINO",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_eroni-mawi",
+      "name_en": "Eroni MAWI",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_ethan-de-groot",
+      "name_en": "Ethan DE GROOT",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_ethan-hooker",
+      "name_en": "Ethan HOOKER",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_ethan-mcveigh",
+      "name_en": "Ethan MCVEIGH",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_etienne-terblanche",
+      "name_en": "Étienne TERBLANCHE",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_evan-roos",
+      "name_en": "Evan ROOS",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_ezekiel-lindenmuth",
+      "name_en": "Ezekiel LINDENMUTH",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_fabian-holland",
+      "name_en": "Fabian HOLLAND",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_faf-de-klerk",
+      "name_en": "Faf DE KLERK",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_faizal-solomona",
+      "name_en": "Faizal SOLOMONA",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_faletoi-peni",
+      "name_en": "Faletoi PENI",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_farai-mudariki",
+      "name_en": "Farai MUDARIKI",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_fatongia-paea",
+      "name_en": "Fatongia PAEA",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_faustino-sanchez-valarolo",
+      "name_en": "Faustino SÁNCHEZ VALAROLO",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_federico-kennedy",
+      "name_en": "Federico KENNEDY",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_fehi-fineanganofo",
+      "name_en": "Fehi FINEANGANOFO",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_felipe-aliaga",
+      "name_en": "Felipe ALIAGA",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_felipe-arcos-perez",
+      "name_en": "Felipe ARCOS PEREZ",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_felipe-etcheverry",
+      "name_en": "Felipe ETCHEVERRY",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_fin-baxter",
+      "name_en": "Fin BAXTER",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_fin-smith",
+      "name_en": "Fin SMITH",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_fine-inisi",
+      "name_en": "Fine INISI",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_finlay-christie",
+      "name_en": "Finlay CHRISTIE",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_fletcher-newell",
+      "name_en": "Fletcher NEWELL",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_fonovai-tangimana",
+      "name_en": "Fonovai TANGIMANA",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_fotu-lokotui",
+      "name_en": "Fotu LOKOTUI",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_francisco-almeida",
+      "name_en": "Francisco ALMEIDA",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_francisco-coria-marchetti",
+      "name_en": "Francisco CORIA MARCHETTI",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_francisco-gonzalez-capdevila",
+      "name_en": "Francisco GONZALEZ CAPDEVILA",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_francisco-landauer",
+      "name_en": "Francisco LANDAUER",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_francisco-suarez",
+      "name_en": "Francisco SUÁREZ",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_franco-molina",
+      "name_en": "Franco MOLINA",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_franco-mostert",
+      "name_en": "Franco MOSTERT",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_franco-scaldaferri",
+      "name_en": "Franco SCALDAFERRI",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_frank-lomani",
+      "name_en": "Frank LOMANI",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_fraser-dingwall",
+      "name_en": "Fraser DINGWALL",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_freddie-steward",
+      "name_en": "Freddie STEWARD",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_freddie-thomas",
+      "name_en": "Freddie THOMAS",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_gabriel-hamer-webb",
+      "name_en": "Gabe HAMER-WEBB",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_gabriel-pop",
+      "name_en": "Gabriel POP",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_gabriel-rupanu",
+      "name_en": "Gabriel RUPANU",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_gabriel-velez",
+      "name_en": "Gabriel VÉLEZ",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_gareth-thomas-1993",
+      "name_en": "Gareth THOMAS",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_gary-porter",
+      "name_en": "Gary PORTER",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_gauthier-minguillon",
+      "name_en": "Gauthier MINGUILLON",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_gela-aprasidze",
+      "name_en": "Gela APRASIDZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_george-bell",
+      "name_en": "George BELL",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_george-bower",
+      "name_en": "George BOWER",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_george-ford",
+      "name_en": "George FORD",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_george-furbank",
+      "name_en": "George FURBANK",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_george-kloska",
+      "name_en": "George KLOSKA",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_george-martin",
+      "name_en": "George MARTIN",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_georges-shvelidze",
+      "name_en": "Georges SHVELIDZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_gerhard-steenekamp",
+      "name_en": "Gerhard STEENEKAMP",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_german-kessler",
+      "name_en": "Germán KESSLER",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_german-kigel",
+      "name_en": "Germán KIGEL",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_geronimo-prisciantelli",
+      "name_en": "Geronimo PRISCIANTELLI",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_gheorghe-gajion",
+      "name_en": "Gheorghe GAJION",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_giorgi-akhaladze",
+      "name_en": "Giorgi AKHALADZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_giorgi-javakhia",
+      "name_en": "Giorgi JAVAKHIA",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_giorgi-kveseladze",
+      "name_en": "Giorgi KVESELADZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_giorgi-mamaiashvili",
+      "name_en": "Giorgi MAMAIASHVILI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_giorgi-melikidze",
+      "name_en": "Giorgi MELIKIDZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_giorgi-pertaia",
+      "name_en": "Giorgi PERTAIA",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_giorgi-spanderashvili",
+      "name_en": "Giorgi SPANDERASHVILI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_giorgi-tetrashvili",
+      "name_en": "Giorgi TETRASHVILI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_giorgi-tsutskiridze",
+      "name_en": "Giorgi TSUTSKIRIDZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_godfrey-muzanargwo",
+      "name_en": "Godfrey MUZANARGWO",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_gonzalo-garcia-1999",
+      "name_en": "Gonzalo GARCIA",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_gonzalo-lopez",
+      "name_en": "Gonzalo LOPEZ BONTEMPO",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_gonzalo-vinuesa",
+      "name_en": "Gonzalo VINUESA",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_grant-williams",
+      "name_en": "Grant WILLIAMS",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_gregor-mcneish",
+      "name_en": "Gregor MCNEISH",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_guido-petti",
+      "name_en": "Guido PETTI",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_guido-reyes-rendon",
+      "name_en": "Guido REYES",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_guilherme-costa",
+      "name_en": "Guilherme COSTA",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_guilherme-vasconcelos",
+      "name_en": "Guilherme VASCONCELOS",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_guy-pepper",
+      "name_en": "Guy PEPPER",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_guy-spanton",
+      "name_en": "Guy SPANTON",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_haereiti-hetet",
+      "name_en": "Haereiti HETET",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_handre-pollard",
+      "name_en": "Handré POLLARD",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_harison-mataele",
+      "name_en": "Harison MATAELE",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_harri-deaves-small",
+      "name_en": "Harri DEAVES-SMALL",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_harrison-keddie",
+      "name_en": "Harri KEDDIE",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_harry-baron",
+      "name_en": "Harry BARON",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_harry-sayers",
+      "name_en": "Harry SAYERS",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_henry-arundell",
+      "name_en": "Henry ARUNDELL",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_henry-pollock",
+      "name_en": "Henry POLLOCK",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_henry-slade",
+      "name_en": "Henry SLADE",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_herschel-jantjies",
+      "name_en": "Herschel JANTJIES",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_hilton-mudariki",
+      "name_en": "Hilton MUDARIKI",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_hinckley-vaovasa",
+      "name_en": "Hinckley VAOVASA",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_hugo-aubry",
+      "name_en": "Hugo AUBRY",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_hugo-camacho",
+      "name_en": "Hugo CAMACHO",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_hugo-gonzalez",
+      "name_en": "Hugo GONZÁLEZ",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_hugo-pirlet",
+      "name_en": "Hugo PIRLET",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_iacopo-bianchi",
+      "name_en": "Iacopo BIANCHI",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_iakopo-petelo-mapu",
+      "name_en": "Iakopo MAPU",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_ian-prior",
+      "name_en": "Ian PRIOR",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_icaro-amarillo",
+      "name_en": "Ícaro AMARILLO",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_ignacio-alvarez",
+      "name_en": "Ignacio ALVAREZ",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_ignacio-dotti",
+      "name_en": "Ignacio DOTTI",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_ignacio-mendy",
+      "name_en": "Ignacio MENDY",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_ignacio-peculo",
+      "name_en": "Ignacio PÉCULO",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_ignacio-pineiro",
+      "name_en": "Ignacio PIÑEIRO",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_ignacio-rodriguez",
+      "name_en": "Ignacio RODRIGUEZ",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_ignacio-ruiz",
+      "name_en": "Ignacio RUIZ",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_iker-aduriz",
+      "name_en": "Iker ADURIZ",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_ilia-spanderashvili",
+      "name_en": "Ilia SPANDERASHVILI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_iliesa-tiqe",
+      "name_en": "Iliesa TIQE",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_imanol-urraza",
+      "name_en": "Imanol URRAZA",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_immanuel-feyi-waboso",
+      "name_en": "Immanuel FEYI-WABOSO",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_inaki-ayarza",
+      "name_en": "Iñaki AYARZA",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_inaki-gurruchaga",
+      "name_en": "Iñaki GURRUCHAGA",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_inaki-mateu",
+      "name_en": "Inaki MATEU",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_ioane-iashagashvili",
+      "name_en": "Ioane IASHAGASHVILI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_irakli-aptsiauri",
+      "name_en": "Irakli APTSIAURI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_irakli-kvatadze",
+      "name_en": "Irakli KVATADZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_isaac-campbell-wu",
+      "name_en": "Isaac CAMPBELL-WU",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_isaiah-ravula",
+      "name_en": "Isaiah ARMSTRONG-RAVULA",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_isikeli-rabitu",
+      "name_en": "Isikeli RABITU",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_isoa-nasilasila",
+      "name_en": "Isoa NASILASILA",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_iulian-hartig",
+      "name_en": "Iulian HARTIG",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_jac-morgan",
+      "name_en": "Jac MORGAN",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_jack-bartlett",
+      "name_en": "Jack BARTLETT",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_jack-combes",
+      "name_en": "Jack COMBES",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_jack-iscaro",
+      "name_en": "Jack ISCARO",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_jack-van-poortvliet",
+      "name_en": "Jack VAN POORTVLIET",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_jaco-williams",
+      "name_en": "Jaco WILLIAMS",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_jacob-immelman",
+      "name_en": "Jacob IMMELMAN",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_jacob-umaga",
+      "name_en": "Jacob UMAGA",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_jaime-manteca",
+      "name_en": "Jaime MANTECA",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_james-botham",
+      "name_en": "James BOTHAM",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_james-holmes",
+      "name_en": "James HOLMES",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_james-ratti",
+      "name_en": "James RATTI",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_james-rivers",
+      "name_en": "James RIVERS",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_james-sawyer",
+      "name_en": "James SAWYER",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_jamie-george",
+      "name_en": "Jamie GEORGE",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_jamie-hannah",
+      "name_en": "Jamie HANNAH",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_jan-hendrik-wessels",
+      "name_en": "Jan-Hendrik WESSELS",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_jarred-adams",
+      "name_en": "Jarred ADAMS",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_jarrod-evans",
+      "name_en": "Jarrod EVANS",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_jason-damm",
+      "name_en": "Jason DAMM",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_jason-fraser",
+      "name_en": "Jason FRASER",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_jason-tomane",
+      "name_en": "Jason TOMANE",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_jasper-wiese",
+      "name_en": "Jasper WIESE",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_javier-carrasco",
+      "name_en": "Javier CARRASCO",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_javier-eissmann",
+      "name_en": "Javier EISSMANN",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_jay-tuivaiti",
+      "name_en": "Jay TUIVAITI",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_jean-cotarmanac-h",
+      "name_en": "Jean COTARMANAC'H",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_jean-kleyn",
+      "name_en": "Jean KLEYN",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_jean-pierre-smith-1997",
+      "name_en": "Jean-Pierre SMITH",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_jeffery-toomaga-allen",
+      "name_en": "Jeffery TOOMAGA-ALLEN",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_jeremy-trevithick",
+      "name_en": "Jeremy TREVITHICK",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_jesse-kriel",
+      "name_en": "Jesse KRIEL",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_jimmy-tupou",
+      "name_en": "Jimmy TUPOU",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_jiuta-wainiqolo",
+      "name_en": "Jiuta WAINIQOLO",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_jj-kotze",
+      "name_en": "JJ KOTZÉ",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_joao-granate",
+      "name_en": "João GRANATE",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_joaquin-manuel-dominguez",
+      "name_en": "Joaquin Manuel DOMINGUEZ",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_joaquin-milesi",
+      "name_en": "Joaquin MILESI",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_joaquin-moro",
+      "name_en": "Joaquin MORO",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_joaquin-myszka",
+      "name_en": "Joaquín MYSZKA",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_joaquin-oviedo",
+      "name_en": "Joaquín OVIEDO",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_joaquin-suarez",
+      "name_en": "Joaquín SUÁREZ",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_joe-barker",
+      "name_en": "Joe BARKER",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_joe-hawkins",
+      "name_en": "Joe HAWKINS",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_joe-heyes",
+      "name_en": "Joe HEYES",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_joe-roberts",
+      "name_en": "Joe ROBERTS",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_joel-lam",
+      "name_en": "Joel LAM",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_joel-merkler",
+      "name_en": "Joël MERKLER",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_johan-grobbelaar",
+      "name_en": "Johan GROBBELAAR",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_john-tapueluelu",
+      "name_en": "John TAPUELUELU",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_john-wessel-bell",
+      "name_en": "JW BELL",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_joji-nasova-",
+      "name_en": "Joji NASOVA",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_joji-sikote",
+      "name_en": "Joji SIKOTE",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_jon-zabala",
+      "name_en": "Jon ZABALA",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_jonathan-taumateine",
+      "name_en": "Jonathan TAUMATEINE",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_jondre-williams",
+      "name_en": "Jondre WILLIAMS",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_jordie-barrett",
+      "name_en": "Jordie BARRETT",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_jorge-delgado",
+      "name_en": "Jorge DELGADO",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_jose-madeira",
+      "name_en": "José MADEIRA",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_jose-miguel-contreras",
+      "name_en": "José-Miguel CONTRERAS",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_jose-monteiro",
+      "name_en": "José MONTEIRO",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_jose-ramon-borraz",
+      "name_en": "Pepe BORRAZ",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_josh--adams-",
+      "name_en": "Josh ADAMS",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_josh-lord",
+      "name_en": "Josh LORD",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_josh-macleod",
+      "name_en": "Josh MACLEOD",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_joshua-hrstich",
+      "name_en": "Joshua HRSTICH",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_joshua-moorby",
+      "name_en": "Joshua MOORBY",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_josua-tuisova",
+      "name_en": "Josua TUISOVA",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_juan-cruz-mallia",
+      "name_en": "Juan Cruz MALLÍA",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_juan-cruz-reyes",
+      "name_en": "Juan Cruz REYES",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_juan-gonzalez-2003",
+      "name_en": "Juan GONZÁLEZ",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_juan-manuel-alonso",
+      "name_en": "Juan Manuel ALONSO",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_juan-martin-gonzalez-samso",
+      "name_en": "Juan Martin GONZALEZ SAMSO",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_julian-montoya",
+      "name_en": "Julián MONTOYA",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_julian-roberts",
+      "name_en": "Julian ROBERTS",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_justo-ferrario",
+      "name_en": "Justo FERRARIO",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_justo-piccardo",
+      "name_en": "Justo PICCARDO",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_kakhaber-darbaidze",
+      "name_en": "Kakhaber DARBAIDZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_kalaveti-ravouvou",
+      "name_en": "Kalaveti RAVOUVOU",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_kaleb-geiger",
+      "name_en": "Kaleb GEIGER",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_kane-james",
+      "name_en": "Kane JAMES",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_kapeli-pifeleti-jr",
+      "name_en": "Kapeli PIFELETI JR",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_kavaia-tagivetaua",
+      "name_en": "Kavaia TAGIVETAUA",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_keanan-murray",
+      "name_en": "Keanan MURRAY",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_keegan-joubert",
+      "name_en": "Keegan JOUBERT",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_keelan-chapman",
+      "name_en": "Keelan CHAPMAN",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_kemal-altinok",
+      "name_en": "Kemal ALTINOK",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_kerman-aurrekoetxea",
+      "name_en": "Kerman AURREKOETXEA",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_khutha-mchunu",
+      "name_en": "Khutha MCHUNU",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_kieran-hardy",
+      "name_en": "Kieran HARDY",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_kieron-assiratti",
+      "name_en": "Keiron ASSIRATTI",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_kitione-salawa-jr",
+      "name_en": "Kitione SALAWA JR",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_konstantine-mikautadze",
+      "name_en": "Konstantine MIKAUTADZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_kudakwashe-nyakufaringwa",
+      "name_en": "Kudakwashe NYAKUFARINGWA",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_kudzai-mashawi",
+      "name_en": "Kudzai MASHAWI",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_kurt-lee-arendse",
+      "name_en": "Kurt-Lee ARENDSE",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_kwagga-smith",
+      "name_en": "Kwagga SMITH",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_kyle-sullivan",
+      "name_en": "Kyle SULLIVAN",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_lachlan-doheny",
+      "name_en": "Lachlan DOHENY",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_lado-chachanidze",
+      "name_en": "Lado CHACHANIDZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_lalomilo-lalomilo",
+      "name_en": "Lalomilo LALOMILO",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_lance-williams",
+      "name_en": "Lance WILLIAMS",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_latrell-smiler-ah-kiong",
+      "name_en": "Latrell SMILER AH-KIONG",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_leicester-fainga-anuku",
+      "name_en": "Leicester FAINGA'ANUKU",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_lekima-tagitagivalu",
+      "name_en": "Lekima TAGITAGIVALU",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_leroy-carter",
+      "name_en": "Leroy CARTER",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_levani-botia",
+      "name_en": "Levani BOTIA",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_liam-belcher",
+      "name_en": "Liam BELCHER",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_liam-larkan",
+      "name_en": "Liam LARKAN",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_livai-natave",
+      "name_en": "Livai NATAVE",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_logan-weidner",
+      "name_en": "Logan WEIDNER",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_lolani-faleiva",
+      "name_en": "Lolani FALEIVA",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_lood-de-jager",
+      "name_en": "Lood DE JAGER",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_lotu-inisi",
+      "name_en": "Lotu INISI",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_louie-hennessey",
+      "name_en": "Louie HENNESSEY",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_louis-rees-zammit",
+      "name_en": "Louis REES-ZAMMIT",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_luca-tabarot",
+      "name_en": "Luca TABAROT",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_lucas-berti",
+      "name_en": "Lucas BERTI",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_lucas-bianchi",
+      "name_en": "Lucas BIANCHI",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_lucas-porcelli",
+      "name_en": "Lucas PORCELLI",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_lucien-richardis",
+      "name_en": "Lucien RICHARDIS",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_lucio-luna",
+      "name_en": "Lucio CINTI LUNA",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_luis-lopes",
+      "name_en": "Luís LOPES",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_luka-begic",
+      "name_en": "Luka BEGIC",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_luka-goginava",
+      "name_en": "Luka GOGINAVA",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_luka-ivanishvili",
+      "name_en": "Luka IVANISHVILI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_luka-japaridze",
+      "name_en": "Luka JAPARIDZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_luka-matkava",
+      "name_en": "Luka MATKAVA",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_luka-nioradze",
+      "name_en": "Luka NIORADZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_luka-petriashvili",
+      "name_en": "Luka PETRIASHVILI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_luka-tsirekidze",
+      "name_en": "Luka TSIREKIDZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_luke-carty",
+      "name_en": "Luke CARTY",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_luke-cowan-dickie",
+      "name_en": "Luke COWAN-DICKIE",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_luke-jacobson",
+      "name_en": "Luke JACOBSON",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_luteru-tolai",
+      "name_en": "Luteru TOLAI",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_mahonri-ngakuru",
+      "name_en": "Mahonri NGAKURU",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_makeen-alikhan",
+      "name_en": "Makeen ALIKHAN",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_malcolm-marx",
+      "name_en": "Malcolm MARX",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_maliu-niuafe",
+      "name_en": "Maliu NIUAFE",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_mamuka-mstoiani",
+      "name_en": "Mamuka MSTOIANI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_manaaki-boyle-tiatia",
+      "name_en": "Manaaki BOYLE-TIATIA",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_manex-ariceta",
+      "name_en": "Manex ARICETA",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_manie-libbok",
+      "name_en": "Manie LIBBOK",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_manuel-ardao",
+      "name_en": "Manuel ARDAO",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_manuel-bustamante",
+      "name_en": "Manuel BUSTAMANTE",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_manuel-cardoso-pinto",
+      "name_en": "Manuel CARDOSO PINTO",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_manuel-diana",
+      "name_en": "Manuel DIANA",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_manuel-leindekar",
+      "name_en": "Manuel LEINDEKAR",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_manuel-rosmarino",
+      "name_en": "Manuel ROSMARINO",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_manuel-vareiro",
+      "name_en": "Manuel VAREIRO",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_marcelo-torrealba",
+      "name_en": "Marcelo TORREALBA",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_marco-alvano",
+      "name_en": "Marco ALVANO",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_marco-bortolami",
+      "name_en": "Marco BORTOLAMI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_marco-fepulea-i",
+      "name_en": "Marco FEPULEA'I",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_marco-van-staden",
+      "name_en": "Marco VAN STADEN",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_marcos-kremer",
+      "name_en": "Marcos KREMER",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_marcus-ramage",
+      "name_en": "Marcus RAMAGE",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_marcus-smith",
+      "name_en": "Marcus SMITH",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_mario-pichardie",
+      "name_en": "Mario PICHARDIE",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_marius-antonescu",
+      "name_en": "Marius ANTONESCU",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_marius-simionescu",
+      "name_en": "Marius SIMIONESCU",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_mark-o-keeffe",
+      "name_en": "Mark O'KEEFFE",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_marno-redelinghuys",
+      "name_en": "Marno REDELINGHUYS",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_maro-itoje",
+      "name_en": "Maro ITOJE",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_martim-belo",
+      "name_en": "Martim BELO",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_martim-faro",
+      "name_en": "Martim FARO",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_martin-sigren",
+      "name_en": "Martín SIGREN",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_martiniano-cian",
+      "name_en": "Martiniano CIAN",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_mason-grady",
+      "name_en": "Mason GRADY",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_mason-pedersen",
+      "name_en": "Mason PEDERSEN",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_mateo-carreras",
+      "name_en": "Mateo CARRERAS",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_mateo-perillo",
+      "name_en": "Mateo PERILLO",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_mateo-sanguinetti",
+      "name_en": "Mateo SANGUINETTI",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_mateo-sosa",
+      "name_en": "Mateo SOSA",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_matheo-triki",
+      "name_en": "Mathéo TRIKI",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_matias-alemanno",
+      "name_en": "Matías ALEMANNO",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_matias-dittus",
+      "name_en": "Matias DITTUS",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_matias-garafulic",
+      "name_en": "Matías GARAFULIC",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_matias-moroni",
+      "name_en": "Matías MORONI",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_matt-mcnab",
+      "name_en": "Matt MCNAB",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_matt-worley",
+      "name_en": "Matt WORLEY",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_matteo-avitabile",
+      "name_en": "Matteo AVITABILE",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_matthew-foulds",
+      "name_en": "Matthew FOULDS",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_matthew-mandioma",
+      "name_en": "Matthew MANDIOMA",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_matthew-tweddle",
+      "name_en": "Matthew TWEDDLE",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_max-llewellyn",
+      "name_en": "Max LLEWELLYN",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_max-murphy",
+      "name_en": "Max MURPHY",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_max-ojomoh",
+      "name_en": "Max OJOMOH",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_max-schlesinger",
+      "name_en": "Max SCHLESINGER",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_max-threlkeld",
+      "name_en": "Max THRELKELD",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_maximo-lamelas",
+      "name_en": "Maximo LAMELAS",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_mayco-vivas",
+      "name_en": "Mayco VIVAS",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_melani-nanai",
+      "name_en": "Melani NANAI",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_mesake-doge",
+      "name_en": "Mesake DOGE",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_mesake-vocevoce",
+      "name_en": "Mesake VOCEVOCE",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_michael-alaalatoa",
+      "name_en": "Michael ALAALATOA",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_michael-baska",
+      "name_en": "Michael BASKA",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_michael-curry",
+      "name_en": "Michael CURRY",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_michael-kumbirai",
+      "name_en": "Michael KUMBIRAI",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_michelangelo-sosene-feagai",
+      "name_en": "Mike SOSENE-FEAGAI",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_mihai-graure",
+      "name_en": "Mihai GRAURE",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_mikehil-alania",
+      "name_en": "Mikheil ALANIA",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_mikheil-babunashvili",
+      "name_en": "Mikheil BABUNASHVILI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_mikheili-shioshvili",
+      "name_en": "Mikheili SHIOSHVILI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_mills-sanerivi",
+      "name_en": "Mills SANERIVI",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_miracle-fai-ilagi",
+      "name_en": "Miracle FAI'ILAGI",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_mitch-wilson",
+      "name_en": "Mitch WILSON",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_morgan-morse",
+      "name_en": "Morgan MORSE",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_morne-van-den-berg",
+      "name_en": "Morné VAN DEN BERG",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_motikiai-murray",
+      "name_en": "Motikiai MURRAY",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_murray-brechin",
+      "name_en": "Murray BRECHIN",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_nafi-ma-afu",
+      "name_en": "Nafi MA'AFU",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_nathan-den-hoedt",
+      "name_en": "Nathan DEN HOEDT",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_ng-siu-lung",
+      "name_en": "Ng SIU LUNG",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_nick--tompkins",
+      "name_en": "Nick TOMPKINS",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_nicky-smith",
+      "name_en": "Nicky SMITH",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_nicolas-infer",
+      "name_en": "Nicolás INFER",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_nicolas-martins",
+      "name_en": "Nicolas MARTINS",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_nicolas-onutu",
+      "name_en": "Nicolas ONUTU",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_nicolas-saab",
+      "name_en": "Nicolás SAAB",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_nika-abuladze",
+      "name_en": "Nika ABULADZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_nika-sutidze",
+      "name_en": "Nika SUTIDZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_niko-jones",
+      "name_en": "Niko JONES",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_nikoloz-rekhviashvili",
+      "name_en": "Nikoloz REKHVIASHVILI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_noah-caluori",
+      "name_en": "Noah CALUORI",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_norman-aguayo",
+      "name_en": "Norman AGUAYO",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_ntuthuko-mchunu",
+      "name_en": "Ntuthuko MCHUNU",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_nuno-mascarenhas",
+      "name_en": "Nuno MASCARENHAS",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_nuno-sousa-guedes",
+      "name_en": "Nuno SOUSA GUEDES",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_ollie-chessum",
+      "name_en": "Ollie CHESSUM",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_ollie-lawrence",
+      "name_en": "Ollie LAWRENCE",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_olly-cracknell",
+      "name_en": "Olly CRACKNELL",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_oriol-marsinyac",
+      "name_en": "Oriol MARSINYAC",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_otar-metreveli",
+      "name_en": "Otar METREVELI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_otumaka-mausia",
+      "name_en": "Otumaka MAUSIA",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_otunuku-pauta",
+      "name_en": "Otunuku PAUTA",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_ovidiu-cojocaru",
+      "name_en": "Ovidiu COJOCARU",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_ovidiu-neagu",
+      "name_en": "Ovidiu NEAGU",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_ox-nche",
+      "name_en": "Ox NCHÉ",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_pablo-guirao",
+      "name_en": "Pablo GUIRAO",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_pablo-matera",
+      "name_en": "Pablo MATERA",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_pablo-miejimolle-ligero",
+      "name_en": "Pablo MIEJIMOLLE LIGERO",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_pablo-perez",
+      "name_en": "Pablo PÉREZ",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_paddy-ryan-1998",
+      "name_en": "Paddy RYAN",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_pasilio-tosi",
+      "name_en": "Pasilio TOSI",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_patrick-pellegrini",
+      "name_en": "Pat PELLEGRINI",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_patrick-tuipulotu",
+      "name_en": "Patrick TUIPULOTU",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_pau-aira",
+      "name_en": "Pau AIRA",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_paul-altier",
+      "name_en": "Paul ALTIER",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_paul-de-villiers",
+      "name_en": "Paul DE VILLIERS",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_paul-popoaia",
+      "name_en": "Paul POPOAIA",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_paula-latu",
+      "name_en": "Paula LATU",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_payton-telea-ilalio",
+      "name_en": "Payton TELEA-ILALIO",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_peceli-yato",
+      "name_en": "Peceli YATO",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_pedro-delgado",
+      "name_en": "Pedro DELGADO",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_pedro-ferreira",
+      "name_en": "Pedro FERREIRA",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_pedro-rubiolo",
+      "name_en": "Pedro RUBIOLO",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_pedro-santiago-lopes",
+      "name_en": "Santiago LOPES",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_pedro-vicente",
+      "name_en": "Pedro VICENTE",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_peni-ravai",
+      "name_en": "Peni RAVAI",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_perry-mayo",
+      "name_en": "Perry MAYO",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_peter-lakai",
+      "name_en": "Peter LAKAI",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_peter-umaga-jensen",
+      "name_en": "Peter UMAGA-JENSEN",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_phil-kite",
+      "name_en": "Phil KITÉ",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_philip-baselala",
+      "name_en": "Philip BASELALA",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_pierce-mackinlay-west",
+      "name_en": "Pierce MACKINLAY-WEST",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_pieter-steph-du-toit",
+      "name_en": "Pieter-Steph DU TOIT",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_pita-anae-ah-sue",
+      "name_en": "Pita ANAE AH-SUE",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_pita-gus-sowakula",
+      "name_en": "Pita-Gus SOWAKULA",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_pono-davis",
+      "name_en": "Pono DAVIS",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_quan-horn",
+      "name_en": "Quan HORN",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_quinn-tupaea",
+      "name_en": "Quinn TUPAEA",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_raffaele-costa-storti",
+      "name_en": "Raffaele COSTA STORTI",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_raimundo-martinez",
+      "name_en": "Raimundo MARTÍNEZ",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_raphael-nieto",
+      "name_en": "Raphaël NIETO",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_raul-calzon",
+      "name_en": "Raúl CALZÓN",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_reinaldo-piussi",
+      "name_en": "Reinaldo PIUSSI",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_reuben-morgan-williams",
+      "name_en": "Reuben MORGAN-WILLIAMS",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_rg-snyman",
+      "name_en": "RG SNYMAN",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_rhys-barratt",
+      "name_en": "Rhys BARRATT",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_rhys-carre",
+      "name_en": "Rhys CARRÉ",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_rhys-davies",
+      "name_en": "Rhys DAVIES",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_richie-asiata",
+      "name_en": "Richie ASIATA",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_rieko-ioane",
+      "name_en": "Rieko IOANE",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_riley-norton",
+      "name_en": "Riley NORTON",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_rio-dyer",
+      "name_en": "Rio DYER",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_robert-irimescu",
+      "name_en": "Robert IRIMESCU",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_rodney-iona",
+      "name_en": "Rodney IONA",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_rodrigo-fernandez",
+      "name_en": "Rodrigo FERNÁNDEZ",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_rodrigo-isgro-alastra",
+      "name_en": "Rodrigo ISGRÓ",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_rodrigo-marta",
+      "name_en": "Rodrigo MARTA",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_romani-makhatadze",
+      "name_en": "Romani MAKHATADZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_rory-cinnamond",
+      "name_en": "Rory CINNAMOND",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_ruan-nortje",
+      "name_en": "Ruan NORTJÉ",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_ruben-de-haas",
+      "name_en": "Ruben DE HAAS",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_ruben-love",
+      "name_en": "Ruben LOVE",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_ruben-van-heerden",
+      "name_en": "Ruben VAN HEERDEN",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_rufus-mclean",
+      "name_en": "Rufus MCLEAN",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_ryan-elias",
+      "name_en": "Ryan ELIAS",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_ryan-woodman",
+      "name_en": "Ryan WOODMAN",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_sacha-mngomezulu",
+      "name_en": "Sacha FEINBERG-MNGOMEZULU",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_salesi-rayasi",
+      "name_en": "Salesi RAYASI",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_salvador-lues",
+      "name_en": "Salvador LUES",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_sam-costelow",
+      "name_en": "Sam COSTELOW",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_sam-darry",
+      "name_en": "Sam DARRY",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_sam-moli",
+      "name_en": "Sam MOLI",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_sam-slade",
+      "name_en": "Sam SLADE",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_sam-tuitupou-2005",
+      "name_en": "Sam TUITUPOU",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_sam-underhill",
+      "name_en": "Sam UNDERHILL",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_sam-wye",
+      "name_en": "Sam WYE",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_sama-malolo",
+      "name_en": "Sama MALOLO",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_samisoni-taukei-aho",
+      "name_en": "Samisoni TAUKEI'AHO",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_samu-tawake",
+      "name_en": "Samu TAWAKE",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_samuel-ezeala",
+      "name_en": "Samuel EZEALA",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_samuel-marques",
+      "name_en": "Samuel MARQUÈS",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_samuel-matavesi",
+      "name_en": "Sam MATAVESI",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_sandro-mamamtavrishvili",
+      "name_en": "Sandro MAMAMTAVRISHVILI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_santiago-alvarez",
+      "name_en": "Santiago ALVAREZ",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_santiago-cagnone",
+      "name_en": "Santiago CAGNONE",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_santiago-carreras",
+      "name_en": "Santiago CARRERAS",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_santiago-chocobares",
+      "name_en": "Santiago CHOCOBARES",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_santiago-civetta",
+      "name_en": "Santiago CIVETTA",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_santiago-grondona",
+      "name_en": "Santiago GRONDONA",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_santiago-ovejero",
+      "name_en": "Santiago OVEJERO",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_santiago-pedrero",
+      "name_en": "Santiago PEDRERO",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_santiago-valenzuela",
+      "name_en": "Santiago VALENZUELA",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_santiago-videla",
+      "name_en": "Santiago VIDELA",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_scott-barrett",
+      "name_en": "Scott BARRETT",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_scott-sio",
+      "name_en": "Scott SIO",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_sean-mcnulty",
+      "name_en": "Sean MCNULTY",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_seb-atkinson",
+      "name_en": "Seb ATKINSON",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_seb-brien",
+      "name_en": "Seb BRIEN",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_sebastian-bianchi",
+      "name_en": "Juan Sebastián BIANCHI",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_sebastian-perez",
+      "name_en": "Sebastián PÉREZ",
+      "name_ja": null,
+      "team_id": "uruguay"
+    },
+    {
+      "id": "ar_sekope-lopeti-moli",
+      "name_en": "Sekope LOPETI-MOLI",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_selestino-ravutaumada",
+      "name_en": "Selestino RAVUTAUMADA",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_semi-radradra",
+      "name_en": "Semi RADRADRA",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_semisi-paea",
+      "name_en": "Semisi PAEA",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_setareki-turagacoke",
+      "name_en": "Setareki TURAGACOKE",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_setariki-tuicuvu",
+      "name_en": "Setariki TUICUVU",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_sevu-reece",
+      "name_en": "Sevu REECE",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_shalva-aptsiauri",
+      "name_en": "Shalva APTSIAURI",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_shilo-klein",
+      "name_en": "Shilo KLEIN",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_siaosi-nginingini",
+      "name_en": "Siaosi NGININGINI",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_siegfried-fisi-ihoi",
+      "name_en": "Siegfried FISI'IHOI",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_simao-bento",
+      "name_en": "Simão BENTO",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_simba-siraha",
+      "name_en": "Simba SIRAHA",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_simione-kuruvoli",
+      "name_en": "Simi KURUVOLI",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_simon-benitez-cruz",
+      "name_en": "Simón BENÍTEZ-CRUZ",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_simon-parker",
+      "name_en": "Simon PARKER",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_simphiwe-moyo",
+      "name_en": "Vusi MOYO",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_sione-misiloi",
+      "name_en": "Sione MISILOI",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_sione-tui",
+      "name_en": "Sione TUI",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_sione-tuipulotu-12428",
+      "name_en": "Sione TUIPULOTU",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_siosiua-moala",
+      "name_en": "Siosiua MOALA",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_sireli-maqala",
+      "name_en": "Sireli MAQALA",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_sitaleki-timani",
+      "name_en": "Sitaleki TIMANI",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_siua-maile",
+      "name_en": "Siua MAILE",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_siya-kolisi",
+      "name_en": "Siya KOLISI",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_solomone-kata",
+      "name_en": "Solomone KATA",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_stefan-buruiana",
+      "name_en": "Stefan BURUIANA",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_stefan-iancu",
+      "name_en": "Ștefan IANCU",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_sunia-fameitau",
+      "name_en": "Sunia FAMEITAU",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_tadiwanashe-gwashu",
+      "name_en": "Tadiwa GWASHU",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_taeao-pomale-time",
+      "name_en": "Taeao POMALE-TIME",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_taine-plumtree",
+      "name_en": "Taine PLUMTREE",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_takudzwa-musingwini",
+      "name_en": "Takudzwa MUSINGWINI",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_taleni-seu",
+      "name_en": "Taleni SEU",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_tamaiti-williams",
+      "name_en": "Tamaiti WILLIAMS",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_tane-takulua",
+      "name_en": "Tane TAKULUA",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_tani-bay",
+      "name_en": "Tani BAY",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_taniela-filimone",
+      "name_en": "Taniela FILIMONE",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_tapiwa-mafura",
+      "name_en": "Tapiwa MAFURA",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_taunu-u-niulevaea",
+      "name_en": "Taunu'u NIULEVAEA",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_tavite-lopeti",
+      "name_en": "Tavite LOPETI",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_taylor-gontineac",
+      "name_en": "Taylor GONTINEAC",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_teddy-williams",
+      "name_en": "Teddy WILLIAMS",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_tedo-abzhandadze",
+      "name_en": "Tedo ABZHANDADZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_telusa-veainu",
+      "name_en": "Telusa VEAINU",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_temo-mayanavanua",
+      "name_en": "Temo MAYANAVANUA",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_temur-tsulukidze",
+      "name_en": "Temur TSULUKIDZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_tevita-ikanivere",
+      "name_en": "Tevita IKANIVERE",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_tevita-manumua",
+      "name_en": "Tevita MANUMUA",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_tevita-naqali",
+      "name_en": "Tevita NAQALI",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_tevita-ratuva",
+      "name_en": "Tevita RATUVA",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_theo-mcfarland",
+      "name_en": "Theo MCFARLAND",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_theodore-dan",
+      "name_en": "Theo DAN",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_thierry-futeu",
+      "name_en": "Thierry FUTEU",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_thomas-cretu",
+      "name_en": "Thomas CRÉTU",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_thomas-du-toit",
+      "name_en": "Thomas DU TOIT",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_thomas-gallo",
+      "name_en": "Thomas GALLO",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_tietie-tuimauga",
+      "name_en": "Tietie TUIMAUGA",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_tijde-visser",
+      "name_en": "Tijde VISSER",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_tim-hoyt",
+      "name_en": "Tim HOYT",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_tima-fainga-anuku",
+      "name_en": "Tima FAINGA'ANUKU",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_tinotenda-blithe-mavesere",
+      "name_en": "Tino MAVESERE",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_titi-lamositele",
+      "name_en": "Titi LAMOSITELE",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_toby-fricker",
+      "name_en": "Toby FRICKER",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_tom-curry",
+      "name_en": "Tom CURRY",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_tom-francis",
+      "name_en": "Tomas FRANCIS",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_tom-hill",
+      "name_en": "Tom HILL",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_tom-roebuck",
+      "name_en": "Tom ROEBUCK",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_tom-rogers",
+      "name_en": "Tom ROGERS",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_toma-mirzac",
+      "name_en": "Toma MÎRZAC",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_tomas-albornoz",
+      "name_en": "Tomás ALBORNOZ",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_tomas-amado",
+      "name_en": "Tomás AMADO",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_tomas-appleton",
+      "name_en": "Tomás APPLETON",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_tomas-batista",
+      "name_en": "Tomás BATISTA",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_tomas-rapetti",
+      "name_en": "Tomás RAPETTI",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_tomas-salas",
+      "name_en": "Tomás SALAS",
+      "name_ja": null,
+      "team_id": "chile"
+    },
+    {
+      "id": "ar_tommaso-boni",
+      "name_en": "Tommaso BONI",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_tommy-freeman",
+      "name_en": "Tommy FREEMAN",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_tommy-reffell",
+      "name_en": "Tommy REFFELL",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_tomos-williams",
+      "name_en": "Tomos WILLIAMS",
+      "name_ja": null,
+      "team_id": "wales"
+    },
+    {
+      "id": "ar_tonga-kofe",
+      "name_en": "Tonga KOFE",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_toni-maftei",
+      "name_en": "Toni MAFTEÏ",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_tornike-jalagonia",
+      "name_en": "Tornike JALAGONIA",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_tornike-kakhoidze",
+      "name_en": "Tornike KAKHOIDZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_trevor-davison",
+      "name_en": "Trevor DAVISON",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_trevor-gurwe",
+      "name_en": "Trevor GURWE",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_tudor-butnariu",
+      "name_en": "Tudor BUTNARIU",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_tumua-manu",
+      "name_en": "Tumua MANU",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_tuna-tuitama-",
+      "name_en": "Tuna TUITAMA",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_tupou-va-ai",
+      "name_en": "Tupou VAA'I",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_tyler-mcnutt",
+      "name_en": "Tyler MCNUTT",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_tyrel-lomax",
+      "name_en": "Tyrel LOMAX",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_tyrone-gombe",
+      "name_en": "Tyrone GOMBE",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_va-a-apelu-maliko",
+      "name_en": "Va'a APELU MALIKO",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_vakhtang-jincharadze",
+      "name_en": "Vakhtang JINTCHARADZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_vano-karkadze",
+      "name_en": "Vano KARKADZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_vasco-baptista",
+      "name_en": "Vasco BAPTISTA",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_vasil-lobzhanidze",
+      "name_en": "Vasil LOBZHANIDZE",
+      "name_ja": null,
+      "team_id": "georgia"
+    },
+    {
+      "id": "ar_vasile-balan",
+      "name_en": "Vasile BALAN",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_veikoso-poloniati",
+      "name_en": "Veikoso POLONIATI",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_vicente-boronat",
+      "name_en": "Vicente BORONAT",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_vicente-delhoyo",
+      "name_en": "Vicente DEL HOYO",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_victor-mupunga",
+      "name_en": "Victor MUPUNGA",
+      "name_ja": null,
+      "team_id": "zimbabwe"
+    },
+    {
+      "id": "ar_vili-helu",
+      "name_en": "Vili HELU",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_viliame-mata",
+      "name_en": "Viliame MATA",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_vilimoni-botitu",
+      "name_en": "Vilimoni BOTITU",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_vincent-pinto",
+      "name_en": "Vincent PINTO",
+      "name_ja": null,
+      "team_id": "portugal"
+    },
+    {
+      "id": "ar_vincent-tshituka",
+      "name_en": "Vincent TSHITUKA",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_virimi-vakatawa",
+      "name_en": "Virimi VAKATAWA",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_vlad-neculau",
+      "name_en": "Vlad NECULAU",
+      "name_ja": null,
+      "team_id": "romania"
+    },
+    {
+      "id": "ar_vuate-karawalevu",
+      "name_en": "Vuate KARAWALEVU",
+      "name_ja": null,
+      "team_id": "fiji"
+    },
+    {
+      "id": "ar_wallace-sititi",
+      "name_en": "Wallace SITITI",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_warren-solomona",
+      "name_en": "Warren SOLOMONA",
+      "name_ja": null,
+      "team_id": "samoa"
+    },
+    {
+      "id": "ar_wilco-louw",
+      "name_en": "Wilco LOUW",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_will-jordan",
+      "name_en": "Will JORDAN",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_will-stuart",
+      "name_en": "Will STUART",
+      "name_ja": null,
+      "team_id": "england"
+    },
+    {
+      "id": "ar_willy-havili",
+      "name_en": "Willy HAVILI",
+      "name_ja": null,
+      "team_id": "tonga"
+    },
+    {
+      "id": "ar_xavier-numia",
+      "name_en": "Xavier NUMIA",
+      "name_ja": null,
+      "team_id": "new-zealand"
+    },
+    {
+      "id": "ar_yago-fernandez",
+      "name_en": "Yago FERNÁNDEZ",
+      "name_ja": null,
+      "team_id": "spain"
+    },
+    {
+      "id": "ar_zac-cinnamond",
+      "name_en": "Zac CINNAMOND",
+      "name_ja": null,
+      "team_id": "hong-kong"
+    },
+    {
+      "id": "ar_zachary-porthen",
+      "name_en": "Zach PORTHEN",
+      "name_ja": null,
+      "team_id": "south-africa"
+    },
+    {
+      "id": "ar_zuriel-togiatama",
+      "name_en": "Zuriel TOGIATAMA",
+      "name_ja": null,
+      "team_id": "fiji"
+    }
+  ],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [
+    {
+      "id": "ar_aaron-grandidier",
+      "name_en": "Aaron GRANDIDIER",
+      "name_ja": null,
+      "team": "France",
+      "from_count": 2,
+      "to_count": 3
+    },
+    {
+      "id": "ar_alessandro-garbisi",
+      "name_en": "Alessandro GARBISI",
+      "name_ja": null,
+      "team": "Italy",
+      "from_count": 19,
+      "to_count": 22
+    },
+    {
+      "id": "ar_bundee-aki",
+      "name_en": "Bundee AKI",
+      "name_ja": null,
+      "team": "Ireland",
+      "from_count": 82,
+      "to_count": 104
+    },
+    {
+      "id": "ar_carlo-tizzano",
+      "name_en": "Carlo TIZZANO",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 9,
+      "to_count": 16
+    },
+    {
+      "id": "ar_craig-casey",
+      "name_en": "Craig CASEY",
+      "name_ja": null,
+      "team": "Ireland",
+      "from_count": 31,
+      "to_count": 32
+    },
+    {
+      "id": "ar_danilo-fischetti",
+      "name_en": "Danilo FISCHETTI",
+      "name_ja": null,
+      "team": "Italy",
+      "from_count": 42,
+      "to_count": 48
+    },
+    {
+      "id": "ar_harry-wilson",
+      "name_en": "Harry WILSON",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 32,
+      "to_count": 56
+    },
+    {
+      "id": "ar_james-ryan",
+      "name_en": "James RYAN",
+      "name_ja": null,
+      "team": "Ireland",
+      "from_count": 76,
+      "to_count": 113
+    },
+    {
+      "id": "ar_jonny-gray",
+      "name_en": "Jonny GRAY",
+      "name_ja": null,
+      "team": "Scotland",
+      "from_count": 72,
+      "to_count": 89
+    },
+    {
+      "id": "ar_louis-lynagh",
+      "name_en": "Louis LYNAGH",
+      "name_ja": null,
+      "team": "Italy",
+      "from_count": 18,
+      "to_count": 24
+    },
+    {
+      "id": "ar_naoto-saito",
+      "name_en": "Naoto SAITO",
+      "name_ja": null,
+      "team": "Japan",
+      "from_count": 27,
+      "to_count": 39
+    },
+    {
+      "id": "ar_paolo-garbisi",
+      "name_en": "Paolo GARBISI",
+      "name_ja": null,
+      "team": "Italy",
+      "from_count": 60,
+      "to_count": 84
+    },
+    {
+      "id": "ar_rob-valetini",
+      "name_en": "Rob VALETINI",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 68,
+      "to_count": 93
+    },
+    {
+      "id": "ar_warner-dearns",
+      "name_en": "Warner DEARNS",
+      "name_ja": null,
+      "team": "Japan",
+      "from_count": 33,
+      "to_count": 40
+    }
+  ],
+  "pending_departures": [],
+  "newly_finished_rounds": [
+    {
+      "season": "2026",
+      "round": null,
+      "match_ids": [
+        "jrfu_29967"
+      ]
+    }
+  ]
+}
