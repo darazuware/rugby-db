@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-22T15:38:23+09:00",
+  "checked_at": "2026-07-22T21:22:56+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,18 +9,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://urayasu-d-rocks.com/news/team/index_1988.html",
-          "title": "チーム 2026.07.22 株式会社アルマスポーツとのオフィシャルサプライヤー契約締結のお知らせ",
-          "date": "2026-07-22",
-          "category": "roster"
-        }
-      ],
-      "changed_pages": [
-        "https://urayasu-d-rocks.com/",
-        "https://urayasu-d-rocks.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -43,18 +33,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 34,
-      "new_items": [
-        {
-          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260722_01/",
-          "title": "活動レポート 2026年07月22日 留学記：NZ編 石川槙人⑥ ニュースを見る",
-          "date": "2026-07-22",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://panasonic.co.jp/sports/wildknights/",
-        "https://panasonic.co.jp/sports/wildknights/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -65,18 +45,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [
-        {
-          "url": "https://www.bravelupus.com/news/260721/",
-          "title": "8/2(日)ポップアップストアでのイベント参加選手のお知らせ",
-          "date": "2026-07-21",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.bravelupus.com/",
-        "https://www.bravelupus.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -88,7 +58,9 @@
       "first_run": false,
       "item_count": 9,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -99,18 +71,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 25,
-      "new_items": [
-        {
-          "url": "https://www.honda-heat.jp/news/2407/",
-          "title": "イベント 2026.7.22 『第51回 ふるさと宮まつり』にて、オリジナルうちわを配布します",
-          "date": "2026-07-22",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.honda-heat.jp/",
-        "https://www.honda-heat.jp/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -172,20 +134,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 26,
-      "new_items": [
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/2986",
-          "title": "OTHERS 2026/3/11 【オフィシャルグッズ統括(マネジャー候補）】募集",
-          "date": "2026-03-11",
-          "category": null
-        },
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/1325",
-          "title": "HOST AREA 2023/11/8 ＜レヴサポ＞加盟店のご紹介",
-          "date": "2023-11-08",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -200,18 +149,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/818.html",
-          "title": "2026年 7月22日 Day818 『第52回三田納涼カーニバル♪』",
-          "date": "2026-07-22",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.suntory.co.jp/culture-sports/sungoliath/",
-        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -221,9 +160,20 @@
       "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": false,
-      "item_count": 3,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 4,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0722-01/",
+          "title": "TEAM 2026-27 シーズン新加入スタッフのお知らせ 2026.07.22",
+          "date": "2026-07-22",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/",
+        "https://www.jreast.co.jp/greenwarriors/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -246,20 +196,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 24,
-      "new_items": [
-        {
-          "url": "https://blue-sharks.jp/news/2026/07/24996/",
-          "title": "ヤローズタラナキブルズ研修レポート Vol.3 (伊藤潤乃助)",
-          "date": "2026-07-24",
-          "category": null
-        },
-        {
-          "url": "https://blue-sharks.jp/news/2026/07/24990/",
-          "title": "グロスターラグビー研修レポート Vol.2（山田雅也）",
-          "date": "2026-07-24",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://blue-sharks.jp/",
         "https://blue-sharks.jp/information/",
@@ -276,14 +213,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 12,
-      "new_items": [
-        {
-          "url": "https://shuttles-aichi.com/news/",
-          "title": "もっと見る",
-          "date": "2026-07-16",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://shuttles-aichi.com/"
       ],
@@ -392,20 +322,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 46,
-      "new_items": [
-        {
-          "url": "https://www.skyactivs.com/news/2091",
-          "title": "ニュース一覧へ戻る arrow_forward",
-          "date": "2025-03-06",
-          "category": null
-        },
-        {
-          "url": "https://www.skyactivs.com/news/2001",
-          "title": "ニュース一覧へ戻る arrow_forward",
-          "date": "2022-08-08",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.skyactivs.com/"
       ],
@@ -419,8 +336,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 12,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1462",
+          "title": "2026-27シーズン 公式ファンクラブ概要について",
+          "date": "2026-07-22",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.yakult.co.jp/sports/rugby/",
+        "https://www.yakult.co.jp/sports/rugby/topics/"
+      ],
       "rename_signals": []
     },
     {
@@ -431,18 +358,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 11,
-      "new_items": [
-        {
-          "url": "https://leriro-fukuoka.com/news-detail?id=254",
-          "title": "7月参加イベントのお知らせ",
-          "date": "2026-07-21",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://leriro-fukuoka.com/",
-        "https://leriro-fukuoka.com/news"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -494,9 +411,9 @@
   ],
   "highlights": [
     {
-      "source": "浦安D-Rocks",
-      "url": "https://urayasu-d-rocks.com/news/team/index_1988.html",
-      "title": "チーム 2026.07.22 株式会社アルマスポーツとのオフィシャルサプライヤー契約締結のお知らせ",
+      "source": "JR東日本グリーンウォリアーズ東葛",
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0722-01/",
+      "title": "TEAM 2026-27 シーズン新加入スタッフのお知らせ 2026.07.22",
       "date": "2026-07-22",
       "category": "roster"
     }
