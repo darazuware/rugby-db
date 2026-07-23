@@ -46,8 +46,24 @@ requirements.txt         # requests, beautifulsoup4, pydantic
 - 代表: `national.json` は日本代表＋直近1年で日本と対戦する国の現行スコッドのみ対象（全世界を取らない）。
 - 試合日程・結果: tournament の calendar/results ページ。
 
-### JRFU（jrfu.jp）
+### JRFU（実ドメインは jrfu.jp ではなく www.rugby-japan.jp、2026-07-18確認）
 - 日本代表の試合日程・会場。`matches/national_{year}.json` に出力。会場名は正規化せず原文＋`venue_raw`で保持。
+- 選手個人の事実（生年月日等）のソースは主に2種類あり、両方チェックすること（片方だけでは代表選手を網羅できない）:
+  - `/{squad}/member/` 一覧 → `/{squad}/member/detail/{id}` 詳細（squad: sevens_m/sevens_w/u17-u23/national=`/japan`）。
+    現在選考中のスコッドのみが載る。大学在籍等で候補どまりの選手は載らない。
+  - `/player/{id}` 汎用選手データベース（2026-07-23実ページ確認: `/player/482538`=矢崎由高〈早稲田大学〉）。
+    `/member/detail/{id}` と同一HTML構造（`div.info`/`ul.list li`）なので `pipeline.scrape.jrfu._parse_detail()` がそのまま使える。
+    スコッド一覧ページからはリンクされておらず、IDを検索エンジンで見つける必要がある
+    （**IDの総当たりは絶対にしない** — サイトへの負荷が大きく事故のもとになる。2026-07-23に
+    506330〜506399の範囲を1件ずつfetchして429を大量に食らわせたことがある。個別に
+    URLが分かっている選手だけ `pipeline/scrape/jrfu.py` の `_EXTRA_PLAYER_IDS` へ人手で登録する）。
+  - 代表selfのnational.jsonは all.rugby が正データ源（スコッド構成・キャップ数）で、JRFU公式は
+    生年月日という事実だけを氏名突合で補う補助ソース（`all_rugby.collect_national()` 参照）。
+  - **選手の生年月日がJRFU公式のどちらのページにも見つからない場合、諦めてnullにする前に
+    WebSearchで「{選手のフルネーム} rugby-japan.jp」等を検索し、`/player/{id}` のURLが
+    ヒットしないか確認すること。** 見つかった場合は上記の通り `_EXTRA_PLAYER_IDS` に追加する
+    （AIの知識で生年月日を書くのではなく、見つけたURLを実際にfetchして構造化データとして
+    取得する。検索結果のスニペットの数字を直接信用しない）。
 
 ## run.py の挙動
 ```

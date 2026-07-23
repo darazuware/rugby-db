@@ -141,6 +141,7 @@ def player_allrugby(raw: dict, *, league: str, team_id: str) -> tuple[Optional[d
         "league": league,
         "height_cm": _height_cm(raw.get("height_raw")),
         "weight_kg": _weight_kg(raw.get("weight_raw")),
+        "birthdate": raw.get("birthdate"),
         "nationality": raw.get("nationality", []),
         "career": career,
         "caps": raw.get("caps"),
@@ -345,6 +346,65 @@ def player_jrfu_squad(raw: dict, *, league: str) -> tuple[Optional[dict], list[s
         model, w = Player.parse(data)
     except ValidationError as exc:
         return None, [f"jrfu_{squad}_{did}: Player 検証失敗 {exc.error_count()} 件のためスキップ"]
+    return model.model_dump(by_alias=True), w
+
+
+def player_jrfu_callup(raw: dict, *, league: str, source_url: str) -> tuple[Optional[dict], list[str]]:
+    """JRFU招集・合宿メンバー発表記事の1行（gap B）→ Player dict。
+
+    raw は pipeline.scrape.jrfu.parse_call_up_article() のメンバー要素に、呼び出し側で
+    分類済みの `_education`（[{name_raw,type}]）/`_career`（[{team}]）を加えたもの。
+    /japan/member/ の詳細ページ（player_jrfu_squad）と違い detail_id が無いため
+    id は氏名slug由来（`jrfu_callup_{slug}`）。記事表はキャップ数を含むため caps も持つ
+    （squad版には無い）。当代表の正データ源は all.rugby のため、collect_national() 側で
+    all.rugby由来の日本代表と氏名突合できた選手はこのレコードを採用せずskipする。
+    """
+    name_ja = raw.get("name_ja")
+    name_en = raw.get("name_en")
+    if not (name_en or name_ja):
+        return None, ["jrfu callup: name_en/name_ja が両方欠落のためスキップ"]
+    slug_base = _slugify(name_en) if name_en else _slugify_ja(name_ja)
+    if not slug_base:
+        return None, [f"jrfu callup {name_ja or name_en!r}: slug生成不能のためスキップ"]
+    pid = f"jrfu_callup_{slug_base}"
+
+    now = _now()
+    education = [
+        {"name_raw": e["name_raw"], "type": e["type"], "source_url": source_url, "scraped_at": now}
+        for e in raw.get("_education", []) if e.get("name_raw") and e.get("type")
+    ]
+    career = [{"team": c["team"], "source_url": source_url} for c in raw.get("_career", []) if c.get("team")]
+
+    caps = None
+    caps_count = raw.get("caps")
+    if isinstance(caps_count, int) and caps_count >= 0:
+        caps = {"team": "Japan", "count": caps_count, "source_url": source_url}
+
+    data = {
+        "id": pid,
+        "source": "rugby-japan.jp",
+        "source_url": source_url,
+        "scraped_at": now,
+        "name_en": name_en,
+        "name_ja": name_ja,
+        "slug": pid,
+        "position": raw.get("position_group"),
+        "team_id": None,
+        "league": league,
+        "height_cm": raw.get("height_cm"),
+        "weight_kg": raw.get("weight_kg"),
+        "birthdate": raw.get("birthdate"),
+        "nationality": ["JP"],
+        "caps": caps,
+        "career": career,
+        "education": education,
+        "squad": "national",
+        "is_minor": _jrfu_is_minor(raw.get("birthdate"), league),
+    }
+    try:
+        model, w = Player.parse(data)
+    except ValidationError as exc:
+        return None, [f"jrfu callup {pid}: Player 検証失敗 {exc.error_count()} 件のためスキップ"]
     return model.model_dump(by_alias=True), w
 
 

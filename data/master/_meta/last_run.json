@@ -53,12 +53,15 @@
     ]
   },
   "national": {
-    "run_at": "2026-07-22T09:19:22+09:00",
+    "run_at": "2026-07-24T00:41:04+09:00",
     "counts": {
-      "players": 1104,
+      "players": 1113,
       "teams": 0
     },
-    "warnings": []
+    "warnings": [
+      "jrfu national: 学校名12件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['クボタスピアーズ船橋・東京ベイ', 'コベルコ神戸スティーラーズ', 'リコーブラックラムズ東京']）",
+      "jrfu national: ANTHROPIC_API_KEY未設定のためSonnetフォールバックをスキップ（未判定12件は学校扱いにしない: 所属欄はcareerへ、出身校欄はeducationから除外）"
+    ]
   },
   "sevens-national": {
     "run_at": "2026-07-18T20:07:26+09:00",
