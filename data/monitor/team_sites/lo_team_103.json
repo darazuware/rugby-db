@@ -3,28 +3,38 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-07-22T21:22:56+09:00",
+  "checked_at": "2026-07-23T15:36:28+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "32ba8ca54e4d3c17"
+      "hash": "d3a566ea31500fba"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "6aa05f14873a2c4a"
+      "hash": "f44745d04edeca7c"
     }
   ],
   "items": [
     {
-      "url": "https://www.bravelupus.com/news/260721/",
-      "title": "8/2(日)ポップアップストアでのイベント参加選手のお知らせ",
-      "date": "2026-07-21"
+      "url": "https://www.bravelupus.com/news/260723_2/",
+      "title": "2026-27シーズン新加入選手（追加）のお知らせ",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260723/",
+      "title": "2026-27シーズン新体制、新加入スタッフのお知らせ",
+      "date": "2026-07-23"
     },
     {
       "url": "https://www.bravelupus.com/news/",
       "title": "記事一覧",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260721/",
+      "title": "8/2(日)ポップアップストアでのイベント参加選手のお知らせ",
       "date": "2026-07-21"
     },
     {
@@ -216,16 +226,6 @@
       "url": "https://www.bravelupus.com/news/20260417/",
       "title": "グッズ会場受取りサービスのお知らせ",
       "date": "2026-04-17"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260416/",
-      "title": "東芝ブレイブルーパス東京公式電子トレカサービス「BRAVE LUPUS デジタルトレカ-猛勇狼士録-」",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260415/",
-      "title": "新製品グッズ販売のお知らせ",
-      "date": "2026-04-15"
     }
   ]
 }

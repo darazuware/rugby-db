@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "栃木ホンダヒート",
   "official_url": "https://www.honda-heat.jp/",
-  "checked_at": "2026-07-22T21:22:56+09:00",
+  "checked_at": "2026-07-23T15:36:28+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "032c8751797b1e3d"
+      "hash": "d188eee56153a702"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "086ad755a62326d0"
+      "hash": "7b11eff9d3ad7e4e"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2409/",
+      "title": "トピックス 2026.7.22 平野 叶翔、日本代表 網走合宿招集のお知らせ",
+      "date": "2026-07-22"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2407/",
       "title": "イベント 2026.7.22 『第51回 ふるさと宮まつり』にて、オリジナルうちわを配布します",
@@ -131,11 +136,6 @@
       "url": "https://www.honda-heat.jp/news/2383/",
       "title": "トピックス 2026.6.18 新チーム名称および新エンブレム発表のお知らせ",
       "date": "2026-06-18"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2374/",
-      "title": "トピックス 2026.6.16 植村 陽彦・宮坂 航生、男子セブンズ デベロップメント・スコッド（SDS）別府合宿 参加のお知らせ",
-      "date": "2026-06-16"
     },
     {
       "url": "https://www.honda-heat.jp/hostgame/20260509/",
