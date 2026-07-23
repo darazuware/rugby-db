@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-23T14:21:58+09:00",
+  "checked_at": "2026-07-23T17:24:21+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,20 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6073",
-          "title": "クラブ 東芝ブレイブルーパス東京、2026-27シーズン新加入選手（追加）のお知らせ 2026.07.23",
-          "date": "2026-07-23",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6072",
-          "title": "クラブ 東芝ブレイブルーパス東京、2026-27シーズン新体制/新加入スタッフのお知らせ 2026.07.23",
-          "date": "2026-07-23",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -34,8 +21,8 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54087",
-          "title": "男子日本代表 網走合宿参加メンバーのお知らせ 2026.7.23 （木） 15人制男子日本代表 WBB",
+          "url": "https://www.rugby-japan.jp/news/54086",
+          "title": "レポート：女子15人制強化・TID合同フォワード合宿 2026.7.23 （木） 15人制女子日本代表 女子",
           "date": "2026-07-23",
           "category": "squad"
         }
@@ -55,23 +42,9 @@
   ],
   "highlights": [
     {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6073",
-      "title": "クラブ 東芝ブレイブルーパス東京、2026-27シーズン新加入選手（追加）のお知らせ 2026.07.23",
-      "date": "2026-07-23",
-      "category": "roster"
-    },
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6072",
-      "title": "クラブ 東芝ブレイブルーパス東京、2026-27シーズン新体制/新加入スタッフのお知らせ 2026.07.23",
-      "date": "2026-07-23",
-      "category": "roster"
-    },
-    {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54087",
-      "title": "男子日本代表 網走合宿参加メンバーのお知らせ 2026.7.23 （木） 15人制男子日本代表 WBB",
+      "url": "https://www.rugby-japan.jp/news/54086",
+      "title": "レポート：女子15人制強化・TID合同フォワード合宿 2026.7.23 （木） 15人制女子日本代表 女子",
       "date": "2026-07-23",
       "category": "squad"
     }
