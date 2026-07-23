@@ -1,0 +1,87 @@
+name: Scheduled Publish
+
+# 予約公開の検知と Telegram 報告。
+# 記事 frontmatter の publishAt（無ければ pubDate の JST 0:00）で公開判定し、
+# 公開時刻を跨いだ記事を「公開完了」として Telegram に通知する。
+# 状態ファイル data/master/_meta/publish_state.json が更新された時だけ commit/push し、
+# その push が Vercel 再ビルドを起こして prerender ページ（/news/<slug>/）を生成する。
+on:
+  schedule:
+    # 30分毎に検知（GitHub の cron は数分遅延あり。ブログ用途で許容）
+    - cron: '*/30 * * * *'
+    # 07:00 JST = 22:00 UTC: 予定が無くても本日/明日の予定サマリを送る
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+    inputs:
+      daily:
+        description: '本日/明日の予定サマリを強制送信'
+        required: false
+        default: 'false'
+        type: choice
+        options: ['false', 'true']
+
+permissions:
+  contents: write
+
+# daily_update / monitor_news の push と競合しないよう直列化する。
+concurrency:
+  group: content-push
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Determine daily flag
+        id: flag
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "daily=${{ inputs.daily }}" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "0 22 * * *" ]; then
+            echo "daily=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "daily=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Detect & report scheduled publishes
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: |
+          if [ "${{ steps.flag.outputs.daily }}" = "true" ]; then
+            python3 -m pipeline.publish_report --daily
+          else
+            python3 -m pipeline.publish_report
+          fi
+
+      - name: Commit state (triggers Vercel rebuild for newly-live articles)
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/master/_meta/publish_state.json
+          if git diff --cached --quiet; then
+            echo "公開状態に変化なし。コミットしない。"
+          else
+            git commit -m "chore: scheduled_publish $(date -u -d '+9 hours' +'%Y-%m-%d %H:%M JST')"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      - name: Notify failure
+        if: failure()
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: |
+          python3 -m pipeline.telegram_notify send \
+            --text "$(printf '⚠️ <b>予約公開ジョブ失敗</b>\nログ: https://github.com/%s/actions/runs/%s' '${{ github.repository }}' '${{ github.run_id }}')"

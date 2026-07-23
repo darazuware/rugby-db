@@ -5,7 +5,10 @@ import { getCollection, type CollectionEntry } from "astro:content";
 // pubDate は日付のみ＝UTC真夜中に解釈される。読者は日本なので JST 基準で判定する
 // （now に +9h して比較 = pubDate の JST 当日 0:00 から公開扱い）。
 const nowJst = Date.now() + 9 * 60 * 60 * 1000;
-const news = (await getCollection("news", (entry: CollectionEntry<"news">) => !entry.data.draft && entry.data.pubDate.valueOf() <= nowJst)).sort(
+const isLive = (e: CollectionEntry<"news">) =>
+  !e.data.draft &&
+  (e.data.publishAt ? e.data.publishAt.valueOf() <= Date.now() : e.data.pubDate.valueOf() <= nowJst);
+const news = (await getCollection("news", isLive)).sort(
   (a: CollectionEntry<"news">, b: CollectionEntry<"news">) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 

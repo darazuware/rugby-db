@@ -92,3 +92,22 @@ jobs:
           python3 -m pipeline.notify --status failure \
             --title "daily_update 失敗 (${{ steps.mode.outputs.mode }})" \
             --log pipeline_run.log --log pipeline_news.log
+
+      - name: Telegram 完了報告
+        if: success()
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: |
+          COUNT=$(wc -l < news_changed.txt 2>/dev/null | tr -d ' ' || echo 0)
+          python3 -m pipeline.telegram_notify send \
+            --text "$(printf '✅ <b>daily_update 完了</b>（%s）\n生成/更新ニュース: %s 件' '${{ steps.mode.outputs.mode }}' "$COUNT")"
+
+      - name: Telegram 失敗報告
+        if: failure()
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: |
+          python3 -m pipeline.telegram_notify send \
+            --text "$(printf '⚠️ <b>daily_update 失敗</b>（%s）\nログ: https://github.com/%s/actions/runs/%s' '${{ steps.mode.outputs.mode }}' '${{ github.repository }}' '${{ github.run_id }}')"

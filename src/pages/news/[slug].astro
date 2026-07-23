@@ -8,7 +8,9 @@ export const prerender = true;
 export async function getStaticPaths() {
   // JST 基準で公開判定（index.astro と揃える）。pubDate=日付のみは UTC 真夜中に解釈されるため +9h。
   const nowJst = Date.now() + 9 * 60 * 60 * 1000;
-  const news = await getCollection("news", (entry: CollectionEntry<"news">) => !entry.data.draft && entry.data.pubDate.valueOf() <= nowJst);
+  const news = await getCollection("news", (entry: CollectionEntry<"news">) =>
+    !entry.data.draft &&
+    (entry.data.publishAt ? entry.data.publishAt.valueOf() <= Date.now() : entry.data.pubDate.valueOf() <= nowJst));
   return news.map((entry: CollectionEntry<"news">) => ({
     params: { slug: entry.slug },
   }));

@@ -42,6 +42,9 @@ const news = defineCollection({
         title: z.string(),
         description: z.string().optional(),
         pubDate: z.date(),
+        // 予約公開の正確な日時（任意）。指定時はこの時刻で公開判定する。
+        // 未指定なら pubDate の JST 当日 0:00 で公開扱い（従来動作）。
+        publishAt: z.date().optional(),
         updatedDate: z.date().optional(),
         heroImage: z.string().optional(),
         category: z.string().optional(),
