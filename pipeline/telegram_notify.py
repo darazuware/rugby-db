@@ -161,6 +161,60 @@ def _call_long(token: str, offset: int, poll: int) -> Optional[dict]:
         return None
 
 
+def ask(question: str, options: list[str], *, timeout: int = 600, poll: int = 3) -> Optional[str]:
+    """複数選択肢ボタンを送り、Telegram 上で選ばれた選択肢ラベルを返す。
+
+    Claude が判断を仰ぐ質問（2択に限らない）を Telegram で完結させるための入口。
+    戻り値: 選ばれたラベル / None（タイムアウト・未設定）。
+    番号返信（"1"〜）でも回答可。
+    """
+    token, chat = load_credentials()
+    if not token or not chat:
+        print("[telegram] 未設定のため質問スキップ", file=sys.stderr)
+        return None
+
+    offset = _latest_update_id(token) + 1
+    # 1行1ボタン（ラベルが長い日本語向け）。callback_data はインデックス。
+    buttons = [[{"text": f"{i + 1}. {opt}", "callback_data": str(i)}] for i, opt in enumerate(options)]
+    body = question + "\n\n👇 Telegram で選んでください（番号返信も可）。"
+    msg = send(body, buttons=buttons)
+    msg_id = msg.get("message_id") if msg else None
+
+    deadline = time.time() + timeout
+    chosen: Optional[int] = None
+    while time.time() < deadline and chosen is None:
+        res = _call_long(token, offset, poll)
+        if not res or not res.get("ok"):
+            time.sleep(poll)
+            continue
+        for upd in res["result"]:
+            offset = upd["update_id"] + 1
+            cq = upd.get("callback_query")
+            if cq and str(cq.get("message", {}).get("message_id")) == str(msg_id):
+                try:
+                    idx = int(cq.get("data"))
+                except (TypeError, ValueError):
+                    idx = None
+                if idx is not None and 0 <= idx < len(options):
+                    chosen = idx
+                    _call(token, "answerCallbackQuery", callback_query_id=cq["id"],
+                          text=f"選択: {options[idx]}")
+                    break
+            m = upd.get("message")
+            if m and str(m.get("chat", {}).get("id")) == str(chat):
+                t = (m.get("text") or "").strip()
+                if t.isdigit() and 1 <= int(t) <= len(options):
+                    chosen = int(t) - 1
+                    break
+    if msg_id and chosen is not None:
+        _call(token, "editMessageText", chat_id=chat, message_id=msg_id,
+              text=PREFIX + question + f"\n\n<b>✅ {options[chosen]}</b>", parse_mode="HTML")
+    elif msg_id:
+        _call(token, "editMessageText", chat_id=chat, message_id=msg_id,
+              text=PREFIX + question + "\n\n<b>⌛ タイムアウト（未回答）</b>", parse_mode="HTML")
+    return options[chosen] if chosen is not None else None
+
+
 def main(argv: Optional[list[str]] = None) -> int:
     ap = argparse.ArgumentParser(prog="pipeline.telegram_notify")
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -172,6 +226,12 @@ def main(argv: Optional[list[str]] = None) -> int:
     a = sub.add_parser("approve", help="承認/却下を Telegram で仰ぐ")
     a.add_argument("--text", required=True)
     a.add_argument("--timeout", type=int, default=300)
+
+    q = sub.add_parser("ask", help="複数選択肢を Telegram ボタンで仰ぐ")
+    q.add_argument("--text", required=True)
+    q.add_argument("--option", action="append", default=[], required=True,
+                   help="選択肢（複数指定）")
+    q.add_argument("--timeout", type=int, default=600)
 
     args = ap.parse_args(argv)
 
@@ -186,6 +246,12 @@ def main(argv: Optional[list[str]] = None) -> int:
         if d is False:
             print("rejected")
             return 10
+        return 20 if load_credentials()[0] else 30
+    if args.cmd == "ask":
+        choice = ask(args.text, args.option, timeout=args.timeout)
+        if choice is not None:
+            print(choice)
+            return 0
         return 20 if load_credentials()[0] else 30
     return 0
 
