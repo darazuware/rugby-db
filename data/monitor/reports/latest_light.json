@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-23T17:24:21+09:00",
+  "checked_at": "2026-07-23T20:49:01+09:00",
   "teams": [],
   "sources": [
     {
@@ -21,10 +21,16 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54086",
-          "title": "レポート：女子15人制強化・TID合同フォワード合宿 2026.7.23 （木） 15人制女子日本代表 女子",
+          "url": "https://www.rugby-japan.jp/news/54090",
+          "title": "第20回アジア競技大会（愛知・名古屋）プール組分けのお知らせ 2026.7.23 （木） 男子セブンズ日本代表 女子セブンズ日本代表 セブンズ アジア競技大会",
           "date": "2026-07-23",
           "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54088",
+          "title": "レポート：女子U17キャンプ 沖縄ブロック 2026.7.23 （木） アカデミー・強化育成 女子 高校 TID",
+          "date": "2026-07-23",
+          "category": null
         }
       ],
       "rename_signals": []
@@ -43,8 +49,8 @@
   "highlights": [
     {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54086",
-      "title": "レポート：女子15人制強化・TID合同フォワード合宿 2026.7.23 （木） 15人制女子日本代表 女子",
+      "url": "https://www.rugby-japan.jp/news/54090",
+      "title": "第20回アジア競技大会（愛知・名古屋）プール組分けのお知らせ 2026.7.23 （木） 男子セブンズ日本代表 女子セブンズ日本代表 セブンズ アジア競技大会",
       "date": "2026-07-23",
       "category": "squad"
     }
