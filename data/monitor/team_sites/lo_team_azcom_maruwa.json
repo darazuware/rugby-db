@@ -3,28 +3,33 @@
   "league": "league-one-d3",
   "name": "AZ-COM丸和MOMOTARO'S",
   "official_url": "https://www.momotaros.jp/",
-  "checked_at": "2026-07-23T15:36:28+09:00",
+  "checked_at": "2026-07-23T21:19:45+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.momotaros.jp/",
-      "hash": "81de66eaafa60d77"
+      "hash": "3cbc0a5cafe4c209"
     },
     {
       "url": "https://www.momotaros.jp/news/",
-      "hash": "b25aca7ea95cae6e"
+      "hash": "1080b1b159d4005b"
     }
   ],
   "items": [
     {
-      "url": "https://www.momotaros.jp/archives/others/6534/",
-      "title": "2025-26スポンサー 選手交流会",
-      "date": "2026-07-07"
+      "url": "https://www.momotaros.jp/archives/news-all-2026/news-report-2026/6566/",
+      "title": "ラグビー留学レポートWeek5～6",
+      "date": "2026-07-23"
     },
     {
       "url": "https://www.momotaros.jp/archives/category/news-all-2026/news-report-2026/",
       "title": "レポート｜2026",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://www.momotaros.jp/archives/others/6534/",
+      "title": "2025-26スポンサー 選手交流会",
       "date": "2026-07-07"
     },
     {

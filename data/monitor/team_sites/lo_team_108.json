@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-07-23T15:36:28+09:00",
+  "checked_at": "2026-07-23T21:19:45+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "26cc7ff1f7dc925e"
+      "hash": "1bde52b7d5b9bede"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20260723b.html",
+      "title": "7月26日(日)「第45回 川場まつり」参加のお知らせ",
+      "date": "2026-07-23"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260723a.html",
       "title": "メイン平選手が日本代表 網走合宿参加メンバーに選出されました",
@@ -32,11 +37,6 @@
       "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20260721b.html",
       "title": "7月29日(水)・31日(金) RAMOVE限定「練習見学＆グラウンド開放イベント」のご案内",
       "date": "2026-07-21"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260718a.html",
-      "title": "【試合後コメント】7月18日(土) ネーションズチャンピオンシップ2026 日本代表 対 フランス代表",
-      "date": "2026-07-18"
     }
   ]
 }

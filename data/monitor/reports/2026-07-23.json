@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-23T15:36:28+09:00",
+  "checked_at": "2026-07-23T21:19:45+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -21,7 +21,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post34912/",
+          "title": "2026/7/23 チーム ⽇本代表 網走合宿参加メンバーのお知らせ",
+          "date": "2026-07-23",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kobesteelers.com/",
         "https://www.kobesteelers.com/news/",
@@ -50,24 +57,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [
-        {
-          "url": "https://www.bravelupus.com/news/260723_2/",
-          "title": "2026-27シーズン新加入選手（追加）のお知らせ",
-          "date": "2026-07-23",
-          "category": "roster"
-        },
-        {
-          "url": "https://www.bravelupus.com/news/260723/",
-          "title": "2026-27シーズン新体制、新加入スタッフのお知らせ",
-          "date": "2026-07-23",
-          "category": "roster"
-        }
-      ],
-      "changed_pages": [
-        "https://www.bravelupus.com/",
-        "https://www.bravelupus.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -90,18 +81,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 25,
-      "new_items": [
-        {
-          "url": "https://www.honda-heat.jp/news/2409/",
-          "title": "トピックス 2026.7.22 平野 叶翔、日本代表 網走合宿招集のお知らせ",
-          "date": "2026-07-22",
-          "category": "squad"
-        }
-      ],
-      "changed_pages": [
-        "https://www.honda-heat.jp/",
-        "https://www.honda-heat.jp/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -127,19 +108,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 12,
-      "new_items": [
-        {
-          "url": "https://www.canon-eagles.jp/news/info/20260723.html",
-          "title": "2026.07.23 TEAM 男子日本代表網走合宿に横浜キヤノンイーグルスの選手が参加します",
-          "date": "2026-07-23",
-          "category": "squad"
-        }
-      ],
-      "changed_pages": [
-        "https://www.canon-eagles.jp/",
-        "https://www.canon-eagles.jp/news/",
-        "https://www.canon-eagles.jp/news/info/2026.html"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -152,15 +122,9 @@
       "item_count": 5,
       "new_items": [
         {
-          "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260723a.html",
-          "title": "メイン平選手が日本代表 網走合宿参加メンバーに選出されました",
+          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20260723b.html",
+          "title": "7月26日(日)「第45回 川場まつり」参加のお知らせ",
           "date": "2026-07-23",
-          "category": "squad"
-        },
-        {
-          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260722a.html",
-          "title": "「BlackRamsTokyoが二子玉川ライズにやってくる！ラムズの夏休み2026」詳細情報",
-          "date": "2026-07-22",
           "category": null
         }
       ],
@@ -178,10 +142,7 @@
       "first_run": false,
       "item_count": 56,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kubota-spears.com/",
-        "https://www.kubota-spears.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -194,8 +155,8 @@
       "item_count": 26,
       "new_items": [
         {
-          "url": "https://www.shizuoka-bluerevs.com/news/3147",
-          "title": "2026.7.23[THU] TICKET シーズンシートは8月から取扱開始",
+          "url": "https://www.shizuoka-bluerevs.com/news/3146",
+          "title": "2026.7.23[THU] HOST AREA 【ホストエリア活動】西伊豆町にて軽スポーツ大会・ワークショップ交流会に参加しました",
           "date": "2026-07-23",
           "category": null
         }
@@ -294,7 +255,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 30,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/2026/07/23/sone-report/",
+          "title": "2026.07.23 チーム情報 ニュージーランド留学レポート 曽根 隆慎選手編",
+          "date": "2026-07-23",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/07/23/inoue-report/",
+          "title": "2026.07.23 チーム情報 ニュージーランド留学レポート 井上 優士選手編",
+          "date": "2026-07-23",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -309,17 +283,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 19,
-      "new_items": [
-        {
-          "url": "https://hino-reddolphins.com/2026-07-23/",
-          "title": "苑田右二 再加入のお知らせ",
-          "date": "2026-07-23",
-          "category": "roster"
-        }
-      ],
-      "changed_pages": [
-        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -413,9 +378,7 @@
       "first_run": false,
       "item_count": 11,
       "new_items": [],
-      "changed_pages": [
-        "https://leriro-fukuoka.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -425,10 +388,18 @@
       "official_url": "https://www.momotaros.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 18,
-      "new_items": [],
+      "item_count": 19,
+      "new_items": [
+        {
+          "url": "https://www.momotaros.jp/archives/news-all-2026/news-report-2026/6566/",
+          "title": "ラグビー留学レポートWeek5～6",
+          "date": "2026-07-23",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://www.momotaros.jp/"
+        "https://www.momotaros.jp/",
+        "https://www.momotaros.jp/news/"
       ],
       "rename_signals": []
     }
@@ -465,50 +436,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "東芝ブレイブルーパス東京",
-      "url": "https://www.bravelupus.com/news/260723_2/",
-      "title": "2026-27シーズン新加入選手（追加）のお知らせ",
-      "date": "2026-07-23",
-      "category": "roster"
-    },
-    {
-      "source": "東芝ブレイブルーパス東京",
-      "url": "https://www.bravelupus.com/news/260723/",
-      "title": "2026-27シーズン新体制、新加入スタッフのお知らせ",
-      "date": "2026-07-23",
-      "category": "roster"
-    },
-    {
-      "source": "日野レッドドルフィンズ",
-      "url": "https://hino-reddolphins.com/2026-07-23/",
-      "title": "苑田右二 再加入のお知らせ",
-      "date": "2026-07-23",
-      "category": "roster"
-    },
-    {
-      "source": "栃木ホンダヒート",
-      "url": "https://www.honda-heat.jp/news/2409/",
-      "title": "トピックス 2026.7.22 平野 叶翔、日本代表 網走合宿招集のお知らせ",
-      "date": "2026-07-22",
-      "category": "squad"
-    },
-    {
-      "source": "横浜キヤノンイーグルス",
-      "url": "https://www.canon-eagles.jp/news/info/20260723.html",
-      "title": "2026.07.23 TEAM 男子日本代表網走合宿に横浜キヤノンイーグルスの選手が参加します",
-      "date": "2026-07-23",
-      "category": "squad"
-    },
-    {
-      "source": "リコーブラックラムズ東京",
-      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260723a.html",
-      "title": "メイン平選手が日本代表 網走合宿参加メンバーに選出されました",
-      "date": "2026-07-23",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": []
 }
