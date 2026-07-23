@@ -80,7 +80,8 @@ def _to_ts(fm: dict) -> float | None:
             pd = pd.replace(tzinfo=JST)
         return pd.timestamp()
     if isinstance(pd, dt.date):
-        return dt.datetime(pd.year, pd.month, pd.day, tzinfo=JST).timestamp()
+        # publishAt 未指定は JST 当日 12:00 公開（深夜0:00を避ける既定）。
+        return dt.datetime(pd.year, pd.month, pd.day, 12, 0, tzinfo=JST).timestamp()
     return None
 
 
