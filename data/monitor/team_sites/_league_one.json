@@ -1,7 +1,19 @@
 {
-  "checked_at": "2026-07-22T21:22:56+09:00",
+  "checked_at": "2026-07-23T14:21:58+09:00",
   "url": "https://league-one.jp/news/",
   "items": [
+    {
+      "url": "https://league-one.jp/news/6073",
+      "title": "クラブ 東芝ブレイブルーパス東京、2026-27シーズン新加入選手（追加）のお知らせ 2026.07.23",
+      "date": "2026-07-23",
+      "category": "roster"
+    },
+    {
+      "url": "https://league-one.jp/news/6072",
+      "title": "クラブ 東芝ブレイブルーパス東京、2026-27シーズン新体制/新加入スタッフのお知らせ 2026.07.23",
+      "date": "2026-07-23",
+      "category": "roster"
+    },
     {
       "url": "https://league-one.jp/news/6071",
       "title": "クラブ 静岡ブルーレヴズ、ハンター・パイサミ選手と契約締結 2026.07.20",
@@ -40,16 +52,6 @@
     {
       "url": "https://league-one.jp/news/6064",
       "title": "クラブ コベルコ神戸スティーラーズ、7月30日(木)～8月2日(日)「KOBELCO CUP 2026」への選手派遣のお知らせ 2026.07.10",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://league-one.jp/news/6063",
-      "title": "クラブ 浦安D-Rocks、2026-27シーズン 新体制決定のお知らせ 2026.07.10",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://league-one.jp/news/6062",
-      "title": "クラブ 浦安D-Rocks、2026-27シーズン 新加入選手のお知らせ 2026.07.10",
       "date": "2026-07-10"
     }
   ]
