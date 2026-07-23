@@ -23,8 +23,9 @@ from __future__ import annotations
 
 import argparse
 import sys
+from datetime import datetime
 
-from pipeline import io
+from pipeline import callups, io
 from pipeline.diffs import detect as diffs_detect
 from pipeline.scrape import all_rugby, highschool, jrfu, league_one, university
 from pipeline.validate import checks
@@ -71,6 +72,7 @@ def run_leagues(leagues: list[str], *, dry_run: bool, only: set[str] | None = No
     matches: list[dict] = []
     standings: list[dict] = []
     all_warnings: list[str] = []
+    national_call_ups: list[dict] = []  # gap B: 招集・合宿イベント（national のみ）
 
     for league in leagues:
         scraper = SCRAPERS.get(league)
@@ -79,6 +81,8 @@ def run_leagues(leagues: list[str], *, dry_run: bool, only: set[str] | None = No
             continue
         result = scraper()  # -> {players, teams, matches, standings, warnings}
         players_by_league[league] = result.get("players", [])
+        if league == "national":
+            national_call_ups = result.get("call_ups", [])
         teams.extend(result.get("teams", []))
         matches.extend(result.get("matches", []))
         standings.extend(result.get("standings", []))
@@ -136,6 +140,21 @@ def run_leagues(leagues: list[str], *, dry_run: bool, only: set[str] | None = No
         )
         io.write_pending_departures(pending)
 
+    # gap B: 招集・合宿イベントの突合→差分→マスタ化（--only 時はスキップ）。
+    # 新規イベントは national diff に "call_ups" として注入し news_gen が記事化する。
+    callup_master: list[dict] | None = None
+    if not only and national_call_ups and "national" in diffs_by_league:
+        now_iso = datetime.now(io.JST).isoformat(timespec="seconds")
+        evs = callups.assign_member_ids(national_call_ups, players_by_league.get("national", []))
+        prev_callups = io.read_records(io.callups_path("national"))
+        new_events = callups.diff_new_events(evs, prev_callups, league="national")
+        diffs_by_league["national"]["call_ups"] = new_events
+        new_recs = callups.build_event_records(evs, league="national", scraped_at=now_iso)
+        callup_master = callups.merge_event_master(prev_callups, new_recs)
+        if new_events:
+            print(f"[callup] national: 新規イベント {len(new_events)} 件 "
+                  f"（{', '.join(e.get('title') or e['id'] for e in new_events)}）")
+
     for league, diff in diffs_by_league.items():
         io.write_diff_report(league, diff)
         n = (len(diff["signings"]) + len(diff["transfers"]) + len(diff["departures"])
@@ -166,6 +185,8 @@ def run_leagues(leagues: list[str], *, dry_run: bool, only: set[str] | None = No
                 counts={"players": len(players), "teams": len(teams_by_league.get(league, []))},
                 warnings=[w for w in check.warnings + all_warnings if league in w],
             )
+        if callup_master is not None:
+            io.write_records(io.callups_path("national"), callup_master)
     if not only or "standings" in only:
         for st in standings:
             io.write_json(io.standings_path(st["league"], st["season"]), st)

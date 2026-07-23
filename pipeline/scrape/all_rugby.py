@@ -31,6 +31,7 @@ from typing import Optional
 import requests
 from bs4 import BeautifulSoup
 
+from pipeline import io
 from pipeline.transform import normalize
 
 BASE = "https://all.rugby"
@@ -572,11 +573,56 @@ def collect_national() -> dict:
     設定し、players 側での国別グルーピングと Match の home/away_team_id 参照に使う。
     """
     from pipeline.scrape import jrfu  # 循環import回避のためlocal import
+    from pipeline.schemas import japan_name_keys as _name_keys
 
     warnings: list[str] = []
     sched = jrfu.collect_matches()
     matches = sched.get("matches", [])
     warnings.extend(sched.get("warnings", []))
+
+    # 日本代表の生年月日は all.rugby の代表選手個別ページに載っておらず常にnullに
+    # なっていた（2026-07-22 確認）ため、JRFU公式（jrfu.collect_national_birthdates）
+    # の氏名突合マップで補う。他国はall.rugbyの値（無ければnull）のまま。
+    jrfu_birthdates: dict[str, dict] = {}
+    bd_res = jrfu.collect_national_birthdates()
+    jrfu_birthdates = bd_res.get("map", {})
+    # /japan/member/ 掲載の代表候補（all.rugbyの /club/japan/squad ＝キャップ保持者に
+    # 載らない国内選手を含む）。all.rugby由来のJapan選手と氏名突合できなかった者のみ
+    # 後段で national.json に追加する（squad="national"）。
+    jrfu_squad_players: list[dict] = bd_res.get("players", [])
+    warnings.extend(bd_res.get("warnings", []))
+
+    # gap B: 招集・合宿メンバー発表ニュース。最新イベントのメンバーを facts として
+    # national.json に取り込む（/japan/member/ に載らない追加招集・合宿参加の代表候補を
+    # 救う）。イベント自体（差分検知→記事化）は run.py 側の pipeline.callups が扱うため、
+    # ここでは events をそのまま結果に返す（二重スクレイプ回避）。
+    def _nid(ev: dict) -> int:
+        nid = ev.get("news_id")
+        return int(nid) if (nid or "").isdigit() else 0
+
+    callup_res = jrfu.collect_call_ups()
+    call_up_events: list[dict] = callup_res.get("events", [])
+    warnings.extend(callup_res.get("warnings", []))
+    callup_players: list[dict] = []
+    if call_up_events:
+        latest_event = max(call_up_events, key=_nid)
+        callup_players, cw = jrfu.callup_members_to_players(latest_event)
+        warnings.extend(cw)
+
+    # JRFU公式の現行スコッドページ（/japan/member/）は選考中の一部選手しか載せて
+    # いないため、そこに無い日本代表選手は league_one.py が既に取得済みの
+    # 国内リーグ名鑑（生年月日を個別ページから正規取得済み）で氏名突合して補う
+    # （2026-07-22 確認: league-one-d1.json 等に多くが既に存在）。国内リーグに
+    # 未所属の選手（海外在籍等）はここでも見つからず null のまま。
+    domestic_birthdates: dict[str, str] = {}
+    for league in ("league-one-d1", "league-one-d2", "league-one-d3", "university", "highschool"):
+        for p in io.read_records(io.players_path(league)):
+            bd = p.get("birthdate")
+            name_en = p.get("name_en")
+            if not bd or not name_en:
+                continue
+            for key in _name_keys(name_en):
+                domestic_birthdates.setdefault(key, bd)
 
     slugs: list[str] = ["japan"]
     for s in sched.get("opponent_slugs", []):
@@ -592,6 +638,7 @@ def collect_national() -> dict:
 
     players_out: list[dict] = []
     seen_players: set[str] = set()
+    japan_name_keys: set[str] = set()  # all.rugby由来のJapan選手の氏名突合キー
 
     for slug in slugs:
         shtml = _get(f"{BASE}/club/{slug}/squad")
@@ -609,14 +656,53 @@ def collect_national() -> dict:
                 continue
             seen_players.add(raw["slug"])
             _enrich_national(raw, country_display)
+            if slug == "japan" and raw.get("name_en"):
+                keys = _name_keys(raw["name_en"])
+                hit = next((jrfu_birthdates[k] for k in keys if k in jrfu_birthdates), None)
+                domestic_hit = next((domestic_birthdates[k] for k in keys if k in domestic_birthdates), None)
+                if hit:
+                    raw["birthdate"] = hit["birthdate"]
+                elif domestic_hit:
+                    raw["birthdate"] = domestic_hit
+                else:
+                    warnings.append(
+                        f"national japan: {raw['name_en']!r} をJRFU公式スコッドと"
+                        f"氏名突合できず、生年月日は取得できなかった")
             player, pw = normalize.player_allrugby(raw, league="national", team_id=slug)
             warnings.extend(pw)
             if player is None:
                 continue
+            if slug == "japan" and player.get("name_en"):
+                japan_name_keys.update(_name_keys(player["name_en"]))
             players_out.append(player)
+
+    # JRFU公式スコッド（/japan/member/）のうち、all.rugbyのJapan選手と氏名突合できなかった
+    # 代表候補（＝国際キャップ無しでall.rugbyに載らない国内選手）を national.json に追加。
+    for sp in jrfu_squad_players:
+        name_en = sp.get("name_en")
+        if not name_en:
+            continue
+        if any(k in japan_name_keys for k in _name_keys(name_en)):
+            continue  # all.rugby側に既にいる（キャップ保持者）→そちらを優先
+        japan_name_keys.update(_name_keys(name_en))  # JRFUスコッド内の重複も防ぐ
+        sp["team_id"] = "japan"
+        players_out.append(sp)
+
+    # 招集・合宿メンバー（gap B）も同様に、既出でない代表候補のみ追加する。
+    # /japan/member/ にも all.rugby にも載らない純粋な追加招集選手を national.json に載せる。
+    for cp in callup_players:
+        name_en = cp.get("name_en")
+        if not name_en:
+            continue
+        if any(k in japan_name_keys for k in _name_keys(name_en)):
+            continue
+        japan_name_keys.update(_name_keys(name_en))
+        cp["team_id"] = "japan"
+        players_out.append(cp)
 
     return {
         "players": players_out,
+        "call_ups": call_up_events,
         "teams": [],
         "matches": matches,
         "standings": [],

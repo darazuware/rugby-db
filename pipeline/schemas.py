@@ -124,6 +124,32 @@ def normalize_name_en(name: str) -> str:
     return s
 
 
+# all.rugby と JRFU公式/国内リーグ名鑑とで下の名前の表記（愛称/正式名）が食い違い、
+# 正規化しても突合できない既知の日本代表選手（2026-07-22 実データ確認: all.rugby
+# "Mike STOLBERG" ⇔ JRFU "Michael STOLBERG"、all.rugby "Lua MAKISI" ⇔
+# league-one/JRFU "Faulua Makisi"）。normalize_name_en 後のキー同士のマッピングとして
+# 人手で確認済みのもののみ登録する（キー: all.rugby側 → 値: 国内表記側）。
+JAPAN_NAME_ALIASES = {
+    "mike stolberg": "michael stolberg",
+    "lua makisi": "faulua makisi",
+}
+
+
+def japan_name_keys(name_en: str) -> list[str]:
+    """日本代表選手の氏名突合キー（表記ゆれ吸収）。normalize_name_en に加え、
+    アポストロフィ除去版と JAPAN_NAME_ALIASES の別名を候補に足す。all.rugby由来と
+    JRFU/国内名鑑由来のどちら側の表記からでも同一人物に辿り着けるよう双方向に展開する。"""
+    keys = [normalize_name_en(name_en)]
+    stripped = normalize_name_en(name_en.replace("'", ""))
+    if stripped not in keys:
+        keys.append(stripped)
+    for k in list(keys):
+        alias = JAPAN_NAME_ALIASES.get(k)
+        if alias and alias not in keys:
+            keys.append(alias)
+    return keys
+
+
 class _StrictModel(BaseModel):
     model_config = ConfigDict(extra="forbid")
 

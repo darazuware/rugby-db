@@ -32,6 +32,11 @@ def matches_path(league: str, season: str) -> Path:
     return MASTER_DIR / "matches" / f"{league}_{season}.json"
 
 
+def callups_path(league: str) -> Path:
+    """gap B: 代表招集・合宿メンバー発表イベントのマスタ（news_id単位で追記）。"""
+    return MASTER_DIR / "callups" / f"{league}.json"
+
+
 def standings_path(league: str, season: str) -> Path:
     return MASTER_DIR / "standings" / f"{league}_{season}.json"
 

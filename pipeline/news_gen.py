@@ -219,6 +219,81 @@ def build_round_result_articles(diff: dict, *, matches_by_id: dict[str, dict], t
     return articles
 
 
+def build_call_up_articles(diff: dict, *, players_by_id: dict[str, dict],
+                           pub_date: str, source_diff: str) -> list[Article]:
+    """gap B: 招集・合宿メンバー発表イベント（diff["call_ups"]）→ ロースター記事。
+
+    本文はイベントの事実（期間・会場・メンバー一覧＋選手ページリンク）と、前回招集からの
+    「新たに選出された選手」（機械的差分）のみ。「復帰」等の含意や展望は書かない
+    （03_VALIDATION 原則2）。slug は news_id 由来で冪等（再実行で同一記事を上書き）。
+    """
+    league = diff["league"]
+    label = league_label(league)
+    articles: list[Article] = []
+    for ev in diff.get("call_ups", []):
+        news_id = ev.get("news_id")
+        members = ev.get("members", [])
+        if not news_id or not members:
+            continue
+        raw_title = (ev.get("title") or "").strip()
+        base = raw_title.replace("のお知らせ", "").strip() or f"{label} 招集メンバー"
+        n = ev.get("member_count") or len(members)
+        title = f"{base}（{n}名）"
+
+        lines: list[str] = [f"{base}（{n}名）が発表された。", ""]
+        if ev.get("start_date"):
+            lines.append(f"- 期間: {ev['start_date']}〜")
+        if ev.get("venue"):
+            lines.append(f"- 会場: {ev['venue']}")
+        lines.append("")
+
+        group_label = {"FW": "FW（フォワード）", "BK": "BK（バックス）"}
+        seen_groups = [g for g in ("FW", "BK") if any(m.get("position_group") == g for m in members)]
+        other = [m for m in members if m.get("position_group") not in ("FW", "BK")]
+        for g in seen_groups:
+            lines.append(f"**{group_label[g]}**")
+            for m in members:
+                if m.get("position_group") != g:
+                    continue
+                lines.append(_call_up_member_line(m, players_by_id))
+            lines.append("")
+        if other:
+            lines.append("**その他**")
+            for m in other:
+                lines.append(_call_up_member_line(m, players_by_id))
+            lines.append("")
+
+        new_members = ev.get("new_members", [])
+        if ev.get("has_previous") and new_members:
+            names = [_player_md(m, players_by_id) or player_display_name(m) for m in new_members]
+            names = [x for x in names if x]
+            if names:
+                lines.append("**前回招集から新たに選出**")
+                lines.append("、".join(names))
+                lines.append("")
+
+        body = "\n".join(lines).rstrip()
+        slug = f"{league}-callup-{news_id}"
+        tags = [label, "招集"]
+        if ev.get("kind") == "camp":
+            tags.append("合宿")
+        articles.append(Article(slug=slug, title=title, body=body, tags=tags,
+                                pub_date=pub_date, source_diff=source_diff))
+    return articles
+
+
+def _call_up_member_line(m: dict, players_by_id: dict[str, dict]) -> str:
+    who = _player_md(m, players_by_id) or player_display_name(m) or "（氏名不明）"
+    parts: list[str] = []
+    if m.get("club_raw"):
+        parts.append(m["club_raw"])
+    caps = m.get("caps")
+    if isinstance(caps, int):
+        parts.append(f"{caps}キャップ")
+    suffix = f"（{' / '.join(parts)}）" if parts else ""
+    return f"- {who}{suffix}"
+
+
 def build_articles_for_diff(diff: dict, *, players_by_id: dict[str, dict], teams_by_id: dict[str, dict],
                             matches_by_id: dict[str, dict], pub_date: str, source_diff: str) -> list[Article]:
     """caps_updates（週次まとめ）を除く、1回の diff から作れる記事すべて。"""
@@ -231,6 +306,8 @@ def build_articles_for_diff(diff: dict, *, players_by_id: dict[str, dict], teams
                                          pub_date=pub_date, source_diff=source_diff)
     articles += build_round_result_articles(diff, matches_by_id=matches_by_id, teams_by_id=teams_by_id,
                                             pub_date=pub_date, source_diff=source_diff)
+    articles += build_call_up_articles(diff, players_by_id=players_by_id,
+                                       pub_date=pub_date, source_diff=source_diff)
     return articles
 
 

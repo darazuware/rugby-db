@@ -83,6 +83,53 @@ def test_only_skips_player_writes_and_pending(monkeypatch, tmp_path):
     assert len(diff["newly_finished_rounds"]) == 1
 
 
+def test_national_run_writes_callup_master_and_injects_diff(monkeypatch, tmp_path):
+    """gap B: national 実行で招集イベントが callups master に永続化され、national diff に
+    call_ups が注入されて news_gen が記事化できる（--only 時はスキップ、冪等）。"""
+    import pathlib
+    from pipeline.scrape import jrfu
+
+    master_dir = tmp_path / "master"
+    monkeypatch.setattr(io, "MASTER_DIR", master_dir)
+    monkeypatch.setattr(io, "META_DIR", master_dir / "_meta")
+    monkeypatch.setattr(io, "MANUAL_DIR", tmp_path / "manual")
+
+    fx = pathlib.Path(__file__).parent / "fixtures" / "jrfu_news_callup.html"
+    event = jrfu.parse_call_up_article(fx.read_text(encoding="utf-8"),
+                                       "https://www.rugby-japan.jp/news/54087")
+    callup_players, _ = jrfu.callup_members_to_players(event)
+    for p in callup_players:
+        p["team_id"] = "japan"
+
+    def fake_national():
+        return {"players": callup_players, "teams": [], "matches": [],
+                "standings": [], "warnings": [], "call_ups": [event]}
+
+    monkeypatch.setattr(run, "SCRAPERS", {"national": fake_national})
+
+    rc = run.run_leagues(["national"], dry_run=False, only=None)
+    assert rc == 0
+
+    # callups master が書かれ、34名のイベントが1件記録される
+    master = io.read_records(io.callups_path("national"))
+    assert len(master) == 1
+    assert master[0]["id"] == "callup_national_54087"
+    assert len(master[0]["members"]) == 34
+
+    # national diff に call_ups が注入され、新規イベントとして1件入る
+    import json
+    diff = json.loads(next((io.META_DIR / "diff").glob("*_national.json")).read_text())
+    assert len(diff["call_ups"]) == 1
+    assert diff["call_ups"][0]["news_id"] == "54087"
+
+    # 2回目の実行は同一イベント＝新規なし（冪等）
+    rc2 = run.run_leagues(["national"], dry_run=False, only=None)
+    assert rc2 == 0
+    diff2 = json.loads(next((io.META_DIR / "diff").glob("*_national.json")).read_text())
+    assert diff2["call_ups"] == []
+    assert len(io.read_records(io.callups_path("national"))) == 1  # 重複追加なし
+
+
 def test_full_run_writes_players_and_pending(monkeypatch, tmp_path):
     _setup(monkeypatch, tmp_path, prev_players=[_player("a")])
 

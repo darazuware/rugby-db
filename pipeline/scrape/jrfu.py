@@ -29,12 +29,14 @@ from __future__ import annotations
 import os
 import re
 import time
+import unicodedata
 from typing import Optional
 
 import requests
 from bs4 import BeautifulSoup
 
 from pipeline import llm_fallback, school_types
+from pipeline.schemas import normalize_name_en
 from pipeline.transform import normalize
 
 BASE = "https://www.rugby-japan.jp"
@@ -177,6 +179,16 @@ _SQUAD_PATH = {
     "u19": "/u19",
     "u20": "/u20",
     "u23": "/u23",
+    "national": "/japan",
+}
+
+# 15人制日本代表スコッド一覧（/japan/member/）に掲載されていない選手（例: 大学
+# 在籍で候補どまり）でも、rugby-japan.jp の汎用選手データベース /player/{id} に
+# 個別ページを持つことがある（2026-07-23実ページ確認: /player/482538 = 矢崎由高
+# 〈早稲田大学〉、squad詳細ページと同一のHTML構造）。人手でURLを確認できたものの
+# みここに登録する（normalize_name_en(氏名) -> 数値ID）。
+_EXTRA_PLAYER_IDS = {
+    "yoshitaka yazaki": "482538",
 }
 SEVENS_SQUADS = ("sevens_m", "sevens_w")
 AGE_GRADE_SQUADS = ("u17", "u18", "u19", "u20", "u23")
@@ -427,3 +439,276 @@ def collect_age_grade() -> dict:
     players, cw = _classify_and_build(all_raws, league="age-grade")
     warnings.extend(cw)
     return {"players": players, "teams": [], "matches": [], "standings": [], "warnings": warnings}
+
+
+def collect_national_birthdates() -> dict:
+    """15人制日本代表（/japan/member/、squad="national"）を1回のfetchで収集する。
+
+    2用途を同じ /japan/member/ 一覧+詳細から取得する（二重fetchを避けるため統合）:
+
+    1. 生年月日マップ（"map"）: all.rugby の日本代表選手個別ページには生年月日が
+       載っておらず null になる（2026-07-22 確認）ため、氏名突合でJRFU公式の値を
+       正として補うためのマップ。all_rugby.collect_national() が使う。
+
+    2. スコッド選手レコード（"players"）: /japan/member/ には all.rugby の
+       /club/japan/squad（＝国際キャップ保持者）に載らない国内の代表候補
+       （例: 明大・伊藤龍之介ら大学/リーグワン所属の未キャップ選手）が含まれる。
+       これらは従来 birthdate だけ抜いて選手本体を捨てていたが、名鑑サイトとしては
+       代表候補こそ拾いたい情報のため、squad="national" のPlayerレコードとして
+       返す。all_rugby.collect_national() 側で、all.rugby由来のJapan選手と氏名突合
+       できなかった（＝キャップ無しでall.rugbyに載らない）者のみ national.json に
+       追加する。当代表チームのキャップ・career等の正データ源は引き続き all.rugby。
+
+    戻り値: {"map": {normalize_name_en(氏名): {"birthdate": "YYYY/MM/DD",
+    "source_url": str}}, "players": [Player dict, ...], "warnings": [...]}
+    """
+    res = _collect_squad("national")
+    warnings = list(res["warnings"])
+
+    # /japan/member/ の raws をそのままPlayerレコード化（squad="national"）。
+    # team_id はここでは None のまま（player_jrfu_squad の既定）。国別グルーピング用の
+    # team_id="japan" は all_rugby.collect_national() 追加時に付与する。
+    squad_players, pw = _classify_and_build(res["raws"], league="national")
+    warnings.extend(pw)
+    name_map: dict[str, dict] = {}
+    for raw in res["raws"]:
+        name_en = raw.get("name_en")
+        birthdate = raw.get("birthdate")
+        if not name_en or not birthdate:
+            continue
+        entry = {"birthdate": birthdate, "source_url": raw["detail_url"]}
+        # normalize_name_en はアポストロフィを空白に変換するため、all.rugby側の
+        # 表記（アポストロフィなし）と食い違うことがある（例: HA'ANGANA）。
+        # アポストロフィを削除した版も突合キーとして併せて登録する。
+        for key in {normalize_name_en(name_en), normalize_name_en(name_en.replace("'", ""))}:
+            name_map[key] = entry
+
+    for key, player_id in _EXTRA_PLAYER_IDS.items():
+        if key in name_map:
+            continue
+        detail_url = f"{BASE}/player/{player_id}"
+        html = _get_html(detail_url)
+        time.sleep(_SLEEP)
+        if html is None:
+            warnings.append(f"jrfu national extra: /player/{player_id} 取得失敗、スキップ")
+            continue
+        raw = _parse_detail(html, detail_url)
+        if not raw.get("birthdate"):
+            continue
+        name_map[key] = {"birthdate": raw["birthdate"], "source_url": detail_url}
+
+    return {"map": name_map, "players": squad_players, "warnings": warnings}
+
+
+# ---------------------------------------------------------------------------
+# gap B: 招集・合宿メンバー発表ニュース。
+#   /news/category/national/ の「参加メンバーのお知らせ」記事本文には、FW/BKごとの
+#   HTMLテーブル（氏名和英・所属チーム和英・出身校和英・身長・体重・生年月日・キャップ）が
+#   埋まっており、選手個別ページ（detail）を辿らずとも34名分の事実を直接取得できる
+#   （2026-07-23 /news/54087 実ページで確認）。標準の登録メンバー表(/japan/member/)に
+#   載らない追加招集・合宿参加選手（＝名鑑サイトが最も拾いたい代表候補）を、招集イベント
+#   として拾うためのソース。純関数（list_national_callup_news / parse_call_up_article）と
+#   ネットワーク収集（collect_call_ups）に分け、前者をフィクスチャで単体テストする。
+# ---------------------------------------------------------------------------
+_NEWS_BASE = f"{BASE}/news"
+_NEWS_CATEGORY_NATIONAL = f"{_NEWS_BASE}/category/national/"
+_NEWS_ID_RE = re.compile(r"/news/(\d+)")
+_DATE_YMD_JP = re.compile(r"(\d{4})年\s*(\d{1,2})月\s*(\d{1,2})日")
+_DATE_YMD_DOT = re.compile(r"(\d{4})\.(\d{1,2})\.(\d{1,2})")
+_POS_HEAD_RE = re.compile(r"[■●]?\s*(FW|BK)")
+# 男子15人制代表のロースター発表のみを対象にする事前フィルタ。女子/セブンズ/U世代/
+# レポート/実施予告は本タスク（league="national"）の対象外。本文テーブル有無での最終
+# 判定（parse側でNone返し）と併せた二段構えで、タイトルだけの誤判定を本文で救済する。
+_CALLUP_TITLE_INCLUDE = re.compile(r"(参加メンバー|招集メンバー)")
+_CALLUP_TITLE_EXCLUDE = re.compile(
+    r"(セブンズ|7人制|７人制|女子|U-?2\d|U-?1\d|ジュニア|SDS|デベロップメント|"
+    r"レポート|リポート|実施のお知らせ|TID|大学選抜)")
+_CALLUP_KIND = (("合宿", "camp"), ("遠征", "tour"), ("登録", "squad"), ("スコッド", "squad"))
+_CALLUP_MAX_ARTICLES = 8  # 一覧上位のみ本文確認（過剰fetch防止）
+
+
+def _nfc(text: Optional[str]) -> Optional[str]:
+    """JRFUニュースHTMLは濁点分解（NFD、例「バ」=「ハ」+U+3099）で配信されることがある
+    （2026-07-23 /news/54087 で確認）。正規表現・氏名突合が壊れるためNFCに正規化する。"""
+    return unicodedata.normalize("NFC", text) if text else text
+
+
+def _callup_kind(title: str) -> str:
+    for kw, kind in _CALLUP_KIND:
+        if kw in title:
+            return kind
+    return "squad"
+
+
+def _callup_title_head(link_text: str) -> str:
+    """一覧リンクは「タイトル 2026.7.23 （曜）本文抜粋…」の連結なので、日付トークンの
+    手前までをタイトルとみなす（本文抜粋の語で誤フィルタしないため）。"""
+    link_text = _nfc(link_text) or ""
+    m = _DATE_YMD_DOT.search(link_text)
+    return link_text[: m.start()].strip() if m else link_text.strip()
+
+
+def list_national_callup_news(html: str) -> list[dict]:
+    """カテゴリ一覧HTML → [{news_id, url, title}]（タイトル事前フィルタ通過分のみ）。"""
+    soup = BeautifulSoup(html, "html.parser")
+    seen: set[str] = set()
+    out: list[dict] = []
+    for a in soup.find_all("a", href=_NEWS_ID_RE):
+        m = _NEWS_ID_RE.search(a.get("href", ""))
+        if not m:
+            continue
+        nid = m.group(1)
+        if nid in seen:
+            continue
+        title = _callup_title_head(a.get_text(" ", strip=True))
+        if not _CALLUP_TITLE_INCLUDE.search(title) or _CALLUP_TITLE_EXCLUDE.search(title):
+            continue
+        seen.add(nid)
+        out.append({"news_id": nid, "url": f"{_NEWS_BASE}/{nid}", "title": title})
+    return out
+
+
+def _cell_ja_en(cell) -> tuple[Optional[str], Optional[str]]:
+    """テーブルセル（<p>和文</p><p>英文</p>）→ (和文, 英文)。"""
+    ps = [_nfc(p.get_text(" ", strip=True).replace("\xa0", " ").strip()) for p in cell.find_all("p")]
+    ps = [p for p in ps if p]
+    if not ps:
+        t = _nfc(cell.get_text(" ", strip=True).replace("\xa0", " ").strip())
+        return (t or None, None)
+    return (ps[0] or None, (ps[1] if len(ps) > 1 else None) or None)
+
+
+def parse_call_up_article(html: str, url: str) -> Optional[dict]:
+    """招集・合宿メンバー記事HTML → イベントdict。メンバーテーブルが無ければNone
+    （＝ロースター記事でない。実施予告・レポート等をここで確実に弾く）。"""
+    soup = BeautifulSoup(html, "html.parser")
+    title = None
+    tt = soup.find("title")
+    if tt:
+        title = _nfc(tt.get_text(strip=True).split("｜")[0].strip()) or None
+
+    member_tables = []
+    for t in soup.find_all("table"):
+        head = t.find("tr")
+        if head and "名前" in head.get_text(" ", strip=True) and "キャップ" in head.get_text(" ", strip=True):
+            member_tables.append(t)
+    if not member_tables:
+        return None
+
+    members: list[dict] = []
+    for t in member_tables:
+        pg = None
+        prev = t
+        for _ in range(6):
+            prev = prev.find_previous(["p", "h2", "h3", "h4", "strong", "b"])
+            if prev is None:
+                break
+            m = _POS_HEAD_RE.search(prev.get_text(" ", strip=True))
+            if m:
+                pg = m.group(1)
+                break
+        for r in t.find_all("tr")[1:]:
+            cells = r.find_all(["td", "th"])
+            if len(cells) < 7:
+                continue
+            name_ja, name_en = _cell_ja_en(cells[0])
+            if not (name_ja or name_en):
+                continue
+            club_ja, _ = _cell_ja_en(cells[1])
+            school_ja, _ = _cell_ja_en(cells[2])
+            caps_raw = cells[6].get_text(strip=True)
+            members.append({
+                "name_ja": name_ja,
+                "name_en": name_en,
+                "position_group": pg,
+                "club_raw": club_ja,
+                "school_raw": school_ja,
+                "height_cm": _num(cells[3].get_text(strip=True)),
+                "weight_kg": _num(cells[4].get_text(strip=True)),
+                "birthdate": cells[5].get_text(strip=True) or None,
+                "caps": int(caps_raw) if caps_raw.isdigit() else None,
+            })
+    if not members:
+        return None
+
+    body_text = _nfc(soup.get_text("\n", strip=True)) or ""
+    start_date = venue = None
+    for line in body_text.split("\n"):
+        if start_date is None and ("日程" in line or "期間" in line):
+            m = _DATE_YMD_JP.search(line)
+            if m:
+                start_date = f"{int(m.group(1)):04d}-{int(m.group(2)):02d}-{int(m.group(3)):02d}"
+        if venue is None and "会場" in line:
+            mq = re.search(r"「([^」]+)」", line)
+            if mq:
+                venue = mq.group(1).strip()
+    nid_m = _NEWS_ID_RE.search(url)
+    return {
+        "news_id": nid_m.group(1) if nid_m else None,
+        "source_url": url,
+        "title": title,
+        "kind": _callup_kind(title or ""),
+        "venue": venue,
+        "start_date": start_date,
+        "members": members,
+        "warnings": [],
+    }
+
+
+def callup_members_to_players(event: dict, *, league: str = "national") -> tuple[list[dict], list[str]]:
+    """招集イベントのメンバー行 → Player dict リスト（facts統合用）。
+
+    所属チーム(club_raw)→career、出身校(school_raw)→education(hs/univは正規表現分類)。
+    出身校が単一の学校名（bio自由記述でない）なのでLLMフォールバックは不要。
+    """
+    players: list[dict] = []
+    warnings: list[str] = []
+    src = event.get("source_url")
+    for m in event.get("members", []):
+        education: list[dict] = []
+        career: list[dict] = []
+        school = m.get("school_raw")
+        if school:
+            t = _classify_school_regex(school)
+            if t is not None:
+                education.append({"name_raw": school, "type": t})
+            else:
+                warnings.append(f"jrfu callup: 出身校 {school!r} をtype判定できずeducationから除外")
+        club = m.get("club_raw")
+        if club:
+            career.append({"team": club})
+        raw = dict(m)
+        raw["_education"] = education
+        raw["_career"] = career
+        player, pw = normalize.player_jrfu_callup(raw, league=league, source_url=src)
+        warnings.extend(pw)
+        if player is not None:
+            players.append(player)
+    return players, warnings
+
+
+def collect_call_ups() -> dict:
+    """/news/category/national/ から男子代表の招集・合宿メンバー発表を収集する（gap B）。
+
+    戻り値: {"events": [parse_call_up_article の出力, ...], "warnings": [...]}。
+    events は news_id 昇順（＝発表が新しいものほど大きい）にソートして返す。
+    """
+    warnings: list[str] = []
+    idx = _get_html(_NEWS_CATEGORY_NATIONAL)
+    if idx is None:
+        return {"events": [], "warnings": ["jrfu callup: カテゴリ一覧取得失敗、スキップ"]}
+    cands = list_national_callup_news(idx)[:_CALLUP_MAX_ARTICLES]
+    events: list[dict] = []
+    for c in cands:
+        html = _get_html(c["url"])
+        time.sleep(_SLEEP)
+        if html is None:
+            warnings.append(f"jrfu callup: {c['url']} 取得失敗、スキップ")
+            continue
+        ev = parse_call_up_article(html, c["url"])
+        if ev is None:
+            continue
+        warnings.extend(ev.pop("warnings", []))
+        events.append(ev)
+    events.sort(key=lambda e: int(e["news_id"]) if (e.get("news_id") or "").isdigit() else 0)
+    return {"events": events, "warnings": warnings}
