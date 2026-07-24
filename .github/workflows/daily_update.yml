@@ -71,6 +71,7 @@ jobs:
             echo "変更なし。コミットしない。"
           else
             git commit -m "chore: daily_update $(date +'%Y-%m-%d %H:%M JST') (${{ steps.mode.outputs.mode }})"
+            git pull --rebase --autostash
             git push
           fi
 
