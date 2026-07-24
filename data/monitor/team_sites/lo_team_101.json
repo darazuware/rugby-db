@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-07-24T15:35:07+09:00",
+  "checked_at": "2026-07-24T21:14:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "825618e8fb7d8dcf"
+      "hash": "408da6b2cd840177"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "2d5f460dcfcb7041"
+      "hash": "1918c0e7846d4e10"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,16 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post34910/",
+      "title": "2026/7/24 イベント 7月28日(火)「第43回元町夜市2026」でラグビー体験を実施します",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post34906/",
+      "title": "2026/7/24 イベント 【イベントレポート】商店街の皆さまへ優勝報告と感謝のお礼訪問を実施しました",
+      "date": "2026-07-24"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post34902/",
       "title": "2026/7/24 チーム マシュー・ダルトン選手2026-27シーズン新加入のお知らせ",
@@ -161,11 +171,6 @@
       "date": "2026-07-06"
     },
     {
-      "url": "https://www.kobesteelers.com/interview/post34711/",
-      "title": "2026/7/6 チーム 【Road to RWC2027】「ネーションズチャンピオンシップ2026」日本代表 vs イタリア代表レポート",
-      "date": "2026-07-06"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post34673/",
       "title": "2026/7/3 普及 【レポート】神戸市立駒ヶ林小学校でタグラグビー教室を実施しました",
       "date": "2026-07-03"
@@ -226,11 +231,6 @@
       "date": "2026-06-25"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post34521/",
-      "title": "2026/6/23 イベント 神戸阪急にて開催される「KOBE SPORTS CROSSOVER！～神戸を熱くする3つの力～」に出展いたします",
-      "date": "2026-06-23"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post34513/",
       "title": "2026/6/23 イベント 【レポート】NTTリーグワン2025-26優勝報告会を開催しました",
       "date": "2026-06-23"
@@ -259,11 +259,6 @@
       "url": "https://www.kobesteelers.com/news/post34503/",
       "title": "チーム NTTリーグワン2025-26 優勝記念特設ページを公開いたしました！ 2026/6/19",
       "date": "2026-06-19"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34372/",
-      "title": "2026/6/18 イベント 【レポート】6月14日(日)兵庫県立神戸高校ラグビー部創部100周年記念イベントに参加しました",
-      "date": "2026-06-18"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34334/",
@@ -324,6 +319,11 @@
       "url": "https://www.kobesteelers.com/news/post30112/",
       "title": "2025/12/10 お知らせ 【レポート】神戸三宮センター街でのチームPR活動実施しました",
       "date": "2025-12-10"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post30174/",
+      "title": "2025/12/9 お知らせ NTTリーグワン2025-26の開幕に向け、チームとして各PR活動を展開中",
+      "date": "2025-12-09"
     }
   ]
 }

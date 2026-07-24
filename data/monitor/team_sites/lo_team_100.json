@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-07-24T15:35:07+09:00",
+  "checked_at": "2026-07-24T21:14:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "1fec09a3823b5021"
+      "hash": "a96b7a2091dbf50c"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "6d1ee95c822abd75"
+      "hash": "08c1daa2a044d22c"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/partner/index_1982.html",
+      "title": "パートナー 2026.07.24 2026-27シーズン パートナーシップのご案内",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_1990.html",
+      "title": "イベント 2026.07.24 2026.8.7 第1回 浦安D-Rocks OB選手と語ろう「D-Link」イベント参加者募集のお知らせ",
+      "date": "2026-07-24"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1989.html",
       "title": "イベント 2026.07.24 2026.7.2～6 千葉県立浦安高等学校よりインターンシップを受け入れました",
@@ -59,12 +69,12 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/cheer/index_1983.html",
-      "title": "チア 2026.07.09 D-Rocks Cheerleaders 第5期メンバー募集のお知らせ",
+      "title": "2026.07.09 ニュース D-Rocks Cheerleaders 第5期メンバー募集のお知らせ",
       "date": "2026-07-09"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_1978.html",
-      "title": "パートナー 2026.07.02 Nolook商事株式会社とオフィシャルサプライヤー 契約締結のお知らせ",
+      "title": "2026.07.02 ニュース Nolook商事株式会社とオフィシャルサプライヤー 契約締結のお知らせ",
       "date": "2026-07-02"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/game/index_1922.html",
       "title": "2026.04.26 ニュース 【更新】5月1日(金) 第17節 vs 埼玉パナソニックワイルドナイツ ホストゲーム情報",
       "date": "2026-04-26"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_1936.html",
-      "title": "2026.04.23 ニュース 【メンバー発表】トレーニングマッチ ヤクルトレビンズ戸田戦（4月25日）",
-      "date": "2026-04-23"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_1906.html",
-      "title": "2026.04.23 ニュース 【更新】4月24日(金) 第16節 vs 静岡ブルーレヴズ ホストゲーム情報",
-      "date": "2026-04-23"
     }
   ]
 }

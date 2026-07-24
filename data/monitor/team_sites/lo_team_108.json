@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-07-24T15:35:07+09:00",
+  "checked_at": "2026-07-24T21:14:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "1bde52b7d5b9bede"
+      "hash": "5b2290cc823f9ffb"
     }
   ],
   "items": [
     {
-      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20260723b.html",
-      "title": "7月26日(日)「第45回 川場まつり」参加のお知らせ",
-      "date": "2026-07-23"
+      "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260724b.html",
+      "title": "ニュージーランド留学レポート②（青木拓己選手）",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260724a.html",
+      "title": "ニュージーランド留学レポート①（南昂伸選手）",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260724a.html",
+      "title": "ラムズの夏休み2026限定『Japan Rugby ID』登録キャンペーンのお知らせ",
+      "date": "2026-07-24"
     },
     {
       "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260723a.html",
@@ -27,16 +37,6 @@
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260722a.html",
       "title": "「BlackRamsTokyoが二子玉川ライズにやってくる！ラムズの夏休み2026」詳細情報",
       "date": "2026-07-22"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260721a.html",
-      "title": "ブラックラムズ東京オンラインショップ 新グッズ販売のお知らせ",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20260721b.html",
-      "title": "7月29日(水)・31日(金) RAMOVE限定「練習見学＆グラウンド開放イベント」のご案内",
-      "date": "2026-07-21"
     }
   ]
 }

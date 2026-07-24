@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-07-24T15:35:07+09:00",
+  "checked_at": "2026-07-24T21:14:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "e2cdf1bb78471813"
+      "hash": "d25c0a38a92bd2ab"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "5be3d44574bdf7e0"
+      "hash": "040b651b4b70ff88"
     }
   ],
   "items": [
@@ -31,6 +31,11 @@
       "url": "https://www.kurita-watergush.jp/game/20261017-gw%e6%9d%b1%e8%91%9b-vswg%e6%98%ad%e5%b3%b6/",
       "title": "このゲームの詳細情報はこちら",
       "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20260724-2/",
+      "title": "お知らせ 2026-27シーズン 新加入選手のお知らせ",
+      "date": "2026-07-24"
     },
     {
       "url": "https://www.kurita-watergush.jp/20260707-2/",
@@ -69,7 +74,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20260512-2-2/",
-      "title": "お知らせ 2025ｰ26シーズンの御礼",
+      "title": "お知らせ 公開日：2026/05/12 2025ｰ26シーズンの御礼 クリタウォーターガッシュ昭島は、「NTTジャパンラグビーリーグワン2025ｰ26シーズン」をDiv.3・3位という結果でシーズンを終了しました。 Div.3 優勝、Div.2昇格を目指し、スター… 続きを読む",
       "date": "2026-05-12"
     },
     {
@@ -231,11 +236,6 @@
       "url": "https://www.kurita-watergush.jp/20250428-2/",
       "title": "お知らせ 公開日：2025/04/28 5月10日(土) 狭山セコムラガッツ戦 ホストゲームイベントのご案内 5月10日(土) リーグワンD3 第15節 狭山セコムラガッツ戦のホストゲームイベントをお知らせいたします。試合開催にあたり、本厚木駅(小田急線)と厚木市荻野運動公園競技場を往復する無料シャトル… 続きを読む",
       "date": "2025-04-28"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20250408-3/",
-      "title": "2024-25シーズン オフィシャルファンクラブイベント開催のお知らせ（※4月24日情報更新）",
-      "date": "2025-04-08"
     }
   ]
 }
