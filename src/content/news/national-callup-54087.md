@@ -12,6 +12,11 @@ draft: false
 - 期間: 2026-07-25〜
 - 会場: 網走スポーツ・トレーニングフィールド
 
+**メンバー構成**
+- 初選出（0キャップ）: 4名 — [平野 叶翔](/players/kanato-hirano-507122/)、[渡邊 晴斗](/players/haruto-watanabe-506359/)、[平 翔太](/players/shota-taira-506503/)、[イノケ・ブルア](/players/inoke-burua-506369/)
+- 所属クラブ・大学: 14
+- 最多キャップ: [リーチ マイケル](/players/michael-leitch/)（95キャップ）
+
 **FW（フォワード）**
 - [大塚 壮二郎](/players/sojiro-otsuka/)（関西学院大学 / 3キャップ）
 - [岡部 崇人](/players/takato-okabe/)（[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/) / 11キャップ）

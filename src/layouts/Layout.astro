@@ -142,11 +142,6 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 						>名鑑</a
 					>
 					<a
-						href="/national-teams"
-						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap flex-shrink-0"
-						>出場国</a
->
-					<a
 						href="/results"
 						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap flex-shrink-0"
 						>戦績</a
@@ -156,11 +151,33 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap flex-shrink-0"
 						>ニュース</a
 					>
-					<a
-						href="/rwc2027"
-						class="text-yellow-400 hover:text-yellow-500 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap flex-shrink-0 font-bold"
-						>RWC2027</a
-					>
+					<details class="relative flex-shrink-0 group/rwc [&_summary::-webkit-details-marker]:hidden">
+						<summary
+							class="list-none cursor-pointer text-yellow-400 hover:text-yellow-500 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap font-bold flex items-center gap-1"
+							>RWC2027<svg
+								xmlns="http://www.w3.org/2000/svg"
+								class="w-3 h-3 transition-transform group-open/rwc:rotate-180"
+								viewBox="0 0 20 20"
+								fill="currentColor"
+								><path
+									fill-rule="evenodd"
+									d="M5.23 7.21a.75.75 0 011.06.02L10 11.293l3.71-4.06a.75.75 0 111.08 1.04l-4.25 4.65a.75.75 0 01-1.08 0l-4.25-4.65a.75.75 0 01.02-1.06z"
+									clip-rule="evenodd"></path></svg
+							></summary
+						>
+						<div class="absolute right-0 mt-2 bg-card border border-border-dim rounded-lg shadow-xl overflow-hidden z-50 min-w-[160px]">
+							<a
+								href="/rwc2027"
+								class="block px-4 py-3 text-foreground hover:bg-yellow-400/10 hover:text-yellow-400 transition-colors text-xs font-bold whitespace-nowrap"
+								>大会情報</a
+							>
+							<a
+								href="/national-teams"
+								class="block px-4 py-3 text-foreground hover:bg-yellow-400/10 hover:text-yellow-400 transition-colors text-xs font-bold whitespace-nowrap"
+								>出場国一覧</a
+							>
+						</div>
+					</details>
 										<div class="hidden xs:block flex-shrink-0 ml-1">
 						<ThemeToggle client:load />
 					</div>

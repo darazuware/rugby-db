@@ -321,6 +321,12 @@ def build_call_up_articles(diff: dict, *, players_by_id: dict[str, dict],
             lines.append(f"- 会場: {ev['venue']}")
         lines.append("")
 
+        stats_lines = _call_up_stats_lines(members, players_by_id)
+        if stats_lines:
+            lines.append("**メンバー構成**")
+            lines.extend(stats_lines)
+            lines.append("")
+
         group_label = {"FW": "FW（フォワード）", "BK": "BK（バックス）"}
         seen_groups = [g for g in ("FW", "BK") if any(m.get("position_group") == g for m in members)]
         other = [m for m in members if m.get("position_group") not in ("FW", "BK")]
@@ -374,6 +380,32 @@ def build_call_up_articles(diff: dict, *, players_by_id: dict[str, dict],
         articles.append(Article(slug=slug, title=title, body=body, tags=tags,
                                 pub_date=pub_date, source_diff=source_diff))
     return articles
+
+
+def _call_up_stats_lines(members: list[dict], players_by_id: dict[str, dict]) -> list[str]:
+    """メンバー一覧から機械的に集計できる構成情報のみを箇条書きにする（原則2: 事実の創作禁止）。
+    caps / club_raw が揃っている件数だけを対象にする（欠損は集計から除外し、捏造しない）。"""
+    lines: list[str] = []
+
+    uncapped = [m for m in members if m.get("caps") == 0]
+    if uncapped:
+        names = [_player_md(m, players_by_id) or player_display_name(m) for m in uncapped]
+        names = [x for x in names if x]
+        if names:
+            lines.append(f"- 初選出（0キャップ）: {len(names)}名 — " + "、".join(names))
+
+    clubs = {m["club_raw"] for m in members if m.get("club_raw")}
+    if clubs:
+        lines.append(f"- 所属クラブ・大学: {len(clubs)}")
+
+    capped = [m for m in members if isinstance(m.get("caps"), int) and m["caps"] > 0]
+    if capped:
+        top = max(capped, key=lambda m: m["caps"])
+        who = _player_md(top, players_by_id) or player_display_name(top)
+        if who:
+            lines.append(f"- 最多キャップ: {who}（{top['caps']}キャップ）")
+
+    return lines
 
 
 def _call_up_member_line(m: dict, players_by_id: dict[str, dict]) -> str:
