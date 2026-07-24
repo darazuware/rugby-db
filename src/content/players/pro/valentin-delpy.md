@@ -1,7 +1,7 @@
 ---
-title: "Valentin DELPY"
+title: "ヴァランタン・デルピ"
 name_en: "Valentin DELPY"
-name_ja: "Valentin DELPY"
+name_ja: "ヴァランタン・デルピ"
 slug: "valentin-delpy"
 position: "Fly-half"
 height: ""

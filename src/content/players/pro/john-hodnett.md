@@ -1,7 +1,7 @@
 ---
-title: "John HODNETT | ジョン HODNETT"
+title: "John HODNETT | ジョン・ホドネット"
 name_en: "John HODNETT"
-name_ja: "ジョン HODNETT"
+name_ja: "ジョン・ホドネット"
 slug: "john-hodnett"
 position: "Back row"
 height: "185"

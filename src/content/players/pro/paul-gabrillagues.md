@@ -1,7 +1,7 @@
 ---
-title: "Paul GABRILLAGUES"
+title: "ポール・ガブリヤーグ"
 name_en: "Paul GABRILLAGUES"
-name_ja: "Paul GABRILLAGUES"
+name_ja: "ポール・ガブリヤーグ"
 slug: "paul-gabrillagues"
 position: "LO"
 height: "199"

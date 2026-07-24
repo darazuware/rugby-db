@@ -1,7 +1,7 @@
 ---
-title: "Hamish MACARTHUR"
+title: "ヘイミッシュ・マッカーサー"
 name_en: "Hamish MACARTHUR"
-name_ja: "Hamish MACARTHUR"
+name_ja: "ヘイミッシュ・マッカーサー"
 slug: "hamish-macarthur"
 position: "SH"
 height: ""

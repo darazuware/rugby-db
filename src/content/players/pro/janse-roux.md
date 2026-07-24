@@ -1,7 +1,7 @@
 ---
-title: "Janse ROUX"
+title: "ジャンス・ルー"
 name_en: "Janse ROUX"
-name_ja: "Janse ROUX"
+name_ja: "ジャンス・ルー"
 slug: "janse-roux"
 position: "LO"
 height: "200"

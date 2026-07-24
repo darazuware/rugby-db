@@ -1,7 +1,7 @@
 ---
-title: "Loic VARENNES"
+title: "ロイック・ヴァレンヌ"
 name_en: "Loic VARENNES"
-name_ja: "Loic VARENNES"
+name_ja: "ロイック・ヴァレンヌ"
 slug: "loic-varennes"
 position: "Prop"
 height: ""

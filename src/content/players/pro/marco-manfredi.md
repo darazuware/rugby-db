@@ -1,7 +1,7 @@
 ---
-title: "Marco MANFREDI"
+title: "マルコ・マンフレディ"
 name_en: "Marco MANFREDI"
-name_ja: "Marco MANFREDI"
+name_ja: "マルコ・マンフレディ"
 slug: "marco-manfredi"
 position: "Hooker"
 height: ""

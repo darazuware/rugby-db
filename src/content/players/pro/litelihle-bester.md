@@ -1,7 +1,7 @@
 ---
-title: "Litelihle BESTER"
+title: "リテリレ・ベスター"
 name_en: "Litelihle BESTER"
-name_ja: "Litelihle BESTER"
+name_ja: "リテリレ・ベスター"
 slug: "litelihle-bester"
 position: "CTB"
 height: "187"

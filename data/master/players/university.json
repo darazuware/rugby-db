@@ -9945,7 +9945,11 @@
     "weight_kg": 86,
     "birthdate": null,
     "nationality": [],
-    "caps": null,
+    "caps": {
+      "team": "Japan",
+      "count": 12,
+      "source_url": "https://all.rugby/player/yoshitaka-yazaki"
+    },
     "league_caps": null,
     "career": [],
     "season_stats": null,
@@ -9964,7 +9968,9 @@
     "squad": "kanto_taikosen_a",
     "is_featured": false,
     "is_minor": false,
-    "merged_from": []
+    "merged_from": [
+      "ar_yoshitaka-yazaki"
+    ]
   },
   {
     "id": "univ_早稲田大学__矢澤翼",

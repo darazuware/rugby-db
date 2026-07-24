@@ -1,7 +1,7 @@
 ---
-title: "Damian MCKENZIE"
+title: "デイミアン・マッケンジー"
 name_en: "Damian MCKENZIE"
-name_ja: "Damian MCKENZIE"
+name_ja: "デイミアン・マッケンジー"
 slug: "damian-mckenzie"
 position: "SO"
 height: "177"

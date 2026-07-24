@@ -1,7 +1,7 @@
 ---
-title: "Caspar GABRIEL"
+title: "キャスパー・ガブリエル"
 name_en: "Caspar GABRIEL"
-name_ja: "Caspar GABRIEL"
+name_ja: "キャスパー・ガブリエル"
 slug: "caspar-gabriel"
 position: "SO"
 height: "190"

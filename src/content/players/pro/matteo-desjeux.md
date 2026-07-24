@@ -1,7 +1,7 @@
 ---
-title: "Matteo DESJEUX"
+title: "マテオ・デジュー"
 name_en: "Matteo DESJEUX"
-name_ja: "Matteo DESJEUX"
+name_ja: "マテオ・デジュー"
 slug: "matteo-desjeux"
 position: "LO"
 height: "200"

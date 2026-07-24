@@ -1,7 +1,7 @@
 ---
-title: "Callum REID"
+title: "カラム・リード"
 name_en: "Callum REID"
-name_ja: "Callum REID"
+name_ja: "カラム・リード"
 slug: "callum-reid"
 position: "PR"
 height: "183"

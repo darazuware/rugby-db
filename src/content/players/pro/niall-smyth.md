@@ -1,7 +1,7 @@
 ---
-title: "Niall SMYTH | ナイル SMYTH"
+title: "Niall SMYTH | ニアル・スミス"
 name_en: "Niall SMYTH"
-name_ja: "ナイル SMYTH"
+name_ja: "ニアル・スミス"
 slug: "niall-smyth"
 position: "PR"
 height: "191"

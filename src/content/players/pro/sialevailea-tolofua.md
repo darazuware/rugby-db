@@ -1,7 +1,7 @@
 ---
-title: "Sialevailea TOLOFUA"
+title: "シアレヴァイレア・トロフア"
 name_en: "Sialevailea TOLOFUA"
-name_ja: "Sialevailea TOLOFUA"
+name_ja: "シアレヴァイレア・トロフア"
 slug: "sialevailea-tolofua"
 position: "Back row"
 height: ""

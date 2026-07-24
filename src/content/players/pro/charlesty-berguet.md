@@ -1,7 +1,7 @@
 ---
-title: "Charlesty BERGUET"
+title: "シャルレスティ・ベルゲ"
 name_en: "Charlesty BERGUET"
-name_ja: "Charlesty BERGUET"
+name_ja: "シャルレスティ・ベルゲ"
 slug: "charlesty-berguet"
 position: "PR"
 height: "185"

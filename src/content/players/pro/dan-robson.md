@@ -1,7 +1,7 @@
 ---
-title: "Dan ROBSON"
+title: "ダン・ロブソン"
 name_en: "Dan ROBSON"
-name_ja: "Dan ROBSON"
+name_ja: "ダン・ロブソン"
 slug: "dan-robson"
 position: "SH"
 height: "173"

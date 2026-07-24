@@ -1,7 +1,7 @@
 ---
-title: "Ben EVANS | ベン EVANS"
+title: "Ben EVANS | ベン・エヴァンス"
 name_en: "Ben EVANS"
-name_ja: "ベン EVANS"
+name_ja: "ベン・エヴァンス"
 slug: "ben-evans-"
 position: "FB"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Tom ROBERTSON"
+title: "トム・ロバートソン"
 name_en: "Tom ROBERTSON"
-name_ja: "Tom ROBERTSON"
+name_ja: "トム・ロバートソン"
 slug: "tom-robertson"
 position: "PR"
 height: "181"

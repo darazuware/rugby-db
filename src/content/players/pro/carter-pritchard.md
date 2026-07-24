@@ -1,7 +1,7 @@
 ---
-title: "Carter PRITCHARD"
+title: "カーター・プリチャード"
 name_en: "Carter PRITCHARD"
-name_ja: "Carter PRITCHARD"
+name_ja: "カーター・プリチャード"
 slug: "carter-pritchard"
 position: "SH"
 height: "173"

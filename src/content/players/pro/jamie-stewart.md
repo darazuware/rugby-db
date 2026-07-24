@@ -1,7 +1,7 @@
 ---
-title: "Jamie STEWART"
+title: "ジェイミー・スチュワート"
 name_en: "Jamie STEWART"
-name_ja: "Jamie STEWART"
+name_ja: "ジェイミー・スチュワート"
 slug: "jamie-stewart"
 position: "PR"
 height: "194"

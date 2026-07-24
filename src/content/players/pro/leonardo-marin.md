@@ -1,7 +1,7 @@
 ---
-title: "Leonardo MARIN"
+title: "レオナルド・マリン"
 name_en: "Leonardo MARIN"
-name_ja: "Leonardo MARIN"
+name_ja: "レオナルド・マリン"
 slug: "leonardo-marin"
 position: "SO"
 height: "188"

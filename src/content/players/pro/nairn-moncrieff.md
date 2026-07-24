@@ -1,7 +1,7 @@
 ---
-title: "Nairn MONCRIEFF"
+title: "ネアン・モンクリーフ"
 name_en: "Nairn MONCRIEFF"
-name_ja: "Nairn MONCRIEFF"
+name_ja: "ネアン・モンクリーフ"
 slug: "nairn-moncrieff"
 position: "WTB"
 height: "178"

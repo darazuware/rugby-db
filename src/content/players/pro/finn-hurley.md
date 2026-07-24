@@ -1,7 +1,7 @@
 ---
-title: "Finn HURLEY"
+title: "フィン・ハーレー"
 name_en: "Finn HURLEY"
-name_ja: "Finn HURLEY"
+name_ja: "フィン・ハーレー"
 slug: "finn-hurley"
 position: "FB"
 height: "175"

@@ -1,7 +1,7 @@
 ---
-title: "Aled DAVIES"
+title: "エイルド・デイヴィス"
 name_en: "Aled DAVIES"
-name_ja: "Aled DAVIES"
+name_ja: "エイルド・デイヴィス"
 slug: "aled-davies"
 position: "SH"
 height: "178"

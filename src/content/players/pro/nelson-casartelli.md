@@ -1,7 +1,7 @@
 ---
-title: "Nelson CASARTELLI"
+title: "ネルソン・カザルテッリ"
 name_en: "Nelson CASARTELLI"
-name_ja: "Nelson CASARTELLI"
+name_ja: "ネルソン・カザルテッリ"
 slug: "nelson-casartelli"
 position: "FL/No8"
 height: "182"

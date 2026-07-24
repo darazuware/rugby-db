@@ -1,7 +1,7 @@
 ---
-title: "Callum CHICK"
+title: "カラム・チック"
 name_en: "Callum CHICK"
-name_ja: "Callum CHICK"
+name_ja: "カラム・チック"
 slug: "callum-chick"
 position: "Back row"
 height: ""

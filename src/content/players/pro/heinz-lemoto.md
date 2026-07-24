@@ -1,7 +1,7 @@
 ---
-title: "Heinz LEMOTO"
+title: "ハインツ・レモト"
 name_en: "Heinz LEMOTO"
-name_ja: "Heinz LEMOTO"
+name_ja: "ハインツ・レモト"
 slug: "heinz-lemoto"
 position: "Back row"
 height: ""

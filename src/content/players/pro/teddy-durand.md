@@ -1,7 +1,7 @@
 ---
-title: "Teddy DURAND"
+title: "テディ・デュラン"
 name_en: "Teddy DURAND"
-name_ja: "Teddy DURAND"
+name_ja: "テディ・デュラン"
 slug: "teddy-durand"
 position: "HO"
 height: "180"

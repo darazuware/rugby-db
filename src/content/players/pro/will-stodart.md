@@ -1,7 +1,7 @@
 ---
-title: "Will STODART"
+title: "ウィル・ストダート"
 name_en: "Will STODART"
-name_ja: "Will STODART"
+name_ja: "ウィル・ストダート"
 slug: "will-stodart"
 position: "LO"
 height: "197"

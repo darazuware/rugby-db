@@ -1,7 +1,7 @@
 ---
-title: "Sti SITHOLE"
+title: "スティ・スィトール"
 name_en: "Sti SITHOLE"
-name_ja: "Sti SITHOLE"
+name_ja: "スティ・スィトール"
 slug: "sithembiso-sithole"
 position: "PR"
 height: "180"

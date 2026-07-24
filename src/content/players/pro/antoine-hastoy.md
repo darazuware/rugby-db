@@ -1,7 +1,7 @@
 ---
-title: "Antoine HASTOY"
+title: "アントワーヌ・アストワ"
 name_en: "Antoine HASTOY"
-name_ja: "Antoine HASTOY"
+name_ja: "アントワーヌ・アストワ"
 slug: "antoine-hastoy"
 position: "SO"
 height: "180"

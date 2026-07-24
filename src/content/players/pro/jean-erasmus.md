@@ -1,7 +1,7 @@
 ---
-title: "Jean ERASMUS"
+title: "ジャン・エラスムス"
 name_en: "Jean ERASMUS"
-name_ja: "Jean ERASMUS"
+name_ja: "ジャン・エラスムス"
 slug: "jean-erasmus"
 position: "PR"
 height: "180"

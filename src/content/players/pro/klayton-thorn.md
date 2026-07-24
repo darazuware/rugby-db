@@ -1,7 +1,7 @@
 ---
-title: "Klayton THORN"
+title: "クレイトン・ソーン"
 name_en: "Klayton THORN"
-name_ja: "Klayton THORN"
+name_ja: "クレイトン・ソーン"
 slug: "klayton-thorn"
 position: "SH"
 height: "179"

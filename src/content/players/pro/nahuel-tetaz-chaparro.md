@@ -1,7 +1,7 @@
 ---
-title: "Nahuel TETAZ CHAPARRO"
+title: "ナウエル・テタス・チャパーロ"
 name_en: "Nahuel TETAZ CHAPARRO"
-name_ja: "Nahuel TETAZ CHAPARRO"
+name_ja: "ナウエル・テタス・チャパーロ"
 slug: "nahuel-tetaz-chaparro"
 position: "PR"
 height: "188"

@@ -1,7 +1,7 @@
 ---
-title: "Aidan PUGH"
+title: "エイダン・ピュー"
 name_en: "Aidan PUGH"
-name_ja: "Aidan PUGH"
+name_ja: "エイダン・ピュー"
 slug: "aidan-pugh"
 position: "Scrum-half"
 height: ""

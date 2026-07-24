@@ -1,7 +1,7 @@
 ---
-title: "Tiaan SPARROW"
+title: "ティアーン・スパロー"
 name_en: "Tiaan SPARROW"
-name_ja: "Tiaan SPARROW"
+name_ja: "ティアーン・スパロー"
 slug: "tiaan-sparrow"
 position: "Back row"
 height: ""

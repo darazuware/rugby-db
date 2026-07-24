@@ -1,7 +1,7 @@
 ---
-title: "Theo WILLIAM"
+title: "テオ・ウィリアム"
 name_en: "Theo WILLIAM"
-name_ja: "Theo WILLIAM"
+name_ja: "テオ・ウィリアム"
 slug: "theo-william"
 position: "FL/NO8"
 height: "194"

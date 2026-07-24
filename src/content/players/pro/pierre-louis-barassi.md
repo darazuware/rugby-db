@@ -1,7 +1,7 @@
 ---
-title: "Pierre-Louis BARASSI"
+title: "ピエール＝ルイ・バラッシ"
 name_en: "Pierre-Louis BARASSI"
-name_ja: "Pierre-Louis BARASSI"
+name_ja: "ピエール＝ルイ・バラッシ"
 slug: "pierre-louis-barassi"
 position: "CTB"
 height: "188"

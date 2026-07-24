@@ -1,7 +1,7 @@
 ---
-title: "Amena CAQUSAU"
+title: "アメナ・カクサウ"
 name_en: "Amena CAQUSAU"
-name_ja: "Amena CAQUSAU"
+name_ja: "アメナ・カクサウ"
 slug: "amena-caqusau"
 position: "Winger"
 height: ""

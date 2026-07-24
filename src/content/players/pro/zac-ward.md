@@ -1,7 +1,7 @@
 ---
-title: "Zac WARD"
+title: "ザック・ワード"
 name_en: "Zac WARD"
-name_ja: "Zac WARD"
+name_ja: "ザック・ワード"
 slug: "zac-ward"
 position: "Winger"
 height: "191"

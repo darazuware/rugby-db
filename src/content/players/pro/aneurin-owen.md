@@ -1,7 +1,7 @@
 ---
-title: "Aneurin OWEN"
+title: "アニューリン・オーウェン"
 name_en: "Aneurin OWEN"
-name_ja: "Aneurin OWEN"
+name_ja: "アニューリン・オーウェン"
 slug: "aneurin-owen"
 position: "CTB"
 height: "180"

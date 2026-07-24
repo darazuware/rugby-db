@@ -1,7 +1,7 @@
 ---
-title: "Joey CARBERY"
+title: "ジョーイ・カーベリー"
 name_en: "Joey CARBERY"
-name_ja: "Joey CARBERY"
+name_ja: "ジョーイ・カーベリー"
 slug: "joey-carbery"
 position: "SO"
 height: "183"

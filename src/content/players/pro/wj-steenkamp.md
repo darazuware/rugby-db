@@ -1,7 +1,7 @@
 ---
-title: "WJ STEENKAMP | WJ ステーンカンプ"
+title: "WJ STEENKAMP | WJ・スティーンカンプ"
 name_en: "WJ STEENKAMP"
-name_ja: "WJ ステーンカンプ"
+name_ja: "WJ・スティーンカンプ"
 slug: "wj-steenkamp"
 position: "FL/No8"
 height: "190"

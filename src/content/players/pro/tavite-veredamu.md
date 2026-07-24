@@ -1,7 +1,7 @@
 ---
-title: "Tavite VEREDAMU"
+title: "タヴィテ・ヴェレダム"
 name_en: "Tavite VEREDAMU"
-name_ja: "Tavite VEREDAMU"
+name_ja: "タヴィテ・ヴェレダム"
 slug: "tavite-veredamu"
 position: "WTB"
 height: "192"

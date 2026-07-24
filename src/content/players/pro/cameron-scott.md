@@ -1,7 +1,7 @@
 ---
-title: "Cammy SCOTT"
+title: "キャミー・スコット"
 name_en: "Cammy SCOTT"
-name_ja: "Cammy SCOTT"
+name_ja: "キャミー・スコット"
 slug: "cameron-scott"
 position: "SO"
 height: "181"

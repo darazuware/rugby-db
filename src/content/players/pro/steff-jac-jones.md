@@ -1,7 +1,7 @@
 ---
-title: "Steff Jac JONES"
+title: "ステフ・ジャク・ジョーンズ"
 name_en: "Steff Jac JONES"
-name_ja: "Steff Jac JONES"
+name_ja: "ステフ・ジャク・ジョーンズ"
 slug: "steff-jac-jones"
 position: "SO"
 height: "175"

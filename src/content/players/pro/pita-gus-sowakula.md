@@ -1,7 +1,7 @@
 ---
-title: "Pita-Gus SOWAKULA"
+title: "ピタ・ガス・ソワクラ"
 name_en: "Pita-Gus SOWAKULA"
-name_ja: "Pita-Gus SOWAKULA"
+name_ja: "ピタ・ガス・ソワクラ"
 slug: "pita-gus-sowakula"
 position: "FL/NO8"
 height: "195"

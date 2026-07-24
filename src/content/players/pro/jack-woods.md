@@ -1,7 +1,7 @@
 ---
-title: "Jack WOODS"
+title: "ジャック・ウッズ"
 name_en: "Jack WOODS"
-name_ja: "Jack WOODS"
+name_ja: "ジャック・ウッズ"
 slug: "jack-woods"
 position: "Fullback"
 height: ""

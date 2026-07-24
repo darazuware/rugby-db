@@ -1,7 +1,7 @@
 ---
-title: "Siep WALTA"
+title: "シープ・ワルタ"
 name_en: "Siep WALTA"
-name_ja: "Siep WALTA"
+name_ja: "シープ・ワルタ"
 slug: "siep-walta"
 position: "Back row"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "George MOALA"
+title: "ジョージ・モアラ"
 name_en: "George MOALA"
-name_ja: "George MOALA"
+name_ja: "ジョージ・モアラ"
 slug: "george-moala"
 position: "CTB"
 height: "188"

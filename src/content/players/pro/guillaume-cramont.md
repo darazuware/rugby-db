@@ -1,7 +1,7 @@
 ---
-title: "Guillaume CRAMONT"
+title: "ギョーム・クラモン"
 name_en: "Guillaume CRAMONT"
-name_ja: "Guillaume CRAMONT"
+name_ja: "ギョーム・クラモン"
 slug: "guillaume-cramont"
 position: "HO"
 height: "182"

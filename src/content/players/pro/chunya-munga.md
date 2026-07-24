@@ -1,7 +1,7 @@
 ---
-title: "Chunya MUNGA"
+title: "チュニャ・ムンガ"
 name_en: "Chunya MUNGA"
-name_ja: "Chunya MUNGA"
+name_ja: "チュニャ・ムンガ"
 slug: "chunya-munga"
 position: "Lock"
 height: ""

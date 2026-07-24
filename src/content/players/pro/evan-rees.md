@@ -1,7 +1,7 @@
 ---
-title: "Evan REES"
+title: "エヴァン・リース"
 name_en: "Evan REES"
-name_ja: "Evan REES"
+name_ja: "エヴァン・リース"
 slug: "evan-rees"
 position: "Back row"
 height: "190"

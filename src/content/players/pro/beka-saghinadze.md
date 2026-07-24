@@ -1,7 +1,7 @@
 ---
-title: "Beka SAGINADZE"
+title: "ベカ・サギナゼ"
 name_en: "Beka SAGINADZE"
-name_ja: "Beka SAGINADZE"
+name_ja: "ベカ・サギナゼ"
 slug: "beka-saghinadze"
 position: "FL/NO8"
 height: "192"

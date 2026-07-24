@@ -1,7 +1,7 @@
 ---
-title: "Callum WOOLLEY"
+title: "カラム・ウーリー"
 name_en: "Callum WOOLLEY"
-name_ja: "Callum WOOLLEY"
+name_ja: "カラム・ウーリー"
 slug: "callum-woolley"
 position: "Winger"
 height: "193"

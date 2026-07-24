@@ -1,7 +1,7 @@
 ---
-title: "Henry Tasesa VOLKMAN"
+title: "ヘンリー・タセサ・フォルクマン"
 name_en: "Henry Tasesa VOLKMAN"
-name_ja: "Henry Tasesa VOLKMAN"
+name_ja: "ヘンリー・タセサ・フォルクマン"
 slug: "henry-tasesa-volkman"
 position: "LO"
 height: "200"

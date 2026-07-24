@@ -1,7 +1,7 @@
 ---
-title: "Pierre BOURGARIT"
+title: "ピエール・ブルガリ"
 name_en: "Pierre BOURGARIT"
-name_ja: "Pierre BOURGARIT"
+name_ja: "ピエール・ブルガリ"
 slug: "pierre-bourgarit"
 position: "HO"
 height: "184"

@@ -1,7 +1,7 @@
 ---
-title: "Ethan TIA"
+title: "エタン・ティア"
 name_en: "Ethan TIA"
-name_ja: "Ethan TIA"
+name_ja: "エタン・ティア"
 slug: "ethan-tia"
 position: "HO"
 height: ""

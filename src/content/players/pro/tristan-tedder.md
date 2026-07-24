@@ -1,7 +1,7 @@
 ---
-title: "Tristan TEDDER"
+title: "トリスタン・テダー"
 name_en: "Tristan TEDDER"
-name_ja: "Tristan TEDDER"
+name_ja: "トリスタン・テダー"
 slug: "tristan-tedder"
 position: "SO"
 height: "180"

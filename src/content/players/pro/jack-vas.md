@@ -1,7 +1,7 @@
 ---
-title: "Jack VAS"
+title: "ジャック・ヴァ"
 name_en: "Jack VAS"
-name_ja: "Jack VAS"
+name_ja: "ジャック・ヴァ"
 slug: "jack-vas"
 position: "Fly-half"
 height: ""

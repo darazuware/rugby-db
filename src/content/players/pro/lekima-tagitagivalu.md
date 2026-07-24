@@ -1,7 +1,7 @@
 ---
-title: "Lekima TAGITAGIVALU"
+title: "レキマ・タギタギヴァル"
 name_en: "Lekima TAGITAGIVALU"
-name_ja: "Lekima TAGITAGIVALU"
+name_ja: "レキマ・タギタギヴァル"
 slug: "lekima-tagitagivalu"
 position: "FL/NO8"
 height: "195"

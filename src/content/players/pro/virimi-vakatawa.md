@@ -1,7 +1,7 @@
 ---
-title: "Virimi VAKATAWA"
+title: "ビリミ・バカタワ"
 name_en: "Virimi VAKATAWA"
-name_ja: "Virimi VAKATAWA"
+name_ja: "ビリミ・バカタワ"
 slug: "virimi-vakatawa"
 position: "CTB"
 height: "185"

@@ -1,7 +1,7 @@
 ---
-title: "Rodrigo BRUNI"
+title: "ロドリゴ・ブルーニ"
 name_en: "Rodrigo BRUNI"
-name_ja: "Rodrigo BRUNI"
+name_ja: "ロドリゴ・ブルーニ"
 slug: "rodrigo-bruni"
 position: "FL/NO8"
 height: "187"

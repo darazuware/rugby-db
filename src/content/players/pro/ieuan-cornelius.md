@@ -1,7 +1,7 @@
 ---
-title: "Ieuan CORNELIUS"
+title: "アイアン・コーネリアス"
 name_en: "Ieuan CORNELIUS"
-name_ja: "Ieuan CORNELIUS"
+name_ja: "アイアン・コーネリアス"
 slug: "ieuan-cornelius"
 position: "Winger"
 height: "188"

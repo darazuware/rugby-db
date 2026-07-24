@@ -1,7 +1,7 @@
 ---
-title: "Aisea NAWAI"
+title: "アイセア・ナワイ"
 name_en: "Aisea NAWAI"
-name_ja: "Aisea NAWAI"
+name_ja: "アイセア・ナワイ"
 slug: "aisea-nawai"
 position: "WTB"
 height: ""

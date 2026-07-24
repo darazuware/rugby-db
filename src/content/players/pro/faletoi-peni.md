@@ -1,7 +1,7 @@
 ---
-title: "Faletoi PENI"
+title: "ファレトイ・ペニ"
 name_en: "Faletoi PENI"
-name_ja: "Faletoi PENI"
+name_ja: "ファレトイ・ペニ"
 slug: "faletoi-peni"
 position: "CTB"
 height: "173"

@@ -1,7 +1,7 @@
 ---
-title: "Louis BIELLE-BIARREY"
+title: "ルイ・ビエル＝ビアレー"
 name_en: "Louis BIELLE-BIARREY"
-name_ja: "Louis BIELLE-BIARREY"
+name_ja: "ルイ・ビエル＝ビアレー"
 slug: "louis-bielle-biarrey"
 position: "WTB"
 height: "185"

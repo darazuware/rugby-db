@@ -1,7 +1,7 @@
 ---
-title: "Rhys CUMMINGS"
+title: "リース・カミングス"
 name_en: "Rhys CUMMINGS"
-name_ja: "Rhys CUMMINGS"
+name_ja: "リース・カミングス"
 slug: "rhys-cummings"
 position: "FB"
 height: "183"

@@ -1,7 +1,7 @@
 ---
-title: "Manuel RASS"
+title: "マヌエル・ラス"
 name_en: "Manuel RASS"
-name_ja: "Manuel RASS"
+name_ja: "マヌエル・ラス"
 slug: "manuel-rass"
 position: "CTB"
 height: "174"

@@ -1,7 +1,7 @@
 ---
-title: "Tom DUNN"
+title: "トム・ダン"
 name_en: "Tom DUNN"
-name_ja: "Tom DUNN"
+name_ja: "トム・ダン"
 slug: "tom-dunn"
 position: "Hooker"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Rambo KUBHEKA"
+title: "ランボ・クベカ"
 name_en: "Rambo KUBHEKA"
-name_ja: "Rambo KUBHEKA"
+name_ja: "ランボ・クベカ"
 slug: "rambo-kubheka"
 position: "PR"
 height: "181"

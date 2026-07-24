@@ -1,7 +1,7 @@
 ---
-title: "Noa TINNIRELLO"
+title: "ノア・ティンニレッロ"
 name_en: "Noa TINNIRELLO"
-name_ja: "Noa TINNIRELLO"
+name_ja: "ノア・ティンニレッロ"
 slug: "noa-tinnirello"
 position: "Prop"
 height: ""

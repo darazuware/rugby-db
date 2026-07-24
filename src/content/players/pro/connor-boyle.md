@@ -1,7 +1,7 @@
 ---
-title: "Connor BOYLE"
+title: "コナー・ボイル"
 name_en: "Connor BOYLE"
-name_ja: "Connor BOYLE"
+name_ja: "コナー・ボイル"
 slug: "connor-boyle"
 position: "Back row"
 height: "183"

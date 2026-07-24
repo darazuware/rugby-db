@@ -1,7 +1,7 @@
 ---
-title: "Dillon LEWIS"
+title: "ディロン・ルイス"
 name_en: "Dillon LEWIS"
-name_ja: "Dillon LEWIS"
+name_ja: "ディロン・ルイス"
 slug: "dillon-lewis"
 position: "PR"
 height: "185"

@@ -1,7 +1,7 @@
 ---
-title: "Mohamed MEGHERBI"
+title: "モハメド・メゲルビ"
 name_en: "Mohamed MEGHERBI"
-name_ja: "Mohamed MEGHERBI"
+name_ja: "モハメド・メゲルビ"
 slug: "mohamed-megherbi"
 position: "Prop"
 height: ""

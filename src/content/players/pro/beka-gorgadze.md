@@ -1,7 +1,7 @@
 ---
-title: "Beka GORGADZE"
+title: "ベカ・ゴルガゼ"
 name_en: "Beka GORGADZE"
-name_ja: "Beka GORGADZE"
+name_ja: "ベカ・ゴルガゼ"
 slug: "beka-gorgadze"
 position: "FL/NO8"
 height: "189"

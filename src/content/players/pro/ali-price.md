@@ -1,7 +1,7 @@
 ---
-title: "Ali PRICE"
+title: "アリ・プライス"
 name_en: "Ali PRICE"
-name_ja: "Ali PRICE"
+name_ja: "アリ・プライス"
 slug: "ali-price"
 position: "SH"
 height: "177"

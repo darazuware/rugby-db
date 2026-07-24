@@ -1,7 +1,7 @@
 ---
-title: "Luke MORGAN | ルーク MORGAN"
+title: "Luke MORGAN | ルーク・モーガン"
 name_en: "Luke MORGAN"
-name_ja: "ルーク MORGAN"
+name_ja: "ルーク・モーガン"
 slug: "luke-morgan"
 position: "Winger"
 height: "175"

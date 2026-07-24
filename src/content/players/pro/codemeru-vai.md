@@ -1,7 +1,7 @@
 ---
-title: "Cody VAI"
+title: "コーディ・ヴァイ"
 name_en: "Cody VAI"
-name_ja: "Cody VAI"
+name_ja: "コーディ・ヴァイ"
 slug: "codemeru-vai"
 position: "WTB"
 height: "188"

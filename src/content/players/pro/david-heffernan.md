@@ -1,7 +1,7 @@
 ---
-title: "Dave HEFFERNAN | デイヴ HEFFERNAN"
+title: "Dave HEFFERNAN | デイヴ・ヘファーナン"
 name_en: "Dave HEFFERNAN"
-name_ja: "デイヴ HEFFERNAN"
+name_ja: "デイヴ・ヘファーナン"
 slug: "david-heffernan"
 position: "HO"
 height: "187"

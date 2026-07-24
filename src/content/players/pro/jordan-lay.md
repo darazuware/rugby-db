@@ -1,7 +1,7 @@
 ---
-title: "Jordan LAY"
+title: "ジョーダン・レイ"
 name_en: "Jordan LAY"
-name_ja: "Jordan LAY"
+name_ja: "ジョーダン・レイ"
 slug: "jordan-lay"
 position: "PR"
 height: "185"

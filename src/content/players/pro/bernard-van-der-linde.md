@@ -1,7 +1,7 @@
 ---
-title: "Bernard VAN DER LINDE"
+title: "ベルナルド・ファン・デル・リンデ"
 name_en: "Bernard VAN DER LINDE"
-name_ja: "Bernard VAN DER LINDE"
+name_ja: "ベルナルド・ファン・デル・リンデ"
 slug: "bernard-van-der-linde"
 position: "Scrum-half"
 height: ""

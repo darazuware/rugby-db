@@ -1,7 +1,7 @@
 ---
-title: "Tai CRIBB"
+title: "タイ・クリブ"
 name_en: "Tai CRIBB"
-name_ja: "Tai CRIBB"
+name_ja: "タイ・クリブ"
 slug: "tai-cribb"
 position: "LO"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Jean-Charles DUPLEIX"
+title: "ジャン=シャルル・デュプレ"
 name_en: "Jean-Charles DUPLEIX"
-name_ja: "Jean-Charles DUPLEIX"
+name_ja: "ジャン=シャルル・デュプレ"
 slug: "jean-charles-dupleix"
 position: "Winger"
 height: ""

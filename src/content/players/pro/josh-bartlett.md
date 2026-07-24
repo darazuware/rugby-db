@@ -1,7 +1,7 @@
 ---
-title: "Josh BARTLETT"
+title: "ジョシュ・バートレット"
 name_en: "Josh BARTLETT"
-name_ja: "Josh BARTLETT"
+name_ja: "ジョシュ・バートレット"
 slug: "josh-bartlett"
 position: "PR"
 height: "183"

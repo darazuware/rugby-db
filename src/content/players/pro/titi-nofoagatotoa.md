@@ -1,7 +1,7 @@
 ---
-title: "Titi NOFOAGATOTOA"
+title: "ティティ・ノフォアガトトア"
 name_en: "Titi NOFOAGATOTOA"
-name_ja: "Titi NOFOAGATOTOA"
+name_ja: "ティティ・ノフォアガトトア"
 slug: "titi-nofoagatotoa"
 position: "FL/No8"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Ollie BLYTH-LAFFERTY"
+title: "オリー・ブライス=ラファティ"
 name_en: "Ollie BLYTH-LAFFERTY"
-name_ja: "Ollie BLYTH-LAFFERTY"
+name_ja: "オリー・ブライス=ラファティ"
 slug: "ollie-blyth-lafferty"
 position: "PR"
 height: "193"

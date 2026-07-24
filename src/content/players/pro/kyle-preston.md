@@ -1,7 +1,7 @@
 ---
-title: "Kyle PRESTON"
+title: "カイル・プレストン"
 name_en: "Kyle PRESTON"
-name_ja: "Kyle PRESTON"
+name_ja: "カイル・プレストン"
 slug: "kyle-preston"
 position: "SH"
 height: "177"

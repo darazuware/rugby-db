@@ -1,7 +1,7 @@
 ---
-title: "Kai JONES"
+title: "カイ・ジョーンズ"
 name_en: "Kai JONES"
-name_ja: "Kai JONES"
+name_ja: "カイ・ジョーンズ"
 slug: "kai-jones"
 position: "LO"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Etienne FOURCADE"
+title: "エティエンヌ・フールカード"
 name_en: "Etienne FOURCADE"
-name_ja: "Etienne FOURCADE"
+name_ja: "エティエンヌ・フールカード"
 slug: "etienne-fourcade"
 position: "HO"
 height: "180"

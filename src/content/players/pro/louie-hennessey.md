@@ -1,7 +1,7 @@
 ---
-title: "Louie HENNESSEY"
+title: "ルーイ・ヘネシー"
 name_en: "Louie HENNESSEY"
-name_ja: "Louie HENNESSEY"
+name_ja: "ルーイ・ヘネシー"
 slug: "louie-hennessey"
 position: "Centre"
 height: ""

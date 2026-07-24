@@ -1,7 +1,7 @@
 ---
-title: "Duncan WEIR"
+title: "ダンカン・ウィアー"
 name_en: "Duncan WEIR"
-name_ja: "Duncan WEIR"
+name_ja: "ダンカン・ウィアー"
 slug: "duncan-weir"
 position: "SO"
 height: "176"

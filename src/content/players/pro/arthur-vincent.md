@@ -1,7 +1,7 @@
 ---
-title: "Arthur VINCENT"
+title: "アルチュール・ヴァンサン"
 name_en: "Arthur VINCENT"
-name_ja: "Arthur VINCENT"
+name_ja: "アルチュール・ヴァンサン"
 slug: "arthur-vincent"
 position: "CTB"
 height: "183"

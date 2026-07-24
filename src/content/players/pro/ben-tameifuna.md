@@ -1,7 +1,7 @@
 ---
-title: "Ben TAMEIFUNA"
+title: "ベン・タメイフナ"
 name_en: "Ben TAMEIFUNA"
-name_ja: "Ben TAMEIFUNA"
+name_ja: "ベン・タメイフナ"
 slug: "ben-tameifuna"
 position: "PR"
 height: "188"

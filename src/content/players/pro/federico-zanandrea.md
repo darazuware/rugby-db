@@ -1,7 +1,7 @@
 ---
-title: "Federico ZANANDREA"
+title: "フェデリコ・ザナンドレア"
 name_en: "Federico ZANANDREA"
-name_ja: "Federico ZANANDREA"
+name_ja: "フェデリコ・ザナンドレア"
 slug: "federico-zanandrea"
 position: "CTB"
 height: "190"

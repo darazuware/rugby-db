@@ -1,7 +1,7 @@
 ---
-title: "Mohamed HAOUAS"
+title: "モハメッド・アウアス"
 name_en: "Mohamed HAOUAS"
-name_ja: "Mohamed HAOUAS"
+name_ja: "モハメッド・アウアス"
 slug: "mohammed-houas"
 position: "PR"
 height: "185"

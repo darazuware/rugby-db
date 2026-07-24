@@ -1,7 +1,7 @@
 ---
-title: "Liam JACK"
+title: "リアム・ジャック"
 name_en: "Liam JACK"
-name_ja: "Liam JACK"
+name_ja: "リアム・ジャック"
 slug: "liam-jack"
 position: "LO"
 height: ""

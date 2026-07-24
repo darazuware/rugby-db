@@ -1,7 +1,7 @@
 ---
-title: "Charlie GRIFFIN"
+title: "チャーリー・グリフィン"
 name_en: "Charlie GRIFFIN"
-name_ja: "Charlie GRIFFIN"
+name_ja: "チャーリー・グリフィン"
 slug: "charlie-griffin"
 position: "Winger"
 height: ""

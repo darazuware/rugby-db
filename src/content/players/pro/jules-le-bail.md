@@ -1,7 +1,7 @@
 ---
-title: "Jules LE BAIL"
+title: "ジュール・ル・バイユ"
 name_en: "Jules LE BAIL"
-name_ja: "Jules LE BAIL"
+name_ja: "ジュール・ル・バイユ"
 slug: "jules-le-bail"
 position: "SH"
 height: "168"

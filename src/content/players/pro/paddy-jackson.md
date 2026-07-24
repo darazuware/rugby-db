@@ -1,7 +1,7 @@
 ---
-title: "Paddy JACKSON"
+title: "パディ・ジャクソン"
 name_en: "Paddy JACKSON"
-name_ja: "Paddy JACKSON"
+name_ja: "パディ・ジャクソン"
 slug: "paddy-jackson"
 position: "SO"
 height: "180"

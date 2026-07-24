@@ -1,7 +1,7 @@
 ---
-title: "Carwyn TUIPULOTU"
+title: "カーウィン・トゥイプロトゥ"
 name_en: "Carwyn TUIPULOTU"
-name_ja: "Carwyn TUIPULOTU"
+name_ja: "カーウィン・トゥイプロトゥ"
 slug: "carwyn-tuipulotu"
 position: "FL/NO8"
 height: "188"

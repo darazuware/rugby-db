@@ -1,7 +1,7 @@
 ---
-title: "Thomas MOUKORO"
+title: "トマ・ムコロ"
 name_en: "Thomas MOUKORO"
-name_ja: "Thomas MOUKORO"
+name_ja: "トマ・ムコロ"
 slug: "thomas-moukoro"
 position: "PR"
 height: "185"

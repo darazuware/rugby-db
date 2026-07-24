@@ -1,7 +1,7 @@
 ---
-title: "Louis RETHORE"
+title: "ルイ・レトレ"
 name_en: "Louis RETHORE"
-name_ja: "Louis RETHORE"
+name_ja: "ルイ・レトレ"
 slug: "louis-rethore"
 position: "Fly-half"
 height: ""

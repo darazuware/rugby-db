@@ -1,7 +1,7 @@
 ---
-title: "Albie BESTER"
+title: "アルビー・ベスター"
 name_en: "Albie BESTER"
-name_ja: "Albie BESTER"
+name_ja: "アルビー・ベスター"
 slug: "albie-bester"
 position: "CTB"
 height: "180"

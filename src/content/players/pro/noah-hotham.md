@@ -1,7 +1,7 @@
 ---
-title: "Noah HOTHAM"
+title: "ノア・ホサム"
 name_en: "Noah HOTHAM"
-name_ja: "Noah HOTHAM"
+name_ja: "ノア・ホサム"
 slug: "noah-hotham"
 position: "SH"
 height: "181"

@@ -1,7 +1,7 @@
 ---
-title: "Liam ALLEN"
+title: "リアム・アレン"
 name_en: "Liam ALLEN"
-name_ja: "Liam ALLEN"
+name_ja: "リアム・アレン"
 slug: "liam-allen"
 position: "FL/NO8"
 height: "191"

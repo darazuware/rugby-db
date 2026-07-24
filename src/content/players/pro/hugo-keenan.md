@@ -1,7 +1,7 @@
 ---
-title: "Hugo KEENAN | ヒューゴ KEENAN"
+title: "Hugo KEENAN | ヒューゴ・キーナン"
 name_en: "Hugo KEENAN"
-name_ja: "ヒューゴ KEENAN"
+name_ja: "ヒューゴ・キーナン"
 slug: "hugo-keenan"
 position: "FB"
 height: "185"

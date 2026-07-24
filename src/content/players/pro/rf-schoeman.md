@@ -1,7 +1,7 @@
 ---
-title: "RF SCHOEMAN | RF スホーマン"
+title: "RF SCHOEMAN | RF・スーマン"
 name_en: "RF SCHOEMAN"
-name_ja: "RF スホーマン"
+name_ja: "RF・スーマン"
 slug: "rf-schoeman"
 position: "PR"
 height: "188"

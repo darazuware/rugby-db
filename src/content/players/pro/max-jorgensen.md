@@ -1,7 +1,7 @@
 ---
-title: "Max JORGENSEN"
+title: "マックス・ヨーゲンセン"
 name_en: "Max JORGENSEN"
-name_ja: "Max JORGENSEN"
+name_ja: "マックス・ヨーゲンセン"
 slug: "max-jorgensen"
 position: "FB"
 height: "181"

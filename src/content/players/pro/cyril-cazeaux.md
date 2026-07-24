@@ -1,7 +1,7 @@
 ---
-title: "Cyril CAZEAUX"
+title: "シリル・カゾー"
 name_en: "Cyril CAZEAUX"
-name_ja: "Cyril CAZEAUX"
+name_ja: "シリル・カゾー"
 slug: "cyril-cazeaux"
 position: "LO"
 height: "198"

@@ -1,7 +1,7 @@
 ---
-title: "Feao FOTUAIKA"
+title: "フェアオ・フォトゥアイカ"
 name_en: "Feao FOTUAIKA"
-name_ja: "Feao FOTUAIKA"
+name_ja: "フェアオ・フォトゥアイカ"
 slug: "feao-fotuaika"
 position: "PR"
 height: "186"

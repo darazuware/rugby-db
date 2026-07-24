@@ -1,7 +1,7 @@
 ---
-title: "Dan NELSON"
+title: "ダン・ネルソン"
 name_en: "Dan NELSON"
-name_ja: "Dan NELSON"
+name_ja: "ダン・ネルソン"
 slug: "dan-nelson"
 position: "SH"
 height: "179"

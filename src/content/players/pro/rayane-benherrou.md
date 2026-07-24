@@ -1,7 +1,7 @@
 ---
-title: "Rayane BENHERROU"
+title: "ラヤン・ベンヘル"
 name_en: "Rayane BENHERROU"
-name_ja: "Rayane BENHERROU"
+name_ja: "ラヤン・ベンヘル"
 slug: "rayane-benherrou"
 position: "Lock"
 height: ""

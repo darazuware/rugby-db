@@ -1,7 +1,7 @@
 ---
-title: "Teddy WILSON"
+title: "テディ・ウィルソン"
 name_en: "Teddy WILSON"
-name_ja: "Teddy WILSON"
+name_ja: "テディ・ウィルソン"
 slug: "teddy-wilson"
 position: "SH"
 height: "182"

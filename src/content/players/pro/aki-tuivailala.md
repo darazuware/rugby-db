@@ -1,7 +1,7 @@
 ---
-title: "Aki TUIVAILALA"
+title: "アキ・トゥイヴァイララ"
 name_en: "Aki TUIVAILALA"
-name_ja: "Aki TUIVAILALA"
+name_ja: "アキ・トゥイヴァイララ"
 slug: "aki-tuivailala"
 position: "CTB"
 height: "186"

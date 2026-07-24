@@ -1,7 +1,7 @@
 ---
-title: "Denis BUCKLEY"
+title: "デニス・バックリー"
 name_en: "Denis BUCKLEY"
-name_ja: "Denis BUCKLEY"
+name_ja: "デニス・バックリー"
 slug: "denis-buckley"
 position: "PR"
 height: "177"

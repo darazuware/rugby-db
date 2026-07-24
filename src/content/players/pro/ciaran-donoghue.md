@@ -1,7 +1,7 @@
 ---
-title: "Ciaran DONOGHUE"
+title: "キアラン・ドナヒュー"
 name_en: "Ciaran DONOGHUE"
-name_ja: "Ciaran DONOGHUE"
+name_ja: "キアラン・ドナヒュー"
 slug: "ciaran-donoghue"
 position: "Fullback"
 height: ""

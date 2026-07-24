@@ -1,7 +1,7 @@
 ---
-title: "Jordan LARMOUR"
+title: "ジョーダン・ラーモア"
 name_en: "Jordan LARMOUR"
-name_ja: "Jordan LARMOUR"
+name_ja: "ジョーダン・ラーモア"
 slug: "jordan-larmour"
 position: "Winger"
 height: "178"

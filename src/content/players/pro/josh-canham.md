@@ -1,7 +1,7 @@
 ---
-title: "Josh CANHAM"
+title: "ジョシュ・キャナム"
 name_en: "Josh CANHAM"
-name_ja: "Josh CANHAM"
+name_ja: "ジョシュ・キャナム"
 slug: "josh-canham"
 position: "LO"
 height: "202"

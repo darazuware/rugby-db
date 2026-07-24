@@ -1,7 +1,7 @@
 ---
-title: "Alexandre FISCHER"
+title: "アレクサンドル・フィッシェール"
 name_en: "Alexandre FISCHER"
-name_ja: "Alexandre FISCHER"
+name_ja: "アレクサンドル・フィッシェール"
 slug: "alexandre-fischer"
 position: "FL/NO8"
 height: "188"

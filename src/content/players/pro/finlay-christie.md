@@ -1,7 +1,7 @@
 ---
-title: "Finlay CHRISTIE"
+title: "フィンレー・クリスティ"
 name_en: "Finlay CHRISTIE"
-name_ja: "Finlay CHRISTIE"
+name_ja: "フィンレー・クリスティ"
 slug: "finlay-christie"
 position: "SH"
 height: "177"

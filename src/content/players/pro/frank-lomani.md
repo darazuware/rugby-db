@@ -1,7 +1,7 @@
 ---
-title: "Frank LOMANI"
+title: "フランク・ロマニ"
 name_en: "Frank LOMANI"
-name_ja: "Frank LOMANI"
+name_ja: "フランク・ロマニ"
 slug: "frank-lomani"
 position: "SH"
 height: "180"

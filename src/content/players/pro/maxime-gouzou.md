@@ -1,7 +1,7 @@
 ---
-title: "Maxime GOUZOU"
+title: "マキシム・グゾー"
 name_en: "Maxime GOUZOU"
-name_ja: "Maxime GOUZOU"
+name_ja: "マキシム・グゾー"
 slug: "maxime-gouzou"
 position: "FL/NO8"
 height: "189"

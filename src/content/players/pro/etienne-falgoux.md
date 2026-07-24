@@ -1,7 +1,7 @@
 ---
-title: "Etienne FALGOUX"
+title: "エティエンヌ・ファルグー"
 name_en: "Etienne FALGOUX"
-name_ja: "Etienne FALGOUX"
+name_ja: "エティエンヌ・ファルグー"
 slug: "etienne-falgoux"
 position: "PR"
 height: "183"

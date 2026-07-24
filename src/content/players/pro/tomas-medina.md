@@ -1,7 +1,7 @@
 ---
-title: "Tomas MEDINA"
+title: "トマス・メディナ"
 name_en: "Tomas MEDINA"
-name_ja: "Tomas MEDINA"
+name_ja: "トマス・メディナ"
 slug: "tomas-medina"
 position: "CTB"
 height: "176"

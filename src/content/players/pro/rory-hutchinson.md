@@ -1,7 +1,7 @@
 ---
-title: "Rory HUTCHINSON"
+title: "ロリー・ハッチンソン"
 name_en: "Rory HUTCHINSON"
-name_ja: "Rory HUTCHINSON"
+name_ja: "ロリー・ハッチンソン"
 slug: "rory-hutchinson"
 position: "Centre"
 height: ""

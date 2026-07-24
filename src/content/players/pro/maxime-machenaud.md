@@ -1,7 +1,7 @@
 ---
-title: "Maxime MACHENAUD"
+title: "マキシム・マシュノー"
 name_en: "Maxime MACHENAUD"
-name_ja: "Maxime MACHENAUD"
+name_ja: "マキシム・マシュノー"
 slug: "maxime-machenaud"
 position: "SH"
 height: "174"

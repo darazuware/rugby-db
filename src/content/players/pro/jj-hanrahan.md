@@ -1,7 +1,7 @@
 ---
-title: "JJ HANRAHAN | JJ-ハンラハン"
+title: "JJ HANRAHAN | JJ・ハンラハン"
 name_en: "JJ HANRAHAN"
-name_ja: "JJ-ハンラハン"
+name_ja: "JJ・ハンラハン"
 slug: "jj-hanrahan"
 position: "SO"
 height: "183"

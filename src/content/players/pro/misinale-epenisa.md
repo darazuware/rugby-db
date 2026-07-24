@@ -1,7 +1,7 @@
 ---
-title: "Misinale EPENISA"
+title: "ミシナレ・エペニサ"
 name_en: "Misinale EPENISA"
-name_ja: "Misinale EPENISA"
+name_ja: "ミシナレ・エペニサ"
 slug: "misinale-epenisa"
 position: "PR"
 height: "195"

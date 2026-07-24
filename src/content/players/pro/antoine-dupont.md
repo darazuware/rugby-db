@@ -1,7 +1,7 @@
 ---
-title: "Antoine DUPONT"
+title: "アントワーヌ・デュポン"
 name_en: "Antoine DUPONT"
-name_ja: "Antoine DUPONT"
+name_ja: "アントワーヌ・デュポン"
 slug: "antoine-dupont"
 position: "SH"
 height: "174"

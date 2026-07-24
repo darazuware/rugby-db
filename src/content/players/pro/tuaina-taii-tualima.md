@@ -1,7 +1,7 @@
 ---
-title: "Tuaina Taii TUALIMA"
+title: "トゥアイナ・タイ・トゥアリマ"
 name_en: "Tuaina Taii TUALIMA"
-name_ja: "Tuaina Taii TUALIMA"
+name_ja: "トゥアイナ・タイ・トゥアリマ"
 slug: "tuaina-taii-tualima"
 position: "LO"
 height: "193"

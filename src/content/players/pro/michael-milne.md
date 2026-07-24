@@ -1,7 +1,7 @@
 ---
-title: "Michael MILNE | マイケル MILNE"
+title: "Michael MILNE | マイケル・ミルン"
 name_en: "Michael MILNE"
-name_ja: "マイケル MILNE"
+name_ja: "マイケル・ミルン"
 slug: "michael-milne"
 position: "PR"
 height: "183"

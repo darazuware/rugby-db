@@ -1,7 +1,7 @@
 ---
-title: "Paul GRAOU"
+title: "ポール・グラウ"
 name_en: "Paul GRAOU"
-name_ja: "Paul GRAOU"
+name_ja: "ポール・グラウ"
 slug: "paul-graou"
 position: "SH"
 height: "177"

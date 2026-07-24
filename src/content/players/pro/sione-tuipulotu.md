@@ -1,7 +1,7 @@
 ---
-title: "Sione TUIPULOTU"
+title: "シオサイア・トゥイプロトゥ"
 name_en: "Sione TUIPULOTU"
-name_ja: "Sione TUIPULOTU"
+name_ja: "シオサイア・トゥイプロトゥ"
 slug: "sione-tuipulotu"
 position: "CTB"
 height: "178"

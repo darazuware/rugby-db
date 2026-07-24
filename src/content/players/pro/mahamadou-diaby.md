@@ -1,7 +1,7 @@
 ---
-title: "Mahamadou DIABY"
+title: "マアマドゥ・ジャビ"
 name_en: "Mahamadou DIABY"
-name_ja: "Mahamadou DIABY"
+name_ja: "マアマドゥ・ジャビ"
 slug: "mahamadou-diaby"
 position: "FL/NO8"
 height: "192"

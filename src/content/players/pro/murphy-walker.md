@@ -1,7 +1,7 @@
 ---
-title: "Murphy WALKER"
+title: "マーフィー・ウォーカー"
 name_en: "Murphy WALKER"
-name_ja: "Murphy WALKER"
+name_ja: "マーフィー・ウォーカー"
 slug: "murphy-walker"
 position: "PR"
 height: "185"

@@ -1,7 +1,7 @@
 ---
-title: "Neil LE ROUX"
+title: "ニール・ル・ルー"
 name_en: "Neil LE ROUX"
-name_ja: "Neil LE ROUX"
+name_ja: "ニール・ル・ルー"
 slug: "neil-le-roux"
 position: "Scrum-half"
 height: ""

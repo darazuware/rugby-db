@@ -1,7 +1,7 @@
 ---
-title: "Ollie SLEIGHTHOLME"
+title: "オリー・スレイトホルム"
 name_en: "Ollie SLEIGHTHOLME"
-name_ja: "Ollie SLEIGHTHOLME"
+name_ja: "オリー・スレイトホルム"
 slug: "ollie-sleightholme"
 position: "Winger"
 height: ""

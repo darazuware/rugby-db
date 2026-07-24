@@ -1,7 +1,7 @@
 ---
-title: "Ollie SCOLA"
+title: "オリー・スコラ"
 name_en: "Ollie SCOLA"
-name_ja: "Ollie SCOLA"
+name_ja: "オリー・スコラ"
 slug: "ollie-scola"
 position: "Prop"
 height: ""

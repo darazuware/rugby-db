@@ -1,7 +1,7 @@
 ---
-title: "Baptiste GERMAIN"
+title: "バプティスト・ジェルマン"
 name_en: "Baptiste GERMAIN"
-name_ja: "Baptiste GERMAIN"
+name_ja: "バプティスト・ジェルマン"
 slug: "baptiste-germain"
 position: "SH"
 height: "174"

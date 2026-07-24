@@ -1,7 +1,7 @@
 ---
-title: "Clement LAPORTE"
+title: "クレマン・ラポルト"
 name_en: "Clement LAPORTE"
-name_ja: "Clement LAPORTE"
+name_ja: "クレマン・ラポルト"
 slug: "clement-laporte"
 position: "FB"
 height: "181"

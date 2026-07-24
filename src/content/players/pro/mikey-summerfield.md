@@ -1,7 +1,7 @@
 ---
-title: "Mikey SUMMERFIELD"
+title: "マイキー・サマーフィールド"
 name_en: "Mikey SUMMERFIELD"
-name_ja: "Mikey SUMMERFIELD"
+name_ja: "マイキー・サマーフィールド"
 slug: "mikey-summerfield"
 position: "Prop"
 height: ""

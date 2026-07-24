@@ -1,7 +1,7 @@
 ---
-title: "Ethan COUGHLAN"
+title: "イーサン・コフラン"
 name_en: "Ethan COUGHLAN"
-name_ja: "Ethan COUGHLAN"
+name_ja: "イーサン・コフラン"
 slug: "ethan-coughlan"
 position: "SH"
 height: "175"

@@ -1,7 +1,7 @@
 ---
-title: "Charlie CASSANG"
+title: "シャーリー・カサン"
 name_en: "Charlie CASSANG"
-name_ja: "Charlie CASSANG"
+name_ja: "シャーリー・カサン"
 slug: "charlie-cassang"
 position: "SH"
 height: "173"

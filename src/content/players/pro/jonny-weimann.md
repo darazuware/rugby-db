@@ -1,7 +1,7 @@
 ---
-title: "Jonny WEIMANN"
+title: "ジョニー・ヴァイマン"
 name_en: "Jonny WEIMANN"
-name_ja: "Jonny WEIMANN"
+name_ja: "ジョニー・ヴァイマン"
 slug: "jonny-weimann"
 position: "Scrum-half"
 height: ""

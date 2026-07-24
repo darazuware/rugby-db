@@ -1,7 +1,7 @@
 ---
-title: "James MARTIN"
+title: "ジェームズ・マーティン"
 name_en: "James MARTIN"
-name_ja: "James MARTIN"
+name_ja: "ジェームズ・マーティン"
 slug: "james-martin"
 position: "Winger"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Alban PORTAT"
+title: "アルバン・ポルタ"
 name_en: "Alban PORTAT"
-name_ja: "Alban PORTAT"
+name_ja: "アルバン・ポルタ"
 slug: "alban-portat"
 position: "Lock"
 height: ""

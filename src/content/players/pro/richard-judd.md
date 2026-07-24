@@ -1,7 +1,7 @@
 ---
-title: "Richard JUDD"
+title: "リチャード・ジャッド"
 name_en: "Richard JUDD"
-name_ja: "Richard JUDD"
+name_ja: "リチャード・ジャッド"
 slug: "richard-judd"
 position: "SH"
 height: "180"

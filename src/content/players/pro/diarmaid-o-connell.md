@@ -1,7 +1,7 @@
 ---
-title: "Diarmaid O'CONNELL"
+title: "ディアマイド・オコンネル"
 name_en: "Diarmaid O'CONNELL"
-name_ja: "Diarmaid O'CONNELL"
+name_ja: "ディアマイド・オコンネル"
 slug: "diarmaid-o-connell"
 position: "Back row"
 height: ""

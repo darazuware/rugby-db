@@ -1,7 +1,7 @@
 ---
-title: "Matt BERGES"
+title: "マット・ベルジュ"
 name_en: "Matt BERGES"
-name_ja: "Matt BERGES"
+name_ja: "マット・ベルジュ"
 slug: "matt-berges"
 position: "Winger"
 height: ""

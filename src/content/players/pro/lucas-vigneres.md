@@ -1,7 +1,7 @@
 ---
-title: "Lucas VIGNERES"
+title: "リュカ・ヴィニェレス"
 name_en: "Lucas VIGNERES"
-name_ja: "Lucas VIGNERES"
+name_ja: "リュカ・ヴィニェレス"
 slug: "lucas-vigneres"
 position: "Centre"
 height: ""

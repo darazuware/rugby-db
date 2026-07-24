@@ -1,7 +1,7 @@
 ---
-title: "Ere ENARI"
+title: "エレ・エナリ"
 name_en: "Ere ENARI"
-name_ja: "Ere ENARI"
+name_ja: "エレ・エナリ"
 slug: "ereatara-enari"
 position: "SH"
 height: "178"

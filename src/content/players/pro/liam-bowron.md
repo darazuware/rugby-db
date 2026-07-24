@@ -1,7 +1,7 @@
 ---
-title: "Liam BOWRON"
+title: "リアム・ボウロン"
 name_en: "Liam BOWRON"
-name_ja: "Liam BOWRON"
+name_ja: "リアム・ボウロン"
 slug: "liam-bowron"
 position: "HO"
 height: "183"

@@ -1,7 +1,7 @@
 ---
-title: "Sipili FALATEA"
+title: "シピリ・ファラテア"
 name_en: "Sipili FALATEA"
-name_ja: "Sipili FALATEA"
+name_ja: "シピリ・ファラテア"
 slug: "sipili-falatea"
 position: "PR"
 height: "183"

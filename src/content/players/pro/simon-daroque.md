@@ -1,7 +1,7 @@
 ---
-title: "Simon DAROQUE"
+title: "シモン・ダロック"
 name_en: "Simon DAROQUE"
-name_ja: "Simon DAROQUE"
+name_ja: "シモン・ダロック"
 slug: "simon-daroque"
 position: "Scrum-half"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Martin LABARTHE"
+title: "マルタン・ラバルト"
 name_en: "Martin LABARTHE"
-name_ja: "Martin LABARTHE"
+name_ja: "マルタン・ラバルト"
 slug: "martin-labarthe"
 position: "Back row"
 height: ""

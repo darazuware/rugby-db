@@ -1,7 +1,7 @@
 ---
-title: "Alfie BARBEARY"
+title: "アルフィー・バーベアリー"
 name_en: "Alfie BARBEARY"
-name_ja: "Alfie BARBEARY"
+name_ja: "アルフィー・バーベアリー"
 slug: "alfie-barbeary"
 position: "Back row"
 height: ""

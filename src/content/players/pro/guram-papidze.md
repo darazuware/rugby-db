@@ -1,7 +1,7 @@
 ---
-title: "Guram PAPIDZE"
+title: "グラム・パピゼ"
 name_en: "Guram PAPIDZE"
-name_ja: "Guram PAPIDZE"
+name_ja: "グラム・パピゼ"
 slug: "guram-papidze"
 position: "PR"
 height: "186"

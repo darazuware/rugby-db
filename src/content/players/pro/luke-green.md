@@ -1,7 +1,7 @@
 ---
-title: "Luke GREEN"
+title: "ルーク・グリーン"
 name_en: "Luke GREEN"
-name_ja: "Luke GREEN"
+name_ja: "ルーク・グリーン"
 slug: "luke-green"
 position: "Prop"
 height: ""

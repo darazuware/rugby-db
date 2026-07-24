@@ -1,7 +1,7 @@
 ---
-title: "Louis WERCHON"
+title: "ルイ・ウェルション"
 name_en: "Louis WERCHON"
-name_ja: "Louis WERCHON"
+name_ja: "ルイ・ウェルション"
 slug: "louis-werchon"
 position: "SH"
 height: "178"

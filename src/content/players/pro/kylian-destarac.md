@@ -1,7 +1,7 @@
 ---
-title: "Kylian DESTARAC"
+title: "キリアン・デスタラック"
 name_en: "Kylian DESTARAC"
-name_ja: "Kylian DESTARAC"
+name_ja: "キリアン・デスタラック"
 slug: "kylian-destarac"
 position: "Winger"
 height: ""

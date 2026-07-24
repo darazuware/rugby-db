@@ -1,7 +1,7 @@
 ---
-title: "Beno OBANO"
+title: "ベノ・オバノ"
 name_en: "Beno OBANO"
-name_ja: "Beno OBANO"
+name_ja: "ベノ・オバノ"
 slug: "beno--obano-"
 position: "Prop"
 height: ""

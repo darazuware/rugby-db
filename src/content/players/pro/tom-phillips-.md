@@ -1,7 +1,7 @@
 ---
-title: "Tom PHILLIPS | トム PHILLIPS"
+title: "Tom PHILLIPS | トム・フィリップス"
 name_en: "Tom PHILLIPS"
-name_ja: "トム PHILLIPS"
+name_ja: "トム・フィリップス"
 slug: "tom-phillips-"
 position: "PR"
 height: ""

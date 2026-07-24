@@ -1,7 +1,7 @@
 ---
-title: "Archie APPLEBY"
+title: "アーチー・アップルビー"
 name_en: "Archie APPLEBY"
-name_ja: "Archie APPLEBY"
+name_ja: "アーチー・アップルビー"
 slug: "archie-appleby"
 position: "Lock"
 height: ""

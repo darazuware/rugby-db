@@ -1,7 +1,7 @@
 ---
-title: "Jean-Luc DU PLESSIS | Jean Luc デュ PLESSIS"
+title: "Jean-Luc DU PLESSIS | ジャン=リュック・デュプレシ"
 name_en: "Jean-Luc DU PLESSIS"
-name_ja: "Jean Luc デュ PLESSIS"
+name_ja: "ジャン=リュック・デュプレシ"
 slug: "jean-luc-du-plessis"
 position: "SO"
 height: "180"

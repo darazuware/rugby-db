@@ -1,7 +1,7 @@
 ---
-title: "Magnus BRADBURY"
+title: "マグナス・ブラッドバリー"
 name_en: "Magnus BRADBURY"
-name_ja: "Magnus BRADBURY"
+name_ja: "マグナス・ブラッドバリー"
 slug: "magnus-bradbury"
 position: "FL/No8"
 height: "191"

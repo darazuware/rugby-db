@@ -1,7 +1,7 @@
 ---
-title: "Tom COWAN"
+title: "トム・コーワン"
 name_en: "Tom COWAN"
-name_ja: "Tom COWAN"
+name_ja: "トム・コーワン"
 slug: "tom-cowan"
 position: "Back row"
 height: ""

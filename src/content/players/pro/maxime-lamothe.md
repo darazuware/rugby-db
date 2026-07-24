@@ -1,7 +1,7 @@
 ---
-title: "Maxime LAMOTHE"
+title: "マキシム・ラモット"
 name_en: "Maxime LAMOTHE"
-name_ja: "Maxime LAMOTHE"
+name_ja: "マキシム・ラモット"
 slug: "maxime-lamothe"
 position: "HO"
 height: "184"

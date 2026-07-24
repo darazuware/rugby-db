@@ -1,7 +1,7 @@
 ---
-title: "Hugo IBRES"
+title: "ユゴー・イブレ"
 name_en: "Hugo IBRES"
-name_ja: "Hugo IBRES"
+name_ja: "ユゴー・イブレ"
 slug: "hugo-ibres"
 position: "Back row"
 height: ""

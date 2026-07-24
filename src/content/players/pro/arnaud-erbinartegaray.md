@@ -1,7 +1,7 @@
 ---
-title: "Arnaud ERBINARTEGARAY"
+title: "アルノー・エルビナルテガライ"
 name_en: "Arnaud ERBINARTEGARAY"
-name_ja: "Arnaud ERBINARTEGARAY"
+name_ja: "アルノー・エルビナルテガライ"
 slug: "arnaud-erbinartegaray"
 position: "WTB"
 height: "185"

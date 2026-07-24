@@ -1,7 +1,7 @@
 ---
-title: "Cyril BAILLE"
+title: "シリル・バイユ"
 name_en: "Cyril BAILLE"
-name_ja: "Cyril BAILLE"
+name_ja: "シリル・バイユ"
 slug: "cyril-baille"
 position: "PR"
 height: "182"

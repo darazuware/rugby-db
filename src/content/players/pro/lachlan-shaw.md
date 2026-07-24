@@ -1,7 +1,7 @@
 ---
-title: "Lachie SHAW"
+title: "ラキー・ショー"
 name_en: "Lachie SHAW"
-name_ja: "Lachie SHAW"
+name_ja: "ラキー・ショー"
 slug: "lachlan-shaw"
 position: "LO"
 height: "200"

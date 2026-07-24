@@ -1,7 +1,7 @@
 ---
-title: "Miles REID"
+title: "マイルズ・リード"
 name_en: "Miles REID"
-name_ja: "Miles REID"
+name_ja: "マイルズ・リード"
 slug: "miles-reid"
 position: "Back row"
 height: ""

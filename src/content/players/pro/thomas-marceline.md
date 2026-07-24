@@ -1,7 +1,7 @@
 ---
-title: "Thomas MARCELINE"
+title: "トマ・マルスリン"
 name_en: "Thomas MARCELINE"
-name_ja: "Thomas MARCELINE"
+name_ja: "トマ・マルスリン"
 slug: "thomas-marceline"
 position: "PR"
 height: "180"

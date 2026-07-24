@@ -1,7 +1,7 @@
 ---
-title: "Jean-Baptiste GROS"
+title: "ジャン＝バプティスト・グロ"
 name_en: "Jean-Baptiste GROS"
-name_ja: "Jean-Baptiste GROS"
+name_ja: "ジャン＝バプティスト・グロ"
 slug: "jean-baptiste-gros"
 position: "PR"
 height: "185"

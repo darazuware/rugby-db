@@ -1,7 +1,7 @@
 ---
-title: "Patrick TUIPULOTU"
+title: "パトリック・トゥイプロトゥ"
 name_en: "Patrick TUIPULOTU"
-name_ja: "Patrick TUIPULOTU"
+name_ja: "パトリック・トゥイプロトゥ"
 slug: "patrick-tuipulotu"
 position: "LO"
 height: "198"

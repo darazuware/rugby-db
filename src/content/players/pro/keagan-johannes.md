@@ -1,7 +1,7 @@
 ---
-title: "Keagan JOHANNES"
+title: "キーガン・ヨハネス"
 name_en: "Keagan JOHANNES"
-name_ja: "Keagan JOHANNES"
+name_ja: "キーガン・ヨハネス"
 slug: "keagan-johannes"
 position: "SH"
 height: "178"

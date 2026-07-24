@@ -1,7 +1,7 @@
 ---
-title: "Lorenzo FERRARI"
+title: "ロレンツォ・フェラーリ"
 name_en: "Lorenzo FERRARI"
-name_ja: "Lorenzo FERRARI"
+name_ja: "ロレンツォ・フェラーリ"
 slug: "lorenzo-ferrari"
 position: "Scrum-half"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Will JORDAN"
+title: "ウィル・ジョーダン"
 name_en: "Will JORDAN"
-name_ja: "Will JORDAN"
+name_ja: "ウィル・ジョーダン"
 slug: "will-jordan"
 position: "FB"
 height: "188"

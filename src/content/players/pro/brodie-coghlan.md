@@ -1,7 +1,7 @@
 ---
-title: "Brodie COGHLAN"
+title: "ブロディ・コグラン"
 name_en: "Brodie COGHLAN"
-name_ja: "Brodie COGHLAN"
+name_ja: "ブロディ・コグラン"
 slug: "brodie-coghlan"
 position: "HO"
 height: "183"

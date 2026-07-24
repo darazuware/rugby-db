@@ -1,7 +1,7 @@
 ---
-title: "Tomas RAPETTI"
+title: "トマス・ラペッティ"
 name_en: "Tomas RAPETTI"
-name_ja: "Tomas RAPETTI"
+name_ja: "トマス・ラペッティ"
 slug: "tomas-rapetti"
 position: "Prop"
 height: ""

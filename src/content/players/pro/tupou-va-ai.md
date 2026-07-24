@@ -1,7 +1,7 @@
 ---
-title: "Tupou VAA'I"
+title: "トゥポウ・ヴァアイ"
 name_en: "Tupou VAA'I"
-name_ja: "Tupou VAA'I"
+name_ja: "トゥポウ・ヴァアイ"
 slug: "tupou-va-ai"
 position: "LO"
 height: "198"

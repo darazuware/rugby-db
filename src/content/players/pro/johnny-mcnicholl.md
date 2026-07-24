@@ -1,7 +1,7 @@
 ---
-title: "Johnny MCNICHOLL"
+title: "ジョニー・マクニコル"
 name_en: "Johnny MCNICHOLL"
-name_ja: "Johnny MCNICHOLL"
+name_ja: "ジョニー・マクニコル"
 slug: "johnny-mcnicholl"
 position: "WTB"
 height: "191"

@@ -1,7 +1,7 @@
 ---
-title: "Cebo DLAMINI"
+title: "セボ・ドラミニ"
 name_en: "Cebo DLAMINI"
-name_ja: "Cebo DLAMINI"
+name_ja: "セボ・ドラミニ"
 slug: "cebolenkosi-dlamini"
 position: "PR"
 height: "176"

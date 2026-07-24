@@ -1,7 +1,7 @@
 ---
-title: "Guillaume MARCHAND"
+title: "ギョーム・マルシャン"
 name_en: "Guillaume MARCHAND"
-name_ja: "Guillaume MARCHAND"
+name_ja: "ギョーム・マルシャン"
 slug: "guillaume-marchand"
 position: "HO"
 height: "183"

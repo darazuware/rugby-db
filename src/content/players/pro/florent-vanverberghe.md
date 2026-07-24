@@ -1,7 +1,7 @@
 ---
-title: "Florent VANVERBERGHE"
+title: "フロラン・ヴァンヴェルベルゲ"
 name_en: "Florent VANVERBERGHE"
-name_ja: "Florent VANVERBERGHE"
+name_ja: "フロラン・ヴァンヴェルベルゲ"
 slug: "florent-vanverberghe"
 position: "LO"
 height: "198"

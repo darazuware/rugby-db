@@ -1,7 +1,7 @@
 ---
-title: "Rory PURVIS"
+title: "ロリー・パーヴィス"
 name_en: "Rory PURVIS"
-name_ja: "Rory PURVIS"
+name_ja: "ロリー・パーヴィス"
 slug: "rory-purvis"
 position: "Back row"
 height: "191"

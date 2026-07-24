@@ -1,7 +1,7 @@
 ---
-title: "Jack LAWRENCE"
+title: "ジャック・ローレンス"
 name_en: "Jack LAWRENCE"
-name_ja: "Jack LAWRENCE"
+name_ja: "ジャック・ローレンス"
 slug: "jack-lawrence"
 position: "Lock"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "James WHITCOMBE"
+title: "ジェームズ・ウィットコム"
 name_en: "James WHITCOMBE"
-name_ja: "James WHITCOMBE"
+name_ja: "ジェームズ・ウィットコム"
 slug: "james-whitcombe"
 position: "PR"
 height: "188"

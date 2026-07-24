@@ -1,7 +1,7 @@
 ---
-title: "Will GLISTER"
+title: "ウィル・グリスター"
 name_en: "Will GLISTER"
-name_ja: "Will GLISTER"
+name_ja: "ウィル・グリスター"
 slug: "will-glister"
 position: "Winger"
 height: ""

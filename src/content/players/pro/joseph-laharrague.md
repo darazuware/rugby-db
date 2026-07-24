@@ -1,7 +1,7 @@
 ---
-title: "Joseph LAHARRAGUE"
+title: "ジョゼフ・ラアラグ"
 name_en: "Joseph LAHARRAGUE"
-name_ja: "Joseph LAHARRAGUE"
+name_ja: "ジョゼフ・ラアラグ"
 slug: "joseph-laharrague"
 position: "SO"
 height: "183"

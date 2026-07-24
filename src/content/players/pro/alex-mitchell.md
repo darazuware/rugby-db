@@ -1,7 +1,7 @@
 ---
-title: "Alex MITCHELL"
+title: "アレックス・ミッチェル"
 name_en: "Alex MITCHELL"
-name_ja: "Alex MITCHELL"
+name_ja: "アレックス・ミッチェル"
 slug: "alex-mitchell"
 position: "Scrum-half"
 height: ""

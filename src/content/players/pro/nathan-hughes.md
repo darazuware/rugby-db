@@ -1,7 +1,7 @@
 ---
-title: "Nathan HUGHES"
+title: "ネイサン・ヒューズ"
 name_en: "Nathan HUGHES"
-name_ja: "Nathan HUGHES"
+name_ja: "ネイサン・ヒューズ"
 slug: "nathan-hughes"
 position: "FL/NO8"
 height: "196"

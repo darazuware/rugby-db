@@ -1,7 +1,7 @@
 ---
-title: "Romain NTAMACK"
+title: "ロマン・タマック"
 name_en: "Romain NTAMACK"
-name_ja: "Romain NTAMACK"
+name_ja: "ロマン・タマック"
 slug: "romain-ntamack"
 position: "SO"
 height: "186"

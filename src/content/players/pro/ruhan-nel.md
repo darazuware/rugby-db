@@ -1,7 +1,7 @@
 ---
-title: "Ruhan NEL"
+title: "ルハン・ネル"
 name_en: "Ruhan NEL"
-name_ja: "Ruhan NEL"
+name_ja: "ルハン・ネル"
 slug: "ruhan-nel"
 position: "CTB"
 height: "191"

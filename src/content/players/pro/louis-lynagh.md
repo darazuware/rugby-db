@@ -1,7 +1,7 @@
 ---
-title: "Louis LYNAGH"
+title: "ルイス・リナ"
 name_en: "Louis LYNAGH"
-name_ja: "Louis LYNAGH"
+name_ja: "ルイス・リナ"
 slug: "louis-lynagh"
 position: "WTB"
 height: "187"

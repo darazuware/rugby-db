@@ -1,7 +1,7 @@
 ---
-title: "Malelili SATALA"
+title: "マレリリ・サタラ"
 name_en: "Malelili SATALA"
-name_ja: "Malelili SATALA"
+name_ja: "マレリリ・サタラ"
 slug: "malelili-satala"
 position: "Winger"
 height: "184"

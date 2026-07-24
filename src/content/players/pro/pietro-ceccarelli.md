@@ -1,7 +1,7 @@
 ---
-title: "Pietro CECCARELLI"
+title: "ピエトロ・チェカレッリ"
 name_en: "Pietro CECCARELLI"
-name_ja: "Pietro CECCARELLI"
+name_ja: "ピエトロ・チェカレッリ"
 slug: "pietro-ceccarelli"
 position: "PR"
 height: "184"

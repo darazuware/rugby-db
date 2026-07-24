@@ -1,7 +1,7 @@
 ---
-title: "Thomas LAVAULT"
+title: "トマ・ラヴォー"
 name_en: "Thomas LAVAULT"
-name_ja: "Thomas LAVAULT"
+name_ja: "トマ・ラヴォー"
 slug: "thomas-lavault"
 position: "LO"
 height: "199"

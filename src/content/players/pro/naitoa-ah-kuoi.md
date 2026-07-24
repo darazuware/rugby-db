@@ -1,7 +1,7 @@
 ---
-title: "Naitoa AH KUOI"
+title: "ナイトア・アクオイ"
 name_en: "Naitoa AH KUOI"
-name_ja: "Naitoa AH KUOI"
+name_ja: "ナイトア・アクオイ"
 slug: "naitoa-ah-kuoi"
 position: "LO"
 height: "196"

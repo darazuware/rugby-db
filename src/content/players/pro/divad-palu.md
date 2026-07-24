@@ -1,7 +1,7 @@
 ---
-title: "Divad PALU"
+title: "ディバッド・パル"
 name_en: "Divad PALU"
-name_ja: "Divad PALU"
+name_ja: "ディバッド・パル"
 slug: "divad-palu"
 position: "CTB"
 height: "179"

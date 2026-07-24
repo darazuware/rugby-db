@@ -1,7 +1,7 @@
 ---
-title: "Dylan TIERNEY-MARTIN | Dylan TIERNEY MARTIN"
+title: "Dylan TIERNEY-MARTIN | ディラン・ティアニー=マーティン"
 name_en: "Dylan TIERNEY-MARTIN"
-name_ja: "Dylan TIERNEY MARTIN"
+name_ja: "ディラン・ティアニー=マーティン"
 slug: "dylan-tierney-martin"
 position: "HO"
 height: "182"

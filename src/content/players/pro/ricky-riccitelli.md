@@ -1,7 +1,7 @@
 ---
-title: "Ricky RICCITELLI"
+title: "リッキー・リッチテッリ"
 name_en: "Ricky RICCITELLI"
-name_ja: "Ricky RICCITELLI"
+name_ja: "リッキー・リッチテッリ"
 slug: "ricky-riccitelli"
 position: "HO"
 height: "182"

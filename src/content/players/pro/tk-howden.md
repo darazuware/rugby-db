@@ -1,7 +1,7 @@
 ---
-title: "TK HOWDEN"
+title: "TK・ハウデン"
 name_en: "TK HOWDEN"
-name_ja: "TK HOWDEN"
+name_ja: "TK・ハウデン"
 slug: "tk-howden"
 position: "FL/No8"
 height: "193"

@@ -1,7 +1,7 @@
 ---
-title: "Matt CURRIE"
+title: "マット・カリー"
 name_en: "Matt CURRIE"
-name_ja: "Matt CURRIE"
+name_ja: "マット・カリー"
 slug: "matt-currie"
 position: "CTB"
 height: "191"

@@ -1,7 +1,7 @@
 ---
-title: "Tevita OFA"
+title: "テビタ・オファ"
 name_en: "Tevita OFA"
-name_ja: "Tevita OFA"
+name_ja: "テビタ・オファ"
 slug: "tevita-ofa"
 position: "WTB"
 height: "186"

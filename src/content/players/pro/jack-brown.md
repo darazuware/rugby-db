@@ -1,7 +1,7 @@
 ---
-title: "Jack BROWN"
+title: "ジャック・ブラウン"
 name_en: "Jack BROWN"
-name_ja: "Jack BROWN"
+name_ja: "ジャック・ブラウン"
 slug: "jack-brown"
 position: "FB"
 height: "188"

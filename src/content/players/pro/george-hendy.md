@@ -1,7 +1,7 @@
 ---
-title: "George HENDY"
+title: "ジョージ・ヘンディ"
 name_en: "George HENDY"
-name_ja: "George HENDY"
+name_ja: "ジョージ・ヘンディ"
 slug: "george-hendy"
 position: "Fullback"
 height: ""

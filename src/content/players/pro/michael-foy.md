@@ -1,7 +1,7 @@
 ---
-title: "Michael FOY | マイケル FOY"
+title: "Michael FOY | マイケル・フォイ"
 name_en: "Michael FOY"
-name_ja: "マイケル FOY"
+name_ja: "マイケル・フォイ"
 slug: "michael-foy"
 position: "LO"
 height: "196"

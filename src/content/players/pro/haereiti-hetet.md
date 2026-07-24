@@ -1,7 +1,7 @@
 ---
-title: "Haereiti HETET"
+title: "ハエレイティ・ヘテト"
 name_en: "Haereiti HETET"
-name_ja: "Haereiti HETET"
+name_ja: "ハエレイティ・ヘテト"
 slug: "haereiti-hetet"
 position: "PR"
 height: "184"

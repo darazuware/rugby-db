@@ -1,7 +1,7 @@
 ---
-title: "Bobby BRENNAN"
+title: "ボビー・ブレナン"
 name_en: "Bobby BRENNAN"
-name_ja: "Bobby BRENNAN"
+name_ja: "ボビー・ブレナン"
 slug: "bobby-brennan"
 position: "Lock"
 height: ""

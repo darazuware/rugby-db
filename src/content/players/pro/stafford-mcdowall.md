@@ -1,7 +1,7 @@
 ---
-title: "Stafford MCDOWALL"
+title: "スタッフォード・マクドウォール"
 name_en: "Stafford MCDOWALL"
-name_ja: "Stafford MCDOWALL"
+name_ja: "スタッフォード・マクドウォール"
 slug: "stafford-mcdowall"
 position: "CTB"
 height: "193"

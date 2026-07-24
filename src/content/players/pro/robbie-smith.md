@@ -1,7 +1,7 @@
 ---
-title: "Robbie SMITH"
+title: "ロビー・スミス"
 name_en: "Robbie SMITH"
-name_ja: "Robbie SMITH"
+name_ja: "ロビー・スミス"
 slug: "robbie-smith"
 position: "Hooker"
 height: ""

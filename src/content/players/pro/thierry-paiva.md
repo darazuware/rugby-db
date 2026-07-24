@@ -1,7 +1,7 @@
 ---
-title: "Thierry PAIVA"
+title: "ティエリー・パイヴァ"
 name_en: "Thierry PAIVA"
-name_ja: "Thierry PAIVA"
+name_ja: "ティエリー・パイヴァ"
 slug: "thierry-paiva"
 position: "PR"
 height: "184"

@@ -1,7 +1,7 @@
 ---
-title: "Carlo TIZZANO"
+title: "カルロ・ティッツァーノ"
 name_en: "Carlo TIZZANO"
-name_ja: "Carlo TIZZANO"
+name_ja: "カルロ・ティッツァーノ"
 slug: "carlo-tizzano"
 position: "FL/No8"
 height: "183"

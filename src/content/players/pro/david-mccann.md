@@ -1,7 +1,7 @@
 ---
-title: "Dave MCCANN | デイヴ MCCANN"
+title: "Dave MCCANN | デイヴ・マッキャン"
 name_en: "Dave MCCANN"
-name_ja: "デイヴ MCCANN"
+name_ja: "デイヴ・マッキャン"
 slug: "david-mccann"
 position: "Back row"
 height: "193"

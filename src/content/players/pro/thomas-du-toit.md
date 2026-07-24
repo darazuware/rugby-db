@@ -1,7 +1,7 @@
 ---
-title: "Thomas DU TOIT"
+title: "トーマス・デュ・トワ"
 name_en: "Thomas DU TOIT"
-name_ja: "Thomas DU TOIT"
+name_ja: "トーマス・デュ・トワ"
 slug: "thomas-du-toit"
 position: "Prop"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Charlie ULCOQ"
+title: "チャーリー・ウルコック"
 name_en: "Charlie ULCOQ"
-name_ja: "Charlie ULCOQ"
+name_ja: "チャーリー・ウルコック"
 slug: "charlie-ulcoq"
 position: "Back row"
 height: ""

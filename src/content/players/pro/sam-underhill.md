@@ -1,7 +1,7 @@
 ---
-title: "Sam UNDERHILL"
+title: "サム・アンダーヒル"
 name_en: "Sam UNDERHILL"
-name_ja: "Sam UNDERHILL"
+name_ja: "サム・アンダーヒル"
 slug: "sam-underhill"
 position: "Back row"
 height: ""

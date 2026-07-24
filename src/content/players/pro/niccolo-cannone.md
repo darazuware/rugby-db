@@ -1,7 +1,7 @@
 ---
-title: "Niccolo CANNONE"
+title: "ニッコロ・カンノーネ"
 name_en: "Niccolo CANNONE"
-name_ja: "Niccolo CANNONE"
+name_ja: "ニッコロ・カンノーネ"
 slug: "niccolo-cannone"
 position: "LO"
 height: "197"

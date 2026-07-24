@@ -1,7 +1,7 @@
 ---
-title: "Ignacio BREX"
+title: "イグナシオ・ブレックス"
 name_en: "Ignacio BREX"
-name_ja: "Ignacio BREX"
+name_ja: "イグナシオ・ブレックス"
 slug: "ignacio-brex"
 position: "CTB"
 height: "189"

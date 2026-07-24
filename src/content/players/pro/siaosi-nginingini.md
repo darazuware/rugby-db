@@ -1,7 +1,7 @@
 ---
-title: "Siaosi NGININGINI"
+title: "シアオシ・ンギニンギニ"
 name_en: "Siaosi NGININGINI"
-name_ja: "Siaosi NGININGINI"
+name_ja: "シアオシ・ンギニンギニ"
 slug: "siaosi-nginingini"
 position: "SH"
 height: "183"

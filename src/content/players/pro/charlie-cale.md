@@ -1,7 +1,7 @@
 ---
-title: "Charlie CALE"
+title: "チャーリー・ケール"
 name_en: "Charlie CALE"
-name_ja: "Charlie CALE"
+name_ja: "チャーリー・ケール"
 slug: "charlie-cale"
 position: "FL/No8"
 height: "196"

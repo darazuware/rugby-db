@@ -1,7 +1,7 @@
 ---
-title: "Hudson CREIGHTON"
+title: "ハドソン・クレイトン"
 name_en: "Hudson CREIGHTON"
-name_ja: "Hudson CREIGHTON"
+name_ja: "ハドソン・クレイトン"
 slug: "hudson-creighton"
 position: "CTB"
 height: "182"

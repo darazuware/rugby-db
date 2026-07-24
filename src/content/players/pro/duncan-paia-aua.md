@@ -1,7 +1,7 @@
 ---
-title: "Duncan PAIA'AUA"
+title: "ダンカン・パイアウア"
 name_en: "Duncan PAIA'AUA"
-name_ja: "Duncan PAIA'AUA"
+name_ja: "ダンカン・パイアウア"
 slug: "duncan-paia-aua"
 position: "CTB"
 height: "183"

@@ -1,7 +1,7 @@
 ---
-title: "Jackson GARDEN-BACHOP"
+title: "ジャクソン・ガーデン・バショップ"
 name_en: "Jackson GARDEN-BACHOP"
-name_ja: "Jackson GARDEN-BACHOP"
+name_ja: "ジャクソン・ガーデン・バショップ"
 slug: "jackson-garden-bachop"
 position: "SO"
 height: "185"

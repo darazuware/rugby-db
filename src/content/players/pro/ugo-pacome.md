@@ -1,7 +1,7 @@
 ---
-title: "Ugo PACOME"
+title: "ユゴ・パコム"
 name_en: "Ugo PACOME"
-name_ja: "Ugo PACOME"
+name_ja: "ユゴ・パコム"
 slug: "ugo-pacome"
 position: "FB"
 height: "188"

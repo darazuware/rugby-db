@@ -1,7 +1,7 @@
 ---
-title: "Baptiste COPE"
+title: "バプティスト・コップ"
 name_en: "Baptiste COPE"
-name_ja: "Baptiste COPE"
+name_ja: "バプティスト・コップ"
 slug: "baptiste-cope"
 position: "FL/NO8"
 height: "186"

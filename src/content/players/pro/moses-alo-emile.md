@@ -1,7 +1,7 @@
 ---
-title: "Moses ALO-EMILE"
+title: "モーゼス・アロ＝エミル"
 name_en: "Moses ALO-EMILE"
-name_ja: "Moses ALO-EMILE"
+name_ja: "モーゼス・アロ＝エミル"
 slug: "moses-alo-emile"
 position: "PR"
 height: "187"

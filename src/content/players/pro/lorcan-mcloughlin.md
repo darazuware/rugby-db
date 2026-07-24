@@ -1,7 +1,7 @@
 ---
-title: "Lorcan MCLOUGHLIN"
+title: "ロルカン・マクロクリン"
 name_en: "Lorcan MCLOUGHLIN"
-name_ja: "Lorcan MCLOUGHLIN"
+name_ja: "ロルカン・マクロクリン"
 slug: "lorcan-mcloughlin"
 position: "Back row"
 height: "190"

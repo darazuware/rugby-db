@@ -1,7 +1,7 @@
 ---
-title: "Ross WOLFENDEN"
+title: "ロス・ウルフェンデン"
 name_en: "Ross WOLFENDEN"
-name_ja: "Ross WOLFENDEN"
+name_ja: "ロス・ウルフェンデン"
 slug: "ross-wolfenden"
 position: "SO"
 height: "194"

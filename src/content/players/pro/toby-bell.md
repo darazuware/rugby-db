@@ -1,7 +1,7 @@
 ---
-title: "Toby BELL"
+title: "トビー・ベル"
 name_en: "Toby BELL"
-name_ja: "Toby BELL"
+name_ja: "トビー・ベル"
 slug: "toby-bell"
 position: "SO"
 height: ""

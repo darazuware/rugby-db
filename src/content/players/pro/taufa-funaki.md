@@ -1,7 +1,7 @@
 ---
-title: "Taufa FUNAKI"
+title: "タウファ・フナキ"
 name_en: "Taufa FUNAKI"
-name_ja: "Taufa FUNAKI"
+name_ja: "タウファ・フナキ"
 slug: "taufa-funaki"
 position: "SH"
 height: "179"

@@ -1,7 +1,7 @@
 ---
-title: "Charlie SAVALA"
+title: "チャーリー・サヴァラ"
 name_en: "Charlie SAVALA"
-name_ja: "Charlie SAVALA"
+name_ja: "チャーリー・サヴァラ"
 slug: "charlie-savala"
 position: "SO"
 height: "193"

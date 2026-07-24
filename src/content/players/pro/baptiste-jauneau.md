@@ -1,7 +1,7 @@
 ---
-title: "Baptiste JAUNEAU"
+title: "バプティスト・ジョノー"
 name_en: "Baptiste JAUNEAU"
-name_ja: "Baptiste JAUNEAU"
+name_ja: "バプティスト・ジョノー"
 slug: "baptiste-jauneau"
 position: "SH"
 height: "169"

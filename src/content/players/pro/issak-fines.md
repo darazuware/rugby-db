@@ -1,7 +1,7 @@
 ---
-title: "Issak FINES"
+title: "イサク・ファインズ"
 name_en: "Issak FINES"
-name_ja: "Issak FINES"
+name_ja: "イサク・ファインズ"
 slug: "issak-fines"
 position: "SH"
 height: "173"

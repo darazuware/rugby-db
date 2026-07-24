@@ -1,7 +1,7 @@
 ---
-title: "Isaia WALKER-LEAWERE"
+title: "イサイア・ウォーカー・レアウェレ"
 name_en: "Isaia WALKER-LEAWERE"
-name_ja: "Isaia WALKER-LEAWERE"
+name_ja: "イサイア・ウォーカー・レアウェレ"
 slug: "isaia-walker-leawere"
 position: "LO"
 height: "197"

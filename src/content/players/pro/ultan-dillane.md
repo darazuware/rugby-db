@@ -1,7 +1,7 @@
 ---
-title: "Ultan DILLANE"
+title: "ウルタン・ディレイン"
 name_en: "Ultan DILLANE"
-name_ja: "Ultan DILLANE"
+name_ja: "ウルタン・ディレイン"
 slug: "ultan-dillane"
 position: "LO"
 height: "198"

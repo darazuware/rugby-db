@@ -1,7 +1,7 @@
 ---
-title: "Yerim FALL"
+title: "イェリム・ファル"
 name_en: "Yerim FALL"
-name_ja: "Yerim FALL"
+name_ja: "イェリム・ファル"
 slug: "yerim-fall"
 position: "WTB"
 height: "178"

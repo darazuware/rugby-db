@@ -1,7 +1,7 @@
 ---
-title: "Jared PROFFIT"
+title: "ジャレッド・プロフィット"
 name_en: "Jared PROFFIT"
-name_ja: "Jared PROFFIT"
+name_ja: "ジャレッド・プロフィット"
 slug: "jared-proffit"
 position: "PR"
 height: "186"

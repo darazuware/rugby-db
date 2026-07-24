@@ -1,7 +1,7 @@
 ---
-title: "Angelo SMITH"
+title: "アンジェロ・スミス"
 name_en: "Angelo SMITH"
-name_ja: "Angelo SMITH"
+name_ja: "アンジェロ・スミス"
 slug: "angelo-smith"
 position: "LO"
 height: "199"

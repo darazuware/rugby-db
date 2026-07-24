@@ -1,7 +1,7 @@
 ---
-title: "Taine ROBINSON"
+title: "タイン・ロビンソン"
 name_en: "Taine ROBINSON"
-name_ja: "Taine ROBINSON"
+name_ja: "タイン・ロビンソン"
 slug: "taine-robinson"
 position: "SO"
 height: "180"

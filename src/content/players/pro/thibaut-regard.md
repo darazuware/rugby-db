@@ -1,7 +1,7 @@
 ---
-title: "Thibaut REGARD"
+title: "ティボー・ルガール"
 name_en: "Thibaut REGARD"
-name_ja: "Thibaut REGARD"
+name_ja: "ティボー・ルガール"
 slug: "thibaut-regard"
 position: "CTB"
 height: "180"

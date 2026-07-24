@@ -1,7 +1,7 @@
 ---
-title: "Isikeli RABITU"
+title: "イシケリ・ラビトゥ"
 name_en: "Isikeli RABITU"
-name_ja: "Isikeli RABITU"
+name_ja: "イシケリ・ラビトゥ"
 slug: "isikeli-rabitu"
 position: "SO"
 height: ""

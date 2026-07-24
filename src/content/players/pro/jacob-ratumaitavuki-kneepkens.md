@@ -1,7 +1,7 @@
 ---
-title: "Jacob RATUMAITAVUKI-KNEEPKENS"
+title: "ジェイコブ・ラトゥマイタブキ・ネプキンズ"
 name_en: "Jacob RATUMAITAVUKI-KNEEPKENS"
-name_ja: "Jacob RATUMAITAVUKI-KNEEPKENS"
+name_ja: "ジェイコブ・ラトゥマイタブキ・ネプキンズ"
 slug: "jacob-ratumaitavuki-kneepkens"
 position: "WTB"
 height: "187"

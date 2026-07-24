@@ -1,7 +1,7 @@
 ---
-title: "Matteo NOCERA"
+title: "マッテオ・ノーチェラ"
 name_en: "Matteo NOCERA"
-name_ja: "Matteo NOCERA"
+name_ja: "マッテオ・ノーチェラ"
 slug: "matteo-nocera"
 position: "PR"
 height: "194"

@@ -1,7 +1,7 @@
 ---
-title: "Daniel BRENNAN"
+title: "ダニエル・ブレナン"
 name_en: "Daniel BRENNAN"
-name_ja: "Daniel BRENNAN"
+name_ja: "ダニエル・ブレナン"
 slug: "daniel-brennan"
 position: "PR"
 height: "192"

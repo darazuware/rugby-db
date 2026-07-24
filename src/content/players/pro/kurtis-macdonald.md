@@ -1,7 +1,7 @@
 ---
-title: "Kurtis MACDONALD"
+title: "カーティス・マクドナルド"
 name_en: "Kurtis MACDONALD"
-name_ja: "Kurtis MACDONALD"
+name_ja: "カーティス・マクドナルド"
 slug: "kurtis-macdonald"
 position: "Centre"
 height: ""

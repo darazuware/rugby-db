@@ -1,7 +1,7 @@
 ---
-title: "Facundo ISA"
+title: "ファクンド・イサ"
 name_en: "Facundo ISA"
-name_ja: "Facundo ISA"
+name_ja: "ファクンド・イサ"
 slug: "facundo-isa"
 position: "FL/NO8"
 height: "188"

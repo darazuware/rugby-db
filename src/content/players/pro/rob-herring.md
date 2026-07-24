@@ -1,7 +1,7 @@
 ---
-title: "Rob HERRING"
+title: "ロブ・ヘリング"
 name_en: "Rob HERRING"
-name_ja: "Rob HERRING"
+name_ja: "ロブ・ヘリング"
 slug: "rob-herring"
 position: "HO"
 height: "185"

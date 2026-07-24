@@ -1,7 +1,7 @@
 ---
-title: "Ryan CONBEER | ライアン CONBEER"
+title: "Ryan CONBEER | ライアン・コンビア"
 name_en: "Ryan CONBEER"
-name_ja: "ライアン CONBEER"
+name_ja: "ライアン・コンビア"
 slug: "ryan-conbeer"
 position: "Winger"
 height: "177"

@@ -1,7 +1,7 @@
 ---
-title: "Josh KEMENY"
+title: "ジョシュ・ケメニー"
 name_en: "Josh KEMENY"
-name_ja: "Josh KEMENY"
+name_ja: "ジョシュ・ケメニー"
 slug: "josh-kemeny"
 position: "Back row"
 height: ""

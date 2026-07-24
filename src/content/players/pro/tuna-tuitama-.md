@@ -1,7 +1,7 @@
 ---
-title: "Tuna TUITAMA"
+title: "トゥナ・トゥイタマ"
 name_en: "Tuna TUITAMA"
-name_ja: "Tuna TUITAMA"
+name_ja: "トゥナ・トゥイタマ"
 slug: "tuna-tuitama-"
 position: "WTB"
 height: "187"

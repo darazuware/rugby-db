@@ -1,7 +1,7 @@
 ---
-title: "Jeremy WILLIAMS"
+title: "ジェレミー・ウィリアムズ"
 name_en: "Jeremy WILLIAMS"
-name_ja: "Jeremy WILLIAMS"
+name_ja: "ジェレミー・ウィリアムズ"
 slug: "jeremy-williams"
 position: "LO"
 height: "198"

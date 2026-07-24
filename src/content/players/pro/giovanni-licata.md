@@ -1,7 +1,7 @@
 ---
-title: "Giovanni LICATA"
+title: "ジョヴァンニ・リカータ"
 name_en: "Giovanni LICATA"
-name_ja: "Giovanni LICATA"
+name_ja: "ジョヴァンニ・リカータ"
 slug: "giovanni-licata"
 position: "Back row"
 height: "193"

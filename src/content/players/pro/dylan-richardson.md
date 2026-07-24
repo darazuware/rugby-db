@@ -1,7 +1,7 @@
 ---
-title: "Dylan RICHARDSON"
+title: "ディラン・リチャードソン"
 name_en: "Dylan RICHARDSON"
-name_ja: "Dylan RICHARDSON"
+name_ja: "ディラン・リチャードソン"
 slug: "dylan-richardson"
 position: "Back row"
 height: "185"

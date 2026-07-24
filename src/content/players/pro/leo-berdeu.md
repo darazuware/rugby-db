@@ -1,7 +1,7 @@
 ---
-title: "Leo BERDEU"
+title: "レオ・ベルドゥ"
 name_en: "Leo BERDEU"
-name_ja: "Leo BERDEU"
+name_ja: "レオ・ベルドゥ"
 slug: "leo-berdeu"
 position: "SO"
 height: "195"

@@ -1,7 +1,7 @@
 ---
-title: "Rico SIMPSON"
+title: "リコ・シンプソン"
 name_en: "Rico SIMPSON"
-name_ja: "Rico SIMPSON"
+name_ja: "リコ・シンプソン"
 slug: "rico-simpson"
 position: "SO"
 height: "195"

@@ -1,7 +1,7 @@
 ---
-title: "Dallas MCLEOD"
+title: "ダラス・マクラウド"
 name_en: "Dallas MCLEOD"
-name_ja: "Dallas MCLEOD"
+name_ja: "ダラス・マクラウド"
 slug: "dallas-mcleod"
 position: "CTB"
 height: "190"

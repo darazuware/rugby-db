@@ -1,7 +1,7 @@
 ---
-title: "Temo MATIU"
+title: "テモ・マティウ"
 name_en: "Temo MATIU"
-name_ja: "Temo MATIU"
+name_ja: "テモ・マティウ"
 slug: "temo-matiu"
 position: "FL/NO8"
 height: "191"

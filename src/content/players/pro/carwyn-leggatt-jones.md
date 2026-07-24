@@ -1,7 +1,7 @@
 ---
-title: "Carwyn LEGGATT-JONES | Carwyn LEGGATT JONES"
+title: "Carwyn LEGGATT-JONES | カーウィン・レガット=ジョーンズ"
 name_en: "Carwyn LEGGATT-JONES"
-name_ja: "Carwyn LEGGATT JONES"
+name_ja: "カーウィン・レガット=ジョーンズ"
 slug: "carwyn-leggatt-jones"
 position: "SO"
 height: "170"

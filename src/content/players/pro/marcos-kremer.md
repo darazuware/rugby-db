@@ -1,7 +1,7 @@
 ---
-title: "Marcos KREMER"
+title: "マルコス・クレメール"
 name_en: "Marcos KREMER"
-name_ja: "Marcos KREMER"
+name_ja: "マルコス・クレメール"
 slug: "marcos-kremer"
 position: "FL/NO8"
 height: "195"

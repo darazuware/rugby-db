@@ -1,7 +1,7 @@
 ---
-title: "Glen YOUNG"
+title: "グレン・ヤング"
 name_en: "Glen YOUNG"
-name_ja: "Glen YOUNG"
+name_ja: "グレン・ヤング"
 slug: "glen-young"
 position: "LO"
 height: "200"

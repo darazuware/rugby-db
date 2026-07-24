@@ -1,7 +1,7 @@
 ---
-title: "Romain TAOFIFENUA"
+title: "ロマン・タオフィフェヌア"
 name_en: "Romain TAOFIFENUA"
-name_ja: "Romain TAOFIFENUA"
+name_ja: "ロマン・タオフィフェヌア"
 slug: "romain-taofifenua"
 position: "LO"
 height: "202"

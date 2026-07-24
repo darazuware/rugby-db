@@ -1,7 +1,7 @@
 ---
-title: "Seb CALDER"
+title: "セブ・コールダー"
 name_en: "Seb CALDER"
-name_ja: "Seb CALDER"
+name_ja: "セブ・コールダー"
 slug: "seb-calder"
 position: "PR"
 height: "184"

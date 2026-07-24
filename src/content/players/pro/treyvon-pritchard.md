@@ -1,7 +1,7 @@
 ---
-title: "Treyvon PRITCHARD"
+title: "トレイボン・プリチャード"
 name_en: "Treyvon PRITCHARD"
-name_ja: "Treyvon PRITCHARD"
+name_ja: "トレイボン・プリチャード"
 slug: "treyvon-pritchard"
 position: "FB"
 height: ""

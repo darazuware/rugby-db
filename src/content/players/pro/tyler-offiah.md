@@ -1,7 +1,7 @@
 ---
-title: "Tyler OFFIAH"
+title: "タイラー・オフィア"
 name_en: "Tyler OFFIAH"
-name_ja: "Tyler OFFIAH"
+name_ja: "タイラー・オフィア"
 slug: "tyler-offiah"
 position: "Winger"
 height: ""

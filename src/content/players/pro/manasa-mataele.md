@@ -1,7 +1,7 @@
 ---
-title: "Manasa MATAELE"
+title: "マナサ・マタエレ"
 name_en: "Manasa MATAELE"
-name_ja: "Manasa MATAELE"
+name_ja: "マナサ・マタエレ"
 slug: "manasa-mataele"
 position: "WTB"
 height: "185"

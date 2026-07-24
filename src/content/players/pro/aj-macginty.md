@@ -1,7 +1,7 @@
 ---
-title: "AJ MacGinty"
+title: "AJ・マッギンティ"
 name_en: "AJ MacGinty"
-name_ja: "AJ MacGinty"
+name_ja: "AJ・マッギンティ"
 slug: "aj-macginty"
 position: "Fly-half"
 height: ""

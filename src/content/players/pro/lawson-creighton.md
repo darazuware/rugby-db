@@ -1,7 +1,7 @@
 ---
-title: "Lawson CREIGHTON"
+title: "ローソン・クレイトン"
 name_en: "Lawson CREIGHTON"
-name_ja: "Lawson CREIGHTON"
+name_ja: "ローソン・クレイトン"
 slug: "lawson-creighton"
 position: "SO"
 height: "185"

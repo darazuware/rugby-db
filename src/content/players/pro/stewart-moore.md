@@ -1,7 +1,7 @@
 ---
-title: "Stewart MOORE"
+title: "スチュワート・ムーア"
 name_en: "Stewart MOORE"
-name_ja: "Stewart MOORE"
+name_ja: "スチュワート・ムーア"
 slug: "stewart-moore"
 position: "CTB"
 height: "184"

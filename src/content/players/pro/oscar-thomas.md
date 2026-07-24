@@ -1,7 +1,7 @@
 ---
-title: "Oscar THOMAS"
+title: "オスカー・トーマス"
 name_en: "Oscar THOMAS"
-name_ja: "Oscar THOMAS"
+name_ja: "オスカー・トーマス"
 slug: "oscar-thomas"
 position: "Hooker"
 height: ""

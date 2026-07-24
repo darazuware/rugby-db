@@ -1,7 +1,7 @@
 ---
-title: "Folau FAINGA'A"
+title: "フォラウ・ファインガア"
 name_en: "Folau FAINGA'A"
-name_ja: "Folau FAINGA'A"
+name_ja: "フォラウ・ファインガア"
 slug: "folau-fainga-a"
 position: "HO"
 height: "178"

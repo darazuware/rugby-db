@@ -1,7 +1,7 @@
 ---
-title: "Ted CONDON"
+title: "テッド・コンドン"
 name_en: "Ted CONDON"
-name_ja: "Ted CONDON"
+name_ja: "テッド・コンドン"
 slug: "ted-condon"
 position: "Lock"
 height: ""

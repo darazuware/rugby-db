@@ -1,7 +1,7 @@
 ---
-title: "Pablo MONTERO"
+title: "パブロ・モンテロ"
 name_en: "Pablo MONTERO"
-name_ja: "Pablo MONTERO"
+name_ja: "パブロ・モンテロ"
 slug: "pablo-montero"
 position: "Fly-half"
 height: ""

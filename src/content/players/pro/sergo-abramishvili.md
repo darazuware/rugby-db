@@ -1,7 +1,7 @@
 ---
-title: "Sergo ABRAMISHVILI"
+title: "セルゴ・アブラミシュヴィリ"
 name_en: "Sergo ABRAMISHVILI"
-name_ja: "Sergo ABRAMISHVILI"
+name_ja: "セルゴ・アブラミシュヴィリ"
 slug: "sergo-abramishvili"
 position: "PR"
 height: "184"

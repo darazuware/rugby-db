@@ -1,7 +1,7 @@
 ---
-title: "Taniela TUPOU"
+title: "タニエラ・トゥポウ"
 name_en: "Taniela TUPOU"
-name_ja: "Taniela TUPOU"
+name_ja: "タニエラ・トゥポウ"
 slug: "taniela-tupou"
 position: "PR"
 height: "181"

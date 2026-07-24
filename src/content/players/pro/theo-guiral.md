@@ -1,7 +1,7 @@
 ---
-title: "Theo GUIRAL"
+title: "テオ・ギラル"
 name_en: "Theo GUIRAL"
-name_ja: "Theo GUIRAL"
+name_ja: "テオ・ギラル"
 slug: "theo-guiral"
 position: "Prop"
 height: ""

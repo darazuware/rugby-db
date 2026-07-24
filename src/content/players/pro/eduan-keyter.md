@@ -1,7 +1,7 @@
 ---
-title: "Eduan KEYTER"
+title: "エデュアン・ケイター"
 name_en: "Eduan KEYTER"
-name_ja: "Eduan KEYTER"
+name_ja: "エデュアン・ケイター"
 slug: "eduan-keyter"
 position: "Winger"
 height: "184"

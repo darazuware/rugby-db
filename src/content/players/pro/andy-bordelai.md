@@ -1,7 +1,7 @@
 ---
-title: "Andy BORDELAI"
+title: "アンディ・ボルドレ"
 name_en: "Andy BORDELAI"
-name_ja: "Andy BORDELAI"
+name_ja: "アンディ・ボルドレ"
 slug: "andy-bordelai"
 position: "PR"
 height: "186"

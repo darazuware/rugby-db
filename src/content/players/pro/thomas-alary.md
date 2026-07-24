@@ -1,7 +1,7 @@
 ---
-title: "Thomas ALARY"
+title: "トマ・アラリ"
 name_en: "Thomas ALARY"
-name_ja: "Thomas ALARY"
+name_ja: "トマ・アラリ"
 slug: "thomas-alary"
 position: "Fullback"
 height: ""

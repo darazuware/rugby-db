@@ -1,7 +1,7 @@
 ---
-title: "Jack HARRISON"
+title: "ジャック・ハリソン"
 name_en: "Jack HARRISON"
-name_ja: "Jack HARRISON"
+name_ja: "ジャック・ハリソン"
 slug: "jack-harrison"
 position: "Centre"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Chris HARRIS"
+title: "クリス・ハリス"
 name_en: "Chris HARRIS"
-name_ja: "Chris HARRIS"
+name_ja: "クリス・ハリス"
 slug: "chris-harris"
 position: "Centre"
 height: ""

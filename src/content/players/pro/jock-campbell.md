@@ -1,7 +1,7 @@
 ---
-title: "Jock CAMPBELL"
+title: "ジョック・キャンベル"
 name_en: "Jock CAMPBELL"
-name_ja: "Jock CAMPBELL"
+name_ja: "ジョック・キャンベル"
 slug: "jock-campbell"
 position: "FB"
 height: "186"

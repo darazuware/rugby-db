@@ -1,7 +1,7 @@
 ---
-title: "Sevu REECE"
+title: "セブ・リース"
 name_en: "Sevu REECE"
-name_ja: "Sevu REECE"
+name_ja: "セブ・リース"
 slug: "sevu-reece"
 position: "WTB"
 height: "179"

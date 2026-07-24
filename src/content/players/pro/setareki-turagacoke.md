@@ -1,7 +1,7 @@
 ---
-title: "Setareki TURAGACOKE"
+title: "セタレキ・トゥラガコケ"
 name_en: "Setareki TURAGACOKE"
-name_ja: "Setareki TURAGACOKE"
+name_ja: "セタレキ・トゥラガコケ"
 slug: "setareki-turagacoke"
 position: "LO"
 height: "200"

@@ -1,7 +1,7 @@
 ---
-title: "Leone NAKARAWA"
+title: "レオネ・ナカラワ"
 name_en: "Leone NAKARAWA"
-name_ja: "Leone NAKARAWA"
+name_ja: "レオネ・ナカラワ"
 slug: "leone-nakarawa"
 position: "LO"
 height: "200"

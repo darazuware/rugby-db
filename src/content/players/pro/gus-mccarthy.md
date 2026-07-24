@@ -1,7 +1,7 @@
 ---
-title: "Gus MCCARTHY"
+title: "ガス・マッカーシー"
 name_en: "Gus MCCARTHY"
-name_ja: "Gus MCCARTHY"
+name_ja: "ガス・マッカーシー"
 slug: "gus-mccarthy"
 position: "HO"
 height: "178"

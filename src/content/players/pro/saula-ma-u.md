@@ -1,7 +1,7 @@
 ---
-title: "Saula MA'U"
+title: "サウラ・マウ"
 name_en: "Saula MA'U"
-name_ja: "Saula MA'U"
+name_ja: "サウラ・マウ"
 slug: "saula-ma-u"
 position: "PR"
 height: "194"

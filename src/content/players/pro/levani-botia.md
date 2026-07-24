@@ -1,7 +1,7 @@
 ---
-title: "Levani BOTIA"
+title: "レヴァニ・ボシア"
 name_en: "Levani BOTIA"
-name_ja: "Levani BOTIA"
+name_ja: "レヴァニ・ボシア"
 slug: "levani-botia"
 position: "FL/NO8"
 height: "182"

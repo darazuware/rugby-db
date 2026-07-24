@@ -1,7 +1,7 @@
 ---
-title: "James LINEGAR"
+title: "ジェームズ・ラインガー"
 name_en: "James LINEGAR"
-name_ja: "James LINEGAR"
+name_ja: "ジェームズ・ラインガー"
 slug: "james-linegar"
 position: "Fly-half"
 height: ""

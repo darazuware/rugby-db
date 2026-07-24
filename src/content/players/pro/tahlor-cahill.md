@@ -1,7 +1,7 @@
 ---
-title: "Tahlor CAHILL"
+title: "テイラー・キャヒル"
 name_en: "Tahlor CAHILL"
-name_ja: "Tahlor CAHILL"
+name_ja: "テイラー・キャヒル"
 slug: "tahlor-cahill"
 position: "LO"
 height: "198"

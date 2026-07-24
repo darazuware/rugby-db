@@ -1,7 +1,7 @@
 ---
-title: "Alovisio KOLIVAI"
+title: "アロヴィシオ・コリヴァイ"
 name_en: "Alovisio KOLIVAI"
-name_ja: "Alovisio KOLIVAI"
+name_ja: "アロヴィシオ・コリヴァイ"
 slug: "alovisio-kolivai"
 position: "PR"
 height: "178"

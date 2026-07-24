@@ -1,7 +1,7 @@
 ---
-title: "Jean-Luc DU PREEZ"
+title: "ジャン＝リュック・デュプレ"
 name_en: "Jean-Luc DU PREEZ"
-name_ja: "Jean-Luc DU PREEZ"
+name_ja: "ジャン＝リュック・デュプレ"
 slug: "jean-luc-du-preez"
 position: "FL/NO8"
 height: "194"

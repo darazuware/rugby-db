@@ -1,7 +1,7 @@
 ---
-title: "Reesjan PASITOA"
+title: "リースヤン・パシトア"
 name_en: "Reesjan PASITOA"
-name_ja: "Reesjan PASITOA"
+name_ja: "リースヤン・パシトア"
 slug: "reesjan-pasitoa"
 position: "SO"
 height: "183"

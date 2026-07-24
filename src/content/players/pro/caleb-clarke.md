@@ -1,7 +1,7 @@
 ---
-title: "Caleb CLARKE"
+title: "ケイレブ・クラーク"
 name_en: "Caleb CLARKE"
-name_ja: "Caleb CLARKE"
+name_ja: "ケイレブ・クラーク"
 slug: "caleb-clarke"
 position: "WTB"
 height: "189"

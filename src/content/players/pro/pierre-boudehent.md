@@ -1,7 +1,7 @@
 ---
-title: "Pierre BOUDEHENT"
+title: "ピエール・ブドアン"
 name_en: "Pierre BOUDEHENT"
-name_ja: "Pierre BOUDEHENT"
+name_ja: "ピエール・ブドアン"
 slug: "pierre-boudehent"
 position: "CTB"
 height: "196"

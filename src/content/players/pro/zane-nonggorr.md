@@ -1,7 +1,7 @@
 ---
-title: "Zane NONGGORR"
+title: "ゼイン・ノングガー"
 name_en: "Zane NONGGORR"
-name_ja: "Zane NONGGORR"
+name_ja: "ゼイン・ノングガー"
 slug: "zane-nonggorr"
 position: "PR"
 height: "187"

@@ -1,7 +1,7 @@
 ---
-title: "Joey WALTON"
+title: "ジョーイ・ウォルトン"
 name_en: "Joey WALTON"
-name_ja: "Joey WALTON"
+name_ja: "ジョーイ・ウォルトン"
 slug: "joey-walton"
 position: "CTB"
 height: "185"

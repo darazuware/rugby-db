@@ -1,7 +1,7 @@
 ---
-title: "Angus SCOTT-YOUNG"
+title: "アンガス・スコット・ヤング"
 name_en: "Angus SCOTT-YOUNG"
-name_ja: "Angus SCOTT-YOUNG"
+name_ja: "アンガス・スコット・ヤング"
 slug: "angus-scott-young"
 position: "FL/No8"
 height: "194"

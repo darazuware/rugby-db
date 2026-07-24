@@ -1,7 +1,7 @@
 ---
-title: "Antoine TICHIT"
+title: "アントワーヌ・ティシ"
 name_en: "Antoine TICHIT"
-name_ja: "Antoine TICHIT"
+name_ja: "アントワーヌ・ティシ"
 slug: "antoine-tichit"
 position: "PR"
 height: "187"

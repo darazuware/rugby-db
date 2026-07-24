@@ -1,7 +1,7 @@
 ---
-title: "Kyren TAUMOEFOLAU"
+title: "カイレン・タウモエフォラウ"
 name_en: "Kyren TAUMOEFOLAU"
-name_ja: "Kyren TAUMOEFOLAU"
+name_ja: "カイレン・タウモエフォラウ"
 slug: "kyren-taumoefolau"
 position: "WTB"
 height: "187"

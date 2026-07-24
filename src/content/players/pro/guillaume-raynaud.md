@@ -1,7 +1,7 @@
 ---
-title: "Guillaume RAYNAUD"
+title: "ギヨーム・レノー"
 name_en: "Guillaume RAYNAUD"
-name_ja: "Guillaume RAYNAUD"
+name_ja: "ギヨーム・レノー"
 slug: "guillaume-raynaud"
 position: "Back row"
 height: ""

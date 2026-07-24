@@ -1,7 +1,7 @@
 ---
-title: "Che HOPE"
+title: "チェ・ホープ"
 name_en: "Che HOPE"
-name_ja: "Che HOPE"
+name_ja: "チェ・ホープ"
 slug: "che-hope"
 position: "SH"
 height: "178"

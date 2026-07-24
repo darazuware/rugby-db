@@ -1,7 +1,7 @@
 ---
-title: "George TIMMINS"
+title: "ジョージ・ティミンズ"
 name_en: "George TIMMINS"
-name_ja: "George TIMMINS"
+name_ja: "ジョージ・ティミンズ"
 slug: "george-timmins"
 position: "Back row"
 height: ""

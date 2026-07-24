@@ -1,7 +1,7 @@
 ---
-title: "Stuart MCCLOSKEY"
+title: "スチュアート・マクロスキー"
 name_en: "Stuart MCCLOSKEY"
-name_ja: "Stuart MCCLOSKEY"
+name_ja: "スチュアート・マクロスキー"
 slug: "stuart-mccloskey"
 position: "CTB"
 height: "193"

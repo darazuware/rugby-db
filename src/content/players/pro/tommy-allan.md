@@ -1,7 +1,7 @@
 ---
-title: "Tommaso ALLAN"
+title: "トンマーゾ・アラン"
 name_en: "Tommaso ALLAN"
-name_ja: "Tommaso ALLAN"
+name_ja: "トンマーゾ・アラン"
 slug: "tommy-allan"
 position: "SO"
 height: "184"

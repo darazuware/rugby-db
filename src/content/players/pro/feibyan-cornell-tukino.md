@@ -1,7 +1,7 @@
 ---
-title: "Feibyan TUKINO"
+title: "フェイビャン・トゥキノ"
 name_en: "Feibyan TUKINO"
-name_ja: "Feibyan TUKINO"
+name_ja: "フェイビャン・トゥキノ"
 slug: "feibyan-cornell-tukino"
 position: "FL/NO8"
 height: "189"

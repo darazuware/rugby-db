@@ -1,7 +1,7 @@
 ---
-title: "Andy UREN"
+title: "アンディ・ユーレン"
 name_en: "Andy UREN"
-name_ja: "Andy UREN"
+name_ja: "アンディ・ユーレン"
 slug: "andy-uren"
 position: "SH"
 height: "178"

@@ -1,7 +1,7 @@
 ---
-title: "Divan FULLER"
+title: "ディヴァン・フラー"
 name_en: "Divan FULLER"
-name_ja: "Divan FULLER"
+name_ja: "ディヴァン・フラー"
 slug: "divan-fuller"
 position: "Back row"
 height: "187"

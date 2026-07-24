@@ -1,7 +1,7 @@
 ---
-title: "Louis JACQUOT"
+title: "ルイ・ジャコ"
 name_en: "Louis JACQUOT"
-name_ja: "Louis JACQUOT"
+name_ja: "ルイ・ジャコ"
 slug: "louis-jacquot"
 position: "Winger"
 height: ""

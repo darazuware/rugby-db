@@ -1,7 +1,7 @@
 ---
-title: "Paolo BUONFIGLIO"
+title: "パオロ・ブオンフィリオ"
 name_en: "Paolo BUONFIGLIO"
-name_ja: "Paolo BUONFIGLIO"
+name_ja: "パオロ・ブオンフィリオ"
 slug: "paolo-buonfiglio"
 position: "PR"
 height: "183"

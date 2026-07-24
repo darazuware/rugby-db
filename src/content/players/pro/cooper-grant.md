@@ -1,7 +1,7 @@
 ---
-title: "Cooper GRANT"
+title: "クーパー・グラント"
 name_en: "Cooper GRANT"
-name_ja: "Cooper GRANT"
+name_ja: "クーパー・グラント"
 slug: "cooper-grant"
 position: "Fly-half"
 height: ""

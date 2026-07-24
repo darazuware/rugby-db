@@ -1,7 +1,7 @@
 ---
-title: "Fyn BROWN"
+title: "フィン・ブラウン"
 name_en: "Fyn BROWN"
-name_ja: "Fyn BROWN"
+name_ja: "フィン・ブラウン"
 slug: "fyn-brown"
 position: "Back row"
 height: ""

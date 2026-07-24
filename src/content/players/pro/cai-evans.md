@@ -1,7 +1,7 @@
 ---
-title: "Cai EVANS"
+title: "カイ・エヴァンス"
 name_en: "Cai EVANS"
-name_ja: "Cai EVANS"
+name_ja: "カイ・エヴァンス"
 slug: "cai-evans"
 position: "SO"
 height: "185"

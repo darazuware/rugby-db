@@ -1,7 +1,7 @@
 ---
-title: "Trevor DAVISON"
+title: "トレバー・デイヴィソン"
 name_en: "Trevor DAVISON"
-name_ja: "Trevor DAVISON"
+name_ja: "トレバー・デイヴィソン"
 slug: "trevor-davison"
 position: "Prop"
 height: ""

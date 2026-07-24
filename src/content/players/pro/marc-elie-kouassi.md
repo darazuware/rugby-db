@@ -1,7 +1,7 @@
 ---
-title: "Marc-Elie KOUASSI"
+title: "マルク=エリ・クアシ"
 name_en: "Marc-Elie KOUASSI"
-name_ja: "Marc-Elie KOUASSI"
+name_ja: "マルク=エリ・クアシ"
 slug: "marc-elie-kouassi"
 position: "Back row"
 height: ""

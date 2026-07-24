@@ -1,7 +1,7 @@
 ---
-title: "Jordan PETAIA"
+title: "ジョーダン・ペタイア"
 name_en: "Jordan PETAIA"
-name_ja: "Jordan PETAIA"
+name_ja: "ジョーダン・ペタイア"
 slug: "jordan-petaia"
 position: "WTB"
 height: "190"

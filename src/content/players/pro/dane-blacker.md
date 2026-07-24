@@ -1,7 +1,7 @@
 ---
-title: "Dane BLACKER"
+title: "デイン・ブラッカー"
 name_en: "Dane BLACKER"
-name_ja: "Dane BLACKER"
+name_ja: "デイン・ブラッカー"
 slug: "dane-blacker"
 position: "SH"
 height: "178"

@@ -1,7 +1,7 @@
 ---
-title: "Francois VAN WYK"
+title: "フランソワ・ファン・ワイク"
 name_en: "Francois VAN WYK"
-name_ja: "Francois VAN WYK"
+name_ja: "フランソワ・ファン・ワイク"
 slug: "francois-van-wyk"
 position: "Prop"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Abraham PAPALI'I"
+title: "エブラハム・パパリイ"
 name_en: "Abraham PAPALI'I"
-name_ja: "Abraham PAPALI'I"
+name_ja: "エブラハム・パパリイ"
 slug: "abraham-papali-i"
 position: "FL/NO8"
 height: "194"

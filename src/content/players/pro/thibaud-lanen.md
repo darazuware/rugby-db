@@ -1,7 +1,7 @@
 ---
-title: "Thibaud LANEN"
+title: "ティボー・ラネン"
 name_en: "Thibaud LANEN"
-name_ja: "Thibaud LANEN"
+name_ja: "ティボー・ラネン"
 slug: "thibaud-lanen"
 position: "LO"
 height: "198"

@@ -1,7 +1,7 @@
 ---
-title: "Christian AMBADIANG"
+title: "クリスティアン・アンバダン"
 name_en: "Christian AMBADIANG"
-name_ja: "Christian AMBADIANG"
+name_ja: "クリスティアン・アンバダン"
 slug: "christian-ambadiang"
 position: "WTB"
 height: "189"

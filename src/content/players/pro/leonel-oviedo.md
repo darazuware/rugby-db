@@ -1,7 +1,7 @@
 ---
-title: "Leonel OVIEDO"
+title: "レオネル・オビエド"
 name_en: "Leonel OVIEDO"
-name_ja: "Leonel OVIEDO"
+name_ja: "レオネル・オビエド"
 slug: "leonel-oviedo"
 position: "HO"
 height: "186"

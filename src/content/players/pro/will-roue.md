@@ -1,7 +1,7 @@
 ---
-title: "Will ROUE"
+title: "ウィル・ルー"
 name_en: "Will ROUE"
-name_ja: "Will ROUE"
+name_ja: "ウィル・ルー"
 slug: "will-roue"
 position: "Centre"
 height: ""

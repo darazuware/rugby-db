@@ -1,7 +1,7 @@
 ---
-title: "Fez MBATHA"
+title: "フェゾ・ンバータ"
 name_en: "Fez MBATHA"
-name_ja: "Fez MBATHA"
+name_ja: "フェゾ・ンバータ"
 slug: "fezokuhle-mbatha"
 position: "HO"
 height: "182"

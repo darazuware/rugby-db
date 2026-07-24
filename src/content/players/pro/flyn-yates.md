@@ -1,7 +1,7 @@
 ---
-title: "Flyn YATES"
+title: "フリン・イェーツ"
 name_en: "Flyn YATES"
-name_ja: "Flyn YATES"
+name_ja: "フリン・イェーツ"
 slug: "flyn-yates"
 position: "PR"
 height: "188"

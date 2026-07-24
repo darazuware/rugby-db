@@ -1,7 +1,7 @@
 ---
-title: "Celian POUZELGUES"
+title: "セリアン・プーゼルグ"
 name_en: "Celian POUZELGUES"
-name_ja: "Celian POUZELGUES"
+name_ja: "セリアン・プーゼルグ"
 slug: "celian-pouzelgues"
 position: "CTB"
 height: "190"

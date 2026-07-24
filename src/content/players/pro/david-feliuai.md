@@ -1,7 +1,7 @@
 ---
-title: "David FELIUAI"
+title: "デイビッド・フェリウアイ"
 name_en: "David FELIUAI"
-name_ja: "David FELIUAI"
+name_ja: "デイビッド・フェリウアイ"
 slug: "david-feliuai"
 position: "CTB"
 height: "185"

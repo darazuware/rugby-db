@@ -1,7 +1,7 @@
 ---
-title: "Maxime LAFAGE"
+title: "マキシム・ラファージュ"
 name_en: "Maxime LAFAGE"
-name_ja: "Maxime LAFAGE"
+name_ja: "マキシム・ラファージュ"
 slug: "maxime-lafage"
 position: "SO"
 height: "183"

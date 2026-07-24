@@ -1,7 +1,7 @@
 ---
-title: "Conor O'SHAUGHNESSY | コナー O'SHAUGHNESSY"
+title: "Conor O'SHAUGHNESSY | コナー・オショーネシー"
 name_en: "Conor O'SHAUGHNESSY"
-name_ja: "コナー O'SHAUGHNESSY"
+name_ja: "コナー・オショーネシー"
 slug: "conor-o-shaughnessy"
 position: "SO"
 height: ""

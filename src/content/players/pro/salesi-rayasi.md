@@ -1,7 +1,7 @@
 ---
-title: "Salesi RAYASI"
+title: "サレシ・ラヤシ"
 name_en: "Salesi RAYASI"
-name_ja: "Salesi RAYASI"
+name_ja: "サレシ・ラヤシ"
 slug: "salesi-rayasi"
 position: "WTB"
 height: "193"

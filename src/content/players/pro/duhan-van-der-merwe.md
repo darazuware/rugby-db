@@ -1,7 +1,7 @@
 ---
-title: "Duhan VAN DER MERWE | Duhan ファン デル MERWE"
+title: "Duhan VAN DER MERWE | デュアン・ファン・デル・メルウェ"
 name_en: "Duhan VAN DER MERWE"
-name_ja: "Duhan ファン デル MERWE"
+name_ja: "デュアン・ファン・デル・メルウェ"
 slug: "duhan-van-der-merwe"
 position: "Winger"
 height: "193"

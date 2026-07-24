@@ -1,7 +1,7 @@
 ---
-title: "Enzo FLUXA"
+title: "エンゾ・フリュクサ"
 name_en: "Enzo FLUXA"
-name_ja: "Enzo FLUXA"
+name_ja: "エンゾ・フリュクサ"
 slug: "enzo-fluxa"
 position: "Hooker"
 height: ""

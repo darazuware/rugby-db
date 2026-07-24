@@ -1,7 +1,7 @@
 ---
-title: "Jules COULON"
+title: "ジュール・クーロン"
 name_en: "Jules COULON"
-name_ja: "Jules COULON"
+name_ja: "ジュール・クーロン"
 slug: "jules-coulon"
 position: "FL/NO8"
 height: "189"

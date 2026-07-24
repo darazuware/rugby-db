@@ -1,7 +1,7 @@
 ---
-title: "Phiko SOBAHLE"
+title: "フィコ・ソバーレ"
 name_en: "Phiko SOBAHLE"
-name_ja: "Phiko SOBAHLE"
+name_ja: "フィコ・ソバーレ"
 slug: "phiko-sobahle"
 position: "Winger"
 height: "191"

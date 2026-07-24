@@ -1,7 +1,7 @@
 ---
-title: "Will MUIR"
+title: "ウィル・ミュア"
 name_en: "Will MUIR"
-name_ja: "Will MUIR"
+name_ja: "ウィル・ミュア"
 slug: "will-muir"
 position: "Winger"
 height: ""

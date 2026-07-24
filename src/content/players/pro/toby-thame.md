@@ -1,7 +1,7 @@
 ---
-title: "Toby THAME"
+title: "トビー・テイム"
 name_en: "Toby THAME"
-name_ja: "Toby THAME"
+name_ja: "トビー・テイム"
 slug: "toby-thame"
 position: "Centre"
 height: ""

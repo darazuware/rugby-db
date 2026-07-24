@@ -1,7 +1,7 @@
 ---
-title: "Maloni KUNAWAVE"
+title: "マロニ・クナウェーブ"
 name_en: "Maloni KUNAWAVE"
-name_ja: "Maloni KUNAWAVE"
+name_ja: "マロニ・クナウェーブ"
 slug: "maloni-kunawave"
 position: "CTB"
 height: "186"

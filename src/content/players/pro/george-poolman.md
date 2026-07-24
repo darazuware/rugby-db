@@ -1,7 +1,7 @@
 ---
-title: "George POOLMAN"
+title: "ジョージ・プールマン"
 name_en: "George POOLMAN"
-name_ja: "George POOLMAN"
+name_ja: "ジョージ・プールマン"
 slug: "george-poolman"
 position: "CTB"
 height: "195"

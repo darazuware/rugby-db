@@ -1,7 +1,7 @@
 ---
-title: "Max SPRING"
+title: "マックス・スプリング"
 name_en: "Max SPRING"
-name_ja: "Max SPRING"
+name_ja: "マックス・スプリング"
 slug: "max-spring"
 position: "FB"
 height: "173"

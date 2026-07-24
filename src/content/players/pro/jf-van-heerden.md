@@ -1,7 +1,7 @@
 ---
-title: "JF VAN HEERDEN | JF-ファン ヘールデン"
+title: "JF VAN HEERDEN | JF・ファン・ヘールデン"
 name_en: "JF VAN HEERDEN"
-name_ja: "JF-ファン ヘールデン"
+name_ja: "JF・ファン・ヘールデン"
 slug: "jf-van-heerden"
 position: "LO"
 height: "200"

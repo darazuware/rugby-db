@@ -1,7 +1,7 @@
 ---
-title: "Janeiro WAKEHAM"
+title: "ジャネイロ・ウェイクハム"
 name_en: "Janeiro WAKEHAM"
-name_ja: "Janeiro WAKEHAM"
+name_ja: "ジャネイロ・ウェイクハム"
 slug: "janeiro-wakeham"
 position: "LO"
 height: "208"

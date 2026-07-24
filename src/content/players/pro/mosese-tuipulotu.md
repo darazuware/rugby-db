@@ -1,7 +1,7 @@
 ---
-title: "Mosese TUIPULOTU"
+title: "モセセ・トゥイプロトゥ"
 name_en: "Mosese TUIPULOTU"
-name_ja: "Mosese TUIPULOTU"
+name_ja: "モセセ・トゥイプロトゥ"
 slug: "mosese-tuipulotu"
 position: "CTB"
 height: "182"

@@ -1,7 +1,7 @@
 ---
-title: "Hugo DESCUBE"
+title: "ユゴー・デスキューブ"
 name_en: "Hugo DESCUBE"
-name_ja: "Hugo DESCUBE"
+name_ja: "ユゴー・デスキューブ"
 slug: "hugo-descube"
 position: "Lock"
 height: ""

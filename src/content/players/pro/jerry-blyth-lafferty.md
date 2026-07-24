@@ -1,7 +1,7 @@
 ---
-title: "Jerry BLYTH-LAFFERTY | Jerry BLYTH LAFFERTY"
+title: "Jerry BLYTH-LAFFERTY | ジェリー・ブライス=ラファティ"
 name_en: "Jerry BLYTH-LAFFERTY"
-name_ja: "Jerry BLYTH LAFFERTY"
+name_ja: "ジェリー・ブライス=ラファティ"
 slug: "jerry-blyth-lafferty"
 position: "HO"
 height: "178"

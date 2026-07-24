@@ -1,7 +1,7 @@
 ---
-title: "Siyabonga NTUBENI"
+title: "シヤボンガ・ントゥベニ"
 name_en: "Siyabonga NTUBENI"
-name_ja: "Siyabonga NTUBENI"
+name_ja: "シヤボンガ・ントゥベニ"
 slug: "siyabonga-ntubeni"
 position: "HO"
 height: "174"

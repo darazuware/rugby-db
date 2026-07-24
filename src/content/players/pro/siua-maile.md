@@ -1,7 +1,7 @@
 ---
-title: "Siua MAILE"
+title: "シウア・マイレ"
 name_en: "Siua MAILE"
-name_ja: "Siua MAILE"
+name_ja: "シウア・マイレ"
 slug: "siua-maile"
 position: "HO"
 height: "181"

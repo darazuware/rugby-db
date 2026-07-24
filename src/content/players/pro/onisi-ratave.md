@@ -1,7 +1,7 @@
 ---
-title: "Onisi RATAVE"
+title: "オニシ・ラタヴェ"
 name_en: "Onisi RATAVE"
-name_ja: "Onisi RATAVE"
+name_ja: "オニシ・ラタヴェ"
 slug: "onisi-ratave"
 position: "WTB"
 height: "179"

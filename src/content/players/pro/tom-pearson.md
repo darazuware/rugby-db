@@ -1,7 +1,7 @@
 ---
-title: "Tom PEARSON"
+title: "トム・ピアソン"
 name_en: "Tom PEARSON"
-name_ja: "Tom PEARSON"
+name_ja: "トム・ピアソン"
 slug: "tom-pearson"
 position: "Back row"
 height: ""

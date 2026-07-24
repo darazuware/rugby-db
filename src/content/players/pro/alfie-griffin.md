@@ -1,7 +1,7 @@
 ---
-title: "Alfie GRIFFIN"
+title: "アルフィー・グリフィン"
 name_en: "Alfie GRIFFIN"
-name_ja: "Alfie GRIFFIN"
+name_ja: "アルフィー・グリフィン"
 slug: "alfie-griffin"
 position: "Prop"
 height: ""

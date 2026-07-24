@@ -1,7 +1,7 @@
 ---
-title: "Martin PAGE-RELO"
+title: "マルタン・パージュ＝レロ"
 name_en: "Martin PAGE-RELO"
-name_ja: "Martin PAGE-RELO"
+name_ja: "マルタン・パージュ＝レロ"
 slug: "martin-page-relo"
 position: "SH"
 height: "173"

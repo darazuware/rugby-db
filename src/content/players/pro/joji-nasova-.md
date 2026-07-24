@@ -1,7 +1,7 @@
 ---
-title: "Joji NASOVA"
+title: "ジョジ・ナソバ"
 name_en: "Joji NASOVA"
-name_ja: "Joji NASOVA"
+name_ja: "ジョジ・ナソバ"
 slug: "joji-nasova-"
 position: "CTB"
 height: "185"

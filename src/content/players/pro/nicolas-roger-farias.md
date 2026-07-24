@@ -1,7 +1,7 @@
 ---
-title: "Nicolas ROGER FARIAS"
+title: "ニコラス・ロヘル・ファリアス"
 name_en: "Nicolas ROGER FARIAS"
-name_ja: "Nicolas ROGER FARIAS"
+name_ja: "ニコラス・ロヘル・ファリアス"
 slug: "nicolas-roger-farias"
 position: "SO"
 height: "177"

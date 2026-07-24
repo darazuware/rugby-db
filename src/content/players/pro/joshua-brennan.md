@@ -1,7 +1,7 @@
 ---
-title: "Joshua BRENNAN"
+title: "ジョシュア・ブレナン"
 name_en: "Joshua BRENNAN"
-name_ja: "Joshua BRENNAN"
+name_ja: "ジョシュア・ブレナン"
 slug: "joshua-brennan"
 position: "LO"
 height: "199"

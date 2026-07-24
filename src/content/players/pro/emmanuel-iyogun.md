@@ -1,7 +1,7 @@
 ---
-title: "Emmanuel IYOGUN"
+title: "エマニュエル・イヨグン"
 name_en: "Emmanuel IYOGUN"
-name_ja: "Emmanuel IYOGUN"
+name_ja: "エマニュエル・イヨグン"
 slug: "emmanuel-iyogun"
 position: "Prop"
 height: ""

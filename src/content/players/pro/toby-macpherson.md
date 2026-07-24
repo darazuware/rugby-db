@@ -1,7 +1,7 @@
 ---
-title: "Toby MACPHERSON"
+title: "トビー・マクファーソン"
 name_en: "Toby MACPHERSON"
-name_ja: "Toby MACPHERSON"
+name_ja: "トビー・マクファーソン"
 slug: "toby-macpherson"
 position: "FL/No8"
 height: "199"

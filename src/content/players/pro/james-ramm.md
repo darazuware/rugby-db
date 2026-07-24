@@ -1,7 +1,7 @@
 ---
-title: "James RAMM"
+title: "ジェームズ・ラム"
 name_en: "James RAMM"
-name_ja: "James RAMM"
+name_ja: "ジェームズ・ラム"
 slug: "james-ramm"
 position: "Winger"
 height: ""

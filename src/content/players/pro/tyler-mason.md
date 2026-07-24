@@ -1,7 +1,7 @@
 ---
-title: "Tyler MASON"
+title: "タイラー・メイソン"
 name_en: "Tyler MASON"
-name_ja: "Tyler MASON"
+name_ja: "タイラー・メイソン"
 slug: "tyler-mason"
 position: "Centre"
 height: ""

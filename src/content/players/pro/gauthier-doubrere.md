@@ -1,7 +1,7 @@
 ---
-title: "Gauthier DOUBRERE"
+title: "ゴティエ・ドゥブレール"
 name_en: "Gauthier DOUBRERE"
-name_ja: "Gauthier DOUBRERE"
+name_ja: "ゴティエ・ドゥブレール"
 slug: "gauthier-doubrere"
 position: "SH"
 height: "176"

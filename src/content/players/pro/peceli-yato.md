@@ -1,7 +1,7 @@
 ---
-title: "Peceli YATO"
+title: "ペセリ・ヤト"
 name_en: "Peceli YATO"
-name_ja: "Peceli YATO"
+name_ja: "ペセリ・ヤト"
 slug: "peceli-yato"
 position: "FL/NO8"
 height: "196"

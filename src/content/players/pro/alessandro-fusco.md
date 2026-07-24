@@ -1,7 +1,7 @@
 ---
-title: "Alessandro FUSCO"
+title: "アレッサンドロ・フスコ"
 name_en: "Alessandro FUSCO"
-name_ja: "Alessandro FUSCO"
+name_ja: "アレッサンドロ・フスコ"
 slug: "alessandro-fusco"
 position: "SH"
 height: "185"

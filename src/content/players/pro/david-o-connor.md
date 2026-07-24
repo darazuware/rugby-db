@@ -1,7 +1,7 @@
 ---
-title: "David O'CONNOR | デイヴィッド O'CONNOR"
+title: "David O'CONNOR | デイヴィッド・オコナー"
 name_en: "David O'CONNOR"
-name_ja: "デイヴィッド O'CONNOR"
+name_ja: "デイヴィッド・オコナー"
 slug: "david-o-connor"
 position: "LO"
 height: "193"

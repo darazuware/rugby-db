@@ -1,7 +1,7 @@
 ---
-title: "Devan FLANDERS"
+title: "デバン・フランダーズ"
 name_en: "Devan FLANDERS"
-name_ja: "Devan FLANDERS"
+name_ja: "デバン・フランダーズ"
 slug: "devan-flanders"
 position: "FL/No8"
 height: "193"

@@ -1,7 +1,7 @@
 ---
-title: "Santiago CARRERAS"
+title: "サンティアゴ・カレラス"
 name_en: "Santiago CARRERAS"
-name_ja: "Santiago CARRERAS"
+name_ja: "サンティアゴ・カレラス"
 slug: "santiago-carreras"
 position: "Fly-half"
 height: ""

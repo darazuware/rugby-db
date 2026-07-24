@@ -1,7 +1,7 @@
 ---
-title: "Jack CROWLEY | ジャック CROWLEY"
+title: "Jack CROWLEY | ジャック・クロウリー"
 name_en: "Jack CROWLEY"
-name_ja: "ジャック CROWLEY"
+name_ja: "ジャック・クロウリー"
 slug: "jack-crowley"
 position: "SO"
 height: "185"

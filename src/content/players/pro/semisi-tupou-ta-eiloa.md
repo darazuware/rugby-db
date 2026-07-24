@@ -1,7 +1,7 @@
 ---
-title: "Semisi TUPOU TA'EILOA"
+title: "セミシ・トゥポウ・タエイロア"
 name_en: "Semisi TUPOU TA'EILOA"
-name_ja: "Semisi TUPOU TA'EILOA"
+name_ja: "セミシ・トゥポウ・タエイロア"
 slug: "semisi-tupou-ta-eiloa"
 position: "FL/No8"
 height: "185"

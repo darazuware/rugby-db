@@ -1,7 +1,7 @@
 ---
-title: "Tom ALLEN"
+title: "トム・アレン"
 name_en: "Tom ALLEN"
-name_ja: "Tom ALLEN"
+name_ja: "トム・アレン"
 slug: "tom-allen"
 position: "LO"
 height: "197"

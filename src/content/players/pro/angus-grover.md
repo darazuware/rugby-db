@@ -1,7 +1,7 @@
 ---
-title: "Angus GROVER"
+title: "アンガス・グローバー"
 name_en: "Angus GROVER"
-name_ja: "Angus GROVER"
+name_ja: "アンガス・グローバー"
 slug: "angus-grover"
 position: "SH"
 height: ""

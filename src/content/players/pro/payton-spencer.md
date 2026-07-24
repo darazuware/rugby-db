@@ -1,7 +1,7 @@
 ---
-title: "Payton SPENCER"
+title: "ペイトン・スペンサー"
 name_en: "Payton SPENCER"
-name_ja: "Payton SPENCER"
+name_ja: "ペイトン・スペンサー"
 slug: "payton-spencer"
 position: "FB"
 height: ""

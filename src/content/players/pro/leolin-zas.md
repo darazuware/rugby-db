@@ -1,7 +1,7 @@
 ---
-title: "Leolin ZAS"
+title: "レオリン・ザス"
 name_en: "Leolin ZAS"
-name_ja: "Leolin ZAS"
+name_ja: "レオリン・ザス"
 slug: "leolin-zas"
 position: "Winger"
 height: "184"

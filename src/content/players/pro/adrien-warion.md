@@ -1,7 +1,7 @@
 ---
-title: "Adrien WARION"
+title: "アドリアン・ワリオン"
 name_en: "Adrien WARION"
-name_ja: "Adrien WARION"
+name_ja: "アドリアン・ワリオン"
 slug: "adrien-warion"
 position: "LO"
 height: "202"

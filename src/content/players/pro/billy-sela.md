@@ -1,7 +1,7 @@
 ---
-title: "Billy SELA"
+title: "ビリー・セラ"
 name_en: "Billy SELA"
-name_ja: "Billy SELA"
+name_ja: "ビリー・セラ"
 slug: "billy-sela"
 position: "Prop"
 height: ""

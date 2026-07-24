@@ -1,7 +1,7 @@
 ---
-title: "Emerick SETIANO"
+title: "エムリック・セティアノ"
 name_en: "Emerick SETIANO"
-name_ja: "Emerick SETIANO"
+name_ja: "エムリック・セティアノ"
 slug: "emerick-setiano"
 position: "PR"
 height: "183"

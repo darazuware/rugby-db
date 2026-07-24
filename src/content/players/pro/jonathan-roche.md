@@ -1,7 +1,7 @@
 ---
-title: "Jonathan ROCHE"
+title: "ジョナサン・ロシュ"
 name_en: "Jonathan ROCHE"
-name_ja: "Jonathan ROCHE"
+name_ja: "ジョナサン・ロシュ"
 slug: "jonathan-roche"
 position: "CTB"
 height: "189"

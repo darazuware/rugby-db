@@ -1,7 +1,7 @@
 ---
-title: "Finn TREACY | フィン TREACY"
+title: "Finn TREACY | フィン・トレーシー"
 name_en: "Finn TREACY"
-name_ja: "フィン TREACY"
+name_ja: "フィン・トレーシー"
 slug: "finn-treacy"
 position: "Winger"
 height: "183"

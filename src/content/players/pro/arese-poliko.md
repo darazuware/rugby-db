@@ -1,7 +1,7 @@
 ---
-title: "Arese POLIKO"
+title: "アレセ・ポリコ"
 name_en: "Arese POLIKO"
-name_ja: "Arese POLIKO"
+name_ja: "アレセ・ポリコ"
 slug: "arese-poliko"
 position: "FL/No8"
 height: "190"

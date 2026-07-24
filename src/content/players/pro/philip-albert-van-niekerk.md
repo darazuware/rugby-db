@@ -1,7 +1,7 @@
 ---
-title: "PA VAN NIEKERK | PA ファン NIEKERK"
+title: "PA VAN NIEKERK | PA・ファン・ニーカーク"
 name_en: "PA VAN NIEKERK"
-name_ja: "PA ファン NIEKERK"
+name_ja: "PA・ファン・ニーカーク"
 slug: "philip-albert-van-niekerk"
 position: "CTB"
 height: "182"

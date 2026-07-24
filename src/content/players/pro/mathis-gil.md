@@ -1,7 +1,7 @@
 ---
-title: "Mathis GIL"
+title: "マティス・ジル"
 name_en: "Mathis GIL"
-name_ja: "Mathis GIL"
+name_ja: "マティス・ジル"
 slug: "mathis-gil"
 position: "Centre"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Irakli APTSIAURI"
+title: "イラクリ・アプツィアウリ"
 name_en: "Irakli APTSIAURI"
-name_ja: "Irakli APTSIAURI"
+name_ja: "イラクリ・アプツィアウリ"
 slug: "irakli-aptsiauri"
 position: "PR"
 height: "185"

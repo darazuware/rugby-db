@@ -1,7 +1,7 @@
 ---
-title: "Tom LOCKETT"
+title: "トム・ロケット"
 name_en: "Tom LOCKETT"
-name_ja: "Tom LOCKETT"
+name_ja: "トム・ロケット"
 slug: "tom-lockett"
 position: "Lock"
 height: ""

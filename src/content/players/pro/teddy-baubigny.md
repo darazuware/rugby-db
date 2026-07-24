@@ -1,7 +1,7 @@
 ---
-title: "Teddy BAUBIGNY"
+title: "テディ・ボービニー"
 name_en: "Teddy BAUBIGNY"
-name_ja: "Teddy BAUBIGNY"
+name_ja: "テディ・ボービニー"
 slug: "teddy-baubigny"
 position: "HO"
 height: "184"

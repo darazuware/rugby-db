@@ -5133,7 +5133,11 @@
     "weight_kg": 72,
     "birthdate": "2002-12-13",
     "nationality": [],
-    "caps": null,
+    "caps": {
+      "team": "Japan",
+      "count": 1,
+      "source_url": "https://all.rugby/player/itsuki-kamimura"
+    },
     "league_caps": 28,
     "career": [],
     "season_stats": null,
@@ -5160,7 +5164,9 @@
     "squad": null,
     "is_featured": false,
     "is_minor": false,
-    "merged_from": []
+    "merged_from": [
+      "ar_itsuki-kamimura"
+    ]
   },
   {
     "id": "lo_483935",
@@ -27248,7 +27254,11 @@
     "weight_kg": 92,
     "birthdate": "2002-05-28",
     "nationality": [],
-    "caps": null,
+    "caps": {
+      "team": "Japan",
+      "count": 3,
+      "source_url": "https://all.rugby/player/shinya-komura"
+    },
     "league_caps": 27,
     "career": [],
     "season_stats": null,
@@ -27267,7 +27277,9 @@
     "squad": null,
     "is_featured": false,
     "is_minor": false,
-    "merged_from": []
+    "merged_from": [
+      "ar_shinya-komura"
+    ]
   },
   {
     "id": "lo_486457",
@@ -28137,7 +28149,11 @@
     "weight_kg": 88,
     "birthdate": "2003-09-29",
     "nationality": [],
-    "caps": null,
+    "caps": {
+      "team": "Japan",
+      "count": 1,
+      "source_url": "https://all.rugby/player/shunsuke-uenobo"
+    },
     "league_caps": 14,
     "career": [],
     "season_stats": null,
@@ -28164,7 +28180,9 @@
     "squad": null,
     "is_featured": false,
     "is_minor": false,
-    "merged_from": []
+    "merged_from": [
+      "ar_shunsuke-uenobo"
+    ]
   },
   {
     "id": "lo_493619",

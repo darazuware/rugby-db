@@ -1,7 +1,7 @@
 ---
-title: "Sion JONES"
+title: "サイオン・ジョーンズ"
 name_en: "Sion JONES"
-name_ja: "Sion JONES"
+name_ja: "サイオン・ジョーンズ"
 slug: "sion-jones"
 position: "FB"
 height: ""

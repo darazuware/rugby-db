@@ -1,7 +1,7 @@
 ---
-title: "Thomas CEYTE"
+title: "トマ・セイト"
 name_en: "Thomas CEYTE"
-name_ja: "Thomas CEYTE"
+name_ja: "トマ・セイト"
 slug: "thomas-ceyte"
 position: "LO"
 height: "198"

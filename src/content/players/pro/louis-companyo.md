@@ -1,7 +1,7 @@
 ---
-title: "Louis COMPANYO"
+title: "ルイ・コンパニョン"
 name_en: "Louis COMPANYO"
-name_ja: "Louis COMPANYO"
+name_ja: "ルイ・コンパニョン"
 slug: "louis-companyo"
 position: "Fly-half"
 height: ""

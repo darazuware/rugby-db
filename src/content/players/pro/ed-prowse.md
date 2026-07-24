@@ -1,7 +1,7 @@
 ---
-title: "Ed PROWSE"
+title: "エド・プラウズ"
 name_en: "Ed PROWSE"
-name_ja: "Ed PROWSE"
+name_ja: "エド・プラウズ"
 slug: "ed-prowse"
 position: "Lock"
 height: ""

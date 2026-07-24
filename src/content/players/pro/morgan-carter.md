@@ -1,7 +1,7 @@
 ---
-title: "Morgan CARTER"
+title: "モーガン・カーター"
 name_en: "Morgan CARTER"
-name_ja: "Morgan CARTER"
+name_ja: "モーガン・カーター"
 slug: "morgan-carter"
 position: "CTB"
 height: ""

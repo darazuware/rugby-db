@@ -1,7 +1,7 @@
 ---
-title: "Facundo BOSCH"
+title: "ファクンド・ボッシュ"
 name_en: "Facundo BOSCH"
-name_ja: "Facundo BOSCH"
+name_ja: "ファクンド・ボッシュ"
 slug: "facundo-bosch"
 position: "HO"
 height: "180"

@@ -1,7 +1,7 @@
 ---
-title: "Malachi HAWKES"
+title: "マラカイ・ホークス"
 name_en: "Malachi HAWKES"
-name_ja: "Malachi HAWKES"
+name_ja: "マラカイ・ホークス"
 slug: "malachi-hawkes"
 position: "Prop"
 height: ""

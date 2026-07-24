@@ -1,7 +1,7 @@
 ---
-title: "Jordi VILJOEN"
+title: "ヨルディ・ビルヨーン"
 name_en: "Jordi VILJOEN"
-name_ja: "Jordi VILJOEN"
+name_ja: "ヨルディ・ビルヨーン"
 slug: "jordi-viljoen"
 position: "SH"
 height: "169"

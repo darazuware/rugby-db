@@ -1,7 +1,7 @@
 ---
-title: "Seb NEGRI"
+title: "セブ・ネグリ"
 name_en: "Seb NEGRI"
-name_ja: "Seb NEGRI"
+name_ja: "セブ・ネグリ"
 slug: "seb-negri"
 position: "FL/No8"
 height: "194"

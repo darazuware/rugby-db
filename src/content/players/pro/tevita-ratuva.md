@@ -1,7 +1,7 @@
 ---
-title: "Tevita RATUVA"
+title: "テヴィタ・ラトゥヴァ"
 name_en: "Tevita RATUVA"
-name_ja: "Tevita RATUVA"
+name_ja: "テヴィタ・ラトゥヴァ"
 slug: "tevita-ratuva"
 position: "LO"
 height: "199"

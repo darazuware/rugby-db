@@ -1,7 +1,7 @@
 ---
-title: "Kepu TUIPULOTU"
+title: "ケプ・トゥイプロトゥ"
 name_en: "Kepu TUIPULOTU"
-name_ja: "Kepu TUIPULOTU"
+name_ja: "ケプ・トゥイプロトゥ"
 slug: "kepu-tuipulotu"
 position: "Hooker"
 height: ""

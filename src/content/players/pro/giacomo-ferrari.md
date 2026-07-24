@@ -1,7 +1,7 @@
 ---
-title: "Giacomo FERRARI"
+title: "ジャコモ・フェラーリ"
 name_en: "Giacomo FERRARI"
-name_ja: "Giacomo FERRARI"
+name_ja: "ジャコモ・フェラーリ"
 slug: "giacomo-ferrari"
 position: "Back row"
 height: "190"

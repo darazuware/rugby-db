@@ -1,7 +1,7 @@
 ---
-title: "Lucas PAULOS"
+title: "リュカ・パウロス"
 name_en: "Lucas PAULOS"
-name_ja: "Lucas PAULOS"
+name_ja: "リュカ・パウロス"
 slug: "lucas-paulos"
 position: "LO"
 height: "199"

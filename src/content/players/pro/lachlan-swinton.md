@@ -1,7 +1,7 @@
 ---
-title: "Lachlan SWINTON"
+title: "ラクラン・スウィントン"
 name_en: "Lachlan SWINTON"
-name_ja: "Lachlan SWINTON"
+name_ja: "ラクラン・スウィントン"
 slug: "lachlan-swinton"
 position: "FL/NO8"
 height: "195"

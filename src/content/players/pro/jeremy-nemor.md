@@ -1,7 +1,7 @@
 ---
-title: "Jeremy NEMOR"
+title: "ジェレミー・ネモール"
 name_en: "Jeremy NEMOR"
-name_ja: "Jeremy NEMOR"
+name_ja: "ジェレミー・ネモール"
 slug: "jeremy-nemor"
 position: "Winger"
 height: ""

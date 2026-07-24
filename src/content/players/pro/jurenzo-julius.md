@@ -1,7 +1,7 @@
 ---
-title: "Jurenzo JULIUS"
+title: "ジュレンゾ・ジュリアス"
 name_en: "Jurenzo JULIUS"
-name_ja: "Jurenzo JULIUS"
+name_ja: "ジュレンゾ・ジュリアス"
 slug: "jurenzo-julius"
 position: "CTB"
 height: "178"

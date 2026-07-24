@@ -1,7 +1,7 @@
 ---
-title: "Sam NOCK"
+title: "サム・ノック"
 name_en: "Sam NOCK"
-name_ja: "Sam NOCK"
+name_ja: "サム・ノック"
 slug: "sam-nock"
 position: "SH"
 height: "178"

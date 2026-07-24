@@ -1,7 +1,7 @@
 ---
-title: "Kini NAHOLO"
+title: "キニ・ナホロ"
 name_en: "Kini NAHOLO"
-name_ja: "Kini NAHOLO"
+name_ja: "キニ・ナホロ"
 slug: "kiniviliame-naholo"
 position: "WTB"
 height: "178"

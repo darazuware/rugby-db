@@ -1,7 +1,7 @@
 ---
-title: "Tyrone THOMPSON"
+title: "タイロン・トンプソン"
 name_en: "Tyrone THOMPSON"
-name_ja: "Tyrone THOMPSON"
+name_ja: "タイロン・トンプソン"
 slug: "tyrone-thompson"
 position: "HO"
 height: "186"

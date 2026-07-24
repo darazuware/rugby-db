@@ -1,7 +1,7 @@
 ---
-title: "Sam WINTERS"
+title: "サム・ウィンターズ"
 name_en: "Sam WINTERS"
-name_ja: "Sam WINTERS"
+name_ja: "サム・ウィンターズ"
 slug: "sam-winters"
 position: "Fullback"
 height: ""

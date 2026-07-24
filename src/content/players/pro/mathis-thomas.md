@@ -1,7 +1,7 @@
 ---
-title: "Mathis THOMAS"
+title: "マティス・トマ"
 name_en: "Mathis THOMAS"
-name_ja: "Mathis THOMAS"
+name_ja: "マティス・トマ"
 slug: "mathis-thomas"
 position: "Lock"
 height: ""

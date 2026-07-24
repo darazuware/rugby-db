@@ -1,7 +1,7 @@
 ---
-title: "Harri ACKERMAN"
+title: "ハリ・アッカーマン"
 name_en: "Harri ACKERMAN"
-name_ja: "Harri ACKERMAN"
+name_ja: "ハリ・アッカーマン"
 slug: "harri-ackerman"
 position: "CTB"
 height: "185"

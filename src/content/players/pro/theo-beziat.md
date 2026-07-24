@@ -1,7 +1,7 @@
 ---
-title: "Theo BEZIAT"
+title: "テオ・ベジア"
 name_en: "Theo BEZIAT"
-name_ja: "Theo BEZIAT"
+name_ja: "テオ・ベジア"
 slug: "theo-beziat"
 position: "HO"
 height: "180"

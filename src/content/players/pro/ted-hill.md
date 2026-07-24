@@ -1,7 +1,7 @@
 ---
-title: "Ted HILL"
+title: "テッド・ヒル"
 name_en: "Ted HILL"
-name_ja: "Ted HILL"
+name_ja: "テッド・ヒル"
 slug: "ted-hill"
 position: "Back row"
 height: ""

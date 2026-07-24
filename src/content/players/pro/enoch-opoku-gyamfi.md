@@ -1,7 +1,7 @@
 ---
-title: "Enoch OPOKU-GYAMFI"
+title: "イーノック・オポク=ジャムフィ"
 name_en: "Enoch OPOKU-GYAMFI"
-name_ja: "Enoch OPOKU-GYAMFI"
+name_ja: "イーノック・オポク=ジャムフィ"
 slug: "enoch-opoku-gyamfi"
 position: "Lock"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Harry JOHNSON-HOLMES"
+title: "ハリー・ジョンソン・ホームズ"
 name_en: "Harry JOHNSON-HOLMES"
-name_ja: "Harry JOHNSON-HOLMES"
+name_ja: "ハリー・ジョンソン・ホームズ"
 slug: "harry-johnson-holmes"
 position: "PR"
 height: "186"

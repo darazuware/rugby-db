@@ -1,7 +1,7 @@
 ---
-title: "Dom KOSSUTH"
+title: "ドム・コスース"
 name_en: "Dom KOSSUTH"
-name_ja: "Dom KOSSUTH"
+name_ja: "ドム・コスース"
 slug: "dom-kossuth"
 position: "Back row"
 height: "188"

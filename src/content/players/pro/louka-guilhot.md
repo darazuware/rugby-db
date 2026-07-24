@@ -1,7 +1,7 @@
 ---
-title: "Louka GUILHOT"
+title: "ルカ・ジュイヨ"
 name_en: "Louka GUILHOT"
-name_ja: "Louka GUILHOT"
+name_ja: "ルカ・ジュイヨ"
 slug: "louka-guilhot"
 position: "SO"
 height: "183"

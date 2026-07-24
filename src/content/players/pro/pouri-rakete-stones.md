@@ -1,7 +1,7 @@
 ---
-title: "Pouri RAKETE-STONES"
+title: "プーリ・ラケテ・ストーンズ"
 name_en: "Pouri RAKETE-STONES"
-name_ja: "Pouri RAKETE-STONES"
+name_ja: "プーリ・ラケテ・ストーンズ"
 slug: "pouri-rakete-stones"
 position: "PR"
 height: "183"

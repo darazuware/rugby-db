@@ -1,7 +1,7 @@
 ---
-title: "Sacha SEGARD"
+title: "サシャ・セガール"
 name_en: "Sacha SEGARD"
-name_ja: "Sacha SEGARD"
+name_ja: "サシャ・セガール"
 slug: "sacha-segard"
 position: "Hooker"
 height: ""

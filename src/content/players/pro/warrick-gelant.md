@@ -1,7 +1,7 @@
 ---
-title: "Warrick GELANT"
+title: "ウォリック・ゲラント"
 name_en: "Warrick GELANT"
-name_ja: "Warrick GELANT"
+name_ja: "ウォリック・ゲラント"
 slug: "warrick-gelant"
 position: "FB"
 height: "180"

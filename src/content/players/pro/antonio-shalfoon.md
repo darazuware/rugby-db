@@ -1,7 +1,7 @@
 ---
-title: "Antonio SHALFOON"
+title: "アントニオ・シャルフーン"
 name_en: "Antonio SHALFOON"
-name_ja: "Antonio SHALFOON"
+name_ja: "アントニオ・シャルフーン"
 slug: "antonio-shalfoon"
 position: "LO"
 height: "197"

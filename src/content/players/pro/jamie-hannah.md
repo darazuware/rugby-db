@@ -1,7 +1,7 @@
 ---
-title: "Jamie HANNAH"
+title: "ジェイミー・ハンナ"
 name_en: "Jamie HANNAH"
-name_ja: "Jamie HANNAH"
+name_ja: "ジェイミー・ハンナ"
 slug: "jamie-hannah"
 position: "LO"
 height: "196"

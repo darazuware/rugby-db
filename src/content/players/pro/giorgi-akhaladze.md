@@ -1,7 +1,7 @@
 ---
-title: "Giorgi AKHALADZE"
+title: "ジョルジ・アカラジェ"
 name_en: "Giorgi AKHALADZE"
-name_ja: "Giorgi AKHALADZE"
+name_ja: "ジョルジ・アカラジェ"
 slug: "giorgi-akhaladze"
 position: "PR"
 height: "186"

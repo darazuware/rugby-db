@@ -1,7 +1,7 @@
 ---
-title: "Euan MCVIE"
+title: "ユアン・マクヴィー"
 name_en: "Euan MCVIE"
-name_ja: "Euan MCVIE"
+name_ja: "ユアン・マクヴィー"
 slug: "euan-mcvie"
 position: "LO"
 height: "197"

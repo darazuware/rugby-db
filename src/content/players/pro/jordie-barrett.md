@@ -1,7 +1,7 @@
 ---
-title: "Jordie BARRETT"
+title: "ジョーディ・バレット"
 name_en: "Jordie BARRETT"
-name_ja: "Jordie BARRETT"
+name_ja: "ジョーディ・バレット"
 slug: "jordie-barrett"
 position: "CTB"
 height: "196"

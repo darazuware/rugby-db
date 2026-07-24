@@ -1,7 +1,7 @@
 ---
-title: "Mathias BOUNIOL"
+title: "マティアス・ブニオル"
 name_en: "Mathias BOUNIOL"
-name_ja: "Mathias BOUNIOL"
+name_ja: "マティアス・ブニオル"
 slug: "mathias-bouniol"
 position: "Winger"
 height: ""

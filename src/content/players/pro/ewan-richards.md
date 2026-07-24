@@ -1,7 +1,7 @@
 ---
-title: "Ewan RICHARDS"
+title: "ユアン・リチャーズ"
 name_en: "Ewan RICHARDS"
-name_ja: "Ewan RICHARDS"
+name_ja: "ユアン・リチャーズ"
 slug: "ewan-richards"
 position: "Back row"
 height: ""

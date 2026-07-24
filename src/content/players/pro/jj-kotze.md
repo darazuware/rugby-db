@@ -1,7 +1,7 @@
 ---
-title: "JJ KOTZE | JJ KOTZ"
+title: "JJ・コッツェーE | JJ・コッツェー"
 name_en: "JJ KOTZE"
-name_ja: "JJ KOTZ"
+name_ja: "JJ・コッツェー"
 slug: "jj-kotze"
 position: "HO"
 height: "184"

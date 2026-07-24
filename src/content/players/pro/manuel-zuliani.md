@@ -1,7 +1,7 @@
 ---
-title: "Manuel ZULIANI"
+title: "マニュエル・ズリアーニ"
 name_en: "Manuel ZULIANI"
-name_ja: "Manuel ZULIANI"
+name_ja: "マニュエル・ズリアーニ"
 slug: "manuel-zuliani"
 position: "FL/No8"
 height: "188"

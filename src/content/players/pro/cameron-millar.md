@@ -1,7 +1,7 @@
 ---
-title: "Cameron MILLAR"
+title: "キャメロン・ミラー"
 name_en: "Cameron MILLAR"
-name_ja: "Cameron MILLAR"
+name_ja: "キャメロン・ミラー"
 slug: "cameron-millar"
 position: "SO"
 height: "185"

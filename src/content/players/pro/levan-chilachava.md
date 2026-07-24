@@ -1,7 +1,7 @@
 ---
-title: "Levan CHILACHAVA"
+title: "レヴァン・チラチャヴァ"
 name_en: "Levan CHILACHAVA"
-name_ja: "Levan CHILACHAVA"
+name_ja: "レヴァン・チラチャヴァ"
 slug: "levan-chilachava"
 position: "PR"
 height: "188"

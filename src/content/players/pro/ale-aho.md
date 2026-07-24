@@ -1,7 +1,7 @@
 ---
-title: "Ale AHO"
+title: "アレ・アホ"
 name_en: "Ale AHO"
-name_ja: "Ale AHO"
+name_ja: "アレ・アホ"
 slug: "ale-aho"
 position: "LO"
 height: "199"

@@ -1,7 +1,7 @@
 ---
-title: "Sean EDOGBO | Se EDOGBO"
+title: "Sean EDOGBO | ショーン・エドグボ"
 name_en: "Sean EDOGBO"
-name_ja: "Se EDOGBO"
+name_ja: "ショーン・エドグボ"
 slug: "sean-edogbo"
 position: "Back row"
 height: "188"

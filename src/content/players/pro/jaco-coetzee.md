@@ -1,7 +1,7 @@
 ---
-title: "Jaco COETZEE"
+title: "ヤコ・クッツェー"
 name_en: "Jaco COETZEE"
-name_ja: "Jaco COETZEE"
+name_ja: "ヤコ・クッツェー"
 slug: "jaco-coetzee"
 position: "Back row"
 height: ""

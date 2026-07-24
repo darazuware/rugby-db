@@ -1,7 +1,7 @@
 ---
-title: "Will HARRIS"
+title: "ウィル・ハリス"
 name_en: "Will HARRIS"
-name_ja: "Will HARRIS"
+name_ja: "ウィル・ハリス"
 slug: "will-harris"
 position: "FL/No8"
 height: "194"

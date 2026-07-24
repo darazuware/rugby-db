@@ -1,7 +1,7 @@
 ---
-title: "Alexandre KADDOURI"
+title: "アレクサンドル・カドゥーリ"
 name_en: "Alexandre KADDOURI"
-name_ja: "Alexandre KADDOURI"
+name_ja: "アレクサンドル・カドゥーリ"
 slug: "alexandre-kaddouri"
 position: "PR"
 height: "189"

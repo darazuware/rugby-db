@@ -1,7 +1,7 @@
 ---
-title: "Connor TREACEY"
+title: "コナー・トレーシー"
 name_en: "Connor TREACEY"
-name_ja: "Connor TREACEY"
+name_ja: "コナー・トレーシー"
 slug: "connor-treacey"
 position: "Back row"
 height: ""

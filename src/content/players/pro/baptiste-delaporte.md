@@ -1,7 +1,7 @@
 ---
-title: "Baptiste DELAPORTE"
+title: "バプティスト・ドラポルト"
 name_en: "Baptiste DELAPORTE"
-name_ja: "Baptiste DELAPORTE"
+name_ja: "バプティスト・ドラポルト"
 slug: "baptiste-delaporte"
 position: "FL/NO8"
 height: "190"

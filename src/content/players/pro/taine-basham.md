@@ -1,7 +1,7 @@
 ---
-title: "Taine BASHAM"
+title: "テイン・バシャム"
 name_en: "Taine BASHAM"
-name_ja: "Taine BASHAM"
+name_ja: "テイン・バシャム"
 slug: "taine-basham"
 position: "Back row"
 height: "182"

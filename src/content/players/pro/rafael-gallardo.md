@@ -1,7 +1,7 @@
 ---
-title: "Rafael GALLARDO"
+title: "ラファエル・ガヤルド"
 name_en: "Rafael GALLARDO"
-name_ja: "Rafael GALLARDO"
+name_ja: "ラファエル・ガヤルド"
 slug: "rafael-gallardo"
 position: "Prop"
 height: ""

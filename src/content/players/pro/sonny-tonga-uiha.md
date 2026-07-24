@@ -1,7 +1,7 @@
 ---
-title: "Sonny TONGA'UIHA"
+title: "ソニー・トンガウイハ"
 name_en: "Sonny TONGA'UIHA"
-name_ja: "Sonny TONGA'UIHA"
+name_ja: "ソニー・トンガウイハ"
 slug: "sonny-tonga-uiha"
 position: "Prop"
 height: ""

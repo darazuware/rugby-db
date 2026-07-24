@@ -1,7 +1,7 @@
 ---
-title: "Joe COKANASIGA"
+title: "ジョー・コカナシガ"
 name_en: "Joe COKANASIGA"
-name_ja: "Joe COKANASIGA"
+name_ja: "ジョー・コカナシガ"
 slug: "joe-cokanasiga"
 position: "Winger"
 height: ""

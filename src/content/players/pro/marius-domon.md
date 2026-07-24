@@ -1,7 +1,7 @@
 ---
-title: "Marius DOMON"
+title: "マリウス・ドモン"
 name_en: "Marius DOMON"
-name_ja: "Marius DOMON"
+name_ja: "マリウス・ドモン"
 slug: "marius-domon"
 position: "FB"
 height: "183"

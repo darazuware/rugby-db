@@ -1,7 +1,7 @@
 ---
-title: "Michele LAMARO"
+title: "ミケーレ・ラマロ"
 name_en: "Michele LAMARO"
-name_ja: "Michele LAMARO"
+name_ja: "ミケーレ・ラマロ"
 slug: "michele-lamaro"
 position: "Back row"
 height: "188"

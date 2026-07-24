@@ -1,7 +1,7 @@
 ---
-title: "Curtis LANGDON"
+title: "カーティス・ラングドン"
 name_en: "Curtis LANGDON"
-name_ja: "Curtis LANGDON"
+name_ja: "カーティス・ラングドン"
 slug: "curtis-langdon"
 position: "Hooker"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Thomas GEFFRE"
+title: "トマ・ジェフレ"
 name_en: "Thomas GEFFRE"
-name_ja: "Thomas GEFFRE"
+name_ja: "トマ・ジェフレ"
 slug: "thomas-geffre"
 position: "LO"
 height: "204"

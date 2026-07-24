@@ -1,7 +1,7 @@
 ---
-title: "Mayron FAHY"
+title: "メロン・ファイ"
 name_en: "Mayron FAHY"
-name_ja: "Mayron FAHY"
+name_ja: "メロン・ファイ"
 slug: "mayron-fahy"
 position: "FB"
 height: ""

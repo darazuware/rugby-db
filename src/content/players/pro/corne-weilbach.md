@@ -1,7 +1,7 @@
 ---
-title: "Corne WEILBACH | Corn WEILBACH"
+title: "Corne WEILBACH | コーン・ワイルバッハ"
 name_en: "Corne WEILBACH"
-name_ja: "Corn WEILBACH"
+name_ja: "コーン・ワイルバッハ"
 slug: "corne-weilbach"
 position: "PR"
 height: "186"

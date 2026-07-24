@@ -1,7 +1,7 @@
 ---
-title: "Tiziano PASQUALI"
+title: "ティツィアーノ・パスクアーリ"
 name_en: "Tiziano PASQUALI"
-name_ja: "Tiziano PASQUALI"
+name_ja: "ティツィアーノ・パスクアーリ"
 slug: "tiziano-pasquali"
 position: "PR"
 height: "185"

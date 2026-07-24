@@ -1,7 +1,7 @@
 ---
-title: "Iakopo MAPU"
+title: "イアコポ・マプ"
 name_en: "Iakopo MAPU"
-name_ja: "Iakopo MAPU"
+name_ja: "イアコポ・マプ"
 slug: "iakopo-petelo-mapu"
 position: "FL/NO8"
 height: "183"

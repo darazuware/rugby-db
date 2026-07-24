@@ -1,7 +1,7 @@
 ---
-title: "Isaac JONES"
+title: "アイザック・ジョーンズ"
 name_en: "Isaac JONES"
-name_ja: "Isaac JONES"
+name_ja: "アイザック・ジョーンズ"
 slug: "isaac-jones"
 position: "PR"
 height: ""

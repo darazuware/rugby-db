@@ -1,7 +1,7 @@
 ---
-title: "Will JEANES"
+title: "ウィル・ジーンズ"
 name_en: "Will JEANES"
-name_ja: "Will JEANES"
+name_ja: "ウィル・ジーンズ"
 slug: "will-jeanes"
 position: "Back row"
 height: ""

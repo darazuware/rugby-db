@@ -1,7 +1,7 @@
 ---
-title: "Rhyno SMITH"
+title: "ライノ・スミス"
 name_en: "Rhyno SMITH"
-name_ja: "Rhyno SMITH"
+name_ja: "ライノ・スミス"
 slug: "rhyno-smith"
 position: "FB"
 height: "173"

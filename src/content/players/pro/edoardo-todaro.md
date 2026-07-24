@@ -1,7 +1,7 @@
 ---
-title: "Edoardo TODARO"
+title: "エドアルド・トダーロ"
 name_en: "Edoardo TODARO"
-name_ja: "Edoardo TODARO"
+name_ja: "エドアルド・トダーロ"
 slug: "edoardo-todaro"
 position: "Centre"
 height: ""

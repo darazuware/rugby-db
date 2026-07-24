@@ -1,7 +1,7 @@
 ---
-title: "Tom CLARKSON | トム CLARKSON"
+title: "Tom CLARKSON | トム・クラークソン"
 name_en: "Tom CLARKSON"
-name_ja: "トム CLARKSON"
+name_ja: "トム・クラークソン"
 slug: "tom-clarkson"
 position: "PR"
 height: "185"

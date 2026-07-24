@@ -1,7 +1,7 @@
 ---
-title: "George HORNE"
+title: "ジョージ・ホーン"
 name_en: "George HORNE"
-name_ja: "George HORNE"
+name_ja: "ジョージ・ホーン"
 slug: "george-horne"
 position: "SH"
 height: "174"

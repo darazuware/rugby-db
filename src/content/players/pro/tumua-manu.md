@@ -1,7 +1,7 @@
 ---
-title: "Tumua MANU"
+title: "トゥムア・マヌ"
 name_en: "Tumua MANU"
-name_ja: "Tumua MANU"
+name_ja: "トゥムア・マヌ"
 slug: "tumua-manu"
 position: "CTB"
 height: "183"

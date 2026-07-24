@@ -1,7 +1,7 @@
 ---
-title: "Miracle FAI'ILAGI"
+title: "ミラクル・ファイラギ"
 name_en: "Miracle FAI'ILAGI"
-name_ja: "Miracle FAI'ILAGI"
+name_ja: "ミラクル・ファイラギ"
 slug: "miracle-fai-ilagi"
 position: "FL/No8"
 height: "188"

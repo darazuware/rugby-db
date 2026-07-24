@@ -1,7 +1,7 @@
 ---
-title: "Selestino RAVUTAUMADA"
+title: "セレスティノ・ラヴタウマダ"
 name_en: "Selestino RAVUTAUMADA"
-name_ja: "Selestino RAVUTAUMADA"
+name_ja: "セレスティノ・ラヴタウマダ"
 slug: "selestino-ravutaumada"
 position: "WTB"
 height: "183"

@@ -1,7 +1,7 @@
 ---
-title: "Ngani LAUMAPE"
+title: "ンガニ・ラウマペ"
 name_en: "Ngani LAUMAPE"
-name_ja: "Ngani LAUMAPE"
+name_ja: "ンガニ・ラウマペ"
 slug: "ngani-laumape"
 position: "CTB"
 height: "171"

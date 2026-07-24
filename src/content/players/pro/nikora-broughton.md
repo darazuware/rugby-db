@@ -1,7 +1,7 @@
 ---
-title: "Nikora BROUGHTON"
+title: "ニコラ・ブロートン"
 name_en: "Nikora BROUGHTON"
-name_ja: "Nikora BROUGHTON"
+name_ja: "ニコラ・ブロートン"
 slug: "nikora-broughton"
 position: "FL/No8"
 height: "188"

@@ -1,7 +1,7 @@
 ---
-title: "Simone FERRARI"
+title: "シモーネ・フェラーリ"
 name_en: "Simone FERRARI"
-name_ja: "Simone FERRARI"
+name_ja: "シモーネ・フェラーリ"
 slug: "simone-ferrari"
 position: "PR"
 height: "186"

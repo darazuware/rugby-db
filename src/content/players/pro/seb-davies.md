@@ -1,7 +1,7 @@
 ---
-title: "Seb DAVIES"
+title: "セブ・デイヴィス"
 name_en: "Seb DAVIES"
-name_ja: "Seb DAVIES"
+name_ja: "セブ・デイヴィス"
 slug: "seb-davies"
 position: "LO"
 height: "202"

@@ -1,7 +1,7 @@
 ---
-title: "Abraham POLE"
+title: "アブラハム・ポール"
 name_en: "Abraham POLE"
-name_ja: "Abraham POLE"
+name_ja: "アブラハム・ポール"
 slug: "abraham-pole"
 position: "PR"
 height: "188"

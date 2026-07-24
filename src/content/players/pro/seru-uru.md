@@ -1,7 +1,7 @@
 ---
-title: "Seru URU"
+title: "セル・ウル"
 name_en: "Seru URU"
-name_ja: "Seru URU"
+name_ja: "セル・ウル"
 slug: "seru-uru"
 position: "FL/No8"
 height: "197"

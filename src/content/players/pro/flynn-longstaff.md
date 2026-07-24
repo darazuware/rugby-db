@@ -1,7 +1,7 @@
 ---
-title: "Flynn LONGSTAFF"
+title: "フリン・ロングスタッフ"
 name_en: "Flynn LONGSTAFF"
-name_ja: "Flynn LONGSTAFF"
+name_ja: "フリン・ロングスタッフ"
 slug: "flynn-longstaff"
 position: "PR"
 height: ""

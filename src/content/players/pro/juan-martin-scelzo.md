@@ -1,7 +1,7 @@
 ---
-title: "Juan Martin SCELZO"
+title: "フアン・マルティン・スチェルソ"
 name_en: "Juan Martin SCELZO"
-name_ja: "Juan Martin SCELZO"
+name_ja: "フアン・マルティン・スチェルソ"
 slug: "juan-martin-scelzo"
 position: "FL/NO8"
 height: "192"

@@ -1,7 +1,7 @@
 ---
-title: "Nic LYNAGH"
+title: "ニック・リナー"
 name_en: "Nic LYNAGH"
-name_ja: "Nic LYNAGH"
+name_ja: "ニック・リナー"
 slug: "nick-lynagh"
 position: "WTB"
 height: "183"

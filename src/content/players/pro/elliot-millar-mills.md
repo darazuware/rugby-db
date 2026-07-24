@@ -1,7 +1,7 @@
 ---
-title: "Elliot MILLAR-MILLS"
+title: "エリオット・ミラー=ミルズ"
 name_en: "Elliot MILLAR-MILLS"
-name_ja: "Elliot MILLAR-MILLS"
+name_ja: "エリオット・ミラー=ミルズ"
 slug: "elliot-millar-mills"
 position: "Prop"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Archie MCPARLAND"
+title: "アーチー・マクパーランド"
 name_en: "Archie MCPARLAND"
-name_ja: "Archie MCPARLAND"
+name_ja: "アーチー・マクパーランド"
 slug: "archie-mcparland"
 position: "Scrum-half"
 height: ""

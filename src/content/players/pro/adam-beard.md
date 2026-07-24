@@ -1,7 +1,7 @@
 ---
-title: "Adam BEARD"
+title: "アダム・ビアード"
 name_en: "Adam BEARD"
-name_ja: "Adam BEARD"
+name_ja: "アダム・ビアード"
 slug: "adam-beard"
 position: "LO"
 height: "202"

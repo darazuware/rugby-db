@@ -1,7 +1,7 @@
 ---
-title: "Ben ALEXANDER"
+title: "ベン・アレクサンダー"
 name_en: "Ben ALEXANDER"
-name_ja: "Ben ALEXANDER"
+name_ja: "ベン・アレクサンダー"
 slug: "ben-alexander-22241"
 position: "Hooker"
 height: ""

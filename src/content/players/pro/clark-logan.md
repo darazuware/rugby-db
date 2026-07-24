@@ -1,7 +1,7 @@
 ---
-title: "Clark LOGAN"
+title: "クラーク・ローガン"
 name_en: "Clark LOGAN"
-name_ja: "Clark LOGAN"
+name_ja: "クラーク・ローガン"
 slug: "clark-logan"
 position: "SH"
 height: "175"

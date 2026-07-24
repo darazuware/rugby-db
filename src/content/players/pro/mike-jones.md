@@ -1,7 +1,7 @@
 ---
-title: "Mikey JONES"
+title: "マイキー・ジョーンズ"
 name_en: "Mikey JONES"
-name_ja: "Mikey JONES"
+name_ja: "マイキー・ジョーンズ"
 slug: "mike-jones"
 position: "PR"
 height: "181"

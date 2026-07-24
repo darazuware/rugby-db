@@ -1,7 +1,7 @@
 ---
-title: "Herman MEKENESE"
+title: "ハーマン・メケネセ"
 name_en: "Herman MEKENESE"
-name_ja: "Herman MEKENESE"
+name_ja: "ハーマン・メケネセ"
 slug: "herman-mekenese"
 position: "Prop"
 height: ""

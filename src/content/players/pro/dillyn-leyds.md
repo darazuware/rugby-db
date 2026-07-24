@@ -1,7 +1,7 @@
 ---
-title: "Dillyn LEYDS"
+title: "ディリン・レイズ"
 name_en: "Dillyn LEYDS"
-name_ja: "Dillyn LEYDS"
+name_ja: "ディリン・レイズ"
 slug: "dillyn-leyds"
 position: "WTB"
 height: "183"

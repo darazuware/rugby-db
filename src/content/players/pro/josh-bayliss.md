@@ -1,7 +1,7 @@
 ---
-title: "Josh BAYLISS"
+title: "ジョシュ・ベイリス"
 name_en: "Josh BAYLISS"
-name_ja: "Josh BAYLISS"
+name_ja: "ジョシュ・ベイリス"
 slug: "josh-bayliss"
 position: "Back row"
 height: ""

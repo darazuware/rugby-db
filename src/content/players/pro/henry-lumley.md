@@ -1,7 +1,7 @@
 ---
-title: "Henry LUMLEY"
+title: "ヘンリー・ラムリー"
 name_en: "Henry LUMLEY"
-name_ja: "Henry LUMLEY"
+name_ja: "ヘンリー・ラムリー"
 slug: "henry-lumley"
 position: "Centre"
 height: ""

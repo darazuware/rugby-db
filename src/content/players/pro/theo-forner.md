@@ -1,7 +1,7 @@
 ---
-title: "Theo FORNER"
+title: "テオ・フォルネール"
 name_en: "Theo FORNER"
-name_ja: "Theo FORNER"
+name_ja: "テオ・フォルネール"
 slug: "theo-forner"
 position: "FB"
 height: "180"

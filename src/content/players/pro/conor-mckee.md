@@ -1,7 +1,7 @@
 ---
-title: "Conor MCKEE | コナー MCKEE"
+title: "Conor MCKEE | コナー・マッキー"
 name_en: "Conor MCKEE"
-name_ja: "コナー MCKEE"
+name_ja: "コナー・マッキー"
 slug: "conor-mckee"
 position: "SH"
 height: "183"

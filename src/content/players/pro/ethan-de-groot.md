@@ -1,7 +1,7 @@
 ---
-title: "Ethan DE GROOT"
+title: "イーサン・デ・フロート"
 name_en: "Ethan DE GROOT"
-name_ja: "Ethan DE GROOT"
+name_ja: "イーサン・デ・フロート"
 slug: "ethan-de-groot"
 position: "PR"
 height: "190"

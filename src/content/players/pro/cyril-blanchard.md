@@ -1,7 +1,7 @@
 ---
-title: "Cyril BLANCHARD"
+title: "シリル・ブランシャール"
 name_en: "Cyril BLANCHARD"
-name_ja: "Cyril BLANCHARD"
+name_ja: "シリル・ブランシャール"
 slug: "cyril-blanchard"
 position: "HO"
 height: "176"

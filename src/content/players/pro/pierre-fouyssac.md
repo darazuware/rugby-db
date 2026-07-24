@@ -1,7 +1,7 @@
 ---
-title: "Pierre FOUYSSAC"
+title: "ピエール・フィサック"
 name_en: "Pierre FOUYSSAC"
-name_ja: "Pierre FOUYSSAC"
+name_ja: "ピエール・フィサック"
 slug: "pierre-fouyssac"
 position: "CTB"
 height: "190"

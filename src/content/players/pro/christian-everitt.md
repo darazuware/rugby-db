@@ -1,7 +1,7 @@
 ---
-title: "Christian EVERITT"
+title: "クリスティアン・エヴェリット"
 name_en: "Christian EVERITT"
-name_ja: "Christian EVERITT"
+name_ja: "クリスティアン・エヴェリット"
 slug: "christian-everitt"
 position: "HO"
 height: "187"

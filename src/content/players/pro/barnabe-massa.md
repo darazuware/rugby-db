@@ -1,7 +1,7 @@
 ---
-title: "Barnabe MASSA"
+title: "バルナベ・マッサ"
 name_en: "Barnabe MASSA"
-name_ja: "Barnabe MASSA"
+name_ja: "バルナベ・マッサ"
 slug: "barnabe-massa"
 position: "HO"
 height: "180"

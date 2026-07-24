@@ -1,7 +1,7 @@
 ---
-title: "Julien MARCHAND"
+title: "ジュリアン・マルシャン"
 name_en: "Julien MARCHAND"
-name_ja: "Julien MARCHAND"
+name_ja: "ジュリアン・マルシャン"
 slug: "julien-marchand"
 position: "HO"
 height: "181"

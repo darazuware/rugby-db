@@ -1,7 +1,7 @@
 ---
-title: "Emeka ATUANYA"
+title: "エメカ・アトゥアニャ"
 name_en: "Emeka ATUANYA"
-name_ja: "Emeka ATUANYA"
+name_ja: "エメカ・アトゥアニャ"
 slug: "emeka-atuanya"
 position: "Lock"
 height: ""

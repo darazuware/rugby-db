@@ -1,7 +1,7 @@
 ---
-title: "Tom DE GLANVILLE"
+title: "トム・デ・グランヴィル"
 name_en: "Tom DE GLANVILLE"
-name_ja: "Tom DE GLANVILLE"
+name_ja: "トム・デ・グランヴィル"
 slug: "tom-de-glanville"
 position: "Fullback"
 height: ""

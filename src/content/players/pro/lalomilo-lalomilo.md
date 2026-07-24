@@ -1,7 +1,7 @@
 ---
-title: "Lalomilo LALOMILO"
+title: "ラロミロ・ラロミロ"
 name_en: "Lalomilo LALOMILO"
-name_ja: "Lalomilo LALOMILO"
+name_ja: "ラロミロ・ラロミロ"
 slug: "lalomilo-lalomilo"
 position: "CTB"
 height: "176"

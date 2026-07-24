@@ -1,7 +1,7 @@
 ---
-title: "Riccardo FAVRETTO"
+title: "リッカルド・ファヴレット"
 name_en: "Riccardo FAVRETTO"
-name_ja: "Riccardo FAVRETTO"
+name_ja: "リッカルド・ファヴレット"
 slug: "riccardo-favretto"
 position: "LO"
 height: "200"

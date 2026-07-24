@@ -1,7 +1,7 @@
 ---
-title: "Xavier RUBENS"
+title: "グザビエ・ルーベンス"
 name_en: "Xavier RUBENS"
-name_ja: "Xavier RUBENS"
+name_ja: "グザビエ・ルーベンス"
 slug: "xavier-rubens"
 position: "CTB"
 height: "186"

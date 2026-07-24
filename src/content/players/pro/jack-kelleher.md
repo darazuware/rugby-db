@@ -1,7 +1,7 @@
 ---
-title: "Jack KELLEHER"
+title: "ジャック・ケレハー"
 name_en: "Jack KELLEHER"
-name_ja: "Jack KELLEHER"
+name_ja: "ジャック・ケレハー"
 slug: "jack-kelleher"
 position: "Back row"
 height: ""

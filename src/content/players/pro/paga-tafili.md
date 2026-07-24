@@ -1,7 +1,7 @@
 ---
-title: "Paga TAFILI"
+title: "パガ・タフィリ"
 name_en: "Paga TAFILI"
-name_ja: "Paga TAFILI"
+name_ja: "パガ・タフィリ"
 slug: "paga-tafili"
 position: "PR"
 height: "182"

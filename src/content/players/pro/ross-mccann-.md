@@ -1,7 +1,7 @@
 ---
-title: "Ross MCCANN"
+title: "ロス・マッキャン"
 name_en: "Ross MCCANN"
-name_ja: "Ross MCCANN"
+name_ja: "ロス・マッキャン"
 slug: "ross-mccann-"
 position: "WTB"
 height: "181"

@@ -1,7 +1,7 @@
 ---
-title: "Jacob BEETHAM"
+title: "ジェイコブ・ビータム"
 name_en: "Jacob BEETHAM"
-name_ja: "Jacob BEETHAM"
+name_ja: "ジェイコブ・ビータム"
 slug: "jacob-beetham"
 position: "FB"
 height: "185"

@@ -1,7 +1,7 @@
 ---
-title: "Romeo MOLA"
+title: "ロメオ・モラ"
 name_en: "Romeo MOLA"
-name_ja: "Romeo MOLA"
+name_ja: "ロメオ・モラ"
 slug: "romeo-mola"
 position: "Fullback"
 height: ""

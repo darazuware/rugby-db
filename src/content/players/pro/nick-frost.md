@@ -1,7 +1,7 @@
 ---
-title: "Nick FROST"
+title: "ニック・フロスト"
 name_en: "Nick FROST"
-name_ja: "Nick FROST"
+name_ja: "ニック・フロスト"
 slug: "nick-frost"
 position: "LO"
 height: "206"

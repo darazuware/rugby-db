@@ -1,7 +1,7 @@
 ---
-title: "Feleti KAITU'U"
+title: "フェレティ・カイトゥウ"
 name_en: "Feleti KAITU'U"
-name_ja: "Feleti KAITU'U"
+name_ja: "フェレティ・カイトゥウ"
 slug: "feleti-kaitu-u"
 position: "HO"
 height: "183"

@@ -1,7 +1,7 @@
 ---
-title: "Kadin PRITCHARD"
+title: "ケイディン・プリチャード"
 name_en: "Kadin PRITCHARD"
-name_ja: "Kadin PRITCHARD"
+name_ja: "ケイディン・プリチャード"
 slug: "kadin-pritchard"
 position: "CTB"
 height: "191"

@@ -1,7 +1,7 @@
 ---
-title: "Felix LAMBEY"
+title: "フェリックス・ランベイ"
 name_en: "Felix LAMBEY"
-name_ja: "Felix LAMBEY"
+name_ja: "フェリックス・ランベイ"
 slug: "felix-lambey"
 position: "LO"
 height: "196"

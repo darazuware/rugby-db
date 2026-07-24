@@ -1,7 +1,7 @@
 ---
-title: "Lucas DESSAIGNE"
+title: "リュカ・デッセーニュ"
 name_en: "Lucas DESSAIGNE"
-name_ja: "Lucas DESSAIGNE"
+name_ja: "リュカ・デッセーニュ"
 slug: "lucas-dessaigne"
 position: "FL/NO8"
 height: "188"

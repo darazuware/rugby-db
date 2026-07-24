@@ -1,7 +1,7 @@
 ---
-title: "Dian HEUNIS"
+title: "ディアン・ヒューニス"
 name_en: "Dian HEUNIS"
-name_ja: "Dian HEUNIS"
+name_ja: "ディアン・ヒューニス"
 slug: "dian-heunis"
 position: "PR"
 height: "185"

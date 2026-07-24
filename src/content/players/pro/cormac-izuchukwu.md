@@ -1,7 +1,7 @@
 ---
-title: "Cormac IZUCHUKWU"
+title: "コーマック・イズチュクウ"
 name_en: "Cormac IZUCHUKWU"
-name_ja: "Cormac IZUCHUKWU"
+name_ja: "コーマック・イズチュクウ"
 slug: "cormac-izuchukwu"
 position: "LO"
 height: "200"

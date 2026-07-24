@@ -1,7 +1,7 @@
 ---
-title: "Lucas ZAMORA"
+title: "リュカ・ザモラ"
 name_en: "Lucas ZAMORA"
-name_ja: "Lucas ZAMORA"
+name_ja: "リュカ・ザモラ"
 slug: "lucas-zamora"
 position: "SH"
 height: "170"

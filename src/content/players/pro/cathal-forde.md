@@ -1,7 +1,7 @@
 ---
-title: "Cathal FORDE"
+title: "カタル・フォード"
 name_en: "Cathal FORDE"
-name_ja: "Cathal FORDE"
+name_ja: "カタル・フォード"
 slug: "cathal-forde"
 position: "CTB"
 height: "188"

@@ -1,7 +1,7 @@
 ---
-title: "Billy PROCTOR"
+title: "ビリー・プロクター"
 name_en: "Billy PROCTOR"
-name_ja: "Billy PROCTOR"
+name_ja: "ビリー・プロクター"
 slug: "billy-proctor"
 position: "CTB"
 height: "187"

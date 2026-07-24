@@ -1,7 +1,7 @@
 ---
-title: "Karl MARTIN"
+title: "カール・マルタン"
 name_en: "Karl MARTIN"
-name_ja: "Karl MARTIN"
+name_ja: "カール・マルタン"
 slug: "karl-martin"
 position: "CTB"
 height: "189"

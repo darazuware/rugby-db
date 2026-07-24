@@ -1,7 +1,7 @@
 ---
-title: "Jarrah MCLEOD"
+title: "ジャラ・マクラウド"
 name_en: "Jarrah MCLEOD"
-name_ja: "Jarrah MCLEOD"
+name_ja: "ジャラ・マクラウド"
 slug: "jarrah-mcleod"
 position: "CTB"
 height: "192"

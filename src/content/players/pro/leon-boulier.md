@@ -1,7 +1,7 @@
 ---
-title: "Leon BOULIER"
+title: "レオン・ブリエ"
 name_en: "Leon BOULIER"
-name_ja: "Leon BOULIER"
+name_ja: "レオン・ブリエ"
 slug: "leon-boulier"
 position: "FL/NO8"
 height: "193"

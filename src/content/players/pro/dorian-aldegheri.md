@@ -1,7 +1,7 @@
 ---
-title: "Dorian ALDEGHERI"
+title: "ドリアン・アルデゲリ"
 name_en: "Dorian ALDEGHERI"
-name_ja: "Dorian ALDEGHERI"
+name_ja: "ドリアン・アルデゲリ"
 slug: "dorian-aldegheri"
 position: "PR"
 height: "180"

@@ -1,7 +1,7 @@
 ---
-title: "Sam GRAHAM"
+title: "サム・グラハム"
 name_en: "Sam GRAHAM"
-name_ja: "Sam GRAHAM"
+name_ja: "サム・グラハム"
 slug: "sam-graham"
 position: "Back row"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Domingo MIOTTI"
+title: "ドミンゴ・ミオッティ"
 name_en: "Domingo MIOTTI"
-name_ja: "Domingo MIOTTI"
+name_ja: "ドミンゴ・ミオッティ"
 slug: "domingo-miotti"
 position: "SO"
 height: "188"

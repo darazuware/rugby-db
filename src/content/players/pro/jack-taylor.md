@@ -1,7 +1,7 @@
 ---
-title: "Jack TAYLOR"
+title: "ジャック・テイラー"
 name_en: "Jack TAYLOR"
-name_ja: "Jack TAYLOR"
+name_ja: "ジャック・テイラー"
 slug: "jack-taylor"
 position: "HO"
 height: "181"

@@ -1,7 +1,7 @@
 ---
-title: "Henry POLLOCK"
+title: "ヘンリー・ポロック"
 name_en: "Henry POLLOCK"
-name_ja: "Henry POLLOCK"
+name_ja: "ヘンリー・ポロック"
 slug: "henry-pollock"
 position: "Back row"
 height: ""

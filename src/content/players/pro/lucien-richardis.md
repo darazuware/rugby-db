@@ -1,7 +1,7 @@
 ---
-title: "Lucien RICHARDIS"
+title: "リュシアン・リシャルディ"
 name_en: "Lucien RICHARDIS"
-name_ja: "Lucien RICHARDIS"
+name_ja: "リュシアン・リシャルディ"
 slug: "lucien-richardis"
 position: "Fly-half"
 height: ""

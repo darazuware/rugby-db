@@ -1,7 +1,7 @@
 ---
-title: "Ivan NEMER"
+title: "イヴァン・ネメル"
 name_en: "Ivan NEMER"
-name_ja: "Ivan NEMER"
+name_ja: "イヴァン・ネメル"
 slug: "ivan-nemer"
 position: "PR"
 height: "180"

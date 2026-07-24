@@ -1,7 +1,7 @@
 ---
-title: "Axel MIRANDE"
+title: "アクセル・ミランド"
 name_en: "Axel MIRANDE"
-name_ja: "Axel MIRANDE"
+name_ja: "アクセル・ミランド"
 slug: "axel-mirande"
 position: "Centre"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Luca RIZZOLI"
+title: "ルカ・リッツォーリ"
 name_en: "Luca RIZZOLI"
-name_ja: "Luca RIZZOLI"
+name_ja: "ルカ・リッツォーリ"
 slug: "luca-rizzoli"
 position: "PR"
 height: "178"

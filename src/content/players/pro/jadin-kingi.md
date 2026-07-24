@@ -1,7 +1,7 @@
 ---
-title: "Jadin KINGI"
+title: "ジェイディン・キンギ"
 name_en: "Jadin KINGI"
-name_ja: "Jadin KINGI"
+name_ja: "ジェイディン・キンギ"
 slug: "jadin-kingi"
 position: "LO"
 height: "198"

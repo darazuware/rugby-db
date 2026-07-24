@@ -1,7 +1,7 @@
 ---
-title: "Raymond TUPUTUPU"
+title: "レイモンド・トゥプトゥプ"
 name_en: "Raymond TUPUTUPU"
-name_ja: "Raymond TUPUTUPU"
+name_ja: "レイモンド・トゥプトゥプ"
 slug: "raymond-tuputupu"
 position: "HO"
 height: "183"

@@ -1,7 +1,7 @@
 ---
-title: "Inia TABUAVOU"
+title: "イニア・タブアヴォウ"
 name_en: "Inia TABUAVOU"
-name_ja: "Inia TABUAVOU"
+name_ja: "イニア・タブアヴォウ"
 slug: "inia-tabuavou"
 position: "CTB"
 height: "185"

@@ -1,7 +1,7 @@
 ---
-title: "Giorgi TETRASHVILI"
+title: "ジョルジ・テトラシュヴィリ"
 name_en: "Giorgi TETRASHVILI"
-name_ja: "Giorgi TETRASHVILI"
+name_ja: "ジョルジ・テトラシュヴィリ"
 slug: "giorgi-tetrashvili"
 position: "PR"
 height: "177"

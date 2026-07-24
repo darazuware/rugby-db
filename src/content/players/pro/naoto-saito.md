@@ -1,7 +1,7 @@
 ---
-title: "Naoto SAITO"
+title: "Naoto SAITO | 斉藤 直人"
 name_en: "Naoto SAITO"
-name_ja: "Naoto SAITO"
+name_ja: "斉藤 直人"
 slug: "naoto-saito"
 position: "SH"
 height: "165"

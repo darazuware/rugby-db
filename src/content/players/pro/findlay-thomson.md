@@ -1,7 +1,7 @@
 ---
-title: "Findlay THOMSON"
+title: "フィンドレー・トムソン"
 name_en: "Findlay THOMSON"
-name_ja: "Findlay THOMSON"
+name_ja: "フィンドレー・トムソン"
 slug: "findlay-thomson"
 position: "CTB"
 height: "190"

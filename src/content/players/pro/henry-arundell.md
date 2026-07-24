@@ -1,7 +1,7 @@
 ---
-title: "Henry ARUNDELL"
+title: "ヘンリー・アランデル"
 name_en: "Henry ARUNDELL"
-name_ja: "Henry ARUNDELL"
+name_ja: "ヘンリー・アランデル"
 slug: "henry-arundell"
 position: "Fullback"
 height: ""

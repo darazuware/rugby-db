@@ -1,7 +1,7 @@
 ---
-title: "Archie MCMICHAEL"
+title: "アーチー・マクマイケル"
 name_en: "Archie MCMICHAEL"
-name_ja: "Archie MCMICHAEL"
+name_ja: "アーチー・マクマイケル"
 slug: "archie-mcmichael"
 position: "Back row"
 height: "193"

@@ -1,7 +1,7 @@
 ---
-title: "Martin THIBAUT"
+title: "マルタン・ティボー"
 name_en: "Martin THIBAUT"
-name_ja: "Martin THIBAUT"
+name_ja: "マルタン・ティボー"
 slug: "martin-thibaut"
 position: "Winger"
 height: ""

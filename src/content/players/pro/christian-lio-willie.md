@@ -1,7 +1,7 @@
 ---
-title: "Christian LIO-WILLIE"
+title: "クリスチャン・リオ・ウィリー"
 name_en: "Christian LIO-WILLIE"
-name_ja: "Christian LIO-WILLIE"
+name_ja: "クリスチャン・リオ・ウィリー"
 slug: "christian-lio-willie"
 position: "FL/No8"
 height: "187"

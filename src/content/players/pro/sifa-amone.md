@@ -1,7 +1,7 @@
 ---
-title: "Sifa AMONE"
+title: "シファ・アモネ"
 name_en: "Sifa AMONE"
-name_ja: "Sifa AMONE"
+name_ja: "シファ・アモネ"
 slug: "sifa-amone"
 position: "PR"
 height: "180"

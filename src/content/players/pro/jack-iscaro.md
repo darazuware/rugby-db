@@ -1,7 +1,7 @@
 ---
-title: "Jack ISCARO"
+title: "ジャック・イスカロ"
 name_en: "Jack ISCARO"
-name_ja: "Jack ISCARO"
+name_ja: "ジャック・イスカロ"
 slug: "jack-iscaro"
 position: "PR"
 height: "185"

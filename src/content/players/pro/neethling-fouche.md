@@ -1,7 +1,7 @@
 ---
-title: "Neethling FOUCHE | Neethling FOUCH"
+title: "ニートリング・フーシェE | ニートリング・フーシェ"
 name_en: "Neethling FOUCHE"
-name_ja: "Neethling FOUCH"
+name_ja: "ニートリング・フーシェ"
 slug: "neethling-fouche"
 position: "PR"
 height: "189"

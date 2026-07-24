@@ -1,7 +1,7 @@
 ---
-title: "Thomas DARMON"
+title: "トマ・ダルモン"
 name_en: "Thomas DARMON"
-name_ja: "Thomas DARMON"
+name_ja: "トマ・ダルモン"
 slug: "thomas-darmon"
 position: "CTB"
 height: "181"

@@ -1,7 +1,7 @@
 ---
-title: "Harry SHERIDAN"
+title: "ハリー・シェリダン"
 name_en: "Harry SHERIDAN"
-name_ja: "Harry SHERIDAN"
+name_ja: "ハリー・シェリダン"
 slug: "harry-sheridan"
 position: "LO"
 height: "196"

@@ -1,7 +1,7 @@
 ---
-title: "PJ BOTHA | PJ ボータ"
+title: "PJ BOTHA | PJ・ボータ"
 name_en: "PJ BOTHA"
-name_ja: "PJ ボータ"
+name_ja: "PJ・ボータ"
 slug: "pj-botha"
 position: "HO"
 height: "181"

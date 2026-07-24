@@ -1,7 +1,7 @@
 ---
-title: "Lee-Marvin MAZIBUKO | Lee Marvin MAZIBUKO"
+title: "Lee-Marvin MAZIBUKO | リー=マーヴィン・マジブコ"
 name_en: "Lee-Marvin MAZIBUKO"
-name_ja: "Lee Marvin MAZIBUKO"
+name_ja: "リー=マーヴィン・マジブコ"
 slug: "lee-marvin-mazibuko"
 position: "PR"
 height: "182"

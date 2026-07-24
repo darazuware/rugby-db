@@ -1,7 +1,7 @@
 ---
-title: "Fin SMITH"
+title: "フィン・スミス"
 name_en: "Fin SMITH"
-name_ja: "Fin SMITH"
+name_ja: "フィン・スミス"
 slug: "fin-smith"
 position: "Fly-half"
 height: ""

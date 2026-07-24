@@ -1,7 +1,7 @@
 ---
-title: "Tom CARR-SMITH"
+title: "トム・カー=スミス"
 name_en: "Tom CARR-SMITH"
-name_ja: "Tom CARR-SMITH"
+name_ja: "トム・カー=スミス"
 slug: "tom-carr-smith"
 position: "Scrum-half"
 height: ""

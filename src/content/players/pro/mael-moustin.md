@@ -1,7 +1,7 @@
 ---
-title: "Mael MOUSTIN"
+title: "マエル・ムスタン"
 name_en: "Mael MOUSTIN"
-name_ja: "Mael MOUSTIN"
+name_ja: "マエル・ムスタン"
 slug: "mael-moustin"
 position: "WTB"
 height: "187"

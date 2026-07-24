@@ -1,7 +1,7 @@
 ---
-title: "Lewis WELLS"
+title: "ルイス・ウェルズ"
 name_en: "Lewis WELLS"
-name_ja: "Lewis WELLS"
+name_ja: "ルイス・ウェルズ"
 slug: "lewis-wells"
 position: "WTB"
 height: ""

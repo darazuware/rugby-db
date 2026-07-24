@@ -1,7 +1,7 @@
 ---
-title: "Oriol MARSINYAC"
+title: "オリオール・マルシニャック"
 name_en: "Oriol MARSINYAC"
-name_ja: "Oriol MARSINYAC"
+name_ja: "オリオール・マルシニャック"
 slug: "oriol-marsinyac"
 position: "Centre"
 height: ""

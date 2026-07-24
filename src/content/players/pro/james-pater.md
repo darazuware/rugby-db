@@ -1,7 +1,7 @@
 ---
-title: "James PATER"
+title: "ジェームズ・ペイター"
 name_en: "James PATER"
-name_ja: "James PATER"
+name_ja: "ジェームズ・ペイター"
 slug: "james-pater"
 position: "Fullback"
 height: ""

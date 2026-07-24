@@ -1,7 +1,7 @@
 ---
-title: "Bastien CHINARRO"
+title: "バスティアン・シナロ"
 name_en: "Bastien CHINARRO"
-name_ja: "Bastien CHINARRO"
+name_ja: "バスティアン・シナロ"
 slug: "bastien-chinarro"
 position: "LO"
 height: "196"

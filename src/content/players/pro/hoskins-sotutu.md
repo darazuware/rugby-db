@@ -1,7 +1,7 @@
 ---
-title: "Hoskins SOTUTU"
+title: "ホスキンス・ソトゥトゥ"
 name_en: "Hoskins SOTUTU"
-name_ja: "Hoskins SOTUTU"
+name_ja: "ホスキンス・ソトゥトゥ"
 slug: "hoskins-sotutu"
 position: "FL/No8"
 height: "192"

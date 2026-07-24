@@ -1,7 +1,7 @@
 ---
-title: "John MCKEE | ジョン MCKEE"
+title: "John MCKEE | ジョン・マッキー"
 name_en: "John MCKEE"
-name_ja: "ジョン MCKEE"
+name_ja: "ジョン・マッキー"
 slug: "john-mckee"
 position: "HO"
 height: "183"

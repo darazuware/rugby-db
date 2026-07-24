@@ -1,7 +1,7 @@
 ---
-title: "James SLIPPER"
+title: "ジェームズ・スリッパー"
 name_en: "James SLIPPER"
-name_ja: "James SLIPPER"
+name_ja: "ジェームズ・スリッパー"
 slug: "james-slipper"
 position: "PR"
 height: "180"

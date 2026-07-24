@@ -1,7 +1,7 @@
 ---
-title: "Cheswill JOOSTE"
+title: "チェスウィル・ヨースト"
 name_en: "Cheswill JOOSTE"
-name_ja: "Cheswill JOOSTE"
+name_ja: "チェスウィル・ヨースト"
 slug: "cheswill-jooste"
 position: "Winger"
 height: "175"

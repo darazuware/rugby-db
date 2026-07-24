@@ -1,7 +1,7 @@
 ---
-title: "Hugo PICHARDIE"
+title: "ユゴー・ピシャルディ"
 name_en: "Hugo PICHARDIE"
-name_ja: "Hugo PICHARDIE"
+name_ja: "ユゴー・ピシャルディ"
 slug: "hugo-pichardie"
 position: "Centre"
 height: ""

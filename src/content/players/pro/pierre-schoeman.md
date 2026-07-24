@@ -1,7 +1,7 @@
 ---
-title: "Pierre SCHOEMAN"
+title: "ピエール・スホーマン"
 name_en: "Pierre SCHOEMAN"
-name_ja: "Pierre SCHOEMAN"
+name_ja: "ピエール・スホーマン"
 slug: "pierre-schoeman"
 position: "PR"
 height: "184"

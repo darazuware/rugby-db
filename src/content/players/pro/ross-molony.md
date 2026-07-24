@@ -1,7 +1,7 @@
 ---
-title: "Ross MOLONY"
+title: "ロス・モロニー"
 name_en: "Ross MOLONY"
-name_ja: "Ross MOLONY"
+name_ja: "ロス・モロニー"
 slug: "ross-molony"
 position: "Lock"
 height: ""

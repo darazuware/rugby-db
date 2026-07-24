@@ -1,7 +1,7 @@
 ---
-title: "Paul ALO-EMILE"
+title: "ポール・アロ＝エミル"
 name_en: "Paul ALO-EMILE"
-name_ja: "Paul ALO-EMILE"
+name_ja: "ポール・アロ＝エミル"
 slug: "paul-alo-emile"
 position: "PR"
 height: "180"

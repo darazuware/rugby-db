@@ -1,7 +1,7 @@
 ---
-title: "Dominic ROPETI"
+title: "ドミニク・ロペティ"
 name_en: "Dominic ROPETI"
-name_ja: "Dominic ROPETI"
+name_ja: "ドミニク・ロペティ"
 slug: "dominic-ropeti"
 position: "FL/No8"
 height: "193"

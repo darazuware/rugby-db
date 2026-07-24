@@ -1,7 +1,7 @@
 ---
-title: "Clement VERGE"
+title: "クレマン・ヴェルジェ"
 name_en: "Clement VERGE"
-name_ja: "Clement VERGE"
+name_ja: "クレマン・ヴェルジェ"
 slug: "clement-verge"
 position: "LO"
 height: "200"

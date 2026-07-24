@@ -1,7 +1,7 @@
 ---
-title: "Henry WALKER"
+title: "ヘンリー・ウォーカー"
 name_en: "Henry WALKER"
-name_ja: "Henry WALKER"
+name_ja: "ヘンリー・ウォーカー"
 slug: "henry-walker"
 position: "Hooker"
 height: ""

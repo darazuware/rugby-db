@@ -1,7 +1,7 @@
 ---
-title: "Cole FORBES"
+title: "コール・フォーブス"
 name_en: "Cole FORBES"
-name_ja: "Cole FORBES"
+name_ja: "コール・フォーブス"
 slug: "cole-forbes"
 position: "FB"
 height: "180"

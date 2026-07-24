@@ -1,7 +1,7 @@
 ---
-title: "Thomas VINCENT"
+title: "トマ・ヴァンサン"
 name_en: "Thomas VINCENT"
-name_ja: "Thomas VINCENT"
+name_ja: "トマ・ヴァンサン"
 slug: "thomas-vincent"
 position: "SO"
 height: "185"

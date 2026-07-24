@@ -1,7 +1,7 @@
 ---
-title: "Dan SHEEHAN | ダン SHEEHAN"
+title: "Dan SHEEHAN | ダン・シーハン"
 name_en: "Dan SHEEHAN"
-name_ja: "ダン SHEEHAN"
+name_ja: "ダン・シーハン"
 slug: "dan-sheehan"
 position: "HO"
 height: "191"

@@ -1,7 +1,7 @@
 ---
-title: "Cian PRENDERGAST | キアン PRENDERGAST"
+title: "Cian PRENDERGAST | キアン・プレンダーガスト"
 name_en: "Cian PRENDERGAST"
-name_ja: "キアン PRENDERGAST"
+name_ja: "キアン・プレンダーガスト"
 slug: "cian-prendergast"
 position: "Back row"
 height: "196"

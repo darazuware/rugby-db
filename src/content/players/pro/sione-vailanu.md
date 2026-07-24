@@ -1,7 +1,7 @@
 ---
-title: "Sione VAILANU"
+title: "シオネ・ヴァイラヌ"
 name_en: "Sione VAILANU"
-name_ja: "Sione VAILANU"
+name_ja: "シオネ・ヴァイラヌ"
 slug: "sione-vailanu"
 position: "Back row"
 height: "189"

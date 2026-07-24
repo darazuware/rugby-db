@@ -1,7 +1,7 @@
 ---
-title: "Maxime GARDELLE"
+title: "マキシム・ガルデル"
 name_en: "Maxime GARDELLE"
-name_ja: "Maxime GARDELLE"
+name_ja: "マキシム・ガルデル"
 slug: "maxime-gardelle"
 position: "Hooker"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Sid HARVEY"
+title: "シッド・ハーヴェイ"
 name_en: "Sid HARVEY"
-name_ja: "Sid HARVEY"
+name_ja: "シッド・ハーヴェイ"
 slug: "sid-harvey"
 position: "FB"
 height: "190"

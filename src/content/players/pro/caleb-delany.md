@@ -1,7 +1,7 @@
 ---
-title: "Caleb DELANY"
+title: "ケイレブ・デレーニー"
 name_en: "Caleb DELANY"
-name_ja: "Caleb DELANY"
+name_ja: "ケイレブ・デレーニー"
 slug: "caleb-delany"
 position: "LO"
 height: "197"

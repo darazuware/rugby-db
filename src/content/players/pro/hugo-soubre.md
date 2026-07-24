@@ -1,7 +1,7 @@
 ---
-title: "Hugo SOUBRE"
+title: "ユゴー・スーブル"
 name_en: "Hugo SOUBRE"
-name_ja: "Hugo SOUBRE"
+name_ja: "ユゴー・スーブル"
 slug: "hugo-soubre"
 position: "Back row"
 height: ""

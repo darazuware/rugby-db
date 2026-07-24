@@ -1,7 +1,7 @@
 ---
-title: "Liam MCCONNELL"
+title: "リアム・マッコーネル"
 name_en: "Liam MCCONNELL"
-name_ja: "Liam MCCONNELL"
+name_ja: "リアム・マッコーネル"
 slug: "liam-mcconnell"
 position: "FL/No8"
 height: "194"

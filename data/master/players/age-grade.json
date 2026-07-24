@@ -3915,7 +3915,11 @@
     "nationality": [
       "JP"
     ],
-    "caps": null,
+    "caps": {
+      "team": "Japan",
+      "count": 3,
+      "source_url": "https://all.rugby/player/ryunosuke-ito"
+    },
     "league_caps": null,
     "career": [],
     "season_stats": null,
@@ -3934,7 +3938,9 @@
     "squad": "u23",
     "is_featured": false,
     "is_minor": false,
-    "merged_from": []
+    "merged_from": [
+      "ar_ryunosuke-ito"
+    ]
   },
   {
     "id": "jrfu_u23_497505",

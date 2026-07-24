@@ -1,7 +1,7 @@
 ---
-title: "RG SNYMAN | RG スナイマン"
+title: "RG SNYMAN | RG・スナイマン"
 name_en: "RG SNYMAN"
-name_ja: "RG スナイマン"
+name_ja: "RG・スナイマン"
 slug: "rg-snyman"
 position: "LO"
 height: "206"

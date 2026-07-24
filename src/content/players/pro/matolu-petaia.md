@@ -1,7 +1,7 @@
 ---
-title: "Matolu PETAIA"
+title: "マトル・ペタイア"
 name_en: "Matolu PETAIA"
-name_ja: "Matolu PETAIA"
+name_ja: "マトル・ペタイア"
 slug: "matolu-petaia"
 position: "FL/No8"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Danny SOUTHWORTH"
+title: "ダニー・サウスワース"
 name_en: "Danny SOUTHWORTH"
-name_ja: "Danny SOUTHWORTH"
+name_ja: "ダニー・サウスワース"
 slug: "danny-southworth"
 position: "PR"
 height: "183"

@@ -1,7 +1,7 @@
 ---
-title: "Zenon RENDU"
+title: "ゼノン・ランデュ"
 name_en: "Zenon RENDU"
-name_ja: "Zenon RENDU"
+name_ja: "ゼノン・ランデュ"
 slug: "zenon-rendu"
 position: "Scrum-half"
 height: ""

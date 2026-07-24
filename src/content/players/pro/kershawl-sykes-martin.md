@@ -1,7 +1,7 @@
 ---
-title: "Kershawl SYKES-MARTIN"
+title: "カーショル・サイクス・マーティン"
 name_en: "Kershawl SYKES-MARTIN"
-name_ja: "Kershawl SYKES-MARTIN"
+name_ja: "カーショル・サイクス・マーティン"
 slug: "kershawl-sykes-martin"
 position: "PR"
 height: "187"

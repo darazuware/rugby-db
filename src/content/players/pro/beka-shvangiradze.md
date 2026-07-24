@@ -1,7 +1,7 @@
 ---
-title: "Beka SHVANGIRADZE"
+title: "ベカ・シュヴァンギラゼ"
 name_en: "Beka SHVANGIRADZE"
-name_ja: "Beka SHVANGIRADZE"
+name_ja: "ベカ・シュヴァンギラゼ"
 slug: "beka-shvangiradze"
 position: "FL/NO8"
 height: "191"

@@ -1,7 +1,7 @@
 ---
-title: "Semi LAGIVALA"
+title: "セミ・ラギヴァラ"
 name_en: "Semi LAGIVALA"
-name_ja: "Semi LAGIVALA"
+name_ja: "セミ・ラギヴァラ"
 slug: "semi-lagivala"
 position: "CTB"
 height: "190"

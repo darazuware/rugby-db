@@ -1,7 +1,7 @@
 ---
-title: "Charles LALOI"
+title: "シャルル・ラロワ"
 name_en: "Charles LALOI"
-name_ja: "Charles LALOI"
+name_ja: "シャルル・ラロワ"
 slug: "charles-laloi"
 position: "FB"
 height: "181"

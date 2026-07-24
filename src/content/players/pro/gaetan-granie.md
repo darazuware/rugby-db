@@ -1,7 +1,7 @@
 ---
-title: "Gaetan GRANIE"
+title: "ガエタン・グラニエ"
 name_en: "Gaetan GRANIE"
-name_ja: "Gaetan GRANIE"
+name_ja: "ガエタン・グラニエ"
 slug: "gaetan-granie"
 position: "Prop"
 height: ""

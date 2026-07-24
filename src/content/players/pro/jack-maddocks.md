@@ -1,7 +1,7 @@
 ---
-title: "Jack MADDOCKS"
+title: "ジャック・マドックス"
 name_en: "Jack MADDOCKS"
-name_ja: "Jack MADDOCKS"
+name_ja: "ジャック・マドックス"
 slug: "jack-maddocks"
 position: "FB"
 height: "194"

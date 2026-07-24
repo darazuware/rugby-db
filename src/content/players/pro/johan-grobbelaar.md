@@ -1,7 +1,7 @@
 ---
-title: "Johan GROBBELAAR"
+title: "ヨハン・グロッベラー"
 name_en: "Johan GROBBELAAR"
-name_ja: "Johan GROBBELAAR"
+name_ja: "ヨハン・グロッベラー"
 slug: "johan-grobbelaar"
 position: "HO"
 height: "183"

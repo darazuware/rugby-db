@@ -1,7 +1,7 @@
 ---
-title: "Thomas GALLO | トーマス GALLO"
+title: "Thomas GALLO | トマス・ガロ"
 name_en: "Thomas GALLO"
-name_ja: "トーマス GALLO"
+name_ja: "トマス・ガロ"
 slug: "thomas-gallo"
 position: "PR"
 height: "177"

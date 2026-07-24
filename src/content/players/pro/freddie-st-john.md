@@ -1,7 +1,7 @@
 ---
-title: "Freddie ST JOHN"
+title: "フレディ・セント・ジョン"
 name_en: "Freddie ST JOHN"
-name_ja: "Freddie ST JOHN"
+name_ja: "フレディ・セント・ジョン"
 slug: "freddie-st-john"
 position: "Centre"
 height: ""

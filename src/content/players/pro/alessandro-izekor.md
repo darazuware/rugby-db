@@ -1,7 +1,7 @@
 ---
-title: "Alessandro IZEKOR"
+title: "アレッサンドロ・イゼコル"
 name_en: "Alessandro IZEKOR"
-name_ja: "Alessandro IZEKOR"
+name_ja: "アレッサンドロ・イゼコル"
 slug: "alessandro-izekor"
 position: "Back row"
 height: "196"

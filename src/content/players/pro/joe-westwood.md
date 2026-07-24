@@ -1,7 +1,7 @@
 ---
-title: "Joe WESTWOOD"
+title: "ジョー・ウェストウッド"
 name_en: "Joe WESTWOOD"
-name_ja: "Joe WESTWOOD"
+name_ja: "ジョー・ウェストウッド"
 slug: "joe-westwood"
 position: "CTB"
 height: "193"

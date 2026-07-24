@@ -1,7 +1,7 @@
 ---
-title: "Santiago CHOCOBARES"
+title: "サンティアゴ・チョコバレス"
 name_en: "Santiago CHOCOBARES"
-name_ja: "Santiago CHOCOBARES"
+name_ja: "サンティアゴ・チョコバレス"
 slug: "santiago-chocobares"
 position: "CTB"
 height: "188"

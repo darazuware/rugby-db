@@ -1,7 +1,7 @@
 ---
-title: "Thomas RAMOS"
+title: "トマ・ラモス"
 name_en: "Thomas RAMOS"
-name_ja: "Thomas RAMOS"
+name_ja: "トマ・ラモス"
 slug: "thomas-ramos"
 position: "FB"
 height: "178"

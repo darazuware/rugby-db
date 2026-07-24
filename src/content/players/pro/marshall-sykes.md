@@ -1,7 +1,7 @@
 ---
-title: "Marshall SYKES"
+title: "マーシャル・サイクス"
 name_en: "Marshall SYKES"
-name_ja: "Marshall SYKES"
+name_ja: "マーシャル・サイクス"
 slug: "marshall-sykes"
 position: "LO"
 height: "200"

@@ -59,7 +59,6 @@ tags: ["Top14", "チーム紹介", "2025-26", "ヴァンヌ"]
 | Jules LE BAIL | ジュール・ル・バイユ | スクラムハーフ |
 | Michael RURU | マイケル・ルル | スクラムハーフ |
 | Mikheil ALANIA | ミケイル・アラニア | スクラムハーフ |
-| Richard JUDD | リチャード・ジャッド | スクラムハーフ |
 | Maxime LAFAGE | マキシム・ラファージュ | フライハーフ |
 | Thibault DEBAËS | ティボー・ドゥバース | フライハーフ |
 | Eliott ROUDIL | エリオット・ルーディル | センター |

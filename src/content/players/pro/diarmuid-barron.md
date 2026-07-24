@@ -1,7 +1,7 @@
 ---
-title: "Diarmuid BARRON"
+title: "ディアミュード・バロン"
 name_en: "Diarmuid BARRON"
-name_ja: "Diarmuid BARRON"
+name_ja: "ディアミュード・バロン"
 slug: "diarmuid-barron"
 position: "HO"
 height: "184"

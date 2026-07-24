@@ -1,7 +1,7 @@
 ---
-title: "JD SCHICKERLING"
+title: "JD・シッカーリング"
 name_en: "JD SCHICKERLING"
-name_ja: "JD SCHICKERLING"
+name_ja: "JD・シッカーリング"
 slug: "jd-schickerling"
 position: "LO"
 height: "202"

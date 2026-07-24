@@ -1,7 +1,7 @@
 ---
-title: "Bronson MILLS"
+title: "ブロンソン・ミルズ"
 name_en: "Bronson MILLS"
-name_ja: "Bronson MILLS"
+name_ja: "ブロンソン・ミルズ"
 slug: "bronson-mills"
 position: "CTB"
 height: "185"

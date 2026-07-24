@@ -1,7 +1,7 @@
 ---
-title: "Baptiste HEGUY"
+title: "バプティスト・エギュイ"
 name_en: "Baptiste HEGUY"
-name_ja: "Baptiste HEGUY"
+name_ja: "バプティスト・エギュイ"
 slug: "baptiste-heguy"
 position: "FL/NO8"
 height: "196"

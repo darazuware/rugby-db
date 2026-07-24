@@ -1,7 +1,7 @@
 ---
-title: "Iosefo NAMOCE"
+title: "イオセフォ・ナモセ"
 name_en: "Iosefo NAMOCE"
-name_ja: "Iosefo NAMOCE"
+name_ja: "イオセフォ・ナモセ"
 slug: "iosefo-namoce"
 position: "CTB"
 height: ""

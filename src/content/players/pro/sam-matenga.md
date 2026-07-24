@@ -1,7 +1,7 @@
 ---
-title: "Sam MATENGA"
+title: "サム・マテンガ"
 name_en: "Sam MATENGA"
-name_ja: "Sam MATENGA"
+name_ja: "サム・マテンガ"
 slug: "sam-matenga"
 position: "PR"
 height: "186"

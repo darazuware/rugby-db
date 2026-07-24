@@ -1,7 +1,7 @@
 ---
-title: "Clovis LE BAIL"
+title: "クロヴィス・ル・バイユ"
 name_en: "Clovis LE BAIL"
-name_ja: "Clovis LE BAIL"
+name_ja: "クロヴィス・ル・バイユ"
 slug: "clovis-le-bail"
 position: "SH"
 height: "173"

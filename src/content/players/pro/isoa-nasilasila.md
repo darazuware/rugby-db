@@ -1,7 +1,7 @@
 ---
-title: "Isoa NASILASILA"
+title: "イソア・ナシラシラ"
 name_en: "Isoa NASILASILA"
-name_ja: "Isoa NASILASILA"
+name_ja: "イソア・ナシラシラ"
 slug: "isoa-nasilasila"
 position: "LO"
 height: "197"

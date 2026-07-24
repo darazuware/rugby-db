@@ -1,7 +1,7 @@
 ---
-title: "Tom WEST"
+title: "トム・ウェスト"
 name_en: "Tom WEST"
-name_ja: "Tom WEST"
+name_ja: "トム・ウェスト"
 slug: "tom-west"
 position: "Prop"
 height: ""

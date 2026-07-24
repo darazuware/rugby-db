@@ -1,7 +1,7 @@
 ---
-title: "Lomig JOUANNY"
+title: "ロミグ・ジュアニー"
 name_en: "Lomig JOUANNY"
-name_ja: "Lomig JOUANNY"
+name_ja: "ロミグ・ジュアニー"
 slug: "lomig-jouanny"
 position: "Back row"
 height: ""

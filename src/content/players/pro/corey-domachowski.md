@@ -1,7 +1,7 @@
 ---
-title: "Corey DOMACHOWSKI"
+title: "コリー・ドマホウスキー"
 name_en: "Corey DOMACHOWSKI"
-name_ja: "Corey DOMACHOWSKI"
+name_ja: "コリー・ドマホウスキー"
 slug: "corey-domachowski"
 position: "PR"
 height: "183"

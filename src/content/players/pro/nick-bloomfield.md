@@ -1,7 +1,7 @@
 ---
-title: "Nick BLOOMFIELD"
+title: "ニック・ブルームフィールド"
 name_en: "Nick BLOOMFIELD"
-name_ja: "Nick BLOOMFIELD"
+name_ja: "ニック・ブルームフィールド"
 slug: "nick-bloomfield"
 position: "PR"
 height: "188"

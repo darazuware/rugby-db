@@ -1,7 +1,7 @@
 ---
-title: "Ethan STADDON"
+title: "イーサン・スタッドン"
 name_en: "Ethan STADDON"
-name_ja: "Ethan STADDON"
+name_ja: "イーサン・スタッドン"
 slug: "ethan-staddon"
 position: "Back row"
 height: ""

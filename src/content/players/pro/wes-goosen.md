@@ -1,7 +1,7 @@
 ---
-title: "Wes GOOSEN"
+title: "ウェス・グーセン"
 name_en: "Wes GOOSEN"
-name_ja: "Wes GOOSEN"
+name_ja: "ウェス・グーセン"
 slug: "wes-goosen"
 position: "CTB"
 height: "180"

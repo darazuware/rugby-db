@@ -1,7 +1,7 @@
 ---
-title: "Rob CARMICHAEL"
+title: "ロブ・カーマイケル"
 name_en: "Rob CARMICHAEL"
-name_ja: "Rob CARMICHAEL"
+name_ja: "ロブ・カーマイケル"
 slug: "rob-carmichael"
 position: "LO"
 height: "210"

@@ -1,7 +1,7 @@
 ---
-title: "Max OJOMOH"
+title: "マックス・オジョモ"
 name_en: "Max OJOMOH"
-name_ja: "Max OJOMOH"
+name_ja: "マックス・オジョモ"
 slug: "max-ojomoh"
 position: "Centre"
 height: ""

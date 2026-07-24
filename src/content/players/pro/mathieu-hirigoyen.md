@@ -1,7 +1,7 @@
 ---
-title: "Mathieu HIRIGOYEN"
+title: "マチュー・イリゴアン"
 name_en: "Mathieu HIRIGOYEN"
-name_ja: "Mathieu HIRIGOYEN"
+name_ja: "マチュー・イリゴアン"
 slug: "mathieu-hirigoyen"
 position: "FL/NO8"
 height: "194"

@@ -1,7 +1,7 @@
 ---
-title: "Xavier SAIFOLOI"
+title: "グザビエ・サイフォロイ"
 name_en: "Xavier SAIFOLOI"
-name_ja: "Xavier SAIFOLOI"
+name_ja: "グザビエ・サイフォロイ"
 slug: "xavier-saifoloi"
 position: "FL/No8"
 height: "195"

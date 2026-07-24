@@ -1,7 +1,7 @@
 ---
-title: "Isoa TUWAI"
+title: "イソア・トゥワイ"
 name_en: "Isoa TUWAI"
-name_ja: "Isoa TUWAI"
+name_ja: "イソア・トゥワイ"
 slug: "isoa-tuwai"
 position: "FL/No8"
 height: ""

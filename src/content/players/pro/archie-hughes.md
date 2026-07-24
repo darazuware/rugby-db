@@ -1,7 +1,7 @@
 ---
-title: "Archie HUGHES"
+title: "アーチー・ヒューズ"
 name_en: "Archie HUGHES"
-name_ja: "Archie HUGHES"
+name_ja: "アーチー・ヒューズ"
 slug: "archie-hughes"
 position: "SH"
 height: "173"

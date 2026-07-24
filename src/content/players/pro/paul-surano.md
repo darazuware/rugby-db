@@ -1,7 +1,7 @@
 ---
-title: "Paul SURANO"
+title: "ポール・スラノ"
 name_en: "Paul SURANO"
-name_ja: "Paul SURANO"
+name_ja: "ポール・スラノ"
 slug: "paul-surano"
 position: "FB"
 height: "180"

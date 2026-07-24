@@ -1,7 +1,7 @@
 ---
-title: "Mathis IBO"
+title: "マティス・イボ"
 name_en: "Mathis IBO"
-name_ja: "Mathis IBO"
+name_ja: "マティス・イボ"
 slug: "mathis-ibo"
 position: "CTB"
 height: "183"

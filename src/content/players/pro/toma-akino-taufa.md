@@ -1,7 +1,7 @@
 ---
-title: "Toma'Akino TAUFA"
+title: "トマアキノ・タウファ"
 name_en: "Toma'Akino TAUFA"
-name_ja: "Toma'Akino TAUFA"
+name_ja: "トマアキノ・タウファ"
 slug: "toma-akino-taufa"
 position: "PR"
 height: "180"

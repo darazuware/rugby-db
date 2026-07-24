@@ -1,7 +1,7 @@
 ---
-title: "Finn MACKAY"
+title: "フィン・マッカイ"
 name_en: "Finn MACKAY"
-name_ja: "Finn MACKAY"
+name_ja: "フィン・マッカイ"
 slug: "finn-mackay"
 position: "SO"
 height: "189"

@@ -1,7 +1,7 @@
 ---
-title: "Conor O'TIGHEARNAIGH | コナー O'TIGHEARNAIGH"
+title: "Conor O'TIGHEARNAIGH | コナー・オティアナイ"
 name_en: "Conor O'TIGHEARNAIGH"
-name_ja: "コナー O'TIGHEARNAIGH"
+name_ja: "コナー・オティアナイ"
 slug: "conor-o-tighearnaigh"
 position: "LO"
 height: "200"

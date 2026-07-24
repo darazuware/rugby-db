@@ -1,7 +1,7 @@
 ---
-title: "Tate MCDERMOTT"
+title: "テイト・マクダーモット"
 name_en: "Tate MCDERMOTT"
-name_ja: "Tate MCDERMOTT"
+name_ja: "テイト・マクダーモット"
 slug: "tate-mcdermott"
 position: "SH"
 height: "179"

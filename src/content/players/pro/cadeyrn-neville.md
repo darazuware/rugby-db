@@ -1,7 +1,7 @@
 ---
-title: "Cadeyrn NEVILLE"
+title: "ケイダーン・ネビル"
 name_en: "Cadeyrn NEVILLE"
-name_ja: "Cadeyrn NEVILLE"
+name_ja: "ケイダーン・ネビル"
 slug: "cadeyrn-neville"
 position: "LO"
 height: "202"

@@ -1,7 +1,7 @@
 ---
-title: "Wyn JONES"
+title: "ウィン・ジョーンズ"
 name_en: "Wyn JONES"
-name_ja: "Wyn JONES"
+name_ja: "ウィン・ジョーンズ"
 slug: "wyn-jones"
 position: "PR"
 height: "184"

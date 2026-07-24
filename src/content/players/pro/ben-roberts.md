@@ -1,7 +1,7 @@
 ---
-title: "Ben ROBERTS | ベン ROBERTS"
+title: "Ben ROBERTS | ベン・ロバーツ"
 name_en: "Ben ROBERTS"
-name_ja: "ベン ROBERTS"
+name_ja: "ベン・ロバーツ"
 slug: "ben-roberts"
 position: "LO"
 height: ""

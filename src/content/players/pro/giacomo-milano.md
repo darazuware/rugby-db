@@ -1,7 +1,7 @@
 ---
-title: "Giacomo MILANO"
+title: "ジャコモ・ミラノ"
 name_en: "Giacomo MILANO"
-name_ja: "Giacomo MILANO"
+name_ja: "ジャコモ・ミラノ"
 slug: "giacomo-milano"
 position: "Back row"
 height: "192"

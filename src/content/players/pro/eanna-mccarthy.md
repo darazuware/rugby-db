@@ -1,7 +1,7 @@
 ---
-title: "MCCARTHY | Eanna MCCARTHY"
-name_en: "MCCARTHY"
-name_ja: "Eanna MCCARTHY"
+title: "Eanna MCCARTHY | エナ・マッカーシー"
+name_en: "Eanna MCCARTHY"
+name_ja: "エナ・マッカーシー"
 slug: "eanna-mccarthy"
 position: "Back row"
 height: "193"

@@ -1,7 +1,7 @@
 ---
-title: "Jude POSTLETHWAITE"
+title: "ジュード・ポスルスウェイト"
 name_en: "Jude POSTLETHWAITE"
-name_ja: "Jude POSTLETHWAITE"
+name_ja: "ジュード・ポスルスウェイト"
 slug: "jude-postlethwaite"
 position: "CTB"
 height: "193"

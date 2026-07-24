@@ -1,7 +1,7 @@
 ---
-title: "Semisi PAEA"
+title: "セミシ・パエア"
 name_en: "Semisi PAEA"
-name_ja: "Semisi PAEA"
+name_ja: "セミシ・パエア"
 slug: "semisi-paea"
 position: "FL/No8"
 height: "194"

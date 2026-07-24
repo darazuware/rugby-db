@@ -1,7 +1,7 @@
 ---
-title: "Mirco SPAGNOLO"
+title: "ミルコ・スパニョーロ"
 name_en: "Mirco SPAGNOLO"
-name_ja: "Mirco SPAGNOLO"
+name_ja: "ミルコ・スパニョーロ"
 slug: "mirco-spagnolo"
 position: "PR"
 height: "186"

@@ -1,7 +1,7 @@
 ---
-title: "Cam CHRISTIE"
+title: "カム・クリスティ"
 name_en: "Cam CHRISTIE"
-name_ja: "Cam CHRISTIE"
+name_ja: "カム・クリスティ"
 slug: "cameron-christie"
 position: "FL/No8"
 height: "196"

@@ -1,7 +1,7 @@
 ---
-title: "Tom BANKS"
+title: "トム・バンクス"
 name_en: "Tom BANKS"
-name_ja: "Tom BANKS"
+name_ja: "トム・バンクス"
 slug: "thomas-banks"
 position: "FB"
 height: "186"

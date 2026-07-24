@@ -1,7 +1,7 @@
 ---
-title: "Bailey CUTTS"
+title: "ベイリー・カッツ"
 name_en: "Bailey CUTTS"
-name_ja: "Bailey CUTTS"
+name_ja: "ベイリー・カッツ"
 slug: "bailey-cutts"
 position: "CTB"
 height: "185"

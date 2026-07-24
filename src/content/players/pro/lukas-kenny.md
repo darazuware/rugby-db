@@ -1,7 +1,7 @@
 ---
-title: "Lukas KENNY"
+title: "ルーカス・ケニー"
 name_en: "Lukas KENNY"
-name_ja: "Lukas KENNY"
+name_ja: "ルーカス・ケニー"
 slug: "lukas-kenny"
 position: "Winger"
 height: "185"

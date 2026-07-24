@@ -1,7 +1,7 @@
 ---
-title: "Matthias HADDAD"
+title: "マティアス・アダッド"
 name_en: "Matthias HADDAD"
-name_ja: "Matthias HADDAD"
+name_ja: "マティアス・アダッド"
 slug: "matthias-haddad"
 position: "FL/NO8"
 height: "193"

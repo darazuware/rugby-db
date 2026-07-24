@@ -1,7 +1,7 @@
 ---
-title: "Edwin EDOGBO"
+title: "エドウィン・エドグボ"
 name_en: "Edwin EDOGBO"
-name_ja: "Edwin EDOGBO"
+name_ja: "エドウィン・エドグボ"
 slug: "edwin-edogbo"
 position: "LO"
 height: "196"

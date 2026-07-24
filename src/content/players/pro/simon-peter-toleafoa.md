@@ -1,7 +1,7 @@
 ---
-title: "Simon-Peter TOLEAFOA"
+title: "サイモン・ピーター・トレアフォア"
 name_en: "Simon-Peter TOLEAFOA"
-name_ja: "Simon-Peter TOLEAFOA"
+name_ja: "サイモン・ピーター・トレアフォア"
 slug: "simon-peter-toleafoa"
 position: "FB"
 height: "183"

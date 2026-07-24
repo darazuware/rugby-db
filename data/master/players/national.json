@@ -18999,51 +18999,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_itsuki-kamimura",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/itsuki-kamimura",
-    "scraped_at": "2026-07-23T23:46:07+09:00",
-    "name_en": "Itsuki KAMIMURA",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "itsuki-kamimura",
-    "position": "Scrum-half",
-    "team_id": "japan",
-    "league": "national",
-    "height_cm": 171,
-    "weight_kg": 73,
-    "birthdate": "2002-12-13",
-    "nationality": [],
-    "caps": {
-      "team": "Japan",
-      "count": 1,
-      "source_url": "https://all.rugby/player/itsuki-kamimura"
-    },
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Teikyo University",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Kobelco Kobe Steelers",
-        "from": 2025,
-        "to": 2026,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_iulian-hartig",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/iulian-hartig",
@@ -38646,45 +38601,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_ryunosuke-ito",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/ryunosuke-ito",
-    "scraped_at": "2026-07-23T23:46:19+09:00",
-    "name_en": "Ryunosuke ITO",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "ryunosuke-ito",
-    "position": "Fly-half",
-    "team_id": "japan",
-    "league": "national",
-    "height_cm": 177,
-    "weight_kg": 72,
-    "birthdate": "2004-11-20",
-    "nationality": [],
-    "caps": {
-      "team": "Japan",
-      "count": 3,
-      "source_url": "https://all.rugby/player/ryunosuke-ito"
-    },
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Meiji University",
-        "from": 2025,
-        "to": 2026,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_sacha-mngomezulu",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/sacha-mngomezulu",
@@ -41050,51 +40966,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_shinya-komura",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/shinya-komura",
-    "scraped_at": "2026-07-23T23:46:25+09:00",
-    "name_en": "Shinya KOMURA",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "shinya-komura",
-    "position": "Fly-half",
-    "team_id": "japan",
-    "league": "national",
-    "height_cm": 180,
-    "weight_kg": 91,
-    "birthdate": "2002-05-28",
-    "nationality": [],
-    "caps": {
-      "team": "Japan",
-      "count": 3,
-      "source_url": "https://all.rugby/player/shinya-komura"
-    },
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Teikyo University",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Toyota Verblitz",
-        "from": 2025,
-        "to": 2026,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_sho-furuhata",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/sho-furuhata",
@@ -41198,51 +41069,6 @@
       {
         "team": "Tokyo Sungoliath",
         "from": 2025,
-        "to": 2026,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_shunsuke-uenobo",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/shunsuke-uenobo",
-    "scraped_at": "2026-07-23T23:46:53+09:00",
-    "name_en": "Shunsuke UENOBO",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "shunsuke-uenobo",
-    "position": "Fullback",
-    "team_id": "japan",
-    "league": "national",
-    "height_cm": 180,
-    "weight_kg": 87,
-    "birthdate": "2003-09-29",
-    "nationality": [],
-    "caps": {
-      "team": "Japan",
-      "count": 1,
-      "source_url": "https://all.rugby/player/shunsuke-uenobo"
-    },
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Tenri University",
-        "from": 2026,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "Kobelco Kobe Steelers",
-        "from": 2026,
         "to": 2026,
         "source_url": null
       }
@@ -48182,45 +48008,6 @@
         "team": "Union Bordeaux-Bègles",
         "from": 2019,
         "to": 2026,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_yoshitaka-yazaki",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/yoshitaka-yazaki",
-    "scraped_at": "2026-07-23T23:46:59+09:00",
-    "name_en": "Yoshitaka YAZAKI",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "yoshitaka-yazaki",
-    "position": "Fullback",
-    "team_id": "japan",
-    "league": "national",
-    "height_cm": 180,
-    "weight_kg": 89,
-    "birthdate": "2004-05-12",
-    "nationality": [],
-    "caps": {
-      "team": "Japan",
-      "count": 12,
-      "source_url": "https://all.rugby/player/yoshitaka-yazaki"
-    },
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Waseda University",
-        "from": 2022,
-        "to": 2023,
         "source_url": null
       }
     ],

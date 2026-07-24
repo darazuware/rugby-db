@@ -1,7 +1,7 @@
 ---
-title: "Dylan KELLEHER-GRIFFITHS | Dylan KELLEHER GRIFFITHS"
+title: "Dylan KELLEHER-GRIFFITHS | ディラン・ケレハー=グリフィス"
 name_en: "Dylan KELLEHER-GRIFFITHS"
-name_ja: "Dylan KELLEHER GRIFFITHS"
+name_ja: "ディラン・ケレハー=グリフィス"
 slug: "dylan-kelleher-griffiths"
 position: "PR"
 height: "180"

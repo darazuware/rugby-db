@@ -1,7 +1,7 @@
 ---
-title: "Claudius WHEELER"
+title: "クラウディウス・ウィーラー"
 name_en: "Claudius WHEELER"
-name_ja: "Claudius WHEELER"
+name_ja: "クラウディウス・ウィーラー"
 slug: "claudius-wheeler"
 position: "Prop"
 height: ""

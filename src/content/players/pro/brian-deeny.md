@@ -1,7 +1,7 @@
 ---
-title: "Brian DEENY"
+title: "ブライアン・ディーニー"
 name_en: "Brian DEENY"
-name_ja: "Brian DEENY"
+name_ja: "ブライアン・ディーニー"
 slug: "brian-deeny"
 position: "LO"
 height: "200"

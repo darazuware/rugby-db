@@ -1,7 +1,7 @@
 ---
-title: "Tommy FREEMAN"
+title: "トミー・フリーマン"
 name_en: "Tommy FREEMAN"
-name_ja: "Tommy FREEMAN"
+name_ja: "トミー・フリーマン"
 slug: "tommy-freeman"
 position: "Fullback"
 height: ""

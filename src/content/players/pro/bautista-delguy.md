@@ -1,7 +1,7 @@
 ---
-title: "Bautista DELGUY"
+title: "バウティスタ・デルグイ"
 name_en: "Bautista DELGUY"
-name_ja: "Bautista DELGUY"
+name_ja: "バウティスタ・デルグイ"
 slug: "bautista-delguy"
 position: "WTB"
 height: "182"

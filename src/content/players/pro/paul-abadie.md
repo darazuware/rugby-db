@@ -1,7 +1,7 @@
 ---
-title: "Paul ABADIE"
+title: "ポール・アバディ"
 name_en: "Paul ABADIE"
-name_ja: "Paul ABADIE"
+name_ja: "ポール・アバディ"
 slug: "paul-abadie"
 position: "SH"
 height: "176"

@@ -1,7 +1,7 @@
 ---
-title: "Jeremy SINZELLE"
+title: "ジェレミー・サンゼル"
 name_en: "Jeremy SINZELLE"
-name_ja: "Jeremy SINZELLE"
+name_ja: "ジェレミー・サンゼル"
 slug: "jeremy-sinzelle"
 position: "CTB"
 height: "184"

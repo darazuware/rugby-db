@@ -1,7 +1,7 @@
 ---
-title: "Noe DELLA SCHIAVA"
+title: "ノエ・デラ・スキアヴァ"
 name_en: "Noe DELLA SCHIAVA"
-name_ja: "Noe DELLA SCHIAVA"
+name_ja: "ノエ・デラ・スキアヴァ"
 slug: "noe-della-schiava"
 position: "FL/NO8"
 height: "193"

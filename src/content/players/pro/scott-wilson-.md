@@ -1,7 +1,7 @@
 ---
-title: "Scott WILSON | スコット WILSON"
+title: "Scott WILSON | スコット・ウィルソン"
 name_en: "Scott WILSON"
-name_ja: "スコット WILSON"
+name_ja: "スコット・ウィルソン"
 slug: "scott-wilson-"
 position: "PR"
 height: "187"

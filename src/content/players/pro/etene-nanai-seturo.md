@@ -1,7 +1,7 @@
 ---
-title: "Etene NANAI-SETURO"
+title: "エテネ・ナナイ・セトゥロ"
 name_en: "Etene NANAI-SETURO"
-name_ja: "Etene NANAI-SETURO"
+name_ja: "エテネ・ナナイ・セトゥロ"
 slug: "etene-nanai-seturo"
 position: "FB"
 height: "183"

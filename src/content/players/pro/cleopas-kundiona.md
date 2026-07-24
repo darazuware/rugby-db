@@ -1,7 +1,7 @@
 ---
-title: "Cleopas KUNDIONA"
+title: "クレオパス・クンディオナ"
 name_en: "Cleopas KUNDIONA"
-name_ja: "Cleopas KUNDIONA"
+name_ja: "クレオパス・クンディオナ"
 slug: "cleopas-kundiona"
 position: "Prop"
 height: ""

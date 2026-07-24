@@ -1,7 +1,7 @@
 ---
-title: "George BOWER"
+title: "ジョージ・バウアー"
 name_en: "George BOWER"
-name_ja: "George BOWER"
+name_ja: "ジョージ・バウアー"
 slug: "george-bower"
 position: "PR"
 height: "186"

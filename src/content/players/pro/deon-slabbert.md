@@ -1,7 +1,7 @@
 ---
-title: "Deon SLABBERT"
+title: "デオン・スラバート"
 name_en: "Deon SLABBERT"
-name_ja: "Deon SLABBERT"
+name_ja: "デオン・スラバート"
 slug: "deon-slabbert"
 position: "LO"
 height: "200"

@@ -1,7 +1,7 @@
 ---
-title: "Alex COLES"
+title: "アレックス・コールズ"
 name_en: "Alex COLES"
-name_ja: "Alex COLES"
+name_ja: "アレックス・コールズ"
 slug: "alex-coles"
 position: "Lock"
 height: ""

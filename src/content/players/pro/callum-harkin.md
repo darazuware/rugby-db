@@ -1,7 +1,7 @@
 ---
-title: "Callum HARKIN"
+title: "カラム・ハーキン"
 name_en: "Callum HARKIN"
-name_ja: "Callum HARKIN"
+name_ja: "カラム・ハーキン"
 slug: "callum-harkin"
 position: "SO"
 height: "184"

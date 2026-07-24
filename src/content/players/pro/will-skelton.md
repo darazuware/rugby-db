@@ -1,7 +1,7 @@
 ---
-title: "Will SKELTON"
+title: "ウィル・スケルトン"
 name_en: "Will SKELTON"
-name_ja: "Will SKELTON"
+name_ja: "ウィル・スケルトン"
 slug: "will-skelton"
 position: "LO"
 height: "202"

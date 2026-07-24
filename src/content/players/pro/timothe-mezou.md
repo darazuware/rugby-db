@@ -1,7 +1,7 @@
 ---
-title: "Timothe MEZOU"
+title: "ティモテ・メズー"
 name_en: "Timothe MEZOU"
-name_ja: "Timothe MEZOU"
+name_ja: "ティモテ・メズー"
 slug: "timothe-mezou"
 position: "LO"
 height: "202"

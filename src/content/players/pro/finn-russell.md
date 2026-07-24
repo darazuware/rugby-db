@@ -1,7 +1,7 @@
 ---
-title: "Finn RUSSELL"
+title: "フィン・ラッセル"
 name_en: "Finn RUSSELL"
-name_ja: "Finn RUSSELL"
+name_ja: "フィン・ラッセル"
 slug: "finn-russell"
 position: "Fly-half"
 height: ""

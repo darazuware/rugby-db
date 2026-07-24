@@ -1,7 +1,7 @@
 ---
-title: "Diarmuid KILGALLEN"
+title: "ディアマッド・キルガレン"
 name_en: "Diarmuid KILGALLEN"
-name_ja: "Diarmuid KILGALLEN"
+name_ja: "ディアマッド・キルガレン"
 slug: "diarmuid-kilgallen"
 position: "Winger"
 height: "193"

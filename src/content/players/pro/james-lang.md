@@ -1,7 +1,7 @@
 ---
-title: "James LANG"
+title: "ジェームズ・ラング"
 name_en: "James LANG"
-name_ja: "James LANG"
+name_ja: "ジェームズ・ラング"
 slug: "james-lang"
 position: "SO"
 height: "183"

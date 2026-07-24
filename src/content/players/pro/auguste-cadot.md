@@ -1,7 +1,7 @@
 ---
-title: "Auguste CADOT"
+title: "オギュスト・カド"
 name_en: "Auguste CADOT"
-name_ja: "Auguste CADOT"
+name_ja: "オギュスト・カド"
 slug: "auguste-cadot"
 position: "CTB"
 height: "181"

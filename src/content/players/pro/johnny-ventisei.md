@@ -1,7 +1,7 @@
 ---
-title: "Johnny VENTISEI"
+title: "ジョニー・ヴェンティセイ"
 name_en: "Johnny VENTISEI"
-name_ja: "Johnny VENTISEI"
+name_ja: "ジョニー・ヴェンティセイ"
 slug: "johnny-ventisei"
 position: "CTB"
 height: "181"

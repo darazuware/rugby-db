@@ -1,7 +1,7 @@
 ---
-title: "Ethan MCILROY"
+title: "イーサン・マックイルロイ"
 name_en: "Ethan MCILROY"
-name_ja: "Ethan MCILROY"
+name_ja: "イーサン・マックイルロイ"
 slug: "ethan-mcilroy"
 position: "FB"
 height: "188"

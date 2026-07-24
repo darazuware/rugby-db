@@ -1,7 +1,7 @@
 ---
-title: "Marin BOULIER"
+title: "マラン・ブリエ"
 name_en: "Marin BOULIER"
-name_ja: "Marin BOULIER"
+name_ja: "マラン・ブリエ"
 slug: "marin-boulier"
 position: "CTB"
 height: "180"

@@ -1,7 +1,7 @@
 ---
-title: "Francis SAILI"
+title: "フランシス・サイリ"
 name_en: "Francis SAILI"
-name_ja: "Francis SAILI"
+name_ja: "フランシス・サイリ"
 slug: "francis-saili"
 position: "CTB"
 height: "180"

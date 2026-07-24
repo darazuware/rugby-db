@@ -1,7 +1,7 @@
 ---
-title: "Ceano EVERSON"
+title: "セアーノ・エヴァーソン"
 name_en: "Ceano EVERSON"
-name_ja: "Ceano EVERSON"
+name_ja: "セアーノ・エヴァーソン"
 slug: "ceano-everson"
 position: "SH"
 height: "169"

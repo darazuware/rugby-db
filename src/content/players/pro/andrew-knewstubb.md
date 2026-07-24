@@ -1,7 +1,7 @@
 ---
-title: "Andrew KNEWSTUBB"
+title: "アンドリュー・ニュースタブ"
 name_en: "Andrew KNEWSTUBB"
-name_ja: "Andrew KNEWSTUBB"
+name_ja: "アンドリュー・ニュースタブ"
 slug: "andrew-knewstubb"
 position: "FB"
 height: "188"

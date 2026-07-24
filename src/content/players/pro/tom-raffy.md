@@ -1,7 +1,7 @@
 ---
-title: "Tom RAFFY"
+title: "トム・ラフィー"
 name_en: "Tom RAFFY"
-name_ja: "Tom RAFFY"
+name_ja: "トム・ラフィー"
 slug: "tom-raffy"
 position: "SO"
 height: "182"

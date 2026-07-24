@@ -1,7 +1,7 @@
 ---
-title: "Henry MOUNTFORD"
+title: "ヘンリー・マウントフォード"
 name_en: "Henry MOUNTFORD"
-name_ja: "Henry MOUNTFORD"
+name_ja: "ヘンリー・マウントフォード"
 slug: "henry-mountford"
 position: "Prop"
 height: ""

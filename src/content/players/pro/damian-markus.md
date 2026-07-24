@@ -1,7 +1,7 @@
 ---
-title: "Damian MARKUS | ダミアン MARKUS"
+title: "Damian MARKUS | デイミアン・マーカス"
 name_en: "Damian MARKUS"
-name_ja: "ダミアン MARKUS"
+name_ja: "デイミアン・マーカス"
 slug: "damian-markus"
 position: "CTB"
 height: "167"

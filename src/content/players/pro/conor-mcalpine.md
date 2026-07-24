@@ -1,7 +1,7 @@
 ---
-title: "Conor MCALPINE"
+title: "コナー・マカルパイン"
 name_en: "Conor MCALPINE"
-name_ja: "Conor MCALPINE"
+name_ja: "コナー・マカルパイン"
 slug: "conor-mcalpine"
 position: "SH"
 height: "174"

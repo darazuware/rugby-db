@@ -1,7 +1,7 @@
 ---
-title: "Bastien CHALUREAU"
+title: "バスティアン・シャルロー"
 name_en: "Bastien CHALUREAU"
-name_ja: "Bastien CHALUREAU"
+name_ja: "バスティアン・シャルロー"
 slug: "bastien-chalureau"
 position: "LO"
 height: "202"

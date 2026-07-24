@@ -1,7 +1,7 @@
 ---
-title: "Dave CHERRY"
+title: "デイヴ・チェリー"
 name_en: "Dave CHERRY"
-name_ja: "Dave CHERRY"
+name_ja: "デイヴ・チェリー"
 slug: "dave-cherry"
 position: "HO"
 height: "183"

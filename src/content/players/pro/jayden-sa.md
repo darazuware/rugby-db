@@ -1,7 +1,7 @@
 ---
-title: "Jayden SA"
+title: "ジェイデン・サ"
 name_en: "Jayden SA"
-name_ja: "Jayden SA"
+name_ja: "ジェイデン・サ"
 slug: "jayden-sa"
 position: "LO"
 height: "196"

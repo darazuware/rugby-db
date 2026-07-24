@@ -1,7 +1,7 @@
 ---
-title: "Dan LIENERT-BROWN"
+title: "ダン・リーナート・ブラウン"
 name_en: "Dan LIENERT-BROWN"
-name_ja: "Dan LIENERT-BROWN"
+name_ja: "ダン・リーナート・ブラウン"
 slug: "dan-lienert-brown"
 position: "PR"
 height: "184"

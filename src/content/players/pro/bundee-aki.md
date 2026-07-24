@@ -1,7 +1,7 @@
 ---
-title: "Bundee AKI | バンディ AKI"
+title: "Bundee AKI | バンディー・アキ"
 name_en: "Bundee AKI"
-name_ja: "バンディ AKI"
+name_ja: "バンディー・アキ"
 slug: "bundee-aki"
 position: "CTB"
 height: "178"

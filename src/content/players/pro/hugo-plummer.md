@@ -1,7 +1,7 @@
 ---
-title: "Hugo PLUMMER"
+title: "ヒューゴ・プラマー"
 name_en: "Hugo PLUMMER"
-name_ja: "Hugo PLUMMER"
+name_ja: "ヒューゴ・プラマー"
 slug: "hugo-plummer"
 position: "LO"
 height: "198"

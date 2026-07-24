@@ -1,7 +1,7 @@
 ---
-title: "Tom SAVAGE"
+title: "トム・サベージ"
 name_en: "Tom SAVAGE"
-name_ja: "Tom SAVAGE"
+name_ja: "トム・サベージ"
 slug: "tom-savage"
 position: "LO"
 height: "198"

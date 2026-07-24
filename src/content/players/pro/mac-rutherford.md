@@ -1,7 +1,7 @@
 ---
-title: "Mac RUTHERFORD"
+title: "マック・ラザフォード"
 name_en: "Mac RUTHERFORD"
-name_ja: "Mac RUTHERFORD"
+name_ja: "マック・ラザフォード"
 slug: "mac-rutherford"
 position: "LO"
 height: ""

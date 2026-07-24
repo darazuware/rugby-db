@@ -1,7 +1,7 @@
 ---
-title: "Lukas AMATI"
+title: "ルカ・アマティ"
 name_en: "Lukas AMATI"
-name_ja: "Lukas AMATI"
+name_ja: "ルカ・アマティ"
 slug: "lukas-amati"
 position: "Centre"
 height: ""

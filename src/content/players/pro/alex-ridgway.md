@@ -1,7 +1,7 @@
 ---
-title: "Alex RIDGWAY"
+title: "アレックス・リッジウェイ"
 name_en: "Alex RIDGWAY"
-name_ja: "Alex RIDGWAY"
+name_ja: "アレックス・リッジウェイ"
 slug: "alex-ridgway"
 position: "Back row"
 height: ""

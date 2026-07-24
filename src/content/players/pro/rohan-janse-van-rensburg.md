@@ -1,7 +1,7 @@
 ---
-title: "Rohan JANSE VAN RENSBURG"
+title: "ローアン・ヤンス・ファン・レンスブルグ"
 name_en: "Rohan JANSE VAN RENSBURG"
-name_ja: "Rohan JANSE VAN RENSBURG"
+name_ja: "ローアン・ヤンス・ファン・レンスブルグ"
 slug: "rohan-janse-van-rensburg"
 position: "CTB"
 height: "185"

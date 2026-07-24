@@ -1,7 +1,7 @@
 ---
-title: "Killian BONDI"
+title: "キリアン・ボンディ"
 name_en: "Killian BONDI"
-name_ja: "Killian BONDI"
+name_ja: "キリアン・ボンディ"
 slug: "killian-bondi"
 position: "Centre"
 height: ""

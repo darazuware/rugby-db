@@ -1,7 +1,7 @@
 ---
-title: "Paul BOUDEHENT"
+title: "ポール・ブドアン"
 name_en: "Paul BOUDEHENT"
-name_ja: "Paul BOUDEHENT"
+name_ja: "ポール・ブドアン"
 slug: "paul-boudehent"
 position: "FL/NO8"
 height: "192"

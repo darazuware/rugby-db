@@ -1,7 +1,7 @@
 ---
-title: "Joe LAFARGE"
+title: "ジョー・ラファルジュ"
 name_en: "Joe LAFARGE"
-name_ja: "Joe LAFARGE"
+name_ja: "ジョー・ラファルジュ"
 slug: "joe-lafarge"
 position: "Prop"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Zarn SULLIVAN"
+title: "ザーン・サリバン"
 name_en: "Zarn SULLIVAN"
-name_ja: "Zarn SULLIVAN"
+name_ja: "ザーン・サリバン"
 slug: "zarn-sullivan"
 position: "FB"
 height: "193"

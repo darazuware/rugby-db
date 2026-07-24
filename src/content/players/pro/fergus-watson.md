@@ -1,7 +1,7 @@
 ---
-title: "Fergus WATSON"
+title: "ファーガス・ワトソン"
 name_en: "Fergus WATSON"
-name_ja: "Fergus WATSON"
+name_ja: "ファーガス・ワトソン"
 slug: "fergus-watson"
 position: "FB"
 height: "192"

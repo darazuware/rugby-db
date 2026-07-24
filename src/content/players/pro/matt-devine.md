@@ -1,7 +1,7 @@
 ---
-title: "Matt DEVINE"
+title: "マット・ディヴァイン"
 name_en: "Matt DEVINE"
-name_ja: "Matt DEVINE"
+name_ja: "マット・ディヴァイン"
 slug: "matt-devine"
 position: "SH"
 height: "180"

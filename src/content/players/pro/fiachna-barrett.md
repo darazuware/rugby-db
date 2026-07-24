@@ -1,7 +1,7 @@
 ---
-title: "Fiachna BARRETT"
+title: "フィアクナ・バレット"
 name_en: "Fiachna BARRETT"
-name_ja: "Fiachna BARRETT"
+name_ja: "フィアクナ・バレット"
 slug: "fiachna-barrett"
 position: "PR"
 height: "193"

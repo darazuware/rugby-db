@@ -1,7 +1,7 @@
 ---
-title: "Andrew KELLAWAY"
+title: "アンドリュー・ケラウェイ"
 name_en: "Andrew KELLAWAY"
-name_ja: "Andrew KELLAWAY"
+name_ja: "アンドリュー・ケラウェイ"
 slug: "andrew-kellaway"
 position: "WTB"
 height: "183"

@@ -1,7 +1,7 @@
 ---
-title: "Gabin VILLIERE"
+title: "ガバン・ヴィリエール"
 name_en: "Gabin VILLIERE"
-name_ja: "Gabin VILLIERE"
+name_ja: "ガバン・ヴィリエール"
 slug: "gabin-villiere"
 position: "WTB"
 height: "180"

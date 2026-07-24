@@ -1,7 +1,7 @@
 ---
-title: "Hamza KAABECHE"
+title: "アムザ・カアベシュ"
 name_en: "Hamza KAABECHE"
-name_ja: "Hamza KAABECHE"
+name_ja: "アムザ・カアベシュ"
 slug: "hamza-kaabeche"
 position: "PR"
 height: "189"

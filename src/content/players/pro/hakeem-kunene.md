@@ -1,7 +1,7 @@
 ---
-title: "Hakeem KUNENE"
+title: "ハキーム・クネネ"
 name_en: "Hakeem KUNENE"
-name_ja: "Hakeem KUNENE"
+name_ja: "ハキーム・クネネ"
 slug: "hakeem-kunene"
 position: "FB"
 height: "183"

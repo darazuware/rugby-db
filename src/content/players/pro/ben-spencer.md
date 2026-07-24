@@ -1,7 +1,7 @@
 ---
-title: "Ben SPENCER"
+title: "ベン・スペンサー"
 name_en: "Ben SPENCER"
-name_ja: "Ben SPENCER"
+name_ja: "ベン・スペンサー"
 slug: "ben-spencer"
 position: "Scrum-half"
 height: ""

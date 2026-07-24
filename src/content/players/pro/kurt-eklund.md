@@ -1,7 +1,7 @@
 ---
-title: "Kurt EKLUND"
+title: "カート・エクルンド"
 name_en: "Kurt EKLUND"
-name_ja: "Kurt EKLUND"
+name_ja: "カート・エクルンド"
 slug: "kurt-eklund"
 position: "HO"
 height: "180"

@@ -1,7 +1,7 @@
 ---
-title: "Mako VUNIPOLA"
+title: "マコ・ヴノポーラ"
 name_en: "Mako VUNIPOLA"
-name_ja: "Mako VUNIPOLA"
+name_ja: "マコ・ヴノポーラ"
 slug: "mako-vunipola"
 position: "PR"
 height: "180"

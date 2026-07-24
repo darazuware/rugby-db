@@ -1,7 +1,7 @@
 ---
-title: "Tadhg FURLONG | タイグ FURLONG"
+title: "Tadhg FURLONG | タドグ・ファーロング"
 name_en: "Tadhg FURLONG"
-name_ja: "タイグ FURLONG"
+name_ja: "タドグ・ファーロング"
 slug: "tadhg-furlong"
 position: "PR"
 height: "183"

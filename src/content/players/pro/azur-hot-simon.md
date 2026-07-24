@@ -1,7 +1,7 @@
 ---
-title: "Azur HOT-SIMON"
+title: "アズュール・オ=シモン"
 name_en: "Azur HOT-SIMON"
-name_ja: "Azur HOT-SIMON"
+name_ja: "アズュール・オ=シモン"
 slug: "azur-hot-simon"
 position: "Back row"
 height: ""

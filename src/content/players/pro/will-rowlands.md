@@ -1,7 +1,7 @@
 ---
-title: "Will ROWLANDS"
+title: "ウィル・ローランズ"
 name_en: "Will ROWLANDS"
-name_ja: "Will ROWLANDS"
+name_ja: "ウィル・ローランズ"
 slug: "will-rowlands"
 position: "LO"
 height: "202"

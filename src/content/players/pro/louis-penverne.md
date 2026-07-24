@@ -1,7 +1,7 @@
 ---
-title: "Louis PENVERNE"
+title: "ルイ・パンヴェルヌ"
 name_en: "Louis PENVERNE"
-name_ja: "Louis PENVERNE"
+name_ja: "ルイ・パンヴェルヌ"
 slug: "louis-penverne"
 position: "PR"
 height: "187"

@@ -1,7 +1,7 @@
 ---
-title: "Bryce CALVERT"
+title: "ブライス・カルバート"
 name_en: "Bryce CALVERT"
-name_ja: "Bryce CALVERT"
+name_ja: "ブライス・カルバート"
 slug: "bryce-calvert"
 position: "HO"
 height: "180"

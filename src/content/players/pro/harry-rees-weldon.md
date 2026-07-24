@@ -1,7 +1,7 @@
 ---
-title: "Harry REES-WELDON | Harry REES WELDON"
+title: "Harry REES-WELDON | ハリー・リース=ウェルドン"
 name_en: "Harry REES-WELDON"
-name_ja: "Harry REES WELDON"
+name_ja: "ハリー・リース=ウェルドン"
 slug: "harry-rees-weldon"
 position: "Winger"
 height: "186"

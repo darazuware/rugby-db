@@ -1,7 +1,7 @@
 ---
-title: "Ethan DOBBINS"
+title: "イーサン・ドビンズ"
 name_en: "Ethan DOBBINS"
-name_ja: "Ethan DOBBINS"
+name_ja: "イーサン・ドビンズ"
 slug: "ethan-dobbins"
 position: "HO"
 height: "181"

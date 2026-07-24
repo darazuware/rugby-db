@@ -1,7 +1,7 @@
 ---
-title: "Alex SAMUEL"
+title: "アレックス・サミュエル"
 name_en: "Alex SAMUEL"
-name_ja: "Alex SAMUEL"
+name_ja: "アレックス・サミュエル"
 slug: "alex-samuel"
 position: "LO"
 height: "206"

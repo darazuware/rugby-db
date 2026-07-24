@@ -1,7 +1,7 @@
 ---
-title: "Archie BENSON"
+title: "アーチー・ベンソン"
 name_en: "Archie BENSON"
-name_ja: "Archie BENSON"
+name_ja: "アーチー・ベンソン"
 slug: "archie-benson"
 position: "Back row"
 height: ""

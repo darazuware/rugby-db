@@ -1,7 +1,7 @@
 ---
-title: "Josh BEEHRE"
+title: "ジョシュ・ビーア"
 name_en: "Josh BEEHRE"
-name_ja: "Josh BEEHRE"
+name_ja: "ジョシュ・ビーア"
 slug: "josh-beehre"
 position: "LO"
 height: "198"

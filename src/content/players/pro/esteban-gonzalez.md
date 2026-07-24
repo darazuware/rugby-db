@@ -1,7 +1,7 @@
 ---
-title: "Esteban GONZALEZ"
+title: "エステバン・ゴンザレス"
 name_en: "Esteban GONZALEZ"
-name_ja: "Esteban GONZALEZ"
+name_ja: "エステバン・ゴンザレス"
 slug: "esteban-gonzalez"
 position: "SH"
 height: "177"

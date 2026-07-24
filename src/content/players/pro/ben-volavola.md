@@ -1,7 +1,7 @@
 ---
-title: "Ben VOLAVOLA"
+title: "ベン・ヴォラヴォラ"
 name_en: "Ben VOLAVOLA"
-name_ja: "Ben VOLAVOLA"
+name_ja: "ベン・ヴォラヴォラ"
 slug: "ben-volavola"
 position: "SO"
 height: "191"

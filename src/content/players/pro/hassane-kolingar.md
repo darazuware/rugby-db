@@ -1,7 +1,7 @@
 ---
-title: "Hassane KOLINGAR"
+title: "アサン・コリンガール"
 name_en: "Hassane KOLINGAR"
-name_ja: "Hassane KOLINGAR"
+name_ja: "アサン・コリンガール"
 slug: "hassane-kolingar"
 position: "PR"
 height: "186"

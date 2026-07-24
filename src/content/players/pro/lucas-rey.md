@@ -1,7 +1,7 @@
 ---
-title: "Lucas REY"
+title: "リュカ・レイ"
 name_en: "Lucas REY"
-name_ja: "Lucas REY"
+name_ja: "リュカ・レイ"
 slug: "lucas-rey"
 position: "HO"
 height: "175"

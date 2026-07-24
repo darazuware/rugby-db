@@ -1,7 +1,7 @@
 ---
-title: "Craig WRIGHT"
+title: "クレイグ・ライト"
 name_en: "Craig WRIGHT"
-name_ja: "Craig WRIGHT"
+name_ja: "クレイグ・ライト"
 slug: "craig-wright"
 position: "Hooker"
 height: ""

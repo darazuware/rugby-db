@@ -1,7 +1,7 @@
 ---
-title: "Gerhard STEENEKAMP"
+title: "ゲルハルト・スティーネカンプ"
 name_en: "Gerhard STEENEKAMP"
-name_ja: "Gerhard STEENEKAMP"
+name_ja: "ゲルハルト・スティーネカンプ"
 slug: "gerhard-steenekamp"
 position: "PR"
 height: "191"

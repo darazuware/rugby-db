@@ -1,7 +1,7 @@
 ---
-title: "Jiuta WAINIQOLO"
+title: "ジウタ・ワイニコロ"
 name_en: "Jiuta WAINIQOLO"
-name_ja: "Jiuta WAINIQOLO"
+name_ja: "ジウタ・ワイニコロ"
 slug: "jiuta-wainiqolo"
 position: "WTB"
 height: "187"

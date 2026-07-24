@@ -1,7 +1,7 @@
 ---
-title: "Riley HIGGINS"
+title: "ライリー・ヒギンズ"
 name_en: "Riley HIGGINS"
-name_ja: "Riley HIGGINS"
+name_ja: "ライリー・ヒギンズ"
 slug: "riley-higgins"
 position: "CTB"
 height: "187"

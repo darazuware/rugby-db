@@ -1,7 +1,7 @@
 ---
-title: "Fintan GUNNE"
+title: "フィンタン・ガン"
 name_en: "Fintan GUNNE"
-name_ja: "Fintan GUNNE"
+name_ja: "フィンタン・ガン"
 slug: "fintan-gunne"
 position: "SH"
 height: "175"

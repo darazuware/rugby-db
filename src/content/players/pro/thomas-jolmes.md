@@ -1,7 +1,7 @@
 ---
-title: "Thomas JOLMES"
+title: "トマ・ジョルメ"
 name_en: "Thomas JOLMES"
-name_ja: "Thomas JOLMES"
+name_ja: "トマ・ジョルメ"
 slug: "thomas-jolmes"
 position: "LO"
 height: "204"

@@ -1,7 +1,7 @@
 ---
-title: "Bruce DEVAUX"
+title: "ブリュス・ドヴォー"
 name_en: "Bruce DEVAUX"
-name_ja: "Bruce DEVAUX"
+name_ja: "ブリュス・ドヴォー"
 slug: "bruce-devaux"
 position: "PR"
 height: "183"

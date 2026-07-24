@@ -1,7 +1,7 @@
 ---
-title: "Isaac HENRY"
+title: "アイザック・ヘンリー"
 name_en: "Isaac HENRY"
-name_ja: "Isaac HENRY"
+name_ja: "アイザック・ヘンリー"
 slug: "isaac-henry"
 position: "SO"
 height: "183"

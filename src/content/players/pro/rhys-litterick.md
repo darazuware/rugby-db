@@ -1,7 +1,7 @@
 ---
-title: "Rhys LITTERICK"
+title: "リース・リタリック"
 name_en: "Rhys LITTERICK"
-name_ja: "Rhys LITTERICK"
+name_ja: "リース・リタリック"
 slug: "rhys-litterick"
 position: "PR"
 height: "179"

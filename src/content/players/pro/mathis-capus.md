@@ -1,7 +1,7 @@
 ---
-title: "Mathis CAPUS"
+title: "マティス・カピュス"
 name_en: "Mathis CAPUS"
-name_ja: "Mathis CAPUS"
+name_ja: "マティス・カピュス"
 slug: "mathis-capus"
 position: "Fullback"
 height: ""

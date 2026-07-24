@@ -1,7 +1,7 @@
 ---
-title: "Aleix RIBERA"
+title: "アレイシュ・リベラ"
 name_en: "Aleix RIBERA"
-name_ja: "Aleix RIBERA"
+name_ja: "アレイシュ・リベラ"
 slug: "aleix-ribera"
 position: "Lock"
 height: ""

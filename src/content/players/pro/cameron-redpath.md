@@ -1,7 +1,7 @@
 ---
-title: "Cameron REDPATH"
+title: "キャメロン・レッドパス"
 name_en: "Cameron REDPATH"
-name_ja: "Cameron REDPATH"
+name_ja: "キャメロン・レッドパス"
 slug: "cameron-redpath"
 position: "Centre"
 height: ""

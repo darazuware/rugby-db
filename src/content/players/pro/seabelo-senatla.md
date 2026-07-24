@@ -1,7 +1,7 @@
 ---
-title: "Seabelo SENATLA"
+title: "シアベロ・セナトラ"
 name_en: "Seabelo SENATLA"
-name_ja: "Seabelo SENATLA"
+name_ja: "シアベロ・セナトラ"
 slug: "seabelo-senatla"
 position: "Winger"
 height: "179"

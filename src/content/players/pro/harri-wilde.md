@@ -1,7 +1,7 @@
 ---
-title: "Harri WILDE"
+title: "ハリ・ワイルド"
 name_en: "Harri WILDE"
-name_ja: "Harri WILDE"
+name_ja: "ハリ・ワイルド"
 slug: "harri-wilde"
 position: "SO"
 height: "180"

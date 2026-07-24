@@ -1,7 +1,7 @@
 ---
-title: "Pierre COLONNA"
+title: "ピエール・コロンナ"
 name_en: "Pierre COLONNA"
-name_ja: "Pierre COLONNA"
+name_ja: "ピエール・コロンナ"
 slug: "pierre-colonna"
 position: "HO"
 height: "188"

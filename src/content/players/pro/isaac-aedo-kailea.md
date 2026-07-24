@@ -1,7 +1,7 @@
 ---
-title: "Isaac AEDO KAILEA"
+title: "アイザック・アエド・カイレア"
 name_en: "Isaac AEDO KAILEA"
-name_ja: "Isaac AEDO KAILEA"
+name_ja: "アイザック・アエド・カイレア"
 slug: "isaac-aedo-kailea"
 position: "PR"
 height: "192"

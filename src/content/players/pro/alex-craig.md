@@ -1,7 +1,7 @@
 ---
-title: "Alex CRAIG"
+title: "アレックス・クレイグ"
 name_en: "Alex CRAIG"
-name_ja: "Alex CRAIG"
+name_ja: "アレックス・クレイグ"
 slug: "alex-craig"
 position: "LO"
 height: "198"

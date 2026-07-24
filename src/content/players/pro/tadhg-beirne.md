@@ -1,7 +1,7 @@
 ---
-title: "Tadhg BEIRNE | タイグ BEIRNE"
+title: "Tadhg BEIRNE | タドグ・バーン"
 name_en: "Tadhg BEIRNE"
-name_ja: "タイグ BEIRNE"
+name_ja: "タドグ・バーン"
 slug: "tadhg-beirne"
 position: "LO"
 height: "198"

@@ -1,7 +1,7 @@
 ---
-title: "Santiago ARATA"
+title: "サンティアゴ・アラタ"
 name_en: "Santiago ARATA"
-name_ja: "Santiago ARATA"
+name_ja: "サンティアゴ・アラタ"
 slug: "santiago-arata"
 position: "SH"
 height: "174"

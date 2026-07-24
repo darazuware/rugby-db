@@ -1,7 +1,7 @@
 ---
-title: "Cullen GRACE"
+title: "カレン・グレース"
 name_en: "Cullen GRACE"
-name_ja: "Cullen GRACE"
+name_ja: "カレン・グレース"
 slug: "cullen-grace"
 position: "LO"
 height: "193"

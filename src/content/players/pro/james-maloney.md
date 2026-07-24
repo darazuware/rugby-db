@@ -1,7 +1,7 @@
 ---
-title: "James MALONEY"
+title: "ジェームズ・マロニー"
 name_en: "James MALONEY"
-name_ja: "James MALONEY"
+name_ja: "ジェームズ・マロニー"
 slug: "james-maloney"
 position: "Back row"
 height: ""

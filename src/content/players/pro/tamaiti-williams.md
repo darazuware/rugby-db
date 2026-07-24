@@ -1,7 +1,7 @@
 ---
-title: "Tamaiti WILLIAMS"
+title: "タマイティ・ウィリアムズ"
 name_en: "Tamaiti WILLIAMS"
-name_ja: "Tamaiti WILLIAMS"
+name_ja: "タマイティ・ウィリアムズ"
 slug: "tamaiti-williams"
 position: "PR"
 height: "196"

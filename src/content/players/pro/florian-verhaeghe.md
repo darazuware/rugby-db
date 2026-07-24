@@ -1,7 +1,7 @@
 ---
-title: "Florian VERHAEGHE"
+title: "フロリアン・ヴェルエーゲ"
 name_en: "Florian VERHAEGHE"
-name_ja: "Florian VERHAEGHE"
+name_ja: "フロリアン・ヴェルエーゲ"
 slug: "florian-verhaeghe"
 position: "LO"
 height: "202"

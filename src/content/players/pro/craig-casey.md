@@ -1,7 +1,7 @@
 ---
-title: "Craig CASEY"
+title: "クレイグ・ケイシー"
 name_en: "Craig CASEY"
-name_ja: "Craig CASEY"
+name_ja: "クレイグ・ケイシー"
 slug: "craig-casey"
 position: "SH"
 height: "165"

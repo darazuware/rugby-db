@@ -1,7 +1,7 @@
 ---
-title: "Jack LEWIS"
+title: "ジャック・ルイス"
 name_en: "Jack LEWIS"
-name_ja: "Jack LEWIS"
+name_ja: "ジャック・ルイス"
 slug: "jack-lewis"
 position: "Back row"
 height: ""

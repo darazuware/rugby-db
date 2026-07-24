@@ -1,7 +1,7 @@
 ---
-title: "Daniel BOTHA"
+title: "ダニエル・ボサ"
 name_en: "Daniel BOTHA"
-name_ja: "Daniel BOTHA"
+name_ja: "ダニエル・ボサ"
 slug: "daniel-botha"
 position: "PR"
 height: "188"

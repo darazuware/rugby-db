@@ -1,7 +1,7 @@
 ---
-title: "Billy PASCO"
+title: "ビリー・パスコ"
 name_en: "Billy PASCO"
-name_ja: "Billy PASCO"
+name_ja: "ビリー・パスコ"
 slug: "billy-pasco"
 position: "Centre"
 height: ""

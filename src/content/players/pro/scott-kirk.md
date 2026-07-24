@@ -1,7 +1,7 @@
 ---
-title: "Scott KIRK"
+title: "スコット・カーク"
 name_en: "Scott KIRK"
-name_ja: "Scott KIRK"
+name_ja: "スコット・カーク"
 slug: "scott-kirk"
 position: "Prop"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Johnny LEE"
+title: "ジョニー・リー"
 name_en: "Johnny LEE"
-name_ja: "Johnny LEE"
+name_ja: "ジョニー・リー"
 slug: "johnny-lee"
 position: "Back row"
 height: ""

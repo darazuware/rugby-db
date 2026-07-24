@@ -1,7 +1,7 @@
 ---
-title: "Finlay BREWIS"
+title: "フィンレー・ブリューイス"
 name_en: "Finlay BREWIS"
-name_ja: "Finlay BREWIS"
+name_ja: "フィンレー・ブリューイス"
 slug: "finlay-brewis"
 position: "PR"
 height: "188"

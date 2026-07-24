@@ -1,7 +1,7 @@
 ---
-title: "David ODIASE | デイヴィッド ODIASE"
+title: "David ODIASE | デイヴィッド・オディアセ"
 name_en: "David ODIASE"
-name_ja: "デイヴィッド ODIASE"
+name_ja: "デイヴィッド・オディアセ"
 slug: "david-odiase"
 position: "Back row"
 height: "190"

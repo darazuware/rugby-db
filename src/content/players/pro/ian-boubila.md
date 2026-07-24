@@ -1,7 +1,7 @@
 ---
-title: "Ian BOUBILA"
+title: "イアン・ブビラ"
 name_en: "Ian BOUBILA"
-name_ja: "Ian BOUBILA"
+name_ja: "イアン・ブビラ"
 slug: "ian-boubila"
 position: "Hooker"
 height: ""

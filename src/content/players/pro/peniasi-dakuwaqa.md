@@ -1,7 +1,7 @@
 ---
-title: "Peniasi DAKUWAQA"
+title: "ペニアシ・ダクワカ"
 name_en: "Peniasi DAKUWAQA"
-name_ja: "Peniasi DAKUWAQA"
+name_ja: "ペニアシ・ダクワカ"
 slug: "peniasi-dakuwaqa"
 position: "WTB"
 height: "186"

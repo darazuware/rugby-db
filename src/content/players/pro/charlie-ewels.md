@@ -1,7 +1,7 @@
 ---
-title: "Charlie EWELS"
+title: "チャーリー・エウェルズ"
 name_en: "Charlie EWELS"
-name_ja: "Charlie EWELS"
+name_ja: "チャーリー・エウェルズ"
 slug: "charlie-ewels"
 position: "Lock"
 height: ""

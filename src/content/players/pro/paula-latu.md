@@ -1,7 +1,7 @@
 ---
-title: "Paula LATU"
+title: "パウラ・ラトゥ"
 name_en: "Paula LATU"
-name_ja: "Paula LATU"
+name_ja: "パウラ・ラトゥ"
 slug: "paula-latu"
 position: "PR"
 height: "187"

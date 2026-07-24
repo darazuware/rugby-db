@@ -1,7 +1,7 @@
 ---
-title: "Melvin WEVERS"
+title: "メルヴィン・ウェファーズ"
 name_en: "Melvin WEVERS"
-name_ja: "Melvin WEVERS"
+name_ja: "メルヴィン・ウェファーズ"
 slug: "melvin-wevers"
 position: "Hooker"
 height: ""

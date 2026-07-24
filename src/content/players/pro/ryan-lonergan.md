@@ -1,7 +1,7 @@
 ---
-title: "Ryan LONERGAN"
+title: "ライアン・ロナーガン"
 name_en: "Ryan LONERGAN"
-name_ja: "Ryan LONERGAN"
+name_ja: "ライアン・ロナーガン"
 slug: "ryan-lonergan"
 position: "SH"
 height: "184"

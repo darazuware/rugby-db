@@ -1,7 +1,7 @@
 ---
-title: "Taha KEMARA"
+title: "タハ・ケマラ"
 name_en: "Taha KEMARA"
-name_ja: "Taha KEMARA"
+name_ja: "タハ・ケマラ"
 slug: "taha-kemara"
 position: "SO"
 height: "179"

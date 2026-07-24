@@ -1,7 +1,7 @@
 ---
-title: "Dan FROST"
+title: "ダン・フロスト"
 name_en: "Dan FROST"
-name_ja: "Dan FROST"
+name_ja: "ダン・フロスト"
 slug: "dan-frost"
 position: "Hooker"
 height: ""

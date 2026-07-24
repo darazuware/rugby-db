@@ -1,7 +1,7 @@
 ---
-title: "Dylan HICKS"
+title: "ディラン・ヒックス"
 name_en: "Dylan HICKS"
-name_ja: "Dylan HICKS"
+name_ja: "ディラン・ヒックス"
 slug: "dylan-hicks"
 position: "SO"
 height: "185"

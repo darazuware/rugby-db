@@ -1,7 +1,7 @@
 ---
-title: "Raphael PORTAT"
+title: "ラファエル・ポルタ"
 name_en: "Raphael PORTAT"
-name_ja: "Raphael PORTAT"
+name_ja: "ラファエル・ポルタ"
 slug: "raphael-portat"
 position: "Lock"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Darrien LANDSBERG"
+title: "ダリエン・ランズバーグ"
 name_en: "Darrien LANDSBERG"
-name_ja: "Darrien LANDSBERG"
+name_ja: "ダリエン・ランズバーグ"
 slug: "darrien-lane-landsberg"
 position: "LO"
 height: "196"

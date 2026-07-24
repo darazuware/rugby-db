@@ -1,7 +1,7 @@
 ---
-title: "Tom ECOCHARD"
+title: "トム・エコシャール"
 name_en: "Tom ECOCHARD"
-name_ja: "Tom ECOCHARD"
+name_ja: "トム・エコシャール"
 slug: "tom-ecochard"
 position: "SH"
 height: "173"

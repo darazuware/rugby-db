@@ -1,7 +1,7 @@
 ---
-title: "Baptiste SERIN"
+title: "バプティスト・スラン"
 name_en: "Baptiste SERIN"
-name_ja: "Baptiste SERIN"
+name_ja: "バプティスト・スラン"
 slug: "baptiste-serin"
 position: "SH"
 height: "182"

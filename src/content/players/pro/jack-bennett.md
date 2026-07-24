@@ -1,7 +1,7 @@
 ---
-title: "Jack BENNETT"
+title: "ジャック・ベネット"
 name_en: "Jack BENNETT"
-name_ja: "Jack BENNETT"
+name_ja: "ジャック・ベネット"
 slug: "jack-bennett"
 position: "Lock"
 height: ""

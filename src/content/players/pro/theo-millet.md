@@ -1,7 +1,7 @@
 ---
-title: "Theo MILLET"
+title: "テオ・ミレ"
 name_en: "Theo MILLET"
-name_ja: "Theo MILLET"
+name_ja: "テオ・ミレ"
 slug: "theo-millet"
 position: "CTB"
 height: "189"

@@ -63,7 +63,6 @@ tags: ["Top14", "チーム紹介", "2025-26", "カストル"]
 | Louka GUILHOT | ルカ・ジュイヨ | フライハーフ |
 | Pierre POPELIN | ピエール・ポプラン | フライハーフ |
 | Adrea COCAGI | アンドレア・コカジ | センター |
-| Atu MANU | アトゥ・マヌ | センター |
 | Jack GOODHUE | ジャック・グッドヒュー | センター |
 | Vilimoni BOTITU | ヴィリモニ・ボティトゥ | センター |
 | Adam VARGAS | アダム・ヴァルガス | ウィング |

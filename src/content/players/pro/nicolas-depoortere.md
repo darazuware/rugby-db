@@ -1,7 +1,7 @@
 ---
-title: "Nicolas DEPOORTERE"
+title: "ニコラ・デポルテール"
 name_en: "Nicolas DEPOORTERE"
-name_ja: "Nicolas DEPOORTERE"
+name_ja: "ニコラ・デポルテール"
 slug: "nicolas-depoortere"
 position: "CTB"
 height: "194"

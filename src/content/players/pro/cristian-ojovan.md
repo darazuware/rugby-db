@@ -1,7 +1,7 @@
 ---
-title: "Cristian OJOVAN"
+title: "クリスティアン・オホバン"
 name_en: "Cristian OJOVAN"
-name_ja: "Cristian OJOVAN"
+name_ja: "クリスティアン・オホバン"
 slug: "cristian-ojovan"
 position: "PR"
 height: "183"

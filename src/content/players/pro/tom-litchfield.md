@@ -1,7 +1,7 @@
 ---
-title: "Tom LITCHFIELD"
+title: "トム・リッチフィールド"
 name_en: "Tom LITCHFIELD"
-name_ja: "Tom LITCHFIELD"
+name_ja: "トム・リッチフィールド"
 slug: "tom-litchfield"
 position: "Centre"
 height: ""

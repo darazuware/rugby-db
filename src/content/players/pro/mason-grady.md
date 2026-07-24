@@ -1,7 +1,7 @@
 ---
-title: "Mason GRADY"
+title: "メイソン・グレイディ"
 name_en: "Mason GRADY"
-name_ja: "Mason GRADY"
+name_ja: "メイソン・グレイディ"
 slug: "mason-grady"
 position: "CTB"
 height: "196"

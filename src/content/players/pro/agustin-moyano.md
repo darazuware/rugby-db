@@ -1,7 +1,7 @@
 ---
-title: "Agustin MOYANO"
+title: "アグスティン・モヤノ"
 name_en: "Agustin MOYANO"
-name_ja: "Agustin MOYANO"
+name_ja: "アグスティン・モヤノ"
 slug: "agustin-moyano"
 position: "SH"
 height: "173"

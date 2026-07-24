@@ -1,7 +1,7 @@
 ---
-title: "Mathis CAUBLOT"
+title: "マティス・コブロ"
 name_en: "Mathis CAUBLOT"
-name_ja: "Mathis CAUBLOT"
+name_ja: "マティス・コブロ"
 slug: "mathis-caublot"
 position: "Hooker"
 height: ""

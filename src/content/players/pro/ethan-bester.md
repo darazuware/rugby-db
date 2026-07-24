@@ -1,7 +1,7 @@
 ---
-title: "Ethan BESTER"
+title: "イーサン・ベスター"
 name_en: "Ethan BESTER"
-name_ja: "Ethan BESTER"
+name_ja: "イーサン・ベスター"
 slug: "ethan-bester"
 position: "HO"
 height: "187"

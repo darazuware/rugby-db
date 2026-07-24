@@ -1,7 +1,7 @@
 ---
-title: "Matt GALLAGHER"
+title: "マット・ギャラガー"
 name_en: "Matt GALLAGHER"
-name_ja: "Matt GALLAGHER"
+name_ja: "マット・ギャラガー"
 slug: "matt-gallagher"
 position: "FB"
 height: "185"

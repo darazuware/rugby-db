@@ -1,7 +1,7 @@
 ---
-title: "Baptiste COUILLOUD"
+title: "バプティスト・クイユー"
 name_en: "Baptiste COUILLOUD"
-name_ja: "Baptiste COUILLOUD"
+name_ja: "バプティスト・クイユー"
 slug: "baptiste-couilloud"
 position: "SH"
 height: "176"

@@ -1,7 +1,7 @@
 ---
-title: "Danilo FISCHETTI"
+title: "ダニーロ・フィスケッティ"
 name_en: "Danilo FISCHETTI"
-name_ja: "Danilo FISCHETTI"
+name_ja: "ダニーロ・フィスケッティ"
 slug: "danilo-fischetti"
 position: "Prop"
 height: ""

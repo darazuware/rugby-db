@@ -1,7 +1,7 @@
 ---
-title: "Angus BLYTH"
+title: "アンガス・ブライス"
 name_en: "Angus BLYTH"
-name_ja: "Angus BLYTH"
+name_ja: "アンガス・ブライス"
 slug: "angus-blyth"
 position: "LO"
 height: "204"

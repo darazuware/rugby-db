@@ -1,7 +1,7 @@
 ---
-title: "Daniel BIBI BIZIWU"
+title: "ダニエル・ビビ・ビジウ"
 name_en: "Daniel BIBI BIZIWU"
-name_ja: "Daniel BIBI BIZIWU"
+name_ja: "ダニエル・ビビ・ビジウ"
 slug: "daniel-bibi-biziwu"
 position: "PR"
 height: "183"

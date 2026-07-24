@@ -1,7 +1,7 @@
 ---
-title: "Manumaua LETIU"
+title: "マヌマウア・レティウ"
 name_en: "Manumaua LETIU"
-name_ja: "Manumaua LETIU"
+name_ja: "マヌマウア・レティウ"
 slug: "manumaua-letiu"
 position: "HO"
 height: "181"

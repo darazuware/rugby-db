@@ -1,7 +1,7 @@
 ---
-title: "Enzo BENMEGAL"
+title: "アンゾ・バンメガル"
 name_en: "Enzo BENMEGAL"
-name_ja: "Enzo BENMEGAL"
+name_ja: "アンゾ・バンメガル"
 slug: "enzo-benmegal"
 position: "WTB"
 height: "179"

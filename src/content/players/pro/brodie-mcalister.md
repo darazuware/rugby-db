@@ -1,7 +1,7 @@
 ---
-title: "Brodie MCALISTER"
+title: "ブロディ・マカリスター"
 name_en: "Brodie MCALISTER"
-name_ja: "Brodie MCALISTER"
+name_ja: "ブロディ・マカリスター"
 slug: "brodie-mcalister"
 position: "HO"
 height: "182"

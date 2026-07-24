@@ -1,7 +1,7 @@
 ---
-title: "Fabien SANCONNIE"
+title: "ファビアン・サンコニ"
 name_en: "Fabien SANCONNIE"
-name_ja: "Fabien SANCONNIE"
+name_ja: "ファビアン・サンコニ"
 slug: "fabien-sanconnie"
 position: "FL/NO8"
 height: "195"

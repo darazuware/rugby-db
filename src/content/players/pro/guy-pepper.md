@@ -1,7 +1,7 @@
 ---
-title: "Guy PEPPER"
+title: "ガイ・ペッパー"
 name_en: "Guy PEPPER"
-name_ja: "Guy PEPPER"
+name_ja: "ガイ・ペッパー"
 slug: "guy-pepper"
 position: "Back row"
 height: ""

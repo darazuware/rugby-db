@@ -1,7 +1,7 @@
 ---
-title: "Matheo FRISACH"
+title: "マテオ・フリザシュ"
 name_en: "Matheo FRISACH"
-name_ja: "Matheo FRISACH"
+name_ja: "マテオ・フリザシュ"
 slug: "matheo-frisach"
 position: "PR"
 height: "191"

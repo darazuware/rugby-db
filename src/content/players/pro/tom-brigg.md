@@ -1,7 +1,7 @@
 ---
-title: "Tom BRIGG | トム BRIGG"
+title: "Tom BRIGG | トム・ブリッグ"
 name_en: "Tom BRIGG"
-name_ja: "トム BRIGG"
+name_ja: "トム・ブリッグ"
 slug: "tom-brigg"
 position: "Back row"
 height: "189"

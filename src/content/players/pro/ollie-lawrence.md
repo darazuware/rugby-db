@@ -1,7 +1,7 @@
 ---
-title: "Ollie LAWRENCE"
+title: "オリー・ローレンス"
 name_en: "Ollie LAWRENCE"
-name_ja: "Ollie LAWRENCE"
+name_ja: "オリー・ローレンス"
 slug: "ollie-lawrence"
 position: "Centre"
 height: ""

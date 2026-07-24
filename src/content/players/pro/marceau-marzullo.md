@@ -1,7 +1,7 @@
 ---
-title: "Marceau MARZULLO"
+title: "マルソー・マルズッロ"
 name_en: "Marceau MARZULLO"
-name_ja: "Marceau MARZULLO"
+name_ja: "マルソー・マルズッロ"
 slug: "marceau-marzullo"
 position: "Back row"
 height: ""

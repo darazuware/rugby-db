@@ -1,7 +1,7 @@
 ---
-title: "Isaac HUTCHINSON"
+title: "アイザック・ハッチンソン"
 name_en: "Isaac HUTCHINSON"
-name_ja: "Isaac HUTCHINSON"
+name_ja: "アイザック・ハッチンソン"
 slug: "isaac-hutchinson"
 position: "FB"
 height: "180"

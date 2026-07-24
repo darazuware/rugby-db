@@ -1,7 +1,7 @@
 ---
-title: "Morgan LLOYD"
+title: "モルガン・ロイド"
 name_en: "Morgan LLOYD"
-name_ja: "Morgan LLOYD"
+name_ja: "モルガン・ロイド"
 slug: "morgan-lloyd"
 position: "SH"
 height: "175"

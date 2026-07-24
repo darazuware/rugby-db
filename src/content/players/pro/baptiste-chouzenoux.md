@@ -1,7 +1,7 @@
 ---
-title: "Baptiste CHOUZENOUX"
+title: "バプティスト・シューズヌー"
 name_en: "Baptiste CHOUZENOUX"
-name_ja: "Baptiste CHOUZENOUX"
+name_ja: "バプティスト・シューズヌー"
 slug: "baptiste-chouzenoux"
 position: "FL/NO8"
 height: "202"

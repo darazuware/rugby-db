@@ -1,7 +1,7 @@
 ---
-title: "Will STUART"
+title: "ウィル・スチュアート"
 name_en: "Will STUART"
-name_ja: "Will STUART"
+name_ja: "ウィル・スチュアート"
 slug: "will-stuart"
 position: "Prop"
 height: ""

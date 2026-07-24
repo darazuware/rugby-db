@@ -1,7 +1,7 @@
 ---
-title: "Gavin COOMBES"
+title: "ガヴィン・クームズ"
 name_en: "Gavin COOMBES"
-name_ja: "Gavin COOMBES"
+name_ja: "ガヴィン・クームズ"
 slug: "gavin-coombes"
 position: "Back row"
 height: "198"

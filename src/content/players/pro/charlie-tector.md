@@ -1,7 +1,7 @@
 ---
-title: "Charlie TECTOR"
+title: "チャーリー・テクター"
 name_en: "Charlie TECTOR"
-name_ja: "Charlie TECTOR"
+name_ja: "チャーリー・テクター"
 slug: "charlie-tector"
 position: "SO"
 height: "188"

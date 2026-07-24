@@ -1,7 +1,7 @@
 ---
-title: "Akato FAKATIKA"
+title: "アカト・ファカティカ"
 name_en: "Akato FAKATIKA"
-name_ja: "Akato FAKATIKA"
+name_ja: "アカト・ファカティカ"
 slug: "akato-fakatika"
 position: "PR"
 height: "180"

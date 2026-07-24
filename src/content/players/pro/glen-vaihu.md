@@ -1,7 +1,7 @@
 ---
-title: "Glen VAIHU"
+title: "グレン・バイフ"
 name_en: "Glen VAIHU"
-name_ja: "Glen VAIHU"
+name_ja: "グレン・バイフ"
 slug: "glen-vaihu"
 position: "WTB"
 height: "183"

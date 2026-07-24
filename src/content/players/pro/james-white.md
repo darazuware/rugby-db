@@ -1,7 +1,7 @@
 ---
-title: "James WHITE"
+title: "ジェームズ・ホワイト"
 name_en: "James WHITE"
-name_ja: "James WHITE"
+name_ja: "ジェームズ・ホワイト"
 slug: "james-white"
 position: "SO"
 height: "180"

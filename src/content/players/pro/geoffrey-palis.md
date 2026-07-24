@@ -1,7 +1,7 @@
 ---
-title: "Geoffrey PALIS"
+title: "ジョフロワ・パリス"
 name_en: "Geoffrey PALIS"
-name_ja: "Geoffrey PALIS"
+name_ja: "ジョフロワ・パリス"
 slug: "geoffrey-palis"
 position: "WTB"
 height: "189"

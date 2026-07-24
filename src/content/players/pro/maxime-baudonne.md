@@ -1,7 +1,7 @@
 ---
-title: "Maxime BAUDONNE"
+title: "マキシム・ボドンヌ"
 name_en: "Maxime BAUDONNE"
-name_ja: "Maxime BAUDONNE"
+name_ja: "マキシム・ボドンヌ"
 slug: "maxime-baudonne"
 position: "FL/NO8"
 height: "190"

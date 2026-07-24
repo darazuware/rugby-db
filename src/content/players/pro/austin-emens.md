@@ -1,7 +1,7 @@
 ---
-title: "Austin EMENS"
+title: "オースティン・エメンズ"
 name_en: "Austin EMENS"
-name_ja: "Austin EMENS"
+name_ja: "オースティン・エメンズ"
 slug: "austin-emens"
 position: "Fullback"
 height: ""

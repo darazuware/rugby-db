@@ -1,7 +1,7 @@
 ---
-title: "Aphelele FASSI"
+title: "アフェレレ・ファッシ"
 name_en: "Aphelele FASSI"
-name_ja: "Aphelele FASSI"
+name_ja: "アフェレレ・ファッシ"
 slug: "aphelele-fassi"
 position: "FB"
 height: "190"

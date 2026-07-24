@@ -1,7 +1,7 @@
 ---
-title: "Fraser DINGWALL"
+title: "フレイザー・ディンウォール"
 name_en: "Fraser DINGWALL"
-name_ja: "Fraser DINGWALL"
+name_ja: "フレイザー・ディンウォール"
 slug: "fraser-dingwall"
 position: "Centre"
 height: ""

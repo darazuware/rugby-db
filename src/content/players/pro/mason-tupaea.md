@@ -1,7 +1,7 @@
 ---
-title: "Mason TUPAEA"
+title: "メイソン・トゥパエア"
 name_en: "Mason TUPAEA"
-name_ja: "Mason TUPAEA"
+name_ja: "メイソン・トゥパエア"
 slug: "mason-tupaea"
 position: "PR"
 height: "188"

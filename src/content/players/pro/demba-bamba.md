@@ -1,7 +1,7 @@
 ---
-title: "Demba BAMBA"
+title: "デンバ・バンバ"
 name_en: "Demba BAMBA"
-name_ja: "Demba BAMBA"
+name_ja: "デンバ・バンバ"
 slug: "demba-bamba"
 position: "PR"
 height: "185"

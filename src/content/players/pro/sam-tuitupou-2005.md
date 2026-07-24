@@ -1,7 +1,7 @@
 ---
-title: "Sam TUITUPOU"
+title: "サム・トゥイトゥポウ"
 name_en: "Sam TUITUPOU"
-name_ja: "Sam TUITUPOU"
+name_ja: "サム・トゥイトゥポウ"
 slug: "sam-tuitupou-2005"
 position: "FL/No8"
 height: ""

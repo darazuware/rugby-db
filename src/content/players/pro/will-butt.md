@@ -1,7 +1,7 @@
 ---
-title: "Will BUTT"
+title: "ウィル・バット"
 name_en: "Will BUTT"
-name_ja: "Will BUTT"
+name_ja: "ウィル・バット"
 slug: "will-butt"
 position: "Centre"
 height: ""

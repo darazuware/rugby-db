@@ -1,7 +1,7 @@
 ---
-title: "Jared AFRICA"
+title: "ジャレッド・アフリカ"
 name_en: "Jared AFRICA"
-name_ja: "Jared AFRICA"
+name_ja: "ジャレッド・アフリカ"
 slug: "jared-africa"
 position: "Winger"
 height: "175"

@@ -1,7 +1,7 @@
 ---
-title: "Fraser MCREIGHT"
+title: "フレイザー・マクライト"
 name_en: "Fraser MCREIGHT"
-name_ja: "Fraser MCREIGHT"
+name_ja: "フレイザー・マクライト"
 slug: "fraser-mcreight"
 position: "FL/No8"
 height: "186"

@@ -1,7 +1,7 @@
 ---
-title: "Jordan MORRIS"
+title: "ジョーダン・モリス"
 name_en: "Jordan MORRIS"
-name_ja: "Jordan MORRIS"
+name_ja: "ジョーダン・モリス"
 slug: "jordan-morris"
 position: "PR"
 height: "185"

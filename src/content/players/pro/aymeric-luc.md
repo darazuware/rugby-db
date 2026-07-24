@@ -1,7 +1,7 @@
 ---
-title: "Aymeric LUC"
+title: "エミリック・リュック"
 name_en: "Aymeric LUC"
-name_ja: "Aymeric LUC"
+name_ja: "エミリック・リュック"
 slug: "aymeric-luc"
 position: "FB"
 height: "180"

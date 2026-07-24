@@ -1,7 +1,7 @@
 ---
-title: "Mesulame DOLOKOTO"
+title: "メスラメ・ドロコト"
 name_en: "Mesulame DOLOKOTO"
-name_ja: "Mesulame DOLOKOTO"
+name_ja: "メスラメ・ドロコト"
 slug: "mesulame-dolokoto"
 position: "HO"
 height: "177"

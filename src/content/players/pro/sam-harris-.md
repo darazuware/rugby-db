@@ -1,7 +1,7 @@
 ---
-title: "Sam HARRIS"
+title: "サム・ハリス"
 name_en: "Sam HARRIS"
-name_ja: "Sam HARRIS"
+name_ja: "サム・ハリス"
 slug: "sam-harris-"
 position: "Fullback"
 height: ""

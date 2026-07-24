@@ -1,7 +1,7 @@
 ---
-title: "Jasper SPANDLER"
+title: "ジャスパー・スパンドラー"
 name_en: "Jasper SPANDLER"
-name_ja: "Jasper SPANDLER"
+name_ja: "ジャスパー・スパンドラー"
 slug: "jasper-spandler"
 position: "Hooker"
 height: ""

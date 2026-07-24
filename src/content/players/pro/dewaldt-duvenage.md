@@ -1,7 +1,7 @@
 ---
-title: "Dewaldt DUVENAGE"
+title: "デウォルト・デュベナージ"
 name_en: "Dewaldt DUVENAGE"
-name_ja: "Dewaldt DUVENAGE"
+name_ja: "デウォルト・デュベナージ"
 slug: "dewaldt-duvenage"
 position: "SH"
 height: "175"

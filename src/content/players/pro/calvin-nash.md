@@ -1,7 +1,7 @@
 ---
-title: "Calvin NASH"
+title: "カルヴィン・ナッシュ"
 name_en: "Calvin NASH"
-name_ja: "Calvin NASH"
+name_ja: "カルヴィン・ナッシュ"
 slug: "calvin-nash"
 position: "Winger"
 height: "180"

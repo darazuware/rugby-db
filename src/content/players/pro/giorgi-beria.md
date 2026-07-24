@@ -1,7 +1,7 @@
 ---
-title: "Giorgi BERIA"
+title: "ジョルジ・ベリア"
 name_en: "Giorgi BERIA"
-name_ja: "Giorgi BERIA"
+name_ja: "ジョルジ・ベリア"
 slug: "giorgi-beria"
 position: "PR"
 height: "175"

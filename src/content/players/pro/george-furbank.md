@@ -1,7 +1,7 @@
 ---
-title: "George FURBANK"
+title: "ジョージ・ファーバンク"
 name_en: "George FURBANK"
-name_ja: "George FURBANK"
+name_ja: "ジョージ・ファーバンク"
 slug: "george-furbank"
 position: "Fullback"
 height: ""

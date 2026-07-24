@@ -1,7 +1,7 @@
 ---
-title: "Jonah LOWE"
+title: "ジョナ・ロウ"
 name_en: "Jonah LOWE"
-name_ja: "Jonah LOWE"
+name_ja: "ジョナ・ロウ"
 slug: "jonah-lowe"
 position: "WTB"
 height: "184"

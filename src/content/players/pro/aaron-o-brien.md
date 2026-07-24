@@ -1,7 +1,7 @@
 ---
-title: "Aaron O'BRIEN | アーロン O'BRIEN"
+title: "Aaron O'BRIEN | アーロン・オブライエン"
 name_en: "Aaron O'BRIEN"
-name_ja: "アーロン O'BRIEN"
+name_ja: "アーロン・オブライエン"
 slug: "aaron-o-brien"
 position: "Back row"
 height: ""

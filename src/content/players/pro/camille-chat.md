@@ -1,7 +1,7 @@
 ---
-title: "Camille CHAT"
+title: "カミーユ・シャ"
 name_en: "Camille CHAT"
-name_ja: "Camille CHAT"
+name_ja: "カミーユ・シャ"
 slug: "camille-chat"
 position: "HO"
 height: "178"

@@ -1,7 +1,7 @@
 ---
-title: "Callum HUNTER-HILL | Callum HUNTER HILL"
+title: "Callum HUNTER-HILL | カラム・ハンター=ヒル"
 name_en: "Callum HUNTER-HILL"
-name_ja: "Callum HUNTER HILL"
+name_ja: "カラム・ハンター=ヒル"
 slug: "callum-hunter-hill"
 position: "LO"
 height: "200"

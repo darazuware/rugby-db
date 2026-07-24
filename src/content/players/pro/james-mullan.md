@@ -1,7 +1,7 @@
 ---
-title: "James MULLAN"
+title: "ジェームズ・マラン"
 name_en: "James MULLAN"
-name_ja: "James MULLAN"
+name_ja: "ジェームズ・マラン"
 slug: "james-mullan"
 position: "HO"
 height: "188"

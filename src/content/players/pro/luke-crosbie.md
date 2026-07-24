@@ -1,7 +1,7 @@
 ---
-title: "Luke CROSBIE"
+title: "ルーク・クロスビー"
 name_en: "Luke CROSBIE"
-name_ja: "Luke CROSBIE"
+name_ja: "ルーク・クロスビー"
 slug: "luke-crosbie"
 position: "FL/No8"
 height: "196"

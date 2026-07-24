@@ -1,7 +1,7 @@
 ---
-title: "Matteo LE CORVEC"
+title: "マテオ・ル・コルヴェック"
 name_en: "Matteo LE CORVEC"
-name_ja: "Matteo LE CORVEC"
+name_ja: "マテオ・ル・コルヴェック"
 slug: "matteo-le-corvec"
 position: "FL/NO8"
 height: "192"

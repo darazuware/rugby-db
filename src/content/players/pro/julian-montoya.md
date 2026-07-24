@@ -1,7 +1,7 @@
 ---
-title: "Julian MONTOYA"
+title: "フリアン・モントヤ"
 name_en: "Julian MONTOYA"
-name_ja: "Julian MONTOYA"
+name_ja: "フリアン・モントヤ"
 slug: "julian-montoya"
 position: "HO"
 height: "183"

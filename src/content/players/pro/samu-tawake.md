@@ -1,7 +1,7 @@
 ---
-title: "Samu TAWAKE"
+title: "サム・タワケ"
 name_en: "Samu TAWAKE"
-name_ja: "Samu TAWAKE"
+name_ja: "サム・タワケ"
 slug: "samu-tawake"
 position: "PR"
 height: "183"

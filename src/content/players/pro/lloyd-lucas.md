@@ -1,7 +1,7 @@
 ---
-title: "Lloyd LUCAS"
+title: "ロイド・ルーカス"
 name_en: "Lloyd LUCAS"
-name_ja: "Lloyd LUCAS"
+name_ja: "ロイド・ルーカス"
 slug: "lloyd-lucas"
 position: "SO"
 height: "170"

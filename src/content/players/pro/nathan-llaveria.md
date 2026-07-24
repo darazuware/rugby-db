@@ -1,7 +1,7 @@
 ---
-title: "Nathan LLAVERIA"
+title: "ナタン・ラベリア"
 name_en: "Nathan LLAVERIA"
-name_ja: "Nathan LLAVERIA"
+name_ja: "ナタン・ラベリア"
 slug: "nathan-llaveria"
 position: "Scrum-half"
 height: ""

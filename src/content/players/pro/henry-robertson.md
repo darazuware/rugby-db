@@ -1,7 +1,7 @@
 ---
-title: "Henry ROBERTSON"
+title: "ヘンリー・ロバートソン"
 name_en: "Henry ROBERTSON"
-name_ja: "Henry ROBERTSON"
+name_ja: "ヘンリー・ロバートソン"
 slug: "henry-robertson"
 position: "SH"
 height: "180"

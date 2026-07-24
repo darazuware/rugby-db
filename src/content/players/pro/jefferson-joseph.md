@@ -1,7 +1,7 @@
 ---
-title: "Jefferson-Lee JOSEPH"
+title: "ジェファーソン＝リー・ジョゼフ"
 name_en: "Jefferson-Lee JOSEPH"
-name_ja: "Jefferson-Lee JOSEPH"
+name_ja: "ジェファーソン＝リー・ジョゼフ"
 slug: "jefferson-joseph"
 position: "WTB"
 height: "192"

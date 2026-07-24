@@ -1,7 +1,7 @@
 ---
-title: "Geronimo PRISCIANTELLI"
+title: "ジェロニモ・プリシアンテッリ"
 name_en: "Geronimo PRISCIANTELLI"
-name_ja: "Geronimo PRISCIANTELLI"
+name_ja: "ジェロニモ・プリシアンテッリ"
 slug: "geronimo-prisciantelli"
 position: "SO"
 height: "183"

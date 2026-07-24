@@ -1,7 +1,7 @@
 ---
-title: "Codie TAYLOR"
+title: "コーディ・テイラー"
 name_en: "Codie TAYLOR"
-name_ja: "Codie TAYLOR"
+name_ja: "コーディ・テイラー"
 slug: "codie-taylor"
 position: "HO"
 height: "183"

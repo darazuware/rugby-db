@@ -1,7 +1,7 @@
 ---
-title: "Fabrice METZ"
+title: "ファブリス・メッツ"
 name_en: "Fabrice METZ"
-name_ja: "Fabrice METZ"
+name_ja: "ファブリス・メッツ"
 slug: "fabrice-metz"
 position: "LO"
 height: "198"

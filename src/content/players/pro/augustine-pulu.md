@@ -1,7 +1,7 @@
 ---
-title: "Augustine PULU"
+title: "オーガスティン・プル"
 name_en: "Augustine PULU"
-name_ja: "Augustine PULU"
+name_ja: "オーガスティン・プル"
 slug: "augustine-pulu"
 position: "SH"
 height: "180"

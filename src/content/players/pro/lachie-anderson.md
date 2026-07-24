@@ -1,7 +1,7 @@
 ---
-title: "Lachie ANDERSON"
+title: "ラキー・アンダーソン"
 name_en: "Lachie ANDERSON"
-name_ja: "Lachie ANDERSON"
+name_ja: "ラキー・アンダーソン"
 slug: "lachie-anderson"
 position: "WTB"
 height: "188"

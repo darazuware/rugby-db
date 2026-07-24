@@ -1,7 +1,7 @@
 ---
-title: "Alvaro GARCIA"
+title: "アルバロ・ガルシア"
 name_en: "Alvaro GARCIA"
-name_ja: "Alvaro GARCIA"
+name_ja: "アルバロ・ガルシア"
 slug: "alvaro-garcia"
 position: "HO"
 height: "180"

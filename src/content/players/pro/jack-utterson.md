@@ -1,7 +1,7 @@
 ---
-title: "Jack UTTERSON"
+title: "ジャック・ウタースン"
 name_en: "Jack UTTERSON"
-name_ja: "Jack UTTERSON"
+name_ja: "ジャック・ウタースン"
 slug: "jack-utterson"
 position: "HO"
 height: ""

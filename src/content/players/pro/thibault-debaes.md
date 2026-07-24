@@ -1,7 +1,7 @@
 ---
-title: "Thibault DEBAES"
+title: "ティボー・ドゥバース"
 name_en: "Thibault DEBAES"
-name_ja: "Thibault DEBAES"
+name_ja: "ティボー・ドゥバース"
 slug: "thibault-debaes"
 position: "SO"
 height: "179"

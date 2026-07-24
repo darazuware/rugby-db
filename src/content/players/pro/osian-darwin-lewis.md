@@ -1,7 +1,7 @@
 ---
-title: "Osian DARWIN-LEWIS | Osian DARWIN LEWIS"
+title: "Osian DARWIN-LEWIS | オシアン・ダーウィン=ルイス"
 name_en: "Osian DARWIN-LEWIS"
-name_ja: "Osian DARWIN LEWIS"
+name_ja: "オシアン・ダーウィン=ルイス"
 slug: "osian-darwin-lewis"
 position: "CTB"
 height: "185"

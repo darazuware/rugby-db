@@ -1,7 +1,7 @@
 ---
-title: "Jacob BOYD"
+title: "ジェイコブ・ボイド"
 name_en: "Jacob BOYD"
-name_ja: "Jacob BOYD"
+name_ja: "ジェイコブ・ボイド"
 slug: "jacob-boyd"
 position: "PR"
 height: "186"

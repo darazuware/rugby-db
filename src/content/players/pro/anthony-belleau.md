@@ -1,7 +1,7 @@
 ---
-title: "Anthony BELLEAU"
+title: "アントワーヌ・ベロー"
 name_en: "Anthony BELLEAU"
-name_ja: "Anthony BELLEAU"
+name_ja: "アントワーヌ・ベロー"
 slug: "anthony-belleau"
 position: "Fly-half"
 height: ""

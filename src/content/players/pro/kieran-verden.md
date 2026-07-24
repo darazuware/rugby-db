@@ -1,7 +1,7 @@
 ---
-title: "Kieran VERDEN"
+title: "キーラン・ヴァーデン"
 name_en: "Kieran VERDEN"
-name_ja: "Kieran VERDEN"
+name_ja: "キーラン・ヴァーデン"
 slug: "kieran-verden"
 position: "Prop"
 height: ""

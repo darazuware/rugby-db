@@ -1,7 +1,7 @@
 ---
-title: "Ben HEALY | ベン HEALY"
+title: "Ben HEALY | ベン・ヒーリー"
 name_en: "Ben HEALY"
-name_ja: "ベン HEALY"
+name_ja: "ベン・ヒーリー"
 slug: "ben-healy"
 position: "SO"
 height: "191"

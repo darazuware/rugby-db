@@ -1,7 +1,7 @@
 ---
-title: "Antoine AUCAGNE"
+title: "アントワーヌ・オカーニュ"
 name_en: "Antoine AUCAGNE"
-name_ja: "Antoine AUCAGNE"
+name_ja: "アントワーヌ・オカーニュ"
 slug: "antoine-aucagne"
 position: "SO"
 height: "184"

@@ -1,7 +1,7 @@
 ---
-title: "Matt ROMAO"
+title: "マット・ロマオ"
 name_en: "Matt ROMAO"
-name_ja: "Matt ROMAO"
+name_ja: "マット・ロマオ"
 slug: "matt-romao"
 position: "Back row"
 height: "190"

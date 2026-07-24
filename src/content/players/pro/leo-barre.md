@@ -1,7 +1,7 @@
 ---
-title: "Leo BARRE"
+title: "レオ・バレ"
 name_en: "Leo BARRE"
-name_ja: "Leo BARRE"
+name_ja: "レオ・バレ"
 slug: "leo-barre"
 position: "FB"
 height: "189"

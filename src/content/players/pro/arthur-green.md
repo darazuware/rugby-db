@@ -1,7 +1,7 @@
 ---
-title: "Arthur GREEN"
+title: "アーサー・グリーン"
 name_en: "Arthur GREEN"
-name_ja: "Arthur GREEN"
+name_ja: "アーサー・グリーン"
 slug: "arthur-green"
 position: "Back row"
 height: ""

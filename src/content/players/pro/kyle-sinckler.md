@@ -1,7 +1,7 @@
 ---
-title: "Kyle SINCKLER"
+title: "カイル・シンクラー"
 name_en: "Kyle SINCKLER"
-name_ja: "Kyle SINCKLER"
+name_ja: "カイル・シンクラー"
 slug: "kyle-sinckler"
 position: "PR"
 height: "183"

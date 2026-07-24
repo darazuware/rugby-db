@@ -1,7 +1,7 @@
 ---
-title: "Sam DARRY"
+title: "サム・ダリー"
 name_en: "Sam DARRY"
-name_ja: "Sam DARRY"
+name_ja: "サム・ダリー"
 slug: "sam-darry"
 position: "LO"
 height: "202"

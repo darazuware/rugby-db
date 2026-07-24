@@ -1,7 +1,7 @@
 ---
-title: "Quinn ROUX"
+title: "クイン・ルー"
 name_en: "Quinn ROUX"
-name_ja: "Quinn ROUX"
+name_ja: "クイン・ルー"
 slug: "quinn-roux"
 position: "Lock"
 height: ""

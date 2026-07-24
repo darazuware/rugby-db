@@ -1,7 +1,7 @@
 ---
-title: "Angus BELL"
+title: "アンガス・ベル"
 name_en: "Angus BELL"
-name_ja: "Angus BELL"
+name_ja: "アンガス・ベル"
 slug: "angus-bell"
 position: "PR"
 height: "193"

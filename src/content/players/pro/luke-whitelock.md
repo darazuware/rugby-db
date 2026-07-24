@@ -1,7 +1,7 @@
 ---
-title: "Luke WHITELOCK"
+title: "ルーク・ホワイトロック"
 name_en: "Luke WHITELOCK"
-name_ja: "Luke WHITELOCK"
+name_ja: "ルーク・ホワイトロック"
 slug: "luke-whitelock"
 position: "FL/NO8"
 height: "193"

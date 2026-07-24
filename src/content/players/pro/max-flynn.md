@@ -1,7 +1,7 @@
 ---
-title: "Max FLYNN"
+title: "マックス・フリン"
 name_en: "Max FLYNN"
-name_ja: "Max FLYNN"
+name_ja: "マックス・フリン"
 slug: "max-flynn"
 position: "Back row"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Wallace SITITI"
+title: "ウォレス・シティティ"
 name_en: "Wallace SITITI"
-name_ja: "Wallace SITITI"
+name_ja: "ウォレス・シティティ"
 slug: "wallace-sititi"
 position: "FL/No8"
 height: "185"

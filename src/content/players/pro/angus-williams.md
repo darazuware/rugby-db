@@ -1,7 +1,7 @@
 ---
-title: "Angus WILLIAMS"
+title: "アンガス・ウィリアムズ"
 name_en: "Angus WILLIAMS"
-name_ja: "Angus WILLIAMS"
+name_ja: "アンガス・ウィリアムズ"
 slug: "angus-williams"
 position: "PR"
 height: "180"

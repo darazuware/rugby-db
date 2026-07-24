@@ -1,7 +1,7 @@
 ---
-title: "Kyle BROWN"
+title: "カイル・ブラウン"
 name_en: "Kyle BROWN"
-name_ja: "Kyle BROWN"
+name_ja: "カイル・ブラウン"
 slug: "kyle-brown"
 position: "CTB"
 height: "181"

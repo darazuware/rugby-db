@@ -1,7 +1,7 @@
 ---
-title: "Leo MICHAUX"
+title: "レオ・ミショー"
 name_en: "Leo MICHAUX"
-name_ja: "Leo MICHAUX"
+name_ja: "レオ・ミショー"
 slug: "leo-michaux"
 position: "LO"
 height: "202"

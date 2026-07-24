@@ -1,7 +1,7 @@
 ---
-title: "Cortez RATIMA"
+title: "コルテス・ラティマ"
 name_en: "Cortez RATIMA"
-name_ja: "Cortez RATIMA"
+name_ja: "コルテス・ラティマ"
 slug: "cortez-ratima"
 position: "SH"
 height: "179"

@@ -1,7 +1,7 @@
 ---
-title: "Sireli MAQALA"
+title: "シレリ・マカラ"
 name_en: "Sireli MAQALA"
-name_ja: "Sireli MAQALA"
+name_ja: "シレリ・マカラ"
 slug: "sireli-maqala"
 position: "CTB"
 height: "172"

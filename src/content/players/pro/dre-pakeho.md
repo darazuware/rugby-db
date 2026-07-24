@@ -1,7 +1,7 @@
 ---
-title: "Dre PAKEHO"
+title: "ドレ・パケホ"
 name_en: "Dre PAKEHO"
-name_ja: "Dre PAKEHO"
+name_ja: "ドレ・パケホ"
 slug: "dre-pakeho"
 position: "CTB"
 height: ""

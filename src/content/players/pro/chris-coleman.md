@@ -1,7 +1,7 @@
 ---
-title: "Chris COLEMAN | クリス COLEMAN"
+title: "Chris COLEMAN | クリス・コールマン"
 name_en: "Chris COLEMAN"
-name_ja: "クリス COLEMAN"
+name_ja: "クリス・コールマン"
 slug: "chris-coleman"
 position: "PR"
 height: "189"

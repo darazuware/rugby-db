@@ -1,7 +1,7 @@
 ---
-title: "Connor FAHY"
+title: "コナー・フェイヒー"
 name_en: "Connor FAHY"
-name_ja: "Connor FAHY"
+name_ja: "コナー・フェイヒー"
 slug: "connor-fahy"
 position: "CTB"
 height: "185"

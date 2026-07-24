@@ -1,7 +1,7 @@
 ---
-title: "Max NAGY"
+title: "マックス・ナジ"
 name_en: "Max NAGY"
-name_ja: "Max NAGY"
+name_ja: "マックス・ナジ"
 slug: "max-nagy"
 position: "FB"
 height: "193"

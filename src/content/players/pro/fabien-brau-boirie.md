@@ -1,7 +1,7 @@
 ---
-title: "Fabien BRAU-BOIRIE"
+title: "ファビアン・ブロー＝ボワリー"
 name_en: "Fabien BRAU-BOIRIE"
-name_ja: "Fabien BRAU-BOIRIE"
+name_ja: "ファビアン・ブロー＝ボワリー"
 slug: "fabien-brau-boirie"
 position: "CTB"
 height: "190"

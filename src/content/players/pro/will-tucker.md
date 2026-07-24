@@ -1,7 +1,7 @@
 ---
-title: "Will TUCKER"
+title: "ウィル・タッカー"
 name_en: "Will TUCKER"
-name_ja: "Will TUCKER"
+name_ja: "ウィル・タッカー"
 slug: "will-tucker"
 position: "LO"
 height: "202"

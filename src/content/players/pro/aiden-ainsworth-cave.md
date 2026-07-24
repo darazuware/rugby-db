@@ -1,7 +1,7 @@
 ---
-title: "Aiden AINSWORTH-CAVE"
+title: "エイデン・エインズワース=ケイヴ"
 name_en: "Aiden AINSWORTH-CAVE"
-name_ja: "Aiden AINSWORTH-CAVE"
+name_ja: "エイデン・エインズワース=ケイヴ"
 slug: "aiden-ainsworth-cave"
 position: "Lock"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Yanis BASSE"
+title: "ヤニス・バス"
 name_en: "Yanis BASSE"
-name_ja: "Yanis BASSE"
+name_ja: "ヤニス・バス"
 slug: "yanis-basse"
 position: "HO"
 height: "180"

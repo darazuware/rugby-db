@@ -1,7 +1,7 @@
 ---
-title: "Leicester FAINGA'ANUKU"
+title: "レスター・ファインガアヌク"
 name_en: "Leicester FAINGA'ANUKU"
-name_ja: "Leicester FAINGA'ANUKU"
+name_ja: "レスター・ファインガアヌク"
 slug: "leicester-fainga-anuku"
 position: "WTB"
 height: "189"

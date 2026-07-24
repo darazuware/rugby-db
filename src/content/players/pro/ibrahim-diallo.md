@@ -1,7 +1,7 @@
 ---
-title: "Ibrahim DIALLO"
+title: "イブラヒム・ディアロ"
 name_en: "Ibrahim DIALLO"
-name_ja: "Ibrahim DIALLO"
+name_ja: "イブラヒム・ディアロ"
 slug: "ibrahim-diallo"
 position: "FL/NO8"
 height: "193"

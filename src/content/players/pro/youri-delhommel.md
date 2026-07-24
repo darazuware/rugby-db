@@ -1,7 +1,7 @@
 ---
-title: "Youri DELHOMMEL"
+title: "ユーリ・デロメル"
 name_en: "Youri DELHOMMEL"
-name_ja: "Youri DELHOMMEL"
+name_ja: "ユーリ・デロメル"
 slug: "youri-delhommel"
 position: "HO"
 height: "181"

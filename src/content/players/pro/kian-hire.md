@@ -1,7 +1,7 @@
 ---
-title: "Kian HIRE"
+title: "キアン・ハイア"
 name_en: "Kian HIRE"
-name_ja: "Kian HIRE"
+name_ja: "キアン・ハイア"
 slug: "kian-hire"
 position: "LO"
 height: "188"

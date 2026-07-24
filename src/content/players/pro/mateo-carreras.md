@@ -1,7 +1,7 @@
 ---
-title: "Mateo CARRERAS"
+title: "マテオ・カレラス"
 name_en: "Mateo CARRERAS"
-name_ja: "Mateo CARRERAS"
+name_ja: "マテオ・カレラス"
 slug: "mateo-carreras"
 position: "WTB"
 height: "173"

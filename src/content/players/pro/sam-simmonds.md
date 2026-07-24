@@ -1,7 +1,7 @@
 ---
-title: "Sam SIMMONDS"
+title: "サム・シモンズ"
 name_en: "Sam SIMMONDS"
-name_ja: "Sam SIMMONDS"
+name_ja: "サム・シモンズ"
 slug: "sam-simmonds"
 position: "FL/NO8"
 height: "184"

@@ -1,7 +1,7 @@
 ---
-title: "Jacob DEVERY"
+title: "ジェイコブ・デブリー"
 name_en: "Jacob DEVERY"
-name_ja: "Jacob DEVERY"
+name_ja: "ジェイコブ・デブリー"
 slug: "jacob-devery"
 position: "HO"
 height: "180"

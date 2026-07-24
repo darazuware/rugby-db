@@ -1,7 +1,7 @@
 ---
-title: "Henry KESTERTON"
+title: "ヘンリー・ケスタートン"
 name_en: "Henry KESTERTON"
-name_ja: "Henry KESTERTON"
+name_ja: "ヘンリー・ケスタートン"
 slug: "henry-kesterton"
 position: "CTB"
 height: ""

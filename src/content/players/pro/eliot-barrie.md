@@ -1,7 +1,7 @@
 ---
-title: "Eliot BARRIE"
+title: "エリオット・バリー"
 name_en: "Eliot BARRIE"
-name_ja: "Eliot BARRIE"
+name_ja: "エリオット・バリー"
 slug: "eliot-barrie"
 position: "Lock"
 height: ""

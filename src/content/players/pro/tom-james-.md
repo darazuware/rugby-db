@@ -1,7 +1,7 @@
 ---
-title: "Tom JAMES"
+title: "トム・ジェームズ"
 name_en: "Tom JAMES"
-name_ja: "Tom JAMES"
+name_ja: "トム・ジェームズ"
 slug: "tom-james-"
 position: "Scrum-half"
 height: ""

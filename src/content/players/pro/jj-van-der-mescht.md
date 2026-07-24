@@ -1,7 +1,7 @@
 ---
-title: "JJ VAN DER MESCHT"
+title: "JJ・ファン・デル・メスト"
 name_en: "JJ VAN DER MESCHT"
-name_ja: "JJ VAN DER MESCHT"
+name_ja: "JJ・ファン・デル・メスト"
 slug: "jj-van-der-mescht"
 position: "Lock"
 height: ""

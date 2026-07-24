@@ -1,7 +1,7 @@
 ---
-title: "Tom LE HELLARD"
+title: "トム・ル・エラール"
 name_en: "Tom LE HELLARD"
-name_ja: "Tom LE HELLARD"
+name_ja: "トム・ル・エラール"
 slug: "tom-le-hellard"
 position: "Back row"
 height: ""

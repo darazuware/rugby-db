@@ -1,7 +1,7 @@
 ---
-title: "Beauden BARRETT"
+title: "ボーデン・バレット"
 name_en: "Beauden BARRETT"
-name_ja: "Beauden BARRETT"
+name_ja: "ボーデン・バレット"
 slug: "beauden-barrett"
 position: "SO"
 height: "187"

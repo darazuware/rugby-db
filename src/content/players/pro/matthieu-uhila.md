@@ -1,7 +1,7 @@
 ---
-title: "Matthieu UHILA"
+title: "マチュー・ウイラ"
 name_en: "Matthieu UHILA"
-name_ja: "Matthieu UHILA"
+name_ja: "マチュー・ウイラ"
 slug: "matthieu-uhila"
 position: "LO"
 height: "200"

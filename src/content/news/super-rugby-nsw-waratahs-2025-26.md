@@ -39,7 +39,6 @@ NSTワラターズの前身であるニューサウスウェールズラグビ�
 | :--- | :--- | :--- |
 | Will GODDARD | ウィル・ゴダード | プロップ |
 | Daniel BOTHA | ダニエル・ボサ | プロップ |
-| Jack BARRETT | ジャック・バレット | プロップ |
 | Tom LAMBERT | トム・ランバート | プロップ |
 | Sifa AMONE | シファ・アモネ | プロップ |
 | Apolosi RANAWAI | アポロシ・ラナワイ | プロップ |
@@ -47,7 +46,6 @@ NSTワラターズの前身であるニューサウスウェールズラグビ�
 | Ethan DOBBINS | イーサン・ドビンズ | フッカー |
 | Miles AMATOSERO | マイルズ・アマトセロ | ロック |
 | Eamon DOYLE | エアモン・ドイル | ロック |
-| Clem HALAHOLO | クレム・ハラホロ | ロック |
 | Ben GRANT | ベン・グラント | ロック |
 | Lachlan HOOPER | ラクラン・フーパー | フランカー/No8 |
 | Austin DURBIDGE | オースティン・ダービッジ | フランカー/No8 |

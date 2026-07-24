@@ -1,7 +1,7 @@
 ---
-title: "Isaiah ARMSTRONG-RAVULA"
+title: "イザイア・アームストロング・ラヴラ"
 name_en: "Isaiah ARMSTRONG-RAVULA"
-name_ja: "Isaiah ARMSTRONG-RAVULA"
+name_ja: "イザイア・アームストロング・ラヴラ"
 slug: "isaiah-ravula"
 position: "SO"
 height: "175"

@@ -1,7 +1,7 @@
 ---
-title: "Louw NEL"
+title: "ラウ・ネル"
 name_en: "Louw NEL"
-name_ja: "Louw NEL"
+name_ja: "ラウ・ネル"
 slug: "louw-nel"
 position: "Back row"
 height: "190"

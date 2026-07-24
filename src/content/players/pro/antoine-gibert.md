@@ -1,7 +1,7 @@
 ---
-title: "Antoine GIBERT"
+title: "アントワーヌ・ジベール"
 name_en: "Antoine GIBERT"
-name_ja: "Antoine GIBERT"
+name_ja: "アントワーヌ・ジベール"
 slug: "antoine-gibert"
 position: "SO"
 height: "177"

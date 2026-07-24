@@ -1,7 +1,7 @@
 ---
-title: "Bradley DAVIDS"
+title: "ブラッドリー・デイヴィッズ"
 name_en: "Bradley DAVIDS"
-name_ja: "Bradley DAVIDS"
+name_ja: "ブラッドリー・デイヴィッズ"
 slug: "bradley-davids"
 position: "SH"
 height: "176"

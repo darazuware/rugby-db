@@ -1,7 +1,7 @@
 ---
-title: "Mark DONNELLY | マーク DONNELLY"
+title: "Mark DONNELLY | マーク・ドネリー"
 name_en: "Mark DONNELLY"
-name_ja: "マーク DONNELLY"
+name_ja: "マーク・ドネリー"
 slug: "mark-donnelly"
 position: "PR"
 height: "180"

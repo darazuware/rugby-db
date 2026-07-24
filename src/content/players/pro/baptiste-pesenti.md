@@ -1,7 +1,7 @@
 ---
-title: "Baptiste PESENTI"
+title: "バプティスト・ペゾンティ"
 name_en: "Baptiste PESENTI"
-name_ja: "Baptiste PESENTI"
+name_ja: "バプティスト・ペゾンティ"
 slug: "baptiste-pesenti"
 position: "LO"
 height: "195"

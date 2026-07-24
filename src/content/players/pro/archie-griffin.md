@@ -1,7 +1,7 @@
 ---
-title: "Archie GRIFFIN"
+title: "アーチー・グリフィン"
 name_en: "Archie GRIFFIN"
-name_ja: "Archie GRIFFIN"
+name_ja: "アーチー・グリフィン"
 slug: "archie-griffin"
 position: "Prop"
 height: ""

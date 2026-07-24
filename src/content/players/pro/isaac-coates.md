@@ -1,7 +1,7 @@
 ---
-title: "Isaac COATES"
+title: "アイザック・コーツ"
 name_en: "Isaac COATES"
-name_ja: "Isaac COATES"
+name_ja: "アイザック・コーツ"
 slug: "isaac-coates"
 position: "SO"
 height: "175"

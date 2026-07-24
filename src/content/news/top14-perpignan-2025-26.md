@@ -49,7 +49,6 @@ tags: ["Top14", "チーム紹介", "2025-26", "ペルピニャン"]
 | Jamie RITCHIE | ジェイミー・リッチー | バックロー |
 | Joaquín OVIEDO | ホアキン・オビエド | バックロー |
 | Lucas VELARTE | リュカ・ヴェラルト | バックロー |
-| Mahamadou DIABY | マアマドゥ・ジャビ | バックロー |
 | Mattéo LE CORVEC | マテオ・ル・コルヴェック | バックロー |
 | Max HICKS | マックス・ヒックス | バックロー |
 | Noé DELLA SCHIAVA | ノエ・デラ・スキアヴァ | バックロー |
@@ -60,7 +59,6 @@ tags: ["Top14", "チーム紹介", "2025-26", "ペルピニャン"]
 | Antoine AUCAGNE | アントワーヌ・オカーニュ | フライハーフ |
 | Benjamin URDAPILLETA | バンジャマン・ウルダピレタ | フライハーフ |
 | Gabin KRETCHMANN | ガバン・クレッチマン | フライハーフ |
-| Hugo REUS | ユゴ・ルース | フライハーフ |
 | Jake MCINTYRE | ジェイク・マッキンタイア | フライハーフ |
 | Tommaso ALLAN | トンマーゾ・アラン | フライハーフ |
 | Tristan TEDDER | トリスタン・テダー | フライハーフ |

@@ -1,7 +1,7 @@
 ---
-title: "Tanginoa HALAIFONUA"
+title: "タンギノア・アライフォヌア"
 name_en: "Tanginoa HALAIFONUA"
-name_ja: "Tanginoa HALAIFONUA"
+name_ja: "タンギノア・アライフォヌア"
 slug: "tanginoa-halaifonua"
 position: "LO"
 height: "196"

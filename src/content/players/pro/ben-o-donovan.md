@@ -1,7 +1,7 @@
 ---
-title: "Ben O'DONOVAN | ベン O'DONOVAN"
+title: "Ben O'DONOVAN | ベン・オドノヴァン"
 name_en: "Ben O'DONOVAN"
-name_ja: "ベン O'DONOVAN"
+name_ja: "ベン・オドノヴァン"
 slug: "ben-o-donovan"
 position: "SH"
 height: ""
