@@ -23,11 +23,11 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "ウェスタ�
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| Feao FOTUAIKA | フェアオ・フォトゥアイカ | プロップ | トンガ代表 | 5 |
-| Tom ROBERTSON | トム・ロバートソン | プロップ | オーストラリア代表 | — |
+| Feao FOTUAIKA | フェアオ・フォトゥアイカ | プロップ | [トンガ代表](/national-teams/tonga/) | 5 |
+| Tom ROBERTSON | トム・ロバートソン | プロップ | [オーストラリア代表](/national-teams/australia/) | — |
 | Harry JOHNSON-HOLMES | ハリー・ジョンソン・ホームズ | プロップ | オーストラリア代表 | — |
 | Nic DOLLY | ニック・ドリー | フッカー | オーストラリア代表 | — |
-| Brandon PAENGA-AMOSA | ブランドン・ペンガ・アモサ | フッカー | ニュージーランド代表 | — |
+| Brandon PAENGA-AMOSA | ブランドン・ペンガ・アモサ | フッカー | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Darcy SWAIN | ダーシー・スウェイン | ロック | オーストラリア代表 | — |
 | Carlo TIZZANO | カルロ・ティッツァーノ | フランカー/No8 | オーストラリア代表 | — |
 | Ben DONALDSON | ベン・ドナルドソン | スタンドオフ | オーストラリア代表 | 3 |

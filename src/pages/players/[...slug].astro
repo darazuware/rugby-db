@@ -27,6 +27,7 @@ import {
 import { buildPlayerBioSentences, calcAge } from "../../lib/playerText";
 import { positionJa } from "../../lib/positions";
 import { getSchoolmates, playerBadges, type SchoolmateRelation } from "../../lib/connections";
+import igEmbeds from "../../../data/manual/instagram_embeds.json";
 
 export async function getStaticPaths() {
   const players = await getAllPlayers();
@@ -60,6 +61,9 @@ const eduUniv = !player.is_minor
 const posJa = positionJa(player.position);
 const age = calcAge(player.birthdate);
 const bioSentences = buildPlayerBioSentences(player, { teamName });
+
+// 検証済み公式Instagram（本人アカウントのみ・data/manual/instagram_embeds.json）
+const igEmbed = (igEmbeds as Record<string, { account?: string; permalink?: string }>)[player.slug];
 
 // つながりグラフ（P5-4, 10）: 出身校ベースの同期/先輩後輩 + 年代別/セブンズ代表バッジ。
 // 学校→選手インデックスはビルド中一度だけ構築される（lib/connections.ts）。
@@ -345,6 +349,31 @@ const metaDesc = [
           <section class="mb-10">
             <h2 class="text-lg font-black text-foreground mb-3">プロフィール</h2>
             <p class="text-foreground/80 leading-relaxed">{bioSentences.join("")}</p>
+          </section>
+        )}
+
+        {/* 公式Instagram（検証済み本人アカウントのみ） */}
+        {igEmbed?.permalink && (
+          <section class="mb-10">
+            <h2 class="text-lg font-black text-foreground mb-3">Instagram</h2>
+            {igEmbed.account && (
+              <p class="text-foreground/60 text-sm mb-3">
+                公式アカウント{" "}
+                <a
+                  href={`https://www.instagram.com/${igEmbed.account}/`}
+                  class="text-yellow-600 font-bold hover:text-yellow-500"
+                  target="_blank"
+                  rel="noopener"
+                >@{igEmbed.account}</a>
+              </p>
+            )}
+            <blockquote
+              class="instagram-media"
+              data-instgrm-permalink={igEmbed.permalink}
+              data-instgrm-version="14"
+              style="max-width:540px;width:100%;margin:0 auto;"
+            ></blockquote>
+            <script async src="https://www.instagram.com/embed.js"></script>
           </section>
         )}
 

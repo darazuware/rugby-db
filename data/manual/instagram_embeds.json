@@ -1,0 +1,21 @@
+{
+  "_note": "選手/監督の検証済み公式Instagram投稿（本人アカウントのみ）。キーは選手ページのslug。news_gen（招集記事）と選手ページの双方が写真として埋め込む。捏造禁止：ブラウザで本人アカウントを実際に確認したものだけ追加すること。",
+  "michael-leitch": {
+    "name": "リーチ マイケル",
+    "account": "michael_leitch",
+    "permalink": "https://www.instagram.com/p/CycMGRvSST7/",
+    "verified": "2026-07-24 本人公式アカウント確認（bio: Christchurch NZ→Sapporo Yamanote HS→Tokai University→Toshiba Brave Lupus / フォロワー7.7万）"
+  },
+  "michael-leitch-484358": {
+    "name": "リーチ マイケル",
+    "account": "michael_leitch",
+    "permalink": "https://www.instagram.com/p/CycMGRvSST7/",
+    "verified": "2026-07-24 本人公式アカウント確認（リーグワン版slug。同一人物）"
+  },
+  "jon-zabala": {
+    "name": "ジョン・サバラ",
+    "account": "jon.zabala",
+    "permalink": "https://www.instagram.com/p/DNs-dZSUAVh/",
+    "verified": "2026-07-24 本人アカウント確認（投稿がPau/#sectionpaloise、緑白でスペイン代表主将のポー所属と一致）"
+  }
+}

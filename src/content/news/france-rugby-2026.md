@@ -38,7 +38,7 @@ tags: ["フランス", "レ・ブルー", "RWC2027", "ワールドカップ2027"
 - **直近3大会（2015・2019・2023）はいずれも準々決勝止まり**
 - 自国開催だった2023年大会も、準々決勝で南アフリカに1点差で敗れて姿を消しました
 
-タレントは世界屈指。それでも頂点に手が届かない。この「勝てなさ」こそが、フランス代表を語るうえで外せないテーマです。2027年こそ、という思いは誰よりも強いはずです。
+タレントは世界屈指。それでも頂点に手が届かない。この「勝てなさ」こそが、[フランス代表](/national-teams/france/)を語るうえで外せないテーマです。2027年こそ、という思いは誰よりも強いはずです。
 
 ---
 
@@ -46,7 +46,7 @@ tags: ["フランス", "レ・ブルー", "RWC2027", "ワールドカップ2027"
 
 現在のフランスを率いるのは**ファビアン・ガルティエ**ヘッドコーチ。2022年のグランドスラムに続き、**2025年・2026年のシックスネーションズを連覇**しました。
 
-主将は**[アントワーヌ・デュポン](/players/antoine-dupont/)**（トゥールーズ）。世界最高のスクラムハーフと評される司令塔で、大きな膝の負傷から復帰し、2026年のシックスネーションズ制覇を牽引しました。
+主将は**[アントワーヌ・デュポン](/players/antoine-dupont/)**（[トゥールーズ](/teams/top14/toulouse/)）。世界最高のスクラムハーフと評される司令塔で、大きな膝の負傷から復帰し、2026年のシックスネーションズ制覇を牽引しました。
 
 そして特筆すべきは**選手層の異常な厚さ**です。2026年シックスネーションズを制したメンバーには、**グレゴリー・アルドリット、[ダミアン・プノー](/players/damian-penaud/)、[ガエル・フィクー](/players/gael-fickou/)といった実績十分のスターが外れていました**。それでも優勝できる。これがフランスの選手層です。
 
@@ -57,10 +57,10 @@ tags: ["フランス", "レ・ブルー", "RWC2027", "ワールドカップ2027"
 | Antoine Dupont | **[アントワーヌ・デュポン](/players/antoine-dupont/)**（主将） | SH | トゥールーズ |
 | Romain Ntamack | **[ロマン・ンタマック](/players/romain-ntamack/)** | FH | トゥールーズ |
 | Thomas Ramos | **[トマ・ラモス](/players/thomas-ramos/)** | FB | トゥールーズ |
-| Damian Penaud | **[ダミアン・プノー](/players/damian-penaud/)** | WG | ボルドー・ベグル |
+| Damian Penaud | **[ダミアン・プノー](/players/damian-penaud/)** | WG | [ボルドー・ベグル](/teams/top14/bordeaux/) |
 | Matthieu Jalibert | **[マチュー・ジャリベール](/players/matthieu-jalibert/)** | FH | ボルドー・ベグル |
-| Gaël Fickou | **[ガエル・フィクー](/players/gael-fickou/)** | CE | ラシン92 |
-| Charles Ollivon | **[シャルル・オリヴォン](/players/charles-ollivon/)** | BR | トゥーロン |
+| Gaël Fickou | **[ガエル・フィクー](/players/gael-fickou/)** | CE | [ラシン92](/teams/top14/racing-92/) |
+| Charles Ollivon | **[シャルル・オリヴォン](/players/charles-ollivon/)** | BR | [トゥーロン](/teams/top14/toulon/) |
 | Cameron Woki | **[キャメロン・ウォキ](/players/cameron-woki/)** | LO/BR | ボルドー・ベグル |
 
 ---
@@ -73,7 +73,7 @@ RUGBY PICKSの名鑑データで現役フランス代表を集計すると、**6
 
 理由は明快で、**トップ14が世界一の資金力を持つリーグだから**。世界中のスター選手がフランスに集まる時代に、フランス人がわざわざ国外に出る理由はありません。
 
-この構造は、実は**日本と同じ**です。日本代表もほぼ全員がリーグワン所属。豊かな国内リーグが代表を丸ごと抱える——「国内集中型」という点で、フランスと日本は同じタイプの国なのです。
+この構造は、実は**日本と同じ**です。[日本代表](/national-teams/japan/)もほぼ全員がリーグワン所属。豊かな国内リーグが代表を丸ごと抱える——「国内集中型」という点で、フランスと日本は同じタイプの国なのです。
 
 - 👉 [RWC2027 24カ国の代表選手はどこでプレーしている？ 所属リーグ分布ランキング](/news/rwc2027-squad-league-distribution/)
 
@@ -95,11 +95,3 @@ RUGBY PICKSの名鑑データで現役フランス代表を集計すると、**6
 - 👉 [ラグビーワールドカップ2027 完全ガイド](/news/rugby-world-cup-2027-guide/)
 
 フランス代表の現役選手は[出場国ページ](/national-teams/france/)から一覧できます。
-
----
-
-## 主な参照先
-
-- World Rugby 世界ランキング（2026年7月20日時点） — [world.rugby/rankings](https://www.world.rugby/rankings)
-- RWC2027 フランス チームスポットライト — [rugbyworldcup.com](https://www.rugbyworldcup.com/2027/en/teams/france/spotlight)
-- 選手データ — [all.rugby](https://all.rugby/)（2026年7月時点）

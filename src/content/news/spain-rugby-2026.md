@@ -116,24 +116,28 @@ FERは、アルコベンダス（クラブ）の関係者3名が書面でパス�
 
 ## 注目選手 — 主力7人全員がフランス所属
 
-スペイン代表の構造を最も雄弁に語るのが、この表です。数字は**2026年7月22日時点**。
+[スペイン代表](/national-teams/spain/)の構造を最も雄弁に語るのが、この表です。数字は**2026年7月22日時点**。
 
 | 選手 | カタカナ | Pos | 所属クラブ | 年齢 | キャップ |
 |:---|:---|:---|:---|---:|---:|
-| Álvar Gimeno | **アルバル・ヒメノ** | CE | ベジエ（仏プロD2） | 28 | **63** |
-| Ignacio Piñeiro | **イグナシオ・ピニェイロ** | LO | グルノーブル（仏プロD2） | 23 | 33 |
-| Jon Zabala | **[ジョン・サバラ](/players/jon-zabala/)**（主将） | PR | ポー（仏トップ14） | 29 | 32 |
-| Álvaro García | **[アルバロ・ガルシア](/players/alvaro-garcia/)** | HO | スタッド・フランセ（仏トップ14） | 22 | 23 |
-| Kerman Aurrekoetxea | **ケルマン・アウレコエチェア** | SH | ビアリッツ（仏プロD2） | 26 | 13 |
-| Manex Ariceta | **[マネクス・アリセタ](/players/manex-ariceta/)** | BR | バイヨンヌ（仏トップ14） | 22 | 7 |
-| Samuel Ezeala | **[サミュエル・エゼアラ](/players/samuel-ezeala/)** | WG | スタッド・フランセ（仏トップ14） | 26 | 3 |
+| Álvar Gimeno | **[アルバル・ヒメノ](/players/alvar-gimeno/)** | CE | ベジエ（仏プロD2） | 28 | **63** |
+| Ignacio Piñeiro | **[イグナシオ・ピニェイロ](/players/ignacio-pineiro/)** | LO | グルノーブル（仏プロD2） | 23 | 33 |
+| Jon Zabala | **[ジョン・サバラ](/players/jon-zabala/)**（主将） | PR | [ポー](/teams/top14/pau/)（仏トップ14） | 29 | 32 |
+| Álvaro García | **[アルバロ・ガルシア](/players/alvaro-garcia/)** | HO | [スタッド・フランセ](/teams/top14/paris/)（仏トップ14） | 22 | 23 |
+| Kerman Aurrekoetxea | **[ケルマン・アウレコエチェア](/players/kerman-aurrekoetxea/)** | SH | ビアリッツ（仏プロD2） | 26 | 13 |
+| Manex Ariceta | **[マネクス・アリセタ](/players/manex-ariceta/)** | BR | [バイヨンヌ](/teams/top14/bayonne/)（仏トップ14） | 22 | 7 |
+| Samuel Ezeala | **[サミュエル・エゼアラ](/players/samuel-ezeala/)** | WG | [スタッド・フランセ](/teams/top14/paris/)（仏トップ14） | 26 | 3 |
+
+主将ジョン・サバラは、所属する[ポー](/teams/top14/pau/)（Section Paloise）でのプレーをInstagramで発信しています。
+
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DNs-dZSUAVh/" data-instgrm-version="14" style="max-width:540px;width:100%;margin:1.5rem auto;"></blockquote>
 
 **7人全員がフランスのクラブ**。しかもサバラ、アウレコエチェア、アリセタ、エゼアラの4人は**フランスの育成システム出身（JIFF資格保持者）**です。
 
 - **ヒメノ（63キャップ）** — バリャドリッド（2017-19）からベジエへ。代表最多クラスの経験値を持つインサイドCTB
-- **サバラ（主将）** — 190cm/124kgのタイトヘッド。バイヨンヌの下部組織育ちで、タルブ→バイヨンヌ→ベジエ→ポー。代表初キャップは2020年2月1日のロシア戦
+- **サバラ（主将）** — 190cm/124kgのタイトヘッド。[バイヨンヌ](/teams/top14/bayonne/)の下部組織育ちで、タルブ→[バイヨンヌ](/teams/top14/bayonne/)→ベジエ→[ポー](/teams/top14/pau/)。代表初キャップは2020年2月1日のロシア戦
 - **アウレコエチェア** — 179cm/**69kg**という小柄なSH。エル・サルバドル（2018-19）からビアリッツへ移り、以後ビアリッツ一筋
-- **エゼアラ** — **クレルモンの下部組織で育ち、2017年から2023年までクレルモンに在籍**。その後ポーを経てスタッド・フランセ。フランスで完全に育った選手がスペイン代表を選んでいます
+- **エゼアラ** — **[クレルモン](/teams/top14/clermont/)の下部組織で育ち、2017年から2023年まで[クレルモン](/teams/top14/clermont/)に在籍**。その後ポーを経て[スタッド・フランセ](/teams/top14/paris/)。フランスで完全に育った選手がスペイン代表を選んでいます
 
 ### スカッド全体を見ると
 
@@ -173,7 +177,7 @@ FERはこの構造に手を打とうとしています。
 
 ---
 
-## 日本代表との対戦
+## [日本代表](/national-teams/japan/)との対戦
 
 男子の対戦は**通算3試合でスペインの0勝3敗**（得点43・失点114）と記録されています。ただし個別の試合として確認できたのは**2005年11月の日本 44-29 スペイン**（エリサルド新ヘッドコーチの初戦）の1試合のみで、残る2試合の日付・スコアは確認できていません。
 
@@ -193,16 +197,3 @@ FERはこの構造に手を打とうとしています。
 - 👉 [日本代表 2026年の試合日程](/news/japan-2026-fixtures/)
 
 選手の所属チームやプロフィールは[選手名鑑](/players/)から検索できます。
-
----
-
-## 主な参照先
-
-- World Rugby 世界ランキング（2026年7月20日時点） — [world.rugby/rankings](https://www.world.rugby/rankings)
-- スペイン・ジョージアのRWC2027出場決定 — [world.rugby](https://www.world.rugby/news/983870/spain-and-georgia-qualify-for-mens-rugby-world-cup-2027)
-- 2019年大会予選の裁定 — [world.rugby](https://www.world.rugby/news/334795/2019)
-- 2023年大会予選の失格と上訴棄却 — BBC Sport（2022年6月）
-- スペインラグビー協会（FER） — [ferugby.es](https://ferugby.es/)
-- 登録者数 — FER「Récord de Licencias de Rugby en España」、スペインスポーツ評議会（CSD）
-- 選手データ — [all.rugby](https://all.rugby/)（2026年7月22日取得）
-- サッカーW杯2026決勝 — 2026年7月19日、メットライフ・スタジアム

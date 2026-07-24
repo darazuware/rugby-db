@@ -28,6 +28,9 @@ if (!entry || entry.data.draft) {
 
 const { Content } = await entry.render();
 
+// 本文に Instagram 埋め込みがあるときだけ embed.js を読み込む
+const hasInstagram = /instagram-media/.test(entry.body ?? "");
+
 const formatDate = (date: Date) => {
   return date.toLocaleDateString("ja-JP", {
     year: "numeric",
@@ -94,4 +97,43 @@ const formatDate = (date: Date) => {
       </div>
     </article>
   </div>
+  {hasInstagram && <script async src="https://www.instagram.com/embed.js"></script>}
 </Layout>
+
+<style is:global>
+  /* 本文中のリンク（選手・チーム・代表ページ）を平文と明確に区別する。
+     色＋下線＋太字。テーマに依存しない下線を主要な手がかりにする。 */
+  article .prose a[href^="/players/"],
+  article .prose a[href^="/teams/"],
+  article .prose a[href^="/national-teams/"] {
+    color: #ca8a04;
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration-color: #facc15;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 2px;
+    transition: color 0.15s;
+  }
+  article .prose a[href^="/players/"]:hover,
+  article .prose a[href^="/teams/"]:hover,
+  article .prose a[href^="/national-teams/"]:hover {
+    color: #eab308;
+  }
+  @media (prefers-color-scheme: dark) {
+    article .prose a[href^="/players/"],
+    article .prose a[href^="/teams/"],
+    article .prose a[href^="/national-teams/"] {
+      color: #fde047;
+    }
+  }
+  :global(:root[data-theme="dark"]) article .prose a[href^="/players/"],
+  :global(:root[data-theme="dark"]) article .prose a[href^="/teams/"],
+  :global(:root[data-theme="dark"]) article .prose a[href^="/national-teams/"] {
+    color: #fde047;
+  }
+  :global(:root[data-theme="light"]) article .prose a[href^="/players/"],
+  :global(:root[data-theme="light"]) article .prose a[href^="/teams/"],
+  :global(:root[data-theme="light"]) article .prose a[href^="/national-teams/"] {
+    color: #ca8a04;
+  }
+</style>

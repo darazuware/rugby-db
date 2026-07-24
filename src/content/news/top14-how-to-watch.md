@@ -9,7 +9,7 @@ draft: true
 
 <p class="text-xs font-bold text-gray-500 border border-gray-300 rounded-full inline-block px-3 py-1 mb-6">※ 本ページにはプロモーションが含まれます</p>
 
-トゥールーズ、ラ・ロシェル、スタッド・フランセ——世界最高峰のクラブが揃うフランスのTOP14。日本代表クラスの選手が所属するチームも多く、注目している方も多いはずです。この記事では、日本国内でTOP14を観る方法をまとめます。
+[トゥールーズ](/teams/top14/toulouse/)、[ラ・ロシェル](/teams/top14/la-rochelle/)、[スタッド・フランセ](/teams/top14/paris/)——世界最高峰のクラブが揃うフランスのTOP14。[日本代表](/national-teams/japan/)クラスの選手が所属するチームも多く、注目している方も多いはずです。この記事では、日本国内でTOP14を観る方法をまとめます。
 
 ---
 

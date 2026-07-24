@@ -62,6 +62,80 @@ def league_label(league: str) -> str:
     return LEAGUE_LABEL_JA.get(league, league)
 
 
+# --- チーム名 → チームページURL 解決（相互リンク用） -------------------------
+# data/teams.json（サイトのURL生成元）を単一の真実として使う。日本語チーム名／
+# エイリアスに一致したときだけ /teams/{league}/{slug}/ を返す。一致しなければ None
+# （＝平文のまま。大学・海外下部リーグ等ページが無いチームはリンクしない）。
+_TEAM_URL_CACHE: Optional[dict[str, str]] = None
+
+
+def _build_team_url_map() -> dict[str, str]:
+    global _TEAM_URL_CACHE
+    if _TEAM_URL_CACHE is not None:
+        return _TEAM_URL_CACHE
+    m: dict[str, str] = {}
+    teams = io.read_json(io.REPO_ROOT / "data" / "teams.json", default=[])
+    for t in teams or []:
+        slug, lg = t.get("slug"), t.get("league")
+        if not slug or not lg or slug == "2025-26":
+            continue
+        url = f"/teams/{lg}/{slug}/"
+        for key in (t.get("team_name"), t.get("team_en_name")):
+            if key:
+                m.setdefault(key.strip(), url)
+    # team_names_jp.json のエイリアス／日本語名も引けるようにする
+    names_jp = io.read_json(io.REPO_ROOT / "data" / "team_names_jp.json", default={})
+    for lg_map in (names_jp or {}).values():
+        if not isinstance(lg_map, dict):
+            continue
+        for data in lg_map.values():
+            jp = (data or {}).get("jp")
+            url = m.get(jp) if jp else None
+            if not url:
+                continue
+            for alias in (data.get("aliases") or []):
+                m.setdefault(alias.strip(), url)
+    _TEAM_URL_CACHE = m
+    return m
+
+
+def team_url(name: Optional[str]) -> Optional[str]:
+    if not name:
+        return None
+    return _build_team_url_map().get(name.strip())
+
+
+def team_md(name: Optional[str]) -> Optional[str]:
+    """チーム名（ページがあれば Markdown リンク、無ければ平文）。名称不明なら None。"""
+    if not name:
+        return None
+    url = team_url(name)
+    return f"[{name}]({url})" if url else name
+
+
+# --- 検証済み Instagram 埋め込み（手動キュレーション） -----------------------
+# data/manual/instagram_embeds.json に「本人公式アカウントをブラウザで確認済み」の
+# 投稿だけを player_id 単位で置く。捏造・未確認アカウントは載せない（03_VALIDATION）。
+_IG_EMBEDS_CACHE: Optional[dict[str, dict]] = None
+
+
+def _ig_embeds() -> dict[str, dict]:
+    global _IG_EMBEDS_CACHE
+    if _IG_EMBEDS_CACHE is None:
+        raw = io.read_json(io.MANUAL_DIR / "instagram_embeds.json", default={})
+        _IG_EMBEDS_CACHE = {k: v for k, v in (raw or {}).items()
+                            if isinstance(v, dict) and v.get("permalink")}
+    return _IG_EMBEDS_CACHE
+
+
+def instagram_block(permalink: str) -> str:
+    return (
+        f'<blockquote class="instagram-media" data-instgrm-permalink="{permalink}" '
+        f'data-instgrm-version="14" style="max-width:540px;width:100%;margin:1.5rem auto;">'
+        f"</blockquote>"
+    )
+
+
 def team_display_name(team: Optional[dict]) -> Optional[str]:
     """team_id → 表示名（name_ja優先、無ければname_en）。master.ts teamDisplayName と同じ規則。"""
     if not team:
@@ -140,7 +214,7 @@ def build_join_articles(diff: dict, *, players_by_id: dict[str, dict], teams_by_
             continue
         who = _player_md(entry, players_by_id) or name
         title = f"{name}が{team_name}に加入"
-        body = f"{who}が{team_name}（{label}）に加入した。"
+        body = f"{who}が{team_md(team_name)}（{label}）に加入した。"
         slug = f"{league}-join-{entry['id']}-{pub_date}"
         articles.append(Article(slug=slug, title=title, body=body, tags=[label, "加入"],
                                 pub_date=pub_date, source_diff=source_diff))
@@ -159,7 +233,7 @@ def build_departure_articles(diff: dict, *, players_by_id: dict[str, dict], team
             continue
         who = _player_md(entry, players_by_id) or name
         title = f"{name}が{team_name}を退団"
-        body = f"{who}が{team_name}（{label}）を退団した。"
+        body = f"{who}が{team_md(team_name)}（{label}）を退団した。"
         slug = f"{league}-departure-{entry['id']}-{pub_date}"
         articles.append(Article(slug=slug, title=title, body=body, tags=[label, "退団"],
                                 pub_date=pub_date, source_diff=source_diff))
@@ -211,7 +285,7 @@ def build_round_result_articles(diff: dict, *, matches_by_id: dict[str, dict], t
         title = f"{label}第{round_no}節 結果まとめ"
         lines = ["| ホーム | スコア | アウェイ |", "| :--- | :---: | :--- |"]
         for home, hs, aws, away in rows:
-            lines.append(f"| {home} | {hs} - {aws} | {away} |")
+            lines.append(f"| {team_md(home)} | {hs} - {aws} | {team_md(away)} |")
         body = "\n".join(lines)
         slug = f"{league}-round-{round_no}-{season or pub_date}"
         articles.append(Article(slug=slug, title=title, body=body, tags=[label, "結果"],
@@ -263,6 +337,26 @@ def build_call_up_articles(diff: dict, *, players_by_id: dict[str, dict],
                 lines.append(_call_up_member_line(m, players_by_id))
             lines.append("")
 
+        # 検証済みInstagram写真（本人公式アカウントのみ）をメンバー順に埋め込む。
+        # キーは選手ページのslug（選手ページ側と共有）。
+        embeds = _ig_embeds()
+        def _emb_for(m: dict) -> Optional[dict]:
+            p = players_by_id.get(m.get("id"))
+            return embeds.get(p.get("slug")) if p and p.get("slug") else None
+        photo_members = [m for m in members if _emb_for(m)]
+        if photo_members:
+            lines.append("## 選手フォト")
+            lines.append("")
+            for m in photo_members:
+                emb = _emb_for(m)
+                name = _player_md(m, players_by_id) or player_display_name(m) or ""
+                acct = emb.get("account")
+                cap = f"{name}（Instagram [@{acct}](https://www.instagram.com/{acct}/)）" if acct else name
+                lines.append(cap)
+                lines.append("")
+                lines.append(instagram_block(emb["permalink"]))
+                lines.append("")
+
         new_members = ev.get("new_members", [])
         if ev.get("has_previous") and new_members:
             names = [_player_md(m, players_by_id) or player_display_name(m) for m in new_members]
@@ -286,7 +380,7 @@ def _call_up_member_line(m: dict, players_by_id: dict[str, dict]) -> str:
     who = _player_md(m, players_by_id) or player_display_name(m) or "（氏名不明）"
     parts: list[str] = []
     if m.get("club_raw"):
-        parts.append(m["club_raw"])
+        parts.append(team_md(m["club_raw"]) or m["club_raw"])
     caps = m.get("caps")
     if isinstance(caps, int):
         parts.append(f"{caps}キャップ")

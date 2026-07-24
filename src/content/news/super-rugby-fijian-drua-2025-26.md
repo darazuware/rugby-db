@@ -23,7 +23,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "フィジア�
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| Peni RAVAI | ペニ・ラバイ | プロップ | フィジー代表 | 39 |
+| Peni RAVAI | ペニ・ラバイ | プロップ | [フィジー代表](/national-teams/fiji/) | 39 |
 | Mesake DOGE | メサケ・ドゲ | プロップ | フィジー代表 | 10 |
 | Samu TAWAKE | サム・タワケ | プロップ | フィジー代表 | 2 |
 | Mesulame DOLOKOTO | メスラメ・ドロコト | フッカー | フィジー代表 | — |
@@ -32,8 +32,8 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "フィジア�
 | Temo MAYANAVANUA | テモ・マヤナヴァヌア | ロック | フィジー代表 | 11 |
 | Vilive MIRAMIRA | ビリヴェ・ミラミラ | フランカー/No8 | Squad caps | 374 |
 | Frank LOMANI | フランク・ロマニ | スクラムハーフ | フィジー代表 | 26 |
-| Issak FINES | イサク・ファインズ | スクラムハーフ | オーストラリア代表 | — |
-| Virimi VAKATAWA | ビリミ・バカタワ | センター | フランス代表 | 18 |
+| Issak FINES | イサク・ファインズ | スクラムハーフ | [オーストラリア代表](/national-teams/australia/) | — |
+| Virimi VAKATAWA | ビリミ・バカタワ | センター | [フランス代表](/national-teams/france/) | 18 |
 | Ilaisa DROASESE | イライサ・ドロアセセ | フルバック | フィジー代表 | 4 |
 
 ## その他在籍選手（2025-26シーズン）

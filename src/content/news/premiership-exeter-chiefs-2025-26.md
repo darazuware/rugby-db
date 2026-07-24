@@ -23,10 +23,10 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "エクセター�
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| Henry SLADE | ヘンリー・スレイド | センター | イングランド代表 | 55 |
-| Scott SIO | スコット・シオ | プロップ | オーストラリア代表 | 59 |
-| Stephen VARNEY | スティーブン・ヴァーニー | スクラムハーフ | イタリア代表 | 30 |
-| Dafydd JENKINS | ダフィッド・ジェンキンス | ロック | ウェールズ代表 | 19 |
+| Henry SLADE | ヘンリー・スレイド | センター | [イングランド代表](/national-teams/england/) | 55 |
+| Scott SIO | スコット・シオ | プロップ | [オーストラリア代表](/national-teams/australia/) | 59 |
+| Stephen VARNEY | スティーブン・ヴァーニー | スクラムハーフ | [イタリア代表](/national-teams/italy/) | 30 |
+| Dafydd JENKINS | ダフィッド・ジェンキンス | ロック | [ウェールズ代表](/national-teams/wales/) | 19 |
 | Christ TSHIUNZA | クライスト・チウンザ | ロック | ウェールズ代表 | 15 |
 | Ross VINTCENT | ロス・ヴィントセント | フランカー | イタリア代表 | 10 |
 | Tom HOOPER | トム・フーパー | フランカー | オーストラリア代表 | 4 |
