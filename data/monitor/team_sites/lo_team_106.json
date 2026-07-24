@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-07-23T21:19:45+09:00",
+  "checked_at": "2026-07-24T15:35:07+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "b38283a4c68c383f"
+      "hash": "0e136d4c1961b693"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "9377da042c7cf901"
+      "hash": "4176f8ed2d56b391"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260723.html",
+      "title": "2026-07-23 日本代表｜平翔太選手が男子日本代表 網走合宿参加メンバーに選出",
+      "date": "2026-07-23"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260715.html",
       "title": "2026-07-15 公式オンラインショップ新商品追加およびオフ＆プレシーズン中のグッズ販売について",
@@ -211,11 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260417.html",
       "title": "2026-04-17 [ 地域 ] [ メディア ] [ 普及活動 ] 相模原市の子どもたちを守る！公式マスコット『ダイボ君』の交通安全ストップマークを市内横断歩道に順次設置",
       "date": "2026-04-17"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/2526r15",
-      "title": "2026-04-16 [ チーム ] 試合メンバー／イベント情報更新｜NTTリーグワン2025-26第15節 三菱重工相模原ダイナボアーズ 対 東芝ブレイブルーパス東京",
-      "date": "2026-04-16"
     }
   ]
 }

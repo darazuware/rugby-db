@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-07-23T21:19:45+09:00",
+  "checked_at": "2026-07-24T15:35:07+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.canon-eagles.jp/",
-      "hash": "874df9a846181b6f"
+      "hash": "9080b6478b829165"
     },
     {
       "url": "https://www.canon-eagles.jp/news/",
-      "hash": "ea3ec0445ce8dd43"
+      "hash": "2ae4df43673fb9d6"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/2026.html",
@@ -21,6 +21,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.canon-eagles.jp/news/event/20260709.html",
+      "title": "2026.07.24 EVENT 【更新】7月・8月のイベント出演予定",
+      "date": "2026-07-24"
+    },
     {
       "url": "https://www.canon-eagles.jp/news/info/20260723.html",
       "title": "2026.07.23 TEAM 男子日本代表網走合宿に横浜キヤノンイーグルスの選手が参加します",
@@ -44,11 +49,6 @@
     {
       "url": "https://www.canon-eagles.jp/news/info/20260709.html",
       "title": "2026.07.09 TEAM ネーションズチャンピオンシップ2026 アイルランド代表戦に横浜キヤノンイーグルスの選手が選出されました",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/event/20260709.html",
-      "title": "2026.07.09 EVENT 7月・8月のイベント出演予定",
       "date": "2026-07-09"
     },
     {

@@ -3,28 +3,33 @@
   "league": "league-one-d3",
   "name": "ルリーロ福岡",
   "official_url": "https://leriro-fukuoka.com/",
-  "checked_at": "2026-07-23T21:19:45+09:00",
+  "checked_at": "2026-07-24T15:35:07+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://leriro-fukuoka.com/",
-      "hash": "aeef52c850d224c3"
+      "hash": "54327752d4aefce1"
     },
     {
       "url": "https://leriro-fukuoka.com/news",
-      "hash": "17d456b8f50fdca5"
+      "hash": "4c258274f0760d67"
     }
   ],
   "items": [
     {
-      "url": "https://leriro-fukuoka.com/news-detail?id=254",
-      "title": "7月参加イベントのお知らせ",
-      "date": "2026-07-21"
+      "url": "https://leriro-fukuoka.com/news-detail?id=265",
+      "title": "2026-27シーズンのスタッフ体制のお知らせ",
+      "date": "2026-07-24"
     },
     {
       "url": "https://leriro-fukuoka.com/news",
       "title": "NEWS一覧",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news-detail?id=254",
+      "title": "7月参加イベントのお知らせ",
       "date": "2026-07-21"
     },
     {
@@ -65,11 +70,6 @@
     {
       "url": "https://leriro-fukuoka.com/news-detail?id=257",
       "title": "新加入スタッフのお知らせ",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://leriro-fukuoka.com/news-detail?id=253",
-      "title": "退団選手・スタッフのお知らせ(追加）",
       "date": "2026-07-01"
     }
   ]

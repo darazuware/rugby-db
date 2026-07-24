@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-07-23T21:19:45+09:00",
+  "checked_at": "2026-07-24T15:35:07+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "f06d97b14334c394"
+      "hash": "1fec09a3823b5021"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "3c332788b12edf66"
+      "hash": "6d1ee95c822abd75"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_1989.html",
+      "title": "イベント 2026.07.24 2026.7.2～6 千葉県立浦安高等学校よりインターンシップを受け入れました",
+      "date": "2026-07-24"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_1988.html",
       "title": "チーム 2026.07.22 株式会社アルマスポーツとのオフィシャルサプライヤー契約締結のお知らせ",
@@ -69,7 +74,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1976.html",
-      "title": "イベント 2026.07.01 2026.6.24 明海大学 ホスピタリティ・ツーリズム学部にて講演を行いました",
+      "title": "2026.07.01 ニュース 2026.6.24 明海大学 ホスピタリティ・ツーリズム学部にて講演を行いました",
       "date": "2026-07-01"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/game/index_1906.html",
       "title": "2026.04.23 ニュース 【更新】4月24日(金) 第16節 vs 静岡ブルーレヴズ ホストゲーム情報",
       "date": "2026-04-23"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_1935.html",
-      "title": "2026.04.22 ニュース 【メンバー発表】NTTジャパンラグビー リーグワン 2025-26 ディビジョン1 第16節 静岡ブルーレヴズ戦（4月24日）",
-      "date": "2026-04-22"
     }
   ]
 }

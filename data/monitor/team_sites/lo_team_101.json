@@ -3,28 +3,38 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-07-23T21:19:45+09:00",
+  "checked_at": "2026-07-24T15:35:07+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "4ff0ddababe65cab"
+      "hash": "825618e8fb7d8dcf"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "c93e6bd6910ba7f3"
+      "hash": "2d5f460dcfcb7041"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "5fa9594c611ec3a6"
+      "hash": "8503aeab66be0489"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "0d2fad650fc0a805"
+      "hash": "31044440bcabc627"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post34902/",
+      "title": "2026/7/24 チーム マシュー・ダルトン選手2026-27シーズン新加入のお知らせ",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post34898/",
+      "title": "2026/7/24 イベント 【レポート】7月18日(土)KOBE BEER SOCIALにてラグビー体験を実施しました",
+      "date": "2026-07-24"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post34912/",
       "title": "2026/7/23 チーム ⽇本代表 網走合宿参加メンバーのお知らせ",
@@ -166,11 +176,6 @@
       "date": "2026-07-02"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post34564/",
-      "title": "2026/7/2 チーム 7月4日(土)「ネーションズチャンピオンシップ2026」イタリア代表戦メンバー選出のお知らせ",
-      "date": "2026-07-02"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post34624/",
       "title": "2026/7/1 普及 【レポート】神戸市立神の谷小学校でタグラグビー教室を実施しました",
       "date": "2026-07-01"
@@ -254,11 +259,6 @@
       "url": "https://www.kobesteelers.com/news/post34503/",
       "title": "チーム NTTリーグワン2025-26 優勝記念特設ページを公開いたしました！ 2026/6/19",
       "date": "2026-06-19"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34376/",
-      "title": "2026/6/18 イベント 【レポート】6月14日(日)第52回兵庫県フェニックスラグビーフェスティバルのトークショーに出演しました",
-      "date": "2026-06-18"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34372/",

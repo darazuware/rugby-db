@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-07-23T21:19:45+09:00",
+  "checked_at": "2026-07-24T15:35:07+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "daef031bccd4bd97"
+      "hash": "dfe3a9971f60592d"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "5c694b642e1edb8b"
+      "hash": "b78dc1779ff50ec4"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2607-1026.html",
+      "title": "2026年 7月24日 #1026 中村 亮土 『良い人間になるためのたくさんの要素がラグビーにはある』",
+      "date": "2026-07-24"
+    },
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2526nsa.html",
+      "title": "2026年 7月24日 新スタッフ就任のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27シーズンよりチー…",
+      "date": "2026-07-24"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/818.html",
       "title": "2026年 7月22日 Day818 『第52回三田納涼カーニバル♪』",
@@ -61,11 +71,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/260629NHCR.html",
       "title": "2026年 6月29日 新監督就任のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27シーズンより指揮…",
       "date": "2026-06-29"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2606-1022.html",
-      "title": "2026年 6月26日 #1022 中野 幹 『本当に大事なのはラグビーのいちばん基本的なプレー』",
-      "date": "2026-06-26"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2526rmmasg.html",
@@ -210,11 +215,6 @@
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/lor9chgeag.html",
       "title": "2026年 2月12日 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第9節 東京サントリーサンゴリアスvs横浜キヤノンイーグルス戦のご案内 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第9節 ※ホストゲーム開幕戦 ■試合…",
-      "date": "2026-02-12"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/28dbctrs.html",
-      "title": "2026年 2月12日 【2/8観戦チケットの取り扱いについて】第7節 東京SGv相模原DB戦の中止に伴うご案内(第1報) いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 積雪の影響により中止となりました、2月…",
       "date": "2026-02-12"
     }
   ]

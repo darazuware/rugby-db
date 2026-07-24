@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-07-23T21:19:45+09:00",
+  "checked_at": "2026-07-24T15:35:07+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,10 +13,15 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "f528682f128b98ad"
+      "hash": "26c865ab6a49fc87"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-07-24/",
+      "title": "能登半島地震 被災地でボランティア活動を行いました",
+      "date": "2026-07-24"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-07-23/",
       "title": "苑田右二 再加入のお知らせ",
@@ -106,11 +111,6 @@
       "url": "https://hino-reddolphins.com/2026-06-15/",
       "title": "6/14日野警察署 痴漢撲滅キャンペーンに参加しました",
       "date": "2026-06-15"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-06-11/",
-      "title": "6/14日野警察署 痴漢撲滅キャンペーン参加のお知らせ",
-      "date": "2026-06-11"
     }
   ]
 }
