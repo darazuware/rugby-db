@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-23T20:49:01+09:00",
+  "checked_at": "2026-07-24T14:17:50+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6078",
+          "title": "クラブ コベルコ神戸スティーラーズ、マシュー・ダルトン選手 2026-27シーズン新加入のお知らせ 2026.07.24",
+          "date": "2026-07-24",
+          "category": "roster"
+        },
+        {
+          "url": "https://league-one.jp/news/6077",
+          "title": "クラブ ルリーロ福岡、2026-27シーズン新体制のお知らせ 2026.07.24",
+          "date": "2026-07-24",
+          "category": "roster"
+        },
+        {
+          "url": "https://league-one.jp/news/6076",
+          "title": "クラブ 東京サントリーサンゴリアス、新スタッフ就任のお知らせ 2026.07.24",
+          "date": "2026-07-24",
+          "category": "roster"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -21,15 +40,15 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54090",
-          "title": "第20回アジア競技大会（愛知・名古屋）プール組分けのお知らせ 2026.7.23 （木） 男子セブンズ日本代表 女子セブンズ日本代表 セブンズ アジア競技大会",
-          "date": "2026-07-23",
+          "url": "https://www.rugby-japan.jp/news/54089",
+          "title": "【来場者サービスのご案内 / 東大阪市花園ラグビー場】リポビタンDチャレンジカップ2026 オーストラリア代表戦 お子様連れのお客様へ 2026.7.24 （金） 15人制男子日本代表 来場者サービス",
+          "date": "2026-07-24",
           "category": "squad"
         },
         {
-          "url": "https://www.rugby-japan.jp/news/54088",
-          "title": "レポート：女子U17キャンプ 沖縄ブロック 2026.7.23 （木） アカデミー・強化育成 女子 高校 TID",
-          "date": "2026-07-23",
+          "url": "https://www.rugby-japan.jp/news/54084",
+          "title": "「JAPAN RUGBY CROWDFUNDING」 夏フェア開始のお知らせ 2026.7.24 （金） その他 JRFU 普及育成 クラウドファンディング",
+          "date": "2026-07-24",
           "category": null
         }
       ],
@@ -48,10 +67,31 @@
   ],
   "highlights": [
     {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6078",
+      "title": "クラブ コベルコ神戸スティーラーズ、マシュー・ダルトン選手 2026-27シーズン新加入のお知らせ 2026.07.24",
+      "date": "2026-07-24",
+      "category": "roster"
+    },
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6077",
+      "title": "クラブ ルリーロ福岡、2026-27シーズン新体制のお知らせ 2026.07.24",
+      "date": "2026-07-24",
+      "category": "roster"
+    },
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6076",
+      "title": "クラブ 東京サントリーサンゴリアス、新スタッフ就任のお知らせ 2026.07.24",
+      "date": "2026-07-24",
+      "category": "roster"
+    },
+    {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54090",
-      "title": "第20回アジア競技大会（愛知・名古屋）プール組分けのお知らせ 2026.7.23 （木） 男子セブンズ日本代表 女子セブンズ日本代表 セブンズ アジア競技大会",
-      "date": "2026-07-23",
+      "url": "https://www.rugby-japan.jp/news/54089",
+      "title": "【来場者サービスのご案内 / 東大阪市花園ラグビー場】リポビタンDチャレンジカップ2026 オーストラリア代表戦 お子様連れのお客様へ 2026.7.24 （金） 15人制男子日本代表 来場者サービス",
+      "date": "2026-07-24",
       "category": "squad"
     }
   ],
