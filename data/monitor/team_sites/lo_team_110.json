@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-07-24T21:14:06+09:00",
+  "checked_at": "2026-07-25T20:57:21+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "2d6774e96749f0d2"
+      "hash": "63fe28771be0ec1e"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "e8a1290bf3b79db0"
+      "hash": "dc5c7c4afd29dd51"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/997",
+      "title": "地域・社会貢献 2026年07月25日 NEW 都城ラグビークリニックを開催しました",
+      "date": "2026-07-25"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/989",
       "title": "お知らせ 2026年07月07日 「ジャパンラグビー リーグワン ライジング 2026」開催決定のお知らせ",
@@ -171,11 +176,6 @@
       "url": "https://www.kyudenvoltex.com/news/970",
       "title": "試合情報 2026年03月15日 【リーグワン | ビジター】3/27(金)レッドハリケーンズ大阪戦のお知らせ",
       "date": "2026-03-15"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/969",
-      "title": "地域・社会貢献 2026年03月12日 太良町立多良小学校でタグラグビー教室を開催しました",
-      "date": "2026-03-12"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/964",

@@ -1,7 +1,13 @@
 {
-  "checked_at": "2026-07-24T21:14:06+09:00",
+  "checked_at": "2026-07-25T20:57:21+09:00",
   "url": "https://www.rugby-japan.jp/news/",
   "items": [
+    {
+      "url": "https://www.rugby-japan.jp/news/54078",
+      "title": "（7/25更新）「JAPAN BASE SEVENS 2026」開催のお知らせ 2026.7.25 （土） セブンズ JAPANBASE",
+      "date": "2026-07-25",
+      "category": null
+    },
     {
       "url": "https://www.rugby-japan.jp/news/54091",
       "title": "2026年度 ポジラグFor Allセミナー 「子どもががんばりたくなる声かけ ～スポーツにおける保護者のコミュニケーション術～」 開催のお知らせ 2026.7.24 （金） その他 普及育成",
@@ -16,6 +22,12 @@
       "url": "https://www.rugby-japan.jp/news/54084",
       "title": "「JAPAN RUGBY CROWDFUNDING」 夏フェア開始のお知らせ 2026.7.24 （金） その他 JRFU 普及育成 クラウドファンディング",
       "date": "2026-07-24"
+    },
+    {
+      "url": "https://www.rugby-japan.jp/news/54082",
+      "title": "（7/24更新）太陽生命ウィメンズセブンズシリーズ2026 第3戦北九州大会 チャレンジチーム福岡合宿および参加メンバーのお知らせ 2026.7.24 （金） アカデミー・強化育成 女子 セブンズ 大会・試合",
+      "date": "2026-07-24",
+      "category": null
     },
     {
       "url": "https://www.rugby-japan.jp/news/54076",
@@ -40,16 +52,6 @@
     {
       "url": "https://www.rugby-japan.jp/news/54088",
       "title": "レポート：女子U17キャンプ 沖縄ブロック 2026.7.23 （木） アカデミー・強化育成 女子 高校 TID",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54087",
-      "title": "男子日本代表 網走合宿参加メンバーのお知らせ 2026.7.23 （木） 15人制男子日本代表 WBB",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54086",
-      "title": "レポート：女子15人制強化・TID合同フォワード合宿 2026.7.23 （木） 15人制女子日本代表 女子",
       "date": "2026-07-23"
     }
   ]
