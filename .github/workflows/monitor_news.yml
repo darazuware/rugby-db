@@ -24,9 +24,9 @@ on:
 permissions:
   contents: write
 
-# daily_update と同時に走るとpush競合するため、監視同士も直列化する。
+# daily_update / scheduled_publish の push と競合しないよう直列化する。
 concurrency:
-  group: monitor-news
+  group: content-push
   cancel-in-progress: false
 
 jobs:

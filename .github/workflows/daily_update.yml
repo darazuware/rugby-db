@@ -21,6 +21,11 @@ on:
 permissions:
   contents: write
 
+# scheduled_publish / monitor_news の push と競合しないよう直列化する。
+concurrency:
+  group: content-push
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
