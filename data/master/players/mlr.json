@@ -27,7 +27,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2026,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -68,7 +68,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -103,7 +103,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -138,7 +138,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -185,7 +185,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2026,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -226,7 +226,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -261,7 +261,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -302,7 +302,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -337,7 +337,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -384,7 +384,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -433,7 +433,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2026,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -474,7 +474,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -509,7 +509,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -550,7 +550,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -591,7 +591,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -634,7 +634,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2022,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -681,7 +681,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -725,7 +725,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -772,7 +772,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -807,7 +807,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2023,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -854,7 +854,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -895,7 +895,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -936,7 +936,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -971,7 +971,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2022,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1014,7 +1014,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1049,7 +1049,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1096,7 +1096,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1131,7 +1131,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1172,7 +1172,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1219,7 +1219,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2022,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1254,7 +1254,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1289,7 +1289,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1330,7 +1330,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1379,7 +1379,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1426,7 +1426,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1467,7 +1467,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1502,7 +1502,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2022,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1543,7 +1543,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1578,7 +1578,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2023,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1613,7 +1613,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1660,7 +1660,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1707,7 +1707,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1744,7 +1744,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2020,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1791,7 +1791,7 @@
       {
         "team": "California Legion",
         "from": 2026,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1828,7 +1828,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2023,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1875,7 +1875,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2021,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1916,7 +1916,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1957,7 +1957,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -1992,7 +1992,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2021,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2030,7 +2030,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2073,7 +2073,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2023,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2114,7 +2114,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2161,7 +2161,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2196,7 +2196,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2243,7 +2243,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2021,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2290,7 +2290,7 @@
       {
         "team": "California Legion",
         "from": 2026,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2325,7 +2325,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2372,7 +2372,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2026,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2407,7 +2407,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2444,7 +2444,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2485,7 +2485,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2532,7 +2532,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2573,7 +2573,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2608,7 +2608,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2655,7 +2655,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2704,7 +2704,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2747,7 +2747,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2788,7 +2788,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2832,7 +2832,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2873,7 +2873,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2908,7 +2908,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -2955,7 +2955,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3002,7 +3002,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3037,7 +3037,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3087,7 +3087,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3137,7 +3137,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2026,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3184,7 +3184,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3219,7 +3219,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3266,7 +3266,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3313,7 +3313,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3354,7 +3354,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3401,7 +3401,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3436,7 +3436,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3483,7 +3483,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3532,7 +3532,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3579,7 +3579,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3626,7 +3626,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3661,7 +3661,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2021,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3702,7 +3702,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2023,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3737,7 +3737,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2021,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3784,7 +3784,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3831,7 +3831,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3866,7 +3866,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3904,7 +3904,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2018,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3945,7 +3945,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -3980,7 +3980,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2023,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4027,7 +4027,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4074,7 +4074,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4109,7 +4109,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2023,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4150,7 +4150,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4191,7 +4191,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4232,7 +4232,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4279,7 +4279,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2026,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4317,7 +4317,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2023,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4364,7 +4364,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2026,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4411,7 +4411,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4446,7 +4446,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2022,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4481,7 +4481,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2019,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4528,7 +4528,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4575,7 +4575,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4613,7 +4613,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2020,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4654,7 +4654,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4695,7 +4695,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4736,7 +4736,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4773,7 +4773,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2023,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4820,7 +4820,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4864,7 +4864,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2022,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4911,7 +4911,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4952,7 +4952,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2022,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -4999,7 +4999,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5040,7 +5040,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5075,7 +5075,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5116,7 +5116,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5151,7 +5151,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5200,7 +5200,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5241,7 +5241,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2022,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5285,7 +5285,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5326,7 +5326,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5363,7 +5363,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2023,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5398,7 +5398,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2022,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5433,7 +5433,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5474,7 +5474,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5515,7 +5515,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5552,7 +5552,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5599,7 +5599,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5640,7 +5640,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5681,7 +5681,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5728,7 +5728,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2023,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5775,7 +5775,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5822,7 +5822,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5866,7 +5866,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5907,7 +5907,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5942,7 +5942,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -5977,7 +5977,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6020,7 +6020,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6061,7 +6061,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6096,7 +6096,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2023,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6143,7 +6143,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6178,7 +6178,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6213,7 +6213,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6262,7 +6262,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6309,7 +6309,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2026,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6344,7 +6344,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6385,7 +6385,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6420,7 +6420,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6470,7 +6470,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6520,7 +6520,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6567,7 +6567,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6610,7 +6610,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6645,7 +6645,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2023,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6680,7 +6680,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6715,7 +6715,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2023,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6750,7 +6750,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6785,7 +6785,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6820,7 +6820,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6855,7 +6855,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6890,7 +6890,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2020,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6931,7 +6931,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -6966,7 +6966,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2019,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7016,7 +7016,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7057,7 +7057,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7104,7 +7104,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7139,7 +7139,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7189,7 +7189,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7239,7 +7239,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7286,7 +7286,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7323,7 +7323,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7364,7 +7364,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7411,7 +7411,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7460,7 +7460,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7495,7 +7495,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7530,7 +7530,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7577,7 +7577,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7621,7 +7621,7 @@
       {
         "team": "California Legion",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7664,7 +7664,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7699,7 +7699,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7736,7 +7736,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7771,7 +7771,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7809,7 +7809,7 @@
       {
         "team": "Old Glory DC RFC",
         "from": 2019,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7856,7 +7856,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2024,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7900,7 +7900,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7935,7 +7935,7 @@
       {
         "team": "Seattle Seawolves",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -7976,7 +7976,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -8017,7 +8017,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -8064,7 +8064,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -8108,7 +8108,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -8157,7 +8157,7 @@
       {
         "team": "California Legion",
         "from": 2026,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -8192,7 +8192,7 @@
       {
         "team": "New England Free Jacks",
         "from": 2021,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -8233,7 +8233,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -8268,7 +8268,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -8317,7 +8317,7 @@
       {
         "team": "Chicago Hounds",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],
@@ -8352,7 +8352,7 @@
       {
         "team": "Anthem Rugby Carolina",
         "from": 2025,
-        "to": 2026,
+        "to": null,
         "source_url": null
       }
     ],

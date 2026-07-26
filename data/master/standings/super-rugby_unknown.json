@@ -1,0 +1,118 @@
+{
+  "league": "super-rugby",
+  "season": "unknown",
+  "scraped_at": "2026-07-26T00:02:37+09:00",
+  "source_url": "https://all.rugby/tournament/super-rugby-pacific/table",
+  "rows": [
+    {
+      "rank": 1,
+      "team_id": "hurricanes",
+      "played": 13,
+      "won": 11,
+      "drawn": 0,
+      "lost": 2,
+      "points": 55,
+      "bonus": null
+    },
+    {
+      "rank": 2,
+      "team_id": "chiefs",
+      "played": 13,
+      "won": 10,
+      "drawn": 0,
+      "lost": 3,
+      "points": 46,
+      "bonus": null
+    },
+    {
+      "rank": 3,
+      "team_id": "blues",
+      "played": 13,
+      "won": 8,
+      "drawn": 0,
+      "lost": 5,
+      "points": 38,
+      "bonus": null
+    },
+    {
+      "rank": 4,
+      "team_id": "crusaders",
+      "played": 13,
+      "won": 7,
+      "drawn": 0,
+      "lost": 6,
+      "points": 36,
+      "bonus": null
+    },
+    {
+      "rank": 5,
+      "team_id": "brumbies",
+      "played": 13,
+      "won": 7,
+      "drawn": 0,
+      "lost": 6,
+      "points": 33,
+      "bonus": null
+    },
+    {
+      "rank": 6,
+      "team_id": "reds",
+      "played": 13,
+      "won": 7,
+      "drawn": 0,
+      "lost": 6,
+      "points": 32,
+      "bonus": null
+    },
+    {
+      "rank": 7,
+      "team_id": "waratahs",
+      "played": 13,
+      "won": 5,
+      "drawn": 0,
+      "lost": 8,
+      "points": 27,
+      "bonus": null
+    },
+    {
+      "rank": 8,
+      "team_id": "western-force",
+      "played": 13,
+      "won": 6,
+      "drawn": 0,
+      "lost": 7,
+      "points": 26,
+      "bonus": null
+    },
+    {
+      "rank": 9,
+      "team_id": "highlanders",
+      "played": 14,
+      "won": 5,
+      "drawn": 0,
+      "lost": 9,
+      "points": 24,
+      "bonus": null
+    },
+    {
+      "rank": 10,
+      "team_id": "fijian-drua",
+      "played": 13,
+      "won": 5,
+      "drawn": 0,
+      "lost": 8,
+      "points": 21,
+      "bonus": null
+    },
+    {
+      "rank": 11,
+      "team_id": "moana-pasifika",
+      "played": 13,
+      "won": 1,
+      "drawn": 0,
+      "lost": 12,
+      "points": 5,
+      "bonus": null
+    }
+  ]
+}

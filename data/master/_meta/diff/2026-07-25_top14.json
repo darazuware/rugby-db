@@ -1,0 +1,30 @@
+{
+  "league": "top14",
+  "signings": [
+    {
+      "id": "ar_loic-varenne",
+      "name_en": "Loïc VARENNE",
+      "name_ja": null,
+      "team_id": "toulouse"
+    },
+    {
+      "id": "ar_mykael-talalua",
+      "name_en": "Mykael TALALUA",
+      "name_ja": null,
+      "team_id": "vannes"
+    }
+  ],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [],
+  "pending_departures": [
+    {
+      "id": "ar_loic-varennes",
+      "name_en": "Loïc VARENNES",
+      "name_ja": null,
+      "team_id": "toulouse"
+    }
+  ],
+  "newly_finished_rounds": []
+}

@@ -75,6 +75,38 @@ describe("dedupePlayersById", () => {
   it("重複が無ければ全件そのまま返す", () => {
     expect(dedupePlayersById([makePlayer({ id: "a" }), makePlayer({ id: "b" })])).toHaveLength(2);
   });
+
+  it("身長体重はscraped_atが新しい方を採用する（食い違い対策）", () => {
+    const club = makePlayer({
+      id: "ar_1", slug: "s", league: "top14", team_id: "pau",
+      height_cm: 170, weight_kg: 88, scraped_at: "2026-07-18T14:32:06+09:00",
+    });
+    const nat = makePlayer({
+      id: "ar_1", slug: "s", league: "national", team_id: "france",
+      height_cm: 175, weight_kg: 90, scraped_at: "2026-07-23T23:56:55+09:00",
+    });
+
+    const result = dedupePlayersById([club, nat]);
+    expect(result).toHaveLength(1);
+    expect(result[0].team_id).toBe("pau"); // canonical はクラブ側のまま
+    expect(result[0].height_cm).toBe(175); // が、より新しい national 側の値を採用
+    expect(result[0].weight_kg).toBe(90);
+  });
+
+  it("相手側の方が古ければ身長体重は上書きしない", () => {
+    const club = makePlayer({
+      id: "ar_1", slug: "s", league: "top14", team_id: "pau",
+      height_cm: 170, weight_kg: 88, scraped_at: "2026-07-23T23:56:55+09:00",
+    });
+    const nat = makePlayer({
+      id: "ar_1", slug: "s", league: "national", team_id: "france",
+      height_cm: 175, weight_kg: 90, scraped_at: "2026-07-18T14:32:06+09:00",
+    });
+
+    const result = dedupePlayersById([club, nat]);
+    expect(result[0].height_cm).toBe(170);
+    expect(result[0].weight_kg).toBe(88);
+  });
 });
 
 describe("applyPlayerMerges", () => {

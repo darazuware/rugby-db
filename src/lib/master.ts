@@ -267,6 +267,7 @@ export function applyPlayerMerges(players: Player[], merges: PlayerMerges): Play
  * - canonical はクラブ側（league !== "national"）。所属チームページとの整合を優先する。
  *   全レコードが national の場合は最初のレコードを canonical にする。
  * - canonical が null/空の項目のみ相手側から補う（既存値は上書きしない。applyPlayerMerges と同じ方針）。
+ *   例外: height_cm/weight_kg はscraped_atがより新しい方の値を採用する（食い違い対策。後述）。
  * - id が同じなので merged_from には積まない（別 id の人物統合は player_merges 側の役目）。
  */
 export function dedupePlayersById(players: Player[]): Player[] {
@@ -298,8 +299,21 @@ export function dedupePlayersById(players: Player[]): Player[] {
     if ((canonical.career?.length ?? 0) === 0) canonical.career = other.career;
     if ((canonical.education?.length ?? 0) === 0) canonical.education = other.education;
     if (canonical.season_stats == null) canonical.season_stats = other.season_stats;
-    if (canonical.height_cm == null) canonical.height_cm = other.height_cm;
-    if (canonical.weight_kg == null) canonical.weight_kg = other.weight_kg;
+    // 身長体重は取得元ページのスナップショットのため、リーグ間で値が食い違うことがある
+    // （同じ選手・同じsourceでもページ取得時期によって表記が変わる）。scraped_atが
+    // より新しい方を正とする（同値・比較不能なら既存値を優先=挙動を変えない）。
+    const otherIsNewer = !!other.scraped_at && !!canonical.scraped_at
+      && other.scraped_at > canonical.scraped_at;
+    if (otherIsNewer && other.height_cm != null) {
+      canonical.height_cm = other.height_cm;
+    } else if (canonical.height_cm == null) {
+      canonical.height_cm = other.height_cm;
+    }
+    if (otherIsNewer && other.weight_kg != null) {
+      canonical.weight_kg = other.weight_kg;
+    } else if (canonical.weight_kg == null) {
+      canonical.weight_kg = other.weight_kg;
+    }
     if (canonical.birthdate == null) canonical.birthdate = other.birthdate;
     if (canonical.name_ja == null) canonical.name_ja = other.name_ja;
     if (canonical.name_kana == null) canonical.name_kana = other.name_kana;

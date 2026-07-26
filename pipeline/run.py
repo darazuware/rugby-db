@@ -38,10 +38,10 @@ SCRAPERS: dict[str, object] = {
     "top14": lambda: all_rugby.collect("top14"),
     "super-rugby": lambda: all_rugby.collect("super-rugby-pacific"),
     "mlr": lambda: all_rugby.collect("mlr"),
-    # P4-6: URC/Premiership は部分収集（チーム全件＋日本人・代表キャップ保持者のみ、
-    # 選定基準は all_rugby.collect_star docstring 参照）
-    "urc": lambda: all_rugby.collect_star("urc"),
-    "premiership": lambda: all_rugby.collect_star("premiership"),
+    # 2026-07-26: フルスコッド化（旧 P4-6 部分収集を廃止）。with_caps=True で
+    # national.json（日本代表＋直近対戦国のみ）がカバーしない国の代表キャップも取得する。
+    "urc": lambda: all_rugby.collect("urc", with_caps=True),
+    "premiership": lambda: all_rugby.collect("premiership", with_caps=True),
     "national": lambda: all_rugby.collect_national(),
     "sevens-national": lambda: jrfu.collect_sevens(),
     "age-grade": lambda: jrfu.collect_age_grade(),

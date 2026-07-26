@@ -10,22 +10,23 @@
 `ALL_RUGBY_ENRICH=1` を立てると個別ページを辿って nationality/career を補完する。
 
 公開関数:
-    collect(tournament) -> {"players","teams","matches","standings","warnings"}
-      tournament は "top14" / "super-rugby-pacific"。run.py の SCRAPERS から呼ぶ。
+    collect(tournament, *, with_caps=False) -> {"players","teams","matches","standings","warnings"}
+      tournament は "top14" / "super-rugby-pacific" / "mlr" / "urc" / "premiership"。
+      run.py の SCRAPERS から呼ぶ。with_caps=True の場合、選手個別ページを全員enrichし
+      （ALL_RUGBY_ENRICH フラグに関わらず常に）、代表テストキャップも取得する
+      （URC/Premiership のようにnational.json（日本代表＋直近対戦国のみ）でカバーされない
+      国の代表キャップを補うため。2026-07-26: 旧 collect_star の部分収集(P4-6)は
+      フルスコッド化に伴い廃止し、この with_caps フラグに統合）。
     collect_national() -> 同形式（P1-7）。日本代表＋pipeline.scrape.jrfu が返す
       直近対戦国のみのスコッドを対象とし、テストキャップ enrich は常時行う
       （対象人数が少ないため ALL_RUGBY_ENRICH フラグに依存しない）。
-    collect_star(tournament) -> 同形式（P4-6）。tournament は "urc" / "premiership"。
-      00の条件付きスコープ（フルスコッドは取得しない）に従い、選手個別ページを
-      全員enrichした上で「日本人選手」または「代表テストキャップがソースに記載」の
-      いずれかを満たす選手のみを収集する（機械的に確認可能な基準のみ使用、AIの
-      恣意的選定は行わない）。Team は roster_mode="partial" で書き込む。
 """
 from __future__ import annotations
 
 import os
 import re
 import time
+from datetime import datetime, timezone, timedelta
 from typing import Optional
 
 import requests
@@ -34,6 +35,7 @@ from bs4 import BeautifulSoup
 from pipeline import io
 from pipeline.transform import normalize
 
+JST = timezone(timedelta(hours=9))
 BASE = "https://all.rugby"
 _HEADERS = {
     "User-Agent": (
@@ -55,17 +57,13 @@ TOURNAMENTS = {
     "top14": {"key": "top-14", "league": "top14"},
     "super-rugby-pacific": {"key": "super-rugby-pacific", "league": "super-rugby"},
     "mlr": {"key": "mlr", "league": "mlr"},
-}
-
-# P4-6: 部分収集トーナメント（00 条件付きスコープ: チームページ＋日本人・スター選手のみ、
-# フルスコッド名鑑はやらない）。key は all.rugby の URL キー（2026-07-19 に実ページで確認:
-#   /tournament/urc/table → title "URC Table 2025 / 2026 (BKT United Rugby Championship)"、club 16件
-#     (benetton/bulls/cardiff/connacht/dragons/edinburgh/glasgow/leinster/lions/munster/
-#      ospreys/scarlets/sharks/stormers/ulster/zebre)
-#   /tournament/premiership/table → title "Premiership Table 2025 / 2026 (Gallagher Premiership)"、club 10件
-#     (bath/bristol/exeter/gloucester/harlequins/leicester/newcastle/northampton/sale/saracens)
-#   ※ united-rugby-championship / premiership-rugby / gallagher-premiership は 404）。
-STAR_TOURNAMENTS = {
+    # key は all.rugby の URL キー（2026-07-19 に実ページで確認:
+    #   /tournament/urc/table → title "URC Table 2025 / 2026 (BKT United Rugby Championship)"、club 16件
+    #     (benetton/bulls/cardiff/connacht/dragons/edinburgh/glasgow/leinster/lions/munster/
+    #      ospreys/scarlets/sharks/stormers/ulster/zebre)
+    #   /tournament/premiership/table → title "Premiership Table 2025 / 2026 (Gallagher Premiership)"、club 10件
+    #     (bath/bristol/exeter/gloucester/harlequins/leicester/newcastle/northampton/sale/saracens)
+    #   ※ united-rugby-championship / premiership-rugby / gallagher-premiership は 404）。
     "urc": {"key": "urc", "league": "urc"},
     "premiership": {"key": "premiership", "league": "premiership"},
 }
@@ -240,8 +238,11 @@ def parse_squad(html: str) -> list[dict]:
     return out
 
 
-def parse_player_bio(html: str) -> dict:
-    """選手個別ページ → {'nationality': [...], 'career': [...]}（enrich 用の純パース）。"""
+def parse_player_bio(html: str, *, now_year: Optional[int] = None) -> dict:
+    """選手個別ページ → {'nationality': [...], 'career': [...]}（enrich 用の純パース）。
+
+    now_year: テスト用に「取得時点の年」を固定する。省略時は実行時の年（JST）。
+    """
     soup = BeautifulSoup(html, "html.parser")
     nats: list[str] = []
     bio = soup.find("div", class_="bio")
@@ -267,11 +268,21 @@ def parse_player_bio(html: str) -> dict:
                                "from": m.group(2), "to": m.group(3)})
             elif t:
                 career.append({"team": t})
+    current_year = now_year if now_year is not None else datetime.now(JST).year
+    if career and career[-1].get("to") == str(current_year):
+        # all.rugby は在籍中チームにも "present" マーカーを出さず、単に取得時点の
+        # 年をtoに表示する（サイト側の仕様）。career は時系列順のため、末尾要素の
+        # to が取得年と一致する場合は在籍中とみなしnull化する（=現在も所属中）。
+        career[-1] = {**career[-1], "to": None}
     return {"nationality": nats, "career": career}
 
 
-def _enrich(raw: dict) -> None:
-    """選手個別ページから nationality/career を補完（ALL_RUGBY_ENRICH 時のみ）。"""
+def _enrich(raw: dict, *, with_caps: bool = False) -> None:
+    """選手個別ページから nationality/career を補完（ALL_RUGBY_ENRICH または with_caps 時）。
+
+    with_caps=True の場合は代表テストキャップも取得する（national.json（日本代表＋
+    直近対戦国のみ）でカバーされないリーグ向け。旧 _enrich_star を統合）。
+    """
     html = _get(f"{BASE}/player/{raw['slug']}")
     time.sleep(_SLEEP)
     if html is None:
@@ -281,6 +292,16 @@ def _enrich(raw: dict) -> None:
         raw["nationality"] = bio["nationality"]
     if bio["career"]:
         raw["career"] = bio["career"]
+    if with_caps:
+        country = parse_sporting_nationality(html)
+        if country:
+            caps_count = parse_player_caps(html, country)
+            if caps_count is not None and caps_count > 0:
+                raw["caps"] = {
+                    "team": country,
+                    "count": caps_count,
+                    "source_url": f"{BASE}/player/{raw['slug']}",
+                }
 
 
 def parse_player_caps(html: str, country_display: str) -> Optional[int]:
@@ -339,32 +360,6 @@ def parse_sporting_nationality(html: str) -> Optional[str]:
     return None
 
 
-def _enrich_star(raw: dict) -> None:
-    """P4-6 用 enrich: 選手個別ページ1回のfetchで nationality/career/テストキャップを補完。
-
-    テストキャップは bio の Sporting nationality（代表資格国）に対する通算試合数
-    （parse_player_caps、JOverall の TEAM 集計）をソース記載値のままセットする。
-    収集対象の選別に必要なため ALL_RUGBY_ENRICH フラグに関わらず常に行う。
-    """
-    html = _get(f"{BASE}/player/{raw['slug']}")
-    time.sleep(_SLEEP)
-    if html is None:
-        return
-    bio = parse_player_bio(html)
-    if bio["nationality"]:
-        raw["nationality"] = bio["nationality"]
-    if bio["career"]:
-        raw["career"] = bio["career"]
-    country = parse_sporting_nationality(html)
-    if country:
-        caps_count = parse_player_caps(html, country)
-        if caps_count is not None and caps_count > 0:
-            raw["caps"] = {
-                "team": country,
-                "count": caps_count,
-                "source_url": f"{BASE}/player/{raw['slug']}",
-            }
-
 
 def _enrich_national(raw: dict, country_display: str) -> None:
     """national squad 用 enrich: nationality/career/代表通算試合数を1回のfetchで補完。
@@ -390,8 +385,12 @@ def _enrich_national(raw: dict, country_display: str) -> None:
         }
 
 
-def collect(tournament: str) -> dict:
-    """tournament = 'top14' 等。players/teams/standings（transform 済み）を返す。"""
+def collect(tournament: str, *, with_caps: bool = False) -> dict:
+    """tournament = 'top14' 等。players/teams/standings（transform 済み）を返す。
+
+    with_caps=True の場合、ALL_RUGBY_ENRICH フラグに関わらず個別ページenrichを行い
+    代表テストキャップも取得する（URC/Premiership 用。旧 collect_star を統合）。
+    """
     cfg = TOURNAMENTS[tournament]
     league = cfg["league"]
     warnings: list[str] = []
@@ -427,8 +426,8 @@ def collect(tournament: str) -> dict:
             if raw["slug"] in seen_players:
                 continue
             seen_players.add(raw["slug"])
-            if _ENRICH:
-                _enrich(raw)
+            if _ENRICH or with_caps:
+                _enrich(raw, with_caps=with_caps)
             player, pw = normalize.player_allrugby(raw, league=league, team_id=slug)
             warnings.extend(pw)
             if player is None:
@@ -439,95 +438,6 @@ def collect(tournament: str) -> dict:
         team, tw = normalize.team_allrugby(
             {"slug": slug, "name_ja": NAME_JA.get(slug), "roster_ids": roster_ids},
             league=league,
-        )
-        warnings.extend(tw)
-        if team is not None:
-            teams_out.append(team)
-
-    standings_out: list[dict] = []
-    valid = {t["id"] for t in teams_out}
-    rows = [r for r in standing_rows_raw if r["team_id"] in valid]
-    standing, sw = normalize.standing_allrugby(
-        rows, league=league, season=season,
-        source_url=f"{BASE}/tournament/{cfg['key']}/table",
-    )
-    warnings.extend(sw)
-    if standing is not None:
-        standings_out.append(standing)
-
-    return {
-        "players": players_out,
-        "teams": teams_out,
-        "matches": [],
-        "standings": standings_out,
-        "warnings": warnings,
-    }
-
-
-def collect_star(tournament: str) -> dict:
-    """P4-6: URC / Premiership の部分収集（00 条件付きスコープ厳守）。
-
-    チームと順位表は全件、選手は以下の**機械的に確認可能な基準**を満たす者のみ収集する
-    （AIの知識による恣意的な「スター」選定はしない。00「有名選手」定義=代表キャップ
-    保持者、および本タスク指示の「日本人選手」に対応）:
-      (a) 日本人選手: 選手個別ページ bio の国籍国旗に Japan が含まれる
-      (b) スター選手: 選手個別ページの通算成績表に Sporting nationality（代表資格国）の
-          テストキャップ（通算試合数 >= 1）が記載されている
-    判定のため squad 全員の個別ページを1回ずつ fetch する（_enrich_star）。
-    基準を満たさない選手・個別ページ取得失敗で判定不能な選手は master に書かない。
-    Team は roster_mode="partial"（03: roster_sym 検証免除、01 L108）で書き込む。
-    """
-    cfg = STAR_TOURNAMENTS[tournament]
-    league = cfg["league"]
-    warnings: list[str] = []
-
-    html = _get(f"{BASE}/tournament/{cfg['key']}/table")
-    time.sleep(_SLEEP)
-    if html is None:
-        warnings.append(f"{league}: トーナメント表取得失敗")
-        return {"players": [], "teams": [], "matches": [], "standings": [], "warnings": warnings}
-
-    club_slugs, standing_rows_raw = parse_tournament_table(html)
-    sm = re.search(r"(20\d{2})\s*/\s*(20\d{2})", html)
-    season = f"{sm.group(1)}-{sm.group(2)[2:]}" if sm else "unknown"
-    if _MAX_TEAMS:
-        club_slugs = club_slugs[:_MAX_TEAMS]
-
-    teams_out: list[dict] = []
-    players_out: list[dict] = []
-    seen_players: set[str] = set()
-
-    for slug in club_slugs:
-        shtml = _get(f"{BASE}/club/{slug}/squad")
-        time.sleep(_SLEEP)
-        if shtml is None:
-            warnings.append(f"{league}: club/{slug}/squad 取得失敗、スキップ")
-            continue
-        squad = parse_squad(shtml)
-        if _MAX_PLAYERS:
-            squad = squad[:_MAX_PLAYERS]
-
-        roster_ids: list[str] = []
-        for raw in squad:
-            if raw["slug"] in seen_players:
-                continue
-            seen_players.add(raw["slug"])
-            _enrich_star(raw)
-            # 選別（上記 docstring の機械的基準のみ）
-            is_japanese = "Japan" in raw.get("nationality", [])
-            has_test_caps = raw.get("caps") is not None
-            if not (is_japanese or has_test_caps):
-                continue
-            player, pw = normalize.player_allrugby(raw, league=league, team_id=slug)
-            warnings.extend(pw)
-            if player is None:
-                continue
-            players_out.append(player)
-            roster_ids.append(player["id"])
-
-        team, tw = normalize.team_allrugby(
-            {"slug": slug, "name_ja": NAME_JA.get(slug), "roster_ids": roster_ids},
-            league=league, roster_mode="partial",
         )
         warnings.extend(tw)
         if team is not None:

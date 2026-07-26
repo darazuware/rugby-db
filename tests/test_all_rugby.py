@@ -61,12 +61,25 @@ def test_team_allrugby_uses_slug_id():
 
 
 def test_parse_player_bio_enrich():
-    bio = all_rugby.parse_player_bio(_read("ar_player.html"))
+    # フィクスチャの末尾チームは "2026" までの表記だが、実際は在籍中（現在年と
+    # 一致するため to=None に正規化される想定）。過去年は現在年扱いされない。
+    bio = all_rugby.parse_player_bio(_read("ar_player.html"), now_year=2030)
     assert "France" in bio["nationality"]
     teams = [c["team"] for c in bio["career"]]
     assert "Stade Toulousain" in teams
     tou = next(c for c in bio["career"] if c["team"] == "Stade Toulousain")
     assert tou["from"] == "2017" and tou["to"] == "2026"
+
+
+def test_parse_player_bio_current_team_to_nulled():
+    # 取得時点の年（now_year）と末尾チームの to が一致する場合は在籍中とみなし
+    # to を None 化する（all.rugby は在籍中チームにも "present" マーカーを出さない）。
+    bio = all_rugby.parse_player_bio(_read("ar_player.html"), now_year=2026)
+    tou = next(c for c in bio["career"] if c["team"] == "Stade Toulousain")
+    assert tou["from"] == "2017" and tou["to"] is None
+    # 過去のチームは変更されない
+    cas = next(c for c in bio["career"] if c["team"] == "Castres Olympique")
+    assert cas["from"] == "2014" and cas["to"] == "2017"
 
 
 def test_super_rugby_tournament_registered():
@@ -95,13 +108,13 @@ def test_enriched_career_validates():
 
 
 # ---------------------------------------------------------------------------
-# P4-6: URC / Premiership 部分収集（collect_star）
+# URC / Premiership フルスコッド収集（with_caps）
 # ---------------------------------------------------------------------------
 
 def test_star_tournaments_registered():
-    # 実ページ確認済みキー（all_rugby.STAR_TOURNAMENTS のコメント参照）
-    assert all_rugby.STAR_TOURNAMENTS["urc"] == {"key": "urc", "league": "urc"}
-    assert all_rugby.STAR_TOURNAMENTS["premiership"] == {
+    # 実ページ確認済みキー（all_rugby.TOURNAMENTS のコメント参照）
+    assert all_rugby.TOURNAMENTS["urc"] == {"key": "urc", "league": "urc"}
+    assert all_rugby.TOURNAMENTS["premiership"] == {
         "key": "premiership", "league": "premiership"}
 
 
@@ -175,28 +188,32 @@ def _star_fixture_pages():
     }
 
 
-def test_collect_star_filters_players(monkeypatch):
+def test_collect_with_caps_keeps_full_squad(monkeypatch):
+    # 2026-07-26: フルスコッド化。日本人/キャップ保持者による絞り込みはせず全員収集するが、
+    # with_caps=True の場合は代表テストキャップの取得は引き続き行う。
     pages = _star_fixture_pages()
     monkeypatch.setattr(all_rugby, "_get", lambda url: pages.get(url))
     monkeypatch.setattr(all_rugby, "_SLEEP", 0)
 
-    result = all_rugby.collect_star("urc")
+    result = all_rugby.collect("urc", with_caps=True)
 
     ids = [p["id"] for p in result["players"]]
-    # 日本人（bio 国籍に Japan）と代表テストキャップ保持者のみ。無キャップ非日本人は除外
-    assert ids == ["ar_jp-taro", "ar_cap-holder"]
+    # 絞り込みなし: 無キャップの非日本人選手も含め squad 全員が収集される
+    assert ids == ["ar_jp-taro", "ar_cap-holder", "ar_no-star"]
     cap_holder = next(p for p in result["players"] if p["id"] == "ar_cap-holder")
     assert cap_holder["caps"] == {
         "team": "Ireland", "count": 25,
         "source_url": "https://all.rugby/player/cap-holder"}
+    no_star = next(p for p in result["players"] if p["id"] == "ar_no-star")
+    assert no_star["caps"] is None  # JOverall の TEAM 集計に Ireland 行が無く判定不能のため未設定
     assert all(p["league"] == "urc" and p["team_id"] == "testclub"
                for p in result["players"])
 
-    # チームは全件・partial（03: roster_sym 免除）、roster_ids は収集選手のみ
+    # チームは全件・full（フルスコッド化）、roster_ids は収集選手全員
     assert len(result["teams"]) == 1
     team = result["teams"][0]
-    assert team["roster_mode"] == "partial"
-    assert team["roster_ids"] == ["ar_jp-taro", "ar_cap-holder"]
+    assert team["roster_mode"] == "full"
+    assert team["roster_ids"] == ["ar_jp-taro", "ar_cap-holder", "ar_no-star"]
 
     # 順位表は全チーム分
     assert len(result["standings"]) == 1

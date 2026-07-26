@@ -1,8 +1,8 @@
 {
   "top14": {
-    "run_at": "2026-07-18T14:32:09+09:00",
+    "run_at": "2026-07-25T23:05:45+09:00",
     "counts": {
-      "players": 1106,
+      "players": 1107,
       "teams": 14
     },
     "warnings": [
@@ -23,24 +23,12 @@
     ]
   },
   "super-rugby": {
-    "run_at": "2026-07-18T14:32:50+09:00",
+    "run_at": "2026-07-26T00:02:37+09:00",
     "counts": {
       "players": 545,
       "teams": 11
     },
-    "warnings": [
-      "super-rugby standings: team=hurricanes の数値欠落のため行を除外",
-      "super-rugby standings: team=chiefs の数値欠落のため行を除外",
-      "super-rugby standings: team=blues の数値欠落のため行を除外",
-      "super-rugby standings: team=crusaders の数値欠落のため行を除外",
-      "super-rugby standings: team=brumbies の数値欠落のため行を除外",
-      "super-rugby standings: team=reds の数値欠落のため行を除外",
-      "super-rugby standings: team=waratahs の数値欠落のため行を除外",
-      "super-rugby standings: team=western-force の数値欠落のため行を除外",
-      "super-rugby standings: team=highlanders の数値欠落のため行を除外",
-      "super-rugby standings: team=fijian-drua の数値欠落のため行を除外",
-      "super-rugby standings: team=moana-pasifika の数値欠落のため行を除外"
-    ]
+    "warnings": []
   },
   "league-one-d1": {
     "run_at": "2026-07-20T12:31:23+09:00",
@@ -159,17 +147,17 @@
     ]
   },
   "urc": {
-    "run_at": "2026-07-19T11:52:36+09:00",
+    "run_at": "2026-07-26T06:39:40+09:00",
     "counts": {
-      "players": 226,
+      "players": 962,
       "teams": 16
     },
     "warnings": []
   },
   "premiership": {
-    "run_at": "2026-07-19T12:54:37+09:00",
+    "run_at": "2026-07-26T07:10:56+09:00",
     "counts": {
-      "players": 120,
+      "players": 637,
       "teams": 10
     },
     "warnings": []
