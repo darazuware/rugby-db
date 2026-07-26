@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-26T15:43:48+09:00",
+  "checked_at": "2026-07-26T20:55:45+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -132,14 +132,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 26,
-      "new_items": [
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3149",
-          "title": "2026.7.26[SUN] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（7/20～7/24）",
-          "date": "2026-07-26",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -314,9 +307,7 @@
       "first_run": false,
       "item_count": 46,
       "new_items": [],
-      "changed_pages": [
-        "https://www.skyactivs.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
