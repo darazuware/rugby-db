@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-07-25T20:57:21+09:00",
+  "checked_at": "2026-07-26T15:43:48+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "1ae5609bcd4723dc"
+      "hash": "5ca47816dfc9a592"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "aefd648c4985f6d2"
+      "hash": "f8489fddddcd88c3"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3149",
+      "title": "2026.7.26[SUN] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（7/20～7/24）",
+      "date": "2026-07-26"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3147",
       "title": "2026.7.23[THU] TICKET シーズンシートは8月から取扱開始",
@@ -101,11 +106,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3136",
       "title": "2026.7.2[THU] TEAM 新規加入選手のお知らせ",
       "date": "2026-07-02"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3131",
-      "title": "2026.7.1[WED] OTHERS 組織体制変更のお知らせ",
-      "date": "2026-07-01"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3127",
