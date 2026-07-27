@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-27T18:43:37+09:00",
+  "checked_at": "2026-07-27T21:53:49+09:00",
   "teams": [],
   "sources": [
     {
@@ -19,14 +19,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54075",
-          "title": "【アサヒスーパードライ パシフィックネーションズカップ2026】チケット情報 2026.7.27 （月） 15人制男子日本代表 チケット WBB",
-          "date": "2026-07-27",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -40,15 +33,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54075",
-      "title": "【アサヒスーパードライ パシフィックネーションズカップ2026】チケット情報 2026.7.27 （月） 15人制男子日本代表 チケット WBB",
-      "date": "2026-07-27",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
