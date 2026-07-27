@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-27T16:42:09+09:00",
+  "checked_at": "2026-07-27T22:33:10+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -32,9 +32,12 @@
       "official_url": "https://panasonic.co.jp/sports/wildknights/",
       "status": "ok",
       "first_run": false,
-      "item_count": 34,
+      "item_count": 33,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -45,14 +48,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [
-        {
-          "url": "https://www.bravelupus.com/news/260727/",
-          "title": "カンタベリー×BL東京コラボグッズ30％OFF販売のお知らせ",
-          "date": "2026-07-27",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.bravelupus.com/",
         "https://www.bravelupus.com/news/"
@@ -106,18 +102,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 13,
-      "new_items": [
-        {
-          "url": "https://www.canon-eagles.jp/news/supporters/20260727.html",
-          "title": "2026.07.27 SUPPORTER サポーターズクラブからのお知らせ（夏期休業について）",
-          "date": "2026-07-27",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.canon-eagles.jp/",
-        "https://www.canon-eagles.jp/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -130,14 +116,8 @@
       "item_count": 5,
       "new_items": [
         {
-          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20260727a.html",
-          "title": "8月2日(日) ビジャレアルC.F.ともに「スポーツチームと考える“人づくり・街づくり” カンファレンス」開催のお知らせ",
-          "date": "2026-07-27",
-          "category": null
-        },
-        {
-          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260727b.html",
-          "title": "ラムズの夏休み2026 堀米航平選手＆お母様による特別レッスン「ナイトピラティス」のお知らせ",
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260727d.html",
+          "title": "ゴールポストカバー アップサイクルキーホルダー発売のお知らせ",
           "date": "2026-07-27",
           "category": null
         }
@@ -156,9 +136,7 @@
       "first_run": false,
       "item_count": 56,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kubota-spears.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -171,14 +149,8 @@
       "item_count": 27,
       "new_items": [
         {
-          "url": "https://www.shizuoka-bluerevs.com/news/3150",
-          "title": "2026.7.27[MON] HOST AREA 【ホストエリア活動】菊川市 令和8年度「親子スポーツ教室」にてラグビー体験を実施しました",
-          "date": "2026-07-27",
-          "category": null
-        },
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3148",
-          "title": "2026.7.27[MON] HOST AREA 【ホストエリア活動】富士市ラグビー体験教室「ふじラグ」第2弾にてラグビー体験教室を実施しました",
+          "url": "https://www.shizuoka-bluerevs.com/news/3151",
+          "title": "2026.7.27[MON] TEAM アナリスト(インターン)募集のお知らせ",
           "date": "2026-07-27",
           "category": null
         }
@@ -197,18 +169,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627jljsg.html",
-          "title": "2026年 7月27日 2026-27シーズン新加入選手のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27シーズンよりチー…",
-          "date": "2026-07-27",
-          "category": "roster"
-        }
-      ],
-      "changed_pages": [
-        "https://www.suntory.co.jp/culture-sports/sungoliath/",
-        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -245,10 +207,7 @@
       "item_count": 24,
       "new_items": [],
       "changed_pages": [
-        "https://blue-sharks.jp/",
-        "https://blue-sharks.jp/information/",
-        "https://blue-sharks.jp/news/",
-        "https://blue-sharks.jp/category/news/"
+        "https://blue-sharks.jp/"
       ],
       "rename_signals": []
     },
@@ -305,17 +264,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 18,
-      "new_items": [
-        {
-          "url": "https://hino-reddolphins.com/2026-07-27/",
-          "title": "株式会社フィールド・パートナーズを表敬訪問しました",
-          "date": "2026-07-27",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -408,18 +358,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 11,
-      "new_items": [
-        {
-          "url": "https://leriro-fukuoka.com/news-detail?id=267",
-          "title": "8月参加イベントのお知らせ",
-          "date": "2026-07-27",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://leriro-fukuoka.com/",
-        "https://leriro-fukuoka.com/news"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -464,20 +404,14 @@
       "url": "https://www.world.rugby/news",
       "status": "ok",
       "first_run": false,
-      "item_count": 1,
+      "item_count": 0,
       "new_items": [],
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "東京サントリーサンゴリアス",
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627jljsg.html",
-      "title": "2026年 7月27日 2026-27シーズン新加入選手のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27シーズンよりチー…",
-      "date": "2026-07-27",
-      "category": "roster"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
-  "warnings": []
+  "warnings": [
+    "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
+  ]
 }

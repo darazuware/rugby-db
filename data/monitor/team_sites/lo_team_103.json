@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-07-27T16:42:09+09:00",
+  "checked_at": "2026-07-27T22:33:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "cf52d25bc39b5210"
+      "hash": "8ee6c5557bab58d3"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "130196f1b6771138"
+      "hash": "fdb5a58319e7501d"
     }
   ],
   "items": [

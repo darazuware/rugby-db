@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-07-27T16:42:09+09:00",
+  "checked_at": "2026-07-27T22:33:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "d1acc9bc6c318a5f"
+      "hash": "d1b9f220485baec6"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "c95d922c0b186252"
+      "hash": "a1dede0fe1b187c8"
     }
   ],
   "items": [
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/team/schedule/",
+      "title": "チーム 2026年07月27日 8月度チームスケジュール ニュースを見る",
+      "date": "2026-07-27"
+    },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260722_01/",
       "title": "活動レポート 2026年07月22日 留学記：NZ編 石川槙人⑥ ニュースを見る",
@@ -61,16 +66,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260624_01/",
       "title": "活動レポート 2026年06月24日 留学記：NZ編 田島貫太郎① ニュースを見る",
       "date": "2026-06-24"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/team/schedule/",
-      "title": "チーム 2026年06月23日 7月度チームスケジュール ニュースを見る",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260617_02/",
-      "title": "チーム 2026年06月17日 MissBlue 2026-2027シーズンメンバー募集のお知らせ ニュースを見る",
-      "date": "2026-06-17"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260617_01/",
