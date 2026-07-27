@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-07-26T20:55:45+09:00",
+  "checked_at": "2026-07-27T16:42:09+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "d3a566ea31500fba"
+      "hash": "cf52d25bc39b5210"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "f44745d04edeca7c"
+      "hash": "130196f1b6771138"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/260727/",
+      "title": "カンタベリー×BL東京コラボグッズ30％OFF販売のお知らせ",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/",
+      "title": "記事一覧",
+      "date": "2026-07-27"
+    },
     {
       "url": "https://www.bravelupus.com/news/260723_2/",
       "title": "2026-27シーズン新加入選手（追加）のお知らせ",
@@ -25,11 +35,6 @@
     {
       "url": "https://www.bravelupus.com/news/260723/",
       "title": "2026-27シーズン新体制、新加入スタッフのお知らせ",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/",
-      "title": "記事一覧",
       "date": "2026-07-23"
     },
     {
@@ -221,11 +226,6 @@
       "url": "https://www.bravelupus.com/news/20260421/",
       "title": "新製品グッズ販売のお知らせ",
       "date": "2026-04-21"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/20260417/",
-      "title": "グッズ会場受取りサービスのお知らせ",
-      "date": "2026-04-17"
     }
   ]
 }

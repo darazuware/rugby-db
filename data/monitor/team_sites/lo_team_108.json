@@ -3,16 +3,26 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-07-26T20:55:45+09:00",
+  "checked_at": "2026-07-27T16:42:09+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "5b2290cc823f9ffb"
+      "hash": "160232021b4b4d69"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20260727a.html",
+      "title": "8月2日(日) ビジャレアルC.F.ともに「スポーツチームと考える“人づくり・街づくり” カンファレンス」開催のお知らせ",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260727b.html",
+      "title": "ラムズの夏休み2026 堀米航平選手＆お母様による特別レッスン「ナイトピラティス」のお知らせ",
+      "date": "2026-07-27"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260724b.html",
       "title": "ニュージーランド留学レポート②（青木拓己選手）",
@@ -27,16 +37,6 @@
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260724a.html",
       "title": "ラムズの夏休み2026限定『Japan Rugby ID』登録キャンペーンのお知らせ",
       "date": "2026-07-24"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260723a.html",
-      "title": "メイン平選手が日本代表 網走合宿参加メンバーに選出されました",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260722a.html",
-      "title": "「BlackRamsTokyoが二子玉川ライズにやってくる！ラムズの夏休み2026」詳細情報",
-      "date": "2026-07-22"
     }
   ]
 }
