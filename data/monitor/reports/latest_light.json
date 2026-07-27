@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-27T14:46:47+09:00",
+  "checked_at": "2026-07-27T18:43:37+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,14 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6079",
-          "title": "クラブ 東京サントリーサンゴリアス、2026-27シーズン新加入選手のお知らせ 2026.07.27",
-          "date": "2026-07-27",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -28,22 +21,10 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54086",
-          "title": "（7/27更新）レポート：女子15人制強化・TID合同フォワード合宿 2026.7.27 （月） 15人制女子日本代表 女子",
+          "url": "https://www.rugby-japan.jp/news/54075",
+          "title": "【アサヒスーパードライ パシフィックネーションズカップ2026】チケット情報 2026.7.27 （月） 15人制男子日本代表 チケット WBB",
           "date": "2026-07-27",
           "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54077",
-          "title": "（7/27更新）SMBCカップ 第23回全国小学生タグラグビー大会開催のお知らせ 2026.7.27 （月） 小学生 タグラグビー 大会 普及育成",
-          "date": "2026-07-27",
-          "category": null
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54085",
-          "title": "「太陽生命ウィメンズセブンズシリーズ2026」 第3戦北九州大会2日目 試合結果のお知らせ 2026.7.26 （日） 女子 セブンズ 太陽生命ウィメンズセブンズシリーズ",
-          "date": "2026-07-26",
-          "category": null
         }
       ],
       "rename_signals": []
@@ -54,27 +35,22 @@
       "url": "https://www.world.rugby/news",
       "status": "ok",
       "first_run": false,
-      "item_count": 1,
+      "item_count": 0,
       "new_items": [],
       "rename_signals": []
     }
   ],
   "highlights": [
     {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6079",
-      "title": "クラブ 東京サントリーサンゴリアス、2026-27シーズン新加入選手のお知らせ 2026.07.27",
-      "date": "2026-07-27",
-      "category": "roster"
-    },
-    {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54086",
-      "title": "（7/27更新）レポート：女子15人制強化・TID合同フォワード合宿 2026.7.27 （月） 15人制女子日本代表 女子",
+      "url": "https://www.rugby-japan.jp/news/54075",
+      "title": "【アサヒスーパードライ パシフィックネーションズカップ2026】チケット情報 2026.7.27 （月） 15人制男子日本代表 チケット WBB",
       "date": "2026-07-27",
       "category": "squad"
     }
   ],
   "league_rename_news": [],
-  "warnings": []
+  "warnings": [
+    "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
+  ]
 }
