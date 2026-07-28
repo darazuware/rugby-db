@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "栃木ホンダヒート",
   "official_url": "https://www.honda-heat.jp/",
-  "checked_at": "2026-07-27T22:33:10+09:00",
+  "checked_at": "2026-07-28T15:35:18+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "40286fdd17e78de0"
+      "hash": "394409dc192379c2"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "d79538b7367dceb4"
+      "hash": "c7fe2575f7fafbcd"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2411/",
+      "title": "イベント 2026.7.28 『ブレックスアリーナ宇都宮スポーツフェスティバル』参加のお知らせ",
+      "date": "2026-07-28"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2408/",
       "title": "トピックス 2026.7.25 退団選手のお知らせ",
@@ -131,11 +136,6 @@
       "url": "https://www.honda-heat.jp/news/2386/",
       "title": "社会貢献 2026.6.22 【普及活動】ラグビー講座「ラグビーのコーチングから学ぶ体育授業の作り方」を開催致しました。",
       "date": "2026-06-22"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2385/",
-      "title": "イベント 2026.6.18 新チーム名称/エンブレム 発表会を開催しました",
-      "date": "2026-06-18"
     },
     {
       "url": "https://www.honda-heat.jp/hostgame/20260509/",

@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-07-27T22:33:10+09:00",
+  "checked_at": "2026-07-28T15:35:18+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "43e3b168fd6d06f5"
+      "hash": "f85266bd3f3b681f"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "f304a0144c9e99ed"
+      "hash": "cab9669f1200bbcd"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260728.html",
+      "title": "2026-07-28 2026-27シーズン ファンクラブ自動継続について",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/2026-27FC",
+      "title": "2026-07-28 ダイナボアーズ公式ファンクラブ2026-27ご案内",
+      "date": "2026-07-28"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260723.html",
       "title": "2026-07-23 日本代表｜平翔太選手が男子日本代表 網走合宿参加メンバーに選出",
@@ -206,16 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260421.html",
       "title": "2026-04-21 フラッグベアラー＆花道キッズ募集！｜5/10（日）NTTリーグワン第18節（vs浦安D-Rocks＠相模原ギオンスタジアム）",
       "date": "2026-04-21"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/2526r15#10",
-      "title": "2026-04-20 [ メディア ] 試合レポート更新｜vsBL東京 --王者の“地力”を痛感する敗戦で11位転落 求められる結束…前を向いてリーグ戦残り3試合へ",
-      "date": "2026-04-20"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260417.html",
-      "title": "2026-04-17 [ 地域 ] [ メディア ] [ 普及活動 ] 相模原市の子どもたちを守る！公式マスコット『ダイボ君』の交通安全ストップマークを市内横断歩道に順次設置",
-      "date": "2026-04-17"
     }
   ]
 }
