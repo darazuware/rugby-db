@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-28T15:35:18+09:00",
+  "checked_at": "2026-07-28T21:49:01+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -11,8 +11,8 @@
       "item_count": 40,
       "new_items": [
         {
-          "url": "https://urayasu-d-rocks.com/news/event/index_1992.html",
-          "title": "イベント 2026.07.28 2026.7.25 公益財団法人うらやす財団主催「あつまれ！うんどう公園夏休みこどもスペシャルDAY」に参加しました",
+          "url": "https://urayasu-d-rocks.com/news/event/index_1991.html",
+          "title": "イベント 2026.07.28 2026.7.25「仙台駐屯地 夏まつり」に参加しました",
           "date": "2026-07-28",
           "category": null
         }
@@ -32,12 +32,7 @@
       "first_run": false,
       "item_count": 60,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kobesteelers.com/",
-        "https://www.kobesteelers.com/news/",
-        "https://www.kobesteelers.com/news/cat_news/information/",
-        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -84,18 +79,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 25,
-      "new_items": [
-        {
-          "url": "https://www.honda-heat.jp/news/2411/",
-          "title": "イベント 2026.7.28 『ブレックスアリーナ宇都宮スポーツフェスティバル』参加のお知らせ",
-          "date": "2026-07-28",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.honda-heat.jp/",
-        "https://www.honda-heat.jp/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -106,20 +91,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260728.html",
-          "title": "2026-07-28 2026-27シーズン ファンクラブ自動継続について",
-          "date": "2026-07-28",
-          "category": null
-        },
-        {
-          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/2026-27FC",
-          "title": "2026-07-28 ダイナボアーズ公式ファンクラブ2026-27ご案内",
-          "date": "2026-07-28",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -148,15 +120,15 @@
       "item_count": 5,
       "new_items": [
         {
-          "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260728a.html",
-          "title": "2026-27シーズン 新加入選手・スタッフのお知らせ",
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260728c.html",
+          "title": "「BlackRamsTokyoが二子玉川ライズにやってくる！ラムズの夏休み2026」グッズ販売のお知らせ",
           "date": "2026-07-28",
-          "category": "roster"
+          "category": null
         },
         {
-          "url": "https://blackrams-tokyo.com/news/academy/2026-2027/20260727.html",
-          "title": "＜参加者募集のお知らせ＞ 夏季スキル練習会 ～スクラムハーフスキル編～",
-          "date": "2026-07-27",
+          "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20260728b.html",
+          "title": "8月5日(水)・7日(金) RAMOVE限定「練習見学＆グラウンド開放イベント」のご案内",
+          "date": "2026-07-28",
           "category": null
         }
       ],
@@ -225,10 +197,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kyudenvoltex.com/",
-        "https://www.kyudenvoltex.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -236,11 +205,23 @@
       "league": "league-one-d2",
       "name": "清水建設江東ブルーシャークス",
       "official_url": "https://blue-sharks.jp/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 24,
+      "new_items": [
+        {
+          "url": "https://blue-sharks.jp/news/2026/07/25002/",
+          "title": "グロスターラグビー研修レポート Vol.3（坂原春光）",
+          "date": "2026-07-25",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -248,11 +229,13 @@
       "league": "league-one-d2",
       "name": "豊田自動織機シャトルズ愛知",
       "official_url": "https://shuttles-aichi.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 12,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://shuttles-aichi.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -260,11 +243,15 @@
       "league": "league-one-d2",
       "name": "日本製鉄釜石シーウェイブス",
       "official_url": "https://kamaishi-seawaves.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 15,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://kamaishi-seawaves.com/",
+        "https://kamaishi-seawaves.com/news/",
+        "https://kamaishi-seawaves.com/news/info/"
+      ],
       "rename_signals": []
     },
     {
@@ -290,17 +277,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 19,
-      "new_items": [
-        {
-          "url": "https://hino-reddolphins.com/2026-07-28/",
-          "title": "【スポットコーチ】三菱製鋼 Steelersの練習に参加しました",
-          "date": "2026-07-28",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -340,10 +318,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.rugguts.secom.co.jp/",
-        "https://www.rugguts.secom.co.jp/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -351,9 +326,9 @@
       "league": "league-one-d3",
       "name": "中国電力レッドレグリオンズ",
       "official_url": "https://rrrfc.red/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 19,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -389,11 +364,21 @@
       "league": "league-one-d3",
       "name": "ルリーロ福岡",
       "official_url": "https://leriro-fukuoka.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 11,
+      "new_items": [
+        {
+          "url": "https://leriro-fukuoka.com/news-detail?id=268",
+          "title": "本日の公開練習中止のお知らせ",
+          "date": "2026-07-28",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://leriro-fukuoka.com/",
+        "https://leriro-fukuoka.com/news"
+      ],
       "rename_signals": []
     },
     {
@@ -419,14 +404,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6081",
-          "title": "クラブ リコーブラックラムズ東京、2026-27シーズン 新加入選手・スタッフのお知らせ 2026.07.28",
-          "date": "2026-07-28",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -436,7 +414,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54092",
+          "title": "レポート：男子日本代表 網走合宿 2026.7.28 （火） 15人制男子日本代表",
+          "date": "2026-07-28",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -452,27 +437,15 @@
   ],
   "highlights": [
     {
-      "source": "リコーブラックラムズ東京",
-      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260728a.html",
-      "title": "2026-27シーズン 新加入選手・スタッフのお知らせ",
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54092",
+      "title": "レポート：男子日本代表 網走合宿 2026.7.28 （火） 15人制男子日本代表",
       "date": "2026-07-28",
-      "category": "roster"
-    },
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6081",
-      "title": "クラブ リコーブラックラムズ東京、2026-27シーズン 新加入選手・スタッフのお知らせ 2026.07.28",
-      "date": "2026-07-28",
-      "category": "roster"
+      "category": "squad"
     }
   ],
   "league_rename_news": [],
   "warnings": [
-    "清水建設江東ブルーシャークス: 到達できるページがない: https://blue-sharks.jp/",
-    "豊田自動織機シャトルズ愛知: 到達できるページがない: https://shuttles-aichi.com/",
-    "日本製鉄釜石シーウェイブス: 到達できるページがない: https://kamaishi-seawaves.com/",
-    "中国電力レッドレグリオンズ: 到達できるページがない: https://rrrfc.red/",
-    "ルリーロ福岡: 到達できるページがない: https://leriro-fukuoka.com/",
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
   ]
 }

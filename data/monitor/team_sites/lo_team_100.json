@@ -3,23 +3,28 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-07-28T15:35:18+09:00",
+  "checked_at": "2026-07-28T21:49:01+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "2b74919e150614f3"
+      "hash": "5771624abfc2fa1d"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "89692bc77773f0f3"
+      "hash": "7ee72d44e9064ef7"
     }
   ],
   "items": [
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1992.html",
       "title": "イベント 2026.07.28 2026.7.25 公益財団法人うらやす財団主催「あつまれ！うんどう公園夏休みこどもスペシャルDAY」に参加しました",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_1991.html",
+      "title": "イベント 2026.07.28 2026.7.25「仙台駐屯地 夏まつり」に参加しました",
       "date": "2026-07-28"
     },
     {
@@ -54,7 +59,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_1981.html",
-      "title": "チーム 2026.07.10 2026-27シーズン 新体制決定のお知らせ",
+      "title": "2026.07.10 ニュース 2026-27シーズン 新体制決定のお知らせ",
       "date": "2026-07-10"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/game/index_1941.html",
       "title": "2026.04.29 ニュース 【メンバー発表】NTTジャパンラグビー リーグワン 2025-26 ディビジョン1 第17節 埼玉パナソニックワイルドナイツ戦（5月1日）",
       "date": "2026-04-29"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_1940.html",
-      "title": "2026.04.28 ニュース 【更新】NTTジャパンラグビー リーグワン 2025-26 D1/D2入替戦への出場および日程・会場決定のお知らせ",
-      "date": "2026-04-28"
     }
   ]
 }

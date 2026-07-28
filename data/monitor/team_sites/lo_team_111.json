@@ -3,28 +3,38 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-07-27T22:33:10+09:00",
+  "checked_at": "2026-07-28T21:49:01+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "6715e10d5530c7b4"
+      "hash": "9553a35d101cb0ea"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "4a8aea9ff3363a8b"
+      "hash": "cec5484d2170b6fd"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "3edf18c13f60e6ce"
+      "hash": "7fac6fc8afe88f3a"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "0a2b9e3f1adf19a0"
+      "hash": "468a8b5748f4e814"
     }
   ],
   "items": [
+    {
+      "url": "https://blue-sharks.jp/information/",
+      "title": "もっと見る",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/07/25002/",
+      "title": "グロスターラグビー研修レポート Vol.3（坂原春光）",
+      "date": "2026-07-25"
+    },
     {
       "url": "https://blue-sharks.jp/news/2026/07/24996/",
       "title": "ヤローズタラナキブルズ研修レポート Vol.3 (伊藤潤乃助)",
@@ -42,7 +52,7 @@
     },
     {
       "url": "https://blue-sharks.jp/news/2026/07/24979/",
-      "title": "ヤローズタラナキブルズ研修レポート Vol.2 (宮本誉久)",
+      "title": "お知らせ 2026/07/14 ヤローズタラナキブルズ研修レポート Vol.2 (宮本誉久)",
       "date": "2026-07-24"
     },
     {
@@ -76,11 +86,6 @@
       "date": "2026-07-24"
     },
     {
-      "url": "https://blue-sharks.jp/information/",
-      "title": "もっと見る",
-      "date": "2026-07-22"
-    },
-    {
       "url": "https://blue-sharks.jp/news/2026/06/24931/",
       "title": "お知らせ 2026/06/29 2025-26シーズン 退団選手（追加）のお知らせ",
       "date": "2026-06-24"
@@ -103,11 +108,6 @@
     {
       "url": "https://blue-sharks.jp/news/2026/05/24814/",
       "title": "お知らせ 2026/05/21 ◇東芝ブレイブルーパス東京、埼玉パナソニックワイルドナイツ戦マッチレポート",
-      "date": "2026-05-24"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/05/24774/",
-      "title": "お知らせ 2026/05/17 2025-26シーズン退団選手・スタッフのお知らせ",
       "date": "2026-05-24"
     },
     {

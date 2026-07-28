@@ -3,28 +3,33 @@
   "league": "league-one-d3",
   "name": "ルリーロ福岡",
   "official_url": "https://leriro-fukuoka.com/",
-  "checked_at": "2026-07-27T22:33:10+09:00",
+  "checked_at": "2026-07-28T21:49:01+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://leriro-fukuoka.com/",
-      "hash": "edd0122a4165cbdc"
+      "hash": "2063fa9f67738ad1"
     },
     {
       "url": "https://leriro-fukuoka.com/news",
-      "hash": "33c6ee4fa20ca64b"
+      "hash": "de8e9b883e727955"
     }
   ],
   "items": [
     {
-      "url": "https://leriro-fukuoka.com/news-detail?id=267",
-      "title": "8月参加イベントのお知らせ",
-      "date": "2026-07-27"
+      "url": "https://leriro-fukuoka.com/news-detail?id=268",
+      "title": "本日の公開練習中止のお知らせ",
+      "date": "2026-07-28"
     },
     {
       "url": "https://leriro-fukuoka.com/news",
       "title": "NEWS一覧",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news-detail?id=267",
+      "title": "8月参加イベントのお知らせ",
       "date": "2026-07-27"
     },
     {
@@ -66,11 +71,6 @@
       "url": "https://leriro-fukuoka.com/news-detail?id=259",
       "title": "新加入スタッフのお知らせ",
       "date": "2026-07-06"
-    },
-    {
-      "url": "https://leriro-fukuoka.com/news-detail?id=258",
-      "title": "新加入スタッフ徳重元気が大木町「地域おこし協力隊」に就任",
-      "date": "2026-07-04"
     }
   ]
 }
