@@ -33,7 +33,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "モアナパ�
 | Augustine PULU | オーガスティン・プル | スクラムハーフ | トンガ代表 | 3 |
 | Melani MATAVAO | メラニ・マタバオ | スクラムハーフ | サモア代表 | 13 |
 | Jonathan TAUMATEINE | ジョナサン・タウマテイン | スクラムハーフ | サモア代表 | 11 |
-| Pat PELLEGRINI | パット・ペレグリーニ | スタンドオフ | [オーストラリア代表](/national-teams/australia/) | — |
+| Pat PELLEGRINI | パット・ペレグリーニ | スタンドオフ | [トンガ代表](/national-teams/tonga/) | — |
 | Julian SAVEA | ジュリアン・サベア | センター | ニュージーランド代表 | 35 |
 | Ngani LAUMAPE | ンガニ・ラウマペ | センター | ニュージーランド代表 | — |
 | Simon-Peter TOLEAFOA | サイモン・ピーター・トレアフォア | フルバック | サモア代表 | — |

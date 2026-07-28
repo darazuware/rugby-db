@@ -37,7 +37,7 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "バース"]
 | Ted HILL | テッド・ヒル | フランカー | イングランド代表 | 2 |
 | Ben SPENCER | ベン・スペンサー | スクラムハーフ | イングランド代表 | 4 |
 | Beno OBANO | ベノ・オバノ | プロップ | イングランド代表 | 3 |
-| Santiago CARRERAS | サンティアゴ・カレラス | フライハーフ | [アルゼンチン代表](/national-teams/argentina/) | — |
+| Santiago CARRERAS | サンティアゴ・カレラス | フライハーフ | [アルゼンチン代表](/national-teams/argentina/) | 64 |
 
 ## その他在籍選手（2025-26シーズン）
 

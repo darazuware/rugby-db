@@ -25,7 +25,7 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "ニューカッ�
 | :--- | :--- | :--- | :--- | ---: |
 | Liam WILLIAMS | リアム・ウィリアムズ | フルバック | [ウェールズ代表](/national-teams/wales/) | 92 |
 | Eduardo BELLO | エドゥアルド・ベロ | プロップ | [アルゼンチン代表](/national-teams/argentina/) | 14 |
-| Amanaki MAFI | アマナキ・マフィ | フランカー | — | — |
+| Amanaki MAFI | アマナキ・マフィ | フランカー | [日本代表](/national-teams/japan/) | 36 |
 
 ## その他在籍選手（2025-26シーズン）
 

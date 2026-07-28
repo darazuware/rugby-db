@@ -30,10 +30,10 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "フィジア�
 | Zuriel TOGIATAMA | ズリエル・トギアタマ | フッカー | フィジー代表 | 3 |
 | Isoa NASILASILA | イソア・ナシラシラ | ロック | フィジー代表 | 7 |
 | Temo MAYANAVANUA | テモ・マヤナヴァヌア | ロック | フィジー代表 | 11 |
-| Vilive MIRAMIRA | ビリヴェ・ミラミラ | フランカー/No8 | Squad caps | 374 |
+| Vilive MIRAMIRA | ビリヴェ・ミラミラ | フランカー/No8 | [フィジー代表](/national-teams/fiji/) | 5 |
 | Frank LOMANI | フランク・ロマニ | スクラムハーフ | フィジー代表 | 26 |
 | Issak FINES | イサク・ファインズ | スクラムハーフ | [オーストラリア代表](/national-teams/australia/) | — |
-| Virimi VAKATAWA | ビリミ・バカタワ | センター | [フランス代表](/national-teams/france/) | 18 |
+| Virimi VAKATAWA | ビリミ・バカタワ | センター | [フランス代表](/national-teams/france/) | 32 |
 | Ilaisa DROASESE | イライサ・ドロアセセ | フルバック | フィジー代表 | 4 |
 
 ## その他在籍選手（2025-26シーズン）

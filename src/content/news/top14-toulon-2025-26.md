@@ -59,7 +59,6 @@ RCトゥーロンは2013年から2015年にかけて欧州チャンピオンズ�
 | Antoine FRISCH | アントワーヌ・フリッシュ | センター |
 | Ignacio BREX | イグナシオ・ブレックス | センター |
 | Jérémy SINZELLE | ジェレミー・サンゼル | センター |
-| Ma'a NONU | マア・ノヌ | センター |
 | Mathieu SMAÏLI | マチュー・スマイリ | センター |
 | Oliver COWIE | オリヴァー・コーウィ | センター |
 | Rayan REBBADJ | ライアン・レバジ | センター |

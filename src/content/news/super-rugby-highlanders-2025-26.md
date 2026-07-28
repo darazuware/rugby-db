@@ -25,7 +25,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "ハイラン�
 | :--- | :--- | :--- | :--- | ---: |
 | Ethan DE GROOT | イーサン・デ・フロート | プロップ | [ニュージーランド代表](/national-teams/new-zealand/) | 17 |
 | Angus TA'AVAO | アンガス・タアバオ | プロップ | ニュージーランド代表 | 8 |
-| Tomas LAVANINI | トマス・ラバニーニ | ロック | [アルゼンチン代表](/national-teams/argentina/) | 82 |
+| Tomas LAVANINI | トマス・ラバニーニ | ロック | [アルゼンチン代表](/national-teams/argentina/) | 91 |
 | Timoci TAVATAVANAWAI | ティモシ・タバタバナワイ | センター | [フィジー代表](/national-teams/fiji/) | — |
 
 ## その他在籍選手（2025-26シーズン）

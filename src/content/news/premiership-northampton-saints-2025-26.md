@@ -32,8 +32,8 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "ノーサンプ�
 | Danilo FISCHETTI | ダニーロ・フィスケッティ | プロップ | [イタリア代表](/national-teams/italy/) | 48 |
 | Rory HUTCHINSON | ロリー・ハッチンソン | センター | [スコットランド代表](/national-teams/scotland/) | 8 |
 | Fraser DINGWALL | フレイザー・ディンウォール | センター | イングランド代表 | 2 |
-| Henry POLLOCK | ヘンリー・ポロック | フランカー | イングランド代表 | — |
-| Curtis LANGDON | カーティス・ラングドン | フッカー | — | — |
+| Henry POLLOCK | ヘンリー・ポロック | フランカー | イングランド代表 | 10 |
+| Curtis LANGDON | カーティス・ラングドン | フッカー | イングランド代表 | 2 |
 
 ## その他在籍選手（2025-26シーズン）
 

@@ -32,7 +32,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "クイーン�
 | Harry WILSON | ハリー・ウィルソン | フランカー/No8 | オーストラリア代表 | — |
 | Tate MCDERMOTT | テイト・マクダーモット | スクラムハーフ | オーストラリア代表 | 26 |
 | Carter GORDON | カーター・ゴードン | スタンドオフ | オーストラリア代表 | 5 |
-| Ben VOLAVOLA | ベン・ヴォラヴォラ | スタンドオフ | [フィジー代表](/national-teams/fiji/) | 31 |
+| Ben VOLAVOLA | ベン・ヴォラヴォラ | スタンドオフ | [フィジー代表](/national-teams/fiji/) | 38 |
 | Hunter PAISAMI | ハンター・パイサミ | センター | [サモア代表](/national-teams/samoa/) | — |
 | Filipo DAUGUNU | フィリポ・ダウグヌ | ウィング | フィジー代表 | — |
 

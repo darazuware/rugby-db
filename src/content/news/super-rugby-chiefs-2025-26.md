@@ -34,7 +34,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "チーフス"]
 | Te Toiroa TAHURIORANGI | テ・トイロア・タフリオランギ | スクラムハーフ | ニュージーランド代表 | — |
 | Damian MCKENZIE | デイミアン・マッケンジー | スタンドオフ | ニュージーランド代表 | 42 |
 | Lalakai FOKETI | ララカイ・フォケティ | センター | オーストラリア代表 | 6 |
-| Emoni NARAWA | エモニ・ナラワ | ウィング | Squad caps | 1524 |
+| Emoni NARAWA | エモニ・ナラワ | ウィング | [ニュージーランド代表](/national-teams/new-zealand/) | 4 |
 | Kyren TAUMOEFOLAU | カイレン・タウモエフォラウ | ウィング | トンガ代表 | 5 |
 
 ## その他在籍選手（2025-26シーズン）

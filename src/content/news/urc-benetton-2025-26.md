@@ -42,7 +42,6 @@ tags: ["URC", "チーム紹介", "2025-26", "ベネトン"]
 | :--- | :--- | :--- |
 | Siua MAILE | シウア・マイレ | HO |
 | Riccardo FAVRETTO | リッカルド・ファヴレット | LO |
-| Malakai FEKITOA | マラカイ・フェキトア | CTB |
 | Louis LYNAGH | ルイス・リナ | WTB |
 | Paolo ODOGWU | パオロ・オドグウ | WTB |
 | Matt GALLAGHER | マット・ギャラガー | FB |
