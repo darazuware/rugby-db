@@ -20,8 +20,13 @@ def _team(tid, league="league-one-d1", **kw):
 
 
 def test_dup_id():
-    assert not checks.check_dup_id([_player("a"), _player("a")]).ok
-    assert checks.check_dup_id([_player("a"), _player("b")]).ok
+    assert not checks.check_dup_id({"league-one-d1": [_player("a"), _player("a")]}).ok
+    assert checks.check_dup_id({"league-one-d1": [_player("a"), _player("b")]}).ok
+    # リーグ横断の同一id（代表とクラブ両方掛け持ち等）はエラーにしない
+    assert checks.check_dup_id({
+        "league-one-d1": [_player("a", league="league-one-d1")],
+        "national": [_player("a", league="national", team_id=None)],
+    }).ok
 
 
 def test_dup_person():

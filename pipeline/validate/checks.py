@@ -31,13 +31,24 @@ class CheckResult:
         self.merge_candidates.extend(other.merge_candidates)
 
 
-def check_dup_id(players: list[dict]) -> CheckResult:
+def check_dup_id(players_by_league: dict[str, list[dict]]) -> CheckResult:
+    """id 重複エラー（リーグ内のみ判定）。
+
+    id は all.rugby 側の実在プレイヤーページslugに由来し、代表選手が
+    クラブリーグ（top14/urc等）と national.json の両方に同じ id で入るのは
+    正規の仕様（01_DATA_ARCHITECTURE.md）で、Welsh dual-contract 等クラブ間
+    掛け持ちも実在する。site 側（src/lib/master.ts の dedupePlayersById）は
+    どのリーグ組み合わせでも同一 id を1レコードに畳んで扱うため、
+    リーグ横断の重複はエラーにしない。1つのリーグの取得結果自体に同じ id が
+    複数回出現する場合（スクレイパーが同じ選手を二重取得したバグ）のみ検出する。
+    """
     r = CheckResult()
-    seen: set[str] = set()
-    for p in players:
-        if p["id"] in seen:
-            r.errors.append(f"dup_id: {p['id']}")
-        seen.add(p["id"])
+    for league, players in players_by_league.items():
+        seen: set[str] = set()
+        for p in players:
+            if p["id"] in seen:
+                r.errors.append(f"dup_id: {p['id']} ({league} 内で重複)")
+            seen.add(p["id"])
     return r
 
 
@@ -196,7 +207,7 @@ def run_all(players_by_league: dict[str, list[dict]],
             caps_corrections: dict[str, dict] | None = None) -> CheckResult:
     result = CheckResult()
     all_players = [p for ps in players_by_league.values() for p in ps]
-    result.extend(check_dup_id(all_players))
+    result.extend(check_dup_id(players_by_league))
     result.extend(check_dup_person(players_by_league))
     result.extend(check_cross_person(players_by_league, player_merges))
     result.extend(check_team_ref(all_players, teams))
