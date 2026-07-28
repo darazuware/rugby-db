@@ -21,10 +21,12 @@ import { positionJa } from "../../lib/positions";
 
 export async function getStaticPaths() {
   const [schools, index] = await Promise.all([getAllSchools(), getSchoolPlayerIndex()]);
-  return schools.map((school) => ({
-    params: { id: school.id },
-    props: { school, players: index.get(school.id) ?? [] },
-  }));
+  return schools
+    .filter((school) => (index.get(school.id) ?? []).length > 0)
+    .map((school) => ({
+      params: { id: school.id },
+      props: { school, players: index.get(school.id) ?? [] },
+    }));
 }
 
 const { school, players } = Astro.props as { school: School; players: Player[] };

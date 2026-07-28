@@ -76,6 +76,7 @@ export const TEAM_SLUG_MAP: Record<string, string> = {
 
     // URC
     "ドラゴンス": "dragons-rugby",
+    "ドラゴンズ・ラグビー": "dragons-rugby",
     "Dragons RFC": "dragons-rugby",
     "Dragons Rugby": "dragons-rugby",
     "アルスター": "ulster-rugby",
