@@ -1,0 +1,26 @@
+---
+title: "積賢佑"
+name_en: ""
+name_ja: "積賢佑"
+slug: "player-16e9b2e5"
+position: "NO8"
+height: ""
+weight: ""
+birth_date: ""
+age: null
+country: ""
+birth_place_scraped: ""
+league: "top-east-b"
+team: "日立製作所Sun Nexus"
+caps: ""
+high_school: ""
+university: "流通経済大"
+junior_high_school: ""
+rugby_school: ""
+scraped_url: "https://rugbydb.tokyo/player/7579.html"
+league_one_caps: ""
+career_history_json: '[]'
+category: "top-east"
+---
+
+## キャリア遍歴
