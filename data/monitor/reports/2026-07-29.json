@@ -1,0 +1,462 @@
+{
+  "checked_at": "2026-07-29T15:40:16+09:00",
+  "teams": [
+    {
+      "team_id": "lo_team_100",
+      "league": "league-one-d1",
+      "name": "浦安D-Rocks",
+      "official_url": "https://urayasu-d-rocks.com",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 40,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_101",
+      "league": "league-one-d1",
+      "name": "コベルコ神戸スティーラーズ",
+      "official_url": "https://www.kobesteelers.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 60,
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post34926/",
+          "title": "2026/7/29 社会貢献 「ノエスタラジオ体操2026」のムービーに福西 隼杜選手、船曳 涼太選手、辻野 隼大選手が出演します",
+          "date": "2026-07-29",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post30086/",
+          "title": "2025/12/5 お知らせ サーバーメンテナンスのお知らせ",
+          "date": "2025-12-05",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/",
+        "https://www.kobesteelers.com/news/cat_news/information/",
+        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_102",
+      "league": "league-one-d1",
+      "name": "埼玉パナソニックワイルドナイツ",
+      "official_url": "https://panasonic.co.jp/sports/wildknights/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 33,
+      "new_items": [
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260729_01/",
+          "title": "活動レポート 2026年07月29日 留学記：NZ編 田島貫太郎② ニュースを見る",
+          "date": "2026-07-29",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_103",
+      "league": "league-one-d1",
+      "name": "東芝ブレイブルーパス東京",
+      "official_url": "https://www.bravelupus.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 42,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_104",
+      "league": "league-one-d1",
+      "name": "トヨタヴェルブリッツ",
+      "official_url": "https://verblitz.toyotatimes-sports.toyota/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 10,
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4229",
+          "title": "RUGBY for AICHI 本格始動！6/27,28 イベントレポート 普及・アカデミー 2026.07.07",
+          "date": "2026-07-07",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_105",
+      "league": "league-one-d1",
+      "name": "栃木ホンダヒート",
+      "official_url": "https://www.honda-heat.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 25,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_106",
+      "league": "league-one-d1",
+      "name": "三菱重工相模原ダイナボアーズ",
+      "official_url": "https://dynaboars.mhi.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 40,
+      "new_items": [],
+      "changed_pages": [
+        "https://www.mhi.com/jp/company/sports/dynaboars/",
+        "https://www.mhi.com/jp/company/sports/dynaboars/news"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_107",
+      "league": "league-one-d1",
+      "name": "横浜キヤノンイーグルス",
+      "official_url": "https://www.canon-eagles.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 13,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_108",
+      "league": "league-one-d1",
+      "name": "リコーブラックラムズ東京",
+      "official_url": "https://blackrams-tokyo.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 5,
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260729a.html",
+          "title": "「12年に一度の”ラムイヤー”！2027ひつじプロジェクト」始動のお知らせ",
+          "date": "2026-07-29",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_97",
+      "league": "league-one-d1",
+      "name": "クボタスピアーズ船橋・東京ベイ",
+      "official_url": "http://www.kubota-spears.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 56,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_98",
+      "league": "league-one-d1",
+      "name": "静岡ブルーレヴズ",
+      "official_url": "https://www.shizuoka-bluerevs.com",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 27,
+      "new_items": [],
+      "changed_pages": [
+        "https://www.shizuoka-bluerevs.com/",
+        "https://www.shizuoka-bluerevs.com/news"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_99",
+      "league": "league-one-d1",
+      "name": "東京サントリーサンゴリアス",
+      "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 40,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_109",
+      "league": "league-one-d2",
+      "name": "JR東日本グリーンウォリアーズ東葛",
+      "official_url": "https://www.jreast.co.jp/greenwarriors/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 4,
+      "new_items": [],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_110",
+      "league": "league-one-d2",
+      "name": "九州電力キューデンヴォルテクス",
+      "official_url": "https://www.kyudenvoltex.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 40,
+      "new_items": [],
+      "changed_pages": [
+        "https://www.kyudenvoltex.com/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_111",
+      "league": "league-one-d2",
+      "name": "清水建設江東ブルーシャークス",
+      "official_url": "https://blue-sharks.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 24,
+      "new_items": [
+        {
+          "url": "https://blue-sharks.jp/news/2026/07/25007/",
+          "title": "ヤローズタラナキブルズ研修レポート Vol.4 (宮本誉久)",
+          "date": "2026-07-25",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_112",
+      "league": "league-one-d2",
+      "name": "豊田自動織機シャトルズ愛知",
+      "official_url": "https://shuttles-aichi.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 12,
+      "new_items": [],
+      "changed_pages": [
+        "https://shuttles-aichi.com/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_113",
+      "league": "league-one-d2",
+      "name": "日本製鉄釜石シーウェイブス",
+      "official_url": "https://kamaishi-seawaves.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 15,
+      "new_items": [],
+      "changed_pages": [
+        "https://kamaishi-seawaves.com/",
+        "https://kamaishi-seawaves.com/news/",
+        "https://kamaishi-seawaves.com/news/info/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_114",
+      "league": "league-one-d2",
+      "name": "花園近鉄ライナーズ",
+      "official_url": "https://hanazono-liners.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 30,
+      "new_items": [],
+      "changed_pages": [
+        "https://hanazono-liners.jp/",
+        "https://hanazono-liners.jp/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_115",
+      "league": "league-one-d2",
+      "name": "日野レッドドルフィンズ",
+      "official_url": "https://hino-reddolphins.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 19,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_116",
+      "league": "league-one-d2",
+      "name": "レッドハリケーンズ大阪",
+      "official_url": "https://docomo-rugby.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 45,
+      "new_items": [],
+      "changed_pages": [
+        "https://docomo-rugby.jp/",
+        "https://docomo-rugby.jp/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_117",
+      "league": "league-one-d3",
+      "name": "クリタウォーターガッシュ昭島",
+      "official_url": "https://www.kurita-watergush.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 44,
+      "new_items": [],
+      "changed_pages": [
+        "https://www.kurita-watergush.jp/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_118",
+      "league": "league-one-d3",
+      "name": "狭山セコムラガッツ",
+      "official_url": "https://www.rugguts.secom.co.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 40,
+      "new_items": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_119",
+      "league": "league-one-d3",
+      "name": "中国電力レッドレグリオンズ",
+      "official_url": "https://rrrfc.red/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 19,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_120",
+      "league": "league-one-d3",
+      "name": "マツダスカイアクティブズ広島",
+      "official_url": "https://www.skyactivs.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 46,
+      "new_items": [],
+      "changed_pages": [
+        "https://www.skyactivs.com/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_121",
+      "league": "league-one-d3",
+      "name": "ヤクルトレビンズ戸田",
+      "official_url": "https://www.yakult.co.jp/sports/rugby/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 12,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_122",
+      "league": "league-one-d3",
+      "name": "ルリーロ福岡",
+      "official_url": "https://leriro-fukuoka.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 11,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_azcom_maruwa",
+      "league": "league-one-d3",
+      "name": "AZ-COM丸和MOMOTARO'S",
+      "official_url": "https://www.momotaros.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 19,
+      "new_items": [],
+      "changed_pages": [
+        "https://www.momotaros.jp/"
+      ],
+      "rename_signals": []
+    }
+  ],
+  "sources": [
+    {
+      "key": "league_one",
+      "name": "リーグワン公式",
+      "url": "https://league-one.jp/news/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 10,
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6082",
+          "title": "クラブ リコーブラックラムズ東京、「12年に一度の”ラムイヤー”！2027ひつじプロジェクト」始動のお知らせ 2026.07.29",
+          "date": "2026-07-29",
+          "category": null
+        }
+      ],
+      "rename_signals": []
+    },
+    {
+      "key": "jrfu",
+      "name": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 10,
+      "new_items": [],
+      "rename_signals": []
+    },
+    {
+      "key": "pnc",
+      "name": "パシフィック・ネーションズカップ（World Rugby）",
+      "url": "https://www.world.rugby/news",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 0,
+      "new_items": [],
+      "rename_signals": []
+    }
+  ],
+  "highlights": [],
+  "league_rename_news": [],
+  "warnings": [
+    "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
+  ]
+}

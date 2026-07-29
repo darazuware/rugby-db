@@ -3,28 +3,33 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-07-28T21:49:01+09:00",
+  "checked_at": "2026-07-29T15:40:16+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "1dced1a4a5a5514d"
+      "hash": "dfdca92a85ca5ab2"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "3798d15fdf6bf9ab"
+      "hash": "d6b5eb34fd318cb2"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "c4d05d9ecdd38daf"
+      "hash": "fcf8869320355754"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "f399d132a4044bb7"
+      "hash": "b9695d2d47a114aa"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post34926/",
+      "title": "2026/7/29 社会貢献 「ノエスタラジオ体操2026」のムービーに福西 隼杜選手、船曳 涼太選手、辻野 隼大選手が出演します",
+      "date": "2026-07-29"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post34910/",
       "title": "2026/7/24 イベント 7月28日(火)「第43回元町夜市2026」でラグビー体験を実施します",
@@ -166,11 +171,6 @@
       "date": "2026-07-07"
     },
     {
-      "url": "https://www.kobesteelers.com/interview/post34717/",
-      "title": "2026/7/6 チーム 2025-26シーズン 退団選手インタビュー Part.1 HOアッシュ・ディクソン選手",
-      "date": "2026-07-06"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post34673/",
       "title": "2026/7/3 普及 【レポート】神戸市立駒ヶ林小学校でタグラグビー教室を実施しました",
       "date": "2026-07-03"
@@ -261,11 +261,6 @@
       "date": "2026-06-19"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post34334/",
-      "title": "2026/6/18 パートナー 6月12日(金)「コベルコ神戸スティーラーズ2025-26シーズンパートナー報告会」を開催しました",
-      "date": "2026-06-18"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post34281/",
       "title": "チーム グラント・ウィリアムズ選手、ジョージ・ブリッジ選手 2026-27シーズン新加入のお知らせ 2026/6/17",
       "date": "2026-06-17"
@@ -324,6 +319,11 @@
       "url": "https://www.kobesteelers.com/news/post30174/",
       "title": "2025/12/9 お知らせ NTTリーグワン2025-26の開幕に向け、チームとして各PR活動を展開中",
       "date": "2025-12-09"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post30086/",
+      "title": "2025/12/5 お知らせ サーバーメンテナンスのお知らせ",
+      "date": "2025-12-05"
     }
   ]
 }

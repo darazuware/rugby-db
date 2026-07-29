@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-07-28T21:49:01+09:00",
+  "checked_at": "2026-07-29T15:40:16+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "d2f33c212a388116"
+      "hash": "0c9070989405c76d"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "08920549d45ea558"
+      "hash": "bbd015f9c31f42dc"
     }
   ],
   "items": [
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8588",
+      "title": "お知らせ 2026年7月29日 ※更新情報あり【リリース】レッドハリケーンズ大阪6月以降の選手参加イベントについて",
+      "date": "2026-07-29"
+    },
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8764",
       "title": "お知らせ 2026年7月20日 2026-27シーズン始動。新たなシーズンへ向けて",
@@ -100,11 +105,6 @@
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8640",
       "title": "お知らせ 2026年6月1日 【リリース】2025-26シーズン退団スタッフ（追加）のお知らせ",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8588",
-      "title": "お知らせ 2026年6月1日 【リリース】レッドハリケーンズ大阪6月以降の選手参加イベントについて",
       "date": "2026-06-01"
     },
     {

@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-07-28T21:49:01+09:00",
+  "checked_at": "2026-07-29T15:40:16+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "d9c1677ca5a52131"
+      "hash": "c38a1ada9103c381"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260729a.html",
+      "title": "「12年に一度の”ラムイヤー”！2027ひつじプロジェクト」始動のお知らせ",
+      "date": "2026-07-29"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260728a.html",
       "title": "2026-27シーズン 新加入選手・スタッフのお知らせ",
@@ -27,11 +32,6 @@
       "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20260728b.html",
       "title": "8月5日(水)・7日(金) RAMOVE限定「練習見学＆グラウンド開放イベント」のご案内",
       "date": "2026-07-28"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260727d.html",
-      "title": "ゴールポストカバー アップサイクルキーホルダー発売のお知らせ",
-      "date": "2026-07-27"
     },
     {
       "url": "https://blackrams-tokyo.com/news/academy/2026-2027/20260727.html",

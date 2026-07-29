@@ -3,32 +3,37 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-07-28T21:49:01+09:00",
+  "checked_at": "2026-07-29T15:40:16+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "9553a35d101cb0ea"
+      "hash": "4d2bd25a8495f5dc"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "cec5484d2170b6fd"
+      "hash": "4faf17371534ab10"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "7fac6fc8afe88f3a"
+      "hash": "1dc8293af198ba0c"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "468a8b5748f4e814"
+      "hash": "f5eb95b747e2253d"
     }
   ],
   "items": [
     {
       "url": "https://blue-sharks.jp/information/",
       "title": "もっと見る",
-      "date": "2026-07-28"
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/07/25007/",
+      "title": "ヤローズタラナキブルズ研修レポート Vol.4 (宮本誉久)",
+      "date": "2026-07-25"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/07/25002/",
@@ -47,7 +52,7 @@
     },
     {
       "url": "https://blue-sharks.jp/news/2026/07/24984/",
-      "title": "グロスターラグビー研修レポート Vol.1（奥原尚之）",
+      "title": "お知らせ 2026/07/16 グロスターラグビー研修レポート Vol.1（奥原尚之）",
       "date": "2026-07-24"
     },
     {
@@ -103,11 +108,6 @@
     {
       "url": "https://blue-sharks.jp/news/2026/05/24856/",
       "title": "お知らせ 2026/05/26 ◇浦安D-Rocks戦マッチレポート",
-      "date": "2026-05-24"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/05/24814/",
-      "title": "お知らせ 2026/05/21 ◇東芝ブレイブルーパス東京、埼玉パナソニックワイルドナイツ戦マッチレポート",
       "date": "2026-05-24"
     },
     {
