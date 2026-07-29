@@ -3,13 +3,13 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-07-29T15:40:16+09:00",
+  "checked_at": "2026-07-29T21:56:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "c38a1ada9103c381"
+      "hash": "5e66542ed95b530d"
     }
   ],
   "items": [
@@ -34,9 +34,9 @@
       "date": "2026-07-28"
     },
     {
-      "url": "https://blackrams-tokyo.com/news/academy/2026-2027/20260727.html",
-      "title": "＜参加者募集のお知らせ＞ 夏季スキル練習会 ～スクラムハーフスキル編～",
-      "date": "2026-07-27"
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260722a.html",
+      "title": "(7/29更新)「BlackRamsTokyoが二子玉川ライズにやってくる！ラムズの夏休み2026」詳細情報",
+      "date": "2026-07-22"
     }
   ]
 }

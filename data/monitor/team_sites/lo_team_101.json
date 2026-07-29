@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-07-29T15:40:16+09:00",
+  "checked_at": "2026-07-29T21:56:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "dfdca92a85ca5ab2"
+      "hash": "e128466e0acf9dc6"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "d6b5eb34fd318cb2"
+      "hash": "21e41a62ce0cd9d2"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -28,6 +28,11 @@
     {
       "url": "https://www.kobesteelers.com/news/post34926/",
       "title": "2026/7/29 社会貢献 「ノエスタラジオ体操2026」のムービーに福西 隼杜選手、船曳 涼太選手、辻野 隼大選手が出演します",
+      "date": "2026-07-29"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post34923/",
+      "title": "2026/7/29 イベント 8月15日(土)「第16回UNIVER祭」にてラグビー体験を実施します",
       "date": "2026-07-29"
     },
     {
@@ -229,11 +234,6 @@
       "url": "https://www.kobesteelers.com/news/post34561/",
       "title": "2026/6/25 普及 【開催中止】6月28日(日)「小学生ラグビー体験教室」",
       "date": "2026-06-25"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34513/",
-      "title": "2026/6/23 イベント 【レポート】NTTリーグワン2025-26優勝報告会を開催しました",
-      "date": "2026-06-23"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34502/",

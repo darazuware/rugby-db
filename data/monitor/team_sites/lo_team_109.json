@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "JR東日本グリーンウォリアーズ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-07-29T15:40:16+09:00",
+  "checked_at": "2026-07-29T21:56:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "1725b23d8b231400"
+      "hash": "0e865fec03db986e"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "e1b8a38e17fe2696"
+      "hash": "fdce4cfd90fc5a6b"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "db26b8841b38d056"
+      "hash": "6280d96a613a7eff"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0710-01/",
+      "title": "EVENT 「グリウォリ祭り」8月8日（土）開催！ 2026.07.28",
+      "date": "2026-07-28"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0722-01/",
       "title": "TEAM 2026-27 シーズン新加入スタッフのお知らせ 2026.07.22",
@@ -30,11 +35,6 @@
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/#2026-07-21-01",
       "title": "FAN CLUB GW東葛公式ファンクラブ「CLUB GREEN WARRIORS」9 月中旬入会開始予定 2026.07.21",
       "date": "2026-07-21"
-    },
-    {
-      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0710-01/",
-      "title": "EVENT 「グリウォリ祭り」8月8日（土）開催！ 2026.07.10",
-      "date": "2026-07-10"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0701-01/",

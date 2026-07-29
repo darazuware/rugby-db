@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-07-29T15:40:16+09:00",
+  "checked_at": "2026-07-29T21:56:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "e5462fb9c48e1bb4"
+      "hash": "8b3c21a1c3763cc1"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "8cd6c6de77ef80e7"
+      "hash": "9e3ead8dc5e3dcc6"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260729.html",
+      "title": "2026-07-29 ダイナボアーズフェスタ2026｜イベントページ公開＆ボランティアスタッフ募集開始",
+      "date": "2026-07-29"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260728.html",
       "title": "2026-07-28 2026-27シーズン ファンクラブ自動継続について",
@@ -49,7 +54,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260703.html-0",
-      "title": "2026-07-10 三島琳久選手の参加が決定！｜ダイナボアーズナイト2026in橋本 ～タックルナイト～",
+      "title": "2026-07-10 [ チーム ] 三島琳久選手の参加が決定！｜ダイナボアーズナイト2026in橋本 ～タックルナイト～",
       "date": "2026-07-10"
     },
     {
@@ -84,7 +89,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260619.html",
-      "title": "1 1 Slide",
+      "title": "2026-06-19 [ イベント ] 「ダイナボアーズフェスタ2026」8/29（土）開催決定！今年もアリオ橋本を全緑ジャック！",
       "date": "2026-06-19"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/2526r16",
       "title": "2026-04-23 [ チーム ] 試合メンバー更新｜NTTリーグワン2025-26第16節 埼玉パナソニックワイルドナイツ 対 三菱重工相模原ダイナボアーズ",
       "date": "2026-04-23"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260421.html",
-      "title": "2026-04-21 フラッグベアラー＆花道キッズ募集！｜5/10（日）NTTリーグワン第18節（vs浦安D-Rocks＠相模原ギオンスタジアム）",
-      "date": "2026-04-21"
     }
   ]
 }

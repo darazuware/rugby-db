@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-07-29T15:40:16+09:00",
+  "checked_at": "2026-07-29T21:56:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "7a59f45c0717f4c9"
+      "hash": "a72869bf34df247a"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "4cdf2453280a3763"
+      "hash": "eb999eb4761bb9ca"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "f35c1bba728ff339"
+      "hash": "376236e0c7cfeeb0"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/31924/",
+      "title": "お知らせ 2026.7.29 2026-27シーズン ファンクラブのお知らせ（9/1募集開始、8/19自動継続処理実施）",
+      "date": "2026-07-29"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/society/31715/",
       "title": "普及・社会貢献 2026.7.21 釜石地区保護司会「社会を明るくする運動」に参加しました",
@@ -89,11 +94,6 @@
     {
       "url": "https://kamaishi-seawaves.com/news/info/31286/",
       "title": "お知らせ 2026.6.1 ゼネラルマネージャー桜庭吉彦より2025-26シーズン終了のご挨拶",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/31256/",
-      "title": "お知らせ 2026.6.1 2025-26シーズン 退団スタッフ（追加）に関するお知らせ",
       "date": "2026-06-01"
     }
   ]

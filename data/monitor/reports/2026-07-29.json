@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-29T15:40:16+09:00",
+  "checked_at": "2026-07-29T21:56:44+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -23,23 +23,15 @@
       "item_count": 60,
       "new_items": [
         {
-          "url": "https://www.kobesteelers.com/news/post34926/",
-          "title": "2026/7/29 社会貢献 「ノエスタラジオ体操2026」のムービーに福西 隼杜選手、船曳 涼太選手、辻野 隼大選手が出演します",
+          "url": "https://www.kobesteelers.com/news/post34923/",
+          "title": "2026/7/29 イベント 8月15日(土)「第16回UNIVER祭」にてラグビー体験を実施します",
           "date": "2026-07-29",
-          "category": null
-        },
-        {
-          "url": "https://www.kobesteelers.com/news/post30086/",
-          "title": "2025/12/5 お知らせ サーバーメンテナンスのお知らせ",
-          "date": "2025-12-05",
           "category": null
         }
       ],
       "changed_pages": [
         "https://www.kobesteelers.com/",
-        "https://www.kobesteelers.com/news/",
-        "https://www.kobesteelers.com/news/cat_news/information/",
-        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+        "https://www.kobesteelers.com/news/"
       ],
       "rename_signals": []
     },
@@ -51,18 +43,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 33,
-      "new_items": [
-        {
-          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260729_01/",
-          "title": "活動レポート 2026年07月29日 留学記：NZ編 田島貫太郎② ニュースを見る",
-          "date": "2026-07-29",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://panasonic.co.jp/sports/wildknights/",
-        "https://panasonic.co.jp/sports/wildknights/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -85,17 +67,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4229",
-          "title": "RUGBY for AICHI 本格始動！6/27,28 イベントレポート 普及・アカデミー 2026.07.07",
-          "date": "2026-07-07",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://verblitz.toyotatimes-sports.toyota/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -118,7 +91,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260729.html",
+          "title": "2026-07-29 ダイナボアーズフェスタ2026｜イベントページ公開＆ボランティアスタッフ募集開始",
+          "date": "2026-07-29",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -147,9 +127,9 @@
       "item_count": 5,
       "new_items": [
         {
-          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260729a.html",
-          "title": "「12年に一度の”ラムイヤー”！2027ひつじプロジェクト」始動のお知らせ",
-          "date": "2026-07-29",
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260722a.html",
+          "title": "(7/29更新)「BlackRamsTokyoが二子玉川ライズにやってくる！ラムズの夏休み2026」詳細情報",
+          "date": "2026-07-22",
           "category": null
         }
       ],
@@ -207,7 +187,9 @@
       "item_count": 4,
       "new_items": [],
       "changed_pages": [
-        "https://www.jreast.co.jp/greenwarriors/"
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/",
+        "https://www.jreast.co.jp/greenwarriors/news/"
       ],
       "rename_signals": []
     },
@@ -220,9 +202,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kyudenvoltex.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -233,14 +213,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 24,
-      "new_items": [
-        {
-          "url": "https://blue-sharks.jp/news/2026/07/25007/",
-          "title": "ヤローズタラナキブルズ研修レポート Vol.4 (宮本誉久)",
-          "date": "2026-07-25",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://blue-sharks.jp/",
         "https://blue-sharks.jp/information/",
@@ -271,7 +244,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 15,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://kamaishi-seawaves.com/news/info/31924/",
+          "title": "お知らせ 2026.7.29 2026-27シーズン ファンクラブのお知らせ（9/1募集開始、8/19自動継続処理実施）",
+          "date": "2026-07-29",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://kamaishi-seawaves.com/",
         "https://kamaishi-seawaves.com/news/",
@@ -287,7 +267,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 30,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/2026/07/29/report-miyashita-2/",
+          "title": "2026.07.29 チーム情報 オーストラリア留学レポート 宮下 大輝 選手編",
+          "date": "2026-07-29",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -316,8 +303,7 @@
       "item_count": 45,
       "new_items": [],
       "changed_pages": [
-        "https://docomo-rugby.jp/",
-        "https://docomo-rugby.jp/news/"
+        "https://docomo-rugby.jp/"
       ],
       "rename_signals": []
     },
@@ -344,10 +330,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.rugguts.secom.co.jp/",
-        "https://www.rugguts.secom.co.jp/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -423,14 +406,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6082",
-          "title": "クラブ リコーブラックラムズ東京、「12年に一度の”ラムイヤー”！2027ひつじプロジェクト」始動のお知らせ 2026.07.29",
-          "date": "2026-07-29",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
