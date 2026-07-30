@@ -1,0 +1,74 @@
+{
+  "checked_at": "2026-07-30T15:35:42+09:00",
+  "teams": [],
+  "sources": [
+    {
+      "key": "league_one",
+      "name": "リーグワン公式",
+      "url": "https://league-one.jp/news/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 10,
+      "new_items": [],
+      "rename_signals": []
+    },
+    {
+      "key": "jrfu",
+      "name": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 10,
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54093",
+          "title": "レポート：男子セブンズシニアアカデミー山梨合宿 2026.7.30 （木） アカデミー・強化育成 セブンズ 男子セブンズ セブンズシニアアカデミー シニアアカデミー",
+          "date": "2026-07-30",
+          "category": null
+        }
+      ],
+      "rename_signals": []
+    },
+    {
+      "key": "pnc",
+      "name": "パシフィック・ネーションズカップ（World Rugby）",
+      "url": "https://www.world.rugby/news",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 0,
+      "new_items": [],
+      "rename_signals": []
+    }
+  ],
+  "highlights": [],
+  "league_rename_news": [],
+  "warnings": [
+    "浦安D-Rocks: official_url 未設定（discover を先に実行）",
+    "コベルコ神戸スティーラーズ: official_url 未設定（discover を先に実行）",
+    "埼玉パナソニックワイルドナイツ: official_url 未設定（discover を先に実行）",
+    "東芝ブレイブルーパス東京: official_url 未設定（discover を先に実行）",
+    "トヨタヴェルブリッツ: official_url 未設定（discover を先に実行）",
+    "三重ホンダヒート: official_url 未設定（discover を先に実行）",
+    "三菱重工相模原ダイナボアーズ: official_url 未設定（discover を先に実行）",
+    "横浜キヤノンイーグルス: official_url 未設定（discover を先に実行）",
+    "リコーブラックラムズ東京: official_url 未設定（discover を先に実行）",
+    "クボタスピアーズ船橋・東京ベイ: official_url 未設定（discover を先に実行）",
+    "静岡ブルーレヴズ: official_url 未設定（discover を先に実行）",
+    "東京サントリーサンゴリアス: official_url 未設定（discover を先に実行）",
+    "NECグリーンロケッツ東葛: official_url 未設定（discover を先に実行）",
+    "九州電力キューデンヴォルテクス: official_url 未設定（discover を先に実行）",
+    "清水建設江東ブルーシャークス: official_url 未設定（discover を先に実行）",
+    "豊田自動織機シャトルズ愛知: official_url 未設定（discover を先に実行）",
+    "日本製鉄釜石シーウェイブス: official_url 未設定（discover を先に実行）",
+    "花園近鉄ライナーズ: official_url 未設定（discover を先に実行）",
+    "日野レッドドルフィンズ: official_url 未設定（discover を先に実行）",
+    "レッドハリケーンズ大阪: official_url 未設定（discover を先に実行）",
+    "クリタウォーターガッシュ昭島: official_url 未設定（discover を先に実行）",
+    "狭山セコムラガッツ: official_url 未設定（discover を先に実行）",
+    "中国電力レッドレグリオンズ: official_url 未設定（discover を先に実行）",
+    "マツダスカイアクティブズ広島: official_url 未設定（discover を先に実行）",
+    "ヤクルトレビンズ戸田: official_url 未設定（discover を先に実行）",
+    "ルリーロ福岡: official_url 未設定（discover を先に実行）",
+    "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
+  ]
+}

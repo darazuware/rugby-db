@@ -1,7 +1,13 @@
 {
-  "checked_at": "2026-07-30T13:56:03+09:00",
+  "checked_at": "2026-07-30T15:35:42+09:00",
   "url": "https://www.rugby-japan.jp/news/",
   "items": [
+    {
+      "url": "https://www.rugby-japan.jp/news/54093",
+      "title": "レポート：男子セブンズシニアアカデミー山梨合宿 2026.7.30 （木） アカデミー・強化育成 セブンズ 男子セブンズ セブンズシニアアカデミー シニアアカデミー",
+      "date": "2026-07-30",
+      "category": null
+    },
     {
       "url": "https://www.rugby-japan.jp/news/54092",
       "title": "レポート：男子日本代表 網走合宿 2026.7.30 （木） 15人制男子日本代表",
@@ -10,8 +16,7 @@
     {
       "url": "https://www.rugby-japan.jp/news/53989",
       "title": "（7/30更新）2026年 女子日本代表 女子アイルランド代表戦 開催決定のお知らせ 2026.7.30 （木） 15人制女子日本代表 女子",
-      "date": "2026-07-30",
-      "category": "squad"
+      "date": "2026-07-30"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54083",
@@ -47,11 +52,6 @@
       "url": "https://www.rugby-japan.jp/news/54085",
       "title": "「太陽生命ウィメンズセブンズシリーズ2026」 第3戦北九州大会2日目 試合結果のお知らせ 2026.7.26 （日） 女子 セブンズ 太陽生命ウィメンズセブンズシリーズ",
       "date": "2026-07-26"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54078",
-      "title": "（7/25更新）「JAPAN BASE SEVENS 2026」開催のお知らせ 2026.7.25 （土） セブンズ JAPANBASE",
-      "date": "2026-07-25"
     }
   ]
 }
