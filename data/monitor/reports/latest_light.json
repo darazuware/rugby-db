@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-30T13:56:03+09:00",
+  "checked_at": "2026-07-30T17:19:53+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,20 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6084",
-          "title": "お知らせ ジャパンラグビー リーグワン 2026-27シーズンからの選手登録における登録区分に関する現状について 2026.07.30",
-          "date": "2026-07-30",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6083",
-          "title": "クラブ 花園近鉄ライナーズ、2026-27シーズン新体制および新加入・退団スタッフ（追加）のお知らせ 2026.07.30",
-          "date": "2026-07-30",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -32,14 +19,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/53989",
-          "title": "（7/30更新）2026年 女子日本代表 女子アイルランド代表戦 開催決定のお知らせ 2026.7.30 （木） 15人制女子日本代表 女子",
-          "date": "2026-07-30",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -53,29 +33,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6084",
-      "title": "お知らせ ジャパンラグビー リーグワン 2026-27シーズンからの選手登録における登録区分に関する現状について 2026.07.30",
-      "date": "2026-07-30",
-      "category": "roster"
-    },
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6083",
-      "title": "クラブ 花園近鉄ライナーズ、2026-27シーズン新体制および新加入・退団スタッフ（追加）のお知らせ 2026.07.30",
-      "date": "2026-07-30",
-      "category": "roster"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/53989",
-      "title": "（7/30更新）2026年 女子日本代表 女子アイルランド代表戦 開催決定のお知らせ 2026.7.30 （木） 15人制女子日本代表 女子",
-      "date": "2026-07-30",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
