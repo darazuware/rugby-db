@@ -1,0 +1,35 @@
+{
+  "league": "top14",
+  "signings": [
+    {
+      "id": "ar_enzo-traille",
+      "name_en": "Enzo TRAILLE",
+      "name_ja": null,
+      "team_id": "toulouse"
+    },
+    {
+      "id": "ar_ismael-faleyras",
+      "name_en": "Ismaël FALEYRAS",
+      "name_ja": null,
+      "team_id": "paris"
+    },
+    {
+      "id": "ar_paul-rocher",
+      "name_en": "Paul ROCHER",
+      "name_ja": null,
+      "team_id": "racing-92"
+    },
+    {
+      "id": "ar_sacha-benoit",
+      "name_en": "Sacha BENOIT",
+      "name_ja": null,
+      "team_id": "toulon"
+    }
+  ],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [],
+  "pending_departures": [],
+  "newly_finished_rounds": []
+}

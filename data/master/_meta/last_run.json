@@ -1,8 +1,8 @@
 {
   "top14": {
-    "run_at": "2026-07-25T23:05:45+09:00",
+    "run_at": "2026-07-30T09:46:53+09:00",
     "counts": {
-      "players": 1107,
+      "players": 1111,
       "teams": 14
     },
     "warnings": [
@@ -23,58 +23,64 @@
     ]
   },
   "super-rugby": {
-    "run_at": "2026-07-26T00:02:37+09:00",
+    "run_at": "2026-07-30T09:46:53+09:00",
     "counts": {
-      "players": 545,
+      "players": 546,
       "teams": 11
     },
     "warnings": []
   },
   "league-one-d1": {
-    "run_at": "2026-07-20T12:31:23+09:00",
+    "run_at": "2026-07-30T09:46:52+09:00",
     "counts": {
       "players": 693,
       "teams": 12
     },
     "warnings": [
-      "league-one-d1: 出身校186件を正規表現・Sonnetいずれでもtype判定できず（例: [\"'Apifo'ouCollege\", 'AucklandGrammar', 'DeLaSalleCollege']）"
+      "league-one-d1: 出身校54件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['NWUPukkePotchefstroom', 'RatuKadavulevuSchool', 'ScoilUiRiadaGaelscoil']）"
     ]
   },
   "national": {
-    "run_at": "2026-07-24T00:41:04+09:00",
+    "run_at": "2026-07-30T09:46:53+09:00",
     "counts": {
-      "players": 1113,
+      "players": 1109,
       "teams": 0
     },
     "warnings": [
-      "jrfu national: 学校名12件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['クボタスピアーズ船橋・東京ベイ', 'コベルコ神戸スティーラーズ', 'リコーブラックラムズ東京']）",
-      "jrfu national: ANTHROPIC_API_KEY未設定のためSonnetフォールバックをスキップ（未判定12件は学校扱いにしない: 所属欄はcareerへ、出身校欄はeducationから除外）"
+      "cross_person: ['jrfu_national_510411', 'lo_483940'] が同一人物候補（name_en+birthdate一致）",
+      "cross_person: ['jrfu_national_510441', 'lo_483750'] が同一人物候補（name_en+birthdate一致）",
+      "cross_person: ['jrfu_national_510431', 'lo_484693'] が同一人物候補（name_en+birthdate一致）",
+      "cross_person: ['jrfu_national_510438', 'jrfu_u23_497503'] が同一人物候補（name_en+birthdate一致）",
+      "jrfu national: 学校名11件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['クボタスピアーズ船橋・東京ベイ', 'コベルコ神戸スティーラーズ', 'リコーブラックラムズ東京']）",
+      "jrfu national: ANTHROPIC_API_KEY未設定のためSonnetフォールバックをスキップ（未判定11件は学校扱いにしない: 所属欄はcareerへ、出身校欄はeducationから除外）",
+      "jrfu sevens-national: 学校名16件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['(公財)日本ラグビーフットボール協会 / コカ・コーラボトラーズジャパン(株)', \"Mie Women's Rugby Football Club PEARLS\", 'NECグリーンロケッツ東葛']）",
+      "jrfu sevens-national: ANTHROPIC_API_KEY未設定のためSonnetフォールバックをスキップ（未判定16件は学校扱いにしない: 所属欄はcareerへ、出身校欄はeducationから除外）"
     ]
   },
   "sevens-national": {
-    "run_at": "2026-07-18T20:07:26+09:00",
+    "run_at": "2026-07-30T09:46:53+09:00",
     "counts": {
       "players": 28,
       "teams": 0
     },
     "warnings": [
-      "jrfu sevens-national: 学校名19件を正規表現・Sonnetいずれでもtype判定できず（例: ['(公財)日本ラグビーフットボール協会 / コカ・コーラボトラーズジャパン(株)', \"Mie Women's Rugby Football Club PEARLS\", 'NECグリーンロケッツ東葛']）",
-      "jrfu sevens-national: ANTHROPIC_API_KEY未設定のためSonnetフォールバックをスキップ（未判定19件は学校扱いにしない: 所属欄はcareerへ、出身校欄はeducationから除外）"
+      "jrfu sevens-national: 学校名16件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['(公財)日本ラグビーフットボール協会 / コカ・コーラボトラーズジャパン(株)', \"Mie Women's Rugby Football Club PEARLS\", 'NECグリーンロケッツ東葛']）",
+      "jrfu sevens-national: ANTHROPIC_API_KEY未設定のためSonnetフォールバックをスキップ（未判定16件は学校扱いにしない: 所属欄はcareerへ、出身校欄はeducationから除外）"
     ]
   },
   "age-grade": {
-    "run_at": "2026-07-18T20:10:55+09:00",
+    "run_at": "2026-07-30T09:46:53+09:00",
     "counts": {
       "players": 113,
       "teams": 0
     },
     "warnings": [
-      "jrfu age-grade: 学校名1件を正規表現・Sonnetいずれでもtype判定できず（例: ['静岡ブルーレヴズ']）",
+      "jrfu age-grade: 学校名1件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['静岡ブルーレヴズ']）",
       "jrfu age-grade: ANTHROPIC_API_KEY未設定のためSonnetフォールバックをスキップ（未判定1件は学校扱いにしない: 所属欄はcareerへ、出身校欄はeducationから除外）"
     ]
   },
   "university": {
-    "run_at": "2026-07-18T22:14:36+09:00",
+    "run_at": "2026-07-30T09:46:53+09:00",
     "counts": {
       "players": 721,
       "teams": 0
@@ -117,7 +123,7 @@
     ]
   },
   "highschool": {
-    "run_at": "2026-07-19T01:56:12+09:00",
+    "run_at": "2026-07-30T09:46:53+09:00",
     "counts": {
       "players": 388,
       "teams": 0
@@ -147,43 +153,45 @@
     ]
   },
   "urc": {
-    "run_at": "2026-07-26T06:39:40+09:00",
+    "run_at": "2026-07-30T09:46:53+09:00",
     "counts": {
       "players": 962,
       "teams": 16
     },
-    "warnings": []
+    "warnings": [
+      "league-one-d3: 出身校20件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['FaserCoastAnglican', 'SaintGeorge’sChurchofEnglandSchool', 'ケルビンサイドアカデミー']）"
+    ]
   },
   "premiership": {
-    "run_at": "2026-07-26T07:10:56+09:00",
+    "run_at": "2026-07-30T09:46:53+09:00",
     "counts": {
-      "players": 637,
+      "players": 636,
       "teams": 10
     },
     "warnings": []
   },
   "league-one-d2": {
-    "run_at": "2026-07-20T12:45:11+09:00",
+    "run_at": "2026-07-30T09:46:52+09:00",
     "counts": {
       "players": 439,
       "teams": 8
     },
     "warnings": [
-      "league-one-d2: 出身校135件を正規表現・Sonnetいずれでもtype判定できず（例: ['AtAndrew’sCollege', 'Aucklandgrammar', 'BeechenCliffSchool']）"
+      "league-one-d2: 出身校71件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['BeechenCliffSchool', 'Brisbane State High', 'ClifonCollage']）"
     ]
   },
   "league-one-d3": {
-    "run_at": "2026-07-20T12:55:52+09:00",
+    "run_at": "2026-07-30T09:46:53+09:00",
     "counts": {
       "players": 337,
       "teams": 6
     },
     "warnings": [
-      "league-one-d3: 出身校54件を正規表現・Sonnetいずれでもtype判定できず（例: ['AorereCollege', 'AranmoreCatholicCollege', 'FaserCoastAnglican']）"
+      "league-one-d3: 出身校20件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['FaserCoastAnglican', 'SaintGeorge’sChurchofEnglandSchool', 'ケルビンサイドアカデミー']）"
     ]
   },
   "mlr": {
-    "run_at": "2026-07-22T08:12:37+09:00",
+    "run_at": "2026-07-30T09:46:53+09:00",
     "counts": {
       "players": 202,
       "teams": 6

@@ -1,3 +1,77 @@
 {
-  "premiership": {}
+  "league-one-d1": {},
+  "league-one-d2": {},
+  "league-one-d3": {},
+  "top14": {},
+  "super-rugby": {},
+  "mlr": {},
+  "urc": {},
+  "premiership": {
+    "ar_ollie-minnis": {
+      "id": "ar_ollie-minnis",
+      "name_en": "Ollie MINNIS",
+      "name_ja": null,
+      "team_id": "gloucester"
+    }
+  },
+  "national": {
+    "jrfu_callup_haruto-kida": {
+      "id": "jrfu_callup_haruto-kida",
+      "name_en": "Haruto KIDA",
+      "name_ja": "木田 晴斗",
+      "team_id": "japan"
+    },
+    "jrfu_national_506353": {
+      "id": "jrfu_national_506353",
+      "name_en": "Waisake RARATUBUA",
+      "name_ja": "ワイサケ・ララトゥブア",
+      "team_id": "japan"
+    },
+    "jrfu_national_506359": {
+      "id": "jrfu_national_506359",
+      "name_en": "Haruto WATANABE",
+      "name_ja": "渡邊晴斗",
+      "team_id": "japan"
+    },
+    "jrfu_national_506369": {
+      "id": "jrfu_national_506369",
+      "name_en": "Inoke BURUA",
+      "name_ja": "イノケ・ブルア",
+      "team_id": "japan"
+    },
+    "jrfu_national_506497": {
+      "id": "jrfu_national_506497",
+      "name_en": "Aseri MASIVOU",
+      "name_ja": "アセリ・マシヴォウ",
+      "team_id": "japan"
+    },
+    "jrfu_national_506500": {
+      "id": "jrfu_national_506500",
+      "name_en": "Shun ARAKAWA",
+      "name_ja": "荒川駿",
+      "team_id": "japan"
+    },
+    "jrfu_national_506501": {
+      "id": "jrfu_national_506501",
+      "name_en": "Shigure TAKAO",
+      "name_ja": "高尾時流",
+      "team_id": "japan"
+    },
+    "jrfu_national_506503": {
+      "id": "jrfu_national_506503",
+      "name_en": "Shota TAIRA",
+      "name_ja": "平翔太",
+      "team_id": "japan"
+    },
+    "jrfu_national_507122": {
+      "id": "jrfu_national_507122",
+      "name_en": "Kanato HIRANO",
+      "name_ja": "平野叶翔",
+      "team_id": "japan"
+    }
+  },
+  "sevens-national": {},
+  "age-grade": {},
+  "university": {},
+  "highschool": {}
 }

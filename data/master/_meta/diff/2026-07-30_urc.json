@@ -1,0 +1,18 @@
+{
+  "league": "urc",
+  "signings": [],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [
+    {
+      "id": "ar_ruben-van-heerden",
+      "name_en": "Ruben VAN HEERDEN",
+      "name_ja": null,
+      "team": "South Africa",
+      "count": 1
+    }
+  ],
+  "caps_updates": [],
+  "pending_departures": [],
+  "newly_finished_rounds": []
+}

@@ -1,0 +1,17 @@
+{
+  "league": "premiership",
+  "signings": [],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [],
+  "pending_departures": [
+    {
+      "id": "ar_ollie-minnis",
+      "name_en": "Ollie MINNIS",
+      "name_ja": null,
+      "team_id": "gloucester"
+    }
+  ],
+  "newly_finished_rounds": []
+}

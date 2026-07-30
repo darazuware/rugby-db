@@ -3,7 +3,7 @@
     "id": "ar_adam-chadwick",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/adam-chadwick",
-    "scraped_at": "2026-07-22T08:09:44+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Adam CHADWICK",
     "name_ja": null,
     "name_kana": null,
@@ -17,20 +17,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Life University Running Eagles",
-        "from": 2026,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2026,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -44,7 +31,7 @@
     "id": "ar_aidan-king-",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/aidan-king-",
-    "scraped_at": "2026-07-22T08:08:31+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Aidan KING",
     "name_ja": null,
     "name_kana": null,
@@ -58,20 +45,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "NOLA Gold",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -85,7 +59,7 @@
     "id": "ar_aidan-ridgway",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/aidan-ridgway",
-    "scraped_at": "2026-07-22T08:08:44+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Aidan RIDGWAY",
     "name_ja": null,
     "name_kana": null,
@@ -99,14 +73,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -120,7 +87,7 @@
     "id": "ar_alejandro-martinez-tapia",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/alejandro-martinez-tapia",
-    "scraped_at": "2026-07-22T08:11:44+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Alejandro MARTINEZ TAPIA",
     "name_ja": null,
     "name_kana": null,
@@ -134,14 +101,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -155,7 +115,7 @@
     "id": "ar_alessandro-heaney",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/alessandro-heaney",
-    "scraped_at": "2026-07-22T08:11:07+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Alessandro HEANEY",
     "name_ja": null,
     "name_kana": null,
@@ -169,26 +129,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Harlequins",
-        "from": 2026,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "Cornish Pirates",
-        "from": 2026,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2026,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -202,7 +143,7 @@
     "id": "ar_alex-hernandez",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/alex-hernandez",
-    "scraped_at": "2026-07-22T08:11:10+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Alex HERNANDEZ",
     "name_ja": null,
     "name_kana": null,
@@ -216,20 +157,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -243,7 +171,7 @@
     "id": "ar_alex-lopeti",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/alex-lopeti",
-    "scraped_at": "2026-07-22T08:05:07+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Ale LOPETI",
     "name_ja": null,
     "name_kana": null,
@@ -257,14 +185,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -278,7 +199,7 @@
     "id": "ar_alex-maughan",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/alex-maughan",
-    "scraped_at": "2026-07-22T08:11:21+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Alex MAUGHAN",
     "name_ja": null,
     "name_kana": null,
@@ -292,20 +213,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "RFC Los Angeles",
-        "from": 2019,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -319,7 +227,7 @@
     "id": "ar_alexander-mackenzie",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/alexander-mackenzie",
-    "scraped_at": "2026-07-22T08:10:02+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Alex MACKENZIE",
     "name_ja": null,
     "name_kana": null,
@@ -333,14 +241,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -354,7 +255,7 @@
     "id": "ar_andre-riaan-warner",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/andre-riaan-warner",
-    "scraped_at": "2026-07-22T08:07:10+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "André Riaan WARNER",
     "name_ja": null,
     "name_kana": null,
@@ -368,26 +269,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Sporting Union Agenais",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Houston Sabercats",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -401,7 +283,7 @@
     "id": "ar_andrew-quattrin",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/andrew-quattrin",
-    "scraped_at": "2026-07-22T08:09:47+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Andrew QUATTRIN",
     "name_ja": null,
     "name_kana": null,
@@ -412,31 +294,10 @@
     "height_cm": 183,
     "weight_kg": 112,
     "birthdate": null,
-    "nationality": [
-      "Canada"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Valence Romans Drôme Rugby",
-        "from": 2026,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2026,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -450,7 +311,7 @@
     "id": "ar_baden-godfrey",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/baden-godfrey",
-    "scraped_at": "2026-07-22T08:11:47+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Baden GODFREY",
     "name_ja": null,
     "name_kana": null,
@@ -458,26 +319,13 @@
     "position": "Back row",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 183,
-    "weight_kg": 107,
+    "height_cm": 184,
+    "weight_kg": 109,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Northern Suburbs RFC",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -491,7 +339,7 @@
     "id": "ar_bailey-wilson",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/bailey-wilson",
-    "scraped_at": "2026-07-22T08:10:05+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Bailey WILSON",
     "name_ja": null,
     "name_kana": null,
@@ -505,14 +353,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -526,7 +367,7 @@
     "id": "ar_bart-vermeulen",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/bart-vermeulen",
-    "scraped_at": "2026-07-22T08:07:56+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Bart VERMEULEN",
     "name_ja": null,
     "name_kana": null,
@@ -540,20 +381,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "NOLA Gold",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -567,7 +395,7 @@
     "id": "ar_ben-houston",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ben-houston",
-    "scraped_at": "2026-07-22T08:05:22+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Ben HOUSTON",
     "name_ja": null,
     "name_kana": null,
@@ -581,20 +409,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "RFC Los Angeles",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -608,7 +423,7 @@
     "id": "ar_ben-lesage",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ben-lesage",
-    "scraped_at": "2026-07-22T08:10:38+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Ben LESAGE",
     "name_ja": null,
     "name_kana": null,
@@ -619,25 +434,10 @@
     "height_cm": 186,
     "weight_kg": 101,
     "birthdate": null,
-    "nationality": [
-      "Canada"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "LA Giltinis",
-        "from": 2021,
-        "to": 2022,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2022,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -651,7 +451,7 @@
     "id": "ar_ben-sugars",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ben-sugars",
-    "scraped_at": "2026-07-22T08:05:10+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Ben SUGARS",
     "name_ja": null,
     "name_kana": null,
@@ -665,26 +465,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New South Wales Waratahs",
-        "from": 2023,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "RFC Los Angeles",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -698,7 +479,7 @@
     "id": "ar_benjamin-bonasso",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/benjamin-bonasso",
-    "scraped_at": "2026-07-22T08:08:33+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Ben BONASSO",
     "name_ja": null,
     "name_kana": null,
@@ -709,26 +490,10 @@
     "height_cm": 188,
     "weight_kg": 103,
     "birthdate": null,
-    "nationality": [
-      "Argentina",
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Miami Sharks",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -742,7 +507,7 @@
     "id": "ar_bill-meakes",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/bill-meakes",
-    "scraped_at": "2026-07-22T08:05:57+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Billy MEAKES",
     "name_ja": null,
     "name_kana": null,
@@ -750,32 +515,13 @@
     "position": "Centre",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 185,
-    "weight_kg": 96,
+    "height_cm": 192,
+    "weight_kg": 98,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2022,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "RFC Los Angeles",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -789,7 +535,7 @@
     "id": "ar_bill-whiteside",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/bill-whiteside",
-    "scraped_at": "2026-07-22T08:08:20+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Bill WHITESIDE",
     "name_ja": null,
     "name_kana": null,
@@ -803,14 +549,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2023,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -824,7 +563,7 @@
     "id": "ar_braemar-murray",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/braemar-murray",
-    "scraped_at": "2026-07-22T08:09:52+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Braemar MURRAY",
     "name_ja": null,
     "name_kana": null,
@@ -838,26 +577,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2023,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Miami Sharks",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -871,7 +591,7 @@
     "id": "ar_brandon-harvey",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/brandon-harvey",
-    "scraped_at": "2026-07-22T08:03:41+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Brandon HARVEY",
     "name_ja": null,
     "name_kana": null,
@@ -885,20 +605,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "San Diego Legion",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -912,7 +619,7 @@
     "id": "ar_brock-webster",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/brock-webster",
-    "scraped_at": "2026-07-22T08:04:45+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Brock WEBSTER",
     "name_ja": null,
     "name_kana": null,
@@ -926,20 +633,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -953,7 +647,7 @@
     "id": "ar_calixto-martinez",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/calixto-martinez",
-    "scraped_at": "2026-07-22T08:07:59+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Cali MARTINEZ",
     "name_ja": null,
     "name_kana": null,
@@ -967,14 +661,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2022,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -988,7 +675,7 @@
     "id": "ar_callum-botchar",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/callum-botchar",
-    "scraped_at": "2026-07-22T08:06:48+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Callum BOTCHAR",
     "name_ja": null,
     "name_kana": null,
@@ -999,25 +686,10 @@
     "height_cm": 198,
     "weight_kg": 116,
     "birthdate": null,
-    "nationality": [
-      "Canada"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "NOLA Gold",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1031,7 +703,7 @@
     "id": "ar_calvin-liulamaga",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/calvin-liulamaga",
-    "scraped_at": "2026-07-22T08:07:23+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Calvin LIULAMAGA",
     "name_ja": null,
     "name_kana": null,
@@ -1045,14 +717,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Seattle Seawolves",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1066,7 +731,7 @@
     "id": "ar_cam-gerlach",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/cam-gerlach",
-    "scraped_at": "2026-07-22T08:10:29+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Cam GERLACH",
     "name_ja": null,
     "name_kana": null,
@@ -1080,26 +745,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "RFC Los Angeles",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1113,7 +759,7 @@
     "id": "ar_campbell-robb",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/campbell-robb",
-    "scraped_at": "2026-07-22T08:11:23+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Campbell ROBB",
     "name_ja": null,
     "name_kana": null,
@@ -1127,14 +773,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1148,7 +787,7 @@
     "id": "ar_cassh-maluia",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/cassh-maluia",
-    "scraped_at": "2026-07-22T08:05:59+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Cassh MALUIA",
     "name_ja": null,
     "name_kana": null,
@@ -1156,26 +795,13 @@
     "position": "Centre",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 185,
-    "weight_kg": 114,
+    "height_cm": 181,
+    "weight_kg": 117,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "San Diego Legion",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1189,7 +815,7 @@
     "id": "ar_charlie-abel",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/charlie-abel",
-    "scraped_at": "2026-07-22T08:03:16+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Charlie ABEL",
     "name_ja": null,
     "name_kana": null,
@@ -1203,26 +829,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "LA Giltinis",
-        "from": 2022,
-        "to": 2022,
-        "source_url": null
-      },
-      {
-        "team": "Auckland",
-        "from": 2022,
-        "to": 2022,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2022,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1236,7 +843,7 @@
     "id": "ar_charlie-walsh",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/charlie-walsh",
-    "scraped_at": "2026-07-22T08:06:23+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Charlie WALSH",
     "name_ja": null,
     "name_kana": null,
@@ -1250,14 +857,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1271,7 +871,7 @@
     "id": "ar_chase-jones",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/chase-jones",
-    "scraped_at": "2026-07-22T08:05:24+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Chase JONES",
     "name_ja": null,
     "name_kana": null,
@@ -1285,14 +885,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1306,7 +899,7 @@
     "id": "ar_christian-poidevin",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/christian-poidevin",
-    "scraped_at": "2026-07-22T08:05:27+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Christian POIDEVIN",
     "name_ja": null,
     "name_kana": null,
@@ -1320,20 +913,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "San Diego Legion",
-        "from": 2022,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1347,7 +927,7 @@
     "id": "ar_christopher-hilsenbeck",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/christopher-hilsenbeck",
-    "scraped_at": "2026-07-22T08:04:17+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Christopher HILSENBECK",
     "name_ja": null,
     "name_kana": null,
@@ -1358,31 +938,10 @@
     "height_cm": 182,
     "weight_kg": 88,
     "birthdate": null,
-    "nationality": [
-      "Germany"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Saint Jean-de-Luz Olympique Rugby",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1396,7 +955,7 @@
     "id": "ar_coby-miln",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/coby-miln",
-    "scraped_at": "2026-07-22T08:05:49+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Coby MILN",
     "name_ja": null,
     "name_kana": null,
@@ -1404,32 +963,13 @@
     "position": "Fly-half",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 187,
-    "weight_kg": 95,
+    "height_cm": 192,
+    "weight_kg": 90,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Warringah Rugby Club",
-        "from": 2023,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Western Force",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1443,7 +983,7 @@
     "id": "ar_cole-semu",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/cole-semu",
-    "scraped_at": "2026-07-22T08:06:02+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Cole SEMU",
     "name_ja": null,
     "name_kana": null,
@@ -1451,26 +991,13 @@
     "position": "Centre",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 174,
-    "weight_kg": 99,
+    "height_cm": 175,
+    "weight_kg": 97,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Utah Warriors",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1484,7 +1011,7 @@
     "id": "ar_collin-grosse",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/collin-grosse",
-    "scraped_at": "2026-07-22T08:08:36+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Collin GROSSE",
     "name_ja": null,
     "name_kana": null,
@@ -1498,14 +1025,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2022,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1519,7 +1039,7 @@
     "id": "ar_conner-mooneyham",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/conner-mooneyham",
-    "scraped_at": "2026-07-22T08:12:27+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Conner MOONEYHAM",
     "name_ja": null,
     "name_kana": null,
@@ -1527,26 +1047,13 @@
     "position": "Winger",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 187,
-    "weight_kg": 88,
+    "height_cm": 183,
+    "weight_kg": 90,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Seattle Seawolves",
-        "from": 2022,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1560,7 +1067,7 @@
     "id": "ar_connor-buckley",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/connor-buckley",
-    "scraped_at": "2026-07-22T08:08:47+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Connor BUCKLEY",
     "name_ja": null,
     "name_kana": null,
@@ -1574,14 +1081,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2023,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1595,7 +1095,7 @@
     "id": "ar_connor-devos",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/connor-devos",
-    "scraped_at": "2026-07-22T08:08:01+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Connor DEVOS",
     "name_ja": null,
     "name_kana": null,
@@ -1609,14 +1109,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1630,7 +1123,7 @@
     "id": "ar_connor-robinson",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/connor-robinson",
-    "scraped_at": "2026-07-22T08:08:12+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Connor ROBINSON",
     "name_ja": null,
     "name_kana": null,
@@ -1644,26 +1137,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Dallas Jackals",
-        "from": 2022,
-        "to": 2023,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1677,7 +1151,7 @@
     "id": "ar_corbin-smith",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/corbin-smith",
-    "scraped_at": "2026-07-22T08:06:15+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Corbin SMITH",
     "name_ja": null,
     "name_kana": null,
@@ -1685,32 +1159,13 @@
     "position": "Fullback",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 175,
-    "weight_kg": 82,
+    "height_cm": 176,
+    "weight_kg": 79,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Hartpury University",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1724,7 +1179,7 @@
     "id": "ar_cory-gilliland-daniel",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/cory-gilliland-daniel",
-    "scraped_at": "2026-07-22T08:08:39+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Cory GILLILAND-DANIEL",
     "name_ja": null,
     "name_kana": null,
@@ -1735,19 +1190,10 @@
     "height_cm": 185,
     "weight_kg": 107,
     "birthdate": null,
-    "nationality": [
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2020,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1761,7 +1207,7 @@
     "id": "ar_cyrille-cama",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/cyrille-cama",
-    "scraped_at": "2026-07-22T08:05:13+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Cyrille CAMA",
     "name_ja": null,
     "name_kana": null,
@@ -1775,26 +1221,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2026,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2026,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1808,7 +1235,7 @@
     "id": "ar_damien-hoyland",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/damien-hoyland",
-    "scraped_at": "2026-07-22T08:09:12+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Damien HOYLAND",
     "name_ja": null,
     "name_kana": null,
@@ -1819,19 +1246,10 @@
     "height_cm": 177,
     "weight_kg": 90,
     "birthdate": null,
-    "nationality": [
-      "Scotland"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2023,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1845,7 +1263,7 @@
     "id": "ar_dan-kriel",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/dan-kriel",
-    "scraped_at": "2026-07-22T08:07:26+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Dan KRIEL",
     "name_ja": null,
     "name_kana": null,
@@ -1859,26 +1277,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Lions Rugby",
-        "from": 2021,
-        "to": 2021,
-        "source_url": null
-      },
-      {
-        "team": "Golden Lions",
-        "from": 2021,
-        "to": 2021,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2021,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1892,7 +1291,7 @@
     "id": "ar_david-coetzer",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/david-coetzer",
-    "scraped_at": "2026-07-22T08:07:18+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Davy COETZER",
     "name_ja": null,
     "name_kana": null,
@@ -1906,20 +1305,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Houston Sabercats",
-        "from": 2021,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1933,7 +1319,7 @@
     "id": "ar_declan-leaney",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/declan-leaney",
-    "scraped_at": "2026-07-22T08:04:50+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Declan LEANEY",
     "name_ja": null,
     "name_kana": null,
@@ -1947,20 +1333,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "RFC Los Angeles",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -1974,7 +1347,7 @@
     "id": "ar_dewald-donald",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/dewald-donald",
-    "scraped_at": "2026-07-22T08:06:25+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Dewald DONALD",
     "name_ja": null,
     "name_kana": null,
@@ -1988,14 +1361,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Seattle Seawolves",
-        "from": 2021,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2009,7 +1375,7 @@
     "id": "ar_dewald-kotze",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/dewald-kotze",
-    "scraped_at": "2026-07-22T08:06:40+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Dewald KOTZE",
     "name_ja": null,
     "name_kana": null,
@@ -2020,20 +1386,10 @@
     "height_cm": 179,
     "weight_kg": 113,
     "birthdate": null,
-    "nationality": [
-      "South Africa",
-      "Canada"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Seattle Seawolves",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2047,7 +1403,7 @@
     "id": "ar_divan-rossouw",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/divan-rossouw",
-    "scraped_at": "2026-07-22T08:07:51+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Divan ROSSOUW",
     "name_ja": null,
     "name_kana": null,
@@ -2058,25 +1414,10 @@
     "height_cm": 182,
     "weight_kg": 98,
     "birthdate": null,
-    "nationality": [
-      "Namibia"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Krasny Yar Krasnojarsk",
-        "from": 2022,
-        "to": 2023,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2023,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2090,7 +1431,7 @@
     "id": "ar_dominic-akina",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/dominic-akina",
-    "scraped_at": "2026-07-22T08:11:49+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Dom AKINA",
     "name_ja": null,
     "name_kana": null,
@@ -2098,26 +1439,13 @@
     "position": "Back row",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 187,
-    "weight_kg": 107,
+    "height_cm": 190,
+    "weight_kg": 110,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Houston Sabercats",
-        "from": 2022,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2131,7 +1459,7 @@
     "id": "ar_dorian-jones",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/dorian-jones",
-    "scraped_at": "2026-07-22T08:07:21+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Dorian JONES",
     "name_ja": null,
     "name_kana": null,
@@ -2145,26 +1473,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Sporting Union Agenais",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "NOLA Gold",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2178,7 +1487,7 @@
     "id": "ar_drake-davis",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/drake-davis",
-    "scraped_at": "2026-07-22T08:07:32+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Drake DAVIS",
     "name_ja": null,
     "name_kana": null,
@@ -2192,14 +1501,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2213,7 +1515,7 @@
     "id": "ar_duncan-matthews",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/duncan-matthews",
-    "scraped_at": "2026-07-22T08:07:35+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Duncan MATTHEWS",
     "name_ja": null,
     "name_kana": null,
@@ -2227,26 +1529,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Lions Rugby",
-        "from": 2019,
-        "to": 2020,
-        "source_url": null
-      },
-      {
-        "team": "Golden Lions",
-        "from": 2020,
-        "to": 2021,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2021,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2260,7 +1543,7 @@
     "id": "ar_ed-timpson",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ed-timpson",
-    "scraped_at": "2026-07-22T08:05:29+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Ed TIMPSON",
     "name_ja": null,
     "name_kana": null,
@@ -2268,32 +1551,13 @@
     "position": "Back row",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 181,
+    "height_cm": 183,
     "weight_kg": 111,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Cambridge RUFC",
-        "from": 2026,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2026,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2307,7 +1571,7 @@
     "id": "ar_ej-freeman",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ej-freeman",
-    "scraped_at": "2026-07-22T08:12:16+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "EJ FREEMAN",
     "name_ja": null,
     "name_kana": null,
@@ -2315,20 +1579,13 @@
     "position": "Centre",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 180,
+    "height_cm": 183,
     "weight_kg": 98,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2342,7 +1599,7 @@
     "id": "ar_elias-garza",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/elias-garza",
-    "scraped_at": "2026-07-22T08:11:12+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Elias GARZA",
     "name_ja": null,
     "name_kana": null,
@@ -2356,26 +1613,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2026,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2026,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2389,7 +1627,7 @@
     "id": "ar_emmanuel-albert",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/emmanuel-albert",
-    "scraped_at": "2026-07-22T08:03:49+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Emmanuel ALBERT",
     "name_ja": null,
     "name_kana": null,
@@ -2403,14 +1641,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2424,7 +1655,7 @@
     "id": "ar_erich-storti",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/erich-storti",
-    "scraped_at": "2026-07-22T08:12:19+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Erich STORTI",
     "name_ja": null,
     "name_kana": null,
@@ -2432,22 +1663,13 @@
     "position": "Centre",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 184,
-    "weight_kg": 86,
+    "height_cm": 186,
+    "weight_kg": 91,
     "birthdate": null,
-    "nationality": [
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2461,7 +1683,7 @@
     "id": "ar_ethan-mcveigh",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ethan-mcveigh",
-    "scraped_at": "2026-07-22T08:10:22+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Ethan MCVEIGH",
     "name_ja": null,
     "name_kana": null,
@@ -2475,20 +1697,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2502,7 +1711,7 @@
     "id": "ar_ezekiel-lindenmuth",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ezekiel-lindenmuth",
-    "scraped_at": "2026-07-22T08:06:28+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Ezekiel LINDENMUTH",
     "name_ja": null,
     "name_kana": null,
@@ -2516,26 +1725,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Houston Sabercats",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Counties Manukau Steelers",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2549,7 +1739,7 @@
     "id": "ar_faka-osi-pifeleti",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/faka-osi-pifeleti",
-    "scraped_at": "2026-07-22T08:03:19+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Faka'osi PIFELETI",
     "name_ja": null,
     "name_kana": null,
@@ -2563,20 +1753,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "San Diego Legion",
-        "from": 2022,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2590,7 +1767,7 @@
     "id": "ar_filipe-vakasiuola",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/filipe-vakasiuola",
-    "scraped_at": "2026-07-22T08:09:28+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Filipe VAKASIUOLA",
     "name_ja": null,
     "name_kana": null,
@@ -2604,14 +1781,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2625,7 +1795,7 @@
     "id": "ar_fred-apulu",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/fred-apulu",
-    "scraped_at": "2026-07-22T08:04:53+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Fred APULU",
     "name_ja": null,
     "name_kana": null,
@@ -2639,26 +1809,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2023,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Utah Warriors",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2672,7 +1823,7 @@
     "id": "ar_gonzalo-bertranou",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/gonzalo-bertranou",
-    "scraped_at": "2026-07-22T08:05:43+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Gonzalo BERTRANOU",
     "name_ja": null,
     "name_kana": null,
@@ -2680,34 +1831,13 @@
     "position": "Scrum-half",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 177,
-    "weight_kg": 80,
+    "height_cm": 182,
+    "weight_kg": 82,
     "birthdate": null,
-    "nationality": [
-      "Argentina"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Cardiff Rugby",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "RFC Los Angeles",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2721,7 +1851,7 @@
     "id": "ar_harison-mataele",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/harison-mataele",
-    "scraped_at": "2026-07-22T08:06:51+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Harison MATAELE",
     "name_ja": null,
     "name_kana": null,
@@ -2732,25 +1862,10 @@
     "height_cm": 200,
     "weight_kg": 111,
     "birthdate": null,
-    "nationality": [
-      "Tonga"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Stade Montois Rugby Pro",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2764,7 +1879,7 @@
     "id": "ar_harley-wheeler",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/harley-wheeler",
-    "scraped_at": "2026-07-22T08:09:15+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Harley WHEELER",
     "name_ja": null,
     "name_kana": null,
@@ -2778,20 +1893,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "NOLA Gold",
-        "from": 2021,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2805,7 +1907,7 @@
     "id": "ar_harrison-boyle",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/harrison-boyle",
-    "scraped_at": "2026-07-22T08:10:32+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Harrison BOYLE",
     "name_ja": null,
     "name_kana": null,
@@ -2816,26 +1918,10 @@
     "height_cm": 194,
     "weight_kg": 98,
     "birthdate": null,
-    "nationality": [
-      "United-States",
-      "New Zealand"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Hutt Old Boys Marist",
-        "from": 2022,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2849,7 +1935,7 @@
     "id": "ar_ignacio-peculo",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ignacio-peculo",
-    "scraped_at": "2026-07-22T08:06:31+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Ignacio PÉCULO",
     "name_ja": null,
     "name_kana": null,
@@ -2863,20 +1949,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2890,7 +1963,7 @@
     "id": "ar_ishma-eel-safodien",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ishma-eel-safodien",
-    "scraped_at": "2026-07-22T08:12:03+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Ishy SAFODIEN",
     "name_ja": null,
     "name_kana": null,
@@ -2898,20 +1971,13 @@
     "position": "Scrum-half",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 164,
-    "weight_kg": 78,
+    "height_cm": 173,
+    "weight_kg": 80,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2925,7 +1991,7 @@
     "id": "ar_jackson-zabierek",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/jackson-zabierek",
-    "scraped_at": "2026-07-22T08:03:33+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Jackson ZABIEREK",
     "name_ja": null,
     "name_kana": null,
@@ -2939,26 +2005,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "American Raptors",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -2972,7 +2019,7 @@
     "id": "ar_jacob-norris",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/jacob-norris",
-    "scraped_at": "2026-07-22T08:10:08+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Jacob NORRIS",
     "name_ja": null,
     "name_kana": null,
@@ -2986,26 +2033,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Moana Pasifika",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Bay of Plenty Steamers",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3019,7 +2047,7 @@
     "id": "ar_jake-kinneeveauk",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/jake-kinneeveauk",
-    "scraped_at": "2026-07-22T08:03:52+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Jake KINNEEVEAUK",
     "name_ja": null,
     "name_kana": null,
@@ -3033,14 +2061,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3054,7 +2075,7 @@
     "id": "ar_jake-turnbull",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/jake-turnbull",
-    "scraped_at": "2026-07-22T08:03:22+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Jake TURNBULL",
     "name_ja": null,
     "name_kana": null,
@@ -3065,32 +2086,10 @@
     "height_cm": 188,
     "weight_kg": 122,
     "birthdate": null,
-    "nationality": [
-      "Australia",
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Seattle Seawolves",
-        "from": 2022,
-        "to": 2023,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3104,7 +2103,7 @@
     "id": "ar_jamason-fa-anana-schultz",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/jamason-fa-anana-schultz",
-    "scraped_at": "2026-07-22T08:10:11+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Jamason FA'ANANA-SCHULTZ",
     "name_ja": null,
     "name_kana": null,
@@ -3115,32 +2114,10 @@
     "height_cm": 190,
     "weight_kg": 127,
     "birthdate": null,
-    "nationality": [
-      "Australia",
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Racing Club Narbonnais",
-        "from": 2026,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2026,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3154,7 +2131,7 @@
     "id": "ar_james-scott",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/james-scott",
-    "scraped_at": "2026-07-22T08:11:31+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "James SCOTT",
     "name_ja": null,
     "name_kana": null,
@@ -3168,26 +2145,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Jersey Reds",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3201,7 +2159,7 @@
     "id": "ar_jason-damm",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/jason-damm",
-    "scraped_at": "2026-07-22T08:05:32+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Jason DAMM",
     "name_ja": null,
     "name_kana": null,
@@ -3209,20 +2167,13 @@
     "position": "Back row",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 190,
-    "weight_kg": 121,
+    "height_cm": 191,
+    "weight_kg": 113,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3236,7 +2187,7 @@
     "id": "ar_jason-emery",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/jason-emery",
-    "scraped_at": "2026-07-22T08:09:01+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Jason EMERY",
     "name_ja": null,
     "name_kana": null,
@@ -3250,26 +2201,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "RFC Los Angeles",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Manawatu Turbos",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3283,7 +2215,7 @@
     "id": "ar_jason-robertson",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/jason-robertson",
-    "scraped_at": "2026-07-22T08:08:55+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Jason ROBERTSON",
     "name_ja": null,
     "name_kana": null,
@@ -3297,26 +2229,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Southland Stags",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3330,7 +2243,7 @@
     "id": "ar_jason-tidwell",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/jason-tidwell",
-    "scraped_at": "2026-07-22T08:04:35+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Jason TIDWELL",
     "name_ja": null,
     "name_kana": null,
@@ -3344,20 +2257,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3371,7 +2271,7 @@
     "id": "ar_jay-renton",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/jay-renton",
-    "scraped_at": "2026-07-22T08:08:50+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Jay RENTON",
     "name_ja": null,
     "name_kana": null,
@@ -3385,26 +2285,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Houston Sabercats",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Tasman Mako",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3418,7 +2299,7 @@
     "id": "ar_jeron-pantor",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/jeron-pantor",
-    "scraped_at": "2026-07-22T08:12:34+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Jeron PANTOR",
     "name_ja": null,
     "name_kana": null,
@@ -3426,20 +2307,13 @@
     "position": "Fullback",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 183,
-    "weight_kg": 87,
+    "height_cm": 177,
+    "weight_kg": 89,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3453,7 +2327,7 @@
     "id": "ar_joe-johnston",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/joe-johnston",
-    "scraped_at": "2026-07-22T08:10:14+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Joe JOHNSTON",
     "name_ja": null,
     "name_kana": null,
@@ -3467,26 +2341,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Bay of Plenty Steamers",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3500,7 +2355,7 @@
     "id": "ar_joe-taufete-e",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/joe-taufete-e",
-    "scraped_at": "2026-07-22T08:05:16+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Joe TAUFETE'E",
     "name_ja": null,
     "name_kana": null,
@@ -3511,31 +2366,10 @@
     "height_cm": 185,
     "weight_kg": 128,
     "birthdate": null,
-    "nationality": [
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Seattle Seawolves",
-        "from": 2023,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "NOLA Gold",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3549,7 +2383,7 @@
     "id": "ar_joel-hodgson",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/joel-hodgson",
-    "scraped_at": "2026-07-22T08:10:35+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Joel HODGSON",
     "name_ja": null,
     "name_kana": null,
@@ -3563,26 +2397,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Glasgow Warriors",
-        "from": 2023,
-        "to": 2023,
-        "source_url": null
-      },
-      {
-        "team": "Utah Warriors",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3596,7 +2411,7 @@
     "id": "ar_johan-momsen",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/johan-momsen",
-    "scraped_at": "2026-07-22T08:11:35+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Johan MOMSEN",
     "name_ja": null,
     "name_kana": null,
@@ -3610,26 +2425,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Manawatu Turbos",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Houston Sabercats",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3643,7 +2439,7 @@
     "id": "ar_john-lefevre",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/john-lefevre",
-    "scraped_at": "2026-07-22T08:08:52+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "John LEFEVRE",
     "name_ja": null,
     "name_kana": null,
@@ -3657,14 +2453,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2021,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3678,7 +2467,7 @@
     "id": "ar_john-powers",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/john-powers",
-    "scraped_at": "2026-07-22T08:09:03+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "John POWERS",
     "name_ja": null,
     "name_kana": null,
@@ -3692,20 +2481,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Rugby United New-York",
-        "from": 2021,
-        "to": 2023,
-        "source_url": null
-      },
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2023,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3719,7 +2495,7 @@
     "id": "ar_john-rizzo",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/john-rizzo",
-    "scraped_at": "2026-07-22T08:09:17+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "John RIZZO",
     "name_ja": null,
     "name_kana": null,
@@ -3733,14 +2509,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2021,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3754,7 +2523,7 @@
     "id": "ar_jordan-jackson-hope",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/jordan-jackson-hope",
-    "scraped_at": "2026-07-22T08:09:06+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Jordan JACKSON-HOPE",
     "name_ja": null,
     "name_kana": null,
@@ -3768,26 +2537,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Eastern Suburbs RFC",
-        "from": 2021,
-        "to": 2022,
-        "source_url": null
-      },
-      {
-        "team": "NOLA Gold",
-        "from": 2022,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3801,7 +2551,7 @@
     "id": "ar_jordan-trainor",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/jordan-trainor",
-    "scraped_at": "2026-07-22T08:12:37+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Jordan TRAINOR",
     "name_ja": null,
     "name_kana": null,
@@ -3809,32 +2559,13 @@
     "position": "Fullback",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 190,
-    "weight_kg": 98,
+    "height_cm": 187,
+    "weight_kg": 99,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Utah Warriors",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Northland Taniwha",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3848,7 +2579,7 @@
     "id": "ar_joseph-mano",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/joseph-mano",
-    "scraped_at": "2026-07-22T08:06:07+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Joe MANO",
     "name_ja": null,
     "name_kana": null,
@@ -3856,20 +2587,13 @@
     "position": "Winger",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 183,
-    "weight_kg": 100,
+    "height_cm": 187,
+    "weight_kg": 96,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3883,7 +2607,7 @@
     "id": "ar_juan-philip-smith",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/juan-philip-smith",
-    "scraped_at": "2026-07-22T08:07:12+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "JP SMITH",
     "name_ja": null,
     "name_kana": null,
@@ -3894,20 +2618,10 @@
     "height_cm": 190,
     "weight_kg": 91,
     "birthdate": null,
-    "nationality": [
-      "South Africa",
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Seattle Seawolves",
-        "from": 2018,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3921,7 +2635,7 @@
     "id": "ar_julian-roberts",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/julian-roberts",
-    "scraped_at": "2026-07-22T08:12:30+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Julian ROBERTS",
     "name_ja": null,
     "name_kana": null,
@@ -3929,26 +2643,13 @@
     "position": "Winger",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 178,
-    "weight_kg": 96,
+    "height_cm": 180,
+    "weight_kg": 97,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "NOLA Gold",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3962,7 +2663,7 @@
     "id": "ar_junior-gafa",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/junior-gafa",
-    "scraped_at": "2026-07-22T08:12:21+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Junior GAFA",
     "name_ja": null,
     "name_kana": null,
@@ -3970,20 +2671,13 @@
     "position": "Centre",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 173,
-    "weight_kg": 98,
+    "height_cm": 182,
+    "weight_kg": 93,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2023,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -3997,7 +2691,7 @@
     "id": "ar_jurie-van-vuuren",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/jurie-van-vuuren",
-    "scraped_at": "2026-07-22T08:05:19+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Jurie VAN VUUREN",
     "name_ja": null,
     "name_kana": null,
@@ -4011,26 +2705,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Utah Warriors",
-        "from": 2019,
-        "to": 2023,
-        "source_url": null
-      },
-      {
-        "team": "RFC Los Angeles",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4044,7 +2719,7 @@
     "id": "ar_justus-tavai",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/justus-tavai",
-    "scraped_at": "2026-07-22T08:04:56+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Justus TAVAI",
     "name_ja": null,
     "name_kana": null,
@@ -4058,26 +2733,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Belmont Shore Rugby Club",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "RFC Los Angeles",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4091,7 +2747,7 @@
     "id": "ar_kaleb-geiger",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/kaleb-geiger",
-    "scraped_at": "2026-07-22T08:09:30+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Kaleb GEIGER",
     "name_ja": null,
     "name_kana": null,
@@ -4105,14 +2761,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2023,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4126,7 +2775,7 @@
     "id": "ar_kalisi-moli",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/kalisi-moli",
-    "scraped_at": "2026-07-22T08:06:56+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Kalisi MOLI",
     "name_ja": null,
     "name_kana": null,
@@ -4140,20 +2789,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Utah Warriors",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4167,7 +2803,7 @@
     "id": "ar_karl-keane",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/karl-keane",
-    "scraped_at": "2026-07-22T08:12:05+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Karl KEANE",
     "name_ja": null,
     "name_kana": null,
@@ -4175,26 +2811,13 @@
     "position": "Scrum-half",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 185,
-    "weight_kg": 79,
+    "height_cm": 183,
+    "weight_kg": 86,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Urayasu D-Rocks",
-        "from": 2023,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4208,7 +2831,7 @@
     "id": "ar_keni-nasoqeqe",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/keni-nasoqeqe",
-    "scraped_at": "2026-07-22T08:05:35+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Keni NASOQEQE",
     "name_ja": null,
     "name_kana": null,
@@ -4216,26 +2839,13 @@
     "position": "Back row",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 198,
-    "weight_kg": 116,
+    "height_cm": 197,
+    "weight_kg": 121,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Houston Sabercats",
-        "from": 2021,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4249,7 +2859,7 @@
     "id": "ar_kienan-higgins",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/kienan-higgins",
-    "scraped_at": "2026-07-22T08:10:41+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Kienan HIGGINS",
     "name_ja": null,
     "name_kana": null,
@@ -4263,26 +2873,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Edimbourg Rugby",
-        "from": 2026,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2026,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4296,7 +2887,7 @@
     "id": "ar_killian-coghlan",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/killian-coghlan",
-    "scraped_at": "2026-07-22T08:10:43+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Killian COGHLAN",
     "name_ja": null,
     "name_kana": null,
@@ -4307,20 +2898,10 @@
     "height_cm": 189,
     "weight_kg": 104,
     "birthdate": null,
-    "nationality": [
-      "Ireland",
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2023,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4334,7 +2915,7 @@
     "id": "ar_kirby-myhill",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/kirby-myhill",
-    "scraped_at": "2026-07-22T08:08:15+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Kirby MYHILL",
     "name_ja": null,
     "name_kana": null,
@@ -4348,26 +2929,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Scarlets",
-        "from": 2026,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2026,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4381,7 +2943,7 @@
     "id": "ar_koby-baker",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/koby-baker",
-    "scraped_at": "2026-07-22T08:03:25+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Koby BAKER",
     "name_ja": null,
     "name_kana": null,
@@ -4395,26 +2957,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "American Raptors",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4428,7 +2971,7 @@
     "id": "ar_koikoi-nelligan",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/koikoi-nelligan",
-    "scraped_at": "2026-07-22T08:08:17+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "KoiKoi NELLIGAN",
     "name_ja": null,
     "name_kana": null,
@@ -4442,14 +2985,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2022,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4463,7 +2999,7 @@
     "id": "ar_kyle-ciquera",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/kyle-ciquera",
-    "scraped_at": "2026-07-22T08:09:33+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Kyle CIQUERA",
     "name_ja": null,
     "name_kana": null,
@@ -4477,14 +3013,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2019,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4498,7 +3027,7 @@
     "id": "ar_lance-williams",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/lance-williams",
-    "scraped_at": "2026-07-22T08:05:38+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Lance WILLIAMS",
     "name_ja": null,
     "name_kana": null,
@@ -4506,32 +3035,13 @@
     "position": "Back row",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 185,
+    "height_cm": 183,
     "weight_kg": 107,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "USA 7's",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Utah Warriors",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4545,7 +3055,7 @@
     "id": "ar_larome-white",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/larome-white",
-    "scraped_at": "2026-07-22T08:06:34+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "LaRome WHITE",
     "name_ja": null,
     "name_kana": null,
@@ -4559,26 +3069,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Houston Sabercats",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4592,7 +3083,7 @@
     "id": "ar_lauina-futi",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/lauina-futi",
-    "scraped_at": "2026-07-22T08:07:37+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Lauina FUTI",
     "name_ja": null,
     "name_kana": null,
@@ -4603,20 +3094,10 @@
     "height_cm": 178,
     "weight_kg": 91,
     "birthdate": null,
-    "nationality": [
-      "American Samoa",
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Seattle Seawolves",
-        "from": 2020,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4630,7 +3111,7 @@
     "id": "ar_liam-fletcher",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/liam-fletcher",
-    "scraped_at": "2026-07-22T08:08:04+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Liam FLETCHER",
     "name_ja": null,
     "name_kana": null,
@@ -4644,20 +3125,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4671,7 +3139,7 @@
     "id": "ar_liki-chan-tung",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/liki-chan-tung",
-    "scraped_at": "2026-07-22T08:06:42+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Liki CHAN-TUNG",
     "name_ja": null,
     "name_kana": null,
@@ -4685,20 +3153,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "San Diego Legion",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4712,7 +3167,7 @@
     "id": "ar_line-latu",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/line-latu",
-    "scraped_at": "2026-07-22T08:10:59+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Line LATU",
     "name_ja": null,
     "name_kana": null,
@@ -4726,20 +3181,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4753,7 +3195,7 @@
     "id": "ar_lucas-rumball",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/lucas-rumball",
-    "scraped_at": "2026-07-22T08:03:55+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Lucas RUMBALL",
     "name_ja": null,
     "name_kana": null,
@@ -4764,19 +3206,10 @@
     "height_cm": 197,
     "weight_kg": 115,
     "birthdate": null,
-    "nationality": [
-      "Canada"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2023,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4790,7 +3223,7 @@
     "id": "ar_luke-carty",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/luke-carty",
-    "scraped_at": "2026-07-22T08:12:11+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Luke CARTY",
     "name_ja": null,
     "name_kana": null,
@@ -4798,32 +3231,13 @@
     "position": "Fly-half",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 183,
-    "weight_kg": 92,
+    "height_cm": 184,
+    "weight_kg": 89,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2022,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "NOLA Gold",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4837,7 +3251,7 @@
     "id": "ar_luke-white",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/luke-white",
-    "scraped_at": "2026-07-22T08:03:27+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Luke WHITE",
     "name_ja": null,
     "name_kana": null,
@@ -4848,26 +3262,10 @@
     "height_cm": 196,
     "weight_kg": 125,
     "birthdate": null,
-    "nationality": [
-      "Australia",
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "LA Giltinis",
-        "from": 2020,
-        "to": 2022,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2022,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4881,7 +3279,7 @@
     "id": "ar_ma-ake-muti",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ma-ake-muti",
-    "scraped_at": "2026-07-22T08:04:58+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Ma'ake MUTI",
     "name_ja": null,
     "name_kana": null,
@@ -4895,26 +3293,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "American Raptors",
-        "from": 2022,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Miami Sharks",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4928,7 +3307,7 @@
     "id": "ar_maclean-jones",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/maclean-jones",
-    "scraped_at": "2026-07-22T08:03:58+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Maclean JONES",
     "name_ja": null,
     "name_kana": null,
@@ -4942,20 +3321,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Austin Gilgronis",
-        "from": 2020,
-        "to": 2022,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2022,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -4969,7 +3335,7 @@
     "id": "ar_makeen-alikhan",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/makeen-alikhan",
-    "scraped_at": "2026-07-22T08:11:52+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Makeen ALIKHAN",
     "name_ja": null,
     "name_kana": null,
@@ -4977,32 +3343,13 @@
     "position": "Back row",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 189,
-    "weight_kg": 108,
+    "height_cm": 185,
+    "weight_kg": 102,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Harlequins",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Dallas Jackals",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5016,7 +3363,7 @@
     "id": "ar_malacchi-esdale",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/malacchi-esdale",
-    "scraped_at": "2026-07-22T08:12:32+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Malacchi ESDALE",
     "name_ja": null,
     "name_kana": null,
@@ -5024,26 +3371,13 @@
     "position": "Winger",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 184,
-    "weight_kg": 99,
+    "height_cm": 193,
+    "weight_kg": 98,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Seattle Seawolves",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5057,7 +3391,7 @@
     "id": "ar_malcolm-may",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/malcolm-may",
-    "scraped_at": "2026-07-22T08:04:00+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Malcolm MAY",
     "name_ja": null,
     "name_kana": null,
@@ -5071,14 +3405,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5092,7 +3419,7 @@
     "id": "ar_maliu-niuafe",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/maliu-niuafe",
-    "scraped_at": "2026-07-22T08:09:36+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Maliu NIUAFE",
     "name_ja": null,
     "name_kana": null,
@@ -5106,20 +3433,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "RFC Los Angeles",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5133,7 +3447,7 @@
     "id": "ar_manu-filimone",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/manu-filimone",
-    "scraped_at": "2026-07-22T08:10:49+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Filimone MANU",
     "name_ja": null,
     "name_kana": null,
@@ -5147,14 +3461,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5168,7 +3475,7 @@
     "id": "ar_mark-bennett",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/mark-bennett",
-    "scraped_at": "2026-07-22T08:07:29+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Mark BENNETT",
     "name_ja": null,
     "name_kana": null,
@@ -5179,31 +3486,10 @@
     "height_cm": 184,
     "weight_kg": 86,
     "birthdate": null,
-    "nationality": [
-      "Scotland"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Glasgow Warriors",
-        "from": 2012,
-        "to": 2017,
-        "source_url": null
-      },
-      {
-        "team": "Edimbourg Rugby",
-        "from": 2017,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5217,7 +3503,7 @@
     "id": "ar_mark-o-keeffe",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/mark-o-keeffe",
-    "scraped_at": "2026-07-22T08:04:37+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Mark O'KEEFFE",
     "name_ja": null,
     "name_kana": null,
@@ -5231,20 +3517,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Austin Gilgronis",
-        "from": 2021,
-        "to": 2022,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2022,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5258,7 +3531,7 @@
     "id": "ar_marno-redelinghuys",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/marno-redelinghuys",
-    "scraped_at": "2026-07-22T08:06:59+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Marno REDELINGHUYS",
     "name_ja": null,
     "name_kana": null,
@@ -5269,26 +3542,10 @@
     "height_cm": 192,
     "weight_kg": 118,
     "birthdate": null,
-    "nationality": [
-      "South Africa",
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Houston Sabercats",
-        "from": 2021,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5302,7 +3559,7 @@
     "id": "ar_marques-fuala-au",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/marques-fuala-au",
-    "scraped_at": "2026-07-22T08:11:55+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Marques FUALA'AU",
     "name_ja": null,
     "name_kana": null,
@@ -5310,26 +3567,13 @@
     "position": "Back row",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 188,
-    "weight_kg": 110,
+    "height_cm": 192,
+    "weight_kg": 104,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Miami Sharks",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5343,7 +3587,7 @@
     "id": "ar_mason-flesch",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/mason-flesch",
-    "scraped_at": "2026-07-22T08:04:03+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Mason FLESCH",
     "name_ja": null,
     "name_kana": null,
@@ -5354,19 +3598,10 @@
     "height_cm": 195,
     "weight_kg": 114,
     "birthdate": null,
-    "nationality": [
-      "Canada"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2023,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5380,7 +3615,7 @@
     "id": "ar_mason-pedersen",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/mason-pedersen",
-    "scraped_at": "2026-07-22T08:06:37+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Mason PEDERSEN",
     "name_ja": null,
     "name_kana": null,
@@ -5394,14 +3629,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Seattle Seawolves",
-        "from": 2022,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5415,7 +3643,7 @@
     "id": "ar_mathis-demandolx",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/mathis-demandolx",
-    "scraped_at": "2026-07-22T08:04:08+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Mathis DEMANDOLX",
     "name_ja": null,
     "name_kana": null,
@@ -5429,14 +3657,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5450,7 +3671,7 @@
     "id": "ar_matt-anticev",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/matt-anticev",
-    "scraped_at": "2026-07-22T08:05:51+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Matt ANTICEV",
     "name_ja": null,
     "name_kana": null,
@@ -5458,26 +3679,13 @@
     "position": "Fly-half",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 180,
-    "weight_kg": 82,
+    "height_cm": 182,
+    "weight_kg": 85,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "RFC Los Angeles",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5491,7 +3699,7 @@
     "id": "ar_matt-carrion",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/matt-carrion",
-    "scraped_at": "2026-07-22T08:11:57+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Matt CARRION",
     "name_ja": null,
     "name_kana": null,
@@ -5499,26 +3707,13 @@
     "position": "Back row",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 188,
-    "weight_kg": 100,
+    "height_cm": 185,
+    "weight_kg": 106,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5532,7 +3727,7 @@
     "id": "ar_matt-oworu",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/matt-oworu",
-    "scraped_at": "2026-07-22T08:04:06+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Matt OWORU",
     "name_ja": null,
     "name_kana": null,
@@ -5543,19 +3738,10 @@
     "height_cm": 190,
     "weight_kg": 108,
     "birthdate": null,
-    "nationality": [
-      "Canada"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5569,7 +3755,7 @@
     "id": "ar_matthias-douglas",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/matthias-douglas",
-    "scraped_at": "2026-07-22T08:07:40+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Matthias DOUGLAS",
     "name_ja": null,
     "name_kana": null,
@@ -5583,26 +3769,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Mogliano Veneto Rugby",
-        "from": 2023,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Rangers Rugby Vicenza",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5616,7 +3783,7 @@
     "id": "ar_max-lehmann",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/max-lehmann",
-    "scraped_at": "2026-07-22T08:10:51+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Max LEHMANN",
     "name_ja": null,
     "name_kana": null,
@@ -5630,20 +3797,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Wests Tigers",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5657,7 +3811,7 @@
     "id": "ar_max-schumacher",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/max-schumacher",
-    "scraped_at": "2026-07-22T08:08:58+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Max SCHUMACHER",
     "name_ja": null,
     "name_kana": null,
@@ -5671,20 +3825,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Houston Sabercats",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5698,7 +3839,7 @@
     "id": "ar_michael-baska",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/michael-baska",
-    "scraped_at": "2026-07-22T08:04:11+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Michael BASKA",
     "name_ja": null,
     "name_kana": null,
@@ -5712,26 +3853,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2022,
-        "to": 2022,
-        "source_url": null
-      },
-      {
-        "team": "Rouen Normandie Rugby",
-        "from": 2023,
-        "to": 2023,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2023,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5745,7 +3867,7 @@
     "id": "ar_michael-hand",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/michael-hand",
-    "scraped_at": "2026-07-22T08:07:43+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Michael HAND",
     "name_ja": null,
     "name_kana": null,
@@ -5759,26 +3881,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Miami Sharks",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5792,7 +3895,7 @@
     "id": "ar_michael-scott",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/michael-scott",
-    "scraped_at": "2026-07-22T08:05:01+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Michael SCOTT",
     "name_ja": null,
     "name_kana": null,
@@ -5806,26 +3909,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New South Wales Waratahs",
-        "from": 2023,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Houston Sabercats",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5839,7 +3923,7 @@
     "id": "ar_mitch-wilson",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/mitch-wilson",
-    "scraped_at": "2026-07-22T08:11:02+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Mitch WILSON",
     "name_ja": null,
     "name_kana": null,
@@ -5850,26 +3934,10 @@
     "height_cm": 170,
     "weight_kg": 85,
     "birthdate": null,
-    "nationality": [
-      "Australia",
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5883,7 +3951,7 @@
     "id": "ar_nathan-den-hoedt",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/nathan-den-hoedt",
-    "scraped_at": "2026-07-22T08:03:44+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Nathan DEN HOEDT",
     "name_ja": null,
     "name_kana": null,
@@ -5897,20 +3965,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Houston Sabercats",
-        "from": 2022,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5924,7 +3979,7 @@
     "id": "ar_nathan-salmon",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/nathan-salmon",
-    "scraped_at": "2026-07-22T08:10:54+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Nathan SALMON",
     "name_ja": null,
     "name_kana": null,
@@ -5938,14 +3993,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5959,7 +4007,7 @@
     "id": "ar_nathan-sylvia",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/nathan-sylvia",
-    "scraped_at": "2026-07-22T08:09:39+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Nathan SYLVIA",
     "name_ja": null,
     "name_kana": null,
@@ -5973,14 +4021,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -5994,7 +4035,7 @@
     "id": "ar_nick-boyer",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/nick-boyer",
-    "scraped_at": "2026-07-22T08:07:15+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Nick BOYER",
     "name_ja": null,
     "name_kana": null,
@@ -6005,25 +4046,10 @@
     "height_cm": 192,
     "weight_kg": 104,
     "birthdate": null,
-    "nationality": [
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "San Diego Legion",
-        "from": 2023,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6037,7 +4063,7 @@
     "id": "ar_nick-chan",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/nick-chan",
-    "scraped_at": "2026-07-22T08:06:04+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Nick CHAN",
     "name_ja": null,
     "name_kana": null,
@@ -6045,26 +4071,13 @@
     "position": "Centre",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 191,
-    "weight_kg": 100,
+    "height_cm": 185,
+    "weight_kg": 104,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "RFC Los Angeles",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6078,7 +4091,7 @@
     "id": "ar_noah-brown",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/noah-brown",
-    "scraped_at": "2026-07-22T08:04:40+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Noah BROWN",
     "name_ja": null,
     "name_kana": null,
@@ -6092,14 +4105,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2023,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6113,7 +4119,7 @@
     "id": "ar_nolan-tuamoheloa",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/nolan-tuamoheloa",
-    "scraped_at": "2026-07-22T08:07:45+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Nolan TUAMOHELOA",
     "name_ja": null,
     "name_kana": null,
@@ -6127,26 +4133,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "USA 7's",
-        "from": 2023,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Utah Warriors",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6160,7 +4147,7 @@
     "id": "ar_oliver-kane",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/oliver-kane",
-    "scraped_at": "2026-07-22T08:11:15+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Oliver KANE",
     "name_ja": null,
     "name_kana": null,
@@ -6174,14 +4161,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6195,7 +4175,7 @@
     "id": "ar_ollie-aylmer",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ollie-aylmer",
-    "scraped_at": "2026-07-22T08:09:54+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Ollie AYLMER",
     "name_ja": null,
     "name_kana": null,
@@ -6209,14 +4189,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6230,7 +4203,7 @@
     "id": "ar_ollie-devoto",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ollie-devoto",
-    "scraped_at": "2026-07-22T08:04:23+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Ollie DEVOTO",
     "name_ja": null,
     "name_kana": null,
@@ -6241,31 +4214,10 @@
     "height_cm": 194,
     "weight_kg": 102,
     "birthdate": null,
-    "nationality": [
-      "England"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Taunton RFC",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6279,7 +4231,7 @@
     "id": "ar_oscar-lennon",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/oscar-lennon",
-    "scraped_at": "2026-07-22T08:10:25+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Oscar LENNON",
     "name_ja": null,
     "name_kana": null,
@@ -6293,26 +4245,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Hartpury RFC",
-        "from": 2026,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "Bristol Bears",
-        "from": 2026,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2026,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6326,7 +4259,7 @@
     "id": "ar_oscar-treacy",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/oscar-treacy",
-    "scraped_at": "2026-07-22T08:06:10+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Oscar TREACY",
     "name_ja": null,
     "name_kana": null,
@@ -6334,20 +4267,13 @@
     "position": "Winger",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 190,
-    "weight_kg": 91,
+    "height_cm": 193,
+    "weight_kg": 92,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6361,7 +4287,7 @@
     "id": "ar_owen-sheehy",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/owen-sheehy",
-    "scraped_at": "2026-07-22T08:09:23+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Owen SHEEHY",
     "name_ja": null,
     "name_kana": null,
@@ -6375,20 +4301,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Club Champagnat",
-        "from": 2023,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6402,7 +4315,7 @@
     "id": "ar_paddy-beattie",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/paddy-beattie",
-    "scraped_at": "2026-07-22T08:08:06+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Paddy BEATTIE",
     "name_ja": null,
     "name_kana": null,
@@ -6416,14 +4329,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6437,7 +4343,7 @@
     "id": "ar_paddy-ryan-1998",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/paddy-ryan-1998",
-    "scraped_at": "2026-07-22T08:07:01+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Paddy RYAN",
     "name_ja": null,
     "name_kana": null,
@@ -6448,32 +4354,10 @@
     "height_cm": 189,
     "weight_kg": 110,
     "birthdate": null,
-    "nationality": [
-      "Ireland",
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Coventry Rugby",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "San Diego Legion",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6487,7 +4371,7 @@
     "id": "ar_paul-mullen",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/paul-mullen",
-    "scraped_at": "2026-07-22T08:08:09+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Paul MULLEN",
     "name_ja": null,
     "name_kana": null,
@@ -6498,32 +4382,10 @@
     "height_cm": 178,
     "weight_kg": 128,
     "birthdate": null,
-    "nationality": [
-      "Ireland",
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Utah Warriors",
-        "from": 2020,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "NOLA Gold",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6537,7 +4399,7 @@
     "id": "ar_paula-balekana",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/paula-balekana",
-    "scraped_at": "2026-07-22T08:10:57+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Paula BALEKANA",
     "name_ja": null,
     "name_kana": null,
@@ -6551,26 +4413,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Northland Taniwha",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6584,7 +4427,7 @@
     "id": "ar_payton-telea-ilalio",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/payton-telea-ilalio",
-    "scraped_at": "2026-07-22T08:11:18+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Payton TELEA-ILALIO",
     "name_ja": null,
     "name_kana": null,
@@ -6595,25 +4438,10 @@
     "height_cm": 180,
     "weight_kg": 118,
     "birthdate": null,
-    "nationality": [
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "San Diego Legion",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6627,7 +4455,7 @@
     "id": "ar_perry-humphreys",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/perry-humphreys",
-    "scraped_at": "2026-07-22T08:09:20+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Perry HUMPHREYS",
     "name_ja": null,
     "name_kana": null,
@@ -6641,14 +4469,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2023,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6662,7 +4483,7 @@
     "id": "ar_peyton-wall",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/peyton-wall",
-    "scraped_at": "2026-07-22T08:04:43+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Peyton WALL",
     "name_ja": null,
     "name_kana": null,
@@ -6676,14 +4497,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6697,7 +4511,7 @@
     "id": "ar_piers-von-dadelszen",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/piers-von-dadelszen",
-    "scraped_at": "2026-07-22T08:09:57+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Piers VON DADELSZEN",
     "name_ja": null,
     "name_kana": null,
@@ -6711,14 +4525,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2023,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6732,7 +4539,7 @@
     "id": "ar_ramiro-gurovich",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ramiro-gurovich",
-    "scraped_at": "2026-07-22T08:11:26+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Ramiro GUROVICH",
     "name_ja": null,
     "name_kana": null,
@@ -6746,14 +4553,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6767,7 +4567,7 @@
     "id": "ar_reece-botha",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/reece-botha",
-    "scraped_at": "2026-07-22T08:04:20+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Reece BOTHA",
     "name_ja": null,
     "name_kana": null,
@@ -6781,14 +4581,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6802,7 +4595,7 @@
     "id": "ar_remy-thomson",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/remy-thomson",
-    "scraped_at": "2026-07-22T08:10:27+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Rémy THOMSON",
     "name_ja": null,
     "name_kana": null,
@@ -6816,14 +4609,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6837,7 +4623,7 @@
     "id": "ar_reuben-palmer",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/reuben-palmer",
-    "scraped_at": "2026-07-22T08:10:00+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Reuben PALMER",
     "name_ja": null,
     "name_kana": null,
@@ -6851,14 +4637,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6872,7 +4651,7 @@
     "id": "ar_rhyno-herbst",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/rhyno-herbst",
-    "scraped_at": "2026-07-22T08:06:53+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Rhyno HERBST",
     "name_ja": null,
     "name_kana": null,
@@ -6886,14 +4665,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Seattle Seawolves",
-        "from": 2020,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6907,7 +4679,7 @@
     "id": "ar_rick-rose",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/rick-rose",
-    "scraped_at": "2026-07-22T08:08:22+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Rick ROSE",
     "name_ja": null,
     "name_kana": null,
@@ -6921,20 +4693,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Miami Sharks",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6948,7 +4707,7 @@
     "id": "ar_riekert-hattingh",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/riekert-hattingh",
-    "scraped_at": "2026-07-22T08:07:04+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Riekert HATTINGH",
     "name_ja": null,
     "name_kana": null,
@@ -6962,14 +4721,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Seattle Seawolves",
-        "from": 2019,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -6983,7 +4735,7 @@
     "id": "ar_rob-harley",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/rob-harley",
-    "scraped_at": "2026-07-22T08:08:25+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Rob HARLEY",
     "name_ja": null,
     "name_kana": null,
@@ -6994,32 +4746,10 @@
     "height_cm": 200,
     "weight_kg": 113,
     "birthdate": null,
-    "nationality": [
-      "England",
-      "Scotland"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Manawatu Turbos",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7033,7 +4763,7 @@
     "id": "ar_ronan-murphy",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ronan-murphy",
-    "scraped_at": "2026-07-22T08:05:40+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Ronan MURPHY",
     "name_ja": null,
     "name_kana": null,
@@ -7041,26 +4771,13 @@
     "position": "Back row",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 195,
-    "weight_kg": 107,
+    "height_cm": 193,
+    "weight_kg": 114,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Houston Sabercats",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7074,7 +4791,7 @@
     "id": "ar_rory-van-vugt",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/rory-van-vugt",
-    "scraped_at": "2026-07-22T08:06:18+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Rory VAN VUGT",
     "name_ja": null,
     "name_kana": null,
@@ -7082,32 +4799,13 @@
     "position": "Fullback",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 184,
-    "weight_kg": 96,
+    "height_cm": 189,
+    "weight_kg": 88,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "RFC Los Angeles",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Southland Stags",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7121,7 +4819,7 @@
     "id": "ar_ross-depperschmidt",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ross-depperschmidt",
-    "scraped_at": "2026-07-22T08:09:09+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Ross DEPPERSCHMIDT",
     "name_ja": null,
     "name_kana": null,
@@ -7135,14 +4833,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7156,7 +4847,7 @@
     "id": "ar_ruben-de-haas",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ruben-de-haas",
-    "scraped_at": "2026-07-22T08:04:14+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Ruben DE HAAS",
     "name_ja": null,
     "name_kana": null,
@@ -7167,32 +4858,10 @@
     "height_cm": 181,
     "weight_kg": 83,
     "birthdate": null,
-    "nationality": [
-      "South Africa",
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Central Cheetahs",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "NOLA Gold",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7206,7 +4875,7 @@
     "id": "ar_rufus-mclean",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/rufus-mclean",
-    "scraped_at": "2026-07-22T08:07:48+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Rufus MCLEAN",
     "name_ja": null,
     "name_kana": null,
@@ -7217,32 +4886,10 @@
     "height_cm": 176,
     "weight_kg": 89,
     "birthdate": null,
-    "nationality": [
-      "United-States",
-      "Scotland"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "American Raptors",
-        "from": 2023,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Houston Sabercats",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7256,7 +4903,7 @@
     "id": "ar_ryan-james",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ryan-james",
-    "scraped_at": "2026-07-22T08:06:12+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Ryan JAMES",
     "name_ja": null,
     "name_kana": null,
@@ -7264,32 +4911,13 @@
     "position": "Winger",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 192,
-    "weight_kg": 84,
+    "height_cm": 191,
+    "weight_kg": 92,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "American Raptors",
-        "from": 2022,
-        "to": 2023,
-        "source_url": null
-      },
-      {
-        "team": "San Diego Legion",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7303,7 +4931,7 @@
     "id": "ar_sam-golla",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/sam-golla",
-    "scraped_at": "2026-07-22T08:11:38+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Sam GOLLA",
     "name_ja": null,
     "name_kana": null,
@@ -7314,19 +4942,10 @@
     "height_cm": 190,
     "weight_kg": 111,
     "birthdate": null,
-    "nationality": [
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7340,7 +4959,7 @@
     "id": "ar_santiago-videla",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/santiago-videla",
-    "scraped_at": "2026-07-22T08:04:26+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Santiago VIDELA",
     "name_ja": null,
     "name_kana": null,
@@ -7354,20 +4973,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Miami Sharks",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7381,7 +4987,7 @@
     "id": "ar_sean-mcnulty",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/sean-mcnulty",
-    "scraped_at": "2026-07-22T08:06:45+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Sean MCNULTY",
     "name_ja": null,
     "name_kana": null,
@@ -7395,26 +5001,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "San Diego Legion",
-        "from": 2022,
-        "to": 2023,
-        "source_url": null
-      },
-      {
-        "team": "Miami Sharks",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7428,7 +5015,7 @@
     "id": "ar_semi-kunatani",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/semi-kunatani",
-    "scraped_at": "2026-07-22T08:08:42+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Semi KUNATANI",
     "name_ja": null,
     "name_kana": null,
@@ -7439,31 +5026,10 @@
     "height_cm": 195,
     "weight_kg": 112,
     "birthdate": null,
-    "nationality": [
-      "Fiji"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Tel-Aviv Heat",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "RFC Los Angeles",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7477,7 +5043,7 @@
     "id": "ar_seth-smith",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/seth-smith",
-    "scraped_at": "2026-07-22T08:11:28+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Seth SMITH",
     "name_ja": null,
     "name_kana": null,
@@ -7491,14 +5057,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7512,7 +5071,7 @@
     "id": "ar_sione-tupou-",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/sione-tupou-",
-    "scraped_at": "2026-07-22T08:09:49+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Sione TUPOU",
     "name_ja": null,
     "name_kana": null,
@@ -7526,14 +5085,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7547,7 +5099,7 @@
     "id": "ar_steffan-crimp",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/steffan-crimp",
-    "scraped_at": "2026-07-22T08:05:54+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Steffan CRIMP",
     "name_ja": null,
     "name_kana": null,
@@ -7555,32 +5107,13 @@
     "position": "Fly-half",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 183,
+    "height_cm": 186,
     "weight_kg": 86,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Cardiff Met RFC",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "San Diego Legion",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7594,7 +5127,7 @@
     "id": "ar_tas-smith",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/tas-smith",
-    "scraped_at": "2026-07-22T08:05:46+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Tas SMITH",
     "name_ja": null,
     "name_kana": null,
@@ -7602,29 +5135,13 @@
     "position": "Scrum-half",
     "team_id": "ca-legion",
     "league": "mlr",
-    "height_cm": 178,
-    "weight_kg": 86,
+    "height_cm": 185,
+    "weight_kg": 83,
     "birthdate": null,
-    "nationality": [
-      "United-States",
-      "Australia"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "RFC Los Angeles",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7638,7 +5155,7 @@
     "id": "ar_tavite-lopeti",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/tavite-lopeti",
-    "scraped_at": "2026-07-22T08:04:29+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Tavite LOPETI",
     "name_ja": null,
     "name_kana": null,
@@ -7649,25 +5166,10 @@
     "height_cm": 177,
     "weight_kg": 92,
     "birthdate": null,
-    "nationality": [
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "San Diego Legion",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7681,7 +5183,7 @@
     "id": "ar_tayne-hemopo",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/tayne-hemopo",
-    "scraped_at": "2026-07-22T08:10:16+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Tayne HEMOPO",
     "name_ja": null,
     "name_kana": null,
@@ -7695,14 +5197,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7716,7 +5211,7 @@
     "id": "ar_tesimoni-tonga-uiha",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/tesimoni-tonga-uiha",
-    "scraped_at": "2026-07-22T08:12:00+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Moni TONGA'UIHA",
     "name_ja": null,
     "name_kana": null,
@@ -7724,22 +5219,13 @@
     "position": "Back row",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 189,
-    "weight_kg": 112,
+    "height_cm": 186,
+    "weight_kg": 108,
     "birthdate": null,
-    "nationality": [
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7753,7 +5239,7 @@
     "id": "ar_tevita-mapa",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/tevita-mapa",
-    "scraped_at": "2026-07-22T08:10:19+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Tevita MAPA",
     "name_ja": null,
     "name_kana": null,
@@ -7767,14 +5253,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7788,7 +5267,7 @@
     "id": "ar_tevita-naqali",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/tevita-naqali",
-    "scraped_at": "2026-07-22T08:08:28+09:00",
+    "scraped_at": "2026-07-30T07:44:03+09:00",
     "name_en": "Tevita NAQALI",
     "name_ja": null,
     "name_kana": null,
@@ -7799,20 +5278,10 @@
     "height_cm": 195,
     "weight_kg": 119,
     "birthdate": null,
-    "nationality": [
-      "Fiji",
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Old Glory DC RFC",
-        "from": 2019,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7826,7 +5295,7 @@
     "id": "ar_tevita-sole",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/tevita-sole",
-    "scraped_at": "2026-07-22T08:09:42+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Tevita SOLE",
     "name_ja": null,
     "name_kana": null,
@@ -7840,26 +5309,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2023,
-        "to": 2023,
-        "source_url": null
-      },
-      {
-        "team": "Miami Sharks",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "New England Free Jacks",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7873,7 +5323,7 @@
     "id": "ar_theo-fourie",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/theo-fourie",
-    "scraped_at": "2026-07-22T08:03:35+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Theo FOURIE",
     "name_ja": null,
     "name_kana": null,
@@ -7884,26 +5334,10 @@
     "height_cm": 177,
     "weight_kg": 110,
     "birthdate": null,
-    "nationality": [
-      "Australia",
-      "South Africa"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Queensland Reds",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7917,7 +5351,7 @@
     "id": "ar_tia-i-vavao",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/tia-i-vavao",
-    "scraped_at": "2026-07-22T08:07:07+09:00",
+    "scraped_at": "2026-07-30T07:44:01+09:00",
     "name_en": "Tia'i VAVAO",
     "name_ja": null,
     "name_kana": null,
@@ -7931,14 +5365,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Seattle Seawolves",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7952,7 +5379,7 @@
     "id": "ar_tiaan-loots",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/tiaan-loots",
-    "scraped_at": "2026-07-22T08:04:32+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Tiaan LOOTS",
     "name_ja": null,
     "name_kana": null,
@@ -7966,20 +5393,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "San Diego Legion",
-        "from": 2020,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -7993,7 +5407,7 @@
     "id": "ar_tom-pittman",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/tom-pittman",
-    "scraped_at": "2026-07-22T08:12:13+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Tom PITTMAN",
     "name_ja": null,
     "name_kana": null,
@@ -8001,26 +5415,13 @@
     "position": "Fly-half",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 176,
-    "weight_kg": 96,
+    "height_cm": 182,
+    "weight_kg": 95,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "C'Chartres Rugby",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -8034,7 +5435,7 @@
     "id": "ar_tomas-bekerman",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/tomas-bekerman",
-    "scraped_at": "2026-07-22T08:03:38+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Tomás BEKERMAN",
     "name_ja": null,
     "name_kana": null,
@@ -8048,26 +5449,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Dallas Jackals",
-        "from": 2023,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Miami Sharks",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -8081,7 +5463,7 @@
     "id": "ar_tomas-casares",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/tomas-casares",
-    "scraped_at": "2026-07-22T08:03:46+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Tomás CASARES",
     "name_ja": null,
     "name_kana": null,
@@ -8092,26 +5474,10 @@
     "height_cm": 197,
     "weight_kg": 105,
     "birthdate": null,
-    "nationality": [
-      "Argentina",
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Miami Sharks",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -8125,7 +5491,7 @@
     "id": "ar_tonga-kofe",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/tonga-kofe",
-    "scraped_at": "2026-07-22T08:05:04+09:00",
+    "scraped_at": "2026-07-30T07:43:59+09:00",
     "name_en": "Tonga KOFE",
     "name_ja": null,
     "name_kana": null,
@@ -8136,31 +5502,10 @@
     "height_cm": 184,
     "weight_kg": 147,
     "birthdate": null,
-    "nationality": [
-      "United-States"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Leicester Tigers",
-        "from": 2026,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "Nottingham Rugby",
-        "from": 2026,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "California Legion",
-        "from": 2026,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -8174,7 +5519,7 @@
     "id": "ar_wayne-van-der-bank",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/wayne-van-der-bank",
-    "scraped_at": "2026-07-22T08:10:46+09:00",
+    "scraped_at": "2026-07-30T07:44:05+09:00",
     "name_en": "Wayne VAN DER BANK",
     "name_ja": null,
     "name_kana": null,
@@ -8188,14 +5533,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "New England Free Jacks",
-        "from": 2021,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -8209,7 +5547,7 @@
     "id": "ar_will-leonard",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/will-leonard",
-    "scraped_at": "2026-07-22T08:12:24+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Will LEONARD",
     "name_ja": null,
     "name_kana": null,
@@ -8217,26 +5555,13 @@
     "position": "Centre",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 188,
-    "weight_kg": 101,
+    "height_cm": 190,
+    "weight_kg": 100,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "RFC Los Angeles",
-        "from": 2021,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -8250,7 +5575,7 @@
     "id": "ar_will-sherman",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/will-sherman",
-    "scraped_at": "2026-07-22T08:11:42+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Will SHERMAN",
     "name_ja": null,
     "name_kana": null,
@@ -8264,14 +5589,7 @@
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -8285,7 +5603,7 @@
     "id": "ar_wilton-rebolo",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/wilton-rebolo",
-    "scraped_at": "2026-07-22T08:03:30+09:00",
+    "scraped_at": "2026-07-30T07:43:57+09:00",
     "name_en": "Wilton REBOLO",
     "name_ja": null,
     "name_kana": null,
@@ -8296,31 +5614,10 @@
     "height_cm": 184,
     "weight_kg": 124,
     "birthdate": null,
-    "nationality": [
-      "Brazil"
-    ],
+    "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "RFC Los Angeles",
-        "from": 2023,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Houston Sabercats",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Chicago Hounds",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -8334,7 +5631,7 @@
     "id": "ar_zion-going",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/zion-going",
-    "scraped_at": "2026-07-22T08:12:08+09:00",
+    "scraped_at": "2026-07-30T07:44:07+09:00",
     "name_en": "Zion GOING",
     "name_ja": null,
     "name_kana": null,
@@ -8342,20 +5639,13 @@
     "position": "Scrum-half",
     "team_id": "anthem-rc",
     "league": "mlr",
-    "height_cm": 183,
+    "height_cm": 188,
     "weight_kg": 92,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Anthem Rugby Carolina",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,

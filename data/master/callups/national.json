@@ -4,7 +4,7 @@
     "league": "national",
     "source": "rugby-japan.jp",
     "source_url": "https://www.rugby-japan.jp/news/54087",
-    "scraped_at": "2026-07-24T00:41:04+09:00",
+    "scraped_at": "2026-07-30T09:46:52+09:00",
     "news_id": "54087",
     "kind": "camp",
     "title": "男子日本代表 網走合宿参加メンバーのお知らせ",
@@ -28,7 +28,7 @@
         "caps": 11
       },
       {
-        "player_id": "jrfu_national_507122",
+        "player_id": "jrfu_national_510431",
         "name_ja": "平野 叶翔",
         "name_en": "Kanato HIRANO",
         "position_group": "FW",
@@ -180,7 +180,7 @@
         "caps": 31
       },
       {
-        "player_id": "jrfu_national_506359",
+        "player_id": "jrfu_national_510438",
         "name_ja": "渡邊 晴斗",
         "name_en": "Haruto WATANABE",
         "position_group": "BK",
@@ -196,7 +196,7 @@
         "caps": 3
       },
       {
-        "player_id": "jrfu_national_506503",
+        "player_id": "jrfu_national_510424",
         "name_ja": "平 翔太",
         "name_en": "Shota TAIRA",
         "position_group": "BK",
@@ -236,7 +236,7 @@
         "caps": 5
       },
       {
-        "player_id": "jrfu_callup_haruto-kida",
+        "player_id": "jrfu_national_510441",
         "name_ja": "木田 晴斗",
         "name_en": "Haruto KIDA",
         "position_group": "BK",
@@ -244,7 +244,7 @@
         "caps": 2
       },
       {
-        "player_id": "jrfu_national_506369",
+        "player_id": "jrfu_national_510411",
         "name_ja": "イノケ・ブルア",
         "name_en": "Inoke BURUA",
         "position_group": "BK",
