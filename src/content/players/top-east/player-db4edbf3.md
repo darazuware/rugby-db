@@ -10,7 +10,7 @@ birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "top-east-b"
+league: "top-east-a"
 team: "クリーンファイターズ山梨"
 caps: ""
 high_school: ""

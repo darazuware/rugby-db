@@ -10,7 +10,7 @@ birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "top-east-a"
+league: "top-east-b"
 team: "横河武蔵野アトラスターズ"
 caps: ""
 high_school: ""

@@ -10,7 +10,7 @@ birth_date: "2002-4-30"
 age: 23
 country: ""
 birth_place_scraped: ""
-league: "top-east-a"
+league: "league-one"
 team: "AZ-COM丸和MOMOTARO'S"
 caps: ""
 high_school: "天理高校"
@@ -20,7 +20,7 @@ rugby_school: ""
 scraped_url: "https://www.momotaros.jp/archives/member/player/bk/5270/"
 league_one_caps: ""
 career_history_json: '[]'
-category: "top-east"
+category: "league-one"
 ---
 
 ## キャリア遍歴

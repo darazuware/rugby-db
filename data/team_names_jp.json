@@ -1,934 +1,1036 @@
 {
-    "super-rugby": {
-        "Auckland Blues": {
-            "jp": "オークランド・ブルーズ",
-            "country": "ニュージーランド",
-            "flag": "🇳🇿",
-            "aliases": [
-                "Blues",
-                "ブルーズ"
-            ]
-        },
-        "ACT Brumbies": {
-            "jp": "ACTブランビーズ",
-            "country": "オーストラリア",
-            "flag": "🇦🇺",
-            "aliases": [
-                "Brumbies"
-            ]
-        },
-        "Waikato Chiefs": {
-            "jp": "ワイカト・チーフス",
-            "country": "ニュージーランド",
-            "flag": "🇳🇿",
-            "aliases": [
-                "Chiefs",
-                "Chiefs Rugby Club"
-            ]
-        },
-        "Canterbury Crusaders": {
-            "jp": "カンタベリー・クルセイダーズ",
-            "country": "ニュージーランド",
-            "flag": "🇳🇿",
-            "aliases": [
-                "Crusaders",
-                "Crusaders Rugby"
-            ]
-        },
-        "Fijian Drua": {
-            "jp": "フィジアン・ドゥルア",
-            "country": "フィジー",
-            "flag": "🇫🇯",
-            "aliases": [
-                "Drua"
-            ]
-        },
-        "Otago Highlanders": {
-            "jp": "オタゴ・ハイランダーズ",
-            "country": "ニュージーランド",
-            "flag": "🇳🇿",
-            "aliases": [
-                "Highlanders"
-            ]
-        },
-        "Wellington Hurricanes": {
-            "jp": "ウェリントン・ハリケーンズ",
-            "country": "ニュージーランド",
-            "flag": "🇳🇿",
-            "aliases": [
-                "Hurricanes"
-            ]
-        },
-        "Moana Pasifika": {
-            "jp": "モアナ・パシフィカ",
-            "country": "太平洋諸島（NZ本拠）",
-            "flag": "🏝️",
-            "aliases": []
-        },
-        "Queensland Reds": {
-            "jp": "クイーンズランド・レッズ",
-            "country": "オーストラリア",
-            "flag": "🇦🇺",
-            "aliases": [
-                "Reds"
-            ]
-        },
-        "NSW Waratahs": {
-            "jp": "NSWワラタス（ワラターズ）",
-            "country": "オーストラリア",
-            "flag": "🇦🇺",
-            "aliases": [
-                "Waratahs"
-            ]
-        },
-        "Western Force": {
-            "jp": "ウェスタン・フォース",
-            "country": "オーストラリア",
-            "flag": "🇦🇺",
-            "aliases": [
-                "Force"
-            ]
-        },
-        "Melbourne Rebels": {
-            "jp": "メルボルン・レベルズ",
-            "country": "オーストラリア",
-            "flag": "🇦🇺",
-            "aliases": [
-                "Rebels"
-            ]
-        }
+  "super-rugby": {
+    "Auckland Blues": {
+      "jp": "オークランド・ブルーズ",
+      "country": "ニュージーランド",
+      "flag": "🇳🇿",
+      "aliases": [
+        "Blues",
+        "ブルーズ"
+      ]
     },
-    "urc": {
-        "Glasgow Warriors": {
-            "jp": "グラスゴー・ウォリアーズ",
-            "country": "スコットランド",
-            "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-            "aliases": [
-                "Glasgow"
-            ]
-        },
-        "Leinster Rugby": {
-            "jp": "レンスター・ラグビー",
-            "country": "アイルランド",
-            "flag": "🇮🇪",
-            "aliases": [
-                "Leinster"
-            ]
-        },
-        "Cardiff Rugby": {
-            "jp": "カーディフ・ラグビー",
-            "country": "ウェールズ",
-            "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
-            "aliases": [
-                "Cardiff"
-            ]
-        },
-        "Munster Rugby": {
-            "jp": "マンスター・ラグビー",
-            "country": "アイルランド",
-            "flag": "🇮🇪",
-            "aliases": [
-                "Munster"
-            ]
-        },
-        "DHL Stormers": {
-            "jp": "DHLストーマーズ",
-            "country": "南アフリカ",
-            "flag": "🇿🇦",
-            "aliases": [
-                "Stormers"
-            ]
-        },
-        "Ulster Rugby": {
-            "jp": "アルスター・ラグビー",
-            "country": "アイルランド",
-            "flag": "🇮🇪",
-            "aliases": [
-                "Ulster"
-            ]
-        },
-        "Emirates Lions": {
-            "jp": "エミレーツ・ライオンズ",
-            "country": "南アフリカ",
-            "flag": "🇿🇦",
-            "aliases": [
-                "Lions"
-            ]
-        },
-        "Vodacom Bulls": {
-            "jp": "ヴォーダコム・ブルズ",
-            "country": "南アフリカ",
-            "flag": "🇿🇦",
-            "aliases": [
-                "Bulls"
-            ]
-        },
-        "Ospreys": {
-            "jp": "オスプリーズ",
-            "country": "ウェールズ",
-            "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
-            "aliases": []
-        },
-        "Connacht Rugby": {
-            "jp": "コナート・ラグビー",
-            "country": "アイルランド",
-            "flag": "🇮🇪",
-            "aliases": [
-                "Connacht"
-            ]
-        },
-        "Hollywoodbets Sharks": {
-            "jp": "ハリウッドベッツ・シャークス",
-            "country": "南アフリカ",
-            "flag": "🇿🇦",
-            "aliases": [
-                "Sharks"
-            ]
-        },
-        "Edinburgh Rugby": {
-            "jp": "エディンバラ・ラグビー",
-            "country": "スコットランド",
-            "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-            "aliases": [
-                "Edimbourg"
-            ]
-        },
-        "Benetton Rugby Trévise": {
-            "jp": "ベネットン・ラグビー・トレヴィーゾ",
-            "country": "イタリア",
-            "flag": "🇮🇹",
-            "aliases": [
-                "Trévise",
-                "Benetton"
-            ]
-        },
-        "Dragons Rugby": {
-            "jp": "ドラゴンズ・ラグビー",
-            "country": "ウェールズ",
-            "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
-            "aliases": [
-                "Dragons"
-            ]
-        },
-        "Scarlets": {
-            "jp": "スカーレッツ",
-            "country": "ウェールズ",
-            "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
-            "aliases": []
-        },
-        "Zebre Parma": {
-            "jp": "ゼブレ・パルマ",
-            "country": "イタリア",
-            "flag": "🇮🇹",
-            "aliases": [
-                "Zebre"
-            ]
-        }
+    "ACT Brumbies": {
+      "jp": "ACTブランビーズ",
+      "country": "オーストラリア",
+      "flag": "🇦🇺",
+      "aliases": [
+        "Brumbies"
+      ]
     },
-    "top14": {
-        "Stade Toulousain": {
-            "jp": "トゥールーズ",
-            "country": "フランス",
-            "flag": "🇫🇷",
-            "aliases": [
-                "Toulouse ST",
-                "Toulouse",
-                "toulouse"
-            ]
-        },
-        "Stade Français Paris": {
-            "jp": "スタッド・フランセ",
-            "country": "フランス",
-            "flag": "🇫🇷",
-            "aliases": [
-                "Paris SFP",
-                "Stade Français"
-            ]
-        },
-        "Racing 92": {
-            "jp": "ラシン92",
-            "country": "フランス",
-            "flag": "🇫🇷",
-            "aliases": [
-                "Racing 92 R92"
-            ]
-        },
-        "RC Toulonnais": {
-            "jp": "トゥーロン",
-            "country": "フランス",
-            "flag": "🇫🇷",
-            "aliases": [
-                "Toulon RCT",
-                "Toulon"
-            ]
-        },
-        "Stade Rochelais": {
-            "jp": "ラ・ロシェル",
-            "country": "フランス",
-            "flag": "🇫🇷",
-            "aliases": [
-                "La Rochelle SR",
-                "La Rochelle"
-            ]
-        },
-        "Union Bordeaux-Bègles": {
-            "jp": "ボルドー・ベグル",
-            "country": "フランス",
-            "flag": "🇫🇷",
-            "aliases": [
-                "Bordeaux UBB",
-                "Bordeaux",
-                "Bordeaux Begles",
-                "Begles"
-            ]
-        },
-        "Lyon OU": {
-            "jp": "リヨン",
-            "country": "フランス",
-            "flag": "🇫🇷",
-            "aliases": [
-                "Lyon LOU",
-                "Lyon",
-                "LOU Rugby"
-            ]
-        },
-        "ASM Clermont Auvergne": {
-            "jp": "クレルモン",
-            "country": "フランス",
-            "flag": "🇫🇷",
-            "aliases": [
-                "Clermont ASM",
-                "Clermont",
-                "ASM Clermont"
-            ]
-        },
-        "Montpellier Hérault Rugby": {
-            "jp": "モンペリエ",
-            "country": "フランス",
-            "flag": "🇫🇷",
-            "aliases": [
-                "Montpellier MHR",
-                "Montpellier",
-                "MHR"
-            ]
-        },
-        "Vannes": {
-            "jp": "ヴァンヌ",
-            "country": "フランス",
-            "flag": "🇫🇷",
-            "aliases": [
-                "RC Vannes"
-            ]
-        },
-        "US Montauban": {
-            "jp": "モントーバン",
-            "country": "フランス",
-            "flag": "🇫🇷",
-            "aliases": [
-                "Montauban USM",
-                "Montauban",
-                "montauban"
-            ]
-        },
-        "Section Paloise": {
-            "jp": "ポー",
-            "country": "フランス",
-            "flag": "🇫🇷",
-            "aliases": [
-                "Pau",
-                "Section Paloise"
-            ]
-        },
-        "Castres Olympique": {
-            "jp": "カストル",
-            "country": "フランス",
-            "flag": "🇫🇷",
-            "aliases": [
-                "Castres"
-            ]
-        },
-        "Aviron Bayonnais": {
-            "jp": "バイヨンヌ",
-            "country": "フランス",
-            "flag": "🇫🇷",
-            "aliases": [
-                "Bayonne"
-            ]
-        },
-        "USA Perpignan": {
-            "jp": "ペルピニャン",
-            "country": "フランス",
-            "flag": "🇫🇷",
-            "aliases": [
-                "Perpignan"
-            ]
-        }
+    "Waikato Chiefs": {
+      "jp": "ワイカト・チーフス",
+      "country": "ニュージーランド",
+      "flag": "🇳🇿",
+      "aliases": [
+        "Chiefs",
+        "Chiefs Rugby Club"
+      ]
     },
-    "league-one": {
-        "Saitama Panasonic Wild Knights": {
-            "jp": "埼玉パナソニックワイルドナイツ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "パナソニック",
-                "Wild Knights",
-                "埼玉ワイルドナイツ"
-            ]
-        },
-        "Tokyo Suntory Sungoliath": {
-            "jp": "東京サントリーサンゴリアス",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "サントリー",
-                "Sungoliath",
-                "東京サンゴリアス"
-            ]
-        },
-        "Yokohama Canon Eagles": {
-            "jp": "横浜キヤノンイーグルス",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "キヤノン",
-                "Eagles"
-            ]
-        },
-        "Toshiba Brave Lupus Tokyo": {
-            "jp": "東芝ブレイブルーパス東京",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "東芝",
-                "Brave Lupus"
-            ]
-        },
-        "Kubota Spears Funabashi Tokyo Bay": {
-            "jp": "クボタスピアーズ船橋・東京ベイ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "クボタ",
-                "Spears",
-                "クボタスピアーズ"
-            ]
-        },
-        "Shizuoka Blue Revs": {
-            "jp": "静岡ブルーレヴズ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "ブルーレヴズ"
-            ]
-        },
-        "Toyota Verblitz": {
-            "jp": "トヨタヴェルブリッツ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "Verblitz"
-            ]
-        },
-        "Kobelco Kobe Steelers": {
-            "jp": "コベルコ神戸スティーラーズ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "神戸スティーラーズ",
-                "Kobelco Steelers"
-            ]
-        },
-        "Hanazono Kintetsu Liners": {
-            "jp": "花園近鉄ライナーズ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "近鉄",
-                "Liners"
-            ]
-        },
-        "Mitsubishi Sagamihara Dynaboars": {
-            "jp": "三菱重工相模原ダイナボアーズ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "相模原ダイナボアーズ",
-                "Dynaboars"
-            ]
-        },
-        "Ricoh Black Rams Tokyo": {
-            "jp": "リコーブラックラムズ東京",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "リコー",
-                "Black Rams"
-            ]
-        },
-        "Mie Honda Heat": {
-            "jp": "三重ホンダヒート",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "Honda Heat"
-            ]
-        },
-        "Urayasu D-Rocks": {
-            "jp": "浦安D-Rocks",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "D-Rocks"
-            ]
-        },
-        "NEC Green Rockets Tokatsu": {
-            "jp": "NECグリーンロケッツ東葛",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "NEC",
-                "Green Rockets"
-            ]
-        },
-        "Kyuden Voltex": {
-            "jp": "九州電力キューデンヴォルテクス",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "九電",
-                "Voltex"
-            ]
-        },
-        "Shimizu Koto Blue Sharks": {
-            "jp": "清水建設江東ブルーシャークス",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "清水建設",
-                "Blue Sharks"
-            ]
-        },
-        "Toyota Shuttles Aichi": {
-            "jp": "豊田自動織機シャトルズ愛知",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "豊田自動織機",
-                "Shuttles"
-            ]
-        },
-        "Kamaishi Seawaves": {
-            "jp": "日本製鉄釜石シーウェイブス",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "釜石シーウェイブス",
-                "Sea Waves"
-            ]
-        },
-        "Hino Red Dolphins": {
-            "jp": "日野レッドドルフィンズ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "日野",
-                "Red Dolphins"
-            ]
-        },
-        "Red Hurricanes Osaka": {
-            "jp": "レッドハリケーンズ大阪",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "ドコモ",
-                "Red Hurricanes"
-            ]
-        },
-        "Kurita Water Gush Akishima": {
-            "jp": "クリタウォーターガッシュ昭島",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "クリタ",
-                "Water Gush"
-            ]
-        },
-        "Secom Rugguts": {
-            "jp": "狭山セコムラガッツ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "セコム",
-                "Rugguts"
-            ]
-        },
-        "Chugoku Red Regulions": {
-            "jp": "中国電力レッドレグリオンズ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "中国電力",
-                "Red Regulions"
-            ]
-        },
-        "Mazda Skyactivs Hiroshima": {
-            "jp": "マツダスカイアクティブズ広島",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "マツダ",
-                "Skyactivs"
-            ]
-        },
-        "Yakult Levins": {
-            "jp": "ヤクルトレビンズ戸田",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "ヤクルト",
-                "Levins"
-            ]
-        },
-        "Leriro Fukuoka": {
-            "jp": "ルリーロ福岡",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": [
-                "ルリーロ"
-            ]
-        }
+    "Canterbury Crusaders": {
+      "jp": "カンタベリー・クルセイダーズ",
+      "country": "ニュージーランド",
+      "flag": "🇳🇿",
+      "aliases": [
+        "Crusaders",
+        "Crusaders Rugby"
+      ]
     },
-    "premiership": {
-        "Northampton Saints": {
-            "jp": "ノーサンプトン・セインツ",
-            "country": "イングランド",
-            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-            "aliases": [
-                "Northampton"
-            ]
-        },
-        "Bath Rugby": {
-            "jp": "バース・ラグビー",
-            "country": "イングランド",
-            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-            "aliases": [
-                "Bath"
-            ]
-        },
-        "Bristol Bears": {
-            "jp": "ブリストル・ベアーズ",
-            "country": "イングランド",
-            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-            "aliases": [
-                "Bristol"
-            ]
-        },
-        "Leicester Tigers": {
-            "jp": "レスター・タイガーズ",
-            "country": "イングランド",
-            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-            "aliases": [
-                "Leicester"
-            ]
-        },
-        "Exeter Chiefs": {
-            "jp": "エクセター・チーフス",
-            "country": "イングランド",
-            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-            "aliases": [
-                "Exeter"
-            ]
-        },
-        "Saracens": {
-            "jp": "サラセンズ",
-            "country": "イングランド",
-            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-            "aliases": []
-        },
-        "Sale Sharks": {
-            "jp": "セール・シャークス",
-            "country": "イングランド",
-            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-            "aliases": [
-                "Sale"
-            ]
-        },
-        "Gloucester Rugby": {
-            "jp": "グロスター・ラグビー",
-            "country": "イングランド",
-            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-            "aliases": [
-                "Gloucester"
-            ]
-        },
-        "Harlequins": {
-            "jp": "ハーレクインズ",
-            "country": "イングランド",
-            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-            "aliases": []
-        },
-        "Newcastle Falcons": {
-            "jp": "ニューカッスル・ファルコンズ",
-            "country": "イングランド",
-            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-            "aliases": [
-                "Newcastle",
-                "Newcastle Red Bulls"
-            ]
-        }
+    "Fijian Drua": {
+      "jp": "フィジアン・ドゥルア",
+      "country": "フィジー",
+      "flag": "🇫🇯",
+      "aliases": [
+        "Drua"
+      ]
     },
-    "top-west-a": {
-        "中部電力": {
-            "jp": "中部電力",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": []
-        },
-        "Daigas Struggers": {
-            "jp": "Daigas Struggers",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["大阪ガス"]
-        },
-        "大阪府警察": {
-            "jp": "大阪府警察",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": []
-        },
-        "島津製作所 Breakers": {
-            "jp": "島津製作所 Breakers",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["島津製作所"]
-        },
-        "JR西日本レイラーズ": {
-            "jp": "JR西日本レイラーズ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["JR西日本"]
-        }
+    "Otago Highlanders": {
+      "jp": "オタゴ・ハイランダーズ",
+      "country": "ニュージーランド",
+      "flag": "🇳🇿",
+      "aliases": [
+        "Highlanders"
+      ]
     },
-    "top-kyushu": {
-        "安川電機": {
-            "jp": "安川電機",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": []
-        },
-        "三菱重工長崎": {
-            "jp": "三菱重工長崎",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": []
-        },
-        "FFGブルーカスケーズ": {
-            "jp": "FFGブルーカスケーズ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["福岡銀行"]
-        },
-        "JR九州サンダース": {
-            "jp": "JR九州サンダース",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["JR九州"]
-        },
-        "鹿児島銀行": {
-            "jp": "鹿児島銀行",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": []
-        }
+    "Wellington Hurricanes": {
+      "jp": "ウェリントン・ハリケーンズ",
+      "country": "ニュージーランド",
+      "flag": "🇳🇿",
+      "aliases": [
+        "Hurricanes"
+      ]
     },
-    "top-east-a": {
-        "AZ-COM丸和MOMOTARO'S": {
-            "jp": "AZ-COM丸和MOMOTARO'S",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["AZ-COM丸和", "MOMOTARO'S", "丸和"]
-        },
-        "横河武蔵野アトラスターズ": {
-            "jp": "横河武蔵野アトラスターズ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["横河武蔵野"]
-        },
-        "東京ガス": {
-            "jp": "東京ガス",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": []
-        },
-        "秋田ノーザンブレッツRFC": {
-            "jp": "秋田ノーザンブレッツRFC",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["秋田NB"]
-        }
+    "Moana Pasifika": {
+      "jp": "モアナ・パシフィカ",
+      "country": "太平洋諸島（NZ本拠）",
+      "flag": "🏝️",
+      "aliases": []
     },
-    "top-east-b": {
-        "クリーンファイターズ山梨": {
-            "jp": "クリーンファイターズ山梨",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": []
-        },
-        "明治安田生命ホーリーズ": {
-            "jp": "明治安田生命ホーリーズ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["明治安田生命"]
-        },
-        "ライオンファングス": {
-            "jp": "ライオンファングス",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["ライオン"]
-        },
-        "日立製作所Sun Nexus": {
-            "jp": "日立製作所Sun Nexus",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["日立製作所"]
-        },
-        "富士フイルムBIグリーンエルクス": {
-            "jp": "富士フイルムBIグリーンエルクス",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["富士フイルム"]
-        }
+    "Queensland Reds": {
+      "jp": "クイーンズランド・レッズ",
+      "country": "オーストラリア",
+      "flag": "🇦🇺",
+      "aliases": [
+        "Reds"
+      ]
     },
-    "top-east-c": {
-        "ワセダクラブ": {
-            "jp": "ワセダクラブ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": []
-        },
-        "船橋市消防局": {
-            "jp": "船橋市消防局",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": []
-        },
-        "サントリーフーズ": {
-            "jp": "サントリーフーズ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": []
-        },
-        "大塚刷毛": {
-            "jp": "大塚刷毛",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": []
-        },
-        "習志野自衛隊": {
-            "jp": "習志野自衛隊",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": []
-        },
-        "警視庁ラグビー部": {
-            "jp": "警視庁ラグビー部",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["警視庁"]
-        }
+    "NSW Waratahs": {
+      "jp": "NSWワラタス（ワラターズ）",
+      "country": "オーストラリア",
+      "flag": "🇦🇺",
+      "aliases": [
+        "Waratahs"
+      ]
     },
-    "top-west-b": {
-        "リコージャパンBLACK AEGIS": {
-            "jp": "リコージャパンBLACK AEGIS",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["リコージャパン"]
-        },
-        "三菱自動車倉敷キングフィッシャーズ": {
-            "jp": "三菱自動車倉敷キングフィッシャーズ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["三菱自動車倉敷"]
-        },
-        "三菱自動車京都レッドエボリューションズ": {
-            "jp": "三菱自動車京都レッドエボリューションズ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["三菱自動車京都"]
-        },
-        "きんでんトライデントブリッツ": {
-            "jp": "きんでんトライデントブリッツ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["きんでん"]
-        },
-        "MUFGレッドブルズ": {
-            "jp": "MUFGレッドブルズ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["MUFG"]
-        },
-        "三菱電機メルコダイヤモンズ": {
-            "jp": "三菱電機メルコダイヤモンズ",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["三菱電機"]
-        },
-        "JR東海": {
-            "jp": "JR東海",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": []
-        },
-        "大阪教員団": {
-            "jp": "大阪教員団",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": []
-        }
+    "Western Force": {
+      "jp": "ウェスタン・フォース",
+      "country": "オーストラリア",
+      "flag": "🇦🇺",
+      "aliases": [
+        "Force"
+      ]
     },
-    "top-west-c": {
-        "日本新薬OWLSTARS": {
-            "jp": "日本新薬OWLSTARS",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["日本新薬"]
-        },
-        "K-POWERS": {
-            "jp": "K-POWERS",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": []
-        },
-        "守口市門真市消防組合": {
-            "jp": "守口市門真市消防組合",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["守口門真消防"]
-        },
-        "大阪市消防局": {
-            "jp": "大阪市消防局",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": []
-        },
-        "川崎重工": {
-            "jp": "川崎重工",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": []
-        },
-        "KOMATSU Yellow Bulls": {
-            "jp": "KOMATSU Yellow Bulls",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["KOMATSU"]
-        },
-        "Higashi-Osaka-United": {
-            "jp": "Higashi-Osaka-United",
-            "country": "日本",
-            "flag": "🇯🇵",
-            "aliases": ["東大阪ユナイテッド"]
-        }
+    "Melbourne Rebels": {
+      "jp": "メルボルン・レベルズ",
+      "country": "オーストラリア",
+      "flag": "🇦🇺",
+      "aliases": [
+        "Rebels"
+      ]
     }
+  },
+  "urc": {
+    "Glasgow Warriors": {
+      "jp": "グラスゴー・ウォリアーズ",
+      "country": "スコットランド",
+      "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "aliases": [
+        "Glasgow"
+      ]
+    },
+    "Leinster Rugby": {
+      "jp": "レンスター・ラグビー",
+      "country": "アイルランド",
+      "flag": "🇮🇪",
+      "aliases": [
+        "Leinster"
+      ]
+    },
+    "Cardiff Rugby": {
+      "jp": "カーディフ・ラグビー",
+      "country": "ウェールズ",
+      "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "aliases": [
+        "Cardiff"
+      ]
+    },
+    "Munster Rugby": {
+      "jp": "マンスター・ラグビー",
+      "country": "アイルランド",
+      "flag": "🇮🇪",
+      "aliases": [
+        "Munster"
+      ]
+    },
+    "DHL Stormers": {
+      "jp": "DHLストーマーズ",
+      "country": "南アフリカ",
+      "flag": "🇿🇦",
+      "aliases": [
+        "Stormers"
+      ]
+    },
+    "Ulster Rugby": {
+      "jp": "アルスター・ラグビー",
+      "country": "アイルランド",
+      "flag": "🇮🇪",
+      "aliases": [
+        "Ulster"
+      ]
+    },
+    "Emirates Lions": {
+      "jp": "エミレーツ・ライオンズ",
+      "country": "南アフリカ",
+      "flag": "🇿🇦",
+      "aliases": [
+        "Lions"
+      ]
+    },
+    "Vodacom Bulls": {
+      "jp": "ヴォーダコム・ブルズ",
+      "country": "南アフリカ",
+      "flag": "🇿🇦",
+      "aliases": [
+        "Bulls"
+      ]
+    },
+    "Ospreys": {
+      "jp": "オスプリーズ",
+      "country": "ウェールズ",
+      "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "aliases": []
+    },
+    "Connacht Rugby": {
+      "jp": "コナート・ラグビー",
+      "country": "アイルランド",
+      "flag": "🇮🇪",
+      "aliases": [
+        "Connacht"
+      ]
+    },
+    "Hollywoodbets Sharks": {
+      "jp": "ハリウッドベッツ・シャークス",
+      "country": "南アフリカ",
+      "flag": "🇿🇦",
+      "aliases": [
+        "Sharks"
+      ]
+    },
+    "Edinburgh Rugby": {
+      "jp": "エディンバラ・ラグビー",
+      "country": "スコットランド",
+      "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "aliases": [
+        "Edimbourg"
+      ]
+    },
+    "Benetton Rugby Trévise": {
+      "jp": "ベネットン・ラグビー・トレヴィーゾ",
+      "country": "イタリア",
+      "flag": "🇮🇹",
+      "aliases": [
+        "Trévise",
+        "Benetton"
+      ]
+    },
+    "Dragons Rugby": {
+      "jp": "ドラゴンズ・ラグビー",
+      "country": "ウェールズ",
+      "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "aliases": [
+        "Dragons"
+      ]
+    },
+    "Scarlets": {
+      "jp": "スカーレッツ",
+      "country": "ウェールズ",
+      "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "aliases": []
+    },
+    "Zebre Parma": {
+      "jp": "ゼブレ・パルマ",
+      "country": "イタリア",
+      "flag": "🇮🇹",
+      "aliases": [
+        "Zebre"
+      ]
+    }
+  },
+  "top14": {
+    "Stade Toulousain": {
+      "jp": "トゥールーズ",
+      "country": "フランス",
+      "flag": "🇫🇷",
+      "aliases": [
+        "Toulouse ST",
+        "Toulouse",
+        "toulouse"
+      ]
+    },
+    "Stade Français Paris": {
+      "jp": "スタッド・フランセ",
+      "country": "フランス",
+      "flag": "🇫🇷",
+      "aliases": [
+        "Paris SFP",
+        "Stade Français"
+      ]
+    },
+    "Racing 92": {
+      "jp": "ラシン92",
+      "country": "フランス",
+      "flag": "🇫🇷",
+      "aliases": [
+        "Racing 92 R92"
+      ]
+    },
+    "RC Toulonnais": {
+      "jp": "トゥーロン",
+      "country": "フランス",
+      "flag": "🇫🇷",
+      "aliases": [
+        "Toulon RCT",
+        "Toulon"
+      ]
+    },
+    "Stade Rochelais": {
+      "jp": "ラ・ロシェル",
+      "country": "フランス",
+      "flag": "🇫🇷",
+      "aliases": [
+        "La Rochelle SR",
+        "La Rochelle"
+      ]
+    },
+    "Union Bordeaux-Bègles": {
+      "jp": "ボルドー・ベグル",
+      "country": "フランス",
+      "flag": "🇫🇷",
+      "aliases": [
+        "Bordeaux UBB",
+        "Bordeaux",
+        "Bordeaux Begles",
+        "Begles"
+      ]
+    },
+    "Lyon OU": {
+      "jp": "リヨン",
+      "country": "フランス",
+      "flag": "🇫🇷",
+      "aliases": [
+        "Lyon LOU",
+        "Lyon",
+        "LOU Rugby"
+      ]
+    },
+    "ASM Clermont Auvergne": {
+      "jp": "クレルモン",
+      "country": "フランス",
+      "flag": "🇫🇷",
+      "aliases": [
+        "Clermont ASM",
+        "Clermont",
+        "ASM Clermont"
+      ]
+    },
+    "Montpellier Hérault Rugby": {
+      "jp": "モンペリエ",
+      "country": "フランス",
+      "flag": "🇫🇷",
+      "aliases": [
+        "Montpellier MHR",
+        "Montpellier",
+        "MHR"
+      ]
+    },
+    "Vannes": {
+      "jp": "ヴァンヌ",
+      "country": "フランス",
+      "flag": "🇫🇷",
+      "aliases": [
+        "RC Vannes"
+      ]
+    },
+    "US Montauban": {
+      "jp": "モントーバン",
+      "country": "フランス",
+      "flag": "🇫🇷",
+      "aliases": [
+        "Montauban USM",
+        "Montauban",
+        "montauban"
+      ]
+    },
+    "Section Paloise": {
+      "jp": "ポー",
+      "country": "フランス",
+      "flag": "🇫🇷",
+      "aliases": [
+        "Pau",
+        "Section Paloise"
+      ]
+    },
+    "Castres Olympique": {
+      "jp": "カストル",
+      "country": "フランス",
+      "flag": "🇫🇷",
+      "aliases": [
+        "Castres"
+      ]
+    },
+    "Aviron Bayonnais": {
+      "jp": "バイヨンヌ",
+      "country": "フランス",
+      "flag": "🇫🇷",
+      "aliases": [
+        "Bayonne"
+      ]
+    },
+    "USA Perpignan": {
+      "jp": "ペルピニャン",
+      "country": "フランス",
+      "flag": "🇫🇷",
+      "aliases": [
+        "Perpignan"
+      ]
+    }
+  },
+  "league-one": {
+    "Saitama Panasonic Wild Knights": {
+      "jp": "埼玉パナソニックワイルドナイツ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "パナソニック",
+        "Wild Knights",
+        "埼玉ワイルドナイツ"
+      ]
+    },
+    "Tokyo Suntory Sungoliath": {
+      "jp": "東京サントリーサンゴリアス",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "サントリー",
+        "Sungoliath",
+        "東京サンゴリアス"
+      ]
+    },
+    "Yokohama Canon Eagles": {
+      "jp": "横浜キヤノンイーグルス",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "キヤノン",
+        "Eagles"
+      ]
+    },
+    "Toshiba Brave Lupus Tokyo": {
+      "jp": "東芝ブレイブルーパス東京",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "東芝",
+        "Brave Lupus"
+      ]
+    },
+    "Kubota Spears Funabashi Tokyo Bay": {
+      "jp": "クボタスピアーズ船橋・東京ベイ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "クボタ",
+        "Spears",
+        "クボタスピアーズ"
+      ]
+    },
+    "Shizuoka Blue Revs": {
+      "jp": "静岡ブルーレヴズ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "ブルーレヴズ"
+      ]
+    },
+    "Toyota Verblitz": {
+      "jp": "トヨタヴェルブリッツ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "Verblitz"
+      ]
+    },
+    "Kobelco Kobe Steelers": {
+      "jp": "コベルコ神戸スティーラーズ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "神戸スティーラーズ",
+        "Kobelco Steelers"
+      ]
+    },
+    "Hanazono Kintetsu Liners": {
+      "jp": "花園近鉄ライナーズ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "近鉄",
+        "Liners"
+      ]
+    },
+    "Mitsubishi Sagamihara Dynaboars": {
+      "jp": "三菱重工相模原ダイナボアーズ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "相模原ダイナボアーズ",
+        "Dynaboars"
+      ]
+    },
+    "Ricoh Black Rams Tokyo": {
+      "jp": "リコーブラックラムズ東京",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "リコー",
+        "Black Rams"
+      ]
+    },
+    "Mie Honda Heat": {
+      "jp": "三重ホンダヒート",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "Honda Heat"
+      ]
+    },
+    "Urayasu D-Rocks": {
+      "jp": "浦安D-Rocks",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "D-Rocks"
+      ]
+    },
+    "NEC Green Rockets Tokatsu": {
+      "jp": "NECグリーンロケッツ東葛",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "NEC",
+        "Green Rockets"
+      ]
+    },
+    "Kyuden Voltex": {
+      "jp": "九州電力キューデンヴォルテクス",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "九電",
+        "Voltex"
+      ]
+    },
+    "Shimizu Koto Blue Sharks": {
+      "jp": "清水建設江東ブルーシャークス",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "清水建設",
+        "Blue Sharks"
+      ]
+    },
+    "Toyota Shuttles Aichi": {
+      "jp": "豊田自動織機シャトルズ愛知",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "豊田自動織機",
+        "Shuttles"
+      ]
+    },
+    "Kamaishi Seawaves": {
+      "jp": "日本製鉄釜石シーウェイブス",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "釜石シーウェイブス",
+        "Sea Waves"
+      ]
+    },
+    "Hino Red Dolphins": {
+      "jp": "日野レッドドルフィンズ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "日野",
+        "Red Dolphins"
+      ]
+    },
+    "Red Hurricanes Osaka": {
+      "jp": "レッドハリケーンズ大阪",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "ドコモ",
+        "Red Hurricanes"
+      ]
+    },
+    "Kurita Water Gush Akishima": {
+      "jp": "クリタウォーターガッシュ昭島",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "クリタ",
+        "Water Gush"
+      ]
+    },
+    "Secom Rugguts": {
+      "jp": "狭山セコムラガッツ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "セコム",
+        "Rugguts"
+      ]
+    },
+    "Chugoku Red Regulions": {
+      "jp": "中国電力レッドレグリオンズ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "中国電力",
+        "Red Regulions"
+      ]
+    },
+    "Mazda Skyactivs Hiroshima": {
+      "jp": "マツダスカイアクティブズ広島",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "マツダ",
+        "Skyactivs"
+      ]
+    },
+    "Yakult Levins": {
+      "jp": "ヤクルトレビンズ戸田",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "ヤクルト",
+        "Levins"
+      ]
+    },
+    "Leriro Fukuoka": {
+      "jp": "ルリーロ福岡",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "ルリーロ"
+      ]
+    }
+  },
+  "premiership": {
+    "Northampton Saints": {
+      "jp": "ノーサンプトン・セインツ",
+      "country": "イングランド",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "aliases": [
+        "Northampton"
+      ]
+    },
+    "Bath Rugby": {
+      "jp": "バース・ラグビー",
+      "country": "イングランド",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "aliases": [
+        "Bath"
+      ]
+    },
+    "Bristol Bears": {
+      "jp": "ブリストル・ベアーズ",
+      "country": "イングランド",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "aliases": [
+        "Bristol"
+      ]
+    },
+    "Leicester Tigers": {
+      "jp": "レスター・タイガーズ",
+      "country": "イングランド",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "aliases": [
+        "Leicester"
+      ]
+    },
+    "Exeter Chiefs": {
+      "jp": "エクセター・チーフス",
+      "country": "イングランド",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "aliases": [
+        "Exeter"
+      ]
+    },
+    "Saracens": {
+      "jp": "サラセンズ",
+      "country": "イングランド",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "aliases": []
+    },
+    "Sale Sharks": {
+      "jp": "セール・シャークス",
+      "country": "イングランド",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "aliases": [
+        "Sale"
+      ]
+    },
+    "Gloucester Rugby": {
+      "jp": "グロスター・ラグビー",
+      "country": "イングランド",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "aliases": [
+        "Gloucester"
+      ]
+    },
+    "Harlequins": {
+      "jp": "ハーレクインズ",
+      "country": "イングランド",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "aliases": []
+    },
+    "Newcastle Falcons": {
+      "jp": "ニューカッスル・ファルコンズ",
+      "country": "イングランド",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "aliases": [
+        "Newcastle",
+        "Newcastle Red Bulls"
+      ]
+    }
+  },
+  "top-west-a": {
+    "中部電力": {
+      "jp": "中部電力",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": []
+    },
+    "豊田通商BLUE WING": {
+      "jp": "豊田通商BLUE WING",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "豊田通商"
+      ]
+    },
+    "大阪府警察": {
+      "jp": "大阪府警察",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": []
+    },
+    "MARUWA LOGISTAR'Z KYOTO": {
+      "jp": "MARUWA LOGISTAR'Z KYOTO",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "MARUWA"
+      ]
+    },
+    "リコージャパンBLACK AEGIS": {
+      "jp": "リコージャパンBLACK AEGIS",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "リコージャパン"
+      ]
+    },
+    "Daigas Struggers": {
+      "jp": "Daigas Struggers",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "大阪ガス"
+      ]
+    },
+    "JR西日本レイラーズ": {
+      "jp": "JR西日本レイラーズ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "JR西日本"
+      ]
+    },
+    "島津製作所 Breakers": {
+      "jp": "島津製作所 Breakers",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "島津製作所"
+      ]
+    }
+  },
+  "top-kyushu": {
+    "日本製鉄九州八幡": {
+      "jp": "日本製鉄九州八幡",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": []
+    },
+    "JR九州サンダース": {
+      "jp": "JR九州サンダース",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "JR九州"
+      ]
+    },
+    "安川電機BLUE BLAZE": {
+      "jp": "安川電機BLUE BLAZE",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "安川電機"
+      ]
+    },
+    "FFGブルーグルーパーズ": {
+      "jp": "FFGブルーグルーパーズ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "福岡銀行"
+      ]
+    },
+    "三菱重工長崎": {
+      "jp": "三菱重工長崎",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": []
+    },
+    "鹿児島銀行": {
+      "jp": "鹿児島銀行",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": []
+    },
+    "西日本シティ銀行": {
+      "jp": "西日本シティ銀行",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": []
+    },
+    "日特スパークテックWKS": {
+      "jp": "日特スパークテックWKS",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": []
+    }
+  },
+  "top-east-a": {
+    "東京ガス": {
+      "jp": "東京ガス",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": []
+    },
+    "クリーンファイターズ山梨": {
+      "jp": "クリーンファイターズ山梨",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": []
+    },
+    "明治安田生命ホーリーズ": {
+      "jp": "明治安田生命ホーリーズ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "明治安田生命"
+      ]
+    },
+    "日立製作所Sun Nexus": {
+      "jp": "日立製作所Sun Nexus",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "日立製作所"
+      ]
+    }
+  },
+  "top-east-b": {
+    "横河武蔵野アトラスターズ": {
+      "jp": "横河武蔵野アトラスターズ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "横河武蔵野"
+      ]
+    },
+    "秋田ノーザンブレッツRFC": {
+      "jp": "秋田ノーザンブレッツRFC",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "秋田NB"
+      ]
+    },
+    "富士フイルムBIグリーンエルクス": {
+      "jp": "富士フイルムBIグリーンエルクス",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "富士フイルム"
+      ]
+    },
+    "大塚刷毛": {
+      "jp": "大塚刷毛",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": []
+    },
+    "ライオンファングス": {
+      "jp": "ライオンファングス",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "ライオン"
+      ]
+    }
+  },
+  "top-east-c": {
+    "サントリーフーズ": {
+      "jp": "サントリーフーズ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": []
+    },
+    "ワセダクラブ": {
+      "jp": "ワセダクラブ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": []
+    },
+    "JR東日本レールウェイズ": {
+      "jp": "JR東日本レールウェイズ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "JR東日本"
+      ]
+    },
+    "BIG BLUES八千代ベイ東京": {
+      "jp": "BIG BLUES八千代ベイ東京",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "ビッグブルーズ"
+      ]
+    },
+    "船岡自衛隊ワイルドボアーズ": {
+      "jp": "船岡自衛隊ワイルドボアーズ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "船岡自衛隊"
+      ]
+    },
+    "あいおいニッセイ同和損保タフウルズ": {
+      "jp": "あいおいニッセイ同和損保タフウルズ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "あいおい"
+      ]
+    },
+    "JAL WINGS": {
+      "jp": "JAL WINGS",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "JAL"
+      ]
+    },
+    "警視庁ラグビー部": {
+      "jp": "警視庁ラグビー部",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "警視庁"
+      ]
+    }
+  },
+  "top-west-b": {
+    "三菱自動車倉敷キングフィッシャーズ": {
+      "jp": "三菱自動車倉敷キングフィッシャーズ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "三菱自動車倉敷"
+      ]
+    },
+    "日本新薬OWLSTARS": {
+      "jp": "日本新薬OWLSTARS",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "日本新薬"
+      ]
+    },
+    "三菱自動車京都レッドエボリューションズ": {
+      "jp": "三菱自動車京都レッドエボリューションズ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "三菱自動車京都"
+      ]
+    },
+    "大阪教員団": {
+      "jp": "大阪教員団",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": []
+    },
+    "三菱電機メルコダイヤモンズ": {
+      "jp": "三菱電機メルコダイヤモンズ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "三菱電機"
+      ]
+    },
+    "MUFGレッドブルズ": {
+      "jp": "MUFGレッドブルズ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "MUFG"
+      ]
+    },
+    "JR東海": {
+      "jp": "JR東海",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": []
+    },
+    "きんでんトライデントブリッツ": {
+      "jp": "きんでんトライデントブリッツ",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "きんでん"
+      ]
+    }
+  },
+  "top-west-c": {
+    "K-POWERS": {
+      "jp": "K-POWERS",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": []
+    },
+    "Higashi-Osaka United": {
+      "jp": "Higashi-Osaka United",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "東大阪ユナイテッド"
+      ]
+    },
+    "大阪市消防局": {
+      "jp": "大阪市消防局",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": []
+    },
+    "KOMATSU Yellow Bulls": {
+      "jp": "KOMATSU Yellow Bulls",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "KOMATSU"
+      ]
+    },
+    "守口市門真市消防組合": {
+      "jp": "守口市門真市消防組合",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": [
+        "守口門真消防"
+      ]
+    },
+    "川崎重工": {
+      "jp": "川崎重工",
+      "country": "日本",
+      "flag": "🇯🇵",
+      "aliases": []
+    }
+  }
 }

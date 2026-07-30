@@ -10,7 +10,7 @@ birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "top-east-b"
+league: "top-east-a"
 team: "明治安田生命ホーリーズ"
 caps: ""
 high_school: ""

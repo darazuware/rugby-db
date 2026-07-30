@@ -10,7 +10,7 @@ birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "top-east-b"
+league: "top-east-a"
 team: "日立製作所Sun Nexus"
 caps: ""
 high_school: ""

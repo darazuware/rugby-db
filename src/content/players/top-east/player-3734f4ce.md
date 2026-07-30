@@ -10,7 +10,7 @@ birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "top-east-c"
+league: "top-east-b"
 team: "大塚刷毛"
 caps: ""
 high_school: ""

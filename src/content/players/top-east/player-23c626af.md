@@ -10,7 +10,7 @@ birth_date: "2000-6-4"
 age: 25
 country: ""
 birth_place_scraped: ""
-league: "top-east-a"
+league: "league-one"
 team: "AZ-COM丸和MOMOTARO'S"
 caps: ""
 high_school: "流通経済大学付属柏高校校"
@@ -20,7 +20,7 @@ rugby_school: ""
 scraped_url: "https://www.momotaros.jp/archives/member/player/fw/3699/"
 league_one_caps: ""
 career_history_json: '[]'
-category: "top-east"
+category: "league-one"
 ---
 
 ## キャリア遍歴

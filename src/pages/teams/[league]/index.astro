@@ -33,6 +33,14 @@ export async function getStaticPaths() {
         // P4-6: Premiership はチームページ＋日本人・スター選手のみの部分収集リーグ（00）。
         // URC と同じレイアウト（フルスコッド検索なし）で生成する。
         { params: { league: "premiership" }, props: { leagueName: "Premiership" } },
+        // 社会人ラグビー地域リーグ（リーグワンより下部の組織）
+        { params: { league: "top-west-a" }, props: { leagueName: "トップウェストA" } },
+        { params: { league: "top-west-b" }, props: { leagueName: "トップウェストB" } },
+        { params: { league: "top-west-c" }, props: { leagueName: "トップウェストC" } },
+        { params: { league: "top-east-a" }, props: { leagueName: "トップイーストA" } },
+        { params: { league: "top-east-b" }, props: { leagueName: "トップイーストB" } },
+        { params: { league: "top-east-c" }, props: { leagueName: "トップイーストC" } },
+        { params: { league: "top-kyushu" }, props: { leagueName: "トップ九州" } },
     ];
 }
 
@@ -151,7 +159,14 @@ const leagueNameMap: Record<string, { en: string; jp: string }> = {
     "super-rugby": { en: "SUPER RUGBY", jp: "スーパーラグビー" },
     "top14": { en: "TOP 14", jp: "トップ14" },
     "urc": { en: "URC", jp: "ユナイテッド・ラグビー・チャンピオンシップ" },
-    "premiership": { en: "PREMIERSHIP", jp: "プレミアシップ" }
+    "premiership": { en: "PREMIERSHIP", jp: "プレミアシップ" },
+    "top-west-a": { en: "TOP WEST A", jp: "トップウェストA" },
+    "top-west-b": { en: "TOP WEST B", jp: "トップウェストB" },
+    "top-west-c": { en: "TOP WEST C", jp: "トップウェストC" },
+    "top-east-a": { en: "TOP EAST A", jp: "トップイーストA" },
+    "top-east-b": { en: "TOP EAST B", jp: "トップイーストB" },
+    "top-east-c": { en: "TOP EAST C", jp: "トップイーストC" },
+    "top-kyushu": { en: "TOP KYUSHU", jp: "トップ九州" }
 };
 const currentNames = leagueNameMap[league || ""] || { en: leagueTitle, jp: safeLeagueName };
 

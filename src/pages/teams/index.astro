@@ -33,6 +33,16 @@ const leagues = [
             "イングランド国内リーグ。伝統あるクラブが激突する最高峰のステージ。",
     },
 ];
+
+const regionalLeagues = [
+    { id: "top-west-a", name: "トップウェストA", description: "関西社会人ラグビー最上位リーグ。" },
+    { id: "top-west-b", name: "トップウェストB", description: "関西社会人ラグビー2部相当。" },
+    { id: "top-west-c", name: "トップウェストC", description: "関西社会人ラグビー3部相当。" },
+    { id: "top-east-a", name: "トップイーストA", description: "関東社会人ラグビーAグループ。" },
+    { id: "top-east-b", name: "トップイーストB", description: "関東社会人ラグビーBグループ。" },
+    { id: "top-east-c", name: "トップイーストC", description: "関東社会人ラグビーCグループ。" },
+    { id: "top-kyushu", name: "トップ九州", description: "九州社会人ラグビー最上位リーグ。" },
+];
 ---
 
 <Layout title="チーム一覧 | RUGBY PICKS">
@@ -78,6 +88,38 @@ const leagues = [
                                     <span class="group-hover:translate-x-1 transition-transform">
                                         →
                                     </span>
+                                </div>
+                            </div>
+                        </a>
+                    ))
+                }
+            </div>
+
+            <h2 class="text-2xl font-black text-foreground uppercase tracking-tight italic mt-4 mb-8">
+                社会人ラグビー<span class="text-yellow-400">地域リーグ</span>
+                <span class="ml-4 not-italic text-sm text-foreground/40 lowercase tracking-normal font-bold">リーグワンより下部の組織</span>
+            </h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+                {
+                    regionalLeagues.map((league) => (
+                        <a
+                            href={`/teams/${league.id}`}
+                            class="group relative bg-card p-8 rounded-[2.5rem] shadow-sm hover:shadow-2xl transition-all border border-border-dim overflow-hidden"
+                        >
+                            <div class="absolute top-0 right-0 w-32 h-32 translate-x-12 -translate-y-12 rotate-45 bg-yellow-400/10 group-hover:bg-yellow-400 group-hover:translate-x-8 group-hover:-translate-y-8 transition-all duration-500 z-0" />
+                            <div class="relative z-10">
+                                <span class="text-[10px] font-black text-yellow-600 uppercase tracking-[0.2em] mb-4 block">
+                                    Select League
+                                </span>
+                                <h2 class="text-2xl font-black text-foreground mb-4 tracking-tighter group-hover:text-yellow-600 transition-colors uppercase italic">
+                                    {league.name}
+                                </h2>
+                                <p class="text-foreground/60 font-medium text-sm leading-relaxed mb-6">
+                                    {league.description}
+                                </p>
+                                <div class="flex items-center gap-2 text-xs font-black uppercase tracking-widest text-foreground/30 group-hover:text-foreground transition-colors">
+                                    <span>Go to Teams</span>
+                                    <span class="group-hover:translate-x-1 transition-transform">→</span>
                                 </div>
                             </div>
                         </a>
