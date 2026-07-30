@@ -25,7 +25,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "ブルーズ"]
 | :--- | :--- | :--- | :--- | ---: |
 | Jordan LAY | ジョーダン・レイ | プロップ | [サモア代表](/national-teams/samoa/) | 26 |
 | Ofa TU'UNGAFASI | オファ・トゥウンガファシ | プロップ | [ニュージーランド代表](/national-teams/new-zealand/) | 53 |
-| Patrick TUIPULOTU | パトリック・トゥイプロトゥ | ロック | ニュージーランド代表 | 25 |
+| Patrick TUIPULOTU | パトリック・トゥイプロトゥ | ロック | [ニュージーランド代表](/national-teams/new-zealand/) | 25 |
 | Hoskins SOTUTU | ホスキンス・ソトゥトゥ | フランカー/No8 | ニュージーランド代表 | — |
 | Dalton PAPALI'I | ダルトン・パパリイ | フランカー/No8 | ニュージーランド代表 | 26 |
 | Finlay CHRISTIE | フィンレー・クリスティ | スクラムハーフ | ニュージーランド代表 | 17 |

@@ -25,7 +25,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "チーフス"]
 | :--- | :--- | :--- | :--- | ---: |
 | Ollie NORRIS | オリー・ノリス | プロップ | [オーストラリア代表](/national-teams/australia/) | — |
 | Samisoni TAUKEI'AHO | サミソニ・タウケイアホ | フッカー | [ニュージーランド代表](/national-teams/new-zealand/) | 25 |
-| Tupou VAA'I | トゥポウ・ヴァアイ | ロック | ニュージーランド代表 | 22 |
+| Tupou VAA'I | トゥポウ・ヴァアイ | ロック | [ニュージーランド代表](/national-teams/new-zealand/) | 22 |
 | Simon PARKER | サイモン・パーカー | フランカー/No8 | ニュージーランド代表 | — |
 | Samipeni FINAU | サミペニ・フィナウ | フランカー/No8 | [トンガ代表](/national-teams/tonga/) | — |
 | Luke JACOBSON | ルーク・ジェイコブソン | フランカー/No8 | ニュージーランド代表 | 15 |
@@ -33,9 +33,9 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "チーフス"]
 | Cortez RATIMA | コルテス・ラティマ | スクラムハーフ | ニュージーランド代表 | — |
 | Te Toiroa TAHURIORANGI | テ・トイロア・タフリオランギ | スクラムハーフ | ニュージーランド代表 | — |
 | Damian MCKENZIE | デイミアン・マッケンジー | スタンドオフ | ニュージーランド代表 | 42 |
-| Lalakai FOKETI | ララカイ・フォケティ | センター | オーストラリア代表 | 6 |
+| Lalakai FOKETI | ララカイ・フォケティ | センター | [オーストラリア代表](/national-teams/australia/) | 6 |
 | Emoni NARAWA | エモニ・ナラワ | ウィング | [ニュージーランド代表](/national-teams/new-zealand/) | 4 |
-| Kyren TAUMOEFOLAU | カイレン・タウモエフォラウ | ウィング | トンガ代表 | 5 |
+| Kyren TAUMOEFOLAU | カイレン・タウモエフォラウ | ウィング | [トンガ代表](/national-teams/tonga/) | 5 |
 
 ## その他在籍選手（2025-26シーズン）
 

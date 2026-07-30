@@ -24,12 +24,12 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "ブリストル�
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
 | Ellis GENGE | エリス・ゲンジ | プロップ | [イングランド代表](/national-teams/england/) | 62 |
-| Harry RANDALL | ハリー・ランダル | スクラムハーフ | イングランド代表 | 11 |
-| Louis REES-ZAMMIT | ルイス・リース=ザミット | ウィング | ウェールズ代表 | 27 |
+| Harry RANDALL | ハリー・ランダル | スクラムハーフ | [イングランド代表](/national-teams/england/) | 11 |
+| Louis REES-ZAMMIT | ルイス・リース=ザミット | ウィング | [ウェールズ代表](/national-teams/wales/) | 27 |
 | AJ MACGINTY | AJマクギンティ | フライハーフ | [アメリカ代表](/national-teams/usa/) | 24 |
 | Santiago GRONDONA | サンティアゴ・グロンドーナ | フランカー | [アルゼンチン代表](/national-teams/argentina/) | 15 |
 | Kalaveti RAVOUVOU | カラヴェティ・ラヴォウヴォウ | センター | [フィジー代表](/national-teams/fiji/) | 6 |
-| Pedro RUBIOLO | ペドロ・ルビオロ | ロック | アルゼンチン代表 | 5 |
+| Pedro RUBIOLO | ペドロ・ルビオロ | ロック | [アルゼンチン代表](/national-teams/argentina/) | 5 |
 | Luka IVANISHVILI | ルカ・イヴァニシュヴィリ | フランカー | [ジョージア代表](/national-teams/georgia/) | 7 |
 | Tom JORDAN | トム・ジョーダン | センター | [スコットランド代表](/national-teams/scotland/) | 3 |
 

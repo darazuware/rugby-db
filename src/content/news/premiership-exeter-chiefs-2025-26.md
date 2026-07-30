@@ -27,9 +27,9 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "エクセター�
 | Scott SIO | スコット・シオ | プロップ | [オーストラリア代表](/national-teams/australia/) | 59 |
 | Stephen VARNEY | スティーブン・ヴァーニー | スクラムハーフ | [イタリア代表](/national-teams/italy/) | 30 |
 | Dafydd JENKINS | ダフィッド・ジェンキンス | ロック | [ウェールズ代表](/national-teams/wales/) | 19 |
-| Christ TSHIUNZA | クライスト・チウンザ | ロック | ウェールズ代表 | 15 |
-| Ross VINTCENT | ロス・ヴィントセント | フランカー | イタリア代表 | 10 |
-| Tom HOOPER | トム・フーパー | フランカー | オーストラリア代表 | 4 |
+| Christ TSHIUNZA | クライスト・チウンザ | ロック | [ウェールズ代表](/national-teams/wales/) | 15 |
+| Ross VINTCENT | ロス・ヴィントセント | フランカー | [イタリア代表](/national-teams/italy/) | 10 |
+| Tom HOOPER | トム・フーパー | フランカー | [オーストラリア代表](/national-teams/australia/) | 4 |
 | Andrea ZAMBONIN | アンドレア・ザンボニン | ロック | イタリア代表 | 3 |
 
 ## その他在籍選手（2025-26シーズン）

@@ -24,8 +24,8 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "クイーン�
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
 | Jeffery TOOMAGA-ALLEN | ジェフリー・トゥマガ・アレン | プロップ | [ニュージーランド代表](/national-teams/new-zealand/) | — |
-| Aidan ROSS | エイダン・ロス | プロップ | ニュージーランド代表 | — |
-| Zane NONGGORR | ゼイン・ノングガー | プロップ | オーストラリア代表 | 3 |
+| Aidan ROSS | エイダン・ロス | プロップ | [ニュージーランド代表](/national-teams/new-zealand/) | — |
+| Zane NONGGORR | ゼイン・ノングガー | プロップ | [オーストラリア代表](/national-teams/australia/) | 3 |
 | Matt FAESSLER | マット・フェスラー | フッカー | オーストラリア代表 | 2 |
 | Lukhan SALAKAIA-LOTO | ルカン・サラカイア・ロト | ロック | オーストラリア代表 | 16 |
 | Fraser MCREIGHT | フレイザー・マクライト | フランカー/No8 | オーストラリア代表 | 13 |
@@ -34,7 +34,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "クイーン�
 | Carter GORDON | カーター・ゴードン | スタンドオフ | オーストラリア代表 | 5 |
 | Ben VOLAVOLA | ベン・ヴォラヴォラ | スタンドオフ | [フィジー代表](/national-teams/fiji/) | 38 |
 | Hunter PAISAMI | ハンター・パイサミ | センター | [サモア代表](/national-teams/samoa/) | — |
-| Filipo DAUGUNU | フィリポ・ダウグヌ | ウィング | フィジー代表 | — |
+| Filipo DAUGUNU | フィリポ・ダウグヌ | ウィング | [フィジー代表](/national-teams/fiji/) | — |
 
 ## その他在籍選手（2025-26シーズン）
 

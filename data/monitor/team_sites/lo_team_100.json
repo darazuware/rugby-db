@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-07-29T21:56:44+09:00",
+  "checked_at": "2026-07-31T07:22:34+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "5771624abfc2fa1d"
+      "hash": "0595e1c798c276cd"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "7ee72d44e9064ef7"
+      "hash": "c62f8f0f810672d4"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/team/index_1995.html",
+      "title": "チーム 2026.07.30 浦安D-Rocks 公式TikTok開設のお知らせ",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/fanclub/index_1994.html",
+      "title": "ファンクラブ 2026.07.30 2026.7.26プラチナ会員限定イベント「シーズンエンドパーティ 2025-26」を開催しました",
+      "date": "2026-07-30"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/fanclub/index_1993.html",
+      "title": "ファンクラブ 2026.07.30 2026.7.26「D-Rockers ミーティング 2025-26」を開催しました",
+      "date": "2026-07-30"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1992.html",
       "title": "イベント 2026.07.28 2026.7.25 公益財団法人うらやす財団主催「あつまれ！うんどう公園夏休みこどもスペシャルDAY」に参加しました",
@@ -54,7 +69,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1986.html",
-      "title": "イベント 2026.07.20 2026.7.25「仙台駐屯地 夏まつり」出展のお知らせ",
+      "title": "2026.07.20 ニュース 2026.7.25「仙台駐屯地 夏まつり」出展のお知らせ",
       "date": "2026-07-20"
     },
     {
@@ -69,12 +84,12 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_1984.html",
-      "title": "ファンクラブ 2026.07.10 2026.7.26「D-Rockers ミーティング 2025-26」開催のお知らせ",
+      "title": "2026.07.10 ニュース 2026.7.26「D-Rockers ミーティング 2025-26」開催のお知らせ",
       "date": "2026-07-10"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1985.html",
-      "title": "イベント 2026.07.10 2026.7.30【第2弾】ラグ活！～大人のためのラグビー体験会～ 開催決定！",
+      "title": "2026.07.10 ニュース 2026.7.30【第2弾】ラグ活！～大人のためのラグビー体験会～ 開催決定！",
       "date": "2026-07-10"
     },
     {
@@ -201,21 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/event/index_1952.html",
       "title": "2026.05.15 ニュース Fan's Player of the year 2025-2026 投票実施のお知らせ",
       "date": "2026-05-15"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_1948.html",
-      "title": "2026.05.13 ニュース アナリストインターンの募集について",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_1943.html",
-      "title": "2026.05.08 ニュース 【メンバー発表】NTTジャパンラグビー リーグワン 2025-26 ディビジョン1 第18節 三菱重工相模原ダイナボアーズ戦（5月10日）",
-      "date": "2026-05-08"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_1941.html",
-      "title": "2026.04.29 ニュース 【メンバー発表】NTTジャパンラグビー リーグワン 2025-26 ディビジョン1 第17節 埼玉パナソニックワイルドナイツ戦（5月1日）",
-      "date": "2026-04-29"
     }
   ]
 }

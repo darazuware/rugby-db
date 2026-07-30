@@ -179,7 +179,16 @@ def run_leagues(leagues: list[str], *, dry_run: bool, only: set[str] | None = No
     if not only:
         for league, players in players_by_league.items():
             io.write_records(io.players_path(league), players)
-            io.write_records(io.teams_path(league), teams_by_league.get(league, []))
+            new_teams = teams_by_league.get(league, [])
+            # discover_official_urls（team_sites.py）が書いた official_url/home_area は
+            # このスクレイパーの出力に含まれないため、上書きで消えないよう前回値を引き継ぐ。
+            prev_teams = {t["id"]: t for t in io.read_records(io.teams_path(league))}
+            for t in new_teams:
+                prev = prev_teams.get(t["id"])
+                if prev:
+                    t["official_url"] = t.get("official_url") or prev.get("official_url")
+                    t["home_area"] = t.get("home_area") or prev.get("home_area")
+            io.write_records(io.teams_path(league), new_teams)
             io.update_last_run(
                 league,
                 counts={"players": len(players), "teams": len(teams_by_league.get(league, []))},

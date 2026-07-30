@@ -51,15 +51,15 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "イングラン�
 
 | 順位 | チーム | 優勝回数 |
 | ---: | :--- | ---: |
-| 1 | レスター・タイガーズ | 11回 |
+| 1 | [レスター・タイガーズ](/teams/premiership/leicester-tigers/) | 11回 |
 | 2 | バース | 7回 |
-| 3 | サラセンズ | 6回 |
-| 4 | ノーサンプトン・セインツ | 2回 |
-| 4 | エクセター・チーフス | 2回 |
-| 4 | ハーレクインズ | 2回 |
+| 3 | [サラセンズ](/teams/premiership/saracens/) | 6回 |
+| 4 | [ノーサンプトン・セインツ](/teams/premiership/northampton-saints/) | 2回 |
+| 4 | [エクセター・チーフス](/teams/premiership/exeter-chiefs/) | 2回 |
+| 4 | [ハーレクインズ](/teams/premiership/harlequins/) | 2回 |
 | 7 | ニューカッスル・レッドブルズ（旧ファルコンズ） | 1回 |
-| 7 | セール・シャークス | 1回 |
-| 9 | ブリストル・ベアーズ | 0回 |
+| 7 | [セール・シャークス](/teams/premiership/sale-sharks/) | 1回 |
+| 9 | [ブリストル・ベアーズ](/teams/premiership/bristol-bears/) | 0回 |
 | 9 | グロスター | 0回 |
 
 ---

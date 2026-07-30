@@ -25,13 +25,13 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "ウェスタ�
 | :--- | :--- | :--- | :--- | ---: |
 | Feao FOTUAIKA | フェアオ・フォトゥアイカ | プロップ | [トンガ代表](/national-teams/tonga/) | 5 |
 | Tom ROBERTSON | トム・ロバートソン | プロップ | [オーストラリア代表](/national-teams/australia/) | — |
-| Harry JOHNSON-HOLMES | ハリー・ジョンソン・ホームズ | プロップ | オーストラリア代表 | — |
+| Harry JOHNSON-HOLMES | ハリー・ジョンソン・ホームズ | プロップ | [オーストラリア代表](/national-teams/australia/) | — |
 | Nic DOLLY | ニック・ドリー | フッカー | オーストラリア代表 | — |
 | Brandon PAENGA-AMOSA | ブランドン・ペンガ・アモサ | フッカー | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Darcy SWAIN | ダーシー・スウェイン | ロック | オーストラリア代表 | — |
 | Carlo TIZZANO | カルロ・ティッツァーノ | フランカー/No8 | オーストラリア代表 | — |
 | Ben DONALDSON | ベン・ドナルドソン | スタンドオフ | オーストラリア代表 | 3 |
-| George BRIDGE | ジョージ・ブリッジ | ウィング | ニュージーランド代表 | 5 |
+| George BRIDGE | ジョージ・ブリッジ | ウィング | [ニュージーランド代表](/national-teams/new-zealand/) | 5 |
 | Kurtley BEALE | カートリー・ビール | フルバック | [オーストラリア代表](/national-teams/australia/) | 95 |
 
 ## その他在籍選手（2025-26シーズン）

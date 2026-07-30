@@ -23,9 +23,9 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "バース"]
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| Finn RUSSELL | フィン・ラッセル | フライハーフ | スコットランド代表 | 82 |
+| Finn RUSSELL | フィン・ラッセル | フライハーフ | [スコットランド代表](/national-teams/scotland/) | 82 |
 | Ollie LAWRENCE | オリー・ローレンス | センター | [イングランド代表](/national-teams/england/) | 31 |
-| Will STUART | ウィル・スチュアート | プロップ | イングランド代表 | 45 |
+| Will STUART | ウィル・スチュアート | プロップ | [イングランド代表](/national-teams/england/) | 45 |
 | Charlie EWELS | チャーリー・エウェルズ | ロック | イングランド代表 | 30 |
 | Sam UNDERHILL | サム・アンダーヒル | フランカー | イングランド代表 | 30 |
 | Chris HARRIS | クリス・ハリス | センター | スコットランド代表 | 44 |

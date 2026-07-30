@@ -24,7 +24,7 @@ tags: ["Top14", "チーム紹介", "2025-26", "トゥールーズ"]
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
 | Antoine DUPONT | アントワーヌ・デュポン | スクラムハーフ | [フランス代表](/national-teams/france/) | 75 |
-| Cyril BAILLE | シリル・バイユ | プロップ | フランス代表 | 55 |
+| Cyril BAILLE | シリル・バイユ | プロップ | [フランス代表](/national-teams/france/) | 55 |
 | Julien MARCHAND | ジュリアン・マルシャン | フッカー | フランス代表 | 50 |
 | Romain NTAMACK | ロマン・タマック | フライハーフ | フランス代表 | 50 |
 | Thibaud FLAMENT | ティボー・フラマン | セカンドロー | フランス代表 | 25 |
@@ -33,7 +33,7 @@ tags: ["Top14", "チーム紹介", "2025-26", "トゥールーズ"]
 | Emmanuel MEAFOU | エマニュエル・メアフー | セカンドロー | フランス代表 | 15 |
 | Jack WILLIS | ジャック・ウィリス | バックロー | [イングランド代表](/national-teams/england/) | 15 |
 | Thomas RAMOS | トマ・ラモス | フルバック | フランス代表 | 40 |
-| Naoto SAITO | 斎藤直人 | スクラムハーフ | 日本代表 | 40 |
+| Naoto SAITO | 斎藤直人 | スクラムハーフ | [日本代表](/national-teams/japan/) | 40 |
 
 ## その他在籍選手（2025-26シーズン）
 

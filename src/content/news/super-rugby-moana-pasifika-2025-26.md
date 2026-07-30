@@ -24,14 +24,14 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "モアナパ�
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
 | Paula LATU | パウラ・ラトゥ | プロップ | [トンガ代表](/national-teams/tonga/) | 1 |
-| Sam MOLI | サム・モリ | フッカー | トンガ代表 | 13 |
+| Sam MOLI | サム・モリ | フッカー | [トンガ代表](/national-teams/tonga/) | 13 |
 | Veikoso POLONIATI | ヴェイコソ・ポロニアティ | ロック | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Miracle FAI'ILAGI | ミラクル・ファイラギ | フランカー/No8 | [サモア代表](/national-teams/samoa/) | 3 |
 | Semisi PAEA | セミシ・パエア | フランカー/No8 | トンガ代表 | 3 |
-| Niko JONES | ニコ・ジョーンズ | フランカー/No8 | ニュージーランド代表 | — |
+| Niko JONES | ニコ・ジョーンズ | フランカー/No8 | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Tupou MA'AFU-AFUNGIA | トゥポウ・マアフ・アフンギア | フランカー/No8 | トンガ代表 | — |
 | Augustine PULU | オーガスティン・プル | スクラムハーフ | トンガ代表 | 3 |
-| Melani MATAVAO | メラニ・マタバオ | スクラムハーフ | サモア代表 | 13 |
+| Melani MATAVAO | メラニ・マタバオ | スクラムハーフ | [サモア代表](/national-teams/samoa/) | 13 |
 | Jonathan TAUMATEINE | ジョナサン・タウマテイン | スクラムハーフ | サモア代表 | 11 |
 | Pat PELLEGRINI | パット・ペレグリーニ | スタンドオフ | [トンガ代表](/national-teams/tonga/) | — |
 | Julian SAVEA | ジュリアン・サベア | センター | ニュージーランド代表 | 35 |

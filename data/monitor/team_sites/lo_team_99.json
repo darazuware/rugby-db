@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-07-29T21:56:44+09:00",
+  "checked_at": "2026-07-31T07:22:34+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "eb892614018e94c0"
+      "hash": "d24e2cc711390041"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "3678659756dbbd27"
+      "hash": "b197a695e1e5d2ed"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2607-1027.html",
+      "title": "2026年 7月31日 #1027 中村 亮土 『インタビューのもっと深いところ』",
+      "date": "2026-07-31"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627jljsg.html",
       "title": "2026年 7月27日 2026-27シーズン新加入選手のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27シーズンよりチー…",
@@ -211,11 +216,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/25267rsdct.html",
       "title": "2026年 2月18日 【重要】2月8日(日) 東京SGv相模原DB戦中止に伴うチケットの取り扱いおよび払い戻し方法について いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 「NTTジャパンラグビー リーグワン …",
       "date": "2026-02-18"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/7_dbrm.html",
-      "title": "2026年 2月17日 第7節 相模原DB戦の代替開催日決定のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 2月8日（日）に積雪の影響で中止となり…",
-      "date": "2026-02-17"
     }
   ]
 }

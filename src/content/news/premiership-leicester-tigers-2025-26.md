@@ -23,15 +23,15 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "レスター・�
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| Freddie STEWARD | フレディ・スチュワード | フルバック | イングランド代表 | 35 |
+| Freddie STEWARD | フレディ・スチュワード | フルバック | [イングランド代表](/national-teams/england/) | 35 |
 | George MARTIN | ジョージ・マーティン | ロック | イングランド代表 | 19 |
 | Ollie CHESSUM | オリー・チェッサム | ロック | イングランド代表 | 23 |
 | Jack VAN POORTVLIET | ジャック・ファン・ポールトフリート | スクラムハーフ | イングランド代表 | 16 |
 | James O'CONNOR | ジェームズ・オコナー | フライハーフ | [オーストラリア代表](/national-teams/australia/) | 48 |
 | Tommy REFFELL | トミー・リフェル | フランカー | [ウェールズ代表](/national-teams/wales/) | 23 |
-| Nicky SMITH | ニッキー・スミス | プロップ | ウェールズ代表 | 49 |
+| Nicky SMITH | ニッキー・スミス | プロップ | [ウェールズ代表](/national-teams/wales/) | 49 |
 | Joe HEYES | ジョー・ヘイズ | プロップ | イングランド代表 | 7 |
-| Izaia PERESE | イザイア・ペレセ | センター | オーストラリア代表 | 5 |
+| Izaia PERESE | イザイア・ペレセ | センター | [オーストラリア代表](/national-teams/australia/) | 5 |
 | Will HURD | ウィル・ハード | プロップ | [スコットランド代表](/national-teams/scotland/) | 4 |
 | Solomone KATA | ソロモネ・カタ | センター | [トンガ代表](/national-teams/tonga/) | 9 |
 

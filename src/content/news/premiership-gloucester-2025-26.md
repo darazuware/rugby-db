@@ -27,7 +27,7 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "グロスター"]
 | Nepo LAULALA | ネポ・ラウラーラ | プロップ | [ニュージーランド代表](/national-teams/new-zealand/) | 49 |
 | Ross BYRNE | ロス・バーン | フライハーフ | [アイルランド代表](/national-teams/ireland/) | 21 |
 | Jack SINGLETON | ジャック・シングルトン | フッカー | [イングランド代表](/national-teams/england/) | 2 |
-| Josh HATHAWAY | ジョシュ・ハサウェイ | フルバック | ウェールズ代表 | 2 |
+| Josh HATHAWAY | ジョシュ・ハサウェイ | フルバック | [ウェールズ代表](/national-teams/wales/) | 2 |
 | Max LLEWELLYN | マックス・ルウェリン | センター | ウェールズ代表 | 5 |
 | Freddie THOMAS | フレディ・トーマス | フランカー | ウェールズ代表 | 1 |
 

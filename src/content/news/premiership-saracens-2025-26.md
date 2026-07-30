@@ -24,7 +24,7 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "サラセンズ"]
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
 | Owen FARRELL | オーウェン・ファレル | フライハーフ | [イングランド代表](/national-teams/england/) | 107 |
-| Maro ITOJE | マロ・イトジェ | ロック | イングランド代表 | 80 |
+| Maro ITOJE | マロ・イトジェ | ロック | [イングランド代表](/national-teams/england/) | 80 |
 | Nick TOMPKINS | ニック・トンプキンス | センター | [ウェールズ代表](/national-teams/wales/) | 38 |
 | Marco RICCIONI | マルコ・リッチョーニ | プロップ | [イタリア代表](/national-teams/italy/) | 31 |
 | Eroni MAWI | エロニ・マウィ | プロップ | [フィジー代表](/national-teams/fiji/) | 25 |

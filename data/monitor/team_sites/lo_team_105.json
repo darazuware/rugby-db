@@ -1,22 +1,27 @@
 {
   "team_id": "lo_team_105",
   "league": "league-one-d1",
-  "name": "栃木ホンダヒート",
-  "official_url": "https://www.honda-heat.jp/",
-  "checked_at": "2026-07-29T21:56:44+09:00",
+  "name": "三重ホンダヒート",
+  "official_url": "http://www.honda-heat.jp",
+  "checked_at": "2026-07-31T07:22:34+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "394409dc192379c2"
+      "hash": "bb38a683c4e352a5"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "c7fe2575f7fafbcd"
+      "hash": "d9b84851f6cef1b1"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2412/",
+      "title": "社会貢献 2026.7.30 『アークタウン・サマーフェスティバル 2026』に参加しました！",
+      "date": "2026-07-30"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2411/",
       "title": "イベント 2026.7.28 『ブレックスアリーナ宇都宮スポーツフェスティバル』参加のお知らせ",
@@ -131,11 +136,6 @@
       "url": "https://www.honda-heat.jp/news/2387/",
       "title": "トピックス 2026.6.25 JAPAN XV 試合登録メンバーのお知らせ",
       "date": "2026-06-25"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2386/",
-      "title": "社会貢献 2026.6.22 【普及活動】ラグビー講座「ラグビーのコーチングから学ぶ体育授業の作り方」を開催致しました。",
-      "date": "2026-06-22"
     },
     {
       "url": "https://www.honda-heat.jp/hostgame/20260509/",
