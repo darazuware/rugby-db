@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-07-31T07:22:34+09:00",
+  "checked_at": "2026-07-31T15:51:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "1cdb920aff92e66c"
+      "hash": "1b00759de16ca3a5"
     }
   ],
   "items": [
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4252/",
+      "title": "2026.7.31 普及・アカデミー トヨタヴェルブリッツアカデミー #8 ～現役選手 初登場！～",
+      "date": "2026-07-31"
+    },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4248/",
       "title": "2026.7.24 普及・アカデミー トヨタヴェルブリッツアカデミー #7",
@@ -46,11 +51,6 @@
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4237/",
       "title": "2026.7.7 コラム 【Retirement Interview】Chihiro Matsuyama［CTB］",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4236/",
-      "title": "2026.7.7 コラム 【退団インタビュー】松山千大［CTB］／ラグビーには、ありがとうしかない",
       "date": "2026-07-07"
     },
     {

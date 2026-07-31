@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-31T07:22:34+09:00",
+  "checked_at": "2026-07-31T15:51:47+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,29 +9,9 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://urayasu-d-rocks.com/news/team/index_1995.html",
-          "title": "チーム 2026.07.30 浦安D-Rocks 公式TikTok開設のお知らせ",
-          "date": "2026-07-30",
-          "category": null
-        },
-        {
-          "url": "https://urayasu-d-rocks.com/news/fanclub/index_1994.html",
-          "title": "ファンクラブ 2026.07.30 2026.7.26プラチナ会員限定イベント「シーズンエンドパーティ 2025-26」を開催しました",
-          "date": "2026-07-30",
-          "category": null
-        },
-        {
-          "url": "https://urayasu-d-rocks.com/news/fanclub/index_1993.html",
-          "title": "ファンクラブ 2026.07.30 2026.7.26「D-Rockers ミーティング 2025-26」を開催しました",
-          "date": "2026-07-30",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
-        "https://urayasu-d-rocks.com/",
-        "https://urayasu-d-rocks.com/news/"
+        "https://urayasu-d-rocks.com/"
       ],
       "rename_signals": []
     },
@@ -43,7 +23,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post34962/",
+          "title": "2026/7/31 お知らせ ファンクラブ事務局およびお問い合わせ窓口 夏季休業期間のお知らせ",
+          "date": "2026-07-31",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post29666/",
+          "title": "2025/11/25 お知らせ 神戸三宮センター街でのチームPR活動実施について",
+          "date": "2025-11-25",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kobesteelers.com/",
         "https://www.kobesteelers.com/news/",
@@ -84,7 +77,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4252/",
+          "title": "2026.7.31 普及・アカデミー トヨタヴェルブリッツアカデミー #8 ～現役選手 初登場！～",
+          "date": "2026-07-31",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://verblitz.toyotatimes-sports.toyota/"
       ],
@@ -98,18 +98,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 25,
-      "new_items": [
-        {
-          "url": "https://www.honda-heat.jp/news/2412/",
-          "title": "社会貢献 2026.7.30 『アークタウン・サマーフェスティバル 2026』に参加しました！",
-          "date": "2026-07-30",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.honda-heat.jp/",
-        "https://www.honda-heat.jp/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -149,9 +139,21 @@
       "item_count": 5,
       "new_items": [
         {
-          "url": "https://blackrams-tokyo.com/news/academy/2026-2027/20260730.html",
-          "title": "＜参加者募集のお知らせ＞ 夏季スキル練習会 ～基本スキル編～",
-          "date": "2026-07-30",
+          "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260731a.html",
+          "title": "ニュージーランド留学レポート③（李淳弘選手）",
+          "date": "2026-07-31",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260731a.html",
+          "title": "神鳥裕之氏 退団及び公益財団法人日本ラグビーフットボール協会出向のお知らせ",
+          "date": "2026-07-31",
+          "category": "roster"
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260731b.html",
+          "title": "ラムズの夏休み2026 神鳥さんから感謝の気持ちを込めて！「当たりをつ”かみとり”！」開催のお知らせ",
+          "date": "2026-07-31",
           "category": null
         }
       ],
@@ -168,8 +170,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 56,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/news/2026/07/31/120000.html",
+          "title": "2026.07.31 ニュース・トピックス",
+          "date": "2026-07-31",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/",
+        "https://www.kubota-spears.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -195,18 +207,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2607-1027.html",
-          "title": "2026年 7月31日 #1027 中村 亮土 『インタビューのもっと深いところ』",
-          "date": "2026-07-31",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.suntory.co.jp/culture-sports/sungoliath/",
-        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -243,8 +245,8 @@
       "item_count": 24,
       "new_items": [
         {
-          "url": "https://blue-sharks.jp/news/2026/07/25028/",
-          "title": "有明アリーナスポーツフェス2026 活動報告",
+          "url": "https://blue-sharks.jp/news/2026/07/25022/",
+          "title": "グロスターラグビー研修レポート Vol.4（浦野龍基）",
           "date": "2026-07-25",
           "category": null
         }
@@ -267,7 +269,7 @@
       "item_count": 12,
       "new_items": [
         {
-          "url": "https://shuttles-aichi.com/news/#",
+          "url": "https://shuttles-aichi.com/news/",
           "title": "もっと見る",
           "date": "2026-07-16",
           "category": null
@@ -302,20 +304,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 30,
-      "new_items": [
-        {
-          "url": "https://hanazono-liners.jp/2026/07/30/report-ekawa/",
-          "title": "2026.07.30 チーム情報 オーストラリア留学レポート 江川 剛人選手編",
-          "date": "2026-07-30",
-          "category": null
-        },
-        {
-          "url": "https://hanazono-liners.jp/2026/07/30/2026-27new-system/",
-          "title": "2026.07.30 チーム情報 花園近鉄ライナーズ 2026-27シーズン新体制および新加入・退団スタッフ（追加）のお知らせ",
-          "date": "2026-07-30",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -356,17 +345,9 @@
       "status": "ok",
       "first_run": false,
       "item_count": 44,
-      "new_items": [
-        {
-          "url": "https://www.kurita-watergush.jp/20260730-2/",
-          "title": "お知らせ 【イベント報告】国内交流事業タグラグビー体験",
-          "date": "2026-07-30",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
-        "https://www.kurita-watergush.jp/",
-        "https://www.kurita-watergush.jp/news/"
+        "https://www.kurita-watergush.jp/"
       ],
       "rename_signals": []
     },
@@ -378,14 +359,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.rugguts.secom.co.jp/2026/07/post-24.html",
-          "title": "チームマスコット『ラガッツくん』リニューアルのお知らせ",
-          "date": "2026-07-30",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.rugguts.secom.co.jp/",
         "https://www.rugguts.secom.co.jp/news/"
@@ -401,11 +375,7 @@
       "first_run": false,
       "item_count": 16,
       "new_items": [],
-      "changed_pages": [
-        "https://rrrfc.red/",
-        "https://rrrfc.red/blog/",
-        "https://rrrfc.red/categories/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -418,13 +388,13 @@
       "item_count": 46,
       "new_items": [
         {
-          "url": "https://www.skyactivs.com/news/2091#",
+          "url": "https://www.skyactivs.com/news/2091",
           "title": "ニュース一覧へ戻る arrow_forward",
           "date": "2025-03-06",
           "category": null
         },
         {
-          "url": "https://www.skyactivs.com/news/2001#",
+          "url": "https://www.skyactivs.com/news/2001",
           "title": "ニュース一覧へ戻る arrow_forward",
           "date": "2022-08-08",
           "category": null
@@ -455,8 +425,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 11,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://leriro-fukuoka.com/news-detail?id=266",
+          "title": "プレシーズンマッチのお知らせ",
+          "date": "2026-07-31",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://leriro-fukuoka.com/",
+        "https://leriro-fukuoka.com/news"
+      ],
       "rename_signals": []
     }
   ],
@@ -494,10 +474,10 @@
   ],
   "highlights": [
     {
-      "source": "花園近鉄ライナーズ",
-      "url": "https://hanazono-liners.jp/2026/07/30/2026-27new-system/",
-      "title": "2026.07.30 チーム情報 花園近鉄ライナーズ 2026-27シーズン新体制および新加入・退団スタッフ（追加）のお知らせ",
-      "date": "2026-07-30",
+      "source": "リコーブラックラムズ東京",
+      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260731a.html",
+      "title": "神鳥裕之氏 退団及び公益財団法人日本ラグビーフットボール協会出向のお知らせ",
+      "date": "2026-07-31",
       "category": "roster"
     }
   ],

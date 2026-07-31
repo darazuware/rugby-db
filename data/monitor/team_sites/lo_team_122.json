@@ -3,28 +3,33 @@
   "league": "league-one-d3",
   "name": "ルリーロ福岡",
   "official_url": "https://leriro-fukuoka.com/",
-  "checked_at": "2026-07-31T07:22:34+09:00",
+  "checked_at": "2026-07-31T15:51:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://leriro-fukuoka.com/",
-      "hash": "2063fa9f67738ad1"
+      "hash": "dbbe551a463fa724"
     },
     {
       "url": "https://leriro-fukuoka.com/news",
-      "hash": "de8e9b883e727955"
+      "hash": "5ad6554e8c54b31a"
     }
   ],
   "items": [
     {
-      "url": "https://leriro-fukuoka.com/news-detail?id=268",
-      "title": "本日の公開練習中止のお知らせ",
-      "date": "2026-07-28"
+      "url": "https://leriro-fukuoka.com/news-detail?id=266",
+      "title": "プレシーズンマッチのお知らせ",
+      "date": "2026-07-31"
     },
     {
       "url": "https://leriro-fukuoka.com/news",
       "title": "NEWS一覧",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news-detail?id=268",
+      "title": "本日の公開練習中止のお知らせ",
       "date": "2026-07-28"
     },
     {
@@ -66,11 +71,6 @@
       "url": "https://leriro-fukuoka.com/news-detail?id=260",
       "title": "「ジャパンラグビー リーグワン ライジング」出場のお知らせ",
       "date": "2026-07-07"
-    },
-    {
-      "url": "https://leriro-fukuoka.com/news-detail?id=259",
-      "title": "新加入スタッフのお知らせ",
-      "date": "2026-07-06"
     }
   ]
 }

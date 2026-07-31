@@ -3,39 +3,39 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-07-31T07:22:34+09:00",
+  "checked_at": "2026-07-31T15:51:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "51122abd19a3d950"
+      "hash": "89b3184d8169a879"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260731a.html",
+      "title": "ニュージーランド留学レポート③（李淳弘選手）",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260731a.html",
+      "title": "神鳥裕之氏 退団及び公益財団法人日本ラグビーフットボール協会出向のお知らせ",
+      "date": "2026-07-31"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260731b.html",
+      "title": "ラムズの夏休み2026 神鳥さんから感謝の気持ちを込めて！「当たりをつ”かみとり”！」開催のお知らせ",
+      "date": "2026-07-31"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/academy/2026-2027/20260730.html",
       "title": "＜参加者募集のお知らせ＞ 夏季スキル練習会 ～基本スキル編～",
       "date": "2026-07-30"
     },
     {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260729a.html",
-      "title": "「12年に一度の”ラムイヤー”！2027ひつじプロジェクト」始動のお知らせ",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260728c.html",
-      "title": "「BlackRamsTokyoが二子玉川ライズにやってくる！ラムズの夏休み2026」グッズ販売のお知らせ",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20260728b.html",
-      "title": "8月5日(水)・7日(金) RAMOVE限定「練習見学＆グラウンド開放イベント」のご案内",
-      "date": "2026-07-28"
-    },
-    {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260722a.html",
-      "title": "(7/29更新)「BlackRamsTokyoが二子玉川ライズにやってくる！ラムズの夏休み2026」詳細情報",
+      "title": "(7/31更新)「BlackRamsTokyoが二子玉川ライズにやってくる！ラムズの夏休み2026」詳細情報",
       "date": "2026-07-22"
     }
   ]

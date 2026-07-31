@@ -3,36 +3,41 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-07-31T07:22:34+09:00",
+  "checked_at": "2026-07-31T15:51:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "671243f88fa18312"
+      "hash": "1ea6528259acdb54"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "0ac5f20dd5195531"
+      "hash": "46ce328c308764dc"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "3217aebf850dbb7e"
+      "hash": "539037abeed2d884"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "91482d8f7d747337"
+      "hash": "eb8e523aae44896f"
     }
   ],
   "items": [
     {
       "url": "https://blue-sharks.jp/information/",
       "title": "もっと見る",
-      "date": "2026-07-30"
+      "date": "2026-07-31"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/07/25028/",
       "title": "有明アリーナスポーツフェス2026 活動報告",
+      "date": "2026-07-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/07/25022/",
+      "title": "グロスターラグビー研修レポート Vol.4（浦野龍基）",
       "date": "2026-07-25"
     },
     {
@@ -47,7 +52,7 @@
     },
     {
       "url": "https://blue-sharks.jp/news/2026/07/24996/",
-      "title": "ヤローズタラナキブルズ研修レポート Vol.3 (伊藤潤乃助)",
+      "title": "お知らせ 2026/07/22 ヤローズタラナキブルズ研修レポート Vol.3 (伊藤潤乃助)",
       "date": "2026-07-24"
     },
     {
@@ -103,11 +108,6 @@
     {
       "url": "https://blue-sharks.jp/news/2026/06/24907/",
       "title": "お知らせ 2026/06/08 ２０２５年度 シーズン終了の報告および御礼",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/06/24884/",
-      "title": "お知らせ 2026/06/03 ◇浦安D-Rocks戦マッチレポート",
       "date": "2026-06-24"
     },
     {

@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "狭山セコムラガッツ",
   "official_url": "https://www.rugguts.secom.co.jp/",
-  "checked_at": "2026-07-31T07:22:34+09:00",
+  "checked_at": "2026-07-31T15:51:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.rugguts.secom.co.jp/",
-      "hash": "1752f04fa2bf81c4"
+      "hash": "b86d36f1b852433b"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/news/",
-      "hash": "df3e5ea55feafc52"
+      "hash": "884e302a05ee0099"
     }
   ],
   "items": [

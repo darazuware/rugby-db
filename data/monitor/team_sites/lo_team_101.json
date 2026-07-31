@@ -3,28 +3,33 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-07-31T07:22:34+09:00",
+  "checked_at": "2026-07-31T15:51:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "3686eee53241d054"
+      "hash": "37da95f0f095b438"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "551b308eff926bc9"
+      "hash": "03278c32a64e304c"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "3580903b0ff4c050"
+      "hash": "465fa578983165d4"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "c583b7a1871d0837"
+      "hash": "cdfedb7dcf08f902"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post34962/",
+      "title": "2026/7/31 お知らせ ファンクラブ事務局およびお問い合わせ窓口 夏季休業期間のお知らせ",
+      "date": "2026-07-31"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post34926/",
       "title": "2026/7/29 社会貢献 「ノエスタラジオ体操2026」のムービーに福西 隼杜選手、船曳 涼太選手、辻野 隼大選手が出演します",
@@ -171,11 +176,6 @@
       "date": "2026-07-08"
     },
     {
-      "url": "https://www.kobesteelers.com/interview/post34724/",
-      "title": "2026/7/7 チーム 2025-26シーズン 退団選手インタビュー Part.2 LOカヴァイア・タギヴェタウア選手",
-      "date": "2026-07-07"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post34673/",
       "title": "2026/7/3 普及 【レポート】神戸市立駒ヶ林小学校でタグラグビー教室を実施しました",
       "date": "2026-07-03"
@@ -251,11 +251,6 @@
       "date": "2026-06-22"
     },
     {
-      "url": "https://www.kobesteelers.com/victory2026/",
-      "title": "チーム NTTリーグワン2025-26 優勝記念特設ページを公開いたしました！ 2026/6/19",
-      "date": "2026-06-19"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post34503/",
       "title": "チーム NTTリーグワン2025-26 優勝記念特設ページを公開いたしました！ 2026/6/19",
       "date": "2026-06-19"
@@ -324,6 +319,11 @@
       "url": "https://www.kobesteelers.com/news/post30086/",
       "title": "2025/12/5 お知らせ サーバーメンテナンスのお知らせ",
       "date": "2025-12-05"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post29666/",
+      "title": "2025/11/25 お知らせ 神戸三宮センター街でのチームPR活動実施について",
+      "date": "2025-11-25"
     }
   ]
 }
