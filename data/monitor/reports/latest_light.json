@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-30T20:49:24+09:00",
+  "checked_at": "2026-07-31T14:33:09+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6085",
+          "title": "クラブ リコーブラックラムズ東京、神鳥裕之氏 退団及び公益財団法人日本ラグビーフットボール協会出向のお知らせ 2026.07.31",
+          "date": "2026-07-31",
+          "category": "roster"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,7 +26,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54096",
+          "title": "レポート：2026年度 第2回TIDユースキャンプ（Bigman & Fastman Camp） 2026.7.31 （金） 高校日本代表 高校 アカデミー・強化育成",
+          "date": "2026-07-31",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54095",
+          "title": "15人制男子日本代表アシスタントチームディレクター就任のお知らせ 2026.7.31 （金） 15人制男子日本代表 WBB 日本代表 大学 ユース",
+          "date": "2026-07-31",
+          "category": "roster"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +53,29 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6085",
+      "title": "クラブ リコーブラックラムズ東京、神鳥裕之氏 退団及び公益財団法人日本ラグビーフットボール協会出向のお知らせ 2026.07.31",
+      "date": "2026-07-31",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54095",
+      "title": "15人制男子日本代表アシスタントチームディレクター就任のお知らせ 2026.7.31 （金） 15人制男子日本代表 WBB 日本代表 大学 ユース",
+      "date": "2026-07-31",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54096",
+      "title": "レポート：2026年度 第2回TIDユースキャンプ（Bigman & Fastman Camp） 2026.7.31 （金） 高校日本代表 高校 アカデミー・強化育成",
+      "date": "2026-07-31",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
