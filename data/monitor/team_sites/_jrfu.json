@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-31T15:51:47+09:00",
+  "checked_at": "2026-07-31T17:44:06+09:00",
   "url": "https://www.rugby-japan.jp/news/",
   "items": [
     {
@@ -11,6 +11,12 @@
       "url": "https://www.rugby-japan.jp/news/54095",
       "title": "15人制男子日本代表アシスタントチームディレクター就任のお知らせ 2026.7.31 （金） 15人制男子日本代表 WBB 日本代表 大学 ユース",
       "date": "2026-07-31"
+    },
+    {
+      "url": "https://www.rugby-japan.jp/news/54078",
+      "title": "（7/31更新）「JAPAN BASE SEVENS 2026」開催のお知らせ 2026.7.31 （金） セブンズ JAPANBASE",
+      "date": "2026-07-31",
+      "category": null
     },
     {
       "url": "https://www.rugby-japan.jp/news/54093",
@@ -41,16 +47,6 @@
       "url": "https://www.rugby-japan.jp/news/54079",
       "title": "（7/28更新）男子日本代表 網走合宿実施のお知らせ 2026.7.28 （火） 15人制男子日本代表 WBB",
       "date": "2026-07-28"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54086",
-      "title": "（7/27更新）レポート：女子15人制強化・TID合同フォワード合宿 2026.7.27 （月） 15人制女子日本代表 女子",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54075",
-      "title": "【アサヒスーパードライ パシフィックネーションズカップ2026】チケット情報 2026.7.27 （月） 15人制男子日本代表 チケット WBB",
-      "date": "2026-07-27"
     }
   ]
 }
