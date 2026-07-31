@@ -160,6 +160,11 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
     }, []);
 
     const [search, setSearch] = useState('');
+    const [debouncedSearch, setDebouncedSearch] = useState('');
+    useEffect(() => {
+        const timer = setTimeout(() => setDebouncedSearch(search), 200);
+        return () => clearTimeout(timer);
+    }, [search]);
     const [selectedLeagues, setSelectedLeagues] = useState<string[]>(
         leagueContext ? [leagueContext] : []
     );
@@ -174,15 +179,33 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
     const [players, setPlayers] = useState<Player[]>(initialPlayers);
     const [isLoading, setIsLoading] = useState(initialPlayers.length === 0);
 
-    // クライアントサイドでのデータ取得
+    // クライアントサイドでのデータ取得（localStorageに1時間キャッシュして再取得を回避）
+    const CACHE_KEY = 'rugby_players_cache_v1';
+    const CACHE_TTL_MS = 60 * 60 * 1000;
+
     useEffect(() => {
         if (initialPlayers.length === 0) {
             const fetchPlayers = async () => {
+                try {
+                    const cached = localStorage.getItem(CACHE_KEY);
+                    if (cached) {
+                        const { ts, data } = JSON.parse(cached);
+                        if (Date.now() - ts < CACHE_TTL_MS && Array.isArray(data) && data.length > 0) {
+                            setPlayers(data);
+                            setIsLoading(false);
+                            return;
+                        }
+                    }
+                } catch {}
+
                 try {
                     const response = await fetch('/api/v1/all-players-download.json');
                     if (!response.ok) throw new Error('Failed to fetch');
                     const data = await response.json();
                     setPlayers(data);
+                    try {
+                        localStorage.setItem(CACHE_KEY, JSON.stringify({ ts: Date.now(), data }));
+                    } catch {}
                 } catch (error) {
                     console.error('Error fetching players:', error);
                 } finally {
@@ -383,30 +406,30 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
     // フィルター変更時にページをリセット
     useEffect(() => {
         setCurrentPage(1);
-    }, [search, selectedLeagues, selectedPositions, selectedDivisions, selectedCategories, selectedTeams, sortKey, sortOrder]);
+    }, [debouncedSearch, selectedLeagues, selectedPositions, selectedDivisions, selectedCategories, selectedTeams, sortKey, sortOrder]);
 
     const filteredPlayers = useMemo(() => {
         let result = players.filter((p) => {
             const pLeague = (p.data.league ?? '').toLowerCase();
-            
-            if (search.endsWith('歳')) {
-                const targetAge = search.replace('歳', '');
+
+            if (debouncedSearch.endsWith('歳')) {
+                const targetAge = debouncedSearch.replace('歳', '');
                 return String(p.data.age ?? '') === targetAge;
             }
-            if (search.endsWith('cm')) {
-                const targetHeight = search.replace('cm', '');
+            if (debouncedSearch.endsWith('cm')) {
+                const targetHeight = debouncedSearch.replace('cm', '');
                 return String(p.data.height ?? '').replace('cm', '') === targetHeight;
             }
-            if (search.endsWith('kg')) {
-                const targetWeight = search.replace('kg', '');
+            if (debouncedSearch.endsWith('kg')) {
+                const targetWeight = debouncedSearch.replace('kg', '');
                 return String(p.data.weight ?? '').replace('kg', '') === targetWeight;
             }
 
-            const searchLower = search.toLowerCase();
+            const searchLower = debouncedSearch.toLowerCase();
             const searchNoSpace = searchLower.replace(/\s+/g, '');
 
             // 学校名の同一性チェック
-            const synonyms = SCHOOL_SYNONYMS[search] || [searchLower];
+            const synonyms = SCHOOL_SYNONYMS[debouncedSearch] || [searchLower];
             const matchSchool = synonyms.some(s =>
                 (p.data.high_school?.toLowerCase() ?? '').includes(s.toLowerCase()) ||
                 (p.data.university?.toLowerCase() ?? '').includes(s.toLowerCase()) ||
@@ -475,7 +498,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
         });
 
         return result;
-    }, [players, search, selectedLeagues, selectedPositions, selectedDivisions, selectedCategories, selectedTeams, sortKey, sortOrder]);
+    }, [players, debouncedSearch, selectedLeagues, selectedPositions, selectedDivisions, selectedCategories, selectedTeams, sortKey, sortOrder]);
 
     const totalPages = Math.ceil(filteredPlayers.length / ITEMS_PER_PAGE);
     const paginatedPlayers = useMemo(() => {
