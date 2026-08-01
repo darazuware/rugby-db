@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-07-31T21:51:17+09:00",
+  "checked_at": "2026-08-01T15:36:53+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "9b30d96f67fa5742"
+      "hash": "215bf24ee838dfef"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "c62f8f0f810672d4"
+      "hash": "360dd999b163f2c2"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_1996.html",
+      "title": "イベント 2026.08.01 2026.8 浦安Dパーク開放イベント「夏休み！浦安Dパークで遊ぼう！」開催のお知らせ",
+      "date": "2026-08-01"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_1995.html",
       "title": "チーム 2026.07.30 浦安D-Rocks 公式TikTok開設のお知らせ",
@@ -64,7 +69,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_1987.html",
-      "title": "チーム 2026.07.21 株式会社ドームとのオフィシャルサプライヤー契約終了のお知らせ",
+      "title": "2026.07.21 ニュース 株式会社ドームとのオフィシャルサプライヤー契約終了のお知らせ",
       "date": "2026-07-21"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/game/index_1953.html",
       "title": "2026.05.18 ニュース 5月30日(土) D1/D2入替戦 第2戦 清水建設江東ブルーシャークス ホストゲーム情報",
       "date": "2026-05-18"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_1952.html",
-      "title": "2026.05.15 ニュース Fan's Player of the year 2025-2026 投票実施のお知らせ",
-      "date": "2026-05-15"
     }
   ]
 }

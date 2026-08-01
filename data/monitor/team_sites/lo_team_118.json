@@ -3,20 +3,25 @@
   "league": "league-one-d3",
   "name": "狭山セコムラガッツ",
   "official_url": "https://www.rugguts.secom.co.jp/",
-  "checked_at": "2026-07-31T21:51:17+09:00",
+  "checked_at": "2026-08-01T15:36:53+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.rugguts.secom.co.jp/",
-      "hash": "03192a1b7b2266b3"
+      "hash": "beb578176c526f48"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/news/",
-      "hash": "d76d5cc7e37e9c03"
+      "hash": "b44e550ac5ded37a"
     }
   ],
   "items": [
+    {
+      "url": "https://www.rugguts.secom.co.jp/fan-club/",
+      "title": "9月1日よりファンクラブ会員募集開始！【2026-27】 2026.08.01 お知らせ",
+      "date": "2026-08-01"
+    },
     {
       "url": "https://www.rugguts.secom.co.jp/2026/07/post-24.html",
       "title": "チームマスコット『ラガッツくん』リニューアルのお知らせ",
@@ -210,11 +215,6 @@
     {
       "url": "https://www.rugguts.secom.co.jp/2026/02/ticket-11.html",
       "title": "4/5 第11節 ピッチサイドシート販売告知について",
-      "date": "2026-02-06"
-    },
-    {
-      "url": "https://www.rugguts.secom.co.jp/2026/02/ticket-10.html",
-      "title": "3/29 第10節 ピッチサイドシート販売告知について",
       "date": "2026-02-06"
     }
   ]

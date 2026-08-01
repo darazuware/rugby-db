@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-07-31T21:51:17+09:00",
+  "checked_at": "2026-08-01T15:36:53+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "bb38a683c4e352a5"
+      "hash": "c81b28d13c806393"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "d9b84851f6cef1b1"
+      "hash": "b67b9f6f09b60f3f"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2413/",
+      "title": "トピックス 2026.8.1 男子セブンズ デベロップメント・スコッド（SDS）福岡合宿 参加のお知らせ",
+      "date": "2026-08-01"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2412/",
       "title": "社会貢献 2026.7.30 『アークタウン・サマーフェスティバル 2026』に参加しました！",
@@ -131,11 +136,6 @@
       "url": "https://www.honda-heat.jp/news/2388/",
       "title": "イベント 2026.6.26 7月のイベント参加情報",
       "date": "2026-06-26"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2387/",
-      "title": "トピックス 2026.6.25 JAPAN XV 試合登録メンバーのお知らせ",
-      "date": "2026-06-25"
     },
     {
       "url": "https://www.honda-heat.jp/hostgame/20260509/",

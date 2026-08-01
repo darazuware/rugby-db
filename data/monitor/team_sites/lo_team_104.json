@@ -3,16 +3,26 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-07-31T21:51:17+09:00",
+  "checked_at": "2026-08-01T15:36:53+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "1b00759de16ca3a5"
+      "hash": "4e226dc9d7eeafc1"
     }
   ],
   "items": [
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4246/",
+      "title": "2026.8.1 トピックス 2026-27シーズン新加入選手",
+      "date": "2026-08-01"
+    },
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4245/",
+      "title": "2026.8.1 トピックス 2026-27シーズン新加入選手",
+      "date": "2026-08-01"
+    },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4252/",
       "title": "2026.7.31 普及・アカデミー トヨタヴェルブリッツアカデミー #8 ～現役選手 初登場！～",
@@ -41,16 +51,6 @@
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4239/",
       "title": "2026.7.7 コラム 【Retirement Interview】Takuma Nishino［PR］",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4238/",
-      "title": "2026.7.7 コラム 【退団インタビュー】西野拓真［PR］／悔いなく終われました",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4237/",
-      "title": "2026.7.7 コラム 【Retirement Interview】Chihiro Matsuyama［CTB］",
       "date": "2026-07-07"
     },
     {
