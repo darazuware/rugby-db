@@ -1,0 +1,139 @@
+{
+  "league": "national",
+  "signings": [],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [
+    {
+      "id": "ar_christian-lio-willie",
+      "name_en": "Christian LIO-WILLIE",
+      "name_ja": null,
+      "team": "New Zealand",
+      "from_count": 2,
+      "to_count": 5
+    },
+    {
+      "id": "ar_du-plessis-kirifi",
+      "name_en": "Du'Plessis KIRIFI",
+      "name_ja": null,
+      "team": "New Zealand",
+      "from_count": 8,
+      "to_count": 10
+    },
+    {
+      "id": "ar_ezekiel-lindenmuth",
+      "name_en": "Ezekiel LINDENMUTH",
+      "name_ja": null,
+      "team": "Usa",
+      "from_count": 7,
+      "to_count": 11
+    },
+    {
+      "id": "ar_jimmy-tupou",
+      "name_en": "Jimmy TUPOU",
+      "name_ja": null,
+      "team": "Tonga",
+      "from_count": 3,
+      "to_count": 4
+    },
+    {
+      "id": "ar_john-tapueluelu",
+      "name_en": "John TAPUELUELU",
+      "name_ja": null,
+      "team": "Tonga",
+      "from_count": 8,
+      "to_count": 19
+    },
+    {
+      "id": "ar_samu-tawake",
+      "name_en": "Samu TAWAKE",
+      "name_ja": null,
+      "team": "Fiji",
+      "from_count": 23,
+      "to_count": 26
+    },
+    {
+      "id": "ar_taniela-filimone",
+      "name_en": "Taniela FILIMONE",
+      "name_ja": null,
+      "team": "Tonga",
+      "from_count": 5,
+      "to_count": 10
+    },
+    {
+      "id": "ar_veikoso-poloniati",
+      "name_en": "Veikoso POLONIATI",
+      "name_ja": null,
+      "team": "Tonga",
+      "from_count": 10,
+      "to_count": 12
+    },
+    {
+      "id": "ar_willy-havili",
+      "name_en": "Willy HAVILI",
+      "name_ja": null,
+      "team": "Tonga",
+      "from_count": 29,
+      "to_count": 30
+    }
+  ],
+  "pending_departures": [
+    {
+      "id": "jrfu_callup_haruto-kida",
+      "name_en": "Haruto KIDA",
+      "name_ja": "木田 晴斗",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506353",
+      "name_en": "Waisake RARATUBUA",
+      "name_ja": "ワイサケ・ララトゥブア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506359",
+      "name_en": "Haruto WATANABE",
+      "name_ja": "渡邊晴斗",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506369",
+      "name_en": "Inoke BURUA",
+      "name_ja": "イノケ・ブルア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506497",
+      "name_en": "Aseri MASIVOU",
+      "name_ja": "アセリ・マシヴォウ",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506500",
+      "name_en": "Shun ARAKAWA",
+      "name_ja": "荒川駿",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506501",
+      "name_en": "Shigure TAKAO",
+      "name_ja": "高尾時流",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506503",
+      "name_en": "Shota TAIRA",
+      "name_ja": "平翔太",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_507122",
+      "name_en": "Kanato HIRANO",
+      "name_ja": "平野叶翔",
+      "team_id": "japan"
+    }
+  ],
+  "newly_finished_rounds": [],
+  "call_ups": []
+}

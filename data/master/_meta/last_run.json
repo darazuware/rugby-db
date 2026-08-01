@@ -1,8 +1,8 @@
 {
   "top14": {
-    "run_at": "2026-07-30T09:46:53+09:00",
+    "run_at": "2026-08-01T09:54:19+09:00",
     "counts": {
-      "players": 1111,
+      "players": 1110,
       "teams": 14
     },
     "warnings": [
@@ -23,15 +23,15 @@
     ]
   },
   "super-rugby": {
-    "run_at": "2026-07-30T09:46:53+09:00",
+    "run_at": "2026-08-01T09:54:19+09:00",
     "counts": {
-      "players": 546,
+      "players": 468,
       "teams": 11
     },
     "warnings": []
   },
   "league-one-d1": {
-    "run_at": "2026-07-30T09:46:52+09:00",
+    "run_at": "2026-08-01T09:54:19+09:00",
     "counts": {
       "players": 693,
       "teams": 12
@@ -41,7 +41,7 @@
     ]
   },
   "national": {
-    "run_at": "2026-07-30T09:46:53+09:00",
+    "run_at": "2026-08-01T09:54:19+09:00",
     "counts": {
       "players": 1109,
       "teams": 0
@@ -58,7 +58,7 @@
     ]
   },
   "sevens-national": {
-    "run_at": "2026-07-30T09:46:53+09:00",
+    "run_at": "2026-08-01T09:54:19+09:00",
     "counts": {
       "players": 28,
       "teams": 0
@@ -69,7 +69,7 @@
     ]
   },
   "age-grade": {
-    "run_at": "2026-07-30T09:46:53+09:00",
+    "run_at": "2026-08-01T09:54:19+09:00",
     "counts": {
       "players": 113,
       "teams": 0
@@ -80,15 +80,16 @@
     ]
   },
   "university": {
-    "run_at": "2026-07-30T09:46:53+09:00",
+    "run_at": "2026-08-01T09:54:19+09:00",
     "counts": {
-      "players": 721,
+      "players": 630,
       "teams": 0
     },
     "warnings": [
       "university 帝京大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 筑波大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 立教大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 明治学院大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 成城大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 一橋大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 学習院大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
@@ -123,7 +124,7 @@
     ]
   },
   "highschool": {
-    "run_at": "2026-07-30T09:46:53+09:00",
+    "run_at": "2026-08-01T09:54:19+09:00",
     "counts": {
       "players": 388,
       "teams": 0
@@ -153,7 +154,7 @@
     ]
   },
   "urc": {
-    "run_at": "2026-07-30T09:46:53+09:00",
+    "run_at": "2026-08-01T09:54:19+09:00",
     "counts": {
       "players": 962,
       "teams": 16
@@ -163,15 +164,15 @@
     ]
   },
   "premiership": {
-    "run_at": "2026-07-30T09:46:53+09:00",
+    "run_at": "2026-08-01T09:54:19+09:00",
     "counts": {
-      "players": 636,
+      "players": 634,
       "teams": 10
     },
     "warnings": []
   },
   "league-one-d2": {
-    "run_at": "2026-07-30T09:46:52+09:00",
+    "run_at": "2026-08-01T09:54:19+09:00",
     "counts": {
       "players": 439,
       "teams": 8
@@ -181,7 +182,7 @@
     ]
   },
   "league-one-d3": {
-    "run_at": "2026-07-30T09:46:53+09:00",
+    "run_at": "2026-08-01T09:54:19+09:00",
     "counts": {
       "players": 337,
       "teams": 6
@@ -191,9 +192,9 @@
     ]
   },
   "mlr": {
-    "run_at": "2026-07-30T09:46:53+09:00",
+    "run_at": "2026-08-01T09:54:19+09:00",
     "counts": {
-      "players": 202,
+      "players": 191,
       "teams": 6
     },
     "warnings": [
