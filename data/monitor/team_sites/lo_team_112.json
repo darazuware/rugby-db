@@ -3,28 +3,33 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-07-31T21:51:17+09:00",
+  "checked_at": "2026-08-01T20:57:07+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "bd1cebfa3a519551"
+      "hash": "5af4857350354c14"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "e54e462250e9b00d"
+      "hash": "436aeeaa9c22c099"
     }
   ],
   "items": [
     {
-      "url": "https://shuttles-aichi.com/news/%e5%88%88%e8%b0%b7%e5%b8%82%e9%95%b7-%e8%a1%a8%e6%95%ac%e8%a8%aa%e5%95%8f%e3%81%ae%e3%81%94%e5%a0%b1%e5%91%8a/",
-      "title": "2026.07.16 刈谷市長 表敬訪問のご報告",
-      "date": "2026-07-16"
+      "url": "https://shuttles-aichi.com/news/2026-27-season-fan-club-membership/",
+      "title": "お知らせ 2026.08.01 2026-27シーズン ファンクラブ 会員募集開始のお知らせ",
+      "date": "2026-08-01"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
       "title": "もっと見る",
+      "date": "2026-08-01"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/%e5%88%88%e8%b0%b7%e5%b8%82%e9%95%b7-%e8%a1%a8%e6%95%ac%e8%a8%aa%e5%95%8f%e3%81%ae%e3%81%94%e5%a0%b1%e5%91%8a/",
+      "title": "2026.07.16 刈谷市長 表敬訪問のご報告",
       "date": "2026-07-16"
     },
     {
@@ -46,11 +51,6 @@
       "url": "https://shuttles-aichi.com/news/mayor-of-nagoya-report-on-courtesy-visit/",
       "title": "2026.06.15 名古屋市長 表敬訪問のご報告",
       "date": "2026-06-15"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/2025-26-season-payment/",
-      "title": "2026.06.12 2025-26シーズン納会を実施しました",
-      "date": "2026-06-12"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-5-23photo-gallery/",

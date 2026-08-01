@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-01T15:36:53+09:00",
+  "checked_at": "2026-08-01T20:57:07+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,18 +9,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://urayasu-d-rocks.com/news/event/index_1996.html",
-          "title": "イベント 2026.08.01 2026.8 浦安Dパーク開放イベント「夏休み！浦安Dパークで遊ぼう！」開催のお知らせ",
-          "date": "2026-08-01",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://urayasu-d-rocks.com/",
-        "https://urayasu-d-rocks.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -55,18 +45,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [
-        {
-          "url": "https://www.bravelupus.com/news/260801/",
-          "title": "「東芝ブレイブルーパス東京×筋肉食堂」のタイアップが実現",
-          "date": "2026-08-01",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.bravelupus.com/",
-        "https://www.bravelupus.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -77,23 +57,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4246/",
-          "title": "2026.8.1 トピックス 2026-27シーズン新加入選手",
-          "date": "2026-08-01",
-          "category": "roster"
-        },
-        {
-          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4245/",
-          "title": "2026.8.1 トピックス 2026-27シーズン新加入選手",
-          "date": "2026-08-01",
-          "category": "roster"
-        }
-      ],
-      "changed_pages": [
-        "https://verblitz.toyotatimes-sports.toyota/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -104,18 +69,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 25,
-      "new_items": [
-        {
-          "url": "https://www.honda-heat.jp/news/2413/",
-          "title": "トピックス 2026.8.1 男子セブンズ デベロップメント・スコッド（SDS）福岡合宿 参加のお知らせ",
-          "date": "2026-08-01",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.honda-heat.jp/",
-        "https://www.honda-heat.jp/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -217,9 +172,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kyudenvoltex.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -227,11 +180,13 @@
       "league": "league-one-d2",
       "name": "清水建設江東ブルーシャークス",
       "official_url": "https://blue-sharks.jp/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 24,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://blue-sharks.jp/"
+      ],
       "rename_signals": []
     },
     {
@@ -239,11 +194,21 @@
       "league": "league-one-d2",
       "name": "豊田自動織機シャトルズ愛知",
       "official_url": "https://shuttles-aichi.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 12,
+      "new_items": [
+        {
+          "url": "https://shuttles-aichi.com/news/2026-27-season-fan-club-membership/",
+          "title": "お知らせ 2026.08.01 2026-27シーズン ファンクラブ 会員募集開始のお知らせ",
+          "date": "2026-08-01",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://shuttles-aichi.com/",
+        "https://shuttles-aichi.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -251,11 +216,15 @@
       "league": "league-one-d2",
       "name": "日本製鉄釜石シーウェイブス",
       "official_url": "https://kamaishi-seawaves.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 15,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://kamaishi-seawaves.com/",
+        "https://kamaishi-seawaves.com/news/",
+        "https://kamaishi-seawaves.com/news/info/"
+      ],
       "rename_signals": []
     },
     {
@@ -293,29 +262,9 @@
       "status": "ok",
       "first_run": false,
       "item_count": 45,
-      "new_items": [
-        {
-          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8795",
-          "title": "【U15クラス】7月活動レポート 2026年8月1日",
-          "date": "2026-08-01",
-          "category": null
-        },
-        {
-          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8794",
-          "title": "【U12アドバンスクラス】7月活動レポート 2026年8月1日",
-          "date": "2026-08-01",
-          "category": null
-        },
-        {
-          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8792",
-          "title": "【U12エントリークラス】7月活動レポート 2026年8月1日",
-          "date": "2026-08-01",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
-        "https://docomo-rugby.jp/",
-        "https://docomo-rugby.jp/news/"
+        "https://docomo-rugby.jp/"
       ],
       "rename_signals": []
     },
@@ -341,18 +290,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.rugguts.secom.co.jp/fan-club/",
-          "title": "9月1日よりファンクラブ会員募集開始！【2026-27】 2026.08.01 お知らせ",
-          "date": "2026-08-01",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.rugguts.secom.co.jp/",
-        "https://www.rugguts.secom.co.jp/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -360,11 +299,15 @@
       "league": "league-one-d3",
       "name": "中国電力レッドレグリオンズ",
       "official_url": "https://rrrfc.red/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 16,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://rrrfc.red/",
+        "https://rrrfc.red/blog/",
+        "https://rrrfc.red/categories/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -377,7 +320,8 @@
       "item_count": 46,
       "new_items": [],
       "changed_pages": [
-        "https://www.skyactivs.com/"
+        "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news/2091"
       ],
       "rename_signals": []
     },
@@ -398,9 +342,9 @@
       "league": "league-one-d3",
       "name": "ルリーロ福岡",
       "official_url": "https://leriro-fukuoka.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 11,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -414,14 +358,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6086",
-          "title": "クラブ トヨタヴェルブリッツ、2026-27シーズン新加入選手のお知らせ 2026.08.01",
-          "date": "2026-08-01",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -431,20 +368,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 9,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54099",
-          "title": "男子セブンズ・デベロップメント・スコッド(SDS) 福岡合宿スケジュールと参加メンバーのお知らせ 2026.8.01 （土） 男子セブンズ日本代表 セブンズ SDS 男子セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド",
-          "date": "2026-08-01",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/53871",
-          "title": "（8/1更新）リポビタンDツアー2026 7月・8月男子日本代表戦のお知らせ 2026.8.01 （土） 15人制男子日本代表 日本代表戦 WBB",
-          "date": "2026-08-01",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -458,51 +382,10 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "トヨタヴェルブリッツ",
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4246/",
-      "title": "2026.8.1 トピックス 2026-27シーズン新加入選手",
-      "date": "2026-08-01",
-      "category": "roster"
-    },
-    {
-      "source": "トヨタヴェルブリッツ",
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4245/",
-      "title": "2026.8.1 トピックス 2026-27シーズン新加入選手",
-      "date": "2026-08-01",
-      "category": "roster"
-    },
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6086",
-      "title": "クラブ トヨタヴェルブリッツ、2026-27シーズン新加入選手のお知らせ 2026.08.01",
-      "date": "2026-08-01",
-      "category": "roster"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54099",
-      "title": "男子セブンズ・デベロップメント・スコッド(SDS) 福岡合宿スケジュールと参加メンバーのお知らせ 2026.8.01 （土） 男子セブンズ日本代表 セブンズ SDS 男子セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド",
-      "date": "2026-08-01",
-      "category": "squad"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/53871",
-      "title": "（8/1更新）リポビタンDツアー2026 7月・8月男子日本代表戦のお知らせ 2026.8.01 （土） 15人制男子日本代表 日本代表戦 WBB",
-      "date": "2026-08-01",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": [
     "NECグリーンロケッツ東葛: 公式サイトが移転: https://green.necrockets.net/ -> https://www.jreast.co.jp/greenwarriors/",
-    "清水建設江東ブルーシャークス: 到達できるページがない: https://blue-sharks.jp/",
-    "豊田自動織機シャトルズ愛知: 到達できるページがない: https://shuttles-aichi.com/",
-    "日本製鉄釜石シーウェイブス: 到達できるページがない: https://kamaishi-seawaves.com/",
-    "中国電力レッドレグリオンズ: 到達できるページがない: https://rrrfc.red/",
-    "ルリーロ福岡: 到達できるページがない: https://leriro-fukuoka.com/",
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
   ]
 }
