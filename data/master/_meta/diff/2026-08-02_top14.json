@@ -1,0 +1,17 @@
+{
+  "league": "top14",
+  "signings": [],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [],
+  "pending_departures": [
+    {
+      "id": "ar_james-o-reilly",
+      "name_en": "James O'REILLY",
+      "name_ja": null,
+      "team_id": "vannes"
+    }
+  ],
+  "newly_finished_rounds": []
+}

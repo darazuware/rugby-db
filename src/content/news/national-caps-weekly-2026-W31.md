@@ -1,12 +1,13 @@
 ---
 title: "代表週間代表キャップ更新まとめ（2026-W31）"
-pubDate: 2026-08-01
+pubDate: 2026-08-02
 category: "auto"
 tags: ["代表", "キャップ更新"]
-source_diff: "2026-08-01_national.json"
+source_diff: "2026-08-02_national.json"
 draft: false
 ---
 
+- [Alamanda MOTUGA](/players/alamanda-motuga/): Samoa代表8→24キャップ
 - [Christian LIO-WILLIE](/players/christian-lio-willie/): New Zealand代表2→5キャップ
 - [Du'Plessis KIRIFI](/players/du-plessis-kirifi/): New Zealand代表8→10キャップ
 - [Ezekiel LINDENMUTH](/players/ezekiel-lindenmuth/): Usa代表7→11キャップ
