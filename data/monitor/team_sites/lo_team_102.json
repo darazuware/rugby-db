@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-08-01T20:57:07+09:00",
+  "checked_at": "2026-08-02T15:40:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "3efa76884522757d"
+      "hash": "fb9e25dfc42b96b7"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "acfd35dafd546ad5"
+      "hash": "b7eb30d3d42d1135"
     }
   ],
   "items": [
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260801_01/",
+      "title": "ファンクラブ 2026年08月01日 【重要】2026-27シーズン「WILD KNIGHTS FUN CLUB」が生... ニュースを見る",
+      "date": "2026-08-01"
+    },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260729_01/",
       "title": "活動レポート 2026年07月29日 留学記：NZ編 田島貫太郎② ニュースを見る",
@@ -166,11 +171,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2025/20250904_01/",
       "title": "ファンクラブ 2025年09月04日 2025-26ワイルドナイツファンクラブ会員募集開始のお知らせ ニュースを見る",
       "date": "2025-09-04"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2025/20250818_01/",
-      "title": "ファンクラブ 2025年08月18日 2025-26ワイルドナイツファンクラブ継続手続きのお知らせ ニュースを見る",
-      "date": "2025-08-18"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2025/20250421_01/",
