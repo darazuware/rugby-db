@@ -1,12 +1,33 @@
 {
-  "checked_at": "2026-08-02T20:55:48+09:00",
+  "checked_at": "2026-08-03T14:38:56+09:00",
   "url": "https://www.rugby-japan.jp/news/",
   "items": [
     {
+      "url": "https://www.rugby-japan.jp/news/54098",
+      "title": "機関誌『RUGBY FOOTBALL』Vol.76-1 発刊のお知らせ 2026.8.03 （月）",
+      "date": "2026-08-03",
+      "category": null
+    },
+    {
+      "url": "https://www.rugby-japan.jp/news/54096",
+      "title": "（8/3更新）レポート：2026年度 第2回TIDユースキャンプ（Bigman & Fastman Camp） 2026.8.03 （月） 高校日本代表 高校 アカデミー・強化育成",
+      "date": "2026-08-03"
+    },
+    {
+      "url": "https://www.rugby-japan.jp/news/54093",
+      "title": "（8/3更新）レポート：男子セブンズシニアアカデミー山梨合宿 2026.8.03 （月） アカデミー・強化育成 セブンズ 男子セブンズ セブンズシニアアカデミー シニアアカデミー",
+      "date": "2026-08-03"
+    },
+    {
+      "url": "https://www.rugby-japan.jp/news/54083",
+      "title": "（8/3更新）男子セブンズシニアアカデミー山梨合宿 スケジュールと参加メンバーのお知らせ 2026.8.03 （月） アカデミー・強化育成 セブンズ 男子セブンズ セブンズシニアアカデミー シニアアカデミー",
+      "date": "2026-08-03",
+      "category": null
+    },
+    {
       "url": "https://www.rugby-japan.jp/news/54101",
       "title": "リポビタンDチャレンジカップ2026 オーストラリア代表来日メンバーのお知らせ 2026.8.02 （日） 15人制男子日本代表 リポビタンDチャレンジカップ2026",
-      "date": "2026-08-02",
-      "category": "squad"
+      "date": "2026-08-02"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54092",
@@ -19,34 +40,14 @@
       "date": "2026-08-01"
     },
     {
-      "url": "https://www.rugby-japan.jp/news/54093",
-      "title": "（8/1更新）レポート：男子セブンズシニアアカデミー山梨合宿 2026.8.01 （土） アカデミー・強化育成 セブンズ 男子セブンズ セブンズシニアアカデミー シニアアカデミー",
-      "date": "2026-08-01"
-    },
-    {
       "url": "https://www.rugby-japan.jp/news/53871",
       "title": "（8/1更新）リポビタンDツアー2026 7月・8月男子日本代表戦のお知らせ 2026.8.01 （土） 15人制男子日本代表 日本代表戦 WBB",
       "date": "2026-08-01"
     },
     {
-      "url": "https://www.rugby-japan.jp/news/54096",
-      "title": "レポート：2026年度 第2回TIDユースキャンプ（Bigman & Fastman Camp） 2026.7.31 （金） 高校日本代表 高校 アカデミー・強化育成",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54095",
-      "title": "15人制男子日本代表アシスタントチームディレクター就任のお知らせ 2026.7.31 （金） 15人制男子日本代表 WBB 日本代表 大学 ユース",
-      "date": "2026-07-31"
-    },
-    {
       "url": "https://www.rugby-japan.jp/news/54078",
       "title": "（7/31更新）「JAPAN BASE SEVENS 2026」開催のお知らせ 2026.7.31 （金） セブンズ JAPANBASE",
       "date": "2026-07-31"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/53989",
-      "title": "（7/30更新）2026年 女子日本代表 女子アイルランド代表戦 開催決定のお知らせ 2026.7.30 （木） 15人制女子日本代表 女子",
-      "date": "2026-07-30"
     }
   ]
 }
