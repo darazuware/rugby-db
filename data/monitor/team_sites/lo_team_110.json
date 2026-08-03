@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-08-02T20:55:48+09:00",
+  "checked_at": "2026-08-03T16:37:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "e20e71bf321d9078"
+      "hash": "4915ef2b18ae84d4"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "775fceda6e9ad44d"
+      "hash": "33ddb6d3d395f037"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/996",
+      "title": "チーム 2026年08月03日 NEW 2026-27シーズン 新加入スタッフのお知らせ",
+      "date": "2026-08-03"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/997",
       "title": "地域・社会貢献 2026年07月25日 都城ラグビークリニックを開催しました",
@@ -186,11 +191,6 @@
       "url": "https://www.kyudenvoltex.com/news/677",
       "title": "お知らせ 2026年03月03日 【3/3追記 催行中止のお知らせ】CHARGER応援バスツアー in 宮崎・都城",
       "date": "2026-03-03"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/773",
-      "title": "チーム 2026年02月24日 負傷にともなう一時離脱選手のお知らせ",
-      "date": "2026-02-24"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/950",

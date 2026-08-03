@@ -1,17 +1,22 @@
 {
-  "checked_at": "2026-08-03T14:38:56+09:00",
+  "checked_at": "2026-08-03T16:37:39+09:00",
   "url": "https://www.rugby-japan.jp/news/",
   "items": [
     {
       "url": "https://www.rugby-japan.jp/news/54098",
       "title": "機関誌『RUGBY FOOTBALL』Vol.76-1 発刊のお知らせ 2026.8.03 （月）",
-      "date": "2026-08-03",
-      "category": null
+      "date": "2026-08-03"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54096",
       "title": "（8/3更新）レポート：2026年度 第2回TIDユースキャンプ（Bigman & Fastman Camp） 2026.8.03 （月） 高校日本代表 高校 アカデミー・強化育成",
       "date": "2026-08-03"
+    },
+    {
+      "url": "https://www.rugby-japan.jp/news/54094",
+      "title": "「ラグビーパーク in 新潟」開催のお知らせ 2026.8.03 （月） 高校 中学 小学生 その他 普及育成",
+      "date": "2026-08-03",
+      "category": null
     },
     {
       "url": "https://www.rugby-japan.jp/news/54093",
@@ -21,8 +26,7 @@
     {
       "url": "https://www.rugby-japan.jp/news/54083",
       "title": "（8/3更新）男子セブンズシニアアカデミー山梨合宿 スケジュールと参加メンバーのお知らせ 2026.8.03 （月） アカデミー・強化育成 セブンズ 男子セブンズ セブンズシニアアカデミー シニアアカデミー",
-      "date": "2026-08-03",
-      "category": null
+      "date": "2026-08-03"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54101",
@@ -43,11 +47,6 @@
       "url": "https://www.rugby-japan.jp/news/53871",
       "title": "（8/1更新）リポビタンDツアー2026 7月・8月男子日本代表戦のお知らせ 2026.8.01 （土） 15人制男子日本代表 日本代表戦 WBB",
       "date": "2026-08-01"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54078",
-      "title": "（7/31更新）「JAPAN BASE SEVENS 2026」開催のお知らせ 2026.7.31 （金） セブンズ JAPANBASE",
-      "date": "2026-07-31"
     }
   ]
 }

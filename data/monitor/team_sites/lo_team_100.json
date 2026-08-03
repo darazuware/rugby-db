@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-08-02T20:55:48+09:00",
+  "checked_at": "2026-08-03T16:37:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "215bf24ee838dfef"
+      "hash": "4adcf94a47b4498b"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "360dd999b163f2c2"
+      "hash": "a176f182561a1ef1"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/partner/index_1997.html",
+      "title": "パートナー 2026.08.03 Save the Ocean株式会社とオフィシャルサプライヤー契約締結のお知らせ",
+      "date": "2026-08-03"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1996.html",
       "title": "イベント 2026.08.01 2026.8 浦安Dパーク開放イベント「夏休み！浦安Dパークで遊ぼう！」開催のお知らせ",
@@ -64,7 +69,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_1988.html",
-      "title": "チーム 2026.07.22 株式会社アルマスポーツとのオフィシャルサプライヤー契約締結のお知らせ",
+      "title": "2026.07.22 ニュース 株式会社アルマスポーツとのオフィシャルサプライヤー契約締結のお知らせ",
       "date": "2026-07-22"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/game/index_1954.html",
       "title": "2026.05.21 ニュース 【メンバー発表】NTTジャパンラグビー リーグワン 2025-26 D1/D2入替戦 第1戦 清水建設江東ブルーシャークス戦（5月23日）",
       "date": "2026-05-21"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_1953.html",
-      "title": "2026.05.18 ニュース 5月30日(土) D1/D2入替戦 第2戦 清水建設江東ブルーシャークス ホストゲーム情報",
-      "date": "2026-05-18"
     }
   ]
 }

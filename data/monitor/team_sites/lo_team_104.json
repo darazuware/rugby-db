@@ -3,16 +3,31 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-08-02T20:55:48+09:00",
+  "checked_at": "2026-08-03T16:37:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "4e226dc9d7eeafc1"
+      "hash": "3ae7b28d877e6b3e"
     }
   ],
   "items": [
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4251/",
+      "title": "2026.8.3 夏季休業のお知らせ",
+      "date": "2026-08-03"
+    },
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4246",
+      "title": "2026-27シーズン新加入選手 トピックス 2026.08.01",
+      "date": "2026-08-01"
+    },
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4245",
+      "title": "2026-27シーズン新加入選手 トピックス 2026.08.01",
+      "date": "2026-08-01"
+    },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4246/",
       "title": "2026.8.1 トピックス 2026-27シーズン新加入選手",
@@ -47,21 +62,6 @@
       "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4229",
       "title": "RUGBY for AICHI 本格始動！6/27,28 イベントレポート 普及・アカデミー 2026.07.07",
       "date": "2026-07-07"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4239/",
-      "title": "2026.7.7 コラム 【Retirement Interview】Takuma Nishino［PR］",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4184",
-      "title": "2025-26シーズン ホストゲーム年間総来場者数 クラブ最多を更新 PICK UP チケット・ファンクラブ 2026.05.19",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4150",
-      "title": "デジタルトレカ「ヴェルトレ」サービス開始！ トピックス 2026.04.10",
-      "date": "2026-04-10"
     }
   ]
 }

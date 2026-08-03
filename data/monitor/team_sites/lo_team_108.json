@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-08-02T20:55:48+09:00",
+  "checked_at": "2026-08-03T16:37:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "89b3184d8169a879"
+      "hash": "e1f434561998addd"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260803a.html",
+      "title": "ラムまるLINEスタンプvol.1 販売開始のお知らせ",
+      "date": "2026-08-03"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260731a.html",
       "title": "ニュージーランド留学レポート③（李淳弘選手）",
@@ -27,11 +32,6 @@
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260731b.html",
       "title": "ラムズの夏休み2026 神鳥さんから感謝の気持ちを込めて！「当たりをつ”かみとり”！」開催のお知らせ",
       "date": "2026-07-31"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/academy/2026-2027/20260730.html",
-      "title": "＜参加者募集のお知らせ＞ 夏季スキル練習会 ～基本スキル編～",
-      "date": "2026-07-30"
     },
     {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260722a.html",

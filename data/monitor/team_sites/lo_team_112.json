@@ -3,28 +3,33 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-08-02T20:55:48+09:00",
+  "checked_at": "2026-08-03T16:37:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "293d70c925b57220"
+      "hash": "5a57fc507b3d1c87"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "436aeeaa9c22c099"
+      "hash": "828843bdf50f1ee9"
     }
   ],
   "items": [
     {
-      "url": "https://shuttles-aichi.com/news/2026-27-season-fan-club-membership/",
-      "title": "お知らせ 2026.08.01 2026-27シーズン ファンクラブ 会員募集開始のお知らせ",
-      "date": "2026-08-01"
+      "url": "https://shuttles-aichi.com/news/2026-27newplayerstaff/",
+      "title": "お知らせ 2026.08.03 2026-27シーズン新加入選手スタッフのお知らせ",
+      "date": "2026-08-03"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
       "title": "もっと見る",
+      "date": "2026-08-03"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/2026-27-season-fan-club-membership/",
+      "title": "お知らせ 2026.08.01 2026-27シーズン ファンクラブ 会員募集開始のお知らせ",
       "date": "2026-08-01"
     },
     {
@@ -48,33 +53,28 @@
       "date": "2026-06-18"
     },
     {
-      "url": "https://shuttles-aichi.com/news/mayor-of-nagoya-report-on-courtesy-visit/",
-      "title": "2026.06.15 名古屋市長 表敬訪問のご報告",
-      "date": "2026-06-15"
-    },
-    {
       "url": "https://shuttles-aichi.com/news/2026-5-23photo-gallery/",
-      "title": "フォトギャラリー",
+      "title": "сЃЋсѓЕсЃѕсѓ«сЃБсЃЕсЃфсЃ╝",
       "date": "2026-05-23"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-5-10photo-gallery/",
-      "title": "フォトギャラリー",
+      "title": "сЃЋсѓЕсЃѕсѓ«сЃБсЃЕсЃфсЃ╝",
       "date": "2026-05-10"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-5-3trainingmatch/",
-      "title": "結果詳細",
+      "title": "ухљТъюУЕ│у┤░",
       "date": "2026-05-03"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-5-2photo-gallery/",
-      "title": "フォトギャラリー",
+      "title": "сЃЋсѓЕсЃѕсѓ«сЃБсЃЕсЃфсЃ╝",
       "date": "2026-05-02"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-4-24photo/",
-      "title": "フォトギャラリー",
+      "title": "сЃЋсѓЕсЃѕсѓ«сЃБсЃЕсЃфсЃ╝",
       "date": "2026-04-24"
     }
   ]

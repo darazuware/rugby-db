@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-08-02T20:55:48+09:00",
+  "checked_at": "2026-08-03T16:37:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "f31fe14666084b1c"
+      "hash": "2a3313faf2c5260a"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "43a8f8241039dee8"
+      "hash": "03a6f61d23df1726"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3152",
+      "title": "2026.8.3[MON] HOST AREA 【ホストエリア活動】静岡市 令和8年度「小学校体育実技指導研修会」にて教員向けタグラグビー講習会を実施しました",
+      "date": "2026-08-03"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3144",
+      "title": "2026.8.3[MON] FAN CLUB ＜CLUB REVS＞継続入会特典プレゼント＆アップグレードキャンペーン",
+      "date": "2026-08-03"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3151",
       "title": "2026.7.27[MON] TEAM アナリスト(インターン)募集のお知らせ",
@@ -106,16 +116,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3139",
       "title": "2026.7.3[FRI] SDGs 地域清掃活動＜REVS KEEP CLEAN＞第10回を実施しました",
       "date": "2026-07-03"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3134",
-      "title": "2026.7.3[FRI] HOST AREA 【ホストエリア活動】第2回2026年度IWATA合同新入社員研修にてタグラグビーでのチームビルディングを実施しました",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3136",
-      "title": "2026.7.2[THU] TEAM 新規加入選手のお知らせ",
-      "date": "2026-07-02"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3127",

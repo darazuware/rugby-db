@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-08-02T20:55:48+09:00",
+  "checked_at": "2026-08-03T16:37:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "37da95f0f095b438"
+      "hash": "8d19d088d176a644"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "03278c32a64e304c"
+      "hash": "7dee169e53cc5675"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,16 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post34958/",
+      "title": "2026/8/3 イベント 【レポート】7月28日(火)「第43回元町夜市2026」でラグビー体験を実施しました",
+      "date": "2026-08-03"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post34928/",
+      "title": "2026/8/3 チケット NTTリーグワン2026-27 ホストゲームのチケット価格と席種決定のお知らせ",
+      "date": "2026-08-03"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post34962/",
       "title": "2026/7/31 お知らせ ファンクラブ事務局およびお問い合わせ窓口 夏季休業期間のお知らせ",
@@ -161,19 +171,9 @@
       "date": "2026-07-09"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post34686/",
-      "title": "2026/7/9 チーム 7月11日(土)「ネーションズチャンピオンシップ2026」アイルランド代表戦メンバー選出のお知らせ",
-      "date": "2026-07-09"
-    },
-    {
       "url": "https://www.kobesteelers.com/interview/post34750/",
       "title": "2026/7/9 チーム 2025-26シーズン 退団選手インタビュー Part.4 CTBアントン・レイナートブラウン選手",
       "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.kobesteelers.com/interview/post34731/",
-      "title": "2026/7/8 チーム 2025-26シーズン 退団選手インタビュー Part.3 NO8アーディ・サベア選手",
-      "date": "2026-07-08"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34673/",
@@ -211,11 +211,6 @@
       "date": "2026-06-29"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post34558/",
-      "title": "2026/6/26 イベント 神戸ポートタワーにて優勝記念展示のお知らせ",
-      "date": "2026-06-26"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post34549/",
       "title": "2026/6/26 普及 【レポート】青森県弘前市でラグビークリニックを開催しました",
       "date": "2026-06-26"
@@ -251,19 +246,9 @@
       "date": "2026-06-22"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post34503/",
-      "title": "チーム NTTリーグワン2025-26 優勝記念特設ページを公開いたしました！ 2026/6/19",
-      "date": "2026-06-19"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post34281/",
       "title": "チーム グラント・ウィリアムズ選手、ジョージ・ブリッジ選手 2026-27シーズン新加入のお知らせ 2026/6/17",
       "date": "2026-06-17"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34278/",
-      "title": "チーム 2026-27シーズン ウェイン・スミス ヘッド・オブ・コーチング就任のお知らせ 2026/6/16",
-      "date": "2026-06-16"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34067/",
@@ -324,6 +309,21 @@
       "url": "https://www.kobesteelers.com/news/post29666/",
       "title": "2025/11/25 お知らせ 神戸三宮センター街でのチームPR活動実施について",
       "date": "2025-11-25"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/",
+      "title": "2025/11/25 お知らせ チーム公式HPがより便利に！ニュース検索機能を追加しました",
+      "date": "2025-11-25"
+    },
+    {
+      "url": "https://www.kobesteelers.com/photolibrary/",
+      "title": "2025/11/12 お知らせ コベルコ神戸スティーラーズフェスタ2025 フォトライブラリーを公開しました",
+      "date": "2025-11-12"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post29093/",
+      "title": "2025/11/6 お知らせ サポートステーションご登録のお願い",
+      "date": "2025-11-06"
     }
   ]
 }

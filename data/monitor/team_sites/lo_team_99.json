@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-08-02T20:55:48+09:00",
+  "checked_at": "2026-08-03T16:37:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "d24e2cc711390041"
+      "hash": "079f58026f9fc416"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "b197a695e1e5d2ed"
+      "hash": "3148ceb003827c3f"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/260803nfjsg.html",
+      "title": "2026年 8月 3日 新加入選手のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27シーズンより、東…",
+      "date": "2026-08-03"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2607-1027.html",
       "title": "2026年 7月31日 #1027 中村 亮土 『インタビューのもっと深いところ』",
@@ -61,11 +66,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/26nacr.html",
       "title": "2026年 7月 6日 新アシスタントコーチ就任のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27シーズンよりチー…",
       "date": "2026-07-06"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2607-1023.html",
-      "title": "2026年 7月 3日 #1023 細木 康太郎 『サンゴリアスは特別な存在』",
-      "date": "2026-07-03"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/JRLO2627DH.html",

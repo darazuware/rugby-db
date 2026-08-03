@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-08-02T20:55:48+09:00",
+  "checked_at": "2026-08-03T16:37:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "5e0ee836f72213fb"
+      "hash": "0fb18eb42b1aa0eb"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "0930565b859a1d98"
+      "hash": "eaf69807ab6b9a81"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "855c3f3fb614827c"
+      "hash": "e3d9b22da3f91c0c"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/31958/",
+      "title": "お知らせ 2026.8.3 2026-27シーズン 新加入選手・スタッフに関するお知らせ",
+      "date": "2026-08-03"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/info/31924/",
       "title": "お知らせ 2026.7.29 2026-27シーズン ファンクラブのお知らせ（9/1募集開始、8/19自動継続処理実施）",
@@ -90,11 +95,6 @@
       "url": "https://kamaishi-seawaves.com/news/info/31353/",
       "title": "お知らせ 2026.6.3 2025-26シーズン 退団選手（追加）に関するお知らせ",
       "date": "2026-06-03"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/31286/",
-      "title": "お知らせ 2026.6.1 ゼネラルマネージャー桜庭吉彦より2025-26シーズン終了のご挨拶",
-      "date": "2026-06-01"
     }
   ]
 }

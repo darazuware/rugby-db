@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-08-02T20:55:48+09:00",
+  "checked_at": "2026-08-03T16:37:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "4db132019f821e68"
+      "hash": "556513d8e852ad58"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "138da81eb8e52ad8"
+      "hash": "dc9c3a2276d6c40a"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260802.html",
+      "title": "2026-08-02 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部選手・吉本選手が選出",
+      "date": "2026-08-02"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260729.html",
       "title": "2026-07-29 ダイナボアーズフェスタ2026｜イベントページ公開＆ボランティアスタッフ募集開始",
@@ -210,11 +215,6 @@
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260423.html-0",
       "title": "2026-04-23 [ イベント ] 今年もダイボ君らしく！「ジャパンラグビー リーグワン マスコット総選挙 2025-26」投票受付開始",
-      "date": "2026-04-23"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/2526r16",
-      "title": "2026-04-23 [ チーム ] 試合メンバー更新｜NTTリーグワン2025-26第16節 埼玉パナソニックワイルドナイツ 対 三菱重工相模原ダイナボアーズ",
       "date": "2026-04-23"
     }
   ]

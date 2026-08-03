@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-08-02T20:55:48+09:00",
+  "checked_at": "2026-08-03T16:37:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "8c66e00086042aec"
+      "hash": "1692212a5cbf2f11"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "3327fabd508e847d"
+      "hash": "1e69820790380fc6"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
@@ -29,6 +29,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.skyactivs.com/news/4490",
+      "title": "2026.07.31[FRI] ACTIVITY 西区トップアスリートとわくわくうんどうかいに参加しました",
+      "date": "2026-07-31"
+    },
     {
       "url": "https://www.skyactivs.com/news/4477",
       "title": "2026.07.20[MON] ACTIVITY 広島国際大学オープンキャンパスに参加しました",
@@ -228,11 +233,6 @@
       "url": "https://www.skyactivs.com/news/3797",
       "title": "2026.03.19[THU] GAME 【メンバー発表】vsコベルコ神戸スティーラーズ",
       "date": "2026-03-19"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/3787",
-      "title": "2026.03.16[MON] GAME 【イベント情報】vsルリーロ福岡",
-      "date": "2026-03-16"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",
