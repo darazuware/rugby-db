@@ -7,6 +7,7 @@
  * 本文は playerText.ts のテンプレ生成文のみ（自由記述禁止・null項目は出さない）。
  */
 export const prerender = true;
+import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import JSONLD from "../../components/JSONLD.astro";
@@ -31,15 +32,32 @@ import igEmbeds from "../../../data/manual/instagram_embeds.json";
 
 export async function getStaticPaths() {
   const players = await getAllPlayers();
+
+  // カタカナ読みの補完用（読み取り専用）。
+  // data/master の name_ja/name_kana は海外選手の多くで null のため、
+  // 旧レガシーコレクション(src/content/players/**/*.md)に残るカタカナ表記を
+  // slug一致で補完的に参照する。data/master 自体は書き換えない。
+  const legacyPlayerEntries = await getCollection("players");
+  const legacyKanaBySlug = new Map<string, string>();
+  for (const entry of legacyPlayerEntries) {
+    // Note: frontmatter `slug` is a reserved content-collection key — Astro
+    // uses it to override `entry.slug` and strips it out of `entry.data`.
+    const slug = entry.slug;
+    const kana = entry.data.name_ja;
+    if (slug && kana && !legacyKanaBySlug.has(slug)) {
+      legacyKanaBySlug.set(slug, kana);
+    }
+  }
+
   // 10のポリシー: 高校生（league="highschool"）の個別ページは生成しない。
   // 学校ページ（P5-4）内の一覧行のみで表示する。
   return players.filter(canHaveIndividualPlayerPage).map((player) => ({
     params: { slug: player.slug },
-    props: { player },
+    props: { player, legacyKana: legacyKanaBySlug.get(player.slug) ?? null },
   }));
 }
 
-const { player } = Astro.props as { player: Player };
+const { player, legacyKana } = Astro.props as { player: Player; legacyKana: string | null };
 
 const team: Team | undefined = player.team_id
   ? await getTeamById(player.team_id)
@@ -78,11 +96,44 @@ const RELATION_LABEL: Record<SchoolmateRelation, string> = {
   unknown: "同校",
 };
 
-// 表示名: 日本語優先。サブは読み仮名 or 英語表記（メインと異なる場合のみ）。
-const mainName = player.name_ja || player.name_en || player.slug;
-const subCandidate = player.name_kana || player.name_en || null;
-const subName = subCandidate && subCandidate !== mainName ? subCandidate : null;
-const prefersJa = !!player.name_ja;
+// 表示名ロジック。
+// 1. 漢字の日本語名（name_ja）があればそれを最優先でメイン表示（従来通り）。
+// 2. 漢字名が無く、カタカナ表記が判明している場合（name_kana、または
+//    片仮名のname_ja、無ければ旧レガシーコレクションの補完データ）は
+//    「カタカナ（English Name）」の形式でメイン表示する。
+// 3. どちらも無ければ英語表記→slugへフォールバック（従来通り）。
+const KATAKANA_RE = /^[゠-ヿー・\s]+$/;
+const isKatakana = (s: string | null | undefined): s is string =>
+  !!s && KATAKANA_RE.test(s);
+
+const hasKanjiJaName = !!player.name_ja && !isKatakana(player.name_ja);
+const kanaName =
+  (isKatakana(player.name_kana) ? player.name_kana : null) ??
+  (isKatakana(player.name_ja) ? player.name_ja : null) ??
+  (isKatakana(legacyKana) ? legacyKana : null);
+const englishName = player.name_en || null;
+
+let mainName: string;
+let subName: string | null;
+// schema.org Person の name には英語表記を含めずカタカナ/漢字のみを渡す。
+let schemaName: string;
+
+if (hasKanjiJaName) {
+  mainName = player.name_ja as string;
+  const subCandidate = player.name_kana || player.name_en || null;
+  subName = subCandidate && subCandidate !== mainName ? subCandidate : null;
+  schemaName = mainName;
+} else if (kanaName) {
+  mainName =
+    englishName && englishName !== kanaName ? `${kanaName}（${englishName}）` : kanaName;
+  subName = null;
+  schemaName = kanaName;
+} else {
+  mainName = englishName || player.slug;
+  subName = null;
+  schemaName = mainName;
+}
+const prefersJa = hasKanjiJaName || !!kanaName;
 
 const updatedDate = (player.scraped_at || "").slice(0, 10);
 
@@ -207,7 +258,7 @@ const careerEntries = player.career.filter((c) => !!c.team);
 
 // JSONLD 互換データ
 const jsonldData = {
-  title: mainName,
+  title: schemaName,
   name_en: player.name_en,
   team: teamName,
   position: posJa ?? player.position,
