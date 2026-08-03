@@ -68,6 +68,17 @@
 .prose tr:hover td {
     background-color: #fefce8;
 }
+@media (max-width: 640px) {
+    .prose table {
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+    .prose th,
+    .prose td {
+        white-space: nowrap;
+    }
+}
 :root.dark .prose th {
     background-color: #374151;
     border-color: #4b5563;
