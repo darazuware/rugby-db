@@ -3,13 +3,13 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-08-03T16:37:39+09:00",
+  "checked_at": "2026-08-03T22:33:41+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "5a57fc507b3d1c87"
+      "hash": "63479e2ffbce4ee2"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
@@ -54,27 +54,27 @@
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-5-23photo-gallery/",
-      "title": "сЃЋсѓЕсЃѕсѓ«сЃБсЃЕсЃфсЃ╝",
+      "title": "フォトギャラリー",
       "date": "2026-05-23"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-5-10photo-gallery/",
-      "title": "сЃЋсѓЕсЃѕсѓ«сЃБсЃЕсЃфсЃ╝",
+      "title": "フォトギャラリー",
       "date": "2026-05-10"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-5-3trainingmatch/",
-      "title": "ухљТъюУЕ│у┤░",
+      "title": "結果詳細",
       "date": "2026-05-03"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-5-2photo-gallery/",
-      "title": "сЃЋсѓЕсЃѕсѓ«сЃБсЃЕсЃфсЃ╝",
+      "title": "フォトギャラリー",
       "date": "2026-05-02"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-4-24photo/",
-      "title": "сЃЋсѓЕсЃѕсѓ«сЃБсЃЕсЃфсЃ╝",
+      "title": "フォトギャラリー",
       "date": "2026-04-24"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-03T16:37:39+09:00",
+  "checked_at": "2026-08-03T22:33:41+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,18 +9,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://urayasu-d-rocks.com/news/partner/index_1997.html",
-          "title": "パートナー 2026.08.03 Save the Ocean株式会社とオフィシャルサプライヤー契約締結のお知らせ",
-          "date": "2026-08-03",
-          "category": "roster"
-        }
-      ],
-      "changed_pages": [
-        "https://urayasu-d-rocks.com/",
-        "https://urayasu-d-rocks.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -33,34 +23,10 @@
       "item_count": 60,
       "new_items": [
         {
-          "url": "https://www.kobesteelers.com/news/post34958/",
-          "title": "2026/8/3 イベント 【レポート】7月28日(火)「第43回元町夜市2026」でラグビー体験を実施しました",
+          "url": "https://www.kobesteelers.com/news/post34951/",
+          "title": "2026/8/3 メディア 8月8日(土) 李 承信選手「リポビタン D チャレンジカップ 2026日本代表対オーストラリア」ゲスト解説のお知らせ",
           "date": "2026-08-03",
-          "category": null
-        },
-        {
-          "url": "https://www.kobesteelers.com/news/post34928/",
-          "title": "2026/8/3 チケット NTTリーグワン2026-27 ホストゲームのチケット価格と席種決定のお知らせ",
-          "date": "2026-08-03",
-          "category": null
-        },
-        {
-          "url": "https://www.kobesteelers.com/news/",
-          "title": "2025/11/25 お知らせ チーム公式HPがより便利に！ニュース検索機能を追加しました",
-          "date": "2025-11-25",
-          "category": null
-        },
-        {
-          "url": "https://www.kobesteelers.com/photolibrary/",
-          "title": "2025/11/12 お知らせ コベルコ神戸スティーラーズフェスタ2025 フォトライブラリーを公開しました",
-          "date": "2025-11-12",
-          "category": null
-        },
-        {
-          "url": "https://www.kobesteelers.com/news/post29093/",
-          "title": "2025/11/6 お知らせ サポートステーションご登録のお願い",
-          "date": "2025-11-06",
-          "category": null
+          "category": "squad"
         }
       ],
       "changed_pages": [
@@ -101,26 +67,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4251/",
-          "title": "2026.8.3 夏季休業のお知らせ",
-          "date": "2026-08-03",
-          "category": null
-        },
-        {
-          "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4246",
-          "title": "2026-27シーズン新加入選手 トピックス 2026.08.01",
-          "date": "2026-08-01",
-          "category": "roster"
-        },
-        {
-          "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4245",
-          "title": "2026-27シーズン新加入選手 トピックス 2026.08.01",
-          "date": "2026-08-01",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://verblitz.toyotatimes-sports.toyota/"
       ],
@@ -146,14 +93,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260802.html",
-          "title": "2026-08-02 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部選手・吉本選手が選出",
-          "date": "2026-08-02",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -180,17 +120,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [
-        {
-          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260803a.html",
-          "title": "ラムまるLINEスタンプvol.1 販売開始のお知らせ",
-          "date": "2026-08-03",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://blackrams-tokyo.com/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -201,18 +132,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 57,
-      "new_items": [
-        {
-          "url": "https://www.kubota-spears.com/news/2026/08/03/140000.html",
-          "title": "2026.08.03 ニュース・トピックス",
-          "date": "2026-08-03",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.kubota-spears.com/",
-        "https://www.kubota-spears.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -223,20 +144,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 27,
-      "new_items": [
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3152",
-          "title": "2026.8.3[MON] HOST AREA 【ホストエリア活動】静岡市 令和8年度「小学校体育実技指導研修会」にて教員向けタグラグビー講習会を実施しました",
-          "date": "2026-08-03",
-          "category": null
-        },
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3144",
-          "title": "2026.8.3[MON] FAN CLUB ＜CLUB REVS＞継続入会特典プレゼント＆アップグレードキャンペーン",
-          "date": "2026-08-03",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -251,18 +159,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/260803nfjsg.html",
-          "title": "2026年 8月 3日 新加入選手のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27シーズンより、東…",
-          "date": "2026-08-03",
-          "category": "roster"
-        }
-      ],
-      "changed_pages": [
-        "https://www.suntory.co.jp/culture-sports/sungoliath/",
-        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -274,7 +172,11 @@
       "first_run": false,
       "item_count": 4,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/",
+        "https://www.jreast.co.jp/greenwarriors/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -285,18 +187,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.kyudenvoltex.com/news/996",
-          "title": "チーム 2026年08月03日 NEW 2026-27シーズン 新加入スタッフのお知らせ",
-          "date": "2026-08-03",
-          "category": "roster"
-        }
-      ],
-      "changed_pages": [
-        "https://www.kyudenvoltex.com/",
-        "https://www.kyudenvoltex.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -307,7 +199,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 24,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://blue-sharks.jp/news/2026/08/25042/",
+          "title": "夏季休業のお知らせ",
+          "date": "2026-08-25",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://blue-sharks.jp/",
         "https://blue-sharks.jp/information/",
@@ -324,17 +223,9 @@
       "status": "ok",
       "first_run": false,
       "item_count": 12,
-      "new_items": [
-        {
-          "url": "https://shuttles-aichi.com/news/2026-27newplayerstaff/",
-          "title": "お知らせ 2026.08.03 2026-27シーズン新加入選手スタッフのお知らせ",
-          "date": "2026-08-03",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
-        "https://shuttles-aichi.com/",
-        "https://shuttles-aichi.com/news/"
+        "https://shuttles-aichi.com/"
       ],
       "rename_signals": []
     },
@@ -346,14 +237,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 15,
-      "new_items": [
-        {
-          "url": "https://kamaishi-seawaves.com/news/info/31958/",
-          "title": "お知らせ 2026.8.3 2026-27シーズン 新加入選手・スタッフに関するお知らせ",
-          "date": "2026-08-03",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://kamaishi-seawaves.com/",
         "https://kamaishi-seawaves.com/news/",
@@ -369,20 +253,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 28,
-      "new_items": [
-        {
-          "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub/",
-          "title": "2026.08.03 ファンクラブ イベント 【重要】LINERS FANCLUB 2026-27 自動継続入会について",
-          "date": "2026-08-03",
-          "category": null
-        },
-        {
-          "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub-2/",
-          "title": "2026.08.03 ファンクラブ イベント 【LINERS FANCLUB】2026-27 SEASON ファンクラブ概要決定のお知らせ",
-          "date": "2026-08-03",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -409,17 +280,9 @@
       "status": "ok",
       "first_run": false,
       "item_count": 45,
-      "new_items": [
-        {
-          "url": "https://docomo-rugby.jp/news/detail.html?id=8797",
-          "title": "お知らせ 2026年8月3日 【リリース】2025-26シーズン退団スタッフ（追加）のお知らせ",
-          "date": "2026-08-03",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
-        "https://docomo-rugby.jp/",
-        "https://docomo-rugby.jp/news/"
+        "https://docomo-rugby.jp/"
       ],
       "rename_signals": []
     },
@@ -445,18 +308,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.rugguts.secom.co.jp/2026/08/post-25.html",
-          "title": "гӮ№гӮҝгғғгғ•йҖҖеӣЈгҒ®гҒҠзҹҘгӮүгҒӣ",
-          "date": "2026-08-03",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.rugguts.secom.co.jp/",
-        "https://www.rugguts.secom.co.jp/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -479,17 +332,9 @@
       "status": "ok",
       "first_run": false,
       "item_count": 46,
-      "new_items": [
-        {
-          "url": "https://www.skyactivs.com/news/4490",
-          "title": "2026.07.31[FRI] ACTIVITY 西区トップアスリートとわくわくうんどうかいに参加しました",
-          "date": "2026-07-31",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
-        "https://www.skyactivs.com/",
-        "https://www.skyactivs.com/news"
+        "https://www.skyactivs.com/"
       ],
       "rename_signals": []
     },
@@ -536,14 +381,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 9,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54094",
-          "title": "「ラグビーパーク in 新潟」開催のお知らせ 2026.8.03 （月） 高校 中学 小学生 その他 普及育成",
-          "date": "2026-08-03",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -559,66 +397,10 @@
   ],
   "highlights": [
     {
-      "source": "トヨタヴェルブリッツ",
-      "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4246",
-      "title": "2026-27シーズン新加入選手 トピックス 2026.08.01",
-      "date": "2026-08-01",
-      "category": "roster"
-    },
-    {
-      "source": "トヨタヴェルブリッツ",
-      "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4245",
-      "title": "2026-27シーズン新加入選手 トピックス 2026.08.01",
-      "date": "2026-08-01",
-      "category": "roster"
-    },
-    {
-      "source": "浦安D-Rocks",
-      "url": "https://urayasu-d-rocks.com/news/partner/index_1997.html",
-      "title": "パートナー 2026.08.03 Save the Ocean株式会社とオフィシャルサプライヤー契約締結のお知らせ",
+      "source": "コベルコ神戸スティーラーズ",
+      "url": "https://www.kobesteelers.com/news/post34951/",
+      "title": "2026/8/3 メディア 8月8日(土) 李 承信選手「リポビタン D チャレンジカップ 2026日本代表対オーストラリア」ゲスト解説のお知らせ",
       "date": "2026-08-03",
-      "category": "roster"
-    },
-    {
-      "source": "東京サントリーサンゴリアス",
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/260803nfjsg.html",
-      "title": "2026年 8月 3日 新加入選手のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27シーズンより、東…",
-      "date": "2026-08-03",
-      "category": "roster"
-    },
-    {
-      "source": "九州電力キューデンヴォルテクス",
-      "url": "https://www.kyudenvoltex.com/news/996",
-      "title": "チーム 2026年08月03日 NEW 2026-27シーズン 新加入スタッフのお知らせ",
-      "date": "2026-08-03",
-      "category": "roster"
-    },
-    {
-      "source": "豊田自動織機シャトルズ愛知",
-      "url": "https://shuttles-aichi.com/news/2026-27newplayerstaff/",
-      "title": "お知らせ 2026.08.03 2026-27シーズン新加入選手スタッフのお知らせ",
-      "date": "2026-08-03",
-      "category": "roster"
-    },
-    {
-      "source": "日本製鉄釜石シーウェイブス",
-      "url": "https://kamaishi-seawaves.com/news/info/31958/",
-      "title": "お知らせ 2026.8.3 2026-27シーズン 新加入選手・スタッフに関するお知らせ",
-      "date": "2026-08-03",
-      "category": "roster"
-    },
-    {
-      "source": "レッドハリケーンズ大阪",
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8797",
-      "title": "お知らせ 2026年8月3日 【リリース】2025-26シーズン退団スタッフ（追加）のお知らせ",
-      "date": "2026-08-03",
-      "category": "roster"
-    },
-    {
-      "source": "三菱重工相模原ダイナボアーズ",
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260802.html",
-      "title": "2026-08-02 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部選手・吉本選手が選出",
-      "date": "2026-08-02",
       "category": "squad"
     }
   ],

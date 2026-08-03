@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-08-03T16:37:39+09:00",
+  "checked_at": "2026-08-03T22:33:41+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "8d19d088d176a644"
+      "hash": "764d2965f90a479d"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "7dee169e53cc5675"
+      "hash": "519675a7ebc9a67b"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -28,6 +28,11 @@
     {
       "url": "https://www.kobesteelers.com/news/post34958/",
       "title": "2026/8/3 イベント 【レポート】7月28日(火)「第43回元町夜市2026」でラグビー体験を実施しました",
+      "date": "2026-08-03"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post34951/",
+      "title": "2026/8/3 メディア 8月8日(土) 李 承信選手「リポビタン D チャレンジカップ 2026日本代表対オーストラリア」ゲスト解説のお知らせ",
       "date": "2026-08-03"
     },
     {
@@ -234,11 +239,6 @@
       "url": "https://www.kobesteelers.com/news/post34502/",
       "title": "2026/6/23 グッズ NTTリーグワン2025-26 アワード受賞記念グッズ発売のお知らせ",
       "date": "2026-06-23"
-    },
-    {
-      "url": "https://www.kobesteelers.com/photolibrary/post34399/",
-      "title": "2026/6/22 ファンクラブ Steel Mates感謝祭2025-26 フォトライブラリーを更新しました！",
-      "date": "2026-06-22"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34205/",
