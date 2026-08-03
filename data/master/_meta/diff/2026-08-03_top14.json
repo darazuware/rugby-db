@@ -1,10 +1,24 @@
 {
   "league": "top14",
-  "signings": [],
+  "signings": [
+    {
+      "id": "ar_timothe-valet",
+      "name_en": "Timothé VALET",
+      "name_ja": null,
+      "team_id": "castres"
+    }
+  ],
   "transfers": [],
   "departures": [],
   "first_caps": [],
   "caps_updates": [],
-  "pending_departures": [],
+  "pending_departures": [
+    {
+      "id": "ar_james-o-reilly",
+      "name_en": "James O'REILLY",
+      "name_ja": null,
+      "team_id": "vannes"
+    }
+  ],
   "newly_finished_rounds": []
 }

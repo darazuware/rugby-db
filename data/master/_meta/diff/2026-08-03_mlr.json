@@ -5,6 +5,73 @@
   "departures": [],
   "first_caps": [],
   "caps_updates": [],
-  "pending_departures": [],
+  "pending_departures": [
+    {
+      "id": "ar_coby-miln",
+      "name_en": "Coby MILN",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_ezekiel-lindenmuth",
+      "name_en": "Ezekiel LINDENMUTH",
+      "name_ja": null,
+      "team_id": "seattle-seawolves"
+    },
+    {
+      "id": "ar_jake-turnbull",
+      "name_en": "Jake TURNBULL",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_jason-robertson",
+      "name_en": "Jason ROBERTSON",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_joe-johnston",
+      "name_en": "Joe JOHNSTON",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_jordan-trainor",
+      "name_en": "Jordan TRAINOR",
+      "name_ja": null,
+      "team_id": "anthem-rc"
+    },
+    {
+      "id": "ar_nathan-salmon",
+      "name_en": "Nathan SALMON",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_reuben-palmer",
+      "name_en": "Reuben PALMER",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_rob-harley",
+      "name_en": "Rob HARLEY",
+      "name_ja": null,
+      "team_id": "old-glory"
+    },
+    {
+      "id": "ar_sione-tupou-",
+      "name_en": "Sione TUPOU",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_tayne-hemopo",
+      "name_en": "Tayne HEMOPO",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    }
+  ],
   "newly_finished_rounds": []
 }
