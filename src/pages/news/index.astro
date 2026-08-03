@@ -1,18 +1,8 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import { getCollection, type CollectionEntry } from "astro:content";
+import { getLiveNews } from "../../lib/news";
 
-// pubDate は日付のみ＝UTC真夜中に解釈される。読者は日本なので JST 基準で判定する
-// （now に +9h して比較 = pubDate の JST 当日 0:00 から公開扱い）。
-// publishAt があればその日時。無ければ pubDate（UTC0:00）の JST 当日 7:00 に公開。
-// pubDate.valueOf()（UTC 0:00）-2h = JST 当日 7:00。
-const REVEAL_OFFSET_MS = -2 * 60 * 60 * 1000;
-const liveTs = (e: CollectionEntry<"news">) =>
-  e.data.publishAt ? e.data.publishAt.valueOf() : e.data.pubDate.valueOf() + REVEAL_OFFSET_MS;
-const isLive = (e: CollectionEntry<"news">) => !e.data.draft && liveTs(e) <= Date.now();
-const news = (await getCollection("news", isLive)).sort(
-  (a: CollectionEntry<"news">, b: CollectionEntry<"news">) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-);
+const news = await getLiveNews();
 
 const formatDate = (date: Date) => {
   return date.toLocaleDateString("ja-JP", {

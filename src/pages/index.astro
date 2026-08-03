@@ -8,6 +8,19 @@ import standingsData from "../../data/standings.json";
 import { getLeagueStandings, type LeagueId } from "../lib/safeStandings";
 import teamsData from "../../data/teams.json";
 import teamNamesJp from "../../data/team_names_jp.json";
+import { getLiveNews } from "../lib/news";
+
+const allNews = await getLiveNews();
+const latestNews = allNews.slice(0, 5);
+// ランダム表示用のプール（クライアント側でシャッフル）
+const newsPool = allNews.map(n => ({
+	slug: n.slug,
+	title: n.data.title,
+	description: (n.data.description || "").slice(0, 120),
+	category: n.data.category || "NEWS",
+	date: n.data.pubDate.toLocaleDateString("ja-JP", { year: "numeric", month: "2-digit", day: "2-digit" }),
+}));
+const pickupInitial = newsPool.slice(0, 6);
 
 // チーム情報のマッピングを取得する共通関数
 const getTeamMapping = (leagueId: string, teamName: string) => {
@@ -148,6 +161,118 @@ const leagueStandings = [
         {/* 装飾用背景テキスト */}
         <div class="absolute -bottom-10 -right-10 text-9xl font-black font-display italic opacity-[0.02] select-none whitespace-nowrap pointer-events-none uppercase">
             RUGBY
+        </div>
+    </section>
+
+    {/* ピックアップ記事（読み込みごとにランダム入れ替え） */}
+    <section class="mb-16">
+        <div class="flex flex-wrap items-end justify-between gap-4 mb-8">
+            <div>
+                <h2 class="text-3xl md:text-4xl font-black font-display italic tracking-tighter uppercase">
+                    Pick <span class="text-yellow-400">Up</span>
+                </h2>
+                <p class="text-sm text-foreground/40 font-bold mt-2">
+                    全{newsPool.length}本の記事からランダムで6本。
+                </p>
+            </div>
+            <div class="flex items-center gap-3">
+                <button
+                    type="button"
+                    id="pickup-shuffle"
+                    class="px-5 py-3 bg-foreground/5 border border-border-dim text-foreground/60 font-black text-[11px] rounded-xl uppercase tracking-widest hover:bg-yellow-400 hover:text-black hover:border-yellow-400 transition-all"
+                >
+                    ↻ Shuffle
+                </button>
+                <a href="/news/" class="px-5 py-3 bg-yellow-400 text-black font-black text-[11px] rounded-xl uppercase tracking-widest hover:bg-white transition-all">
+                    全記事を見る →
+                </a>
+            </div>
+        </div>
+
+        <div id="pickup-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {pickupInitial.map(item => (
+                <a
+                    href={`/news/${item.slug}/`}
+                    class="group bg-card rounded-[2rem] border border-border-dim p-6 hover:border-yellow-400 transition-all flex flex-col h-full"
+                >
+                    <div class="flex items-center gap-3 mb-4">
+                        <span class="bg-yellow-400 text-black text-[10px] font-black px-2 py-0.5 rounded uppercase tracking-widest">{item.category}</span>
+                        <time class="text-xs text-foreground/40 font-bold font-mono">{item.date}</time>
+                    </div>
+                    <h3 class="text-lg font-black text-foreground group-hover:text-yellow-400 transition-colors mb-3 leading-tight">{item.title}</h3>
+                    <p class="text-sm text-foreground/60 line-clamp-3 mb-6">{item.description}</p>
+                    <div class="mt-auto flex items-center justify-between text-[11px] font-black uppercase tracking-widest text-foreground/20 group-hover:text-yellow-400/60 transition-colors">
+                        <span>Read More</span><span>→</span>
+                    </div>
+                </a>
+            ))}
+        </div>
+
+        <script type="application/json" id="pickup-data" set:html={JSON.stringify(newsPool)} is:inline />
+        <script is:inline>
+            (() => {
+                const grid = document.getElementById("pickup-grid");
+                const raw = document.getElementById("pickup-data");
+                const btn = document.getElementById("pickup-shuffle");
+                if (!grid || !raw) return;
+                let pool = [];
+                try { pool = JSON.parse(raw.textContent || "[]"); } catch { return; }
+                if (pool.length < 7) return;
+
+                const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+                const card = (item) => `
+                    <a href="/news/${esc(item.slug)}/" class="group bg-card rounded-[2rem] border border-border-dim p-6 hover:border-yellow-400 transition-all flex flex-col h-full">
+                        <div class="flex items-center gap-3 mb-4">
+                            <span class="bg-yellow-400 text-black text-[10px] font-black px-2 py-0.5 rounded uppercase tracking-widest">${esc(item.category)}</span>
+                            <time class="text-xs text-foreground/40 font-bold font-mono">${esc(item.date)}</time>
+                        </div>
+                        <h3 class="text-lg font-black text-foreground group-hover:text-yellow-400 transition-colors mb-3 leading-tight">${esc(item.title)}</h3>
+                        <p class="text-sm text-foreground/60 line-clamp-3 mb-6">${esc(item.description)}</p>
+                        <div class="mt-auto flex items-center justify-between text-[11px] font-black uppercase tracking-widest text-foreground/20 group-hover:text-yellow-400/60 transition-colors">
+                            <span>Read More</span><span>→</span>
+                        </div>
+                    </a>`;
+
+                const shuffle = () => {
+                    const picks = [];
+                    const used = new Set();
+                    while (picks.length < 6) {
+                        const i = Math.floor(Math.random() * pool.length);
+                        if (used.has(i)) continue;
+                        used.add(i);
+                        picks.push(pool[i]);
+                    }
+                    grid.innerHTML = picks.map(card).join("");
+                };
+
+                shuffle();
+                btn?.addEventListener("click", shuffle);
+            })();
+        </script>
+    </section>
+
+    {/* 最新ニュース */}
+    <section class="mb-16">
+        <h2 class="text-3xl md:text-4xl font-black font-display italic tracking-tighter uppercase mb-8">
+            Latest <span class="text-yellow-400">News</span>
+        </h2>
+        <div class="divide-y divide-border-dim border-y border-border-dim">
+            {latestNews.map((item, i) => (
+                <a href={`/news/${item.slug}/`} class="group flex items-start gap-5 py-5 hover:bg-foreground/[0.03] transition-colors px-2">
+                    <span class="text-2xl font-black font-display italic text-yellow-400/40 w-10 shrink-0 leading-none pt-0.5">
+                        {String(i + 1).padStart(2, "0")}
+                    </span>
+                    <div class="min-w-0">
+                        <h3 class="font-black text-foreground group-hover:text-yellow-400 transition-colors leading-tight mb-2">
+                            {item.data.title}
+                        </h3>
+                        <div class="flex items-center gap-3 text-[11px] font-bold uppercase tracking-widest text-foreground/30">
+                            <span>{item.data.category || "NEWS"}</span>
+                            <time class="font-mono">{item.data.pubDate.toLocaleDateString("ja-JP", { year: "numeric", month: "2-digit", day: "2-digit" })}</time>
+                        </div>
+                    </div>
+                </a>
+            ))}
         </div>
     </section>
 
