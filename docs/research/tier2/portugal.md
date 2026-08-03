@@ -53,14 +53,14 @@
 ## 選手データ（all.rugby 個別ページ、2026-07-22取得）
 | 選手 | Pos | 所属クラブ | 年齢 | キャップ | 身長/体重 | 経歴 |
 |---|---|---|---|---|---|---|
-| Tomás Appleton | CE | （クラブ未記載） | 33 | **49** | 182cm/85kg | 25/26季13試合・387分 |
+| Tomás Appleton | CTB | （クラブ未記載） | 33 | **49** | 182cm/85kg | 25/26季13試合・387分 |
 | José Madeira（主将） | BR | FC Grenoble（仏プロD2） | 25 | **46** | 190cm/99kg | Grenoble一筋(2020-26)。**JIFF**。25/26季20試合・約2,541分 |
 | Diogo Hasse Ferreira | PR | US Dax（仏、2026年まで契約） | 29 | 32 | **171cm/105kg** | Sale Sharks(2016-17)→Aparejadores(2019-20)→Dijon(2020-21)→Dax(2021-) |
-| Nuno Sousa Guedes | FH/FB | （クラブ未記載） | 31 | 29 | 177cm/75kg | 2020年から代表 |
-| Raffaele Costa Storti | WG | FC Grenoble（仏プロD2） | 25 | 25 | 184cm/83kg | Béziers(2022-24)→Stade Français(2024-25)→Grenoble(2025-)。25/26季 **22トライ・110点** |
+| Nuno Sousa Guedes | SO/FB | （クラブ未記載） | 31 | 29 | 177cm/75kg | 2020年から代表 |
+| Raffaele Costa Storti | WTB | FC Grenoble（仏プロD2） | 25 | 25 | 184cm/83kg | Béziers(2022-24)→Stade Français(2024-25)→Grenoble(2025-)。25/26季 **22トライ・110点** |
 | Manuel Vareiro | FB | Provence Rugby（仏プロD2） | 21 | 21 | 180cm/76kg | 25/26季 プロD2 17試合＋トップ14 1試合、**123得点** |
 | Samuel Marquès | SH | AS Béziers（仏） | 37 | — | 175cm/70kg | **フランス国籍／競技上はポルトガル**。ポー出身のJIFF。Pau(2019-21)→Carcassonne(2021-23)→Béziers(2023-) |
-| Vincent Pinto | WG | US Colomiers（仏、2023-26） | 27 | — | 190cm/87kg | **フランス国籍／競技上はポルトガル**。ポー出身。25/26季27試合9トライ |
+| Vincent Pinto | WTB | US Colomiers（仏、2023-26） | 27 | — | 190cm/87kg | **フランス国籍／競技上はポルトガル**。ポー出身。25/26季27試合9トライ |
 
 - all.rugby のスカッド一覧（2026-07-22）では Appleton 32歳・Storti 26歳・Vareiro 20歳・Marquès 37歳と表示。
   **個別ページの値（33/25/21/37）を採用**した。年齢は取得タイミングで1歳ずれる。

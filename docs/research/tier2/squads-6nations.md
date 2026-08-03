@@ -25,9 +25,9 @@
 - LO: Dan Cooke —, Gary Porter 28, Kudakwashe Nyakufaringwa 33, Simba Siraha 23, Tadiwa Gwashu 26
 - BR: Aiden Burnett 28, Dylan Utete 27, Godfrey Muzanargwo 26, Jason Fraser 34, Tino Mavesere 27
 - SH: Hilton Mudariki 35, **Ian Prior 34**, Keegan Joubert 24, Tyrone Gombe 20
-- FH: Bruce Houston 28
-- CE: Brandon Mudzekenyedzi 29, Dion Khumalo 23, Kudzai Mashawi 34
-- WG: Edward Sigauke 23, Matt McNab 28, Trevor Gurwe 22
+- SO: Bruce Houston 28
+- CTB: Brandon Mudzekenyedzi 29, Dion Khumalo 23, Kudzai Mashawi 34
+- WTB: Edward Sigauke 23, Matt McNab 28, Trevor Gurwe 22
 - FB: Takudzwa Musingwini 23, Tapiwa Mafura 30
 
 ## ルーマニア（53名）
@@ -36,9 +36,9 @@
 - LO: Adrian Moțoc 28, Andreï Mahu 33, Marius Antonescu 33, Ștefan Iancu 29
 - BR: Adrian Mitu 22, Cristi Boboc 29, Cristian Chirica 29, Dragoș Ser 27, Eduard Cioroabă 22, Étienne Terblanche 27, Iacopo Bianchi 28, Jacob Immelman 32, Keanan Murray 26, Kemal Altinok 25, Logan Weidner 23, Matthew Tweddle 33, Vlad Neculau 28
 - SH: Alin Conache 24, Gabriel Rupanu 27, Jondre Williams 28, Toma Mîrzac 23
-- FH: Daniel Plai 31, Dănuț Jipa 27, Gabriel Pop 29, Ovidiu Neagu 25
-- CE: Alexandru Bucur 32, Antonio Mitrea 20, Atila Septar 30, Dylan Schwartz 25, Fonovai Tangimana 35, Jason Tomane 32, Mihai Graure 24, Taylor Gontineac 25, Tevita Manumua 32
-- WG: Damian Bonaparte 26, Marius Simionescu 29, Nicolas Onutu 30, Toni Mafteï 23
+- SO: Daniel Plai 31, Dănuț Jipa 27, Gabriel Pop 29, Ovidiu Neagu 25
+- CTB: Alexandru Bucur 32, Antonio Mitrea 20, Atila Septar 30, Dylan Schwartz 25, Fonovai Tangimana 35, Jason Tomane 32, Mihai Graure 24, Taylor Gontineac 25, Tevita Manumua 32
+- WTB: Damian Bonaparte 26, Marius Simionescu 29, Nicolas Onutu 30, Toni Mafteï 23
 - FB: Hinckley Vaovasa 28, Iliesa Tiqe 33, Paul Popoaia 25
 - **注目**: 南ア系（Smith / Terblanche / Immelman / Williams / Schwartz）と太平洋系（Sikote / Tangimana / Manumua / Vaovasa / Tiqe / Tomane）が多数＝**帰化・移民選手への依存**が記事の切り口になる。
 
@@ -48,9 +48,9 @@
 - LO: Duarte Nunes 21, Duarte Torgal 28, Guilherme Costa 20, Martim Belo 24, Pedro Ferreira 27
 - BR: André Cunha 22, David Wallis 30, Diego Pinheiro Ruiz 22, Francisco Almeida 20, João Granate 30, José Madeira 25, José Monteiro 21, Nicolas Martins 28, Vasco Baptista 30
 - SH: Hugo Camacho 23, **Samuel Marquès 37**, Tomás Amado —
-- FH: Domingos Cabral 25, Hugo Aubry 24, Nuno Sousa Guedes 32, **Tomás Batista 18**
-- CE: Guilherme Vasconcelos 22, Martim Faro 23, **Tomás Appleton 32**（RWC2023主将）
-- WG: Alfredo Almeida 22, Diogo Rodrigues 24, Manuel Cardoso Pinto 29, **Raffaele Costa Storti 26**, Rodrigo Marta 27, Vincent Pinto 28
+- SO: Domingos Cabral 25, Hugo Aubry 24, Nuno Sousa Guedes 32, **Tomás Batista 18**
+- CTB: Guilherme Vasconcelos 22, Martim Faro 23, **Tomás Appleton 32**（RWC2023主将）
+- WTB: Alfredo Almeida 22, Diogo Rodrigues 24, Manuel Cardoso Pinto 29, **Raffaele Costa Storti 26**, Rodrigo Marta 27, Vincent Pinto 28
 - FB: Manuel Vareiro 20, Simão Bento 24
 
 ## 香港チャイナ（39名）
@@ -59,9 +59,9 @@
 - LO: James Rivers 25, Kyle Sullivan 32, Lachlan Doheny 21, Max Murphy —
 - BR: Dana Fourie 28, James Sawyer 34, Joshua Hrstich 35, Pierce Mackinlay-West 30, Tyler McNutt 22
 - SH: Brendon Nell 31, **Eric Chui Wai Lap** —, Jack Combes 28, Murray Brechin —
-- FH: Gregor McNeish 34, **Joe Barker 36**, Matteo Avitabile 24
-- CE: **Ben Axten-Burrett 34**, Isaac Campbell-Wu —, Marcus Ramage 29, Max Threlkeld 21, Tom Hill 35
-- WG: Guy Spanton 28, Harry Sayers 32, Paul Altier 26, Seb Brien 31
+- SO: Gregor McNeish 34, **Joe Barker 36**, Matteo Avitabile 24
+- CTB: **Ben Axten-Burrett 34**, Isaac Campbell-Wu —, Marcus Ramage 29, Max Threlkeld 21, Tom Hill 35
+- WTB: Guy Spanton 28, Harry Sayers 32, Paul Altier 26, Seb Brien 31
 - FB: Dylan McCann 22, Matt Worley 28
 - **注目**: 中国系の名前（Ng Siu Lung / Eric Chui Wai Lap / Isaac Campbell-Wu）は少数で、英・豪・南ア系が大半＝
   **「香港在住の外国出身者で作る代表」という構造**が記事の芯。居住資格ルールと合わせて書ける。30代が非常に多い。
@@ -72,9 +72,9 @@
 - LO: Barnaby Waddell —, Callum Botchar 28, Daragh Doyle 21, **Evan Olmstead 35**, Izzak Kelly —, Piers Von Dadelszen 26
 - BR: Cody Nhanala 24, Lucas Rumball 32, Mason Flesch 27, Matt Oworu 24, Sam Miller 24, Siôn Parry 27, **Tyler Ardron 36**
 - SH: Brock Gallagher 27, James Naylor —, Jason Higgins 32, Stephen Webb 20
-- FH: Peter Nelson 33, Robbie Povey 28
-- CE: Jacob Ince 22, **Josh McIndoe 19**, Kyle Tremblay 27, Liam James 20, Lockie Kratz 27, Noah Flesch 23, Spencer Jones 28, Takoda McMullin 25
-- WG: Jack Shaw 27, Josiah Morra 27, Morgan Di Nardo 20, Nic Benn 26
+- SO: Peter Nelson 33, Robbie Povey 28
+- CTB: Jacob Ince 22, **Josh McIndoe 19**, Kyle Tremblay 27, Liam James 20, Lockie Kratz 27, Noah Flesch 23, Spencer Jones 28, Takoda McMullin 25
+- WTB: Jack Shaw 27, Josiah Morra 27, Morgan Di Nardo 20, Nic Benn 26
 - FB: Cooper Coats 28
 
 ## アメリカ（43名）
@@ -83,9 +83,9 @@
 - LO: Brandon Harvey 24, Nathan den Hoedt 28, Tevita Naqali 32
 - BR: Ben Bonasso 29, Christian Poidevin 29, Cory Gilliland-Daniel 29, Jason Damm 30, Lance Williams 34, Makeen Alikhan 24, Marno Redelinghuys 32, Nafi Ma'afu 28, Paddy Ryan 28, Vili Helu 30
 - SH: Ethan McVeigh 27, Michael Baska 33, **Ruben de Haas 26**
-- FH: Christopher Hilsenbeck 35, Luke Carty 27
-- CE: Dominic Besag 20, Erich Storti 26, Tavite Lopeti 28, **Tommaso Boni 32**（元イタリア代表）
-- WG: Conner Mooneyham 29, Julian Roberts 27, Mark O'Keeffe 30, **Rufus McLean 27**, Toby Fricker 29
+- SO: Christopher Hilsenbeck 35, Luke Carty 27
+- CTB: Dominic Besag 20, Erich Storti 26, Tavite Lopeti 28, **Tommaso Boni 32**（元イタリア代表）
+- WTB: Conner Mooneyham 29, Julian Roberts 27, Mark O'Keeffe 30, **Rufus McLean 27**, Toby Fricker 29
 - FB: Mitch Wilson 31, Perry Mayo 23
 - **注目**: 太平洋系（Niuafe / Telea-Ilalio / Kofe / Pifeleti / Sosene-Feagai / Naqali / Ma'afu / Helu / Lopeti）が非常に多い。
   他国代表経験者・海外出身者（Boni＝伊、de Haas＝南ア、McLean＝スコットランド系）も。

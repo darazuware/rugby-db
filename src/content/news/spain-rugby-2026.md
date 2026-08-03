@@ -120,13 +120,13 @@ FERは、アルコベンダス（クラブ）の関係者3名が書面でパス�
 
 | 選手 | カタカナ | Pos | 所属クラブ | 年齢 | キャップ |
 |:---|:---|:---|:---|---:|---:|
-| Álvar Gimeno | **[アルバル・ヒメノ](/players/alvar-gimeno/)** | CE | ベジエ（仏プロD2） | 28 | **63** |
+| Álvar Gimeno | **[アルバル・ヒメノ](/players/alvar-gimeno/)** | CTB | ベジエ（仏プロD2） | 28 | **63** |
 | Ignacio Piñeiro | **[イグナシオ・ピニェイロ](/players/ignacio-pineiro/)** | LO | グルノーブル（仏プロD2） | 23 | 33 |
 | Jon Zabala | **[ジョン・サバラ](/players/jon-zabala/)**（主将） | PR | [ポー](/teams/top14/pau/)（仏トップ14） | 29 | 32 |
 | Álvaro García | **[アルバロ・ガルシア](/players/alvaro-garcia/)** | HO | [スタッド・フランセ](/teams/top14/paris/)（仏トップ14） | 22 | 23 |
 | Kerman Aurrekoetxea | **[ケルマン・アウレコエチェア](/players/kerman-aurrekoetxea/)** | SH | ビアリッツ（仏プロD2） | 26 | 13 |
 | Manex Ariceta | **[マネクス・アリセタ](/players/manex-ariceta/)** | BR | [バイヨンヌ](/teams/top14/bayonne/)（仏トップ14） | 22 | 7 |
-| Samuel Ezeala | **[サミュエル・エゼアラ](/players/samuel-ezeala/)** | WG | [スタッド・フランセ](/teams/top14/paris/)（仏トップ14） | 26 | 3 |
+| Samuel Ezeala | **[サミュエル・エゼアラ](/players/samuel-ezeala/)** | WTB | [スタッド・フランセ](/teams/top14/paris/)（仏トップ14） | 26 | 3 |
 
 主将ジョン・サバラは、所属する[ポー](/teams/top14/pau/)（Section Paloise）でのプレーをInstagramで発信しています。
 
@@ -141,7 +141,7 @@ FERは、アルコベンダス（クラブ）の関係者3名が書面でパス�
 
 ### スカッド全体を見ると
 
-2025/26シーズンの登録選手を年齢で見ると、最年長が**ベルナルド・バスケス（PR）38歳**、次いでバウティスタ・グエメス（FH）37歳、JW・ベル（FB）36歳。一方で**ニコラス・インフェル（SH）とオリオル・マルシニャック（CE）は19歳**。
+2025/26シーズンの登録選手を年齢で見ると、最年長が**ベルナルド・バスケス（PR）38歳**、次いでバウティスタ・グエメス（SO）37歳、JW・ベル（FB）36歳。一方で**ニコラス・インフェル（SH）とオリオル・マルシニャック（CTB）は19歳**。
 
 30代が10名前後いる一方で20歳前後の若手も複数——**世代交代の途中**にあるチームです。
 

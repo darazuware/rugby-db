@@ -32,9 +32,9 @@
 
 ## 現行スカッドの構成（2025/26、53名）
 **南アフリカ系**: Jean-Pierre Smith(PR,28)／Étienne Terblanche(BR,27)／Jacob Immelman(BR,32)／
-Jondre Williams(SH,28)／Dylan Schwartz(CE,25)
-**太平洋諸島系**: Joji Sikote(PR,31)／Fonovai Tangimana(CE,35)／Tevita Manumua(CE,32)／
-Jason Tomane(CE,32)／Hinckley Vaovasa(FB,28)／Iliesa Tiqe(FB,33)
+Jondre Williams(SH,28)／Dylan Schwartz(CTB,25)
+**太平洋諸島系**: Joji Sikote(PR,31)／Fonovai Tangimana(CTB,35)／Tevita Manumua(CTB,32)／
+Jason Tomane(CTB,32)／Hinckley Vaovasa(FB,28)／Iliesa Tiqe(FB,33)
 → 53名中11名。特に**CTBは4人が海外系**
 
 ## 選手データ（all.rugby 個別ページ、2026-07-22取得）
@@ -44,7 +44,7 @@ Jason Tomane(CE,32)／Hinckley Vaovasa(FB,28)／Iliesa Tiqe(FB,33)
 | Adrian Moțoc | LO | Nissa Rugby（仏Nationale） | 30 | **55** | 201cm/104kg | Racing 92(2017-18)→Agen(2018-20)→Aurillac(2021-22)→Biarritz(2022-25)→Nissa(2025-)。RWC2023出場 |
 | Gabriel Rupanu | SH | **SCM Rugby Timișoara（ルーマニア国内）** | 28 | **53** | 176cm/**65kg** | 2018年から代表 |
 | Marius Antonescu | LO | RC Narbonnais（仏） | 33 | — | 202cm/109kg | US Bressane(2019-23)→Narbonne(2023-)。ロックで通算115先発 |
-| Taylor Gontineac | CE | AS Béziers（仏プロD2、2026年まで） | 26 | — | 188cm/93kg | **仏・ルーマニア二重国籍／競技上はルーマニア**。**JIFF**。Rouen(2021-24)→Béziers(2024-)。24/25季プロD2 20試合5トライ |
+| Taylor Gontineac | CTB | AS Béziers（仏プロD2、2026年まで） | 26 | — | 188cm/93kg | **仏・ルーマニア二重国籍／競技上はルーマニア**。**JIFF**。Rouen(2021-24)→Béziers(2024-)。24/25季プロD2 20試合5トライ |
 
 - **ポルトガル・スペインとの違い**: 最多キャップのSavinとRupanuが**国内クラブ所属**。
   国内リーグが代表を支える構造がまだ生きている。
@@ -60,8 +60,8 @@ Jason Tomane(CE,32)／Hinckley Vaovasa(FB,28)／Iliesa Tiqe(FB,33)
 - Gérard HC就任後に**ポルトガル・カナダ・アメリカを撃破**（RWC2027公式の評）
 
 ## RWC2027公式の「注目選手」
-- Marius Simionescu（WG, 29）— WG/CE/FBをこなす
-- Mihai Graure（CE, 24）— フィジカルとステップ
+- Marius Simionescu（WTB, 29）— WTB/CTB/FBをこなす
+- Mihai Graure（CTB, 24）— フィジカルとステップ
 - Ștefan Buruiană（HO, 22）— 戦術眼を持つ若きリーダー
 
 ## まだ埋まっていない項目

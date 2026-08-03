@@ -26,10 +26,10 @@
 - MLR待遇: **サラリーキャップ約50万ドル/クラブ**。給与は最低賃金近く〜看板選手で**年約4.5万ドルが上限**。
   **多くの選手が兼業**
 - 選手（all.rugby, 2026-07-22）:
-  - Luke Carty FH / Anthem Rugby Carolina(米MLR) / 28歳 / 47キャップ。アイルランド出身。LA Giltinis→Chicago→NOLA→Anthem
-  - Tommaso Boni CE / Old Glory DC(米MLR) / 33歳 / **元イタリア代表**（Zebre Parma、シックスネーションズ出場）
+  - Luke Carty SO / Anthem Rugby Carolina(米MLR) / 28歳 / 47キャップ。アイルランド出身。LA Giltinis→Chicago→NOLA→Anthem
+  - Tommaso Boni CTB / Old Glory DC(米MLR) / 33歳 / **元イタリア代表**（Zebre Parma、シックスネーションズ出場）
   - 太平洋系多数: Niuafe, Telea-Ilalio, Kofe, Pifeleti, Sosene-Feagai, Naqali, Ma'afu, Helu, Lopeti
-  - de Haas(南ア出身), Rufus McLean(WG)
+  - de Haas(南ア出身), Rufus McLean(WTB)
 
 ## 香港チャイナ
 - ランキング **23位・60.74pt**（2026-07-20）／HC **Logan Asplin**（NZ、2025年8月-）／主将 **Joshua Hrstich**(No.8)
@@ -37,7 +37,7 @@
   **日本に次ぐアジア2カ国目**（香港は6大会連続アジア王者）
 - **プールA**（オーストラリア/ニュージーランド/チリ）。**開幕戦でオーストラリアと対戦**
   - 10/1 vs オーストラリア（パース・開幕戦）、10/9 vs チリ（タウンズビル）、10/15 vs NZ（メルボルン）
-- スカッド構造: 39名中、中国系の名前は Ng Siu Lung(HO), Eric Chui Wai Lap(SH), Isaac Campbell-Wu(CE) ら少数。
+- スカッド構造: 39名中、中国系の名前は Ng Siu Lung(HO), Eric Chui Wai Lap(SH), Isaac Campbell-Wu(CTB) ら少数。
   大半が英・豪・南ア系＝**居住資格ベースの多国籍代表**。30代半ばが主力（Barker36, Hrstich35, Hill35, Sawyer34, Axten-Burrett34, McNeish34）
 - 準備: 前年夏にチリ・パラグアイ・ブラジル遠征、11月にブラジルを2度ホームで、豪・日で事前キャンプ
 - 注目選手（RWC2027公式）: Joshua Hrstich(No.8), Harry Sayers(BK), Pierce MacKinlay-West(FW)
@@ -52,7 +52,7 @@
   1987年ルーマニア戦は20-21の惜敗
 - 伝説: **Richard Tsimba「Black Diamond」= ジンバブエ代表初の黒人選手**。2度のW杯で3トライ。2000年没、
   **2012年 World Rugby殿堂入り**
-- 注目選手: Ian Prior(SH/FH, 大会時37歳、スーパーラグビー＆イングランド・プレミアシップ経験)、
+- 注目選手: Ian Prior(SH/SO, 大会時37歳、スーパーラグビー＆イングランド・プレミアシップ経験)、
   Tinotenda Mavesere(BR, 27歳、カリーカップ＆URC)、Cleopas Kundiona(PR, 27歳)
 
 ## ⚠ 数値の注意

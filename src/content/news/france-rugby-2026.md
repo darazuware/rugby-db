@@ -55,11 +55,11 @@ tags: ["フランス", "レ・ブルー", "RWC2027", "ワールドカップ2027"
 | 選手 | カタカナ | Pos | 所属クラブ |
 |:---|:---|:---|:---|
 | Antoine Dupont | **[アントワーヌ・デュポン](/players/antoine-dupont/)**（主将） | SH | [トゥールーズ](/teams/top14/toulouse/) |
-| Romain Ntamack | **[ロマン・ンタマック](/players/romain-ntamack/)** | FH | トゥールーズ |
+| Romain Ntamack | **[ロマン・ンタマック](/players/romain-ntamack/)** | SO | トゥールーズ |
 | Thomas Ramos | **[トマ・ラモス](/players/thomas-ramos/)** | FB | トゥールーズ |
-| Damian Penaud | **[ダミアン・プノー](/players/damian-penaud/)** | WG | [ボルドー・ベグル](/teams/top14/bordeaux/) |
-| Matthieu Jalibert | **[マチュー・ジャリベール](/players/matthieu-jalibert/)** | FH | [ボルドー・ベグル](/teams/top14/bordeaux/) |
-| Gaël Fickou | **[ガエル・フィクー](/players/gael-fickou/)** | CE | [ラシン92](/teams/top14/racing-92/) |
+| Damian Penaud | **[ダミアン・プノー](/players/damian-penaud/)** | WTB | [ボルドー・ベグル](/teams/top14/bordeaux/) |
+| Matthieu Jalibert | **[マチュー・ジャリベール](/players/matthieu-jalibert/)** | SO | [ボルドー・ベグル](/teams/top14/bordeaux/) |
+| Gaël Fickou | **[ガエル・フィクー](/players/gael-fickou/)** | CTB | [ラシン92](/teams/top14/racing-92/) |
 | Charles Ollivon | **[シャルル・オリヴォン](/players/charles-ollivon/)** | BR | [トゥーロン](/teams/top14/toulon/) |
 | Cameron Woki | **[キャメロン・ウォキ](/players/cameron-woki/)** | LO/BR | ボルドー・ベグル |
 

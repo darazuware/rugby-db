@@ -70,13 +70,13 @@
 
 | 選手 | Pos | 所属クラブ | 年齢 | キャップ | 身長/体重 | 経歴 |
 |---|---|---|---|---|---|---|
-| **Álvar Gimeno** | CE | AS Béziers（仏Pro D2） | 28 | **63** | 185cm/80kg | Valladolid(2017-19)→Béziers(2019-) |
+| **Álvar Gimeno** | CTB | AS Béziers（仏Pro D2） | 28 | **63** | 185cm/80kg | Valladolid(2017-19)→Béziers(2019-) |
 | **Ignacio Piñeiro** | LO | FC Grenoble（仏Pro D2） | 23 | 33 | 198cm/101kg | Oyonnax(2023-25)→Grenoble(2025-) |
 | **Jon Zabala**（主将） | PR | Section Paloise（仏Top14、2026年まで契約） | 29 | 32 | 190cm/124kg | Bayonneの下部育ち。Tarbes→Bayonne→Béziers→Pau。**JIFF資格** |
 | **Álvaro García** | HO | Stade Français（仏Top14） | 22 | 23 | 179cm/112kg | Stade Français(2023-)。代表では83%が先発 |
 | **Kerman Aurrekoetxea** | SH | Biarritz Olympique（仏Pro D2） | 26 | 13 | 179cm/69kg | El Salvador(2018-19)→Biarritz(2019-)。**JIFF資格** |
 | **Manex Ariceta** | BR | Aviron Bayonnais（仏Top14） | 22 | 7（25/26季） | 191cm/110kg | Hernani→Stade Hendayais→Bayonne(2021-)。**JIFF資格** |
-| **Samuel Ezeala** | WG | Stade Français（仏Top14、2026年まで契約） | 26 | 3 | 182cm/91kg | **Clermont(2017-23)→Pau→Stade Français**。JIFF |
+| **Samuel Ezeala** | WTB | Stade Français（仏Top14、2026年まで契約） | 26 | 3 | 182cm/91kg | **Clermont(2017-23)→Pau→Stade Français**。JIFF |
 
 - **前回の暫定表からの訂正**: Gimeno は RC Valencia ではなく **Béziers**、Ariceta は Top14 の Bayonne（Pro D2表記は誤り）。
 - 代表初戦の相手が確認できた例: Zabala = 2020-02-01 ロシア戦（REC）。
@@ -84,8 +84,8 @@
 
 ### スカッド全体の年齢分布（all.rugby 2025/26スカッド、2026-07-22取得）
 記事の「平均年齢」「最年少・最年長」に使える。**キャップ数はこのページには無い**。
-- 最年少: Nicolás Infer（SH）19歳、Oriol Marsinyac（CE）19歳
-- 最年長: **Bernardo Vázquez（PR）38歳**、Bautista Guemes（FH）37歳、JW Bell（FB）36歳、
+- 最年少: Nicolás Infer（SH）19歳、Oriol Marsinyac（CTB）19歳
+- 最年長: **Bernardo Vázquez（PR）38歳**、Bautista Guemes（SO）37歳、JW Bell（FB）36歳、
   Santiago Ovejero（HO）35歳、Matthew Foulds（BR）35歳
 - 30代が10名前後在籍する一方、20歳前後の若手も複数＝**世代交代の途中**
 
@@ -100,10 +100,10 @@
 | Kerman Aurrekoetxea | SH | Biarritz Olympique（仏Pro D2） |
 | Ekain Imaz | — | Biarritz Olympique（仏Pro D2） |
 | Hugo Pirlet | — | Biarritz Olympique（仏Pro D2） |
-| Alberto Carmona | WG | Colomiers Rugby（仏Pro D2） |
+| Alberto Carmona | WTB | Colomiers Rugby（仏Pro D2） |
 | Gonzalo López Bontempo | — | RC Massy Essonne（仏Nationale） |
 | John Wessel Bell | — | Harlequins RC Pretoria（南ア） |
-| Álvar Gimeno | CE | RC Valencia（西DH） |
+| Álvar Gimeno | CTB | RC Valencia（西DH） |
 | Estanislao Bay | SH | Cajasol Real Ciencias Sevilla（西DH） |
 | Thierry Futeu | — | Liceo Francés（西DH） |
 | Santiago Ovejero | — | Recoletas Burgos 2031（西DH） |
@@ -180,10 +180,10 @@
 | 選手 | Pos | 所属クラブ | 年齢 | キャップ | 身長/体重 | 経歴 |
 |---|---|---|---|---|---|---|
 | **Diego Escobar** | HO | **Racing 92（仏Top14、2024-26）** | 26 | **59** | 175cm/91kg | 2021年から代表。RWC2023出場。25/26季はRacingで29先発 |
-| **Santiago Videla** | CE/FH/FB/WG | **Chicago Hounds（米MLR、2025-26）** | 28 | **37**／代表通算**216点** | 183cm/85kg | Miami Sharks(2023-25)→Chicago Hounds(2025-)。MLR36試合157点 |
+| **Santiago Videla** | CTB/SO/FB/WTB | **Chicago Hounds（米MLR、2025-26）** | 28 | **37**／代表通算**216点** | 183cm/85kg | Miami Sharks(2023-25)→Chicago Hounds(2025-)。MLR36試合157点 |
 | **Javier Eissmann** | LO | SU Agen（仏Pro D2、2026年まで契約） | 29 | 36 | **201cm**/112kg | Agen(2024-) |
-| **Rodrigo Fernández** | FH | （クラブ情報なし） | 30 | 30 | 175cm/78kg | 代表30試合・5トライ・25PG、通算1,151分 |
-| **Iñaki Ayarza** | CE | **RC Vannes（仏、2024-26）** | 26 | 28 | 184cm/97kg | Soyaux-Angoulême(2021-24)→Vannes。**JIFF**。WG/FBもこなす |
+| **Rodrigo Fernández** | SO | （クラブ情報なし） | 30 | 30 | 175cm/78kg | 代表30試合・5トライ・25PG、通算1,151分 |
+| **Iñaki Ayarza** | CTB | **RC Vannes（仏、2024-26）** | 26 | 28 | 184cm/97kg | Soyaux-Angoulême(2021-24)→Vannes。**JIFF**。WTB/FBもこなす |
 | **Martín Sigren**（主将） | BR | **New England Free Jacks（米MLR）** | 30 | 27 | 190cm/99kg | Doncaster Knights → Free Jacks。代表デビューは2021年10月カナダ戦 |
 | **Matías Dittus** | PR | CS Annonay（仏Nationale、2025-26） | 33 | 27 | 176cm/116kg | Périgueux(2023-24)→Sarlat(2024-25)→Annonay |
 
@@ -216,16 +216,16 @@
 |---|---|---|
 | Diego Escobar | HO | Racing 92（仏Top14） |
 | Javier Eissmann | LO | SU Agen（仏Pro D2） |
-| Iñaki Ayarza | CE | US Oyonnax（仏Pro D2） |
+| Iñaki Ayarza | CTB | US Oyonnax（仏Pro D2） |
 | Matías Dittus | PR/BR | CS Annonay（仏Nationale） |
 | Santiago Videla | ユーティリティBK | Chicago Hounds（米MLR） |
 
 **Selknam所属（37名中32名）**
-- Martín Sigren（BR・主将）／Rodrigo Fernández（FH）／Domingo Saavedra（CE）／Marcelo Torrealba（SH）
+- Martín Sigren（BR・主将）／Rodrigo Fernández（SO）／Domingo Saavedra（CTB）／Marcelo Torrealba（SH）
 - LO: Santiago Pedrero、Bruno Sáez、Max Schlesinger ／ BR: Alfonso Escobar、Clemente Saavedra
 - PR: Norman Aguayo、Iñaki Gurruchaga、Baltazar Gurruchaga、Javier Carrasco、Salvador Lues、Emilio Shea
-- HO: Jorge Delgado ／ SH: Manuel Bustamante、Lucas Berti、Sebastián Bianchi ／ FH: Juan Cruz Reyes
-- CE: Clemente Armstrong、Matías Garafulic、Nicolás Saab ／ WG: Marco Alvano、Cristóbal Game
+- HO: Jorge Delgado ／ SH: Manuel Bustamante、Lucas Berti、Sebastián Bianchi ／ SO: Juan Cruz Reyes
+- CTB: Clemente Armstrong、Matías Garafulic、Nicolás Saab ／ WTB: Marco Alvano、Cristóbal Game
 - Videlaは代表通算**245得点で歴代最多得点者**
 - スカッド年齢20〜32歳・平均26歳。**個々の生年・キャップ数は一次情報未確認 → 書かない**
 
