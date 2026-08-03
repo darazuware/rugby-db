@@ -94,7 +94,7 @@ def load_articles() -> list[Article]:
             print(f"[publish] 公開日不明のためスキップ: {p.name}", file=sys.stderr)
             continue
         out.append(Article(
-            slug=p.stem,
+            slug=p.stem.lower(),
             title=str(fm.get("title", p.stem)),
             live_ts=ts,
             draft=bool(fm.get("draft", False)),
