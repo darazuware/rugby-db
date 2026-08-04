@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-08-03T22:33:41+09:00",
+  "checked_at": "2026-08-04T15:35:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "c81b28d13c806393"
+      "hash": "b61d7fb0a7ef870e"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "b67b9f6f09b60f3f"
+      "hash": "3ee745379d31a199"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2415/",
+      "title": "社会貢献 2026.8.3 【普及活動】國學院栃木高校ラグビー部にてラグビークリニックを開催しました",
+      "date": "2026-08-03"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2413/",
       "title": "トピックス 2026.8.1 男子セブンズ デベロップメント・スコッド（SDS）福岡合宿 参加のお知らせ",
@@ -130,11 +135,6 @@
     {
       "url": "https://www.honda-heat.jp/news/2389/",
       "title": "イベント 2026.6.26 『スポGOMI大会 in 鬼怒川』参加のお知らせ",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2388/",
-      "title": "イベント 2026.6.26 7月のイベント参加情報",
       "date": "2026-06-26"
     },
     {

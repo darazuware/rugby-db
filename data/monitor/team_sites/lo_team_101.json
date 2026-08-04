@@ -3,28 +3,33 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-08-03T22:33:41+09:00",
+  "checked_at": "2026-08-04T15:35:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "764d2965f90a479d"
+      "hash": "372fed0620304e2b"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "519675a7ebc9a67b"
+      "hash": "da4bd7886dbfa4a3"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "465fa578983165d4"
+      "hash": "27400bd9c5465470"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "cdfedb7dcf08f902"
+      "hash": "fbf0263b2e912f26"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post34983/",
+      "title": "2026/8/4 社会貢献 【レポート】7月30日(木)～8月2日(日)に開催された「KOBELCO CUP 2026」へ選手・スタッフを派遣しました",
+      "date": "2026-08-04"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post34958/",
       "title": "2026/8/3 イベント 【レポート】7月28日(火)「第43回元町夜市2026」でラグビー体験を実施しました",
@@ -157,7 +162,7 @@
     },
     {
       "url": "https://www.kobesteelers.com/news/post34748/",
-      "title": "2026/7/10 お知らせ 神戸市による市内トップスポーツチーム4冠達成お祝いについてのお知らせ",
+      "title": "2026/7/10 イベント 神戸市による市内トップスポーツチーム4冠達成お祝いについてのお知らせ",
       "date": "2026-07-10"
     },
     {
@@ -173,11 +178,6 @@
     {
       "url": "https://www.kobesteelers.com/news/post34736/",
       "title": "2026/7/9 イベント 神戸市立灘の浜小学校にてNTTリーグワン2025-26の優勝報告を行いました",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.kobesteelers.com/interview/post34750/",
-      "title": "2026/7/9 チーム 2025-26シーズン 退団選手インタビュー Part.4 CTBアントン・レイナートブラウン選手",
       "date": "2026-07-09"
     },
     {
@@ -218,11 +218,6 @@
     {
       "url": "https://www.kobesteelers.com/news/post34549/",
       "title": "2026/6/26 普及 【レポート】青森県弘前市でラグビークリニックを開催しました",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34546/",
-      "title": "2026/6/26 イベント 【レポート】「ラグビーわんだほー！CRUISING」に参加しました",
       "date": "2026-06-26"
     },
     {
@@ -324,6 +319,11 @@
       "url": "https://www.kobesteelers.com/news/post29093/",
       "title": "2025/11/6 お知らせ サポートステーションご登録のお願い",
       "date": "2025-11-06"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post29027/",
+      "title": "2025/11/4 お知らせ 神戸を拠点とする各スポーツチームの紹介コーナーがJR三ノ宮駅南側エリアに設置されます",
+      "date": "2025-11-04"
     }
   ]
 }

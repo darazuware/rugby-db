@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-08-03T22:33:41+09:00",
+  "checked_at": "2026-08-04T15:35:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "9727ce5d2a26e91d"
+      "hash": "a02af12cacc985e4"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "87bcbc87a2707140"
+      "hash": "c08ed61542fb9203"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260804.html",
+      "title": "2026-08-04 竹澤正祥選手 加入のお知らせ",
+      "date": "2026-08-04"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260802.html",
       "title": "2026-08-02 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部選手・吉本選手が選出",
@@ -54,7 +59,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260714.html",
-      "title": "2026-07-14 安藤啓太選手、高城勝一選手、濱野隼大選手 加入のお知らせ",
+      "title": "2026-07-14 [ チーム ] 安藤啓太選手、高城勝一選手、濱野隼大選手 加入のお知らせ",
       "date": "2026-07-14"
     },
     {
@@ -174,7 +179,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260507.html",
-      "title": "1 1 Slide",
+      "title": "2026-05-07 [ チーム ] 2025-26シーズンをもって退団となる選手・スタッフのお知らせ",
       "date": "2026-05-07"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/2526r16#10",
       "title": "2026-04-27 [ メディア ] 試合レポート更新｜vs埼玉WK --ルーキー3人が体感した“本物のレベル” 57失点大敗も…指揮官が込めた思い「多くのことを得てくれる」",
       "date": "2026-04-27"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260423.html-0",
-      "title": "2026-04-23 [ イベント ] 今年もダイボ君らしく！「ジャパンラグビー リーグワン マスコット総選挙 2025-26」投票受付開始",
-      "date": "2026-04-23"
     }
   ]
 }
