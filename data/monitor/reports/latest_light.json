@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-04T14:12:10+09:00",
+  "checked_at": "2026-08-04T17:30:54+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,14 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6093",
-          "title": "クラブ 三菱重工相模原ダイナボアーズ、竹澤正祥選手 加入のお知らせ 2026.08.04",
-          "date": "2026-08-04",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -40,15 +33,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6093",
-      "title": "クラブ 三菱重工相模原ダイナボアーズ、竹澤正祥選手 加入のお知らせ 2026.08.04",
-      "date": "2026-08-04",
-      "category": "roster"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
