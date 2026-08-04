@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-08-04T15:35:50+09:00",
+  "checked_at": "2026-08-04T21:53:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "e1f434561998addd"
+      "hash": "32e776eca4b3d4f2"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260804a.html",
+      "title": "TJ・ペレナラ選手 ベストフィフティーン選出記念グッズ第2弾 受注販売のお知らせ",
+      "date": "2026-08-04"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260803a.html",
       "title": "ラムまるLINEスタンプvol.1 販売開始のお知らせ",
@@ -21,11 +26,6 @@
     {
       "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260731a.html",
       "title": "ニュージーランド留学レポート③（李淳弘選手）",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260731a.html",
-      "title": "神鳥裕之氏 退団及び公益財団法人日本ラグビーフットボール協会出向のお知らせ",
       "date": "2026-07-31"
     },
     {

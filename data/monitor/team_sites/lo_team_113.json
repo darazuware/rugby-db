@@ -3,27 +3,32 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-08-04T15:35:50+09:00",
+  "checked_at": "2026-08-04T21:53:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "08065b4687cc812b"
+      "hash": "22240531736bf099"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "1fbd43e038df1b89"
+      "hash": "4a28ce11e61bc7f4"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "f3019725a39cb823"
+      "hash": "f90619bb66559278"
     }
   ],
   "items": [
     {
       "url": "https://kamaishi-seawaves.com/news/info/31725/",
       "title": "お知らせ 2026.8.4 「2026ラグビッグドリーム～釜石絆の日～」プレシーズンマッチ 第1戦 開催のお知らせ",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://kamaishi-seawaves.com/news/game/31780/",
+      "title": "試合情報 2026.8.4 2026プレシーズンマッチ 第1戦／AZ-COM丸和MOMOTARO’S戦",
       "date": "2026-08-04"
     },
     {

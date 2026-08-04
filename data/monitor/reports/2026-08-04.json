@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-04T15:35:50+09:00",
+  "checked_at": "2026-08-04T21:53:44+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,18 +9,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://urayasu-d-rocks.com/news/fanclub/index_1998.html",
-          "title": "ファンクラブ 2026.08.04 ファンクラブClub D-Rockers システムリニューアルに伴うホワイト会員新規入会受付終了について",
-          "date": "2026-08-04",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://urayasu-d-rocks.com/",
-        "https://urayasu-d-rocks.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -31,25 +21,10 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [
-        {
-          "url": "https://www.kobesteelers.com/news/post34983/",
-          "title": "2026/8/4 社会貢献 【レポート】7月30日(木)～8月2日(日)に開催された「KOBELCO CUP 2026」へ選手・スタッフを派遣しました",
-          "date": "2026-08-04",
-          "category": null
-        },
-        {
-          "url": "https://www.kobesteelers.com/news/post29027/",
-          "title": "2025/11/4 お知らせ 神戸を拠点とする各スポーツチームの紹介コーナーがJR三ノ宮駅南側エリアに設置されます",
-          "date": "2025-11-04",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.kobesteelers.com/",
-        "https://www.kobesteelers.com/news/",
-        "https://www.kobesteelers.com/news/cat_news/information/",
-        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+        "https://www.kobesteelers.com/news/"
       ],
       "rename_signals": []
     },
@@ -85,8 +60,29 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4249",
+          "title": "【ファンクラブ】2026-27シーズン ファンクラブ入会募集のご案内 チケット・ファンクラブ 2026.08.04",
+          "date": "2026-08-04",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4250/",
+          "title": "2026.8.4 チケット・ファンクラブ 【ファンクラブ】8/18(火)まで 「自動継続」設定の確認のお願い",
+          "date": "2026-08-04",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4249/",
+          "title": "2026.8.4 チケット・ファンクラブ 【ファンクラブ】2026-27シーズン ファンクラブ入会募集のご案内",
+          "date": "2026-08-04",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -97,18 +93,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 25,
-      "new_items": [
-        {
-          "url": "https://www.honda-heat.jp/news/2415/",
-          "title": "社会貢献 2026.8.3 【普及活動】國學院栃木高校ラグビー部にてラグビークリニックを開催しました",
-          "date": "2026-08-03",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.honda-heat.jp/",
-        "https://www.honda-heat.jp/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -119,14 +105,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260804.html",
-          "title": "2026-08-04 竹澤正祥選手 加入のお知らせ",
-          "date": "2026-08-04",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -153,8 +132,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260804a.html",
+          "title": "TJ・ペレナラ選手 ベストフィフティーン選出記念グッズ第2弾 受注販売のお知らせ",
+          "date": "2026-08-04",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -165,17 +153,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 57,
-      "new_items": [
-        {
-          "url": "https://www.kubota-spears.com/event/2026/08/04/120000.html",
-          "title": "2026.08.04 イベント情報",
-          "date": "2026-08-04",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.kubota-spears.com/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -185,7 +164,7 @@
       "official_url": "https://www.shizuoka-bluerevs.com",
       "status": "ok",
       "first_run": false,
-      "item_count": 27,
+      "item_count": 26,
       "new_items": [],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
@@ -237,19 +216,9 @@
       "status": "ok",
       "first_run": false,
       "item_count": 24,
-      "new_items": [
-        {
-          "url": "https://blue-sharks.jp/news/2026/08/25044/",
-          "title": "ヤローズタラナキブルズ研修レポート Vol.5 (上野雄太)",
-          "date": "2026-08-25",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
-        "https://blue-sharks.jp/",
-        "https://blue-sharks.jp/information/",
-        "https://blue-sharks.jp/news/",
-        "https://blue-sharks.jp/category/news/"
+        "https://blue-sharks.jp/"
       ],
       "rename_signals": []
     },
@@ -274,11 +243,11 @@
       "official_url": "https://kamaishi-seawaves.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 15,
+      "item_count": 16,
       "new_items": [
         {
-          "url": "https://kamaishi-seawaves.com/news/info/31725/",
-          "title": "お知らせ 2026.8.4 「2026ラグビッグドリーム～釜石絆の日～」プレシーズンマッチ 第1戦 開催のお知らせ",
+          "url": "https://kamaishi-seawaves.com/news/game/31780/",
+          "title": "試合情報 2026.8.4 2026プレシーズンマッチ 第1戦／AZ-COM丸和MOMOTARO’S戦",
           "date": "2026-08-04",
           "category": null
         }
@@ -298,14 +267,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 29,
-      "new_items": [
-        {
-          "url": "https://hanazono-liners.jp/2026/08/04/itemae/",
-          "title": "2026.08.04 活動報告書 その他 【番組 オフもいてまえ！花園近鉄ライナーズ（2回目・8/1放送）】",
-          "date": "2026-08-04",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -320,17 +282,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 19,
-      "new_items": [
-        {
-          "url": "https://hino-reddolphins.com/2026-08-04/",
-          "title": "くいもの屋わん 豊田北口/南大沢店 九州魂 南大沢店 特別クーポン継続実施のお知らせ",
-          "date": "2026-08-04",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -357,8 +310,7 @@
       "item_count": 44,
       "new_items": [],
       "changed_pages": [
-        "https://www.kurita-watergush.jp/",
-        "https://www.kurita-watergush.jp/news/"
+        "https://www.kurita-watergush.jp/"
       ],
       "rename_signals": []
     },
@@ -371,7 +323,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -420,18 +375,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 11,
-      "new_items": [
-        {
-          "url": "https://leriro-fukuoka.com/news-detail?id=269",
-          "title": "2026-27シーズンの選手個人スポンサー 募集時期のお知らせ",
-          "date": "2026-08-04",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://leriro-fukuoka.com/",
-        "https://leriro-fukuoka.com/news"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     }
   ],
@@ -467,15 +412,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "三菱重工相模原ダイナボアーズ",
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260804.html",
-      "title": "2026-08-04 竹澤正祥選手 加入のお知らせ",
-      "date": "2026-08-04",
-      "category": "roster"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": [
     "NECグリーンロケッツ東葛: 公式サイトが移転: https://green.necrockets.net/ -> https://www.jreast.co.jp/greenwarriors/",
