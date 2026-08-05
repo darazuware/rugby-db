@@ -3,28 +3,33 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-08-05T15:36:19+09:00",
+  "checked_at": "2026-08-05T21:48:34+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "09184ab19a96aca8"
+      "hash": "ed8d6b7afe8d2d4f"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "6a3fb5c778473dea"
+      "hash": "836b50cde33eb03c"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "030574864a1376b4"
+      "hash": "551b98d8e29ba3ef"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "98ed89d86915f50a"
+      "hash": "a522a5e7b53eba52"
     }
   ],
   "items": [
+    {
+      "url": "https://blue-sharks.jp/news/2026/08/25063/",
+      "title": "2026-27シーズン新体制のお知らせ",
+      "date": "2026-08-25"
+    },
     {
       "url": "https://blue-sharks.jp/news/2026/08/25051/",
       "title": "グロスターラグビー研修レポート Vol.5（李優河）",
@@ -52,7 +57,7 @@
     },
     {
       "url": "https://blue-sharks.jp/news/2026/07/25022/",
-      "title": "グロスターラグビー研修レポート Vol.4（浦野龍基）",
+      "title": "お知らせ 2026/07/31 グロスターラグビー研修レポート Vol.4（浦野龍基）",
       "date": "2026-07-25"
     },
     {
@@ -98,11 +103,6 @@
     {
       "url": "https://blue-sharks.jp/news/2026/07/24952/",
       "title": "お知らせ 2026/07/05 イングランド・グロスターラグビーへの選手派遣及びコーチング研修",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/07/24948/",
-      "title": "お知らせ 2026/07/03 イングランド・グロスターラグビーとのパートナーシップ契約締結のお知らせ",
       "date": "2026-07-24"
     },
     {
