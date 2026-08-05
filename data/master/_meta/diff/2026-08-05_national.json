@@ -4,7 +4,111 @@
   "transfers": [],
   "departures": [],
   "first_caps": [],
-  "caps_updates": [],
-  "pending_departures": [],
+  "caps_updates": [
+    {
+      "id": "ar_joel-lam",
+      "name_en": "Joel LAM",
+      "name_ja": null,
+      "team": "Samoa",
+      "from_count": 4,
+      "to_count": 5
+    },
+    {
+      "id": "ar_manaaki-boyle-tiatia",
+      "name_en": "Manaaki BOYLE-TIATIA",
+      "name_ja": null,
+      "team": "Samoa",
+      "from_count": 2,
+      "to_count": 3
+    },
+    {
+      "id": "ar_motikiai-murray",
+      "name_en": "Motikiai MURRAY",
+      "name_ja": null,
+      "team": "Fiji",
+      "from_count": 5,
+      "to_count": 8
+    },
+    {
+      "id": "ar_nic-benn",
+      "name_en": "Nic BENN",
+      "name_ja": null,
+      "team": "Canada",
+      "from_count": 16,
+      "to_count": 17
+    },
+    {
+      "id": "ar_patrick-pellegrini",
+      "name_en": "Pat PELLEGRINI",
+      "name_ja": null,
+      "team": "Tonga",
+      "from_count": 14,
+      "to_count": 23
+    },
+    {
+      "id": "ar_taniela-filimone",
+      "name_en": "Taniela FILIMONE",
+      "name_ja": null,
+      "team": "Tonga",
+      "from_count": 10,
+      "to_count": 11
+    }
+  ],
+  "pending_departures": [
+    {
+      "id": "jrfu_callup_haruto-kida",
+      "name_en": "Haruto KIDA",
+      "name_ja": "木田 晴斗",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506353",
+      "name_en": "Waisake RARATUBUA",
+      "name_ja": "ワイサケ・ララトゥブア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506359",
+      "name_en": "Haruto WATANABE",
+      "name_ja": "渡邊晴斗",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506369",
+      "name_en": "Inoke BURUA",
+      "name_ja": "イノケ・ブルア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506497",
+      "name_en": "Aseri MASIVOU",
+      "name_ja": "アセリ・マシヴォウ",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506500",
+      "name_en": "Shun ARAKAWA",
+      "name_ja": "荒川駿",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506501",
+      "name_en": "Shigure TAKAO",
+      "name_ja": "高尾時流",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506503",
+      "name_en": "Shota TAIRA",
+      "name_ja": "平翔太",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_507122",
+      "name_en": "Kanato HIRANO",
+      "name_ja": "平野叶翔",
+      "team_id": "japan"
+    }
+  ],
   "newly_finished_rounds": []
 }

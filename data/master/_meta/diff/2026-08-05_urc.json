@@ -3,7 +3,15 @@
   "signings": [],
   "transfers": [],
   "departures": [],
-  "first_caps": [],
+  "first_caps": [
+    {
+      "id": "ar_ion-neculai",
+      "name_en": "Ion NECULAI",
+      "name_ja": null,
+      "team": "Italy",
+      "count": 4
+    }
+  ],
   "caps_updates": [],
   "pending_departures": [],
   "newly_finished_rounds": []
