@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-05T14:12:17+09:00",
+  "checked_at": "2026-08-05T17:29:52+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,14 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6094",
-          "title": "クラブ 東京サントリーサンゴリアス、市原市消防局との合同トレーニング実施のお知らせ 2026.08.05",
-          "date": "2026-08-05",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -28,10 +21,10 @@
       "item_count": 9,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54100",
-          "title": "リポビタンDチャレンジカップ2026 日本代表 対 オーストラリア代表 国歌斉唱者決定のお知らせ 2026.8.05 （水） 15人制男子日本代表 WBB 日本代表",
+          "url": "https://www.rugby-japan.jp/news/53971",
+          "title": "（8/5更新）太陽生命カップ2026 第17回全国中学生ラグビーフットボール大会開催のお知らせ 2026.8.05 （水） 中学 普及育成 太陽生命カップ 大会",
           "date": "2026-08-05",
-          "category": "squad"
+          "category": null
         }
       ],
       "rename_signals": []
@@ -47,15 +40,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54100",
-      "title": "リポビタンDチャレンジカップ2026 日本代表 対 オーストラリア代表 国歌斉唱者決定のお知らせ 2026.8.05 （水） 15人制男子日本代表 WBB 日本代表",
-      "date": "2026-08-05",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
