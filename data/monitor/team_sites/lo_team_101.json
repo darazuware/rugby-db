@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-08-04T21:53:44+09:00",
+  "checked_at": "2026-08-05T15:36:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "e033f9664de5202f"
+      "hash": "787de1001092cec3"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "cd76347a03ea5499"
+      "hash": "bc9f16f7c6c6f878"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,16 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35002/",
+      "title": "2026/8/5 イベント 神戸三宮センター街1丁目で神戸4チームの優勝トロフィー・シャーレが展示されます",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post34913/",
+      "title": "2026/8/5 イベント 子どもを育むスマハマプロジェクト「コベルコ神戸スティーラーズが須磨海岸にやってくる！」を実施します",
+      "date": "2026-08-05"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post34983/",
       "title": "2026/8/4 社会貢献 【レポート】7月30日(木)～8月2日(日)に開催された「KOBELCO CUP 2026」へ選手・スタッフを派遣しました",
@@ -176,19 +186,9 @@
       "date": "2026-07-10"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post34736/",
-      "title": "2026/7/9 イベント 神戸市立灘の浜小学校にてNTTリーグワン2025-26の優勝報告を行いました",
-      "date": "2026-07-09"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post34673/",
       "title": "2026/7/3 普及 【レポート】神戸市立駒ヶ林小学校でタグラグビー教室を実施しました",
       "date": "2026-07-03"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34630/",
-      "title": "2026/7/2 イベント 「KOBE SPORTS CROSSOVER！～神戸を熱くする3つの力～」のイベントに参加しました",
-      "date": "2026-07-02"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34624/",

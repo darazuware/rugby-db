@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-08-04T21:53:44+09:00",
+  "checked_at": "2026-08-05T15:36:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "4b6de13ba72dd303"
+      "hash": "3ea0fb1b7888ebda"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "54b6c66722a7af8d"
+      "hash": "e21e08c4f7b31248"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3154",
+      "title": "2026.8.5[WED] HOST AREA 【ホストエリア活動】磐田市 「キラリ☆サマーキャンプ2026」にてタグラグビー体験を実施しました",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3153",
+      "title": "2026.8.5[WED] OTHERS 夏季休業期間のお知らせ",
+      "date": "2026-08-05"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3152",
       "title": "2026.8.3[MON] HOST AREA 【ホストエリア活動】静岡市 令和8年度「小学校体育実技指導研修会」にて教員向けタグラグビー講習会を実施しました",
@@ -106,16 +116,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3138",
       "title": "2026.7.4[SAT] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（6/29～7/3）",
       "date": "2026-07-04"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3135",
-      "title": "2026.7.4[SAT] HOST AREA 【ホストエリア活動】御殿場市スポーツ振興連絡会・御殿場市スポーツ推進委員会合同実技研修会にてREVSプログラムを実施しました",
-      "date": "2026-07-04"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3139",
-      "title": "2026.7.3[FRI] SDGs 地域清掃活動＜REVS KEEP CLEAN＞第10回を実施しました",
-      "date": "2026-07-03"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3126",

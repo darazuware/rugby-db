@@ -3,28 +3,33 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-08-04T21:53:44+09:00",
+  "checked_at": "2026-08-05T15:36:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "c7f52ef5e2972f94"
+      "hash": "cb09e6314675f56a"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "d756220966ce8a14"
+      "hash": "16206be8a2d6f91f"
     }
   ],
   "items": [
     {
-      "url": "https://www.bravelupus.com/news/260801/",
-      "title": "「東芝ブレイブルーパス東京×筋肉食堂」のタイアップが実現",
-      "date": "2026-08-01"
+      "url": "https://www.bravelupus.com/news/all_story/",
+      "title": "【連載企画】東芝ブレイブルーパス東京「物語り」（Vol.198更新）",
+      "date": "2026-08-05"
     },
     {
       "url": "https://www.bravelupus.com/news/",
       "title": "記事一覧",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260801/",
+      "title": "「東芝ブレイブルーパス東京×筋肉食堂」のタイアップが実現",
       "date": "2026-08-01"
     },
     {
@@ -86,11 +91,6 @@
       "url": "https://www.bravelupus.com/news/260701/",
       "title": "2026-27シーズン 新加入選手のお知らせ",
       "date": "2026-07-01"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/all_story/",
-      "title": "【連載企画】東芝ブレイブルーパス東京「物語り」（Vol.196更新）",
-      "date": "2026-06-30"
     },
     {
       "url": "https://www.bravelupus.com/news/260630/",

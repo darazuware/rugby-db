@@ -3,28 +3,33 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-08-04T21:53:44+09:00",
+  "checked_at": "2026-08-05T15:36:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "4633e79264a2ce4e"
+      "hash": "54c7c1b471831cc4"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "828843bdf50f1ee9"
+      "hash": "a282e8b81e517149"
     }
   ],
   "items": [
     {
-      "url": "https://shuttles-aichi.com/news/2026-27newplayerstaff/",
-      "title": "お知らせ 2026.08.03 2026-27シーズン新加入選手スタッフのお知らせ",
-      "date": "2026-08-03"
+      "url": "https://shuttles-aichi.com/news/aeon-mall-aratamabashi-feel-the-rugby/",
+      "title": "お知らせ イベント 2026.08.05 イオンモール新瑞橋で「Feel the Rugby」を開催！",
+      "date": "2026-08-05"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
       "title": "もっと見る",
+      "date": "2026-08-05"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/2026-27newplayerstaff/",
+      "title": "お知らせ 2026.08.03 2026-27シーズン新加入選手スタッフのお知らせ",
       "date": "2026-08-03"
     },
     {
@@ -46,11 +51,6 @@
       "url": "https://shuttles-aichi.com/news/ntt2026-27kaimaku/",
       "title": "2026.07.01 NTTリーグワン2026-27は12月12日に開幕！",
       "date": "2026-07-01"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/2025-26-season-we-held-a-fan-thanksgiving/",
-      "title": "2026.06.18 2025-26シーズン ファン感謝祭を開催しました！",
-      "date": "2026-06-18"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-5-23photo-gallery/",

@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-08-04T21:53:44+09:00",
+  "checked_at": "2026-08-05T15:36:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "079f58026f9fc416"
+      "hash": "cd3f643a388de26f"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "3148ceb003827c3f"
+      "hash": "e3d51e3d1ae711b7"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627icct.html",
+      "title": "2026年 8月 5日 市原市消防局との合同トレーニング実施のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、東京サントリーサンゴリアスは、…",
+      "date": "2026-08-05"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/260803nfjsg.html",
       "title": "2026年 8月 3日 新加入選手のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27シーズンより、東…",
@@ -211,11 +216,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/252610vgSBR.html",
       "title": "2026年 2月22日 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第10節 静岡ブルーレヴズ vs東京サントリーサンゴリアス戦のご案内 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第10節 ※ビジターゲーム ■試合日…",
       "date": "2026-02-22"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/25267rsdct.html",
-      "title": "2026年 2月18日 【重要】2月8日(日) 東京SGv相模原DB戦中止に伴うチケットの取り扱いおよび払い戻し方法について いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 「NTTジャパンラグビー リーグワン …",
-      "date": "2026-02-18"
     }
   ]
 }

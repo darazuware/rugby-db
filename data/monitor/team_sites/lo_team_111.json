@@ -3,28 +3,33 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-08-04T21:53:44+09:00",
+  "checked_at": "2026-08-05T15:36:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "aae930b6f09ad3a8"
+      "hash": "09184ab19a96aca8"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "889d32190ebde6bf"
+      "hash": "6a3fb5c778473dea"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "cfb6233bd5b4705e"
+      "hash": "030574864a1376b4"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "f977eb4504be0f6a"
+      "hash": "98ed89d86915f50a"
     }
   ],
   "items": [
+    {
+      "url": "https://blue-sharks.jp/news/2026/08/25051/",
+      "title": "グロスターラグビー研修レポート Vol.5（李優河）",
+      "date": "2026-08-25"
+    },
     {
       "url": "https://blue-sharks.jp/news/2026/08/25044/",
       "title": "ヤローズタラナキブルズ研修レポート Vol.5 (上野雄太)",
@@ -38,11 +43,11 @@
     {
       "url": "https://blue-sharks.jp/information/",
       "title": "もっと見る",
-      "date": "2026-08-04"
+      "date": "2026-08-05"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/07/25028/",
-      "title": "有明アリーナスポーツフェス2026 活動報告",
+      "title": "お知らせ 2026/07/30 有明アリーナスポーツフェス2026 活動報告",
       "date": "2026-07-25"
     },
     {
@@ -103,11 +108,6 @@
     {
       "url": "https://blue-sharks.jp/news/2026/07/24945/",
       "title": "お知らせ 2026/07/04 タラナキブルズとのパートナーシップ締結継続、選手派遣及びコーチング研修のお知らせ",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/07/24925/",
-      "title": "お知らせ 2026/07/03 2026-27シーズン 新加入選手のお知らせ",
       "date": "2026-07-24"
     },
     {
