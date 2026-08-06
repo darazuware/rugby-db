@@ -1,10 +1,36 @@
 {
   "league": "top14",
-  "signings": [],
+  "signings": [
+    {
+      "id": "ar_florian-vives",
+      "name_en": "Florian VIVES",
+      "name_ja": null,
+      "team_id": "perpignan"
+    },
+    {
+      "id": "ar_hippolyte-carnot",
+      "name_en": "Hippolyte CARNOT",
+      "name_ja": null,
+      "team_id": "paris"
+    },
+    {
+      "id": "ar_jean-forestier",
+      "name_en": "Jean FORESTIER",
+      "name_ja": null,
+      "team_id": "castres"
+    }
+  ],
   "transfers": [],
   "departures": [],
   "first_caps": [],
   "caps_updates": [],
-  "pending_departures": [],
+  "pending_departures": [
+    {
+      "id": "ar_james-o-reilly",
+      "name_en": "James O'REILLY",
+      "name_ja": null,
+      "team_id": "vannes"
+    }
+  ],
   "newly_finished_rounds": []
 }

@@ -1,11 +1,27 @@
 [
   {
+    "id": "ar_ezekiel-lindenmuth",
+    "name_en": "Ezekiel LINDENMUTH",
+    "name_ja": null,
+    "team": "Usa",
+    "from_count": 11,
+    "to_count": 13
+  },
+  {
     "id": "ar_joel-lam",
     "name_en": "Joel LAM",
     "name_ja": null,
     "team": "Samoa",
     "from_count": 4,
     "to_count": 5
+  },
+  {
+    "id": "ar_jonathan-taumateine",
+    "name_en": "Jonathan TAUMATEINE",
+    "name_ja": null,
+    "team": "Samoa",
+    "from_count": 18,
+    "to_count": 22
   },
   {
     "id": "ar_manaaki-boyle-tiatia",
@@ -38,6 +54,22 @@
     "team": "Tonga",
     "from_count": 14,
     "to_count": 23
+  },
+  {
+    "id": "ar_samu-tawake",
+    "name_en": "Samu TAWAKE",
+    "name_ja": null,
+    "team": "Fiji",
+    "from_count": 26,
+    "to_count": 28
+  },
+  {
+    "id": "ar_sekope-lopeti-moli",
+    "name_en": "Sekope LOPETI-MOLI",
+    "name_ja": null,
+    "team": "Tonga",
+    "from_count": 5,
+    "to_count": 6
   },
   {
     "id": "ar_taniela-filimone",

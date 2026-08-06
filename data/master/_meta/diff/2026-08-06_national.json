@@ -4,7 +4,95 @@
   "transfers": [],
   "departures": [],
   "first_caps": [],
-  "caps_updates": [],
-  "pending_departures": [],
+  "caps_updates": [
+    {
+      "id": "ar_ezekiel-lindenmuth",
+      "name_en": "Ezekiel LINDENMUTH",
+      "name_ja": null,
+      "team": "Usa",
+      "from_count": 11,
+      "to_count": 13
+    },
+    {
+      "id": "ar_jonathan-taumateine",
+      "name_en": "Jonathan TAUMATEINE",
+      "name_ja": null,
+      "team": "Samoa",
+      "from_count": 18,
+      "to_count": 22
+    },
+    {
+      "id": "ar_samu-tawake",
+      "name_en": "Samu TAWAKE",
+      "name_ja": null,
+      "team": "Fiji",
+      "from_count": 26,
+      "to_count": 28
+    },
+    {
+      "id": "ar_sekope-lopeti-moli",
+      "name_en": "Sekope LOPETI-MOLI",
+      "name_ja": null,
+      "team": "Tonga",
+      "from_count": 5,
+      "to_count": 6
+    }
+  ],
+  "pending_departures": [
+    {
+      "id": "jrfu_callup_haruto-kida",
+      "name_en": "Haruto KIDA",
+      "name_ja": "木田 晴斗",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506353",
+      "name_en": "Waisake RARATUBUA",
+      "name_ja": "ワイサケ・ララトゥブア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506359",
+      "name_en": "Haruto WATANABE",
+      "name_ja": "渡邊晴斗",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506369",
+      "name_en": "Inoke BURUA",
+      "name_ja": "イノケ・ブルア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506497",
+      "name_en": "Aseri MASIVOU",
+      "name_ja": "アセリ・マシヴォウ",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506500",
+      "name_en": "Shun ARAKAWA",
+      "name_ja": "荒川駿",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506501",
+      "name_en": "Shigure TAKAO",
+      "name_ja": "高尾時流",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506503",
+      "name_en": "Shota TAIRA",
+      "name_ja": "平翔太",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_507122",
+      "name_en": "Kanato HIRANO",
+      "name_ja": "平野叶翔",
+      "team_id": "japan"
+    }
+  ],
   "newly_finished_rounds": []
 }

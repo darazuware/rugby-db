@@ -484,6 +484,84 @@
       "name_en": "Jay REIHANA",
       "name_ja": null,
       "team_id": "highlanders"
+    },
+    "ar_charlie-sinton": {
+      "id": "ar_charlie-sinton",
+      "name_en": "Charlie SINTON",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    "ar_cohen-norrie": {
+      "id": "ar_cohen-norrie",
+      "name_en": "Cohen NORRIE",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    "ar_david-lewai": {
+      "id": "ar_david-lewai",
+      "name_en": "David LEWAI",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    "ar_feleti-sae-ta-ufo-ou": {
+      "id": "ar_feleti-sae-ta-ufo-ou",
+      "name_en": "Feleti SAE-TA'UFO'OU",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    "ar_hugh-renton": {
+      "id": "ar_hugh-renton",
+      "name_en": "Hugh RENTON",
+      "name_ja": null,
+      "team_id": "highlanders"
+    },
+    "ar_ioane-moananu": {
+      "id": "ar_ioane-moananu",
+      "name_en": "Ioane MOANANU",
+      "name_ja": null,
+      "team_id": "waratahs"
+    },
+    "ar_johnny-falloon": {
+      "id": "ar_johnny-falloon",
+      "name_en": "Johnny FALLOON",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    "ar_johnny-mcnicholl": {
+      "id": "ar_johnny-mcnicholl",
+      "name_en": "Johnny MCNICHOLL",
+      "name_ja": null,
+      "team_id": "crusaders"
+    },
+    "ar_maloni-kunawave": {
+      "id": "ar_maloni-kunawave",
+      "name_en": "Maloni KUNAWAVE",
+      "name_ja": null,
+      "team_id": "crusaders"
+    },
+    "ar_ola-tauelangi": {
+      "id": "ar_ola-tauelangi",
+      "name_en": "Ola TAUELANGI",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    "ar_siaosi-nginingini": {
+      "id": "ar_siaosi-nginingini",
+      "name_en": "Siaosi NGININGINI",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    "ar_simon-peter-toleafoa": {
+      "id": "ar_simon-peter-toleafoa",
+      "name_en": "Simon-Peter TOLEAFOA",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    "ar_toby-bell": {
+      "id": "ar_toby-bell",
+      "name_en": "Toby BELL",
+      "name_ja": null,
+      "team_id": "crusaders"
     }
   },
   "mlr": {
@@ -550,6 +628,12 @@
     "ar_tayne-hemopo": {
       "id": "ar_tayne-hemopo",
       "name_en": "Tayne HEMOPO",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    "ar_filipe-vakasiuola": {
+      "id": "ar_filipe-vakasiuola",
+      "name_en": "Filipe VAKASIUOLA",
       "name_ja": null,
       "team_id": "new-england-free-jacks"
     }
