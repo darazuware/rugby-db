@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-05T20:56:50+09:00",
+  "checked_at": "2026-08-06T14:14:11+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6098",
+          "title": "クラブ クリタウォーターガッシュ昭島、2026-27シーズン新体制および2025-26シーズン退団スタッフのお知らせ 2026.08.06",
+          "date": "2026-08-06",
+          "category": "roster"
+        },
+        {
+          "url": "https://league-one.jp/news/6097",
+          "title": "クラブ 埼玉パナソニックワイルドナイツ、2026-27シーズン新体制のお知らせ 2026.08.06",
+          "date": "2026-08-06",
+          "category": "roster"
+        },
+        {
+          "url": "https://league-one.jp/news/6096",
+          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 ディビジョン2／ディビジョン3 試合日程・会場決定のお知らせ 2026.08.06",
+          "date": "2026-08-06",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,14 +38,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 9,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54104",
-          "title": "太陽生命ウィメンズセブンズシリーズ2026 グランドファイナル札幌大会 チャレンジチーム札幌合宿および参加メンバーのお知らせ 2026.8.05 （水） 女子 セブンズ チャレンジチーム アカデミー・強化育成",
-          "date": "2026-08-05",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -40,7 +52,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6098",
+      "title": "クラブ クリタウォーターガッシュ昭島、2026-27シーズン新体制および2025-26シーズン退団スタッフのお知らせ 2026.08.06",
+      "date": "2026-08-06",
+      "category": "roster"
+    },
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6097",
+      "title": "クラブ 埼玉パナソニックワイルドナイツ、2026-27シーズン新体制のお知らせ 2026.08.06",
+      "date": "2026-08-06",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
