@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-08-06T15:39:54+09:00",
+  "checked_at": "2026-08-06T21:51:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "1faeed36c3fcde3e"
+      "hash": "6af72f2dc54ade97"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "00640a28a6eba321"
+      "hash": "dab8569fa2d0e62f"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260723.html",
+      "title": "2026-08-05 日本代表｜平翔太選手の男子日本代表網走合宿 離脱について",
+      "date": "2026-08-05"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260804.html",
       "title": "2026-08-04 竹澤正祥選手 加入のお知らせ",
@@ -43,18 +48,13 @@
       "date": "2026-07-28"
     },
     {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260723.html",
-      "title": "2026-07-23 日本代表｜平翔太選手が男子日本代表 網走合宿参加メンバーに選出",
-      "date": "2026-07-23"
-    },
-    {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260715.html",
-      "title": "2026-07-15 公式オンラインショップ新商品追加およびオフ＆プレシーズン中のグッズ販売について",
+      "title": "2026-07-15 [ イベント ] 公式オンラインショップ新商品追加およびオフ＆プレシーズン中のグッズ販売について",
       "date": "2026-07-15"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260714.html-0",
-      "title": "2026-07-14 南アフリカ代表｜カート＝リー・アレンゼ選手がウェールズ代表戦（7/18）に11番で先発出場",
+      "title": "2026-07-14 [ チーム ] 南アフリカ代表｜カート＝リー・アレンゼ選手がウェールズ代表戦（7/18）に11番で先発出場",
       "date": "2026-07-14"
     },
     {

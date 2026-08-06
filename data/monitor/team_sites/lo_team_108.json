@@ -3,16 +3,26 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-08-06T15:39:54+09:00",
+  "checked_at": "2026-08-06T21:51:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "32e776eca4b3d4f2"
+      "hash": "b7d2101eca346e9b"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260806a.html",
+      "title": "メイン平選手が「リポビタンDチャレンジカップ2026 日本代表 対 オーストラリア代表」試合登録メンバーに選出されました",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260805a.html",
+      "title": "池田悠希選手が日本代表 網走合宿参加メンバーに追加招集されました",
+      "date": "2026-08-05"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260804a.html",
       "title": "TJ・ペレナラ選手 ベストフィフティーン選出記念グッズ第2弾 受注販売のお知らせ",
@@ -24,19 +34,9 @@
       "date": "2026-08-03"
     },
     {
-      "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260731a.html",
-      "title": "ニュージーランド留学レポート③（李淳弘選手）",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260731b.html",
-      "title": "ラムズの夏休み2026 神鳥さんから感謝の気持ちを込めて！「当たりをつ”かみとり”！」開催のお知らせ",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260722a.html",
-      "title": "(7/31更新)「BlackRamsTokyoが二子玉川ライズにやってくる！ラムズの夏休み2026」詳細情報",
-      "date": "2026-07-22"
+      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260801a.html",
+      "title": "選手3名が男子セブンズ・デベロップメント・スコッド 福岡合宿メンバーに選出されました",
+      "date": "2026-08-01"
     }
   ]
 }

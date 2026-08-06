@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-08-06T15:39:54+09:00",
+  "checked_at": "2026-08-06T21:51:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "5b4ea23a36fc35cf"
+      "hash": "9b6a061609ea83fd"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "1da042e121319b0a"
+      "hash": "25cd389c33a1289d"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -32,12 +32,17 @@
     },
     {
       "url": "https://www.kobesteelers.com/news/post35004/",
-      "title": "2026/8/6 イベント 【イベントレポート】神戸市内トップスポーツチームの4冠達成お祝いイベントに参加しました",
+      "title": "2026/8/6 イベント 【レポート】神戸市内トップスポーツチームの4冠達成お祝いイベントに参加しました",
       "date": "2026-08-06"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34979/",
       "title": "2026/8/6 イベント 【レポート】7月25日(土) 森を学べるイベント「KOBELCOの森で遊ぼう！学ぼう！」に宮内 慶大選手、大町 佳生選手が参加しました",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post34933/",
+      "title": "2026/8/6 チーム 8月8日(土)「リポビタンDチャレンジカップ2026」オーストラリア代表戦メンバー選出のお知らせ",
       "date": "2026-08-06"
     },
     {
@@ -168,11 +173,6 @@
     {
       "url": "https://www.kobesteelers.com/news/post34830/",
       "title": "2026/7/14 イベント 7月18日(土)KOBE BEER SOCIALにてラグビー体験を実施します",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://www.kobesteelers.com/interview/post34818/",
-      "title": "2026/7/14 チーム 2025-26シーズン 退団選手インタビュー Part.7 WTB杉本 崇馬選手",
       "date": "2026-07-14"
     },
     {

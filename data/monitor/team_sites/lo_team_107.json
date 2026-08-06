@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-08-06T15:39:54+09:00",
+  "checked_at": "2026-08-06T21:51:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.canon-eagles.jp/",
-      "hash": "16890c48047e4292"
+      "hash": "0344171a5c0c3c26"
     },
     {
       "url": "https://www.canon-eagles.jp/news/",
-      "hash": "7ed2f8f6e6556e27"
+      "hash": "eeadb5b0f9ceb87c"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/2026.html",
@@ -21,6 +21,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.canon-eagles.jp/news/supporters/20260806.html",
+      "title": "2026.08.06 SUPPORTER 練習見学会のお知らせ",
+      "date": "2026-08-06"
+    },
     {
       "url": "https://www.canon-eagles.jp/news/event/20260709.html",
       "title": "2026.08.05 EVENT 【更新】7月・8月のイベント出演予定",
