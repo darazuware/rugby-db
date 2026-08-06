@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-08-05T21:48:34+09:00",
+  "checked_at": "2026-08-06T15:39:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "8bfbb852ae7f9dae"
+      "hash": "4a3b7adb19320779"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "219636ea98f9df48"
+      "hash": "2fe21f41db95825d"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/08/06/news-2026-27carding/",
+      "title": "2026.08.06 試合関連 NTTジャパンラグビー リーグワン2026-27 試合日程決定のお知らせ",
+      "date": "2026-08-06"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/08/04/itemae/",
       "title": "2026.08.04 活動報告書 その他 【番組 オフもいてまえ！花園近鉄ライナーズ（2回目・8/1放送）】",
@@ -44,7 +49,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/07/29/report-miyashita-2/",
-      "title": "2026.07.29 チーム情報 オーストラリア留学レポート 宮下 大輝 選手編",
+      "title": "2026-07-29 チーム情報 オーストラリア留学レポート 宮下 大輝 選手編",
       "date": "2026-07-29"
     },
     {
@@ -86,11 +91,6 @@
       "url": "https://hanazono-liners.jp/2026/07/09/report-sone2/",
       "title": "2026-07-09 チーム情報 ニュージーランド留学レポート 曽根 隆慎選手編",
       "date": "2026-07-09"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/07/08/report-inoue2/",
-      "title": "2026-07-08 チーム情報 ニュージーランド留学レポート 井上 優士選手編",
-      "date": "2026-07-08"
     },
     {
       "url": "https://hanazono-liners.jp/2026/07/07/news-rising/",

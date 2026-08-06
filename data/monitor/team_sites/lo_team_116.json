@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-08-05T21:48:34+09:00",
+  "checked_at": "2026-08-06T15:39:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "1fdd2c530c61cc1c"
+      "hash": "b917c011addee6f5"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "674e2cee7ff7f5f8"
+      "hash": "f38c7dbe45204b19"
     }
   ],
   "items": [
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8798",
+      "title": "お知らせ 2026年8月6日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 DIVISION 2 試合スケジュール決定のお知らせ",
+      "date": "2026-08-06"
+    },
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8797",
       "title": "お知らせ 2026年8月3日 【リリース】2025-26シーズン退団スタッフ（追加）のお知らせ",
@@ -216,11 +221,6 @@
       "url": "https://docomo-rugby.jp/game/member.html?id=323",
       "title": "試合情報 2026年4月30日 【NTT JAPAN RUGBY LEAGUE ONE 2025-26 DIVISION 2】第13節 豊田自動織機シャトルズ愛知 メンバー発表",
       "date": "2026-04-30"
-    },
-    {
-      "url": "https://docomo-rugby.jp/game/report.html?id=322",
-      "title": "試合情報 2026年4月27日 【NTT JAPAN RUGBY LEAGUE ONE 2025-26 DIVISION 2】第12節 日野レッドドルフィンズ",
-      "date": "2026-04-27"
     },
     {
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8386",

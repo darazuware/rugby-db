@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-08-05T21:48:34+09:00",
+  "checked_at": "2026-08-06T15:39:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,10 +13,15 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "069dbb439739fba1"
+      "hash": "49fd90854b237469"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-08-06/",
+      "title": "NTTジャパンラグビー リーグワン2026-27　大会日程のお知らせ",
+      "date": "2026-08-06"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-08-04/",
       "title": "くいもの屋わん 豊田北口/南大沢店 九州魂 南大沢店 特別クーポン継続実施のお知らせ",
@@ -106,11 +111,6 @@
       "url": "https://hino-reddolphins.com/2026-06-24/",
       "title": "7/4イオンモール多摩平の森『たまもりスポーツイベント』詳細のお知らせ",
       "date": "2026-06-24"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-06-18/",
-      "title": "6/27太田タグラグビーフェスタ参加のお知らせ",
-      "date": "2026-06-18"
     }
   ]
 }

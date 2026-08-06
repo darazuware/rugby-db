@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-08-05T21:48:34+09:00",
+  "checked_at": "2026-08-06T15:39:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "bc410f2150a9397e"
+      "hash": "7f9012e1de56d39e"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "e83d04a8ec976234"
+      "hash": "3b356c286075f69d"
     }
   ],
   "items": [
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260806_01/",
+      "title": "チーム 2026年08月06日 2026-27シーズン新体制のお知らせ ニュースを見る",
+      "date": "2026-08-06"
+    },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260805_01/",
       "title": "活動レポート 2026年08月05日 留学記：NZ編 谷山隼大② ニュースを見る",

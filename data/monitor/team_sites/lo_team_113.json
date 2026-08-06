@@ -3,24 +3,34 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-08-05T21:48:34+09:00",
+  "checked_at": "2026-08-06T15:39:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "53d3c4fed1eb3dc7"
+      "hash": "a788c8cc86fc48e0"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "fb41c4a46c6954f7"
+      "hash": "7282e87c633c1241"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "33dd4102a1ab92b9"
+      "hash": "dde414aea2f04e39"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/32026/",
+      "title": "お知らせ 2026.8.6 NTTジャパンラグビー リーグワン2026-27 ディビジョン3 試合日程・会場決定のお知らせ",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/32023/",
+      "title": "お知らせ 2026.8.6 夏季休業のお知らせ",
+      "date": "2026-08-06"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/info/31725/",
       "title": "お知らせ 2026.8.4 「2026ラグビッグドリーム～釜石絆の日～」プレシーズンマッチ 第1戦 開催のお知らせ",
@@ -90,16 +100,6 @@
       "url": "https://kamaishi-seawaves.com/news/info/31076/",
       "title": "お知らせ 2026.6.7 【メッセージ追加】2025-26シーズン 退団選手・スタッフに関するお知らせ",
       "date": "2026-06-07"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/31386/",
-      "title": "お知らせ 2026.6.4 6/7(日)開催、「リーグワンヴィレッジ！in 秩父宮ラグビー場」出店のお知らせ",
-      "date": "2026-06-04"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/31361/",
-      "title": "お知らせ 2026.6.3 釜石シーウェイブスジュニア、NTTジャパンラグビー リーグワン2025-26 プレーオフトーナメント 決勝出演のお知らせ",
-      "date": "2026-06-03"
     }
   ]
 }

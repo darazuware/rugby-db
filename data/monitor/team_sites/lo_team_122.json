@@ -3,28 +3,33 @@
   "league": "league-one-d3",
   "name": "ルリーロ福岡",
   "official_url": "https://leriro-fukuoka.com/",
-  "checked_at": "2026-08-05T21:48:34+09:00",
+  "checked_at": "2026-08-06T15:39:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://leriro-fukuoka.com/",
-      "hash": "ecf8cd76d17c4291"
+      "hash": "3501b0df2f9b1fc5"
     },
     {
       "url": "https://leriro-fukuoka.com/news",
-      "hash": "bc5762d813c48a83"
+      "hash": "8abc6fdf3cdb737c"
     }
   ],
   "items": [
     {
-      "url": "https://leriro-fukuoka.com/news-detail?id=269",
-      "title": "2026-27シーズンの選手個人スポンサー 募集時期のお知らせ",
-      "date": "2026-08-04"
+      "url": "https://leriro-fukuoka.com/news-detail?id=270",
+      "title": "NTT JAPAN RUGUBY LEAGUE ONE 2026-27シーズン スケジュールのお知らせ",
+      "date": "2026-08-06"
     },
     {
       "url": "https://leriro-fukuoka.com/news",
       "title": "NEWS一覧",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news-detail?id=269",
+      "title": "2026-27シーズンの選手個人スポンサー 募集時期のお知らせ",
       "date": "2026-08-04"
     },
     {
@@ -66,11 +71,6 @@
       "url": "https://leriro-fukuoka.com/news-detail?id=262",
       "title": "追加退団選手スタッフのお知らせ",
       "date": "2026-07-14"
-    },
-    {
-      "url": "https://leriro-fukuoka.com/news-detail?id=261",
-      "title": "2026ルリーロラグビーキャンプ in UKIHA 開催のお知らせ",
-      "date": "2026-07-13"
     }
   ]
 }

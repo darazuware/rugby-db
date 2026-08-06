@@ -3,31 +3,36 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-08-05T21:48:34+09:00",
+  "checked_at": "2026-08-06T15:39:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "ed8d6b7afe8d2d4f"
+      "hash": "802609ba453635e7"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "836b50cde33eb03c"
+      "hash": "10d342f448fb5fbc"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "551b98d8e29ba3ef"
+      "hash": "d6c18149370137fe"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "a522a5e7b53eba52"
+      "hash": "bb7f90de20ada097"
     }
   ],
   "items": [
     {
       "url": "https://blue-sharks.jp/news/2026/08/25063/",
       "title": "2026-27シーズン新体制のお知らせ",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/08/25060/",
+      "title": "NTTジャパンラグビーリーグワン 2026-27 大会日程決定のお知らせ",
       "date": "2026-08-25"
     },
     {
@@ -42,13 +47,13 @@
     },
     {
       "url": "https://blue-sharks.jp/news/2026/08/25042/",
-      "title": "夏季休業のお知らせ",
+      "title": "お知らせ 2026/08/03 夏季休業のお知らせ",
       "date": "2026-08-25"
     },
     {
       "url": "https://blue-sharks.jp/information/",
       "title": "もっと見る",
-      "date": "2026-08-05"
+      "date": "2026-08-06"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/07/25028/",
@@ -103,11 +108,6 @@
     {
       "url": "https://blue-sharks.jp/news/2026/07/24952/",
       "title": "お知らせ 2026/07/05 イングランド・グロスターラグビーへの選手派遣及びコーチング研修",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/07/24945/",
-      "title": "お知らせ 2026/07/04 タラナキブルズとのパートナーシップ締結継続、選手派遣及びコーチング研修のお知らせ",
       "date": "2026-07-24"
     },
     {

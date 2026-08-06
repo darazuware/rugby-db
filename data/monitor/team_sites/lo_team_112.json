@@ -3,28 +3,33 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-08-05T21:48:34+09:00",
+  "checked_at": "2026-08-06T15:39:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "4ec9953b3f66960a"
+      "hash": "868b2077bc7987c5"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "a282e8b81e517149"
+      "hash": "4ae0069941e310a5"
     }
   ],
   "items": [
     {
-      "url": "https://shuttles-aichi.com/news/aeon-mall-aratamabashi-feel-the-rugby/",
-      "title": "お知らせ イベント 2026.08.05 イオンモール新瑞橋で「Feel the Rugby」を開催！",
-      "date": "2026-08-05"
+      "url": "https://shuttles-aichi.com/news/match-schedule-for-ntt-japan-rugby-league-one-202627/",
+      "title": "お知らせ 2026.08.06 NTTジャパンラグビー リーグワン2026-27 試合日程決定のお知らせ",
+      "date": "2026-08-06"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
       "title": "もっと見る",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/aeon-mall-aratamabashi-feel-the-rugby/",
+      "title": "お知らせ イベント 2026.08.05 イオンモール新瑞橋で「Feel the Rugby」を開催！",
       "date": "2026-08-05"
     },
     {
@@ -46,11 +51,6 @@
       "url": "https://shuttles-aichi.com/news/japan-rugby-league-one-rising-2026/",
       "title": "2026.07.07 「ジャパンラグビー リーグワン ライジング2026」開催決定のお知らせ",
       "date": "2026-07-07"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/ntt2026-27kaimaku/",
-      "title": "2026.07.01 NTTリーグワン2026-27は12月12日に開幕！",
-      "date": "2026-07-01"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-5-23photo-gallery/",
