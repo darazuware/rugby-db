@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-07T16:09:11+09:00",
+  "checked_at": "2026-08-07T17:55:08+09:00",
   "teams": [],
   "sources": [
     {
@@ -19,14 +19,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/53905",
-          "title": "（8/7更新）「太陽生命ウィメンズセブンズシリーズ2026 グランドファイナル札幌大会」実施概要・当日情報 2026.8.07 （金） 女子 太陽生命ウィメンズセブンズシリーズ 大会・試合",
-          "date": "2026-08-07",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
