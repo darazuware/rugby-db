@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-07T13:23:30+09:00",
+  "checked_at": "2026-08-07T16:09:11+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,14 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6099",
-          "title": "クラブ JR東日本グリーンウォリアーズ東葛、2026-27シーズン新体制および新加入選手のお知らせ 2026.08.07",
-          "date": "2026-08-07",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -28,14 +21,8 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54108",
-          "title": "令和8年熊本地震 災害義援金募金 実施のお知らせ 2026.8.07 （金） 15人制男子日本代表",
-          "date": "2026-08-07",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54107",
-          "title": "辰巳の森ラグビー練習場内クラブハウス 撤去工事のお知らせ 2026.8.07 （金） その他",
+          "url": "https://www.rugby-japan.jp/news/53905",
+          "title": "（8/7更新）「太陽生命ウィメンズセブンズシリーズ2026 グランドファイナル札幌大会」実施概要・当日情報 2026.8.07 （金） 女子 太陽生命ウィメンズセブンズシリーズ 大会・試合",
           "date": "2026-08-07",
           "category": null
         }
@@ -53,22 +40,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6099",
-      "title": "クラブ JR東日本グリーンウォリアーズ東葛、2026-27シーズン新体制および新加入選手のお知らせ 2026.08.07",
-      "date": "2026-08-07",
-      "category": "roster"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54108",
-      "title": "令和8年熊本地震 災害義援金募金 実施のお知らせ 2026.8.07 （金） 15人制男子日本代表",
-      "date": "2026-08-07",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
