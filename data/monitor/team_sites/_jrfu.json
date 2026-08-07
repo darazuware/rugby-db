@@ -1,7 +1,19 @@
 {
-  "checked_at": "2026-08-06T21:51:35+09:00",
+  "checked_at": "2026-08-07T13:23:30+09:00",
   "url": "https://www.rugby-japan.jp/news/",
   "items": [
+    {
+      "url": "https://www.rugby-japan.jp/news/54108",
+      "title": "令和8年熊本地震 災害義援金募金 実施のお知らせ 2026.8.07 （金） 15人制男子日本代表",
+      "date": "2026-08-07",
+      "category": "squad"
+    },
+    {
+      "url": "https://www.rugby-japan.jp/news/54107",
+      "title": "辰巳の森ラグビー練習場内クラブハウス 撤去工事のお知らせ 2026.8.07 （金） その他",
+      "date": "2026-08-07",
+      "category": null
+    },
     {
       "url": "https://www.rugby-japan.jp/news/54106",
       "title": "2026年 女子日本代表 試合日程に関するお知らせ 2026.8.06 （木） 15人制女子日本代表 女子",
@@ -41,16 +53,6 @@
       "url": "https://www.rugby-japan.jp/news/54093",
       "title": "（8/4更新）レポート：男子セブンズシニアアカデミー山梨合宿 2026.8.04 （火） アカデミー・強化育成 セブンズ 男子セブンズ セブンズシニアアカデミー シニアアカデミー",
       "date": "2026-08-04"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54098",
-      "title": "機関誌『RUGBY FOOTBALL』Vol.76-1 発刊のお知らせ 2026.8.03 （月）",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54094",
-      "title": "「ラグビーパーク in 新潟」開催のお知らせ 2026.8.03 （月） 高校 中学 小学生 その他 普及育成",
-      "date": "2026-08-03"
     }
   ]
 }
