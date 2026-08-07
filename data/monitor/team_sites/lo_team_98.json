@@ -3,23 +3,28 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-08-07T14:46:58+09:00",
+  "checked_at": "2026-08-07T20:39:02+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "916c05def4a7fe59"
+      "hash": "50f32542296c17c7"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "a36a3c2088397ef3"
+      "hash": "e9e80deae76def1d"
     }
   ],
   "items": [
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3156",
       "title": "2026.8.7[FRI] TEAM プレシーズンマッチ日程のお知らせ",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3155",
+      "title": "2026.8.7[FRI] FAN CLUB ＜CLUB REVS＞入会記念品の試着・展示会を8/29(土)に開催",
       "date": "2026-08-07"
     },
     {
@@ -111,11 +116,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3143",
       "title": "2026.7.12[SUN] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（7/6～7/10）",
       "date": "2026-07-12"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3115",
-      "title": "2026.7.7[TUE] TEAM 選手育成を目的とする≪ジャパンラグビー リーグワン ライジング2026≫は2試合",
-      "date": "2026-07-07"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3126",

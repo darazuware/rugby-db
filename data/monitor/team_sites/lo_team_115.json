@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-08-07T14:46:58+09:00",
+  "checked_at": "2026-08-07T20:39:02+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,10 +13,15 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "49fd90854b237469"
+      "hash": "e14699601fabdf10"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-08-07/",
+      "title": "2026-27シーズン 個人パートナー募集のお知らせ",
+      "date": "2026-08-07"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-08-06/",
       "title": "NTTジャパンラグビー リーグワン2026-27　大会日程のお知らせ",
@@ -106,11 +111,6 @@
       "url": "https://hino-reddolphins.com/2026-06-29/",
       "title": "6/23日野市役所へ表敬訪問しました",
       "date": "2026-06-29"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-06-24/",
-      "title": "7/4イオンモール多摩平の森『たまもりスポーツイベント』詳細のお知らせ",
-      "date": "2026-06-24"
     }
   ]
 }

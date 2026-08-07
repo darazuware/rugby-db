@@ -3,28 +3,33 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-08-07T14:46:58+09:00",
+  "checked_at": "2026-08-07T20:39:02+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "640e2342c5fa6a6f"
+      "hash": "b6b8c6a17be1a7dc"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "18038a3d6223d3c7"
+      "hash": "f5f56358583e9857"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "820b69ea13365876"
+      "hash": "ac399f9f4995258d"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "edb8490e3b456461"
+      "hash": "4d0523526026afe5"
     }
   ],
   "items": [
+    {
+      "url": "https://blue-sharks.jp/news/2026/08/25186/",
+      "title": "2026-27 シーズンプレシーズンマッチスケジュール決定のお知らせ",
+      "date": "2026-08-25"
+    },
     {
       "url": "https://blue-sharks.jp/news/2026/08/25063/",
       "title": "2026-27シーズン新体制のお知らせ",
@@ -42,7 +47,7 @@
     },
     {
       "url": "https://blue-sharks.jp/news/2026/08/25044/",
-      "title": "ヤローズタラナキブルズ研修レポート Vol.5 (上野雄太)",
+      "title": "お知らせ 2026/08/04 ヤローズタラナキブルズ研修レポート Vol.5 (上野雄太)",
       "date": "2026-08-25"
     },
     {
@@ -53,7 +58,7 @@
     {
       "url": "https://blue-sharks.jp/information/",
       "title": "もっと見る",
-      "date": "2026-08-06"
+      "date": "2026-08-07"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/07/25028/",
@@ -103,11 +108,6 @@
     {
       "url": "https://blue-sharks.jp/news/2026/07/24960/",
       "title": "お知らせ 2026/07/07 7月5日 「ラグビー体験教室」開催のご報告",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/07/24952/",
-      "title": "お知らせ 2026/07/05 イングランド・グロスターラグビーへの選手派遣及びコーチング研修",
       "date": "2026-07-24"
     },
     {

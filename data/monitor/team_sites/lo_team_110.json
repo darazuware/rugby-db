@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-08-07T14:46:58+09:00",
+  "checked_at": "2026-08-07T20:39:02+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "5c479992f5e5776f"
+      "hash": "96183b146ef6ef00"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "32f15ac666c4a249"
+      "hash": "dc05a67882c65653"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/1000",
+      "title": "お知らせ 2026年08月07日 NEW 【8/10募集開始!】2026-27シーズン ファンクラブのご案内",
+      "date": "2026-08-07"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/998",
       "title": "お知らせ 2026年08月06日 NEW NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ",
@@ -171,11 +176,6 @@
       "url": "https://www.kyudenvoltex.com/news/973",
       "title": "地域・社会貢献 2026年03月26日 FUKUOKA ALL-STAR 大運動会に参加しました",
       "date": "2026-03-26"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/967",
-      "title": "お知らせ 2026年03月23日 【5/9(土) リーグワン 最終節 】都城市民・三股町民無料招待&宮崎県民優待のお知らせ(4/1追記)",
-      "date": "2026-03-23"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/970",

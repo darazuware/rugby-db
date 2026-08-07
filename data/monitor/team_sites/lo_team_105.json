@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-08-07T14:46:58+09:00",
+  "checked_at": "2026-08-07T20:39:02+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "702ac2cfb3a8999f"
+      "hash": "ecbab12cfa0c0718"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "a5aa4be2cc034f9d"
+      "hash": "e487af00d5b75a6c"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2417/",
+      "title": "トピックス 2026.8.7 栃木ホンダヒート事務局およびヒートファンクラブ事務局 夏季休業のお知らせ",
+      "date": "2026-08-07"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2416/",
       "title": "イベント 2026.8.7 2026-27プレシーズン マッチ日程決定のお知らせ",
@@ -131,11 +136,6 @@
       "url": "https://www.honda-heat.jp/news/2391/",
       "title": "トピックス 2026.6.29 HPメンテナンスのお知らせ",
       "date": "2026-06-29"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2390/",
-      "title": "イベント 2026.6.26 『TOCHIGI ALL STARプロスポーツトークショー』参加のお知らせ",
-      "date": "2026-06-26"
     },
     {
       "url": "https://www.honda-heat.jp/hostgame/20260509/",

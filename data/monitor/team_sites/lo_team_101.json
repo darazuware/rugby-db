@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-08-07T14:46:58+09:00",
+  "checked_at": "2026-08-07T20:39:02+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "8086bec5645e029b"
+      "hash": "376ff0d2294c9236"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "f30491b0ef88ad6c"
+      "hash": "9bab74657b830d21"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -27,12 +27,12 @@
   "items": [
     {
       "url": "https://www.kobesteelers.com/news/post34949/",
-      "title": "2026/8/7 チーム 2026-27シーズン 新体制決定のお知らせ",
+      "title": "チーム 2026-27シーズン 新体制決定のお知らせ 2026/8/7",
       "date": "2026-08-07"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34948/",
-      "title": "2026/8/7 チーム 2026-27シーズン プレシーズンマッチのお知らせ",
+      "title": "チーム 2026-27シーズン プレシーズンマッチのお知らせ 2026/8/7",
       "date": "2026-08-07"
     },
     {
@@ -231,11 +231,6 @@
       "date": "2026-06-22"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post34281/",
-      "title": "チーム グラント・ウィリアムズ選手、ジョージ・ブリッジ選手 2026-27シーズン新加入のお知らせ 2026/6/17",
-      "date": "2026-06-17"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post34067/",
       "title": "2026/6/5 お知らせ TO THE TOP – 2025-26シーズンリーグ戦アーカイブムービー – 公開のお知らせ",
       "date": "2026-06-05"
@@ -324,6 +319,11 @@
       "url": "https://www.kobesteelers.com/news/post27698/",
       "title": "2025/9/8 お知らせ 2025-26シーズンテーマ決定のお知らせ",
       "date": "2025-09-08"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post27697/",
+      "title": "2025/9/1 お知らせ サーバーメンテナンスのお知らせ",
+      "date": "2025-09-01"
     }
   ]
 }
