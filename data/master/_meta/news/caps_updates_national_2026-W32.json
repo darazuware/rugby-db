@@ -1,11 +1,75 @@
 [
   {
+    "id": "ar_billy-pollard",
+    "name_en": "Billy POLLARD",
+    "name_ja": null,
+    "team": "Australia",
+    "from_count": 27,
+    "to_count": 32
+  },
+  {
+    "id": "ar_declan-meredith",
+    "name_en": "Declan MEREDITH",
+    "name_ja": null,
+    "team": "Australia",
+    "from_count": 1,
+    "to_count": 3
+  },
+  {
+    "id": "ar_dylan-riley",
+    "name_en": "Dylan RILEY",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 24,
+    "to_count": 40
+  },
+  {
     "id": "ar_ezekiel-lindenmuth",
     "name_en": "Ezekiel LINDENMUTH",
     "name_ja": null,
     "team": "Usa",
     "from_count": 11,
     "to_count": 13
+  },
+  {
+    "id": "ar_fraser-mcreight",
+    "name_en": "Fraser MCREIGHT",
+    "name_ja": null,
+    "team": "Australia",
+    "from_count": 24,
+    "to_count": 38
+  },
+  {
+    "id": "ar_harry-hockings",
+    "name_en": "Harry HOCKINGS",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 4,
+    "to_count": 7
+  },
+  {
+    "id": "ar_harry-potter",
+    "name_en": "Harry POTTER",
+    "name_ja": null,
+    "team": "Australia",
+    "from_count": 13,
+    "to_count": 15
+  },
+  {
+    "id": "ar_hunter-paisami",
+    "name_en": "Hunter PAISAMI",
+    "name_ja": null,
+    "team": "Australia",
+    "from_count": 35,
+    "to_count": 52
+  },
+  {
+    "id": "ar_jack-cornelsen",
+    "name_en": "Jack CORNELSEN",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 28,
+    "to_count": 45
   },
   {
     "id": "ar_joel-lam",
@@ -24,12 +88,52 @@
     "to_count": 22
   },
   {
+    "id": "ar_josh-nasser",
+    "name_en": "Josh NASSER",
+    "name_ja": null,
+    "team": "Australia",
+    "from_count": 17,
+    "to_count": 18
+  },
+  {
+    "id": "ar_lua-makisi",
+    "name_en": "Lua MAKISI",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 17,
+    "to_count": 27
+  },
+  {
+    "id": "ar_mamoru-harada",
+    "name_en": "Mamoru HARADA",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 13,
+    "to_count": 22
+  },
+  {
     "id": "ar_manaaki-boyle-tiatia",
     "name_en": "Manaaki BOYLE-TIATIA",
     "name_ja": null,
     "team": "Samoa",
     "from_count": 2,
     "to_count": 3
+  },
+  {
+    "id": "ar_max-jorgensen",
+    "name_en": "Max JORGENSEN",
+    "name_ja": null,
+    "team": "Australia",
+    "from_count": 26,
+    "to_count": 31
+  },
+  {
+    "id": "ar_michael-leitch",
+    "name_en": "Michael LEITCH",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 68,
+    "to_count": 81
   },
   {
     "id": "ar_motikiai-murray",
@@ -56,6 +160,14 @@
     "to_count": 23
   },
   {
+    "id": "ar_samisoni-tua",
+    "name_en": "Samisoni TUA",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 2,
+    "to_count": 3
+  },
+  {
     "id": "ar_samu-tawake",
     "name_en": "Samu TAWAKE",
     "name_ja": null,
@@ -72,11 +184,51 @@
     "to_count": 6
   },
   {
+    "id": "ar_shunsuke-uenobo",
+    "name_en": "Shunsuke UENOBO",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 1,
+    "to_count": 3
+  },
+  {
+    "id": "ar_sojiro-otsuka",
+    "name_en": "Sojiro OTSUKA",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 4,
+    "to_count": 5
+  },
+  {
+    "id": "ar_takuro-matsunaga",
+    "name_en": "Takuro MATSUNAGA",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 5,
+    "to_count": 8
+  },
+  {
     "id": "ar_taniela-filimone",
     "name_en": "Taniela FILIMONE",
     "name_ja": null,
     "team": "Tonga",
     "from_count": 10,
     "to_count": 11
+  },
+  {
+    "id": "ar_tiennan-costley",
+    "name_en": "Tiennan COSTLEY",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 8,
+    "to_count": 12
+  },
+  {
+    "id": "ar_tom-wright",
+    "name_en": "Tom WRIGHT",
+    "name_ja": null,
+    "team": "Australia",
+    "from_count": 55,
+    "to_count": 60
   }
 ]

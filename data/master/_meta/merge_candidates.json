@@ -1,5 +1,19 @@
 [
   {
+    "name_en_normalized": "waisake raratubua",
+    "birthdate": "1998-03-17",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_483968"
+      },
+      {
+        "league": "national",
+        "id": "jrfu_callup_waisake-raratubua"
+      }
+    ]
+  },
+  {
     "name_en_normalized": "tiennan costley",
     "birthdate": "2000-06-14",
     "members": [
@@ -136,6 +150,20 @@
       {
         "league": "national",
         "id": "ar_dylan-riley"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "yota kamimori",
+    "birthdate": "1999-04-26",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_483754"
+      },
+      {
+        "league": "national",
+        "id": "jrfu_callup_yota-kamimori"
       }
     ]
   },
@@ -336,6 +364,20 @@
     ]
   },
   {
+    "name_en_normalized": "shogo nakano",
+    "birthdate": "1997-06-11",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_484322"
+      },
+      {
+        "league": "national",
+        "id": "jrfu_callup_shogo-nakano"
+      }
+    ]
+  },
+  {
     "name_en_normalized": "shu yamamoto",
     "birthdate": "1999-06-01",
     "members": [
@@ -500,6 +542,20 @@
       {
         "league": "national",
         "id": "jrfu_national_510431"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "takuro hojo",
+    "birthdate": "2001-09-18",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_484712"
+      },
+      {
+        "league": "national",
+        "id": "jrfu_callup_takuro-hojo"
       }
     ]
   },
