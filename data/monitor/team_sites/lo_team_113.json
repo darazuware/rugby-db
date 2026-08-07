@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-08-06T21:51:35+09:00",
+  "checked_at": "2026-08-07T14:46:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "acfb118260cd0f6f"
+      "hash": "0c9081a98366d3c8"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "7686e1c94bf7f732"
+      "hash": "a6895fb82f4e386e"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "34d902c95f4e2dee"
+      "hash": "3fb3adb3dfac2116"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/32048/",
+      "title": "お知らせ 2026.8.7 2026プレシーズンマッチのお知らせ",
+      "date": "2026-08-07"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/info/32026/",
       "title": "お知らせ 2026.8.6 NTTジャパンラグビー リーグワン2026-27 ディビジョン3 試合日程・会場決定のお知らせ",
@@ -95,11 +100,6 @@
       "url": "https://kamaishi-seawaves.com/news/info/31453/",
       "title": "お知らせ 2026.6.8 NTTジャパンラグビー リーグワン2025-26 アワード 「フェアプレーチーム賞（D2）」「ベストキッカー（D2）」受賞のお知らせ",
       "date": "2026-06-08"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/31076/",
-      "title": "お知らせ 2026.6.7 【メッセージ追加】2025-26シーズン 退団選手・スタッフに関するお知らせ",
-      "date": "2026-06-07"
     }
   ]
 }

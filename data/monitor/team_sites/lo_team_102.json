@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-08-06T21:51:35+09:00",
+  "checked_at": "2026-08-07T14:46:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "7f9012e1de56d39e"
+      "hash": "0361abce57108012"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "3b356c286075f69d"
+      "hash": "a972a4f4aba5b17f"
     }
   ],
   "items": [
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
+      "title": "チーム 2026年08月07日 2026-27 強化試合 日程を更新 ニュースを見る",
+      "date": "2026-08-07"
+    },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260806_01/",
       "title": "チーム 2026年08月06日 2026-27シーズン新体制のお知らせ ニュースを見る",
@@ -70,11 +75,6 @@
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260630_02/",
       "title": "チーム 2026年06月30日 2025-26シーズン終了のご報告と御礼 ニュースを見る",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260630_01/",
-      "title": "チーム 2026年06月30日 齊藤誉哉選手、谷山隼大選手 サウスランドスタッグス加入のお知らせ ニュースを見る",
       "date": "2026-06-30"
     },
     {

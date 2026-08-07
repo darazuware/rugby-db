@@ -3,16 +3,31 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-08-06T21:51:35+09:00",
+  "checked_at": "2026-08-07T14:46:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "b7d2101eca346e9b"
+      "hash": "a42a8cdc10cff6a3"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260807a.html",
+      "title": "ニュージーランド留学レポート④（岸佑融選手）",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260807a.html",
+      "title": "富永貿易株式会社（Manuka Healthブランド）とオフィシャルサプライヤー新規契約のお知らせ",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260807b.html",
+      "title": "2026-27プレシーズンマッチ スケジュールのお知らせ",
+      "date": "2026-08-07"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260806a.html",
       "title": "メイン平選手が「リポビタンDチャレンジカップ2026 日本代表 対 オーストラリア代表」試合登録メンバーに選出されました",
@@ -22,21 +37,6 @@
       "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260805a.html",
       "title": "池田悠希選手が日本代表 網走合宿参加メンバーに追加招集されました",
       "date": "2026-08-05"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260804a.html",
-      "title": "TJ・ペレナラ選手 ベストフィフティーン選出記念グッズ第2弾 受注販売のお知らせ",
-      "date": "2026-08-04"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260803a.html",
-      "title": "ラムまるLINEスタンプvol.1 販売開始のお知らせ",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260801a.html",
-      "title": "選手3名が男子セブンズ・デベロップメント・スコッド 福岡合宿メンバーに選出されました",
-      "date": "2026-08-01"
     }
   ]
 }

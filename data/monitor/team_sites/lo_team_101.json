@@ -3,28 +3,38 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-08-06T21:51:35+09:00",
+  "checked_at": "2026-08-07T14:46:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "9b6a061609ea83fd"
+      "hash": "8086bec5645e029b"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "25cd389c33a1289d"
+      "hash": "f30491b0ef88ad6c"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "27400bd9c5465470"
+      "hash": "bbb8c45803972195"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "fbf0263b2e912f26"
+      "hash": "2b18d797b475bab4"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post34949/",
+      "title": "2026/8/7 チーム 2026-27シーズン 新体制決定のお知らせ",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post34948/",
+      "title": "2026/8/7 チーム 2026-27シーズン プレシーズンマッチのお知らせ",
+      "date": "2026-08-07"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35012/",
       "title": "ファンクラブ 2026-27シーズンオフィシャルファンクラブのお知らせ 2026/8/6",
@@ -156,19 +166,9 @@
       "date": "2026-07-17"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post34761/",
-      "title": "2026/7/16 チーム 7月18日(土)「ネーションズチャンピオンシップ2026」フランス代表戦メンバー選出のお知らせ",
-      "date": "2026-07-16"
-    },
-    {
       "url": "https://www.kobesteelers.com/interview/post34826/",
       "title": "2026/7/16 チーム 2025-26シーズン 退団選手インタビュー Part.9 WTB濱野 隼大選手",
       "date": "2026-07-16"
-    },
-    {
-      "url": "https://www.kobesteelers.com/interview/post34822/",
-      "title": "2026/7/15 チーム 2025-26シーズン 退団選手インタビュー Part.8 LO小瀧 尚弘選手",
-      "date": "2026-07-15"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34830/",

@@ -3,21 +3,21 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://green.necrockets.net/",
-  "checked_at": "2026-08-06T21:51:35+09:00",
+  "checked_at": "2026-08-07T14:46:58+09:00",
   "status": "ok",
   "relocated_to": "https://www.jreast.co.jp/greenwarriors/",
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "d83e1c663680c923"
+      "hash": "6a0e536b1bca5888"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "19a8c65d6872e370"
+      "hash": "5e0680a089535ffa"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "25bef4bb43a61623"
+      "hash": "f7a87945379ad7a1"
     }
   ],
   "items": [

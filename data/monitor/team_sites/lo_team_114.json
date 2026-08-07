@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-08-06T21:51:35+09:00",
+  "checked_at": "2026-08-07T14:46:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "18025be761d54572"
+      "hash": "040b593a91df206b"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "32f9fa7481adcf8d"
+      "hash": "78bdd342bd740935"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/08/07/news-preseasonmatch/",
+      "title": "2026.08.07 試合関連 花園近鉄ライナーズ 2026-27シーズン プレシーズンマッチのお知らせ",
+      "date": "2026-08-07"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/08/06/news-2026-27carding/",
       "title": "2026.08.06 試合関連 NTTジャパンラグビー リーグワン2026-27 試合日程決定のお知らせ",
@@ -44,7 +49,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/07/30/2026-27new-system/",
-      "title": "2026.07.30 チーム情報 花園近鉄ライナーズ 2026-27シーズン新体制および新加入・退団スタッフ（追加）のお知らせ",
+      "title": "2026-07-30 チーム情報 花園近鉄ライナーズ 2026-27シーズン新体制および新加入・退団スタッフ（追加）のお知らせ",
       "date": "2026-07-30"
     },
     {
@@ -86,11 +91,6 @@
       "url": "https://hanazono-liners.jp/2026/07/10/event-volleyball/",
       "title": "2026.07.10 イベント チーム情報 7/12 バレーボールネーションズリーグ「日本VSポーランド」の試合前に文選手が登場します",
       "date": "2026-07-10"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/07/09/report-sone2/",
-      "title": "2026-07-09 チーム情報 ニュージーランド留学レポート 曽根 隆慎選手編",
-      "date": "2026-07-09"
     },
     {
       "url": "https://hanazono-liners.jp/2026/07/07/news-rising/",

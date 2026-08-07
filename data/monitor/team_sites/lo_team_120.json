@@ -3,32 +3,42 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-08-06T21:51:35+09:00",
+  "checked_at": "2026-08-07T14:46:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "b6b880f0953af6ac"
+      "hash": "332eea4cde60bc9b"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "1e69820790380fc6"
+      "hash": "cb5a2506b423de00"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
-      "hash": "08e3d27a1417f115"
+      "hash": "3c975f7c81eaa70d"
     },
     {
       "url": "https://www.skyactivs.com/news/2035",
-      "hash": "aa5c2d1ee5d7883e"
+      "hash": "34f6bccf8497b1d3"
     },
     {
       "url": "https://www.skyactivs.com/news/2001",
-      "hash": "a50f33c855a6e0f7"
+      "hash": "daa5ec4c85e82587"
     }
   ],
   "items": [
+    {
+      "url": "https://www.skyactivs.com/news/4518",
+      "title": "2026.08.06[THU] GAME NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/4499",
+      "title": "2026.08.04[TUE] ACTIVITY 折り鶴プロジェクト 折り鶴を献納しました",
+      "date": "2026-08-04"
+    },
     {
       "url": "https://www.skyactivs.com/news/4490",
       "title": "2026.07.31[FRI] ACTIVITY 西区トップアスリートとわくわくうんどうかいに参加しました",
@@ -223,16 +233,6 @@
       "url": "https://www.skyactivs.com/news/3829",
       "title": "2026.04.01[WED] GAME 【イベント情報】vs中国電力レッドレグリオンズ",
       "date": "2026-04-01"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/3816",
-      "title": "2026.03.26[THU] GAME 【メンバー発表】vsルリーロ福岡",
-      "date": "2026-03-26"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/3797",
-      "title": "2026.03.19[THU] GAME 【メンバー発表】vsコベルコ神戸スティーラーズ",
-      "date": "2026-03-19"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",

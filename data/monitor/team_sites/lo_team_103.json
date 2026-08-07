@@ -3,29 +3,34 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-08-06T21:51:35+09:00",
+  "checked_at": "2026-08-07T14:46:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "cb09e6314675f56a"
+      "hash": "03724f423aea0abc"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "16206be8a2d6f91f"
+      "hash": "134a659bdabc8f71"
     }
   ],
   "items": [
     {
       "url": "https://www.bravelupus.com/news/all_story/",
-      "title": "【連載企画】東芝ブレイブルーパス東京「物語り」（Vol.198更新）",
-      "date": "2026-08-05"
+      "title": "【連載企画】東芝ブレイブルーパス東京「物語り」（Vol.199更新）",
+      "date": "2026-08-07"
     },
     {
       "url": "https://www.bravelupus.com/news/",
       "title": "記事一覧",
-      "date": "2026-08-05"
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260806/",
+      "title": "リポビタンDチャレンジカップ2026 日本代表 対 オーストラリア代表 試合登録メンバーのお知らせ",
+      "date": "2026-08-06"
     },
     {
       "url": "https://www.bravelupus.com/news/260801/",
@@ -221,11 +226,6 @@
       "url": "https://www.bravelupus.com/news/260423-2/",
       "title": "NTTジャパンラグビー リーグワン2025-26 プレーオフトーナメント準々決勝キックオフ時間決定および開催予定会場一部変更のお知らせ",
       "date": "2026-04-23"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/20260422/",
-      "title": "【再】新商品グッズ販売のお知らせ（リッチー・モウンガシリーズ第３弾）",
-      "date": "2026-04-22"
     }
   ]
 }

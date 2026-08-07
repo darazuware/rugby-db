@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-08-06T21:51:35+09:00",
+  "checked_at": "2026-08-07T14:46:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "a5d761a36a5e47da"
+      "hash": "bb55cd4ff07886a0"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "cf8aa2f2e14a0ba0"
+      "hash": "324f9f96315daaf1"
     }
   ],
   "items": [
@@ -31,6 +31,11 @@
       "url": "https://www.kurita-watergush.jp/game/20261017-gw%e6%9d%b1%e8%91%9b-vswg%e6%98%ad%e5%b3%b6/",
       "title": "このゲームの詳細情報はこちら",
       "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20260807-2-1/",
+      "title": "お知らせ 2026-27シーズン プレシーズンマッチのお知らせ",
+      "date": "2026-08-07"
     },
     {
       "url": "https://www.kurita-watergush.jp/20260806-2-2/",
@@ -69,7 +74,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20260706-2/",
-      "title": "お知らせ 2026-27シーズン ファンクラブ新会期と更新に関するご案内",
+      "title": "お知らせ 公開日：2026/07/06 2026-27シーズン ファンクラブ新会期と更新に関するご案内 ファンクラブ会員の皆様 いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうござ… 続きを読む",
       "date": "2026-07-06"
     },
     {
@@ -231,11 +236,6 @@
       "url": "https://www.kurita-watergush.jp/20250808-2/",
       "title": "お知らせ 公開日：2025/08/08 ジャパンラグビー リーグワン ライジング 2025 キックオフ時間および観戦情報のお知らせ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 選手育成を目的… 続きを読む",
       "date": "2025-08-08"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20250731-2/",
-      "title": "お知らせ 公開日：2026/03/03 NTT ジャパンラグビー リーグワン 2025-26 大会日程決定のお知らせ（※3月3日更新） いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 NTT ジャパンラ… 続きを読む",
-      "date": "2025-07-31"
     }
   ]
 }

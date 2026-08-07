@@ -3,28 +3,33 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-08-06T21:51:35+09:00",
+  "checked_at": "2026-08-07T14:46:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "6f17ea9f809e0df6"
+      "hash": "a1a7c8a5084fbb88"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "4ae0069941e310a5"
+      "hash": "98905c0dad1502f5"
     }
   ],
   "items": [
     {
-      "url": "https://shuttles-aichi.com/news/match-schedule-for-ntt-japan-rugby-league-one-202627/",
-      "title": "お知らせ 2026.08.06 NTTジャパンラグビー リーグワン2026-27 試合日程決定のお知らせ",
-      "date": "2026-08-06"
+      "url": "https://shuttles-aichi.com/news/2026-27preseason/",
+      "title": "お知らせ 2026.08.07 プレシーズンマッチ開催のお知らせ",
+      "date": "2026-08-07"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
       "title": "もっと見る",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/match-schedule-for-ntt-japan-rugby-league-one-202627/",
+      "title": "お知らせ 2026.08.06 NTTジャパンラグビー リーグワン2026-27 試合日程決定のお知らせ",
       "date": "2026-08-06"
     },
     {
@@ -46,11 +51,6 @@
       "url": "https://shuttles-aichi.com/news/%e5%88%88%e8%b0%b7%e5%b8%82%e9%95%b7-%e8%a1%a8%e6%95%ac%e8%a8%aa%e5%95%8f%e3%81%ae%e3%81%94%e5%a0%b1%e5%91%8a/",
       "title": "2026.07.16 刈谷市長 表敬訪問のご報告",
       "date": "2026-07-16"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/japan-rugby-league-one-rising-2026/",
-      "title": "2026.07.07 「ジャパンラグビー リーグワン ライジング2026」開催決定のお知らせ",
-      "date": "2026-07-07"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-5-23photo-gallery/",

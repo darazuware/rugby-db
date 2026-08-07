@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-08-06T21:51:35+09:00",
+  "checked_at": "2026-08-07T14:46:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "cd3f643a388de26f"
+      "hash": "e27da29478416027"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "e3d51e3d1ae711b7"
+      "hash": "3a17ce236ad0f786"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2608-1028.html",
+      "title": "2026年 8月 7日 #1028 中野 将伍 『もっと前に出られる』",
+      "date": "2026-08-07"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627icct.html",
       "title": "2026年 8月 5日 市原市消防局との合同トレーニング実施のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、東京サントリーサンゴリアスは、…",
@@ -61,11 +66,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/817.html",
       "title": "2026年 7月15日 Day817 『2025-26シーズン振り返り』",
       "date": "2026-07-15"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2607-1024.html",
-      "title": "2026年 7月10日 #1024 福田 健太 『ラグビー観が変わった』",
-      "date": "2026-07-10"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/26nacr.html",

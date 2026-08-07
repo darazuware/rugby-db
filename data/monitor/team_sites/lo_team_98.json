@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-08-06T21:51:35+09:00",
+  "checked_at": "2026-08-07T14:46:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "e5c6bec7d7b7730f"
+      "hash": "916c05def4a7fe59"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "3041f65ad3df7656"
+      "hash": "a36a3c2088397ef3"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3156",
+      "title": "2026.8.7[FRI] TEAM プレシーズンマッチ日程のお知らせ",
+      "date": "2026-08-07"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3154",
       "title": "2026.8.5[WED] HOST AREA 【ホストエリア活動】磐田市 「キラリ☆サマーキャンプ2026」にてタグラグビー体験を実施しました",
@@ -111,11 +116,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3115",
       "title": "2026.7.7[TUE] TEAM 選手育成を目的とする≪ジャパンラグビー リーグワン ライジング2026≫は2試合",
       "date": "2026-07-07"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3138",
-      "title": "2026.7.4[SAT] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（6/29～7/3）",
-      "date": "2026-07-04"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3126",
