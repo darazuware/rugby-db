@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-08-07T20:39:02+09:00",
+  "checked_at": "2026-08-08T14:05:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "50f32542296c17c7"
+      "hash": "948d14d48ab5f11d"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "e9e80deae76def1d"
+      "hash": "232bca9e599af0d8"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3160",
+      "title": "2026.8.8[SAT] HOST AREA 【ホストエリア活動】沼津市 令和8年度トップアスリート教室「静岡ブルーレヴズと一緒に！レッツ！ラグビー♪」にてラグビー体験を実施しました",
+      "date": "2026-08-08"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3156",
       "title": "2026.8.7[FRI] TEAM プレシーズンマッチ日程のお知らせ",
@@ -111,11 +116,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3141",
       "title": "TICKET 2026/7/13 法人チケットオーナーズの販売開始",
       "date": "2026-07-13"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3143",
-      "title": "2026.7.12[SUN] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（7/6～7/10）",
-      "date": "2026-07-12"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3126",
