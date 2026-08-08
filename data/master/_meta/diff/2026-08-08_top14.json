@@ -1,10 +1,108 @@
 {
   "league": "top14",
-  "signings": [],
+  "signings": [
+    {
+      "id": "ar_aidan-ionescu",
+      "name_en": "Aidan IONESCU",
+      "name_ja": null,
+      "team_id": "castres"
+    },
+    {
+      "id": "ar_constans-daville",
+      "name_en": "Constans DAVILLÉ",
+      "name_ja": null,
+      "team_id": "castres"
+    },
+    {
+      "id": "ar_gabin-rodier",
+      "name_en": "Gabin RODIER",
+      "name_ja": null,
+      "team_id": "castres"
+    },
+    {
+      "id": "ar_gabriel-rolland",
+      "name_en": "Gabriel ROLLAND",
+      "name_ja": null,
+      "team_id": "castres"
+    },
+    {
+      "id": "ar_josua-nadredre",
+      "name_en": "Josua NADREDRE",
+      "name_ja": null,
+      "team_id": "castres"
+    },
+    {
+      "id": "ar_louka-delpas",
+      "name_en": "Louka DELPAS",
+      "name_ja": null,
+      "team_id": "castres"
+    },
+    {
+      "id": "ar_mateo-alquier",
+      "name_en": "Mateo ALQUIER",
+      "name_ja": null,
+      "team_id": "castres"
+    },
+    {
+      "id": "ar_mathias-bonal",
+      "name_en": "Mathias BONAL",
+      "name_ja": null,
+      "team_id": "castres"
+    },
+    {
+      "id": "ar_matteo-samyn",
+      "name_en": "Mattéo SAMYN",
+      "name_ja": null,
+      "team_id": "castres"
+    },
+    {
+      "id": "ar_milo-selme-de-mondini",
+      "name_en": "Milo SELME DE MONDINI",
+      "name_ja": null,
+      "team_id": "castres"
+    },
+    {
+      "id": "ar_moussa-taaleb",
+      "name_en": "Moussa TAALEB",
+      "name_ja": null,
+      "team_id": "castres"
+    },
+    {
+      "id": "ar_romain-chabbal",
+      "name_en": "Romain CHABBAL",
+      "name_ja": null,
+      "team_id": "castres"
+    },
+    {
+      "id": "ar_sesoni-tamani",
+      "name_en": "Sesoni TAMANI",
+      "name_ja": null,
+      "team_id": "castres"
+    },
+    {
+      "id": "ar_tom-delacote",
+      "name_en": "Tom DELACOTE",
+      "name_ja": null,
+      "team_id": "castres"
+    },
+    {
+      "id": "ar_yanick-tomo-engouang-nze",
+      "name_en": "Yanick TOMO ENGOUANG NZE",
+      "name_ja": null,
+      "team_id": "castres"
+    }
+  ],
   "transfers": [],
   "departures": [],
   "first_caps": [],
   "caps_updates": [],
-  "pending_departures": [],
+  "pending_departures": [
+    {
+      "id": "ar_james-o-reilly",
+      "name_en": "James O'REILLY",
+      "name_ja": null,
+      "team_id": "vannes"
+    }
+  ],
   "newly_finished_rounds": []
 }

@@ -5,6 +5,559 @@
   "departures": [],
   "first_caps": [],
   "caps_updates": [],
-  "pending_departures": [],
+  "pending_departures": [
+    {
+      "id": "ar_alani-fakava",
+      "name_en": "Alani FAKAVA",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_ale-aho",
+      "name_en": "Ale AHO",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_alex-hewitt",
+      "name_en": "Alex HEWITT",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_allan-craig",
+      "name_en": "Allan CRAIG",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_andrew-knewstubb",
+      "name_en": "Andrew KNEWSTUBB",
+      "name_ja": null,
+      "team_id": "highlanders"
+    },
+    {
+      "id": "ar_atunaisa-moli",
+      "name_en": "Atu MOLI",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_austin-anderson",
+      "name_en": "Austin ANDERSON",
+      "name_ja": null,
+      "team_id": "brumbies"
+    },
+    {
+      "id": "ar_bailyn-sullivan",
+      "name_en": "Bailyn SULLIVAN",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_ben-ake",
+      "name_en": "Ben AKE",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_benet-kumeroa",
+      "name_en": "Benet KUMEROA",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    {
+      "id": "ar_charlie-sinton",
+      "name_en": "Charlie SINTON",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    {
+      "id": "ar_che-clark",
+      "name_en": "Che CLARK",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_cohen-norrie",
+      "name_en": "Cohen NORRIE",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_cooper-flanders",
+      "name_en": "Cooper FLANDERS",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_cooper-grant",
+      "name_en": "Cooper GRANT",
+      "name_ja": null,
+      "team_id": "crusaders"
+    },
+    {
+      "id": "ar_dan-sinkinson",
+      "name_en": "Dan SINKINSON",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    {
+      "id": "ar_david-lewai",
+      "name_en": "David LEWAI",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    {
+      "id": "ar_dominic-ropeti",
+      "name_en": "Dominic ROPETI",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_doug-philipson",
+      "name_en": "Doug PHILIPSON",
+      "name_ja": null,
+      "team_id": "western-force"
+    },
+    {
+      "id": "ar_feleti-sae-ta-ufo-ou",
+      "name_en": "Feleti SAE-TA'UFO'OU",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_finlay-brewis",
+      "name_en": "Finlay BREWIS",
+      "name_ja": null,
+      "team_id": "crusaders"
+    },
+    {
+      "id": "ar_finn-mcleod",
+      "name_en": "Finn MCLEOD",
+      "name_ja": null,
+      "team_id": "crusaders"
+    },
+    {
+      "id": "ar_fiti-sa",
+      "name_en": "Fiti SA",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    {
+      "id": "ar_flyn-yates",
+      "name_en": "Flyn YATES",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_glen-vaihu",
+      "name_en": "Glen VAIHU",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_harvey-cordukes",
+      "name_en": "Harvey CORDUKES",
+      "name_ja": null,
+      "team_id": "brumbies"
+    },
+    {
+      "id": "ar_heremaia-murray",
+      "name_en": "Heremaia MURRAY",
+      "name_ja": null,
+      "team_id": "reds"
+    },
+    {
+      "id": "ar_hudson-creighton",
+      "name_en": "Hudson CREIGHTON",
+      "name_ja": null,
+      "team_id": "brumbies"
+    },
+    {
+      "id": "ar_hugh-renton",
+      "name_en": "Hugh RENTON",
+      "name_ja": null,
+      "team_id": "highlanders"
+    },
+    {
+      "id": "ar_ioane-moananu",
+      "name_en": "Ioane MOANANU",
+      "name_ja": null,
+      "team_id": "waratahs"
+    },
+    {
+      "id": "ar_jack-sexton",
+      "name_en": "Jack SEXTON",
+      "name_ja": null,
+      "team_id": "crusaders"
+    },
+    {
+      "id": "ar_jack-wiseman",
+      "name_en": "Haki WISEMAN",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    {
+      "id": "ar_jake-te-hiwi",
+      "name_en": "Jake TE HIWI",
+      "name_ja": null,
+      "team_id": "highlanders"
+    },
+    {
+      "id": "ar_jay-reihana",
+      "name_en": "Jay REIHANA",
+      "name_ja": null,
+      "team_id": "highlanders"
+    },
+    {
+      "id": "ar_jayden-sa",
+      "name_en": "Jayden SA",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    {
+      "id": "ar_jed-melvin",
+      "name_en": "Jed MELVIN",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_jimmy-taylor",
+      "name_en": "Jimmy TAYLOR",
+      "name_ja": null,
+      "team_id": "highlanders"
+    },
+    {
+      "id": "ar_jimmy-tupou",
+      "name_en": "Jimmy TUPOU",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_joel-lam",
+      "name_en": "Joel LAM",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_johnny-falloon",
+      "name_en": "Johnny FALLOON",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_johnny-lee",
+      "name_en": "Johnny LEE",
+      "name_ja": null,
+      "team_id": "crusaders"
+    },
+    {
+      "id": "ar_johnny-mcnicholl",
+      "name_en": "Johnny MCNICHOLL",
+      "name_ja": null,
+      "team_id": "crusaders"
+    },
+    {
+      "id": "ar_jonathan-taumateine",
+      "name_en": "Jonathan TAUMATEINE",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_jordi-viljoen",
+      "name_en": "Jordi VILJOEN",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_joseva-tamani",
+      "name_en": "Joseva TAMANI",
+      "name_ja": null,
+      "team_id": "fijian-drua"
+    },
+    {
+      "id": "ar_josh-fusitua",
+      "name_en": "Josh FUSITU'A",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_josh-timu",
+      "name_en": "Josh TIMU",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_joshua-gray",
+      "name_en": "Josh GRAY",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_kade-banks",
+      "name_en": "Kade BANKS",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_kershawl-sykes-martin",
+      "name_en": "Kershawl SYKES-MARTIN",
+      "name_ja": null,
+      "team_id": "crusaders"
+    },
+    {
+      "id": "ar_konrad-toleafoa",
+      "name_en": "Konrad TOLEAFOA",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_kurtis-macdonald",
+      "name_en": "Kurtis MACDONALD",
+      "name_ja": null,
+      "team_id": "crusaders"
+    },
+    {
+      "id": "ar_lachlan-hooper",
+      "name_en": "Lachlan HOOPER",
+      "name_ja": null,
+      "team_id": "waratahs"
+    },
+    {
+      "id": "ar_liam-jack",
+      "name_en": "Liam JACK",
+      "name_ja": null,
+      "team_id": "crusaders"
+    },
+    {
+      "id": "ar_lolani-faleiva",
+      "name_en": "Lolani FALEIVA",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_lucas-cashmore",
+      "name_en": "Lucas CASHMORE",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_malakai-hala",
+      "name_en": "Malakai HALA",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_maloni-kunawave",
+      "name_en": "Maloni KUNAWAVE",
+      "name_ja": null,
+      "team_id": "crusaders"
+    },
+    {
+      "id": "ar_matolu-petaia",
+      "name_en": "Matolu PETAIA",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_meihana-grindlay",
+      "name_en": "Meihana GRINDLAY",
+      "name_ja": null,
+      "team_id": "highlanders"
+    },
+    {
+      "id": "ar_melani-matavao",
+      "name_en": "Melani MATAVAO",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_michael-loft",
+      "name_en": "Michael LOFT",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    {
+      "id": "ar_motikiai-murray",
+      "name_en": "Motikiai MURRAY",
+      "name_ja": null,
+      "team_id": "fijian-drua"
+    },
+    {
+      "id": "ar_naitoa-ah-kuoi",
+      "name_en": "Naitoa AH KUOI",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    {
+      "id": "ar_ngane-punivai",
+      "name_en": "Ngane PUNIVAI",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_ngani-laumape",
+      "name_en": "Ngani LAUMAPE",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_nic-shearer",
+      "name_en": "Nic SHEARER",
+      "name_ja": null,
+      "team_id": "highlanders"
+    },
+    {
+      "id": "ar_nikora-broughton",
+      "name_en": "Nikora BROUGHTON",
+      "name_ja": null,
+      "team_id": "highlanders"
+    },
+    {
+      "id": "ar_ola-tauelangi",
+      "name_en": "Ola TAUELANGI",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_oliver-haig",
+      "name_en": "Oliver HAIG",
+      "name_ja": null,
+      "team_id": "highlanders"
+    },
+    {
+      "id": "ar_paula-latu",
+      "name_en": "Paula LATU",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_reon-paul",
+      "name_en": "Reon PAUL",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    {
+      "id": "ar_rico-simpson",
+      "name_en": "Rico SIMPSON",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_rohan-wingham",
+      "name_en": "Rohan WINGHAM",
+      "name_ja": null,
+      "team_id": "highlanders"
+    },
+    {
+      "id": "ar_sam-nock",
+      "name_en": "Sam NOCK",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_seb-calder",
+      "name_en": "Seb CALDER",
+      "name_ja": null,
+      "team_id": "crusaders"
+    },
+    {
+      "id": "ar_siaosi-nginingini",
+      "name_en": "Siaosi NGININGINI",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_simon-peter-toleafoa",
+      "name_en": "Simon-Peter TOLEAFOA",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_tai-cribb",
+      "name_en": "Tai CRIBB",
+      "name_ja": null,
+      "team_id": "highlanders"
+    },
+    {
+      "id": "ar_taine-kolose",
+      "name_en": "Taine KOLOSE",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    {
+      "id": "ar_taine-robinson",
+      "name_en": "Taine ROBINSON",
+      "name_ja": null,
+      "team_id": "highlanders"
+    },
+    {
+      "id": "ar_taniela-filimone",
+      "name_en": "Taniela FILIMONE",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_te-toiroa-tahuriorangi",
+      "name_en": "Te Toiroa TAHURIORANGI",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    {
+      "id": "ar_tevita-latu",
+      "name_en": "Tevita LATU",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_tevita-mafileo",
+      "name_en": "Tevita MAFILEO",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_tevita-ofa",
+      "name_en": "Tevita OFA",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_titi-nofoagatotoa",
+      "name_en": "Titi NOFOAGATOTOA",
+      "name_ja": null,
+      "team_id": "western-force"
+    },
+    {
+      "id": "ar_toby-bell",
+      "name_en": "Toby BELL",
+      "name_ja": null,
+      "team_id": "crusaders"
+    },
+    {
+      "id": "ar_tristyn-cook",
+      "name_en": "Tristyn COOK",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_tyler-pulini",
+      "name_en": "Tyler PULINI",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_willy-havili",
+      "name_en": "Willy HAVILI",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_xavier-tito-harris",
+      "name_en": "Xavier TITO-HARRIS",
+      "name_ja": null,
+      "team_id": "highlanders"
+    }
+  ],
   "newly_finished_rounds": []
 }

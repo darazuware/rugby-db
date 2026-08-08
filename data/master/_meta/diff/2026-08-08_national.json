@@ -1,10 +1,256 @@
 {
   "league": "national",
-  "signings": [],
+  "signings": [
+    {
+      "id": "ar_benjamin-grondona",
+      "name_en": "Benjamín GRONDONA",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_francisco-moreno",
+      "name_en": "Francisco MORENO",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_juan-martin-scelzo",
+      "name_en": "Juan Martin SCELZO",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_juan-penoucos",
+      "name_en": "Juan PENOUCOS",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_leonel-oviedo",
+      "name_en": "Leonel OVIEDO",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_tomas-lavanini",
+      "name_en": "Tomás LAVANINI",
+      "name_ja": null,
+      "team_id": "argentina"
+    }
+  ],
   "transfers": [],
   "departures": [],
   "first_caps": [],
-  "caps_updates": [],
-  "pending_departures": [],
-  "newly_finished_rounds": []
+  "caps_updates": [
+    {
+      "id": "ar_agustin-moyano",
+      "name_en": "Agustín MOYANO",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 8,
+      "to_count": 14
+    },
+    {
+      "id": "ar_andre-esterhuizen",
+      "name_en": "André ESTERHUIZEN",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 24,
+      "to_count": 43
+    },
+    {
+      "id": "ar_ben-jason-dixon",
+      "name_en": "Ben-Jason DIXON",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 7,
+      "to_count": 11
+    },
+    {
+      "id": "ar_boris-wenger",
+      "name_en": "Boris WENGER",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 7,
+      "to_count": 9
+    },
+    {
+      "id": "ar_cameron-hanekom",
+      "name_en": "Cameron HANEKOM",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 1,
+      "to_count": 3
+    },
+    {
+      "id": "ar_cobus-wiese",
+      "name_en": "Cobus WIESE",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 3,
+      "to_count": 6
+    },
+    {
+      "id": "ar_eben-etzebeth",
+      "name_en": "Eben ETZEBETH",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 109,
+      "to_count": 130
+    },
+    {
+      "id": "ar_efrain-elias",
+      "name_en": "Efraín ELÍAS",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 3,
+      "to_count": 4
+    },
+    {
+      "id": "ar_ethan-hooker",
+      "name_en": "Ethan HOOKER",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 6,
+      "to_count": 13
+    },
+    {
+      "id": "ar_faustino-sanchez-valarolo",
+      "name_en": "Faustino SÁNCHEZ VALAROLO",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 3,
+      "to_count": 4
+    },
+    {
+      "id": "ar_gerhard-steenekamp",
+      "name_en": "Gerhard STEENEKAMP",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 10,
+      "to_count": 27
+    },
+    {
+      "id": "ar_guido-petti",
+      "name_en": "Guido PETTI",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 80,
+      "to_count": 145
+    },
+    {
+      "id": "ar_johan-grobbelaar",
+      "name_en": "Johan GROBBELAAR",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 8,
+      "to_count": 14
+    },
+    {
+      "id": "ar_lucio-luna",
+      "name_en": "Lucio CINTI LUNA",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 48,
+      "to_count": 60
+    },
+    {
+      "id": "ar_matias-moroni",
+      "name_en": "Matías MORONI",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 121,
+      "to_count": 128
+    },
+    {
+      "id": "ar_morne-van-den-berg",
+      "name_en": "Morné VAN DEN BERG",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 4,
+      "to_count": 6
+    },
+    {
+      "id": "ar_santiago-carreras",
+      "name_en": "Santiago CARRERAS",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 50,
+      "to_count": 85
+    },
+    {
+      "id": "ar_simon-benitez-cruz",
+      "name_en": "Simón BENÍTEZ-CRUZ",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 8,
+      "to_count": 14
+    },
+    {
+      "id": "ar_thomas-du-toit",
+      "name_en": "Thomas DU TOIT",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 19,
+      "to_count": 23
+    }
+  ],
+  "pending_departures": [
+    {
+      "id": "jrfu_callup_haruto-kida",
+      "name_en": "Haruto KIDA",
+      "name_ja": "木田 晴斗",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506353",
+      "name_en": "Waisake RARATUBUA",
+      "name_ja": "ワイサケ・ララトゥブア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506359",
+      "name_en": "Haruto WATANABE",
+      "name_ja": "渡邊晴斗",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506369",
+      "name_en": "Inoke BURUA",
+      "name_ja": "イノケ・ブルア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506497",
+      "name_en": "Aseri MASIVOU",
+      "name_ja": "アセリ・マシヴォウ",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506500",
+      "name_en": "Shun ARAKAWA",
+      "name_ja": "荒川駿",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506501",
+      "name_en": "Shigure TAKAO",
+      "name_ja": "高尾時流",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506503",
+      "name_en": "Shota TAIRA",
+      "name_ja": "平翔太",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_507122",
+      "name_en": "Kanato HIRANO",
+      "name_ja": "平野叶翔",
+      "team_id": "japan"
+    }
+  ],
+  "newly_finished_rounds": [],
+  "call_ups": []
 }

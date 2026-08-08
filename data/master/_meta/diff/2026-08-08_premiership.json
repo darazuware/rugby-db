@@ -4,7 +4,67 @@
   "transfers": [],
   "departures": [],
   "first_caps": [],
-  "caps_updates": [],
-  "pending_departures": [],
+  "caps_updates": [
+    {
+      "id": "ar_guido-petti",
+      "name_en": "Guido PETTI",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 80,
+      "to_count": 145
+    },
+    {
+      "id": "ar_lucio-luna",
+      "name_en": "Lucio CINTI LUNA",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 48,
+      "to_count": 60
+    },
+    {
+      "id": "ar_matias-moroni",
+      "name_en": "Matías MORONI",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 122,
+      "to_count": 128
+    },
+    {
+      "id": "ar_santiago-carreras",
+      "name_en": "Santiago CARRERAS",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 50,
+      "to_count": 85
+    },
+    {
+      "id": "ar_thomas-du-toit",
+      "name_en": "Thomas DU TOIT",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 19,
+      "to_count": 23
+    }
+  ],
+  "pending_departures": [
+    {
+      "id": "ar_bryn-gordon",
+      "name_en": "Bryn GORDON",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    {
+      "id": "ar_manaaki-boyle-tiatia",
+      "name_en": "Manaaki BOYLE-TIATIA",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    {
+      "id": "ar_ollie-minnis",
+      "name_en": "Ollie MINNIS",
+      "name_ja": null,
+      "team_id": "gloucester"
+    }
+  ],
   "newly_finished_rounds": []
 }

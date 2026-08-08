@@ -5,6 +5,559 @@
   "departures": [],
   "first_caps": [],
   "caps_updates": [],
-  "pending_departures": [],
+  "pending_departures": [
+    {
+      "id": "univ_明治学院大学__上西里奈",
+      "name_en": null,
+      "name_ja": "上西 里奈",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__下別府亙誠",
+      "name_en": null,
+      "name_ja": "下別府 亙誠",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__下條友成",
+      "name_en": null,
+      "name_ja": "下條 友成",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__中村海惺",
+      "name_en": null,
+      "name_ja": "中村 海惺",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__中湊太",
+      "name_en": null,
+      "name_ja": "中 湊太",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__久留康太郎",
+      "name_en": null,
+      "name_ja": "久留 康太郎",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__井戸川蓮",
+      "name_en": null,
+      "name_ja": "井戸川 蓮",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__今井禅",
+      "name_en": null,
+      "name_ja": "今井 禅",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__今尾正",
+      "name_en": null,
+      "name_ja": "今尾 正",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__佐々木遼河",
+      "name_en": null,
+      "name_ja": "佐々木 遼河",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__佐武翔",
+      "name_en": null,
+      "name_ja": "佐武 翔",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__佐藤克樹",
+      "name_en": null,
+      "name_ja": "佐藤 克樹",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__佐藤凌吾",
+      "name_en": null,
+      "name_ja": "佐藤 凌吾",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__倉上克",
+      "name_en": null,
+      "name_ja": "倉上 克",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__加藤大輝",
+      "name_en": null,
+      "name_ja": "加藤 大輝",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__加藤陽",
+      "name_en": null,
+      "name_ja": "加藤 陽",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__吉田匠杜",
+      "name_en": null,
+      "name_ja": "吉田 匠杜",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__吉田武之介",
+      "name_en": null,
+      "name_ja": "吉田 武之介",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__塚目隼多",
+      "name_en": null,
+      "name_ja": "塚目 隼多",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__小井沼咲來",
+      "name_en": null,
+      "name_ja": "小井沼 咲來",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__小林大翔",
+      "name_en": null,
+      "name_ja": "小林 大翔",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__小林静太郎",
+      "name_en": null,
+      "name_ja": "小林 静太郎",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__小野洋敏",
+      "name_en": null,
+      "name_ja": "小野 洋敏",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__山口健真",
+      "name_en": null,
+      "name_ja": "山口 健真",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__山口隆真",
+      "name_en": null,
+      "name_ja": "山口 隆真",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__山形朔空",
+      "name_en": null,
+      "name_ja": "山形 朔空",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__山本耕太郎",
+      "name_en": null,
+      "name_ja": "山本 耕太郎",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__山村早瑛",
+      "name_en": null,
+      "name_ja": "山村 早瑛",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__山田太郎",
+      "name_en": null,
+      "name_ja": "山田 太郎",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__山邉陸",
+      "name_en": null,
+      "name_ja": "山邉 陸",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__岡野陸斗",
+      "name_en": null,
+      "name_ja": "岡野 陸斗",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__川口龍士",
+      "name_en": null,
+      "name_ja": "川口 龍士",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__平山翔太",
+      "name_en": null,
+      "name_ja": "平山 翔太",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__後藤深山",
+      "name_en": null,
+      "name_ja": "後藤 深山",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__早坂透真",
+      "name_en": null,
+      "name_ja": "早坂 透真",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__早稲田翔馬",
+      "name_en": null,
+      "name_ja": "早稲田 翔馬",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__春日清冴",
+      "name_en": null,
+      "name_ja": "春日 清冴",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__望月仁斗",
+      "name_en": null,
+      "name_ja": "望月 仁斗",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__木村瑛侍",
+      "name_en": null,
+      "name_ja": "木村 瑛侍",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__本多晃太朗",
+      "name_en": null,
+      "name_ja": "本多 晃太朗",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__本田愛",
+      "name_en": null,
+      "name_ja": "本田 愛",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__板倉季未",
+      "name_en": null,
+      "name_ja": "板倉 季未",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__柏木大翔",
+      "name_en": null,
+      "name_ja": "柏木 大翔",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__柳本諒磨",
+      "name_en": null,
+      "name_ja": "柳本 諒磨",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__桑原健",
+      "name_en": null,
+      "name_ja": "桑原 健",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__森堅奨",
+      "name_en": null,
+      "name_ja": "森 堅奨",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__森泰良",
+      "name_en": null,
+      "name_ja": "森 泰良",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__森田眞乃介",
+      "name_en": null,
+      "name_ja": "森田 眞乃介",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__植杉俊介",
+      "name_en": null,
+      "name_ja": "植杉 俊介",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__植野貴順",
+      "name_en": null,
+      "name_ja": "植野 貴順",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__榎原諒人",
+      "name_en": null,
+      "name_ja": "榎原 諒人",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__橋爪響",
+      "name_en": null,
+      "name_ja": "橋爪 響",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__櫻井瑛太",
+      "name_en": null,
+      "name_ja": "櫻井 瑛太",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__比護葵",
+      "name_en": null,
+      "name_ja": "比護 葵",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__水上一心",
+      "name_en": null,
+      "name_ja": "水上 一心",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__水口陽琉",
+      "name_en": null,
+      "name_ja": "水口 陽琉",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__永井千穂莉",
+      "name_en": null,
+      "name_ja": "永井 千穂莉",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__河野謙辰",
+      "name_en": null,
+      "name_ja": "河野 謙辰",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__浅水詩音",
+      "name_en": null,
+      "name_ja": "浅水 詩音",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__深津祐貴",
+      "name_en": null,
+      "name_ja": "深津 祐貴",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__渡辺太翔",
+      "name_en": null,
+      "name_ja": "渡辺 太翔",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__渡邉洸",
+      "name_en": null,
+      "name_ja": "渡邉 洸",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__湯浅空",
+      "name_en": null,
+      "name_ja": "湯浅 空",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__玉野井遥",
+      "name_en": null,
+      "name_ja": "玉野井 遥",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__田中大也",
+      "name_en": null,
+      "name_ja": "田中 大也",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__田中新ノ助",
+      "name_en": null,
+      "name_ja": "田中 新ノ助",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__田川寧々",
+      "name_en": null,
+      "name_ja": "田川 寧々",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__田村碧唯",
+      "name_en": null,
+      "name_ja": "田村 碧唯",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__白土宏志朗",
+      "name_en": null,
+      "name_ja": "白土 宏志朗",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__矢澤悠斗",
+      "name_en": null,
+      "name_ja": "矢澤 悠斗",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__矢野七尚",
+      "name_en": null,
+      "name_ja": "矢野 七尚",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__矢野巧真",
+      "name_en": null,
+      "name_ja": "矢野 巧真",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__秋山粋慶",
+      "name_en": null,
+      "name_ja": "秋山 粋慶",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__窪陸翔",
+      "name_en": null,
+      "name_ja": "窪 陸翔",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__綿引悠理",
+      "name_en": null,
+      "name_ja": "綿引 悠理",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__脇田爽大",
+      "name_en": null,
+      "name_ja": "脇田 爽大",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__荒井大輔",
+      "name_en": null,
+      "name_ja": "荒井 大輔",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__荒井祐颯",
+      "name_en": null,
+      "name_ja": "荒井 祐颯",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__菅原礼名",
+      "name_en": null,
+      "name_ja": "菅原 礼名",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__萩壱成",
+      "name_en": null,
+      "name_ja": "萩 壱成",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__藤力来",
+      "name_en": null,
+      "name_ja": "藤 力来",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__西脇維一朗",
+      "name_en": null,
+      "name_ja": "西脇 維一朗",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__角田妃春",
+      "name_en": null,
+      "name_ja": "角田 妃春",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__谷口聖潤",
+      "name_en": null,
+      "name_ja": "谷口 聖潤",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__谷崎健祐",
+      "name_en": null,
+      "name_ja": "谷崎 健祐",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__野田七愛",
+      "name_en": null,
+      "name_ja": "野田 七愛",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__金子准弥",
+      "name_en": null,
+      "name_ja": "金子 准弥",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__金谷虹輝",
+      "name_en": null,
+      "name_ja": "金谷 虹輝",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__錦織夢生",
+      "name_en": null,
+      "name_ja": "錦織 夢生",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__須永健心",
+      "name_en": null,
+      "name_ja": "須永 健心",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__高橋幸太郎",
+      "name_en": null,
+      "name_ja": "高橋 幸太郎",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__中山俊哉",
+      "name_en": null,
+      "name_ja": "中山　俊哉",
+      "team_id": null
+    }
+  ],
   "newly_finished_rounds": []
 }

@@ -1,11 +1,59 @@
 [
   {
+    "id": "ar_agustin-moyano",
+    "name_en": "Agustín MOYANO",
+    "name_ja": null,
+    "team": "Argentina",
+    "from_count": 8,
+    "to_count": 14
+  },
+  {
+    "id": "ar_andre-esterhuizen",
+    "name_en": "André ESTERHUIZEN",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 24,
+    "to_count": 43
+  },
+  {
+    "id": "ar_ben-jason-dixon",
+    "name_en": "Ben-Jason DIXON",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 7,
+    "to_count": 11
+  },
+  {
     "id": "ar_billy-pollard",
     "name_en": "Billy POLLARD",
     "name_ja": null,
     "team": "Australia",
     "from_count": 27,
     "to_count": 32
+  },
+  {
+    "id": "ar_boris-wenger",
+    "name_en": "Boris WENGER",
+    "name_ja": null,
+    "team": "Argentina",
+    "from_count": 7,
+    "to_count": 9
+  },
+  {
+    "id": "ar_cameron-hanekom",
+    "name_en": "Cameron HANEKOM",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 1,
+    "to_count": 3
+  },
+  {
+    "id": "ar_cobus-wiese",
+    "name_en": "Cobus WIESE",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 3,
+    "to_count": 6
   },
   {
     "id": "ar_declan-meredith",
@@ -24,6 +72,30 @@
     "to_count": 40
   },
   {
+    "id": "ar_eben-etzebeth",
+    "name_en": "Eben ETZEBETH",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 109,
+    "to_count": 130
+  },
+  {
+    "id": "ar_efrain-elias",
+    "name_en": "Efraín ELÍAS",
+    "name_ja": null,
+    "team": "Argentina",
+    "from_count": 3,
+    "to_count": 4
+  },
+  {
+    "id": "ar_ethan-hooker",
+    "name_en": "Ethan HOOKER",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 6,
+    "to_count": 13
+  },
+  {
     "id": "ar_ezekiel-lindenmuth",
     "name_en": "Ezekiel LINDENMUTH",
     "name_ja": null,
@@ -32,12 +104,36 @@
     "to_count": 13
   },
   {
+    "id": "ar_faustino-sanchez-valarolo",
+    "name_en": "Faustino SÁNCHEZ VALAROLO",
+    "name_ja": null,
+    "team": "Argentina",
+    "from_count": 3,
+    "to_count": 4
+  },
+  {
     "id": "ar_fraser-mcreight",
     "name_en": "Fraser MCREIGHT",
     "name_ja": null,
     "team": "Australia",
     "from_count": 24,
     "to_count": 38
+  },
+  {
+    "id": "ar_gerhard-steenekamp",
+    "name_en": "Gerhard STEENEKAMP",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 10,
+    "to_count": 27
+  },
+  {
+    "id": "ar_guido-petti",
+    "name_en": "Guido PETTI",
+    "name_ja": null,
+    "team": "Argentina",
+    "from_count": 80,
+    "to_count": 145
   },
   {
     "id": "ar_harry-hockings",
@@ -80,6 +176,14 @@
     "to_count": 5
   },
   {
+    "id": "ar_johan-grobbelaar",
+    "name_en": "Johan GROBBELAAR",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 8,
+    "to_count": 14
+  },
+  {
     "id": "ar_jonathan-taumateine",
     "name_en": "Jonathan TAUMATEINE",
     "name_ja": null,
@@ -104,6 +208,14 @@
     "to_count": 27
   },
   {
+    "id": "ar_lucio-luna",
+    "name_en": "Lucio CINTI LUNA",
+    "name_ja": null,
+    "team": "Argentina",
+    "from_count": 48,
+    "to_count": 60
+  },
+  {
     "id": "ar_mamoru-harada",
     "name_en": "Mamoru HARADA",
     "name_ja": null,
@@ -120,6 +232,14 @@
     "to_count": 3
   },
   {
+    "id": "ar_matias-moroni",
+    "name_en": "Matías MORONI",
+    "name_ja": null,
+    "team": "Argentina",
+    "from_count": 121,
+    "to_count": 128
+  },
+  {
     "id": "ar_max-jorgensen",
     "name_en": "Max JORGENSEN",
     "name_ja": null,
@@ -134,6 +254,14 @@
     "team": "Japan",
     "from_count": 68,
     "to_count": 81
+  },
+  {
+    "id": "ar_morne-van-den-berg",
+    "name_en": "Morné VAN DEN BERG",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 4,
+    "to_count": 6
   },
   {
     "id": "ar_motikiai-murray",
@@ -176,6 +304,14 @@
     "to_count": 28
   },
   {
+    "id": "ar_santiago-carreras",
+    "name_en": "Santiago CARRERAS",
+    "name_ja": null,
+    "team": "Argentina",
+    "from_count": 50,
+    "to_count": 85
+  },
+  {
     "id": "ar_sekope-lopeti-moli",
     "name_en": "Sekope LOPETI-MOLI",
     "name_ja": null,
@@ -190,6 +326,14 @@
     "team": "Japan",
     "from_count": 1,
     "to_count": 3
+  },
+  {
+    "id": "ar_simon-benitez-cruz",
+    "name_en": "Simón BENÍTEZ-CRUZ",
+    "name_ja": null,
+    "team": "Argentina",
+    "from_count": 8,
+    "to_count": 14
   },
   {
     "id": "ar_sojiro-otsuka",
@@ -214,6 +358,14 @@
     "team": "Tonga",
     "from_count": 10,
     "to_count": 11
+  },
+  {
+    "id": "ar_thomas-du-toit",
+    "name_en": "Thomas DU TOIT",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 19,
+    "to_count": 23
   },
   {
     "id": "ar_tiennan-costley",

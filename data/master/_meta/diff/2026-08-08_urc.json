@@ -4,7 +4,32 @@
   "transfers": [],
   "departures": [],
   "first_caps": [],
-  "caps_updates": [],
+  "caps_updates": [
+    {
+      "id": "ar_andre-esterhuizen",
+      "name_en": "André ESTERHUIZEN",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 24,
+      "to_count": 43
+    },
+    {
+      "id": "ar_cameron-hanekom",
+      "name_en": "Cameron HANEKOM",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 1,
+      "to_count": 3
+    },
+    {
+      "id": "ar_eben-etzebeth",
+      "name_en": "Eben ETZEBETH",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 109,
+      "to_count": 130
+    }
+  ],
   "pending_departures": [],
   "newly_finished_rounds": []
 }
