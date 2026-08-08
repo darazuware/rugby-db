@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-08-08T14:05:54+09:00",
+  "checked_at": "2026-08-08T20:20:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "96183b146ef6ef00"
+      "hash": "bb3afb2146a37fa0"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "dc05a67882c65653"
+      "hash": "238a8ee6fcd048e2"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/1001",
+      "title": "お知らせ 2026年08月08日 NEW サイモニ・ヴニランギ選手の逝去について",
+      "date": "2026-08-08"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/1000",
       "title": "お知らせ 2026年08月07日 NEW 【8/10募集開始!】2026-27シーズン ファンクラブのご案内",
@@ -151,11 +156,6 @@
       "url": "https://www.kyudenvoltex.com/news/977",
       "title": "チーム 2026年04月09日 2025-26シーズン退団選手のお知らせ",
       "date": "2026-04-09"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/975",
-      "title": "お知らせ 2026年04月07日 【リーグワン|ホスト 4/24(金)】「Moving e」観戦チケット付き無料体験乗車募集",
-      "date": "2026-04-07"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/972",
