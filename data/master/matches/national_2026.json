@@ -13,7 +13,7 @@
     "venue": null,
     "venue_raw": "パロマ瑞穂スタジアム",
     "source_url": "https://www.rugby-japan.jp/match/29964",
-    "scraped_at": "2026-08-08T08:29:19+09:00"
+    "scraped_at": "2026-08-09T02:00:17+09:00"
   },
   {
     "id": "jrfu_29966",
@@ -29,7 +29,7 @@
     "venue": null,
     "venue_raw": "秩父宮ラグビー場",
     "source_url": "https://www.rugby-japan.jp/match/29966",
-    "scraped_at": "2026-08-08T08:29:16+09:00"
+    "scraped_at": "2026-08-09T02:00:15+09:00"
   },
   {
     "id": "jrfu_29967",
@@ -45,7 +45,7 @@
     "venue": null,
     "venue_raw": "MUFGスタジアム（国立競技場）",
     "source_url": "https://www.rugby-japan.jp/match/29967",
-    "scraped_at": "2026-08-08T08:29:11+09:00"
+    "scraped_at": "2026-08-09T02:00:10+09:00"
   },
   {
     "id": "jrfu_29968",
@@ -55,13 +55,13 @@
     "kickoff_utc": "2026-08-08T10:05:00+00:00",
     "home_team_id": "japan",
     "away_team_id": "australia",
-    "home_score": null,
-    "away_score": null,
-    "status": "scheduled",
+    "home_score": 32,
+    "away_score": 35,
+    "status": "finished",
     "venue": null,
     "venue_raw": "東大阪市花園ラグビー場",
     "source_url": "https://www.rugby-japan.jp/match/29968",
-    "scraped_at": "2026-08-08T08:29:09+09:00"
+    "scraped_at": "2026-08-09T02:00:08+09:00"
   },
   {
     "id": "jrfu_29969",
@@ -77,7 +77,7 @@
     "venue": null,
     "venue_raw": "未定",
     "source_url": "https://www.rugby-japan.jp/match/29969",
-    "scraped_at": "2026-08-08T08:29:14+09:00"
+    "scraped_at": "2026-08-09T02:00:13+09:00"
   },
   {
     "id": "jrfu_29975",
@@ -93,7 +93,7 @@
     "venue": null,
     "venue_raw": "デンカビッグスワンスタジアム",
     "source_url": "https://www.rugby-japan.jp/match/29975",
-    "scraped_at": "2026-08-08T08:29:04+09:00"
+    "scraped_at": "2026-08-09T02:00:04+09:00"
   },
   {
     "id": "jrfu_29986",
@@ -109,7 +109,7 @@
     "venue": null,
     "venue_raw": "Scottish Gas Murrayfield Stadium",
     "source_url": "https://www.rugby-japan.jp/match/29986",
-    "scraped_at": "2026-08-08T08:29:01+09:00"
+    "scraped_at": "2026-08-09T02:00:01+09:00"
   },
   {
     "id": "jrfu_30035",
@@ -125,6 +125,6 @@
     "venue": null,
     "venue_raw": "Queensland Country Bank Stadium",
     "source_url": "https://www.rugby-japan.jp/match/30035",
-    "scraped_at": "2026-08-08T08:29:06+09:00"
+    "scraped_at": "2026-08-09T02:00:06+09:00"
   }
 ]

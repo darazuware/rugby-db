@@ -1,0 +1,18 @@
+{
+  "league": "national",
+  "signings": [],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [],
+  "pending_departures": [],
+  "newly_finished_rounds": [
+    {
+      "season": "2026",
+      "round": null,
+      "match_ids": [
+        "jrfu_29968"
+      ]
+    }
+  ]
+}
