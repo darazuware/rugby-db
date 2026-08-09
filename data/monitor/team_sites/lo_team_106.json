@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-08-08T20:20:44+09:00",
+  "checked_at": "2026-08-09T20:21:08+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "5de1e96672a4cde1"
+      "hash": "94494d11b9c865e0"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "92dd25788b4fa7be"
+      "hash": "5e0277dc47a59218"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260809.html",
+      "title": "2026-08-09 九州電力キューデンヴォルテクス サイモニ・ヴニランギ選手のご逝去について",
+      "date": "2026-08-09"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260723.html",
       "title": "2026-08-05 日本代表｜平翔太選手の男子日本代表網走合宿 離脱について",
@@ -211,11 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260428.html",
       "title": "2026-04-28 [ メディア ] 共に日本の頂点を目指して！窓口となる「パートナーシップ特設ページ」を公開",
       "date": "2026-04-28"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/2526r16#10",
-      "title": "2026-04-27 [ メディア ] 試合レポート更新｜vs埼玉WK --ルーキー3人が体感した“本物のレベル” 57失点大敗も…指揮官が込めた思い「多くのことを得てくれる」",
-      "date": "2026-04-27"
     }
   ]
 }

@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-08-08T20:20:44+09:00",
+  "checked_at": "2026-08-09T20:21:08+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "7b4b8147f2a6d223"
+      "hash": "d38761deb80d1a35"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260808a.html",
+      "title": "【試合後コメント】8月8日(土) リポビタンDチャレンジカップ2026 日本代表 対 オーストラリア代表",
+      "date": "2026-08-08"
+    },
     {
       "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20260807c.html",
       "title": "8月9日(日)「第24回 駒沢ふれあい広場夏祭り」参加のお知らせ",
@@ -32,11 +37,6 @@
       "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260807b.html",
       "title": "2026-27プレシーズンマッチ スケジュールのお知らせ",
       "date": "2026-08-07"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260806a.html",
-      "title": "メイン平選手が「リポビタンDチャレンジカップ2026 日本代表 対 オーストラリア代表」試合登録メンバーに選出されました",
-      "date": "2026-08-06"
     }
   ]
 }
