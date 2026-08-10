@@ -286,6 +286,18 @@ const metaDesc = [
   <div class="py-4">
     <Breadcrumbs items={[{ label: "選手名鑑", href: "/players" }, { label: mainName }]} />
 
+    {player.slug === "saimoni-vunilagi-484310" && (
+      <a
+        href="/notice/saimoni-vunilagi"
+        class="group flex items-center justify-between gap-4 mb-4 px-6 py-4 bg-card/50 border border-border-dim/50 rounded-2xl hover:border-yellow-400/50 transition-all"
+      >
+        <span class="text-sm font-bold text-foreground/60 group-hover:text-foreground transition-colors">
+          サイモニ・ヴニランギ選手のご逝去に際し、謹んでお悔やみを申し上げます。
+        </span>
+        <span class="text-xs font-black uppercase tracking-widest text-foreground/30 group-hover:text-yellow-400 transition-colors shrink-0">詳細 →</span>
+      </a>
+    )}
+
     <div class="bg-card rounded-3xl shadow-2xl overflow-hidden border border-border-dim">
       {/* ヘッダー */}
       <div class="bg-gray-900 p-8 text-white relative">
