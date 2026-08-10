@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-08-10T14:40:00+09:00",
+  "checked_at": "2026-08-10T20:41:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "95f27d5fce2d032c"
+      "hash": "6d3e054a71f3b0cb"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "cb5a2506b423de00"
+      "hash": "88372dfe95183b0e"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
@@ -29,6 +29,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.skyactivs.com/news/4558",
+      "title": "2026.08.09[SUN] ACTIVITY トラスポ！ひろしまに参加しました",
+      "date": "2026-08-09"
+    },
     {
       "url": "https://www.skyactivs.com/news/4518",
       "title": "2026.08.06[THU] GAME NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ",
@@ -228,11 +233,6 @@
       "url": "https://www.skyactivs.com/news/3833",
       "title": "2026.04.02[THU] GAME 【メンバー発表】vs中国電力レッドレグリオンズ",
       "date": "2026-04-02"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/3829",
-      "title": "2026.04.01[WED] GAME 【イベント情報】vs中国電力レッドレグリオンズ",
-      "date": "2026-04-01"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",

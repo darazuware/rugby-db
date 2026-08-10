@@ -3,16 +3,26 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-08-10T14:40:00+09:00",
+  "checked_at": "2026-08-10T20:41:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "a891352ae8964326"
+      "hash": "e93e0cc288236c15"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260810a.html",
+      "title": "「BlackRamsTokyoが二子玉川ライズにやってくる！ラムズの夏休み2026」実施レポート",
+      "date": "2026-08-10"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20260810b.html",
+      "title": "8月26日(水)・28日(金) RAMOVE限定「練習見学＆グラウンド開放イベント」のご案内",
+      "date": "2026-08-10"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260808a.html",
       "title": "【試合後コメント】8月8日(土) リポビタンDチャレンジカップ2026 日本代表 対 オーストラリア代表",
@@ -21,16 +31,6 @@
     {
       "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20260807c.html",
       "title": "8月9日(日)「第24回 駒沢ふれあい広場夏祭り」参加のお知らせ",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260807a.html",
-      "title": "ニュージーランド留学レポート④（岸佑融選手）",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260807b.html",
-      "title": "2026-27プレシーズンマッチ スケジュールのお知らせ",
       "date": "2026-08-07"
     }
   ]

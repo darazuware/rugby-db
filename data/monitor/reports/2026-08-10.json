@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-10T14:40:00+09:00",
+  "checked_at": "2026-08-10T20:41:46+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -21,20 +21,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [
-        {
-          "url": "https://www.kobesteelers.com/interview/post35050/",
-          "title": "2026/8/10 チーム 【Road to RWC2027】「リポビタンDチャレンジカップ2026」日本代表 vsオーストラリア代表レポート",
-          "date": "2026-08-10",
-          "category": "squad"
-        }
-      ],
-      "changed_pages": [
-        "https://www.kobesteelers.com/",
-        "https://www.kobesteelers.com/news/",
-        "https://www.kobesteelers.com/news/cat_news/information/",
-        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -58,10 +46,7 @@
       "first_run": false,
       "item_count": 42,
       "new_items": [],
-      "changed_pages": [
-        "https://www.bravelupus.com/",
-        "https://www.bravelupus.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -73,7 +58,9 @@
       "first_run": false,
       "item_count": 10,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -123,7 +110,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 4,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260810a.html",
+          "title": "「BlackRamsTokyoが二子玉川ライズにやってくる！ラムズの夏休み2026」実施レポート",
+          "date": "2026-08-10",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20260810b.html",
+          "title": "8月26日(水)・28日(金) RAMOVE限定「練習見学＆グラウンド開放イベント」のご案内",
+          "date": "2026-08-10",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://blackrams-tokyo.com/"
       ],
@@ -137,18 +137,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 57,
-      "new_items": [
-        {
-          "url": "https://www.kubota-spears.com/news/2026/08/10/100000.html",
-          "title": "2026.08.10 ニュース・トピックス",
-          "date": "2026-08-10",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.kubota-spears.com/",
-        "https://www.kubota-spears.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -159,14 +149,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 27,
-      "new_items": [
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3161",
-          "title": "2026.8.9[SUN] TEAM 稲場 巧選手が日本代表に追加招集",
-          "date": "2026-08-09",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -206,10 +189,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kyudenvoltex.com/",
-        "https://www.kyudenvoltex.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -217,11 +197,29 @@
       "league": "league-one-d2",
       "name": "清水建設江東ブルーシャークス",
       "official_url": "https://blue-sharks.jp/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 24,
+      "new_items": [
+        {
+          "url": "https://blue-sharks.jp/news/2026/08/25194/",
+          "title": "2026-27シーズン 新加入選手のお知らせ",
+          "date": "2026-08-25",
+          "category": "roster"
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/08/25189/",
+          "title": "グロスターラグビー研修レポート Vol.6（権丈太郎）",
+          "date": "2026-08-25",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -229,11 +227,13 @@
       "league": "league-one-d2",
       "name": "豊田自動織機シャトルズ愛知",
       "official_url": "https://shuttles-aichi.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 12,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://shuttles-aichi.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -241,11 +241,15 @@
       "league": "league-one-d2",
       "name": "日本製鉄釜石シーウェイブス",
       "official_url": "https://kamaishi-seawaves.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 16,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://kamaishi-seawaves.com/",
+        "https://kamaishi-seawaves.com/news/",
+        "https://kamaishi-seawaves.com/news/info/"
+      ],
       "rename_signals": []
     },
     {
@@ -313,10 +317,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.rugguts.secom.co.jp/",
-        "https://www.rugguts.secom.co.jp/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -324,9 +325,9 @@
       "league": "league-one-d3",
       "name": "中国電力レッドレグリオンズ",
       "official_url": "https://rrrfc.red/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 16,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -339,10 +340,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 46,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.skyactivs.com/news/4558",
+          "title": "2026.08.09[SUN] ACTIVITY トラスポ！ひろしまに参加しました",
+          "date": "2026-08-09",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.skyactivs.com/",
-        "https://www.skyactivs.com/news/2091"
+        "https://www.skyactivs.com/news"
       ],
       "rename_signals": []
     },
@@ -354,24 +362,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 12,
-      "new_items": [
-        {
-          "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1465",
-          "title": "2026-27プレシーズンの試合日程について",
-          "date": "2026-08-10",
-          "category": null
-        },
-        {
-          "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1464",
-          "title": "NTTジャパンラグビーリーグワン ディビジョン3 2026-27シーズンの試合日程について",
-          "date": "2026-08-06",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.yakult.co.jp/sports/rugby/",
-        "https://www.yakult.co.jp/sports/rugby/topics/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -379,9 +371,9 @@
       "league": "league-one-d3",
       "name": "ルリーロ福岡",
       "official_url": "https://leriro-fukuoka.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 11,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -405,14 +397,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54115",
-          "title": "【緊急通達】熱中症予防対策の徹底と安全な競技環境の確保について 2026.8.10 （月） 通達",
-          "date": "2026-08-10",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -428,28 +413,16 @@
   ],
   "highlights": [
     {
-      "source": "静岡ブルーレヴズ",
-      "url": "https://www.shizuoka-bluerevs.com/news/3161",
-      "title": "2026.8.9[SUN] TEAM 稲場 巧選手が日本代表に追加招集",
-      "date": "2026-08-09",
-      "category": "squad"
-    },
-    {
-      "source": "コベルコ神戸スティーラーズ",
-      "url": "https://www.kobesteelers.com/interview/post35050/",
-      "title": "2026/8/10 チーム 【Road to RWC2027】「リポビタンDチャレンジカップ2026」日本代表 vsオーストラリア代表レポート",
-      "date": "2026-08-10",
-      "category": "squad"
+      "source": "清水建設江東ブルーシャークス",
+      "url": "https://blue-sharks.jp/news/2026/08/25194/",
+      "title": "2026-27シーズン 新加入選手のお知らせ",
+      "date": "2026-08-25",
+      "category": "roster"
     }
   ],
   "league_rename_news": [],
   "warnings": [
     "NECグリーンロケッツ東葛: 公式サイトが移転: https://green.necrockets.net/ -> https://www.jreast.co.jp/greenwarriors/",
-    "清水建設江東ブルーシャークス: 到達できるページがない: https://blue-sharks.jp/",
-    "豊田自動織機シャトルズ愛知: 到達できるページがない: https://shuttles-aichi.com/",
-    "日本製鉄釜石シーウェイブス: 到達できるページがない: https://kamaishi-seawaves.com/",
-    "中国電力レッドレグリオンズ: 到達できるページがない: https://rrrfc.red/",
-    "ルリーロ福岡: 到達できるページがない: https://leriro-fukuoka.com/",
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
   ]
 }
