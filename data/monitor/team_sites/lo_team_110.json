@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-08-09T20:21:08+09:00",
+  "checked_at": "2026-08-10T14:40:00+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "2250cfccefd0b3d6"
+      "hash": "073f64a587627170"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "077eadb38dcba0de"
+      "hash": "b83aa7167278e1a7"
     }
   ],
   "items": [
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1000",
-      "title": "お知らせ 2026年08月07日 NEW 【8/10募集開始!】2026-27シーズン ファンクラブのご案内",
+      "title": "お知らせ 2026年08月07日 【8/10募集開始!】2026-27シーズン ファンクラブのご案内",
       "date": "2026-08-07"
     },
     {

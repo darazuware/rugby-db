@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-08-09T20:21:08+09:00",
+  "checked_at": "2026-08-10T14:40:00+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "866b147a51a4bca4"
+      "hash": "5c1c71578fe1ba6e"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "e32183ad8b23230a"
+      "hash": "1bc739bf7d77f4e8"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3161",
+      "title": "2026.8.9[SUN] TEAM 稲場 巧選手が日本代表に追加招集",
+      "date": "2026-08-09"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3160",
       "title": "2026.8.8[SAT] HOST AREA 【ホストエリア活動】沼津市 令和8年度トップアスリート教室「静岡ブルーレヴズと一緒に！レッツ！ラグビー♪」にてラグビー体験を実施しました",
