@@ -4,7 +4,16 @@
   "transfers": [],
   "departures": [],
   "first_caps": [],
-  "caps_updates": [],
+  "caps_updates": [
+    {
+      "id": "ar_cameron-hanekom",
+      "name_en": "Cameron HANEKOM",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 3,
+      "to_count": 4
+    }
+  ],
   "pending_departures": [],
   "newly_finished_rounds": []
 }

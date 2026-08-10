@@ -1,10 +1,96 @@
 {
   "league": "top14",
-  "signings": [],
+  "signings": [
+    {
+      "id": "ar_arthur-azema",
+      "name_en": "Arthur AZÉMA",
+      "name_ja": null,
+      "team_id": "montpellier"
+    },
+    {
+      "id": "ar_flavien-laruelle",
+      "name_en": "Flavien LARUELLE",
+      "name_ja": null,
+      "team_id": "montpellier"
+    },
+    {
+      "id": "ar_hector-darbes",
+      "name_en": "Hector DARBES",
+      "name_ja": null,
+      "team_id": "montpellier"
+    },
+    {
+      "id": "ar_jonas-fradet",
+      "name_en": "Jonas FRADET",
+      "name_ja": null,
+      "team_id": "clermont"
+    },
+    {
+      "id": "ar_jules-freynet",
+      "name_en": "Jules FREYNET",
+      "name_ja": null,
+      "team_id": "bordeaux"
+    },
+    {
+      "id": "ar_louis-favrau",
+      "name_en": "Louis FAVRAU",
+      "name_ja": null,
+      "team_id": "bordeaux"
+    },
+    {
+      "id": "ar_malo-malval",
+      "name_en": "Malo MALVAL",
+      "name_ja": null,
+      "team_id": "montpellier"
+    },
+    {
+      "id": "ar_malo-poulon",
+      "name_en": "Malo POULON",
+      "name_ja": null,
+      "team_id": "montpellier"
+    },
+    {
+      "id": "ar_matt-lefeuvre",
+      "name_en": "Matt LEFEUVRE",
+      "name_ja": null,
+      "team_id": "montpellier"
+    },
+    {
+      "id": "ar_michele-negri",
+      "name_en": "Michele NEGRI",
+      "name_ja": null,
+      "team_id": "montpellier"
+    },
+    {
+      "id": "ar_noham-makhloufi",
+      "name_en": "Noham MAKHLOUFI",
+      "name_ja": null,
+      "team_id": "montpellier"
+    },
+    {
+      "id": "ar_paolo-agnese",
+      "name_en": "Paolo AGNESE",
+      "name_ja": null,
+      "team_id": "montpellier"
+    },
+    {
+      "id": "ar_sacha-codorniou",
+      "name_en": "Sacha CODORNIOU",
+      "name_ja": null,
+      "team_id": "montpellier"
+    }
+  ],
   "transfers": [],
   "departures": [],
   "first_caps": [],
   "caps_updates": [],
-  "pending_departures": [],
+  "pending_departures": [
+    {
+      "id": "ar_james-o-reilly",
+      "name_en": "James O'REILLY",
+      "name_ja": null,
+      "team_id": "vannes"
+    }
+  ],
   "newly_finished_rounds": []
 }

@@ -562,6 +562,18 @@
       "name_en": "Toby BELL",
       "name_ja": null,
       "team_id": "crusaders"
+    },
+    "ar_gus-brown": {
+      "id": "ar_gus-brown",
+      "name_en": "Gus BROWN",
+      "name_ja": null,
+      "team_id": "crusaders"
+    },
+    "ar_siale-pahulu": {
+      "id": "ar_siale-pahulu",
+      "name_en": "Siale PAHULU",
+      "name_ja": null,
+      "team_id": "blues"
     }
   },
   "mlr": {
@@ -712,6 +724,30 @@
       "id": "jrfu_national_507122",
       "name_en": "Kanato HIRANO",
       "name_ja": "平野叶翔",
+      "team_id": "japan"
+    },
+    "jrfu_callup_shogo-nakano": {
+      "id": "jrfu_callup_shogo-nakano",
+      "name_en": "Shogo NAKANO",
+      "name_ja": "中野 将伍 ※11.",
+      "team_id": "japan"
+    },
+    "jrfu_callup_takuro-hojo": {
+      "id": "jrfu_callup_takuro-hojo",
+      "name_en": "Takuro HOJO",
+      "name_ja": "北條 拓郎 ※1. ※11.",
+      "team_id": "japan"
+    },
+    "jrfu_callup_waisake-raratubua": {
+      "id": "jrfu_callup_waisake-raratubua",
+      "name_en": "Waisake RARATUBUA",
+      "name_ja": "ワイサケ・ララトゥブア",
+      "team_id": "japan"
+    },
+    "jrfu_callup_yota-kamimori": {
+      "id": "jrfu_callup_yota-kamimori",
+      "name_en": "Yota KAMIMORI",
+      "name_ja": "紙森 陽太 ※7.",
       "team_id": "japan"
     }
   },
@@ -1271,5 +1307,12 @@
       "team_id": null
     }
   },
-  "highschool": {}
+  "highschool": {
+    "hs_関西学院高等部__中土井獅王": {
+      "id": "hs_関西学院高等部__中土井獅王",
+      "name_en": null,
+      "name_ja": "中土井 獅王",
+      "team_id": null
+    }
+  }
 }

@@ -1,10 +1,36 @@
 {
   "league": "highschool",
-  "signings": [],
+  "signings": [
+    {
+      "id": "hs_関西学院高等部__安藤沙央梨",
+      "name_en": null,
+      "name_ja": "安藤 沙央梨",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__辻井稀子",
+      "name_en": null,
+      "name_ja": "辻井 稀子",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__長濱花凜",
+      "name_en": null,
+      "name_ja": "長濱 花凜",
+      "team_id": null
+    }
+  ],
   "transfers": [],
   "departures": [],
   "first_caps": [],
   "caps_updates": [],
-  "pending_departures": [],
+  "pending_departures": [
+    {
+      "id": "hs_関西学院高等部__中土井獅王",
+      "name_en": null,
+      "name_ja": "中土井 獅王",
+      "team_id": null
+    }
+  ],
   "newly_finished_rounds": []
 }
