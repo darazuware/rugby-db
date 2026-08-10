@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-10T12:50:42+09:00",
+  "checked_at": "2026-08-10T14:22:40+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,14 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6103",
-          "title": "クラブ 清水建設江東ブルーシャークス、2026-27シーズン新加入選手のお知らせ 2026.08.10",
-          "date": "2026-08-10",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -28,20 +21,8 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54113",
-          "title": "（通達）「大学ラグビー不祥事発生時対応手順ガイド」及び 「2026年度大学ラグビー部向けコンプライアンスアンケート結果」等について 2026.8.10 （月） 通達",
-          "date": "2026-08-10",
-          "category": null
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54110",
-          "title": "X-エリア ユースラグビー in 倉吉 開催のお知らせ 2026.8.10 （月） 高校 JRFU 普及育成 ユース",
-          "date": "2026-08-10",
-          "category": null
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54092",
-          "title": "（8/10更新）レポート：男子日本代表 網走合宿 2026.8.10 （月） 15人制男子日本代表",
+          "url": "https://www.rugby-japan.jp/news/54114",
+          "title": "第34回 日・韓・中ジュニア交流競技会 U17日本代表メンバーおよび直前合宿のお知らせ 2026.8.10 （月） U17日本代表",
           "date": "2026-08-10",
           "category": "squad"
         }
@@ -61,16 +42,9 @@
   ],
   "highlights": [
     {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6103",
-      "title": "クラブ 清水建設江東ブルーシャークス、2026-27シーズン新加入選手のお知らせ 2026.08.10",
-      "date": "2026-08-10",
-      "category": "roster"
-    },
-    {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54092",
-      "title": "（8/10更新）レポート：男子日本代表 網走合宿 2026.8.10 （月） 15人制男子日本代表",
+      "url": "https://www.rugby-japan.jp/news/54114",
+      "title": "第34回 日・韓・中ジュニア交流競技会 U17日本代表メンバーおよび直前合宿のお知らせ 2026.8.10 （月） U17日本代表",
       "date": "2026-08-10",
       "category": "squad"
     }

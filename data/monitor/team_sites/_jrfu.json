@@ -1,12 +1,17 @@
 {
-  "checked_at": "2026-08-10T12:50:42+09:00",
+  "checked_at": "2026-08-10T14:22:40+09:00",
   "url": "https://www.rugby-japan.jp/news/",
   "items": [
     {
+      "url": "https://www.rugby-japan.jp/news/54114",
+      "title": "第34回 日・韓・中ジュニア交流競技会 U17日本代表メンバーおよび直前合宿のお知らせ 2026.8.10 （月） U17日本代表",
+      "date": "2026-08-10",
+      "category": "squad"
+    },
+    {
       "url": "https://www.rugby-japan.jp/news/54113",
       "title": "（通達）「大学ラグビー不祥事発生時対応手順ガイド」及び 「2026年度大学ラグビー部向けコンプライアンスアンケート結果」等について 2026.8.10 （月） 通達",
-      "date": "2026-08-10",
-      "category": null
+      "date": "2026-08-10"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54111",
@@ -16,14 +21,12 @@
     {
       "url": "https://www.rugby-japan.jp/news/54110",
       "title": "X-エリア ユースラグビー in 倉吉 開催のお知らせ 2026.8.10 （月） 高校 JRFU 普及育成 ユース",
-      "date": "2026-08-10",
-      "category": null
+      "date": "2026-08-10"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54092",
       "title": "（8/10更新）レポート：男子日本代表 網走合宿 2026.8.10 （月） 15人制男子日本代表",
-      "date": "2026-08-10",
-      "category": "squad"
+      "date": "2026-08-10"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54112",
@@ -44,11 +47,6 @@
       "url": "https://www.rugby-japan.jp/news/53905",
       "title": "（8/7更新）「太陽生命ウィメンズセブンズシリーズ2026 グランドファイナル札幌大会」実施概要・当日情報 2026.8.09 （日） 女子 太陽生命ウィメンズセブンズシリーズ 大会・試合",
       "date": "2026-08-09"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54104",
-      "title": "（8/8更新）太陽生命ウィメンズセブンズシリーズ2026 グランドファイナル札幌大会 チャレンジチーム札幌合宿および参加メンバーのお知らせ 2026.8.08 （土） 女子 セブンズ チャレンジチーム アカデミー・強化育成",
-      "date": "2026-08-08"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54102",
