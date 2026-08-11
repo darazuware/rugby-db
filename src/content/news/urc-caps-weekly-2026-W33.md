@@ -8,3 +8,4 @@ draft: false
 ---
 
 - [Cameron HANEKOM](/players/cameron-hanekom/): South Africa代表3→4キャップ
+- [Marco VAN STADEN](/players/marco-van-staden/): South Africa代表48→53キャップ
