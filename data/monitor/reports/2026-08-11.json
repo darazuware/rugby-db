@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-11T14:16:15+09:00",
+  "checked_at": "2026-08-11T20:37:40+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -46,10 +46,7 @@
       "first_run": false,
       "item_count": 42,
       "new_items": [],
-      "changed_pages": [
-        "https://www.bravelupus.com/",
-        "https://www.bravelupus.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -163,11 +160,7 @@
       "first_run": false,
       "item_count": 4,
       "new_items": [],
-      "changed_pages": [
-        "https://www.jreast.co.jp/greenwarriors/",
-        "https://www.jreast.co.jp/greenwarriors/news/2026/",
-        "https://www.jreast.co.jp/greenwarriors/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -179,10 +172,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kyudenvoltex.com/",
-        "https://www.kyudenvoltex.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -317,17 +307,9 @@
       "status": "ok",
       "first_run": false,
       "item_count": 45,
-      "new_items": [
-        {
-          "url": "https://www.skyactivs.com/news/4524",
-          "title": "2026.08.07[FRI] GAME 2026-27 プレシーズンマッチのお知らせ",
-          "date": "2026-08-07",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
-        "https://www.skyactivs.com/",
-        "https://www.skyactivs.com/news"
+        "https://www.skyactivs.com/"
       ],
       "rename_signals": []
     },
