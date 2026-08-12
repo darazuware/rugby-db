@@ -4,7 +4,7 @@
     "league": "national",
     "source": "rugby-japan.jp",
     "source_url": "https://www.rugby-japan.jp/news/53968",
-    "scraped_at": "2026-08-10T09:14:06+09:00",
+    "scraped_at": "2026-08-12T09:32:08+09:00",
     "news_id": "53968",
     "kind": "camp",
     "title": "（8/6更新）男子日本代表 宮崎合宿 参加メンバーのお知らせ",
@@ -592,10 +592,10 @@
     "league": "national",
     "source": "rugby-japan.jp",
     "source_url": "https://www.rugby-japan.jp/news/54111",
-    "scraped_at": "2026-08-10T09:14:06+09:00",
+    "scraped_at": "2026-08-12T09:32:08+09:00",
     "news_id": "54111",
     "kind": "tour",
-    "title": "男子日本代表 オーストラリア遠征参加メンバーのお知らせ",
+    "title": "（8/10更新）男子日本代表 オーストラリア遠征参加メンバーのお知らせ",
     "venue": null,
     "start_date": null,
     "members": [
@@ -646,6 +646,14 @@
         "position_group": "FW",
         "club_raw": "東芝ブレイブルーパス東京",
         "caps": 15
+      },
+      {
+        "player_id": null,
+        "name_ja": "稲場 巧 ※1 Takumi INABA",
+        "name_en": null,
+        "position_group": "FW",
+        "club_raw": "静岡ブルーレヴズ SHIZUOKA BlueRevs",
+        "caps": 0
       },
       {
         "player_id": "ar_izi-sword",
@@ -830,6 +838,14 @@
         "position_group": "BK",
         "club_raw": "コベルコ神戸スティーラーズ",
         "caps": 2
+      },
+      {
+        "player_id": null,
+        "name_ja": "サム・グリーン ※1 Sam GREENE",
+        "name_en": null,
+        "position_group": "BK",
+        "club_raw": "静岡ブルーレブズ SHIZUOKA BlueRevs ※2026年5月16日に前クラブより退団発表",
+        "caps": 7
       },
       {
         "player_id": "ar_takuro-matsunaga",

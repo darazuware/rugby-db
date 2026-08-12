@@ -1,0 +1,19 @@
+{
+  "league": "urc",
+  "signings": [],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [
+    {
+      "id": "ar_marco-van-staden",
+      "name_en": "Marco VAN STADEN",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 48,
+      "to_count": 53
+    }
+  ],
+  "pending_departures": [],
+  "newly_finished_rounds": []
+}

@@ -1,0 +1,17 @@
+{
+  "league": "highschool",
+  "signings": [],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [],
+  "pending_departures": [
+    {
+      "id": "hs_関西学院高等部__中土井獅王",
+      "name_en": null,
+      "name_ja": "中土井 獅王",
+      "team_id": null
+    }
+  ],
+  "newly_finished_rounds": []
+}

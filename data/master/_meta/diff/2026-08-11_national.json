@@ -1,0 +1,163 @@
+{
+  "league": "national",
+  "signings": [],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [
+    {
+      "id": "ar_aphelele-fassi",
+      "name_en": "Aphelele FASSI",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 18,
+      "to_count": 21
+    },
+    {
+      "id": "ar_ben-jason-dixon",
+      "name_en": "Ben-Jason DIXON",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 11,
+      "to_count": 13
+    },
+    {
+      "id": "ar_harry-hockings",
+      "name_en": "Harry HOCKINGS",
+      "name_ja": null,
+      "team": "Japan",
+      "from_count": 7,
+      "to_count": 9
+    },
+    {
+      "id": "ar_harry-wilson",
+      "name_en": "Harry WILSON",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 56,
+      "to_count": 57
+    },
+    {
+      "id": "ar_josh-nasser",
+      "name_en": "Josh NASSER",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 18,
+      "to_count": 20
+    },
+    {
+      "id": "ar_marco-van-staden",
+      "name_en": "Marco VAN STADEN",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 48,
+      "to_count": 53
+    },
+    {
+      "id": "ar_takato-okabe",
+      "name_en": "Takato OKABE",
+      "name_ja": null,
+      "team": "Japan",
+      "from_count": 10,
+      "to_count": 11
+    },
+    {
+      "id": "ar_tate-mcdermott",
+      "name_en": "Tate MCDERMOTT",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 47,
+      "to_count": 57
+    },
+    {
+      "id": "ar_tomas-rapetti",
+      "name_en": "Tomás RAPETTI",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 6,
+      "to_count": 7
+    }
+  ],
+  "pending_departures": [
+    {
+      "id": "jrfu_callup_haruto-kida",
+      "name_en": "Haruto KIDA",
+      "name_ja": "木田 晴斗",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_callup_shogo-nakano",
+      "name_en": "Shogo NAKANO",
+      "name_ja": "中野 将伍 ※11.",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_callup_takuro-hojo",
+      "name_en": "Takuro HOJO",
+      "name_ja": "北條 拓郎 ※1. ※11.",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_callup_waisake-raratubua",
+      "name_en": "Waisake RARATUBUA",
+      "name_ja": "ワイサケ・ララトゥブア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_callup_yota-kamimori",
+      "name_en": "Yota KAMIMORI",
+      "name_ja": "紙森 陽太 ※7.",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506353",
+      "name_en": "Waisake RARATUBUA",
+      "name_ja": "ワイサケ・ララトゥブア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506359",
+      "name_en": "Haruto WATANABE",
+      "name_ja": "渡邊晴斗",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506369",
+      "name_en": "Inoke BURUA",
+      "name_ja": "イノケ・ブルア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506497",
+      "name_en": "Aseri MASIVOU",
+      "name_ja": "アセリ・マシヴォウ",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506500",
+      "name_en": "Shun ARAKAWA",
+      "name_ja": "荒川駿",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506501",
+      "name_en": "Shigure TAKAO",
+      "name_ja": "高尾時流",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506503",
+      "name_en": "Shota TAIRA",
+      "name_ja": "平翔太",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_507122",
+      "name_en": "Kanato HIRANO",
+      "name_ja": "平野叶翔",
+      "team_id": "japan"
+    }
+  ],
+  "newly_finished_rounds": [],
+  "call_ups": []
+}

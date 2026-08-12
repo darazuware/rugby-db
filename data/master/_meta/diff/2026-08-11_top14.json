@@ -1,0 +1,84 @@
+{
+  "league": "top14",
+  "signings": [
+    {
+      "id": "ar_bertrand-mistri",
+      "name_en": "Bertrand MISTRI",
+      "name_ja": null,
+      "team_id": "montpellier"
+    },
+    {
+      "id": "ar_julien-catala",
+      "name_en": "Julien CATALA",
+      "name_ja": null,
+      "team_id": "castres"
+    },
+    {
+      "id": "ar_louis-douaud",
+      "name_en": "Louis DOUAUD",
+      "name_ja": null,
+      "team_id": "lyon"
+    },
+    {
+      "id": "ar_mathys-teyssier",
+      "name_en": "Mathys TEYSSIER",
+      "name_ja": null,
+      "team_id": "lyon"
+    },
+    {
+      "id": "ar_maxime-vitoux",
+      "name_en": "Maxime VITOUX",
+      "name_ja": null,
+      "team_id": "lyon"
+    },
+    {
+      "id": "ar_morgan-robichon",
+      "name_en": "Morgan ROBICHON",
+      "name_ja": null,
+      "team_id": "lyon"
+    },
+    {
+      "id": "ar_noa-leterme",
+      "name_en": "Noa LETERME",
+      "name_ja": null,
+      "team_id": "lyon"
+    },
+    {
+      "id": "ar_oskars-vitolins",
+      "name_en": "Oskars VITOLINS",
+      "name_ja": null,
+      "team_id": "vannes"
+    },
+    {
+      "id": "ar_terence-routier",
+      "name_en": "Terence ROUTIER",
+      "name_ja": null,
+      "team_id": "vannes"
+    },
+    {
+      "id": "ar_theo-roucayrol",
+      "name_en": "Théo ROUCAYROL",
+      "name_ja": null,
+      "team_id": "perpignan"
+    },
+    {
+      "id": "ar_william-blanc",
+      "name_en": "William BLANC",
+      "name_ja": null,
+      "team_id": "lyon"
+    }
+  ],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [],
+  "pending_departures": [
+    {
+      "id": "ar_james-o-reilly",
+      "name_en": "James O'REILLY",
+      "name_ja": null,
+      "team_id": "vannes"
+    }
+  ],
+  "newly_finished_rounds": []
+}
