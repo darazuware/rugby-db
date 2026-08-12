@@ -112,14 +112,25 @@ export function leagueCapsSentence(player: Player): string | null {
   return `${label}通算${player.league_caps}キャップ。`;
 }
 
-/** {education で type=="univ" の name}出身。is_minor=true は出さない（10のポリシー）。 */
-export function educationSentence(player: Player): string | null {
+/**
+ * grad_year（卒業年、西暦）から在学中かどうかを判定する。
+ * 卒業は3月なので、grad_year の4月1日を迎えていなければ在学中とみなす。
+ * grad_year が null（未取得）の場合は判定不能として false（従来通り「出身」表記）。
+ */
+export function isEnrolled(gradYear: number | null | undefined, asOf: Date = new Date()): boolean {
+  if (gradYear == null) return false;
+  const cutoff = new Date(gradYear, 3, 1); // gradYear年4月1日
+  return asOf < cutoff;
+}
+
+/** {education で type=="univ" の name}出身/在学中。is_minor=true は出さない（10のポリシー）。 */
+export function educationSentence(player: Player, asOf: Date = new Date()): string | null {
   if (player.is_minor) return null;
   const univ = player.education.find((e) => e.type === "univ");
   if (!univ) return null;
   const name = univ.name_raw; // school_id 解決（P5: schools.json）は未実装のため原文を使用
   if (!name) return null;
-  return `${name}出身。`;
+  return isEnrolled(univ.grad_year, asOf) ? `${name}在学中。` : `${name}出身。`;
 }
 
 /** これまで{career各チーム名の列挙}でプレー。 */
@@ -161,7 +172,7 @@ export function buildPlayerBioSentences(player: Player, options: PlayerBioOption
     birthPhysicalSentence(player, asOf),
     capsSentence(player),
     leagueCapsSentence(player),
-    educationSentence(player),
+    educationSentence(player, asOf),
     careerSentence(player),
     seasonStatsSentence(player),
   ];

@@ -252,6 +252,25 @@ export function applyPlayerMerges(players: Player[], merges: PlayerMerges): Play
     if ((canonical.nationality?.length ?? 0) === 0 && (dup.nationality?.length ?? 0) > 0) {
       canonical.nationality = dup.nationality;
     }
+    // education: 同一校（type+name_raw一致）の grad_year が canonical 側で空なら dup から
+    // 補う（在学中/卒業済みの判定に必要）。canonical に無い type（例: 高校歴が無い）は
+    // dup 側のレコードをそのまま追加する（caps/nationalityと同じ「null/空のときのみ
+    // 相手から補う」方針。既存の canonical 値は一切上書きしない）。
+    canonical.education = canonical.education ?? [];
+    for (const ce of canonical.education) {
+      if (ce.grad_year != null) continue;
+      const match = (dup.education ?? []).find(
+        (de) => de.type === ce.type && de.name_raw === ce.name_raw && de.grad_year != null
+      );
+      if (match) ce.grad_year = match.grad_year;
+    }
+    const canonicalTypes = new Set(canonical.education.map((ce) => ce.type));
+    for (const de of dup.education ?? []) {
+      if (!canonicalTypes.has(de.type)) {
+        canonical.education.push(de);
+        canonicalTypes.add(de.type);
+      }
+    }
   }
 
   return players.filter((p) => !dupIds.has(p.id));

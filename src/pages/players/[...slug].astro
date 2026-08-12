@@ -25,9 +25,10 @@ import {
   type School,
   type Team,
 } from "../../lib/master";
-import { buildPlayerBioSentences, calcAge } from "../../lib/playerText";
+import { buildPlayerBioSentences, calcAge, isEnrolled } from "../../lib/playerText";
 import { positionJa } from "../../lib/positions";
 import { getSchoolmates, playerBadges, type SchoolmateRelation } from "../../lib/connections";
+import { getRelatedNews } from "../../lib/relatedNews";
 import igEmbeds from "../../../data/manual/instagram_embeds.json";
 
 export async function getStaticPaths() {
@@ -87,6 +88,10 @@ const igEmbed = (igEmbeds as Record<string, { account?: string; permalink?: stri
 // 学校→選手インデックスはビルド中一度だけ構築される（lib/connections.ts）。
 const badges = playerBadges(player);
 const schoolGroups = await getSchoolmates(player);
+// 関連ニュース（公開済み記事本文の /players/{slug}/ リンクを逆引き。新規文章生成なし）
+const relatedNews = await getRelatedNews(player.slug);
+const formatNewsDate = (d: Date) =>
+  d.toLocaleDateString("ja-JP", { year: "numeric", month: "2-digit", day: "2-digit" });
 const allSchools: School[] = schoolGroups.length > 0 ? await getAllSchools() : [];
 const schoolById = new Map(allSchools.map((s) => [s.id, s]));
 const RELATION_LABEL: Record<SchoolmateRelation, string> = {
@@ -236,13 +241,13 @@ const allStats: StatRow[] = [
     value: player.nationality.length ? player.nationality.join("・") : null,
   },
   {
-    label: "出身高校",
+    label: eduHs && isEnrolled(eduHs.grad_year) ? "在学高校" : "出身高校",
     sub: "HIGH SCHOOL",
     value: eduHs?.name_raw ?? null,
     href: eduHs?.school_id ? `/schools/${eduHs.school_id}` : null,
   },
   {
-    label: "出身大学",
+    label: eduUniv && isEnrolled(eduUniv.grad_year) ? "在学大学" : "出身大学",
     sub: "UNIVERSITY",
     value: eduUniv?.name_raw ?? null,
     href: eduUniv?.school_id ? `/schools/${eduUniv.school_id}` : null,
@@ -405,6 +410,30 @@ const metaDesc = [
               </span>
             ))}
           </div>
+        )}
+
+        {/* 関連ニュース（公開済み記事へのリンクのみ。要約・トピック文の新規生成なし） */}
+        {relatedNews.length > 0 && (
+          <section class="mb-10">
+            <h2 class="text-lg font-black text-foreground mb-3">注目トピックス</h2>
+            <ul class="space-y-2">
+              {relatedNews.map((n) => (
+                <li>
+                  <a
+                    href={`/news/${n.slug}/`}
+                    class="flex items-center justify-between gap-4 p-4 rounded-xl bg-background border border-border-dim hover:border-yellow-400/50 transition-colors group"
+                  >
+                    <span class="font-bold text-foreground group-hover:text-yellow-600 transition-colors leading-snug">
+                      {n.title}
+                    </span>
+                    <span class="text-xs text-foreground/40 font-mono shrink-0">
+                      {formatNewsDate(n.pubDate)}
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
         )}
 
         {/* 本文（テンプレ生成・自由記述なし） */}

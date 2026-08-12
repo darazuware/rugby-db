@@ -40,6 +40,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Install Playwright Chromium (university league JS-rendered サイト向け)
+        run: python3 -m playwright install --with-deps chromium
+
       - name: Determine run mode
         id: mode
         run: |

@@ -40,7 +40,8 @@ ALLOWED_DOMAINS = {"league-one.jp", "all.rugby", "jrfu.jp", "rugby-japan.jp"}
 # warning・0件скипで扱う）。
 ALLOWED_DOMAINS |= {
     "wasedarugby.com", "teikyo-sports.jp", "meijirugby.jp", "keiorugby.com",
-    "aogaku-rugby.com", "tsa.tsukuba.ac.jp", "rikkyo-rugby.com", "nssurfc.jp",
+    "aogaku-rugby.com", "tsa.tsukuba.ac.jp", "tsukubaowls.com",  # 筑波大学: 旧ドメイン接続不可のため体育スポーツ局ポータルに移行(2026-08-11確認)
+    "rikkyo-rugby.com", "nssurfc.jp",
     "seikeiruggerclub.com", "mgurfc.com", "musashi-rugby.net", "turfc.com",
     "sophia-rugby.com", "seijorugby.com", "hurfc.jp", "gakushuin-rugby.com",
     "daito-rfc.com", "toyorugby.com", "seagales.com", "rku-rugby.jp",
@@ -52,6 +53,7 @@ ALLOWED_DOMAINS |= {
     "kindai-rugby.jp", "kgrfc.net", "ouhs.jp", "kiurfc.com", "konan-rugby.com",
     "ouerugby.o-oku.jp", "ryukoku-univ-rugby.com", "oiu-rugby.com",
     "otemongakuinrfc.com", "osu-rugby.jp",
+    "daitorugby.com",  # 大東文化大学: 旧 daito-rfc.com から移行(2026-08-12確認)
 }
 
 # P5-6: 高校ラグビー部員名簿（10_YOUTH_AGEGRADE.md 高校スコープ）。
