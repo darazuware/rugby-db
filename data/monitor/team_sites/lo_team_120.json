@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-08-10T20:41:46+09:00",
+  "checked_at": "2026-08-11T14:53:23+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "6d3e054a71f3b0cb"
+      "hash": "00d5b5a9eb894a67"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "88372dfe95183b0e"
+      "hash": "0a60b1949d85eb9e"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
@@ -33,6 +33,11 @@
       "url": "https://www.skyactivs.com/news/4558",
       "title": "2026.08.09[SUN] ACTIVITY トラスポ！ひろしまに参加しました",
       "date": "2026-08-09"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/4524",
+      "title": "2026.08.07[FRI] GAME 2026-27 プレシーズンマッチのお知らせ",
+      "date": "2026-08-07"
     },
     {
       "url": "https://www.skyactivs.com/news/4518",
@@ -170,11 +175,6 @@
       "date": "2026-05-19"
     },
     {
-      "url": "https://www.skyactivs.com/20260519-01.pdf",
-      "title": "イベント情報",
-      "date": "2026-05-19"
-    },
-    {
       "url": "https://www.skyactivs.com/news/3973",
       "title": "2026.05.11[MON] ACTIVITY タグラグビーユニファイド体験会を実施しました",
       "date": "2026-05-11"
@@ -230,11 +230,6 @@
       "date": "2026-04-09"
     },
     {
-      "url": "https://www.skyactivs.com/news/3833",
-      "title": "2026.04.02[THU] GAME 【メンバー発表】vs中国電力レッドレグリオンズ",
-      "date": "2026-04-02"
-    },
-    {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",
       "title": "詳細はこちらから",
       "date": "2025-03-08"
@@ -245,7 +240,7 @@
       "date": "2025-03-06"
     },
     {
-      "url": "https://www.skyactivs.com/news/2091",
+      "url": "https://www.skyactivs.com/news/2091#",
       "title": "ニュース一覧へ戻る arrow_forward",
       "date": "2025-03-06"
     },
@@ -255,7 +250,7 @@
       "date": "2025-03-06"
     },
     {
-      "url": "https://www.skyactivs.com/news/2001",
+      "url": "https://www.skyactivs.com/news/2001#",
       "title": "ニュース一覧へ戻る arrow_forward",
       "date": "2022-08-08"
     }

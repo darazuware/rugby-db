@@ -261,6 +261,16 @@ def _parse_profile(html: str) -> dict:
     return out
 
 
+# league-one.jp側の公式サイト欄がチーム移転・引継ぎに未追従の既知ケース。
+# ここに登録したURLはHTML自動取得ではなく運営（ユーザー）からの直接申告に基づく
+# （jreast.co.jpはWAFで自動取得が403になり本文確認ができないため、AIの知識では
+# なくユーザー確認済みの事実として例外的に登録する。他は league-one.jp から取得する）。
+_URL_OVERRIDES = {
+    # NECグリーンロケッツ東葛: NECからJR東日本へ運営引継ぎ（2026-08-11 ユーザー確認）
+    "lo_team_109": "https://www.jreast.co.jp/greenwarriors/",
+}
+
+
 def discover_official_urls(divisions: Iterable[str] = DIVISIONS) -> dict:
     """teams master の source_url（league-one.jp/team/N）から公式HP等を取得して書き戻す。"""
     updated, warnings = [], []
@@ -279,6 +289,8 @@ def discover_official_urls(divisions: Iterable[str] = DIVISIONS) -> dict:
                 warnings.append(f"{team.get('id')}: {src} 取得失敗")
                 continue
             profile = _parse_profile(res.text)
+            if team.get("id") in _URL_OVERRIDES:
+                profile["official_url"] = _URL_OVERRIDES[team["id"]]
             if not profile.get("official_url"):
                 warnings.append(f"{team.get('id')}: 公式サイト行が見つからない")
             official_name = profile.get("official_name")
