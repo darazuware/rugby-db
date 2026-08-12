@@ -1,10 +1,96 @@
 {
   "league": "top14",
-  "signings": [],
+  "signings": [
+    {
+      "id": "ar_baptiste-vialas",
+      "name_en": "Baptiste VIALAS",
+      "name_ja": null,
+      "team_id": "toulouse"
+    },
+    {
+      "id": "ar_dylane-gigan",
+      "name_en": "Dylane GIGAN",
+      "name_ja": null,
+      "team_id": "toulouse"
+    },
+    {
+      "id": "ar_guilhem-lacand",
+      "name_en": "Guilhem LACAND",
+      "name_ja": null,
+      "team_id": "toulouse"
+    },
+    {
+      "id": "ar_jeremy-about",
+      "name_en": "Jérémy ABOUT",
+      "name_ja": null,
+      "team_id": "toulouse"
+    },
+    {
+      "id": "ar_jules-luscan",
+      "name_en": "Jules LUSCAN",
+      "name_ja": null,
+      "team_id": "toulouse"
+    },
+    {
+      "id": "ar_lorenzo-sirignano",
+      "name_en": "Lorenzo SIRIGNANO",
+      "name_ja": null,
+      "team_id": "toulon"
+    },
+    {
+      "id": "ar_matteo-rosi",
+      "name_en": "Matteo ROSI",
+      "name_ja": null,
+      "team_id": "toulouse"
+    },
+    {
+      "id": "ar_maxence-baux",
+      "name_en": "Maxence BAUX",
+      "name_ja": null,
+      "team_id": "toulouse"
+    },
+    {
+      "id": "ar_naime-sans-nahort",
+      "name_en": "Naïme SANS-NAHORT",
+      "name_ja": null,
+      "team_id": "toulouse"
+    },
+    {
+      "id": "ar_theo-castet",
+      "name_en": "Théo CASTET",
+      "name_ja": null,
+      "team_id": "toulouse"
+    },
+    {
+      "id": "ar_thomas-warme",
+      "name_en": "Thomas WARMÉ",
+      "name_ja": null,
+      "team_id": "toulouse"
+    },
+    {
+      "id": "ar_tsiaro-yohan-randrianary",
+      "name_en": "Tsiaro Yohan RANDRIANARY",
+      "name_ja": null,
+      "team_id": "toulouse"
+    },
+    {
+      "id": "ar_victor-blanc",
+      "name_en": "Victor BLANC",
+      "name_ja": null,
+      "team_id": "toulouse"
+    }
+  ],
   "transfers": [],
   "departures": [],
   "first_caps": [],
   "caps_updates": [],
-  "pending_departures": [],
+  "pending_departures": [
+    {
+      "id": "ar_james-o-reilly",
+      "name_en": "James O'REILLY",
+      "name_ja": null,
+      "team_id": "vannes"
+    }
+  ],
   "newly_finished_rounds": []
 }

@@ -5,6 +5,86 @@
   "departures": [],
   "first_caps": [],
   "caps_updates": [],
-  "pending_departures": [],
-  "newly_finished_rounds": []
+  "pending_departures": [
+    {
+      "id": "jrfu_callup_haruto-kida",
+      "name_en": "Haruto KIDA",
+      "name_ja": "木田 晴斗",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_callup_shogo-nakano",
+      "name_en": "Shogo NAKANO",
+      "name_ja": "中野 将伍 ※11.",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_callup_takuro-hojo",
+      "name_en": "Takuro HOJO",
+      "name_ja": "北條 拓郎 ※1. ※11.",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_callup_waisake-raratubua",
+      "name_en": "Waisake RARATUBUA",
+      "name_ja": "ワイサケ・ララトゥブア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_callup_yota-kamimori",
+      "name_en": "Yota KAMIMORI",
+      "name_ja": "紙森 陽太 ※7.",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506353",
+      "name_en": "Waisake RARATUBUA",
+      "name_ja": "ワイサケ・ララトゥブア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506359",
+      "name_en": "Haruto WATANABE",
+      "name_ja": "渡邊晴斗",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506369",
+      "name_en": "Inoke BURUA",
+      "name_ja": "イノケ・ブルア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506497",
+      "name_en": "Aseri MASIVOU",
+      "name_ja": "アセリ・マシヴォウ",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506500",
+      "name_en": "Shun ARAKAWA",
+      "name_ja": "荒川駿",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506501",
+      "name_en": "Shigure TAKAO",
+      "name_ja": "高尾時流",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_506503",
+      "name_en": "Shota TAIRA",
+      "name_ja": "平翔太",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_507122",
+      "name_en": "Kanato HIRANO",
+      "name_ja": "平野叶翔",
+      "team_id": "japan"
+    }
+  ],
+  "newly_finished_rounds": [],
+  "call_ups": []
 }

@@ -1,10 +1,36 @@
 {
   "league": "premiership",
-  "signings": [],
+  "signings": [
+    {
+      "id": "ar_tom-whorrod",
+      "name_en": "Tom WHORROD",
+      "name_ja": null,
+      "team_id": "gloucester"
+    }
+  ],
   "transfers": [],
   "departures": [],
   "first_caps": [],
   "caps_updates": [],
-  "pending_departures": [],
+  "pending_departures": [
+    {
+      "id": "ar_bryn-gordon",
+      "name_en": "Bryn GORDON",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    {
+      "id": "ar_manaaki-boyle-tiatia",
+      "name_en": "Manaaki BOYLE-TIATIA",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    {
+      "id": "ar_ollie-minnis",
+      "name_en": "Ollie MINNIS",
+      "name_ja": null,
+      "team_id": "gloucester"
+    }
+  ],
   "newly_finished_rounds": []
 }
