@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-12T16:18:59+09:00",
+  "checked_at": "2026-08-12T18:08:17+09:00",
   "teams": [],
   "sources": [
     {
@@ -19,14 +19,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54117",
-          "title": "「太陽生命ウィメンズセブンズシリーズ2026」 個人賞およびチーム賞決定のお知らせ 2026.8.12 （水） 女子 セブンズ 太陽生命ウィメンズセブンズシリーズ",
-          "date": "2026-08-12",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
