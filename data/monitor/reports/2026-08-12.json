@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-12T14:43:03+09:00",
+  "checked_at": "2026-08-12T20:39:54+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -33,18 +33,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 34,
-      "new_items": [
-        {
-          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260812_01/",
-          "title": "活動レポート 2026年08月12日 留学記：NZ編 齊藤誉哉② ニュースを見る",
-          "date": "2026-08-12",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://panasonic.co.jp/sports/wildknights/",
-        "https://panasonic.co.jp/sports/wildknights/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -142,14 +132,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 28,
-      "new_items": [
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3158",
-          "title": "2026.8.12[WED] TICKET 【シーズンシート追加購入キャンペーン】プレミアム交流会へご招待！",
-          "date": "2026-08-12",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -199,7 +182,7 @@
       "official_url": "https://blue-sharks.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 24,
+      "item_count": 23,
       "new_items": [],
       "changed_pages": [
         "https://blue-sharks.jp/"
@@ -325,9 +308,7 @@
       "first_run": false,
       "item_count": 45,
       "new_items": [],
-      "changed_pages": [
-        "https://www.skyactivs.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
