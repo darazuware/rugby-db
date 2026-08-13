@@ -40,6 +40,22 @@
     "to_count": 57
   },
   {
+    "id": "ar_jarred-adams",
+    "name_en": "Jarred ADAMS",
+    "name_ja": null,
+    "team": "Samoa",
+    "from_count": 10,
+    "to_count": 12
+  },
+  {
+    "id": "ar_joel-lam",
+    "name_en": "Joel LAM",
+    "name_ja": null,
+    "team": "Samoa",
+    "from_count": 5,
+    "to_count": 6
+  },
+  {
     "id": "ar_josh-nasser",
     "name_en": "Josh NASSER",
     "name_ja": null,
@@ -62,6 +78,38 @@
     "team": "South Africa",
     "from_count": 48,
     "to_count": 53
+  },
+  {
+    "id": "ar_patrick-pellegrini",
+    "name_en": "Pat PELLEGRINI",
+    "name_ja": null,
+    "team": "Tonga",
+    "from_count": 23,
+    "to_count": 30
+  },
+  {
+    "id": "ar_richie-asiata",
+    "name_en": "Richie ASIATA",
+    "name_ja": null,
+    "team": "Samoa",
+    "from_count": 2,
+    "to_count": 3
+  },
+  {
+    "id": "ar_sam-tuitupou-2005",
+    "name_en": "Sam TUITUPOU",
+    "name_ja": null,
+    "team": "Tonga",
+    "from_count": 3,
+    "to_count": 4
+  },
+  {
+    "id": "ar_siaosi-nginingini",
+    "name_en": "Siaosi NGININGINI",
+    "name_ja": null,
+    "team": "Tonga",
+    "from_count": 8,
+    "to_count": 9
   },
   {
     "id": "ar_takato-okabe",

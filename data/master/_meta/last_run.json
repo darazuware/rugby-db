@@ -1,6 +1,6 @@
 {
   "top14": {
-    "run_at": "2026-08-12T09:32:08+09:00",
+    "run_at": "2026-08-13T10:06:20+09:00",
     "counts": {
       "players": 1166,
       "teams": 14
@@ -23,7 +23,7 @@
     ]
   },
   "super-rugby": {
-    "run_at": "2026-08-12T09:32:08+09:00",
+    "run_at": "2026-08-13T10:06:20+09:00",
     "counts": {
       "players": 452,
       "teams": 11
@@ -31,7 +31,7 @@
     "warnings": []
   },
   "league-one-d1": {
-    "run_at": "2026-08-12T09:32:08+09:00",
+    "run_at": "2026-08-13T10:06:20+09:00",
     "counts": {
       "players": 693,
       "teams": 12
@@ -41,7 +41,7 @@
     ]
   },
   "national": {
-    "run_at": "2026-08-12T09:32:08+09:00",
+    "run_at": "2026-08-13T10:06:20+09:00",
     "counts": {
       "players": 1117,
       "teams": 0
@@ -58,7 +58,7 @@
     ]
   },
   "sevens-national": {
-    "run_at": "2026-08-12T09:32:08+09:00",
+    "run_at": "2026-08-13T10:06:20+09:00",
     "counts": {
       "players": 28,
       "teams": 0
@@ -69,7 +69,7 @@
     ]
   },
   "age-grade": {
-    "run_at": "2026-08-12T09:32:08+09:00",
+    "run_at": "2026-08-13T10:06:20+09:00",
     "counts": {
       "players": 113,
       "teams": 0
@@ -80,42 +80,32 @@
     ]
   },
   "university": {
-    "run_at": "2026-08-12T09:32:08+09:00",
+    "run_at": "2026-08-13T10:06:20+09:00",
     "counts": {
-      "players": 629,
+      "players": 1107,
       "teams": 0
     },
     "warnings": [
-      "university 帝京大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 筑波大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 立教大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 明治学院大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 成城大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 一橋大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 一橋大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 学習院大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 大東文化大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 大東文化大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 東洋大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 東海大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 流通経済大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 流通経済大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 法政大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 立正大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 日本大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 関東学院大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 中央大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
-      "university 専修大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 山梨学院大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 拓殖大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 白鷗大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
-      "university 國學院大學: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 立命館大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 京都産業大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 摂南大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 天理大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 関西大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 同志社大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 近畿大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 大阪体育大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 甲南大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 大阪経済大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 大阪国際大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 追手門学院大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
@@ -124,7 +114,7 @@
     ]
   },
   "highschool": {
-    "run_at": "2026-08-12T09:32:08+09:00",
+    "run_at": "2026-08-13T10:06:20+09:00",
     "counts": {
       "players": 390,
       "teams": 0
@@ -154,7 +144,7 @@
     ]
   },
   "urc": {
-    "run_at": "2026-08-12T09:32:08+09:00",
+    "run_at": "2026-08-13T10:06:20+09:00",
     "counts": {
       "players": 962,
       "teams": 16
@@ -164,7 +154,7 @@
     ]
   },
   "premiership": {
-    "run_at": "2026-08-12T09:32:08+09:00",
+    "run_at": "2026-08-13T10:06:20+09:00",
     "counts": {
       "players": 635,
       "teams": 10
@@ -172,7 +162,7 @@
     "warnings": []
   },
   "league-one-d2": {
-    "run_at": "2026-08-12T09:32:08+09:00",
+    "run_at": "2026-08-13T10:06:20+09:00",
     "counts": {
       "players": 439,
       "teams": 8
@@ -182,7 +172,7 @@
     ]
   },
   "league-one-d3": {
-    "run_at": "2026-08-12T09:32:08+09:00",
+    "run_at": "2026-08-13T10:06:20+09:00",
     "counts": {
       "players": 337,
       "teams": 6
@@ -192,7 +182,7 @@
     ]
   },
   "mlr": {
-    "run_at": "2026-08-12T09:32:08+09:00",
+    "run_at": "2026-08-13T10:06:20+09:00",
     "counts": {
       "players": 190,
       "teams": 6

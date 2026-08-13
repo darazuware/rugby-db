@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-08-11T20:37:40+09:00",
+  "checked_at": "2026-08-12T20:39:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "edf59889f991ab0b"
+      "hash": "7e4f86e41041a425"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "aaa9eaf6c3ae63a3"
+      "hash": "a23a7d407ab305b5"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3158",
+      "title": "2026.8.12[WED] TICKET 【シーズンシート追加購入キャンペーン】プレミアム交流会へご招待！",
+      "date": "2026-08-12"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3161",
       "title": "2026.8.9[SUN] TEAM 稲場 巧選手が日本代表に追加招集",
