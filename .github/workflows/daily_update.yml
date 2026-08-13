@@ -7,6 +7,11 @@ on:
     - cron: '0 21 * * *'
     # 23:30 JST 毎日 = 14:30 UTC: 軽量更新（試合日の結果反映漏れ対策、matches/standings のみ）
     - cron: '30 14 * * *'
+    # 平日 9/11/13/15/17/19/21時 JST = 00/02/04/06/08/10/12 UTC: 軽量更新の高頻度実行。
+    # JRFU招集メンバー発表等はいつ出るか読めないため、日中に頻繁に回して
+    # Yahoo砲・Google砲（速報性が命）を逃さない。フル更新はデータ量が多く重いので
+    # 06:00の1回のみ、これらは call_ups/matches/standings の軽量チェックのみ。
+    - cron: '0 0,2,4,6,8,10,12 * * 1-5'
   workflow_dispatch:
     inputs:
       mode:
@@ -48,10 +53,10 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "mode=${{ inputs.mode }}" >> "$GITHUB_OUTPUT"
-          elif [ "${{ github.event.schedule }}" = "30 14 * * *" ]; then
-            echo "mode=light" >> "$GITHUB_OUTPUT"
-          else
+          elif [ "${{ github.event.schedule }}" = "0 21 * * *" ]; then
             echo "mode=full" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=light" >> "$GITHUB_OUTPUT"
           fi
 
       # 検証失敗（exit != 0）の場合、pipefail によりこのステップ自体が失敗し、

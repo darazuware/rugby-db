@@ -140,10 +140,12 @@ def run_leagues(leagues: list[str], *, dry_run: bool, only: set[str] | None = No
         )
         io.write_pending_departures(pending)
 
-    # gap B: 招集・合宿イベントの突合→差分→マスタ化（--only 時はスキップ）。
+    # gap B: 招集・合宿イベントの突合→差分→マスタ化。
+    # call_ups は pending_departures の「2回連続確認」ロジックと無関係（別state file）
+    # なので --only 時もスキップしない（速報性優先。Yahoo/Google砲は発表当日中の記事化が鍵）。
     # 新規イベントは national diff に "call_ups" として注入し news_gen が記事化する。
     callup_master: list[dict] | None = None
-    if not only and national_call_ups and "national" in diffs_by_league:
+    if national_call_ups and "national" in diffs_by_league:
         now_iso = datetime.now(io.JST).isoformat(timespec="seconds")
         evs = callups.assign_member_ids(national_call_ups, players_by_league.get("national", []))
         prev_callups = io.read_records(io.callups_path("national"))
