@@ -285,7 +285,7 @@ const metaDesc = [
 
 <Layout
   title={`${mainName}${subName ? ` (${subName})` : ""} | ラグビー選手名鑑 | RUGBY PICKS`}
-  description={`${mainName}のプロフィール。${metaDesc}。正確な選手情報をお届けします。`}
+  description={`${mainName}${schemaName.includes(" ") ? `（${schemaName.replace(/\s+/g, "")}）` : ""}のプロフィール。${metaDesc}。正確な選手情報をお届けします。`}
 >
   <JSONLD type="SportsPlayer" data={jsonldData} />
   <div class="py-4">
