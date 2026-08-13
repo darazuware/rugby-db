@@ -65,6 +65,36 @@ def _load_manual():
 VALID_ONLY = {"matches", "standings"}
 
 
+def _merge_announced_transfers(league: str, players: list[dict]) -> list[dict]:
+    """gap C: 公式に加入発表済みだが、現行ロースターページには未反映の選手を補完する。
+
+    data/manual/announced_transfers.json（人力キュレーション。league-one.jp等の
+    ALLOWED_DOMAINS 一次ソースのみを根拠に手動追加）を対象リーグにマージする。
+    既にスクレイパーが同名選手をそのチームで取得済みなら（＝公式ロースターに反映済み）
+    重複を避けて手動分をスキップする（保守的: 判断に迷ったら重複させない）。
+    """
+    announced = io.read_manual("announced_transfers.json", default=[])
+    if not announced:
+        return players
+    existing_names = {
+        (p.get("name_en") or "").strip().lower()
+        for p in players
+        if p.get("name_en")
+    }
+    merged = list(players)
+    for entry in announced:
+        if entry.get("league") != league:
+            continue
+        name_en = (entry.get("name_en") or "").strip().lower()
+        if name_en and name_en in existing_names:
+            continue  # 公式ロースターに反映済み。手動分は不要。
+        rec = {k: v for k, v in entry.items() if k != "note"}
+        rec.setdefault("source", "manual-curated")
+        rec.setdefault("scraped_at", datetime.now(io.JST).isoformat(timespec="seconds"))
+        merged.append(rec)
+    return merged
+
+
 def run_leagues(leagues: list[str], *, dry_run: bool, only: set[str] | None = None) -> int:
     players_by_league: dict[str, list[dict]] = {}
     prev_by_league: dict[str, list[dict]] = {}
@@ -80,7 +110,9 @@ def run_leagues(leagues: list[str], *, dry_run: bool, only: set[str] | None = No
             print(f"[skip] {league}: スクレイパー未実装（P1-3以降）", file=sys.stderr)
             continue
         result = scraper()  # -> {players, teams, matches, standings, warnings}
-        players_by_league[league] = result.get("players", [])
+        players_by_league[league] = _merge_announced_transfers(
+            league, result.get("players", []),
+        )
         if league == "national":
             national_call_ups = result.get("call_ups", [])
         teams.extend(result.get("teams", []))

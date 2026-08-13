@@ -1,0 +1,18 @@
+[
+  {
+    "id": "lo_announced_mark-nawaqanitawase",
+    "league": "league-one-d1",
+    "team_id": "lo_team_102",
+    "name_en": "Mark Nawaqanitawase",
+    "name_ja": "マーク ナワンガニタワシ",
+    "slug": "mark-nawaqanitawase",
+    "position": "WTB",
+    "height_cm": 192,
+    "weight_kg": 100,
+    "birthdate": "2000-09-11",
+    "nationality": ["Australia"],
+    "caps": {"team": "Australia", "count": 11, "source_url": "https://league-one.jp/news/5322"},
+    "source_url": "https://league-one.jp/news/5322",
+    "note": "2026-27シーズンより加入予定として公式発表済み（現行ロースターページには未反映のため手動収録）"
+  }
+]
