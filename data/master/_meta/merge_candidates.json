@@ -37,7 +37,7 @@
       },
       {
         "league": "national",
-        "id": "jrfu_national_510411"
+        "id": "jrfu_national_510663"
       }
     ]
   },
@@ -219,7 +219,7 @@
       },
       {
         "league": "national",
-        "id": "jrfu_national_510441"
+        "id": "jrfu_national_510671"
       }
     ]
   },
@@ -462,6 +462,20 @@
     ]
   },
   {
+    "name_en_normalized": "takumi inaba",
+    "birthdate": "2002-07-24",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_484154"
+      },
+      {
+        "league": "national",
+        "id": "jrfu_national_510660"
+      }
+    ]
+  },
+  {
     "name_en_normalized": "taisei fukuda",
     "birthdate": "2002-10-29",
     "members": [
@@ -499,7 +513,7 @@
       },
       {
         "league": "national",
-        "id": "jrfu_national_510431"
+        "id": "jrfu_national_510683"
       }
     ]
   },
@@ -658,6 +672,90 @@
     ]
   },
   {
+    "name_en_normalized": "naoto saito",
+    "birthdate": "1997-08-26",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_announced_naoto-saito"
+      },
+      {
+        "league": "national",
+        "id": "ar_naoto-saito"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "mamoru harada",
+    "birthdate": "1999-04-15",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_announced_mamoru-harada"
+      },
+      {
+        "league": "national",
+        "id": "ar_mamoru-harada"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "ryoi kamei",
+    "birthdate": "1994-10-08",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_announced_ryoi-kamei"
+      },
+      {
+        "league": "league-one-d2",
+        "id": "lo_483557"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "rintaro maruyama",
+    "birthdate": "1999-12-17",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_announced_rintaro-maruyama"
+      },
+      {
+        "league": "league-one-d2",
+        "id": "lo_484536"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "pari pari parkinson",
+    "birthdate": "1996-09-12",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_announced_pari-pari-parkinson"
+      },
+      {
+        "league": "league-one-d2",
+        "id": "lo_483550"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "shinichi tanaka",
+    "birthdate": "1994-06-08",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_announced_shinichi-tanaka"
+      },
+      {
+        "league": "league-one-d2",
+        "id": "lo_483678"
+      }
+    ]
+  },
+  {
     "name_en_normalized": "daito tone",
     "birthdate": "2002-07-03",
     "members": [
@@ -752,20 +850,6 @@
       {
         "league": "national",
         "id": "ar_sojiro-otsuka"
-      }
-    ]
-  },
-  {
-    "name_en_normalized": "haruto watanabe",
-    "birthdate": "2004-12-10",
-    "members": [
-      {
-        "league": "age-grade",
-        "id": "jrfu_u23_497503"
-      },
-      {
-        "league": "national",
-        "id": "jrfu_national_510438"
       }
     ]
   },
