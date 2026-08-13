@@ -3,28 +3,33 @@
   "league": "league-one-d3",
   "name": "中国電力レッドレグリオンズ",
   "official_url": "https://rrrfc.red/",
-  "checked_at": "2026-08-12T20:39:54+09:00",
+  "checked_at": "2026-08-13T21:39:52+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://rrrfc.red/",
-      "hash": "24b07ba34f1b14e4"
+      "hash": "a5330340c7af523e"
     },
     {
       "url": "https://rrrfc.red/blog/",
-      "hash": "454f20bf930b5f71"
+      "hash": "e512bb34c8f99f4c"
     },
     {
       "url": "https://rrrfc.red/categories/news/",
-      "hash": "6ed9659bdae12b9d"
+      "hash": "45b0e3ffe144c0af"
     }
   ],
   "items": [
     {
       "url": "https://rrrfc.red/categories/news/",
       "title": "MORE",
-      "date": "2026-04-30"
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://rrrfc.red/blog/blog-6780/",
+      "title": "2026.08.13 新加入選手のお知らせ",
+      "date": "2026-08-13"
     },
     {
       "url": "https://rrrfc.red/blog/blog-6735/",
@@ -95,11 +100,6 @@
       "url": "https://rrrfc.red/blog/blog-6508/",
       "title": "2025.12.19 「ラグビーを楽しむ」が信条。ルーキーがグラウンドで体現する“原点”",
       "date": "2025-12-19"
-    },
-    {
-      "url": "https://rrrfc.red/blog/blog-6490/",
-      "title": "2025.12.12 覚悟を胸に進み続けた旅路の先に。いざ、約3年ぶりのリーグワン復帰戦",
-      "date": "2025-12-12"
     }
   ]
 }

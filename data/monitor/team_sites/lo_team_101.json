@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-08-12T20:39:54+09:00",
+  "checked_at": "2026-08-13T21:39:52+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "1396f2fa72fb17d4"
+      "hash": "a893f530ddc1475e"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "afc5d6ee63608815"
+      "hash": "1f44d1ac3c31fb46"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post34934/",
+      "title": "2026/8/13 チーム 8月15日(土)「リポビタンDツアー2026」オーストラリア代表戦メンバー選出のお知らせ",
+      "date": "2026-08-13"
+    },
     {
       "url": "https://www.kobesteelers.com/interview/post35050/",
       "title": "2026/8/10 チーム 【Road to RWC2027】「リポビタンDチャレンジカップ2026」日本代表 vsオーストラリア代表レポート",
@@ -319,11 +324,6 @@
       "url": "https://www.kobesteelers.com/news/post27698/",
       "title": "2025/9/8 お知らせ 2025-26シーズンテーマ決定のお知らせ",
       "date": "2025-09-08"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post27697/",
-      "title": "2025/9/1 お知らせ サーバーメンテナンスのお知らせ",
-      "date": "2025-09-01"
     }
   ]
 }
