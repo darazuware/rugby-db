@@ -15,6 +15,7 @@ import AdSenseUnit from "../../components/AdSenseUnit.astro";
 import AffiliateBanner from "../../components/AffiliateBanner.astro";
 import PlayerAvatar from "../../components/PlayerAvatar.astro";
 import { getTeamSlug } from "../../utils/team_utils";
+import { kanjiVariants } from "../../utils/kanjiVariants";
 import {
   canHaveIndividualPlayerPage,
   getAllPlayers,
@@ -281,11 +282,21 @@ const metaDesc = [
 ]
   .filter(Boolean)
   .join("、");
+
+// 検索・IME変換ミスからの流入を拾うための表記バリエーション（スペース有無・異体字）。
+// 事実の創作ではなく同一人物の別表記のみを併記する。
+const nameVariants = [
+  schemaName.includes(" ") ? schemaName.replace(/\s+/g, "") : null,
+  ...kanjiVariants(schemaName),
+].filter((v): v is string => !!v && v !== mainName);
+const nameVariantsText = nameVariants.length
+  ? `（${nameVariants.join("、")}）`
+  : "";
 ---
 
 <Layout
   title={`${mainName}${subName ? ` (${subName})` : ""} | ラグビー選手名鑑 | RUGBY PICKS`}
-  description={`${mainName}${schemaName.includes(" ") ? `（${schemaName.replace(/\s+/g, "")}）` : ""}のプロフィール。${metaDesc}。正確な選手情報をお届けします。`}
+  description={`${mainName}${nameVariantsText}のプロフィール。${metaDesc}。正確な選手情報をお届けします。`}
 >
   <JSONLD type="SportsPlayer" data={jsonldData} />
   <div class="py-4">
