@@ -65,23 +65,28 @@ def _load_manual():
 VALID_ONLY = {"matches", "standings"}
 
 
-def _merge_announced_transfers(league: str, players: list[dict]) -> list[dict]:
+def _merge_announced_transfers(league: str, players: list[dict]) -> tuple[list[dict], list[dict]]:
     """gap C: 公式に加入発表済みだが、現行ロースターページには未反映の選手を補完する。
 
     data/manual/announced_transfers.json（人力キュレーション。league-one.jp等の
     ALLOWED_DOMAINS 一次ソースのみを根拠に手動追加）を対象リーグにマージする。
     既にスクレイパーが同名選手をそのチームで取得済みなら（＝公式ロースターに反映済み）
     重複を避けて手動分をスキップする（保守的: 判断に迷ったら重複させない）。
+
+    戻り値は (マージ後players, 追加したレコードのリスト)。追加分は check_roster_sym
+    （team.roster_ids と players の相互参照チェック）を通すため、呼び出し側で対応する
+    team の roster_ids にも id を足す必要がある。
     """
     announced = io.read_manual("announced_transfers.json", default=[])
     if not announced:
-        return players
+        return players, []
     existing_names = {
         (p.get("name_en") or "").strip().lower()
         for p in players
         if p.get("name_en")
     }
     merged = list(players)
+    added: list[dict] = []
     for entry in announced:
         if entry.get("league") != league:
             continue
@@ -92,7 +97,24 @@ def _merge_announced_transfers(league: str, players: list[dict]) -> list[dict]:
         rec.setdefault("source", "manual-curated")
         rec.setdefault("scraped_at", datetime.now(io.JST).isoformat(timespec="seconds"))
         merged.append(rec)
-    return merged
+        added.append(rec)
+    return merged, added
+
+
+def _sync_roster_ids(teams: list[dict], added_players: list[dict]) -> None:
+    """_merge_announced_transfers で追加した選手の id を、対応する team.roster_ids にも
+    加える（in-place）。roster_mode が partial のチームは check_roster_sym 側で
+    そもそも対象外なので触らなくてよいが、揃えておいても害はない。"""
+    teams_by_id = {t["id"]: t for t in teams}
+    for p in added_players:
+        team_id = p.get("team_id")
+        team = teams_by_id.get(team_id) if team_id else None
+        if not team:
+            continue
+        roster = team.setdefault("roster_ids", [])
+        if p["id"] not in roster:
+            roster.append(p["id"])
+            roster.sort()
 
 
 def run_leagues(leagues: list[str], *, dry_run: bool, only: set[str] | None = None) -> int:
@@ -110,12 +132,16 @@ def run_leagues(leagues: list[str], *, dry_run: bool, only: set[str] | None = No
             print(f"[skip] {league}: スクレイパー未実装（P1-3以降）", file=sys.stderr)
             continue
         result = scraper()  # -> {players, teams, matches, standings, warnings}
-        players_by_league[league] = _merge_announced_transfers(
+        merged_players, added_players = _merge_announced_transfers(
             league, result.get("players", []),
         )
+        players_by_league[league] = merged_players
         if league == "national":
             national_call_ups = result.get("call_ups", [])
-        teams.extend(result.get("teams", []))
+        league_teams = result.get("teams", [])
+        if added_players:
+            _sync_roster_ids(league_teams, added_players)
+        teams.extend(league_teams)
         matches.extend(result.get("matches", []))
         standings.extend(result.get("standings", []))
         all_warnings.extend(result.get("warnings", []))
