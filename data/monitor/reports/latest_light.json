@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-12T19:57:57+09:00",
+  "checked_at": "2026-08-13T13:07:48+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6104",
+          "title": "クラブ 中国電力レッドレグリオンズ、新加入選手のお知らせ 2026.08.13",
+          "date": "2026-08-13",
+          "category": "roster"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,7 +26,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54118",
+          "title": "リポビタンDツアー2026 日本代表 対 オーストラリア代表 試合登録メンバーのお知らせ 2026.8.13 （木） 15人制男子日本代表 WBB 日本代表戦 日本代表 リポビタンＤツアー2026",
+          "date": "2026-08-13",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +47,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6104",
+      "title": "クラブ 中国電力レッドレグリオンズ、新加入選手のお知らせ 2026.08.13",
+      "date": "2026-08-13",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54118",
+      "title": "リポビタンDツアー2026 日本代表 対 オーストラリア代表 試合登録メンバーのお知らせ 2026.8.13 （木） 15人制男子日本代表 WBB 日本代表戦 日本代表 リポビタンＤツアー2026",
+      "date": "2026-08-13",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
