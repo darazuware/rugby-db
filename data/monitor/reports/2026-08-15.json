@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-15T13:39:21+09:00",
+  "checked_at": "2026-08-15T20:11:42+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -108,23 +108,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 4,
-      "new_items": [
-        {
-          "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260814a.html",
-          "title": "ニュージーランド留学レポート⑤（青木拓己選手）",
-          "date": "2026-08-14",
-          "category": null
-        },
-        {
-          "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260814a.html",
-          "title": "NPCマナワツ・ターボス期限付き移籍レポート①（笹川大五選手）",
-          "date": "2026-08-14",
-          "category": "roster"
-        }
-      ],
-      "changed_pages": [
-        "https://blackrams-tokyo.com/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -162,18 +147,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2608-1029.html",
-          "title": "2026年 8月14日 #1029 箸本 龍雅 『自分のカラーを濃くしていく』",
-          "date": "2026-08-14",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.suntory.co.jp/culture-sports/sungoliath/",
-        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -308,36 +283,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 44,
-      "new_items": [
-        {
-          "url": "https://www.rugguts.secom.co.jp/2026/01/2025-26-119.html",
-          "title": "2025-26シーズン新加入選手（アーリーエントリー）のお知らせ",
-          "date": "2026-01-20",
-          "category": "roster"
-        },
-        {
-          "url": "https://www.rugguts.secom.co.jp/2026/01/1-2156.html",
-          "title": "『1日遅れのバレンタイン決戦』開催のお知らせ ～会場にペコちゃんがやってくる！～ （2/15（日）第6節ＷＧ昭島）",
-          "date": "2026-01-01",
-          "category": null
-        },
-        {
-          "url": "https://www.rugguts.secom.co.jp/2025/11/2025-26-7.html",
-          "title": "2025-26シーズン新加入選手のお知らせ（追加）",
-          "date": "2025-11-20",
-          "category": "roster"
-        },
-        {
-          "url": "https://www.rugguts.secom.co.jp/2025/09/post-16.html",
-          "title": "ラガッツアカデミーを10月1日から開講します。",
-          "date": "2025-09-05",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.rugguts.secom.co.jp/",
-        "https://www.rugguts.secom.co.jp/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -361,9 +308,7 @@
       "first_run": false,
       "item_count": 45,
       "new_items": [],
-      "changed_pages": [
-        "https://www.skyactivs.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -411,22 +356,16 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54119",
-          "title": "(8/15更新)レポート：男子日本代表 オーストラリア遠征 2026.8.15 （土） 15人制男子日本代表",
+          "url": "https://www.rugby-japan.jp/news/54124",
+          "title": "リポビタンDツアー2026 オーストラリア代表戦 試合後コメント 2026.8.15 （土） 15人制男子日本代表 WBB",
           "date": "2026-08-15",
           "category": "squad"
         },
         {
-          "url": "https://www.rugby-japan.jp/news/54123",
-          "title": "令和8年熊本地震 災害義援金オンライン寄附受付開始のお知らせ 2026.8.14 （金）",
-          "date": "2026-08-14",
-          "category": null
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54122",
-          "title": "日本ラグビーフットボール協会 創立100周年記念事業 次の100年へ熱量をつなぐSNSムーブメント創出プロジェクト「#JRFU100th」開始のお知らせ 2026.8.14 （金） JRFU",
-          "date": "2026-08-14",
-          "category": null
+          "url": "https://www.rugby-japan.jp/news/54116",
+          "title": "8月15日（土）「リポビタンDツアー2026」日本代表 対 オーストラリア代表 試合結果 2026.8.15 （土） 15人制男子日本代表 WBB リポビタンDツアー2026",
+          "date": "2026-08-15",
+          "category": "squad"
         }
       ],
       "rename_signals": []
@@ -444,30 +383,16 @@
   ],
   "highlights": [
     {
-      "source": "狭山セコムラガッツ",
-      "url": "https://www.rugguts.secom.co.jp/2025/11/2025-26-7.html",
-      "title": "2025-26シーズン新加入選手のお知らせ（追加）",
-      "date": "2025-11-20",
-      "category": "roster"
-    },
-    {
-      "source": "狭山セコムラガッツ",
-      "url": "https://www.rugguts.secom.co.jp/2026/01/2025-26-119.html",
-      "title": "2025-26シーズン新加入選手（アーリーエントリー）のお知らせ",
-      "date": "2026-01-20",
-      "category": "roster"
-    },
-    {
-      "source": "リコーブラックラムズ東京",
-      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260814a.html",
-      "title": "NPCマナワツ・ターボス期限付き移籍レポート①（笹川大五選手）",
-      "date": "2026-08-14",
-      "category": "roster"
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54124",
+      "title": "リポビタンDツアー2026 オーストラリア代表戦 試合後コメント 2026.8.15 （土） 15人制男子日本代表 WBB",
+      "date": "2026-08-15",
+      "category": "squad"
     },
     {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54119",
-      "title": "(8/15更新)レポート：男子日本代表 オーストラリア遠征 2026.8.15 （土） 15人制男子日本代表",
+      "url": "https://www.rugby-japan.jp/news/54116",
+      "title": "8月15日（土）「リポビタンDツアー2026」日本代表 対 オーストラリア代表 試合結果 2026.8.15 （土） 15人制男子日本代表 WBB リポビタンDツアー2026",
       "date": "2026-08-15",
       "category": "squad"
     }

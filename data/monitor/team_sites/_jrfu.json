@@ -1,24 +1,33 @@
 {
-  "checked_at": "2026-08-15T13:39:21+09:00",
+  "checked_at": "2026-08-15T20:11:42+09:00",
   "url": "https://www.rugby-japan.jp/news/",
   "items": [
     {
+      "url": "https://www.rugby-japan.jp/news/54124",
+      "title": "リポビタンDツアー2026 オーストラリア代表戦 試合後コメント 2026.8.15 （土） 15人制男子日本代表 WBB",
+      "date": "2026-08-15",
+      "category": "squad"
+    },
+    {
       "url": "https://www.rugby-japan.jp/news/54119",
       "title": "(8/15更新)レポート：男子日本代表 オーストラリア遠征 2026.8.15 （土） 15人制男子日本代表",
+      "date": "2026-08-15"
+    },
+    {
+      "url": "https://www.rugby-japan.jp/news/54116",
+      "title": "8月15日（土）「リポビタンDツアー2026」日本代表 対 オーストラリア代表 試合結果 2026.8.15 （土） 15人制男子日本代表 WBB リポビタンDツアー2026",
       "date": "2026-08-15",
       "category": "squad"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54123",
       "title": "令和8年熊本地震 災害義援金オンライン寄附受付開始のお知らせ 2026.8.14 （金）",
-      "date": "2026-08-14",
-      "category": null
+      "date": "2026-08-14"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54122",
       "title": "日本ラグビーフットボール協会 創立100周年記念事業 次の100年へ熱量をつなぐSNSムーブメント創出プロジェクト「#JRFU100th」開始のお知らせ 2026.8.14 （金） JRFU",
-      "date": "2026-08-14",
-      "category": null
+      "date": "2026-08-14"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54121",
@@ -44,16 +53,6 @@
       "url": "https://www.rugby-japan.jp/news/54109",
       "title": "（8/12更新）レポート：男子セブンズ・デベロップメント・スコッド(SDS) 福岡合宿 2026.8.12 （水） 男子セブンズ日本代表 セブンズ SDS 男子セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド",
       "date": "2026-08-12"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54115",
-      "title": "【緊急通達】熱中症予防対策の徹底と安全な競技環境の確保について 2026.8.10 （月） 通達",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54114",
-      "title": "第34回 日・韓・中ジュニア交流競技会 U17日本代表メンバーおよび直前合宿のお知らせ 2026.8.10 （月） U17日本代表",
-      "date": "2026-08-10"
     }
   ]
 }
