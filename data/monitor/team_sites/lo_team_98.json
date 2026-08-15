@@ -3,23 +3,23 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-08-13T21:39:52+09:00",
+  "checked_at": "2026-08-15T13:39:21+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "770e8af5590fdb87"
+      "hash": "1f8e460f1de7e35c"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "cb879450c37ef192"
+      "hash": "01752fb83562dee5"
     }
   ],
   "items": [
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3158",
-      "title": "2026.8.12[WED] TICKET 【シーズンシート追加購入キャンペーン】プレミアム交流会へご招待！",
+      "title": "TICKET 2026/8/12 【シーズンシート追加購入キャンペーン】プレミアム交流会へご招待！",
       "date": "2026-08-12"
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3144",
-      "title": "2026.8.3[MON] FAN CLUB ＜CLUB REVS＞継続入会特典プレゼント＆アップグレードキャンペーン",
+      "title": "FAN CLUB 2026/8/3 ＜CLUB REVS＞継続入会特典プレゼント＆アップグレードキャンペーン",
       "date": "2026-08-03"
     },
     {

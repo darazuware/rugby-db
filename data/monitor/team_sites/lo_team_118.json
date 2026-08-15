@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "狭山セコムラガッツ",
   "official_url": "https://www.rugguts.secom.co.jp/",
-  "checked_at": "2026-08-13T21:39:52+09:00",
+  "checked_at": "2026-08-15T13:39:21+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.rugguts.secom.co.jp/",
-      "hash": "29fe3e590c63991d"
+      "hash": "faa8d78ec19b2fde"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/news/",
-      "hash": "1661af1461d5a5a9"
+      "hash": "c25081771b8735a6"
     }
   ],
   "items": [
@@ -216,6 +216,26 @@
       "url": "https://www.rugguts.secom.co.jp/results/20260221.html",
       "title": "NTTジャパンラグビー リーグワン 2025-26 D3 第7節 の試合結果を掲載しました。",
       "date": "2026-02-21"
+    },
+    {
+      "url": "https://www.rugguts.secom.co.jp/2026/01/2025-26-119.html",
+      "title": "2025-26シーズン新加入選手（アーリーエントリー）のお知らせ",
+      "date": "2026-01-20"
+    },
+    {
+      "url": "https://www.rugguts.secom.co.jp/2026/01/1-2156.html",
+      "title": "『1日遅れのバレンタイン決戦』開催のお知らせ ～会場にペコちゃんがやってくる！～ （2/15（日）第6節ＷＧ昭島）",
+      "date": "2026-01-01"
+    },
+    {
+      "url": "https://www.rugguts.secom.co.jp/2025/11/2025-26-7.html",
+      "title": "2025-26シーズン新加入選手のお知らせ（追加）",
+      "date": "2025-11-20"
+    },
+    {
+      "url": "https://www.rugguts.secom.co.jp/2025/09/post-16.html",
+      "title": "ラガッツアカデミーを10月1日から開講します。",
+      "date": "2025-09-05"
     }
   ]
 }

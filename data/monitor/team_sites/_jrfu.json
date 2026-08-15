@@ -1,12 +1,29 @@
 {
-  "checked_at": "2026-08-13T21:39:52+09:00",
+  "checked_at": "2026-08-15T13:39:21+09:00",
   "url": "https://www.rugby-japan.jp/news/",
   "items": [
     {
+      "url": "https://www.rugby-japan.jp/news/54119",
+      "title": "(8/15更新)レポート：男子日本代表 オーストラリア遠征 2026.8.15 （土） 15人制男子日本代表",
+      "date": "2026-08-15",
+      "category": "squad"
+    },
+    {
+      "url": "https://www.rugby-japan.jp/news/54123",
+      "title": "令和8年熊本地震 災害義援金オンライン寄附受付開始のお知らせ 2026.8.14 （金）",
+      "date": "2026-08-14",
+      "category": null
+    },
+    {
+      "url": "https://www.rugby-japan.jp/news/54122",
+      "title": "日本ラグビーフットボール協会 創立100周年記念事業 次の100年へ熱量をつなぐSNSムーブメント創出プロジェクト「#JRFU100th」開始のお知らせ 2026.8.14 （金） JRFU",
+      "date": "2026-08-14",
+      "category": null
+    },
+    {
       "url": "https://www.rugby-japan.jp/news/54121",
       "title": "（通達）「商業活動に関する運用ガイドライン」の改正（ver.3）について 2026.8.13 （木） 通達",
-      "date": "2026-08-13",
-      "category": null
+      "date": "2026-08-13"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54120",
@@ -36,21 +53,6 @@
     {
       "url": "https://www.rugby-japan.jp/news/54114",
       "title": "第34回 日・韓・中ジュニア交流競技会 U17日本代表メンバーおよび直前合宿のお知らせ 2026.8.10 （月） U17日本代表",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54113",
-      "title": "（通達）「大学ラグビー不祥事発生時対応手順ガイド」及び 「2026年度大学ラグビー部向けコンプライアンスアンケート結果」等について 2026.8.10 （月） 通達",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54110",
-      "title": "X-エリア ユースラグビー in 倉吉 開催のお知らせ 2026.8.10 （月） 高校 JRFU 普及育成 ユース",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54092",
-      "title": "（8/10更新）レポート：男子日本代表 網走合宿 2026.8.10 （月） 15人制男子日本代表",
       "date": "2026-08-10"
     }
   ]

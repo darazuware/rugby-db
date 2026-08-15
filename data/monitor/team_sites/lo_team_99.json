@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-08-13T21:39:52+09:00",
+  "checked_at": "2026-08-15T13:39:21+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "e27da29478416027"
+      "hash": "d18e709ece1be3f1"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "3a17ce236ad0f786"
+      "hash": "b876149548c71c25"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2608-1029.html",
+      "title": "2026年 8月14日 #1029 箸本 龍雅 『自分のカラーを濃くしていく』",
+      "date": "2026-08-14"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2608-1028.html",
       "title": "2026年 8月 7日 #1028 中野 将伍 『もっと前に出られる』",
@@ -61,11 +66,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2607-1025.html",
       "title": "2026年 7月17日 #1025 中村 亮土 『出られない時期やくすぶっている時期を大事に、自分の準備をしていく』",
       "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/817.html",
-      "title": "2026年 7月15日 Day817 『2025-26シーズン振り返り』",
-      "date": "2026-07-15"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/26nacr.html",
