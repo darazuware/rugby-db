@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-16T13:43:08+09:00",
+  "checked_at": "2026-08-16T20:12:06+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -180,13 +180,11 @@
       "league": "league-one-d2",
       "name": "清水建設江東ブルーシャークス",
       "official_url": "https://blue-sharks.jp/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 24,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://blue-sharks.jp/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -194,13 +192,11 @@
       "league": "league-one-d2",
       "name": "豊田自動織機シャトルズ愛知",
       "official_url": "https://shuttles-aichi.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 12,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://shuttles-aichi.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -208,15 +204,11 @@
       "league": "league-one-d2",
       "name": "日本製鉄釜石シーウェイブス",
       "official_url": "https://kamaishi-seawaves.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 16,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://kamaishi-seawaves.com/",
-        "https://kamaishi-seawaves.com/news/",
-        "https://kamaishi-seawaves.com/news/info/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -292,9 +284,9 @@
       "league": "league-one-d3",
       "name": "中国電力レッドレグリオンズ",
       "official_url": "https://rrrfc.red/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 16,
+      "item_count": 0,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -330,9 +322,9 @@
       "league": "league-one-d3",
       "name": "ルリーロ福岡",
       "official_url": "https://leriro-fukuoka.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 11,
+      "item_count": 0,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -356,7 +348,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54125",
+          "title": "レポート：第112回女子セブンズユースアカデミー（8月14日～16日） 2026.8.16 （日） 女子 セブンズ アカデミー・強化育成 ユースアカデミー",
+          "date": "2026-08-16",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -373,6 +372,11 @@
   "highlights": [],
   "league_rename_news": [],
   "warnings": [
+    "清水建設江東ブルーシャークス: 到達できるページがない: https://blue-sharks.jp/",
+    "豊田自動織機シャトルズ愛知: 到達できるページがない: https://shuttles-aichi.com/",
+    "日本製鉄釜石シーウェイブス: 到達できるページがない: https://kamaishi-seawaves.com/",
+    "中国電力レッドレグリオンズ: 到達できるページがない: https://rrrfc.red/",
+    "ルリーロ福岡: 到達できるページがない: https://leriro-fukuoka.com/",
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
   ]
 }
