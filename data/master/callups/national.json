@@ -592,7 +592,7 @@
     "league": "national",
     "source": "rugby-japan.jp",
     "source_url": "https://www.rugby-japan.jp/news/54111",
-    "scraped_at": "2026-08-13T10:06:20+09:00",
+    "scraped_at": "2026-08-16T09:43:52+09:00",
     "news_id": "54111",
     "kind": "tour",
     "title": "（8/10更新）男子日本代表 オーストラリア遠征参加メンバーのお知らせ",
@@ -616,7 +616,7 @@
         "caps": 12
       },
       {
-        "player_id": "jrfu_national_510431",
+        "player_id": "jrfu_national_510683",
         "name_ja": "平野 叶翔",
         "name_en": "Kanato HIRANO",
         "position_group": "FW",
@@ -808,7 +808,7 @@
         "caps": 6
       },
       {
-        "player_id": "jrfu_national_510441",
+        "player_id": "ar_haruto-kida",
         "name_ja": "木田 晴斗",
         "name_en": "Haruto KIDA",
         "position_group": "BK",
@@ -816,7 +816,7 @@
         "caps": 2
       },
       {
-        "player_id": "jrfu_national_510411",
+        "player_id": "jrfu_national_510663",
         "name_ja": "イノケ・ブルア",
         "name_en": "Inoke BURUA",
         "position_group": "BK",

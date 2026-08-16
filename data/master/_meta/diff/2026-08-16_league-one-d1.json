@@ -1,6 +1,247 @@
 {
   "league": "league-one-d1",
-  "signings": [],
+  "signings": [
+    {
+      "id": "lo_announced_aki-tuivailala",
+      "name_en": "Aki Tuivailala",
+      "name_ja": "アキ・トゥイバイララ",
+      "team_id": "lo_team_98"
+    },
+    {
+      "id": "lo_announced_antonio-shalfoon",
+      "name_en": "Antonio Shalfoon",
+      "name_ja": "アントニオ・シャルフーン",
+      "team_id": "lo_team_98"
+    },
+    {
+      "id": "lo_announced_aphelele-fassi",
+      "name_en": "Aphelele Fassi",
+      "name_ja": "アフェレレ・ファッシ",
+      "team_id": "lo_team_103"
+    },
+    {
+      "id": "lo_announced_bailey-trew",
+      "name_en": "Bailey Trew",
+      "name_ja": "ベイリー・トゥルー",
+      "team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_announced_bailyn-sullivan",
+      "name_en": "Bailyn Sullivan",
+      "name_ja": "ベイリン・サリヴァン",
+      "team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_announced_david-havili",
+      "name_en": "David Havili",
+      "name_ja": "デイヴィッド・ハヴィリ",
+      "team_id": "lo_team_103"
+    },
+    {
+      "id": "lo_announced_ed-kasprowicz",
+      "name_en": "Ed Kasprowicz",
+      "name_ja": "エド・カスプロウィッツ",
+      "team_id": "lo_team_99"
+    },
+    {
+      "id": "lo_announced_eiji-tsuchiya",
+      "name_en": "Eiji Tsuchiya",
+      "name_ja": "土屋 英慈",
+      "team_id": "lo_team_98"
+    },
+    {
+      "id": "lo_announced_gage-jackson",
+      "name_en": "Gage Jackson",
+      "name_ja": "ゲージ・ジャクソン",
+      "team_id": "lo_team_107"
+    },
+    {
+      "id": "lo_announced_george-bridge",
+      "name_en": "George Bridge",
+      "name_ja": "ジョージ・ブリッジ",
+      "team_id": "lo_team_101"
+    },
+    {
+      "id": "lo_announced_grant-williams",
+      "name_en": "Grant Williams",
+      "name_ja": "グラント・ウィリアムズ",
+      "team_id": "lo_team_101"
+    },
+    {
+      "id": "lo_announced_hunter-paisami",
+      "name_en": "Hunter Paisami",
+      "name_ja": "ハンター・パイサミ",
+      "team_id": "lo_team_98"
+    },
+    {
+      "id": "lo_announced_jack-dempsey",
+      "name_en": "Jack Dempsey",
+      "name_ja": "ジャック・デンプシー",
+      "team_id": "lo_team_103"
+    },
+    {
+      "id": "lo_announced_james-lowe",
+      "name_en": "James Lowe",
+      "name_ja": "ジェームス・ロウ",
+      "team_id": "lo_team_99"
+    },
+    {
+      "id": "lo_announced_jonah-lowe",
+      "name_en": "Jonah Lowe",
+      "name_ja": "ジョナ・ロウ",
+      "team_id": "lo_team_103"
+    },
+    {
+      "id": "lo_announced_joseph-gavigan",
+      "name_en": "Joseph Gavigan",
+      "name_ja": "ジョセフ・ギャビガン",
+      "team_id": "lo_team_103"
+    },
+    {
+      "id": "lo_announced_jumpei-ogura",
+      "name_en": "Jumpei Ogura",
+      "name_ja": "小倉 順平",
+      "team_id": "lo_team_105"
+    },
+    {
+      "id": "lo_announced_keita-ando",
+      "name_en": "Keita Ando",
+      "name_ja": "安藤 啓太",
+      "team_id": "lo_team_106"
+    },
+    {
+      "id": "lo_announced_keito-tawara",
+      "name_en": "Keito Tawara",
+      "name_ja": "俵 啓斗",
+      "team_id": "lo_team_107"
+    },
+    {
+      "id": "lo_announced_keran-van-staden",
+      "name_en": "Keran van Staden",
+      "name_ja": "キーラン・ヴァンスターダン",
+      "team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_announced_kurt-eklund",
+      "name_en": "Kurt Eklund",
+      "name_ja": "カート・エクランド",
+      "team_id": "lo_team_107"
+    },
+    {
+      "id": "lo_announced_kurt-lee-arendse",
+      "name_en": "Kurt-Lee Arendse",
+      "name_ja": "カート＝リー・アレンゼ",
+      "team_id": "lo_team_106"
+    },
+    {
+      "id": "lo_announced_laghlan-mcwhannell",
+      "name_en": "Laghlan McWhannell",
+      "name_ja": "ラクラン・マックワンネル",
+      "team_id": "lo_team_107"
+    },
+    {
+      "id": "lo_announced_malakye-enasio",
+      "name_en": "Malakye Enasio",
+      "name_ja": "マラカイ エナシオ",
+      "team_id": "lo_team_102"
+    },
+    {
+      "id": "lo_announced_mamoru-harada",
+      "name_en": "Mamoru Harada",
+      "name_ja": "原田 衛",
+      "team_id": "lo_team_103"
+    },
+    {
+      "id": "lo_announced_mark-nawaqanitawase",
+      "name_en": "Mark Nawaqanitawase",
+      "name_ja": "マーク ナワンガニタワシ",
+      "team_id": "lo_team_102"
+    },
+    {
+      "id": "lo_announced_matthew-dalton",
+      "name_en": "Matthew Dalton",
+      "name_ja": "マシュー・ダルトン",
+      "team_id": "lo_team_101"
+    },
+    {
+      "id": "lo_announced_max-douglas",
+      "name_en": "Max Douglas",
+      "name_ja": "マックス・ダグラス",
+      "team_id": "lo_team_98"
+    },
+    {
+      "id": "lo_announced_midori-masuo",
+      "name_en": "Midori Masuo",
+      "name_ja": "舛尾 緑",
+      "team_id": "lo_team_102"
+    },
+    {
+      "id": "lo_announced_naoto-saito",
+      "name_en": "Naoto Saito",
+      "name_ja": "齋藤 直人",
+      "team_id": "lo_team_99"
+    },
+    {
+      "id": "lo_announced_pari-pari-parkinson",
+      "name_en": "Pari Pari Parkinson",
+      "name_ja": "パリパリ・パーキンソン",
+      "team_id": "lo_team_107"
+    },
+    {
+      "id": "lo_announced_rintaro-maruyama",
+      "name_en": "Rintaro Maruyama",
+      "name_ja": "丸山 凜太朗",
+      "team_id": "lo_team_105"
+    },
+    {
+      "id": "lo_announced_ruan-nortje",
+      "name_en": "Ruan Nortje",
+      "name_ja": "ルアン・ノルキエ",
+      "team_id": "lo_team_97"
+    },
+    {
+      "id": "lo_announced_ryoi-kamei",
+      "name_en": "Ryoi Kamei",
+      "name_ja": "亀井 亮依",
+      "team_id": "lo_team_105"
+    },
+    {
+      "id": "lo_announced_samipeni-finau",
+      "name_en": "Samipeni Finau",
+      "name_ja": "サミペニ・フィナウ",
+      "team_id": "lo_team_107"
+    },
+    {
+      "id": "lo_announced_shinichi-tanaka",
+      "name_en": "Shinichi Tanaka",
+      "name_ja": "田中 真一",
+      "team_id": "lo_team_107"
+    },
+    {
+      "id": "lo_announced_stephen-perofeta",
+      "name_en": "Stephen Perofeta",
+      "name_ja": "スティーブン・ペロフェタ",
+      "team_id": "lo_team_107"
+    },
+    {
+      "id": "lo_announced_tamati-tua",
+      "name_en": "Tamati Tua",
+      "name_ja": "タマティ・トゥア",
+      "team_id": "lo_team_108"
+    },
+    {
+      "id": "lo_announced_tanielu-terea",
+      "name_en": "Taniel'u Terea",
+      "name_ja": "タニエル・テレア",
+      "team_id": "lo_team_105"
+    },
+    {
+      "id": "lo_announced_toshi-kurita-butlin",
+      "name_en": "Toshi Kurita Butlin",
+      "name_ja": "栗田バットリン 瞳志",
+      "team_id": "lo_team_102"
+    }
+  ],
   "transfers": [],
   "departures": [],
   "first_caps": [],

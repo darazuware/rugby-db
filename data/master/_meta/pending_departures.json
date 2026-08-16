@@ -3,11 +3,80 @@
   "league-one-d2": {},
   "league-one-d3": {},
   "top14": {},
-  "super-rugby": {},
-  "mlr": {},
+  "super-rugby": {
+    "ar_bradley-tocker": {
+      "id": "ar_bradley-tocker",
+      "name_en": "Bradley TOCKER",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    "ar_israel-leota": {
+      "id": "ar_israel-leota",
+      "name_en": "Israel LEOTA",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    "ar_jackson-hughan": {
+      "id": "ar_jackson-hughan",
+      "name_en": "Jackson HUGHAN",
+      "name_ja": null,
+      "team_id": "highlanders"
+    },
+    "ar_richie-asiata": {
+      "id": "ar_richie-asiata",
+      "name_en": "Richie ASIATA",
+      "name_ja": null,
+      "team_id": "reds"
+    },
+    "ar_sam-tuitupou-2005": {
+      "id": "ar_sam-tuitupou-2005",
+      "name_en": "Sam TUITUPOU",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    }
+  },
+  "mlr": {
+    "ar_rory-van-vugt": {
+      "id": "ar_rory-van-vugt",
+      "name_en": "Rory VAN VUGT",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    }
+  },
   "urc": {},
   "premiership": {},
-  "national": {},
+  "national": {
+    "jrfu_national_510411": {
+      "id": "jrfu_national_510411",
+      "name_en": "Inoke BURUA",
+      "name_ja": "イノケ・ブルア",
+      "team_id": "japan"
+    },
+    "jrfu_national_510424": {
+      "id": "jrfu_national_510424",
+      "name_en": "Shota TAIRA",
+      "name_ja": "平翔太",
+      "team_id": "japan"
+    },
+    "jrfu_national_510431": {
+      "id": "jrfu_national_510431",
+      "name_en": "Kanato HIRANO",
+      "name_ja": "平野叶翔",
+      "team_id": "japan"
+    },
+    "jrfu_national_510438": {
+      "id": "jrfu_national_510438",
+      "name_en": "Haruto WATANABE",
+      "name_ja": "渡邊晴斗",
+      "team_id": "japan"
+    },
+    "jrfu_national_510441": {
+      "id": "jrfu_national_510441",
+      "name_en": "Haruto KIDA",
+      "name_ja": "木田晴斗",
+      "team_id": "japan"
+    }
+  },
   "sevens-national": {},
   "age-grade": {},
   "university": {
@@ -519,558 +588,6 @@
       "id": "univ_龍谷大学__中山俊哉",
       "name_en": null,
       "name_ja": "中山　俊哉",
-      "team_id": null
-    },
-    "univ_大東文化大学__中山棱斗": {
-      "id": "univ_大東文化大学__中山棱斗",
-      "name_en": null,
-      "name_ja": "中山　棱斗",
-      "team_id": null
-    },
-    "univ_大東文化大学__中嶋祥太郎": {
-      "id": "univ_大東文化大学__中嶋祥太郎",
-      "name_en": null,
-      "name_ja": "中嶋　祥太郎",
-      "team_id": null
-    },
-    "univ_大東文化大学__中森悠路": {
-      "id": "univ_大東文化大学__中森悠路",
-      "name_en": null,
-      "name_ja": "中森　悠路",
-      "team_id": null
-    },
-    "univ_大東文化大学__丸山貞": {
-      "id": "univ_大東文化大学__丸山貞",
-      "name_en": null,
-      "name_ja": "丸山　貞",
-      "team_id": null
-    },
-    "univ_大東文化大学__乙成凌暢": {
-      "id": "univ_大東文化大学__乙成凌暢",
-      "name_en": null,
-      "name_ja": "乙成　凌暢",
-      "team_id": null
-    },
-    "univ_大東文化大学__亀川和真": {
-      "id": "univ_大東文化大学__亀川和真",
-      "name_en": null,
-      "name_ja": "亀川　和真",
-      "team_id": null
-    },
-    "univ_大東文化大学__二上伊織": {
-      "id": "univ_大東文化大学__二上伊織",
-      "name_en": null,
-      "name_ja": "二上 伊織",
-      "team_id": null
-    },
-    "univ_大東文化大学__井上大悟": {
-      "id": "univ_大東文化大学__井上大悟",
-      "name_en": null,
-      "name_ja": "井上　大悟",
-      "team_id": null
-    },
-    "univ_大東文化大学__井崎克": {
-      "id": "univ_大東文化大学__井崎克",
-      "name_en": null,
-      "name_ja": "井崎　克",
-      "team_id": null
-    },
-    "univ_大東文化大学__井川太陽": {
-      "id": "univ_大東文化大学__井川太陽",
-      "name_en": null,
-      "name_ja": "井川　太陽",
-      "team_id": null
-    },
-    "univ_大東文化大学__今村朱里": {
-      "id": "univ_大東文化大学__今村朱里",
-      "name_en": null,
-      "name_ja": "今村 朱里",
-      "team_id": null
-    },
-    "univ_大東文化大学__今石大輝": {
-      "id": "univ_大東文化大学__今石大輝",
-      "name_en": null,
-      "name_ja": "今石　大輝",
-      "team_id": null
-    },
-    "univ_大東文化大学__佐々木開地": {
-      "id": "univ_大東文化大学__佐々木開地",
-      "name_en": null,
-      "name_ja": "佐々木 開地",
-      "team_id": null
-    },
-    "univ_大東文化大学__佐藤淳平": {
-      "id": "univ_大東文化大学__佐藤淳平",
-      "name_en": null,
-      "name_ja": "佐藤　淳平",
-      "team_id": null
-    },
-    "univ_大東文化大学__保坂浩幸": {
-      "id": "univ_大東文化大学__保坂浩幸",
-      "name_en": null,
-      "name_ja": "保坂　浩幸",
-      "team_id": null
-    },
-    "univ_大東文化大学__信原巧": {
-      "id": "univ_大東文化大学__信原巧",
-      "name_en": null,
-      "name_ja": "信原　巧",
-      "team_id": null
-    },
-    "univ_大東文化大学__内田瑛貴": {
-      "id": "univ_大東文化大学__内田瑛貴",
-      "name_en": null,
-      "name_ja": "内田　瑛貴",
-      "team_id": null
-    },
-    "univ_大東文化大学__冨田優斗": {
-      "id": "univ_大東文化大学__冨田優斗",
-      "name_en": null,
-      "name_ja": "冨田　優斗",
-      "team_id": null
-    },
-    "univ_大東文化大学__勢川洋人": {
-      "id": "univ_大東文化大学__勢川洋人",
-      "name_en": null,
-      "name_ja": "勢川　洋人",
-      "team_id": null
-    },
-    "univ_大東文化大学__千葉煌生": {
-      "id": "univ_大東文化大学__千葉煌生",
-      "name_en": null,
-      "name_ja": "千葉　煌生",
-      "team_id": null
-    },
-    "univ_大東文化大学__及川拓巳": {
-      "id": "univ_大東文化大学__及川拓巳",
-      "name_en": null,
-      "name_ja": "及川 拓巳",
-      "team_id": null
-    },
-    "univ_大東文化大学__吉岡聖太": {
-      "id": "univ_大東文化大学__吉岡聖太",
-      "name_en": null,
-      "name_ja": "吉岡　聖太",
-      "team_id": null
-    },
-    "univ_大東文化大学__吉川竜月": {
-      "id": "univ_大東文化大学__吉川竜月",
-      "name_en": null,
-      "name_ja": "吉川　竜月",
-      "team_id": null
-    },
-    "univ_大東文化大学__吉田光希": {
-      "id": "univ_大東文化大学__吉田光希",
-      "name_en": null,
-      "name_ja": "吉田　光希",
-      "team_id": null
-    },
-    "univ_大東文化大学__外山雄飛": {
-      "id": "univ_大東文化大学__外山雄飛",
-      "name_en": null,
-      "name_ja": "外山　雄飛",
-      "team_id": null
-    },
-    "univ_大東文化大学__大原麟": {
-      "id": "univ_大東文化大学__大原麟",
-      "name_en": null,
-      "name_ja": "大原　麟",
-      "team_id": null
-    },
-    "univ_大東文化大学__大方維織": {
-      "id": "univ_大東文化大学__大方維織",
-      "name_en": null,
-      "name_ja": "大方　維織",
-      "team_id": null
-    },
-    "univ_大東文化大学__大石悠斗": {
-      "id": "univ_大東文化大学__大石悠斗",
-      "name_en": null,
-      "name_ja": "大石　悠斗",
-      "team_id": null
-    },
-    "univ_大東文化大学__大谷晴輝": {
-      "id": "univ_大東文化大学__大谷晴輝",
-      "name_en": null,
-      "name_ja": "大谷　晴輝",
-      "team_id": null
-    },
-    "univ_大東文化大学__奥西人太": {
-      "id": "univ_大東文化大学__奥西人太",
-      "name_en": null,
-      "name_ja": "奥西　人太",
-      "team_id": null
-    },
-    "univ_大東文化大学__安達恵大": {
-      "id": "univ_大東文化大学__安達恵大",
-      "name_en": null,
-      "name_ja": "安達 恵大",
-      "team_id": null
-    },
-    "univ_大東文化大学__安部智史": {
-      "id": "univ_大東文化大学__安部智史",
-      "name_en": null,
-      "name_ja": "安部　智史",
-      "team_id": null
-    },
-    "univ_大東文化大学__富田琉生": {
-      "id": "univ_大東文化大学__富田琉生",
-      "name_en": null,
-      "name_ja": "富田 琉生",
-      "team_id": null
-    },
-    "univ_大東文化大学__小島拓人": {
-      "id": "univ_大東文化大学__小島拓人",
-      "name_en": null,
-      "name_ja": "小島　拓人",
-      "team_id": null
-    },
-    "univ_大東文化大学__小林淳弘": {
-      "id": "univ_大東文化大学__小林淳弘",
-      "name_en": null,
-      "name_ja": "小林　淳弘",
-      "team_id": null
-    },
-    "univ_大東文化大学__小澤匠": {
-      "id": "univ_大東文化大学__小澤匠",
-      "name_en": null,
-      "name_ja": "小澤　匠",
-      "team_id": null
-    },
-    "univ_大東文化大学__小澤海斗": {
-      "id": "univ_大東文化大学__小澤海斗",
-      "name_en": null,
-      "name_ja": "小澤　海斗",
-      "team_id": null
-    },
-    "univ_大東文化大学__小田島功弥": {
-      "id": "univ_大東文化大学__小田島功弥",
-      "name_en": null,
-      "name_ja": "小田島　功弥",
-      "team_id": null
-    },
-    "univ_大東文化大学__小田島采輝": {
-      "id": "univ_大東文化大学__小田島采輝",
-      "name_en": null,
-      "name_ja": "小田島　采輝",
-      "team_id": null
-    },
-    "univ_大東文化大学__小笠原穣": {
-      "id": "univ_大東文化大学__小笠原穣",
-      "name_en": null,
-      "name_ja": "小笠原　穣",
-      "team_id": null
-    },
-    "univ_大東文化大学__山中脩叶": {
-      "id": "univ_大東文化大学__山中脩叶",
-      "name_en": null,
-      "name_ja": "山中　脩叶",
-      "team_id": null
-    },
-    "univ_大東文化大学__山内淳之助": {
-      "id": "univ_大東文化大学__山内淳之助",
-      "name_en": null,
-      "name_ja": "山内　淳之助",
-      "team_id": null
-    },
-    "univ_大東文化大学__山梨栞太郎": {
-      "id": "univ_大東文化大学__山梨栞太郎",
-      "name_en": null,
-      "name_ja": "山梨　栞太郎",
-      "team_id": null
-    },
-    "univ_大東文化大学__山田真生": {
-      "id": "univ_大東文化大学__山田真生",
-      "name_en": null,
-      "name_ja": "山田　真生",
-      "team_id": null
-    },
-    "univ_大東文化大学__川原慶久": {
-      "id": "univ_大東文化大学__川原慶久",
-      "name_en": null,
-      "name_ja": "川原　慶久",
-      "team_id": null
-    },
-    "univ_大東文化大学__徳重隼": {
-      "id": "univ_大東文化大学__徳重隼",
-      "name_en": null,
-      "name_ja": "徳重　隼",
-      "team_id": null
-    },
-    "univ_大東文化大学__新井旺我": {
-      "id": "univ_大東文化大学__新井旺我",
-      "name_en": null,
-      "name_ja": "新井　旺我",
-      "team_id": null
-    },
-    "univ_大東文化大学__朝倉利月": {
-      "id": "univ_大東文化大学__朝倉利月",
-      "name_en": null,
-      "name_ja": "朝倉 利月",
-      "team_id": null
-    },
-    "univ_大東文化大学__木村大祐": {
-      "id": "univ_大東文化大学__木村大祐",
-      "name_en": null,
-      "name_ja": "木村　大祐",
-      "team_id": null
-    },
-    "univ_大東文化大学__村上栞汰": {
-      "id": "univ_大東文化大学__村上栞汰",
-      "name_en": null,
-      "name_ja": "村上　栞汰",
-      "team_id": null
-    },
-    "univ_大東文化大学__村田伊織": {
-      "id": "univ_大東文化大学__村田伊織",
-      "name_en": null,
-      "name_ja": "村田 伊織",
-      "team_id": null
-    },
-    "univ_大東文化大学__村田皓二郎": {
-      "id": "univ_大東文化大学__村田皓二郎",
-      "name_en": null,
-      "name_ja": "村田 皓二郎",
-      "team_id": null
-    },
-    "univ_大東文化大学__東村武途": {
-      "id": "univ_大東文化大学__東村武途",
-      "name_en": null,
-      "name_ja": "東村　武途",
-      "team_id": null
-    },
-    "univ_大東文化大学__林春翔": {
-      "id": "univ_大東文化大学__林春翔",
-      "name_en": null,
-      "name_ja": "林　春翔",
-      "team_id": null
-    },
-    "univ_大東文化大学__植村颯": {
-      "id": "univ_大東文化大学__植村颯",
-      "name_en": null,
-      "name_ja": "植村　颯",
-      "team_id": null
-    },
-    "univ_大東文化大学__権藤薫": {
-      "id": "univ_大東文化大学__権藤薫",
-      "name_en": null,
-      "name_ja": "権藤　薫",
-      "team_id": null
-    },
-    "univ_大東文化大学__橋口博夢": {
-      "id": "univ_大東文化大学__橋口博夢",
-      "name_en": null,
-      "name_ja": "橋口　博夢",
-      "team_id": null
-    },
-    "univ_大東文化大学__武田裕仁": {
-      "id": "univ_大東文化大学__武田裕仁",
-      "name_en": null,
-      "name_ja": "武田　裕仁",
-      "team_id": null
-    },
-    "univ_大東文化大学__比嘉礼": {
-      "id": "univ_大東文化大学__比嘉礼",
-      "name_en": null,
-      "name_ja": "比嘉　礼",
-      "team_id": null
-    },
-    "univ_大東文化大学__永田壮": {
-      "id": "univ_大東文化大学__永田壮",
-      "name_en": null,
-      "name_ja": "永田　壮",
-      "team_id": null
-    },
-    "univ_大東文化大学__江角拓馬": {
-      "id": "univ_大東文化大学__江角拓馬",
-      "name_en": null,
-      "name_ja": "江角　拓馬",
-      "team_id": null
-    },
-    "univ_大東文化大学__泉谷広空": {
-      "id": "univ_大東文化大学__泉谷広空",
-      "name_en": null,
-      "name_ja": "泉谷　広空",
-      "team_id": null
-    },
-    "univ_大東文化大学__澤田時光": {
-      "id": "univ_大東文化大学__澤田時光",
-      "name_en": null,
-      "name_ja": "澤田 時光",
-      "team_id": null
-    },
-    "univ_大東文化大学__牧海悠": {
-      "id": "univ_大東文化大学__牧海悠",
-      "name_en": null,
-      "name_ja": "牧海 悠",
-      "team_id": null
-    },
-    "univ_大東文化大学__田中莉輝": {
-      "id": "univ_大東文化大学__田中莉輝",
-      "name_en": null,
-      "name_ja": "田中　莉輝",
-      "team_id": null
-    },
-    "univ_大東文化大学__田島実": {
-      "id": "univ_大東文化大学__田島実",
-      "name_en": null,
-      "name_ja": "田島　実",
-      "team_id": null
-    },
-    "univ_大東文化大学__畠山翔衛": {
-      "id": "univ_大東文化大学__畠山翔衛",
-      "name_en": null,
-      "name_ja": "畠山　翔衛",
-      "team_id": null
-    },
-    "univ_大東文化大学__石口摩央": {
-      "id": "univ_大東文化大学__石口摩央",
-      "name_en": null,
-      "name_ja": "石口　摩央",
-      "team_id": null
-    },
-    "univ_大東文化大学__竹林珠大": {
-      "id": "univ_大東文化大学__竹林珠大",
-      "name_en": null,
-      "name_ja": "竹林 珠大",
-      "team_id": null
-    },
-    "univ_大東文化大学__篠崎優元": {
-      "id": "univ_大東文化大学__篠崎優元",
-      "name_en": null,
-      "name_ja": "篠崎　優元",
-      "team_id": null
-    },
-    "univ_大東文化大学__緒方碧": {
-      "id": "univ_大東文化大学__緒方碧",
-      "name_en": null,
-      "name_ja": "緒方　碧",
-      "team_id": null
-    },
-    "univ_大東文化大学__羽田野泰志": {
-      "id": "univ_大東文化大学__羽田野泰志",
-      "name_en": null,
-      "name_ja": "羽田野 泰志",
-      "team_id": null
-    },
-    "univ_大東文化大学__芳賀空": {
-      "id": "univ_大東文化大学__芳賀空",
-      "name_en": null,
-      "name_ja": "芳賀　空",
-      "team_id": null
-    },
-    "univ_大東文化大学__草川幹太": {
-      "id": "univ_大東文化大学__草川幹太",
-      "name_en": null,
-      "name_ja": "草川 幹太",
-      "team_id": null
-    },
-    "univ_大東文化大学__菅生聖弥": {
-      "id": "univ_大東文化大学__菅生聖弥",
-      "name_en": null,
-      "name_ja": "菅生　聖弥",
-      "team_id": null
-    },
-    "univ_大東文化大学__菅翔直太": {
-      "id": "univ_大東文化大学__菅翔直太",
-      "name_en": null,
-      "name_ja": "菅翔 直太",
-      "team_id": null
-    },
-    "univ_大東文化大学__菊地一真": {
-      "id": "univ_大東文化大学__菊地一真",
-      "name_en": null,
-      "name_ja": "菊地 一真",
-      "team_id": null
-    },
-    "univ_大東文化大学__藤田七海": {
-      "id": "univ_大東文化大学__藤田七海",
-      "name_en": null,
-      "name_ja": "藤田　七海",
-      "team_id": null
-    },
-    "univ_大東文化大学__赤坂教伊": {
-      "id": "univ_大東文化大学__赤坂教伊",
-      "name_en": null,
-      "name_ja": "赤坂 教伊",
-      "team_id": null
-    },
-    "univ_大東文化大学__進藤優弥": {
-      "id": "univ_大東文化大学__進藤優弥",
-      "name_en": null,
-      "name_ja": "進藤　優弥",
-      "team_id": null
-    },
-    "univ_大東文化大学__遠藤碧人": {
-      "id": "univ_大東文化大学__遠藤碧人",
-      "name_en": null,
-      "name_ja": "遠藤　碧人",
-      "team_id": null
-    },
-    "univ_大東文化大学__遠藤陽紀": {
-      "id": "univ_大東文化大学__遠藤陽紀",
-      "name_en": null,
-      "name_ja": "遠藤　陽紀",
-      "team_id": null
-    },
-    "univ_大東文化大学__関口真生": {
-      "id": "univ_大東文化大学__関口真生",
-      "name_en": null,
-      "name_ja": "関口　真生",
-      "team_id": null
-    },
-    "univ_大東文化大学__阪井麟太郎": {
-      "id": "univ_大東文化大学__阪井麟太郎",
-      "name_en": null,
-      "name_ja": "阪井 麟太郎",
-      "team_id": null
-    },
-    "univ_大東文化大学__難波剛司": {
-      "id": "univ_大東文化大学__難波剛司",
-      "name_en": null,
-      "name_ja": "難波 剛司",
-      "team_id": null
-    },
-    "univ_大東文化大学__須貝恭悟": {
-      "id": "univ_大東文化大学__須貝恭悟",
-      "name_en": null,
-      "name_ja": "須貝　恭悟",
-      "team_id": null
-    },
-    "univ_大東文化大学__飯塚祐真": {
-      "id": "univ_大東文化大学__飯塚祐真",
-      "name_en": null,
-      "name_ja": "飯塚　祐真",
-      "team_id": null
-    },
-    "univ_大東文化大学__高山鉄心": {
-      "id": "univ_大東文化大学__高山鉄心",
-      "name_en": null,
-      "name_ja": "高山 鉄心",
-      "team_id": null
-    },
-    "univ_大東文化大学__高橋大悟": {
-      "id": "univ_大東文化大学__高橋大悟",
-      "name_en": null,
-      "name_ja": "高橋　大悟",
-      "team_id": null
-    },
-    "univ_大東文化大学__髙野宙": {
-      "id": "univ_大東文化大学__髙野宙",
-      "name_en": null,
-      "name_ja": "髙野　宙",
-      "team_id": null
-    },
-    "univ_大東文化大学__麻生十良": {
-      "id": "univ_大東文化大学__麻生十良",
-      "name_en": null,
-      "name_ja": "麻生　十良",
-      "team_id": null
-    },
-    "univ_大東文化大学__黒木新夢": {
-      "id": "univ_大東文化大学__黒木新夢",
-      "name_en": null,
-      "name_ja": "黒木　新夢",
       "team_id": null
     },
     "univ_専修大学__佐藤大智": {
@@ -2223,6 +1740,66 @@
       "id": "univ_東海大学__齊藤歩輝",
       "name_en": "Ayuki Saito",
       "name_ja": "齊藤　歩輝",
+      "team_id": null
+    },
+    "univ_専修大学__後藤武尊": {
+      "id": "univ_専修大学__後藤武尊",
+      "name_en": null,
+      "name_ja": "後藤 武尊",
+      "team_id": null
+    },
+    "univ_明治学院大学__吉田武之介": {
+      "id": "univ_明治学院大学__吉田武之介",
+      "name_en": null,
+      "name_ja": "吉田 武之介",
+      "team_id": null
+    },
+    "univ_明治学院大学__柳本諒磨": {
+      "id": "univ_明治学院大学__柳本諒磨",
+      "name_en": null,
+      "name_ja": "柳本 諒磨",
+      "team_id": null
+    },
+    "univ_明治学院大学__櫻井瑛太": {
+      "id": "univ_明治学院大学__櫻井瑛太",
+      "name_en": null,
+      "name_ja": "櫻井 瑛太",
+      "team_id": null
+    },
+    "univ_明治学院大学__渡邉洸": {
+      "id": "univ_明治学院大学__渡邉洸",
+      "name_en": null,
+      "name_ja": "渡邉 洸",
+      "team_id": null
+    },
+    "univ_明治学院大学__湯浅空": {
+      "id": "univ_明治学院大学__湯浅空",
+      "name_en": null,
+      "name_ja": "湯浅 空",
+      "team_id": null
+    },
+    "univ_明治学院大学__田村碧唯": {
+      "id": "univ_明治学院大学__田村碧唯",
+      "name_en": null,
+      "name_ja": "田村 碧唯",
+      "team_id": null
+    },
+    "univ_明治学院大学__秋山粋慶": {
+      "id": "univ_明治学院大学__秋山粋慶",
+      "name_en": null,
+      "name_ja": "秋山 粋慶",
+      "team_id": null
+    },
+    "univ_東京大学__玉置雄大": {
+      "id": "univ_東京大学__玉置雄大",
+      "name_en": null,
+      "name_ja": "玉置 雄大",
+      "team_id": null
+    },
+    "univ_筑波大学__増山将": {
+      "id": "univ_筑波大学__増山将",
+      "name_en": null,
+      "name_ja": "増山 将",
       "team_id": null
     }
   },

@@ -4,7 +4,16 @@
   "transfers": [],
   "departures": [],
   "first_caps": [],
-  "caps_updates": [],
+  "caps_updates": [
+    {
+      "id": "ar_angus-bell",
+      "name_en": "Angus BELL",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 51,
+      "to_count": 68
+    }
+  ],
   "pending_departures": [],
   "newly_finished_rounds": []
 }

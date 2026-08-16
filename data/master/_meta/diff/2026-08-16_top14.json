@@ -1,6 +1,31 @@
 {
   "league": "top14",
-  "signings": [],
+  "signings": [
+    {
+      "id": "ar_aubin-cazaubon",
+      "name_en": "Aubin CAZAUBON",
+      "name_ja": null,
+      "team_id": "pau"
+    },
+    {
+      "id": "ar_damien-kuilagi",
+      "name_en": "Damien KUILAGI",
+      "name_ja": null,
+      "team_id": "bordeaux"
+    },
+    {
+      "id": "ar_leo-camara",
+      "name_en": "Léo CAMARA",
+      "name_ja": null,
+      "team_id": "paris"
+    },
+    {
+      "id": "ar_preston-tekori",
+      "name_en": "Preston TEKORI",
+      "name_ja": null,
+      "team_id": "toulouse"
+    }
+  ],
   "transfers": [],
   "departures": [],
   "first_caps": [],

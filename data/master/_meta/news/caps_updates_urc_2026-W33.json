@@ -1,5 +1,13 @@
 [
   {
+    "id": "ar_angus-bell",
+    "name_en": "Angus BELL",
+    "name_ja": null,
+    "team": "Australia",
+    "from_count": 51,
+    "to_count": 68
+  },
+  {
     "id": "ar_cameron-hanekom",
     "name_en": "Cameron HANEKOM",
     "name_ja": null,

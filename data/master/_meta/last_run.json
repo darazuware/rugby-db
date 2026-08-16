@@ -1,8 +1,8 @@
 {
   "top14": {
-    "run_at": "2026-08-13T10:06:20+09:00",
+    "run_at": "2026-08-16T09:43:53+09:00",
     "counts": {
-      "players": 1166,
+      "players": 1170,
       "teams": 14
     },
     "warnings": [
@@ -23,17 +23,17 @@
     ]
   },
   "super-rugby": {
-    "run_at": "2026-08-13T10:06:20+09:00",
+    "run_at": "2026-08-16T09:43:53+09:00",
     "counts": {
-      "players": 452,
+      "players": 447,
       "teams": 11
     },
     "warnings": []
   },
   "league-one-d1": {
-    "run_at": "2026-08-13T10:06:20+09:00",
+    "run_at": "2026-08-16T09:43:52+09:00",
     "counts": {
-      "players": 693,
+      "players": 733,
       "teams": 12
     },
     "warnings": [
@@ -41,24 +41,23 @@
     ]
   },
   "national": {
-    "run_at": "2026-08-13T10:06:20+09:00",
+    "run_at": "2026-08-16T09:43:53+09:00",
     "counts": {
-      "players": 1117,
+      "players": 1121,
       "teams": 0
     },
     "warnings": [
-      "cross_person: ['jrfu_national_510411', 'lo_483940'] が同一人物候補（name_en+birthdate一致）",
-      "cross_person: ['jrfu_national_510441', 'lo_483750'] が同一人物候補（name_en+birthdate一致）",
-      "cross_person: ['jrfu_national_510431', 'lo_484693'] が同一人物候補（name_en+birthdate一致）",
-      "cross_person: ['jrfu_national_510438', 'jrfu_u23_497503'] が同一人物候補（name_en+birthdate一致）",
-      "jrfu national: 学校名11件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['クボタスピアーズ船橋・東京ベイ', 'コベルコ神戸スティーラーズ', 'リコーブラックラムズ東京']）",
-      "jrfu national: ANTHROPIC_API_KEY未設定のためSonnetフォールバックをスキップ（未判定11件は学校扱いにしない: 所属欄はcareerへ、出身校欄はeducationから除外）",
+      "cross_person: ['jrfu_national_510663', 'lo_483940'] が同一人物候補（name_en+birthdate一致）",
+      "cross_person: ['jrfu_national_510660', 'lo_484154'] が同一人物候補（name_en+birthdate一致）",
+      "cross_person: ['jrfu_national_510683', 'lo_484693'] が同一人物候補（name_en+birthdate一致）",
+      "jrfu national: 学校名12件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['クボタスピアーズ船橋・東京ベイ', 'コベルコ神戸スティーラーズ', 'リコーブラックラムズ東京']）",
+      "jrfu national: ANTHROPIC_API_KEY未設定のためSonnetフォールバックをスキップ（未判定12件は学校扱いにしない: 所属欄はcareerへ、出身校欄はeducationから除外）",
       "jrfu sevens-national: 学校名16件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['(公財)日本ラグビーフットボール協会 / コカ・コーラボトラーズジャパン(株)', \"Mie Women's Rugby Football Club PEARLS\", 'NECグリーンロケッツ東葛']）",
       "jrfu sevens-national: ANTHROPIC_API_KEY未設定のためSonnetフォールバックをスキップ（未判定16件は学校扱いにしない: 所属欄はcareerへ、出身校欄はeducationから除外）"
     ]
   },
   "sevens-national": {
-    "run_at": "2026-08-13T10:06:20+09:00",
+    "run_at": "2026-08-16T09:43:53+09:00",
     "counts": {
       "players": 28,
       "teams": 0
@@ -69,7 +68,7 @@
     ]
   },
   "age-grade": {
-    "run_at": "2026-08-13T10:06:20+09:00",
+    "run_at": "2026-08-16T09:43:53+09:00",
     "counts": {
       "players": 113,
       "teams": 0
@@ -80,20 +79,20 @@
     ]
   },
   "university": {
-    "run_at": "2026-08-13T10:06:20+09:00",
+    "run_at": "2026-08-16T09:43:53+09:00",
     "counts": {
-      "players": 1107,
+      "players": 1191,
       "teams": 0
     },
     "warnings": [
       "university 立教大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 明治学院大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 成城大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 一橋大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
+      "university 一橋大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 学習院大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 大東文化大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 東洋大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 東海大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 流通経済大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
+      "university 流通経済大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 法政大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 立正大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 日本大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
@@ -114,7 +113,7 @@
     ]
   },
   "highschool": {
-    "run_at": "2026-08-13T10:06:20+09:00",
+    "run_at": "2026-08-16T09:43:53+09:00",
     "counts": {
       "players": 390,
       "teams": 0
@@ -144,7 +143,7 @@
     ]
   },
   "urc": {
-    "run_at": "2026-08-13T10:06:20+09:00",
+    "run_at": "2026-08-16T09:43:53+09:00",
     "counts": {
       "players": 962,
       "teams": 16
@@ -154,7 +153,7 @@
     ]
   },
   "premiership": {
-    "run_at": "2026-08-13T10:06:20+09:00",
+    "run_at": "2026-08-16T09:43:53+09:00",
     "counts": {
       "players": 635,
       "teams": 10
@@ -162,7 +161,7 @@
     "warnings": []
   },
   "league-one-d2": {
-    "run_at": "2026-08-13T10:06:20+09:00",
+    "run_at": "2026-08-16T09:43:52+09:00",
     "counts": {
       "players": 439,
       "teams": 8
@@ -172,7 +171,7 @@
     ]
   },
   "league-one-d3": {
-    "run_at": "2026-08-13T10:06:20+09:00",
+    "run_at": "2026-08-16T09:43:52+09:00",
     "counts": {
       "players": 337,
       "teams": 6
@@ -182,9 +181,9 @@
     ]
   },
   "mlr": {
-    "run_at": "2026-08-13T10:06:20+09:00",
+    "run_at": "2026-08-16T09:43:53+09:00",
     "counts": {
-      "players": 190,
+      "players": 189,
       "teams": 6
     },
     "warnings": [

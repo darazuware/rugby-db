@@ -1,19 +1,282 @@
 {
   "league": "national",
-  "signings": [],
+  "signings": [
+    {
+      "id": "ar_david-coetzer",
+      "name_en": "Davy COETZER",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_faka-osi-pifeleti",
+      "name_en": "Faka'osi PIFELETI",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_haruto-kida",
+      "name_en": "Haruto KIDA",
+      "name_ja": null,
+      "team_id": "japan"
+    },
+    {
+      "id": "ar_joseph-mano",
+      "name_en": "Joe MANO",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_ma-ake-muti",
+      "name_en": "Ma'ake MUTI",
+      "name_ja": null,
+      "team_id": "usa"
+    },
+    {
+      "id": "ar_massimo-de-lutiis",
+      "name_en": "Massimo DE LUTIIS",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "jrfu_national_510660",
+      "name_en": "Takumi Inaba",
+      "name_ja": "稲場巧",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510663",
+      "name_en": "Inoke BURUA",
+      "name_ja": "イノケ・ブルア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510683",
+      "name_en": "Kanato HIRANO",
+      "name_ja": "平野叶翔",
+      "team_id": "japan"
+    }
+  ],
   "transfers": [],
   "departures": [],
   "first_caps": [],
-  "caps_updates": [],
-  "pending_departures": [],
-  "newly_finished_rounds": [
+  "caps_updates": [
     {
-      "season": "2026",
-      "round": null,
-      "match_ids": [
-        "jrfu_30035"
-      ]
+      "id": "ar_aidan-ross",
+      "name_en": "Aidan ROSS",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 4,
+      "to_count": 6
+    },
+    {
+      "id": "ar_angus-bell",
+      "name_en": "Angus BELL",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 51,
+      "to_count": 68
+    },
+    {
+      "id": "ar_ben-donaldson",
+      "name_en": "Ben DONALDSON",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 23,
+      "to_count": 31
+    },
+    {
+      "id": "ar_carlo-tizzano",
+      "name_en": "Carlo TIZZANO",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 16,
+      "to_count": 24
+    },
+    {
+      "id": "ar_dominic-besag",
+      "name_en": "Dominic BESAG",
+      "name_ja": null,
+      "team": "Usa",
+      "from_count": 19,
+      "to_count": 30
+    },
+    {
+      "id": "ar_dylan-riley",
+      "name_en": "Dylan RILEY",
+      "name_ja": null,
+      "team": "Japan",
+      "from_count": 40,
+      "to_count": 54
+    },
+    {
+      "id": "ar_fraser-mcreight",
+      "name_en": "Fraser MCREIGHT",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 38,
+      "to_count": 43
+    },
+    {
+      "id": "ar_harry-hockings",
+      "name_en": "Harry HOCKINGS",
+      "name_ja": null,
+      "team": "Japan",
+      "from_count": 9,
+      "to_count": 10
+    },
+    {
+      "id": "ar_harry-potter",
+      "name_en": "Harry POTTER",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 15,
+      "to_count": 17
+    },
+    {
+      "id": "ar_itsuki-kamimura",
+      "name_en": "Itsuki KAMIMURA",
+      "name_ja": null,
+      "team": "Japan",
+      "from_count": 1,
+      "to_count": 4
+    },
+    {
+      "id": "ar_izi-sword",
+      "name_en": "Izi SWORD",
+      "name_ja": null,
+      "team": "Japan",
+      "from_count": 1,
+      "to_count": 3
+    },
+    {
+      "id": "ar_josh-nasser",
+      "name_en": "Josh NASSER",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 20,
+      "to_count": 21
+    },
+    {
+      "id": "ar_julian-roberts",
+      "name_en": "Julian ROBERTS",
+      "name_ja": null,
+      "team": "Usa",
+      "from_count": 2,
+      "to_count": 4
+    },
+    {
+      "id": "ar_lachlan-shaw",
+      "name_en": "Lachie SHAW",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 1,
+      "to_count": 4
+    },
+    {
+      "id": "ar_lukhan-lealaiaulolo-tui",
+      "name_en": "Lukhan SALAKAIA-LOTO",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 34,
+      "to_count": 35
+    },
+    {
+      "id": "ar_makeen-alikhan",
+      "name_en": "Makeen ALIKHAN",
+      "name_ja": null,
+      "team": "Usa",
+      "from_count": 4,
+      "to_count": 11
+    },
+    {
+      "id": "ar_mark-o-keeffe",
+      "name_en": "Mark O'KEEFFE",
+      "name_ja": null,
+      "team": "Usa",
+      "from_count": 4,
+      "to_count": 6
+    },
+    {
+      "id": "ar_marno-redelinghuys",
+      "name_en": "Marno REDELINGHUYS",
+      "name_ja": null,
+      "team": "Usa",
+      "from_count": 7,
+      "to_count": 9
+    },
+    {
+      "id": "ar_paddy-ryan-1998",
+      "name_en": "Paddy RYAN",
+      "name_ja": null,
+      "team": "Usa",
+      "from_count": 23,
+      "to_count": 32
+    },
+    {
+      "id": "ar_ryunosuke-ito",
+      "name_en": "Ryunosuke ITO",
+      "name_ja": null,
+      "team": "Japan",
+      "from_count": 2,
+      "to_count": 3
+    },
+    {
+      "id": "ar_samisoni-tua",
+      "name_en": "Samisoni TUA",
+      "name_ja": null,
+      "team": "Japan",
+      "from_count": 3,
+      "to_count": 8
+    },
+    {
+      "id": "ar_takato-okabe",
+      "name_en": "Takato OKABE",
+      "name_ja": null,
+      "team": "Japan",
+      "from_count": 11,
+      "to_count": 19
+    },
+    {
+      "id": "ar_taniela-tupou",
+      "name_en": "Taniela TUPOU",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 91,
+      "to_count": 101
     }
   ],
+  "pending_departures": [
+    {
+      "id": "jrfu_national_510411",
+      "name_en": "Inoke BURUA",
+      "name_ja": "イノケ・ブルア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510424",
+      "name_en": "Shota TAIRA",
+      "name_ja": "平翔太",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510431",
+      "name_en": "Kanato HIRANO",
+      "name_ja": "平野叶翔",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510438",
+      "name_en": "Haruto WATANABE",
+      "name_ja": "渡邊晴斗",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510441",
+      "name_en": "Haruto KIDA",
+      "name_ja": "木田晴斗",
+      "team_id": "japan"
+    }
+  ],
+  "newly_finished_rounds": [],
   "call_ups": []
 }
