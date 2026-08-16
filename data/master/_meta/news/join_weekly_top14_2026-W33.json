@@ -6,6 +6,12 @@
     "team_id": "montpellier"
   },
   {
+    "id": "ar_aubin-cazaubon",
+    "name_en": "Aubin CAZAUBON",
+    "name_ja": null,
+    "team_id": "pau"
+  },
+  {
     "id": "ar_baptiste-vialas",
     "name_en": "Baptiste VIALAS",
     "name_ja": null,
@@ -16,6 +22,12 @@
     "name_en": "Bertrand MISTRI",
     "name_ja": null,
     "team_id": "montpellier"
+  },
+  {
+    "id": "ar_damien-kuilagi",
+    "name_en": "Damien KUILAGI",
+    "name_ja": null,
+    "team_id": "bordeaux"
   },
   {
     "id": "ar_dylane-gigan",
@@ -70,6 +82,12 @@
     "name_en": "Julien CATALA",
     "name_ja": null,
     "team_id": "castres"
+  },
+  {
+    "id": "ar_leo-camara",
+    "name_en": "Léo CAMARA",
+    "name_ja": null,
+    "team_id": "paris"
   },
   {
     "id": "ar_lorenzo-sirignano",
@@ -172,6 +190,12 @@
     "name_en": "Paolo AGNESE",
     "name_ja": null,
     "team_id": "montpellier"
+  },
+  {
+    "id": "ar_preston-tekori",
+    "name_en": "Preston TEKORI",
+    "name_ja": null,
+    "team_id": "toulouse"
   },
   {
     "id": "ar_sacha-codorniou",
