@@ -1,10 +1,10 @@
 ---
 title: "Victor BLANCがトゥールーズに加入"
 pubDate: 2026-08-12
-category: "auto"
+category: "NEWS"
 tags: ["Top14", "加入"]
 source_diff: "2026-08-12_top14.json"
-draft: false
+draft: true
 ---
 
 [Victor BLANC](/players/victor-blanc/)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。

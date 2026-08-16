@@ -57,6 +57,10 @@ LEAGUE_LABEL_JA: dict[str, str] = {
 NEWS_DIR = io.REPO_ROOT / "src" / "content" / "news"
 NEWS_META_DIR = io.META_DIR / "news"
 
+# 海外リーグ: 1件ずつの加入/退団記事は薄すぎる（カタカナ表記も無い外国人選手が大半）ため、
+# notable_overseas_players.json に載っていない選手はISO週単位のダイジェストにまとめる。
+OVERSEAS_LEAGUES = {"top14", "super-rugby", "urc", "premiership", "nrl"}
+
 
 def league_label(league: str) -> str:
     return LEAGUE_LABEL_JA.get(league, league)
@@ -164,6 +168,46 @@ def _player_md(entry: dict, players_by_id: dict[str, dict]) -> Optional[str]:
     return f"[{name}]({link})" if link else name
 
 
+# --- カタカナ表記の付記（外国人選手・name_ja未設定時のみ） -------------------
+# data/manual/kana_overrides.json（03_VALIDATION手順で確定させたものだけ）を参照する。
+_KANA_OVERRIDES_CACHE: Optional[dict[str, str]] = None
+
+
+def _kana_overrides() -> dict[str, str]:
+    global _KANA_OVERRIDES_CACHE
+    if _KANA_OVERRIDES_CACHE is None:
+        _KANA_OVERRIDES_CACHE = io.read_manual("kana_overrides.json", default={})
+    return _KANA_OVERRIDES_CACHE
+
+
+def _player_display_with_kana(entry: dict, players_by_id: dict[str, dict]) -> Optional[str]:
+    """氏名（リンクが張れればMarkdownリンク）。name_ja未設定の外国人選手には
+    kana_overrides.jsonの確定カタカナ表記があれば「英語表記（カタカナ）」で併記する。"""
+    name = player_display_name(entry)
+    if not name:
+        return None
+    kana = None if entry.get("name_ja") else _kana_overrides().get(entry.get("id"))
+    display = f"{name}（{kana}）" if kana else name
+    link = player_link(entry, players_by_id)
+    return f"[{display}]({link})" if link else display
+
+
+# --- 海外リーグ: 個別記事にする選手（notable）の判定 -------------------------
+# data/manual/notable_overseas_players.json に id を明示登録した選手だけ個別記事化する。
+# 登録基準（いずれかを満たし、人が事実確認したもののみ。自動判定はしない）:
+#   1. 日本に縁がある: 学校またはクラブで日本でプレーした経験がある
+#   2. 代表歴がある: 自国・出身国・縁のある国のいずれかでU19/U20/U23〜本代表の経歴がある
+_NOTABLE_OVERSEAS_CACHE: Optional[set[str]] = None
+
+
+def _notable_overseas_ids() -> set[str]:
+    global _NOTABLE_OVERSEAS_CACHE
+    if _NOTABLE_OVERSEAS_CACHE is None:
+        raw = io.read_manual("notable_overseas_players.json", default={})
+        _NOTABLE_OVERSEAS_CACHE = set(raw.keys()) if isinstance(raw, dict) else set(raw or [])
+    return _NOTABLE_OVERSEAS_CACHE
+
+
 @dataclass
 class Article:
     slug: str
@@ -172,7 +216,7 @@ class Article:
     tags: list[str] = field(default_factory=list)
     pub_date: str = ""
     source_diff: str = ""
-    category: str = "auto"
+    category: str = "NEWS"
 
     def filename(self) -> str:
         return f"{self.slug}.md"
@@ -200,44 +244,117 @@ class Article:
 # ---------------------------------------------------------------------------
 
 def build_join_articles(diff: dict, *, players_by_id: dict[str, dict], teams_by_id: dict[str, dict],
-                        pub_date: str, source_diff: str) -> list[Article]:
+                        pub_date: str, source_diff: str) -> tuple[list[Article], list[dict]]:
+    """個別記事のリストと、海外リーグかつnotable未登録のため週次ダイジェストに回す
+    エントリのリストを返す（後者は main() 側で状態ファイルに累積する）。"""
     league = diff["league"]
     label = league_label(league)
+    overseas = league in OVERSEAS_LEAGUES
+    notable_ids = _notable_overseas_ids() if overseas else set()
     events: list[tuple[dict, Optional[str]]] = [(e, e.get("team_id")) for e in diff.get("signings", [])]
     events += [(e, e.get("to_team_id")) for e in diff.get("transfers", [])]
 
     articles: list[Article] = []
+    weekly_entries: list[dict] = []
     for entry, team_id in events:
         name = player_display_name(entry)
         team_name = team_display_name(teams_by_id.get(team_id))
         if not name or not team_name:
             continue
-        who = _player_md(entry, players_by_id) or name
+        pid = entry["id"]
+        if overseas and pid not in notable_ids:
+            weekly_entries.append({"id": pid, "name_en": entry.get("name_en"),
+                                   "name_ja": entry.get("name_ja"), "team_id": team_id})
+            continue
+        who = _player_display_with_kana(entry, players_by_id) or name
         title = f"{name}が{team_name}に加入"
         body = f"{who}が{team_md(team_name)}（{label}）に加入した。"
-        slug = f"{league}-join-{entry['id']}-{pub_date}"
+        slug = f"{league}-join-{pid}-{pub_date}"
         articles.append(Article(slug=slug, title=title, body=body, tags=[label, "加入"],
                                 pub_date=pub_date, source_diff=source_diff))
-    return articles
+    return articles, weekly_entries
 
 
 def build_departure_articles(diff: dict, *, players_by_id: dict[str, dict], teams_by_id: dict[str, dict],
-                             pub_date: str, source_diff: str) -> list[Article]:
+                             pub_date: str, source_diff: str) -> tuple[list[Article], list[dict]]:
     league = diff["league"]
     label = league_label(league)
+    overseas = league in OVERSEAS_LEAGUES
+    notable_ids = _notable_overseas_ids() if overseas else set()
     articles: list[Article] = []
+    weekly_entries: list[dict] = []
     for entry in diff.get("departures", []):
+        name = player_display_name(entry)
+        team_id = entry.get("team_id")
+        team_name = team_display_name(teams_by_id.get(team_id))
+        if not name or not team_name:
+            continue
+        pid = entry["id"]
+        if overseas and pid not in notable_ids:
+            weekly_entries.append({"id": pid, "name_en": entry.get("name_en"),
+                                   "name_ja": entry.get("name_ja"), "team_id": team_id})
+            continue
+        who = _player_display_with_kana(entry, players_by_id) or name
+        title = f"{name}が{team_name}を退団"
+        body = f"{who}が{team_md(team_name)}（{label}）を退団した。"
+        slug = f"{league}-departure-{pid}-{pub_date}"
+        articles.append(Article(slug=slug, title=title, body=body, tags=[label, "退団"],
+                                pub_date=pub_date, source_diff=source_diff))
+    return articles, weekly_entries
+
+
+def merge_weekly_entries(existing: list[dict], new_entries: list[dict]) -> list[dict]:
+    """id単位でマージ。team_id/name等は最新の値で上書き（同一週内で複数回移籍することは想定しない）。"""
+    by_id: dict[str, dict] = {e["id"]: dict(e) for e in existing}
+    for e in new_entries:
+        by_id[e["id"]] = {**by_id.get(e["id"], {}), **e}
+    return [by_id[k] for k in sorted(by_id)]
+
+
+def build_join_weekly_article(league: str, iso_week: str, entries: list[dict], *,
+                              players_by_id: dict[str, dict], teams_by_id: dict[str, dict],
+                              pub_date: str, source_diff: str) -> Optional[Article]:
+    if not entries:
+        return None
+    label = league_label(league)
+    lines: list[str] = []
+    for entry in sorted(entries, key=lambda e: e["id"]):
         name = player_display_name(entry)
         team_name = team_display_name(teams_by_id.get(entry.get("team_id")))
         if not name or not team_name:
             continue
-        who = _player_md(entry, players_by_id) or name
-        title = f"{name}が{team_name}を退団"
-        body = f"{who}が{team_md(team_name)}（{label}）を退団した。"
-        slug = f"{league}-departure-{entry['id']}-{pub_date}"
-        articles.append(Article(slug=slug, title=title, body=body, tags=[label, "退団"],
-                                pub_date=pub_date, source_diff=source_diff))
-    return articles
+        who = _player_display_with_kana(entry, players_by_id) or name
+        lines.append(f"- {who}が{team_md(team_name)}に加入")
+    if not lines:
+        return None
+    title = f"{label}週間加入まとめ（{iso_week}）"
+    body = "\n".join(lines)
+    slug = f"{league}-join-weekly-{iso_week}"
+    return Article(slug=slug, title=title, body=body, tags=[label, "加入"],
+                   pub_date=pub_date, source_diff=source_diff)
+
+
+def build_departure_weekly_article(league: str, iso_week: str, entries: list[dict], *,
+                                   players_by_id: dict[str, dict], teams_by_id: dict[str, dict],
+                                   pub_date: str, source_diff: str) -> Optional[Article]:
+    if not entries:
+        return None
+    label = league_label(league)
+    lines: list[str] = []
+    for entry in sorted(entries, key=lambda e: e["id"]):
+        name = player_display_name(entry)
+        team_name = team_display_name(teams_by_id.get(entry.get("team_id")))
+        if not name or not team_name:
+            continue
+        who = _player_display_with_kana(entry, players_by_id) or name
+        lines.append(f"- {who}が{team_md(team_name)}を退団")
+    if not lines:
+        return None
+    title = f"{label}週間退団まとめ（{iso_week}）"
+    body = "\n".join(lines)
+    slug = f"{league}-departure-weekly-{iso_week}"
+    return Article(slug=slug, title=title, body=body, tags=[label, "退団"],
+                   pub_date=pub_date, source_diff=source_diff)
 
 
 def build_first_cap_articles(diff: dict, *, players_by_id: dict[str, dict],
@@ -421,20 +538,24 @@ def _call_up_member_line(m: dict, players_by_id: dict[str, dict]) -> str:
 
 
 def build_articles_for_diff(diff: dict, *, players_by_id: dict[str, dict], teams_by_id: dict[str, dict],
-                            matches_by_id: dict[str, dict], pub_date: str, source_diff: str) -> list[Article]:
-    """caps_updates（週次まとめ）を除く、1回の diff から作れる記事すべて。"""
+                            matches_by_id: dict[str, dict], pub_date: str,
+                            source_diff: str) -> tuple[list[Article], list[dict], list[dict]]:
+    """caps_updates（週次まとめ）を除く、1回の diff から作れる記事すべて。
+    戻り値は (個別記事, 海外join週次エントリ, 海外departure週次エントリ)。"""
     articles: list[Article] = []
-    articles += build_join_articles(diff, players_by_id=players_by_id, teams_by_id=teams_by_id,
-                                    pub_date=pub_date, source_diff=source_diff)
-    articles += build_departure_articles(diff, players_by_id=players_by_id, teams_by_id=teams_by_id,
-                                         pub_date=pub_date, source_diff=source_diff)
+    join_articles, join_weekly = build_join_articles(diff, players_by_id=players_by_id, teams_by_id=teams_by_id,
+                                                      pub_date=pub_date, source_diff=source_diff)
+    dep_articles, dep_weekly = build_departure_articles(diff, players_by_id=players_by_id, teams_by_id=teams_by_id,
+                                                         pub_date=pub_date, source_diff=source_diff)
+    articles += join_articles
+    articles += dep_articles
     articles += build_first_cap_articles(diff, players_by_id=players_by_id,
                                          pub_date=pub_date, source_diff=source_diff)
     articles += build_round_result_articles(diff, matches_by_id=matches_by_id, teams_by_id=teams_by_id,
                                             pub_date=pub_date, source_diff=source_diff)
     articles += build_call_up_articles(diff, players_by_id=players_by_id,
                                        pub_date=pub_date, source_diff=source_diff)
-    return articles
+    return articles, join_weekly, dep_weekly
 
 
 # ---------------------------------------------------------------------------
@@ -537,7 +658,7 @@ def main(argv: Optional[list[str]] = None) -> int:
             for m in io.read_records(io.matches_path(league, season)):
                 matches_by_id[m["id"]] = m
 
-        articles = build_articles_for_diff(
+        articles, join_weekly, dep_weekly = build_articles_for_diff(
             diff, players_by_id=players_by_id, teams_by_id=teams_by_id,
             matches_by_id=matches_by_id, pub_date=target_date, source_diff=source_diff,
         )
@@ -554,6 +675,28 @@ def main(argv: Optional[list[str]] = None) -> int:
             )
             if weekly:
                 articles.append(weekly)
+
+        if join_weekly:
+            join_state_path = NEWS_META_DIR / f"join_weekly_{league}_{iso_week}.json"
+            join_merged = merge_weekly_entries(io.read_json(join_state_path, default=[]), join_weekly)
+            io.write_json(join_state_path, join_merged)
+            join_article = build_join_weekly_article(
+                league, iso_week, join_merged, players_by_id=players_by_id, teams_by_id=teams_by_id,
+                pub_date=target_date, source_diff=source_diff,
+            )
+            if join_article:
+                articles.append(join_article)
+
+        if dep_weekly:
+            dep_state_path = NEWS_META_DIR / f"departure_weekly_{league}_{iso_week}.json"
+            dep_merged = merge_weekly_entries(io.read_json(dep_state_path, default=[]), dep_weekly)
+            io.write_json(dep_state_path, dep_merged)
+            dep_article = build_departure_weekly_article(
+                league, iso_week, dep_merged, players_by_id=players_by_id, teams_by_id=teams_by_id,
+                pub_date=target_date, source_diff=source_diff,
+            )
+            if dep_article:
+                articles.append(dep_article)
 
         write_articles(articles, NEWS_DIR)
         total += len(articles)

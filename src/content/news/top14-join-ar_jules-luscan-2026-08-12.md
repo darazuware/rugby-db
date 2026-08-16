@@ -1,10 +1,10 @@
 ---
 title: "Jules LUSCANがトゥールーズに加入"
 pubDate: 2026-08-12
-category: "auto"
+category: "NEWS"
 tags: ["Top14", "加入"]
 source_diff: "2026-08-12_top14.json"
-draft: false
+draft: true
 ---
 
 [Jules LUSCAN](/players/jules-luscan/)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。

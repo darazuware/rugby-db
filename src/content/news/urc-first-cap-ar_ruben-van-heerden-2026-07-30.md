@@ -1,7 +1,7 @@
 ---
 title: "Ruben VAN HEERDENがSouth Africa代表初キャップ"
 pubDate: 2026-07-30
-category: "auto"
+category: "NEWS"
 tags: ["URC", "初キャップ"]
 source_diff: "2026-07-30_urc.json"
 draft: false

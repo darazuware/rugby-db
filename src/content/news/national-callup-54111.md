@@ -1,7 +1,7 @@
 ---
 title: "男子日本代表 オーストラリア遠征参加メンバー（31名）"
 pubDate: 2026-08-10
-category: "auto"
+category: "NEWS"
 tags: ["代表", "招集"]
 source_diff: "2026-08-10_national.json"
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "（8/6更新）男子日本代表 宮崎合宿 参加メンバー（35名）"
 pubDate: 2026-08-07
-category: "auto"
+category: "NEWS"
 tags: ["代表", "招集", "合宿"]
 source_diff: "2026-08-07_national.json"
 draft: false

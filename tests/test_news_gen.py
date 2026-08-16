@@ -7,13 +7,17 @@
   - caps_updates は1件ずつ記事化されず、週次まとめ1本にマージされる
   - newly_finished_rounds がスコア表のみの節結果記事になる
   - 選手名/チーム名/代表国名など穴埋めに必要な値が欠けている場合は記事を作らない
+  - 海外リーグ(OVERSEAS_LEAGUES)の加入/退団は、notable_overseas_players未登録の
+    選手なら個別記事を作らず週次ダイジェスト用エントリを返す（薄い記事の乱立防止）
 """
 from datetime import date
+
+import pytest
 
 from pipeline import news_gen as ng
 
 
-def _diff(league="top14", **overrides):
+def _diff(league="league-one-d1", **overrides):
     base = {
         "league": league,
         "signings": [],
@@ -39,23 +43,34 @@ PLAYERS = {
 }
 
 
+@pytest.fixture(autouse=True)
+def _reset_news_gen_caches(monkeypatch):
+    """_kana_overrides / _notable_overseas_ids はモジュールレベルでキャッシュされるため、
+    テストごとに実データを読まないようリセットし、既定では空を返すようにする。"""
+    monkeypatch.setattr(ng, "_KANA_OVERRIDES_CACHE", {})
+    monkeypatch.setattr(ng, "_NOTABLE_OVERSEAS_CACHE", set())
+    yield
+
+
 # ---------------------------------------------------------------------------
-# 加入（signings / transfers）
+# 加入（signings / transfers） — league-one-d1 は OVERSEAS_LEAGUES 対象外なので
+# これまで通り1件ずつ個別記事になる
 # ---------------------------------------------------------------------------
 
 def test_join_article_from_signing():
     diff = _diff(signings=[
         {"id": "ar_1", "name_en": "Taro Yamada", "name_ja": "山田太郎", "team_id": "t1"},
     ])
-    articles = ng.build_join_articles(diff, players_by_id=PLAYERS, teams_by_id=TEAMS,
-                                      pub_date="2026-07-18", source_diff="2026-07-18_top14.json")
+    articles, weekly = ng.build_join_articles(diff, players_by_id=PLAYERS, teams_by_id=TEAMS,
+                                              pub_date="2026-07-18", source_diff="2026-07-18_league-one-d1.json")
+    assert weekly == []
     assert len(articles) == 1
     a = articles[0]
     assert a.title == "山田太郎がスタッド・トゥールーザンに加入"
-    assert a.body == "[山田太郎](/players/taro-yamada/)がスタッド・トゥールーザン（Top14）に加入した。"
-    assert a.slug == "top14-join-ar_1-2026-07-18"
-    assert a.tags == ["Top14", "加入"]
-    assert a.category == "auto"
+    assert a.body == "[山田太郎](/players/taro-yamada/)がスタッド・トゥールーザン（リーグワン）に加入した。"
+    assert a.slug == "league-one-d1-join-ar_1-2026-07-18"
+    assert a.tags == ["リーグワン", "加入"]
+    assert a.category == "NEWS"
 
 
 def test_join_article_from_transfer_uses_to_team():
@@ -63,8 +78,9 @@ def test_join_article_from_transfer_uses_to_team():
         {"id": "ar_1", "name_en": "Taro Yamada", "name_ja": "山田太郎",
          "from_team_id": "t2", "to_team_id": "t1"},
     ])
-    articles = ng.build_join_articles(diff, players_by_id=PLAYERS, teams_by_id=TEAMS,
-                                      pub_date="2026-07-18", source_diff="x.json")
+    articles, weekly = ng.build_join_articles(diff, players_by_id=PLAYERS, teams_by_id=TEAMS,
+                                              pub_date="2026-07-18", source_diff="x.json")
+    assert weekly == []
     assert len(articles) == 1
     assert articles[0].title == "山田太郎がスタッド・トゥールーザンに加入"
 
@@ -73,29 +89,116 @@ def test_join_article_skipped_when_team_name_unknown():
     diff = _diff(signings=[
         {"id": "ar_1", "name_en": "Taro Yamada", "name_ja": "山田太郎", "team_id": "t3"},
     ])
-    articles = ng.build_join_articles(diff, players_by_id=PLAYERS, teams_by_id=TEAMS,
-                                      pub_date="2026-07-18", source_diff="x.json")
+    articles, weekly = ng.build_join_articles(diff, players_by_id=PLAYERS, teams_by_id=TEAMS,
+                                              pub_date="2026-07-18", source_diff="x.json")
     assert articles == []
+    assert weekly == []
 
 
 def test_join_article_skipped_when_name_unknown():
     diff = _diff(signings=[{"id": "ar_9", "name_en": None, "name_ja": None, "team_id": "t1"}])
-    articles = ng.build_join_articles(diff, players_by_id=PLAYERS, teams_by_id=TEAMS,
-                                      pub_date="2026-07-18", source_diff="x.json")
+    articles, weekly = ng.build_join_articles(diff, players_by_id=PLAYERS, teams_by_id=TEAMS,
+                                              pub_date="2026-07-18", source_diff="x.json")
     assert articles == []
+    assert weekly == []
 
 
 def test_join_article_plain_name_when_no_slug():
     diff = _diff(signings=[
         {"id": "ar_99", "name_en": "New Guy", "name_ja": None, "team_id": "t1"},
     ])
-    articles = ng.build_join_articles(diff, players_by_id=PLAYERS, teams_by_id=TEAMS,
-                                      pub_date="2026-07-18", source_diff="x.json")
-    assert articles[0].body == "New Guyがスタッド・トゥールーザン（Top14）に加入した。"
+    articles, weekly = ng.build_join_articles(diff, players_by_id=PLAYERS, teams_by_id=TEAMS,
+                                              pub_date="2026-07-18", source_diff="x.json")
+    assert articles[0].body == "New Guyがスタッド・トゥールーザン（リーグワン）に加入した。"
+
+
+def test_join_article_appends_kana_for_foreign_name_without_name_ja():
+    ng._KANA_OVERRIDES_CACHE["ar_99"] = "ニュー・ガイ"
+    diff = _diff(signings=[
+        {"id": "ar_99", "name_en": "New Guy", "name_ja": None, "team_id": "t1"},
+    ])
+    articles, _ = ng.build_join_articles(diff, players_by_id=PLAYERS, teams_by_id=TEAMS,
+                                         pub_date="2026-07-18", source_diff="x.json")
+    assert articles[0].body == "New Guy（ニュー・ガイ）がスタッド・トゥールーザン（リーグワン）に加入した。"
 
 
 # ---------------------------------------------------------------------------
-# 退団
+# 海外リーグ（OVERSEAS_LEAGUES）: notable未登録なら個別記事にせず週次エントリを返す
+# ---------------------------------------------------------------------------
+
+def test_overseas_join_not_notable_goes_to_weekly_not_individual():
+    diff = _diff(league="top14", signings=[
+        {"id": "ar_1", "name_en": "Taro Yamada", "name_ja": "山田太郎", "team_id": "t1"},
+    ])
+    articles, weekly = ng.build_join_articles(diff, players_by_id=PLAYERS, teams_by_id=TEAMS,
+                                              pub_date="2026-07-18", source_diff="x.json")
+    assert articles == []
+    assert weekly == [{"id": "ar_1", "name_en": "Taro Yamada", "name_ja": "山田太郎", "team_id": "t1"}]
+
+
+def test_overseas_join_notable_still_gets_individual_article():
+    ng._NOTABLE_OVERSEAS_CACHE.add("ar_1")
+    diff = _diff(league="top14", signings=[
+        {"id": "ar_1", "name_en": "Taro Yamada", "name_ja": "山田太郎", "team_id": "t1"},
+    ])
+    articles, weekly = ng.build_join_articles(diff, players_by_id=PLAYERS, teams_by_id=TEAMS,
+                                              pub_date="2026-07-18", source_diff="x.json")
+    assert weekly == []
+    assert len(articles) == 1
+    assert articles[0].title == "山田太郎がスタッド・トゥールーザンに加入"
+
+
+def test_overseas_departure_not_notable_goes_to_weekly():
+    diff = _diff(league="top14", departures=[
+        {"id": "ar_2", "name_en": "Old Player", "name_ja": None, "team_id": "t2"},
+    ])
+    articles, weekly = ng.build_departure_articles(diff, players_by_id={}, teams_by_id=TEAMS,
+                                                    pub_date="2026-07-18", source_diff="x.json")
+    assert articles == []
+    assert weekly == [{"id": "ar_2", "name_en": "Old Player", "name_ja": None, "team_id": "t2"}]
+
+
+def test_merge_weekly_entries_dedupes_by_id_keeping_latest():
+    existing = [{"id": "ar_1", "name_en": "A", "name_ja": None, "team_id": "t1"}]
+    new = [{"id": "ar_1", "name_en": "A", "name_ja": None, "team_id": "t2"},
+           {"id": "ar_2", "name_en": "B", "name_ja": None, "team_id": "t1"}]
+    merged = ng.merge_weekly_entries(existing, new)
+    assert [m["id"] for m in merged] == ["ar_1", "ar_2"]
+    assert next(m for m in merged if m["id"] == "ar_1")["team_id"] == "t2"
+
+
+def test_build_join_weekly_article():
+    entries = [
+        {"id": "ar_1", "name_en": "Taro Yamada", "name_ja": "山田太郎", "team_id": "t1"},
+    ]
+    a = ng.build_join_weekly_article("top14", "2026-W29", entries, players_by_id=PLAYERS,
+                                     teams_by_id=TEAMS, pub_date="2026-07-18", source_diff="x.json")
+    assert a is not None
+    assert a.title == "Top14週間加入まとめ（2026-W29）"
+    assert a.body == "- [山田太郎](/players/taro-yamada/)がスタッド・トゥールーザンに加入"
+    assert a.slug == "top14-join-weekly-2026-W29"
+
+
+def test_build_join_weekly_article_none_when_empty():
+    assert ng.build_join_weekly_article("top14", "2026-W29", [], players_by_id={},
+                                        teams_by_id=TEAMS, pub_date="2026-07-18",
+                                        source_diff="x.json") is None
+
+
+def test_build_departure_weekly_article():
+    entries = [
+        {"id": "ar_2", "name_en": "Old Player", "name_ja": None, "team_id": "t2"},
+    ]
+    a = ng.build_departure_weekly_article("top14", "2026-W29", entries, players_by_id={},
+                                          teams_by_id=TEAMS, pub_date="2026-07-18", source_diff="x.json")
+    assert a is not None
+    assert a.title == "Top14週間退団まとめ（2026-W29）"
+    assert a.body == "- Old PlayerがASM クレルモンを退団"
+    assert a.slug == "top14-departure-weekly-2026-W29"
+
+
+# ---------------------------------------------------------------------------
+# 退団（league-one-d1: OVERSEAS_LEAGUES対象外なので従来通り個別記事）
 # ---------------------------------------------------------------------------
 
 def test_departure_article():
@@ -103,22 +206,24 @@ def test_departure_article():
         {"id": "ar_1", "name_en": "Taro Yamada", "name_ja": "山田太郎", "team_id": "t2"},
     ])
     # 退団済みなので現masterに存在しない想定（players_by_id に無い）
-    articles = ng.build_departure_articles(diff, players_by_id={}, teams_by_id=TEAMS,
-                                           pub_date="2026-07-18", source_diff="x.json")
+    articles, weekly = ng.build_departure_articles(diff, players_by_id={}, teams_by_id=TEAMS,
+                                                    pub_date="2026-07-18", source_diff="x.json")
+    assert weekly == []
     assert len(articles) == 1
     a = articles[0]
     assert a.title == "山田太郎がASM クレルモンを退団"
-    assert a.body == "山田太郎がASM クレルモン（Top14）を退団した。"
-    assert a.tags == ["Top14", "退団"]
+    assert a.body == "山田太郎がASM クレルモン（リーグワン）を退団した。"
+    assert a.tags == ["リーグワン", "退団"]
 
 
 def test_departure_article_skipped_when_team_unknown():
     diff = _diff(departures=[
         {"id": "ar_1", "name_en": "Taro Yamada", "name_ja": "山田太郎", "team_id": None},
     ])
-    articles = ng.build_departure_articles(diff, players_by_id={}, teams_by_id=TEAMS,
-                                           pub_date="2026-07-18", source_diff="x.json")
+    articles, weekly = ng.build_departure_articles(diff, players_by_id={}, teams_by_id=TEAMS,
+                                                    pub_date="2026-07-18", source_diff="x.json")
     assert articles == []
+    assert weekly == []
 
 
 # ---------------------------------------------------------------------------
@@ -199,10 +304,10 @@ def test_round_result_article():
                                                pub_date="2026-07-18", source_diff="x.json")
     assert len(articles) == 1
     a = articles[0]
-    assert a.title == "Top14第5節 結果まとめ"
+    assert a.title == "リーグワン第5節 結果まとめ"
     assert "| スタッド・トゥールーザン | 24 - 17 | ASM クレルモン |" in a.body
     assert "t3" not in a.body  # チーム名不明の試合は除外
-    assert a.slug == "top14-round-5-2025-26"
+    assert a.slug == "league-one-d1-round-5-2025-26"
 
 
 def test_round_result_article_skipped_when_round_missing():
@@ -225,7 +330,7 @@ def test_article_to_markdown_matches_expected():
         "---\n"
         'title: "山田太郎がスタッド・トゥールーザンに加入"\n'
         "pubDate: 2026-07-18\n"
-        'category: "auto"\n'
+        'category: "NEWS"\n'
         'tags: ["Top14", "加入"]\n'
         'source_diff: "2026-07-18_top14.json"\n'
         "draft: false\n"
@@ -255,13 +360,30 @@ def test_build_articles_for_diff_integration():
         departures=[{"id": "ar_2", "name_en": "Old Player", "name_ja": None, "team_id": "t2"}],
         newly_finished_rounds=[{"season": "2025-26", "round": 5, "match_ids": ["m1"]}],
     )
-    articles = ng.build_articles_for_diff(
+    articles, join_weekly, dep_weekly = ng.build_articles_for_diff(
         diff, players_by_id=PLAYERS, teams_by_id=TEAMS, matches_by_id=MATCHES,
-        pub_date="2026-07-18", source_diff="2026-07-18_top14.json",
+        pub_date="2026-07-18", source_diff="2026-07-18_league-one-d1.json",
     )
     slugs = {a.slug for a in articles}
     assert slugs == {
-        "top14-join-ar_1-2026-07-18",
-        "top14-departure-ar_2-2026-07-18",
-        "top14-round-5-2025-26",
+        "league-one-d1-join-ar_1-2026-07-18",
+        "league-one-d1-departure-ar_2-2026-07-18",
+        "league-one-d1-round-5-2025-26",
     }
+    assert join_weekly == []
+    assert dep_weekly == []
+
+
+def test_build_articles_for_diff_integration_overseas_defers_to_weekly():
+    diff = _diff(
+        league="top14",
+        signings=[{"id": "ar_1", "name_en": "Taro Yamada", "name_ja": "山田太郎", "team_id": "t1"}],
+        departures=[{"id": "ar_2", "name_en": "Old Player", "name_ja": None, "team_id": "t2"}],
+    )
+    articles, join_weekly, dep_weekly = ng.build_articles_for_diff(
+        diff, players_by_id=PLAYERS, teams_by_id=TEAMS, matches_by_id=MATCHES,
+        pub_date="2026-07-18", source_diff="2026-07-18_top14.json",
+    )
+    assert articles == []
+    assert join_weekly == [{"id": "ar_1", "name_en": "Taro Yamada", "name_ja": "山田太郎", "team_id": "t1"}]
+    assert dep_weekly == [{"id": "ar_2", "name_en": "Old Player", "name_ja": None, "team_id": "t2"}]

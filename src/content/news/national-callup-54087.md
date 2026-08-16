@@ -1,7 +1,7 @@
 ---
 title: "男子日本代表 網走合宿参加メンバー（34名）"
 pubDate: 2026-07-24
-category: "auto"
+category: "NEWS"
 tags: ["代表", "招集", "合宿"]
 source_diff: "2026-07-24_national.json"
 draft: false

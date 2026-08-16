@@ -1,7 +1,7 @@
 ---
 title: "Ion NECULAIがItaly代表初キャップ"
 pubDate: 2026-08-05
-category: "auto"
+category: "NEWS"
 tags: ["URC", "初キャップ"]
 source_diff: "2026-08-05_urc.json"
 draft: false
