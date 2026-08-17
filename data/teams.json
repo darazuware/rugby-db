@@ -729,7 +729,7 @@
   {
     "team_name": "石見智翠館高等学校",
     "team_en_name": "石見智翠館高等学校",
-    "slug": "",
+    "slug": "iwami-chisuikan",
     "league": "high-school",
     "home_ground": "",
     "home_ground_address": ""
@@ -737,7 +737,7 @@
   {
     "team_name": "東海大学付属大阪仰星高等学校",
     "team_en_name": "東海大学付属大阪仰星高等学校",
-    "slug": "",
+    "slug": "tokai-osaka-gyosei",
     "league": "high-school",
     "home_ground": "",
     "home_ground_address": ""
@@ -745,7 +745,7 @@
   {
     "team_name": "茗溪学園高等学校",
     "team_en_name": "茗溪学園高等学校",
-    "slug": "",
+    "slug": "meikei",
     "league": "high-school",
     "home_ground": "",
     "home_ground_address": ""
@@ -753,7 +753,7 @@
   {
     "team_name": "大分東明高等学校",
     "team_en_name": "大分東明高等学校",
-    "slug": "",
+    "slug": "oita-tomei",
     "league": "high-school",
     "home_ground": "",
     "home_ground_address": ""
@@ -761,7 +761,7 @@
   {
     "team_name": "秋田県立秋田工業高等学校",
     "team_en_name": "秋田県立秋田工業高等学校",
-    "slug": "",
+    "slug": "akita-kogyo",
     "league": "high-school",
     "home_ground": "",
     "home_ground_address": ""
@@ -769,7 +769,7 @@
   {
     "team_name": "桐蔭学園高等学校",
     "team_en_name": "桐蔭学園高等学校",
-    "slug": "",
+    "slug": "toin-gakuen",
     "league": "high-school",
     "home_ground": "",
     "home_ground_address": ""
@@ -777,7 +777,7 @@
   {
     "team_name": "松山聖陵高等学校",
     "team_en_name": "松山聖陵高等学校",
-    "slug": "",
+    "slug": "matsuyama-seiryo",
     "league": "high-school",
     "home_ground": "",
     "home_ground_address": ""
@@ -785,7 +785,7 @@
   {
     "team_name": "大阪桐蔭高等学校",
     "team_en_name": "大阪桐蔭高等学校",
-    "slug": "",
+    "slug": "osaka-toin",
     "league": "high-school",
     "home_ground": "",
     "home_ground_address": ""
@@ -793,7 +793,7 @@
   {
     "team_name": "明治大学",
     "team_en_name": "明治大学",
-    "slug": "",
+    "slug": "meiji-university",
     "league": "university",
     "home_ground": "",
     "home_ground_address": ""
@@ -801,7 +801,7 @@
   {
     "team_name": "早稲田大学",
     "team_en_name": "早稲田大学",
-    "slug": "",
+    "slug": "waseda-university",
     "league": "university",
     "home_ground": "",
     "home_ground_address": ""
@@ -809,7 +809,7 @@
   {
     "team_name": "京都産業大学",
     "team_en_name": "京都産業大学",
-    "slug": "",
+    "slug": "kyoto-sangyo-university",
     "league": "university",
     "home_ground": "",
     "home_ground_address": ""
@@ -817,7 +817,7 @@
   {
     "team_name": "帝京大学",
     "team_en_name": "帝京大学",
-    "slug": "",
+    "slug": "teikyo-university",
     "league": "university",
     "home_ground": "",
     "home_ground_address": ""
