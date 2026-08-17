@@ -5,37 +5,6 @@
   "departures": [],
   "first_caps": [],
   "caps_updates": [],
-  "pending_departures": [
-    {
-      "id": "ar_bradley-tocker",
-      "name_en": "Bradley TOCKER",
-      "name_ja": null,
-      "team_id": "chiefs"
-    },
-    {
-      "id": "ar_israel-leota",
-      "name_en": "Israel LEOTA",
-      "name_ja": null,
-      "team_id": "moana-pasifika"
-    },
-    {
-      "id": "ar_jackson-hughan",
-      "name_en": "Jackson HUGHAN",
-      "name_ja": null,
-      "team_id": "highlanders"
-    },
-    {
-      "id": "ar_richie-asiata",
-      "name_en": "Richie ASIATA",
-      "name_ja": null,
-      "team_id": "reds"
-    },
-    {
-      "id": "ar_sam-tuitupou-2005",
-      "name_en": "Sam TUITUPOU",
-      "name_ja": null,
-      "team_id": "moana-pasifika"
-    }
-  ],
+  "pending_departures": [],
   "newly_finished_rounds": []
 }
