@@ -8,13 +8,20 @@ export const getTeamLink = (leagueId: string, teamName: string) => {
     const cleanName = teamName.trim();
     
     // 1. 完全一致
-    let team = (teamsData as any).find((t: any) => 
+    let team = (teamsData as any).find((t: any) =>
         t.league === leagueKey && t.team_name === cleanName
     );
-    
-    // 2. 部分一致 (teams.json の名称が長い場合など)
+
+    // 2. 旧チーム名などのエイリアス一致（改称後もスクレイピング元が旧名称を使うケース）
     if (!team) {
-        team = (teamsData as any).find((t: any) => 
+        team = (teamsData as any).find((t: any) =>
+            t.league === leagueKey && (t.aliases || []).includes(cleanName)
+        );
+    }
+
+    // 3. 部分一致 (teams.json の名称が長い場合など)
+    if (!team) {
+        team = (teamsData as any).find((t: any) =>
             t.league === leagueKey && (t.team_name.includes(cleanName) || cleanName.includes(t.team_name))
         );
     }

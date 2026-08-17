@@ -33,7 +33,10 @@
     "division": "Division 1",
     "host_area": "",
     "legal_entity": "本田技研工業株式会社",
-    "official_site": "https://www.honda-heat.jp/"
+    "official_site": "https://www.honda-heat.jp/",
+    "aliases": [
+      "三重ホンダヒート"
+    ]
   },
   {
     "team_name": "コベルコ神戸スティーラーズ",
@@ -194,7 +197,7 @@
   {
     "team_name": "ルリーロ福岡",
     "team_en_name": "ルリーロ福岡（2025-26）",
-    "slug": "2025-26",
+    "slug": "ruriro-fukuoka",
     "league": "league-one",
     "home_ground": "久留米総合スポーツセンター陸上競技場",
     "home_ground_address": "福岡県久留米市東櫛原町１７３",
@@ -249,7 +252,11 @@
     "division": "Division 2",
     "host_area": "千葉県我孫子市、柏市、松戸市、流山市、野田市、鎌ケ谷市、白井市、印西市",
     "legal_entity": "東日本旅客鉄道株式会社",
-    "official_site": "https://www.jreast.co.jp/greenwarriors/"
+    "official_site": "https://www.jreast.co.jp/greenwarriors/",
+    "aliases": [
+      "グリーンロケッツ東葛",
+      "NECグリーンロケッツ東葛"
+    ]
   },
   {
     "team_name": "クリタウォーターガッシュ昭島",
@@ -266,7 +273,7 @@
   {
     "team_name": "中国電力レッドレグリオンズ",
     "team_en_name": "中国電力レッドレグリオンズ（2025-26）",
-    "slug": "2025-26",
+    "slug": "chugoku-electric-red-regulions",
     "league": "league-one",
     "home_ground": "Balcom BMW Rugby Stadium",
     "home_ground_address": "広島県広島市西区観音新町2-11-124",
