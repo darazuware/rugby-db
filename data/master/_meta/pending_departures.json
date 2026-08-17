@@ -1801,6 +1801,18 @@
       "name_en": null,
       "name_ja": "増山 将",
       "team_id": null
+    },
+    "univ_専修大学__石倉俊二": {
+      "id": "univ_専修大学__石倉俊二",
+      "name_en": null,
+      "name_ja": "石倉 俊二",
+      "team_id": null
+    },
+    "univ_東京大学__上瑛人": {
+      "id": "univ_東京大学__上瑛人",
+      "name_en": null,
+      "name_ja": "上 瑛人",
+      "team_id": null
     }
   },
   "highschool": {}
