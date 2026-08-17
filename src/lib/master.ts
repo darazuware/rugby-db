@@ -384,13 +384,44 @@ export function canHaveIndividualPlayerPage(player: Player): boolean {
   return player.league !== "highschool";
 }
 
+/**
+ * 加入発表直後など最小限のフィールドしか持たないレコード（例: lo_announced_*）を
+ * Player 型の契約（配列/オブジェクトフィールドは常に存在）に合わせて補完する。
+ * data/master 自体は書き換えない（pipeline 以外禁止）。
+ */
+function normalizePlayer(p: Player): Player {
+  return {
+    name_en: p.name_en ?? null,
+    name_ja: p.name_ja ?? null,
+    name_kana: p.name_kana ?? null,
+    position: p.position ?? null,
+    team_id: p.team_id ?? null,
+    height_cm: p.height_cm ?? null,
+    weight_kg: p.weight_kg ?? null,
+    birthdate: p.birthdate ?? null,
+    nationality: p.nationality ?? [],
+    caps: p.caps ?? null,
+    league_caps: p.league_caps ?? null,
+    career: p.career ?? [],
+    season_stats: p.season_stats ?? null,
+    education: p.education ?? [],
+    instagram: p.instagram ?? null,
+    image_url: p.image_url ?? null,
+    squad: p.squad ?? null,
+    is_featured: p.is_featured ?? false,
+    is_minor: p.is_minor ?? false,
+    merged_from: p.merged_from ?? [],
+    ...p,
+  };
+}
+
 async function loadAllPlayersRaw(): Promise<Player[]> {
   const lists = await Promise.all(
     LEAGUE_KEYS.map((league) =>
       readJsonSafe<Player[]>(join(PLAYERS_DIR, `${league}.json`), []),
     ),
   );
-  return lists.flat().map(sanitizeMinorPlayer);
+  return lists.flat().map(normalizePlayer).map(sanitizeMinorPlayer);
 }
 
 /** 全リーグの選手を結合し、人物重複マージを適用したリストを返す（キャッシュ済み）。 */
