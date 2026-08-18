@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-13T18:07:50+09:00",
+  "checked_at": "2026-08-18T13:37:11+09:00",
   "teams": [],
   "sources": [
     {
@@ -11,10 +11,22 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://league-one.jp/news/6105",
-          "title": "お知らせ 一般社団法人ジャパンラグビーリーグワン 令和8年熊本地震に伴う支援募金 口座開設についてのお知らせ 2026.08.13",
-          "date": "2026-08-13",
+          "url": "https://league-one.jp/news/6108",
+          "title": "クラブ マツダスカイアクティブズ広島、2026-27シーズン スタッフ体制のお知らせ 2026.08.18",
+          "date": "2026-08-18",
           "category": null
+        },
+        {
+          "url": "https://league-one.jp/news/6107",
+          "title": "クラブ 三菱重工相模原ダイナボアーズ、ルーク・ポーター選手加入のお知らせ 2026.08.18",
+          "date": "2026-08-18",
+          "category": "roster"
+        },
+        {
+          "url": "https://league-one.jp/news/6106",
+          "title": "クラブ クボタスピアーズ船橋・東京ベイ、2026-27シーズン新体制のお知らせ 2026.08.17",
+          "date": "2026-08-17",
+          "category": "roster"
         }
       ],
       "rename_signals": []
@@ -26,14 +38,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54120",
-          "title": "第112回女子セブンズユースアカデミー実施のお知らせ 2026.8.13 （木） アカデミー・強化育成 女子 セブンズ",
-          "date": "2026-08-13",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -47,7 +52,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6106",
+      "title": "クラブ クボタスピアーズ船橋・東京ベイ、2026-27シーズン新体制のお知らせ 2026.08.17",
+      "date": "2026-08-17",
+      "category": "roster"
+    },
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6107",
+      "title": "クラブ 三菱重工相模原ダイナボアーズ、ルーク・ポーター選手加入のお知らせ 2026.08.18",
+      "date": "2026-08-18",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
