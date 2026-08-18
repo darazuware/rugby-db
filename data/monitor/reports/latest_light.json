@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-18T15:36:03+09:00",
+  "checked_at": "2026-08-18T19:23:32+09:00",
   "teams": [],
   "sources": [
     {
@@ -19,14 +19,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54126",
-          "title": "男子セブンズ・デベロップメント・スコッド（SDS） 福岡合宿スケジュールと参加メンバーのお知らせ 2026.8.18 （火） 男子セブンズ日本代表 セブンズ SDS 男子セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド",
-          "date": "2026-08-18",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -40,15 +33,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54126",
-      "title": "男子セブンズ・デベロップメント・スコッド（SDS） 福岡合宿スケジュールと参加メンバーのお知らせ 2026.8.18 （火） 男子セブンズ日本代表 セブンズ SDS 男子セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド",
-      "date": "2026-08-18",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
