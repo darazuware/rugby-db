@@ -59,7 +59,7 @@ NEWS_META_DIR = io.META_DIR / "news"
 
 # 海外リーグ: 1件ずつの加入/退団記事は薄すぎる（カタカナ表記も無い外国人選手が大半）ため、
 # notable_overseas_players.json に載っていない選手はISO週単位のダイジェストにまとめる。
-OVERSEAS_LEAGUES = {"top14", "super-rugby", "urc", "premiership", "nrl"}
+OVERSEAS_LEAGUES = {"top14", "super-rugby", "urc", "premiership", "nrl", "mlr"}
 
 
 def league_label(league: str) -> str:
