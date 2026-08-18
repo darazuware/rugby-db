@@ -1,10 +1,179 @@
 {
   "league": "mlr",
-  "signings": [],
-  "transfers": [],
+  "signings": [
+    {
+      "id": "ar_alex-tucci",
+      "name_en": "Alex TUCCI",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_cameron-dodson",
+      "name_en": "Cam DODSON",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_dan-hanson",
+      "name_en": "Dan HANSON",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_dinesvaran-krishnan",
+      "name_en": "Dinesvaran KRISHNAN",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_herman-agenbag",
+      "name_en": "Herman AGENBAG",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_hugh-roach",
+      "name_en": "Hugh ROACH",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_joaquin-horcada",
+      "name_en": "Joaquín HORCADA",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_john-cullen",
+      "name_en": "John CULLEN",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_juan-pablo-zeiss",
+      "name_en": "Juan Pablo ZEISS",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_justice-nkombua",
+      "name_en": "Justice NKOMBUA",
+      "name_ja": null,
+      "team_id": "new-england-free-jacks"
+    },
+    {
+      "id": "ar_koch-mason",
+      "name_en": "Mason KOCH",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_kyle-steeves",
+      "name_en": "Kyle STEEVES",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_liam-murray",
+      "name_en": "Liam MURRAY",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_lindsey-stevens",
+      "name_en": "Lindsey STEVENS",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_lucas-bur",
+      "name_en": "Lucas BUR",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_maikeli-mudu-naromaitoga",
+      "name_en": "Maikeli MUDU NAROMAITOGA",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_mika-felix",
+      "name_en": "Mika FELIX",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_nicolas-revol",
+      "name_en": "Nico REVOL",
+      "name_ja": null,
+      "team_id": "chicago"
+    },
+    {
+      "id": "ar_paddy-ryan-1990",
+      "name_en": "Paddy RYAN",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_steveni-lombard",
+      "name_en": "Steveni LOMBARD",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_timmy-ohlwein",
+      "name_en": "Timmy OHLWEIN",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    },
+    {
+      "id": "ar_tomas-baravalle",
+      "name_en": "Tomas BARAVALLE",
+      "name_ja": null,
+      "team_id": "chicago"
+    }
+  ],
+  "transfers": [
+    {
+      "id": "ar_connor-robinson",
+      "name_en": "Connor ROBINSON",
+      "name_ja": null,
+      "from_team_id": "old-glory",
+      "to_team_id": "chicago"
+    },
+    {
+      "id": "ar_dewald-kotze",
+      "name_en": "Dewald KOTZE",
+      "name_ja": null,
+      "from_team_id": "seattle-seawolves",
+      "to_team_id": "chicago"
+    },
+    {
+      "id": "ar_larome-white",
+      "name_en": "LaRome WHITE",
+      "name_ja": null,
+      "from_team_id": "seattle-seawolves",
+      "to_team_id": "ca-legion"
+    },
+    {
+      "id": "ar_sam-golla",
+      "name_en": "Sam GOLLA",
+      "name_ja": null,
+      "from_team_id": "anthem-rc",
+      "to_team_id": "chicago"
+    }
+  ],
   "departures": [],
   "first_caps": [],
   "caps_updates": [],
-  "pending_departures": [],
+  "pending_departures": [
+    {
+      "id": "ar_rory-van-vugt",
+      "name_en": "Rory VAN VUGT",
+      "name_ja": null,
+      "team_id": "ca-legion"
+    }
+  ],
   "newly_finished_rounds": []
 }

@@ -1,0 +1,116 @@
+---
+title: "URC週間加入まとめ（2026-W34）"
+pubDate: 2026-08-18
+category: "NEWS"
+tags: ["URC", "加入"]
+source_diff: "2026-08-18_urc.json"
+draft: false
+---
+
+- [Alban ROUSSEL](/players/alban-roussel/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Alex MANN](/players/alex-mann/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Amine MAALLA](/players/amine-maalla/)が[スカーレッツ](/teams/urc/scarlets/)に加入
+- [Anthony DINU](/players/anthony-dinu/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Archie GRIFFIN](/players/archie-griffin/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
+- [Archie MAGGS](/players/archie-maggs/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
+- [Archie STANLEY](/players/archie-stanley/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
+- [Arthur CORDWELL](/players/arthur-cordwell/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
+- [Ben TAMEIFUNA（ベン・タメイフナ）](/players/ben-tameifuna/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Beno OBANO](/players/beno--obano-/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
+- [Bernard VAN DER LINDE](/players/bernard-van-der-linde/)が[レンスター・ラグビー](/teams/urc/leinster-rugby/)に加入
+- [Bismarck DU PLESSIS](/players/bismarck-du-plessis/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Brad THYER](/players/brad-thyer/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Cameron HANEKOM](/players/cameron-hanekom/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Charlie EWELS](/players/charlie-ewels/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Christopher VAOTOA](/players/christopher-vaotoa/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Clément MAYNADIER](/players/clement-maynadier/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Corey DOMACHOWSKI](/players/corey-domachowski/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Cyle BRINK](/players/cyle-brink/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Cyril CAZEAUX（シリル・カゾー）](/players/cyril-cazeaux/)が[スカーレッツ](/teams/urc/scarlets/)に加入
+- [Dave ATTWOOD](/players/dave-attwood/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
+- [Dillon LEWIS](/players/dillon-lewis/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Dmitri ARHIP](/players/dmitri-arhip/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Dylan SMITH](/players/dylan-smith/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Eddie ERSKINE](/players/eddie-erskine/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
+- [Efan DANIEL](/players/efan-daniel/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Ellis JENKINS](/players/ellis-jenkins/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Elrigh LOUW](/players/elrigh-louw/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Embrose PAPIER](/players/embrose-papier/)が[レンスター・ラグビー](/teams/urc/leinster-rugby/)に加入
+- [Enzo FERNANDES](/players/enzo-fernandes/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Evan LLOYD](/players/evan-lloyd-/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [François KLOPPER](/players/francois-klopper/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Gabriel OGHRE](/players/gabriel-oghre/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Gerhard STEENEKAMP](/players/gerhard-steenekamp/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Guido PETTI](/players/guido-petti/)が[スカーレッツ](/teams/urc/scarlets/)に加入
+- [Gwilym BRADLEY](/players/gwilym-bradley/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Gwilym EVANS](/players/gwilym-evans/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Harvey CUCKSON](/players/harvey-cuckson/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
+- [Henri CAPARROI](/players/henri-caparroi/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Jacques DU PLESSIS](/players/jacques-du-plessis/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Jacques NGUIMBOUS](/players/jacques-nguimbous/)が[スカーレッツ](/teams/urc/scarlets/)に加入
+- [Jacques VAN ROOYEN](/players/jacques-van-rooyen/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [James RATTI](/players/james-ratti/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Jan-Hendrik WESSELS](/players/jan-hendrik-wessels/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Jandré MARAIS](/players/jandre-marais/)が[スカーレッツ](/teams/urc/scarlets/)に加入
+- [Janko SWANEPOEL](/players/janko-swanepoel/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Jasper SPANDLER](/players/jasper-spandler/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
+- [Jefferson POIROT（ジェファーソン・ポワロ）](/players/jefferson-poirot/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Joe PEARD](/players/joe-peard/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Joe VAN ZYL](/players/joe-van-zyl/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Johan GROBBELAAR](/players/johan-grobbelaar/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Johannes JONKER](/players/johannes-jonker/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
+- [John STEWART](/players/john-stewart/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
+- [Jude TRARIEUX](/players/jude-trarieux/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Jules DUSSUTOUR](/players/jules-dussutour/)が[スカーレッツ](/teams/urc/scarlets/)に加入
+- [Kieran VERDEN](/players/kieran-verden/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
+- [Keiron ASSIRATTI](/players/kieron-assiratti/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Kirby MYHILL](/players/kirby-myhill/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Kristian DACEY](/players/kristian-dacey/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Lekso KAULASHVILI（レクソ・カウラシヴィリ）](/players/lekso-kaulashvili/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Lenny ALIFANETY](/players/lenny-alifanety/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Léo CHAUVIN](/players/leo-chauvin/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Liam BELCHER](/players/liam-belcher/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Lizo GQOBOKA](/players/lizo-gqoboka/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Marco JANSEN VAN VUREN](/players/marco-jansen-van-vuuren/)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入
+- [Marco VAN STADEN](/players/marco-van-staden/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Matéo SAINT-GERMAIN](/players/mateo-saint-germain/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Mathéo FRISACH（マテオ・フリザック）](/players/matheo-frisach/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Maxime LAMOTHE（マクシム・ラモット）](/players/maxime-lamothe/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Mehdi KOURDES](/players/mehdi-kourdes/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Mihlali MOSI](/players/mihlali-mosi/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Mornay SMITH](/players/morne-smith/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Muller UYS](/players/muller-uys/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Nathan THIBEAU](/players/nathan-thibeau/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Niall ANNETT](/players/nial-annett/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
+- [Nizaam CARR](/players/nizaam-carr/)が[レンスター・ラグビー](/teams/urc/leinster-rugby/)に加入
+- [Pablo DIMCHEFF](/players/pablo-dimcheff/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Phumzile MAQONDWANA](/players/phumzile-maqondwana/)が[レンスター・ラグビー](/teams/urc/leinster-rugby/)に加入
+- [Quinn ROUX](/players/quinn-roux/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
+- [Reinhardt LUDWIG](/players/reinhardt-ludwig/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Rhys BARRATT](/players/rhys-barratt/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Rhys CARRÉ](/players/rhys-carre/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Robert HUNT](/players/robert-hunt/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Rory THORNTON](/players/rory-thornton/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Ruan NORTJÉ](/players/ruan-nortje/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Ruan VERMAAK](/players/ruan-vermaak/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Ruben PARGADE](/players/ruben-pargade/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Scott KIRK](/players/scott-kirk/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
+- [Seb DAVIES](/players/seb-davies/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Seb LOMBARD](/players/seb-lombard/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Sidney TOBIAS](/players/sidney-tobias/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Simphiwe MATANZIMA](/players/simphiwe-matanzima/)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
+- [Sipili FALATEA（シピリ・ファラテア）](/players/sipili-falatea/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Theo BEVACQUA](/players/theo-bevacqua/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Tom DOUGHTY](/players/tom-doughty/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
+- [Tom DUNN](/players/tom-dunn/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
+- [Tom NOGUEIRA](/players/tom-nogueira/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Ugo BONIFACE（ウーゴ・ボニファス）](/players/ugo-boniface/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Vadim COBILAS](/players/vadim-cobilas/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Valery MOROZOV](/players/valery-morozov/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
+- [Will DAVIES-KING](/players/will-davies-king/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入
+- [Will SPENCER](/players/will-spencer/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
+- [Will STUART](/players/will-stuart/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
+- [WJ STEENKAMP](/players/wj-steenkamp/)が[レンスター・ラグビー](/teams/urc/leinster-rugby/)に加入
+- [Yahnis EL MASLOUHI](/players/yahnis-el-maslouhi/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Younès BEKHTI](/players/younes-bekhti/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
+- [Zaccharie AFFANE](/players/zaccharie-affane/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入

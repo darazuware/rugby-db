@@ -1796,12 +1796,6 @@
       "name_ja": "玉置 雄大",
       "team_id": null
     },
-    "univ_筑波大学__増山将": {
-      "id": "univ_筑波大学__増山将",
-      "name_en": null,
-      "name_ja": "増山 将",
-      "team_id": null
-    },
     "univ_専修大学__石倉俊二": {
       "id": "univ_専修大学__石倉俊二",
       "name_en": null,
@@ -1812,6 +1806,18 @@
       "id": "univ_東京大学__上瑛人",
       "name_en": null,
       "name_ja": "上 瑛人",
+      "team_id": null
+    },
+    "univ_専修大学__佐藤瑛斗": {
+      "id": "univ_専修大学__佐藤瑛斗",
+      "name_en": null,
+      "name_ja": "佐藤 瑛斗",
+      "team_id": null
+    },
+    "univ_東京大学__望月三稜": {
+      "id": "univ_東京大学__望月三稜",
+      "name_en": null,
+      "name_ja": "望月 三稜",
       "team_id": null
     }
   },

@@ -1,10 +1,358 @@
 {
   "league": "super-rugby",
-  "signings": [],
-  "transfers": [],
+  "signings": [
+    {
+      "id": "ar_adrian-choat",
+      "name_en": "Adrian CHOAT",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_akira-ioane",
+      "name_en": "Akira IOANE",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_alex-hodgman",
+      "name_en": "Alex HODGMAN",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_cameron-suafoa",
+      "name_en": "Cameron SUAFOA",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_connal-mcinerney",
+      "name_en": "Connal MCINERNEY",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_ed-kennedy",
+      "name_en": "Ed KENNEDY",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_fred-kaihea",
+      "name_en": "Fred KAIHEA",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_harry-plummer",
+      "name_en": "Harry PLUMMER",
+      "name_ja": null,
+      "team_id": "waratahs"
+    },
+    {
+      "id": "ar_harry-vella",
+      "name_en": "Harry VELLA",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_jack-wright",
+      "name_en": "Jack WRIGHT",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_james-lay",
+      "name_en": "James LAY",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_james-tucker",
+      "name_en": "James TUCKER",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_john-ulugia",
+      "name_en": "John ULUGIA",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_josh-fusitua",
+      "name_en": "Josh FUSITU'A",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_nepo-laulala",
+      "name_en": "Nepo LAULALA",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_ricky-riccitelli",
+      "name_en": "Ricky RICCITELLI",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_rob-rush",
+      "name_en": "Rob RUSH",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_sam-nock",
+      "name_en": "Sam NOCK",
+      "name_ja": null,
+      "team_id": "crusaders"
+    },
+    {
+      "id": "ar_taine-plumtree",
+      "name_en": "Taine PLUMTREE",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    },
+    {
+      "id": "ar_thomas-ross",
+      "name_en": "Tom ROSS",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_tom-robinson",
+      "name_en": "Tom ROBINSON",
+      "name_ja": null,
+      "team_id": "hurricanes"
+    }
+  ],
+  "transfers": [
+    {
+      "id": "ar_allan-alaalatoa",
+      "name_en": "Allan ALAALATOA",
+      "name_ja": null,
+      "from_team_id": "brumbies",
+      "to_team_id": "blues"
+    },
+    {
+      "id": "ar_anton-segner",
+      "name_en": "Anton SEGNER",
+      "name_ja": null,
+      "from_team_id": "blues",
+      "to_team_id": "hurricanes"
+    },
+    {
+      "id": "ar_billy-pollard",
+      "name_en": "Billy POLLARD",
+      "name_ja": null,
+      "from_team_id": "brumbies",
+      "to_team_id": "blues"
+    },
+    {
+      "id": "ar_blake-schoupp",
+      "name_en": "Blake SCHOUPP",
+      "name_ja": null,
+      "from_team_id": "brumbies",
+      "to_team_id": "blues"
+    },
+    {
+      "id": "ar_cadeyrn-neville",
+      "name_en": "Cadeyrn NEVILLE",
+      "name_ja": null,
+      "from_team_id": "brumbies",
+      "to_team_id": "blues"
+    },
+    {
+      "id": "ar_charlie-cale",
+      "name_en": "Charlie CALE",
+      "name_ja": null,
+      "from_team_id": "brumbies",
+      "to_team_id": "blues"
+    },
+    {
+      "id": "ar_dalton-papali-i",
+      "name_en": "Dalton PAPALI'I",
+      "name_ja": null,
+      "from_team_id": "blues",
+      "to_team_id": "hurricanes"
+    },
+    {
+      "id": "ar_darcy-swain",
+      "name_en": "Darcy SWAIN",
+      "name_ja": null,
+      "from_team_id": "western-force",
+      "to_team_id": "blues"
+    },
+    {
+      "id": "ar_finlay-christie",
+      "name_en": "Finlay CHRISTIE",
+      "name_ja": null,
+      "from_team_id": "blues",
+      "to_team_id": "hurricanes"
+    },
+    {
+      "id": "ar_hoskins-sotutu",
+      "name_en": "Hoskins SOTUTU",
+      "name_ja": null,
+      "from_team_id": "blues",
+      "to_team_id": "hurricanes"
+    },
+    {
+      "id": "ar_james-slipper",
+      "name_en": "James SLIPPER",
+      "name_ja": null,
+      "from_team_id": "brumbies",
+      "to_team_id": "blues"
+    },
+    {
+      "id": "ar_jordan-lay",
+      "name_en": "Jordan LAY",
+      "name_ja": null,
+      "from_team_id": "blues",
+      "to_team_id": "hurricanes"
+    },
+    {
+      "id": "ar_judah-qoro-saumaisue",
+      "name_en": "Judah Qoro SAUMAISUE",
+      "name_ja": null,
+      "from_team_id": "brumbies",
+      "to_team_id": "blues"
+    },
+    {
+      "id": "ar_kurt-eklund",
+      "name_en": "Kurt EKLUND",
+      "name_ja": null,
+      "from_team_id": "blues",
+      "to_team_id": "hurricanes"
+    },
+    {
+      "id": "ar_lachlan-lonergan",
+      "name_en": "Lachlan LONERGAN",
+      "name_ja": null,
+      "from_team_id": "brumbies",
+      "to_team_id": "blues"
+    },
+    {
+      "id": "ar_lachlan-shaw",
+      "name_en": "Lachie SHAW",
+      "name_ja": null,
+      "from_team_id": "brumbies",
+      "to_team_id": "blues"
+    },
+    {
+      "id": "ar_luke-reimer",
+      "name_en": "Luke REIMER",
+      "name_ja": null,
+      "from_team_id": "brumbies",
+      "to_team_id": "blues"
+    },
+    {
+      "id": "ar_marcel-renata",
+      "name_en": "Marcel RENATA",
+      "name_ja": null,
+      "from_team_id": "blues",
+      "to_team_id": "hurricanes"
+    },
+    {
+      "id": "ar_nick-frost",
+      "name_en": "Nick FROST",
+      "name_ja": null,
+      "from_team_id": "brumbies",
+      "to_team_id": "blues"
+    },
+    {
+      "id": "ar_ofa-tu-ungafasi",
+      "name_en": "Ofa TU'UNGAFASI",
+      "name_ja": null,
+      "from_team_id": "blues",
+      "to_team_id": "hurricanes"
+    },
+    {
+      "id": "ar_patrick-tuipulotu",
+      "name_en": "Patrick TUIPULOTU",
+      "name_ja": null,
+      "from_team_id": "blues",
+      "to_team_id": "hurricanes"
+    },
+    {
+      "id": "ar_pete-samu",
+      "name_en": "Pete SAMU",
+      "name_ja": null,
+      "from_team_id": "waratahs",
+      "to_team_id": "blues"
+    },
+    {
+      "id": "ar_rhys-van-nek",
+      "name_en": "Rhys VAN NEK",
+      "name_ja": null,
+      "from_team_id": "brumbies",
+      "to_team_id": "blues"
+    },
+    {
+      "id": "ar_rob-valetini",
+      "name_en": "Rob VALETINI",
+      "name_ja": null,
+      "from_team_id": "brumbies",
+      "to_team_id": "blues"
+    },
+    {
+      "id": "ar_sam-darry",
+      "name_en": "Sam DARRY",
+      "name_ja": null,
+      "from_team_id": "blues",
+      "to_team_id": "hurricanes"
+    },
+    {
+      "id": "ar_soane-vikena",
+      "name_en": "Soane VIKENA",
+      "name_ja": null,
+      "from_team_id": "highlanders",
+      "to_team_id": "hurricanes"
+    },
+    {
+      "id": "ar_sosefo-kautai",
+      "name_en": "Sefo KAUTAI",
+      "name_ja": null,
+      "from_team_id": "highlanders",
+      "to_team_id": "blues"
+    }
+  ],
   "departures": [],
   "first_caps": [],
   "caps_updates": [],
-  "pending_departures": [],
+  "pending_departures": [
+    {
+      "id": "ar_bradley-tocker",
+      "name_en": "Bradley TOCKER",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    {
+      "id": "ar_israel-leota",
+      "name_en": "Israel LEOTA",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_jackson-hughan",
+      "name_en": "Jackson HUGHAN",
+      "name_ja": null,
+      "team_id": "highlanders"
+    },
+    {
+      "id": "ar_richie-asiata",
+      "name_en": "Richie ASIATA",
+      "name_ja": null,
+      "team_id": "reds"
+    },
+    {
+      "id": "ar_sam-tuitupou-2005",
+      "name_en": "Sam TUITUPOU",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    }
+  ],
   "newly_finished_rounds": []
 }
