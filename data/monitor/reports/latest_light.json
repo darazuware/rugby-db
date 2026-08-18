@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-18T13:37:11+09:00",
+  "checked_at": "2026-08-18T15:36:03+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,26 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6108",
-          "title": "クラブ マツダスカイアクティブズ広島、2026-27シーズン スタッフ体制のお知らせ 2026.08.18",
-          "date": "2026-08-18",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6107",
-          "title": "クラブ 三菱重工相模原ダイナボアーズ、ルーク・ポーター選手加入のお知らせ 2026.08.18",
-          "date": "2026-08-18",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6106",
-          "title": "クラブ クボタスピアーズ船橋・東京ベイ、2026-27シーズン新体制のお知らせ 2026.08.17",
-          "date": "2026-08-17",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -38,7 +19,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54126",
+          "title": "男子セブンズ・デベロップメント・スコッド（SDS） 福岡合宿スケジュールと参加メンバーのお知らせ 2026.8.18 （火） 男子セブンズ日本代表 セブンズ SDS 男子セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド",
+          "date": "2026-08-18",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -54,18 +42,11 @@
   ],
   "highlights": [
     {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6106",
-      "title": "クラブ クボタスピアーズ船橋・東京ベイ、2026-27シーズン新体制のお知らせ 2026.08.17",
-      "date": "2026-08-17",
-      "category": "roster"
-    },
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6107",
-      "title": "クラブ 三菱重工相模原ダイナボアーズ、ルーク・ポーター選手加入のお知らせ 2026.08.18",
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54126",
+      "title": "男子セブンズ・デベロップメント・スコッド（SDS） 福岡合宿スケジュールと参加メンバーのお知らせ 2026.8.18 （火） 男子セブンズ日本代表 セブンズ SDS 男子セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド",
       "date": "2026-08-18",
-      "category": "roster"
+      "category": "squad"
     }
   ],
   "league_rename_news": [],
