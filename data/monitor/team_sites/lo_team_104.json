@@ -3,16 +3,26 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-08-16T20:12:06+09:00",
+  "checked_at": "2026-08-18T13:43:30+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "0dbfb258809ebac7"
+      "hash": "5d83c9d0f3203491"
     }
   ],
   "items": [
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4253/",
+      "title": "2026.8.17 チケット・ファンクラブ 【ファンクラブ】システムメンテナンス期間のご案内",
+      "date": "2026-08-17"
+    },
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4250/",
+      "title": "2026.8.17 チケット・ファンクラブ 【ファンクラブ】8/18(火)まで 「自動継続」設定の確認のお願い",
+      "date": "2026-08-17"
+    },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4241",
       "title": "【試合情報】プレシーズンマッチ実施のお知らせ 試合情報 2026.08.07",
@@ -44,19 +54,9 @@
       "date": "2026-08-04"
     },
     {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4250/",
-      "title": "2026.8.4 チケット・ファンクラブ 【ファンクラブ】8/18(火)まで 「自動継続」設定の確認のお願い",
-      "date": "2026-08-04"
-    },
-    {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4249/",
       "title": "2026.8.4 チケット・ファンクラブ 【ファンクラブ】2026-27シーズン ファンクラブ入会募集のご案内",
       "date": "2026-08-04"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4251/",
-      "title": "2026.8.3 夏季休業のお知らせ",
-      "date": "2026-08-03"
     },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4246/",

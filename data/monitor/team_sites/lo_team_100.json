@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-08-16T20:12:06+09:00",
+  "checked_at": "2026-08-18T13:43:30+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "4d008c9ec27c54e7"
+      "hash": "2fa87e4308ba269d"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "6790423474f06019"
+      "hash": "d2c900032adc8f13"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/team/index_2000.html",
+      "title": "チーム 2026.08.18 小西泰聖選手が母校・桐蔭学園ラグビー部の7人制ラグビーのコーチングサポートを実施しました",
+      "date": "2026-08-18"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2002.html",
+      "title": "イベント 2026.08.17 2026.8.1「浦安ラグビーFamily DAY 2026」に参加しました",
+      "date": "2026-08-17"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1999.html",
       "title": "イベント 2026.08.07 2026.8.1「ドコモ未来プロジェクト SUMMER FES」に参加しました",
@@ -54,7 +64,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1992.html",
-      "title": "イベント 2026.07.28 2026.7.25 公益財団法人うらやす財団主催「あつまれ！うんどう公園夏休みこどもスペシャルDAY」に参加しました",
+      "title": "2026.07.28 ニュース 2026.7.25 公益財団法人うらやす財団主催「あつまれ！うんどう公園夏休みこどもスペシャルDAY」に参加しました",
       "date": "2026-07-28"
     },
     {
@@ -69,7 +79,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1990.html",
-      "title": "イベント 2026.07.24 2026.8.7 第1回 浦安D-Rocks OB選手と語ろう「D-Link」イベント参加者募集のお知らせ",
+      "title": "2026.07.24 ニュース 2026.8.7 第1回 浦安D-Rocks OB選手と語ろう「D-Link」イベント参加者募集のお知らせ",
       "date": "2026-07-24"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/team/index_1960.html",
       "title": "2026.06.01 ニュース 代表取締役社長 髙橋英樹より2025-26シーズンを終えての御礼",
       "date": "2026-06-01"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_1958.html",
-      "title": "2026.05.28 ニュース 松本純弥選手 男子セブンズ・デベロップメント・スコッド（SDS） 別府合宿 参加メンバー選出のお知らせ",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_1959.html",
-      "title": "2026.05.28 ニュース 【メンバー発表】NTTジャパンラグビー リーグワン 2025-26 D1/D2入替戦 第2戦 清水建設江東ブルーシャークス戦（5月30日）",
-      "date": "2026-05-28"
     }
   ]
 }

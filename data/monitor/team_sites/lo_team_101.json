@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-08-16T20:12:06+09:00",
+  "checked_at": "2026-08-18T13:43:30+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "a893f530ddc1475e"
+      "hash": "d0275c18da935904"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "1f44d1ac3c31fb46"
+      "hash": "559148143c5cb617"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,16 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35071/",
+      "title": "2026/8/18 チーム 8月17日(月)新体制のもとで2026-27シーズンに向けて本格始動！",
+      "date": "2026-08-18"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35064/",
+      "title": "2026/8/18 チーム 8月17日(月) 新体制記者会見を行いました",
+      "date": "2026-08-18"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post34934/",
       "title": "2026/8/13 チーム 8月15日(土)「リポビタンDツアー2026」オーストラリア代表戦メンバー選出のお知らせ",
@@ -314,16 +324,6 @@
       "url": "https://www.kobesteelers.com/news/post29027/",
       "title": "2025/11/4 お知らせ 神戸を拠点とする各スポーツチームの紹介コーナーがJR三ノ宮駅南側エリアに設置されます",
       "date": "2025-11-04"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post28972/",
-      "title": "2025/10/28 お知らせ コベルコ神戸スティーラーズの応援コールについて",
-      "date": "2025-10-28"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post27698/",
-      "title": "2025/9/8 お知らせ 2025-26シーズンテーマ決定のお知らせ",
-      "date": "2025-09-08"
     }
   ]
 }

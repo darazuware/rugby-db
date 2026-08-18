@@ -3,24 +3,29 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-08-16T20:12:06+09:00",
+  "checked_at": "2026-08-18T13:43:30+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.canon-eagles.jp/",
-      "hash": "9160712622e8deda"
+      "hash": "a50449416feaa9b5"
     },
     {
       "url": "https://www.canon-eagles.jp/news/",
-      "hash": "51be98b5339930b8"
+      "hash": "e71d69d9fbb03060"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/2026.html",
-      "hash": "916bb702bbab186a"
+      "hash": "d53be8d9f96fa4cd"
     }
   ],
   "items": [
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20260813.html",
+      "title": "2026.08.13 TEAM リポビタンDツアー2026 オーストラリア代表戦に横浜キヤノンイーグルスの選手が選出されました",
+      "date": "2026-08-13"
+    },
     {
       "url": "https://www.canon-eagles.jp/news/info/20260807.html",
       "title": "2026.08.07 TEAM リポビタンDチャレンジカップ2026 オーストラリア代表戦に横浜キヤノンイーグルスの選手が選出されました",
@@ -84,11 +89,6 @@
     {
       "url": "https://www.canon-eagles.jp/news/info/20260701-3.html",
       "title": "2026.07.01 TEAM 2026-27シーズン ディビジョン編成・大会日程について",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/info/20260701-2.html",
-      "title": "2026.07.01 TEAM 2026-27シーズン 新入団選手のお知らせ",
       "date": "2026-07-01"
     }
   ]
