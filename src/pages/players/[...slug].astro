@@ -13,6 +13,7 @@ import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import JSONLD from "../../components/JSONLD.astro";
 import AdSenseUnit from "../../components/AdSenseUnit.astro";
 import AffiliateBanner from "../../components/AffiliateBanner.astro";
+import MagazineBanner from "../../components/MagazineBanner.astro";
 import PlayerAvatar from "../../components/PlayerAvatar.astro";
 import { getTeamSlug } from "../../utils/team_utils";
 import { kanjiVariants } from "../../utils/kanjiVariants";
@@ -558,6 +559,9 @@ const nameVariantsText = nameVariants.length
 
         <div class="my-8">
           <AffiliateBanner />
+        </div>
+        <div class="my-8">
+          <MagazineBanner />
         </div>
         <div class="my-8">
           <AdSenseUnit />

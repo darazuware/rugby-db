@@ -73,6 +73,29 @@ export function getAccommodationProviders(): AccommodationProvider[] {
     return Object.values(ACCOMMODATION_PROVIDERS);
 }
 
+export interface MagazineProvider {
+    id: string;
+    name: string;
+    /** キャンペーン等の訴求文言 */
+    campaign: string;
+    /** ASP経由の申込導線URL */
+    url: string;
+}
+
+// 雑誌読み放題サービス（P4-7想定）。楽天マガジンのキャンペーンURLはユーザー提供の実リンク。
+export const MAGAZINE_PROVIDERS: Record<string, MagazineProvider> = {
+    rakutenmagazine: {
+        id: "rakutenmagazine",
+        name: "楽天マガジン",
+        campaign: "今なら3ヶ月10円",
+        url: "https://magazine.rakuten.co.jp/cpn/260730/?scid=af_ls_TG_2608cpn&argument=vqhTTgFN&dmai=a6a6197b22d8da",
+    },
+};
+
+export function getMagazineProvider(id: string = "rakutenmagazine"): MagazineProvider {
+    return MAGAZINE_PROVIDERS[id];
+}
+
 export interface FlightProvider {
     id: string;
     name: string;

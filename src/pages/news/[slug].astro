@@ -2,6 +2,7 @@
 import Layout from "../../layouts/Layout.astro";
 import { getCollection, getEntry, type CollectionEntry } from "astro:content";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import MagazineBanner from "../../components/MagazineBanner.astro";
 
 export const prerender = true;
 
@@ -84,6 +85,10 @@ const formatDate = (date: Date) => {
           class="prose prose-lg dark:prose-invert max-w-none prose-headings:font-black prose-headings:text-foreground prose-a:text-yellow-400 hover:prose-a:text-yellow-500 transition-colors prose-table:w-full prose-th:bg-gray-800 prose-th:text-white prose-th:font-bold prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-700 prose-tr:border-b prose-tr:border-gray-700 prose-thead:border-b prose-thead:border-gray-600"
         >
           <Content />
+        </div>
+
+        <div class="mt-16">
+          <MagazineBanner />
         </div>
 
         <footer class="mt-16 pt-8 border-t border-border-dim text-center">

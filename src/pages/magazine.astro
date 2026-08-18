@@ -1,0 +1,31 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import MagazineBanner from "../components/MagazineBanner.astro";
+---
+
+<Layout
+	title="ラグビー雑誌を読む | RUGBY PICKS"
+	description="ラグビーマガジンなどラグビー関連誌が読み放題の楽天マガジン。今なら3ヶ月10円キャンペーン中。"
+>
+	<div class="py-4">
+		<Breadcrumbs items={[{ label: "雑誌で読む" }]} />
+
+		<h1 class="text-3xl md:text-4xl font-black tracking-tighter mb-8">
+			ラグビーを雑誌でもっと深く
+		</h1>
+
+		<div class="mb-10">
+			<MagazineBanner />
+		</div>
+
+		<div class="bg-card rounded-3xl p-8 md:p-12 border border-border-dim space-y-4 text-foreground/70 leading-relaxed">
+			<h2 class="text-xl font-black text-foreground">楽天マガジンで読める理由</h2>
+			<ul class="list-disc pl-5 space-y-2">
+				<li>国内外の試合レポート・戦術分析・選手インタビューを網羅する専門誌「ラグビーマガジン」を毎号閲覧可能</li>
+				<li>期間限定キャンペーンで3ヶ月10円から試し読みできる</li>
+				<li>スマホ・タブレットでいつでもバックナンバーを読める</li>
+			</ul>
+		</div>
+	</div>
+</Layout>
