@@ -3,7 +3,7 @@
     "id": "ar_akenzua-al-kareem-abdul-khalik",
     "name_en": "Akenzua Al-Kareem ABDUL-KHALIK",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "bristol"
   },
   {
     "id": "ar_alban-roussel",
@@ -15,7 +15,7 @@
     "id": "ar_alfie-barbeary",
     "name_en": "Alfie BARBEARY",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "bath"
   },
   {
     "id": "ar_amine-maalla",
@@ -33,25 +33,25 @@
     "id": "ar_archie-griffin",
     "name_en": "Archie GRIFFIN",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "bath"
   },
   {
     "id": "ar_archie-maggs",
     "name_en": "Archie MAGGS",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "exeter"
   },
   {
     "id": "ar_archie-stanley",
     "name_en": "Archie STANLEY",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "exeter"
   },
   {
     "id": "ar_arthur-cordwell",
     "name_en": "Arthur CORDWELL",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "exeter"
   },
   {
     "id": "ar_ben-tameifuna",
@@ -63,7 +63,7 @@
     "id": "ar_beno--obano-",
     "name_en": "Beno OBANO",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "bath"
   },
   {
     "id": "ar_chris-cloete",
@@ -93,19 +93,19 @@
     "id": "ar_d-arcy-rae",
     "name_en": "D'Arcy RAE",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "exeter"
   },
   {
     "id": "ar_dave-attwood",
     "name_en": "Dave ATTWOOD",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "exeter"
   },
   {
     "id": "ar_eddie-erskine",
     "name_en": "Eddie ERSKINE",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "exeter"
   },
   {
     "id": "ar_enzo-fernandes",
@@ -129,7 +129,7 @@
     "id": "ar_harvey-cuckson",
     "name_en": "Harvey CUCKSON",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "bath"
   },
   {
     "id": "ar_henri-caparroi",
@@ -147,13 +147,13 @@
     "id": "ar_jandre-marais",
     "name_en": "Jandré MARAIS",
     "name_ja": null,
-    "team_id": "saracens"
+    "team_id": "bristol"
   },
   {
     "id": "ar_jasper-spandler",
     "name_en": "Jasper SPANDLER",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "bath"
   },
   {
     "id": "ar_jefferson-poirot",
@@ -165,25 +165,25 @@
     "id": "ar_johannes-jonker",
     "name_en": "Johannes JONKER",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "exeter"
   },
   {
     "id": "ar_john-stewart",
     "name_en": "John STEWART",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "exeter"
   },
   {
     "id": "ar_josh-mcnally",
     "name_en": "Josh MCNALLY",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "exeter"
   },
   {
     "id": "ar_juan-schoeman",
     "name_en": "Juan SCHOEMAN",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "exeter"
   },
   {
     "id": "ar_jude-trarieux",
@@ -195,7 +195,7 @@
     "id": "ar_jules-dussutour",
     "name_en": "Jules DUSSUTOUR",
     "name_ja": null,
-    "team_id": "saracens"
+    "team_id": "harlequins"
   },
   {
     "id": "ar_kane-douglas",
@@ -207,7 +207,7 @@
     "id": "ar_kieran-verden",
     "name_en": "Kieran VERDEN",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "bath"
   },
   {
     "id": "ar_lekso-kaulashvili",
@@ -261,7 +261,7 @@
     "id": "ar_nial-annett",
     "name_en": "Niall ANNETT",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "exeter"
   },
   {
     "id": "ar_pablo-dimcheff",
@@ -279,7 +279,7 @@
     "id": "ar_quinn-roux",
     "name_en": "Quinn ROUX",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "bath"
   },
   {
     "id": "ar_ruben-pargade",
@@ -291,7 +291,7 @@
     "id": "ar_scott-kirk",
     "name_en": "Scott KIRK",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "bath"
   },
   {
     "id": "ar_sipili-falatea",
@@ -309,13 +309,13 @@
     "id": "ar_tom-doughty",
     "name_en": "Tom DOUGHTY",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "exeter"
   },
   {
     "id": "ar_tom-dunn",
     "name_en": "Tom DUNN",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "bath"
   },
   {
     "id": "ar_tom-nogueira",
@@ -339,19 +339,19 @@
     "id": "ar_valery-morozov",
     "name_en": "Valery MOROZOV",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "exeter"
   },
   {
     "id": "ar_will-spencer",
     "name_en": "Will SPENCER",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "exeter"
   },
   {
     "id": "ar_will-stuart",
     "name_en": "Will STUART",
     "name_ja": null,
-    "team_id": "northampton"
+    "team_id": "bath"
   },
   {
     "id": "ar_yahnis-el-maslouhi",

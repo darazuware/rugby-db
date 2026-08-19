@@ -1,9 +1,9 @@
 ---
 title: "スーパーラグビー週間加入まとめ（2026-W34）"
-pubDate: 2026-08-18
+pubDate: 2026-08-19
 category: "NEWS"
 tags: ["スーパーラグビー", "加入"]
-source_diff: "2026-08-18_super-rugby.json"
+source_diff: "2026-08-19_super-rugby.json"
 draft: false
 ---
 
@@ -49,7 +49,7 @@ draft: false
 - [Rob RUSH](/players/rob-rush/)がhurricanesに加入
 - [Rob VALETINI](/players/rob-valetini/)がbluesに加入
 - [Sam DARRY](/players/sam-darry/)がhurricanesに加入
-- [Sam NOCK](/players/sam-nock/)がcrusadersに加入
+- [Sam NOCK](/players/sam-nock/)がchiefsに加入
 - [Soane VIKENA](/players/soane-vikena/)がhurricanesに加入
 - [Sefo KAUTAI](/players/sosefo-kautai/)がbluesに加入
 - [Taine PLUMTREE](/players/taine-plumtree/)がhurricanesに加入

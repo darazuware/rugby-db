@@ -7,4 +7,8 @@ source_diff: "2026-08-19_national.json"
 draft: false
 ---
 
+- [Kazuma UEDA](/players/kazuma-ueda/): Japan代表7→10キャップ
 - [Makeen ALIKHAN](/players/makeen-alikhan/): Usa代表11→12キャップ
+- [Sam WYE](/players/sam-wye/): Fiji代表7→10キャップ
+- [Shuhei TAKEUCHI](/players/shuhei-takeuchi/): Japan代表21→41キャップ
+- [Tuna TUITAMA](/players/tuna-tuitama-/): Samoa代表13→17キャップ

@@ -1,8 +1,8 @@
 {
   "top14": {
-    "run_at": "2026-08-18T09:53:47+09:00",
+    "run_at": "2026-08-19T09:53:53+09:00",
     "counts": {
-      "players": 1309,
+      "players": 1182,
       "teams": 14
     },
     "warnings": [
@@ -23,7 +23,7 @@
     ]
   },
   "super-rugby": {
-    "run_at": "2026-08-18T09:53:47+09:00",
+    "run_at": "2026-08-19T09:53:53+09:00",
     "counts": {
       "players": 468,
       "teams": 11
@@ -31,7 +31,7 @@
     "warnings": []
   },
   "league-one-d1": {
-    "run_at": "2026-08-18T09:53:47+09:00",
+    "run_at": "2026-08-19T09:53:53+09:00",
     "counts": {
       "players": 733,
       "teams": 12
@@ -41,7 +41,7 @@
     ]
   },
   "national": {
-    "run_at": "2026-08-18T09:53:47+09:00",
+    "run_at": "2026-08-19T09:53:53+09:00",
     "counts": {
       "players": 1195,
       "teams": 0
@@ -79,7 +79,7 @@
     ]
   },
   "sevens-national": {
-    "run_at": "2026-08-18T09:53:47+09:00",
+    "run_at": "2026-08-19T09:53:53+09:00",
     "counts": {
       "players": 28,
       "teams": 0
@@ -90,7 +90,7 @@
     ]
   },
   "age-grade": {
-    "run_at": "2026-08-18T09:53:47+09:00",
+    "run_at": "2026-08-19T09:53:53+09:00",
     "counts": {
       "players": 113,
       "teams": 0
@@ -101,14 +101,13 @@
     ]
   },
   "university": {
-    "run_at": "2026-08-18T09:53:47+09:00",
+    "run_at": "2026-08-19T09:53:53+09:00",
     "counts": {
-      "players": 1192,
+      "players": 1199,
       "teams": 0
     },
     "warnings": [
       "university 立教大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 明治学院大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 成城大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 一橋大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 学習院大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
@@ -135,7 +134,7 @@
     ]
   },
   "highschool": {
-    "run_at": "2026-08-18T09:53:47+09:00",
+    "run_at": "2026-08-19T09:53:53+09:00",
     "counts": {
       "players": 390,
       "teams": 0
@@ -165,25 +164,52 @@
     ]
   },
   "urc": {
-    "run_at": "2026-08-18T09:53:47+09:00",
+    "run_at": "2026-08-19T09:53:53+09:00",
     "counts": {
       "players": 1039,
       "teams": 16
     },
     "warnings": [
-      "league-one-d3: 出身校20件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['FaserCoastAnglican', 'SaintGeorge’sChurchofEnglandSchool', 'ケルビンサイドアカデミー']）"
+      "league-one-d3: 出身校20件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['FaserCoastAnglican', 'SaintGeorge’sChurchofEnglandSchool', 'ケルビンサイドアカデミー']）",
+      "urc standings: team=bulls の数値欠落のため行を除外",
+      "urc standings: team=cardiff の数値欠落のため行を除外",
+      "urc standings: team=connacht の数値欠落のため行を除外",
+      "urc standings: team=dragons の数値欠落のため行を除外",
+      "urc standings: team=edinburgh の数値欠落のため行を除外",
+      "urc standings: team=glasgow の数値欠落のため行を除外",
+      "urc standings: team=leinster の数値欠落のため行を除外",
+      "urc standings: team=lions の数値欠落のため行を除外",
+      "urc standings: team=munster の数値欠落のため行を除外",
+      "urc standings: team=ospreys の数値欠落のため行を除外",
+      "urc standings: team=scarlets の数値欠落のため行を除外",
+      "urc standings: team=sharks の数値欠落のため行を除外",
+      "urc standings: team=stormers の数値欠落のため行を除外",
+      "urc standings: team=benetton の数値欠落のため行を除外",
+      "urc standings: team=ulster の数値欠落のため行を除外",
+      "urc standings: team=zebre の数値欠落のため行を除外"
     ]
   },
   "premiership": {
-    "run_at": "2026-08-18T09:53:47+09:00",
+    "run_at": "2026-08-19T09:53:53+09:00",
     "counts": {
       "players": 683,
       "teams": 10
     },
-    "warnings": []
+    "warnings": [
+      "premiership standings: team=bath の数値欠落のため行を除外",
+      "premiership standings: team=bristol の数値欠落のため行を除外",
+      "premiership standings: team=exeter の数値欠落のため行を除外",
+      "premiership standings: team=gloucester の数値欠落のため行を除外",
+      "premiership standings: team=harlequins の数値欠落のため行を除外",
+      "premiership standings: team=leicester の数値欠落のため行を除外",
+      "premiership standings: team=newcastle の数値欠落のため行を除外",
+      "premiership standings: team=northampton の数値欠落のため行を除外",
+      "premiership standings: team=sale の数値欠落のため行を除外",
+      "premiership standings: team=saracens の数値欠落のため行を除外"
+    ]
   },
   "league-one-d2": {
-    "run_at": "2026-08-18T09:53:47+09:00",
+    "run_at": "2026-08-19T09:53:53+09:00",
     "counts": {
       "players": 439,
       "teams": 8
@@ -193,7 +219,7 @@
     ]
   },
   "league-one-d3": {
-    "run_at": "2026-08-18T09:53:47+09:00",
+    "run_at": "2026-08-19T09:53:53+09:00",
     "counts": {
       "players": 337,
       "teams": 6
@@ -203,7 +229,7 @@
     ]
   },
   "mlr": {
-    "run_at": "2026-08-18T09:53:47+09:00",
+    "run_at": "2026-08-19T09:53:53+09:00",
     "counts": {
       "players": 211,
       "teams": 6
