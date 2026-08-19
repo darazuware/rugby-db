@@ -4,72 +4,8 @@
   "transfers": [],
   "departures": [],
   "first_caps": [],
-  "caps_updates": [
-    {
-      "id": "ar_kazuma-ueda",
-      "name_en": "Kazuma UEDA",
-      "name_ja": null,
-      "team": "Japan",
-      "from_count": 7,
-      "to_count": 10
-    },
-    {
-      "id": "ar_sam-wye",
-      "name_en": "Sam WYE",
-      "name_ja": null,
-      "team": "Fiji",
-      "from_count": 7,
-      "to_count": 10
-    },
-    {
-      "id": "ar_shuhei-takeuchi",
-      "name_en": "Shuhei TAKEUCHI",
-      "name_ja": null,
-      "team": "Japan",
-      "from_count": 21,
-      "to_count": 41
-    },
-    {
-      "id": "ar_tuna-tuitama-",
-      "name_en": "Tuna TUITAMA",
-      "name_ja": null,
-      "team": "Samoa",
-      "from_count": 13,
-      "to_count": 17
-    }
-  ],
-  "pending_departures": [
-    {
-      "id": "jrfu_national_510411",
-      "name_en": "Inoke BURUA",
-      "name_ja": "イノケ・ブルア",
-      "team_id": "japan"
-    },
-    {
-      "id": "jrfu_national_510424",
-      "name_en": "Shota TAIRA",
-      "name_ja": "平翔太",
-      "team_id": "japan"
-    },
-    {
-      "id": "jrfu_national_510431",
-      "name_en": "Kanato HIRANO",
-      "name_ja": "平野叶翔",
-      "team_id": "japan"
-    },
-    {
-      "id": "jrfu_national_510438",
-      "name_en": "Haruto WATANABE",
-      "name_ja": "渡邊晴斗",
-      "team_id": "japan"
-    },
-    {
-      "id": "jrfu_national_510441",
-      "name_en": "Haruto KIDA",
-      "name_ja": "木田晴斗",
-      "team_id": "japan"
-    }
-  ],
+  "caps_updates": [],
+  "pending_departures": [],
   "newly_finished_rounds": [],
   "call_ups": []
 }
