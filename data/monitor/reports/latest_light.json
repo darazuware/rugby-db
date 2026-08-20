@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-18T19:23:32+09:00",
+  "checked_at": "2026-08-20T12:17:02+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6109",
+          "title": "クラブ レッドハリケーンズ大阪、リーグワン初 小中高生向け「レフリーアカデミー」を開講 2026.08.20",
+          "date": "2026-08-20",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,7 +26,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54130",
+          "title": "女子セブンズ・デベロップメント・スコッド（SDS） 熊谷合宿スケジュールと参加メンバーのお知らせ 2026.8.19 （水） 女子セブンズ日本代表 女子 セブンズ SDS セブンズ・デベロップメント・スコッド",
+          "date": "2026-08-19",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54129",
+          "title": "アジアラグビーの声明（7/17付）に対する会長コメントのお知らせ 2026.8.19 （水） 日本協会",
+          "date": "2026-08-19",
+          "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54114",
+          "title": "（8/19更新）第34回 日・韓・中ジュニア交流競技会 U17日本代表メンバーおよび直前合宿のお知らせ 2026.8.19 （水） U17日本代表",
+          "date": "2026-08-19",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +59,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54130",
+      "title": "女子セブンズ・デベロップメント・スコッド（SDS） 熊谷合宿スケジュールと参加メンバーのお知らせ 2026.8.19 （水） 女子セブンズ日本代表 女子 セブンズ SDS セブンズ・デベロップメント・スコッド",
+      "date": "2026-08-19",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54114",
+      "title": "（8/19更新）第34回 日・韓・中ジュニア交流競技会 U17日本代表メンバーおよび直前合宿のお知らせ 2026.8.19 （水） U17日本代表",
+      "date": "2026-08-19",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
