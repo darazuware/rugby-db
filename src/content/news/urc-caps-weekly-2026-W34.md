@@ -1,9 +1,9 @@
 ---
 title: "URC週間代表キャップ更新まとめ（2026-W34）"
-pubDate: 2026-08-21
+pubDate: 2026-08-22
 category: "NEWS"
 tags: ["URC", "キャップ更新"]
-source_diff: "2026-08-21_urc.json"
+source_diff: "2026-08-22_urc.json"
 draft: false
 ---
 
