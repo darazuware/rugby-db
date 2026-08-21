@@ -3,33 +3,63 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-08-18T13:43:30+09:00",
+  "checked_at": "2026-08-21T13:47:31+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "7cd9ed3fd181eba2"
+      "hash": "63b330e37388d756"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "1a1b766503dddff0"
+      "hash": "32ec0d06fe06b66a"
     }
   ],
   "items": [
     {
+      "url": "https://hanazono-liners.jp/2026/08/20/report-miyashita-3/",
+      "title": "2026.08.20 チーム情報 オーストラリア留学レポート 宮下 大輝 選手編",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/08/20/liners-fanclub2026-27/",
+      "title": "2026.08.20 ファンクラブ イベント 【LINERS FANCLUB】2026-27 SEASON 早期入会キャンペーン実施のお知らせ",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/08/20/liners-fanclub2026-27-2/",
+      "title": "2026.08.20 ファンクラブ イベント 【LINERS FANCLUB】2026-27 SEASON 自動継続登録キャンペーン実施のお知らせ",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/08/20/liners-fanclub2026-27-0/",
+      "title": "2026.08.20 ファンクラブ イベント 【LINERS FANCLUB】2026-27 SEASON ファンクラブ詳細",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/08/19/report-ekawa-2/",
+      "title": "2026.08.19 チーム情報 オーストラリア留学レポート 江川 剛人選手編",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/08/18/news-callcenter/",
+      "title": "2026.08.18 その他 【お知らせ】ファンクラブ・チケットに関するお問い合わせ窓口変更について",
+      "date": "2026-08-18"
+    },
+    {
       "url": "https://hanazono-liners.jp/2026/08/07/news-preseasonmatch/",
-      "title": "2026.08.07 試合関連 花園近鉄ライナーズ 2026-27シーズン プレシーズンマッチのお知らせ",
+      "title": "2026-08-07 試合関連 花園近鉄ライナーズ 2026-27シーズン プレシーズンマッチのお知らせ",
       "date": "2026-08-07"
     },
     {
       "url": "https://hanazono-liners.jp/2026/08/06/news-2026-27carding/",
-      "title": "2026.08.06 試合関連 NTTジャパンラグビー リーグワン2026-27 試合日程決定のお知らせ",
+      "title": "2026-08-06 試合関連 NTTジャパンラグビー リーグワン2026-27 試合日程決定のお知らせ",
       "date": "2026-08-06"
     },
     {
       "url": "https://hanazono-liners.jp/2026/08/04/itemae/",
-      "title": "2026.08.04 活動報告書 その他 【番組 オフもいてまえ！花園近鉄ライナーズ（2回目・8/1放送）】",
+      "title": "2026-08-04 活動報告書 その他 【番組 オフもいてまえ！花園近鉄ライナーズ（2回目・8/1放送）】",
       "date": "2026-08-04"
     },
     {
@@ -44,7 +74,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/07/30/report-ekawa/",
-      "title": "2026.07.30 チーム情報 オーストラリア留学レポート 江川 剛人選手編",
+      "title": "2026-07-30 チーム情報 オーストラリア留学レポート 江川 剛人選手編",
       "date": "2026-07-30"
     },
     {
@@ -58,34 +88,9 @@
       "date": "2026-07-29"
     },
     {
-      "url": "https://hanazono-liners.jp/2026/07/23/sone-report/",
-      "title": "2026-07-23 チーム情報 ニュージーランド留学レポート 曽根 隆慎選手編",
-      "date": "2026-07-23"
-    },
-    {
       "url": "https://hanazono-liners.jp/2026/07/23/inoue-report/",
       "title": "2026-07-23 チーム情報 ニュージーランド留学レポート 井上 優士選手編",
       "date": "2026-07-23"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/07/21/event-kawachihananobon/",
-      "title": "2026-07-21 イベント 7/25 花園本町商店街で開催の「かわち花の盆」に参加します",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/07/16/report-miyashita2/",
-      "title": "2026-07-16 チーム情報 オーストラリア留学レポート 宮下 大輝 選手編",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/07/15/report-ekawa2/",
-      "title": "2026-07-15 チーム情報 オーストラリア留学レポート 江川 剛人選手編",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/07/13/news-newmember/",
-      "title": "2026-07-13 チーム情報 2026-27シーズン新加入選手およびスタッフのお知らせ",
-      "date": "2026-07-13"
     },
     {
       "url": "https://hanazono-liners.jp/2026/07/10/event-volleyball/",
@@ -146,21 +151,6 @@
       "url": "https://hanazono-liners.jp/2026/04/24/25-26fankansyasai-detail/",
       "title": "2026.04.24 ファンクラブ イベント 【ファンクラブ会員限定】ファン感謝祭詳細と参加登録方法のご案内",
       "date": "2026-04-24"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/04/23/4-25-bluesharks-match-members-and-match-details/",
-      "title": "2026.04.23 試合関連 チーム情報 【4/25清水建設江東ブルーシャークス戦】メンバーおよび試合詳細のご案内",
-      "date": "2026-04-23"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/04/22/oshiuchiwa-2025-26/",
-      "title": "2026.04.22 ファンクラブ グッズ 【ご好評につき販売決定！】ジャンボ推しうちわ グッズ販売のお知らせ",
-      "date": "2026-04-22"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/04/16/20260404_mensday_report/",
-      "title": "2026.04.16 ファンクラブ イベント 【開催レポート】4/4(土) 《LINERS FAN CLUB MENS DAY》",
-      "date": "2026-04-16"
     }
   ]
 }

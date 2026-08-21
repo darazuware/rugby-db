@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-08-18T13:43:30+09:00",
+  "checked_at": "2026-08-21T13:47:31+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "d18e709ece1be3f1"
+      "hash": "16bf1fa769c57067"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "b876149548c71c25"
+      "hash": "069f79902cdb00aa"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2608-1030.html",
+      "title": "2026年 8月21日 #1030 ハリー ホッキングス 『友情を育む』",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/819.html",
+      "title": "2026年 8月19日 Day819 『東京サンゴリアス・アカデミー 夏合宿レポート♪』",
+      "date": "2026-08-19"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2608-1029.html",
       "title": "2026年 8月14日 #1029 箸本 龍雅 『自分のカラーを濃くしていく』",
@@ -56,16 +66,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2526nsa.html",
       "title": "2026年 7月24日 新スタッフ就任のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27シーズンよりチー…",
       "date": "2026-07-24"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/818.html",
-      "title": "2026年 7月22日 Day818 『第52回三田納涼カーニバル♪』",
-      "date": "2026-07-22"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2607-1025.html",
-      "title": "2026年 7月17日 #1025 中村 亮土 『出られない時期やくすぶっている時期を大事に、自分の準備をしていく』",
-      "date": "2026-07-17"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/26nacr.html",

@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-08-18T13:43:30+09:00",
+  "checked_at": "2026-08-21T13:47:31+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "a2b96300f25b3e83"
+      "hash": "b5257ee443cc587c"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "b2091137a699bad0"
+      "hash": "2a0eb60fd750b5e3"
     }
   ],
   "items": [
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8815",
+      "title": "お知らせ 2026年8月19日 【リリース】リーグワン初※ 小中高生向け「レフリーアカデミー」を開講",
+      "date": "2026-08-19"
+    },
     {
       "url": "https://docomo-rugby.jp/game/",
       "title": "お知らせ 2026年8月7日 2026プレシーズンマッチスケジュールのお知らせ",
@@ -215,11 +220,6 @@
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8582",
       "title": "お知らせ 2026年4月30日 【リリース】2025-26シーズン 新加入選手（追加）のお知らせ",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8566",
-      "title": "お知らせ 2026年4月30日 【リリース】退団選手のお知らせ",
       "date": "2026-04-30"
     },
     {

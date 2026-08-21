@@ -3,28 +3,53 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-08-18T13:43:30+09:00",
+  "checked_at": "2026-08-21T13:47:31+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "d0275c18da935904"
+      "hash": "548f205cc39a9b8e"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "559148143c5cb617"
+      "hash": "80d53fddb90e777d"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "58ee11f2517b6e8a"
+      "hash": "3acbf8b8135803b4"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "3056cefe1109cb63"
+      "hash": "81e4756323b207a8"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35100/",
+      "title": "2026/8/21 イベント 【レポート】神戸三宮センター街1丁目で神戸4チームの優勝トロフィー・シャーレが展示されました",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35086/",
+      "title": "メディア 8月23日(日) 「DaiwaHouseスペシャル このまちのために ～神戸ラグビー 優勝とレガシー～」特番放送のお知らせ 2026/8/20",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35082/",
+      "title": "2026/8/20 イベント 【レポート】「生田神社 大海夏祭2026」にてラグビー体験を実施しました",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35078/",
+      "title": "2026/8/20 イベント 【レポート】「第16回UNIVER祭」にてラグビー体験を実施しました",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35060/",
+      "title": "2026/8/19 イベント 【レポート】ひょうごスポーツコミッションが開催した「マルチスポーツ体験イベント」に参加しました",
+      "date": "2026-08-19"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35071/",
       "title": "2026/8/18 チーム 8月17日(月)新体制のもとで2026-27シーズンに向けて本格始動！",
@@ -127,7 +152,7 @@
     },
     {
       "url": "https://www.kobesteelers.com/news/post34906/",
-      "title": "2026/7/24 イベント 【イベントレポート】商店街の皆さまへ優勝報告と感謝のお礼訪問を実施しました",
+      "title": "2026/7/24 イベント 【レポート】商店街の皆さまへ優勝報告と感謝のお礼訪問を実施しました",
       "date": "2026-07-24"
     },
     {
@@ -151,16 +176,6 @@
       "date": "2026-07-21"
     },
     {
-      "url": "https://www.kobesteelers.com/interview/post34885/",
-      "title": "2026/7/21 チーム 【Road to RWC2027】「ネーションズチャンピオンシップ2026」日本代表 vsフランス代表レポート",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34882/",
-      "title": "2026/7/20 チーム 中嶋 大希選手 ワイカト・ラグビー(NZ)への派遣について",
-      "date": "2026-07-20"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post34863/",
       "title": "2026/7/17 普及 【レポート】タッチラグビー加古川大会に参加しました",
       "date": "2026-07-17"
@@ -179,16 +194,6 @@
       "url": "https://www.kobesteelers.com/news/post34836/",
       "title": "2026/7/17 普及 【レポート】7月11日(土)・12日(日) 日特スパークテックWKSラグビー部と地元高校・スクールへラグビー指導を実施しました",
       "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.kobesteelers.com/interview/post34845/",
-      "title": "2026/7/17 チーム 2025-26シーズン 退団選手インタビュー Part.10 FL前田 剛選手",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34830/",
-      "title": "2026/7/14 イベント 7月18日(土)KOBE BEER SOCIALにてラグビー体験を実施します",
-      "date": "2026-07-14"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34744/",
@@ -234,11 +239,6 @@
       "url": "https://www.kobesteelers.com/news/post34537/",
       "title": "2026/6/26 普及 【レポート】第29回四国中央市ラグビースクール祭に参加しました",
       "date": "2026-06-26"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34561/",
-      "title": "2026/6/25 普及 【開催中止】6月28日(日)「小学生ラグビー体験教室」",
-      "date": "2026-06-25"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34205/",

@@ -3,24 +3,34 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-08-18T13:43:30+09:00",
+  "checked_at": "2026-08-21T13:47:31+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "2c09b901046c8cb7"
+      "hash": "e252b8ac792d771b"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "7b9261f7a1f15171"
+      "hash": "afa0085f6968ee7a"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "2d1462b5baafaee1"
+      "hash": "18c1847f326e22ee"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0818-01/",
+      "title": "TEAM 株式会社WRS JAPAN（BLK）とオフィシャルサプライヤー契約締結のお知らせ 2026.08.18",
+      "date": "2026-08-18"
+    },
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0807-01/",
+      "title": "TEAM 2026-27シーズンの新体制および新加入選手のお知らせ 2026.08.07",
+      "date": "2026-08-07"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0710-01/",
       "title": "EVENT 「グリウォリ祭り」8月8日（土）開催！ 2026.07.28",

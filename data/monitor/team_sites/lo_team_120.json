@@ -3,32 +3,37 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-08-18T13:43:30+09:00",
+  "checked_at": "2026-08-21T13:47:31+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "2b200cc92ba856ff"
+      "hash": "c8e96705a8dcc54d"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "6f04108be8a48ec1"
+      "hash": "6e07c5f428141cf7"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
-      "hash": "20cf885dbd4d0098"
+      "hash": "67b60b8f71f4a210"
     },
     {
       "url": "https://www.skyactivs.com/news/2035",
-      "hash": "25b392df9c06e991"
+      "hash": "8372384bb39701d2"
     },
     {
       "url": "https://www.skyactivs.com/news/2001",
-      "hash": "a66ee572b3f70dc6"
+      "hash": "5928b7e43d28e56a"
     }
   ],
   "items": [
+    {
+      "url": "https://www.skyactivs.com/news/4636",
+      "title": "2026.08.18[TUE] TEAM 2026-27シーズン スタッフ体制のお知らせ",
+      "date": "2026-08-18"
+    },
     {
       "url": "https://www.skyactivs.com/news/4558",
       "title": "2026.08.09[SUN] ACTIVITY トラスポ！ひろしまに参加しました",
@@ -223,11 +228,6 @@
       "url": "https://www.skyactivs.com/news/3852",
       "title": "2026.04.13[MON] TEAM 2025-26シーズン新加入選手のお知らせ",
       "date": "2026-04-13"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/3845",
-      "title": "2026.04.09[THU] GAME 【メンバー発表】vsヤクルトレビンズ戸田",
-      "date": "2026-04-09"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",

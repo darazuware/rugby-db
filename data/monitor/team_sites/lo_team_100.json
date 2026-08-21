@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-08-18T13:43:30+09:00",
+  "checked_at": "2026-08-21T13:47:31+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "2fa87e4308ba269d"
+      "hash": "cedc9a13dbd5860f"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "d2c900032adc8f13"
+      "hash": "31a084ba7923d128"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/fanclub/index_1993.html",
+      "title": "ファンクラブ 2026.08.20 【8.20 議事録追記】2026.7.26「D-Rockers ミーティング 2025-26」を開催しました",
+      "date": "2026-08-20"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2000.html",
       "title": "チーム 2026.08.18 小西泰聖選手が母校・桐蔭学園ラグビー部の7人制ラグビーのコーチングサポートを実施しました",
@@ -55,11 +60,6 @@
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_1994.html",
       "title": "ファンクラブ 2026.07.30 2026.7.26プラチナ会員限定イベント「シーズンエンドパーティ 2025-26」を開催しました",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/fanclub/index_1993.html",
-      "title": "ファンクラブ 2026.07.30 2026.7.26「D-Rockers ミーティング 2025-26」を開催しました",
       "date": "2026-07-30"
     },
     {

@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-08-18T13:43:30+09:00",
+  "checked_at": "2026-08-21T13:47:31+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "f985f0cd00ff5c49"
+      "hash": "71c7ad325924e16a"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "9bfae6f10cdb5724"
+      "hash": "2fffc6231725eace"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/989",
+      "title": "お知らせ 2026年08月20日 NEW 「ジャパンラグビー リーグワン ライジング 2026」開催決定のお知らせ(8/20更新)",
+      "date": "2026-08-20"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/1001",
       "title": "お知らせ 2026年08月08日 サイモニ・ヴニランギ選手の逝去について",
@@ -41,11 +46,6 @@
       "url": "https://www.kyudenvoltex.com/news/997",
       "title": "地域・社会貢献 2026年07月25日 都城ラグビークリニックを開催しました",
       "date": "2026-07-25"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/989",
-      "title": "お知らせ 2026年07月07日 「ジャパンラグビー リーグワン ライジング 2026」開催決定のお知らせ",
-      "date": "2026-07-07"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/995",

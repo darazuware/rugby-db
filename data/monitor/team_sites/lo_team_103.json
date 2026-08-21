@@ -3,28 +3,33 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-08-18T13:43:30+09:00",
+  "checked_at": "2026-08-21T13:47:31+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "dff0b7ac3032e98e"
+      "hash": "adfade08084c4e82"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "10789405d59eb477"
+      "hash": "40e61008ad4e313a"
     }
   ],
   "items": [
     {
-      "url": "https://www.bravelupus.com/news/all_story/",
-      "title": "【連載企画】東芝ブレイブルーパス東京「物語り」（Vol.203更新）",
-      "date": "2026-08-17"
+      "url": "https://www.bravelupus.com/news/260820/",
+      "title": "BL東京グッズ１0～50％OFF販売のお知らせ",
+      "date": "2026-08-20"
     },
     {
       "url": "https://www.bravelupus.com/news/",
       "title": "記事一覧",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/all_story/",
+      "title": "【連載企画】東芝ブレイブルーパス東京「物語り」（Vol.203更新）",
       "date": "2026-08-17"
     },
     {
@@ -221,11 +226,6 @@
       "url": "https://www.bravelupus.com/news/20260424/",
       "title": "グッズ会場受取りサービスのお知らせ",
       "date": "2026-04-24"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260423/",
-      "title": "東芝ブレイブルーパス東京2025-26シーズン退団選手のお知らせ",
-      "date": "2026-04-23"
     }
   ]
 }

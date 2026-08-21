@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-08-18T13:43:30+09:00",
+  "checked_at": "2026-08-21T13:47:31+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "0fd75e024746a5ec"
+      "hash": "ce81c8f4a7a3d734"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "f91e28b2dfda76cb"
+      "hash": "2a3b8e6ee30b1c2f"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "629e3d8ac5c26e52"
+      "hash": "e1bd3b21a164e152"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/31656/",
+      "title": "お知らせ 2026.8.20 「ジャパンラグビー リーグワン ライジング 2026」開催のお知らせ",
+      "date": "2026-08-20"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/info/32048/",
       "title": "お知らせ 2026.8.7 2026プレシーズンマッチのお知らせ",
@@ -43,7 +48,7 @@
     },
     {
       "url": "https://kamaishi-seawaves.com/news/game/31780/",
-      "title": "試合情報 2026.8.4 2026プレシーズンマッチ 第1戦／AZ-COM丸和MOMOTARO’S戦",
+      "title": "試合情報 2026.8.4 2026プレシーズンマッチ 第1戦／丸和MOMOTARO’S成田戦",
       "date": "2026-08-04"
     },
     {
@@ -70,11 +75,6 @@
       "url": "https://kamaishi-seawaves.com/news/society/31675/",
       "title": "普及・社会貢献 2026.7.15 5・6月普及活動レポート",
       "date": "2026-07-15"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/31656/",
-      "title": "お知らせ 2026.7.7 「ジャパンラグビー リーグワン ライジング 2026」開催決定のお知らせ",
-      "date": "2026-07-07"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/31635/",

@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-08-18T13:43:30+09:00",
+  "checked_at": "2026-08-21T13:47:31+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.canon-eagles.jp/",
-      "hash": "a50449416feaa9b5"
+      "hash": "54be0c5c1446ac03"
     },
     {
       "url": "https://www.canon-eagles.jp/news/",
-      "hash": "e71d69d9fbb03060"
+      "hash": "4c19a5c21637c0a3"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/2026.html",
@@ -21,6 +21,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.canon-eagles.jp/academy/class/monthly_rugby.html",
+      "title": "2026.08.18 ACADEMY 横浜キヤノンイーグルス×新横浜公園 ラグビー教室（9月12日）",
+      "date": "2026-08-18"
+    },
     {
       "url": "https://www.canon-eagles.jp/news/info/20260813.html",
       "title": "2026.08.13 TEAM リポビタンDツアー2026 オーストラリア代表戦に横浜キヤノンイーグルスの選手が選出されました",

@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-08-18T13:43:30+09:00",
+  "checked_at": "2026-08-21T13:47:31+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,10 +13,20 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "e14699601fabdf10"
+      "hash": "18bc753486518a1c"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-08-20/",
+      "title": "9/26 ジャパンラグビーリーグワンライジング2026 日本製鉄釜石シーウェイブス戦 試合運営について",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-08-19/",
+      "title": "2026-27プレシーズンマッチのお知らせ",
+      "date": "2026-08-19"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-08-07/",
       "title": "2026-27シーズン 個人パートナー募集のお知らせ",
@@ -24,7 +34,7 @@
     },
     {
       "url": "https://hino-reddolphins.com/2026-08-06/",
-      "title": "NTTジャパンラグビー リーグワン2026-27　大会日程のお知らせ",
+      "title": "【8/21更新】NTTジャパンラグビー リーグワン2026-27　大会日程のお知らせ",
       "date": "2026-08-06"
     },
     {
@@ -96,21 +106,6 @@
       "url": "https://hino-reddolphins.com/2026-07-06/",
       "title": "6/25太田市役所へ表敬訪問しました",
       "date": "2026-07-06"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-07-03/",
-      "title": "くいもの屋わん 豊田北口/南大沢店 九州魂 南大沢店 特別クーポン継続実施のお知らせ",
-      "date": "2026-07-03"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-07-01/",
-      "title": "【スポットコーチ】三菱製鋼 Steelersの練習に参加しました",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-06-29/",
-      "title": "6/23日野市役所へ表敬訪問しました",
-      "date": "2026-06-29"
     }
   ]
 }

@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-08-18T13:43:30+09:00",
+  "checked_at": "2026-08-21T13:47:31+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "ecbab12cfa0c0718"
+      "hash": "6ba76d620aebaf4c"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "e487af00d5b75a6c"
+      "hash": "41a7752a65d5b3af"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2418/",
+      "title": "トピックス 2026.8.18 男子セブンズ デベロップメント・スコッド（SDS）福岡合宿 参加のお知らせ",
+      "date": "2026-08-18"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2414/",
+      "title": "イベント 2026.8.18 【ホストタウン活動】イオンモール鈴鹿のフードコートで「選手と一緒に食事体験」を実施いたしました。",
+      "date": "2026-08-18"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2417/",
       "title": "トピックス 2026.8.7 栃木ホンダヒート事務局およびヒートファンクラブ事務局 夏季休業のお知らせ",
@@ -126,16 +136,6 @@
       "url": "https://www.honda-heat.jp/news/2392/",
       "title": "トピックス 2026.7.1 NTTジャパンラグビー リーグワン2026-27 ディビジョン編成および大会日程のお知らせ",
       "date": "2026-07-01"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2393/",
-      "title": "トピックス 2026.6.30 植村 陽彦・宮坂 航生、男子セブンズ デベロップメント・スコッド（SDS）別府合宿 参加のお知らせ",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2391/",
-      "title": "トピックス 2026.6.29 HPメンテナンスのお知らせ",
-      "date": "2026-06-29"
     },
     {
       "url": "https://www.honda-heat.jp/hostgame/20260509/",

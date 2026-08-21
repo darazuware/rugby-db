@@ -3,28 +3,43 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-08-18T13:43:30+09:00",
+  "checked_at": "2026-08-21T13:47:31+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "83b2880379b299a1"
+      "hash": "7322ec893abfa7a9"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "99ee46ef7e76c13f"
+      "hash": "777c5c1c0cdc474c"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "07f74105979ef3b0"
+      "hash": "3660e33d814de37f"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "6039a47b9818a8f2"
+      "hash": "4a7768bf7e9d66ec"
     }
   ],
   "items": [
+    {
+      "url": "https://blue-sharks.jp/news/2026/08/25250/",
+      "title": "グロスターラグビー研修レポート Vol.8（坂本和城）",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/08/25244/",
+      "title": "神輿を担いで、地元とつながる 8月16日深川八幡祭りに参加",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/08/25236/",
+      "title": "ヤローズタラナキブルズ研修レポート Vol.7 (浦野龍基)",
+      "date": "2026-08-25"
+    },
     {
       "url": "https://blue-sharks.jp/news/2026/08/25233/",
       "title": "グロスターラグビー研修レポート Vol.7（西端玄汰）",
@@ -32,17 +47,17 @@
     },
     {
       "url": "https://blue-sharks.jp/news/2026/08/25227/",
-      "title": "ヤローズタラナキブルズ研修レポート Vol.6 (松尾磨人)",
+      "title": "お知らせ 2026/08/17 ヤローズタラナキブルズ研修レポート Vol.6 (松尾磨人)",
       "date": "2026-08-25"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/08/25194/",
-      "title": "2026-27シーズン 新加入選手のお知らせ",
+      "title": "お知らせ 2026/08/10 2026-27シーズン 新加入選手のお知らせ",
       "date": "2026-08-25"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/08/25189/",
-      "title": "グロスターラグビー研修レポート Vol.6（権丈太郎）",
+      "title": "お知らせ 2026/08/10 グロスターラグビー研修レポート Vol.6（権丈太郎）",
       "date": "2026-08-25"
     },
     {
@@ -78,7 +93,7 @@
     {
       "url": "https://blue-sharks.jp/information/",
       "title": "もっと見る",
-      "date": "2026-08-18"
+      "date": "2026-08-20"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/07/25028/",
@@ -94,21 +109,6 @@
       "url": "https://blue-sharks.jp/news/2026/07/25007/",
       "title": "お知らせ 2026/07/29 ヤローズタラナキブルズ研修レポート Vol.4 (宮本誉久)",
       "date": "2026-07-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/07/25002/",
-      "title": "お知らせ 2026/07/28 グロスターラグビー研修レポート Vol.3（坂原春光）",
-      "date": "2026-07-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/07/24996/",
-      "title": "お知らせ 2026/07/22 ヤローズタラナキブルズ研修レポート Vol.3 (伊藤潤乃助)",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/07/24990/",
-      "title": "お知らせ 2026/07/21 グロスターラグビー研修レポート Vol.2（山田雅也）",
-      "date": "2026-07-24"
     },
     {
       "url": "https://blue-sharks.jp/game-guide/2026-5-23-d1-d2%e5%85%a5%e6%9b%bf%e6%88%a6/",

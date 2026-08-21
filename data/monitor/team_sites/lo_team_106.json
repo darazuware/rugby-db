@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-08-18T13:43:30+09:00",
+  "checked_at": "2026-08-21T13:47:31+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "6101ecffd3d80096"
+      "hash": "0447613e4cf12a28"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "54228c1b21d18057"
+      "hash": "6cfecbaf55a5ebf8"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260707.html",
+      "title": "2026-08-20 ジャパンラグビー リーグワン ライジング2026｜ホスト試合 キックオフ時間・観戦情報掲載",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260818.html-0",
+      "title": "2026-08-18 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部選手・吉本選手が選出",
+      "date": "2026-08-18"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260818.html",
       "title": "2026-08-18 ルーク・ポーター選手加入のお知らせ",
@@ -44,12 +54,12 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260802.html",
-      "title": "2026-08-02 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部選手・吉本選手が選出",
+      "title": "2026-08-02 [ チーム ] [ メディア ] 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部選手・吉本選手が選出",
       "date": "2026-08-02"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260729.html",
-      "title": "2026-07-29 ダイナボアーズフェスタ2026｜イベントページ公開＆ボランティアスタッフ募集開始",
+      "title": "2026-07-29 [ イベント ] ダイナボアーズフェスタ2026｜イベントページ公開＆ボランティアスタッフ募集開始",
       "date": "2026-07-29"
     },
     {
@@ -81,11 +91,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260703.html-0",
       "title": "2026-07-10 [ チーム ] 三島琳久選手の参加が決定！｜ダイナボアーズナイト2026in橋本 ～タックルナイト～",
       "date": "2026-07-10"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260707.html",
-      "title": "2026-07-07 ジャパンラグビー リーグワン ライジング2026の開催ならびに参加のお知らせ",
-      "date": "2026-07-07"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260706.html",
@@ -211,11 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/academy.html",
       "title": "2026-05-03 [ 普及活動 ] 川崎校U-15は定員に達したため募集終了となります｜2026年度 三菱重工相模原ダイナボアーズアカデミー",
       "date": "2026-05-03"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/2526r17",
-      "title": "2026-05-01 [ チーム ] 試合メンバー更新｜NTTリーグワン2025-26第17節 横浜キヤノンイーグルス 対 三菱重工相模原ダイナボアーズ",
-      "date": "2026-05-01"
     }
   ]
 }
