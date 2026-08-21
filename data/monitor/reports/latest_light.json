@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-21T13:43:01+09:00",
+  "checked_at": "2026-08-21T15:38:49+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,44 +9,12 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6117",
-          "title": "クラブ JR東日本グリーンウォリアーズ東葛、2026-27シーズン新加入選手（追加）のお知らせ 2026.08.21",
-          "date": "2026-08-21",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6114",
-          "title": "お知らせ 「ジャパンラグビー リーグワン ライジング2026」一部キックオフ時間および観戦情報追加決定のお知らせ 2026.08.20",
-          "date": "2026-08-20",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6113",
-          "title": "クラブ 丸和MOMOTARO’S成田、2026-27シーズン新体制のお知らせ 2026.08.20",
-          "date": "2026-08-20",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6112",
-          "title": "クラブ AZ-COM丸和MOMOTARO’S、新チーム名/エンブレム/ロゴ決定のご案内 2026.08.20",
-          "date": "2026-08-20",
-          "category": "rename"
-        },
-        {
-          "url": "https://league-one.jp/news/6111",
-          "title": "お知らせ ジャパンラグビー リーグワン 2026-27シーズン 新規参入チーム チーム名称およびエンブレム・ロゴのお知らせ 2026.08.20",
-          "date": "2026-08-20",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": [
         {
           "url": "https://league-one.jp/news/6112",
           "title": "クラブ AZ-COM丸和MOMOTARO’S、新チーム名/エンブレム/ロゴ決定のご案内 2026.08.20",
-          "date": "2026-08-20",
-          "category": "rename"
+          "date": "2026-08-20"
         }
       ]
     },
@@ -59,21 +27,15 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54136",
-          "title": "レポート：U17日本代表 第34回 日・韓・中ジュニア交流競技会 2026.8.21 （金） U17日本代表 日・韓・中ジュニア交流競技会",
+          "url": "https://www.rugby-japan.jp/news/54135",
+          "title": "女子15人制強化・TID合同福岡合宿 参加メンバーのお知らせ 2026.8.21 （金） 15人制女子日本代表 女子",
           "date": "2026-08-21",
           "category": "squad"
         },
         {
-          "url": "https://www.rugby-japan.jp/news/54132",
-          "title": "（8/21更新）レポート：男子セブンズ・デベロップメント・スコッド（SDS） 福岡合宿 2026.8.21 （金） 男子セブンズ日本代表 セブンズ SDS 男子セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド",
+          "url": "https://www.rugby-japan.jp/news/54128",
+          "title": "【男子日本代表コラム】新潟県で18年ぶりのテストマッチ開催。長い交流の歴史を持つカナダ代表との一戦に挑む。 2026.8.21 （金） 15人制男子日本代表 WBB",
           "date": "2026-08-21",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54106",
-          "title": "（8/20更新）2026年 女子日本代表 試合日程に関するお知らせ 2026.8.20 （木） 15人制女子日本代表 女子",
-          "date": "2026-08-20",
           "category": "squad"
         }
       ],
@@ -92,37 +54,16 @@
   ],
   "highlights": [
     {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6113",
-      "title": "クラブ 丸和MOMOTARO’S成田、2026-27シーズン新体制のお知らせ 2026.08.20",
-      "date": "2026-08-20",
-      "category": "roster"
-    },
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6117",
-      "title": "クラブ JR東日本グリーンウォリアーズ東葛、2026-27シーズン新加入選手（追加）のお知らせ 2026.08.21",
-      "date": "2026-08-21",
-      "category": "roster"
-    },
-    {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54106",
-      "title": "（8/20更新）2026年 女子日本代表 試合日程に関するお知らせ 2026.8.20 （木） 15人制女子日本代表 女子",
-      "date": "2026-08-20",
-      "category": "squad"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54136",
-      "title": "レポート：U17日本代表 第34回 日・韓・中ジュニア交流競技会 2026.8.21 （金） U17日本代表 日・韓・中ジュニア交流競技会",
+      "url": "https://www.rugby-japan.jp/news/54135",
+      "title": "女子15人制強化・TID合同福岡合宿 参加メンバーのお知らせ 2026.8.21 （金） 15人制女子日本代表 女子",
       "date": "2026-08-21",
       "category": "squad"
     },
     {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54132",
-      "title": "（8/21更新）レポート：男子セブンズ・デベロップメント・スコッド（SDS） 福岡合宿 2026.8.21 （金） 男子セブンズ日本代表 セブンズ SDS 男子セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド",
+      "url": "https://www.rugby-japan.jp/news/54128",
+      "title": "【男子日本代表コラム】新潟県で18年ぶりのテストマッチ開催。長い交流の歴史を持つカナダ代表との一戦に挑む。 2026.8.21 （金） 15人制男子日本代表 WBB",
       "date": "2026-08-21",
       "category": "squad"
     }
@@ -131,8 +72,7 @@
     {
       "url": "https://league-one.jp/news/6112",
       "title": "クラブ AZ-COM丸和MOMOTARO’S、新チーム名/エンブレム/ロゴ決定のご案内 2026.08.20",
-      "date": "2026-08-20",
-      "category": "rename"
+      "date": "2026-08-20"
     }
   ],
   "warnings": [
