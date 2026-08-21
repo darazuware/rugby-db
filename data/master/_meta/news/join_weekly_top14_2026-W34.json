@@ -18,6 +18,12 @@
     "team_id": "vannes"
   },
   {
+    "id": "ar_adrien-seguret",
+    "name_en": "Adrien SÉGURET",
+    "name_ja": null,
+    "team_id": "lyon"
+  },
+  {
     "id": "ar_aitor-hourcade",
     "name_en": "Aitor HOURCADE",
     "name_ja": null,
@@ -33,7 +39,7 @@
     "id": "ar_akenzua-al-kareem-abdul-khalik",
     "name_en": "Akenzua Al-Kareem ABDUL-KHALIK",
     "name_ja": null,
-    "team_id": "racing-92"
+    "team_id": "clermont"
   },
   {
     "id": "ar_alban-roussel",
@@ -42,10 +48,16 @@
     "team_id": "bayonne"
   },
   {
+    "id": "ar_alessio-caiolo",
+    "name_en": "Alessio CAÏOLO",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
     "id": "ar_alex-burin",
     "name_en": "Alex BURIN",
     "name_ja": null,
-    "team_id": "vannes"
+    "team_id": "castres"
   },
   {
     "id": "ar_alexandre-etchebehere",
@@ -54,10 +66,28 @@
     "team_id": "pau"
   },
   {
+    "id": "ar_alexandre-messire",
+    "name_en": "Alexandre MESSIRE",
+    "name_ja": null,
+    "team_id": "lyon"
+  },
+  {
+    "id": "ar_alexandru-ion",
+    "name_en": "Alexandru ION",
+    "name_ja": null,
+    "team_id": "perpignan"
+  },
+  {
     "id": "ar_alfie-barbeary",
     "name_en": "Alfie BARBEARY",
     "name_ja": null,
     "team_id": "racing-92"
+  },
+  {
+    "id": "ar_alifereti-duguivalu",
+    "name_en": "Alivereti DUGUIVALU",
+    "name_ja": null,
+    "team_id": "paris"
   },
   {
     "id": "ar_amine-maalla",
@@ -88,6 +118,12 @@
     "name_en": "Anthony DINU",
     "name_ja": null,
     "team_id": "bayonne"
+  },
+  {
+    "id": "ar_anthony-rico",
+    "name_en": "Anthony RICO",
+    "name_ja": null,
+    "team_id": "lyon"
   },
   {
     "id": "ar_antoine-miquel",
@@ -150,6 +186,12 @@
     "team_id": "pau"
   },
   {
+    "id": "ar_ave-maalo",
+    "name_en": "Avé MAALO",
+    "name_ja": null,
+    "team_id": "lyon"
+  },
+  {
     "id": "ar_badri-tsikhistavi",
     "name_en": "Badri TSIKHISTAVI",
     "name_ja": null,
@@ -159,7 +201,37 @@
     "id": "ar_baptiste-etchechury",
     "name_en": "Baptiste ETCHECHURY",
     "name_ja": null,
+    "team_id": "perpignan"
+  },
+  {
+    "id": "ar_baptiste-mauret",
+    "name_en": "Baptiste MAURET",
+    "name_ja": null,
+    "team_id": "racing-92"
+  },
+  {
+    "id": "ar_baptiste-pesenti",
+    "name_en": "Baptiste PESENTI",
+    "name_ja": null,
+    "team_id": "pau"
+  },
+  {
+    "id": "ar_bartholome-sanson-",
+    "name_en": "Bartholomé SANSON",
+    "name_ja": null,
+    "team_id": "lyon"
+  },
+  {
+    "id": "ar_bas-broeks",
+    "name_en": "Bas BROEKS",
+    "name_ja": null,
     "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_basile-paul",
+    "name_en": "Basile PAUL",
+    "name_ja": null,
+    "team_id": "vannes"
   },
   {
     "id": "ar_bastien-darre",
@@ -180,10 +252,22 @@
     "team_id": "vannes"
   },
   {
+    "id": "ar_ben-healy",
+    "name_en": "Ben HEALY",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
     "id": "ar_ben-tameifuna",
     "name_en": "Ben TAMEIFUNA",
     "name_ja": null,
     "team_id": "bayonne"
+  },
+  {
+    "id": "ar_benjamin-boudou",
+    "name_en": "Benjamin BOUDOU",
+    "name_ja": null,
+    "team_id": "racing-92"
   },
   {
     "id": "ar_benjamin-lahet",
@@ -216,10 +300,22 @@
     "team_id": "vannes"
   },
   {
+    "id": "ar_byron-contival",
+    "name_en": "Byron CONTIVAL",
+    "name_ja": null,
+    "team_id": "castres"
+  },
+  {
     "id": "ar_caleb-timu",
     "name_en": "Caleb TIMU",
     "name_ja": null,
     "team_id": "bayonne"
+  },
+  {
+    "id": "ar_cedric-atlan",
+    "name_en": "Cédric ATLAN",
+    "name_ja": null,
+    "team_id": "clermont"
   },
   {
     "id": "ar_charlie-ewels",
@@ -234,8 +330,20 @@
     "team_id": "racing-92"
   },
   {
+    "id": "ar_chris-gabriel",
+    "name_en": "Chris GABRIEL",
+    "name_ja": null,
+    "team_id": "castres"
+  },
+  {
     "id": "ar_chris-talakai",
     "name_en": "Chris TALAKAI",
+    "name_ja": null,
+    "team_id": "perpignan"
+  },
+  {
+    "id": "ar_christophe-loustalot",
+    "name_en": "Christophe LOUSTALOT",
     "name_ja": null,
     "team_id": "la-rochelle"
   },
@@ -256,6 +364,12 @@
     "name_en": "Clément MAYNADIER",
     "name_ja": null,
     "team_id": "bayonne"
+  },
+  {
+    "id": "ar_cleo-bard",
+    "name_en": "Cléo BARD",
+    "name_ja": null,
+    "team_id": "lyon"
   },
   {
     "id": "ar_clovis-chizat",
@@ -288,6 +402,12 @@
     "team_id": "racing-92"
   },
   {
+    "id": "ar_dalton-papali-i",
+    "name_en": "Dalton PAPALI'I",
+    "name_ja": null,
+    "team_id": "castres"
+  },
+  {
     "id": "ar_dan-du-plessis",
     "name_en": "Dan DU PLESSIS",
     "name_ja": null,
@@ -310,6 +430,12 @@
     "name_en": "Dave ATTWOOD",
     "name_ja": null,
     "team_id": "racing-92"
+  },
+  {
+    "id": "ar_david-kriel",
+    "name_en": "David KRIEL",
+    "name_ja": null,
+    "team_id": "la-rochelle"
   },
   {
     "id": "ar_denis-marchois",
@@ -352,6 +478,12 @@
     "name_en": "Dimitri DELIBES",
     "name_ja": null,
     "team_id": "montpellier"
+  },
+  {
+    "id": "ar_dimitri-emery",
+    "name_en": "Dimitri EMERY",
+    "name_ja": null,
+    "team_id": "clermont"
   },
   {
     "id": "ar_dorian-paul",
@@ -432,6 +564,12 @@
     "team_id": "vannes"
   },
   {
+    "id": "ar_evan-duarte-monteiro",
+    "name_en": "Evan DUARTE MONTEIRO",
+    "name_ja": null,
+    "team_id": "racing-92"
+  },
+  {
     "id": "ar_evan-olmstead",
     "name_en": "Evan OLMSTEAD",
     "name_ja": null,
@@ -477,7 +615,13 @@
     "id": "ar_gabriel-lequin",
     "name_en": "Gabriel LEQUIN",
     "name_ja": null,
-    "team_id": "la-rochelle"
+    "team_id": "perpignan"
+  },
+  {
+    "id": "ar_gabriel-melchor",
+    "name_en": "Gabriel MELCHOR",
+    "name_ja": null,
+    "team_id": "clermont"
   },
   {
     "id": "ar_gabriel-oghre",
@@ -492,6 +636,12 @@
     "team_id": "vannes"
   },
   {
+    "id": "ar_gael-fickou",
+    "name_en": "Gaël FICKOU",
+    "name_ja": null,
+    "team_id": "toulon"
+  },
+  {
     "id": "ar_gael-totele",
     "name_en": "Gaël TOTÉLÉ",
     "name_ja": null,
@@ -502,6 +652,12 @@
     "name_en": "Gaëtan NGASSA MANAC'H",
     "name_ja": null,
     "team_id": "vannes"
+  },
+  {
+    "id": "ar_george-moala",
+    "name_en": "George MOALA",
+    "name_ja": null,
+    "team_id": "la-rochelle"
   },
   {
     "id": "ar_gj-van-velze",
@@ -522,6 +678,12 @@
     "team_id": "vannes"
   },
   {
+    "id": "ar_guenole-jourdain",
+    "name_en": "Guénolé JOURDAIN",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
     "id": "ar_guido-petti",
     "name_en": "Guido PETTI",
     "name_ja": null,
@@ -532,6 +694,12 @@
     "name_en": "Hame FAIVA",
     "name_ja": null,
     "team_id": "clermont"
+  },
+  {
+    "id": "ar_hamish-watson",
+    "name_en": "Hamish WATSON",
+    "name_ja": null,
+    "team_id": "castres"
   },
   {
     "id": "ar_hans-lombard-buret",
@@ -582,16 +750,46 @@
     "team_id": "toulouse"
   },
   {
+    "id": "ar_ihaia-west",
+    "name_en": "Ihaia WEST",
+    "name_ja": null,
+    "team_id": "paris"
+  },
+  {
+    "id": "ar_ilan-cusin",
+    "name_en": "Ilan CUSIN",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
     "id": "ar_imanol-thicoipe",
     "name_en": "Imanol THICOÏPE",
     "name_ja": null,
     "team_id": "bordeaux"
   },
   {
+    "id": "ar_inia-tabuavou",
+    "name_en": "Inia TABUAVOU",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
     "id": "ar_ioan-emanuel",
     "name_en": "Ioan EMANUEL",
     "name_ja": null,
     "team_id": "clermont"
+  },
+  {
+    "id": "ar_ioane-iashagashvili",
+    "name_en": "Ioane IASHAGASHVILI",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
+    "id": "ar_israel-leota",
+    "name_en": "Israel LEOTA",
+    "name_ja": null,
+    "team_id": "paris"
   },
   {
     "id": "ar_jack-bennett",
@@ -604,6 +802,12 @@
     "name_en": "Jaco COETZEE",
     "name_ja": null,
     "team_id": "lyon"
+  },
+  {
+    "id": "ar_jacques-du-plessis",
+    "name_en": "Jacques DU PLESSIS",
+    "name_ja": null,
+    "team_id": "clermont"
   },
   {
     "id": "ar_jacques-nguimbous",
@@ -633,7 +837,7 @@
     "id": "ar_jean-baptiste-rende",
     "name_en": "Jean-Baptiste RENDÉ",
     "name_ja": null,
-    "team_id": "la-rochelle"
+    "team_id": "perpignan"
   },
   {
     "id": "ar_jean-guicherd",
@@ -666,6 +870,12 @@
     "team_id": "pau"
   },
   {
+    "id": "ar_joe-jonas",
+    "name_en": "Joe JONAS",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
     "id": "ar_joe-maksymiw",
     "name_en": "Joe MAKSYMIW",
     "name_ja": null,
@@ -687,7 +897,7 @@
     "id": "ar_josh-mcnally",
     "name_en": "Josh MCNALLY",
     "name_ja": null,
-    "team_id": "racing-92"
+    "team_id": "clermont"
   },
   {
     "id": "ar_juan-schoeman",
@@ -700,6 +910,12 @@
     "name_en": "Jude TRARIEUX",
     "name_ja": null,
     "team_id": "bayonne"
+  },
+  {
+    "id": "ar_judicael-cancoriet",
+    "name_en": "Judicaël CANCORIET",
+    "name_ja": null,
+    "team_id": "toulon"
   },
   {
     "id": "ar_jules-depoortere",
@@ -759,7 +975,13 @@
     "id": "ar_konstantine-mikautadze",
     "name_en": "Konstantine MIKAUTADZE",
     "name_ja": null,
-    "team_id": "montpellier"
+    "team_id": "castres"
+  },
+  {
+    "id": "ar_kyllian-ringuet",
+    "name_en": "Kyllian RINGUET",
+    "name_ja": null,
+    "team_id": "castres"
   },
   {
     "id": "ar_lasha-pkhakadze",
@@ -777,7 +999,7 @@
     "id": "ar_leandre-sellier",
     "name_en": "Léandre SELLIER",
     "name_ja": null,
-    "team_id": "la-rochelle"
+    "team_id": "perpignan"
   },
   {
     "id": "ar_lekso-kaulashvili",
@@ -810,6 +1032,12 @@
     "team_id": "bordeaux"
   },
   {
+    "id": "ar_lorenzo-calogero",
+    "name_en": "Lorenzo CALOGERO",
+    "name_ja": null,
+    "team_id": "castres"
+  },
+  {
     "id": "ar_louis-ortolan",
     "name_en": "Louis ORTOLAN",
     "name_ja": null,
@@ -822,10 +1050,22 @@
     "team_id": "montpellier"
   },
   {
+    "id": "ar_lucas-rostaing",
+    "name_en": "Lucas ROSTAING",
+    "name_ja": null,
+    "team_id": "lyon"
+  },
+  {
     "id": "ar_luciano-asevedo",
     "name_en": "Luciano ASEVEDO",
     "name_ja": null,
     "team_id": "toulon"
+  },
+  {
+    "id": "ar_luigi-cozzolino",
+    "name_en": "Luigi COZZOLINO",
+    "name_ja": null,
+    "team_id": "racing-92"
   },
   {
     "id": "ar_luka-ludwig",
@@ -850,6 +1090,12 @@
     "name_en": "Maël PERRIN",
     "name_ja": null,
     "team_id": "montpellier"
+  },
+  {
+    "id": "ar_mael-turpin",
+    "name_en": "Maël TURPIN",
+    "name_ja": null,
+    "team_id": "castres"
   },
   {
     "id": "ar_mahamadou-diaby",
@@ -891,7 +1137,7 @@
     "id": "ar_manuel-leindekar",
     "name_en": "Manuel LEINDEKAR",
     "name_ja": null,
-    "team_id": "paris"
+    "team_id": "perpignan"
   },
   {
     "id": "ar_martin-villar",
@@ -915,7 +1161,7 @@
     "id": "ar_mateo-cherifi",
     "name_en": "Matéo CHÉRIFI",
     "name_ja": null,
-    "team_id": "la-rochelle"
+    "team_id": "perpignan"
   },
   {
     "id": "ar_mateo-guerin",
@@ -978,6 +1224,18 @@
     "team_id": "perpignan"
   },
   {
+    "id": "ar_matias-alemanno",
+    "name_en": "Matías ALEMANNO",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
+    "id": "ar_matěj-sehnal",
+    "name_en": "Matěj SEHNAL",
+    "name_ja": null,
+    "team_id": "racing-92"
+  },
+  {
     "id": "ar_max-bru",
     "name_en": "Max BRU",
     "name_ja": null,
@@ -990,16 +1248,28 @@
     "team_id": "clermont"
   },
   {
+    "id": "ar_maxence-cochard",
+    "name_en": "Maxence COCHARD",
+    "name_ja": null,
+    "team_id": "racing-92"
+  },
+  {
     "id": "ar_maxence-gigault",
     "name_en": "Maxence GIGAULT",
     "name_ja": null,
-    "team_id": "la-rochelle"
+    "team_id": "perpignan"
   },
   {
     "id": "ar_maxime-lamothe",
     "name_en": "Maxime LAMOTHE",
     "name_ja": null,
     "team_id": "bayonne"
+  },
+  {
+    "id": "ar_maximillien-brackenbury",
+    "name_en": "Maximillien BRACKENBURY",
+    "name_ja": null,
+    "team_id": "racing-92"
   },
   {
     "id": "ar_mehdi-kourdes",
@@ -1032,16 +1302,70 @@
     "team_id": "vannes"
   },
   {
+    "id": "ar_mills-sanerivi",
+    "name_en": "Mills SANERIVI",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
+    "id": "ar_murray-taulagi",
+    "name_en": "Murray TAULAGI",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
+    "id": "ar_nathan-fraissenon",
+    "name_en": "Nathan FRAISSENON",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
     "id": "ar_nathan-thibeau",
     "name_en": "Nathan THIBEAU",
     "name_ja": null,
     "team_id": "bayonne"
   },
   {
+    "id": "ar_nathanael-hulleu",
+    "name_en": "Nathanaël HULLEU",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
     "id": "ar_nial-annett",
     "name_en": "Niall ANNETT",
     "name_ja": null,
     "team_id": "clermont"
+  },
+  {
+    "id": "ar_nicolas-martins",
+    "name_en": "Nicolas MARTINS",
+    "name_ja": null,
+    "team_id": "racing-92"
+  },
+  {
+    "id": "ar_nicolas-martiny",
+    "name_en": "Nicolas MARTINY",
+    "name_ja": null,
+    "team_id": "racing-92"
+  },
+  {
+    "id": "ar_nicolas-vallin",
+    "name_en": "Nicolas VALLIN",
+    "name_ja": null,
+    "team_id": "bayonne"
+  },
+  {
+    "id": "ar_nikoloz-toradze",
+    "name_en": "Nikoloz TORADZE",
+    "name_ja": null,
+    "team_id": "racing-92"
+  },
+  {
+    "id": "ar_noa-zinzen",
+    "name_en": "Noa ZINZEN",
+    "name_ja": null,
+    "team_id": "racing-92"
   },
   {
     "id": "ar_noah-deron",
@@ -1074,16 +1398,40 @@
     "team_id": "lyon"
   },
   {
+    "id": "ar_owen-erasmus",
+    "name_en": "Owen ERASMUS",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
     "id": "ar_pablo-dimcheff",
     "name_en": "Pablo DIMCHEFF",
     "name_ja": null,
     "team_id": "bayonne"
   },
   {
+    "id": "ar_paco-mazoyer",
+    "name_en": "Paco MAZOYER",
+    "name_ja": null,
+    "team_id": "lyon"
+  },
+  {
     "id": "ar_pantxoa-arribillaga",
     "name_en": "Pantxoa ARRIBILLAGA",
     "name_ja": null,
-    "team_id": "la-rochelle"
+    "team_id": "perpignan"
+  },
+  {
+    "id": "ar_paul-bard",
+    "name_en": "Paul BARD",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
+    "id": "ar_paul-costes",
+    "name_en": "Paul COSTES",
+    "name_ja": null,
+    "team_id": "racing-92"
   },
   {
     "id": "ar_peio-dospital",
@@ -1122,6 +1470,12 @@
     "team_id": "toulouse"
   },
   {
+    "id": "ar_pierre-popelin",
+    "name_en": "Pierre POPELIN",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
     "id": "ar_pieter-scholtz",
     "name_en": "Pieter SCHOLTZ",
     "name_ja": null,
@@ -1149,7 +1503,7 @@
     "id": "ar_quinn-roux",
     "name_en": "Quinn ROUX",
     "name_ja": null,
-    "team_id": "racing-92"
+    "team_id": "clermont"
   },
   {
     "id": "ar_rabah-slimani",
@@ -1164,10 +1518,34 @@
     "team_id": "bordeaux"
   },
   {
+    "id": "ar_raphael-ceyssat",
+    "name_en": "Raphaël CEYSSAT",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_raphael-payrastre",
+    "name_en": "Raphaël PAYRASTRE",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_ray-nu-u",
+    "name_en": "Ray NU'U",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
+    "id": "ar_reda-wardi",
+    "name_en": "Reda WARDI",
+    "name_ja": null,
+    "team_id": "montpellier"
+  },
+  {
     "id": "ar_remi-castagnet",
     "name_en": "Rémi CASTAGNET",
     "name_ja": null,
-    "team_id": "la-rochelle"
+    "team_id": "perpignan"
   },
   {
     "id": "ar_remi-couty",
@@ -1200,6 +1578,12 @@
     "team_id": "pau"
   },
   {
+    "id": "ar_rory-cameron",
+    "name_en": "Rory CAMERON",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
     "id": "ar_ruben-pargade",
     "name_en": "Ruben PARGADE",
     "name_ja": null,
@@ -1212,10 +1596,34 @@
     "team_id": "montpellier"
   },
   {
+    "id": "ar_rufus-mclean",
+    "name_en": "Rufus MCLEAN",
+    "name_ja": null,
+    "team_id": "paris"
+  },
+  {
     "id": "ar_rupeni-baravilala",
     "name_en": "Rupeni BARAVILALA",
     "name_ja": null,
     "team_id": "vannes"
+  },
+  {
+    "id": "ar_sacha-leroy",
+    "name_en": "Sacha LEROY",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_salmaan-moerat",
+    "name_en": "Salmaan MOERAT",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_sam-tuifua",
+    "name_en": "Sam TUIFUA",
+    "name_ja": null,
+    "team_id": "la-rochelle"
   },
   {
     "id": "ar_sanele-nohamba",
@@ -1242,10 +1650,40 @@
     "team_id": "montpellier"
   },
   {
+    "id": "ar_seru-uru",
+    "name_en": "Seru URU",
+    "name_ja": null,
+    "team_id": "racing-92"
+  },
+  {
     "id": "ar_shalom-uatisone",
     "name_en": "Shalom UATISONE",
     "name_ja": null,
     "team_id": "pau"
+  },
+  {
+    "id": "ar_simione-kuruvoli",
+    "name_en": "Simi KURUVOLI",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
+    "id": "ar_simon-moreau",
+    "name_en": "Simon MOREAU",
+    "name_ja": null,
+    "team_id": "racing-92"
+  },
+  {
+    "id": "ar_sione-finau-tupou",
+    "name_en": "Sione FINAU-TUPOU",
+    "name_ja": null,
+    "team_id": "racing-92"
+  },
+  {
+    "id": "ar_sione-mafileo",
+    "name_en": "Sione MAFILEO",
+    "name_ja": null,
+    "team_id": "vannes"
   },
   {
     "id": "ar_sipili-falatea",
@@ -1254,10 +1692,22 @@
     "team_id": "bayonne"
   },
   {
+    "id": "ar_taylor-gontineac",
+    "name_en": "Taylor GONTINEAC",
+    "name_ja": null,
+    "team_id": "castres"
+  },
+  {
     "id": "ar_theo-hialle",
     "name_en": "Théo HIALLE",
     "name_ja": null,
     "team_id": "perpignan"
+  },
+  {
+    "id": "ar_theo-mcfarland",
+    "name_en": "Theo MCFARLAND",
+    "name_ja": null,
+    "team_id": "la-rochelle"
   },
   {
     "id": "ar_theo-sauzaret",
@@ -1266,16 +1716,34 @@
     "team_id": "vannes"
   },
   {
+    "id": "ar_theo-vidal",
+    "name_en": "Théo VIDAL",
+    "name_ja": null,
+    "team_id": "castres"
+  },
+  {
     "id": "ar_thomas-acquier",
     "name_en": "Thomas ACQUIER",
     "name_ja": null,
     "team_id": "bordeaux"
   },
   {
+    "id": "ar_thomas-adelaide",
+    "name_en": "Thomas ADÉLAÏDE",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
     "id": "ar_thomas-ametlla",
     "name_en": "Thomas AMETLLA",
     "name_ja": null,
     "team_id": "toulon"
+  },
+  {
+    "id": "ar_thomas-bue",
+    "name_en": "Thomas BUÉ",
+    "name_ja": null,
+    "team_id": "paris"
   },
   {
     "id": "ar_thomas-ceyte",
@@ -1308,6 +1776,12 @@
     "team_id": "bayonne"
   },
   {
+    "id": "ar_thomas-ployet",
+    "name_en": "Thomas PLOYET",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
     "id": "ar_tim-hoyt",
     "name_en": "Tim HOYT",
     "name_ja": null,
@@ -1338,6 +1812,12 @@
     "team_id": "bordeaux"
   },
   {
+    "id": "ar_tomasi-maka",
+    "name_en": "Tomasi MAKA",
+    "name_ja": null,
+    "team_id": "paris"
+  },
+  {
     "id": "ar_tommaso-menoncello",
     "name_en": "Tommaso MENONCELLO",
     "name_ja": null,
@@ -1347,7 +1827,7 @@
     "id": "ar_torsten-van-jaarsveld",
     "name_en": "Torsten VAN JAARSVELD",
     "name_ja": null,
-    "team_id": "la-rochelle"
+    "team_id": "perpignan"
   },
   {
     "id": "ar_tristan-olivier",
@@ -1360,6 +1840,12 @@
     "name_en": "Txomin ITHURBIDE",
     "name_ja": null,
     "team_id": "perpignan"
+  },
+  {
+    "id": "ar_tymeo-bohnenstengel",
+    "name_en": "Tyméo BOHNENSTENGEL",
+    "name_ja": null,
+    "team_id": "racing-92"
   },
   {
     "id": "ar_ugo-boniface",
