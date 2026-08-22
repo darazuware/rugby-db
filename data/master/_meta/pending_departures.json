@@ -1,20 +1,7 @@
 {
   "league-one-d1": {},
   "league-one-d2": {},
-  "league-one-d3": {
-    "lo_484259": {
-      "id": "lo_484259",
-      "name_en": "Sebasstian Sialau",
-      "name_ja": "セバスチャン ・シアラウ",
-      "team_id": "lo_team_119"
-    },
-    "lo_484285": {
-      "id": "lo_484285",
-      "name_en": "Rintaro Kawasima",
-      "name_ja": "河嶋 凜太郎",
-      "team_id": "lo_team_119"
-    }
-  },
+  "league-one-d3": {},
   "top14": {
     "ar_-juan-segundo-martin-montilla": {
       "id": "ar_-juan-segundo-martin-montilla",
@@ -225,12 +212,6 @@
       "name_en": "Diego GRADOZ",
       "name_ja": null,
       "team_id": "toulon"
-    },
-    "ar_dorian-diabou": {
-      "id": "ar_dorian-diabou",
-      "name_en": "Dorian DIABOU",
-      "name_ja": null,
-      "team_id": "lyon"
     },
     "ar_edouard-sabotin-desclaud": {
       "id": "ar_edouard-sabotin-desclaud",
@@ -910,12 +891,6 @@
       "name_ja": null,
       "team_id": "pau"
     },
-    "ar_owen-fresnais": {
-      "id": "ar_owen-fresnais",
-      "name_en": "Owen FRESNAIS",
-      "name_ja": null,
-      "team_id": "lyon"
-    },
     "ar_owen-martin": {
       "id": "ar_owen-martin",
       "name_en": "Owen MARTIN",
@@ -1276,12 +1251,6 @@
       "name_ja": null,
       "team_id": "racing-92"
     },
-    "ar_arthur-pinet": {
-      "id": "ar_arthur-pinet",
-      "name_en": "Arthur PINET",
-      "name_ja": null,
-      "team_id": "paris"
-    },
     "ar_arthur-rolland": {
       "id": "ar_arthur-rolland",
       "name_en": "Arthur ROLLAND",
@@ -1348,12 +1317,6 @@
       "name_ja": null,
       "team_id": "castres"
     },
-    "ar_chris-cloete": {
-      "id": "ar_chris-cloete",
-      "name_en": "Chris CLOETE",
-      "name_ja": null,
-      "team_id": "racing-92"
-    },
     "ar_christian-luaki": {
       "id": "ar_christian-luaki",
       "name_en": "Christian LUAKI",
@@ -1377,12 +1340,6 @@
       "name_en": "Clovis CHIZAT",
       "name_ja": null,
       "team_id": "vannes"
-    },
-    "ar_colin-dupuy": {
-      "id": "ar_colin-dupuy",
-      "name_en": "Colin DUPUY",
-      "name_ja": null,
-      "team_id": "castres"
     },
     "ar_come-nitharum": {
       "id": "ar_come-nitharum",
@@ -1581,12 +1538,6 @@
       "name_en": "Gael GALVÁN",
       "name_ja": null,
       "team_id": "la-rochelle"
-    },
-    "ar_gagui-margvelashvili": {
-      "id": "ar_gagui-margvelashvili",
-      "name_en": "Gagui MARGVELASHVILI",
-      "name_ja": null,
-      "team_id": "racing-92"
     },
     "ar_gaspard-lievens": {
       "id": "ar_gaspard-lievens",
@@ -1810,12 +1761,6 @@
       "name_ja": null,
       "team_id": "castres"
     },
-    "ar_losseni-meite": {
-      "id": "ar_losseni-meite",
-      "name_en": "Losseni MEÏTÉ",
-      "name_ja": null,
-      "team_id": "paris"
-    },
     "ar_louis-baptiste-gervelas": {
       "id": "ar_louis-baptiste-gervelas",
       "name_en": "Louis-Baptiste GERVELAS",
@@ -1984,12 +1929,6 @@
       "name_ja": null,
       "team_id": "vannes"
     },
-    "ar_mosese-tabuakoto": {
-      "id": "ar_mosese-tabuakoto",
-      "name_en": "Mosese TABUAKOTO",
-      "name_ja": null,
-      "team_id": "paris"
-    },
     "ar_mykael-talalua": {
       "id": "ar_mykael-talalua",
       "name_en": "Mykael TALALUA",
@@ -2121,18 +2060,6 @@
       "name_en": "Romain MACURDY",
       "name_ja": null,
       "team_id": "castres"
-    },
-    "ar_romain-valentin": {
-      "id": "ar_romain-valentin",
-      "name_en": "Romain VALENTIN",
-      "name_ja": null,
-      "team_id": "vannes"
-    },
-    "ar_rupeni-baravilala": {
-      "id": "ar_rupeni-baravilala",
-      "name_en": "Rupeni BARAVILALA",
-      "name_ja": null,
-      "team_id": "vannes"
     },
     "ar_sesoni-tamani": {
       "id": "ar_sesoni-tamani",
@@ -4108,10 +4035,16 @@
       "name_ja": "古瀨 拓真",
       "team_id": null
     },
-    "univ_筑波大学__増山将": {
-      "id": "univ_筑波大学__増山将",
+    "univ_専修大学__井澤賢進": {
+      "id": "univ_専修大学__井澤賢進",
       "name_en": null,
-      "name_ja": "増山 将",
+      "name_ja": "井澤 賢進",
+      "team_id": null
+    },
+    "univ_東京大学__虫明穣二": {
+      "id": "univ_東京大学__虫明穣二",
+      "name_en": null,
+      "name_ja": "虫明 穣二",
       "team_id": null
     }
   },

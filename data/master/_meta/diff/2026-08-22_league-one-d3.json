@@ -1,6 +1,19 @@
 {
   "league": "league-one-d3",
-  "signings": [],
+  "signings": [
+    {
+      "id": "lo_484259",
+      "name_en": "Sebasstian Sialau",
+      "name_ja": "セバスチャン ・シアラウ",
+      "team_id": "lo_team_119"
+    },
+    {
+      "id": "lo_484285",
+      "name_en": "Rintaro Kawasima",
+      "name_ja": "河嶋 凜太郎",
+      "team_id": "lo_team_119"
+    }
+  ],
   "transfers": [],
   "departures": [],
   "first_caps": [],
