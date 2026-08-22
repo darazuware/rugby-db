@@ -3,24 +3,34 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-08-21T13:47:31+09:00",
+  "checked_at": "2026-08-22T13:41:16+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "ce81c8f4a7a3d734"
+      "hash": "2d636af6f34d8ab4"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "2a3b8e6ee30b1c2f"
+      "hash": "7a1445998ceace2a"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "e1bd3b21a164e152"
+      "hash": "2ee2abb0b7d45c9e"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/32151/",
+      "title": "お知らせ 2026.8.21 釜石市体育協会主催「令和8年度 指導者講習会」が開催されました",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/32128/",
+      "title": "お知らせ 2026.8.21 事務局固定電話の一時利用停止および臨時連絡先のお知らせ",
+      "date": "2026-08-21"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/info/31656/",
       "title": "お知らせ 2026.8.20 「ジャパンラグビー リーグワン ライジング 2026」開催のお知らせ",
@@ -72,11 +82,6 @@
       "date": "2026-07-18"
     },
     {
-      "url": "https://kamaishi-seawaves.com/news/society/31675/",
-      "title": "普及・社会貢献 2026.7.15 5・6月普及活動レポート",
-      "date": "2026-07-15"
-    },
-    {
       "url": "https://kamaishi-seawaves.com/news/info/31635/",
       "title": "お知らせ 2026.7.1 NTTジャパンラグビー リーグワン2026-27 ディビジョン編成および大会日程のお知らせ",
       "date": "2026-07-01"
@@ -90,16 +95,6 @@
       "url": "https://kamaishi-seawaves.com/news/info/31567/",
       "title": "お知らせ 2026.6.22 釜石市への表敬訪問およびチャリティタオル売上の一部寄付のご報告",
       "date": "2026-06-22"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/31510/",
-      "title": "お知らせ 2026.6.18 岩手県・盛岡市・県内メディア各社への表敬訪問のご報告",
-      "date": "2026-06-18"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/31453/",
-      "title": "お知らせ 2026.6.8 NTTジャパンラグビー リーグワン2025-26 アワード 「フェアプレーチーム賞（D2）」「ベストキッカー（D2）」受賞のお知らせ",
-      "date": "2026-06-08"
     }
   ]
 }

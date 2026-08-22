@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-08-21T13:47:31+09:00",
+  "checked_at": "2026-08-22T13:41:16+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "cedc9a13dbd5860f"
+      "hash": "e1d84a9c815fcc9f"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "31a084ba7923d128"
+      "hash": "983e7a681eb12d73"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2005.html",
+      "title": "イベント 2026.08.21 2026.8.3～5 D-Rocks SUMMER CAMP 2026を開催しました",
+      "date": "2026-08-21"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_1993.html",
       "title": "ファンクラブ 2026.08.20 【8.20 議事録追記】2026.7.26「D-Rockers ミーティング 2025-26」を開催しました",
@@ -69,7 +74,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1991.html",
-      "title": "イベント 2026.07.28 2026.7.25「仙台駐屯地 夏まつり」に参加しました",
+      "title": "2026.07.28 ニュース 2026.7.25「仙台駐屯地 夏まつり」に参加しました",
       "date": "2026-07-28"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/event/index_1949.html",
       "title": "2026.06.02 ニュース 【更新】6月6日(土) ファン感謝祭「D-Rocks Fes 2026」開催のお知らせ",
       "date": "2026-06-02"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_1960.html",
-      "title": "2026.06.01 ニュース 代表取締役社長 髙橋英樹より2025-26シーズンを終えての御礼",
-      "date": "2026-06-01"
     }
   ]
 }

@@ -3,28 +3,33 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-08-21T13:47:31+09:00",
+  "checked_at": "2026-08-22T13:41:16+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "7322ec893abfa7a9"
+      "hash": "b7a1e3187ad279fd"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "777c5c1c0cdc474c"
+      "hash": "5876bfc7a80ea6a9"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "3660e33d814de37f"
+      "hash": "d0512d001df8ad46"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "4a7768bf7e9d66ec"
+      "hash": "2b758124caa94611"
     }
   ],
   "items": [
+    {
+      "url": "https://blue-sharks.jp/news/2026/08/25258/",
+      "title": "グロスターラグビー研修レポート Vol.9（長谷銀次朗）",
+      "date": "2026-08-25"
+    },
     {
       "url": "https://blue-sharks.jp/news/2026/08/25250/",
       "title": "グロスターラグビー研修レポート Vol.8（坂本和城）",
@@ -42,7 +47,7 @@
     },
     {
       "url": "https://blue-sharks.jp/news/2026/08/25233/",
-      "title": "グロスターラグビー研修レポート Vol.7（西端玄汰）",
+      "title": "お知らせ 2026/08/18 グロスターラグビー研修レポート Vol.7（西端玄汰）",
       "date": "2026-08-25"
     },
     {
@@ -93,7 +98,7 @@
     {
       "url": "https://blue-sharks.jp/information/",
       "title": "もっと見る",
-      "date": "2026-08-20"
+      "date": "2026-08-21"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/07/25028/",
@@ -103,11 +108,6 @@
     {
       "url": "https://blue-sharks.jp/news/2026/07/25022/",
       "title": "お知らせ 2026/07/31 グロスターラグビー研修レポート Vol.4（浦野龍基）",
-      "date": "2026-07-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/07/25007/",
-      "title": "お知らせ 2026/07/29 ヤローズタラナキブルズ研修レポート Vol.4 (宮本誉久)",
       "date": "2026-07-25"
     },
     {
