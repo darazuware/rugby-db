@@ -3,23 +3,23 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-08-22T20:13:14+09:00",
+  "checked_at": "2026-08-23T13:45:18+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "71c7ad325924e16a"
+      "hash": "003c17cb76fb1951"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "2fffc6231725eace"
+      "hash": "2cffc5b5a8b7f7f1"
     }
   ],
   "items": [
     {
       "url": "https://www.kyudenvoltex.com/news/989",
-      "title": "お知らせ 2026年08月20日 NEW 「ジャパンラグビー リーグワン ライジング 2026」開催決定のお知らせ(8/20更新)",
+      "title": "お知らせ 2026年08月20日 「ジャパンラグビー リーグワン ライジング 2026」開催決定のお知らせ(8/20更新)",
       "date": "2026-08-20"
     },
     {
