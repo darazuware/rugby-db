@@ -1,55 +1,71 @@
 ---
 title: "Top14週間加入まとめ（2026-W34）"
-pubDate: 2026-08-22
+pubDate: 2026-08-23
 category: "NEWS"
 tags: ["Top14", "加入"]
-source_diff: "2026-08-22_top14.json"
+source_diff: "2026-08-23_top14.json"
 draft: false
 ---
 
+- [Juan MARTÍN MONTILLA（フアン・マルティン・モンティーリャ）](/players/-juan-segundo-martin-montilla/)が[クレルモン](/teams/top14/clermont/)に加入
+- [Achille STOESSEL](/players/achille-stoessel/)が[カストル](/teams/top14/castres/)に加入
+- [Adam COLEMAN（アダム・コールマン）](/players/adam-coleman/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Adam HASTINGS](/players/adam-hastings/)が[モンペリエ](/teams/top14/montpellier/)に加入
 - [Adam JAMI](/players/adam-jami/)が[ポー](/teams/top14/pau/)に加入
+- [Adam ZAPĘDOWSKI](/players/adam-zapĘdowski/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - Adrien PAGANOTTOが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Adrien SÉGURET（アドリアン・セギュレ）](/players/adrien-seguret/)が[リヨン](/teams/top14/lyon/)に加入
+- [Aiden STAIT](/players/aiden-stait/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
 - Aitor HOURCADEが[モンペリエ](/teams/top14/montpellier/)に加入
 - [AJ LAM](/players/aj-lam/)が[クレルモン](/teams/top14/clermont/)に加入
 - [Akenzua Al-Kareem ABDUL-KHALIK](/players/akenzua-al-kareem-abdul-khalik/)が[クレルモン](/teams/top14/clermont/)に加入
-- [Alban ROUSSEL](/players/alban-roussel/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- Alban ROUSSELが[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Alessio CAÏOLO](/players/alessio-caiolo/)が[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Alex BURIN](/players/alex-burin/)が[カストル](/teams/top14/castres/)に加入
+- [Alex MOON（アレックス・ムーン）](/players/alex-moon/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
 - [Alexandre ETCHEBÉHÈRE](/players/alexandre-etchebehere/)が[ポー](/teams/top14/pau/)に加入
 - [Alexandre MESSIRE](/players/alexandre-messire/)が[リヨン](/teams/top14/lyon/)に加入
+- [Alexandre RICARD](/players/alexandre-ricard/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Alexandru ION](/players/alexandru-ion/)が[ペルピニャン](/teams/top14/perpignan/)に加入
-- [Alfie BARBEARY](/players/alfie-barbeary/)が[ラシン92](/teams/top14/racing-92/)に加入
+- [Alfie BARBEARY](/players/alfie-barbeary/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
 - [Alivereti DUGUIVALU（アリベレティ・ドゥグイヴァル）](/players/alifereti-duguivalu/)が[スタッド・フランセ](/teams/top14/paris/)に加入
 - [Amine MAALLA](/players/amine-maalla/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Anatole DUBURCQ](/players/anatole-duburcq/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Ander ETCHEBARNE-SANCHEZ](/players/ander-etchebarne-sanchez/)が[トゥールーズ](/teams/top14/toulouse/)に加入
-- [Andréa SACCO](/players/andrea-sacco/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- Andréa SACCOが[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Ange GIROUD](/players/ange-giroud/)が[リヨン](/teams/top14/lyon/)に加入
 - Angelo PREVITALIが[ヴァンヌ](/teams/top14/vannes/)に加入
-- [Anthony DINU](/players/anthony-dinu/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- Anthony DINUが[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Anthony RICO](/players/anthony-rico/)が[リヨン](/teams/top14/lyon/)に加入
-- [Antoine MIQUEL](/players/antoine-miquel/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Anto-Natale GHIPPONI](/players/anto-natale-ghipponi/)が[トゥーロン](/teams/top14/toulon/)に加入
+- Antoine MIQUELが[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Apete NAROGO](/players/apete-narogo/)が[トゥーロン](/teams/top14/toulon/)に加入
 - [Archie GRIFFIN](/players/archie-griffin/)が[クレルモン](/teams/top14/clermont/)に加入
 - Archie MAGGSが[ラシン92](/teams/top14/racing-92/)に加入
 - [Archie STANLEY](/players/archie-stanley/)が[クレルモン](/teams/top14/clermont/)に加入
 - [Arthur CORDWELL](/players/arthur-cordwell/)が[クレルモン](/teams/top14/clermont/)に加入
+- [Arthur CRÉPIN LEBLOND](/players/arthur-crepin-leblond/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Arthur GREEN](/players/arthur-green/)が[ラシン92](/teams/top14/racing-92/)に加入
 - [Arthur PINET](/players/arthur-pinet/)が[スタッド・フランセ](/teams/top14/paris/)に加入
-- [Arthur SMEETS](/players/arthur-smeets/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- Arthur SMEETSが[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Arthur VENDÉ](/players/arthur-vende/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
 - [Arthus MAROLLEAU](/players/arthus-marolleau/)が[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Augusto RIMINI](/players/augusto-rimini/)が[ポー](/teams/top14/pau/)に加入
 - [Avé MAALO（アヴェ・マーロ）](/players/ave-maalo/)が[リヨン](/teams/top14/lyon/)に加入
+- [Axel NETH](/players/axel-neth/)が[カストル](/teams/top14/castres/)に加入
+- [Axel RIGAUD](/players/axel-rigaud/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Aymane EL FAHHAL](/players/aymane-el-fahhal/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- [Aymeric ROUSERÉ](/players/aymeric-rousere/)が[トゥールーズ](/teams/top14/toulouse/)に加入
 - [Badri TSIKHISTAVI](/players/badri-tsikhistavi/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
-- [Baptiste ETCHECHURY](/players/baptiste-etchechury/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- Baptiste ETCHECHURYが[ペルピニャン](/teams/top14/perpignan/)に加入
+- [Baptiste GERMAIN（バティスト・ジェルマン）](/players/baptiste-germain/)が[クレルモン](/teams/top14/clermont/)に加入
 - [Baptiste MAURET](/players/baptiste-mauret/)が[ラシン92](/teams/top14/racing-92/)に加入
 - [Baptiste PESENTI（バティスト・ペセンティ）](/players/baptiste-pesenti/)が[ポー](/teams/top14/pau/)に加入
 - [Bartholomé SANSON](/players/bartholome-sanson-/)が[リヨン](/teams/top14/lyon/)に加入
 - [Bas BROEKS](/players/bas-broeks/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
 - [Basile PAUL](/players/basile-paul/)が[ヴァンヌ](/teams/top14/vannes/)に加入
 - Bastien DARRÉが[ヴァンヌ](/teams/top14/vannes/)に加入
-- [Bastien VERGNES-TAILLEFER（バスティアン・ヴェルニュ＝タイフェール）](/players/bastien-vergnes-taillefer/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Bastien VERGNES-TAILLEFER（バスティアン・ヴェルニュ＝タイフェール）](/players/bastien-vergnes-taillefer/)が[ポー](/teams/top14/pau/)に加入
 - Beau FARRANCEが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Ben HEALY](/players/ben-healy/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
 - [Ben TAMEIFUNA（ベン・タメイフナ）](/players/ben-tameifuna/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
@@ -58,22 +74,30 @@ draft: false
 - [Beno OBANO](/players/beno--obano-/)が[クレルモン](/teams/top14/clermont/)に加入
 - [Bernardo PUCCIARIELLO](/players/bernardo-pucciariello/)が[トゥールーズ](/teams/top14/toulouse/)に加入
 - [Billy SELA](/players/billy-sela/)が[クレルモン](/teams/top14/clermont/)に加入
+- [Bixintxo DAGUERRE](/players/bixintxo-daguerre/)が[トゥールーズ](/teams/top14/toulouse/)に加入
 - [Boudewijn VAN OPPENS](/players/boudewijn-van-oppens/)が[ヴァンヌ](/teams/top14/vannes/)に加入
+- [Brad AMITUANAI](/players/bradley-amituanai/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- [Braydon ENNOR](/players/braydon-ennor/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- [Brian ALAINU'UESE（ブライアン・アライヌウエセ）](/players/brian-alainu-uese/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - Brice HOARAUが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Byron CONTIVAL](/players/byron-contival/)が[カストル](/teams/top14/castres/)に加入
-- [Caleb TIMU](/players/caleb-timu/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- Caleb TIMUが[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Carlü SADIE（カリュ・セイディー）](/players/carlu-sadie/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Caylen UMAGA](/players/caylen-umaga/)が[トゥーロン](/teams/top14/toulon/)に加入
+- [Cedate GOMES SA（セダテ・ゴメス・サ）](/players/cedate-gomes-sa/)が[ペルピニャン](/teams/top14/perpignan/)に加入
 - [Cédric ATLAN](/players/cedric-atlan/)が[クレルモン](/teams/top14/clermont/)に加入
 - [Charlie EWELS](/players/charlie-ewels/)が[クレルモン](/teams/top14/clermont/)に加入
 - [Chris CLOETE](/players/chris-cloete/)が[ラシン92](/teams/top14/racing-92/)に加入
 - [Chris GABRIEL](/players/chris-gabriel/)が[カストル](/teams/top14/castres/)に加入
-- [Chris TALAKAI](/players/chris-talakai/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- Chris TALAKAIが[ペルピニャン](/teams/top14/perpignan/)に加入
 - [Christophe LOUSTALOT](/players/christophe-loustalot/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
-- [Christopher VAOTOA](/players/christopher-vaotoa/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- Christopher VAOTOAが[バイヨンヌ](/teams/top14/bayonne/)に加入
 - Clément MARTINEZが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Clément MAYNADIER](/players/clement-maynadier/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Cléo BARD](/players/cleo-bard/)が[リヨン](/teams/top14/lyon/)に加入
 - Clovis CHIZATが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Colin DUPUY（コリン・デュピュイ）](/players/colin-dupuy/)が[カストル](/teams/top14/castres/)に加入
+- [Connor SA（コナー・サ）](/players/connor-sa/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - Corentin COULARISが[カストル](/teams/top14/castres/)に加入
 - Corentin VERNETが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Cyril CAZEAUX（シリル・カゾー）](/players/cyril-cazeaux/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
@@ -84,10 +108,13 @@ draft: false
 - [Darcy SWAIN](/players/darcy-swain/)が[クレルモン](/teams/top14/clermont/)に加入
 - Dave ATTWOODが[ラシン92](/teams/top14/racing-92/)に加入
 - [David KRIEL](/players/david-kriel/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
+- [Davit BARAMIA](/players/davit-baramia/)が[トゥーロン](/teams/top14/toulon/)に加入
 - [Denis MARCHOIS](/players/denis-marchois/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
 - [Denver BRADFORD](/players/denver-bradford/)が[モンペリエ](/teams/top14/montpellier/)に加入
 - Deyan NEPVEUXが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Diaan AUGUSTYN](/players/diaan-augustyn/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
+- [Diego GRADOZ](/players/diego-gradoz/)が[トゥーロン](/teams/top14/toulon/)に加入
+- [Diego JURD（ディエゴ・ジュード）](/players/diego-jurd/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
 - [Diego MIRANDA](/players/diego-miranda/)が[ポー](/teams/top14/pau/)に加入
 - [Diego PITARCH](/players/diego-pitarch/)が[トゥールーズ](/teams/top14/toulouse/)に加入
 - [Dimitri DELIBES（ディミトリ・デリブ）](/players/dimitri-delibes/)が[モンペリエ](/teams/top14/montpellier/)に加入
@@ -97,11 +124,13 @@ draft: false
 - [Dylan INDABURU](/players/dylan-indaburu/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
 - Eadin LAYZELLが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Eddie ERSKINE](/players/eddie-erskine/)が[クレルモン](/teams/top14/clermont/)に加入
+- [Édouard LOIZEAU](/players/edouard-loizeau/)が[ポー](/teams/top14/pau/)に加入
 - [Élias LIBOUREL](/players/elias-libourel/)が[トゥールーズ](/teams/top14/toulouse/)に加入
 - [Elliot STOOKE](/players/elliot-stooke/)が[クレルモン](/teams/top14/clermont/)に加入
 - [Émilien DUSSAUX](/players/emilien-dussaux/)が[ポー](/teams/top14/pau/)に加入
 - [Émilien VERDIER](/players/emilien-verdier/)が[クレルモン](/teams/top14/clermont/)に加入
 - [Enzo FERNANDES](/players/enzo-fernandes/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Enzo FORLETTA（エンツォ・フォルレッタ）](/players/enzo-forletta/)が[ペルピニャン](/teams/top14/perpignan/)に加入
 - [Etene NANAI-SETURO](/players/etene-nanai-seturo/)が[クレルモン](/teams/top14/clermont/)に加入
 - [Ethan FRANÇOIS](/players/ethan-francois/)が[クレルモン](/teams/top14/clermont/)に加入
 - Ethan STADDONが[ラシン92](/teams/top14/racing-92/)に加入
@@ -109,37 +138,47 @@ draft: false
 - [Evan DUARTE MONTEIRO](/players/evan-duarte-monteiro/)が[ラシン92](/teams/top14/racing-92/)に加入
 - Evan OLMSTEADが[ヴァンヌ](/teams/top14/vannes/)に加入
 - Ewan RICHARDSが[リヨン](/teams/top14/lyon/)に加入
+- [Ewen TANGUY](/players/ewen-tanguy/)が[トゥーロン](/teams/top14/toulon/)に加入
 - Fergus LEE-WARNERが[リヨン](/teams/top14/lyon/)に加入
 - Florent GUIONが[ヴァンヌ](/teams/top14/vannes/)に加入
+- [Florian BAQUEY](/players/florian-baquey/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Florian SENECTAIRE](/players/florian-senectaire/)が[クレルモン](/teams/top14/clermont/)に加入
 - [Fousseynou CISSOKHO](/players/fousseynou-cissokho/)が[リヨン](/teams/top14/lyon/)に加入
 - Frankie READが[リヨン](/teams/top14/lyon/)に加入
-- [Gabriel LEQUIN](/players/gabriel-lequin/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- [Gabin GARAULT](/players/gabin-garault/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
+- [Gabin LACOSTE](/players/gabin-lacoste/)が[リヨン](/teams/top14/lyon/)に加入
+- Gabriel LEQUINが[ペルピニャン](/teams/top14/perpignan/)に加入
 - [Gabriel MELCHOR](/players/gabriel-melchor/)が[クレルモン](/teams/top14/clermont/)に加入
-- [Gabriel OGHRE](/players/gabriel-oghre/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- Gabriel OGHREが[バイヨンヌ](/teams/top14/bayonne/)に加入
 - Gaël DOMSが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Gaël FICKOU（ガエル・フィクー）](/players/gael-fickou/)が[トゥーロン](/teams/top14/toulon/)に加入
 - [Gaël TOTÉLÉ](/players/gael-totele/)が[ポー](/teams/top14/pau/)に加入
 - [Gaëtan NGASSA MANAC'H](/players/gaetan-ngassa-manac-h/)が[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Gagui MARGVELASHVILI](/players/gagui-margvelashvili/)が[ラシン92](/teams/top14/racing-92/)に加入
+- [Gaspard VAN PRAAG](/players/gaspard-van-praag/)が[スタッド・フランセ](/teams/top14/paris/)に加入
 - [George MOALA（ジョージ・モアラ）](/players/george-moala/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
+- [Giorgi BERIA（ギオルギ・ベリア）](/players/giorgi-beria/)が[ヴァンヌ](/teams/top14/vannes/)に加入
+- [Giorgi TURASHVILI](/players/giorgi-turashvili/)が[カストル](/teams/top14/castres/)に加入
 - GJ VAN VELZEが[リヨン](/teams/top14/lyon/)に加入
 - [Gonzalo GARCIA](/players/gonzalo-garcia-1999/)が[ポー](/teams/top14/pau/)に加入
 - Grégory ROBERTが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Guénolé JOURDAIN](/players/guenole-jourdain/)が[ヴァンヌ](/teams/top14/vannes/)に加入
-- [Guido PETTI](/players/guido-petti/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- Guido PETTIが[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Guillaume CRAMONT（ギヨーム・クラモン）](/players/guillaume-cramont/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Hame FAIVA](/players/hame-faiva/)が[クレルモン](/teams/top14/clermont/)に加入
 - [Hamish WATSON](/players/hamish-watson/)が[カストル](/teams/top14/castres/)に加入
 - Hans LOMBARD-BURETが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Harvey CUCKSON](/players/harvey-cuckson/)が[クレルモン](/teams/top14/clermont/)に加入
-- [Henri CAPARROI](/players/henri-caparroi/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- Henri CAPARROIが[バイヨンヌ](/teams/top14/bayonne/)に加入
 - Hugo ACKAERTが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Hugo AFONSO](/players/hugo-afonso/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
 - [Hugo AVOGADRO](/players/hugo-avogadro/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
+- [Hugo LECLERQ](/players/hugo-leclerq/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Huw JONES](/players/huw-jones/)が[トゥーロン](/teams/top14/toulon/)に加入
 - [Iban CALLEJA](/players/iban-calleja/)が[トゥールーズ](/teams/top14/toulouse/)に加入
 - [Ihaia WEST（イハイア・ウェスト）](/players/ihaia-west/)が[スタッド・フランセ](/teams/top14/paris/)に加入
 - [Ilan CUSIN](/players/ilan-cusin/)が[クレルモン](/teams/top14/clermont/)に加入
+- [Ilian SONKO-BASIN](/players/ilian-sonko-basin/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
 - [Imanol THICOÏPE](/players/imanol-thicoipe/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
 - [Inia TABUAVOU](/players/inia-tabuavou/)が[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Ioan EMANUEL](/players/ioan-emanuel/)が[クレルモン](/teams/top14/clermont/)に加入
@@ -148,58 +187,79 @@ draft: false
 - [Jack BENNETT](/players/jack-bennett/)が[クレルモン](/teams/top14/clermont/)に加入
 - Jaco COETZEEが[リヨン](/teams/top14/lyon/)に加入
 - [Jacques DU PLESSIS](/players/jacques-du-plessis/)が[クレルモン](/teams/top14/clermont/)に加入
-- [Jacques NGUIMBOUS](/players/jacques-nguimbous/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
-- [Jandré MARAIS](/players/jandre-marais/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- Jacques NGUIMBOUSが[バイヨンヌ](/teams/top14/bayonne/)に加入
+- Jandré MARAISが[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Jasper SPANDLER](/players/jasper-spandler/)が[クレルモン](/teams/top14/clermont/)に加入
 - Jean-Baptiste LACHAISEが[カストル](/teams/top14/castres/)に加入
-- [Jean-Baptiste RENDÉ](/players/jean-baptiste-rende/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- Jean-Baptiste RENDÉが[ペルピニャン](/teams/top14/perpignan/)に加入
 - Jean GUICHERDが[トゥールーズ](/teams/top14/toulouse/)に加入
 - Jean MONRIBOTが[トゥールーズ](/teams/top14/toulouse/)に加入
 - [Jefferson POIROT（ジェファーソン・ポワロ）](/players/jefferson-poirot/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - Jessy TAOFIFENUAが[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
 - [Joachim SENGA KOUO](/players/joachim-senga/)が[ポー](/teams/top14/pau/)に加入
+- [Joan LLOSENT](/players/joan-llosent/)が[ペルピニャン](/teams/top14/perpignan/)に加入
 - [Joe JONAS（ジョー・ジョナス）](/players/joe-jonas/)が[ヴァンヌ](/teams/top14/vannes/)に加入
 - Joe MAKSYMIWが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Johannes JONKER](/players/johannes-jonker/)が[クレルモン](/teams/top14/clermont/)に加入
 - [John STEWART](/players/john-stewart/)が[クレルモン](/teams/top14/clermont/)に加入
+- [Jokin DUHALT](/players/jokin-duhalt/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
 - [Josaia RALULU](/players/josaia-ralulu/)が[ラシン92](/teams/top14/racing-92/)に加入
+- [José MADEIRA](/players/jose-madeira/)が[ペルピニャン](/teams/top14/perpignan/)に加入
 - [Josh MCNALLY](/players/josh-mcnally/)が[クレルモン](/teams/top14/clermont/)に加入
+- [Josua NADREDRE（ジョシュア・ナドレドレ）](/players/josua-nadredre/)が[カストル](/teams/top14/castres/)に加入
+- [Jovan SRECKOVIC](/players/jovan-sreckovic/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- [Juan HARINORDOQUY](/players/juan-harinordoquy/)が[トゥールーズ](/teams/top14/toulouse/)に加入
 - [Juan SCHOEMAN](/players/juan-schoeman/)が[クレルモン](/teams/top14/clermont/)に加入
 - [Jude TRARIEUX](/players/jude-trarieux/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Judicaël CANCORIET（ジュディカエル・カンコリエ）](/players/judicael-cancoriet/)が[トゥーロン](/teams/top14/toulon/)に加入
 - Jules DEPOORTÈREが[カストル](/teams/top14/castres/)に加入
-- [Jules DUSSUTOUR](/players/jules-dussutour/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Jules DERRE](/players/jules-derre/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
+- Jules DUSSUTOURが[バイヨンヌ](/teams/top14/bayonne/)に加入
 - Jules JEUNEHOMMEが[ヴァンヌ](/teams/top14/vannes/)に加入
+- [Jules MARTIN-BONNARD](/players/jules-martin-bonnard/)が[カストル](/teams/top14/castres/)に加入
 - Julien KOTEUREUが[ヴァンヌ](/teams/top14/vannes/)に加入
 - Julien LAVERANが[トゥールーズ](/teams/top14/toulouse/)に加入
 - [Justin BOURAUX](/players/justin-bouraux/)が[クレルモン](/teams/top14/clermont/)に加入
-- [Kane DOUGLAS（ケイン・ダグラス）](/players/kane-douglas/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- Kane DOUGLAS（ケイン・ダグラス）が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Kérian EL BAHRAOUI-MISSONNIER](/players/kerian-el-bahraoui-missonnier/)が[カストル](/teams/top14/castres/)に加入
 - [Kévin NOAH](/players/kevin-noah/)が[クレルモン](/teams/top14/clermont/)に加入
 - [Kieran VERDEN](/players/kieran-verden/)が[クレルモン](/teams/top14/clermont/)に加入
+- [Killian GÉRACI（キリアン・ジェラシ）](/players/killian-geraci/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Konstantine MIKAUTADZE](/players/konstantine-mikautadze/)が[カストル](/teams/top14/castres/)に加入
+- [Kyllian BÉAL](/players/kyllian-beal/)が[トゥーロン](/teams/top14/toulon/)に加入
 - [Kyllian RINGUET](/players/kyllian-ringuet/)が[カストル](/teams/top14/castres/)に加入
+- [Lachlan SWINTON（ラクラン・スウィントン）](/players/lachlan-swinton/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- [Lasha MACHARASHVILI](/players/lasha-macharashvili/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Lasha PKHAKADZE](/players/lasha-pkhakadze/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
-- [Lasha TSIKHISTAVI](/players/lasha-tsikhistavi/)が[トゥールーズ](/teams/top14/toulouse/)に加入
-- [Léandre SELLIER](/players/leandre-sellier/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- Lasha TSIKHISTAVIが[トゥールーズ](/teams/top14/toulouse/)に加入
+- Léandre SELLIERが[ペルピニャン](/teams/top14/perpignan/)に加入
 - [Lekso KAULASHVILI（レクソ・カウラシヴィリ）](/players/lekso-kaulashvili/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Lenny ALIFANETY](/players/lenny-alifanety/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Léo CHAUVIN](/players/leo-chauvin/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Léo COLY（レオ・コリ）](/players/leo-coly/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Leviticus FUNA IUTA](/players/leviticus-funa-iuta/)が[ヴァンヌ](/teams/top14/vannes/)に加入
+- [Liam COUTURIER](/players/liam-couturier/)が[ラシン92](/teams/top14/racing-92/)に加入
 - [Lino ALLARD](/players/lino-allard/)が[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Lionel FUKWAMOKO](/players/lionel-fukwamoko/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
 - [Loan ROPERO](/players/loan-ropero/)が[リヨン](/teams/top14/lyon/)に加入
+- [Lohann GIL](/players/lohann-gil/)が[トゥーロン](/teams/top14/toulon/)に加入
 - [Lorenzo CALOGERO](/players/lorenzo-calogero/)が[カストル](/teams/top14/castres/)に加入
+- [Lorenzo LAOUNA](/players/lorenzo-laouna/)が[カストル](/teams/top14/castres/)に加入
 - [Losseni MEÏTÉ](/players/losseni-meite/)が[スタッド・フランセ](/teams/top14/paris/)に加入
+- [Louis MAS](/players/louis-mas/)が[ペルピニャン](/teams/top14/perpignan/)に加入
 - [Louis ORTOLAN](/players/louis-ortolan/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
 - [Luca TABAROT](/players/luca-tabarot/)が[モンペリエ](/teams/top14/montpellier/)に加入
+- [Lucas ANDJISSERAMATCHI（リュカ・アンジセロマチ）](/players/lucas-andjisseramatchi/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
 - [Lucas ROSTAING](/players/lucas-rostaing/)が[リヨン](/teams/top14/lyon/)に加入
 - [Luciano ASEVEDO](/players/luciano-asevedo/)が[トゥーロン](/teams/top14/toulon/)に加入
 - [Luigi COZZOLINO](/players/luigi-cozzolino/)が[ラシン92](/teams/top14/racing-92/)に加入
 - Luka LUDWIGが[トゥールーズ](/teams/top14/toulouse/)に加入
+- [Luke MCGRATH](/players/luke-mcgrath/)が[ペルピニャン](/teams/top14/perpignan/)に加入
 - Maé RIVIÈREが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Maël CINTRACT](/players/mael-cintract/)が[モンペリエ](/teams/top14/montpellier/)に加入
 - [Maël PERRIN](/players/mael-perrin/)が[モンペリエ](/teams/top14/montpellier/)に加入
 - [Maël TURPIN](/players/mael-turpin/)が[カストル](/teams/top14/castres/)に加入
+- [Maëlan RABUT](/players/maelan-rabut/)が[ペルピニャン](/teams/top14/perpignan/)に加入
 - Mahamadou DIABY（ママドゥ・ディアビ）が[カストル](/teams/top14/castres/)に加入
 - [Mahno DEALLE FACQUEZ](/players/mahno-dealle-facquez/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - Maïno PAKIHIVATAUが[ヴァンヌ](/teams/top14/vannes/)に加入
@@ -207,35 +267,48 @@ draft: false
 - Malik HAMADACHEが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Malobé MBAYE](/players/malobe-mbaye/)が[スタッド・フランセ](/teams/top14/paris/)に加入
 - Mamuka MSTOIANIが[ヴァンヌ](/teams/top14/vannes/)に加入
-- [Manuel LEINDEKAR](/players/manuel-leindekar/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- [Manuel LEINDEKAR](/players/manuel-leindekar/)が[カストル](/teams/top14/castres/)に加入
+- [Marc ARTILES](/players/marc-artiles/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- [Marco RICCIONI](/players/marco-riccioni/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- [Marika NAURA](/players/marika-naura/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Martin DURAND](/players/martin-durand-/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- [Martin PUCHEU-HAURET](/players/martin-pucheu-hauret/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Martin VILLAR](/players/martin-villar/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
 - [Marvin OKUYA（マーヴィン・オクヤ）](/players/marvin-okuya/)が[リヨン](/teams/top14/lyon/)に加入
 - Mateaki KAFATOLUが[トゥールーズ](/teams/top14/toulouse/)に加入
-- [Matéo CHÉRIFI](/players/mateo-cherifi/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- Matéo CHÉRIFIが[ペルピニャン](/teams/top14/perpignan/)に加入
+- [Matéo GRACIEUX](/players/mateo-gracieux/)が[トゥーロン](/teams/top14/toulon/)に加入
 - [Matéo GUÉRIN](/players/mateo-guerin/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
 - Matéo LAVASELÉが[カストル](/teams/top14/castres/)に加入
-- [Matéo SAINT-GERMAIN](/players/mateo-saint-germain/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- Matéo SAINT-GERMAINが[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Matéo TISSOT](/players/mateo-tissot-/)が[クレルモン](/teams/top14/clermont/)に加入
-- [Mathéo FRISACH（マテオ・フリザック）](/players/matheo-frisach/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Mathéo FRISACH（マテオ・フリザック）](/players/matheo-frisach/)が[クレルモン](/teams/top14/clermont/)に加入
+- [Mathéo FUTHAZAR](/players/matheo-futhazar/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
+- [Mathias MAZZONI](/players/mathias-mazzoni/)が[トゥーロン](/teams/top14/toulon/)に加入
 - Mathis GENSULが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Mathis ROUGERIE](/players/mathis-rougerie/)が[クレルモン](/teams/top14/clermont/)に加入
 - Mathys ALIFANETYが[カストル](/teams/top14/castres/)に加入
 - [Mathys BELAUBRE](/players/mathys-belaubre/)が[クレルモン](/teams/top14/clermont/)に加入
 - [Mathys PILLAC](/players/mathys-pillac/)が[ペルピニャン](/teams/top14/perpignan/)に加入
 - [Matías ALEMANNO](/players/matias-alemanno/)が[ヴァンヌ](/teams/top14/vannes/)に加入
+- [Matthieu UHILA（マチュー・ウヒラ）](/players/matthieu-uhila/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Matěj SEHNAL](/players/matěj-sehnal/)が[ラシン92](/teams/top14/racing-92/)に加入
 - [Max BRU](/players/max-bru/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
 - [Max PEARCE](/players/max-pearce/)が[クレルモン](/teams/top14/clermont/)に加入
 - [Maxence COCHARD](/players/maxence-cochard/)が[ラシン92](/teams/top14/racing-92/)に加入
-- [Maxence GIGAULT](/players/maxence-gigault/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- Maxence GIGAULTが[ペルピニャン](/teams/top14/perpignan/)に加入
 - [Maxime LAMOTHE（マクシム・ラモット）](/players/maxime-lamothe/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Maxime MACHENAUD（マクシム・マシュノー）](/players/maxime-machenaud/)が[ラシン92](/teams/top14/racing-92/)に加入
 - [Maximillien BRACKENBURY](/players/maximillien-brackenbury/)が[ラシン92](/teams/top14/racing-92/)に加入
-- [Mehdi KOURDES](/players/mehdi-kourdes/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Mehdi BORSALI](/players/mehdi-borsali/)が[スタッド・フランセ](/teams/top14/paris/)に加入
+- Mehdi KOURDESが[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Mevlut ZENGIN](/players/mevlut-zengin/)が[クレルモン](/teams/top14/clermont/)に加入
+- [Madosh TAMBWE（マドシュ・タムウェ）](/players/michael-tambwe/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - Mike SOSENE-FEAGAIが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Mikey SUMMERFIELD](/players/mikey-summerfield/)が[クレルモン](/teams/top14/clermont/)に加入
 - Millian OULDJIが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Mills SANERIVI](/players/mills-sanerivi/)が[ヴァンヌ](/teams/top14/vannes/)に加入
+- [Morgan MIGNOT](/players/morgan-mignot/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Mosese TABUAKOTO](/players/mosese-tabuakoto/)が[スタッド・フランセ](/teams/top14/paris/)に加入
 - [Murray TAULAGI](/players/murray-taulagi/)が[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Nathan FRAISSENON](/players/nathan-fraissenon/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
@@ -249,20 +322,30 @@ draft: false
 - [Noa ZINZEN（ノア・ジンゼン）](/players/noa-zinzen/)が[ラシン92](/teams/top14/racing-92/)に加入
 - Noah DERONが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Noah TRAINI](/players/noah-traini/)が[クレルモン](/teams/top14/clermont/)に加入
+- [Noam MOREAU](/players/noam-moreau/)が[トゥーロン](/teams/top14/toulon/)に加入
+- [Noé LEBRUN](/players/noe-lebrun/)が[トゥーロン](/teams/top14/toulon/)に加入
 - [Noud ROBBERTSEN](/players/noud-robbertsen/)が[トゥーロン](/teams/top14/toulon/)に加入
+- [Nougzar ADJAMOV](/players/nougzar-adjamov/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - OJ NOAが[トゥールーズ](/teams/top14/toulouse/)に加入
 - [Opeti HELU](/players/opeti-helu/)が[リヨン](/teams/top14/lyon/)に加入
 - [Owen ERASMUS](/players/owen-erasmus/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
 - [Owen FRESNAIS](/players/owen-fresnais/)が[リヨン](/teams/top14/lyon/)に加入
-- [Pablo DIMCHEFF](/players/pablo-dimcheff/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Owen SORHAINDO](/players/owen-sorhaindo/)が[トゥーロン](/teams/top14/toulon/)に加入
+- Pablo DIMCHEFFが[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Pablo GAUDIN](/players/pablo-gaudin/)が[スタッド・フランセ](/teams/top14/paris/)に加入
 - [Paco MAZOYER](/players/paco-mazoyer/)が[リヨン](/teams/top14/lyon/)に加入
-- [Pantxoa ARRIBILLAGA](/players/pantxoa-arribillaga/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- [Paco SCHEIBEL](/players/paco-scheibel/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
+- Pantxoa ARRIBILLAGAが[ペルピニャン](/teams/top14/perpignan/)に加入
+- [Paolo GARBISI（パオロ・ガルビジ）](/players/paolo-garbisi/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- [Pascal COTET（パスカル・コテ）](/players/pascal-cotet/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
+- [Patrice FALEVALU](/players/patrice-falevalu/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Paul BARD](/players/paul-bard/)が[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Paul COSTES（ポール・コスト）](/players/paul-costes/)が[ラシン92](/teams/top14/racing-92/)に加入
 - [Peïo DOSPITAL](/players/peio-dospital/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
 - [Peniami Nasali NARISIA](/players/peniami-nasali-narisia/)が[クレルモン](/teams/top14/clermont/)に加入
-- [Petero MAILULU](/players/petero-mailulu/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Petero MAILULU](/players/petero-mailulu/)が[スタッド・フランセ](/teams/top14/paris/)に加入
 - [Petit Jean IPOSO OHOTO](/players/petit-jean-iposo-ohoto/)が[ヴァンヌ](/teams/top14/vannes/)に加入
+- [Petti ARROSSAGARAY](/players/petti-arrossagaray/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - Pierre JOUVINが[ヴァンヌ](/teams/top14/vannes/)に加入
 - Pierre-Louis POEYが[トゥールーズ](/teams/top14/toulouse/)に加入
 - [Pierre POPELIN（ピエール・ポプラン）](/players/pierre-popelin/)が[ヴァンヌ](/teams/top14/vannes/)に加入
@@ -274,17 +357,22 @@ draft: false
 - [Rabah SLIMANI](/players/rabah-slimani/)が[トゥーロン](/teams/top14/toulon/)に加入
 - [Rafaël CAYUELA](/players/rafael-cayuela/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
 - [Raphaël CEYSSAT](/players/raphael-ceyssat/)が[クレルモン](/teams/top14/clermont/)に加入
+- [Raphaël DARQUIER](/players/raphael-darquier/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Raphaël PAYRASTRE](/players/raphael-payrastre/)が[クレルモン](/teams/top14/clermont/)に加入
 - [Ray NU'U](/players/ray-nu-u/)が[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Reda WARDI（レダ・ワルディ）](/players/reda-wardi/)が[モンペリエ](/teams/top14/montpellier/)に加入
-- [Rémi CASTAGNET](/players/remi-castagnet/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- Rémi CASTAGNETが[ペルピニャン](/teams/top14/perpignan/)に加入
 - [Rémi COUTY](/players/remi-couty/)が[ポー](/teams/top14/pau/)に加入
 - Richard BARRINGTONが[ヴァンヌ](/teams/top14/vannes/)に加入
+- [Rob DU PREEZ](/players/robert-du-preez/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Robert HURN](/players/robert-hurn/)が[ポー](/teams/top14/pau/)に加入
 - Robin DIONÉが[トゥールーズ](/teams/top14/toulouse/)に加入
 - [Rodrigo MARTA](/players/rodrigo-marta/)が[ポー](/teams/top14/pau/)に加入
+- [Romain LATTERRADE](/players/romain-latterrade/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Romain VALENTIN](/players/romain-valentin/)が[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Rory CAMERON](/players/rory-cameron/)が[クレルモン](/teams/top14/clermont/)に加入
+- [Rouane SIONÉ](/players/rouane-sione/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Ruan VIVIERS](/players/ruan-viviers/)が[リヨン](/teams/top14/lyon/)に加入
 - [Ruben PARGADE](/players/ruben-pargade/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Ruben VAN HEERDEN](/players/ruben-van-heerden/)が[モンペリエ](/teams/top14/montpellier/)に加入
 - [Rufus MCLEAN](/players/rufus-mclean/)が[スタッド・フランセ](/teams/top14/paris/)に加入
@@ -295,8 +383,12 @@ draft: false
 - [Sanele NOHAMBA](/players/sanele-nohamba/)が[リヨン](/teams/top14/lyon/)に加入
 - [Santiago GRONDONA](/players/santiago-grondona/)が[ポー](/teams/top14/pau/)に加入
 - [Scott KIRK](/players/scott-kirk/)が[クレルモン](/teams/top14/clermont/)に加入
+- [Sebastián POROH](/players/sebastian-poroh/)が[ペルピニャン](/teams/top14/perpignan/)に加入
 - [Sébastien BÉZY（セバスチャン・ベジー）](/players/sebastien-bezy/)が[モンペリエ](/teams/top14/montpellier/)に加入
 - [Seru URU](/players/seru-uru/)が[ラシン92](/teams/top14/racing-92/)に加入
+- [Setareki TOGANIYADRAVA](/players/setareki-toganiyadrava/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- [Seveci Naikalagi NAISILISILI](/players/seveci-naikalagi-naisilisili/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
+- [Sevu REECE](/players/sevu-reece/)が[ペルピニャン](/teams/top14/perpignan/)に加入
 - [Shalom UATISONE](/players/shalom-uatisone/)が[ポー](/teams/top14/pau/)に加入
 - [Simi KURUVOLI](/players/simione-kuruvoli/)が[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Simon MOREAU](/players/simon-moreau/)が[ラシン92](/teams/top14/racing-92/)に加入
@@ -305,7 +397,7 @@ draft: false
 - [Sipili FALATEA（シピリ・ファラテア）](/players/sipili-falatea/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Stanislas NOLLET](/players/stanislas-nollet/)が[スタッド・フランセ](/teams/top14/paris/)に加入
 - [Taylor GONTINEAC](/players/taylor-gontineac/)が[カストル](/teams/top14/castres/)に加入
-- [Théo HIALLE](/players/theo-hialle/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- Théo HIALLEが[ペルピニャン](/teams/top14/perpignan/)に加入
 - [Theo MCFARLAND](/players/theo-mcfarland/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
 - Théo SAUZARETが[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Théo VIDAL](/players/theo-vidal/)が[カストル](/teams/top14/castres/)に加入
@@ -313,27 +405,33 @@ draft: false
 - [Thomas ADÉLAÏDE](/players/thomas-adelaide/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
 - [Thomas AMETLLA](/players/thomas-ametlla/)が[トゥーロン](/teams/top14/toulon/)に加入
 - [Thomas BUÉ](/players/thomas-bue/)が[スタッド・フランセ](/teams/top14/paris/)に加入
-- [Thomas CEYTE（トマ・セイト）](/players/thomas-ceyte/)が[クレルモン](/teams/top14/clermont/)に加入
+- [Thomas CEYTE（トマ・セイト）](/players/thomas-ceyte/)が[カストル](/teams/top14/castres/)に加入
 - [Thomas DELPEUCH](/players/thomas-delpeuch/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
 - [Thomas DU TOIT](/players/thomas-du-toit/)が[クレルモン](/teams/top14/clermont/)に加入
 - [Thomas GALLO](/players/thomas-gallo/)が[リヨン](/teams/top14/lyon/)に加入
-- [Thomas JOLMÈS（トマ・ジョルメス）](/players/thomas-jolmes/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Thomas JOLMÈS（トマ・ジョルメス）](/players/thomas-jolmes/)が[ポー](/teams/top14/pau/)に加入
 - [Thomas PLOYET](/players/thomas-ployet/)が[ヴァンヌ](/teams/top14/vannes/)に加入
 - [Tim HOYT](/players/tim-hoyt/)が[リヨン](/teams/top14/lyon/)に加入
 - Tom DOUGHTYが[ラシン92](/teams/top14/racing-92/)に加入
 - [Tom DUNN](/players/tom-dunn/)が[クレルモン](/teams/top14/clermont/)に加入
+- [Tom GOEDEMONDT](/players/tom-goedemondt/)が[ポー](/teams/top14/pau/)に加入
 - [Tom NOGUEIRA](/players/tom-nogueira/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Tom WILLIS](/players/tom-willis/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
+- [Toma'Akino TAUFA（トマアキノ・タウファ）](/players/toma-akino-taufa/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Tomasi MAKA](/players/tomasi-maka/)が[スタッド・フランセ](/teams/top14/paris/)に加入
 - [Tommaso MENONCELLO](/players/tommaso-menoncello/)が[トゥールーズ](/teams/top14/toulouse/)に加入
-- [Torsten VAN JAARSVELD](/players/torsten-van-jaarsveld/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- Torsten VAN JAARSVELDが[ペルピニャン](/teams/top14/perpignan/)に加入
 - [Tristan OLIVIER](/players/tristan-olivier/)が[クレルモン](/teams/top14/clermont/)に加入
-- [Txomin ITHURBIDE](/players/txomin-ithurbide/)が[ペルピニャン](/teams/top14/perpignan/)に加入
+- [Txomin ITHURBIDE](/players/txomin-ithurbide/)が[トゥールーズ](/teams/top14/toulouse/)に加入
 - [Tyméo BOHNENSTENGEL](/players/tymeo-bohnenstengel/)が[ラシン92](/teams/top14/racing-92/)に加入
 - [Ugo BONIFACE（ウーゴ・ボニファス）](/players/ugo-boniface/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
-- [Vadim COBILAS](/players/vadim-cobilas/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- Vadim COBILASが[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Valentin BOURGES](/players/valentin-bourges/)が[ポー](/teams/top14/pau/)に加入
 - [Valentin DELPY](/players/valentin-delpy/)が[トゥールーズ](/teams/top14/toulouse/)に加入
+- [Valentino PANI](/players/valentino-pani/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
 - Valery MOROZOVが[ラシン92](/teams/top14/racing-92/)に加入
+- [Viliame TUTUVULI](/players/viliame-tutuvuli/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
+- [Vincent GIUDICELLI（ヴァンサン・ジュディセリ）](/players/vincent-giudicelli/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
 - Walter DESMAISONが[ヴァンヌ](/teams/top14/vannes/)に加入
 - Will SPENCERが[ラシン92](/teams/top14/racing-92/)に加入
 - [Will STUART](/players/will-stuart/)が[クレルモン](/teams/top14/clermont/)に加入
@@ -345,3 +443,5 @@ draft: false
 - [Younès BEKHTI](/players/younes-bekhti/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Zaccharie AFFANE](/players/zaccharie-affane/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
 - [Zach FITTLER](/players/zach-fittler/)が[ポー](/teams/top14/pau/)に加入
+- [Zak PRICE](/players/zak-price/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
+- [Zinédine AOUAD](/players/zinedine-aouad/)が[バイヨンヌ](/teams/top14/bayonne/)に加入
