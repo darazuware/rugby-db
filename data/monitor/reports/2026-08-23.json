@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-23T13:45:18+09:00",
+  "checked_at": "2026-08-23T20:13:21+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -172,10 +172,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kyudenvoltex.com/",
-        "https://www.kyudenvoltex.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -311,10 +308,7 @@
       "first_run": false,
       "item_count": 45,
       "new_items": [],
-      "changed_pages": [
-        "https://www.skyactivs.com/",
-        "https://www.skyactivs.com/news/2091"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
