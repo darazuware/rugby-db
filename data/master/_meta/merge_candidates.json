@@ -182,6 +182,20 @@
     ]
   },
   {
+    "name_en_normalized": "ruan botha",
+    "birthdate": "1992-01-10",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_483765"
+      },
+      {
+        "league": "national",
+        "id": "jrfu_callup_ruan-botha"
+      }
+    ]
+  },
+  {
     "name_en_normalized": "tyler paul",
     "birthdate": "1995-01-20",
     "members": [
@@ -626,6 +640,20 @@
       {
         "league": "national",
         "id": "ar_kippei-ishida"
+      }
+    ]
+  },
+  {
+    "name_en_normalized": "shin takeuchi",
+    "birthdate": "2000-08-07",
+    "members": [
+      {
+        "league": "league-one-d1",
+        "id": "lo_483494"
+      },
+      {
+        "league": "national",
+        "id": "jrfu_callup_shin-takeuchi"
       }
     ]
   },
