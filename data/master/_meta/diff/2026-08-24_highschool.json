@@ -1,6 +1,13 @@
 {
   "league": "highschool",
-  "signings": [],
+  "signings": [
+    {
+      "id": "hs_御所実業高校__皆錢兼伍",
+      "name_en": null,
+      "name_ja": "皆錢 兼伍",
+      "team_id": null
+    }
+  ],
   "transfers": [],
   "departures": [],
   "first_caps": [],

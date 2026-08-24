@@ -51,12 +51,6 @@
       "name_ja": null,
       "team_id": "clermont"
     },
-    "ar_antonio-gamez": {
-      "id": "ar_antonio-gamez",
-      "name_en": "Antonio GÁMEZ",
-      "name_ja": null,
-      "team_id": "toulon"
-    },
     "ar_arno-botha": {
       "id": "ar_arno-botha",
       "name_en": "Arno BOTHA",
@@ -134,12 +128,6 @@
       "name_en": "Carwyn TUIPULOTU",
       "name_ja": null,
       "team_id": "pau"
-    },
-    "ar_christian-mendes": {
-      "id": "ar_christian-mendes",
-      "name_en": "Christian MENDES",
-      "name_ja": null,
-      "team_id": "toulon"
     },
     "ar_clement-sennelier": {
       "id": "ar_clement-sennelier",
@@ -800,12 +788,6 @@
       "name_en": "PJ POUTASI",
       "name_ja": null,
       "team_id": "montpellier"
-    },
-    "ar_raphael-martin": {
-      "id": "ar_raphael-martin",
-      "name_en": "Raphaël MARTIN",
-      "name_ja": null,
-      "team_id": "lyon"
     },
     "ar_remy-claveranne": {
       "id": "ar_remy-claveranne",
@@ -4292,14 +4274,19 @@
       "name_en": null,
       "name_ja": "亀井 亮衛",
       "team_id": null
-    }
-  },
-  "highschool": {
-    "hs_御所実業高校__皆錢兼伍": {
-      "id": "hs_御所実業高校__皆錢兼伍",
+    },
+    "univ_専修大学__林悠太": {
+      "id": "univ_専修大学__林悠太",
       "name_en": null,
-      "name_ja": "皆錢 兼伍",
+      "name_ja": "林 悠太",
+      "team_id": null
+    },
+    "univ_東京大学__橘希奈": {
+      "id": "univ_東京大学__橘希奈",
+      "name_en": null,
+      "name_ja": "橘 希奈",
       "team_id": null
     }
-  }
+  },
+  "highschool": {}
 }
