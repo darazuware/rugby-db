@@ -185,6 +185,7 @@ const TEAMS_DIR = join(MASTER_DIR, "teams");
 const MATCHES_DIR = join(MASTER_DIR, "matches");
 const STANDINGS_DIR = join(MASTER_DIR, "standings");
 const SCHOOLS_FILE = join(MASTER_DIR, "schools", "schools.json");
+const EPISODES_DIR = join(PLAYERS_DIR, "episodes");
 const MANUAL_DIR = join(process.cwd(), "data", "manual");
 
 // ---------------------------------------------------------------------------
@@ -591,6 +592,31 @@ export async function getSchoolById(id: string): Promise<School | undefined> {
 /** 学校の表示名（name優先、無ければ null）。将来 name_kana 併記が必要ならここに集約する。 */
 export function schoolDisplayName(school: School | null | undefined): string | null {
   return school?.name ?? null;
+}
+
+// ---------------------------------------------------------------------------
+// Episodes（選手ページ本文の厚み付け。JRFU公式/チーム公式/リーグワン公式/
+// 海外メディア公式/ラグビーマガジン・リパブリック等からのスクレイピング結果のみ。
+// AIの創作は含まない。data/master/players/episodes/{player.id}.json）
+// ---------------------------------------------------------------------------
+
+export interface PlayerEpisodeFact {
+  fact: string;
+  category: string;
+  source_name: string;
+  source_url: string;
+  date: string | null;
+}
+
+export interface PlayerEpisodes {
+  player_id: string;
+  name: string;
+  collected_at: string;
+  facts: PlayerEpisodeFact[];
+}
+
+export async function getPlayerEpisodes(playerId: string): Promise<PlayerEpisodes | null> {
+  return readJsonSafe<PlayerEpisodes | null>(join(EPISODES_DIR, `${playerId}.json`), null);
 }
 
 // ---------------------------------------------------------------------------

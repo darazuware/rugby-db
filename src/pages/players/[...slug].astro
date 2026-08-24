@@ -21,6 +21,7 @@ import {
   canHaveIndividualPlayerPage,
   getAllPlayers,
   getAllSchools,
+  getPlayerEpisodes,
   getTeamById,
   teamDisplayName,
   type Player,
@@ -82,6 +83,17 @@ const eduUniv = !player.is_minor
 const posJa = positionJa(player.position);
 const age = calcAge(player.birthdate);
 const bioSentences = buildPlayerBioSentences(player, { teamName });
+
+// エピソード（JRFU公式/チーム公式/リーグワン公式/主要メディアからのスクレイピング事実のみ。
+// 出典は本文に表示しない: feedback_hide_sources）
+const episodes = await getPlayerEpisodes(player.id);
+const episodeCategoryOrder = ["経歴", "プレースタイル", "人物像", "名言"] as const;
+const episodesByCategory = episodeCategoryOrder
+  .map((category) => ({
+    category,
+    facts: (episodes?.facts ?? []).filter((f) => f.category === category),
+  }))
+  .filter((g) => g.facts.length > 0);
 
 // 検証済み公式Instagram（本人アカウントのみ・data/manual/instagram_embeds.json）
 const igEmbed = (igEmbeds as Record<string, { account?: string; permalink?: string }>)[player.slug];
@@ -456,6 +468,25 @@ const nameVariantsText = nameVariants.length
           <section class="mb-10">
             <h2 class="text-lg font-black text-foreground mb-3">プロフィール</h2>
             <p class="text-foreground/80 leading-relaxed">{bioSentences.join("")}</p>
+          </section>
+        )}
+
+        {/* エピソード（公式・主要メディア取材ベース。出典は非掲載） */}
+        {episodesByCategory.length > 0 && (
+          <section class="mb-10">
+            <h2 class="text-lg font-black text-foreground mb-3">エピソード</h2>
+            {episodesByCategory.map((group) => (
+              <div class="mb-5 last:mb-0">
+                <h3 class="text-sm font-bold text-foreground/60 mb-2">{group.category}</h3>
+                <ul class="space-y-2">
+                  {group.facts.map((f) => (
+                    <li class="text-foreground/80 leading-relaxed text-sm before:content-['・'] before:mr-1 before:text-foreground/40">
+                      {f.fact}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
           </section>
         )}
 
