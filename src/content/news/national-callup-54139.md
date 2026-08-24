@@ -1,9 +1,9 @@
 ---
 title: "男子日本代表 宮崎（大阪）合宿参加メンバー（34名）"
-pubDate: 2026-08-24
+pubDate: 2026-08-25
 category: "NEWS"
 tags: ["代表", "招集", "合宿"]
-source_diff: "2026-08-24_national.json"
+source_diff: "2026-08-25_national.json"
 draft: false
 ---
 
