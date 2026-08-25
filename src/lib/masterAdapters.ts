@@ -138,7 +138,25 @@ export async function getMasterPlayersLegacyShape(legacyLeague: string): Promise
 
 /** master 対応済みの legacyLeague キー一覧（呼び出し側の除外フィルタ用）。 */
 export function masterCoveredLegacyLeagues(): string[] {
-  return Object.keys(LEGACY_LEAGUE_MASTER_KEYS);
+  return [...Object.keys(LEGACY_LEAGUE_MASTER_KEYS), "university"];
+}
+
+/**
+ * university（team_id を持たない NO_TEAM_LEAGUES）の選手一覧を旧UI互換形で返す。
+ * team は education の type="univ" の name_raw を代用する（master に Team実体が無いため）。
+ * highschool は 10 のポリシー（高校生の個別ページ禁止）に抵触するため対象外
+ * （既存 UI は選手カードを常に /players/{slug} へリンクするため、個別ページ非生成の
+ * highschool を混ぜるとリンク切れになる。学校ページ /schools/{id}/ 側で提供済み）。
+ */
+export async function getMasterUniversityPlayersLegacyShape(): Promise<LegacyPlayerEntry[]> {
+  const players = await getPlayersByLeague("university");
+  if (players.length === 0) return [];
+  return Promise.all(
+    players.map((p) => {
+      const univName = p.education.find((e) => e.type === "univ")?.name_raw ?? "";
+      return playerToLegacyShape(p, univName);
+    }),
+  );
 }
 
 /**
