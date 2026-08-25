@@ -174,6 +174,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
     const [selectedTeams, setSelectedTeams] = useState<string[]>([]);
     const [sortKey, setSortKey] = useState<'title' | 'age' | 'height' | 'weight'>('title');
     const [sortOrder, setSortOrder] = useState<'asc' | 'desc'>('asc');
+    const [isPanelOpen, setIsPanelOpen] = useState(false);
     const [currentPage, setCurrentPage] = useState(1);
     const ITEMS_PER_PAGE = 48;
     const [players, setPlayers] = useState<Player[]>(initialPlayers);
@@ -245,6 +246,49 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
             return selectedLeagues.includes(league);
         });
     }, [ALL_TEAMS, selectedLeagues, TEAM_LEAGUE_MAP]);
+
+    // ファセット件数計算用ヘルパー
+    const matchLeagueOf = (p: Player, leagues: string[]) =>
+        leagues.length === 0 || leagues.some(l => l.toLowerCase() === (p.data.league ?? '').toLowerCase());
+    const matchTeamOf = (p: Player, teams: string[]) =>
+        teams.length === 0 || (!!p.data.team && teams.includes(p.data.team));
+    const matchPositionOf = (p: Player, positions: string[]) => {
+        if (positions.length === 0) return true;
+        const playerPos = (p.data.position ?? '').toLowerCase();
+        return positions.some(pos => playerPos.split(/[/／・\s]+/).some(part => part.trim() === pos.toLowerCase().trim()));
+    };
+
+    const countsByLeague = useMemo(() => {
+        const counts: Record<string, number> = {};
+        players.forEach(p => {
+            if (!matchTeamOf(p, selectedTeams) || !matchPositionOf(p, selectedPositions)) return;
+            const l = (p.data.league ?? '').toLowerCase();
+            if (l) counts[l] = (counts[l] || 0) + 1;
+        });
+        return counts;
+    }, [players, selectedTeams, selectedPositions]);
+
+    const countsByTeam = useMemo(() => {
+        const counts: Record<string, number> = {};
+        players.forEach(p => {
+            if (!matchLeagueOf(p, selectedLeagues) || !matchPositionOf(p, selectedPositions)) return;
+            const t = p.data.team;
+            if (t) counts[t] = (counts[t] || 0) + 1;
+        });
+        return counts;
+    }, [players, selectedLeagues, selectedPositions]);
+
+    const countsByPosition = useMemo(() => {
+        const counts: Record<string, number> = {};
+        players.forEach(p => {
+            if (!matchLeagueOf(p, selectedLeagues) || !matchTeamOf(p, selectedTeams)) return;
+            (p.data.position ?? '').split(/[/／・\s]+/).forEach(part => {
+                const trimmed = part.trim();
+                if (trimmed) counts[trimmed] = (counts[trimmed] || 0) + 1;
+            });
+        });
+        return counts;
+    }, [players, selectedLeagues, selectedTeams]);
 
     // UIテーマ設定の取得
     const theme = useMemo(() => {
@@ -697,7 +741,49 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                         />
                     </div>
 
-                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+                    {/* 選択中フィルターのチップ + 開閉トグル */}
+                    {(() => {
+                        const chips: { label: string; onRemove: () => void }[] = [];
+                        if (!leagueContext) {
+                            selectedLeagues.forEach(id => {
+                                const l = LEAGUES.find(x => x.id === id);
+                                chips.push({ label: l ? l.name : id, onRemove: () => toggleFilter(setSelectedLeagues, id) });
+                            });
+                        }
+                        selectedTeams.forEach(t => chips.push({ label: t, onRemove: () => toggleFilter(setSelectedTeams, t) }));
+                        selectedPositions.forEach(p => chips.push({ label: p, onRemove: () => toggleFilter(setSelectedPositions, p) }));
+                        selectedDivisions.forEach(d => chips.push({ label: d, onRemove: () => toggleFilter(setSelectedDivisions, d) }));
+                        selectedCategories.forEach(c => chips.push({ label: c, onRemove: () => toggleFilter(setSelectedCategories, c) }));
+
+                        return (
+                            <div className="flex flex-wrap items-center gap-2">
+                                <button
+                                    onClick={() => setIsPanelOpen(prev => !prev)}
+                                    className={`px-5 py-2 rounded-xl font-black text-xs uppercase tracking-widest transition-all border-2 ${isPanelOpen
+                                        ? `${theme.accent} ${theme.border} text-white`
+                                        : 'bg-background border-border-dim text-foreground/60 hover:border-foreground/40'
+                                        }`}
+                                >
+                                    絞り込む {isPanelOpen ? '▴' : '▾'}
+                                </button>
+                                {chips.length === 0 ? (
+                                    <span className="text-foreground/30 text-xs font-bold italic">条件なし（全選手を表示中）</span>
+                                ) : (
+                                    chips.map((chip, i) => (
+                                        <button
+                                            key={`${chip.label}-${i}`}
+                                            onClick={chip.onRemove}
+                                            className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-foreground/5 border border-border-dim text-foreground/70 text-xs font-bold hover:bg-red-50 hover:border-red-200 hover:text-red-500 transition-all"
+                                        >
+                                            {chip.label} <span className="text-[10px]">✕</span>
+                                        </button>
+                                    ))
+                                )}
+                            </div>
+                        );
+                    })()}
+
+                    <div className={`grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 ${isPanelOpen ? '' : 'hidden'}`}>
                         {/* 2. リーグ選択 */}
                         {!leagueContext && (
                             <div className="col-span-1 md:col-span-2 lg:col-span-4">
@@ -721,7 +807,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                                 : 'bg-card border-border-dim text-foreground/40 hover:border-border-dim/80'
                                                 }`}
                                         >
-                                            {league.name}
+                                            {league.name} <span className="opacity-60 font-bold">({countsByLeague[league.id] || 0})</span>
                                         </button>
                                     ))}
                                 </div>
@@ -755,7 +841,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                                 : `bg-card border-border-dim text-foreground/40 hover:border-border-dim/80`
                                                 }`}
                                         >
-                                            {team}
+                                            {team} <span className="opacity-60 font-bold">({countsByTeam[team] || 0})</span>
                                         </button>
                                     );
                                 })}
@@ -787,7 +873,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                             : 'bg-card border-border-dim text-foreground/40 hover:border-border-dim/80'
                                             }`}
                                     >
-                                        {pos}
+                                        {pos} <span className="opacity-60 font-bold">({countsByPosition[pos] || 0})</span>
                                     </button>
                                 ))}
                             </div>
