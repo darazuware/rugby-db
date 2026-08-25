@@ -1,9 +1,9 @@
 ---
 title: "代表週間代表キャップ更新まとめ（2026-W35）"
-pubDate: 2026-08-25
+pubDate: 2026-08-26
 category: "NEWS"
 tags: ["代表", "キャップ更新"]
-source_diff: "2026-08-25_national.json"
+source_diff: "2026-08-26_national.json"
 draft: false
 ---
 
