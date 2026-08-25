@@ -1,11 +1,128 @@
 {
   "league": "national",
-  "signings": [],
+  "signings": [
+    {
+      "id": "jrfu_callup_ruan-botha",
+      "name_en": "Ruan BOTHA",
+      "name_ja": "ルアン・ボタ",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_callup_shin-takeuchi",
+      "name_en": "Shin TAKEUCHI",
+      "name_ja": "武内 慎",
+      "team_id": "japan"
+    }
+  ],
   "transfers": [],
   "departures": [],
   "first_caps": [],
-  "caps_updates": [],
-  "pending_departures": [],
+  "caps_updates": [
+    {
+      "id": "ar_arturo-ten-hoever",
+      "name_en": "Arturo TEN HOEVER",
+      "name_ja": null,
+      "team": "Uruguay",
+      "from_count": 2,
+      "to_count": 3
+    },
+    {
+      "id": "ar_damian-de-allende",
+      "name_en": "Damian DE ALLENDE",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 113,
+      "to_count": 157
+    },
+    {
+      "id": "ar_damian-willemse",
+      "name_en": "Damian WILLEMSE",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 29,
+      "to_count": 65
+    },
+    {
+      "id": "ar_gonzalo-lopez",
+      "name_en": "Gonzalo LOPEZ BONTEMPO",
+      "name_ja": null,
+      "team": "Spain",
+      "from_count": 19,
+      "to_count": 23
+    },
+    {
+      "id": "ar_hinckley-vaovasa",
+      "name_en": "Hinckley VAOVASA",
+      "name_ja": null,
+      "team": "Romania",
+      "from_count": 47,
+      "to_count": 52
+    },
+    {
+      "id": "ar_manex-ariceta",
+      "name_en": "Manex ARICETA",
+      "name_ja": null,
+      "team": "Spain",
+      "from_count": 7,
+      "to_count": 11
+    },
+    {
+      "id": "ar_michael-kumbirai",
+      "name_en": "Michael KUMBIRAI",
+      "name_ja": null,
+      "team": "Zimbabwe",
+      "from_count": 3,
+      "to_count": 4
+    },
+    {
+      "id": "ar_thierry-futeu",
+      "name_en": "Thierry FUTEU",
+      "name_ja": null,
+      "team": "Spain",
+      "from_count": 49,
+      "to_count": 62
+    },
+    {
+      "id": "ar_victor-mupunga",
+      "name_en": "Victor MUPUNGA",
+      "name_ja": null,
+      "team": "Zimbabwe",
+      "from_count": 4,
+      "to_count": 5
+    }
+  ],
+  "pending_departures": [
+    {
+      "id": "jrfu_national_510411",
+      "name_en": "Inoke BURUA",
+      "name_ja": "イノケ・ブルア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510424",
+      "name_en": "Shota TAIRA",
+      "name_ja": "平翔太",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510431",
+      "name_en": "Kanato HIRANO",
+      "name_ja": "平野叶翔",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510438",
+      "name_en": "Haruto WATANABE",
+      "name_ja": "渡邊晴斗",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510441",
+      "name_en": "Haruto KIDA",
+      "name_ja": "木田晴斗",
+      "team_id": "japan"
+    }
+  ],
   "newly_finished_rounds": [],
   "call_ups": [
     {

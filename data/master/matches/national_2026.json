@@ -13,7 +13,7 @@
     "venue": null,
     "venue_raw": "パロマ瑞穂スタジアム",
     "source_url": "https://www.rugby-japan.jp/match/29964",
-    "scraped_at": "2026-08-24T23:47:09+09:00"
+    "scraped_at": "2026-08-25T08:23:37+09:00"
   },
   {
     "id": "jrfu_29966",
@@ -29,7 +29,7 @@
     "venue": null,
     "venue_raw": "秩父宮ラグビー場",
     "source_url": "https://www.rugby-japan.jp/match/29966",
-    "scraped_at": "2026-08-24T23:47:06+09:00"
+    "scraped_at": "2026-08-25T08:23:34+09:00"
   },
   {
     "id": "jrfu_29967",
@@ -45,7 +45,7 @@
     "venue": null,
     "venue_raw": "MUFGスタジアム（国立競技場）",
     "source_url": "https://www.rugby-japan.jp/match/29967",
-    "scraped_at": "2026-08-24T23:47:02+09:00"
+    "scraped_at": "2026-08-25T08:23:29+09:00"
   },
   {
     "id": "jrfu_29968",
@@ -61,7 +61,7 @@
     "venue": null,
     "venue_raw": "東大阪市花園ラグビー場",
     "source_url": "https://www.rugby-japan.jp/match/29968",
-    "scraped_at": "2026-08-24T23:46:59+09:00"
+    "scraped_at": "2026-08-25T08:23:27+09:00"
   },
   {
     "id": "jrfu_29969",
@@ -77,7 +77,7 @@
     "venue": null,
     "venue_raw": "未定",
     "source_url": "https://www.rugby-japan.jp/match/29969",
-    "scraped_at": "2026-08-24T23:47:04+09:00"
+    "scraped_at": "2026-08-25T08:23:32+09:00"
   },
   {
     "id": "jrfu_29975",
@@ -93,7 +93,7 @@
     "venue": null,
     "venue_raw": "デンカビッグスワンスタジアム",
     "source_url": "https://www.rugby-japan.jp/match/29975",
-    "scraped_at": "2026-08-24T23:46:55+09:00"
+    "scraped_at": "2026-08-25T08:23:21+09:00"
   },
   {
     "id": "jrfu_29986",
@@ -109,7 +109,7 @@
     "venue": null,
     "venue_raw": "Scottish Gas Murrayfield Stadium",
     "source_url": "https://www.rugby-japan.jp/match/29986",
-    "scraped_at": "2026-08-24T23:46:53+09:00"
+    "scraped_at": "2026-08-25T08:23:19+09:00"
   },
   {
     "id": "jrfu_30035",
@@ -125,6 +125,6 @@
     "venue": null,
     "venue_raw": "Queensland Country Bank Stadium",
     "source_url": "https://www.rugby-japan.jp/match/30035",
-    "scraped_at": "2026-08-24T23:46:57+09:00"
+    "scraped_at": "2026-08-25T08:23:24+09:00"
   }
 ]

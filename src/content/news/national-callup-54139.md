@@ -12,7 +12,7 @@ draft: false
 - 期間: 2026-08-27〜
 
 **メンバー構成**
-- 初選出（0キャップ）: 5名 — [平野 叶翔](/players/kanato-hirano-510683/)、[稲場 巧 ※1.](/players/takumi-inaba-510660/)、ルアン・ボタ、武内 慎、[イノケ・ブルア](/players/inoke-burua-510663/)
+- 初選出（0キャップ）: 5名 — [平野 叶翔](/players/kanato-hirano-510683/)、[稲場 巧 ※1.](/players/takumi-inaba-510660/)、[ルアン・ボタ](/players/jrfu_callup_ruan-botha/)、[武内 慎](/players/jrfu_callup_shin-takeuchi/)、[イノケ・ブルア](/players/inoke-burua-510663/)
 - 所属クラブ・大学: 14
 - 最多キャップ: [ディラン・ライリー](/players/dylan-riley/)（43キャップ）
 
@@ -28,13 +28,13 @@ draft: false
 - [竹内 柊平](/players/shuhei-takeuchi/)（[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/) / 28キャップ）
 - [ジャック・コーネルセン](/players/jack-cornelsen/)（[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 34キャップ）
 - [マイケル・ストーバーグ](/players/mike-stolberg/)（[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/) / 3キャップ）
-- ルアン・ボタ（[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) / 0キャップ）
+- [ルアン・ボタ](/players/jrfu_callup_ruan-botha/)（[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) / 0キャップ）
 - [ハリー・ホッキングス](/players/harry-hockings/)（[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/) / 7キャップ）
 - [ベン・ガンター](/players/ben-gunter/)（[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 22キャップ）
 - [ティエナン・コストリー](/players/tiennan-costley/)（[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/) / 16キャップ）
 - [下川 甲嗣](/players/kanji-shimokawa/)（[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/) / 26キャップ）
 - [エセイ・ハアンガナ](/players/esei-ha-angana/)（[浦安D-Rocks](/teams/league-one/urayasu-d-rocks/) / 1キャップ）
-- 武内 慎（[浦安D-Rocks](/teams/league-one/urayasu-d-rocks/) / 0キャップ）
+- [武内 慎](/players/jrfu_callup_shin-takeuchi/)（[浦安D-Rocks](/teams/league-one/urayasu-d-rocks/) / 0キャップ）
 - [マキシ ファウルア](/players/lua-makisi/)（[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) / 25キャップ）
 
 **BK（バックス）**
@@ -149,4 +149,4 @@ draft: false
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DbI0VXhD0Uk/" data-instgrm-version="14" style="max-width:540px;width:100%;margin:1.5rem auto;"></blockquote>
 
 **前回招集から新たに選出**
-[祝原 涼介](/players/ryosuke-iwaihara/)、佐藤 健次 Kenji SATO、[稲場 巧 ※1.](/players/takumi-inaba-510660/)、ルアン・ボタ、武内 慎、[福田 健太](/players/kenta-fukuda/)、[藤原 忍](/players/shinobu-fujiwara/)、[廣瀬 雄也](/players/yuya-hirose/)、植田 和磨 Kazuma UEDA、[長田 智希](/players/tomoki-osada/)、[サム・グリーン](/players/sam-greene/)
+[祝原 涼介](/players/ryosuke-iwaihara/)、佐藤 健次 Kenji SATO、[稲場 巧 ※1.](/players/takumi-inaba-510660/)、[ルアン・ボタ](/players/jrfu_callup_ruan-botha/)、[武内 慎](/players/jrfu_callup_shin-takeuchi/)、[福田 健太](/players/kenta-fukuda/)、[藤原 忍](/players/shinobu-fujiwara/)、[廣瀬 雄也](/players/yuya-hirose/)、植田 和磨 Kazuma UEDA、[長田 智希](/players/tomoki-osada/)、[サム・グリーン](/players/sam-greene/)

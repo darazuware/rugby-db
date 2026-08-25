@@ -864,5 +864,291 @@
         "caps": 10
       }
     ]
+  },
+  {
+    "id": "callup_national_54139",
+    "league": "national",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/news/54139",
+    "scraped_at": "2026-08-25T09:56:31+09:00",
+    "news_id": "54139",
+    "kind": "camp",
+    "title": "男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ",
+    "venue": null,
+    "start_date": "2026-08-27",
+    "members": [
+      {
+        "player_id": "ar_ryosuke-iwaihara",
+        "name_ja": "祝原 涼介",
+        "name_en": "Ryosuke IWAIHARA",
+        "position_group": "FW",
+        "club_raw": "栃木ホンダヒート",
+        "caps": 5
+      },
+      {
+        "player_id": "ar_sojiro-otsuka",
+        "name_ja": "大塚 壮二郎",
+        "name_en": "Sojiro OTSUKA",
+        "position_group": "FW",
+        "club_raw": "関西学院大学",
+        "caps": 5
+      },
+      {
+        "player_id": "ar_takato-okabe",
+        "name_ja": "岡部 崇人",
+        "name_en": "Takato OKABE",
+        "position_group": "FW",
+        "club_raw": "横浜キヤノンイーグルス",
+        "caps": 13
+      },
+      {
+        "player_id": null,
+        "name_ja": "佐藤 健次 Kenji SATO",
+        "name_en": null,
+        "position_group": "FW",
+        "club_raw": "埼玉パナソニックワイルドナイツ",
+        "caps": 10
+      },
+      {
+        "player_id": "ar_mamoru-harada",
+        "name_ja": "原田 衛",
+        "name_en": "Mamoru HARADA",
+        "position_group": "FW",
+        "club_raw": "東芝ブレイブルーパス東京",
+        "caps": 16
+      },
+      {
+        "player_id": "jrfu_national_510683",
+        "name_ja": "平野 叶翔",
+        "name_en": "Kanato HIRANO",
+        "position_group": "FW",
+        "club_raw": "栃木ホンダヒート",
+        "caps": 0
+      },
+      {
+        "player_id": "ar_izi-sword",
+        "name_ja": "イジー・ソード",
+        "name_en": "Izi SWORD",
+        "position_group": "FW",
+        "club_raw": "クボタスピアーズ船橋・東京ベイ",
+        "caps": 2
+      },
+      {
+        "player_id": "jrfu_national_510660",
+        "name_ja": "稲場 巧 ※1.",
+        "name_en": "Takumi INABA",
+        "position_group": "FW",
+        "club_raw": "静岡ブルーレブズ",
+        "caps": 0
+      },
+      {
+        "player_id": "ar_shuhei-takeuchi",
+        "name_ja": "竹内 柊平",
+        "name_en": "Shuhei TAKEUCHI",
+        "position_group": "FW",
+        "club_raw": "東京サントリーサンゴリアス",
+        "caps": 28
+      },
+      {
+        "player_id": "ar_jack-cornelsen",
+        "name_ja": "ジャック・コーネルセン",
+        "name_en": "Jack CORNELSEN",
+        "position_group": "FW",
+        "club_raw": "埼玉パナソニックワイルドナイツ",
+        "caps": 34
+      },
+      {
+        "player_id": "ar_mike-stolberg",
+        "name_ja": "マイケル・ストーバーグ",
+        "name_en": "Michael STOLBERG",
+        "position_group": "FW",
+        "club_raw": "東芝ブレイブルーパス東京",
+        "caps": 3
+      },
+      {
+        "player_id": "jrfu_callup_ruan-botha",
+        "name_ja": "ルアン・ボタ",
+        "name_en": "Ruan BOTHA",
+        "position_group": "FW",
+        "club_raw": "クボタスピアーズ船橋・東京ベイ",
+        "caps": 0
+      },
+      {
+        "player_id": "ar_harry-hockings",
+        "name_ja": "ハリー・ホッキングス",
+        "name_en": "Harry HOCKINGS",
+        "position_group": "FW",
+        "club_raw": "東京サントリーサンゴリアス",
+        "caps": 7
+      },
+      {
+        "player_id": "ar_ben-gunter",
+        "name_ja": "ベン・ガンター",
+        "name_en": "Ben GUNTER",
+        "position_group": "FW",
+        "club_raw": "埼玉パナソニックワイルドナイツ",
+        "caps": 22
+      },
+      {
+        "player_id": "ar_tiennan-costley",
+        "name_ja": "ティエナン・コストリー",
+        "name_en": "Tiennan COSTLEY",
+        "position_group": "FW",
+        "club_raw": "コベルコ神戸スティーラーズ",
+        "caps": 16
+      },
+      {
+        "player_id": "ar_kanji-shimokawa",
+        "name_ja": "下川 甲嗣",
+        "name_en": "Kanji SHIMOKAWA",
+        "position_group": "FW",
+        "club_raw": "東京サントリーサンゴリアス",
+        "caps": 26
+      },
+      {
+        "player_id": "ar_esei-ha-angana",
+        "name_ja": "エセイ・ハアンガナ",
+        "name_en": "Esei HAANGANA",
+        "position_group": "FW",
+        "club_raw": "浦安D-Rocks",
+        "caps": 1
+      },
+      {
+        "player_id": "jrfu_callup_shin-takeuchi",
+        "name_ja": "武内 慎",
+        "name_en": "Shin TAKEUCHI",
+        "position_group": "FW",
+        "club_raw": "浦安D-Rocks",
+        "caps": 0
+      },
+      {
+        "player_id": "ar_lua-makisi",
+        "name_ja": "マキシ ファウルア",
+        "name_en": "Faulua MAKISI",
+        "position_group": "FW",
+        "club_raw": "クボタスピアーズ船橋・東京ベイ",
+        "caps": 25
+      },
+      {
+        "player_id": "ar_naoto-saito",
+        "name_ja": "齋藤 直人",
+        "name_en": "Naoto SAITO",
+        "position_group": "BK",
+        "club_raw": "東京サントリーサンゴリアス",
+        "caps": 33
+      },
+      {
+        "player_id": "ar_kenta-fukuda",
+        "name_ja": "福田 健太",
+        "name_en": "Kenta FUKUDA",
+        "position_group": "BK",
+        "club_raw": "栃木ホンダヒート",
+        "caps": 8
+      },
+      {
+        "player_id": "ar_shinobu-fujiwara",
+        "name_ja": "藤原 忍",
+        "name_en": "Shinobu FUJIWARA",
+        "position_group": "BK",
+        "club_raw": "クボタスピアーズ船橋・東京ベイ",
+        "caps": 19
+      },
+      {
+        "player_id": "ar_ryunosuke-ito",
+        "name_ja": "伊藤 龍之介",
+        "name_en": "Ryunosuke ITO",
+        "position_group": "BK",
+        "club_raw": "明治大学",
+        "caps": 5
+      },
+      {
+        "player_id": "ar_shunsuke-uenobo",
+        "name_ja": "上ノ坊 駿介",
+        "name_en": "Shunsuke UENOBO",
+        "position_group": "BK",
+        "club_raw": "コベルコ神戸スティーラーズ",
+        "caps": 3
+      },
+      {
+        "player_id": "ar_yuki-ikeda",
+        "name_ja": "池田 悠希",
+        "name_en": "Yuki IKEDA",
+        "position_group": "BK",
+        "club_raw": "リコーブラックラムズ東京",
+        "caps": 2
+      },
+      {
+        "player_id": "ar_samisoni-tua",
+        "name_ja": "サミソニ・トゥア",
+        "name_en": "Samisoni TUA",
+        "position_group": "BK",
+        "club_raw": "浦安D-Rocks",
+        "caps": 6
+      },
+      {
+        "player_id": "ar_dylan-riley",
+        "name_ja": "ディラン・ライリー",
+        "name_en": "Dylan RILEY",
+        "position_group": "BK",
+        "club_raw": "埼玉パナソニックワイルドナイツ",
+        "caps": 43
+      },
+      {
+        "player_id": "ar_yuya-hirose",
+        "name_ja": "廣瀬 雄也",
+        "name_en": "Yuya HIROSE",
+        "position_group": "BK",
+        "club_raw": "クボタスピアーズ船橋・東京ベイ",
+        "caps": 7
+      },
+      {
+        "player_id": null,
+        "name_ja": "植田 和磨 Kazuma UEDA",
+        "name_en": null,
+        "position_group": "BK",
+        "club_raw": "KOBELCO KOBE STEELERS",
+        "caps": 7
+      },
+      {
+        "player_id": "ar_tomoki-osada",
+        "name_ja": "長田 智希",
+        "name_en": "Tomoki OSADA",
+        "position_group": "BK",
+        "club_raw": "埼玉パナソニックワイルドナイツ",
+        "caps": 26
+      },
+      {
+        "player_id": "ar_haruto-kida",
+        "name_ja": "木田 晴斗",
+        "name_en": "Haruto KIDA",
+        "position_group": "BK",
+        "club_raw": "クボタスピアーズ船橋・東京ベイ",
+        "caps": 3
+      },
+      {
+        "player_id": "jrfu_national_510663",
+        "name_ja": "イノケ・ブルア",
+        "name_en": "Inoke BURUA",
+        "position_group": "BK",
+        "club_raw": "コベルコ神戸スティーラーズ",
+        "caps": 0
+      },
+      {
+        "player_id": "ar_sam-greene",
+        "name_ja": "サム・グリーン",
+        "name_en": "Sam GREENE",
+        "position_group": "BK",
+        "club_raw": "JR東日本グリーンウォリアーズ東葛",
+        "caps": 7
+      },
+      {
+        "player_id": "ar_takuro-matsunaga",
+        "name_ja": "松永 拓朗",
+        "name_en": "Takuro MATSUNAGA",
+        "position_group": "BK",
+        "club_raw": "東芝ブレイブルーパス東京",
+        "caps": 10
+      }
+    ]
   }
 ]

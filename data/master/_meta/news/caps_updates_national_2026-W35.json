@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ar_arturo-ten-hoever",
+    "name_en": "Arturo TEN HOEVER",
+    "name_ja": null,
+    "team": "Uruguay",
+    "from_count": 2,
+    "to_count": 3
+  },
+  {
+    "id": "ar_damian-de-allende",
+    "name_en": "Damian DE ALLENDE",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 113,
+    "to_count": 157
+  },
+  {
+    "id": "ar_damian-willemse",
+    "name_en": "Damian WILLEMSE",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 29,
+    "to_count": 65
+  },
+  {
+    "id": "ar_gonzalo-lopez",
+    "name_en": "Gonzalo LOPEZ BONTEMPO",
+    "name_ja": null,
+    "team": "Spain",
+    "from_count": 19,
+    "to_count": 23
+  },
+  {
+    "id": "ar_hinckley-vaovasa",
+    "name_en": "Hinckley VAOVASA",
+    "name_ja": null,
+    "team": "Romania",
+    "from_count": 47,
+    "to_count": 52
+  },
+  {
+    "id": "ar_manex-ariceta",
+    "name_en": "Manex ARICETA",
+    "name_ja": null,
+    "team": "Spain",
+    "from_count": 7,
+    "to_count": 11
+  },
+  {
+    "id": "ar_michael-kumbirai",
+    "name_en": "Michael KUMBIRAI",
+    "name_ja": null,
+    "team": "Zimbabwe",
+    "from_count": 3,
+    "to_count": 4
+  },
+  {
+    "id": "ar_thierry-futeu",
+    "name_en": "Thierry FUTEU",
+    "name_ja": null,
+    "team": "Spain",
+    "from_count": 49,
+    "to_count": 62
+  },
+  {
+    "id": "ar_victor-mupunga",
+    "name_en": "Victor MUPUNGA",
+    "name_ja": null,
+    "team": "Zimbabwe",
+    "from_count": 4,
+    "to_count": 5
+  }
+]

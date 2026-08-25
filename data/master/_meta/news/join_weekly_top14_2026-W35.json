@@ -12,6 +12,36 @@
     "team_id": "toulon"
   },
   {
+    "id": "ar_ewen-morvan",
+    "name_en": "Ewen MORVAN",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
+    "id": "ar_jules-martin-bonnard",
+    "name_en": "Jules MARTIN-BONNARD",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_jules-said",
+    "name_en": "Jules SAÏD",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_konstantine-mikautadze",
+    "name_en": "Konstantine MIKAUTADZE",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_prince-tambo-fantcho",
+    "name_en": "Prince TAMBO-FANTCHO",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
     "id": "ar_raphael-martin",
     "name_en": "Raphaël MARTIN",
     "name_ja": null,
