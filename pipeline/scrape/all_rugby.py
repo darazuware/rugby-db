@@ -385,11 +385,16 @@ def _enrich_national(raw: dict, country_display: str) -> None:
         }
 
 
-def collect(tournament: str, *, with_caps: bool = False) -> dict:
+def collect(tournament: str, *, with_caps: bool = False, light: bool = False) -> dict:
     """tournament = 'top14' 等。players/teams/standings（transform 済み）を返す。
 
     with_caps=True の場合、ALL_RUGBY_ENRICH フラグに関わらず個別ページenrichを行い
     代表テストキャップも取得する（URC/Premiership 用。旧 collect_star を統合）。
+
+    light=True（軽量モード、matches/standings のみ書き込む --only 用）の場合、
+    このリーグは matches を持たず standings のみ提供するため、トーナメント表
+    ページ（1リクエスト）の情報だけで standings を組み、club毎のsquad/選手個別
+    ページ取得（本来数十〜数百リクエスト、with_caps時はさらに増える）を省略する。
     """
     cfg = TOURNAMENTS[tournament]
     league = cfg["league"]
@@ -406,6 +411,17 @@ def collect(tournament: str, *, with_caps: bool = False) -> dict:
     season = f"{sm.group(1)}-{sm.group(2)[2:]}" if sm else "unknown"
     if _MAX_TEAMS:
         club_slugs = club_slugs[:_MAX_TEAMS]
+
+    if light:
+        valid = set(club_slugs)
+        rows = [r for r in standing_rows_raw if r["team_id"] in valid]
+        standing, sw = normalize.standing_allrugby(
+            rows, league=league, season=season,
+            source_url=f"{BASE}/tournament/{cfg['key']}/table",
+        )
+        warnings.extend(sw)
+        standings_out = [standing] if standing is not None else []
+        return {"players": [], "teams": [], "matches": [], "standings": standings_out, "warnings": warnings}
 
     teams_out: list[dict] = []
     players_out: list[dict] = []

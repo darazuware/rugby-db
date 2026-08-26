@@ -222,8 +222,14 @@ def parse_player_page(html: str, pid: str) -> dict:
     }
 
 
-def collect(division: str) -> dict:
-    """division = 'd1'/'d2'/'d3'。players/teams/standings（transform済み）を返す。"""
+def collect(division: str, *, light: bool = False) -> dict:
+    """division = 'd1'/'d2'/'d3'。players/teams/standings（transform済み）を返す。
+
+    light=True（軽量モード、matches/standings のみ書き込む --only 用）の場合、
+    matches は元々常に空でこのリーグは standings のみ提供するため、順位表ページ
+    （1回のGETで3ディビジョン共有・キャッシュ済み）の情報だけで standings を組み、
+    team/player の個別ページ取得（本来数百リクエスト）を丸ごと省略する。
+    """
     n = {"d1": 1, "d2": 2, "d3": 3}[division]
     league = f"league-one-{division}"
     warnings: list[str] = []
@@ -237,6 +243,14 @@ def collect(division: str) -> dict:
     standing_rows_raw, team_list = parse_standings(soup, n)
     if _MAX_TEAMS:
         team_list = team_list[:_MAX_TEAMS]
+
+    if light:
+        valid_tids = {f"lo_team_{tid}" for tid, _ in team_list}
+        rows = [r for r in standing_rows_raw if f"lo_team_{r['team_id']}" in valid_tids]
+        standing, sw = normalize.standing(rows, league=league, season=season)
+        warnings.extend(sw)
+        standings_out = [standing] if standing is not None else []
+        return {"players": [], "teams": [], "matches": [], "standings": standings_out, "warnings": warnings}
 
     teams_out: list[dict] = []
     players_out: list[dict] = []

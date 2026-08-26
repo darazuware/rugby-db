@@ -1,6 +1,7 @@
 """P1-3: league-one スクレイパーのパース + transform をオフラインHTMLで検証。"""
 import pathlib
 
+import pytest
 from bs4 import BeautifulSoup
 
 from pipeline.scrape import league_one
@@ -59,3 +60,25 @@ def test_transform_standing_drops_bad_sum():
     assert st is not None
     assert len(st["rows"]) == 1  # 2件目は played≠W+D+L で除外
     assert any("W+D+L" in w for w in warns)
+
+
+def test_collect_light_skips_team_and_player_fetch(monkeypatch):
+    """軽量モード（--only matches,standings）: 順位表ページ以外への GET を一切行わず
+    standings のみ返す（players/teams は空）。team/player 個別ページ取得（本来
+    数百リクエスト）を叩いたら即失敗させて検知する。"""
+    monkeypatch.setattr(league_one, "_standings_soup", None)
+
+    def fake_get(url):
+        if url != league_one.STANDINGS_URL:
+            pytest.fail(f"light モードで想定外のGET: {url}")
+        return _read("lo_standings.html")
+
+    monkeypatch.setattr(league_one, "_get", fake_get)
+    monkeypatch.setattr(league_one.time, "sleep", lambda *_: None)
+
+    result = league_one.collect("d1", light=True)
+    assert result["players"] == []
+    assert result["teams"] == []
+    assert result["matches"] == []
+    assert len(result["standings"]) == 1
+    assert len(result["standings"][0]["rows"]) == 12
