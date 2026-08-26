@@ -84,8 +84,17 @@ jobs:
             echo "変更なし。コミットしない。"
           else
             git commit -m "chore: daily_update $(date +'%Y-%m-%d %H:%M JST') (${{ steps.mode.outputs.mode }})"
-            git pull --rebase --autostash
-            git push
+            for i in 1 2 3 4 5; do
+              if git pull --rebase --autostash -X theirs && git push; then
+                break
+              fi
+              git rebase --abort 2>/dev/null || true
+              if [ "$i" = 5 ]; then
+                echo "push retry上限到達"
+                exit 1
+              fi
+              sleep $((i * 10))
+            done
           fi
 
       - name: Notify success
