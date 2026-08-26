@@ -5,13 +5,6 @@
   "departures": [],
   "first_caps": [],
   "caps_updates": [],
-  "pending_departures": [
-    {
-      "id": "ar_rory-van-vugt",
-      "name_en": "Rory VAN VUGT",
-      "name_ja": null,
-      "team_id": "ca-legion"
-    }
-  ],
+  "pending_departures": [],
   "newly_finished_rounds": []
 }
