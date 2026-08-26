@@ -1,6 +1,6 @@
 {
   "top14": {
-    "run_at": "2026-08-25T09:56:32+09:00",
+    "run_at": "2026-08-26T09:56:44+09:00",
     "counts": {
       "players": 1096,
       "teams": 14
@@ -23,15 +23,15 @@
     ]
   },
   "super-rugby": {
-    "run_at": "2026-08-25T09:56:32+09:00",
+    "run_at": "2026-08-26T09:56:44+09:00",
     "counts": {
-      "players": 463,
+      "players": 464,
       "teams": 11
     },
     "warnings": []
   },
   "league-one-d1": {
-    "run_at": "2026-08-25T09:56:32+09:00",
+    "run_at": "2026-08-26T09:56:44+09:00",
     "counts": {
       "players": 733,
       "teams": 12
@@ -41,7 +41,7 @@
     ]
   },
   "national": {
-    "run_at": "2026-08-25T09:56:32+09:00",
+    "run_at": "2026-08-26T09:56:44+09:00",
     "counts": {
       "players": 1198,
       "teams": 0
@@ -79,7 +79,7 @@
     ]
   },
   "sevens-national": {
-    "run_at": "2026-08-25T09:56:32+09:00",
+    "run_at": "2026-08-26T09:56:44+09:00",
     "counts": {
       "players": 28,
       "teams": 0
@@ -90,7 +90,7 @@
     ]
   },
   "age-grade": {
-    "run_at": "2026-08-25T09:56:32+09:00",
+    "run_at": "2026-08-26T09:56:44+09:00",
     "counts": {
       "players": 113,
       "teams": 0
@@ -101,17 +101,24 @@
     ]
   },
   "university": {
-    "run_at": "2026-08-25T09:56:32+09:00",
+    "run_at": "2026-08-26T09:56:44+09:00",
     "counts": {
-      "players": 1198,
+      "players": 969,
       "teams": 0
     },
     "warnings": [
+      "university 早稲田大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
+      "university 慶應義塾大学: 個別ページ取得失敗 https://keiorugby.com/team/96813/、出身校スキップ",
+      "university 慶應義塾大学: 個別ページ取得失敗 https://keiorugby.com/team/97074/、出身校スキップ",
+      "university 慶應義塾大学: 個別ページ取得失敗 https://keiorugby.com/team/96949/、出身校スキップ",
+      "university 慶應義塾大学: 個別ページ取得失敗 https://keiorugby.com/team/97068/、出身校スキップ",
+      "university 慶應義塾大学: 個別ページ取得失敗 https://keiorugby.com/team/96943/、出身校スキップ",
       "university 立教大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 武蔵大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 成城大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 一橋大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 学習院大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 東洋大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 東洋大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 東海大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 流通経済大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 法政大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
@@ -122,10 +129,11 @@
       "university 山梨学院大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 拓殖大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 白鷗大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
-      "university 立命館大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 摂南大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 関西大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 大阪体育大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 立命館大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
+      "university 摂南大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
+      "university 天理大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
+      "university 関西大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
+      "university 大阪体育大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 大阪経済大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 大阪国際大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 追手門学院大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
@@ -134,7 +142,7 @@
     ]
   },
   "highschool": {
-    "run_at": "2026-08-25T09:56:32+09:00",
+    "run_at": "2026-08-26T09:56:44+09:00",
     "counts": {
       "players": 391,
       "teams": 0
@@ -164,7 +172,7 @@
     ]
   },
   "urc": {
-    "run_at": "2026-08-25T09:56:32+09:00",
+    "run_at": "2026-08-26T09:56:44+09:00",
     "counts": {
       "players": 1039,
       "teams": 16
@@ -190,7 +198,7 @@
     ]
   },
   "premiership": {
-    "run_at": "2026-08-25T09:56:32+09:00",
+    "run_at": "2026-08-26T09:56:44+09:00",
     "counts": {
       "players": 683,
       "teams": 10
@@ -209,7 +217,7 @@
     ]
   },
   "league-one-d2": {
-    "run_at": "2026-08-25T09:56:32+09:00",
+    "run_at": "2026-08-26T09:56:44+09:00",
     "counts": {
       "players": 439,
       "teams": 8
@@ -219,7 +227,7 @@
     ]
   },
   "league-one-d3": {
-    "run_at": "2026-08-25T09:56:32+09:00",
+    "run_at": "2026-08-26T09:56:44+09:00",
     "counts": {
       "players": 337,
       "teams": 6
@@ -229,7 +237,7 @@
     ]
   },
   "mlr": {
-    "run_at": "2026-08-25T09:56:32+09:00",
+    "run_at": "2026-08-26T09:56:44+09:00",
     "counts": {
       "players": 211,
       "teams": 6
