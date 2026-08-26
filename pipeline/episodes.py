@@ -454,12 +454,55 @@ TRIAL_PLAYERS: list[dict] = [
             },
         ],
     },
+    {
+        "player_id": "jrfu_callup_ruan-botha",
+        "name": "ルアン・ボタ",
+        "collected_at": "2026-08-26",
+        "facts": [
+            {
+                "fact": "南アフリカ・ケンプトンパーク出身。ジュグランド高校卒業後、フライハーフ・センターとしてプレーした時期を経てロックへ転向した。",
+                "category": "経歴",
+                "source_name": "クボタスピアーズ船橋・東京ベイ公式サイト（選手プロフィール）",
+                "source_url": "https://www.kubota-spears.com/player/detail/ruan_botha.php",
+                "date": None,
+            },
+            {
+                "fact": "南アフリカ代表として2012年ジュニアワールドカップに出場した経歴を持つ。スーパーラグビー・カリーカップでのプレー経験もある。",
+                "category": "経歴",
+                "source_name": "クボタスピアーズ船橋・東京ベイ公式サイト（選手プロフィール）",
+                "source_url": "https://www.kubota-spears.com/player/detail/ruan_botha.php",
+                "date": None,
+            },
+            {
+                "fact": "ニックネームは「Ruu」。6歳の頃、兄弟と一緒にラグビーを始めた。",
+                "category": "エピソード",
+                "source_name": "クボタスピアーズ船橋・東京ベイ公式サイト（選手プロフィール）",
+                "source_url": "https://www.kubota-spears.com/player/detail/ruan_botha.php",
+                "date": None,
+            },
+            {
+                "fact": "座右の銘は「Tough times never last, only tough people last（厳しい時代は決して長くは続かない）」。ファンへは「スタジアムを埋め尽くしてください。オレンジアーミーが応援してくれるのを見るのが大好きなんだ」とメッセージを送っている。",
+                "category": "名言",
+                "source_name": "クボタスピアーズ船橋・東京ベイ公式サイト（選手プロフィール）",
+                "source_url": "https://www.kubota-spears.com/player/detail/ruan_botha.php",
+                "date": None,
+            },
+            {
+                "fact": "オフの日はゴルフやコーヒーショップ巡りで過ごす。趣味・特技もゴルフ。",
+                "category": "エピソード",
+                "source_name": "クボタスピアーズ船橋・東京ベイ公式サイト（選手プロフィール）",
+                "source_url": "https://www.kubota-spears.com/player/detail/ruan_botha.php",
+                "date": None,
+            },
+        ],
+    },
 ]
 
 
 def seed_trial() -> None:
     for entry in TRIAL_PLAYERS:
-        write_episodes(entry["player_id"], entry["name"], entry["facts"], _COLLECTED_AT)
+        collected_at = entry.get("collected_at", _COLLECTED_AT)
+        write_episodes(entry["player_id"], entry["name"], entry["facts"], collected_at)
 
 
 if __name__ == "__main__":
