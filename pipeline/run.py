@@ -30,29 +30,34 @@ from pipeline.diffs import detect as diffs_detect
 from pipeline.scrape import all_rugby, highschool, jrfu, league_one, university
 from pipeline.validate import checks
 
-# league key → (scrape+transform を行う callable)。P1-3 以降で埋める。
+# league key → (scrape+transform を行う callable)。light=True で軽量モード
+# （--only matches,standings）用の高速パスを使う（対応スクレイパーのみ）。
 SCRAPERS: dict[str, object] = {
-    "league-one-d1": lambda: league_one.collect("d1"),
-    "league-one-d2": lambda: league_one.collect("d2"),
-    "league-one-d3": lambda: league_one.collect("d3"),
-    "top14": lambda: all_rugby.collect("top14"),
-    "super-rugby": lambda: all_rugby.collect("super-rugby-pacific"),
-    "mlr": lambda: all_rugby.collect("mlr"),
+    "league-one-d1": lambda light=False: league_one.collect("d1", light=light),
+    "league-one-d2": lambda light=False: league_one.collect("d2", light=light),
+    "league-one-d3": lambda light=False: league_one.collect("d3", light=light),
+    "top14": lambda light=False: all_rugby.collect("top14", light=light),
+    "super-rugby": lambda light=False: all_rugby.collect("super-rugby-pacific", light=light),
+    "mlr": lambda light=False: all_rugby.collect("mlr", light=light),
     # 2026-07-26: フルスコッド化（旧 P4-6 部分収集を廃止）。with_caps=True で
     # national.json（日本代表＋直近対戦国のみ）がカバーしない国の代表キャップも取得する。
-    "urc": lambda: all_rugby.collect("urc", with_caps=True),
-    "premiership": lambda: all_rugby.collect("premiership", with_caps=True),
-    "national": lambda: all_rugby.collect_national(),
-    "sevens-national": lambda: jrfu.collect_sevens(),
-    "age-grade": lambda: jrfu.collect_age_grade(),
-    "university": university.collect_all,
-    "highschool": highschool.collect_all,
+    "urc": lambda light=False: all_rugby.collect("urc", with_caps=True, light=light),
+    "premiership": lambda light=False: all_rugby.collect("premiership", with_caps=True, light=light),
+    "national": lambda light=False: all_rugby.collect_national(),
+    "sevens-national": lambda light=False: jrfu.collect_sevens(),
+    "age-grade": lambda light=False: jrfu.collect_age_grade(),
+    "university": lambda light=False: university.collect_all(),
+    "highschool": lambda light=False: highschool.collect_all(),
 }
 ALL_LEAGUES = [
     "league-one-d1", "league-one-d2", "league-one-d3",
     "top14", "super-rugby", "mlr", "urc", "premiership", "national",
     "sevens-national", "age-grade", "university", "highschool",
 ]
+# --only 指定時（軽量モード）、matches/standings を一切生成しない上に
+# players/teams も master に書き込まれない（run_leagues 内 `if not only:` 参照）ため
+# 完全に無駄打ちになるリーグ。playwright を使う university 含め丸ごとスキップする。
+LIGHT_SKIP_LEAGUES = {"sevens-national", "age-grade", "university", "highschool"}
 
 
 def _load_manual():
@@ -127,11 +132,13 @@ def run_leagues(leagues: list[str], *, dry_run: bool, only: set[str] | None = No
     national_call_ups: list[dict] = []  # gap B: 招集・合宿イベント（national のみ）
 
     for league in leagues:
+        if only and league in LIGHT_SKIP_LEAGUES:
+            continue
         scraper = SCRAPERS.get(league)
         if scraper is None:
             print(f"[skip] {league}: スクレイパー未実装（P1-3以降）", file=sys.stderr)
             continue
-        result = scraper()  # -> {players, teams, matches, standings, warnings}
+        result = scraper(light=bool(only))  # -> {players, teams, matches, standings, warnings}
         merged_players, added_players = _merge_announced_transfers(
             league, result.get("players", []),
         )

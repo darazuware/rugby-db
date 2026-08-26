@@ -2,6 +2,8 @@
 パース + transform をオフラインHTMLで検証。"""
 import pathlib
 
+import pytest
+
 from pipeline.scrape import all_rugby
 from pipeline.transform import normalize
 
@@ -236,3 +238,26 @@ def test_standing_allrugby_blank_drawn_is_zero_when_arithmetic_checks():
     assert [r["team_id"] for r in standing["rows"]] == ["a"]
     assert standing["rows"][0]["drawn"] == 0
     assert any("b" in w for w in warnings)
+
+
+def test_collect_light_skips_squad_and_player_fetch(monkeypatch):
+    """軽量モード（--only matches,standings）: トーナメント表ページ以外への GET を
+    一切行わず standings のみ返す（players/teams は空）。club squad/選手個別ページ
+    取得（本来数十〜数百リクエスト）を叩いたら即失敗させて検知する。"""
+    pages = _star_fixture_pages()
+    table_url = "https://all.rugby/tournament/urc/table"
+
+    def fake_get(url):
+        if url != table_url:
+            pytest.fail(f"light モードで想定外のGET: {url}")
+        return pages[table_url]
+
+    monkeypatch.setattr(all_rugby, "_get", fake_get)
+    monkeypatch.setattr(all_rugby, "_SLEEP", 0)
+
+    result = all_rugby.collect("urc", with_caps=True, light=True)
+    assert result["players"] == []
+    assert result["teams"] == []
+    assert result["matches"] == []
+    assert len(result["standings"]) == 1
+    assert result["standings"][0]["rows"][0]["team_id"] == "testclub"

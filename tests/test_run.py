@@ -46,7 +46,7 @@ def _setup(monkeypatch, tmp_path, *, prev_players):
     if prev_players is not None:
         io.write_records(io.players_path("top14"), prev_players)
 
-    def fake_scraper():
+    def fake_scraper(light=False):
         return {
             "players": [_player("a"), _player("b")],
             "teams": [_team("t1", ["a", "b"])],
@@ -83,6 +83,27 @@ def test_only_skips_player_writes_and_pending(monkeypatch, tmp_path):
     assert len(diff["newly_finished_rounds"]) == 1
 
 
+def test_only_skips_leagues_with_no_matches_or_standings(monkeypatch, tmp_path):
+    """--only 時、matches/standings を絶対に生成しない（＝完全に無駄打ちになる）
+    university/highschool/sevens-national/age-grade はスクレイパー自体を呼ばない。
+    課金対策（daily_update の billable minutes 削減）の要。"""
+    _setup(monkeypatch, tmp_path, prev_players=[_player("a")])
+
+    def boom(light=False):
+        raise AssertionError("light モードで無駄打ちリーグのスクレイパーが呼ばれた")
+
+    scrapers = dict(run.SCRAPERS)
+    for lg in run.LIGHT_SKIP_LEAGUES:
+        scrapers[lg] = boom
+    monkeypatch.setattr(run, "SCRAPERS", scrapers)
+
+    rc = run.run_leagues(
+        ["top14", *sorted(run.LIGHT_SKIP_LEAGUES)],
+        dry_run=False, only={"matches", "standings"},
+    )
+    assert rc == 0  # boom が呼ばれていれば AssertionError で test 自体が落ちる
+
+
 def test_national_run_writes_callup_master_and_injects_diff(monkeypatch, tmp_path):
     """gap B: national 実行で招集イベントが callups master に永続化され、national diff に
     call_ups が注入されて news_gen が記事化できる（--only 時はスキップ、冪等）。"""
@@ -101,7 +122,7 @@ def test_national_run_writes_callup_master_and_injects_diff(monkeypatch, tmp_pat
     for p in callup_players:
         p["team_id"] = "japan"
 
-    def fake_national():
+    def fake_national(light=False):
         return {"players": callup_players, "teams": [], "matches": [],
                 "standings": [], "warnings": [], "call_ups": [event]}
 

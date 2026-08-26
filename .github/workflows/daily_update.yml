@@ -3,15 +3,17 @@ name: Daily Update
 # 05_AUTOMATION.md 準拠。scrape_and_deploy.yml / update_data.yml を統合・置き換え。
 on:
   schedule:
-    # 06:00 JST 毎日 = 21:00 UTC 前日: フル更新（players/teams/matches/standings 全件）
-    - cron: '0 21 * * *'
-    # 23:30 JST 毎日 = 14:30 UTC: 軽量更新（試合日の結果反映漏れ対策、matches/standings のみ）
-    - cron: '30 14 * * *'
-    # 平日 9/11/13/15/17/19/21時 JST = 00/02/04/06/08/10/12 UTC: 軽量更新の高頻度実行。
-    # JRFU招集メンバー発表等はいつ出るか読めないため、日中に頻繁に回して
-    # Yahoo砲・Google砲（速報性が命）を逃さない。フル更新はデータ量が多く重いので
-    # 06:00の1回のみ、これらは call_ups/matches/standings の軽量チェックのみ。
-    - cron: '0 0,2,4,6,8,10,12 * * 1-5'
+    # 06:00 JST 毎週月曜 = 21:00 UTC 日曜: フル更新（players/teams/matches/standings 全件）。
+    # 2026-08-26: GitHub Actions 課金対策で毎日→週1に変更。フル更新は全リーグの
+    # 選手個別ページまで辿るため重く（signings/transfers/departures/caps 検知に必須）、
+    # 軽量化の余地が無いため実行頻度を落として無料枠（private repo 月2000分）に収める。
+    - cron: '0 21 * * 0'
+    # 09/15/21時 JST 毎日 = 00/06/12 UTC: 軽量更新（matches/standings + call_ups のみ）。
+    # 2026-08-26: --only 指定時に matches/standings を一切生成しないリーグ
+    # （university/highschool/sevens-national/age-grade）をスクレイパー呼び出し自体から
+    # 除外し、league-one/top14系も個別ページ取得を省略する高速パスに変更（1回3.5時間
+    # →数十分に短縮）。これにより実行回数を維持しつつ課金を抑える。
+    - cron: '0 0,6,12 * * *'
   workflow_dispatch:
     inputs:
       mode:
@@ -45,19 +47,21 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Install Playwright Chromium (university league JS-rendered サイト向け)
-        run: python3 -m playwright install --with-deps chromium
-
       - name: Determine run mode
         id: mode
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "mode=${{ inputs.mode }}" >> "$GITHUB_OUTPUT"
-          elif [ "${{ github.event.schedule }}" = "0 21 * * *" ]; then
+          elif [ "${{ github.event.schedule }}" = "0 21 * * 0" ]; then
             echo "mode=full" >> "$GITHUB_OUTPUT"
           else
             echo "mode=light" >> "$GITHUB_OUTPUT"
           fi
+
+      # light（university を呼ばない）では playwright は不要。フル更新時のみ導入して課金を抑える。
+      - name: Install Playwright Chromium (university league JS-rendered サイト向け)
+        if: steps.mode.outputs.mode == 'full'
+        run: python3 -m playwright install --with-deps chromium
 
       # 検証失敗（exit != 0）の場合、pipefail によりこのステップ自体が失敗し、
       # 以降の commit/push・成功通知ステップは実行されない（GitHub Actions のデフォルト条件）。
