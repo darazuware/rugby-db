@@ -3,28 +3,43 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-08-23T20:13:21+09:00",
+  "checked_at": "2026-08-28T00:07:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "adfade08084c4e82"
+      "hash": "0731667fe18a8659"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "40e61008ad4e313a"
+      "hash": "795c2ab544e9cf7e"
     }
   ],
   "items": [
     {
-      "url": "https://www.bravelupus.com/news/260820/",
-      "title": "BL東京グッズ１0～50％OFF販売のお知らせ",
-      "date": "2026-08-20"
+      "url": "https://www.bravelupus.com/news/260827/",
+      "title": "募集中！！ 【必勝祈願バスツアー】狼を祀る三峯神社へ",
+      "date": "2026-08-27"
     },
     {
       "url": "https://www.bravelupus.com/news/",
       "title": "記事一覧",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260824-2/",
+      "title": "男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ",
+      "date": "2026-08-24"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260818/",
+      "title": "男子セブンズ・デベロップメント・スコッド（SDS） 福岡合宿スケジュールと参加メンバーのお知らせ",
+      "date": "2026-08-22"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260820/",
+      "title": "BL東京グッズ１0～50％OFF販売のお知らせ",
       "date": "2026-08-20"
     },
     {
@@ -211,21 +226,6 @@
       "url": "https://www.bravelupus.com/news/20260428/",
       "title": "緊急対応「逆襲Tシャツ」販売のお知らせ",
       "date": "2026-04-28"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/20260425/",
-      "title": "新製品グッズ販売のお知らせ",
-      "date": "2026-04-25"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260424/",
-      "title": "【書籍：狼たちのラグビー】第16節：ホストゲーム御朱印スタンプ実施場所のお知らせ",
-      "date": "2026-04-24"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/20260424/",
-      "title": "グッズ会場受取りサービスのお知らせ",
-      "date": "2026-04-24"
     }
   ]
 }

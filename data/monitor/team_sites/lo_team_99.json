@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-08-23T20:13:21+09:00",
+  "checked_at": "2026-08-28T00:07:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "16bf1fa769c57067"
+      "hash": "c1bb627ad6fafc1f"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "069f79902cdb00aa"
+      "hash": "c42f02cd73c93105"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/820.html",
+      "title": "2026年 8月26日 Day820 『東京サンゴリアス×日川クラブ 第1回ラグビークリニック♪』",
+      "date": "2026-08-26"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2608-1030.html",
       "title": "2026年 8月21日 #1030 ハリー ホッキングス 『友情を育む』",
@@ -56,11 +61,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627jljsg.html",
       "title": "2026年 7月27日 2026-27シーズン新加入選手のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27シーズンよりチー…",
       "date": "2026-07-27"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2607-1026.html",
-      "title": "2026年 7月24日 #1026 中村 亮土 『良い人間になるためのたくさんの要素がラグビーにはある』",
-      "date": "2026-07-24"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2526nsa.html",

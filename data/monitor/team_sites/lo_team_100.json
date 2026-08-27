@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-08-23T20:13:21+09:00",
+  "checked_at": "2026-08-28T00:07:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "e1d84a9c815fcc9f"
+      "hash": "a884d81b5f745fea"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "983e7a681eb12d73"
+      "hash": "39d1b269697a83be"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/team/index_2007.html",
+      "title": "チーム 2026.08.24 【代表情報】男子日本代表選出のお知らせ",
+      "date": "2026-08-24"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2005.html",
       "title": "イベント 2026.08.21 2026.8.3～5 D-Rocks SUMMER CAMP 2026を開催しました",
@@ -64,7 +69,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_1994.html",
-      "title": "ファンクラブ 2026.07.30 2026.7.26プラチナ会員限定イベント「シーズンエンドパーティ 2025-26」を開催しました",
+      "title": "2026.07.30 ニュース 2026.7.26プラチナ会員限定イベント「シーズンエンドパーティ 2025-26」を開催しました",
       "date": "2026-07-30"
     },
     {
@@ -210,11 +215,6 @@
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1963.html",
       "title": "2026.06.02 ニュース 2026.6.7 「第11回 浦安百縁商店街」参加のお知らせ",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_1949.html",
-      "title": "2026.06.02 ニュース 【更新】6月6日(土) ファン感謝祭「D-Rocks Fes 2026」開催のお知らせ",
       "date": "2026-06-02"
     }
   ]

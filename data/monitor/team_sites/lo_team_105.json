@@ -3,20 +3,40 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-08-23T20:13:21+09:00",
+  "checked_at": "2026-08-28T00:07:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "74833b5efca0cc88"
+      "hash": "fd43c1cbf067fc10"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "41a7752a65d5b3af"
+      "hash": "b191920bf7d28ff8"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2423/",
+      "title": "トピックス 2026.8.27 宮坂 航生、男子セブンズ 日本代表 中国遠征 参加のお知らせ",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2421/",
+      "title": "イベント 2026.8.26 「OSAKA FUNtast!c SPORTS PROJECT」キックオフイベント参加のお知らせ",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2420/",
+      "title": "トピックス 2026.8.24 祝原涼介、平野叶翔、福田健太 日本代表 宮崎（大阪）合宿参加のお知らせ",
+      "date": "2026-08-24"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2419/",
+      "title": "イベント 2026.8.24 OSAKA熱活GAMES 参加決定のお知らせ",
+      "date": "2026-08-24"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2418/",
       "title": "トピックス 2026.8.18 男子セブンズ デベロップメント・スコッド（SDS）福岡合宿 参加のお知らせ",
@@ -116,26 +136,6 @@
       "url": "https://www.honda-heat.jp/news/2395/",
       "title": "トピックス 2026.7.9 2026-27シーズン 新加入選手・スタッフおよび新体制のお知らせ",
       "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2397/",
-      "title": "トピックス 2026.7.7 「ジャパンラグビー リーグワンライジング2026」 開催決定のお知らせ",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2396/",
-      "title": "トピックス 2026.7.4 【表敬訪問】三重県知事を訪問し、25-26シーズン終了のご挨拶をさせていただきました",
-      "date": "2026-07-04"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2394/",
-      "title": "トピックス 2026.7.2 「日本代表」および「ネーションズチャンピオンシップ2026 大会登録メンバー」選出のお知らせ",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2392/",
-      "title": "トピックス 2026.7.1 NTTジャパンラグビー リーグワン2026-27 ディビジョン編成および大会日程のお知らせ",
-      "date": "2026-07-01"
     },
     {
       "url": "https://www.honda-heat.jp/hostgame/20260509/",

@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-08-23T20:13:21+09:00",
+  "checked_at": "2026-08-28T00:07:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "4a98a555e750f7d2"
+      "hash": "a31371a8f39ce636"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "002dd01853f2216a"
+      "hash": "14714a38014ee1e6"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3167",
+      "title": "TEAM 2026/8/25 トレーニング一般公開のお知らせ",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3163",
+      "title": "2026.8.25[TUE] HOST AREA 【ホストエリア活動】磐田市 「南御厨キッズ夏休み塾」にてタグラグビー教室を実施しました",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3164",
+      "title": "2026.8.24[MON] OTHERS マレーシア代表セブンズラグビーと静岡ブルーレヴズが提携",
+      "date": "2026-08-24"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3158",
       "title": "TICKET 2026/8/12 【シーズンシート追加購入キャンペーン】プレミアム交流会へご招待！",
@@ -24,7 +39,7 @@
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3161",
-      "title": "2026.8.9[SUN] TEAM 稲場 巧選手が日本代表に追加招集",
+      "title": "TEAM 2026/8/9 稲場 巧選手が日本代表に招集",
       "date": "2026-08-09"
     },
     {
@@ -101,21 +116,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3142",
       "title": "2026.7.19[SUN] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（7/13～7/17）",
       "date": "2026-07-19"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3132",
-      "title": "2026.7.18[SAT] SPONSOR 2025-26シーズン オフィシャルパートナー 御礼訪問のご報告",
-      "date": "2026-07-18"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3129",
-      "title": "2026.7.17[FRI] FAN CLUB 公式ファンクラブ＜CLUB REVS＞も2026-27シーズンへ始動",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3128",
-      "title": "2026.7.17[FRI] FAN CLUB ＜CLUB REVS＞ 2026-27シーズンの継続入会・各種変更の手続きについて",
-      "date": "2026-07-17"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3140",

@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-08-23T20:13:21+09:00",
+  "checked_at": "2026-08-28T00:07:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "03ea6ed7835ec316"
+      "hash": "74b7c09347c81484"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "6e07c5f428141cf7"
+      "hash": "cea896d2bd32f6d6"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
@@ -29,6 +29,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.skyactivs.com/news/4674",
+      "title": "2026.08.25[TUE] GAME 「ジャパンラグビーリーグワンライジング2026」およびプレシーズンマッチのお知らせ（追加）",
+      "date": "2026-08-25"
+    },
     {
       "url": "https://www.skyactivs.com/news/4636",
       "title": "2026.08.18[TUE] TEAM 2026-27シーズン スタッフ体制のお知らせ",
@@ -223,11 +228,6 @@
       "url": "https://www.skyactivs.com/news/3871",
       "title": "2026.04.22[WED] GAME 【イベント情報】vs狭山セコムラガッツ",
       "date": "2026-04-22"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/3852",
-      "title": "2026.04.13[MON] TEAM 2025-26シーズン新加入選手のお知らせ",
-      "date": "2026-04-13"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",

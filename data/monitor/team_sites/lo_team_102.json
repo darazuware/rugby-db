@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-08-23T20:13:21+09:00",
+  "checked_at": "2026-08-28T00:07:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "ddcfaa3d06088d34"
+      "hash": "c711b64b70151d4f"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "ff2b7729d744b4ef"
+      "hash": "72fe2533993a474a"
     }
   ],
   "items": [
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260826_01/",
+      "title": "活動レポート 2026年08月26日 留学記：NZ編 齊藤誉哉③ ニュースを見る",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260825_01/",
+      "title": "チーム 2026年08月25日 日本代表 宮崎（大阪） 参加メンバーのお知らせ ニュースを見る",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/team/schedule/",
+      "title": "チーム 2026年08月24日 9月度チームスケジュール ニュースを見る",
+      "date": "2026-08-24"
+    },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260819_01/",
       "title": "活動レポート 2026年08月19日 留学記：NZ編 谷山隼大③ ニュースを見る",
@@ -53,34 +68,14 @@
       "date": "2026-07-29"
     },
     {
-      "url": "https://panasonic.co.jp/sports/wildknights/team/schedule/",
-      "title": "チーム 2026年07月27日 8月度チームスケジュール ニュースを見る",
-      "date": "2026-07-27"
-    },
-    {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260722_01/",
       "title": "活動レポート 2026年07月22日 留学記：NZ編 石川槙人⑥ ニュースを見る",
       "date": "2026-07-22"
     },
     {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260715_01/",
-      "title": "活動レポート 2026年07月15日 留学記：NZ編 齊藤誉哉① ニュースを見る",
-      "date": "2026-07-15"
-    },
-    {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260701_02/",
       "title": "チーム 2026年07月01日 2026年度 新加入選手のお知らせ ニュースを見る",
       "date": "2026-07-01"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260630_02/",
-      "title": "チーム 2026年06月30日 2025-26シーズン終了のご報告と御礼 ニュースを見る",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260606_01/",
-      "title": "チーム 2026年06月30日 2025-2026シーズン退団選手・スタッフのお知らせ ニュースを見る",
-      "date": "2026-06-30"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260504_01/",

@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-08-23T20:13:21+09:00",
+  "checked_at": "2026-08-28T00:07:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "e252b8ac792d771b"
+      "hash": "7f5b95040f6f9b0a"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "afa0085f6968ee7a"
+      "hash": "d4fb3c71337714ca"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "18c1847f326e22ee"
+      "hash": "7e16afa41c5465c4"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0825-01/",
+      "title": "TEAM 2026-27シーズン新加入選手追加のお知らせ 2026.08.25",
+      "date": "2026-08-25"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0818-01/",
       "title": "TEAM 株式会社WRS JAPAN（BLK）とオフィシャルサプライヤー契約締結のお知らせ 2026.08.18",

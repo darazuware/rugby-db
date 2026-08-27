@@ -3,20 +3,25 @@
   "league": "league-one-d3",
   "name": "狭山セコムラガッツ",
   "official_url": "https://www.rugguts.secom.co.jp/",
-  "checked_at": "2026-08-23T20:13:21+09:00",
+  "checked_at": "2026-08-28T00:07:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.rugguts.secom.co.jp/",
-      "hash": "11decd6e4802b309"
+      "hash": "1aad38b37762248f"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/news/",
-      "hash": "72fab730a8274a11"
+      "hash": "0c56848bb25614cc"
     }
   ],
   "items": [
+    {
+      "url": "https://www.rugguts.secom.co.jp/2026/08/2026-27-1.html",
+      "title": "2026-27シーズン新加入選手のお知らせ",
+      "date": "2026-08-20"
+    },
     {
       "url": "https://www.rugguts.secom.co.jp/2026/08/ntt-2026-27-d2202686.html",
       "title": "NTTジャパンラグビー リーグワン2026-27 D2の試合日程のお知らせ（2026年8月6日更新） 2026.08.06 お知らせ",
@@ -211,11 +216,6 @@
       "url": "https://www.rugguts.secom.co.jp/2026/02/post-19.html",
       "title": "2月27日（金）朝日新聞連載「数字は語る」掲載のお知らせ",
       "date": "2026-02-27"
-    },
-    {
-      "url": "https://www.rugguts.secom.co.jp/results/20260221.html",
-      "title": "NTTジャパンラグビー リーグワン 2025-26 D3 第7節 の試合結果を掲載しました。",
-      "date": "2026-02-21"
     }
   ]
 }

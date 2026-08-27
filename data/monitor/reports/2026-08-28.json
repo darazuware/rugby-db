@@ -1,0 +1,860 @@
+{
+  "checked_at": "2026-08-28T00:07:20+09:00",
+  "teams": [
+    {
+      "team_id": "lo_team_100",
+      "league": "league-one-d1",
+      "name": "浦安D-Rocks",
+      "official_url": "https://urayasu-d-rocks.com",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 40,
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/team/index_2007.html",
+          "title": "チーム 2026.08.24 【代表情報】男子日本代表選出のお知らせ",
+          "date": "2026-08-24",
+          "category": "squad"
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_101",
+      "league": "league-one-d1",
+      "name": "コベルコ神戸スティーラーズ",
+      "official_url": "https://www.kobesteelers.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 60,
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35128/",
+          "title": "2026/8/27 イベント 【選手イベント参加情報】第18回 北区ラグビーフェスティバルに選手が参加します",
+          "date": "2026-08-27",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35122/",
+          "title": "2026/8/27 社会貢献 【レポート】「教員の民間企業研修」でタグラグビー体験とチームビルドに関する講話を実施しました",
+          "date": "2026-08-27",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35116/",
+          "title": "2026/8/27 ファンクラブ 8月23日(日)ファンクラブ有料会員限定「スティールメイツファンミーティング2026」を開催しました",
+          "date": "2026-08-27",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35105/",
+          "title": "2026/8/27 普及 【レポート】「スポフェスKOBE～未来へつなぐスポーツ体験プログラム～」に参加しました",
+          "date": "2026-08-27",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35114/",
+          "title": "2026/8/26 イベント 【選手イベント参加情報】第39回RICサマーイブニングカーニバルに選手が出演します",
+          "date": "2026-08-26",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35110/",
+          "title": "2026/8/24 チーム ⽇本代表 宮崎合宿および大阪合宿参加メンバーのお知らせ",
+          "date": "2026-08-24",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/",
+        "https://www.kobesteelers.com/news/cat_news/information/",
+        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_102",
+      "league": "league-one-d1",
+      "name": "埼玉パナソニックワイルドナイツ",
+      "official_url": "https://panasonic.co.jp/sports/wildknights/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 33,
+      "new_items": [
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260826_01/",
+          "title": "活動レポート 2026年08月26日 留学記：NZ編 齊藤誉哉③ ニュースを見る",
+          "date": "2026-08-26",
+          "category": null
+        },
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260825_01/",
+          "title": "チーム 2026年08月25日 日本代表 宮崎（大阪） 参加メンバーのお知らせ ニュースを見る",
+          "date": "2026-08-25",
+          "category": "squad"
+        }
+      ],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_103",
+      "league": "league-one-d1",
+      "name": "東芝ブレイブルーパス東京",
+      "official_url": "https://www.bravelupus.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 42,
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/news/260827/",
+          "title": "募集中！！ 【必勝祈願バスツアー】狼を祀る三峯神社へ",
+          "date": "2026-08-27",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260824-2/",
+          "title": "男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ",
+          "date": "2026-08-24",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260818/",
+          "title": "男子セブンズ・デベロップメント・スコッド（SDS） 福岡合宿スケジュールと参加メンバーのお知らせ",
+          "date": "2026-08-22",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.bravelupus.com/",
+        "https://www.bravelupus.com/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_104",
+      "league": "league-one-d1",
+      "name": "トヨタヴェルブリッツ",
+      "official_url": "https://verblitz.toyotatimes-sports.toyota/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 10,
+      "new_items": [],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_105",
+      "league": "league-one-d1",
+      "name": "三重ホンダヒート",
+      "official_url": "http://www.honda-heat.jp",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 25,
+      "new_items": [
+        {
+          "url": "https://www.honda-heat.jp/news/2423/",
+          "title": "トピックス 2026.8.27 宮坂 航生、男子セブンズ 日本代表 中国遠征 参加のお知らせ",
+          "date": "2026-08-27",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.honda-heat.jp/news/2421/",
+          "title": "イベント 2026.8.26 「OSAKA FUNtast!c SPORTS PROJECT」キックオフイベント参加のお知らせ",
+          "date": "2026-08-26",
+          "category": null
+        },
+        {
+          "url": "https://www.honda-heat.jp/news/2420/",
+          "title": "トピックス 2026.8.24 祝原涼介、平野叶翔、福田健太 日本代表 宮崎（大阪）合宿参加のお知らせ",
+          "date": "2026-08-24",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.honda-heat.jp/news/2419/",
+          "title": "イベント 2026.8.24 OSAKA熱活GAMES 参加決定のお知らせ",
+          "date": "2026-08-24",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.honda-heat.jp/",
+        "https://www.honda-heat.jp/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_106",
+      "league": "league-one-d1",
+      "name": "三菱重工相模原ダイナボアーズ",
+      "official_url": "https://dynaboars.mhi.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 40,
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/dynaboarsfesta2026",
+          "title": "2026-08-26 ダイナボアーズフェスタ2026｜イベントページ情報更新＆チラシ掲載",
+          "date": "2026-08-26",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260824.html",
+          "title": "2026-08-24 15人制男子日本代表｜日本代表 宮崎（大阪）合宿参加メンバーの発表について",
+          "date": "2026-08-24",
+          "category": "squad"
+        }
+      ],
+      "changed_pages": [
+        "https://www.mhi.com/jp/company/sports/dynaboars/",
+        "https://www.mhi.com/jp/company/sports/dynaboars/news"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_107",
+      "league": "league-one-d1",
+      "name": "横浜キヤノンイーグルス",
+      "official_url": "https://www.canon-eagles.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 16,
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20260827.html",
+          "title": "2026.08.27 TEAM 男子日本代表宮崎（大阪）合宿に横浜キヤノンイーグルスの選手が参加します（追加）",
+          "date": "2026-08-27",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20260824.html",
+          "title": "2026.08.24 TEAM 男子日本代表宮崎（大阪）合宿に横浜キヤノンイーグルスの選手が参加します",
+          "date": "2026-08-24",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20260824-2.html",
+          "title": "2026.08.24 TEAM 横浜キヤノンイーグルスの選手が南アフリカ代表としてニュージーランド代表戦に出場します",
+          "date": "2026-08-24",
+          "category": null
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20260820.html",
+          "title": "2026.08.20 TEAM 横浜キヤノンイーグルスの選手が南アフリカ代表としてニュージーランド代表戦に出場します",
+          "date": "2026-08-20",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/",
+        "https://www.canon-eagles.jp/news/info/2026.html"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_108",
+      "league": "league-one-d1",
+      "name": "リコーブラックラムズ東京",
+      "official_url": "https://blackrams-tokyo.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 5,
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/team/volunteer/index.html",
+          "title": "2026-26シーズン Ramgelist(ラムジェリスト)新規募集のお知らせ",
+          "date": "2026-08-26",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260826a.html",
+          "title": "大内真選手 アジア・パシフィック・ライオンズ参加のお知らせ",
+          "date": "2026-08-26",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260825a.html",
+          "title": "2026-27シーズン 選手名入りタオル及び応援フェイスタオル 受注販売のお知らせ",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260824b.html",
+          "title": "池田悠希選手が日本代表 宮崎(大阪)合宿参加メンバーに選出されました",
+          "date": "2026-08-24",
+          "category": "squad"
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260824a.html",
+          "title": "2026-27シーズン ダン・マッケラーアシスタントコーチ新加入のお知らせ",
+          "date": "2026-08-24",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_97",
+      "league": "league-one-d1",
+      "name": "クボタスピアーズ船橋・東京ベイ",
+      "official_url": "http://www.kubota-spears.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 58,
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/news/2026/08/25/090000.html",
+          "title": "2026.08.25 ニュース・トピックス",
+          "date": "2026-08-25",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/",
+        "https://www.kubota-spears.com/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_98",
+      "league": "league-one-d1",
+      "name": "静岡ブルーレヴズ",
+      "official_url": "https://www.shizuoka-bluerevs.com",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 28,
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3167",
+          "title": "TEAM 2026/8/25 トレーニング一般公開のお知らせ",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3163",
+          "title": "2026.8.25[TUE] HOST AREA 【ホストエリア活動】磐田市 「南御厨キッズ夏休み塾」にてタグラグビー教室を実施しました",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3164",
+          "title": "2026.8.24[MON] OTHERS マレーシア代表セブンズラグビーと静岡ブルーレヴズが提携",
+          "date": "2026-08-24",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.shizuoka-bluerevs.com/",
+        "https://www.shizuoka-bluerevs.com/news"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_99",
+      "league": "league-one-d1",
+      "name": "東京サントリーサンゴリアス",
+      "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 40,
+      "new_items": [
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/820.html",
+          "title": "2026年 8月26日 Day820 『東京サンゴリアス×日川クラブ 第1回ラグビークリニック♪』",
+          "date": "2026-08-26",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_109",
+      "league": "league-one-d2",
+      "name": "NECグリーンロケッツ東葛",
+      "official_url": "https://www.jreast.co.jp/greenwarriors/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 7,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0825-01/",
+          "title": "TEAM 2026-27シーズン新加入選手追加のお知らせ 2026.08.25",
+          "date": "2026-08-25",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/",
+        "https://www.jreast.co.jp/greenwarriors/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_110",
+      "league": "league-one-d2",
+      "name": "九州電力キューデンヴォルテクス",
+      "official_url": "https://www.kyudenvoltex.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 40,
+      "new_items": [
+        {
+          "url": "https://www.kyudenvoltex.com/news/1002",
+          "title": "お知らせ 2026年08月24日 【ご報告】サイモニ・ヴ二ランギ選手の帰国につきまして",
+          "date": "2026-08-24",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kyudenvoltex.com/",
+        "https://www.kyudenvoltex.com/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_111",
+      "league": "league-one-d2",
+      "name": "清水建設江東ブルーシャークス",
+      "official_url": "https://blue-sharks.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 24,
+      "new_items": [],
+      "changed_pages": [
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_112",
+      "league": "league-one-d2",
+      "name": "豊田自動織機シャトルズ愛知",
+      "official_url": "https://shuttles-aichi.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 12,
+      "new_items": [],
+      "changed_pages": [
+        "https://shuttles-aichi.com/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_113",
+      "league": "league-one-d2",
+      "name": "日本製鉄釜石シーウェイブス",
+      "official_url": "https://kamaishi-seawaves.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 15,
+      "new_items": [],
+      "changed_pages": [
+        "https://kamaishi-seawaves.com/",
+        "https://kamaishi-seawaves.com/news/",
+        "https://kamaishi-seawaves.com/news/info/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_114",
+      "league": "league-one-d2",
+      "name": "花園近鉄ライナーズ",
+      "official_url": "https://hanazono-liners.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 25,
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/2026/08/24/rising-timeschedule/",
+          "title": "2026.08.24 試合関連 ジャパンラグビー リーグワン ライジング2026 試合時間決定【追加】のお知らせ",
+          "date": "2026-08-24",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/08/24/news-osaka-funtastc-sports-project/",
+          "title": "2026.08.24 試合関連 2026-27 プレシーズンマッチ【追加】および9/2(水)『OSAKA FUNtast!c SPORTS PROJECT』キックオフイベント選手参加のお知らせ",
+          "date": "2026-08-24",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/08/24/news-event/",
+          "title": "2026.08.24 イベント 8/29(土) 「おおきに祭り」に、ライナーズの選手が参加します",
+          "date": "2026-08-24",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hanazono-liners.jp/",
+        "https://hanazono-liners.jp/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_115",
+      "league": "league-one-d2",
+      "name": "日野レッドドルフィンズ",
+      "official_url": "https://hino-reddolphins.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 15,
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-08-27/",
+          "title": "8/26日野市 ふれあいラジオ体操に参加しました",
+          "date": "2026-08-27",
+          "category": null
+        },
+        {
+          "url": "https://hino-reddolphins.com/2026-08-26/",
+          "title": "9/26 ジャパンラグビーリーグワンライジング2026 日本製鉄釜石シーウェイブス戦 アクセス情報のお知らせ",
+          "date": "2026-08-26",
+          "category": null
+        },
+        {
+          "url": "https://hino-reddolphins.com/2026-08-25/",
+          "title": "9/12 プレシーズンマッチ実施のお知らせ",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://hino-reddolphins.com/2026-08-24/",
+          "title": "2026-27シーズン サポーターズクラブについて",
+          "date": "2026-08-24",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_116",
+      "league": "league-one-d2",
+      "name": "レッドハリケーンズ大阪",
+      "official_url": "https://docomo-rugby.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 45,
+      "new_items": [
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8849",
+          "title": "お知らせ 2026年8月27日 山口泰輝選手 7人制ラグビー日本代表選出のお知らせ",
+          "date": "2026-08-27",
+          "category": "squad"
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8845",
+          "title": "試合情報 2026年8月26日 2026-27シーズン プレシーズンマッチ追加決定および「OSAKA FUNtast!c SPORTS PROJECT」参画のお知らせ",
+          "date": "2026-08-26",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8814",
+          "title": "お知らせ 2026年8月25日 【リリース】2026-27シーズン新加入選手および退団選手（追加）のお知らせ",
+          "date": "2026-08-25",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://docomo-rugby.jp/",
+        "https://docomo-rugby.jp/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_117",
+      "league": "league-one-d3",
+      "name": "クリタウォーターガッシュ昭島",
+      "official_url": "https://www.kurita-watergush.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 44,
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/stadium/%e6%9d%b1%e4%ba%ac%e5%a4%a7%e5%ad%a6%e4%b8%b8%e5%92%8c%e6%9f%8ffusion%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab%e3%83%89/",
+          "title": "アクセス",
+          "date": "2026-10-03",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261003-m%e6%88%90%e7%94%b0-vswg%e6%98%ad%e5%b3%b6/",
+          "title": "このゲームの詳細情報はこちら",
+          "date": "2026-10-03",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kurita-watergush.jp/",
+        "https://www.kurita-watergush.jp/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_118",
+      "league": "league-one-d3",
+      "name": "狭山セコムラガッツ",
+      "official_url": "https://www.rugguts.secom.co.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 40,
+      "new_items": [
+        {
+          "url": "https://www.rugguts.secom.co.jp/2026/08/2026-27-1.html",
+          "title": "2026-27シーズン新加入選手のお知らせ",
+          "date": "2026-08-20",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_119",
+      "league": "league-one-d3",
+      "name": "中国電力レッドレグリオンズ",
+      "official_url": "https://rrrfc.red/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 16,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_120",
+      "league": "league-one-d3",
+      "name": "マツダスカイアクティブズ広島",
+      "official_url": "https://www.skyactivs.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 45,
+      "new_items": [
+        {
+          "url": "https://www.skyactivs.com/news/4674",
+          "title": "2026.08.25[TUE] GAME 「ジャパンラグビーリーグワンライジング2026」およびプレシーズンマッチのお知らせ（追加）",
+          "date": "2026-08-25",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_121",
+      "league": "league-one-d3",
+      "name": "ヤクルトレビンズ戸田",
+      "official_url": "https://www.yakult.co.jp/sports/rugby/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 12,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_122",
+      "league": "league-one-d3",
+      "name": "ルリーロ福岡",
+      "official_url": "https://leriro-fukuoka.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 11,
+      "new_items": [],
+      "changed_pages": [
+        "https://leriro-fukuoka.com/"
+      ],
+      "rename_signals": []
+    }
+  ],
+  "sources": [
+    {
+      "key": "league_one",
+      "name": "リーグワン公式",
+      "url": "https://league-one.jp/news/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 10,
+      "new_items": [],
+      "rename_signals": [
+        {
+          "url": "https://league-one.jp/news/6112",
+          "title": "クラブ AZ-COM丸和MOMOTARO’S、新チーム名/エンブレム/ロゴ決定のご案内 2026.08.20",
+          "date": "2026-08-20"
+        }
+      ]
+    },
+    {
+      "key": "jrfu",
+      "name": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 10,
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54152",
+          "title": "レポート：男子セブンズ学生日本代表 熊谷合宿 2026.8.27 （木） アカデミー・強化育成 セブンズ 男子セブンズ 男子セブンズ学生日本代表",
+          "date": "2026-08-27",
+          "category": "squad"
+        }
+      ],
+      "rename_signals": []
+    },
+    {
+      "key": "pnc",
+      "name": "パシフィック・ネーションズカップ（World Rugby）",
+      "url": "https://www.world.rugby/news",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 0,
+      "new_items": [],
+      "rename_signals": []
+    }
+  ],
+  "highlights": [
+    {
+      "source": "狭山セコムラガッツ",
+      "url": "https://www.rugguts.secom.co.jp/2026/08/2026-27-1.html",
+      "title": "2026-27シーズン新加入選手のお知らせ",
+      "date": "2026-08-20",
+      "category": "roster"
+    },
+    {
+      "source": "リコーブラックラムズ東京",
+      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260824a.html",
+      "title": "2026-27シーズン ダン・マッケラーアシスタントコーチ新加入のお知らせ",
+      "date": "2026-08-24",
+      "category": "roster"
+    },
+    {
+      "source": "NECグリーンロケッツ東葛",
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0825-01/",
+      "title": "TEAM 2026-27シーズン新加入選手追加のお知らせ 2026.08.25",
+      "date": "2026-08-25",
+      "category": "roster"
+    },
+    {
+      "source": "レッドハリケーンズ大阪",
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8814",
+      "title": "お知らせ 2026年8月25日 【リリース】2026-27シーズン新加入選手および退団選手（追加）のお知らせ",
+      "date": "2026-08-25",
+      "category": "roster"
+    },
+    {
+      "source": "浦安D-Rocks",
+      "url": "https://urayasu-d-rocks.com/news/team/index_2007.html",
+      "title": "チーム 2026.08.24 【代表情報】男子日本代表選出のお知らせ",
+      "date": "2026-08-24",
+      "category": "squad"
+    },
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/260824-2/",
+      "title": "男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ",
+      "date": "2026-08-24",
+      "category": "squad"
+    },
+    {
+      "source": "三重ホンダヒート",
+      "url": "https://www.honda-heat.jp/news/2420/",
+      "title": "トピックス 2026.8.24 祝原涼介、平野叶翔、福田健太 日本代表 宮崎（大阪）合宿参加のお知らせ",
+      "date": "2026-08-24",
+      "category": "squad"
+    },
+    {
+      "source": "三菱重工相模原ダイナボアーズ",
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260824.html",
+      "title": "2026-08-24 15人制男子日本代表｜日本代表 宮崎（大阪）合宿参加メンバーの発表について",
+      "date": "2026-08-24",
+      "category": "squad"
+    },
+    {
+      "source": "横浜キヤノンイーグルス",
+      "url": "https://www.canon-eagles.jp/news/info/20260824.html",
+      "title": "2026.08.24 TEAM 男子日本代表宮崎（大阪）合宿に横浜キヤノンイーグルスの選手が参加します",
+      "date": "2026-08-24",
+      "category": "squad"
+    },
+    {
+      "source": "リコーブラックラムズ東京",
+      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260824b.html",
+      "title": "池田悠希選手が日本代表 宮崎(大阪)合宿参加メンバーに選出されました",
+      "date": "2026-08-24",
+      "category": "squad"
+    },
+    {
+      "source": "埼玉パナソニックワイルドナイツ",
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260825_01/",
+      "title": "チーム 2026年08月25日 日本代表 宮崎（大阪） 参加メンバーのお知らせ ニュースを見る",
+      "date": "2026-08-25",
+      "category": "squad"
+    },
+    {
+      "source": "三重ホンダヒート",
+      "url": "https://www.honda-heat.jp/news/2423/",
+      "title": "トピックス 2026.8.27 宮坂 航生、男子セブンズ 日本代表 中国遠征 参加のお知らせ",
+      "date": "2026-08-27",
+      "category": "squad"
+    },
+    {
+      "source": "横浜キヤノンイーグルス",
+      "url": "https://www.canon-eagles.jp/news/info/20260827.html",
+      "title": "2026.08.27 TEAM 男子日本代表宮崎（大阪）合宿に横浜キヤノンイーグルスの選手が参加します（追加）",
+      "date": "2026-08-27",
+      "category": "squad"
+    },
+    {
+      "source": "レッドハリケーンズ大阪",
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8849",
+      "title": "お知らせ 2026年8月27日 山口泰輝選手 7人制ラグビー日本代表選出のお知らせ",
+      "date": "2026-08-27",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54152",
+      "title": "レポート：男子セブンズ学生日本代表 熊谷合宿 2026.8.27 （木） アカデミー・強化育成 セブンズ 男子セブンズ 男子セブンズ学生日本代表",
+      "date": "2026-08-27",
+      "category": "squad"
+    }
+  ],
+  "league_rename_news": [
+    {
+      "url": "https://league-one.jp/news/6112",
+      "title": "クラブ AZ-COM丸和MOMOTARO’S、新チーム名/エンブレム/ロゴ決定のご案内 2026.08.20",
+      "date": "2026-08-20"
+    }
+  ],
+  "warnings": [
+    "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
+  ]
+}

@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-08-23T20:13:21+09:00",
+  "checked_at": "2026-08-28T00:07:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "3dbba70c8128e28c"
+      "hash": "870ff4501ca98a99"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "102f30cbc8689c99"
+      "hash": "6de5a546e50a51c7"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/dynaboarsfesta2026",
+      "title": "2026-08-26 ダイナボアーズフェスタ2026｜イベントページ情報更新＆チラシ掲載",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260824.html",
+      "title": "2026-08-24 15人制男子日本代表｜日本代表 宮崎（大阪）合宿参加メンバーの発表について",
+      "date": "2026-08-24"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260821.html",
       "title": "2026-08-21 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（8/22）に11番で先発出場",
@@ -49,12 +59,12 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260706.html",
-      "title": "2026-08-06 選手と選手バスで行く全緑バスツアー｜佐川選手、高城選手の参加が決定！",
+      "title": "2026-08-06 [ イベント ] 選手と選手バスで行く全緑バスツアー｜佐川選手、高城選手の参加が決定！",
       "date": "2026-08-06"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260723.html",
-      "title": "2026-08-05 日本代表｜平翔太選手の男子日本代表網走合宿 離脱について",
+      "title": "2026-08-05 [ チーム ] 日本代表｜平翔太選手の男子日本代表網走合宿 離脱について",
       "date": "2026-08-05"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260507.html",
       "title": "2026-05-07 [ チーム ] 2025-26シーズンをもって退団となる選手・スタッフのお知らせ",
       "date": "2026-05-07"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/2526r17#10",
-      "title": "2026-05-07 [ メディア ] 試合レポート更新｜vs横浜E --痛恨5連敗で入替戦行き確定 ラスト“3試合”へ原点回帰を強調「15人全員がコネクトできるか」",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260417.html-0",
-      "title": "2026-05-06 [ イベント ] シーズンエンドイベントは5/31（日）。申込締切は5/20（水）まで延長！｜2025-26シーズン シーズンエンドイベント",
-      "date": "2026-05-06"
     }
   ]
 }

@@ -3,24 +3,39 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-08-23T20:13:21+09:00",
+  "checked_at": "2026-08-28T00:07:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "511eff5c97cccabf"
+      "hash": "d7577521611984c9"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "2a0eb60fd750b5e3"
+      "hash": "14c981bee305ee91"
     }
   ],
   "items": [
     {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8849",
+      "title": "お知らせ 2026年8月27日 山口泰輝選手 7人制ラグビー日本代表選出のお知らせ",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8845",
+      "title": "試合情報 2026年8月26日 2026-27シーズン プレシーズンマッチ追加決定および「OSAKA FUNtast!c SPORTS PROJECT」参画のお知らせ",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8814",
+      "title": "お知らせ 2026年8月25日 【リリース】2026-27シーズン新加入選手および退団選手（追加）のお知らせ",
+      "date": "2026-08-25"
+    },
+    {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8815",
-      "title": "お知らせ 2026年8月19日 【リリース】リーグワン初※ 小中高生向け「レフリーアカデミー」を開講",
-      "date": "2026-08-19"
+      "title": "お知らせ 2026年8月20日 【リリース】リーグワン初※ 小中高生向け「レフリーアカデミー」を開講",
+      "date": "2026-08-20"
     },
     {
       "url": "https://docomo-rugby.jp/game/",
@@ -206,21 +221,6 @@
       "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8589",
       "title": "アカデミー 2026年5月7日 【U12アドバンスクラス】4月活動レポート",
       "date": "2026-05-07"
-    },
-    {
-      "url": "https://docomo-rugby.jp/game/report.html?id=323",
-      "title": "試合情報 2026年5月4日 【NTT JAPAN RUGBY LEAGUE ONE 2025-26 DIVISION 2】第13節 豊田自動織機シャトルズ愛知",
-      "date": "2026-05-04"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8586",
-      "title": "お知らせ 2026年4月30日 【リリース】レッドハリケーンズ大阪選手の5月参加イベントについて",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8582",
-      "title": "お知らせ 2026年4月30日 【リリース】2025-26シーズン 新加入選手（追加）のお知らせ",
-      "date": "2026-04-30"
     },
     {
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8386",

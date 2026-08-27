@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-08-23T20:13:21+09:00",
+  "checked_at": "2026-08-28T00:07:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,10 +13,30 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "18bc753486518a1c"
+      "hash": "43595fb5c0785d55"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-08-27/",
+      "title": "8/26日野市 ふれあいラジオ体操に参加しました",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-08-26/",
+      "title": "9/26 ジャパンラグビーリーグワンライジング2026 日本製鉄釜石シーウェイブス戦 アクセス情報のお知らせ",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-08-25/",
+      "title": "9/12 プレシーズンマッチ実施のお知らせ",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://hino-reddolphins.com/2026-08-24/",
+      "title": "2026-27シーズン サポーターズクラブについて",
+      "date": "2026-08-24"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-08-20/",
       "title": "9/26 ジャパンラグビーリーグワンライジング2026 日本製鉄釜石シーウェイブス戦 試合運営について",
@@ -71,41 +91,6 @@
       "url": "https://hino-reddolphins.com/2026-07-16/",
       "title": "株式会社平山を表敬訪問しました",
       "date": "2026-07-16"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-07-15/",
-      "title": "千代田運輸株式会社を表敬訪問しました",
-      "date": "2026-07-15"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-07-13/",
-      "title": "新加入選手のお知らせ",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-07-10/",
-      "title": "6/26薬物乱用防止「６・２６街頭キャンペーン」に参加しました",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-07-09/",
-      "title": "2026-27シーズン新体制ならびに 新加入スタッフのお知らせ",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-07-08/",
-      "title": "6/26古河市役所へ表敬訪問しました",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-07-07/",
-      "title": "ジャパンラグビー リーグワン ライジング2026参加のお知らせ",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-07-06/",
-      "title": "6/25太田市役所へ表敬訪問しました",
-      "date": "2026-07-06"
     }
   ]
 }

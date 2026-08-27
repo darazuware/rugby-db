@@ -3,35 +3,40 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-08-23T20:13:21+09:00",
+  "checked_at": "2026-08-28T00:07:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "c170060b536d29a1"
+      "hash": "0b5d6b2a114ee51b"
     }
   ],
   "items": [
     {
-      "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260814a.html",
-      "title": "ニュージーランド留学レポート⑤（青木拓己選手）",
-      "date": "2026-08-14"
+      "url": "https://blackrams-tokyo.com/team/volunteer/index.html",
+      "title": "2026-26シーズン Ramgelist(ラムジェリスト)新規募集のお知らせ",
+      "date": "2026-08-26"
     },
     {
-      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260814a.html",
-      "title": "NPCマナワツ・ターボス期限付き移籍レポート①（笹川大五選手）",
-      "date": "2026-08-14"
+      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260826a.html",
+      "title": "大内真選手 アジア・パシフィック・ライオンズ参加のお知らせ",
+      "date": "2026-08-26"
     },
     {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260810a.html",
-      "title": "「BlackRamsTokyoが二子玉川ライズにやってくる！ラムズの夏休み2026」実施レポート",
-      "date": "2026-08-10"
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260825a.html",
+      "title": "2026-27シーズン 選手名入りタオル及び応援フェイスタオル 受注販売のお知らせ",
+      "date": "2026-08-25"
     },
     {
-      "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20260810b.html",
-      "title": "8月26日(水)・28日(金) RAMOVE限定「練習見学＆グラウンド開放イベント」のご案内",
-      "date": "2026-08-10"
+      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260824b.html",
+      "title": "池田悠希選手が日本代表 宮崎(大阪)合宿参加メンバーに選出されました",
+      "date": "2026-08-24"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260824a.html",
+      "title": "2026-27シーズン ダン・マッケラーアシスタントコーチ新加入のお知らせ",
+      "date": "2026-08-24"
     }
   ]
 }

@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-08-23T20:13:21+09:00",
+  "checked_at": "2026-08-28T00:07:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "003c17cb76fb1951"
+      "hash": "51935eff6ab431e0"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "2cffc5b5a8b7f7f1"
+      "hash": "8f5cc0d54dd31ba4"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/1002",
+      "title": "お知らせ 2026年08月24日 【ご報告】サイモニ・ヴ二ランギ選手の帰国につきまして",
+      "date": "2026-08-24"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/989",
       "title": "お知らせ 2026年08月20日 「ジャパンラグビー リーグワン ライジング 2026」開催決定のお知らせ(8/20更新)",
@@ -136,11 +141,6 @@
       "url": "https://www.kyudenvoltex.com/news/979",
       "title": "試合情報 2026年04月23日 【FC会員限定】「ファン感謝DAY Charger大放電祭り」参加募集のお知らせ",
       "date": "2026-04-23"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/980",
-      "title": "お知らせ 2026年04月17日 ファン感謝DAY「Charger大放電祭り」開催のお知らせ",
-      "date": "2026-04-17"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/976",

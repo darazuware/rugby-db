@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-08-23T20:13:21+09:00",
+  "checked_at": "2026-08-28T00:07:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "97dfe52b3a138e08"
+      "hash": "4e9c0e55865b03cb"
     }
   ],
   "items": [
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4253/",
+      "title": "2026.8.26 チケット・ファンクラブ 【ファンクラブ】システムメンテナンス期間のご案内",
+      "date": "2026-08-26"
+    },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4260/",
       "title": "2026.8.21 普及・アカデミー トヨタヴェルブリッツアカデミー #10",
@@ -42,11 +47,6 @@
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4257/",
       "title": "2026.8.19 チケット・ファンクラブ 【チケット】シーズンチケット受付スケジュールおよび購入可能席について",
       "date": "2026-08-19"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4253/",
-      "title": "2026.8.17 チケット・ファンクラブ 【ファンクラブ】システムメンテナンス期間のご案内",
-      "date": "2026-08-17"
     },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4250/",
