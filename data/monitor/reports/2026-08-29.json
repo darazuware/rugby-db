@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-29T01:31:15+09:00",
+  "checked_at": "2026-08-29T06:17:38+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -21,25 +21,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [
-        {
-          "url": "https://www.kobesteelers.com/news/post35138/",
-          "title": "2026/8/28 チーム ニュージーランド派遣レポート Part.1 中嶋 大希選手",
-          "date": "2026-08-28",
-          "category": null
-        },
-        {
-          "url": "https://www.kobesteelers.com/news/post35121/",
-          "title": "2026/8/28 お知らせ コベルコ神戸スティーラーズ公式アプリ サービス終了のお知らせ",
-          "date": "2026-08-28",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.kobesteelers.com/",
-        "https://www.kobesteelers.com/news/",
-        "https://www.kobesteelers.com/news/cat_news/information/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -63,10 +46,7 @@
       "first_run": false,
       "item_count": 42,
       "new_items": [],
-      "changed_pages": [
-        "https://www.bravelupus.com/",
-        "https://www.bravelupus.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -77,17 +57,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4261/",
-          "title": "2026.8.28 普及・アカデミー トヨタヴェルブリッツアカデミー #11",
-          "date": "2026-08-28",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://verblitz.toyotatimes-sports.toyota/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -99,10 +70,7 @@
       "first_run": false,
       "item_count": 25,
       "new_items": [],
-      "changed_pages": [
-        "https://www.honda-heat.jp/",
-        "https://www.honda-heat.jp/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -113,26 +81,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260828.html",
-          "title": "2026-08-28 ジャック・ボーウェン選手加入のお知らせ",
-          "date": "2026-08-28",
-          "category": "roster"
-        },
-        {
-          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260827.html",
-          "title": "2026-08-27 男子セブンズ日本代表｜中国遠征参加メンバーに服部航大選手が選出",
-          "date": "2026-08-27",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260825.html",
-          "title": "2026-08-25 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（8/29）に14番で先発出場",
-          "date": "2026-08-25",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -183,14 +132,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 28,
-      "new_items": [
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3159",
-          "title": "2026.8.28[FRI] FAN CLUB CLUB REVS有料会員限定イベントの参加者募集",
-          "date": "2026-08-28",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -205,18 +147,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2608-1031.html",
-          "title": "2026年 8月28日 #1031 竹内 柊平 『もっとチームになる』",
-          "date": "2026-08-28",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.suntory.co.jp/culture-sports/sungoliath/",
-        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -240,9 +172,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kyudenvoltex.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -268,9 +198,7 @@
       "first_run": false,
       "item_count": 12,
       "new_items": [],
-      "changed_pages": [
-        "https://shuttles-aichi.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -378,9 +306,7 @@
       "first_run": false,
       "item_count": 45,
       "new_items": [],
-      "changed_pages": [
-        "https://www.skyactivs.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -440,22 +366,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "三菱重工相模原ダイナボアーズ",
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260828.html",
-      "title": "2026-08-28 ジャック・ボーウェン選手加入のお知らせ",
-      "date": "2026-08-28",
-      "category": "roster"
-    },
-    {
-      "source": "三菱重工相模原ダイナボアーズ",
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260827.html",
-      "title": "2026-08-27 男子セブンズ日本代表｜中国遠征参加メンバーに服部航大選手が選出",
-      "date": "2026-08-27",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
