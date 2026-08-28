@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-08-28T05:51:57+09:00",
+  "checked_at": "2026-08-29T01:31:15+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "b5ef5022fcc79159"
+      "hash": "95b9b83f9de4ccdb"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "b5f1f38f491036b1"
+      "hash": "0982c9093e7ea285"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3159",
+      "title": "2026.8.28[FRI] FAN CLUB CLUB REVS有料会員限定イベントの参加者募集",
+      "date": "2026-08-28"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3167",
       "title": "TEAM 2026/8/25 トレーニング一般公開のお知らせ",
@@ -111,11 +116,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3145",
       "title": "2026.7.20[MON] TEAM ハンター・パイサミ選手と契約締結",
       "date": "2026-07-20"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3142",
-      "title": "2026.7.19[SUN] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（7/13～7/17）",
-      "date": "2026-07-19"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3140",

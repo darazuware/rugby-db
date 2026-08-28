@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-08-28T05:51:57+09:00",
+  "checked_at": "2026-08-29T01:31:15+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "fd43c1cbf067fc10"
+      "hash": "0929f5357260b8eb"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "b191920bf7d28ff8"
+      "hash": "9a40e0e6a9e64929"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2411/",
+      "title": "イベント 2026.8.28 【8/28更新】『ブレックスアリーナ宇都宮スポーツフェスティバル』参加のお知らせ",
+      "date": "2026-08-28"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2423/",
       "title": "トピックス 2026.8.27 宮坂 航生、男子セブンズ 日本代表 中国遠征 参加のお知らせ",
@@ -71,11 +76,6 @@
       "url": "https://www.honda-heat.jp/news/2412/",
       "title": "社会貢献 2026.7.30 『アークタウン・サマーフェスティバル 2026』に参加しました！",
       "date": "2026-07-30"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2411/",
-      "title": "イベント 2026.7.28 『ブレックスアリーナ宇都宮スポーツフェスティバル』参加のお知らせ",
-      "date": "2026-07-28"
     },
     {
       "url": "https://www.honda-heat.jp/news/2408/",

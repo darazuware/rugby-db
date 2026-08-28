@@ -3,24 +3,39 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-08-28T05:51:57+09:00",
+  "checked_at": "2026-08-29T01:31:15+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "8209523e5306f2fc"
+      "hash": "10a564dce97e5645"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "5e1e844411220683"
+      "hash": "9b4d6ec50b6c60d9"
     }
   ],
   "items": [
     {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260828.html",
+      "title": "2026-08-28 ジャック・ボーウェン選手加入のお知らせ",
+      "date": "2026-08-28"
+    },
+    {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/dynaboarsfesta2026",
-      "title": "2026-08-26 ダイナボアーズフェスタ2026｜イベントページ情報更新＆チラシ掲載",
-      "date": "2026-08-26"
+      "title": "2026-08-28 ダイナボアーズフェスタ2026｜選手出演情報更新",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260827.html",
+      "title": "2026-08-27 男子セブンズ日本代表｜中国遠征参加メンバーに服部航大選手が選出",
+      "date": "2026-08-27"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260825.html",
+      "title": "2026-08-25 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（8/29）に14番で先発出場",
+      "date": "2026-08-25"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260824.html",
@@ -39,17 +54,17 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260818.html-0",
-      "title": "2026-08-18 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部選手・吉本選手が選出",
+      "title": "2026-08-18 [ チーム ] [ メディア ] 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部選手・吉本選手が選出",
       "date": "2026-08-18"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260818.html",
-      "title": "2026-08-18 ルーク・ポーター選手加入のお知らせ",
+      "title": "2026-08-18 [ チーム ] ルーク・ポーター選手加入のお知らせ",
       "date": "2026-08-18"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260817.html",
-      "title": "2026-08-17 専属チアチーム「ダイナスターズ」ワークショップ＆新規メンバー選考会開催のお知らせ",
+      "title": "2026-08-17 [ イベント ] 専属チアチーム「ダイナスターズ」ワークショップ＆新規メンバー選考会開催のお知らせ",
       "date": "2026-08-17"
     },
     {
@@ -201,21 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/2526r18#10",
       "title": "2026-05-12 [ メディア ] 試合レポート更新｜vs浦安DR --ホーム最終戦は激闘の末に惜敗 課題を直視して入替戦へ「決勝戦だと思って取り組みたい」",
       "date": "2026-05-12"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule#3",
-      "title": "2026-05-10 [ イベント ] 日程更新｜D1/D2入替戦情報追記。対戦相手は豊田自動織機シャトルズ愛知に決定",
-      "date": "2026-05-10"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/2526r18",
-      "title": "2026-05-08 [ チーム ] 試合メンバー/イベント情報更新｜NTTリーグワン2025-26第18節 三菱重工相模原ダイナボアーズ 対 浦安D-Rocks",
-      "date": "2026-05-08"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260507.html",
-      "title": "2026-05-07 [ チーム ] 2025-26シーズンをもって退団となる選手・スタッフのお知らせ",
-      "date": "2026-05-07"
     }
   ]
 }

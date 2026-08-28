@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-08-28T05:51:57+09:00",
+  "checked_at": "2026-08-29T01:31:15+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "c1bb627ad6fafc1f"
+      "hash": "c7d288c35e3ae19b"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "c42f02cd73c93105"
+      "hash": "12e7d05e0a37d812"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2608-1031.html",
+      "title": "2026年 8月28日 #1031 竹内 柊平 『もっとチームになる』",
+      "date": "2026-08-28"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/820.html",
       "title": "2026年 8月26日 Day820 『東京サンゴリアス×日川クラブ 第1回ラグビークリニック♪』",
@@ -211,11 +216,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/r18ttr.html",
       "title": "2026年 2月25日 第18節ホスト最終戦 特別チケット情報 いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 5月10日（日）に東京都・秩父宮ラ…",
       "date": "2026-02-25"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/252610vgSBR.html",
-      "title": "2026年 2月22日 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第10節 静岡ブルーレヴズ vs東京サントリーサンゴリアス戦のご案内 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第10節 ※ビジターゲーム ■試合日…",
-      "date": "2026-02-22"
     }
   ]
 }
