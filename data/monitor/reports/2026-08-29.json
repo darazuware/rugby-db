@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-29T06:17:38+09:00",
+  "checked_at": "2026-08-29T19:59:23+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -132,7 +132,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 28,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3166",
+          "title": "2026.8.29[SAT] SCHOOL スタッド・トゥールーザンとのアカデミーキャンプを開催しました",
+          "date": "2026-08-29",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -198,7 +205,9 @@
       "first_run": false,
       "item_count": 12,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://shuttles-aichi.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -306,7 +315,9 @@
       "first_run": false,
       "item_count": 45,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.skyactivs.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -352,7 +363,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54159",
+          "title": "（8/29更新）レポート：女子セブンズ学生日本代表 熊谷合宿 2026.8.29 （土） アカデミー・強化育成 女子 セブンズ 女子セブンズ学生日本代表",
+          "date": "2026-08-29",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54158",
+          "title": "合宿レポート：男子日本代表 宮崎合宿 2026.8.29 （土） 15人制男子日本代表",
+          "date": "2026-08-29",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54134",
+          "title": "「特別な配慮が必要なお子様との関わり方〜誰もがグラウンドで輝ける環境作り〜」参加者募集のお知らせ 2026.8.29 （土） その他 普及育成",
+          "date": "2026-08-29",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -366,7 +396,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54159",
+      "title": "（8/29更新）レポート：女子セブンズ学生日本代表 熊谷合宿 2026.8.29 （土） アカデミー・強化育成 女子 セブンズ 女子セブンズ学生日本代表",
+      "date": "2026-08-29",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54158",
+      "title": "合宿レポート：男子日本代表 宮崎合宿 2026.8.29 （土） 15人制男子日本代表",
+      "date": "2026-08-29",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
