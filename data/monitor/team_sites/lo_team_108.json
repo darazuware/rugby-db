@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-08-30T00:23:23+09:00",
+  "checked_at": "2026-08-30T18:52:55+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "0b5d6b2a114ee51b"
+      "hash": "73ff99b518922ef8"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260828a.html",
+      "title": "ニュージーランド留学レポート⑥（李淳弘選手）",
+      "date": "2026-08-28"
+    },
     {
       "url": "https://blackrams-tokyo.com/team/volunteer/index.html",
       "title": "2026-26シーズン Ramgelist(ラムジェリスト)新規募集のお知らせ",
@@ -31,11 +36,6 @@
     {
       "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260824b.html",
       "title": "池田悠希選手が日本代表 宮崎(大阪)合宿参加メンバーに選出されました",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260824a.html",
-      "title": "2026-27シーズン ダン・マッケラーアシスタントコーチ新加入のお知らせ",
       "date": "2026-08-24"
     }
   ]

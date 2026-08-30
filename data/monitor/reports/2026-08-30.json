@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-30T00:23:23+09:00",
+  "checked_at": "2026-08-30T18:52:55+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -34,9 +34,7 @@
       "first_run": false,
       "item_count": 33,
       "new_items": [],
-      "changed_pages": [
-        "https://panasonic.co.jp/sports/wildknights/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -110,8 +108,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260828a.html",
+          "title": "ニュージーランド留学レポート⑥（李淳弘選手）",
+          "date": "2026-08-28",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -360,15 +367,9 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54160",
-          "title": "女子セブンズ日本代表（サクラセブンズ） アジアラグビーエミレーツセブンズシリーズ 2026 中国大会 1 日目試合結果と 2 日目試合スケジュールのお知らせ 2026.8.29 （土） 女子セブンズ日本代表 女子 セブンズ ARE7s アジアラグビーエミレーツセブンズシリーズ2026",
-          "date": "2026-08-29",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54145",
-          "title": "男子セブンズ日本代表 アジアラグビーエミレーツセブンズシリーズ2026 中国大会 1日目試合結果と2日目試合スケジュールのお知らせ 2026.8.29 （土） 男子セブンズ日本代表 セブンズ ARE7s アジアラグビーエミレーツセブンズシリーズ 男子セブンズ",
-          "date": "2026-08-29",
+          "url": "https://www.rugby-japan.jp/news/54148",
+          "title": "男女セブンズ学生日本代表 「世界学生選手権2026（7人制ラグビー）」（主催：FISU）南アフリカ遠征スケジュールおよび出場メンバーのお知らせ 2026.8.30 （日） アカデミー・強化育成 セブンズ 男子セブンズ 女子セブンズ",
+          "date": "2026-08-30",
           "category": "squad"
         }
       ],
@@ -388,16 +389,9 @@
   "highlights": [
     {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54160",
-      "title": "女子セブンズ日本代表（サクラセブンズ） アジアラグビーエミレーツセブンズシリーズ 2026 中国大会 1 日目試合結果と 2 日目試合スケジュールのお知らせ 2026.8.29 （土） 女子セブンズ日本代表 女子 セブンズ ARE7s アジアラグビーエミレーツセブンズシリーズ2026",
-      "date": "2026-08-29",
-      "category": "squad"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54145",
-      "title": "男子セブンズ日本代表 アジアラグビーエミレーツセブンズシリーズ2026 中国大会 1日目試合結果と2日目試合スケジュールのお知らせ 2026.8.29 （土） 男子セブンズ日本代表 セブンズ ARE7s アジアラグビーエミレーツセブンズシリーズ 男子セブンズ",
-      "date": "2026-08-29",
+      "url": "https://www.rugby-japan.jp/news/54148",
+      "title": "男女セブンズ学生日本代表 「世界学生選手権2026（7人制ラグビー）」（主催：FISU）南アフリカ遠征スケジュールおよび出場メンバーのお知らせ 2026.8.30 （日） アカデミー・強化育成 セブンズ 男子セブンズ 女子セブンズ",
+      "date": "2026-08-30",
       "category": "squad"
     }
   ],
