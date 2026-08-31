@@ -3,34 +3,39 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-08-31T00:07:14+09:00",
+  "checked_at": "2026-08-31T19:45:34+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "fd5feb9b8d988702"
+      "hash": "38da3b96b259ac1d"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "72d215937c03d3e2"
+      "hash": "148fdb92925f26f3"
     }
   ],
   "items": [
     {
-      "url": "https://www.bravelupus.com/news/260827/",
-      "title": "募集中！！ 【必勝祈願バスツアー】狼を祀る三峯神社へ",
-      "date": "2026-08-27"
+      "url": "https://www.bravelupus.com/news/260831/",
+      "title": "川崎市、神奈川県ラグビーフットボール協会、川崎市ラグビーフットボール協会との連携協定締結について",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260824-2/",
+      "title": "男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ（8/31更新）",
+      "date": "2026-08-31"
     },
     {
       "url": "https://www.bravelupus.com/news/",
       "title": "記事一覧",
-      "date": "2026-08-27"
+      "date": "2026-08-31"
     },
     {
-      "url": "https://www.bravelupus.com/news/260824-2/",
-      "title": "男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ",
-      "date": "2026-08-24"
+      "url": "https://www.bravelupus.com/news/260827/",
+      "title": "募集中！！ 【必勝祈願バスツアー】狼を祀る三峯神社へ",
+      "date": "2026-08-27"
     },
     {
       "url": "https://www.bravelupus.com/news/260818/",
@@ -221,11 +226,6 @@
       "url": "https://www.bravelupus.com/news/260501-2/",
       "title": "【書籍：狼たちのラグビー】第17節：ホストゲーム御朱印スタンプ実施場所のお知らせ",
       "date": "2026-05-01"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/20260428/",
-      "title": "緊急対応「逆襲Tシャツ」販売のお知らせ",
-      "date": "2026-04-28"
     }
   ]
 }

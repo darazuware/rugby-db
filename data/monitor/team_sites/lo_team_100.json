@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-08-31T00:07:14+09:00",
+  "checked_at": "2026-08-31T19:45:34+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "a884d81b5f745fea"
+      "hash": "bc61aca90dac0c0b"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "39d1b269697a83be"
+      "hash": "4acdef56e6ee4252"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/team/index_2011.html",
+      "title": "チーム 2026.08.31 新たなコーポレートスローガン「一枚岩の結束で、心揺さぶる感動を創る。」を制定しました",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/partner/index_2012.html",
+      "title": "パートナー 2026.08.31 株式会社Dtimesとのオフィシャルサプライヤー契約締結のお知らせ",
+      "date": "2026-08-31"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2007.html",
       "title": "チーム 2026.08.24 【代表情報】男子日本代表選出のお知らせ",
@@ -59,12 +69,12 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1996.html",
-      "title": "イベント 2026.08.01 2026.8 浦安Dパーク開放イベント「夏休み！浦安Dパークで遊ぼう！」開催のお知らせ",
+      "title": "2026.08.01 ニュース 2026.8 浦安Dパーク開放イベント「夏休み！浦安Dパークで遊ぼう！」開催のお知らせ",
       "date": "2026-08-01"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_1995.html",
-      "title": "チーム 2026.07.30 浦安D-Rocks 公式TikTok開設のお知らせ",
+      "title": "2026.07.30 ニュース 浦安D-Rocks 公式TikTok開設のお知らせ",
       "date": "2026-07-30"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/team/index_1964.html",
       "title": "2026.06.05 ニュース 【2025-26シーズン】退団選手（追加）のお知らせ",
       "date": "2026-06-05"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_1962.html",
-      "title": "2026.06.05 ニュース 2025-26シーズン退団選手・スタッフからのご挨拶",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_1963.html",
-      "title": "2026.06.02 ニュース 2026.6.7 「第11回 浦安百縁商店街」参加のお知らせ",
-      "date": "2026-06-02"
     }
   ]
 }

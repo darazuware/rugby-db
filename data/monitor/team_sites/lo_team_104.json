@@ -3,13 +3,13 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-08-31T00:07:14+09:00",
+  "checked_at": "2026-08-31T19:45:34+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "0321d5b3cbb5be78"
+      "hash": "50684c235b30eab8"
     }
   ],
   "items": [
@@ -29,8 +29,8 @@
       "date": "2026-08-21"
     },
     {
-      "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4259",
-      "title": "【グッズ】オンライン限定！Tシャツガチャ販売のお知らせ グッズ 2026.08.19",
+      "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4258",
+      "title": "【チケット】2026-27シーズン ホストゲームチケット価格 チケット・ファンクラブ 2026.08.19",
       "date": "2026-08-19"
     },
     {
@@ -59,9 +59,9 @@
       "date": "2026-08-17"
     },
     {
-      "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4254",
-      "title": "2026-27シーズン🏉イヤーブック新企画・ファン口コミ調査！ トピックス 2026.08.06",
-      "date": "2026-08-06"
+      "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4241",
+      "title": "【試合情報】プレシーズンマッチ実施のお知らせ 試合情報 2026.08.07",
+      "date": "2026-08-07"
     }
   ]
 }

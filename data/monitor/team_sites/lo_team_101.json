@@ -3,28 +3,33 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-08-31T00:07:14+09:00",
+  "checked_at": "2026-08-31T19:45:34+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "d8995d604f11ff45"
+      "hash": "a9bca20a97412094"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "aa2b829f94bbc3d4"
+      "hash": "9c27ec2b7309fbcd"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "5d3a97d551f319c9"
+      "hash": "ef1718a6de0c090e"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "25289b73a0632cd7"
+      "hash": "ab3f6dc639105996"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35142/",
+      "title": "2026/8/31 お知らせ コベルコ神戸スティーラーズラグビーグラウンドでの練習見学について",
+      "date": "2026-08-31"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35138/",
       "title": "2026/8/28 チーム ニュージーランド派遣レポート Part.1 中嶋 大希選手",
@@ -224,11 +229,6 @@
       "url": "https://www.kobesteelers.com/news/post34624/",
       "title": "2026/7/1 普及 【レポート】神戸市立神の谷小学校でタグラグビー教室を実施しました",
       "date": "2026-07-01"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34597/",
-      "title": "2026/6/30 グッズ NTTリーグワン2025-26 優勝記念グッズ 第2弾発売のお知らせ",
-      "date": "2026-06-30"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34386/",

@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-08-31T00:07:14+09:00",
+  "checked_at": "2026-08-31T19:45:34+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "fd2923ea5a13d058"
+      "hash": "3db89db52dfbe26e"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "732ecb6d673eb3a1"
+      "hash": "ab52a7c0999f67a6"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "f8b82d0206cbe03b"
+      "hash": "3e3b1f793493a2d1"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/32166/",
+      "title": "お知らせ 2026.8.31 2026-27シーズン 新加入選手・スタッフに関するお知らせ（追加）",
+      "date": "2026-08-31"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/info/32151/",
       "title": "お知らせ 2026.8.21 釜石市体育協会主催「令和8年度 指導者講習会」が開催されました",
@@ -77,11 +82,6 @@
       "date": "2026-07-21"
     },
     {
-      "url": "https://kamaishi-seawaves.com/news/society/31695/",
-      "title": "普及・社会貢献 2026.7.18 紫波町立紫波第一中学校 ラグビー体験会が行われました",
-      "date": "2026-07-18"
-    },
-    {
       "url": "https://kamaishi-seawaves.com/news/info/31635/",
       "title": "お知らせ 2026.7.1 NTTジャパンラグビー リーグワン2026-27 ディビジョン編成および大会日程のお知らせ",
       "date": "2026-07-01"
@@ -90,11 +90,6 @@
       "url": "https://kamaishi-seawaves.com/news/info/31596/",
       "title": "お知らせ 2026.6.29 大槌町林野火災支援募金活動および義援金寄付のご報告",
       "date": "2026-06-29"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/31567/",
-      "title": "お知らせ 2026.6.22 釜石市への表敬訪問およびチャリティタオル売上の一部寄付のご報告",
-      "date": "2026-06-22"
     }
   ]
 }

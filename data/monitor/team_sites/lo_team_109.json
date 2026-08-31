@@ -3,24 +3,34 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-08-31T00:07:14+09:00",
+  "checked_at": "2026-08-31T19:45:34+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "7f5b95040f6f9b0a"
+      "hash": "81dc93af036dabb7"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "d4fb3c71337714ca"
+      "hash": "892dfca985d87af7"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "7e16afa41c5465c4"
+      "hash": "8260e05252d36210"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0831-01/",
+      "title": "FAN CLUB JR東日本グリーンウォリアーズ東葛公式ファンクラブ「CLUB GREEN WARRIORS」9月18日（金）より入会開始！ 2026.08.31",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0828-01/",
+      "title": "TEAM 2026-27シーズンの新加入選手（追加）および新加入スタッフ（追加）のお知らせ 2026.08.28",
+      "date": "2026-08-28"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0825-01/",
       "title": "TEAM 2026-27シーズン新加入選手追加のお知らせ 2026.08.25",
