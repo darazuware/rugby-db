@@ -10,8 +10,10 @@
     1回目は pending（呼び出し側が `_meta/pending_departures.json` として永続化）に積み、
     2回目の実行で同じidが再度消失していれば確定イベントにして pending から外す。
     途中で再出現したら pending から除去（誤検知キャンセル）。
-  - first_caps: caps.count が 0/null → 1以上
-  - caps_updates: caps.count が増加（初キャップ以外の増分。週次まとめは news_gen 側の仕事）
+  - first_caps: caps.count が 0/null → ちょうど1（真の初キャップのみ）
+  - caps_updates: caps.count が1以上の状態から増加（初キャップ以外の増分。週次まとめは news_gen 側の仕事）
+    ※ 0/null → 2以上のジャンプはスクレイピングでcapsが後から埋まったデータ補完の可能性が高く、
+      実際のイベントと断定できないため first_caps にも caps_updates にも計上しない
   - newly_finished_rounds: matches の status が finished に変わった試合を節単位でまとめる
 
 pending_departures の型: `{league: {player_id: {id, name_en, name_ja, team_id}}}`。
@@ -54,11 +56,13 @@ def diff_players(new_players: list[dict], prev_players: list[dict],
         new_count = new_caps.get("count")
         if new_count is None:
             continue
-        if prev_count == 0 and new_count >= 1:
+        if prev_count == 0 and new_count == 1:
             first_caps.append({**_summary(new_p), "team": new_caps.get("team"), "count": new_count})
-        elif new_count > prev_count:
+        elif prev_count > 0 and new_count > prev_count:
             caps_updates.append({**_summary(new_p), "team": new_caps.get("team"),
                                   "from_count": prev_count, "to_count": new_count})
+        # prev_count == 0 and new_count > 1 はスクレイピングでcapsが後から埋まった
+        # データ補完であり実際の「初キャップ」イベントではないため記事化しない
 
     # 再出現した id は pending から外す（誤検知キャンセル）
     for pid in new_ids:
