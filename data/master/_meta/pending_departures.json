@@ -39,12 +39,6 @@
       "name_ja": null,
       "team_id": "toulon"
     },
-    "ar_antoine-deliance": {
-      "id": "ar_antoine-deliance",
-      "name_en": "Antoine DÉLIANCE",
-      "name_ja": null,
-      "team_id": "lyon"
-    },
     "ar_antoine-madelbos": {
       "id": "ar_antoine-madelbos",
       "name_en": "Antoine MADELBOS",
@@ -81,12 +75,6 @@
       "name_ja": null,
       "team_id": "lyon"
     },
-    "ar_axel-baas": {
-      "id": "ar_axel-baas",
-      "name_en": "Axel BAAS",
-      "name_ja": null,
-      "team_id": "lyon"
-    },
     "ar_aymeric-luc": {
       "id": "ar_aymeric-luc",
       "name_en": "Aymeric LUC",
@@ -110,12 +98,6 @@
       "name_en": "Barnabé MÉCHENTEL",
       "name_ja": null,
       "team_id": "toulon"
-    },
-    "ar_bertrand-mistri": {
-      "id": "ar_bertrand-mistri",
-      "name_en": "Bertrand MISTRI",
-      "name_ja": null,
-      "team_id": "montpellier"
     },
     "ar_bobby-bissu": {
       "id": "ar_bobby-bissu",
@@ -207,23 +189,11 @@
       "name_ja": null,
       "team_id": "clermont"
     },
-    "ar_ewan-richards": {
-      "id": "ar_ewan-richards",
-      "name_en": "Ewan RICHARDS",
-      "name_ja": null,
-      "team_id": "lyon"
-    },
     "ar_fabio-zingone": {
       "id": "ar_fabio-zingone",
       "name_en": "Fabio ZINGONE",
       "name_ja": null,
       "team_id": "toulon"
-    },
-    "ar_fergus-lee-warner": {
-      "id": "ar_fergus-lee-warner",
-      "name_en": "Fergus LEE-WARNER",
-      "name_ja": null,
-      "team_id": "lyon"
     },
     "ar_fernand-auvray": {
       "id": "ar_fernand-auvray",
@@ -326,12 +296,6 @@
       "name_en": "Giorgi KHONELIDZE",
       "name_ja": null,
       "team_id": "toulon"
-    },
-    "ar_gj-van-velze": {
-      "id": "ar_gj-van-velze",
-      "name_en": "GJ VAN VELZE",
-      "name_ja": null,
-      "team_id": "lyon"
     },
     "ar_guido-reyes-rendon": {
       "id": "ar_guido-reyes-rendon",
@@ -579,12 +543,6 @@
       "name_ja": null,
       "team_id": "clermont"
     },
-    "ar_malakai-hafoka-toca": {
-      "id": "ar_malakai-hafoka-toca",
-      "name_en": "Malakai HAFOKA TOCA",
-      "name_ja": null,
-      "team_id": "lyon"
-    },
     "ar_malo-malval": {
       "id": "ar_malo-malval",
       "name_en": "Malo MALVAL",
@@ -675,12 +633,6 @@
       "name_ja": null,
       "team_id": "montpellier"
     },
-    "ar_mikheili-shioshvili": {
-      "id": "ar_mikheili-shioshvili",
-      "name_en": "Mikheili SHIOSHVILI",
-      "name_ja": null,
-      "team_id": "toulon"
-    },
     "ar_naoto-saito": {
       "id": "ar_naoto-saito",
       "name_en": "Naoto SAITO",
@@ -746,12 +698,6 @@
       "name_en": "Owen MARTIN",
       "name_ja": null,
       "team_id": "lyon"
-    },
-    "ar_paul-gaspard": {
-      "id": "ar_paul-gaspard",
-      "name_en": "Paul GASPARD",
-      "name_ja": null,
-      "team_id": "clermont"
     },
     "ar_paulo-tauiliili-pelesasa": {
       "id": "ar_paulo-tauiliili-pelesasa",
@@ -846,12 +792,6 @@
     "ar_sacha-benoit": {
       "id": "ar_sacha-benoit",
       "name_en": "Sacha BENOIT",
-      "name_ja": null,
-      "team_id": "toulon"
-    },
-    "ar_samuel-jean-christophe": {
-      "id": "ar_samuel-jean-christophe",
-      "name_en": "Samuel JEAN-CHRISTOPHE",
       "name_ja": null,
       "team_id": "toulon"
     },
@@ -1161,12 +1101,6 @@
       "name_ja": null,
       "team_id": "vannes"
     },
-    "ar_come-nitharum": {
-      "id": "ar_come-nitharum",
-      "name_en": "Côme NITHARUM",
-      "name_ja": null,
-      "team_id": "racing-92"
-    },
     "ar_corentin-coularis": {
       "id": "ar_corentin-coularis",
       "name_en": "Corentin COULARIS",
@@ -1227,12 +1161,6 @@
       "name_ja": null,
       "team_id": "la-rochelle"
     },
-    "ar_elia-masi": {
-      "id": "ar_elia-masi",
-      "name_en": "Elia MASI",
-      "name_ja": null,
-      "team_id": "racing-92"
-    },
     "ar_elouan-parmentier": {
       "id": "ar_elouan-parmentier",
       "name_en": "Élouan PARMENTIER",
@@ -1268,12 +1196,6 @@
       "name_en": "Esaie MBUTA",
       "name_ja": null,
       "team_id": "paris"
-    },
-    "ar_ethan-staddon": {
-      "id": "ar_ethan-staddon",
-      "name_en": "Ethan STADDON",
-      "name_ja": null,
-      "team_id": "racing-92"
     },
     "ar_ethan-vincent": {
       "id": "ar_ethan-vincent",
@@ -1346,12 +1268,6 @@
       "name_en": "Gael GALVÁN",
       "name_ja": null,
       "team_id": "la-rochelle"
-    },
-    "ar_gaspard-lievens": {
-      "id": "ar_gaspard-lievens",
-      "name_en": "Gaspard LIEVENS",
-      "name_ja": null,
-      "team_id": "racing-92"
     },
     "ar_gregory-robert": {
       "id": "ar_gregory-robert",
@@ -1839,12 +1755,6 @@
       "name_ja": null,
       "team_id": "paris"
     },
-    "ar_temanatua-boichot": {
-      "id": "ar_temanatua-boichot",
-      "name_en": "Temanatua BOICHOT",
-      "name_ja": null,
-      "team_id": "la-rochelle"
-    },
     "ar_theo-sauzaret": {
       "id": "ar_theo-sauzaret",
       "name_en": "Théo SAUZARET",
@@ -2199,12 +2109,6 @@
       "name_ja": null,
       "team_id": "bayonne"
     },
-    "ar_manus-van-leeuwen": {
-      "id": "ar_manus-van-leeuwen",
-      "name_en": "Manus VAN LEEUWEN",
-      "name_ja": null,
-      "team_id": "bayonne"
-    },
     "ar_marc-guillet": {
       "id": "ar_marc-guillet",
       "name_en": "Marc GUILLET",
@@ -2420,6 +2324,12 @@
       "name_en": "Xan MARILUZ",
       "name_ja": null,
       "team_id": "bayonne"
+    },
+    "ar_jules-coulon": {
+      "id": "ar_jules-coulon",
+      "name_en": "Jules COULON",
+      "name_ja": null,
+      "team_id": "toulon"
     }
   },
   "super-rugby": {
@@ -2482,6 +2392,24 @@
       "name_en": "Tepaea COOK-SAVAGE",
       "name_ja": null,
       "team_id": "chiefs"
+    },
+    "ar_caleb-woodley": {
+      "id": "ar_caleb-woodley",
+      "name_en": "Caleb WOODLEY",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    "ar_james-cameron": {
+      "id": "ar_james-cameron",
+      "name_en": "James CAMERON",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    "ar_tj-talaileva": {
+      "id": "ar_tj-talaileva",
+      "name_en": "TJ TALAILEVA",
+      "name_ja": null,
+      "team_id": "waratahs"
     }
   },
   "mlr": {
@@ -2492,7 +2420,20 @@
       "team_id": "ca-legion"
     }
   },
-  "urc": {},
+  "urc": {
+    "ar_cornel-smit": {
+      "id": "ar_cornel-smit",
+      "name_en": "Cornel SMIT",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    "ar_tiaan-fourie": {
+      "id": "ar_tiaan-fourie",
+      "name_en": "Tiaan FOURIE",
+      "name_ja": null,
+      "team_id": "sharks"
+    }
+  },
   "premiership": {},
   "national": {
     "jrfu_national_510411": {
@@ -2524,9 +2465,208 @@
       "name_en": "Haruto KIDA",
       "name_ja": "木田晴斗",
       "team_id": "japan"
+    },
+    "jrfu_callup_ruan-botha": {
+      "id": "jrfu_callup_ruan-botha",
+      "name_en": "Ruan BOTHA",
+      "name_ja": "ルアン・ボタ",
+      "team_id": "japan"
+    },
+    "jrfu_callup_shin-takeuchi": {
+      "id": "jrfu_callup_shin-takeuchi",
+      "name_en": "Shin TAKEUCHI",
+      "name_ja": "武内 慎",
+      "team_id": "japan"
+    },
+    "jrfu_national_510660": {
+      "id": "jrfu_national_510660",
+      "name_en": "Takumi Inaba",
+      "name_ja": "稲場巧",
+      "team_id": "japan"
+    },
+    "jrfu_national_510663": {
+      "id": "jrfu_national_510663",
+      "name_en": "Inoke BURUA",
+      "name_ja": "イノケ・ブルア",
+      "team_id": "japan"
+    },
+    "jrfu_national_510683": {
+      "id": "jrfu_national_510683",
+      "name_en": "Kanato HIRANO",
+      "name_ja": "平野叶翔",
+      "team_id": "japan"
     }
   },
-  "sevens-national": {},
+  "sevens-national": {
+    "jrfu_sevens_m_481724": {
+      "id": "jrfu_sevens_m_481724",
+      "name_en": "Ren OUCHI",
+      "name_ja": "大内錬",
+      "team_id": null
+    },
+    "jrfu_sevens_m_481725": {
+      "id": "jrfu_sevens_m_481725",
+      "name_en": "Naoya OGITA",
+      "name_ja": "荻田直弥",
+      "team_id": null
+    },
+    "jrfu_sevens_m_481726": {
+      "id": "jrfu_sevens_m_481726",
+      "name_en": "Haruhiko UEMURA",
+      "name_ja": "植村陽彦",
+      "team_id": null
+    },
+    "jrfu_sevens_m_481727": {
+      "id": "jrfu_sevens_m_481727",
+      "name_en": "Jone NABETELEVU",
+      "name_ja": "ジョネ・ナベテレヴ",
+      "team_id": null
+    },
+    "jrfu_sevens_m_481728": {
+      "id": "jrfu_sevens_m_481728",
+      "name_en": "Ryodai SHIRAKUNI",
+      "name_ja": "白國亮大",
+      "team_id": null
+    },
+    "jrfu_sevens_m_481729": {
+      "id": "jrfu_sevens_m_481729",
+      "name_en": "Toma SHIWACHI",
+      "name_ja": "志和池豊馬",
+      "team_id": null
+    },
+    "jrfu_sevens_m_481730": {
+      "id": "jrfu_sevens_m_481730",
+      "name_en": "Shotaro TSUOKA",
+      "name_ja": "津岡翔太郎",
+      "team_id": null
+    },
+    "jrfu_sevens_m_481731": {
+      "id": "jrfu_sevens_m_481731",
+      "name_en": "Yoshiyuki KOGA",
+      "name_ja": "古賀由教",
+      "team_id": null
+    },
+    "jrfu_sevens_m_481732": {
+      "id": "jrfu_sevens_m_481732",
+      "name_en": "Ryosei TAKAI",
+      "name_ja": "高井良成",
+      "team_id": null
+    },
+    "jrfu_sevens_m_481733": {
+      "id": "jrfu_sevens_m_481733",
+      "name_en": "Takemichi NAKANO",
+      "name_ja": "中野剛通",
+      "team_id": null
+    },
+    "jrfu_sevens_m_481734": {
+      "id": "jrfu_sevens_m_481734",
+      "name_en": "Koki MIYASAKA",
+      "name_ja": "宮坂航生",
+      "team_id": null
+    },
+    "jrfu_sevens_m_481735": {
+      "id": "jrfu_sevens_m_481735",
+      "name_en": "Jisu LEE",
+      "name_ja": "李智寿",
+      "team_id": null
+    },
+    "jrfu_sevens_m_481736": {
+      "id": "jrfu_sevens_m_481736",
+      "name_en": "Tomu TAKAMOTO",
+      "name_ja": "高本とむ",
+      "team_id": null
+    },
+    "jrfu_sevens_w_485038": {
+      "id": "jrfu_sevens_w_485038",
+      "name_en": "Hanako UTSUMI",
+      "name_ja": "内海春菜子",
+      "team_id": null
+    },
+    "jrfu_sevens_w_485039": {
+      "id": "jrfu_sevens_w_485039",
+      "name_en": "Natsuki OUCHIDA",
+      "name_ja": "大内田夏月",
+      "team_id": null
+    },
+    "jrfu_sevens_w_485040": {
+      "id": "jrfu_sevens_w_485040",
+      "name_en": "Mei OHTANI",
+      "name_ja": "大谷芽生",
+      "team_id": null
+    },
+    "jrfu_sevens_w_485041": {
+      "id": "jrfu_sevens_w_485041",
+      "name_en": "Marin KAJIKI",
+      "name_ja": "梶木真凜",
+      "team_id": null
+    },
+    "jrfu_sevens_w_485042": {
+      "id": "jrfu_sevens_w_485042",
+      "name_en": "Chiaki SAEGUSA",
+      "name_ja": "三枝千晃",
+      "team_id": null
+    },
+    "jrfu_sevens_w_485043": {
+      "id": "jrfu_sevens_w_485043",
+      "name_en": "Michiyo SUDA",
+      "name_ja": "須田倫代",
+      "team_id": null
+    },
+    "jrfu_sevens_w_485044": {
+      "id": "jrfu_sevens_w_485044",
+      "name_en": "Honoka TSUTSUMI",
+      "name_ja": "堤ほの花",
+      "team_id": null
+    },
+    "jrfu_sevens_w_485045": {
+      "id": "jrfu_sevens_w_485045",
+      "name_en": "Hana NAGATA",
+      "name_ja": "永田花菜",
+      "team_id": null
+    },
+    "jrfu_sevens_w_485046": {
+      "id": "jrfu_sevens_w_485046",
+      "name_en": "Yume HIRANO",
+      "name_ja": "平野優芽",
+      "team_id": null
+    },
+    "jrfu_sevens_w_485049": {
+      "id": "jrfu_sevens_w_485049",
+      "name_en": "Sakurako YAZAKI",
+      "name_ja": "矢崎桜子",
+      "team_id": null
+    },
+    "jrfu_sevens_w_485051": {
+      "id": "jrfu_sevens_w_485051",
+      "name_en": "Mayu YOSHINO",
+      "name_ja": "吉野舞祐",
+      "team_id": null
+    },
+    "jrfu_sevens_w_486440": {
+      "id": "jrfu_sevens_w_486440",
+      "name_en": "Wakana AKITA",
+      "name_ja": "秋田若菜",
+      "team_id": null
+    },
+    "jrfu_sevens_w_493637": {
+      "id": "jrfu_sevens_w_493637",
+      "name_en": "Hazuki OUCHIDA",
+      "name_ja": "大内田葉月",
+      "team_id": null
+    },
+    "jrfu_sevens_w_493647": {
+      "id": "jrfu_sevens_w_493647",
+      "name_en": "Minako TANIYAMA",
+      "name_ja": "谷山三菜子",
+      "team_id": null
+    },
+    "jrfu_sevens_w_496067": {
+      "id": "jrfu_sevens_w_496067",
+      "name_en": "Shiori OKYUDO",
+      "name_ja": "尾久土栞",
+      "team_id": null
+    }
+  },
   "age-grade": {},
   "university": {
     "univ_明治学院大学__上西里奈": {
@@ -4299,934 +4439,10 @@
       "name_ja": "須貝 ののか",
       "team_id": null
     },
-    "univ_天理大学__体重": {
-      "id": "univ_天理大学__体重",
-      "name_en": null,
-      "name_ja": "体　重",
-      "team_id": null
-    },
-    "univ_天理大学__学年": {
-      "id": "univ_天理大学__学年",
-      "name_en": null,
-      "name_ja": "学　年",
-      "team_id": null
-    },
-    "univ_天理大学__身長": {
-      "id": "univ_天理大学__身長",
-      "name_en": null,
-      "name_ja": "身　長",
-      "team_id": null
-    },
     "univ_専修大学__戸田愛佳": {
       "id": "univ_専修大学__戸田愛佳",
       "name_en": null,
       "name_ja": "戸田 愛佳",
-      "team_id": null
-    },
-    "univ_早稲田大学__中川空河": {
-      "id": "univ_早稲田大学__中川空河",
-      "name_en": null,
-      "name_ja": "中川 空河",
-      "team_id": null
-    },
-    "univ_早稲田大学__中根悠樹": {
-      "id": "univ_早稲田大学__中根悠樹",
-      "name_en": null,
-      "name_ja": "中根 悠樹",
-      "team_id": null
-    },
-    "univ_早稲田大学__丸橋怜央": {
-      "id": "univ_早稲田大学__丸橋怜央",
-      "name_en": null,
-      "name_ja": "丸橋 怜央",
-      "team_id": null
-    },
-    "univ_早稲田大学__久我真之介": {
-      "id": "univ_早稲田大学__久我真之介",
-      "name_en": null,
-      "name_ja": "久我 真之介",
-      "team_id": null
-    },
-    "univ_早稲田大学__今尾龍太": {
-      "id": "univ_早稲田大学__今尾龍太",
-      "name_en": null,
-      "name_ja": "今尾 龍太",
-      "team_id": null
-    },
-    "univ_早稲田大学__伊藤和稀": {
-      "id": "univ_早稲田大学__伊藤和稀",
-      "name_en": null,
-      "name_ja": "伊藤 和稀",
-      "team_id": null
-    },
-    "univ_早稲田大学__佐々木凜太郎": {
-      "id": "univ_早稲田大学__佐々木凜太郎",
-      "name_en": null,
-      "name_ja": "佐々木 凜太郎",
-      "team_id": null
-    },
-    "univ_早稲田大学__佐々木篤真": {
-      "id": "univ_早稲田大学__佐々木篤真",
-      "name_en": null,
-      "name_ja": "佐々木 篤真",
-      "team_id": null
-    },
-    "univ_早稲田大学__佐々木豪正": {
-      "id": "univ_早稲田大学__佐々木豪正",
-      "name_en": null,
-      "name_ja": "佐々木 豪正",
-      "team_id": null
-    },
-    "univ_早稲田大学__佐藤一道": {
-      "id": "univ_早稲田大学__佐藤一道",
-      "name_en": null,
-      "name_ja": "佐藤 一道",
-      "team_id": null
-    },
-    "univ_早稲田大学__佐藤世那": {
-      "id": "univ_早稲田大学__佐藤世那",
-      "name_en": null,
-      "name_ja": "佐藤 世那",
-      "team_id": null
-    },
-    "univ_早稲田大学__佐藤光希": {
-      "id": "univ_早稲田大学__佐藤光希",
-      "name_en": null,
-      "name_ja": "佐藤 光希",
-      "team_id": null
-    },
-    "univ_早稲田大学__佐藤隼成": {
-      "id": "univ_早稲田大学__佐藤隼成",
-      "name_en": null,
-      "name_ja": "佐藤 隼成",
-      "team_id": null
-    },
-    "univ_早稲田大学__八幡欣造": {
-      "id": "univ_早稲田大学__八幡欣造",
-      "name_en": null,
-      "name_ja": "八幡 欣造",
-      "team_id": null
-    },
-    "univ_早稲田大学__前田麟太朗": {
-      "id": "univ_早稲田大学__前田麟太朗",
-      "name_en": null,
-      "name_ja": "前田 麟太朗",
-      "team_id": null
-    },
-    "univ_早稲田大学__原幹司": {
-      "id": "univ_早稲田大学__原幹司",
-      "name_en": null,
-      "name_ja": "原 幹司",
-      "team_id": null
-    },
-    "univ_早稲田大学__原琉士": {
-      "id": "univ_早稲田大学__原琉士",
-      "name_en": null,
-      "name_ja": "原 琉士",
-      "team_id": null
-    },
-    "univ_早稲田大学__原田恒耀": {
-      "id": "univ_早稲田大学__原田恒耀",
-      "name_en": null,
-      "name_ja": "原田 恒耀",
-      "team_id": null
-    },
-    "univ_早稲田大学__古瀬莊": {
-      "id": "univ_早稲田大学__古瀬莊",
-      "name_en": null,
-      "name_ja": "古瀬 莊",
-      "team_id": null
-    },
-    "univ_早稲田大学__吉田将人": {
-      "id": "univ_早稲田大学__吉田将人",
-      "name_en": null,
-      "name_ja": "吉田 将人",
-      "team_id": null
-    },
-    "univ_早稲田大学__名取凛之輔": {
-      "id": "univ_早稲田大学__名取凛之輔",
-      "name_en": null,
-      "name_ja": "名取 凛之輔",
-      "team_id": null
-    },
-    "univ_早稲田大学__国谷赳斗": {
-      "id": "univ_早稲田大学__国谷赳斗",
-      "name_en": null,
-      "name_ja": "国谷 赳斗",
-      "team_id": null
-    },
-    "univ_早稲田大学__國田泰裕": {
-      "id": "univ_早稲田大学__國田泰裕",
-      "name_en": null,
-      "name_ja": "國田 泰裕",
-      "team_id": null
-    },
-    "univ_早稲田大学__城央祐": {
-      "id": "univ_早稲田大学__城央祐",
-      "name_en": null,
-      "name_ja": "城 央祐",
-      "team_id": null
-    },
-    "univ_早稲田大学__堀越敬太": {
-      "id": "univ_早稲田大学__堀越敬太",
-      "name_en": null,
-      "name_ja": "堀越 敬太",
-      "team_id": null
-    },
-    "univ_早稲田大学__堂薗尚悟": {
-      "id": "univ_早稲田大学__堂薗尚悟",
-      "name_en": null,
-      "name_ja": "堂薗 尚悟",
-      "team_id": null
-    },
-    "univ_早稲田大学__夏栗英平": {
-      "id": "univ_早稲田大学__夏栗英平",
-      "name_en": null,
-      "name_ja": "夏栗 英平",
-      "team_id": null
-    },
-    "univ_早稲田大学__多田陽道": {
-      "id": "univ_早稲田大学__多田陽道",
-      "name_en": null,
-      "name_ja": "多田 陽道",
-      "team_id": null
-    },
-    "univ_早稲田大学__大内颯真": {
-      "id": "univ_早稲田大学__大内颯真",
-      "name_en": null,
-      "name_ja": "大内 颯真",
-      "team_id": null
-    },
-    "univ_早稲田大学__大谷翼": {
-      "id": "univ_早稲田大学__大谷翼",
-      "name_en": null,
-      "name_ja": "大谷 翼",
-      "team_id": null
-    },
-    "univ_早稲田大学__大賀雅仁": {
-      "id": "univ_早稲田大学__大賀雅仁",
-      "name_en": null,
-      "name_ja": "大賀 雅仁",
-      "team_id": null
-    },
-    "univ_早稲田大学__大鐘日菜": {
-      "id": "univ_早稲田大学__大鐘日菜",
-      "name_en": null,
-      "name_ja": "大鐘 日菜",
-      "team_id": null
-    },
-    "univ_早稲田大学__天田莉子": {
-      "id": "univ_早稲田大学__天田莉子",
-      "name_en": null,
-      "name_ja": "天田 莉子",
-      "team_id": null
-    },
-    "univ_早稲田大学__太田壮一郎": {
-      "id": "univ_早稲田大学__太田壮一郎",
-      "name_en": null,
-      "name_ja": "太田 壮一郎",
-      "team_id": null
-    },
-    "univ_早稲田大学__安岡叶夢": {
-      "id": "univ_早稲田大学__安岡叶夢",
-      "name_en": null,
-      "name_ja": "安岡 叶夢",
-      "team_id": null
-    },
-    "univ_早稲田大学__安恒忠人": {
-      "id": "univ_早稲田大学__安恒忠人",
-      "name_en": null,
-      "name_ja": "安恒 忠人",
-      "team_id": null
-    },
-    "univ_早稲田大学__安本大輝": {
-      "id": "univ_早稲田大学__安本大輝",
-      "name_en": null,
-      "name_ja": "安本 大輝",
-      "team_id": null
-    },
-    "univ_早稲田大学__宮下羚": {
-      "id": "univ_早稲田大学__宮下羚",
-      "name_en": null,
-      "name_ja": "宮下 羚",
-      "team_id": null
-    },
-    "univ_早稲田大学__宮川侑大": {
-      "id": "univ_早稲田大学__宮川侑大",
-      "name_en": null,
-      "name_ja": "宮川 侑大",
-      "team_id": null
-    },
-    "univ_早稲田大学__寺田結": {
-      "id": "univ_早稲田大学__寺田結",
-      "name_en": null,
-      "name_ja": "寺田 結",
-      "team_id": null
-    },
-    "univ_早稲田大学__小松輝也": {
-      "id": "univ_早稲田大学__小松輝也",
-      "name_en": null,
-      "name_ja": "小松 輝也",
-      "team_id": null
-    },
-    "univ_早稲田大学__小林光晴": {
-      "id": "univ_早稲田大学__小林光晴",
-      "name_en": null,
-      "name_ja": "小林 光晴",
-      "team_id": null
-    },
-    "univ_早稲田大学__小林商太郎": {
-      "id": "univ_早稲田大学__小林商太郎",
-      "name_en": null,
-      "name_ja": "小林 商太郎",
-      "team_id": null
-    },
-    "univ_早稲田大学__小田脩人": {
-      "id": "univ_早稲田大学__小田脩人",
-      "name_en": null,
-      "name_ja": "小田 脩人",
-      "team_id": null
-    },
-    "univ_早稲田大学__小笠原正義": {
-      "id": "univ_早稲田大学__小笠原正義",
-      "name_en": null,
-      "name_ja": "小笠原 正義",
-      "team_id": null
-    },
-    "univ_早稲田大学__小貫壮太": {
-      "id": "univ_早稲田大学__小貫壮太",
-      "name_en": null,
-      "name_ja": "小貫 壮太",
-      "team_id": null
-    },
-    "univ_早稲田大学__小野晏瑚": {
-      "id": "univ_早稲田大学__小野晏瑚",
-      "name_en": null,
-      "name_ja": "小野 晏瑚",
-      "team_id": null
-    },
-    "univ_早稲田大学__山下恵士朗": {
-      "id": "univ_早稲田大学__山下恵士朗",
-      "name_en": null,
-      "name_ja": "山下 恵士朗",
-      "team_id": null
-    },
-    "univ_早稲田大学__山口修明": {
-      "id": "univ_早稲田大学__山口修明",
-      "name_en": null,
-      "name_ja": "山口 修明",
-      "team_id": null
-    },
-    "univ_早稲田大学__山口滉太郎": {
-      "id": "univ_早稲田大学__山口滉太郎",
-      "name_en": null,
-      "name_ja": "山口 滉太郎",
-      "team_id": null
-    },
-    "univ_早稲田大学__山田凜太": {
-      "id": "univ_早稲田大学__山田凜太",
-      "name_en": null,
-      "name_ja": "山田 凜太",
-      "team_id": null
-    },
-    "univ_早稲田大学__岡本瑶姫": {
-      "id": "univ_早稲田大学__岡本瑶姫",
-      "name_en": null,
-      "name_ja": "岡本 瑶姫",
-      "team_id": null
-    },
-    "univ_早稲田大学__岩尾隼悟": {
-      "id": "univ_早稲田大学__岩尾隼悟",
-      "name_en": null,
-      "name_ja": "岩尾 隼悟",
-      "team_id": null
-    },
-    "univ_早稲田大学__岩崎壮志": {
-      "id": "univ_早稲田大学__岩崎壮志",
-      "name_en": null,
-      "name_ja": "岩崎 壮志",
-      "team_id": null
-    },
-    "univ_早稲田大学__島田隼成": {
-      "id": "univ_早稲田大学__島田隼成",
-      "name_en": null,
-      "name_ja": "島田 隼成",
-      "team_id": null
-    },
-    "univ_早稲田大学__川名亮輔": {
-      "id": "univ_早稲田大学__川名亮輔",
-      "name_en": null,
-      "name_ja": "川名 亮輔",
-      "team_id": null
-    },
-    "univ_早稲田大学__川端隆馬": {
-      "id": "univ_早稲田大学__川端隆馬",
-      "name_en": null,
-      "name_ja": "川端 隆馬",
-      "team_id": null
-    },
-    "univ_早稲田大学__平塚英一朗": {
-      "id": "univ_早稲田大学__平塚英一朗",
-      "name_en": null,
-      "name_ja": "平塚 英一朗",
-      "team_id": null
-    },
-    "univ_早稲田大学__平山風希": {
-      "id": "univ_早稲田大学__平山風希",
-      "name_en": null,
-      "name_ja": "平山 風希",
-      "team_id": null
-    },
-    "univ_早稲田大学__平田碧彩": {
-      "id": "univ_早稲田大学__平田碧彩",
-      "name_en": null,
-      "name_ja": "平田 碧彩",
-      "team_id": null
-    },
-    "univ_早稲田大学__平野仁": {
-      "id": "univ_早稲田大学__平野仁",
-      "name_en": null,
-      "name_ja": "平野 仁",
-      "team_id": null
-    },
-    "univ_早稲田大学__後藤洸輝": {
-      "id": "univ_早稲田大学__後藤洸輝",
-      "name_en": null,
-      "name_ja": "後藤 洸輝",
-      "team_id": null
-    },
-    "univ_早稲田大学__惟村詠甫": {
-      "id": "univ_早稲田大学__惟村詠甫",
-      "name_en": null,
-      "name_ja": "惟村 詠甫",
-      "team_id": null
-    },
-    "univ_早稲田大学__新井瑛大": {
-      "id": "univ_早稲田大学__新井瑛大",
-      "name_en": null,
-      "name_ja": "新井 瑛大",
-      "team_id": null
-    },
-    "univ_早稲田大学__日向寺堪大": {
-      "id": "univ_早稲田大学__日向寺堪大",
-      "name_en": null,
-      "name_ja": "日向寺 堪大",
-      "team_id": null
-    },
-    "univ_早稲田大学__日野耕輔": {
-      "id": "univ_早稲田大学__日野耕輔",
-      "name_en": null,
-      "name_ja": "日野 耕輔",
-      "team_id": null
-    },
-    "univ_早稲田大学__早乙女遼": {
-      "id": "univ_早稲田大学__早乙女遼",
-      "name_en": null,
-      "name_ja": "早乙女 遼",
-      "team_id": null
-    },
-    "univ_早稲田大学__服部亮太": {
-      "id": "univ_早稲田大学__服部亮太",
-      "name_en": null,
-      "name_ja": "服部 亮太",
-      "team_id": null
-    },
-    "univ_早稲田大学__杉本安伊朗": {
-      "id": "univ_早稲田大学__杉本安伊朗",
-      "name_en": null,
-      "name_ja": "杉本 安伊朗",
-      "team_id": null
-    },
-    "univ_早稲田大学__杉村利朗": {
-      "id": "univ_早稲田大学__杉村利朗",
-      "name_en": null,
-      "name_ja": "杉村 利朗",
-      "team_id": null
-    },
-    "univ_早稲田大学__杉立健一郎": {
-      "id": "univ_早稲田大学__杉立健一郎",
-      "name_en": null,
-      "name_ja": "杉立 健一郎",
-      "team_id": null
-    },
-    "univ_早稲田大学__村井悠朔": {
-      "id": "univ_早稲田大学__村井悠朔",
-      "name_en": null,
-      "name_ja": "村井 悠朔",
-      "team_id": null
-    },
-    "univ_早稲田大学__東佑太": {
-      "id": "univ_早稲田大学__東佑太",
-      "name_en": null,
-      "name_ja": "東 佑太",
-      "team_id": null
-    },
-    "univ_早稲田大学__松本桂太": {
-      "id": "univ_早稲田大学__松本桂太",
-      "name_en": null,
-      "name_ja": "松本 桂太",
-      "team_id": null
-    },
-    "univ_早稲田大学__松沼寛治": {
-      "id": "univ_早稲田大学__松沼寛治",
-      "name_en": null,
-      "name_ja": "松沼 寛治",
-      "team_id": null
-    },
-    "univ_早稲田大学__松澤慶": {
-      "id": "univ_早稲田大学__松澤慶",
-      "name_en": null,
-      "name_ja": "松澤 慶",
-      "team_id": null
-    },
-    "univ_早稲田大学__栂野鼓富": {
-      "id": "univ_早稲田大学__栂野鼓富",
-      "name_en": null,
-      "name_ja": "栂野 鼓富",
-      "team_id": null
-    },
-    "univ_早稲田大学__栗原樹": {
-      "id": "univ_早稲田大学__栗原樹",
-      "name_en": null,
-      "name_ja": "栗原 樹",
-      "team_id": null
-    },
-    "univ_早稲田大学__根岸杏伍": {
-      "id": "univ_早稲田大学__根岸杏伍",
-      "name_en": null,
-      "name_ja": "根岸 杏伍",
-      "team_id": null
-    },
-    "univ_早稲田大学__桑山和生": {
-      "id": "univ_早稲田大学__桑山和生",
-      "name_en": null,
-      "name_ja": "桑山 和生",
-      "team_id": null
-    },
-    "univ_早稲田大学__森田倫太朗": {
-      "id": "univ_早稲田大学__森田倫太朗",
-      "name_en": null,
-      "name_ja": "森田 倫太朗",
-      "team_id": null
-    },
-    "univ_早稲田大学__植木太一": {
-      "id": "univ_早稲田大学__植木太一",
-      "name_en": null,
-      "name_ja": "植木 太一",
-      "team_id": null
-    },
-    "univ_早稲田大学__櫻井翔真": {
-      "id": "univ_早稲田大学__櫻井翔真",
-      "name_en": null,
-      "name_ja": "櫻井 翔真",
-      "team_id": null
-    },
-    "univ_早稲田大学__池山昂佑": {
-      "id": "univ_早稲田大学__池山昂佑",
-      "name_en": null,
-      "name_ja": "池山 昂佑",
-      "team_id": null
-    },
-    "univ_早稲田大学__池本晴人": {
-      "id": "univ_早稲田大学__池本晴人",
-      "name_en": null,
-      "name_ja": "池本 晴人",
-      "team_id": null
-    },
-    "univ_早稲田大学__池田恭盛": {
-      "id": "univ_早稲田大学__池田恭盛",
-      "name_en": null,
-      "name_ja": "池田 恭盛",
-      "team_id": null
-    },
-    "univ_早稲田大学__河岸桜子": {
-      "id": "univ_早稲田大学__河岸桜子",
-      "name_en": null,
-      "name_ja": "河岸 桜子",
-      "team_id": null
-    },
-    "univ_早稲田大学__河村和樹": {
-      "id": "univ_早稲田大学__河村和樹",
-      "name_en": null,
-      "name_ja": "河村 和樹",
-      "team_id": null
-    },
-    "univ_早稲田大学__淺沼大智": {
-      "id": "univ_早稲田大学__淺沼大智",
-      "name_en": null,
-      "name_ja": "淺沼 大智",
-      "team_id": null
-    },
-    "univ_早稲田大学__清水健伸": {
-      "id": "univ_早稲田大学__清水健伸",
-      "name_en": null,
-      "name_ja": "清水 健伸",
-      "team_id": null
-    },
-    "univ_早稲田大学__渡邉亮太": {
-      "id": "univ_早稲田大学__渡邉亮太",
-      "name_en": null,
-      "name_ja": "渡邉 亮太",
-      "team_id": null
-    },
-    "univ_早稲田大学__渡邊晃樹": {
-      "id": "univ_早稲田大学__渡邊晃樹",
-      "name_en": null,
-      "name_ja": "渡邊 晃樹",
-      "team_id": null
-    },
-    "univ_早稲田大学__溝口雄悟": {
-      "id": "univ_早稲田大学__溝口雄悟",
-      "name_en": null,
-      "name_ja": "溝口 雄悟",
-      "team_id": null
-    },
-    "univ_早稲田大学__澤田惺羽": {
-      "id": "univ_早稲田大学__澤田惺羽",
-      "name_en": null,
-      "name_ja": "澤田 惺羽",
-      "team_id": null
-    },
-    "univ_早稲田大学__牧錬太郎": {
-      "id": "univ_早稲田大学__牧錬太郎",
-      "name_en": null,
-      "name_ja": "牧 錬太郎",
-      "team_id": null
-    },
-    "univ_早稲田大学__狹間大介": {
-      "id": "univ_早稲田大学__狹間大介",
-      "name_en": null,
-      "name_ja": "狹間 大介",
-      "team_id": null
-    },
-    "univ_早稲田大学__田中健心": {
-      "id": "univ_早稲田大学__田中健心",
-      "name_en": null,
-      "name_ja": "田中 健心",
-      "team_id": null
-    },
-    "univ_早稲田大学__田中健想": {
-      "id": "univ_早稲田大学__田中健想",
-      "name_en": null,
-      "name_ja": "田中 健想",
-      "team_id": null
-    },
-    "univ_早稲田大学__田中大斗": {
-      "id": "univ_早稲田大学__田中大斗",
-      "name_en": null,
-      "name_ja": "田中 大斗",
-      "team_id": null
-    },
-    "univ_早稲田大学__田中徹郎": {
-      "id": "univ_早稲田大学__田中徹郎",
-      "name_en": null,
-      "name_ja": "田中 徹郎",
-      "team_id": null
-    },
-    "univ_早稲田大学__田島壱拳": {
-      "id": "univ_早稲田大学__田島壱拳",
-      "name_en": null,
-      "name_ja": "田島 壱拳",
-      "team_id": null
-    },
-    "univ_早稲田大学__田能開成": {
-      "id": "univ_早稲田大学__田能開成",
-      "name_en": null,
-      "name_ja": "田能 開成",
-      "team_id": null
-    },
-    "univ_早稲田大学__真柳璃緒": {
-      "id": "univ_早稲田大学__真柳璃緒",
-      "name_en": null,
-      "name_ja": "真柳 璃緒",
-      "team_id": null
-    },
-    "univ_早稲田大学__矢島快修": {
-      "id": "univ_早稲田大学__矢島快修",
-      "name_en": null,
-      "name_ja": "矢島 快修",
-      "team_id": null
-    },
-    "univ_早稲田大学__矢崎由高": {
-      "id": "univ_早稲田大学__矢崎由高",
-      "name_en": null,
-      "name_ja": "矢崎 由高",
-      "team_id": null
-    },
-    "univ_早稲田大学__矢澤翼": {
-      "id": "univ_早稲田大学__矢澤翼",
-      "name_en": null,
-      "name_ja": "矢澤 翼",
-      "team_id": null
-    },
-    "univ_早稲田大学__石原遼": {
-      "id": "univ_早稲田大学__石原遼",
-      "name_en": null,
-      "name_ja": "石原 遼",
-      "team_id": null
-    },
-    "univ_早稲田大学__石川聖奈": {
-      "id": "univ_早稲田大学__石川聖奈",
-      "name_en": null,
-      "name_ja": "石川 聖奈",
-      "team_id": null
-    },
-    "univ_早稲田大学__神成貴仁": {
-      "id": "univ_早稲田大学__神成貴仁",
-      "name_en": null,
-      "name_ja": "神成 貴仁",
-      "team_id": null
-    },
-    "univ_早稲田大学__竹内晴": {
-      "id": "univ_早稲田大学__竹内晴",
-      "name_en": null,
-      "name_ja": "竹内　晴",
-      "team_id": null
-    },
-    "univ_早稲田大学__竹山史人": {
-      "id": "univ_早稲田大学__竹山史人",
-      "name_en": null,
-      "name_ja": "竹山 史人",
-      "team_id": null
-    },
-    "univ_早稲田大学__笹部隆毅": {
-      "id": "univ_早稲田大学__笹部隆毅",
-      "name_en": null,
-      "name_ja": "笹部 隆毅",
-      "team_id": null
-    },
-    "univ_早稲田大学__米倉翔": {
-      "id": "univ_早稲田大学__米倉翔",
-      "name_en": null,
-      "name_ja": "米倉 翔",
-      "team_id": null
-    },
-    "univ_早稲田大学__細田悠介": {
-      "id": "univ_早稲田大学__細田悠介",
-      "name_en": null,
-      "name_ja": "細田 悠介",
-      "team_id": null
-    },
-    "univ_早稲田大学__細田美羽": {
-      "id": "univ_早稲田大学__細田美羽",
-      "name_en": null,
-      "name_ja": "細田 美羽",
-      "team_id": null
-    },
-    "univ_早稲田大学__細谷有貴": {
-      "id": "univ_早稲田大学__細谷有貴",
-      "name_en": null,
-      "name_ja": "細谷 有貴",
-      "team_id": null
-    },
-    "univ_早稲田大学__肥後直希": {
-      "id": "univ_早稲田大学__肥後直希",
-      "name_en": null,
-      "name_ja": "肥後 直希",
-      "team_id": null
-    },
-    "univ_早稲田大学__能町光": {
-      "id": "univ_早稲田大学__能町光",
-      "name_en": null,
-      "name_ja": "能町 光",
-      "team_id": null
-    },
-    "univ_早稲田大学__若林海翔": {
-      "id": "univ_早稲田大学__若林海翔",
-      "name_en": null,
-      "name_ja": "若林 海翔",
-      "team_id": null
-    },
-    "univ_早稲田大学__荒木鷲摩": {
-      "id": "univ_早稲田大学__荒木鷲摩",
-      "name_en": null,
-      "name_ja": "荒木 鷲摩",
-      "team_id": null
-    },
-    "univ_早稲田大学__菊川迪": {
-      "id": "univ_早稲田大学__菊川迪",
-      "name_en": null,
-      "name_ja": "菊川 迪",
-      "team_id": null
-    },
-    "univ_早稲田大学__萩原愛珠": {
-      "id": "univ_早稲田大学__萩原愛珠",
-      "name_en": null,
-      "name_ja": "萩原 愛珠",
-      "team_id": null
-    },
-    "univ_早稲田大学__藤井雄士": {
-      "id": "univ_早稲田大学__藤井雄士",
-      "name_en": null,
-      "name_ja": "藤井 雄士",
-      "team_id": null
-    },
-    "univ_早稲田大学__藤森政紀": {
-      "id": "univ_早稲田大学__藤森政紀",
-      "name_en": null,
-      "name_ja": "藤森 政紀",
-      "team_id": null
-    },
-    "univ_早稲田大学__西浦岳優": {
-      "id": "univ_早稲田大学__西浦岳優",
-      "name_en": null,
-      "name_ja": "西浦 岳優",
-      "team_id": null
-    },
-    "univ_早稲田大学__谷本幹太": {
-      "id": "univ_早稲田大学__谷本幹太",
-      "name_en": null,
-      "name_ja": "谷本 幹太",
-      "team_id": null
-    },
-    "univ_早稲田大学__赤塚心之助": {
-      "id": "univ_早稲田大学__赤塚心之助",
-      "name_en": null,
-      "name_ja": "赤塚 心之助",
-      "team_id": null
-    },
-    "univ_早稲田大学__足立慎太郎": {
-      "id": "univ_早稲田大学__足立慎太郎",
-      "name_en": null,
-      "name_ja": "足立 慎太郎",
-      "team_id": null
-    },
-    "univ_早稲田大学__辻幸大": {
-      "id": "univ_早稲田大学__辻幸大",
-      "name_en": null,
-      "name_ja": "辻 幸大",
-      "team_id": null
-    },
-    "univ_早稲田大学__遠藤直輝": {
-      "id": "univ_早稲田大学__遠藤直輝",
-      "name_en": null,
-      "name_ja": "遠藤 直輝",
-      "team_id": null
-    },
-    "univ_早稲田大学__野口大雅": {
-      "id": "univ_早稲田大学__野口大雅",
-      "name_en": null,
-      "name_ja": "野口 大雅",
-      "team_id": null
-    },
-    "univ_早稲田大学__野島信太郎": {
-      "id": "univ_早稲田大学__野島信太郎",
-      "name_en": null,
-      "name_ja": "野島 信太郎",
-      "team_id": null
-    },
-    "univ_早稲田大学__野村怜央": {
-      "id": "univ_早稲田大学__野村怜央",
-      "name_en": null,
-      "name_ja": "野村 怜央",
-      "team_id": null
-    },
-    "univ_早稲田大学__野村獅朗": {
-      "id": "univ_早稲田大学__野村獅朗",
-      "name_en": null,
-      "name_ja": "野村 獅朗",
-      "team_id": null
-    },
-    "univ_早稲田大学__鈴木一ノ心": {
-      "id": "univ_早稲田大学__鈴木一ノ心",
-      "name_en": null,
-      "name_ja": "鈴木 一ノ心",
-      "team_id": null
-    },
-    "univ_早稲田大学__鈴木大和": {
-      "id": "univ_早稲田大学__鈴木大和",
-      "name_en": null,
-      "name_ja": "鈴木 大和",
-      "team_id": null
-    },
-    "univ_早稲田大学__鈴木寛大": {
-      "id": "univ_早稲田大学__鈴木寛大",
-      "name_en": null,
-      "name_ja": "鈴木 寛大",
-      "team_id": null
-    },
-    "univ_早稲田大学__鈴木彪馬": {
-      "id": "univ_早稲田大学__鈴木彪馬",
-      "name_en": null,
-      "name_ja": "鈴木 彪馬",
-      "team_id": null
-    },
-    "univ_早稲田大学__長岡健太郎": {
-      "id": "univ_早稲田大学__長岡健太郎",
-      "name_en": null,
-      "name_ja": "長岡 健太郎",
-      "team_id": null
-    },
-    "univ_早稲田大学__関康輔": {
-      "id": "univ_早稲田大学__関康輔",
-      "name_en": null,
-      "name_ja": "関 康輔",
-      "team_id": null
-    },
-    "univ_早稲田大学__阪本直輝": {
-      "id": "univ_早稲田大学__阪本直輝",
-      "name_en": null,
-      "name_ja": "阪本 直輝",
-      "team_id": null
-    },
-    "univ_早稲田大学__阿部翔汰": {
-      "id": "univ_早稲田大学__阿部翔汰",
-      "name_en": null,
-      "name_ja": "阿部 翔汰",
-      "team_id": null
-    },
-    "univ_早稲田大学__馬場敦輝": {
-      "id": "univ_早稲田大学__馬場敦輝",
-      "name_en": null,
-      "name_ja": "馬場 敦輝",
-      "team_id": null
-    },
-    "univ_早稲田大学__駒井良": {
-      "id": "univ_早稲田大学__駒井良",
-      "name_en": null,
-      "name_ja": "駒井 良",
-      "team_id": null
-    },
-    "univ_早稲田大学__髙橋松大郎": {
-      "id": "univ_早稲田大学__髙橋松大郎",
-      "name_en": null,
-      "name_ja": "髙橋 松大郎",
-      "team_id": null
-    },
-    "univ_早稲田大学__髙橋玄": {
-      "id": "univ_早稲田大学__髙橋玄",
-      "name_en": null,
-      "name_ja": "髙橋 玄",
-      "team_id": null
-    },
-    "univ_早稲田大学__髙野恵次郎": {
-      "id": "univ_早稲田大学__髙野恵次郎",
-      "name_en": null,
-      "name_ja": "髙野 恵次郎",
-      "team_id": null
-    },
-    "univ_早稲田大学__齊藤優舞": {
-      "id": "univ_早稲田大学__齊藤優舞",
-      "name_en": null,
-      "name_ja": "齊藤 優舞",
-      "team_id": null
-    },
-    "univ_早稲田大学__齊藤慧士郎": {
-      "id": "univ_早稲田大学__齊藤慧士郎",
-      "name_en": null,
-      "name_ja": "齊藤 慧士郎",
-      "team_id": null
-    },
-    "univ_早稲田大学__齋藤俊太": {
-      "id": "univ_早稲田大学__齋藤俊太",
-      "name_en": null,
-      "name_ja": "齋藤 俊太",
-      "team_id": null
-    },
-    "univ_早稲田大学__龍康之助": {
-      "id": "univ_早稲田大学__龍康之助",
-      "name_en": null,
-      "name_ja": "龍 康之助",
       "team_id": null
     },
     "univ_東京大学__倉橋直希": {
@@ -5235,454 +4451,16 @@
       "name_ja": "倉橋 直希",
       "team_id": null
     },
-    "univ_武蔵大学__上原あかり": {
-      "id": "univ_武蔵大学__上原あかり",
+    "univ_専修大学__小西恵美": {
+      "id": "univ_専修大学__小西恵美",
       "name_en": null,
-      "name_ja": "上原　あかり",
+      "name_ja": "小西 恵美",
       "team_id": null
     },
-    "univ_武蔵大学__中村桐十郎": {
-      "id": "univ_武蔵大学__中村桐十郎",
+    "univ_東京大学__松村奏和": {
+      "id": "univ_東京大学__松村奏和",
       "name_en": null,
-      "name_ja": "中村　桐十郎",
-      "team_id": null
-    },
-    "univ_武蔵大学__二上大悟": {
-      "id": "univ_武蔵大学__二上大悟",
-      "name_en": null,
-      "name_ja": "二上　大悟",
-      "team_id": null
-    },
-    "univ_武蔵大学__佐藤陽菜": {
-      "id": "univ_武蔵大学__佐藤陽菜",
-      "name_en": null,
-      "name_ja": "佐藤　陽菜",
-      "team_id": null
-    },
-    "univ_武蔵大学__児島莉子": {
-      "id": "univ_武蔵大学__児島莉子",
-      "name_en": null,
-      "name_ja": "児島　莉子",
-      "team_id": null
-    },
-    "univ_武蔵大学__八百遼太": {
-      "id": "univ_武蔵大学__八百遼太",
-      "name_en": null,
-      "name_ja": "八百　遼太",
-      "team_id": null
-    },
-    "univ_武蔵大学__内村圭太": {
-      "id": "univ_武蔵大学__内村圭太",
-      "name_en": null,
-      "name_ja": "内村　圭太",
-      "team_id": null
-    },
-    "univ_武蔵大学__内田ひかる": {
-      "id": "univ_武蔵大学__内田ひかる",
-      "name_en": null,
-      "name_ja": "内田　ひかる",
-      "team_id": null
-    },
-    "univ_武蔵大学__加藤百華": {
-      "id": "univ_武蔵大学__加藤百華",
-      "name_en": null,
-      "name_ja": "加藤　百華",
-      "team_id": null
-    },
-    "univ_武蔵大学__北野颯大": {
-      "id": "univ_武蔵大学__北野颯大",
-      "name_en": null,
-      "name_ja": "北野　颯大",
-      "team_id": null
-    },
-    "univ_武蔵大学__友田凜": {
-      "id": "univ_武蔵大学__友田凜",
-      "name_en": null,
-      "name_ja": "友田　凜",
-      "team_id": null
-    },
-    "univ_武蔵大学__古賀正太郎": {
-      "id": "univ_武蔵大学__古賀正太郎",
-      "name_en": null,
-      "name_ja": "古賀　正太郎",
-      "team_id": null
-    },
-    "univ_武蔵大学__園村歩生": {
-      "id": "univ_武蔵大学__園村歩生",
-      "name_en": null,
-      "name_ja": "園村　歩生",
-      "team_id": null
-    },
-    "univ_武蔵大学__坂部友麻": {
-      "id": "univ_武蔵大学__坂部友麻",
-      "name_en": null,
-      "name_ja": "坂部　友麻",
-      "team_id": null
-    },
-    "univ_武蔵大学__大江梨里華": {
-      "id": "univ_武蔵大学__大江梨里華",
-      "name_en": null,
-      "name_ja": "大江　梨里華",
-      "team_id": null
-    },
-    "univ_武蔵大学__大沼俊介": {
-      "id": "univ_武蔵大学__大沼俊介",
-      "name_en": null,
-      "name_ja": "大沼　俊介",
-      "team_id": null
-    },
-    "univ_武蔵大学__太田士温": {
-      "id": "univ_武蔵大学__太田士温",
-      "name_en": null,
-      "name_ja": "太田　士温",
-      "team_id": null
-    },
-    "univ_武蔵大学__奥平真玄": {
-      "id": "univ_武蔵大学__奥平真玄",
-      "name_en": null,
-      "name_ja": "奥平　真玄",
-      "team_id": null
-    },
-    "univ_武蔵大学__宮岡竜之介": {
-      "id": "univ_武蔵大学__宮岡竜之介",
-      "name_en": null,
-      "name_ja": "宮岡　竜之介",
-      "team_id": null
-    },
-    "univ_武蔵大学__宮崎隼之介": {
-      "id": "univ_武蔵大学__宮崎隼之介",
-      "name_en": null,
-      "name_ja": "宮崎　隼之介",
-      "team_id": null
-    },
-    "univ_武蔵大学__宮部滉士": {
-      "id": "univ_武蔵大学__宮部滉士",
-      "name_en": null,
-      "name_ja": "宮部　滉士",
-      "team_id": null
-    },
-    "univ_武蔵大学__小原森之祐": {
-      "id": "univ_武蔵大学__小原森之祐",
-      "name_en": null,
-      "name_ja": "小原　森之祐",
-      "team_id": null
-    },
-    "univ_武蔵大学__小畑和也": {
-      "id": "univ_武蔵大学__小畑和也",
-      "name_en": null,
-      "name_ja": "小畑　和也",
-      "team_id": null
-    },
-    "univ_武蔵大学__小野寺将大": {
-      "id": "univ_武蔵大学__小野寺将大",
-      "name_en": null,
-      "name_ja": "小野寺　将大",
-      "team_id": null
-    },
-    "univ_武蔵大学__小野永翔": {
-      "id": "univ_武蔵大学__小野永翔",
-      "name_en": null,
-      "name_ja": "小野　永翔",
-      "team_id": null
-    },
-    "univ_武蔵大学__小野蒼空": {
-      "id": "univ_武蔵大学__小野蒼空",
-      "name_en": null,
-      "name_ja": "小野　蒼空",
-      "team_id": null
-    },
-    "univ_武蔵大学__尾池政人": {
-      "id": "univ_武蔵大学__尾池政人",
-      "name_en": null,
-      "name_ja": "尾池　政人",
-      "team_id": null
-    },
-    "univ_武蔵大学__山下裕太郎": {
-      "id": "univ_武蔵大学__山下裕太郎",
-      "name_en": null,
-      "name_ja": "山下　裕太郎",
-      "team_id": null
-    },
-    "univ_武蔵大学__山中悠史": {
-      "id": "univ_武蔵大学__山中悠史",
-      "name_en": null,
-      "name_ja": "山中　悠史",
-      "team_id": null
-    },
-    "univ_武蔵大学__川口愛結": {
-      "id": "univ_武蔵大学__川口愛結",
-      "name_en": null,
-      "name_ja": "川口　愛結",
-      "team_id": null
-    },
-    "univ_武蔵大学__川渕琢真": {
-      "id": "univ_武蔵大学__川渕琢真",
-      "name_en": null,
-      "name_ja": "川渕　琢真",
-      "team_id": null
-    },
-    "univ_武蔵大学__川田明宏": {
-      "id": "univ_武蔵大学__川田明宏",
-      "name_en": null,
-      "name_ja": "川田　明宏",
-      "team_id": null
-    },
-    "univ_武蔵大学__平尾心愛": {
-      "id": "univ_武蔵大学__平尾心愛",
-      "name_en": null,
-      "name_ja": "平尾　心愛",
-      "team_id": null
-    },
-    "univ_武蔵大学__新橋鼓太朗": {
-      "id": "univ_武蔵大学__新橋鼓太朗",
-      "name_en": null,
-      "name_ja": "新橋　鼓太朗",
-      "team_id": null
-    },
-    "univ_武蔵大学__新沼慶人": {
-      "id": "univ_武蔵大学__新沼慶人",
-      "name_en": null,
-      "name_ja": "新沼　慶人",
-      "team_id": null
-    },
-    "univ_武蔵大学__木田吉彦": {
-      "id": "univ_武蔵大学__木田吉彦",
-      "name_en": null,
-      "name_ja": "木田　吉彦",
-      "team_id": null
-    },
-    "univ_武蔵大学__村田碧汰": {
-      "id": "univ_武蔵大学__村田碧汰",
-      "name_en": null,
-      "name_ja": "村田　碧汰",
-      "team_id": null
-    },
-    "univ_武蔵大学__松岡秀征": {
-      "id": "univ_武蔵大学__松岡秀征",
-      "name_en": null,
-      "name_ja": "松岡　秀征",
-      "team_id": null
-    },
-    "univ_武蔵大学__松本亮翔": {
-      "id": "univ_武蔵大学__松本亮翔",
-      "name_en": null,
-      "name_ja": "松本　亮翔",
-      "team_id": null
-    },
-    "univ_武蔵大学__松野希見": {
-      "id": "univ_武蔵大学__松野希見",
-      "name_en": null,
-      "name_ja": "松野　希見",
-      "team_id": null
-    },
-    "univ_武蔵大学__林琉星": {
-      "id": "univ_武蔵大学__林琉星",
-      "name_en": null,
-      "name_ja": "林　琉星",
-      "team_id": null
-    },
-    "univ_武蔵大学__柳瀬咲季": {
-      "id": "univ_武蔵大学__柳瀬咲季",
-      "name_en": null,
-      "name_ja": "柳瀬　咲季",
-      "team_id": null
-    },
-    "univ_武蔵大学__柴田正剛": {
-      "id": "univ_武蔵大学__柴田正剛",
-      "name_en": null,
-      "name_ja": "柴田　正剛",
-      "team_id": null
-    },
-    "univ_武蔵大学__栁沢順成": {
-      "id": "univ_武蔵大学__栁沢順成",
-      "name_en": null,
-      "name_ja": "栁沢　順成",
-      "team_id": null
-    },
-    "univ_武蔵大学__栗原一颯": {
-      "id": "univ_武蔵大学__栗原一颯",
-      "name_en": null,
-      "name_ja": "栗原　一颯",
-      "team_id": null
-    },
-    "univ_武蔵大学__森悠斗": {
-      "id": "univ_武蔵大学__森悠斗",
-      "name_en": null,
-      "name_ja": "森　悠斗",
-      "team_id": null
-    },
-    "univ_武蔵大学__樋口知冴": {
-      "id": "univ_武蔵大学__樋口知冴",
-      "name_en": null,
-      "name_ja": "樋口　知冴",
-      "team_id": null
-    },
-    "univ_武蔵大学__武井暖乃": {
-      "id": "univ_武蔵大学__武井暖乃",
-      "name_en": null,
-      "name_ja": "武井　暖乃",
-      "team_id": null
-    },
-    "univ_武蔵大学__江黒仁翔": {
-      "id": "univ_武蔵大学__江黒仁翔",
-      "name_en": null,
-      "name_ja": "江黒　仁翔",
-      "team_id": null
-    },
-    "univ_武蔵大学__泉遥翔": {
-      "id": "univ_武蔵大学__泉遥翔",
-      "name_en": null,
-      "name_ja": "泉　遥翔",
-      "team_id": null
-    },
-    "univ_武蔵大学__渡邉陽菜": {
-      "id": "univ_武蔵大学__渡邉陽菜",
-      "name_en": null,
-      "name_ja": "渡邉　陽菜",
-      "team_id": null
-    },
-    "univ_武蔵大学__渡邊凌真": {
-      "id": "univ_武蔵大学__渡邊凌真",
-      "name_en": null,
-      "name_ja": "渡邊　凌真",
-      "team_id": null
-    },
-    "univ_武蔵大学__渡邊晃輔": {
-      "id": "univ_武蔵大学__渡邊晃輔",
-      "name_en": null,
-      "name_ja": "渡邊　晃輔",
-      "team_id": null
-    },
-    "univ_武蔵大学__熊谷美咲": {
-      "id": "univ_武蔵大学__熊谷美咲",
-      "name_en": null,
-      "name_ja": "熊谷　美咲",
-      "team_id": null
-    },
-    "univ_武蔵大学__田中優": {
-      "id": "univ_武蔵大学__田中優",
-      "name_en": null,
-      "name_ja": "田中　優",
-      "team_id": null
-    },
-    "univ_武蔵大学__田中大和": {
-      "id": "univ_武蔵大学__田中大和",
-      "name_en": null,
-      "name_ja": "田中　大和",
-      "team_id": null
-    },
-    "univ_武蔵大学__田中旭": {
-      "id": "univ_武蔵大学__田中旭",
-      "name_en": null,
-      "name_ja": "田中　旭",
-      "team_id": null
-    },
-    "univ_武蔵大学__石川空河": {
-      "id": "univ_武蔵大学__石川空河",
-      "name_en": null,
-      "name_ja": "石川　空河",
-      "team_id": null
-    },
-    "univ_武蔵大学__磯部陽貴": {
-      "id": "univ_武蔵大学__磯部陽貴",
-      "name_en": null,
-      "name_ja": "磯部　陽貴",
-      "team_id": null
-    },
-    "univ_武蔵大学__福井啓太郎": {
-      "id": "univ_武蔵大学__福井啓太郎",
-      "name_en": null,
-      "name_ja": "福井　啓太郎",
-      "team_id": null
-    },
-    "univ_武蔵大学__立木光": {
-      "id": "univ_武蔵大学__立木光",
-      "name_en": null,
-      "name_ja": "立木　光",
-      "team_id": null
-    },
-    "univ_武蔵大学__船附大悟": {
-      "id": "univ_武蔵大学__船附大悟",
-      "name_en": null,
-      "name_ja": "船附　大悟",
-      "team_id": null
-    },
-    "univ_武蔵大学__荒井樹": {
-      "id": "univ_武蔵大学__荒井樹",
-      "name_en": null,
-      "name_ja": "荒井　樹",
-      "team_id": null
-    },
-    "univ_武蔵大学__西田悠真": {
-      "id": "univ_武蔵大学__西田悠真",
-      "name_en": null,
-      "name_ja": "西田　悠真",
-      "team_id": null
-    },
-    "univ_武蔵大学__谷本一斗": {
-      "id": "univ_武蔵大学__谷本一斗",
-      "name_en": null,
-      "name_ja": "谷本　一斗",
-      "team_id": null
-    },
-    "univ_武蔵大学__野辺銀汰": {
-      "id": "univ_武蔵大学__野辺銀汰",
-      "name_en": null,
-      "name_ja": "野辺　銀汰",
-      "team_id": null
-    },
-    "univ_武蔵大学__金子新": {
-      "id": "univ_武蔵大学__金子新",
-      "name_en": null,
-      "name_ja": "金子　新",
-      "team_id": null
-    },
-    "univ_武蔵大学__金子礼人": {
-      "id": "univ_武蔵大学__金子礼人",
-      "name_en": null,
-      "name_ja": "金子　礼人",
-      "team_id": null
-    },
-    "univ_武蔵大学__金谷姫和": {
-      "id": "univ_武蔵大学__金谷姫和",
-      "name_en": null,
-      "name_ja": "金谷　姫和",
-      "team_id": null
-    },
-    "univ_武蔵大学__鈴木里美": {
-      "id": "univ_武蔵大学__鈴木里美",
-      "name_en": null,
-      "name_ja": "鈴木　里美",
-      "team_id": null
-    },
-    "univ_武蔵大学__長澤悠": {
-      "id": "univ_武蔵大学__長澤悠",
-      "name_en": null,
-      "name_ja": "長澤　悠",
-      "team_id": null
-    },
-    "univ_武蔵大学__関根由佳": {
-      "id": "univ_武蔵大学__関根由佳",
-      "name_en": null,
-      "name_ja": "関根　由佳",
-      "team_id": null
-    },
-    "univ_武蔵大学__飯野陽大": {
-      "id": "univ_武蔵大学__飯野陽大",
-      "name_en": null,
-      "name_ja": "飯野　陽大",
-      "team_id": null
-    },
-    "univ_武蔵大学__高萩康太": {
-      "id": "univ_武蔵大学__高萩康太",
-      "name_en": null,
-      "name_ja": "高萩　康太",
-      "team_id": null
-    },
-    "univ_武蔵大学__齊藤省太": {
-      "id": "univ_武蔵大学__齊藤省太",
-      "name_en": null,
-      "name_ja": "齊藤　省太",
+      "name_ja": "松村 奏和",
       "team_id": null
     }
   },

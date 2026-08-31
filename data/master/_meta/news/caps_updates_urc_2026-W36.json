@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ar_damian-willemse",
+    "name_en": "Damian WILLEMSE",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 65,
+    "to_count": 72
+  },
+  {
+    "id": "ar_eben-etzebeth",
+    "name_en": "Eben ETZEBETH",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 130,
+    "to_count": 163
+  },
+  {
+    "id": "ar_enrique-pieretto-heiland",
+    "name_en": "Enrique PIERETTO HEILAND",
+    "name_ja": null,
+    "team": "Argentina",
+    "from_count": 21,
+    "to_count": 23
+  },
+  {
+    "id": "ar_malakai-fekitoa",
+    "name_en": "Malakai FEKITOA",
+    "name_ja": null,
+    "team": "New Zealand",
+    "from_count": 13,
+    "to_count": 17
+  },
+  {
+    "id": "ar_sacha-mngomezulu",
+    "name_en": "Sacha FEINBERG-MNGOMEZULU",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 30,
+    "to_count": 31
+  },
+  {
+    "id": "ar_wilco-louw",
+    "name_en": "Wilco LOUW",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 19,
+    "to_count": 34
+  }
+]

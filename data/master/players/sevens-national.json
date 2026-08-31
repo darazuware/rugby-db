@@ -1,67 +1,13 @@
 [
   {
-    "id": "jrfu_sevens_m_481724",
+    "id": "jrfu_sevens_m_510767",
     "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481724",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Ren OUCHI",
-    "name_ja": "大内錬",
-    "name_kana": null,
-    "slug": "ren-ouchi-481724",
-    "position": null,
-    "team_id": null,
-    "league": "sevens-national",
-    "height_cm": 183,
-    "weight_kg": 84,
-    "birthdate": "1999-01-22",
-    "nationality": [
-      "JP"
-    ],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "マツダスカイアクティブズ広島",
-        "from": null,
-        "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481724"
-      }
-    ],
-    "season_stats": null,
-    "education": [
-      {
-        "school_id": null,
-        "name_raw": "佐野日本大学高校",
-        "type": "hs",
-        "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481724",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
-      },
-      {
-        "school_id": null,
-        "name_raw": "東洋大学",
-        "type": "univ",
-        "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481724",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
-      }
-    ],
-    "instagram": "https://www.instagram.com/ouchi_renkobi/",
-    "image_url": null,
-    "squad": "sevens_m",
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "jrfu_sevens_m_481725",
-    "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481725",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
+    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510767",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
     "name_en": "Naoya OGITA",
     "name_ja": "荻田直弥",
     "name_kana": null,
-    "slug": "naoya-ogita-481725",
+    "slug": "naoya-ogita-510767",
     "position": null,
     "team_id": null,
     "league": "sevens-national",
@@ -75,10 +21,10 @@
     "league_caps": null,
     "career": [
       {
-        "team": "NECグリーンロケッツ東葛",
+        "team": "JR東日本グリーンウォリアーズ東葛",
         "from": null,
         "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481725"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510767"
       }
     ],
     "season_stats": null,
@@ -88,16 +34,16 @@
         "name_raw": "学習院高等科",
         "type": "hs",
         "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481725",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510767",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
       },
       {
         "school_id": null,
         "name_raw": "学習院大学",
         "type": "univ",
         "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481725",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510767",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
       }
     ],
     "instagram": "https://www.instagram.com/ogi_naoya/",
@@ -108,20 +54,20 @@
     "merged_from": []
   },
   {
-    "id": "jrfu_sevens_m_481726",
+    "id": "jrfu_sevens_m_510768",
     "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481726",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Haruhiko UEMURA",
-    "name_ja": "植村陽彦",
+    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510768",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Josua KEREVI",
+    "name_ja": "ケレビジョシュア",
     "name_kana": null,
-    "slug": "haruhiko-uemura-481726",
+    "slug": "josua-kerevi-510768",
     "position": null,
     "team_id": null,
     "league": "sevens-national",
-    "height_cm": 175,
-    "weight_kg": 83,
-    "birthdate": "2000-11-13",
+    "height_cm": 190,
+    "weight_kg": 100,
+    "birthdate": "1992-06-18",
     "nationality": [
       "JP"
     ],
@@ -129,32 +75,32 @@
     "league_caps": null,
     "career": [
       {
-        "team": "三重ホンダヒート",
+        "team": "豊田自動織機シャトルズ愛知",
         "from": null,
         "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481726"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510768"
       }
     ],
     "season_stats": null,
     "education": [
       {
         "school_id": null,
-        "name_raw": "茗溪学園高校",
+        "name_raw": "ナタブア高校",
         "type": "hs",
         "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481726",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510768",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
       },
       {
         "school_id": null,
-        "name_raw": "筑波大学",
+        "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481726",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510768",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
       }
     ],
-    "instagram": "https://www.instagram.com/coharu2000tjm18/",
+    "instagram": "https://www.instagram.com/josuakerevi_/",
     "image_url": null,
     "squad": "sevens_m",
     "is_featured": false,
@@ -162,230 +108,14 @@
     "merged_from": []
   },
   {
-    "id": "jrfu_sevens_m_481727",
+    "id": "jrfu_sevens_m_510769",
     "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481727",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Jone NABETELEVU",
-    "name_ja": "ジョネ・ナベテレヴ",
-    "name_kana": null,
-    "slug": "jone-nabetelevu-481727",
-    "position": null,
-    "team_id": null,
-    "league": "sevens-national",
-    "height_cm": 187,
-    "weight_kg": 97,
-    "birthdate": "1999-02-22",
-    "nationality": [
-      "JP"
-    ],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "トヨタヴェルブリッツ",
-        "from": null,
-        "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481727"
-      }
-    ],
-    "season_stats": null,
-    "education": [
-      {
-        "school_id": null,
-        "name_raw": "ナシヌー高校",
-        "type": "hs",
-        "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481727",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
-      },
-      {
-        "school_id": null,
-        "name_raw": "エレスメア大学",
-        "type": "univ",
-        "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481727",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
-      }
-    ],
-    "instagram": "https://www.instagram.com/Jtnabetelevu_15/",
-    "image_url": null,
-    "squad": "sevens_m",
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "jrfu_sevens_m_481728",
-    "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481728",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Ryodai SHIRAKUNI",
-    "name_ja": "白國亮大",
-    "name_kana": null,
-    "slug": "ryodai-shirakuni-481728",
-    "position": null,
-    "team_id": null,
-    "league": "sevens-national",
-    "height_cm": 167,
-    "weight_kg": 69,
-    "birthdate": "2000-02-29",
-    "nationality": [
-      "JP"
-    ],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "大阪府警察ラグビー部",
-        "from": null,
-        "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481728"
-      }
-    ],
-    "season_stats": null,
-    "education": [
-      {
-        "school_id": null,
-        "name_raw": "大阪府立摂津高校",
-        "type": "hs",
-        "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481728",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
-      },
-      {
-        "school_id": null,
-        "name_raw": "帝京大学",
-        "type": "univ",
-        "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481728",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
-      }
-    ],
-    "instagram": "https://www.instagram.com/s.ryoudai/",
-    "image_url": null,
-    "squad": "sevens_m",
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "jrfu_sevens_m_481729",
-    "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481729",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Toma SHIWACHI",
-    "name_ja": "志和池豊馬",
-    "name_kana": null,
-    "slug": "toma-shiwachi-481729",
-    "position": null,
-    "team_id": null,
-    "league": "sevens-national",
-    "height_cm": 167,
-    "weight_kg": 69,
-    "birthdate": "1999-08-06",
-    "nationality": [
-      "JP"
-    ],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "大阪府警察ラグビー部",
-        "from": null,
-        "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481729"
-      }
-    ],
-    "season_stats": null,
-    "education": [
-      {
-        "school_id": null,
-        "name_raw": "宮崎県立日向高校",
-        "type": "hs",
-        "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481729",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
-      },
-      {
-        "school_id": null,
-        "name_raw": "帝京大学",
-        "type": "univ",
-        "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481729",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
-      }
-    ],
-    "instagram": "https://www.instagram.com/___100.86/",
-    "image_url": null,
-    "squad": "sevens_m",
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "jrfu_sevens_m_481730",
-    "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481730",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Shotaro TSUOKA",
-    "name_ja": "津岡翔太郎",
-    "name_kana": null,
-    "slug": "shotaro-tsuoka-481730",
-    "position": null,
-    "team_id": null,
-    "league": "sevens-national",
-    "height_cm": 181,
-    "weight_kg": 85,
-    "birthdate": "1996-03-22",
-    "nationality": [
-      "JP"
-    ],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "(公財)日本ラグビーフットボール協会 / コカ・コーラボトラーズジャパン(株)",
-        "from": null,
-        "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481730"
-      }
-    ],
-    "season_stats": null,
-    "education": [
-      {
-        "school_id": null,
-        "name_raw": "佐賀工業高校",
-        "type": "hs",
-        "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481730",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
-      },
-      {
-        "school_id": null,
-        "name_raw": "帝京大学",
-        "type": "univ",
-        "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481730",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
-      }
-    ],
-    "instagram": "https://www.instagram.com/t.shotaro0322/",
-    "image_url": null,
-    "squad": "sevens_m",
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "jrfu_sevens_m_481731",
-    "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481731",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
+    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510769",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
     "name_en": "Yoshiyuki KOGA",
     "name_ja": "古賀由教",
     "name_kana": null,
-    "slug": "yoshiyuki-koga-481731",
+    "slug": "yoshiyuki-koga-510769",
     "position": null,
     "team_id": null,
     "league": "sevens-national",
@@ -402,7 +132,7 @@
         "team": "リコーブラックラムズ東京",
         "from": null,
         "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481731"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510769"
       }
     ],
     "season_stats": null,
@@ -412,16 +142,16 @@
         "name_raw": "東福岡高校",
         "type": "hs",
         "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481731",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510769",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
       },
       {
         "school_id": null,
         "name_raw": "早稲田大学",
         "type": "univ",
         "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481731",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510769",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
       }
     ],
     "instagram": "https://www.instagram.com/7s_yoshi11",
@@ -432,20 +162,20 @@
     "merged_from": []
   },
   {
-    "id": "jrfu_sevens_m_481732",
+    "id": "jrfu_sevens_m_510770",
     "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481732",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Ryosei TAKAI",
-    "name_ja": "高井良成",
+    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510770",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Ryodai SHIRAKUNI",
+    "name_ja": "白國亮大",
     "name_kana": null,
-    "slug": "ryosei-takai-481732",
+    "slug": "ryodai-shirakuni-510770",
     "position": null,
     "team_id": null,
     "league": "sevens-national",
-    "height_cm": 176,
-    "weight_kg": 82,
-    "birthdate": "2001-12-09",
+    "height_cm": 167,
+    "weight_kg": 69,
+    "birthdate": "2000-02-29",
     "nationality": [
       "JP"
     ],
@@ -453,32 +183,32 @@
     "league_caps": null,
     "career": [
       {
-        "team": "NECグリーンロケッツ東葛",
+        "team": "大阪府警察ラグビー部",
         "from": null,
         "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481732"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510770"
       }
     ],
     "season_stats": null,
     "education": [
       {
         "school_id": null,
-        "name_raw": "関西大学北陽高校",
+        "name_raw": "大阪府立摂津高校",
         "type": "hs",
         "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481732",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510770",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
       },
       {
         "school_id": null,
-        "name_raw": "京都産業大学",
+        "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481732",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510770",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
       }
     ],
-    "instagram": "https://www.instagram.com/ryosei_tki/",
+    "instagram": "https://www.instagram.com/s.ryoudai/",
     "image_url": null,
     "squad": "sevens_m",
     "is_featured": false,
@@ -486,20 +216,20 @@
     "merged_from": []
   },
   {
-    "id": "jrfu_sevens_m_481733",
+    "id": "jrfu_sevens_m_510771",
     "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481733",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Takemichi NAKANO",
-    "name_ja": "中野剛通",
+    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510771",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Toma SHIWACHI",
+    "name_ja": "志和池豊馬",
     "name_kana": null,
-    "slug": "takemichi-nakano-481733",
+    "slug": "toma-shiwachi-510771",
     "position": null,
     "team_id": null,
     "league": "sevens-national",
-    "height_cm": 186,
-    "weight_kg": 96,
-    "birthdate": "1996-12-18",
+    "height_cm": 167,
+    "weight_kg": 69,
+    "birthdate": "1999-08-06",
     "nationality": [
       "JP"
     ],
@@ -507,32 +237,32 @@
     "league_caps": null,
     "career": [
       {
-        "team": "トヨタヴェルブリッツ",
+        "team": "大阪府警察ラグビー部",
         "from": null,
         "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481733"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510771"
       }
     ],
     "season_stats": null,
     "education": [
       {
         "school_id": null,
-        "name_raw": "天理高校",
+        "name_raw": "宮崎県立日向高校",
         "type": "hs",
         "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481733",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510771",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
       },
       {
         "school_id": null,
-        "name_raw": "日本体育大学",
+        "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481733",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510771",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
       }
     ],
-    "instagram": "https://www.instagram.com/1218take12/",
+    "instagram": "https://www.instagram.com/___100.86/",
     "image_url": null,
     "squad": "sevens_m",
     "is_featured": false,
@@ -540,123 +270,14 @@
     "merged_from": []
   },
   {
-    "id": "jrfu_sevens_m_481734",
+    "id": "jrfu_sevens_m_510772",
     "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481734",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Koki MIYASAKA",
-    "name_ja": "宮坂航生",
-    "name_kana": null,
-    "slug": "koki-miyasaka-481734",
-    "position": null,
-    "team_id": null,
-    "league": "sevens-national",
-    "height_cm": 172,
-    "weight_kg": 75,
-    "birthdate": "2002-03-01",
-    "nationality": [
-      "JP"
-    ],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "三重ホンダヒート",
-        "from": null,
-        "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481734"
-      }
-    ],
-    "season_stats": null,
-    "education": [
-      {
-        "school_id": null,
-        "name_raw": "中部大学春日丘高等学校",
-        "type": "hs",
-        "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481734",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
-      },
-      {
-        "school_id": null,
-        "name_raw": "専修大学",
-        "type": "univ",
-        "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481734",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
-      }
-    ],
-    "instagram": "https://www.instagram.com/__koki___m___/?hl=ja",
-    "image_url": null,
-    "squad": "sevens_m",
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "jrfu_sevens_m_481735",
-    "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481735",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Jisu LEE",
-    "name_ja": "李智寿",
-    "name_kana": null,
-    "slug": "jisu-lee-481735",
-    "position": null,
-    "team_id": null,
-    "league": "sevens-national",
-    "height_cm": 180,
-    "weight_kg": 82,
-    "birthdate": "2004-11-06",
-    "nationality": [
-      "JP"
-    ],
-    "caps": null,
-    "league_caps": null,
-    "career": [],
-    "season_stats": null,
-    "education": [
-      {
-        "school_id": null,
-        "name_raw": "朝鮮大学校",
-        "type": "univ",
-        "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481735",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
-      },
-      {
-        "school_id": null,
-        "name_raw": "大阪朝鮮高級学校",
-        "type": "hs",
-        "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481735",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
-      },
-      {
-        "school_id": null,
-        "name_raw": "朝鮮大学校",
-        "type": "univ",
-        "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481735",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
-      }
-    ],
-    "instagram": "https://www.instagram.com/1ee.ch1su_0_6/",
-    "image_url": null,
-    "squad": "sevens_m",
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "jrfu_sevens_m_481736",
-    "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481736",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
+    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510772",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
     "name_en": "Tomu TAKAMOTO",
     "name_ja": "高本とむ",
     "name_kana": null,
-    "slug": "tomu-takamoto-481736",
+    "slug": "tomu-takamoto-510772",
     "position": null,
     "team_id": null,
     "league": "sevens-national",
@@ -673,7 +294,7 @@
         "team": "リコーブラックラムズ東京",
         "from": null,
         "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481736"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510772"
       }
     ],
     "season_stats": null,
@@ -683,16 +304,16 @@
         "name_raw": "東福岡高校",
         "type": "hs",
         "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481736",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510772",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
       },
       {
         "school_id": null,
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/481736",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510772",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
       }
     ],
     "instagram": "https://www.instagram.com/to_m10/",
@@ -703,20 +324,20 @@
     "merged_from": []
   },
   {
-    "id": "jrfu_sevens_w_485038",
+    "id": "jrfu_sevens_m_510773",
     "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485038",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Hanako UTSUMI",
-    "name_ja": "内海春菜子",
+    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510773",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Shotaro TSUOKA",
+    "name_ja": "津岡翔太郎",
     "name_kana": null,
-    "slug": "hanako-utsumi-485038",
+    "slug": "shotaro-tsuoka-510773",
     "position": null,
     "team_id": null,
     "league": "sevens-national",
-    "height_cm": 160,
-    "weight_kg": 60,
-    "birthdate": "2000-03-16",
+    "height_cm": 181,
+    "weight_kg": 85,
+    "birthdate": "1996-03-22",
     "nationality": [
       "JP"
     ],
@@ -724,260 +345,53 @@
     "league_caps": null,
     "career": [
       {
-        "team": "YOKOHAMA TKM",
+        "team": "(公財)日本ラグビーフットボール協会 / コカ・コーラボトラーズジャパン(株)",
         "from": null,
         "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485038"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510773"
       }
     ],
-    "season_stats": null,
-    "education": [],
-    "instagram": "https://www.instagram.com/__hanako316/",
-    "image_url": null,
-    "squad": "sevens_w",
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "jrfu_sevens_w_485039",
-    "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485039",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Natsuki OUCHIDA",
-    "name_ja": "大内田夏月",
-    "name_kana": null,
-    "slug": "natsuki-ouchida-485039",
-    "position": null,
-    "team_id": null,
-    "league": "sevens-national",
-    "height_cm": 164,
-    "weight_kg": 60,
-    "birthdate": "2002-07-15",
-    "nationality": [
-      "JP"
-    ],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Mie Women's Rugby Football Club PEARLS",
-        "from": null,
-        "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485039"
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": "https://www.instagram.com/natsu4855/",
-    "image_url": null,
-    "squad": "sevens_w",
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "jrfu_sevens_w_485040",
-    "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485040",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Mei OHTANI",
-    "name_ja": "大谷芽生",
-    "name_kana": null,
-    "slug": "mei-ohtani-485040",
-    "position": null,
-    "team_id": null,
-    "league": "sevens-national",
-    "height_cm": 162,
-    "weight_kg": 61,
-    "birthdate": "2000-05-28",
-    "nationality": [
-      "JP"
-    ],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "ながとブルーエンジェルス",
-        "from": null,
-        "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485040"
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": "https://www.instagram.com/mei_196/",
-    "image_url": null,
-    "squad": "sevens_w",
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "jrfu_sevens_w_485041",
-    "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485041",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Marin KAJIKI",
-    "name_ja": "梶木真凜",
-    "name_kana": null,
-    "slug": "marin-kajiki-485041",
-    "position": null,
-    "team_id": null,
-    "league": "sevens-national",
-    "height_cm": 164,
-    "weight_kg": 68,
-    "birthdate": "1999-09-20",
-    "nationality": [
-      "JP"
-    ],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "自衛隊体育学校PTS",
-        "from": null,
-        "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485041"
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": "https://www.instagram.com/maguro920/",
-    "image_url": null,
-    "squad": "sevens_w",
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "jrfu_sevens_w_485042",
-    "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485042",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Chiaki SAEGUSA",
-    "name_ja": "三枝千晃",
-    "name_kana": null,
-    "slug": "chiaki-saegusa-485042",
-    "position": null,
-    "team_id": null,
-    "league": "sevens-national",
-    "height_cm": 167,
-    "weight_kg": 68,
-    "birthdate": "1997-03-21",
-    "nationality": [
-      "JP"
-    ],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "北海道バーバリアンズ ディアナ",
-        "from": null,
-        "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485042"
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": "https://www.instagram.com/chiaki.9321/",
-    "image_url": null,
-    "squad": "sevens_w",
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "jrfu_sevens_w_485043",
-    "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485043",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Michiyo SUDA",
-    "name_ja": "須田倫代",
-    "name_kana": null,
-    "slug": "michiyo-suda-485043",
-    "position": null,
-    "team_id": null,
-    "league": "sevens-national",
-    "height_cm": 157,
-    "weight_kg": 60,
-    "birthdate": "2003-02-25",
-    "nationality": [
-      "JP"
-    ],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Mie Women's Rugby Football Club PEARLS",
-        "from": null,
-        "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485043"
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": "https://www.instagram.com/michiyo2925/",
-    "image_url": null,
-    "squad": "sevens_w",
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "jrfu_sevens_w_485044",
-    "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485044",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Honoka TSUTSUMI",
-    "name_ja": "堤ほの花",
-    "name_kana": null,
-    "slug": "honoka-tsutsumi-485044",
-    "position": null,
-    "team_id": null,
-    "league": "sevens-national",
-    "height_cm": 154,
-    "weight_kg": 56,
-    "birthdate": "1997-06-19",
-    "nationality": [
-      "JP"
-    ],
-    "caps": null,
-    "league_caps": null,
-    "career": [],
     "season_stats": null,
     "education": [
       {
         "school_id": null,
-        "name_raw": "日本体育大学ラグビー部女子",
+        "name_raw": "佐賀工業高校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510773",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
+      },
+      {
+        "school_id": null,
+        "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485044",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510773",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
       }
     ],
-    "instagram": "https://www.instagram.com/hono.0619r/",
+    "instagram": "https://www.instagram.com/t.shotaro0322/",
     "image_url": null,
-    "squad": "sevens_w",
+    "squad": "sevens_m",
     "is_featured": false,
     "is_minor": false,
     "merged_from": []
   },
   {
-    "id": "jrfu_sevens_w_485045",
+    "id": "jrfu_sevens_m_510774",
     "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485045",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Hana NAGATA",
-    "name_ja": "永田花菜",
+    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510774",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Riku TOKITO",
+    "name_ja": "時任凜空",
     "name_kana": null,
-    "slug": "hana-nagata-485045",
+    "slug": "riku-tokito-510774",
     "position": null,
     "team_id": null,
     "league": "sevens-national",
-    "height_cm": 168,
-    "weight_kg": 60,
-    "birthdate": "2000-05-19",
+    "height_cm": 184,
+    "weight_kg": 86,
+    "birthdate": "2003-07-10",
     "nationality": [
       "JP"
     ],
@@ -985,36 +399,36 @@
     "league_caps": null,
     "career": [
       {
-        "team": "ナナイロ プリズム福岡",
+        "team": "東芝ブレイブルーパス東京",
         "from": null,
         "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485045"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510774"
       }
     ],
     "season_stats": null,
     "education": [],
-    "instagram": "https://www.instagram.com/hana___0519/",
+    "instagram": "https://www.instagram.com/710184_/",
     "image_url": null,
-    "squad": "sevens_w",
+    "squad": "sevens_m",
     "is_featured": false,
     "is_minor": false,
     "merged_from": []
   },
   {
-    "id": "jrfu_sevens_w_485046",
+    "id": "jrfu_sevens_m_510775",
     "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485046",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Yume HIRANO",
-    "name_ja": "平野優芽",
+    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510775",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Takemichi NAKANO",
+    "name_ja": "中野剛通",
     "name_kana": null,
-    "slug": "yume-hirano-485046",
+    "slug": "takemichi-nakano-510775",
     "position": null,
     "team_id": null,
     "league": "sevens-national",
-    "height_cm": 161,
-    "weight_kg": 62,
-    "birthdate": "2000-03-15",
+    "height_cm": 186,
+    "weight_kg": 96,
+    "birthdate": "1996-12-18",
     "nationality": [
       "JP"
     ],
@@ -1022,36 +436,53 @@
     "league_caps": null,
     "career": [
       {
-        "team": "ながとブルーエンジェルス",
+        "team": "(公財)日本ラグビーフットボール協会 / トヨタヴェルブリッツ",
         "from": null,
         "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485046"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510775"
       }
     ],
     "season_stats": null,
-    "education": [],
-    "instagram": "https://www.instagram.com/rug_yume/",
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "天理高校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510775",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
+      },
+      {
+        "school_id": null,
+        "name_raw": "日本体育大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510775",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
+      }
+    ],
+    "instagram": "https://www.instagram.com/1218take12/",
     "image_url": null,
-    "squad": "sevens_w",
+    "squad": "sevens_m",
     "is_featured": false,
     "is_minor": false,
     "merged_from": []
   },
   {
-    "id": "jrfu_sevens_w_485049",
+    "id": "jrfu_sevens_m_510776",
     "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485049",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Sakurako YAZAKI",
-    "name_ja": "矢崎桜子",
+    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510776",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Daisuke NISHIKAWA",
+    "name_ja": "西川大輔",
     "name_kana": null,
-    "slug": "sakurako-yazaki-485049",
+    "slug": "daisuke-nishikawa-510776",
     "position": null,
     "team_id": null,
     "league": "sevens-national",
-    "height_cm": 159,
-    "weight_kg": 59,
-    "birthdate": "2004-01-19",
+    "height_cm": 184,
+    "weight_kg": 90,
+    "birthdate": "1997-08-24",
     "nationality": [
       "JP"
     ],
@@ -1059,36 +490,45 @@
     "league_caps": null,
     "career": [
       {
-        "team": "横河武蔵野Artemi-Stars",
+        "team": "リコーブラックラムズ東京",
         "from": null,
         "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485049"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510776"
       }
     ],
     "season_stats": null,
-    "education": [],
-    "instagram": "https://www.instagram.com/rako_119/",
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "豊明高校（愛知県）→中京大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510776",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
+      }
+    ],
+    "instagram": null,
     "image_url": null,
-    "squad": "sevens_w",
+    "squad": "sevens_m",
     "is_featured": false,
     "is_minor": false,
     "merged_from": []
   },
   {
-    "id": "jrfu_sevens_w_485051",
+    "id": "jrfu_sevens_m_510777",
     "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485051",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Mayu YOSHINO",
-    "name_ja": "吉野舞祐",
+    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510777",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Kouki HATTORI",
+    "name_ja": "服部航大",
     "name_kana": null,
-    "slug": "mayu-yoshino-485051",
+    "slug": "kouki-hattori-510777",
     "position": null,
     "team_id": null,
     "league": "sevens-national",
-    "height_cm": 160,
-    "weight_kg": 60,
-    "birthdate": "2001-06-23",
+    "height_cm": 177,
+    "weight_kg": 100,
+    "birthdate": "2000-01-16",
     "nationality": [
       "JP"
     ],
@@ -1096,30 +536,155 @@
     "league_caps": null,
     "career": [
       {
-        "team": "ナナイロ プリズム福岡",
+        "team": "三菱重工相模原ダイナボアーズ",
         "from": null,
         "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/485051"
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510777"
       }
     ],
     "season_stats": null,
-    "education": [],
-    "instagram": "https://www.instagram.com/yoshino13623/",
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "天理高校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510777",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
+      },
+      {
+        "school_id": null,
+        "name_raw": "天理大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510777",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
+      }
+    ],
+    "instagram": null,
     "image_url": null,
-    "squad": "sevens_w",
+    "squad": "sevens_m",
     "is_featured": false,
     "is_minor": false,
     "merged_from": []
   },
   {
-    "id": "jrfu_sevens_w_486440",
+    "id": "jrfu_sevens_m_510778",
     "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/486440",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
+    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510778",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Koki MIYASAKA",
+    "name_ja": "宮坂航生",
+    "name_kana": null,
+    "slug": "koki-miyasaka-510778",
+    "position": null,
+    "team_id": null,
+    "league": "sevens-national",
+    "height_cm": 172,
+    "weight_kg": 75,
+    "birthdate": "2002-03-01",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [
+      {
+        "team": "栃木ホンダヒート",
+        "from": null,
+        "to": null,
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510778"
+      }
+    ],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "中部大学春日丘高等学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510778",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
+      },
+      {
+        "school_id": null,
+        "name_raw": "専修大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510778",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
+      }
+    ],
+    "instagram": "https://www.instagram.com/__koki___m___/?hl=ja",
+    "image_url": null,
+    "squad": "sevens_m",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_sevens_m_510779",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510779",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Taiki YAMAGUCHI",
+    "name_ja": "山口泰輝",
+    "name_kana": null,
+    "slug": "taiki-yamaguchi-510779",
+    "position": null,
+    "team_id": null,
+    "league": "sevens-national",
+    "height_cm": 177,
+    "weight_kg": 92,
+    "birthdate": "2001-11-17",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [
+      {
+        "team": "レッドハリケーンズ大阪",
+        "from": null,
+        "to": null,
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510779"
+      }
+    ],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "長崎北陽台高校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510779",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
+      },
+      {
+        "school_id": null,
+        "name_raw": "帝京大学",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/sevens/member/detail/510779",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
+      }
+    ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "sevens_m",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_sevens_w_510787",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510787",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
     "name_en": "Wakana AKITA",
     "name_ja": "秋田若菜",
     "name_kana": null,
-    "slug": "wakana-akita-486440",
+    "slug": "wakana-akita-510787",
     "position": null,
     "team_id": null,
     "league": "sevens-national",
@@ -1136,7 +701,7 @@
         "team": "自衛隊体育学校PTS",
         "from": null,
         "to": null,
-        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/486440"
+        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510787"
       }
     ],
     "season_stats": null,
@@ -1149,38 +714,73 @@
     "merged_from": []
   },
   {
-    "id": "jrfu_sevens_w_493637",
+    "id": "jrfu_sevens_w_510788",
     "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/493637",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Hazuki OUCHIDA",
-    "name_ja": "大内田葉月",
+    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510788",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Hanako UTSUMI",
+    "name_ja": "内海春菜子",
     "name_kana": null,
-    "slug": "hazuki-ouchida-493637",
+    "slug": "hanako-utsumi-510788",
+    "position": null,
+    "team_id": null,
+    "league": "sevens-national",
+    "height_cm": 160,
+    "weight_kg": 60,
+    "birthdate": "2000-03-16",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [
+      {
+        "team": "YOKOHAMA TKM",
+        "from": null,
+        "to": null,
+        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510788"
+      }
+    ],
+    "season_stats": null,
+    "education": [],
+    "instagram": "https://www.instagram.com/__hanako316/",
+    "image_url": null,
+    "squad": "sevens_w",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_sevens_w_510789",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510789",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Mei OHTANI",
+    "name_ja": "大谷芽生",
+    "name_kana": null,
+    "slug": "mei-ohtani-510789",
     "position": null,
     "team_id": null,
     "league": "sevens-national",
     "height_cm": 162,
-    "weight_kg": 64,
-    "birthdate": "2006-07-03",
+    "weight_kg": 61,
+    "birthdate": "2000-05-28",
     "nationality": [
       "JP"
     ],
     "caps": null,
     "league_caps": null,
-    "career": [],
-    "season_stats": null,
-    "education": [
+    "career": [
       {
-        "school_id": null,
-        "name_raw": "日本体育大学ラグビー部女子",
-        "type": "univ",
-        "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/493637",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
+        "team": "ながとブルーエンジェルス",
+        "from": null,
+        "to": null,
+        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510789"
       }
     ],
-    "instagram": null,
+    "season_stats": null,
+    "education": [],
+    "instagram": "https://www.instagram.com/mei_196/",
     "image_url": null,
     "squad": "sevens_w",
     "is_featured": false,
@@ -1188,37 +788,35 @@
     "merged_from": []
   },
   {
-    "id": "jrfu_sevens_w_493647",
+    "id": "jrfu_sevens_w_510790",
     "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/493647",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
-    "name_en": "Minako TANIYAMA",
-    "name_ja": "谷山三菜子",
+    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510790",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Seika OHASHI",
+    "name_ja": "大橋聖香",
     "name_kana": null,
-    "slug": "minako-taniyama-493647",
+    "slug": "seika-ohashi-510790",
     "position": null,
     "team_id": null,
     "league": "sevens-national",
-    "height_cm": 163,
-    "weight_kg": 60,
-    "birthdate": "2005-04-03",
+    "height_cm": 160,
+    "weight_kg": 69,
+    "birthdate": "2004-05-22",
     "nationality": [
       "JP"
     ],
     "caps": null,
     "league_caps": null,
-    "career": [],
-    "season_stats": null,
-    "education": [
+    "career": [
       {
-        "school_id": null,
-        "name_raw": "日本体育大学ラグビー部女子",
-        "type": "univ",
-        "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/493647",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
+        "team": "ナナイロ プリズム福岡",
+        "from": null,
+        "to": null,
+        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510790"
       }
     ],
+    "season_stats": null,
+    "education": [],
     "instagram": null,
     "image_url": null,
     "squad": "sevens_w",
@@ -1227,14 +825,14 @@
     "merged_from": []
   },
   {
-    "id": "jrfu_sevens_w_496067",
+    "id": "jrfu_sevens_w_510791",
     "source": "rugby-japan.jp",
-    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/496067",
-    "scraped_at": "2026-08-26T09:15:46+09:00",
+    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510791",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
     "name_en": "Shiori OKYUDO",
     "name_ja": "尾久土栞",
     "name_kana": null,
-    "slug": "shiori-okyudo-496067",
+    "slug": "shiori-okyudo-510791",
     "position": null,
     "team_id": null,
     "league": "sevens-national",
@@ -1254,10 +852,310 @@
         "name_raw": "早稲田大学ラグビー蹴球部女子部",
         "type": "univ",
         "grad_year": null,
-        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/496067",
-        "scraped_at": "2026-08-26T09:15:46+09:00"
+        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510791",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
       }
     ],
+    "instagram": null,
+    "image_url": null,
+    "squad": "sevens_w",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_sevens_w_510792",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510792",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Marin KAJIKI",
+    "name_ja": "梶木真凜",
+    "name_kana": null,
+    "slug": "marin-kajiki-510792",
+    "position": null,
+    "team_id": null,
+    "league": "sevens-national",
+    "height_cm": 164,
+    "weight_kg": 68,
+    "birthdate": "1999-09-20",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [
+      {
+        "team": "自衛隊体育学校PTS",
+        "from": null,
+        "to": null,
+        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510792"
+      }
+    ],
+    "season_stats": null,
+    "education": [],
+    "instagram": "https://www.instagram.com/maguro920/",
+    "image_url": null,
+    "squad": "sevens_w",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_sevens_w_510793",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510793",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Miori KURODA",
+    "name_ja": "黒田美織",
+    "name_kana": null,
+    "slug": "miori-kuroda-510793",
+    "position": null,
+    "team_id": null,
+    "league": "sevens-national",
+    "height_cm": 157,
+    "weight_kg": 58,
+    "birthdate": "2000-04-25",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [
+      {
+        "team": "自衛隊体育学校PTS",
+        "from": null,
+        "to": null,
+        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510793"
+      }
+    ],
+    "season_stats": null,
+    "education": [],
+    "instagram": null,
+    "image_url": null,
+    "squad": "sevens_w",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_sevens_w_510794",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510794",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Michiyo SUDA",
+    "name_ja": "須田倫代",
+    "name_kana": null,
+    "slug": "michiyo-suda-510794",
+    "position": null,
+    "team_id": null,
+    "league": "sevens-national",
+    "height_cm": 157,
+    "weight_kg": 60,
+    "birthdate": "2003-02-25",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [
+      {
+        "team": "Mie Women's Rugby Football Club PEARLS",
+        "from": null,
+        "to": null,
+        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510794"
+      }
+    ],
+    "season_stats": null,
+    "education": [],
+    "instagram": "https://www.instagram.com/michiyo2925/",
+    "image_url": null,
+    "squad": "sevens_w",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_sevens_w_510795",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510795",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Honoka TSUTSUMI",
+    "name_ja": "堤ほの花",
+    "name_kana": null,
+    "slug": "honoka-tsutsumi-510795",
+    "position": null,
+    "team_id": null,
+    "league": "sevens-national",
+    "height_cm": 154,
+    "weight_kg": 56,
+    "birthdate": "1997-06-19",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "日本体育大学ラグビー部女子",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510795",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
+      }
+    ],
+    "instagram": "https://www.instagram.com/hono.0619r/",
+    "image_url": null,
+    "squad": "sevens_w",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_sevens_w_510796",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510796",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Yume HIRANO",
+    "name_ja": "平野優芽",
+    "name_kana": null,
+    "slug": "yume-hirano-510796",
+    "position": null,
+    "team_id": null,
+    "league": "sevens-national",
+    "height_cm": 161,
+    "weight_kg": 62,
+    "birthdate": "2000-03-15",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [
+      {
+        "team": "ながとブルーエンジェルス",
+        "from": null,
+        "to": null,
+        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510796"
+      }
+    ],
+    "season_stats": null,
+    "education": [],
+    "instagram": "https://www.instagram.com/rug_yume/",
+    "image_url": null,
+    "squad": "sevens_w",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_sevens_w_510797",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510797",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Himawari MATSUDA",
+    "name_ja": "松田向日葵",
+    "name_kana": null,
+    "slug": "himawari-matsuda-510797",
+    "position": null,
+    "team_id": null,
+    "league": "sevens-national",
+    "height_cm": 161,
+    "weight_kg": 56,
+    "birthdate": "2004-08-02",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
+    "season_stats": null,
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "追手門学院大学女子ラグビー部 VENUS",
+        "type": "univ",
+        "grad_year": null,
+        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510797",
+        "scraped_at": "2026-08-31T10:55:33+09:00"
+      }
+    ],
+    "instagram": "https://www.instagram.com/himawari_matsuda/",
+    "image_url": null,
+    "squad": "sevens_w",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_sevens_w_510798",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510798",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Rinka MATSUDA",
+    "name_ja": "松田凜日",
+    "name_kana": null,
+    "slug": "rinka-matsuda-510798",
+    "position": null,
+    "team_id": null,
+    "league": "sevens-national",
+    "height_cm": 171,
+    "weight_kg": 77,
+    "birthdate": "2001-12-05",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [
+      {
+        "team": "東京山九フェニックスラグビークラブ",
+        "from": null,
+        "to": null,
+        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510798"
+      }
+    ],
+    "season_stats": null,
+    "education": [],
+    "instagram": "https://www.instagram.com/rinka7328?utm_source=ig_web_button_share_sheet&igsi=ZDNlZDc0MzIxNw==",
+    "image_url": null,
+    "squad": "sevens_w",
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "jrfu_sevens_w_510799",
+    "source": "rugby-japan.jp",
+    "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510799",
+    "scraped_at": "2026-08-31T10:55:33+09:00",
+    "name_en": "Misaki MATSUMURA",
+    "name_ja": "松村美咲",
+    "name_kana": null,
+    "slug": "misaki-matsumura-510799",
+    "position": null,
+    "team_id": null,
+    "league": "sevens-national",
+    "height_cm": 169,
+    "weight_kg": 68,
+    "birthdate": "2005-03-06",
+    "nationality": [
+      "JP"
+    ],
+    "caps": null,
+    "league_caps": null,
+    "career": [
+      {
+        "team": "東京山九フェニックスラグビークラブ",
+        "from": null,
+        "to": null,
+        "source_url": "https://www.rugby-japan.jp/sevens-womens/member/detail/510799"
+      }
+    ],
+    "season_stats": null,
+    "education": [],
     "instagram": null,
     "image_url": null,
     "squad": "sevens_w",

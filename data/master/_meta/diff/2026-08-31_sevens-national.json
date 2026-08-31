@@ -1,0 +1,336 @@
+{
+  "league": "sevens-national",
+  "signings": [
+    {
+      "id": "jrfu_sevens_m_510767",
+      "name_en": "Naoya OGITA",
+      "name_ja": "荻田直弥",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_510768",
+      "name_en": "Josua KEREVI",
+      "name_ja": "ケレビジョシュア",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_510769",
+      "name_en": "Yoshiyuki KOGA",
+      "name_ja": "古賀由教",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_510770",
+      "name_en": "Ryodai SHIRAKUNI",
+      "name_ja": "白國亮大",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_510771",
+      "name_en": "Toma SHIWACHI",
+      "name_ja": "志和池豊馬",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_510772",
+      "name_en": "Tomu TAKAMOTO",
+      "name_ja": "高本とむ",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_510773",
+      "name_en": "Shotaro TSUOKA",
+      "name_ja": "津岡翔太郎",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_510774",
+      "name_en": "Riku TOKITO",
+      "name_ja": "時任凜空",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_510775",
+      "name_en": "Takemichi NAKANO",
+      "name_ja": "中野剛通",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_510776",
+      "name_en": "Daisuke NISHIKAWA",
+      "name_ja": "西川大輔",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_510777",
+      "name_en": "Kouki HATTORI",
+      "name_ja": "服部航大",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_510778",
+      "name_en": "Koki MIYASAKA",
+      "name_ja": "宮坂航生",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_510779",
+      "name_en": "Taiki YAMAGUCHI",
+      "name_ja": "山口泰輝",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_510787",
+      "name_en": "Wakana AKITA",
+      "name_ja": "秋田若菜",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_510788",
+      "name_en": "Hanako UTSUMI",
+      "name_ja": "内海春菜子",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_510789",
+      "name_en": "Mei OHTANI",
+      "name_ja": "大谷芽生",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_510790",
+      "name_en": "Seika OHASHI",
+      "name_ja": "大橋聖香",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_510791",
+      "name_en": "Shiori OKYUDO",
+      "name_ja": "尾久土栞",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_510792",
+      "name_en": "Marin KAJIKI",
+      "name_ja": "梶木真凜",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_510793",
+      "name_en": "Miori KURODA",
+      "name_ja": "黒田美織",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_510794",
+      "name_en": "Michiyo SUDA",
+      "name_ja": "須田倫代",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_510795",
+      "name_en": "Honoka TSUTSUMI",
+      "name_ja": "堤ほの花",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_510796",
+      "name_en": "Yume HIRANO",
+      "name_ja": "平野優芽",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_510797",
+      "name_en": "Himawari MATSUDA",
+      "name_ja": "松田向日葵",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_510798",
+      "name_en": "Rinka MATSUDA",
+      "name_ja": "松田凜日",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_510799",
+      "name_en": "Misaki MATSUMURA",
+      "name_ja": "松村美咲",
+      "team_id": null
+    }
+  ],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [],
+  "pending_departures": [
+    {
+      "id": "jrfu_sevens_m_481724",
+      "name_en": "Ren OUCHI",
+      "name_ja": "大内錬",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_481725",
+      "name_en": "Naoya OGITA",
+      "name_ja": "荻田直弥",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_481726",
+      "name_en": "Haruhiko UEMURA",
+      "name_ja": "植村陽彦",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_481727",
+      "name_en": "Jone NABETELEVU",
+      "name_ja": "ジョネ・ナベテレヴ",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_481728",
+      "name_en": "Ryodai SHIRAKUNI",
+      "name_ja": "白國亮大",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_481729",
+      "name_en": "Toma SHIWACHI",
+      "name_ja": "志和池豊馬",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_481730",
+      "name_en": "Shotaro TSUOKA",
+      "name_ja": "津岡翔太郎",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_481731",
+      "name_en": "Yoshiyuki KOGA",
+      "name_ja": "古賀由教",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_481732",
+      "name_en": "Ryosei TAKAI",
+      "name_ja": "高井良成",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_481733",
+      "name_en": "Takemichi NAKANO",
+      "name_ja": "中野剛通",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_481734",
+      "name_en": "Koki MIYASAKA",
+      "name_ja": "宮坂航生",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_481735",
+      "name_en": "Jisu LEE",
+      "name_ja": "李智寿",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_m_481736",
+      "name_en": "Tomu TAKAMOTO",
+      "name_ja": "高本とむ",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_485038",
+      "name_en": "Hanako UTSUMI",
+      "name_ja": "内海春菜子",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_485039",
+      "name_en": "Natsuki OUCHIDA",
+      "name_ja": "大内田夏月",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_485040",
+      "name_en": "Mei OHTANI",
+      "name_ja": "大谷芽生",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_485041",
+      "name_en": "Marin KAJIKI",
+      "name_ja": "梶木真凜",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_485042",
+      "name_en": "Chiaki SAEGUSA",
+      "name_ja": "三枝千晃",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_485043",
+      "name_en": "Michiyo SUDA",
+      "name_ja": "須田倫代",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_485044",
+      "name_en": "Honoka TSUTSUMI",
+      "name_ja": "堤ほの花",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_485045",
+      "name_en": "Hana NAGATA",
+      "name_ja": "永田花菜",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_485046",
+      "name_en": "Yume HIRANO",
+      "name_ja": "平野優芽",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_485049",
+      "name_en": "Sakurako YAZAKI",
+      "name_ja": "矢崎桜子",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_485051",
+      "name_en": "Mayu YOSHINO",
+      "name_ja": "吉野舞祐",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_486440",
+      "name_en": "Wakana AKITA",
+      "name_ja": "秋田若菜",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_493637",
+      "name_en": "Hazuki OUCHIDA",
+      "name_ja": "大内田葉月",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_493647",
+      "name_en": "Minako TANIYAMA",
+      "name_ja": "谷山三菜子",
+      "team_id": null
+    },
+    {
+      "id": "jrfu_sevens_w_496067",
+      "name_en": "Shiori OKYUDO",
+      "name_ja": "尾久土栞",
+      "team_id": null
+    }
+  ],
+  "newly_finished_rounds": []
+}

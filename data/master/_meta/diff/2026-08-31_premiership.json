@@ -1,0 +1,48 @@
+{
+  "league": "premiership",
+  "signings": [
+    {
+      "id": "ar_hendro-hattingh",
+      "name_en": "Hendro HATTINGH",
+      "name_ja": null,
+      "team_id": "sale"
+    },
+    {
+      "id": "ar_nico-jones",
+      "name_en": "Nico JONES",
+      "name_ja": null,
+      "team_id": "sale"
+    }
+  ],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [
+    {
+      "id": "ar_fergus-burke",
+      "name_en": "Fergus BURKE",
+      "name_ja": null,
+      "team": "Scotland",
+      "count": 7
+    }
+  ],
+  "caps_updates": [
+    {
+      "id": "ar_santiago-carreras",
+      "name_en": "Santiago CARRERAS",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 85,
+      "to_count": 88
+    },
+    {
+      "id": "ar_thomas-du-toit",
+      "name_en": "Thomas DU TOIT",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 23,
+      "to_count": 28
+    }
+  ],
+  "pending_departures": [],
+  "newly_finished_rounds": []
+}

@@ -1,0 +1,96 @@
+{
+  "league": "super-rugby",
+  "signings": [
+    {
+      "id": "ar_bailey-trew",
+      "name_en": "Bailey TREW",
+      "name_ja": null,
+      "team_id": "brumbies"
+    }
+  ],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [],
+  "pending_departures": [
+    {
+      "id": "ar_aisake-vakasiuola",
+      "name_en": "Aisake VAKASIUOLA",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    {
+      "id": "ar_bradley-tocker",
+      "name_en": "Bradley TOCKER",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    {
+      "id": "ar_caleb-woodley",
+      "name_en": "Caleb WOODLEY",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_isaac-hutchinson",
+      "name_en": "Isaac HUTCHINSON",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    {
+      "id": "ar_israel-leota",
+      "name_en": "Israel LEOTA",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_jackson-hughan",
+      "name_en": "Jackson HUGHAN",
+      "name_ja": null,
+      "team_id": "highlanders"
+    },
+    {
+      "id": "ar_jake-frost",
+      "name_en": "Jake FROST",
+      "name_ja": null,
+      "team_id": "crusaders"
+    },
+    {
+      "id": "ar_james-cameron",
+      "name_en": "James CAMERON",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_logan-platt",
+      "name_en": "Logan PLATT",
+      "name_ja": null,
+      "team_id": "blues"
+    },
+    {
+      "id": "ar_richie-asiata",
+      "name_en": "Richie ASIATA",
+      "name_ja": null,
+      "team_id": "reds"
+    },
+    {
+      "id": "ar_sam-tuitupou-2005",
+      "name_en": "Sam TUITUPOU",
+      "name_ja": null,
+      "team_id": "moana-pasifika"
+    },
+    {
+      "id": "ar_tepaea-cook-savage",
+      "name_en": "Tepaea COOK-SAVAGE",
+      "name_ja": null,
+      "team_id": "chiefs"
+    },
+    {
+      "id": "ar_tj-talaileva",
+      "name_en": "TJ TALAILEVA",
+      "name_ja": null,
+      "team_id": "waratahs"
+    }
+  ],
+  "newly_finished_rounds": []
+}

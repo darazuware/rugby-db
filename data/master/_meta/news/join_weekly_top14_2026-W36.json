@@ -1,0 +1,368 @@
+[
+  {
+    "id": "ar_alfie-barbeary",
+    "name_en": "Alfie BARBEARY",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_alois-montavy",
+    "name_en": "Aloïs MONTAVY",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_andrea-foiama-crespo",
+    "name_en": "Andrea FOIAMA-CRESPO",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_antoine-deliance",
+    "name_en": "Antoine DÉLIANCE",
+    "name_ja": null,
+    "team_id": "lyon"
+  },
+  {
+    "id": "ar_arthur-green",
+    "name_en": "Arthur GREEN",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_axel-baas",
+    "name_en": "Axel BAAS",
+    "name_ja": null,
+    "team_id": "lyon"
+  },
+  {
+    "id": "ar_bertrand-mistri",
+    "name_en": "Bertrand MISTRI",
+    "name_ja": null,
+    "team_id": "montpellier"
+  },
+  {
+    "id": "ar_chris-cloete",
+    "name_en": "Chris CLOETE",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_chuan-un",
+    "name_en": "Chuan UN",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_clovis-le-bail",
+    "name_en": "Clovis LE BAIL",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
+    "id": "ar_come-nitharum",
+    "name_en": "Côme NITHARUM",
+    "name_ja": null,
+    "team_id": "racing-92"
+  },
+  {
+    "id": "ar_connor-treacey",
+    "name_en": "Connor TREACEY",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_davit-arobelidze",
+    "name_en": "Davit AROBELIDZE",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
+    "id": "ar_dimitry-lelong",
+    "name_en": "Dimitry LELONG",
+    "name_ja": null,
+    "team_id": "lyon"
+  },
+  {
+    "id": "ar_elia-masi",
+    "name_en": "Elia MASI",
+    "name_ja": null,
+    "team_id": "racing-92"
+  },
+  {
+    "id": "ar_enzo-defillon",
+    "name_en": "Enzo DEFILLON",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_enzo-pawliwec",
+    "name_en": "Enzo PAWLIWEC",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_ephise-navecth",
+    "name_en": "Ephise NAVECTH",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_ethan-staddon",
+    "name_en": "Ethan STADDON",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_ewan-richards",
+    "name_en": "Ewan RICHARDS",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_fergus-lee-warner",
+    "name_en": "Fergus LEE-WARNER",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_gaspard-lievens",
+    "name_en": "Gaspard LIEVENS",
+    "name_ja": null,
+    "team_id": "racing-92"
+  },
+  {
+    "id": "ar_george-timmins",
+    "name_en": "George TIMMINS",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_giovanny-tafili",
+    "name_en": "Giovanny TAFILI",
+    "name_ja": null,
+    "team_id": "lyon"
+  },
+  {
+    "id": "ar_gj-van-velze",
+    "name_en": "GJ VAN VELZE",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_harley-reihana",
+    "name_en": "Harley REIHANA",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_hendro-hattingh",
+    "name_en": "Hendro HATTINGH",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_iban-dubertrand",
+    "name_en": "Iban DUBERTRAND",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_jerry-suveinaika",
+    "name_en": "Jerry SUVEINAIKA",
+    "name_ja": null,
+    "team_id": "lyon"
+  },
+  {
+    "id": "ar_julien-fournier",
+    "name_en": "Julien FOURNIER",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_luka-keletaona",
+    "name_en": "Luka KELETAONA",
+    "name_ja": null,
+    "team_id": "toulon"
+  },
+  {
+    "id": "ar_mael-berger",
+    "name_en": "Maël BERGER",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_malakai-hafoka-toca",
+    "name_en": "Malakai HAFOKA TOCA",
+    "name_ja": null,
+    "team_id": "lyon"
+  },
+  {
+    "id": "ar_manuel-leindekar",
+    "name_en": "Manuel LEINDEKAR",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_manus-van-leeuwen",
+    "name_en": "Manus VAN LEEUWEN",
+    "name_ja": null,
+    "team_id": "bayonne"
+  },
+  {
+    "id": "ar_marius-baron",
+    "name_en": "Marius BARON",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_mathis-de-saint-etienne",
+    "name_en": "Mathis DE SAINT-ÉTIENNE",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_mikheili-shioshvili",
+    "name_en": "Mikheili SHIOSHVILI",
+    "name_ja": null,
+    "team_id": "toulon"
+  },
+  {
+    "id": "ar_muhammed-eren-zengin",
+    "name_en": "Muhammed Eren ZENGIN",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_natan-poigneau",
+    "name_en": "Natan POIGNEAU",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_nico-jones",
+    "name_en": "Nico JONES",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_noan-braouet",
+    "name_en": "Noan BRAOUET",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_noann-lavail",
+    "name_en": "Noann LAVAIL",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_nolhan-watat",
+    "name_en": "Nolhan WATAT",
+    "name_ja": null,
+    "team_id": "lyon"
+  },
+  {
+    "id": "ar_paul-gaspard",
+    "name_en": "Paul GASPARD",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_philippe-roudaut",
+    "name_en": "Philippe ROUDAUT",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
+    "id": "ar_pierre-chanel-tafili",
+    "name_en": "Pierre-Chanel TAFILI",
+    "name_ja": null,
+    "team_id": "lyon"
+  },
+  {
+    "id": "ar_pierre-emmanuel-fernandes",
+    "name_en": "Pierre-Emmanuel FERNANDES",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_robbie-combrinck",
+    "name_en": "Robbie COMBRINCK",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_samuel-jean-christophe",
+    "name_en": "Samuel JEAN-CHRISTOPHE",
+    "name_ja": null,
+    "team_id": "toulon"
+  },
+  {
+    "id": "ar_samuela-uluinaceva",
+    "name_en": "Sam ULUINACEVA",
+    "name_ja": null,
+    "team_id": "castres"
+  },
+  {
+    "id": "ar_scott-barre",
+    "name_en": "Scott BARRE",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_sione-ahio",
+    "name_en": "Sione AHIO",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_sione-lamelangi",
+    "name_en": "Sione LAMELANGI",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_soulaimane-camara",
+    "name_en": "Soulaimane CAMARA",
+    "name_ja": null,
+    "team_id": "lyon"
+  },
+  {
+    "id": "ar_tana-keletaona",
+    "name_en": "Tana KELETAONA",
+    "name_ja": null,
+    "team_id": "toulon"
+  },
+  {
+    "id": "ar_temanatua-boichot",
+    "name_en": "Temanatua BOICHOT",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_tom-savinel",
+    "name_en": "Tom SAVINEL",
+    "name_ja": null,
+    "team_id": "clermont"
+  },
+  {
+    "id": "ar_txomin-ithurbide",
+    "name_en": "Txomin ITHURBIDE",
+    "name_ja": null,
+    "team_id": "castres"
+  },
+  {
+    "id": "ar_valentin-epis-kaczmarek",
+    "name_en": "Valentin EPIS-KACZMAREK",
+    "name_ja": null,
+    "team_id": "vannes"
+  },
+  {
+    "id": "ar_yannis-chaumeil",
+    "name_en": "Yannis CHAUMEIL",
+    "name_ja": null,
+    "team_id": "clermont"
+  }
+]

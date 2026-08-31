@@ -1,0 +1,521 @@
+{
+  "league": "national",
+  "signings": [
+    {
+      "id": "ar_isaac-aedo-kailea",
+      "name_en": "Isaac AEDO KAILEA",
+      "name_ja": null,
+      "team_id": "australia"
+    },
+    {
+      "id": "ar_nicolas-roger-farias",
+      "name_en": "Nicolás ROGER FARIAS",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "ar_rodrigo-martinez",
+      "name_en": "Rodrigo MARTINEZ",
+      "name_ja": null,
+      "team_id": "argentina"
+    },
+    {
+      "id": "jrfu_national_510734",
+      "name_en": "Takumi INABA",
+      "name_ja": "稲場巧",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510735",
+      "name_en": "Inoke BURUA",
+      "name_ja": "イノケ・ブルア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510750",
+      "name_en": "Shin TAKEUCHI",
+      "name_ja": "武内慎",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510756",
+      "name_en": "Kanato HIRANO",
+      "name_ja": "平野叶翔",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510764",
+      "name_en": "Ruan BOTHA",
+      "name_ja": "ルアン・ボタ",
+      "team_id": "japan"
+    }
+  ],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [
+    {
+      "id": "ar_agustin-moyano",
+      "name_en": "Agustín MOYANO",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 14,
+      "to_count": 16
+    },
+    {
+      "id": "ar_alberto-carmona",
+      "name_en": "Alberto CARMONA",
+      "name_ja": null,
+      "team": "Spain",
+      "from_count": 14,
+      "to_count": 16
+    },
+    {
+      "id": "ar_allan-alaalatoa",
+      "name_en": "Allan ALAALATOA",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 70,
+      "to_count": 75
+    },
+    {
+      "id": "ar_andrei-mahu",
+      "name_en": "Andreï MAHU",
+      "name_ja": null,
+      "team": "Romania",
+      "from_count": 17,
+      "to_count": 25
+    },
+    {
+      "id": "ar_anton-lienert-brown",
+      "name_en": "Anton LIENERT-BROWN",
+      "name_ja": null,
+      "team": "New Zealand",
+      "from_count": 84,
+      "to_count": 134
+    },
+    {
+      "id": "ar_carter-gordon",
+      "name_en": "Carter GORDON",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 13,
+      "to_count": 18
+    },
+    {
+      "id": "ar_charlie-cale",
+      "name_en": "Charlie CALE",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 4,
+      "to_count": 5
+    },
+    {
+      "id": "ar_damian-willemse",
+      "name_en": "Damian WILLEMSE",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 65,
+      "to_count": 72
+    },
+    {
+      "id": "ar_ekain-imaz",
+      "name_en": "Ekain IMAZ",
+      "name_ja": null,
+      "team": "Spain",
+      "from_count": 27,
+      "to_count": 31
+    },
+    {
+      "id": "ar_ethan-hooker",
+      "name_en": "Ethan HOOKER",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 13,
+      "to_count": 14
+    },
+    {
+      "id": "ar_fabian-holland",
+      "name_en": "Fabian HOLLAND",
+      "name_ja": null,
+      "team": "New Zealand",
+      "from_count": 14,
+      "to_count": 17
+    },
+    {
+      "id": "ar_fletcher-newell",
+      "name_en": "Fletcher NEWELL",
+      "name_ja": null,
+      "team": "New Zealand",
+      "from_count": 36,
+      "to_count": 47
+    },
+    {
+      "id": "ar_francisco-moreno",
+      "name_en": "Francisco MORENO",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 1,
+      "to_count": 3
+    },
+    {
+      "id": "ar_george-bower",
+      "name_en": "George BOWER",
+      "name_ja": null,
+      "team": "New Zealand",
+      "from_count": 19,
+      "to_count": 24
+    },
+    {
+      "id": "ar_gonzalo-lopez",
+      "name_en": "Gonzalo LOPEZ BONTEMPO",
+      "name_ja": null,
+      "team": "Spain",
+      "from_count": 23,
+      "to_count": 25
+    },
+    {
+      "id": "ar_harry-potter",
+      "name_en": "Harry POTTER",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 17,
+      "to_count": 22
+    },
+    {
+      "id": "ar_hugo-pirlet",
+      "name_en": "Hugo PIRLET",
+      "name_ja": null,
+      "team": "Spain",
+      "from_count": 12,
+      "to_count": 15
+    },
+    {
+      "id": "ar_ilia-spanderashvili",
+      "name_en": "Ilia SPANDERASHVILI",
+      "name_ja": null,
+      "team": "Georgia",
+      "from_count": 23,
+      "to_count": 29
+    },
+    {
+      "id": "ar_isaac-henry",
+      "name_en": "Isaac HENRY",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 1,
+      "to_count": 4
+    },
+    {
+      "id": "ar_javier-eissmann",
+      "name_en": "Javier EISSMANN",
+      "name_ja": null,
+      "team": "Chile",
+      "from_count": 36,
+      "to_count": 38
+    },
+    {
+      "id": "ar_jeremy-williams",
+      "name_en": "Jeremy WILLIAMS",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 30,
+      "to_count": 32
+    },
+    {
+      "id": "ar_jesse-kriel",
+      "name_en": "Jesse KRIEL",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 120,
+      "to_count": 122
+    },
+    {
+      "id": "ar_konstantine-mikautadze",
+      "name_en": "Konstantine MIKAUTADZE",
+      "name_ja": null,
+      "team": "Georgia",
+      "from_count": 61,
+      "to_count": 83
+    },
+    {
+      "id": "ar_lucien-richardis",
+      "name_en": "Lucien RICHARDIS",
+      "name_ja": null,
+      "team": "Spain",
+      "from_count": 6,
+      "to_count": 8
+    },
+    {
+      "id": "ar_luka-begic",
+      "name_en": "Luka BEGIC",
+      "name_ja": null,
+      "team": "Portugal",
+      "from_count": 24,
+      "to_count": 32
+    },
+    {
+      "id": "ar_luka-nioradze",
+      "name_en": "Luka NIORADZE",
+      "name_ja": null,
+      "team": "Georgia",
+      "from_count": 15,
+      "to_count": 17
+    },
+    {
+      "id": "ar_luke-jacobson",
+      "name_en": "Luke JACOBSON",
+      "name_ja": null,
+      "team": "New Zealand",
+      "from_count": 23,
+      "to_count": 26
+    },
+    {
+      "id": "ar_mamuka-mstoiani",
+      "name_en": "Mamuka MSTOIANI",
+      "name_ja": null,
+      "team": "Georgia",
+      "from_count": 1,
+      "to_count": 3
+    },
+    {
+      "id": "ar_manaaki-boyle-tiatia",
+      "name_en": "Manaaki BOYLE-TIATIA",
+      "name_ja": null,
+      "team": "Samoa",
+      "from_count": 3,
+      "to_count": 4
+    },
+    {
+      "id": "ar_mario-pichardie",
+      "name_en": "Mario PICHARDIE",
+      "name_ja": null,
+      "team": "Spain",
+      "from_count": 23,
+      "to_count": 30
+    },
+    {
+      "id": "ar_massimo-de-lutiis",
+      "name_en": "Massimo DE LUTIIS",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 1,
+      "to_count": 3
+    },
+    {
+      "id": "ar_morne-van-den-berg",
+      "name_en": "Morné VAN DEN BERG",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 6,
+      "to_count": 13
+    },
+    {
+      "id": "ar_patrick-tuipulotu",
+      "name_en": "Patrick TUIPULOTU",
+      "name_ja": null,
+      "team": "New Zealand",
+      "from_count": 59,
+      "to_count": 68
+    },
+    {
+      "id": "ar_pita-anae-ah-sue",
+      "name_en": "Pita ANAE AH-SUE",
+      "name_ja": null,
+      "team": "Samoa",
+      "from_count": 4,
+      "to_count": 9
+    },
+    {
+      "id": "ar_quinn-tupaea",
+      "name_en": "Quinn TUPAEA",
+      "name_ja": null,
+      "team": "New Zealand",
+      "from_count": 28,
+      "to_count": 41
+    },
+    {
+      "id": "ar_raffaele-costa-storti",
+      "name_en": "Raffaele COSTA STORTI",
+      "name_ja": null,
+      "team": "Portugal",
+      "from_count": 25,
+      "to_count": 48
+    },
+    {
+      "id": "ar_ruben-love",
+      "name_en": "Ruben LOVE",
+      "name_ja": null,
+      "team": "New Zealand",
+      "from_count": 13,
+      "to_count": 15
+    },
+    {
+      "id": "ar_ryan-lonergan",
+      "name_en": "Ryan LONERGAN",
+      "name_ja": null,
+      "team": "Australia",
+      "from_count": 8,
+      "to_count": 14
+    },
+    {
+      "id": "ar_sacha-mngomezulu",
+      "name_en": "Sacha FEINBERG-MNGOMEZULU",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 30,
+      "to_count": 31
+    },
+    {
+      "id": "ar_samuel-marques",
+      "name_en": "Samuel MARQUÈS",
+      "name_ja": null,
+      "team": "Portugal",
+      "from_count": 19,
+      "to_count": 42
+    },
+    {
+      "id": "ar_santiago-carreras",
+      "name_en": "Santiago CARRERAS",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 85,
+      "to_count": 88
+    },
+    {
+      "id": "ar_simon-benitez-cruz",
+      "name_en": "Simón BENÍTEZ-CRUZ",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 14,
+      "to_count": 21
+    },
+    {
+      "id": "ar_simon-parker",
+      "name_en": "Simon PARKER",
+      "name_ja": null,
+      "team": "New Zealand",
+      "from_count": 10,
+      "to_count": 11
+    },
+    {
+      "id": "ar_tedo-abzhandadze",
+      "name_en": "Tedo ABZHANDADZE",
+      "name_ja": null,
+      "team": "Georgia",
+      "from_count": 36,
+      "to_count": 92
+    },
+    {
+      "id": "ar_tijde-visser",
+      "name_en": "Tijde VISSER",
+      "name_ja": null,
+      "team": "Zimbabwe",
+      "from_count": 2,
+      "to_count": 4
+    },
+    {
+      "id": "ar_tomas-lavanini",
+      "name_en": "Tomás LAVANINI",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 56,
+      "to_count": 118
+    },
+    {
+      "id": "ar_tomas-rapetti",
+      "name_en": "Tomás RAPETTI",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 7,
+      "to_count": 8
+    },
+    {
+      "id": "ar_vano-karkadze",
+      "name_en": "Vano KARKADZE",
+      "name_ja": null,
+      "team": "Georgia",
+      "from_count": 48,
+      "to_count": 49
+    },
+    {
+      "id": "ar_veikoso-poloniati",
+      "name_en": "Veikoso POLONIATI",
+      "name_ja": null,
+      "team": "Tonga",
+      "from_count": 12,
+      "to_count": 13
+    },
+    {
+      "id": "ar_wilco-louw",
+      "name_en": "Wilco LOUW",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 19,
+      "to_count": 34
+    }
+  ],
+  "pending_departures": [
+    {
+      "id": "jrfu_callup_ruan-botha",
+      "name_en": "Ruan BOTHA",
+      "name_ja": "ルアン・ボタ",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_callup_shin-takeuchi",
+      "name_en": "Shin TAKEUCHI",
+      "name_ja": "武内 慎",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510411",
+      "name_en": "Inoke BURUA",
+      "name_ja": "イノケ・ブルア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510424",
+      "name_en": "Shota TAIRA",
+      "name_ja": "平翔太",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510431",
+      "name_en": "Kanato HIRANO",
+      "name_ja": "平野叶翔",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510438",
+      "name_en": "Haruto WATANABE",
+      "name_ja": "渡邊晴斗",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510441",
+      "name_en": "Haruto KIDA",
+      "name_ja": "木田晴斗",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510660",
+      "name_en": "Takumi Inaba",
+      "name_ja": "稲場巧",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510663",
+      "name_en": "Inoke BURUA",
+      "name_ja": "イノケ・ブルア",
+      "team_id": "japan"
+    },
+    {
+      "id": "jrfu_national_510683",
+      "name_en": "Kanato HIRANO",
+      "name_ja": "平野叶翔",
+      "team_id": "japan"
+    }
+  ],
+  "newly_finished_rounds": []
+}
