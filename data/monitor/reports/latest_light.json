@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-31T17:03:18+09:00",
+  "checked_at": "2026-09-01T02:22:22+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,14 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6125",
-          "title": "クラブ 日本製鉄釜石シーウェイブス、2026-27シーズン 新加入選手・新加入スタッフ（追加） 2026.08.31",
-          "date": "2026-08-31",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -28,14 +21,8 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54165",
-          "title": "レポート：女子セブンズ学生日本代表 南アフリカ遠征 2026.8.31 （月） アカデミー・強化育成 女子 セブンズ 女子セブンズ学生日本代表",
-          "date": "2026-08-31",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54139",
-          "title": "（8/31更新）男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ 2026.8.31 （月） 15人制男子日本代表 WBB 日本代表",
+          "url": "https://www.rugby-japan.jp/news/54155",
+          "title": "（8/31更新）レポート：女子15人制強化・TID合同福岡合宿 2026.8.31 （月） 15人制女子日本代表 女子",
           "date": "2026-08-31",
           "category": "squad"
         }
@@ -55,23 +42,9 @@
   ],
   "highlights": [
     {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6125",
-      "title": "クラブ 日本製鉄釜石シーウェイブス、2026-27シーズン 新加入選手・新加入スタッフ（追加） 2026.08.31",
-      "date": "2026-08-31",
-      "category": "roster"
-    },
-    {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54165",
-      "title": "レポート：女子セブンズ学生日本代表 南アフリカ遠征 2026.8.31 （月） アカデミー・強化育成 女子 セブンズ 女子セブンズ学生日本代表",
-      "date": "2026-08-31",
-      "category": "squad"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54139",
-      "title": "（8/31更新）男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ 2026.8.31 （月） 15人制男子日本代表 WBB 日本代表",
+      "url": "https://www.rugby-japan.jp/news/54155",
+      "title": "（8/31更新）レポート：女子15人制強化・TID合同福岡合宿 2026.8.31 （月） 15人制女子日本代表 女子",
       "date": "2026-08-31",
       "category": "squad"
     }
