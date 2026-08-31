@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-08-31T19:45:34+09:00",
+  "checked_at": "2026-09-01T02:46:21+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "2f8a574f0cf48b07"
+      "hash": "e1cd111fb7d9044c"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "09a82659e2c0ff26"
+      "hash": "128478c9b05a5ed6"
     }
   ],
   "items": [
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3144",
-      "title": "FAN CLUB 2026/8/3 ＜CLUB REVS＞継続入会特典プレゼント＆アップグレードキャンペーン",
+      "title": "2026.8.3[MON] FAN CLUB ＜CLUB REVS＞継続入会特典プレゼント＆アップグレードキャンペーン",
       "date": "2026-08-03"
     },
     {
@@ -126,11 +126,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3141",
       "title": "TICKET 2026/7/13 法人チケットオーナーズの販売開始",
       "date": "2026-07-13"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3126",
-      "title": "HOST AREA 2026/6/26 SCRUM Actionうちわ設置店舗(レヴサポ)募集",
-      "date": "2026-06-26"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3039",
