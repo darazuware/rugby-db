@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-01T02:22:22+09:00",
+  "checked_at": "2026-09-01T16:11:00+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,38 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6130",
+          "title": "お知らせ ジャパンラグビー リーグワン 「ラグビーでつながる国際交流フェスタ2026」in 横浜 開催と参加者募集のお知らせ 2026.09.01",
+          "date": "2026-09-01",
+          "category": null
+        },
+        {
+          "url": "https://league-one.jp/news/6129",
+          "title": "クラブ トヨタヴェルブリッツ、2026-27シーズン 新体制発表のお知らせ 2026.09.01",
+          "date": "2026-09-01",
+          "category": "roster"
+        },
+        {
+          "url": "https://league-one.jp/news/6128",
+          "title": "クラブ リコーブラックラムズ東京、2026-27シーズン 新体制のお知らせ 2026.09.01",
+          "date": "2026-09-01",
+          "category": "roster"
+        },
+        {
+          "url": "https://league-one.jp/news/6127",
+          "title": "クラブ 九州電力キューデンヴォルテクス、今後のチーム活動に関するお知らせ 2026.09.01",
+          "date": "2026-09-01",
+          "category": null
+        },
+        {
+          "url": "https://league-one.jp/news/6126",
+          "title": "クラブ 中国電力レッドレグリオンズ、新加入選手のお知らせ 2026.09.01",
+          "date": "2026-09-01",
+          "category": "roster"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -21,9 +52,33 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54155",
-          "title": "（8/31更新）レポート：女子15人制強化・TID合同福岡合宿 2026.8.31 （月） 15人制女子日本代表 女子",
-          "date": "2026-08-31",
+          "url": "https://www.rugby-japan.jp/news/54170",
+          "title": "レポート：男女セブンズ学生日本代表 南アフリカ遠征 2026.9.01 （火） アカデミー・強化育成 セブンズ 男子セブンズ学生日本代表 男子セブンズ",
+          "date": "2026-09-01",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54169",
+          "title": "【緊急通達】熱中症予防対策の徹底と安全な競技環境の確保について 2026.9.01 （火） 通達",
+          "date": "2026-09-01",
+          "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54166",
+          "title": "レポート：男子セブンズ日本代表 中国遠征 2026.9.01 （火） 男子セブンズ日本代表 セブンズ ARE7s アジアラグビーエミレーツセブンズシリーズ2026 男子セブンズ",
+          "date": "2026-09-01",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54127",
+          "title": "「ラグビーでつながる国際交流フェスタ2026」 in 横浜 開催のお知らせ 2026.9.01 （火） その他 普及育成",
+          "date": "2026-09-01",
+          "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/53606",
+          "title": "（9/1更新）男子セブンズ日本代表関連 2026年の活動スケジュールについて 2026.9.01 （火） 男子セブンズ日本代表 男子セブンズ セブンズ SDS 男子セブンズ・デベロップメント・スコッド",
+          "date": "2026-09-01",
           "category": "squad"
         }
       ],
@@ -42,10 +97,45 @@
   ],
   "highlights": [
     {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6129",
+      "title": "クラブ トヨタヴェルブリッツ、2026-27シーズン 新体制発表のお知らせ 2026.09.01",
+      "date": "2026-09-01",
+      "category": "roster"
+    },
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6128",
+      "title": "クラブ リコーブラックラムズ東京、2026-27シーズン 新体制のお知らせ 2026.09.01",
+      "date": "2026-09-01",
+      "category": "roster"
+    },
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6126",
+      "title": "クラブ 中国電力レッドレグリオンズ、新加入選手のお知らせ 2026.09.01",
+      "date": "2026-09-01",
+      "category": "roster"
+    },
+    {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54155",
-      "title": "（8/31更新）レポート：女子15人制強化・TID合同福岡合宿 2026.8.31 （月） 15人制女子日本代表 女子",
-      "date": "2026-08-31",
+      "url": "https://www.rugby-japan.jp/news/54170",
+      "title": "レポート：男女セブンズ学生日本代表 南アフリカ遠征 2026.9.01 （火） アカデミー・強化育成 セブンズ 男子セブンズ学生日本代表 男子セブンズ",
+      "date": "2026-09-01",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54166",
+      "title": "レポート：男子セブンズ日本代表 中国遠征 2026.9.01 （火） 男子セブンズ日本代表 セブンズ ARE7s アジアラグビーエミレーツセブンズシリーズ2026 男子セブンズ",
+      "date": "2026-09-01",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/53606",
+      "title": "（9/1更新）男子セブンズ日本代表関連 2026年の活動スケジュールについて 2026.9.01 （火） 男子セブンズ日本代表 男子セブンズ セブンズ SDS 男子セブンズ・デベロップメント・スコッド",
+      "date": "2026-09-01",
       "category": "squad"
     }
   ],
