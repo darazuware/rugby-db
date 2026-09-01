@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "ヤクルトレビンズ戸田",
   "official_url": "https://www.yakult.co.jp/sports/rugby/",
-  "checked_at": "2026-09-01T02:46:21+09:00",
+  "checked_at": "2026-09-01T18:20:21+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.yakult.co.jp/sports/rugby/",
-      "hash": "b22e338c620ec618"
+      "hash": "e4771681c7177766"
     },
     {
       "url": "https://www.yakult.co.jp/sports/rugby/topics/",
-      "hash": "6683bded038c5613"
+      "hash": "f287ef14acb19837"
     }
   ],
   "items": [
@@ -23,13 +23,18 @@
       "date": "2026-10-03"
     },
     {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1465",
-      "title": "2026-27プレシーズンの試合日程について",
-      "date": "2026-08-10"
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1468",
+      "title": "2026-27シーズン ヤクルトレビンズ戸田 公式ファンクラブ概要決定のお知らせ",
+      "date": "2026-09-01"
     },
     {
       "url": "https://www.yakult.co.jp/sports/rugby/topics/",
       "title": "MORE",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1465",
+      "title": "2026-27プレシーズンの試合日程について",
       "date": "2026-08-10"
     },
     {
@@ -71,11 +76,6 @@
       "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1429",
       "title": "JRLO 2025-26 Div.3 第13節試合結果について",
       "date": "2026-04-27"
-    },
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1426",
-      "title": "JRLO 2025-26 Div.3 第13節出場メンバーおよびイベント情報について",
-      "date": "2026-04-24"
     }
   ]
 }

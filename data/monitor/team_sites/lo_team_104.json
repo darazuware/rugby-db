@@ -3,25 +3,25 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-09-01T02:46:21+09:00",
+  "checked_at": "2026-09-01T18:20:21+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "be9f2f4fa3293a0e"
+      "hash": "fd55158a71929b8e"
     }
   ],
   "items": [
     {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4265/",
+      "title": "2026.9.1 トピックス 【トピックス】2026-27シーズン 新体制発表のお知らせ",
+      "date": "2026-09-01"
+    },
+    {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4261/",
       "title": "2026.8.28 普及・アカデミー トヨタヴェルブリッツアカデミー #11",
       "date": "2026-08-28"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4253/",
-      "title": "2026.8.26 チケット・ファンクラブ 【ファンクラブ】システムメンテナンス期間のご案内",
-      "date": "2026-08-26"
     },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4260/",

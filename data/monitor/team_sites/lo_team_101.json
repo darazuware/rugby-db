@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-09-01T02:46:21+09:00",
+  "checked_at": "2026-09-01T18:20:21+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "a9bca20a97412094"
+      "hash": "114d5750ce33b2c5"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "9c27ec2b7309fbcd"
+      "hash": "c22bf3fcb00c5334"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,21 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35144/",
+      "title": "2026/9/1 社会貢献 兵庫県・(公財)兵庫県人権啓発協会が実施する「プロスポーツとの連携による啓発メッセージの発信等」に協力します",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35129/",
+      "title": "2026/9/1 イベント 「国際フロンティア産業メッセ2026」のKOBELCOブースで優勝トロフィーを展示します",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://www.kobesteelers.com/interview/post35152/",
+      "title": "2026/9/1 チーム 2026-27シーズン新加入選手インタビュー LOマシュー・ダルトン選手",
+      "date": "2026-09-01"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35142/",
       "title": "2026/8/31 お知らせ コベルコ神戸スティーラーズラグビーグラウンドでの練習見学について",
@@ -42,7 +57,7 @@
     },
     {
       "url": "https://www.kobesteelers.com/news/post35128/",
-      "title": "2026/8/27 イベント 【選手イベント参加情報】第18回 北区ラグビーフェスティバルに選手が参加します",
+      "title": "2026/8/27 普及 【選手イベント参加情報】第18回 北区ラグビーフェスティバルに選手が参加します",
       "date": "2026-08-27"
     },
     {
@@ -161,11 +176,6 @@
       "date": "2026-08-04"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post34958/",
-      "title": "2026/8/3 イベント 【レポート】7月28日(火)「第43回元町夜市2026」でラグビー体験を実施しました",
-      "date": "2026-08-03"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post34951/",
       "title": "2026/8/3 メディア 8月8日(土) 李 承信選手「リポビタン D チャレンジカップ 2026日本代表対オーストラリア」ゲスト解説のお知らせ",
       "date": "2026-08-03"
@@ -184,16 +194,6 @@
       "url": "https://www.kobesteelers.com/news/post34926/",
       "title": "2026/7/29 社会貢献 「ノエスタラジオ体操2026」のムービーに福西 隼杜選手、船曳 涼太選手、辻野 隼大選手が出演します",
       "date": "2026-07-29"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34902/",
-      "title": "2026/7/24 チーム マシュー・ダルトン選手2026-27シーズン新加入のお知らせ",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://www.kobesteelers.com/interview/post34890/",
-      "title": "close-up KOBE -Long interview- 2026/7/21（火） 2025-26シーズン 退団選手インタビュー Part.11 PR中島 イシレリ選手",
-      "date": "2026-07-21"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34863/",
@@ -224,11 +224,6 @@
       "url": "https://www.kobesteelers.com/news/post34673/",
       "title": "2026/7/3 普及 【レポート】神戸市立駒ヶ林小学校でタグラグビー教室を実施しました",
       "date": "2026-07-03"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34624/",
-      "title": "2026/7/1 普及 【レポート】神戸市立神の谷小学校でタグラグビー教室を実施しました",
-      "date": "2026-07-01"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34386/",
@@ -324,6 +319,11 @@
       "url": "https://www.kobesteelers.com/news/post29027/",
       "title": "2025/11/4 お知らせ 神戸を拠点とする各スポーツチームの紹介コーナーがJR三ノ宮駅南側エリアに設置されます",
       "date": "2025-11-04"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post28972/",
+      "title": "2025/10/28 お知らせ コベルコ神戸スティーラーズの応援コールについて",
+      "date": "2025-10-28"
     }
   ]
 }

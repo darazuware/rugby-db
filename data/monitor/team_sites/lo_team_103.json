@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-09-01T02:46:21+09:00",
+  "checked_at": "2026-09-01T18:20:21+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "38da3b96b259ac1d"
+      "hash": "f91bb3106aac0772"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "148fdb92925f26f3"
+      "hash": "11383ea341ecb61d"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/260901/",
+      "title": "2026-27シーズン プレシーズンマッチのお知らせ",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/",
+      "title": "記事一覧",
+      "date": "2026-09-01"
+    },
     {
       "url": "https://www.bravelupus.com/news/260831/",
       "title": "川崎市、神奈川県ラグビーフットボール協会、川崎市ラグビーフットボール協会との連携協定締結について",
@@ -25,11 +35,6 @@
     {
       "url": "https://www.bravelupus.com/news/260824-2/",
       "title": "男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ（8/31更新）",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/",
-      "title": "記事一覧",
       "date": "2026-08-31"
     },
     {
@@ -220,11 +225,6 @@
     {
       "url": "https://www.bravelupus.com/news/260501/",
       "title": "2025-26シーズン練習試合のお知らせ",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260501-2/",
-      "title": "【書籍：狼たちのラグビー】第17節：ホストゲーム御朱印スタンプ実施場所のお知らせ",
       "date": "2026-05-01"
     }
   ]

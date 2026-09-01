@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-09-01T02:46:21+09:00",
+  "checked_at": "2026-09-01T18:20:21+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "73ff99b518922ef8"
+      "hash": "f7404748be771e0f"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260901a.html",
+      "title": "2026-27シーズン 新体制のお知らせ",
+      "date": "2026-09-01"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260828a.html",
       "title": "ニュージーランド留学レポート⑥（李淳弘選手）",
@@ -32,11 +37,6 @@
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260825a.html",
       "title": "2026-27シーズン 選手名入りタオル及び応援フェイスタオル 受注販売のお知らせ",
       "date": "2026-08-25"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260824b.html",
-      "title": "池田悠希選手が日本代表 宮崎(大阪)合宿参加メンバーに選出されました",
-      "date": "2026-08-24"
     }
   ]
 }

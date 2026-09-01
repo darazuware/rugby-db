@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-09-01T02:46:21+09:00",
+  "checked_at": "2026-09-01T18:20:21+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "c51c4e0cd8ff67b7"
+      "hash": "891e62bba684ab01"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "62e9e0174d3e93f7"
+      "hash": "5f713320ae15dfb8"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260901.html-0",
+      "title": "2026-09-01 ダイナボアーズ公式ファンクラブ2026-27継続入会の受付を開始しました",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260901.html",
+      "title": "2026-09-01 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（9/5）に14番で先発出場予定",
+      "date": "2026-09-01"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260828.html",
       "title": "2026-08-28 ジャック・ボーウェン選手加入のお知らせ",
@@ -44,7 +54,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260821.html",
-      "title": "2026-08-21 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（8/22）に11番で先発出場",
+      "title": "2026-08-21 [ チーム ] 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（8/22）に11番で先発出場",
       "date": "2026-08-21"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260518.html",
       "title": "2026-05-18 フラッグベアラー＆花道キッズ募集！｜5/30（土）D1/D2入替戦（vs豊田自動織機シャトルズ愛知＠厚木市荻野運動公園競技場）",
       "date": "2026-05-18"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260511.html",
-      "title": "2026-05-15 [ イベント ] チケット先行販売開始｜2025-26シーズン 入替戦チケットのご案内 ※一般販売5/20・指定席について追記あり",
-      "date": "2026-05-15"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/2526r18#10",
-      "title": "2026-05-12 [ メディア ] 試合レポート更新｜vs浦安DR --ホーム最終戦は激闘の末に惜敗 課題を直視して入替戦へ「決勝戦だと思って取り組みたい」",
-      "date": "2026-05-12"
     }
   ]
 }

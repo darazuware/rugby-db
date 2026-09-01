@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-09-01T02:46:21+09:00",
+  "checked_at": "2026-09-01T18:20:21+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "bc61aca90dac0c0b"
+      "hash": "5f15a5480b951da1"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "4acdef56e6ee4252"
+      "hash": "f613f31ba5c1329d"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/team/index_2010.html",
+      "title": "チーム 2026.09.01 OWV 2026-27シーズン 浦安D-Rocks公式アンバサダー継続就任のお知らせ",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/fanclub/index_2014.html",
+      "title": "ファンクラブ 2026.09.01 浦安 D-Rocksファンクラブ「Club D-Rockers」2026-27 シーズン会員募集のお知らせ",
+      "date": "2026-09-01"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2011.html",
       "title": "チーム 2026.08.31 新たなコーポレートスローガン「一枚岩の結束で、心揺さぶる感動を創る。」を制定しました",
@@ -59,12 +69,12 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_1998.html",
-      "title": "ファンクラブ 2026.08.04 ファンクラブClub D-Rockers システムリニューアルに伴うホワイト会員新規入会受付終了について",
+      "title": "2026.08.04 ニュース ファンクラブClub D-Rockers システムリニューアルに伴うホワイト会員新規入会受付終了について",
       "date": "2026-08-04"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_1997.html",
-      "title": "パートナー 2026.08.03 Save the Ocean株式会社とオフィシャルサプライヤー契約締結のお知らせ",
+      "title": "2026.08.03 ニュース Save the Ocean株式会社とオフィシャルサプライヤー契約締結のお知らせ",
       "date": "2026-08-03"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/team/index_1967.html",
       "title": "2026.06.08 ニュース 【TEAM AWARD】2025-26シーズンにおけるチームアワードのお知らせ",
       "date": "2026-06-08"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_1965.html",
-      "title": "2026.06.05 ニュース 【2025-26シーズン】退団スタッフのお知らせ",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_1964.html",
-      "title": "2026.06.05 ニュース 【2025-26シーズン】退団選手（追加）のお知らせ",
-      "date": "2026-06-05"
     }
   ]
 }

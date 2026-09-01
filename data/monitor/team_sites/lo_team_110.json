@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-09-01T02:46:21+09:00",
+  "checked_at": "2026-09-01T18:20:21+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "55882dd24069be06"
+      "hash": "41604981af270573"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "8f5cc0d54dd31ba4"
+      "hash": "0197b92ea1a1ef7b"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/1003",
+      "title": "お知らせ 2026年09月01日 NEW 今後のチーム活動に関するお知らせ",
+      "date": "2026-09-01"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/1002",
       "title": "お知らせ 2026年08月24日 【ご報告】サイモニ・ヴ二ランギ選手の帰国につきまして",
@@ -126,11 +131,6 @@
       "url": "https://www.kyudenvoltex.com/game/p160",
       "title": "メンバー",
       "date": "2026-05-09"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/952",
-      "title": "お知らせ 2026年04月30日 臨時駐車場予約サービス(再掲示)",
-      "date": "2026-04-30"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/982",

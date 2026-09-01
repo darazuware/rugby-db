@@ -3,20 +3,30 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-09-01T02:46:21+09:00",
+  "checked_at": "2026-09-01T18:20:21+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "9107e3aa45c17630"
+      "hash": "1a9f7e2f7f22741b"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "5f7cf03a1af64240"
+      "hash": "bad0d6b731064af4"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/09/01/news-seasonpass/",
+      "title": "2026.09.01 その他 【ホスト全7試合を「マイシート」で熱く応援！26-27 シーズンパス発売】",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/09/01/itemae-off3/",
+      "title": "2026.09.01 活動報告書 その他 【番組 オフもいてまえ！花園近鉄ライナーズ（3回目・9/1放送）】",
+      "date": "2026-09-01"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/08/24/rising-timeschedule/",
       "title": "2026.08.24 試合関連 ジャパンラグビー リーグワン ライジング2026 試合時間決定【追加】のお知らせ",
@@ -86,11 +96,6 @@
       "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub-2/",
       "title": "2026.08.03 ファンクラブ イベント 【LINERS FANCLUB】2026-27 SEASON ファンクラブ概要決定のお知らせ",
       "date": "2026-08-03"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/07/30/report-ekawa/",
-      "title": "2026-07-30 チーム情報 オーストラリア留学レポート 江川 剛人選手編",
-      "date": "2026-07-30"
     },
     {
       "url": "https://hanazono-liners.jp/2026/07/10/event-volleyball/",

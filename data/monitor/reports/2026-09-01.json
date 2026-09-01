@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-01T02:46:21+09:00",
+  "checked_at": "2026-09-01T18:20:21+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/team/index_2010.html",
+          "title": "チーム 2026.09.01 OWV 2026-27シーズン 浦安D-Rocks公式アンバサダー継続就任のお知らせ",
+          "date": "2026-09-01",
+          "category": "roster"
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/fanclub/index_2014.html",
+          "title": "ファンクラブ 2026.09.01 浦安 D-Rocksファンクラブ「Club D-Rockers」2026-27 シーズン会員募集のお知らせ",
+          "date": "2026-09-01",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -21,8 +37,36 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35144/",
+          "title": "2026/9/1 社会貢献 兵庫県・(公財)兵庫県人権啓発協会が実施する「プロスポーツとの連携による啓発メッセージの発信等」に協力します",
+          "date": "2026-09-01",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35129/",
+          "title": "2026/9/1 イベント 「国際フロンティア産業メッセ2026」のKOBELCOブースで優勝トロフィーを展示します",
+          "date": "2026-09-01",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/interview/post35152/",
+          "title": "2026/9/1 チーム 2026-27シーズン新加入選手インタビュー LOマシュー・ダルトン選手",
+          "date": "2026-09-01",
+          "category": "roster"
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post28972/",
+          "title": "2025/10/28 お知らせ コベルコ神戸スティーラーズの応援コールについて",
+          "date": "2025-10-28",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -47,8 +91,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/news/260901/",
+          "title": "2026-27シーズン プレシーズンマッチのお知らせ",
+          "date": "2026-09-01",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.bravelupus.com/",
+        "https://www.bravelupus.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -59,7 +113,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4265/",
+          "title": "2026.9.1 トピックス 【トピックス】2026-27シーズン 新体制発表のお知らせ",
+          "date": "2026-09-01",
+          "category": "roster"
+        }
+      ],
       "changed_pages": [
         "https://verblitz.toyotatimes-sports.toyota/"
       ],
@@ -85,7 +146,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260901.html-0",
+          "title": "2026-09-01 ダイナボアーズ公式ファンクラブ2026-27継続入会の受付を開始しました",
+          "date": "2026-09-01",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260901.html",
+          "title": "2026-09-01 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（9/5）に14番で先発出場予定",
+          "date": "2026-09-01",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -99,9 +173,20 @@
       "official_url": "https://www.canon-eagles.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 16,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 15,
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20260901.html",
+          "title": "2026.09.01 TEAM 横浜キヤノンイーグルスの選手が南アフリカ代表としてニュージーランド代表戦に出場します",
+          "date": "2026-09-01",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/",
+        "https://www.canon-eagles.jp/news/info/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -112,8 +197,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260901a.html",
+          "title": "2026-27シーズン 新体制のお知らせ",
+          "date": "2026-09-01",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -124,8 +218,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 58,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/news/2026/09/01/120000.html",
+          "title": "2026.09.01 ニュース・トピックス",
+          "date": "2026-09-01",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/",
+        "https://www.kubota-spears.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -136,7 +240,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 27,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3168",
+          "title": "EVENT 2026/9/1 ラグビーディスカバリーを9/27(日)に沼津市で開催",
+          "date": "2026-09-01",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3162",
+          "title": "2026.9.1[TUE] FAN CLUB 公式ファンクラブ＜CLUB REVS＞新規入会受付開始！新規入会キャンペーンも実施！",
+          "date": "2026-09-01",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -175,9 +292,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kyudenvoltex.com/news/1003",
+          "title": "お知らせ 2026年09月01日 NEW 今後のチーム活動に関するお知らせ",
+          "date": "2026-09-01",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://www.kyudenvoltex.com/"
+        "https://www.kyudenvoltex.com/",
+        "https://www.kyudenvoltex.com/news/"
       ],
       "rename_signals": []
     },
@@ -186,13 +311,11 @@
       "league": "league-one-d2",
       "name": "清水建設江東ブルーシャークス",
       "official_url": "https://blue-sharks.jp/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 24,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://blue-sharks.jp/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -200,13 +323,11 @@
       "league": "league-one-d2",
       "name": "豊田自動織機シャトルズ愛知",
       "official_url": "https://shuttles-aichi.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 12,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://shuttles-aichi.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -214,15 +335,11 @@
       "league": "league-one-d2",
       "name": "日本製鉄釜石シーウェイブス",
       "official_url": "https://kamaishi-seawaves.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 14,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://kamaishi-seawaves.com/",
-        "https://kamaishi-seawaves.com/news/",
-        "https://kamaishi-seawaves.com/news/info/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -232,8 +349,21 @@
       "official_url": "https://hanazono-liners.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 25,
-      "new_items": [],
+      "item_count": 26,
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/2026/09/01/news-seasonpass/",
+          "title": "2026.09.01 その他 【ホスト全7試合を「マイシート」で熱く応援！26-27 シーズンパス発売】",
+          "date": "2026-09-01",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/09/01/itemae-off3/",
+          "title": "2026.09.01 活動報告書 その他 【番組 オフもいてまえ！花園近鉄ライナーズ（3回目・9/1放送）】",
+          "date": "2026-09-01",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -247,9 +377,18 @@
       "official_url": "https://hino-reddolphins.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 15,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 14,
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-09-01/",
+          "title": "くいもの屋わん 豊田北口/南大沢店 九州魂 南大沢店 特別クーポン継続実施のお知らせ",
+          "date": "2026-09-01",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -259,10 +398,18 @@
       "official_url": "https://docomo-rugby.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 45,
-      "new_items": [],
+      "item_count": 44,
+      "new_items": [
+        {
+          "url": "https://docomo-rugby.jp/csr/detail.html?id=8853",
+          "title": "ホームタウン活動 2026年9月1日 【2026年8月】サステナNEWS",
+          "date": "2026-09-01",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://docomo-rugby.jp/"
+        "https://docomo-rugby.jp/",
+        "https://docomo-rugby.jp/news/"
       ],
       "rename_signals": []
     },
@@ -290,7 +437,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -298,9 +448,9 @@
       "league": "league-one-d3",
       "name": "中国電力レッドレグリオンズ",
       "official_url": "https://rrrfc.red/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 16,
+      "item_count": 0,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -315,7 +465,8 @@
       "item_count": 45,
       "new_items": [],
       "changed_pages": [
-        "https://www.skyactivs.com/"
+        "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news/2091"
       ],
       "rename_signals": []
     },
@@ -327,8 +478,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 12,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1468",
+          "title": "2026-27シーズン ヤクルトレビンズ戸田 公式ファンクラブ概要決定のお知らせ",
+          "date": "2026-09-01",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.yakult.co.jp/sports/rugby/",
+        "https://www.yakult.co.jp/sports/rugby/topics/"
+      ],
       "rename_signals": []
     },
     {
@@ -336,9 +497,9 @@
       "league": "league-one-d3",
       "name": "ルリーロ福岡",
       "official_url": "https://leriro-fukuoka.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 11,
+      "item_count": 0,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -362,7 +523,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54172",
+          "title": "女子日本代表福岡合宿 参加メンバーのお知らせ 2026.9.01 （火） 15人制女子日本代表 女子",
+          "date": "2026-09-01",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54139",
+          "title": "（9/1更新）男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ 2026.9.01 （火） 15人制男子日本代表 WBB 日本代表",
+          "date": "2026-09-01",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -376,9 +550,57 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "浦安D-Rocks",
+      "url": "https://urayasu-d-rocks.com/news/team/index_2010.html",
+      "title": "チーム 2026.09.01 OWV 2026-27シーズン 浦安D-Rocks公式アンバサダー継続就任のお知らせ",
+      "date": "2026-09-01",
+      "category": "roster"
+    },
+    {
+      "source": "コベルコ神戸スティーラーズ",
+      "url": "https://www.kobesteelers.com/interview/post35152/",
+      "title": "2026/9/1 チーム 2026-27シーズン新加入選手インタビュー LOマシュー・ダルトン選手",
+      "date": "2026-09-01",
+      "category": "roster"
+    },
+    {
+      "source": "トヨタヴェルブリッツ",
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4265/",
+      "title": "2026.9.1 トピックス 【トピックス】2026-27シーズン 新体制発表のお知らせ",
+      "date": "2026-09-01",
+      "category": "roster"
+    },
+    {
+      "source": "リコーブラックラムズ東京",
+      "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260901a.html",
+      "title": "2026-27シーズン 新体制のお知らせ",
+      "date": "2026-09-01",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54172",
+      "title": "女子日本代表福岡合宿 参加メンバーのお知らせ 2026.9.01 （火） 15人制女子日本代表 女子",
+      "date": "2026-09-01",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54139",
+      "title": "（9/1更新）男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ 2026.9.01 （火） 15人制男子日本代表 WBB 日本代表",
+      "date": "2026-09-01",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
+    "清水建設江東ブルーシャークス: 到達できるページがない: https://blue-sharks.jp/",
+    "豊田自動織機シャトルズ愛知: 到達できるページがない: https://shuttles-aichi.com/",
+    "日本製鉄釜石シーウェイブス: 到達できるページがない: https://kamaishi-seawaves.com/",
+    "中国電力レッドレグリオンズ: 到達できるページがない: https://rrrfc.red/",
+    "ルリーロ福岡: 到達できるページがない: https://leriro-fukuoka.com/",
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
   ]
 }

@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-09-01T02:46:21+09:00",
+  "checked_at": "2026-09-01T18:20:21+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "b173569351088e8a"
+      "hash": "3c4653f67e0a708a"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "14c981bee305ee91"
+      "hash": "1f9811494267efbb"
     }
   ],
   "items": [
+    {
+      "url": "https://docomo-rugby.jp/csr/detail.html?id=8853",
+      "title": "ホームタウン活動 2026年9月1日 【2026年8月】サステナNEWS",
+      "date": "2026-09-01"
+    },
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8849",
       "title": "お知らせ 2026年8月27日 山口泰輝選手 7人制ラグビー日本代表選出のお知らせ",
@@ -218,11 +223,6 @@
       "date": "2026-05-07"
     },
     {
-      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8589",
-      "title": "アカデミー 2026年5月7日 【U12アドバンスクラス】4月活動レポート",
-      "date": "2026-05-07"
-    },
-    {
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8386",
       "title": "ラグビー普及育成活動 2025年12月3日 おおきに商店presents第16回ドコモカップ決勝トーナメント結果について",
       "date": "2025-12-03"
@@ -236,11 +236,6 @@
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8351",
       "title": "ラグビー普及育成活動 2025年10月28日 おおきに商店presents第16回ドコモカップの開催について",
       "date": "2025-10-28"
-    },
-    {
-      "url": "https://docomo-rugby.jp/csr/detail.html?id=8191",
-      "title": "ホームタウン活動 2025年4月11日 大阪市「中央区」との連携協力に関する覚書の締結のお知らせ",
-      "date": "2025-04-11"
     }
   ]
 }
