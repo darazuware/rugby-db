@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-09-01T18:20:21+09:00",
+  "checked_at": "2026-09-02T00:19:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "8c425483af18a542"
+      "hash": "4a639e0d853ab03f"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "4422e33b7f795a48"
+      "hash": "14227df686061386"
     }
   ],
   "items": [
@@ -23,14 +23,19 @@
       "date": "2026-09-12"
     },
     {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260826_01/",
-      "title": "活動レポート 2026年08月26日 留学記：NZ編 齊藤誉哉③ ニュースを見る",
-      "date": "2026-08-26"
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260901_01/",
+      "title": "活動レポート 2026年09月01日 留学記：NZ編 谷山隼大④ ニュースを見る",
+      "date": "2026-09-01"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260825_01/",
-      "title": "チーム 2026年08月25日 日本代表 宮崎（大阪） 参加メンバーのお知らせ ニュースを見る",
-      "date": "2026-08-25"
+      "title": "チーム 2026年09月01日 （更新）日本代表 宮崎（大阪） 参加メンバーのお知らせ ニュースを見る",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260826_01/",
+      "title": "活動レポート 2026年08月26日 留学記：NZ編 齊藤誉哉③ ニュースを見る",
+      "date": "2026-08-26"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/team/schedule/",
@@ -66,11 +71,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260729_01/",
       "title": "活動レポート 2026年07月29日 留学記：NZ編 田島貫太郎② ニュースを見る",
       "date": "2026-07-29"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260722_01/",
-      "title": "活動レポート 2026年07月22日 留学記：NZ編 石川槙人⑥ ニュースを見る",
-      "date": "2026-07-22"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260701_02/",

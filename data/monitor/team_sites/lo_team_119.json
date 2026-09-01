@@ -3,28 +3,33 @@
   "league": "league-one-d3",
   "name": "中国電力レッドレグリオンズ",
   "official_url": "https://rrrfc.red/",
-  "checked_at": "2026-09-01T02:46:21+09:00",
+  "checked_at": "2026-09-02T00:19:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://rrrfc.red/",
-      "hash": "67b67c74dcda75ce"
+      "hash": "1e3f1e7570b7becd"
     },
     {
       "url": "https://rrrfc.red/blog/",
-      "hash": "e512bb34c8f99f4c"
+      "hash": "43b437e070c7463b"
     },
     {
       "url": "https://rrrfc.red/categories/news/",
-      "hash": "45b0e3ffe144c0af"
+      "hash": "3e88d9b59e8706fa"
     }
   ],
   "items": [
     {
       "url": "https://rrrfc.red/categories/news/",
       "title": "MORE",
-      "date": "2026-08-13"
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://rrrfc.red/blog/blog-6787/",
+      "title": "2026.09.01 新加入通訳兼選手のお知らせ",
+      "date": "2026-09-01"
     },
     {
       "url": "https://rrrfc.red/blog/blog-6780/",
@@ -95,11 +100,6 @@
       "url": "https://rrrfc.red/blog/blog-6487/",
       "title": "2025.12.20 12/21（日）vs. ヤクルトレビンズ戸田 「坂町民無料招待デー」開催！",
       "date": "2025-12-20"
-    },
-    {
-      "url": "https://rrrfc.red/blog/blog-6508/",
-      "title": "2025.12.19 「ラグビーを楽しむ」が信条。ルーキーがグラウンドで体現する“原点”",
-      "date": "2025-12-19"
     }
   ]
 }
