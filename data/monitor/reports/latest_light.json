@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-01T22:01:48+09:00",
+  "checked_at": "2026-09-02T15:45:50+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6132",
+          "title": "クラブ 東京サントリーサンゴリアス、2026-27シーズン新体制のお知らせ 2026.09.02",
+          "date": "2026-09-02",
+          "category": "roster"
+        },
+        {
+          "url": "https://league-one.jp/news/6131",
+          "title": "クラブ 東京サントリーサンゴリアス、『秩父宮みなとラグビーまつり2026』開催のお知らせ 2026.09.02",
+          "date": "2026-09-02",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,14 +32,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54171",
-          "title": "アサヒスーパードライ パシフィックネーションズカップ2026 アメリカ代表 来日メンバーのお知らせ 2026.9.01 （火） 15人制男子日本代表 アサヒスーパードライ パシフィックネーションズカップ2026",
-          "date": "2026-09-01",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -42,11 +48,11 @@
   ],
   "highlights": [
     {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54171",
-      "title": "アサヒスーパードライ パシフィックネーションズカップ2026 アメリカ代表 来日メンバーのお知らせ 2026.9.01 （火） 15人制男子日本代表 アサヒスーパードライ パシフィックネーションズカップ2026",
-      "date": "2026-09-01",
-      "category": "squad"
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6132",
+      "title": "クラブ 東京サントリーサンゴリアス、2026-27シーズン新体制のお知らせ 2026.09.02",
+      "date": "2026-09-02",
+      "category": "roster"
     }
   ],
   "league_rename_news": [],
