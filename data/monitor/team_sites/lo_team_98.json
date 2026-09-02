@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-09-02T00:19:39+09:00",
+  "checked_at": "2026-09-02T17:42:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "46345602a161ef6f"
+      "hash": "2e2970db9ef11379"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "aac64acc6ba257fc"
+      "hash": "6b72f95575867f40"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3173",
+      "title": "2026.9.2[WED] TEAM 負傷による選手の長期欠場のお知らせ",
+      "date": "2026-09-02"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3168",
       "title": "EVENT 2026/9/1 ラグビーディスカバリーを9/27(日)に沼津市で開催",
@@ -111,11 +116,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3148",
       "title": "2026.7.27[MON] HOST AREA 【ホストエリア活動】富士市ラグビー体験教室「ふじラグ」第2弾にてラグビー体験教室を実施しました",
       "date": "2026-07-27"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3149",
-      "title": "2026.7.26[SUN] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（7/20～7/24）",
-      "date": "2026-07-26"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3140",

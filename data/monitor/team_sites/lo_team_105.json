@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-09-02T00:19:39+09:00",
+  "checked_at": "2026-09-02T17:42:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "0929f5357260b8eb"
+      "hash": "38c7eff58c2c73f1"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "9a40e0e6a9e64929"
+      "hash": "3c1ca51360ade3d5"
     }
   ],
   "items": [

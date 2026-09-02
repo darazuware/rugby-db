@@ -3,20 +3,40 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-09-02T00:19:39+09:00",
+  "checked_at": "2026-09-02T17:42:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "ddf2a5627e50da4f"
+      "hash": "a2328eb0081af6b2"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "1f9811494267efbb"
+      "hash": "d4f9941356df161e"
     }
   ],
   "items": [
+    {
+      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8866",
+      "title": "【U15クラス】8月活動レポート 2026年9月1日",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8865",
+      "title": "【U12アドバンスクラス】8月活動レポート 2026年9月1日",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8864",
+      "title": "【U12エントリークラス】８月活動レポート 2026年9月1日",
+      "date": "2026-09-01"
+    },
+    {
+      "url": "https://docomo-rugby.jp/kids/",
+      "title": "MORE",
+      "date": "2026-09-01"
+    },
     {
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8853",
       "title": "ホームタウン活動 2026年9月1日 【2026年8月】サステナNEWS",
@@ -59,22 +79,17 @@
     },
     {
       "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8795",
-      "title": "【U15クラス】7月活動レポート 2026年8月1日",
+      "title": "アカデミー 2026年8月1日 【U15クラス】7月活動レポート",
       "date": "2026-08-01"
     },
     {
       "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8794",
-      "title": "【U12アドバンスクラス】7月活動レポート 2026年8月1日",
+      "title": "アカデミー 2026年8月1日 【U12アドバンスクラス】7月活動レポート",
       "date": "2026-08-01"
     },
     {
       "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8792",
-      "title": "【U12エントリークラス】7月活動レポート 2026年8月1日",
-      "date": "2026-08-01"
-    },
-    {
-      "url": "https://docomo-rugby.jp/kids/",
-      "title": "MORE",
+      "title": "アカデミー 2026年8月1日 【U12エントリークラス】7月活動レポート",
       "date": "2026-08-01"
     },
     {
@@ -206,21 +221,6 @@
       "url": "https://docomo-rugby.jp/news/detail.html?id=8602",
       "title": "お知らせ 2026年5月8日 【リリース】2025-26シーズン退団選手のお知らせ",
       "date": "2026-05-08"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8612",
-      "title": "お知らせ 2026年5月7日 リーグワン ホストゲーム来場者 累計15万人達成記念イベントについて",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8600",
-      "title": "アカデミー 2026年5月7日 【U15クラス】4月活動レポート",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8594",
-      "title": "アカデミー 2026年5月7日 【U12エントリークラス】4月活動レポート",
-      "date": "2026-05-07"
     },
     {
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8386",

@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-09-02T00:19:39+09:00",
+  "checked_at": "2026-09-02T17:42:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,10 +13,15 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "04ad72e42c6cac69"
+      "hash": "be6b83aa7349b2b9"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-09-02/",
+      "title": "8/26、27日野市 自治会のラジオ体操に参加しました",
+      "date": "2026-09-02"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-09-01/",
       "title": "くいもの屋わん 豊田北口/南大沢店 九州魂 南大沢店 特別クーポン継続実施のお知らせ",
@@ -81,11 +86,6 @@
       "url": "https://hino-reddolphins.com/2026-07-24/",
       "title": "7/4イオンモール多摩平の森『たまもりスポーツイベント』に参加しました",
       "date": "2026-07-24"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-07-23/",
-      "title": "苑田右二 再加入のお知らせ",
-      "date": "2026-07-23"
     }
   ]
 }

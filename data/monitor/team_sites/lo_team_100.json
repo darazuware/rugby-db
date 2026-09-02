@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-09-02T00:19:39+09:00",
+  "checked_at": "2026-09-02T17:42:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "5f15a5480b951da1"
+      "hash": "227943e013b914b1"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "f613f31ba5c1329d"
+      "hash": "90a3629d7794c753"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/partner/index_2015.html",
+      "title": "パートナー 2026.09.02 わくわくはっぴー本棚との地域連携共創・相互支援に関する包括連携協定締結のお知らせ",
+      "date": "2026-09-02"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2010.html",
       "title": "チーム 2026.09.01 OWV 2026-27シーズン 浦安D-Rocks公式アンバサダー継続就任のお知らせ",
@@ -64,158 +69,153 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1999.html",
-      "title": "イベント 2026.08.07 2026.8.1「ドコモ未来プロジェクト SUMMER FES」に参加しました",
+      "title": "2026.08.07 イベント 2026.8.1「ドコモ未来プロジェクト SUMMER FES」に参加しました",
       "date": "2026-08-07"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_1998.html",
-      "title": "2026.08.04 ニュース ファンクラブClub D-Rockers システムリニューアルに伴うホワイト会員新規入会受付終了について",
+      "title": "2026.08.04 ファンクラブ ファンクラブClub D-Rockers システムリニューアルに伴うホワイト会員新規入会受付終了について",
       "date": "2026-08-04"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_1997.html",
-      "title": "2026.08.03 ニュース Save the Ocean株式会社とオフィシャルサプライヤー契約締結のお知らせ",
+      "title": "2026.08.03 パートナー Save the Ocean株式会社とオフィシャルサプライヤー契約締結のお知らせ",
       "date": "2026-08-03"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1996.html",
-      "title": "2026.08.01 ニュース 2026.8 浦安Dパーク開放イベント「夏休み！浦安Dパークで遊ぼう！」開催のお知らせ",
+      "title": "2026.08.01 イベント 2026.8 浦安Dパーク開放イベント「夏休み！浦安Dパークで遊ぼう！」開催のお知らせ",
       "date": "2026-08-01"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_1995.html",
-      "title": "2026.07.30 ニュース 浦安D-Rocks 公式TikTok開設のお知らせ",
+      "title": "2026.07.30 チーム 浦安D-Rocks 公式TikTok開設のお知らせ",
       "date": "2026-07-30"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_1994.html",
-      "title": "2026.07.30 ニュース 2026.7.26プラチナ会員限定イベント「シーズンエンドパーティ 2025-26」を開催しました",
+      "title": "2026.07.30 ファンクラブ 2026.7.26プラチナ会員限定イベント「シーズンエンドパーティ 2025-26」を開催しました",
       "date": "2026-07-30"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1992.html",
-      "title": "2026.07.28 ニュース 2026.7.25 公益財団法人うらやす財団主催「あつまれ！うんどう公園夏休みこどもスペシャルDAY」に参加しました",
+      "title": "2026.07.28 イベント 2026.7.25 公益財団法人うらやす財団主催「あつまれ！うんどう公園夏休みこどもスペシャルDAY」に参加しました",
       "date": "2026-07-28"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1991.html",
-      "title": "2026.07.28 ニュース 2026.7.25「仙台駐屯地 夏まつり」に参加しました",
+      "title": "2026.07.28 イベント 2026.7.25「仙台駐屯地 夏まつり」に参加しました",
       "date": "2026-07-28"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_1982.html",
-      "title": "2026.07.24 ニュース 2026-27シーズン パートナーシップのご案内",
+      "title": "2026.07.24 パートナー 2026-27シーズン パートナーシップのご案内",
       "date": "2026-07-24"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1990.html",
-      "title": "2026.07.24 ニュース 2026.8.7 第1回 浦安D-Rocks OB選手と語ろう「D-Link」イベント参加者募集のお知らせ",
+      "title": "2026.07.24 イベント 2026.8.7 第1回 浦安D-Rocks OB選手と語ろう「D-Link」イベント参加者募集のお知らせ",
       "date": "2026-07-24"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1989.html",
-      "title": "2026.07.24 ニュース 2026.7.2～6 千葉県立浦安高等学校よりインターンシップを受け入れました",
+      "title": "2026.07.24 イベント 2026.7.2～6 千葉県立浦安高等学校よりインターンシップを受け入れました",
       "date": "2026-07-24"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_1988.html",
-      "title": "2026.07.22 ニュース 株式会社アルマスポーツとのオフィシャルサプライヤー契約締結のお知らせ",
+      "title": "2026.07.22 チーム 株式会社アルマスポーツとのオフィシャルサプライヤー契約締結のお知らせ",
       "date": "2026-07-22"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_1987.html",
-      "title": "2026.07.21 ニュース 株式会社ドームとのオフィシャルサプライヤー契約終了のお知らせ",
+      "title": "2026.07.21 チーム 株式会社ドームとのオフィシャルサプライヤー契約終了のお知らせ",
       "date": "2026-07-21"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1986.html",
-      "title": "2026.07.20 ニュース 2026.7.25「仙台駐屯地 夏まつり」出展のお知らせ",
+      "title": "2026.07.20 イベント 2026.7.25「仙台駐屯地 夏まつり」出展のお知らせ",
       "date": "2026-07-20"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_1981.html",
-      "title": "2026.07.10 ニュース 2026-27シーズン 新体制決定のお知らせ",
+      "title": "2026.07.10 チーム 2026-27シーズン 新体制決定のお知らせ",
       "date": "2026-07-10"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_1980.html",
-      "title": "2026.07.10 ニュース 2026-27シーズン 新加入選手のお知らせ",
+      "title": "2026.07.10 チーム 2026-27シーズン 新加入選手のお知らせ",
       "date": "2026-07-10"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_1984.html",
-      "title": "2026.07.10 ニュース 2026.7.26「D-Rockers ミーティング 2025-26」開催のお知らせ",
+      "title": "2026.07.10 ファンクラブ 2026.7.26「D-Rockers ミーティング 2025-26」開催のお知らせ",
       "date": "2026-07-10"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1985.html",
-      "title": "2026.07.10 ニュース 2026.7.30【第2弾】ラグ活！～大人のためのラグビー体験会～ 開催決定！",
+      "title": "2026.07.10 イベント 2026.7.30【第2弾】ラグ活！～大人のためのラグビー体験会～ 開催決定！",
       "date": "2026-07-10"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/cheer/index_1983.html",
-      "title": "2026.07.09 ニュース D-Rocks Cheerleaders 第5期メンバー募集のお知らせ",
+      "title": "2026.07.09 チア D-Rocks Cheerleaders 第5期メンバー募集のお知らせ",
       "date": "2026-07-09"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_1978.html",
-      "title": "2026.07.02 ニュース Nolook商事株式会社とオフィシャルサプライヤー 契約締結のお知らせ",
+      "title": "2026.07.02 パートナー Nolook商事株式会社とオフィシャルサプライヤー 契約締結のお知らせ",
       "date": "2026-07-02"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_1977.html",
-      "title": "2026.07.01 ニュース NTTジャパンラグビー リーグワン2026-27 ディビジョン編成および大会日程のお知らせ",
+      "title": "2026.07.01 ゲーム NTTジャパンラグビー リーグワン2026-27 ディビジョン編成および大会日程のお知らせ",
       "date": "2026-07-01"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1976.html",
-      "title": "2026.07.01 ニュース 2026.6.24 明海大学 ホスピタリティ・ツーリズム学部にて講演を行いました",
+      "title": "2026.07.01 イベント 2026.6.24 明海大学 ホスピタリティ・ツーリズム学部にて講演を行いました",
       "date": "2026-07-01"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_1975.html",
-      "title": "2026.06.30 ニュース 黒木直之氏 退団のお知らせ",
+      "title": "2026.06.30 チーム 黒木直之氏 退団のお知らせ",
       "date": "2026-06-30"
     },
     {
+      "url": "https://urayasu-d-rocks.com/news/youth/index_1974.html",
+      "title": "2026.06.23 ユース 2026.8.3〜5 D-Rocks SUMMER CAMP 2026 実施のお知らせ",
+      "date": "2026-06-23"
+    },
+    {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_1972.html",
-      "title": "2026.06.17 ニュース 2025-26シーズン Club D-Rockers有料会員新規受付終了について",
+      "title": "2026.06.17 ファンクラブ 2025-26シーズン Club D-Rockers有料会員新規受付終了について",
       "date": "2026-06-17"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1973.html",
-      "title": "2026.06.17 ニュース 2026.6.9「浦安D-Rocks 2025-26シーズンエンドパーティ」を開催しました",
+      "title": "2026.06.17 イベント 2026.6.9「浦安D-Rocks 2025-26シーズンエンドパーティ」を開催しました",
       "date": "2026-06-17"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_1971.html",
-      "title": "2026.06.15 ニュース 2026.6.6 ファン感謝祭「D-Rocks Fes 2026」を開催しました",
+      "title": "2026.06.15 イベント 2026.6.6 ファン感謝祭「D-Rocks Fes 2026」を開催しました",
       "date": "2026-06-15"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_1970.html",
-      "title": "2026.06.10 ニュース 【代表情報】男子日本代表およびトレーニングスコッド選出のお知らせ",
+      "title": "2026.06.10 チーム 【代表情報】男子日本代表およびトレーニングスコッド選出のお知らせ",
       "date": "2026-06-10"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_1969.html",
-      "title": "2026.06.10 ニュース 【代表情報】ヤスパー・ヴィーセ選手 南アフリカ代表スコッド選出のお知らせ",
+      "title": "2026.06.10 チーム 【代表情報】ヤスパー・ヴィーセ選手 南アフリカ代表スコッド選出のお知らせ",
       "date": "2026-06-10"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_1966.html",
-      "title": "2026.06.10 ニュース 【留学情報】オーストラリアへ選手派遣のお知らせ",
+      "title": "2026.06.10 チーム 【留学情報】オーストラリアへ選手派遣のお知らせ",
       "date": "2026-06-10"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_1968.html",
-      "title": "2026.06.08 ニュース 2026.6.5 浦安市長を表敬訪問しました",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_1967.html",
-      "title": "2026.06.08 ニュース 【TEAM AWARD】2025-26シーズンにおけるチームアワードのお知らせ",
-      "date": "2026-06-08"
     }
   ]
 }

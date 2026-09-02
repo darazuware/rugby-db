@@ -3,28 +3,33 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-09-02T00:19:39+09:00",
+  "checked_at": "2026-09-02T17:42:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "114d5750ce33b2c5"
+      "hash": "48cbd5f352d58c9d"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "c22bf3fcb00c5334"
+      "hash": "6b325735e1d601ae"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "ef1718a6de0c090e"
+      "hash": "22364e8474c2125c"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "ab3f6dc639105996"
+      "hash": "8ca737de654f0099"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/interview/post35176/",
+      "title": "2026/9/2 チーム 2026-27シーズン 新加入選手インタビュー CTBジョージ・ブリッジ選手",
+      "date": "2026-09-02"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35144/",
       "title": "2026/9/1 社会貢献 兵庫県・(公財)兵庫県人権啓発協会が実施する「プロスポーツとの連携による啓発メッセージの発信等」に協力します",
@@ -319,11 +324,6 @@
       "url": "https://www.kobesteelers.com/news/post29027/",
       "title": "2025/11/4 お知らせ 神戸を拠点とする各スポーツチームの紹介コーナーがJR三ノ宮駅南側エリアに設置されます",
       "date": "2025-11-04"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post28972/",
-      "title": "2025/10/28 お知らせ コベルコ神戸スティーラーズの応援コールについて",
-      "date": "2025-10-28"
     }
   ]
 }

@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-09-02T00:19:39+09:00",
+  "checked_at": "2026-09-02T17:42:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "c7d288c35e3ae19b"
+      "hash": "e961f1ef1ecd87d8"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "12e7d05e0a37d812"
+      "hash": "27443be8f1a19df0"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/cmrf26vnzc.html",
+      "title": "2026年 9月 2日 『秩父宮みなとラグビーまつり2026』開催のお知らせ ～ 東京サントリーサンゴリアス vs ニュージーランド チーフスの夢の対決が実現 ～ いつも東京サントリーサ…",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627nts.html",
+      "title": "2026年 9月 2日 東京サントリーサンゴリアス2026-27新体制のお知らせ！ いつもサントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27ーズンのチーム新体制…",
+      "date": "2026-09-02"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2608-1031.html",
       "title": "2026年 8月28日 #1031 竹内 柊平 『もっとチームになる』",
@@ -56,11 +66,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/260803nfjsg.html",
       "title": "2026年 8月 3日 新加入選手のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27シーズンより、東…",
       "date": "2026-08-03"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2607-1027.html",
-      "title": "2026年 7月31日 #1027 中村 亮土 『インタビューのもっと深いところ』",
-      "date": "2026-07-31"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627jljsg.html",
@@ -211,11 +216,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/lor7dgdync.html",
       "title": "2026年 3月 2日 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第7節 東京サントリーサンゴリアスvs三菱重工相模原ダイナボアーズ戦のご案内 ※注意事項 2月8日分のチケットを3月7日の代替開催試合にお持ちいただいても、試合をご観戦いただくことはできま…",
       "date": "2026-03-02"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/r18ttr.html",
-      "title": "2026年 2月25日 第18節ホスト最終戦 特別チケット情報 いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 5月10日（日）に東京都・秩父宮ラ…",
-      "date": "2026-02-25"
     }
   ]
 }
