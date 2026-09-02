@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-02T15:45:50+09:00",
+  "checked_at": "2026-09-02T21:30:05+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,20 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6132",
-          "title": "クラブ 東京サントリーサンゴリアス、2026-27シーズン新体制のお知らせ 2026.09.02",
-          "date": "2026-09-02",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6131",
-          "title": "クラブ 東京サントリーサンゴリアス、『秩父宮みなとラグビーまつり2026』開催のお知らせ 2026.09.02",
-          "date": "2026-09-02",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -32,7 +19,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54176",
+          "title": "JAPAN RUGBY CHALLENGE MATCH 2026 女子フィジー代表 来日メンバーのお知らせ 2026.9.02 （水） 15人制女子日本代表 女子",
+          "date": "2026-09-02",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54133",
+          "title": "JFA・JBA・JHA・JRFU・JSBB・JSPO スポーツ団体連携に関する共同発表 2026.9.02 （水） その他 普及育成",
+          "date": "2026-09-02",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -48,11 +48,11 @@
   ],
   "highlights": [
     {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6132",
-      "title": "クラブ 東京サントリーサンゴリアス、2026-27シーズン新体制のお知らせ 2026.09.02",
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54176",
+      "title": "JAPAN RUGBY CHALLENGE MATCH 2026 女子フィジー代表 来日メンバーのお知らせ 2026.9.02 （水） 15人制女子日本代表 女子",
       "date": "2026-09-02",
-      "category": "roster"
+      "category": "squad"
     }
   ],
   "league_rename_news": [],
