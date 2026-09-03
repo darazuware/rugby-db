@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-03T17:51:12+09:00",
+  "checked_at": "2026-09-03T23:49:30+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -10,9 +10,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://urayasu-d-rocks.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -23,38 +21,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [
-        {
-          "url": "https://www.kobesteelers.com/news/post35171/",
-          "title": "2026/9/3 普及 【イベントレポート】第18回 北区ラグビーフェスティバルに参加しました",
-          "date": "2026-09-03",
-          "category": null
-        },
-        {
-          "url": "https://www.kobesteelers.com/news/post35158/",
-          "title": "2026/9/3 イベント 【レポート】8月29日(土)第39回RICサマーイブニングカーニバルのステージイベントに出演しました",
-          "date": "2026-09-03",
-          "category": null
-        },
-        {
-          "url": "https://www.kobesteelers.com/news/post35143/",
-          "title": "2026/9/3 チーム 9月5日(土)「リポビタンDチャレンジカップ2026」カナダ代表戦メンバー選出のお知らせ",
-          "date": "2026-09-03",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.kobesteelers.com/news/post35140/",
-          "title": "2026/9/3 チーム 9月7日(月)～13日(日)網走キャンプ実施のお知らせ",
-          "date": "2026-09-03",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.kobesteelers.com/",
-        "https://www.kobesteelers.com/news/",
-        "https://www.kobesteelers.com/news/cat_news/information/",
-        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -79,10 +47,10 @@
       "item_count": 42,
       "new_items": [
         {
-          "url": "https://www.bravelupus.com/news/%e3%80%902026-27%e3%83%95%e3%82%a1%e3%83%b3%e3%82%af%e3%83%a9%e3%83%96%e3%80%91%e5%85%a5%e4%bc%9a%e5%8f%97%e4%bb%98%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85/",
-          "title": "【2026-27ファンクラブ】入会受付のご案内",
+          "url": "https://www.bravelupus.com/news/260903/",
+          "title": "リポビタンDチャレンジカップ2026 日本代表 対 カナダ代表 試合登録メンバーのお知らせ",
           "date": "2026-09-03",
-          "category": null
+          "category": "squad"
         }
       ],
       "changed_pages": [
@@ -99,14 +67,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4262/",
-          "title": "2026.9.3 チケット・ファンクラブ 【ファンクラブ】ファンクラブ会員限定 VERBLITZ伝統の宴へ特別ご招待",
-          "date": "2026-09-03",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://verblitz.toyotatimes-sports.toyota/"
       ],
@@ -159,23 +120,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [
-        {
-          "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260827a.html",
-          "title": "選手3名が男子セブンズ日本代表 中国遠征メンバーに選出されました",
-          "date": "2026-08-27",
-          "category": "squad"
-        },
-        {
-          "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260807b.html",
-          "title": "(9/1更新) 2026-27プレシーズンマッチ スケジュールのお知らせ",
-          "date": "2026-08-07",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://blackrams-tokyo.com/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -198,26 +144,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 27,
-      "new_items": [
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3171",
-          "title": "2026.9.3[THU] HOST AREA 【ホストエリア活動】浜松市［スポーツ塾2026］にてラグビー体験を実施しました",
-          "date": "2026-09-03",
-          "category": null
-        },
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3170",
-          "title": "2026.9.3[THU] HOST AREA 【ホストエリア活動】三島市 で静岡ブルーレヴズラグビー体験会を実施しました",
-          "date": "2026-09-03",
-          "category": null
-        },
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3169",
-          "title": "SCHOOL 2026/9/3 ＜タグラグビークラス＞を9月より新規開設",
-          "date": "2026-09-03",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -265,11 +192,16 @@
       "league": "league-one-d2",
       "name": "清水建設江東ブルーシャークス",
       "official_url": "https://blue-sharks.jp/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 24,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -277,11 +209,21 @@
       "league": "league-one-d2",
       "name": "豊田自動織機シャトルズ愛知",
       "official_url": "https://shuttles-aichi.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 7,
+      "new_items": [
+        {
+          "url": "https://shuttles-aichi.com/news/2026-27fanclub/",
+          "title": "お知らせ 2026.09.03 2026-27シーズン ファンクラブ会員募集のお知らせ",
+          "date": "2026-09-03",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://shuttles-aichi.com/",
+        "https://shuttles-aichi.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -289,11 +231,28 @@
       "league": "league-one-d2",
       "name": "日本製鉄釜石シーウェイブス",
       "official_url": "https://kamaishi-seawaves.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 13,
+      "new_items": [
+        {
+          "url": "https://kamaishi-seawaves.com/news/info/32242/",
+          "title": "お知らせ 2026.9.3 2026-27シーズン 新体制のお知らせ",
+          "date": "2026-09-03",
+          "category": "roster"
+        },
+        {
+          "url": "https://kamaishi-seawaves.com/news/info/32202/",
+          "title": "お知らせ 2026.9.2 短期インターン（普及活動・グラウンドサポート）受け入れのお知らせ",
+          "date": "2026-09-02",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://kamaishi-seawaves.com/",
+        "https://kamaishi-seawaves.com/news/",
+        "https://kamaishi-seawaves.com/news/info/"
+      ],
       "rename_signals": []
     },
     {
@@ -304,14 +263,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 27,
-      "new_items": [
-        {
-          "url": "https://hanazono-liners.jp/2026/09/03/%e3%80%8eosaka-funtastc-sports-project%e3%80%8f%e8%bf%bd%e5%8a%a0%e6%83%85%e5%a0%b1%ef%bc%88%e3%83%81%e3%82%b1%e3%83%83%e3%83%88%e8%b2%a9%e5%a3%b2%ef%bc%89%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89/",
-          "title": "2026.09.03 その他 『OSAKA FUNtast!c SPORTS PROJECT』追加情報（チケット販売）のお知らせ",
-          "date": "2026-09-03",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -368,10 +320,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.rugguts.secom.co.jp/",
-        "https://www.rugguts.secom.co.jp/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -379,9 +328,9 @@
       "league": "league-one-d3",
       "name": "中国電力レッドレグリオンズ",
       "official_url": "https://rrrfc.red/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 16,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -417,11 +366,27 @@
       "league": "league-one-d3",
       "name": "ルリーロ福岡",
       "official_url": "https://leriro-fukuoka.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 11,
+      "new_items": [
+        {
+          "url": "https://leriro-fukuoka.com/news-detail?id=274",
+          "title": "2026-27シーズン 選手個人スポンサー募集開始のお知らせ",
+          "date": "2026-09-02",
+          "category": null
+        },
+        {
+          "url": "https://leriro-fukuoka.com/news-detail?id=273",
+          "title": "2025−26シーズンのファンクラブ会員募集のお知らせ",
+          "date": "2026-09-02",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://leriro-fukuoka.com/",
+        "https://leriro-fukuoka.com/news"
+      ],
       "rename_signals": []
     }
   ],
@@ -443,14 +408,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54161",
-          "title": "リポビタンDチャレンジカップ2026 日本代表対カナダ代表 国歌斉唱者決定のお知らせ 2026.9.03 （木） 15人制男子日本代表 JRFU WBB",
-          "date": "2026-09-03",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -466,34 +424,22 @@
   ],
   "highlights": [
     {
-      "source": "リコーブラックラムズ東京",
-      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260827a.html",
-      "title": "選手3名が男子セブンズ日本代表 中国遠征メンバーに選出されました",
-      "date": "2026-08-27",
-      "category": "squad"
-    },
-    {
-      "source": "コベルコ神戸スティーラーズ",
-      "url": "https://www.kobesteelers.com/news/post35143/",
-      "title": "2026/9/3 チーム 9月5日(土)「リポビタンDチャレンジカップ2026」カナダ代表戦メンバー選出のお知らせ",
+      "source": "日本製鉄釜石シーウェイブス",
+      "url": "https://kamaishi-seawaves.com/news/info/32242/",
+      "title": "お知らせ 2026.9.3 2026-27シーズン 新体制のお知らせ",
       "date": "2026-09-03",
-      "category": "squad"
+      "category": "roster"
     },
     {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54161",
-      "title": "リポビタンDチャレンジカップ2026 日本代表対カナダ代表 国歌斉唱者決定のお知らせ 2026.9.03 （木） 15人制男子日本代表 JRFU WBB",
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/260903/",
+      "title": "リポビタンDチャレンジカップ2026 日本代表 対 カナダ代表 試合登録メンバーのお知らせ",
       "date": "2026-09-03",
       "category": "squad"
     }
   ],
   "league_rename_news": [],
   "warnings": [
-    "清水建設江東ブルーシャークス: 到達できるページがない: https://blue-sharks.jp/",
-    "豊田自動織機シャトルズ愛知: 到達できるページがない: https://shuttles-aichi.com/",
-    "日本製鉄釜石シーウェイブス: 到達できるページがない: https://kamaishi-seawaves.com/",
-    "中国電力レッドレグリオンズ: 到達できるページがない: https://rrrfc.red/",
-    "ルリーロ福岡: 到達できるページがない: https://leriro-fukuoka.com/",
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
   ]
 }

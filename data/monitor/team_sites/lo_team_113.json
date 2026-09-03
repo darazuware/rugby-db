@@ -3,24 +3,34 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-09-02T00:19:39+09:00",
+  "checked_at": "2026-09-03T23:49:30+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "9cdd67aa89bfcc16"
+      "hash": "981528f781b6134d"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "aa45a814ec8bfb7b"
+      "hash": "29168d5cd805c356"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "676f9ab17a4bcb12"
+      "hash": "f08d1d3e339b7256"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/32242/",
+      "title": "お知らせ 2026.9.3 2026-27シーズン 新体制のお知らせ",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/32202/",
+      "title": "お知らせ 2026.9.2 短期インターン（普及活動・グラウンドサポート）受け入れのお知らせ",
+      "date": "2026-09-02"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/info/32166/",
       "title": "お知らせ 2026.8.31 2026-27シーズン 新加入選手・スタッフに関するお知らせ（追加）",
@@ -75,21 +85,6 @@
       "url": "https://kamaishi-seawaves.com/news/info/31924/",
       "title": "お知らせ 2026.7.29 2026-27シーズン ファンクラブのお知らせ（9/1募集開始、8/19自動継続処理実施）",
       "date": "2026-07-29"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/society/31715/",
-      "title": "普及・社会貢献 2026.7.21 釜石地区保護司会「社会を明るくする運動」に参加しました",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/31635/",
-      "title": "お知らせ 2026.7.1 NTTジャパンラグビー リーグワン2026-27 ディビジョン編成および大会日程のお知らせ",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/31596/",
-      "title": "お知らせ 2026.6.29 大槌町林野火災支援募金活動および義援金寄付のご報告",
-      "date": "2026-06-29"
     }
   ]
 }

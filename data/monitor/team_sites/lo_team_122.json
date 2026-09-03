@@ -3,28 +3,38 @@
   "league": "league-one-d3",
   "name": "ルリーロ福岡",
   "official_url": "https://leriro-fukuoka.com/",
-  "checked_at": "2026-09-02T00:19:39+09:00",
+  "checked_at": "2026-09-03T23:49:30+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://leriro-fukuoka.com/",
-      "hash": "e2f9aab98fe728b4"
+      "hash": "60e1a8004564f685"
     },
     {
       "url": "https://leriro-fukuoka.com/news",
-      "hash": "d8989b9ed3017ad1"
+      "hash": "c8fee6ac914bdeff"
     }
   ],
   "items": [
     {
-      "url": "https://leriro-fukuoka.com/news-detail?id=272",
-      "title": "9月参加のイベントのお知らせ",
-      "date": "2026-08-26"
+      "url": "https://leriro-fukuoka.com/news-detail?id=274",
+      "title": "2026-27シーズン 選手個人スポンサー募集開始のお知らせ",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news-detail?id=273",
+      "title": "2025−26シーズンのファンクラブ会員募集のお知らせ",
+      "date": "2026-09-02"
     },
     {
       "url": "https://leriro-fukuoka.com/news",
       "title": "NEWS一覧",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news-detail?id=272",
+      "title": "9月参加のイベントのお知らせ",
       "date": "2026-08-26"
     },
     {
@@ -61,16 +71,6 @@
       "url": "https://leriro-fukuoka.com/news-detail?id=267",
       "title": "8月参加イベントのお知らせ",
       "date": "2026-07-27"
-    },
-    {
-      "url": "https://leriro-fukuoka.com/news-detail?id=265",
-      "title": "2026-27シーズンのスタッフ体制のお知らせ",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://leriro-fukuoka.com/news-detail?id=254",
-      "title": "7月参加イベントのお知らせ",
-      "date": "2026-07-21"
     }
   ]
 }
