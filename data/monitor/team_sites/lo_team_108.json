@@ -3,13 +3,13 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-09-02T23:49:33+09:00",
+  "checked_at": "2026-09-03T17:51:12+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "f7404748be771e0f"
+      "hash": "6df678b053cf6c4f"
     }
   ],
   "items": [
@@ -24,19 +24,19 @@
       "date": "2026-08-28"
     },
     {
+      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260827a.html",
+      "title": "選手3名が男子セブンズ日本代表 中国遠征メンバーに選出されました",
+      "date": "2026-08-27"
+    },
+    {
       "url": "https://blackrams-tokyo.com/team/volunteer/index.html",
       "title": "2026-26シーズン Ramgelist(ラムジェリスト)新規募集のお知らせ",
       "date": "2026-08-26"
     },
     {
-      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260826a.html",
-      "title": "大内真選手 アジア・パシフィック・ライオンズ参加のお知らせ",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260825a.html",
-      "title": "2026-27シーズン 選手名入りタオル及び応援フェイスタオル 受注販売のお知らせ",
-      "date": "2026-08-25"
+      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260807b.html",
+      "title": "(9/1更新) 2026-27プレシーズンマッチ スケジュールのお知らせ",
+      "date": "2026-08-07"
     }
   ]
 }

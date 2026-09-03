@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-09-02T23:49:33+09:00",
+  "checked_at": "2026-09-03T17:51:12+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "32701ce6083cb53c"
+      "hash": "cf56337f26b8a1fd"
     }
   ],
   "items": [
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4262/",
+      "title": "2026.9.3 チケット・ファンクラブ 【ファンクラブ】ファンクラブ会員限定 VERBLITZ伝統の宴へ特別ご招待",
+      "date": "2026-09-03"
+    },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4265/",
       "title": "2026.9.1 トピックス 【トピックス】2026-27シーズン 新体制発表のお知らせ",
@@ -52,11 +57,6 @@
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4257/",
       "title": "2026.8.19 チケット・ファンクラブ 【チケット】シーズンチケット受付スケジュールおよび購入可能席について",
       "date": "2026-08-19"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4250/",
-      "title": "2026.8.17 チケット・ファンクラブ 【ファンクラブ】8/18(火)まで 「自動継続」設定の確認のお願い",
-      "date": "2026-08-17"
     },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4241",

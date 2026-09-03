@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-09-02T23:49:33+09:00",
+  "checked_at": "2026-09-03T17:51:12+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "00806325ae10cd50"
+      "hash": "f67a4b2bea16bdf0"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "e333f60aa472c536"
+      "hash": "a2eb2302576eeedd"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3171",
+      "title": "2026.9.3[THU] HOST AREA 【ホストエリア活動】浜松市［スポーツ塾2026］にてラグビー体験を実施しました",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3170",
+      "title": "2026.9.3[THU] HOST AREA 【ホストエリア活動】三島市 で静岡ブルーレヴズラグビー体験会を実施しました",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3169",
+      "title": "SCHOOL 2026/9/3 ＜タグラグビークラス＞を9月より新規開設",
+      "date": "2026-09-03"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3173",
       "title": "2026.9.2[WED] TEAM 負傷による選手の長期欠場のお知らせ",
@@ -101,21 +116,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3144",
       "title": "2026.8.3[MON] FAN CLUB ＜CLUB REVS＞継続入会特典プレゼント＆アップグレードキャンペーン",
       "date": "2026-08-03"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3151",
-      "title": "2026.7.27[MON] TEAM アナリスト(インターン)募集のお知らせ",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3150",
-      "title": "2026.7.27[MON] HOST AREA 【ホストエリア活動】菊川市 令和8年度「親子スポーツ教室」にてラグビー体験を実施しました",
-      "date": "2026-07-27"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3148",
-      "title": "2026.7.27[MON] HOST AREA 【ホストエリア活動】富士市ラグビー体験教室「ふじラグ」第2弾にてラグビー体験教室を実施しました",
-      "date": "2026-07-27"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3140",

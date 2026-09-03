@@ -3,28 +3,33 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-09-02T23:49:33+09:00",
+  "checked_at": "2026-09-03T17:51:12+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "f91bb3106aac0772"
+      "hash": "73dacad6cddd777e"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "11383ea341ecb61d"
+      "hash": "f4652f0c30f85e20"
     }
   ],
   "items": [
     {
-      "url": "https://www.bravelupus.com/news/260901/",
-      "title": "2026-27シーズン プレシーズンマッチのお知らせ",
-      "date": "2026-09-01"
+      "url": "https://www.bravelupus.com/news/%e3%80%902026-27%e3%83%95%e3%82%a1%e3%83%b3%e3%82%af%e3%83%a9%e3%83%96%e3%80%91%e5%85%a5%e4%bc%9a%e5%8f%97%e4%bb%98%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85/",
+      "title": "【2026-27ファンクラブ】入会受付のご案内",
+      "date": "2026-09-03"
     },
     {
       "url": "https://www.bravelupus.com/news/",
       "title": "記事一覧",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260901/",
+      "title": "2026-27シーズン プレシーズンマッチのお知らせ",
       "date": "2026-09-01"
     },
     {
@@ -221,11 +226,6 @@
       "url": "https://www.bravelupus.com/news/20260502/",
       "title": "新製品グッズ販売のお知らせ",
       "date": "2026-05-02"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260501/",
-      "title": "2025-26シーズン練習試合のお知らせ",
-      "date": "2026-05-01"
     }
   ]
 }

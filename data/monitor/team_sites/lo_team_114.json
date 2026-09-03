@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-09-02T23:49:33+09:00",
+  "checked_at": "2026-09-03T17:51:12+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "be05933652273124"
+      "hash": "18a4438512998aaa"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "f17b271e6dfbab6b"
+      "hash": "bb480a7cfb024324"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/09/03/%e3%80%8eosaka-funtastc-sports-project%e3%80%8f%e8%bf%bd%e5%8a%a0%e6%83%85%e5%a0%b1%ef%bc%88%e3%83%81%e3%82%b1%e3%83%83%e3%83%88%e8%b2%a9%e5%a3%b2%ef%bc%89%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89/",
+      "title": "2026.09.03 その他 『OSAKA FUNtast!c SPORTS PROJECT』追加情報（チケット販売）のお知らせ",
+      "date": "2026-09-03"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/09/01/news-seasonpass/",
       "title": "2026.09.01 その他 【ホスト全7試合を「マイシート」で熱く応援！26-27 シーズンパス発売】",
@@ -44,7 +49,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/08/20/report-miyashita-3/",
-      "title": "2026.08.20 チーム情報 オーストラリア留学レポート 宮下 大輝 選手編",
+      "title": "2026-08-20 チーム情報 オーストラリア留学レポート 宮下 大輝 選手編",
       "date": "2026-08-20"
     },
     {
