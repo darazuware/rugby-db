@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-09-03T23:49:30+09:00",
+  "checked_at": "2026-09-04T17:46:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "474e09e8b325566c"
+      "hash": "bbc3d13f8f79813d"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "c5bb0080d871c85b"
+      "hash": "768c121720e625e7"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260904.html",
+      "title": "2026-09-04 男子セブンズ日本代表｜男子SDSスペイン遠征 参加メンバーに服部選手・吉本選手が選出",
+      "date": "2026-09-04"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260901.html-0",
       "title": "2026-09-01 ダイナボアーズ公式ファンクラブ2026-27継続入会の受付を開始しました",
@@ -49,7 +54,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260824.html",
-      "title": "2026-08-24 15人制男子日本代表｜日本代表 宮崎（大阪）合宿参加メンバーの発表について",
+      "title": "2026-08-24 [ チーム ] [ メディア ] 15人制男子日本代表｜日本代表 宮崎（大阪）合宿参加メンバーの発表について",
       "date": "2026-08-24"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/2526pr1",
       "title": "2026-05-21 [ チーム ] 試合メンバー更新｜D1/D2入替戦 第1戦 豊田自動織機シャトルズ愛知 対 三菱重工相模原ダイナボアーズ",
       "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260518.html",
-      "title": "2026-05-18 フラッグベアラー＆花道キッズ募集！｜5/30（土）D1/D2入替戦（vs豊田自動織機シャトルズ愛知＠厚木市荻野運動公園競技場）",
-      "date": "2026-05-18"
     }
   ]
 }

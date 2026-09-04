@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-09-03T23:49:30+09:00",
+  "checked_at": "2026-09-04T17:46:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "e961f1ef1ecd87d8"
+      "hash": "d17b05a3a362ce8d"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "27443be8f1a19df0"
+      "hash": "83ca1df2f9ccbc2b"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2609-1032.html",
+      "title": "2026年 9月 4日 #1032 下川 甲嗣 『1対1で絶対に勝つ』",
+      "date": "2026-09-04"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/cmrf26vnzc.html",
       "title": "2026年 9月 2日 『秩父宮みなとラグビーまつり2026』開催のお知らせ ～ 東京サントリーサンゴリアス vs ニュージーランド チーフスの夢の対決が実現 ～ いつも東京サントリーサ…",
@@ -211,11 +216,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/dznjivnr.html",
       "title": "2026年 3月 3日 DAZN Japan Investment合同会社とオフィシャルパートナー契約締結のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026年3月1日付で東京サン…",
       "date": "2026-03-03"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/lor7dgdync.html",
-      "title": "2026年 3月 2日 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第7節 東京サントリーサンゴリアスvs三菱重工相模原ダイナボアーズ戦のご案内 ※注意事項 2月8日分のチケットを3月7日の代替開催試合にお持ちいただいても、試合をご観戦いただくことはできま…",
-      "date": "2026-03-02"
     }
   ]
 }

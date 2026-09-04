@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-09-03T23:49:30+09:00",
+  "checked_at": "2026-09-04T17:46:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "81dc93af036dabb7"
+      "hash": "8825c59c8958b39a"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "892dfca985d87af7"
+      "hash": "7ea66a6f6c622714"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "8260e05252d36210"
+      "hash": "3f404fd0411e9b79"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0904-01/",
+      "title": "MATCH プレシーズンマッチ日程決定のお知らせ 2026.09.04",
+      "date": "2026-09-04"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0831-01/",
       "title": "FAN CLUB JR東日本グリーンウォリアーズ東葛公式ファンクラブ「CLUB GREEN WARRIORS」9月18日（金）より入会開始！ 2026.08.31",

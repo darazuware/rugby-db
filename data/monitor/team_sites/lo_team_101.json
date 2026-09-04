@@ -3,28 +3,53 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-09-03T23:49:30+09:00",
+  "checked_at": "2026-09-04T17:46:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "1e6f33fd4d0bf1c6"
+      "hash": "6898e3966e0496cc"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "e578e3bedf5ffc0d"
+      "hash": "1bfe8e616f071279"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "262df275d63202e6"
+      "hash": "e570e54ab6f665da"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "566e877914ebb7c0"
+      "hash": "c07907e9945156d8"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35200/",
+      "title": "2026/9/4 グッズ NTTリーグワン2025-26 優勝記念グッズ・アワード受賞記念グッズの発送状況について",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35196/",
+      "title": "2026/9/4 イベント ミスター・ラグビー メモリアルイベント タグラグビー『平尾誠二杯』開催のお知らせ",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35193/",
+      "title": "チーム 2026-27シーズン共同キャプテン決定のお知らせ 2026/9/4",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35187/",
+      "title": "2026/9/4 試合 11月7日(土)プレシーズンマッチ(追加)のお知らせ",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35182/",
+      "title": "2026/9/4 イベント 9月12日(土)「甲子園キッズフェスタ～2026 autumn～」でラグビー体験を実施します",
+      "date": "2026-09-04"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35171/",
       "title": "2026/9/3 普及 【イベントレポート】第18回 北区ラグビーフェスティバルに参加しました",
@@ -151,11 +176,6 @@
       "date": "2026-08-13"
     },
     {
-      "url": "https://www.kobesteelers.com/interview/post35050/",
-      "title": "2026/8/10 チーム 【Road to RWC2027】「リポビタンDチャレンジカップ2026」日本代表 vsオーストラリア代表レポート",
-      "date": "2026-08-10"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post34949/",
       "title": "チーム 2026-27シーズン 新体制決定のお知らせ 2026/8/7",
       "date": "2026-08-07"
@@ -171,24 +191,9 @@
       "date": "2026-08-06"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35004/",
-      "title": "2026/8/6 イベント 【レポート】神戸市内トップスポーツチームの4冠達成お祝いイベントに参加しました",
-      "date": "2026-08-06"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post34979/",
       "title": "2026/8/6 イベント 【レポート】7月25日(土) 森を学べるイベント「KOBELCOの森で遊ぼう！学ぼう！」に宮内 慶大選手、大町 佳生選手が参加しました",
       "date": "2026-08-06"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34933/",
-      "title": "2026/8/6 チーム 8月8日(土)「リポビタンDチャレンジカップ2026」オーストラリア代表戦メンバー選出のお知らせ",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34913/",
-      "title": "2026/8/5 イベント 子どもを育むスマハマプロジェクト「コベルコ神戸スティーラーズが須磨海岸にやってくる！」を実施します",
-      "date": "2026-08-05"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34983/",
@@ -218,16 +223,6 @@
     {
       "url": "https://www.kobesteelers.com/news/post34863/",
       "title": "2026/7/17 普及 【レポート】タッチラグビー加古川大会に参加しました",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34860/",
-      "title": "2026/7/17 普及 【レポート】7月11日(土)第2回神野どろんこフェスティバルに参加しました",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34852/",
-      "title": "2026/7/17 普及 【レポート】7月4日(土)太田西ノ内病院―小児病棟―へ訪問、7月5日(日)ラグビークリニックを行いました。",
       "date": "2026-07-17"
     },
     {
@@ -324,6 +319,11 @@
       "url": "https://www.kobesteelers.com/news/post29027/",
       "title": "2025/11/4 お知らせ 神戸を拠点とする各スポーツチームの紹介コーナーがJR三ノ宮駅南側エリアに設置されます",
       "date": "2025-11-04"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post28972/",
+      "title": "2025/10/28 お知らせ コベルコ神戸スティーラーズの応援コールについて",
+      "date": "2025-10-28"
     }
   ]
 }

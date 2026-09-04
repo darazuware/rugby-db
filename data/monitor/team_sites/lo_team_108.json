@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-09-03T23:49:30+09:00",
+  "checked_at": "2026-09-04T17:46:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "6df678b053cf6c4f"
+      "hash": "570fd82febce2d49"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260904a.html",
+      "title": "選手3名が男子セブンズ・デベロップメント・スコッド(SDS) スペイン遠征メンバーに選出されました",
+      "date": "2026-09-04"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260901a.html",
       "title": "2026-27シーズン 新体制のお知らせ",
@@ -27,11 +32,6 @@
       "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260827a.html",
       "title": "選手3名が男子セブンズ日本代表 中国遠征メンバーに選出されました",
       "date": "2026-08-27"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/team/volunteer/index.html",
-      "title": "2026-26シーズン Ramgelist(ラムジェリスト)新規募集のお知らせ",
-      "date": "2026-08-26"
     },
     {
       "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260807b.html",

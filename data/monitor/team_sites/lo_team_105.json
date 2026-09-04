@@ -3,20 +3,40 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-09-03T23:49:30+09:00",
+  "checked_at": "2026-09-04T17:46:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "38c7eff58c2c73f1"
+      "hash": "c7ce4e91a9d684fd"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "3c1ca51360ade3d5"
+      "hash": "a07db6d3c6e557b4"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2427/",
+      "title": "イベント 2026.9.4 2026-27プレシーズン マッチ対戦相手決定のお知らせ",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2426/",
+      "title": "トピックス 2026.9.4 男子セブンズ デベロップメント・スコッド（SDS）スペイン遠征 参加のお知らせ",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2425/",
+      "title": "トピックス 2026.9.4 新練習拠点の完成および施設名称決定のお知らせ",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2424/",
+      "title": "トピックス 2026.9.4 2026-27シーズン 協賛パートナー決定のお知らせ",
+      "date": "2026-09-04"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2411/",
       "title": "イベント 2026.8.28 【8/28更新】『ブレックスアリーナ宇都宮スポーツフェスティバル』参加のお知らせ",
@@ -116,26 +136,6 @@
       "url": "https://www.honda-heat.jp/news/2401/",
       "title": "トピックス 2026.7.13 【表敬訪問】鈴鹿市長を訪問し、25-26シーズン終了のご挨拶をさせていただきました",
       "date": "2026-07-13"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2400/",
-      "title": "トピックス 2026.7.12 植村 陽彦・宮坂 航生、男子セブンズ デベロップメント・スコッド（SDS）福岡合宿 参加のお知らせ",
-      "date": "2026-07-12"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2399/",
-      "title": "イベント 2026.7.10 「新入団選手・スタッフおよび新体制」発表会を開催しました",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2398/",
-      "title": "トピックス 2026.7.9 日本代表およびオーストラリア遠征招集のお知らせ",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2395/",
-      "title": "トピックス 2026.7.9 2026-27シーズン 新加入選手・スタッフおよび新体制のお知らせ",
-      "date": "2026-07-09"
     },
     {
       "url": "https://www.honda-heat.jp/hostgame/20260509/",

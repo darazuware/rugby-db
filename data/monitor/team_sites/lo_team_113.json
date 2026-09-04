@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-09-03T23:49:30+09:00",
+  "checked_at": "2026-09-04T17:46:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "981528f781b6134d"
+      "hash": "98a0e6e8db5bbedb"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "29168d5cd805c356"
+      "hash": "36b78b30a04750eb"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "f08d1d3e339b7256"
+      "hash": "0858d0945ee4f567"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/32270/",
+      "title": "お知らせ 2026.9.4 2026プレシーズンマッチのお知らせ（追加）",
+      "date": "2026-09-04"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/info/32242/",
       "title": "お知らせ 2026.9.3 2026-27シーズン 新体制のお知らせ",
@@ -80,11 +85,6 @@
       "url": "https://kamaishi-seawaves.com/news/info/31958/",
       "title": "お知らせ 2026.8.3 2026-27シーズン 新加入選手・スタッフに関するお知らせ",
       "date": "2026-08-03"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/31924/",
-      "title": "お知らせ 2026.7.29 2026-27シーズン ファンクラブのお知らせ（9/1募集開始、8/19自動継続処理実施）",
-      "date": "2026-07-29"
     }
   ]
 }

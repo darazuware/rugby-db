@@ -3,24 +3,34 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-09-03T23:49:30+09:00",
+  "checked_at": "2026-09-04T17:46:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.canon-eagles.jp/",
-      "hash": "5ac365e8f3fc3aee"
+      "hash": "4df358d921631015"
     },
     {
       "url": "https://www.canon-eagles.jp/news/",
-      "hash": "d312f7515e333fb1"
+      "hash": "578e734b902c0d81"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/2026.html",
-      "hash": "bc94f9cf3cc36e8f"
+      "hash": "4f8a1aec1130f6a2"
     }
   ],
   "items": [
+    {
+      "url": "https://www.canon-eagles.jp/news/gameinfo/20260807.html",
+      "title": "2026.09.04 GAME 【更新】2026-27シーズン 練習試合予定",
+      "date": "2026-09-04"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20260903.html",
+      "title": "2026.09.03 TEAM リポビタンDチャレンジカップ2026 カナダ代表戦に横浜キヤノンイーグルスの選手が選出されました",
+      "date": "2026-09-03"
+    },
     {
       "url": "https://www.canon-eagles.jp/news/info/20260901.html",
       "title": "2026.09.01 TEAM 横浜キヤノンイーグルスの選手が南アフリカ代表としてニュージーランド代表戦に出場します",
@@ -67,21 +77,6 @@
       "date": "2026-08-07"
     },
     {
-      "url": "https://www.canon-eagles.jp/news/gameinfo/20260807.html",
-      "title": "2026.08.07 GAME 2026-27シーズン 練習試合予定",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/supporters/20260806.html",
-      "title": "2026.08.06 SUPPORTER 練習見学会のお知らせ",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/event/20260709.html",
-      "title": "2026.08.05 EVENT 【更新】7月・8月のイベント出演予定",
-      "date": "2026-08-05"
-    },
-    {
       "url": "https://www.canon-eagles.jp/news/info/20260723.html",
       "title": "2026.07.23 TEAM 男子日本代表網走合宿に横浜キヤノンイーグルスの選手が参加します",
       "date": "2026-07-23"
@@ -90,11 +85,6 @@
       "url": "https://www.canon-eagles.jp/about/jersey.html",
       "title": "2026.07.17 TEAM 2026-27シーズンのジャージが決定しました",
       "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/info/20260716.html",
-      "title": "2026.07.16 TEAM ネーションズチャンピオンシップ2026 フランス代表戦に横浜キヤノンイーグルスの選手が選出されました",
-      "date": "2026-07-16"
     }
   ]
 }

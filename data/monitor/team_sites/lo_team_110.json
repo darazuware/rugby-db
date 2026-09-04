@@ -3,23 +3,23 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-09-03T23:49:30+09:00",
+  "checked_at": "2026-09-04T17:46:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "41604981af270573"
+      "hash": "991606085c487a0b"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "0197b92ea1a1ef7b"
+      "hash": "7686a4472d920c71"
     }
   ],
   "items": [
     {
       "url": "https://www.kyudenvoltex.com/news/1003",
-      "title": "お知らせ 2026年09月01日 NEW 今後のチーム活動に関するお知らせ",
+      "title": "お知らせ 2026年09月01日 今後のチーム活動に関するお知らせ",
       "date": "2026-09-01"
     },
     {
