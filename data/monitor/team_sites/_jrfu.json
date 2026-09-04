@@ -1,12 +1,23 @@
 {
-  "checked_at": "2026-09-04T17:46:29+09:00",
+  "checked_at": "2026-09-04T21:27:59+09:00",
   "url": "https://www.rugby-japan.jp/news/",
   "items": [
     {
-      "url": "https://www.rugby-japan.jp/news/54168",
-      "title": "男子セブンズ・デベロップメント・スコッド(SDS) スペイン遠征スケジュールと参加メンバーのお知らせ 2026.9.04 （金） 男子セブンズ日本代表 セブンズ SDS 男子セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド",
+      "url": "https://www.rugby-japan.jp/news/54181",
+      "title": "アサヒスーパードライ パシフィックネーションズカップ2026 放送・配信予定のお知らせ 2026.9.04 （金） 15人制男子日本代表 WBB",
       "date": "2026-09-04",
       "category": "squad"
+    },
+    {
+      "url": "https://www.rugby-japan.jp/news/54180",
+      "title": "JAPAN RUGBY CHALLENGE MATCH 2026 女子日本代表 対 女子フィジー代表 試合結果のお知らせ 2026.9.04 （金） 15人制女子日本代表 女子",
+      "date": "2026-09-04",
+      "category": "squad"
+    },
+    {
+      "url": "https://www.rugby-japan.jp/news/54168",
+      "title": "男子セブンズ・デベロップメント・スコッド(SDS) スペイン遠征スケジュールと参加メンバーのお知らせ 2026.9.04 （金） 男子セブンズ日本代表 セブンズ SDS 男子セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド",
+      "date": "2026-09-04"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54165",
@@ -34,11 +45,6 @@
       "date": "2026-09-03"
     },
     {
-      "url": "https://www.rugby-japan.jp/news/54176",
-      "title": "JAPAN RUGBY CHALLENGE MATCH 2026 女子フィジー代表 来日メンバーのお知らせ 2026.9.02 （水） 15人制女子日本代表 女子",
-      "date": "2026-09-02"
-    },
-    {
       "url": "https://www.rugby-japan.jp/news/54170",
       "title": "（9/2更新）レポート：男子セブンズ学生日本代表 南アフリカ遠征 2026.9.02 （水） アカデミー・強化育成 セブンズ 男子セブンズ学生日本代表 男子セブンズ",
       "date": "2026-09-02"
@@ -46,11 +52,6 @@
     {
       "url": "https://www.rugby-japan.jp/news/54155",
       "title": "（9/3更新）レポート：女子15人制強化・TID合同福岡合宿 2026.9.02 （水） 15人制女子日本代表 女子",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54133",
-      "title": "JFA・JBA・JHA・JRFU・JSBB・JSPO スポーツ団体連携に関する共同発表 2026.9.02 （水） その他 普及育成",
       "date": "2026-09-02"
     }
   ]

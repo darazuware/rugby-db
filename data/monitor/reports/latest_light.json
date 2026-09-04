@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-04T15:53:32+09:00",
+  "checked_at": "2026-09-04T21:27:59+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,20 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6136",
-          "title": "クラブ コベルコ神戸スティーラーズ、2026-27シーズン共同キャプテン決定のお知らせ 2026.09.04",
-          "date": "2026-09-04",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6135",
-          "title": "クラブ 栃木ホンダヒート、新練習拠点の完成および施設名称決定のお知らせ 2026.09.04",
-          "date": "2026-09-04",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -34,16 +21,16 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54165",
-          "title": "（9/4更新）レポート：女子セブンズ学生日本代表 南アフリカ遠征 2026.9.04 （金） アカデミー・強化育成 女子 セブンズ 女子セブンズ学生日本代表",
+          "url": "https://www.rugby-japan.jp/news/54181",
+          "title": "アサヒスーパードライ パシフィックネーションズカップ2026 放送・配信予定のお知らせ 2026.9.04 （金） 15人制男子日本代表 WBB",
           "date": "2026-09-04",
           "category": "squad"
         },
         {
-          "url": "https://www.rugby-japan.jp/news/54083",
-          "title": "（9/4更新）男子セブンズシニアアカデミー山梨合宿 スケジュールと参加メンバーのお知らせ 2026.9.04 （金） アカデミー・強化育成 セブンズ 男子セブンズ セブンズシニアアカデミー シニアアカデミー",
+          "url": "https://www.rugby-japan.jp/news/54180",
+          "title": "JAPAN RUGBY CHALLENGE MATCH 2026 女子日本代表 対 女子フィジー代表 試合結果のお知らせ 2026.9.04 （金） 15人制女子日本代表 女子",
           "date": "2026-09-04",
-          "category": null
+          "category": "squad"
         }
       ],
       "rename_signals": []
@@ -61,16 +48,16 @@
   ],
   "highlights": [
     {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6136",
-      "title": "クラブ コベルコ神戸スティーラーズ、2026-27シーズン共同キャプテン決定のお知らせ 2026.09.04",
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54181",
+      "title": "アサヒスーパードライ パシフィックネーションズカップ2026 放送・配信予定のお知らせ 2026.9.04 （金） 15人制男子日本代表 WBB",
       "date": "2026-09-04",
-      "category": "roster"
+      "category": "squad"
     },
     {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54165",
-      "title": "（9/4更新）レポート：女子セブンズ学生日本代表 南アフリカ遠征 2026.9.04 （金） アカデミー・強化育成 女子 セブンズ 女子セブンズ学生日本代表",
+      "url": "https://www.rugby-japan.jp/news/54180",
+      "title": "JAPAN RUGBY CHALLENGE MATCH 2026 女子日本代表 対 女子フィジー代表 試合結果のお知らせ 2026.9.04 （金） 15人制女子日本代表 女子",
       "date": "2026-09-04",
       "category": "squad"
     }
