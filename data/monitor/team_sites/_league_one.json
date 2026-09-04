@@ -1,7 +1,19 @@
 {
-  "checked_at": "2026-09-03T23:49:30+09:00",
+  "checked_at": "2026-09-04T15:53:32+09:00",
   "url": "https://league-one.jp/news/",
   "items": [
+    {
+      "url": "https://league-one.jp/news/6136",
+      "title": "クラブ コベルコ神戸スティーラーズ、2026-27シーズン共同キャプテン決定のお知らせ 2026.09.04",
+      "date": "2026-09-04",
+      "category": "roster"
+    },
+    {
+      "url": "https://league-one.jp/news/6135",
+      "title": "クラブ 栃木ホンダヒート、新練習拠点の完成および施設名称決定のお知らせ 2026.09.04",
+      "date": "2026-09-04",
+      "category": null
+    },
     {
       "url": "https://league-one.jp/news/6134",
       "title": "クラブ 栃木ホンダヒート/花園近鉄ライナーズ/レッドハリケーンズ大阪、『OSAKA FUNtast!c SPORTS PROJECT』参加のお知らせ 2026.09.03",
@@ -41,16 +53,6 @@
       "url": "https://league-one.jp/news/6127",
       "title": "クラブ 九州電力キューデンヴォルテクス、今後のチーム活動に関するお知らせ 2026.09.01",
       "date": "2026-09-01"
-    },
-    {
-      "url": "https://league-one.jp/news/6126",
-      "title": "クラブ 中国電力レッドレグリオンズ、新加入選手のお知らせ 2026.09.01",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://league-one.jp/news/6125",
-      "title": "クラブ 日本製鉄釜石シーウェイブス、2026-27シーズン 新加入選手・新加入スタッフ（追加） 2026.08.31",
-      "date": "2026-08-31"
     }
   ]
 }

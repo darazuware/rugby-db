@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-03T21:33:05+09:00",
+  "checked_at": "2026-09-04T15:53:32+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6136",
+          "title": "クラブ コベルコ神戸スティーラーズ、2026-27シーズン共同キャプテン決定のお知らせ 2026.09.04",
+          "date": "2026-09-04",
+          "category": "roster"
+        },
+        {
+          "url": "https://league-one.jp/news/6135",
+          "title": "クラブ 栃木ホンダヒート、新練習拠点の完成および施設名称決定のお知らせ 2026.09.04",
+          "date": "2026-09-04",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,7 +32,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54165",
+          "title": "（9/4更新）レポート：女子セブンズ学生日本代表 南アフリカ遠征 2026.9.04 （金） アカデミー・強化育成 女子 セブンズ 女子セブンズ学生日本代表",
+          "date": "2026-09-04",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54083",
+          "title": "（9/4更新）男子セブンズシニアアカデミー山梨合宿 スケジュールと参加メンバーのお知らせ 2026.9.04 （金） アカデミー・強化育成 セブンズ 男子セブンズ セブンズシニアアカデミー シニアアカデミー",
+          "date": "2026-09-04",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +59,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6136",
+      "title": "クラブ コベルコ神戸スティーラーズ、2026-27シーズン共同キャプテン決定のお知らせ 2026.09.04",
+      "date": "2026-09-04",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54165",
+      "title": "（9/4更新）レポート：女子セブンズ学生日本代表 南アフリカ遠征 2026.9.04 （金） アカデミー・強化育成 女子 セブンズ 女子セブンズ学生日本代表",
+      "date": "2026-09-04",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
