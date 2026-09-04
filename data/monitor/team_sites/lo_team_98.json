@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-09-04T17:46:29+09:00",
+  "checked_at": "2026-09-04T23:38:13+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "6d7f35c79bbcdbb6"
+      "hash": "20f8dae60b32971b"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "5587dbabc63aa3d9"
+      "hash": "c7c888a61a7deb8b"
     }
   ],
   "items": [

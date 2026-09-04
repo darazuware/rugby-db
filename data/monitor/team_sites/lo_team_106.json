@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-09-04T17:46:29+09:00",
+  "checked_at": "2026-09-04T23:38:13+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "bbc3d13f8f79813d"
+      "hash": "caf6d10f8c2384a3"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "768c121720e625e7"
+      "hash": "5899ba981e0f233e"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule#2",
+      "title": "2026-09-04 日程更新｜プレシーズンマッチ1試合（ビジター）の予定を公開",
+      "date": "2026-09-04"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260904.html",
       "title": "2026-09-04 男子セブンズ日本代表｜男子SDSスペイン遠征 参加メンバーに服部選手・吉本選手が選出",
@@ -49,7 +54,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260825.html",
-      "title": "2026-08-25 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（8/29）に14番で先発出場",
+      "title": "2026-08-25 [ チーム ] 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（8/29）に14番で先発出場",
       "date": "2026-08-25"
     },
     {
@@ -210,11 +215,6 @@
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260521.html",
       "title": "2026-05-21 [ チーム ] 「長崎タータンスペシャルジャージオークション2026」の開催について",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/2526pr1",
-      "title": "2026-05-21 [ チーム ] 試合メンバー更新｜D1/D2入替戦 第1戦 豊田自動織機シャトルズ愛知 対 三菱重工相模原ダイナボアーズ",
       "date": "2026-05-21"
     }
   ]
