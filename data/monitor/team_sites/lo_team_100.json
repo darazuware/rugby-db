@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-09-04T23:38:13+09:00",
+  "checked_at": "2026-09-05T17:16:40+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "93af722538247bbc"
+      "hash": "964c1fe7895f9311"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "df0f34267d8fa96e"
+      "hash": "ede44ab1013cf110"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2017.html",
+      "title": "イベント 2026.09.05 2026.9.2 津別町立津別小学校にてラグビークリニックを実施しました",
+      "date": "2026-09-05"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2016.html",
+      "title": "イベント 2026.09.05 2026.8.31 津別町長を表敬訪問しました",
+      "date": "2026-09-05"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2015.html",
       "title": "パートナー 2026.09.02 わくわくはっぴー本棚との地域連携共創・相互支援に関する包括連携協定締結のお知らせ",
@@ -59,12 +69,12 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2000.html",
-      "title": "チーム 2026.08.18 小西泰聖選手が母校・桐蔭学園ラグビー部の7人制ラグビーのコーチングサポートを実施しました",
+      "title": "2026.08.18 ニュース 小西泰聖選手が母校・桐蔭学園ラグビー部の7人制ラグビーのコーチングサポートを実施しました",
       "date": "2026-08-18"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2002.html",
-      "title": "イベント 2026.08.17 2026.8.1「浦安ラグビーFamily DAY 2026」に参加しました",
+      "title": "2026.08.17 ニュース 2026.8.1「浦安ラグビーFamily DAY 2026」に参加しました",
       "date": "2026-08-17"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/team/index_1969.html",
       "title": "2026.06.10 ニュース 【代表情報】ヤスパー・ヴィーセ選手 南アフリカ代表スコッド選出のお知らせ",
       "date": "2026-06-10"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_1966.html",
-      "title": "2026.06.10 ニュース 【留学情報】オーストラリアへ選手派遣のお知らせ",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_1968.html",
-      "title": "2026.06.08 ニュース 2026.6.5 浦安市長を表敬訪問しました",
-      "date": "2026-06-08"
     }
   ]
 }

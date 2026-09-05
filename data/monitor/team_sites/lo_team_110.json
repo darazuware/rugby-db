@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-09-04T23:38:13+09:00",
+  "checked_at": "2026-09-05T17:16:40+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "991606085c487a0b"
+      "hash": "c98179fd06c2e9eb"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "7686a4472d920c71"
+      "hash": "decabac223410244"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/1004",
+      "title": "地域・社会貢献 2026年09月05日 NEW 唐津市立伊岐佐小学校でタグラグビー教室を開催しました",
+      "date": "2026-09-05"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/1003",
       "title": "お知らせ 2026年09月01日 今後のチーム活動に関するお知らせ",
@@ -171,11 +176,6 @@
       "url": "https://www.kyudenvoltex.com/news/971",
       "title": "試合情報 2026年03月28日 【リーグワン | ビジター】4/4(土)NECグリーンロケッツ東葛戦のお知らせ",
       "date": "2026-03-28"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/973",
-      "title": "地域・社会貢献 2026年03月26日 FUKUOKA ALL-STAR 大運動会に参加しました",
-      "date": "2026-03-26"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/970",
