@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-05T17:16:40+09:00",
+  "checked_at": "2026-09-05T22:37:11+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,24 +9,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://urayasu-d-rocks.com/news/event/index_2017.html",
-          "title": "イベント 2026.09.05 2026.9.2 津別町立津別小学校にてラグビークリニックを実施しました",
-          "date": "2026-09-05",
-          "category": null
-        },
-        {
-          "url": "https://urayasu-d-rocks.com/news/event/index_2016.html",
-          "title": "イベント 2026.09.05 2026.8.31 津別町長を表敬訪問しました",
-          "date": "2026-09-05",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://urayasu-d-rocks.com/",
-        "https://urayasu-d-rocks.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -50,7 +34,9 @@
       "first_run": false,
       "item_count": 33,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/"
+      ],
       "rename_signals": []
     },
     {
@@ -187,18 +173,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.kyudenvoltex.com/news/1004",
-          "title": "地域・社会貢献 2026年09月05日 NEW 唐津市立伊岐佐小学校でタグラグビー教室を開催しました",
-          "date": "2026-09-05",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.kyudenvoltex.com/",
-        "https://www.kyudenvoltex.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -206,13 +182,11 @@
       "league": "league-one-d2",
       "name": "清水建設江東ブルーシャークス",
       "official_url": "https://blue-sharks.jp/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 24,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://blue-sharks.jp/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -220,13 +194,11 @@
       "league": "league-one-d2",
       "name": "豊田自動織機シャトルズ愛知",
       "official_url": "https://shuttles-aichi.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 7,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://shuttles-aichi.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -234,15 +206,11 @@
       "league": "league-one-d2",
       "name": "日本製鉄釜石シーウェイブス",
       "official_url": "https://kamaishi-seawaves.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 13,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://kamaishi-seawaves.com/",
-        "https://kamaishi-seawaves.com/news/",
-        "https://kamaishi-seawaves.com/news/info/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -318,9 +286,9 @@
       "league": "league-one-d3",
       "name": "中国電力レッドレグリオンズ",
       "official_url": "https://rrrfc.red/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 16,
+      "item_count": 0,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -356,9 +324,9 @@
       "league": "league-one-d3",
       "name": "ルリーロ福岡",
       "official_url": "https://leriro-fukuoka.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 11,
+      "item_count": 0,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -384,14 +352,26 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54182",
-          "title": "「リポビタンDチャレンジカップ2026」 日本代表 対 カナダ代表 試合結果のお知らせ 2026.9.05 （土） 15人制男子日本代表 リポビタンDチャレンジカップ2026",
+          "url": "https://www.rugby-japan.jp/news/54185",
+          "title": "レポート：女子日本代表福岡合宿 2026.9.05 （土） 15人制女子日本代表 女子",
           "date": "2026-09-05",
           "category": "squad"
         },
         {
-          "url": "https://www.rugby-japan.jp/news/54139",
-          "title": "（9/5更新）男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ 2026.9.05 （土） 15人制男子日本代表 WBB 日本代表",
+          "url": "https://www.rugby-japan.jp/news/54184",
+          "title": "アサヒスーパードライ パシフィックネーションズカップ2026 フィジー代表 来日メンバーのお知らせ 2026.9.05 （土） 15人制男子日本代表 パシフィックネーションズカップ2026",
+          "date": "2026-09-05",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54183",
+          "title": "女子セブンズ・デベロップメント・スコッド（SDS） 福岡合宿スケジュールと参加メンバーのお知らせ 2026.9.05 （土） 女子セブンズ日本代表 女子 セブンズ",
+          "date": "2026-09-05",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54155",
+          "title": "（9/5更新）レポート：女子15人制強化・TID合同福岡合宿 2026.9.05 （土） 15人制女子日本代表 女子",
           "date": "2026-09-05",
           "category": "squad"
         }
@@ -412,21 +392,40 @@
   "highlights": [
     {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54182",
-      "title": "「リポビタンDチャレンジカップ2026」 日本代表 対 カナダ代表 試合結果のお知らせ 2026.9.05 （土） 15人制男子日本代表 リポビタンDチャレンジカップ2026",
+      "url": "https://www.rugby-japan.jp/news/54185",
+      "title": "レポート：女子日本代表福岡合宿 2026.9.05 （土） 15人制女子日本代表 女子",
       "date": "2026-09-05",
       "category": "squad"
     },
     {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54139",
-      "title": "（9/5更新）男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ 2026.9.05 （土） 15人制男子日本代表 WBB 日本代表",
+      "url": "https://www.rugby-japan.jp/news/54184",
+      "title": "アサヒスーパードライ パシフィックネーションズカップ2026 フィジー代表 来日メンバーのお知らせ 2026.9.05 （土） 15人制男子日本代表 パシフィックネーションズカップ2026",
+      "date": "2026-09-05",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54183",
+      "title": "女子セブンズ・デベロップメント・スコッド（SDS） 福岡合宿スケジュールと参加メンバーのお知らせ 2026.9.05 （土） 女子セブンズ日本代表 女子 セブンズ",
+      "date": "2026-09-05",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54155",
+      "title": "（9/5更新）レポート：女子15人制強化・TID合同福岡合宿 2026.9.05 （土） 15人制女子日本代表 女子",
       "date": "2026-09-05",
       "category": "squad"
     }
   ],
   "league_rename_news": [],
   "warnings": [
+    "清水建設江東ブルーシャークス: 到達できるページがない: https://blue-sharks.jp/",
+    "豊田自動織機シャトルズ愛知: 到達できるページがない: https://shuttles-aichi.com/",
+    "日本製鉄釜石シーウェイブス: 到達できるページがない: https://kamaishi-seawaves.com/",
+    "中国電力レッドレグリオンズ: 到達できるページがない: https://rrrfc.red/",
+    "ルリーロ福岡: 到達できるページがない: https://leriro-fukuoka.com/",
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
   ]
 }
