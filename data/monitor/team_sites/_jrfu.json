@@ -1,24 +1,27 @@
 {
-  "checked_at": "2026-09-05T22:37:11+09:00",
+  "checked_at": "2026-09-06T17:35:45+09:00",
   "url": "https://www.rugby-japan.jp/news/",
   "items": [
     {
+      "url": "https://www.rugby-japan.jp/news/54167",
+      "title": "第80回国民スポーツ大会「青の煌めきあおもり国スポ」ラグビーフットボール競技 組み合わせ決定のお知らせ 2026.9.06 （日） JRFU",
+      "date": "2026-09-06",
+      "category": null
+    },
+    {
       "url": "https://www.rugby-japan.jp/news/54185",
       "title": "レポート：女子日本代表福岡合宿 2026.9.05 （土） 15人制女子日本代表 女子",
-      "date": "2026-09-05",
-      "category": "squad"
+      "date": "2026-09-05"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54184",
       "title": "アサヒスーパードライ パシフィックネーションズカップ2026 フィジー代表 来日メンバーのお知らせ 2026.9.05 （土） 15人制男子日本代表 パシフィックネーションズカップ2026",
-      "date": "2026-09-05",
-      "category": "squad"
+      "date": "2026-09-05"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54183",
       "title": "女子セブンズ・デベロップメント・スコッド（SDS） 福岡合宿スケジュールと参加メンバーのお知らせ 2026.9.05 （土） 女子セブンズ日本代表 女子 セブンズ",
-      "date": "2026-09-05",
-      "category": "squad"
+      "date": "2026-09-05"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54182",
@@ -28,8 +31,7 @@
     {
       "url": "https://www.rugby-japan.jp/news/54155",
       "title": "（9/5更新）レポート：女子15人制強化・TID合同福岡合宿 2026.9.05 （土） 15人制女子日本代表 女子",
-      "date": "2026-09-05",
-      "category": "squad"
+      "date": "2026-09-05"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54139",
@@ -44,11 +46,6 @@
     {
       "url": "https://www.rugby-japan.jp/news/54180",
       "title": "JAPAN RUGBY CHALLENGE MATCH 2026 女子日本代表 対 女子フィジー代表 試合結果のお知らせ 2026.9.04 （金） 15人制女子日本代表 女子",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54168",
-      "title": "男子セブンズ・デベロップメント・スコッド(SDS) スペイン遠征スケジュールと参加メンバーのお知らせ 2026.9.04 （金） 男子セブンズ日本代表 セブンズ SDS 男子セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド",
       "date": "2026-09-04"
     },
     {
