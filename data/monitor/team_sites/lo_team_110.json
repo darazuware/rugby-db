@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-09-07T18:14:23+09:00",
+  "checked_at": "2026-09-08T01:13:01+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "19d4faeae82dfcf6"
+      "hash": "1e8869b2633bc31b"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "551490a898ebab3d"
+      "hash": "ce3fbfac4503aad5"
     }
   ],
   "items": [
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1004",
-      "title": "地域・社会貢献 2026年09月05日 NEW 唐津市立伊岐佐小学校でタグラグビー教室を開催しました",
+      "title": "地域・社会貢献 2026年09月05日 唐津市立伊岐佐小学校でタグラグビー教室を開催しました",
       "date": "2026-09-05"
     },
     {

@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-09-07T18:14:23+09:00",
+  "checked_at": "2026-09-08T01:13:01+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "6d7f36fd9b93a867"
+      "hash": "32a45fb231584065"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "fef24878eb950b2d"
+      "hash": "63d5c2fba662f6e8"
     }
   ],
   "items": [
@@ -23,18 +23,13 @@
       "date": "2026-09-07"
     },
     {
-      "url": "https://www.bravelupus.com/news/",
-      "title": "記事一覧",
-      "date": "2026-09-07"
-    },
-    {
       "url": "https://www.bravelupus.com/news/260903/",
       "title": "リポビタンDチャレンジカップ2026 日本代表 対 カナダ代表 試合登録メンバーのお知らせ",
       "date": "2026-09-03"
     },
     {
       "url": "https://www.bravelupus.com/news/%e3%80%902026-27%e3%83%95%e3%82%a1%e3%83%b3%e3%82%af%e3%83%a9%e3%83%96%e3%80%91%e5%85%a5%e4%bc%9a%e5%8f%97%e4%bb%98%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85/",
-      "title": "【2026-27ファンクラブ】入会受付のご案内",
+      "title": "【2026-27ファンクラブ】入会受付のご案内（9/7更新）",
       "date": "2026-09-03"
     },
     {
