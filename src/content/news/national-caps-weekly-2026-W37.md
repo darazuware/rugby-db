@@ -1,0 +1,106 @@
+---
+title: "代表週間代表キャップ更新まとめ（2026-W37）"
+pubDate: 2026-09-07
+category: "NEWS"
+tags: ["代表", "キャップ更新"]
+source_diff: "2026-09-07_national.json"
+draft: false
+---
+
+- [Adam HASTINGS](/players/adam-hastings/): Scotland代表31→40キャップ
+- [Adrian MITU](/players/adrian-mitu/): Romania代表9→15キャップ
+- [Alberto CARMONA](/players/alberto-carmona/): Spain代表16→33キャップ
+- [Andreï MAHU](/players/andrei-mahu/): Romania代表25→32キャップ
+- [Andrew QUATTRIN](/players/andrew-quattrin/): Canada代表43→48キャップ
+- [Ange CAPUOZZO](/players/ange-capuozzo/): Italy代表24→48キャップ
+- [Baptiste JAUNEAU](/players/baptiste-jauneau/): France代表3→4キャップ
+- [Baptiste SERIN](/players/baptiste-serin/): France代表27→30キャップ
+- [Beka GORGADZE](/players/beka-gorgadze/): Georgia代表47→52キャップ
+- [Boris WENGER](/players/boris-wenger/): Argentina代表9→12キャップ
+- [Caleb MUNTZ](/players/caleb-muntz/): Fiji代表33→34キャップ
+- [Cameron HANEKOM](/players/cameron-hanekom/): South Africa代表4→6キャップ
+- [Charlie CALE](/players/charlie-cale/): Australia代表5→9キャップ
+- [Cody THOMAS](/players/cody-thomas/): Portugal代表13→19キャップ
+- [Daragh DOYLE](/players/daragh-doyle/): Canada代表4→6キャップ
+- [Dave CHERRY](/players/dave-cherry/): Scotland代表11→22キャップ
+- [Dewald KOTZE](/players/dewald-kotze/): Canada代表8→9キャップ
+- [Diego ESCOBAR](/players/diego-escobar/): Chile代表18→32キャップ
+- [Emerson PRIOR](/players/emerson-prior/): Canada代表4→7キャップ
+- [Emmanuel MEAFOU](/players/emmanuel-meafou/): France代表9→10キャップ
+- [Faustino SÁNCHEZ VALAROLO](/players/faustino-sanchez-valarolo/): Argentina代表4→6キャップ
+- [Florian VERHAEGHE](/players/florian-verhaeghe/): France代表5→6キャップ
+- [Francisco MORENO](/players/francisco-moreno/): Argentina代表3→4キャップ
+- [Gaël FICKOU](/players/gael-fickou/): France代表116→126キャップ
+- [Giacomo NICOTERA](/players/giacomo-nicotera/): Italy代表22→35キャップ
+- [Giorgi AKHALADZE](/players/giorgi-akhaladze/): Georgia代表15→22キャップ
+- [Giorgi MELIKIDZE](/players/giorgi-melikidze/): Georgia代表30→34キャップ
+- [Gonzalo GARCIA](/players/gonzalo-garcia-1999/): Argentina代表13→31キャップ
+- [Gonzalo LOPEZ BONTEMPO](/players/gonzalo-lopez/): Spain代表25→31キャップ
+- [Greg ALLDRITT](/players/greg-alldritt/): France代表29→71キャップ
+- [Haruto KIDA](/players/haruto-kida/): Japan代表4→5キャップ
+- [Iakopo MAPU](/players/iakopo-petelo-mapu/): Samoa代表14→26キャップ
+- [Ignacio MENDY](/players/ignacio-mendy/): Argentina代表7→9キャップ
+- [Ignacio RUIZ](/players/ignacio-ruiz/): Argentina代表38→48キャップ
+- [Ilia SPANDERASHVILI](/players/ilia-spanderashvili/): Georgia代表29→30キャップ
+- [Isaac HENRY](/players/isaac-henry/): Australia代表4→6キャップ
+- [Izzak KELLY](/players/izzak-kelly/): Canada代表15→16キャップ
+- [Jason HIGGINS](/players/jason-higgins/): Canada代表17→25キャップ
+- [Jeremy WILLIAMS](/players/jeremy-williams/): Australia代表32→40キャップ
+- [Jordie BARRETT](/players/jordie-barrett/): New Zealand代表89→96キャップ
+- [José MADEIRA](/players/jose-madeira/): Portugal代表46→53キャップ
+- [Josh CANHAM](/players/josh-canham/): Australia代表4→5キャップ
+- [Joshua MOORBY](/players/joshua-moorby/): New Zealand代表4→5キャップ
+- [Juan Martin SCELZO](/players/juan-martin-scelzo/): Argentina代表1→2キャップ
+- [Justo PICCARDO](/players/justo-piccardo/): Argentina代表16→17キャップ
+- [Kalvin GOURGUES](/players/kalvin-gourgues/): France代表3→4キャップ
+- [Kerman AURREKOETXEA](/players/kerman-aurrekoetxea/): Spain代表13→32キャップ
+- [Kurt-Lee ARENDSE](/players/kurt-lee-arendse/): South Africa代表36→50キャップ
+- [Kyle PRESTON](/players/kyle-preston/): New Zealand代表3→6キャップ
+- [Kyle STEEVES](/players/kyle-steeves/): Canada代表5→7キャップ
+- [Lalomilo LALOMILO](/players/lalomilo-lalomilo/): Samoa代表8→10キャップ
+- [Len IKITAU](/players/len-ikitau/): Australia代表58→67キャップ
+- [Leonel OVIEDO](/players/leonel-oviedo/): Argentina代表1→2キャップ
+- [Liam JAMES](/players/liam-james/): Canada代表2→4キャップ
+- [Lucas RUMBALL](/players/lucas-rumball/): Canada代表30→70キャップ
+- [Luka JAPARIDZE](/players/luka-japaridze/): Georgia代表9→15キャップ
+- [Luka MATKAVA](/players/luka-matkava/): Georgia代表32→57キャップ
+- [Lukhan SALAKAIA-LOTO](/players/lukhan-lealaiaulolo-tui/): Australia代表35→39キャップ
+- [Manuel LEINDEKAR](/players/manuel-leindekar/): Uruguay代表24→36キャップ
+- [Marcos KREMER](/players/marcos-kremer/): Argentina代表80→118キャップ
+- [Martin PAGE-RELO](/players/martin-page-relo/): Italy代表16→21キャップ
+- [Mason FLESCH](/players/mason-flesch/): Canada代表23→31キャップ
+- [Matías ALEMANNO](/players/matias-alemanno/): Argentina代表68→150キャップ
+- [Matthieu JALIBERT](/players/matthieu-jalibert/): France代表39→50キャップ
+- [Maxime LAMOTHE](/players/maxime-lamothe/): France代表3→7キャップ
+- [Maxime LUCU](/players/maxime-lucu/): France代表26→46キャップ
+- [Nicolas DEPOORTÈRE](/players/nicolas-depoortere/): France代表5→14キャップ
+- [Nicolás ROGER FARIAS](/players/nicolas-roger-farias/): Argentina代表2→6キャップ
+- [Nolann LE GARREC](/players/nolann-le-garrec/): France代表20→21キャップ
+- [Paul BOUDEHENT](/players/paul-boudehent/): France代表13→25キャップ
+- [Peceli YATO](/players/peceli-yato/): Fiji代表18→19キャップ
+- [Pedro DELGADO](/players/pedro-delgado/): Argentina代表7→16キャップ
+- [Pierre-Louis BARASSI](/players/pierre-louis-barassi/): France代表7→15キャップ
+- [Régis MONTAGNE](/players/regis-montagne/): France代表9→13キャップ
+- [Rufus MCLEAN](/players/rufus-mclean/): Usa代表4→7キャップ
+- [Ryunosuke ITO](/players/ryunosuke-ito/): Japan代表3→8キャップ
+- [Sam DARRY](/players/sam-darry/): New Zealand代表13→15キャップ
+- [Sam GREENE](/players/sam-greene/): Japan代表5→10キャップ
+- [Sam MILLER](/players/sam-miller/): Canada代表5→12キャップ
+- [Sama MALOLO](/players/sama-malolo/): Samoa代表13→14キャップ
+- [Santiago GRONDONA](/players/santiago-grondona/): Argentina代表21→22キャップ
+- [Simão BENTO](/players/simao-bento/): Portugal代表22→23キャップ
+- [Simón BENÍTEZ-CRUZ](/players/simon-benitez-cruz/): Argentina代表21→22キャップ
+- [Siôn PARRY](/players/sion-parry/): Canada代表20→26キャップ
+- [Sipili FALATEA](/players/sipili-falatea/): France代表13→22キャップ
+- [Sireli MAQALA](/players/sireli-maqala/): Fiji代表9→11キャップ
+- [Sojiro OTSUKA](/players/sojiro-otsuka/): Japan代表5→7キャップ
+- [Takoda MCMULLIN](/players/takoda-mcmullin/): Canada代表5→7キャップ
+- [Takuro MATSUNAGA](/players/takuro-matsunaga/): Japan代表8→12キャップ
+- [Tevita RATUVA](/players/tevita-ratuva/): Fiji代表9→14キャップ
+- [Thomas LACLAYAT](/players/thomas-laclayat/): France代表3→4キャップ
+- [Tijde VISSER](/players/tijde-visser/): Zimbabwe代表4→6キャップ
+- [Tom ROEBUCK](/players/tom-roebuck/): England代表8→10キャップ
+- [Tommaso MENONCELLO](/players/tommaso-menoncello/): Italy代表31→32キャップ
+- [Vasil LOBZHANIDZE](/players/vasil-lobzhanidze/): Georgia代表90→140キャップ
+- [Wallace SITITI](/players/wallace-sititi/): New Zealand代表12→13キャップ
+- [Xavier NUMIA](/players/xavier-numia/): New Zealand代表2→5キャップ

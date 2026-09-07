@@ -1,0 +1,648 @@
+{
+  "league": "urc",
+  "signings": [
+    {
+      "id": "ar_aiden-stait",
+      "name_en": "Aiden STAIT",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_alfie-luger",
+      "name_en": "Alfie LUGER",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_badri-tsikhistavi",
+      "name_en": "Badri TSIKHISTAVI",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_benjamin-lahet",
+      "name_en": "Benjamin LAHET",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_cody-rae-david",
+      "name_en": "Cody-Rae DAVID",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_cullen-grace",
+      "name_en": "Cullen GRACE",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_dan-john",
+      "name_en": "Dan JOHN",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_denis-marchois",
+      "name_en": "Denis MARCHOIS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_ethan-bolche",
+      "name_en": "Ethan BOLCHE",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_facundo-bosch",
+      "name_en": "Facundo BOSCH",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_gabe-cahsay",
+      "name_en": "Gabe CAHSAY",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_gareth-anscombe",
+      "name_en": "Gareth ANSCOMBE",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_hugo-afonso",
+      "name_en": "Hugo AFONSO",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_imanol-thicoipe",
+      "name_en": "Imanol THICOÏPE",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_isaac-murray-macgregor",
+      "name_en": "Isaac MURRAY-MACGREGOR",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_jayden-brown",
+      "name_en": "Jayden BROWN",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_jokin-duhalt",
+      "name_en": "Jokin DUHALT",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_lalakai-foketi",
+      "name_en": "Lalakai FOKETI",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_lawson-creighton",
+      "name_en": "Lawson CREIGHTON",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_lewis-jones-",
+      "name_en": "Lewis JONES",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_liam-wright",
+      "name_en": "Liam WRIGHT",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_louis-ortolan",
+      "name_en": "Louis ORTOLAN",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_lucas-official",
+      "name_en": "Lucas OFFICIAL",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_luke-tagi",
+      "name_en": "Luke TAGI",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_marika-koroibete",
+      "name_en": "Marika KOROIBETE",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_martin-villar",
+      "name_en": "Martin VILLAR",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_mateo-guerin",
+      "name_en": "Matéo GUÉRIN",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_matheo-futhazar",
+      "name_en": "Mathéo FUTHAZAR",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_matis-perchaud",
+      "name_en": "Matis PERCHAUD",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_max-bru",
+      "name_en": "Max BRU",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_merwe-olivier",
+      "name_en": "Merwe OLIVIER",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_nick-fisk-jones",
+      "name_en": "Nick FISK-JONES",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_pascal-cotet",
+      "name_en": "Pascal COTET",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_peio-dospital",
+      "name_en": "Peïo DOSPITAL",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_pierre-castillon",
+      "name_en": "Pierre CASTILLON",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_pieter-scholtz",
+      "name_en": "Pieter SCHOLTZ",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_quentin-bethune",
+      "name_en": "Quentin BÉTHUNE",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_rafael-cayuela",
+      "name_en": "Rafaël CAYUELA",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_swan-cormenier",
+      "name_en": "Swan CORMENIER",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_tevita-tatafu",
+      "name_en": "Tevita TATAFU",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_thomas-acquier",
+      "name_en": "Thomas ACQUIER",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_tiaan-lange",
+      "name_en": "Tiaan LANGE",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_tielman-nieuwoudt",
+      "name_en": "Tielman NIEUWOUDT",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_tom-allen",
+      "name_en": "Tom ALLEN",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_vincent-giudicelli",
+      "name_en": "Vincent GIUDICELLI",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_will-hepher",
+      "name_en": "Will HEPHER",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_yon-caperaa",
+      "name_en": "Yon CAPÉRAÀ",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_yonn-ramond",
+      "name_en": "Yonn RAMOND",
+      "name_ja": null,
+      "team_id": "scarlets"
+    }
+  ],
+  "transfers": [
+    {
+      "id": "ar_alex-groves",
+      "name_en": "Alex GROVES",
+      "name_ja": null,
+      "from_team_id": "stormers",
+      "to_team_id": "scarlets"
+    },
+    {
+      "id": "ar_deon-slabbert",
+      "name_en": "Deon SLABBERT",
+      "name_ja": null,
+      "from_team_id": "sharks",
+      "to_team_id": "ospreys"
+    },
+    {
+      "id": "ar_steff-jac-jones",
+      "name_en": "Steff Jac JONES",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "ospreys"
+    },
+    {
+      "id": "ar_tom-rogers",
+      "name_en": "Tom ROGERS",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "ospreys"
+    }
+  ],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [
+    {
+      "id": "ar_adam-hastings",
+      "name_en": "Adam HASTINGS",
+      "name_ja": null,
+      "team": "Scotland",
+      "from_count": 31,
+      "to_count": 40
+    },
+    {
+      "id": "ar_cameron-hanekom",
+      "name_en": "Cameron HANEKOM",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 4,
+      "to_count": 6
+    },
+    {
+      "id": "ar_enrique-pieretto-heiland",
+      "name_en": "Enrique PIERETTO HEILAND",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 23,
+      "to_count": 33
+    },
+    {
+      "id": "ar_gonzalo-garcia-1999",
+      "name_en": "Gonzalo GARCIA",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 23,
+      "to_count": 31
+    },
+    {
+      "id": "ar_ignacio-mendy",
+      "name_en": "Ignacio MENDY",
+      "name_ja": null,
+      "team": "Argentina",
+      "from_count": 7,
+      "to_count": 9
+    },
+    {
+      "id": "ar_kurt-lee-arendse",
+      "name_en": "Kurt-Lee ARENDSE",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 36,
+      "to_count": 50
+    },
+    {
+      "id": "ar_lekso-kaulashvili",
+      "name_en": "Lekso KAULASHVILI",
+      "name_ja": null,
+      "team": "Georgia",
+      "from_count": 4,
+      "to_count": 6
+    },
+    {
+      "id": "ar_maxime-lamothe",
+      "name_en": "Maxime LAMOTHE",
+      "name_ja": null,
+      "team": "France",
+      "from_count": 3,
+      "to_count": 7
+    },
+    {
+      "id": "ar_ox-nche",
+      "name_en": "Ox NCHÉ",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 58,
+      "to_count": 75
+    },
+    {
+      "id": "ar_rabah-slimani",
+      "name_en": "Rabah SLIMANI",
+      "name_ja": null,
+      "team": "France",
+      "from_count": 50,
+      "to_count": 81
+    },
+    {
+      "id": "ar_sipili-falatea",
+      "name_en": "Sipili FALATEA",
+      "name_ja": null,
+      "team": "France",
+      "from_count": 13,
+      "to_count": 22
+    },
+    {
+      "id": "ar_tommaso-menoncello",
+      "name_en": "Tommaso MENONCELLO",
+      "name_ja": null,
+      "team": "Italy",
+      "from_count": 31,
+      "to_count": 32
+    }
+  ],
+  "pending_departures": [
+    {
+      "id": "ar_alec-hepburn",
+      "name_en": "Alec HEPBURN",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_amine-maalla",
+      "name_en": "Amine MAALLA",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_ben-williams-14088",
+      "name_en": "Ben WILLIAMS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_billy-mcbryde",
+      "name_en": "Billy MCBRYDE",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_connor-moyse",
+      "name_en": "Connor MOYSE",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_cornel-smit",
+      "name_en": "Cornel SMIT",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_cyril-cazeaux",
+      "name_en": "Cyril CAZEAUX",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_dan-gemine",
+      "name_en": "Dan GEMINE",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_daniel-kasende",
+      "name_en": "Daniel KASENDE",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_dewi-lake",
+      "name_en": "Dewi LAKE",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_evan-hill",
+      "name_en": "Evan HILL",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_guido-petti",
+      "name_en": "Guido PETTI",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_ieuan-cornelius",
+      "name_en": "Ieuan CORNELIUS",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_jac-morgan",
+      "name_en": "Jac MORGAN",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_jack-walsh",
+      "name_en": "Jack WALSH",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_jacques-nguimbous",
+      "name_en": "Jacques NGUIMBOUS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_jake-ball",
+      "name_en": "Jake BALL",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_james-fender",
+      "name_en": "James FENDER",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_jandre-marais",
+      "name_en": "Jandré MARAIS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_jarrod-taylor",
+      "name_en": "Jarrod TAYLOR",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_jules-dussutour",
+      "name_en": "Jules DUSSUTOUR",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_keillen-cullen",
+      "name_en": "Keillen CULLEN",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_liam-edwards",
+      "name_en": "Liam EDWARDS",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_luke-scully",
+      "name_en": "Luke SCULLY",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_marco-de-witt",
+      "name_en": "Marco DE WITT",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_marnus-van-der-merwe",
+      "name_en": "Marnus VAN DER MERWE",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_max-douglas",
+      "name_en": "Max DOUGLAS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_max-nagy",
+      "name_en": "Max NAGY",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_osian-roberts",
+      "name_en": "Osian ROBERTS",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_phil-cokanasiga",
+      "name_en": "Phil COKANASIGA",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_rhodri-lewis",
+      "name_en": "Rhodri LEWIS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_ryan-conbeer",
+      "name_en": "Ryan CONBEER",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_scott-whitlock",
+      "name_en": "Scott WHITLOCK",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_tiaan-fourie",
+      "name_en": "Tiaan FOURIE",
+      "name_ja": null,
+      "team_id": "sharks"
+    },
+    {
+      "id": "ar_tom-florence-",
+      "name_en": "Tom FLORENCE",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_tom-phillips-",
+      "name_en": "Tom PHILLIPS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_william-greatbanks",
+      "name_en": "Will GREATBANKS",
+      "name_ja": null,
+      "team_id": "ospreys"
+    }
+  ],
+  "newly_finished_rounds": []
+}

@@ -870,16 +870,16 @@
     "league": "national",
     "source": "rugby-japan.jp",
     "source_url": "https://www.rugby-japan.jp/news/54139",
-    "scraped_at": "2026-08-26T09:56:44+09:00",
+    "scraped_at": "2026-09-07T11:09:48+09:00",
     "news_id": "54139",
     "kind": "camp",
-    "title": "男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ",
-    "venue": null,
+    "title": "（9/5更新）男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ",
+    "venue": "宮崎県屋外型トレーニングセンター",
     "start_date": "2026-08-27",
     "members": [
       {
         "player_id": "ar_ryosuke-iwaihara",
-        "name_ja": "祝原 涼介",
+        "name_ja": "祝原 涼介 ※6.",
         "name_en": "Ryosuke IWAIHARA",
         "position_group": "FW",
         "club_raw": "栃木ホンダヒート",
@@ -903,6 +903,14 @@
       },
       {
         "player_id": null,
+        "name_ja": "古畑 翔 ※7. Sho FURUHATA",
+        "name_en": null,
+        "position_group": "FW",
+        "club_raw": "埼玉パナソニックワイルドナイツ",
+        "caps": 1
+      },
+      {
+        "player_id": null,
         "name_ja": "佐藤 健次 Kenji SATO",
         "name_en": null,
         "position_group": "FW",
@@ -918,7 +926,7 @@
         "caps": 16
       },
       {
-        "player_id": "jrfu_national_510683",
+        "player_id": "jrfu_national_510756",
         "name_ja": "平野 叶翔",
         "name_en": "Kanato HIRANO",
         "position_group": "FW",
@@ -927,19 +935,27 @@
       },
       {
         "player_id": "ar_izi-sword",
-        "name_ja": "イジー・ソード",
+        "name_ja": "イジー・ソード ※4.",
         "name_en": "Izi SWORD",
         "position_group": "FW",
         "club_raw": "クボタスピアーズ船橋・東京ベイ",
         "caps": 2
       },
       {
-        "player_id": "jrfu_national_510660",
+        "player_id": "ar_takumi-inaba",
         "name_ja": "稲場 巧 ※1.",
         "name_en": "Takumi INABA",
         "position_group": "FW",
-        "club_raw": "静岡ブルーレブズ",
+        "club_raw": "静岡ブルーレヴズ",
         "caps": 0
+      },
+      {
+        "player_id": null,
+        "name_ja": "木村 星南 ※5. Sena KIMURA",
+        "name_en": null,
+        "position_group": "FW",
+        "club_raw": "東芝ブレイブルーパス東京 TOSHIBA BRAVE LUPUS TOKYO",
+        "caps": 3
       },
       {
         "player_id": "ar_shuhei-takeuchi",
@@ -966,7 +982,7 @@
         "caps": 3
       },
       {
-        "player_id": "jrfu_callup_ruan-botha",
+        "player_id": "jrfu_national_510764",
         "name_ja": "ルアン・ボタ",
         "name_en": "Ruan BOTHA",
         "position_group": "FW",
@@ -1014,7 +1030,7 @@
         "caps": 1
       },
       {
-        "player_id": "jrfu_callup_shin-takeuchi",
+        "player_id": "jrfu_national_510750",
         "name_ja": "武内 慎",
         "name_en": "Shin TAKEUCHI",
         "position_group": "FW",
@@ -1063,11 +1079,19 @@
       },
       {
         "player_id": "ar_shunsuke-uenobo",
-        "name_ja": "上ノ坊 駿介",
+        "name_ja": "上ノ坊 駿介 ※2.",
         "name_en": "Shunsuke UENOBO",
         "position_group": "BK",
         "club_raw": "コベルコ神戸スティーラーズ",
         "caps": 3
+      },
+      {
+        "player_id": null,
+        "name_ja": "武藤 ゆらぎ ※3. Yuragi MUTO",
+        "name_en": null,
+        "position_group": "BK",
+        "club_raw": "横浜キヤノンイーグルス YOKOHAMA CANON EAGLES",
+        "caps": 0
       },
       {
         "player_id": "ar_yuki-ikeda",
@@ -1126,7 +1150,7 @@
         "caps": 3
       },
       {
-        "player_id": "jrfu_national_510663",
+        "player_id": "ar_inoke-burua",
         "name_ja": "イノケ・ブルア",
         "name_en": "Inoke BURUA",
         "position_group": "BK",

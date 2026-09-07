@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ar_adam-hastings",
+    "name_en": "Adam HASTINGS",
+    "name_ja": null,
+    "team": "Scotland",
+    "from_count": 31,
+    "to_count": 40
+  },
+  {
+    "id": "ar_cameron-hanekom",
+    "name_en": "Cameron HANEKOM",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 4,
+    "to_count": 6
+  },
+  {
+    "id": "ar_enrique-pieretto-heiland",
+    "name_en": "Enrique PIERETTO HEILAND",
+    "name_ja": null,
+    "team": "Argentina",
+    "from_count": 23,
+    "to_count": 33
+  },
+  {
+    "id": "ar_gonzalo-garcia-1999",
+    "name_en": "Gonzalo GARCIA",
+    "name_ja": null,
+    "team": "Argentina",
+    "from_count": 23,
+    "to_count": 31
+  },
+  {
+    "id": "ar_ignacio-mendy",
+    "name_en": "Ignacio MENDY",
+    "name_ja": null,
+    "team": "Argentina",
+    "from_count": 7,
+    "to_count": 9
+  },
+  {
+    "id": "ar_kurt-lee-arendse",
+    "name_en": "Kurt-Lee ARENDSE",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 36,
+    "to_count": 50
+  },
+  {
+    "id": "ar_lekso-kaulashvili",
+    "name_en": "Lekso KAULASHVILI",
+    "name_ja": null,
+    "team": "Georgia",
+    "from_count": 4,
+    "to_count": 6
+  },
+  {
+    "id": "ar_maxime-lamothe",
+    "name_en": "Maxime LAMOTHE",
+    "name_ja": null,
+    "team": "France",
+    "from_count": 3,
+    "to_count": 7
+  },
+  {
+    "id": "ar_ox-nche",
+    "name_en": "Ox NCHÉ",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 58,
+    "to_count": 75
+  },
+  {
+    "id": "ar_rabah-slimani",
+    "name_en": "Rabah SLIMANI",
+    "name_ja": null,
+    "team": "France",
+    "from_count": 50,
+    "to_count": 81
+  },
+  {
+    "id": "ar_sipili-falatea",
+    "name_en": "Sipili FALATEA",
+    "name_ja": null,
+    "team": "France",
+    "from_count": 13,
+    "to_count": 22
+  },
+  {
+    "id": "ar_tommaso-menoncello",
+    "name_en": "Tommaso MENONCELLO",
+    "name_ja": null,
+    "team": "Italy",
+    "from_count": 31,
+    "to_count": 32
+  }
+]

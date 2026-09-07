@@ -1,0 +1,356 @@
+[
+  {
+    "id": "ar_adam-coleman",
+    "name_en": "Adam COLEMAN",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_adam-zapĘdowski",
+    "name_en": "Adam ZAPĘDOWSKI",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_akenzua-al-kareem-abdul-khalik",
+    "name_en": "Akenzua Al-Kareem ABDUL-KHALIK",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_alfie-barbeary",
+    "name_en": "Alfie BARBEARY",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_archie-griffin",
+    "name_en": "Archie GRIFFIN",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_archie-stanley",
+    "name_en": "Archie STANLEY",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_arthur-cordwell",
+    "name_en": "Arthur CORDWELL",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_arthur-green",
+    "name_en": "Arthur GREEN",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_ben-tameifuna",
+    "name_en": "Ben TAMEIFUNA",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_beno--obano-",
+    "name_en": "Beno OBANO",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_billy-sela",
+    "name_en": "Billy SELA",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_carlu-sadie",
+    "name_en": "Carlü SADIE",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_charlie-ewels",
+    "name_en": "Charlie EWELS",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_connor-sa",
+    "name_en": "Connor SA",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_cyril-cazeaux",
+    "name_en": "Cyril CAZEAUX",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_daniel-marais",
+    "name_en": "Daniel MARAIS",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_eddie-erskine",
+    "name_en": "Eddie ERSKINE",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_elliot-stooke",
+    "name_en": "Elliot STOOKE",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_fabrice-metz",
+    "name_en": "Fabrice METZ",
+    "name_ja": null,
+    "team_id": "paris"
+  },
+  {
+    "id": "ar_facundo-bosch",
+    "name_en": "Facundo BOSCH",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_hame-faiva",
+    "name_en": "Hame FAIVA",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_harvey-cuckson",
+    "name_en": "Harvey CUCKSON",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_hugo-leclerq",
+    "name_en": "Hugo LECLERQ",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_ignacio-valdes-leiva",
+    "name_en": "Ignacio VALDES-LEIVA",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_ioan-emanuel",
+    "name_en": "Ioan EMANUEL",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_jack-bennett",
+    "name_en": "Jack BENNETT",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_jacques-du-plessis",
+    "name_en": "Jacques DU PLESSIS",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_jasper-spandler",
+    "name_en": "Jasper SPANDLER",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_jefferson-poirot",
+    "name_en": "Jefferson POIROT",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_johannes-jonker",
+    "name_en": "Johannes JONKER",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_john-stewart",
+    "name_en": "John STEWART",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_josh-mcnally",
+    "name_en": "Josh MCNALLY",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_juan-schoeman",
+    "name_en": "Juan SCHOEMAN",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_jules-coulon",
+    "name_en": "Jules COULON",
+    "name_ja": null,
+    "team_id": "toulon"
+  },
+  {
+    "id": "ar_kieran-verden",
+    "name_en": "Kieran VERDEN",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_lekso-kaulashvili",
+    "name_en": "Lekso KAULASHVILI",
+    "name_ja": null,
+    "team_id": "pau"
+  },
+  {
+    "id": "ar_lenny-alifanety",
+    "name_en": "Lenny ALIFANETY",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_lucas-official",
+    "name_en": "Lucas OFFICIAL",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_lucas-paulos",
+    "name_en": "Lucas PAULOS",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_luke-tagi",
+    "name_en": "Luke TAGI",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_max-pearce",
+    "name_en": "Max PEARCE",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_maxime-lamothe",
+    "name_en": "Maxime LAMOTHE",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_mikey-summerfield",
+    "name_en": "Mikey SUMMERFIELD",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_nial-annett",
+    "name_en": "Niall ANNETT",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_pierre-castillon",
+    "name_en": "Pierre CASTILLON",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_quinn-roux",
+    "name_en": "Quinn ROUX",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_rory-cameron",
+    "name_en": "Rory CAMERON",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_ruben-pargade",
+    "name_en": "Ruben PARGADE",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_scott-kirk",
+    "name_en": "Scott KIRK",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_sipili-falatea",
+    "name_en": "Sipili FALATEA",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_swan-cormenier",
+    "name_en": "Swan CORMENIER",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_tevita-tatafu",
+    "name_en": "Tevita TATAFU",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_thomas-ceyte",
+    "name_en": "Thomas CEYTE",
+    "name_ja": null,
+    "team_id": "toulouse"
+  },
+  {
+    "id": "ar_thomas-du-toit",
+    "name_en": "Thomas DU TOIT",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_tom-dunn",
+    "name_en": "Tom DUNN",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_toma-akino-taufa",
+    "name_en": "Toma'Akino TAUFA",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  },
+  {
+    "id": "ar_txomin-ithurbide",
+    "name_en": "Txomin ITHURBIDE",
+    "name_ja": null,
+    "team_id": "toulouse"
+  },
+  {
+    "id": "ar_will-stuart",
+    "name_en": "Will STUART",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_zaccharie-affane",
+    "name_en": "Zaccharie AFFANE",
+    "name_ja": null,
+    "team_id": "bordeaux"
+  }
+]

@@ -1209,12 +1209,6 @@
       "name_ja": null,
       "team_id": "vannes"
     },
-    "ar_fabrice-metz": {
-      "id": "ar_fabrice-metz",
-      "name_en": "Fabrice METZ",
-      "name_ja": null,
-      "team_id": "vannes"
-    },
     "ar_feleti-kaitu-u": {
       "id": "ar_feleti-kaitu-u",
       "name_en": "Feleti KAITU'U",
@@ -2325,11 +2319,23 @@
       "name_ja": null,
       "team_id": "bayonne"
     },
-    "ar_jules-coulon": {
-      "id": "ar_jules-coulon",
-      "name_en": "Jules COULON",
+    "ar_martin-verdu": {
+      "id": "ar_martin-verdu",
+      "name_en": "Martin VERDU",
       "name_ja": null,
-      "team_id": "toulon"
+      "team_id": "castres"
+    },
+    "ar_nika-sutidze": {
+      "id": "ar_nika-sutidze",
+      "name_en": "Nika SUTIDZE",
+      "name_ja": null,
+      "team_id": "la-rochelle"
+    },
+    "ar_paul-jedrasiak": {
+      "id": "ar_paul-jedrasiak",
+      "name_en": "Paul JEDRASIAK",
+      "name_ja": null,
+      "team_id": "castres"
     }
   },
   "super-rugby": {
@@ -2432,9 +2438,1342 @@
       "name_en": "Tiaan FOURIE",
       "name_ja": null,
       "team_id": "sharks"
+    },
+    "ar_alec-hepburn": {
+      "id": "ar_alec-hepburn",
+      "name_en": "Alec HEPBURN",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    "ar_amine-maalla": {
+      "id": "ar_amine-maalla",
+      "name_en": "Amine MAALLA",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    "ar_ben-williams-14088": {
+      "id": "ar_ben-williams-14088",
+      "name_en": "Ben WILLIAMS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    "ar_billy-mcbryde": {
+      "id": "ar_billy-mcbryde",
+      "name_en": "Billy MCBRYDE",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    "ar_connor-moyse": {
+      "id": "ar_connor-moyse",
+      "name_en": "Connor MOYSE",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    "ar_cyril-cazeaux": {
+      "id": "ar_cyril-cazeaux",
+      "name_en": "Cyril CAZEAUX",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    "ar_dan-gemine": {
+      "id": "ar_dan-gemine",
+      "name_en": "Dan GEMINE",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    "ar_daniel-kasende": {
+      "id": "ar_daniel-kasende",
+      "name_en": "Daniel KASENDE",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    "ar_dewi-lake": {
+      "id": "ar_dewi-lake",
+      "name_en": "Dewi LAKE",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    "ar_evan-hill": {
+      "id": "ar_evan-hill",
+      "name_en": "Evan HILL",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    "ar_guido-petti": {
+      "id": "ar_guido-petti",
+      "name_en": "Guido PETTI",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    "ar_ieuan-cornelius": {
+      "id": "ar_ieuan-cornelius",
+      "name_en": "Ieuan CORNELIUS",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    "ar_jac-morgan": {
+      "id": "ar_jac-morgan",
+      "name_en": "Jac MORGAN",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    "ar_jack-walsh": {
+      "id": "ar_jack-walsh",
+      "name_en": "Jack WALSH",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    "ar_jacques-nguimbous": {
+      "id": "ar_jacques-nguimbous",
+      "name_en": "Jacques NGUIMBOUS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    "ar_jake-ball": {
+      "id": "ar_jake-ball",
+      "name_en": "Jake BALL",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    "ar_james-fender": {
+      "id": "ar_james-fender",
+      "name_en": "James FENDER",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    "ar_jandre-marais": {
+      "id": "ar_jandre-marais",
+      "name_en": "Jandré MARAIS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    "ar_jarrod-taylor": {
+      "id": "ar_jarrod-taylor",
+      "name_en": "Jarrod TAYLOR",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    "ar_jules-dussutour": {
+      "id": "ar_jules-dussutour",
+      "name_en": "Jules DUSSUTOUR",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    "ar_keillen-cullen": {
+      "id": "ar_keillen-cullen",
+      "name_en": "Keillen CULLEN",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    "ar_liam-edwards": {
+      "id": "ar_liam-edwards",
+      "name_en": "Liam EDWARDS",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    "ar_luke-scully": {
+      "id": "ar_luke-scully",
+      "name_en": "Luke SCULLY",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    "ar_marco-de-witt": {
+      "id": "ar_marco-de-witt",
+      "name_en": "Marco DE WITT",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    "ar_marnus-van-der-merwe": {
+      "id": "ar_marnus-van-der-merwe",
+      "name_en": "Marnus VAN DER MERWE",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    "ar_max-douglas": {
+      "id": "ar_max-douglas",
+      "name_en": "Max DOUGLAS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    "ar_max-nagy": {
+      "id": "ar_max-nagy",
+      "name_en": "Max NAGY",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    "ar_osian-roberts": {
+      "id": "ar_osian-roberts",
+      "name_en": "Osian ROBERTS",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    "ar_phil-cokanasiga": {
+      "id": "ar_phil-cokanasiga",
+      "name_en": "Phil COKANASIGA",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    "ar_rhodri-lewis": {
+      "id": "ar_rhodri-lewis",
+      "name_en": "Rhodri LEWIS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    "ar_ryan-conbeer": {
+      "id": "ar_ryan-conbeer",
+      "name_en": "Ryan CONBEER",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    "ar_scott-whitlock": {
+      "id": "ar_scott-whitlock",
+      "name_en": "Scott WHITLOCK",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    "ar_tom-florence-": {
+      "id": "ar_tom-florence-",
+      "name_en": "Tom FLORENCE",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    "ar_tom-phillips-": {
+      "id": "ar_tom-phillips-",
+      "name_en": "Tom PHILLIPS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    "ar_william-greatbanks": {
+      "id": "ar_william-greatbanks",
+      "name_en": "Will GREATBANKS",
+      "name_ja": null,
+      "team_id": "ospreys"
     }
   },
-  "premiership": {},
+  "premiership": {
+    "ar_alban-roussel": {
+      "id": "ar_alban-roussel",
+      "name_en": "Alban ROUSSEL",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_albert-bradshaw": {
+      "id": "ar_albert-bradshaw",
+      "name_en": "Albert BRADSHAW",
+      "name_ja": null,
+      "team_id": "sale"
+    },
+    "ar_alfie-bell": {
+      "id": "ar_alfie-bell",
+      "name_en": "Alfie BELL",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_amanaki-mafi": {
+      "id": "ar_amanaki-mafi",
+      "name_en": "Amanaki MAFI",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_amine-maalla": {
+      "id": "ar_amine-maalla",
+      "name_en": "Amine MAALLA",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_anthony-dinu": {
+      "id": "ar_anthony-dinu",
+      "name_en": "Anthony DINU",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_archie-appleby": {
+      "id": "ar_archie-appleby",
+      "name_en": "Archie APPLEBY",
+      "name_ja": null,
+      "team_id": "northampton"
+    },
+    "ar_archie-maggs": {
+      "id": "ar_archie-maggs",
+      "name_en": "Archie MAGGS",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_barnaby-merritt": {
+      "id": "ar_barnaby-merritt",
+      "name_en": "Barney MERRITT",
+      "name_ja": null,
+      "team_id": "saracens"
+    },
+    "ar_barny-langton": {
+      "id": "ar_barny-langton",
+      "name_en": "Barny LANGTON",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_ben-healy": {
+      "id": "ar_ben-healy",
+      "name_en": "Ben HEALY",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_ben-murphy-": {
+      "id": "ar_ben-murphy-",
+      "name_en": "Ben MURPHY",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_ben-tameifuna": {
+      "id": "ar_ben-tameifuna",
+      "name_en": "Ben TAMEIFUNA",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_billy-pasco": {
+      "id": "ar_billy-pasco",
+      "name_en": "Billy PASCO",
+      "name_ja": null,
+      "team_id": "northampton"
+    },
+    "ar_boeta-chamberlain": {
+      "id": "ar_boeta-chamberlain",
+      "name_en": "Boeta CHAMBERLAIN",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_bronson-kingsley-mellowes": {
+      "id": "ar_bronson-kingsley-mellowes",
+      "name_en": "Bronson KINGSLEY-MELLOWES",
+      "name_ja": null,
+      "team_id": "leicester"
+    },
+    "ar_callum-braley": {
+      "id": "ar_callum-braley",
+      "name_en": "Callum BRALEY",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_callum-hancock": {
+      "id": "ar_callum-hancock",
+      "name_en": "Callum HANCOCK",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_cameron-doak": {
+      "id": "ar_cameron-doak",
+      "name_en": "Cameron DOAK",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_cameron-miell": {
+      "id": "ar_cameron-miell",
+      "name_en": "Cameron MIELL",
+      "name_ja": null,
+      "team_id": "leicester"
+    },
+    "ar_cameron-neild": {
+      "id": "ar_cameron-neild",
+      "name_en": "Cameron NEILD",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_charlie-barker": {
+      "id": "ar_charlie-barker",
+      "name_en": "Charlie BARKER",
+      "name_ja": null,
+      "team_id": "saracens"
+    },
+    "ar_charlie-bell": {
+      "id": "ar_charlie-bell",
+      "name_en": "Charlie BELL",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_charlie-chapman": {
+      "id": "ar_charlie-chapman",
+      "name_en": "Charlie CHAPMAN",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_chris-cloete": {
+      "id": "ar_chris-cloete",
+      "name_en": "Chris CLOETE",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_christopher-vaotoa": {
+      "id": "ar_christopher-vaotoa",
+      "name_en": "Christopher VAOTOA",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_clement-maynadier": {
+      "id": "ar_clement-maynadier",
+      "name_en": "Clément MAYNADIER",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_connor-doherty": {
+      "id": "ar_connor-doherty",
+      "name_en": "Connor DOHERTY",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_connor-hancock": {
+      "id": "ar_connor-hancock",
+      "name_en": "Connor HANCOCK",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_conor-byrne": {
+      "id": "ar_conor-byrne",
+      "name_en": "Conor BYRNE",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_cyril-cazeaux": {
+      "id": "ar_cyril-cazeaux",
+      "name_en": "Cyril CAZEAUX",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_d-arcy-rae": {
+      "id": "ar_d-arcy-rae",
+      "name_en": "D'Arcy RAE",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_dan-john": {
+      "id": "ar_dan-john",
+      "name_en": "Dan JOHN",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_dan-o-reilly": {
+      "id": "ar_dan-o-reilly",
+      "name_en": "Dan O'REILLY",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_dave-attwood": {
+      "id": "ar_dave-attwood",
+      "name_en": "Dave ATTWOOD",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_eduardo-bello": {
+      "id": "ar_eduardo-bello",
+      "name_en": "Eduardo BELLO",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_elliot-young": {
+      "id": "ar_elliot-young",
+      "name_en": "Elliot YOUNG",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_elliott-obatoyinbo": {
+      "id": "ar_elliott-obatoyinbo",
+      "name_en": "Elliott OBATOYINBO",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_emeka-atuanya": {
+      "id": "ar_emeka-atuanya",
+      "name_en": "Emeka ATUANYA",
+      "name_ja": null,
+      "team_id": "northampton"
+    },
+    "ar_enzo-fernandes": {
+      "id": "ar_enzo-fernandes",
+      "name_en": "Enzo FERNANDES",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_ewan-caven": {
+      "id": "ar_ewan-caven",
+      "name_en": "Ewan CAVEN",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_felix-champain": {
+      "id": "ar_felix-champain",
+      "name_en": "Felix CHAMPAIN",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_fergus-lee-warner": {
+      "id": "ar_fergus-lee-warner",
+      "name_en": "Fergus LEE-WARNER",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_francois-van-wyk": {
+      "id": "ar_francois-van-wyk",
+      "name_en": "François VAN WYK",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_frank-chatterton": {
+      "id": "ar_frank-chatterton",
+      "name_en": "Frank CHATTERTON",
+      "name_ja": null,
+      "team_id": "sale"
+    },
+    "ar_fraser-renwick": {
+      "id": "ar_fraser-renwick",
+      "name_en": "Fraser RENWICK",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_fred-davies": {
+      "id": "ar_fred-davies",
+      "name_en": "Fred DAVIES",
+      "name_ja": null,
+      "team_id": "bristol"
+    },
+    "ar_freddie-clarke": {
+      "id": "ar_freddie-clarke",
+      "name_en": "Freddie CLARKE",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_freddie-lockwood": {
+      "id": "ar_freddie-lockwood",
+      "name_en": "Freddie LOCKWOOD",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_gareth-simpson": {
+      "id": "ar_gareth-simpson",
+      "name_en": "Gareth SIMPSON",
+      "name_ja": null,
+      "team_id": "saracens"
+    },
+    "ar_george-dufty": {
+      "id": "ar_george-dufty",
+      "name_en": "George DUFTY",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_guy-rogers": {
+      "id": "ar_guy-rogers",
+      "name_en": "Guy ROGERS",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_hamish-watson": {
+      "id": "ar_hamish-watson",
+      "name_en": "Hamish WATSON",
+      "name_ja": null,
+      "team_id": "leicester"
+    },
+    "ar_hanro-liebenberg": {
+      "id": "ar_hanro-liebenberg",
+      "name_en": "Hanro LIEBENBERG",
+      "name_ja": null,
+      "team_id": "leicester"
+    },
+    "ar_harry-wright": {
+      "id": "ar_harry-wright",
+      "name_en": "Harry WRIGHT",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_hayden-hyde": {
+      "id": "ar_hayden-hyde",
+      "name_en": "Hayden HYDE",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_hendro-hattingh": {
+      "id": "ar_hendro-hattingh",
+      "name_en": "Hendro HATTINGH",
+      "name_ja": null,
+      "team_id": "sale"
+    },
+    "ar_henri-caparroi": {
+      "id": "ar_henri-caparroi",
+      "name_en": "Henri CAPARROI",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_hugh-bokenham": {
+      "id": "ar_hugh-bokenham",
+      "name_en": "Hugh BOKENHAM",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_huw-davies": {
+      "id": "ar_huw-davies",
+      "name_en": "Huw DAVIES",
+      "name_ja": null,
+      "team_id": "sale"
+    },
+    "ar_hyron-andrews": {
+      "id": "ar_hyron-andrews",
+      "name_en": "Hyron ANDREWS",
+      "name_ja": null,
+      "team_id": "sale"
+    },
+    "ar_isaac-godfrey": {
+      "id": "ar_isaac-godfrey",
+      "name_en": "Isaac GODFREY",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_ivan-van-zyl": {
+      "id": "ar_ivan-van-zyl",
+      "name_en": "Ivan VAN ZYL",
+      "name_ja": null,
+      "team_id": "saracens"
+    },
+    "ar_iwan-jenkins": {
+      "id": "ar_iwan-jenkins",
+      "name_en": "Iwan JENKINS",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_izaia-perese": {
+      "id": "ar_izaia-perese",
+      "name_en": "Izaia PERESE",
+      "name_ja": null,
+      "team_id": "leicester"
+    },
+    "ar_jack-dickens": {
+      "id": "ar_jack-dickens",
+      "name_en": "Jack DICKENS",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_jack-grant": {
+      "id": "ar_jack-grant",
+      "name_en": "Jack GRANT",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_jack-kinder": {
+      "id": "ar_jack-kinder",
+      "name_en": "Jack KINDER",
+      "name_ja": null,
+      "team_id": "leicester"
+    },
+    "ar_jack-lawrence": {
+      "id": "ar_jack-lawrence",
+      "name_en": "Jack LAWRENCE",
+      "name_ja": null,
+      "team_id": "northampton"
+    },
+    "ar_jack-singleton": {
+      "id": "ar_jack-singleton",
+      "name_en": "Jack SINGLETON",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_jacob-morris": {
+      "id": "ar_jacob-morris",
+      "name_en": "Jake MORRIS",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_jacques-nguimbous": {
+      "id": "ar_jacques-nguimbous",
+      "name_en": "Jacques NGUIMBOUS",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_james-cherry": {
+      "id": "ar_james-cherry",
+      "name_en": "James CHERRY",
+      "name_ja": null,
+      "team_id": "leicester"
+    },
+    "ar_james-o-connor": {
+      "id": "ar_james-o-connor",
+      "name_en": "James O'CONNOR",
+      "name_ja": null,
+      "team_id": "leicester"
+    },
+    "ar_jamie-benson": {
+      "id": "ar_jamie-benson",
+      "name_en": "Jamie BENSON",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_jamie-clark": {
+      "id": "ar_jamie-clark",
+      "name_en": "Jamie CLARK",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_jamie-hodgson": {
+      "id": "ar_jamie-hodgson",
+      "name_en": "Jamie HODGSON",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_jandre-marais": {
+      "id": "ar_jandre-marais",
+      "name_en": "Jandré MARAIS",
+      "name_ja": null,
+      "team_id": "bristol"
+    },
+    "ar_jarrod-evans": {
+      "id": "ar_jarrod-evans",
+      "name_en": "Jarrod EVANS",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_jed-findlay": {
+      "id": "ar_jed-findlay",
+      "name_en": "Jed FINDLAY",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_jefferson-poirot": {
+      "id": "ar_jefferson-poirot",
+      "name_en": "Jefferson POIROT",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_joe-bedlow": {
+      "id": "ar_joe-bedlow",
+      "name_en": "Joe BEDLOW",
+      "name_ja": null,
+      "team_id": "sale"
+    },
+    "ar_joe-cowell": {
+      "id": "ar_joe-cowell",
+      "name_en": "Joe COWELL",
+      "name_ja": null,
+      "team_id": "northampton"
+    },
+    "ar_joe-jones": {
+      "id": "ar_joe-jones",
+      "name_en": "Joe JONES",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_joe-launchbury": {
+      "id": "ar_joe-launchbury",
+      "name_en": "Joe LAUNCHBURY",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_joel-grayson": {
+      "id": "ar_joel-grayson",
+      "name_en": "Joel GRAYSON",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_john-edwards": {
+      "id": "ar_john-edwards",
+      "name_en": "John EDWARDS",
+      "name_ja": null,
+      "team_id": "bristol"
+    },
+    "ar_john-hawkins": {
+      "id": "ar_john-hawkins",
+      "name_en": "John HAWKINS",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_josh-basham": {
+      "id": "ar_josh-basham",
+      "name_en": "Josh BASHAM",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_jude-trarieux": {
+      "id": "ar_jude-trarieux",
+      "name_en": "Jude TRARIEUX",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_jules-dussutour": {
+      "id": "ar_jules-dussutour",
+      "name_en": "Jules DUSSUTOUR",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_junior-newton": {
+      "id": "ar_junior-newton",
+      "name_en": "Junior NEWTON",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_kane-douglas": {
+      "id": "ar_kane-douglas",
+      "name_en": "Kane DOUGLAS",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_keita-ando": {
+      "id": "ar_keita-ando",
+      "name_en": "Keita ANDO",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_khwezi-mona": {
+      "id": "ar_khwezi-mona",
+      "name_en": "Khwezi MONA",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_kian-gentry": {
+      "id": "ar_kian-gentry",
+      "name_en": "Kian GENTRY",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_kirill-gotovtsev": {
+      "id": "ar_kirill-gotovtsev",
+      "name_en": "Kirill GOTOVTSEV",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_kofi-cripps": {
+      "id": "ar_kofi-cripps",
+      "name_en": "Kofi CRIPPS",
+      "name_ja": null,
+      "team_id": "bristol"
+    },
+    "ar_kwenzo-blose": {
+      "id": "ar_kwenzo-blose",
+      "name_en": "Kwenzo BLOSE",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_lekso-kaulashvili": {
+      "id": "ar_lekso-kaulashvili",
+      "name_en": "Lekso KAULASHVILI",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_len-ikitau": {
+      "id": "ar_len-ikitau",
+      "name_en": "Len IKITAU",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_lenny-alifanety": {
+      "id": "ar_lenny-alifanety",
+      "name_en": "Lenny ALIFANETY",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_leo-chauvin": {
+      "id": "ar_leo-chauvin",
+      "name_en": "Léo CHAUVIN",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_lewis-young": {
+      "id": "ar_lewis-young",
+      "name_en": "Lewis YOUNG",
+      "name_ja": null,
+      "team_id": "saracens"
+    },
+    "ar_lochie-glackin": {
+      "id": "ar_lochie-glackin",
+      "name_en": "Lochie GLACKIN",
+      "name_ja": null,
+      "team_id": "leicester"
+    },
+    "ar_louie-johnson": {
+      "id": "ar_louie-johnson",
+      "name_en": "Louie JOHNSON",
+      "name_ja": null,
+      "team_id": "saracens"
+    },
+    "ar_luan-de-bruin": {
+      "id": "ar_luan-de-bruin",
+      "name_en": "Luan DE BRUIN",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_marco-manfredi": {
+      "id": "ar_marco-manfredi",
+      "name_en": "Marco MANFREDI",
+      "name_ja": null,
+      "team_id": "northampton"
+    },
+    "ar_marco-riccioni": {
+      "id": "ar_marco-riccioni",
+      "name_en": "Marco RICCIONI",
+      "name_ja": null,
+      "team_id": "saracens"
+    },
+    "ar_marlon-farouk-roy": {
+      "id": "ar_marlon-farouk-roy",
+      "name_en": "Marlon FAROUK-ROY",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_martin-moloney": {
+      "id": "ar_martin-moloney",
+      "name_en": "Martin MOLONEY",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_mateo-saint-germain": {
+      "id": "ar_mateo-saint-germain",
+      "name_en": "Matéo SAINT-GERMAIN",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_math-jones": {
+      "id": "ar_math-jones",
+      "name_en": "Math JONES",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_matheo-frisach": {
+      "id": "ar_matheo-frisach",
+      "name_en": "Mathéo FRISACH",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_matias-alemanno": {
+      "id": "ar_matias-alemanno",
+      "name_en": "Matías ALEMANNO",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_matt-branch-holland": {
+      "id": "ar_matt-branch-holland",
+      "name_en": "Matt BRANCH-HOLLAND",
+      "name_ja": null,
+      "team_id": "saracens"
+    },
+    "ar_matt-protheroe": {
+      "id": "ar_matt-protheroe",
+      "name_en": "Mat PROTHEROE",
+      "name_ja": null,
+      "team_id": "bristol"
+    },
+    "ar_mattias-woollard": {
+      "id": "ar_mattias-woollard",
+      "name_en": "Mattias WOOLLARD",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_max-green": {
+      "id": "ar_max-green",
+      "name_en": "Max GREEN",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_maxime-lamothe": {
+      "id": "ar_maxime-lamothe",
+      "name_en": "Maxime LAMOTHE",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_mehdi-kourdes": {
+      "id": "ar_mehdi-kourdes",
+      "name_en": "Mehdi KOURDES",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_monty-loggenberg": {
+      "id": "ar_monty-loggenberg",
+      "name_en": "Monty LOGGENBERG",
+      "name_ja": null,
+      "team_id": "leicester"
+    },
+    "ar_nathan-thibeau": {
+      "id": "ar_nathan-thibeau",
+      "name_en": "Nathan THIBEAU",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_nepo-laulala": {
+      "id": "ar_nepo-laulala",
+      "name_en": "Nepo LAULALA",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_nicky-little": {
+      "id": "ar_nicky-little",
+      "name_en": "Nicky LITTLE",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_nico-jones": {
+      "id": "ar_nico-jones",
+      "name_en": "Nico JONES",
+      "name_ja": null,
+      "team_id": "sale"
+    },
+    "ar_nye-thomas": {
+      "id": "ar_nye-thomas",
+      "name_en": "Nye THOMAS",
+      "name_ja": null,
+      "team_id": "sale"
+    },
+    "ar_oisin-mccormack": {
+      "id": "ar_oisin-mccormack",
+      "name_en": "Oisín MCCORMACK",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_pablo-dimcheff": {
+      "id": "ar_pablo-dimcheff",
+      "name_en": "Pablo DIMCHEFF",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_petero-mailulu": {
+      "id": "ar_petero-mailulu",
+      "name_en": "Petero MAILULU",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_raff-weston": {
+      "id": "ar_raff-weston",
+      "name_en": "Raff WESTON",
+      "name_ja": null,
+      "team_id": "bristol"
+    },
+    "ar_rhys-davies-1999": {
+      "id": "ar_rhys-davies-1999",
+      "name_en": "Rhys DAVIES",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_rhys-price": {
+      "id": "ar_rhys-price",
+      "name_en": "Rhys PRICE",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_richard-lane": {
+      "id": "ar_richard-lane",
+      "name_en": "Rich LANE",
+      "name_ja": null,
+      "team_id": "bristol"
+    },
+    "ar_rio-ebanks": {
+      "id": "ar_rio-ebanks",
+      "name_en": "Rio EBANKS",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_rob-russell": {
+      "id": "ar_rob-russell",
+      "name_en": "Rob RUSSELL",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_robert-du-preez": {
+      "id": "ar_robert-du-preez",
+      "name_en": "Rob DU PREEZ",
+      "name_ja": null,
+      "team_id": "sale"
+    },
+    "ar_ruben-pargade": {
+      "id": "ar_ruben-pargade",
+      "name_en": "Ruben PARGADE",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_ryan-jones-": {
+      "id": "ar_ryan-jones-",
+      "name_en": "Ryan JONES",
+      "name_ja": null,
+      "team_id": "saracens"
+    },
+    "ar_sam-grahamslaw": {
+      "id": "ar_sam-grahamslaw",
+      "name_en": "Sam GRAHAMSLAW",
+      "name_ja": null,
+      "team_id": "bristol"
+    },
+    "ar_sam-mercer": {
+      "id": "ar_sam-mercer",
+      "name_en": "Sam MERCER",
+      "name_ja": null,
+      "team_id": "leicester"
+    },
+    "ar_sam-spink": {
+      "id": "ar_sam-spink",
+      "name_en": "Sam SPINK",
+      "name_ja": null,
+      "team_id": "saracens"
+    },
+    "ar_sam-stuart": {
+      "id": "ar_sam-stuart",
+      "name_en": "Sam STUART",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_santiago-grondona": {
+      "id": "ar_santiago-grondona",
+      "name_en": "Santiago GRONDONA",
+      "name_ja": null,
+      "team_id": "bristol"
+    },
+    "ar_scott-sio": {
+      "id": "ar_scott-sio",
+      "name_en": "Scott SIO",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_sebastian-de-chaves": {
+      "id": "ar_sebastian-de-chaves",
+      "name_en": "Sebastian DE CHAVES",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_siep-walta": {
+      "id": "ar_siep-walta",
+      "name_en": "Siep WALTA",
+      "name_ja": null,
+      "team_id": "northampton"
+    },
+    "ar_sipili-falatea": {
+      "id": "ar_sipili-falatea",
+      "name_en": "Sipili FALATEA",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_steele-barker": {
+      "id": "ar_steele-barker",
+      "name_en": "Steele BARKER",
+      "name_ja": null,
+      "team_id": "bristol"
+    },
+    "ar_stefan-coetzee": {
+      "id": "ar_stefan-coetzee",
+      "name_en": "Stefan COETZEE",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_stephan-lewies": {
+      "id": "ar_stephan-lewies",
+      "name_en": "Stephan LEWIES",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_tamati-tua": {
+      "id": "ar_tamati-tua",
+      "name_en": "Tamati TUA",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_theo-mcfarland": {
+      "id": "ar_theo-mcfarland",
+      "name_en": "Theo MCFARLAND",
+      "name_ja": null,
+      "team_id": "saracens"
+    },
+    "ar_thomas-gordon": {
+      "id": "ar_thomas-gordon",
+      "name_en": "Tom GORDON",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_thomas-jolmes": {
+      "id": "ar_thomas-jolmes",
+      "name_en": "Thomas JOLMÈS",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_tim-cardall": {
+      "id": "ar_tim-cardall",
+      "name_en": "Tim CARDALL",
+      "name_ja": null,
+      "team_id": "newcastle"
+    },
+    "ar_toby-baker": {
+      "id": "ar_toby-baker",
+      "name_en": "Toby BAKER",
+      "name_ja": null,
+      "team_id": "bristol"
+    },
+    "ar_toby-fricker": {
+      "id": "ar_toby-fricker",
+      "name_en": "Toby FRICKER",
+      "name_ja": null,
+      "team_id": "bristol"
+    },
+    "ar_tom-burton": {
+      "id": "ar_tom-burton",
+      "name_en": "Tom BURTON",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_tom-curtis": {
+      "id": "ar_tom-curtis",
+      "name_en": "Tom CURTIS",
+      "name_ja": null,
+      "team_id": "sale"
+    },
+    "ar_tom-davis": {
+      "id": "ar_tom-davis",
+      "name_en": "Tom DAVIS",
+      "name_ja": null,
+      "team_id": "sale"
+    },
+    "ar_tom-doughty": {
+      "id": "ar_tom-doughty",
+      "name_en": "Tom DOUGHTY",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_tom-humphreys": {
+      "id": "ar_tom-humphreys",
+      "name_en": "Tom HUMPHREYS",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_tom-lawday": {
+      "id": "ar_tom-lawday",
+      "name_en": "Tom LAWDAY",
+      "name_ja": null,
+      "team_id": "harlequins"
+    },
+    "ar_tom-manz": {
+      "id": "ar_tom-manz",
+      "name_en": "Tom MANZ",
+      "name_ja": null,
+      "team_id": "leicester"
+    },
+    "ar_tom-nogueira": {
+      "id": "ar_tom-nogueira",
+      "name_en": "Tom NOGUEIRA",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_tom-whorrod": {
+      "id": "ar_tom-whorrod",
+      "name_en": "Tom WHORROD",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_tom-willis": {
+      "id": "ar_tom-willis",
+      "name_en": "Tom WILLIS",
+      "name_ja": null,
+      "team_id": "saracens"
+    },
+    "ar_tubuna-maka": {
+      "id": "ar_tubuna-maka",
+      "name_en": "Tubuna MAKA",
+      "name_ja": null,
+      "team_id": "leicester"
+    },
+    "ar_tumy-onasanya": {
+      "id": "ar_tumy-onasanya",
+      "name_en": "Tumy ONASANYA",
+      "name_ja": null,
+      "team_id": "sale"
+    },
+    "ar_tyler-mason": {
+      "id": "ar_tyler-mason",
+      "name_en": "Tyler MASON",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_ugo-boniface": {
+      "id": "ar_ugo-boniface",
+      "name_en": "Ugo BONIFACE",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_vadim-cobilas": {
+      "id": "ar_vadim-cobilas",
+      "name_en": "Vadim COBILAS",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_valery-morozov": {
+      "id": "ar_valery-morozov",
+      "name_en": "Valery MOROZOV",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_will-bennett": {
+      "id": "ar_will-bennett",
+      "name_en": "Will BENNETT",
+      "name_ja": null,
+      "team_id": "sale"
+    },
+    "ar_will-butler": {
+      "id": "ar_will-butler",
+      "name_en": "Will BUTLER",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_will-capon": {
+      "id": "ar_will-capon",
+      "name_en": "Will CAPON",
+      "name_ja": null,
+      "team_id": "bristol"
+    },
+    "ar_will-crane": {
+      "id": "ar_will-crane",
+      "name_en": "Will CRANE",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_will-davies-king": {
+      "id": "ar_will-davies-king",
+      "name_en": "Will DAVIES-KING",
+      "name_ja": null,
+      "team_id": "northampton"
+    },
+    "ar_will-glister": {
+      "id": "ar_will-glister",
+      "name_en": "Will GLISTER",
+      "name_ja": null,
+      "team_id": "northampton"
+    },
+    "ar_will-spencer": {
+      "id": "ar_will-spencer",
+      "name_en": "Will SPENCER",
+      "name_ja": null,
+      "team_id": "exeter"
+    },
+    "ar_will-wooton": {
+      "id": "ar_will-wooton",
+      "name_en": "Will WOOTON",
+      "name_ja": null,
+      "team_id": "sale"
+    },
+    "ar_willgriff-john": {
+      "id": "ar_willgriff-john",
+      "name_en": "Willgriff JOHN",
+      "name_ja": null,
+      "team_id": "sale"
+    },
+    "ar_wills-austin": {
+      "id": "ar_wills-austin",
+      "name_en": "Will AUSTIN",
+      "name_ja": null,
+      "team_id": "sale"
+    },
+    "ar_yahnis-el-maslouhi": {
+      "id": "ar_yahnis-el-maslouhi",
+      "name_en": "Yahnis EL MASLOUHI",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_younes-bekhti": {
+      "id": "ar_younes-bekhti",
+      "name_en": "Younès BEKHTI",
+      "name_ja": null,
+      "team_id": "bath"
+    },
+    "ar_zaccharie-affane": {
+      "id": "ar_zaccharie-affane",
+      "name_en": "Zaccharie AFFANE",
+      "name_ja": null,
+      "team_id": "bath"
+    }
+  },
   "national": {
     "jrfu_national_510411": {
       "id": "jrfu_national_510411",
@@ -2494,6 +3833,18 @@
       "id": "jrfu_national_510683",
       "name_en": "Kanato HIRANO",
       "name_ja": "平野叶翔",
+      "team_id": "japan"
+    },
+    "jrfu_national_510734": {
+      "id": "jrfu_national_510734",
+      "name_en": "Takumi INABA",
+      "name_ja": "稲場巧",
+      "team_id": "japan"
+    },
+    "jrfu_national_510735": {
+      "id": "jrfu_national_510735",
+      "name_en": "Inoke BURUA",
+      "name_ja": "イノケ・ブルア",
       "team_id": "japan"
     }
   },
@@ -4461,6 +5812,18 @@
       "id": "univ_東京大学__松村奏和",
       "name_en": null,
       "name_ja": "松村 奏和",
+      "team_id": null
+    },
+    "univ_専修大学__岩崎煌生": {
+      "id": "univ_専修大学__岩崎煌生",
+      "name_en": null,
+      "name_ja": "岩崎 煌生",
+      "team_id": null
+    },
+    "univ_東京大学__目黒麟太郎": {
+      "id": "univ_東京大学__目黒麟太郎",
+      "name_en": null,
+      "name_ja": "目黒 麟太郎",
       "team_id": null
     }
   },
