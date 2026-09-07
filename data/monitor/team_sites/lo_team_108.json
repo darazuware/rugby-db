@@ -3,16 +3,26 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-09-06T22:51:07+09:00",
+  "checked_at": "2026-09-07T18:14:23+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "570fd82febce2d49"
+      "hash": "2d69b82b332435fb"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260907c.html",
+      "title": "リーグワンライジング2026 九州電力キューデンヴォルテクス戦 中止のお知らせ",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20260907a.html",
+      "title": "ブラックラムズ東京ファンクラブ『RAMOVE』レギュラー会員お友達・ご家族紹介キャンペーンのお知らせ",
+      "date": "2026-09-07"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260904a.html",
       "title": "選手3名が男子セブンズ・デベロップメント・スコッド(SDS) スペイン遠征メンバーに選出されました",
@@ -24,18 +34,8 @@
       "date": "2026-09-01"
     },
     {
-      "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260828a.html",
-      "title": "ニュージーランド留学レポート⑥（李淳弘選手）",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260827a.html",
-      "title": "選手3名が男子セブンズ日本代表 中国遠征メンバーに選出されました",
-      "date": "2026-08-27"
-    },
-    {
       "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260807b.html",
-      "title": "(9/1更新) 2026-27プレシーズンマッチ スケジュールのお知らせ",
+      "title": "(9/7更新) 2026-27プレシーズンマッチ スケジュールのお知らせ",
       "date": "2026-08-07"
     }
   ]

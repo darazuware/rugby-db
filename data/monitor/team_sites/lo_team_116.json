@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-09-06T22:51:07+09:00",
+  "checked_at": "2026-09-07T18:14:23+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "98c5bd89b9e76c0c"
+      "hash": "48bc1f48ce20272e"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "d4f9941356df161e"
+      "hash": "7c376850b7b56412"
     }
   ],
   "items": [
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8867",
+      "title": "お知らせ 2026年9月7日 レッハリラグビー教室 in 和歌山 開催のお知らせ",
+      "date": "2026-09-07"
+    },
     {
       "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8866",
       "title": "【U15クラス】8月活動レポート 2026年9月1日",
@@ -216,11 +221,6 @@
       "url": "https://docomo-rugby.jp/game/member.html?id=324",
       "title": "試合情報 2026年5月9日 【NTT JAPAN RUGBY LEAGUE ONE 2025-26 DIVISION 2】第14節 NECグリーンロケッツ東葛 メンバー発表",
       "date": "2026-05-09"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8602",
-      "title": "お知らせ 2026年5月8日 【リリース】2025-26シーズン退団選手のお知らせ",
-      "date": "2026-05-08"
     },
     {
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8386",

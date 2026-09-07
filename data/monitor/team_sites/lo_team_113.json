@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-09-06T22:51:07+09:00",
+  "checked_at": "2026-09-07T18:14:23+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "b2ae77e67a563d1d"
+      "hash": "b11f830f9e18ac7f"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "cc76f2a71c3113c3"
+      "hash": "c2abb621a1699c07"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "81238e124210a881"
+      "hash": "a8b27b4a91b989d3"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/society/32289/",
+      "title": "普及・社会貢献 2026.9.7 釜石市立鵜住居小学校 ラグビー出前授業が行われました",
+      "date": "2026-09-07"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/info/32270/",
       "title": "お知らせ 2026.9.4 2026プレシーズンマッチのお知らせ（追加）",

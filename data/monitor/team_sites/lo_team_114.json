@@ -3,20 +3,35 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-09-06T22:51:07+09:00",
+  "checked_at": "2026-09-07T18:14:23+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "9de4ec09542b12f2"
+      "hash": "a86d2a787d47a181"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "7620181c9c4aa4e4"
+      "hash": "e7d9f2e62e92a2a9"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/09/07/liners-fanclub-3/",
+      "title": "2026.09.07 ファンクラブ イベント 【LINERS FANCLUB】花園近鉄ライナーズ公式アプリ サービス終了に伴うデジタル会員証の利用について",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/09/07/app-fin/",
+      "title": "2026.09.07 ファンクラブ イベント 花園近鉄ライナーズ公式アプリ サービス終了のお知らせおよび公式LINEアカウント一時休止のご案内",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/09/07/9-13-event/",
+      "title": "2026.09.07 その他 9/13 花園図書館で開催の「ラグビー講習会」に、ライナーズの選手が参加します。",
+      "date": "2026-09-07"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/09/03/%e3%80%8eosaka-funtastc-sports-project%e3%80%8f%e8%bf%bd%e5%8a%a0%e6%83%85%e5%a0%b1%ef%bc%88%e3%83%81%e3%82%b1%e3%83%83%e3%83%88%e8%b2%a9%e5%a3%b2%ef%bc%89%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89/",
       "title": "2026.09.03 その他 『OSAKA FUNtast!c SPORTS PROJECT』追加情報（チケット販売）のお知らせ",
@@ -44,7 +59,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/08/24/news-event/",
-      "title": "2026.08.24 イベント 8/29(土) 「おおきに祭り」に、ライナーズの選手が参加します",
+      "title": "2026-08-24 イベント 8/29(土) 「おおきに祭り」に、ライナーズの選手が参加します",
       "date": "2026-08-24"
     },
     {
@@ -76,21 +91,6 @@
       "url": "https://hanazono-liners.jp/2026/08/18/news-callcenter/",
       "title": "2026-08-18 その他 【お知らせ】ファンクラブ・チケットに関するお問い合わせ窓口変更について",
       "date": "2026-08-18"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/08/07/news-preseasonmatch/",
-      "title": "2026-08-07 試合関連 花園近鉄ライナーズ 2026-27シーズン プレシーズンマッチのお知らせ",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/08/06/news-2026-27carding/",
-      "title": "2026-08-06 試合関連 NTTジャパンラグビー リーグワン2026-27 試合日程決定のお知らせ",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/08/04/itemae/",
-      "title": "2026-08-04 活動報告書 その他 【番組 オフもいてまえ！花園近鉄ライナーズ（2回目・8/1放送）】",
-      "date": "2026-08-04"
     },
     {
       "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub/",
@@ -141,16 +141,6 @@
       "url": "https://hanazono-liners.jp/2026/05/01/kcn-youtube-march-broadcasts-released-7/",
       "title": "2026.05.01 チーム情報 KCN YouTube 「いてまえ！花園近鉄ライナーズ」5月放送分#7が公開されました",
       "date": "2026-05-01"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/04/30/5-2-greenrockts-match-members-and-match-details/",
-      "title": "2026.04.30 試合関連 チーム情報 【5/2 NECグリーンロケッツ東葛戦】 メンバーおよび試合詳細のご案内",
-      "date": "2026-04-30"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/04/25/260510-fanclub-program/",
-      "title": "2026.04.25 ファンクラブ イベント 【5/10 S愛知戦】ファンクラブ会員限定 ホストゲーム当日プログラム開催のお知らせ",
-      "date": "2026-04-25"
     }
   ]
 }

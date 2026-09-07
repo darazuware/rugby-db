@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-09-06T22:51:07+09:00",
+  "checked_at": "2026-09-07T18:14:23+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "c98179fd06c2e9eb"
+      "hash": "19d4faeae82dfcf6"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "decabac223410244"
+      "hash": "551490a898ebab3d"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/1005",
+      "title": "お知らせ 2026年09月07日 NEW 「ジャパンラグビー リーグワン ライジング 2026」一部試合開催中止のお知らせ",
+      "date": "2026-09-07"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/1004",
       "title": "地域・社会貢献 2026年09月05日 NEW 唐津市立伊岐佐小学校でタグラグビー教室を開催しました",
@@ -106,11 +111,6 @@
       "url": "https://www.kyudenvoltex.com/news/986",
       "title": "お知らせ 2026年06月05日 【グッズ情報】2025-26シーズンありがとうセール",
       "date": "2026-06-05"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/985",
-      "title": "お知らせ 2026年05月19日 2025-26ファン感謝DAY「Charger大放電祭り」を開催しました",
-      "date": "2026-05-19"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/984",

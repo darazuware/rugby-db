@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-09-06T22:51:07+09:00",
+  "checked_at": "2026-09-07T18:14:23+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "964c1fe7895f9311"
+      "hash": "f1c4cadebe68f3dc"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "ede44ab1013cf110"
+      "hash": "8166c38b5878839f"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/team/index_2018.html",
+      "title": "チーム 2026.09.07 2026-27シーズン トレーニング見学について",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2009.html",
+      "title": "ゲーム 2026.09.07 2026-27シーズン プレシーズンマッチ開催および練習公開のお知らせ",
+      "date": "2026-09-07"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2017.html",
       "title": "イベント 2026.09.05 2026.9.2 津別町立津別小学校にてラグビークリニックを実施しました",
@@ -59,12 +69,12 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2005.html",
-      "title": "イベント 2026.08.21 2026.8.3～5 D-Rocks SUMMER CAMP 2026を開催しました",
+      "title": "2026.08.21 ニュース 2026.8.3～5 D-Rocks SUMMER CAMP 2026を開催しました",
       "date": "2026-08-21"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_1993.html",
-      "title": "ファンクラブ 2026.08.20 【8.20 議事録追記】2026.7.26「D-Rockers ミーティング 2025-26」を開催しました",
+      "title": "2026.08.20 ニュース 【8.20 議事録追記】2026.7.26「D-Rockers ミーティング 2025-26」を開催しました",
       "date": "2026-08-20"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/event/index_1971.html",
       "title": "2026.06.15 ニュース 2026.6.6 ファン感謝祭「D-Rocks Fes 2026」を開催しました",
       "date": "2026-06-15"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_1970.html",
-      "title": "2026.06.10 ニュース 【代表情報】男子日本代表およびトレーニングスコッド選出のお知らせ",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_1969.html",
-      "title": "2026.06.10 ニュース 【代表情報】ヤスパー・ヴィーセ選手 南アフリカ代表スコッド選出のお知らせ",
-      "date": "2026-06-10"
     }
   ]
 }

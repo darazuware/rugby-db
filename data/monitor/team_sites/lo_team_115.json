@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-09-06T22:51:07+09:00",
+  "checked_at": "2026-09-07T18:14:23+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,7 +13,7 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "1a864fbae0668320"
+      "hash": "b612bf66c310216d"
     }
   ],
   "items": [
