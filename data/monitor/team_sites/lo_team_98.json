@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-09-08T01:13:01+09:00",
+  "checked_at": "2026-09-08T17:47:57+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "f87f83891fbbead1"
+      "hash": "75578cebc0b5d1e7"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "7bfb829e2ecc1325"
+      "hash": "7f54d9fa1c2071f2"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3179",
+      "title": "2026.9.8[TUE] TEAM 2名の選手と短期契約を締結",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3176",
+      "title": "2026.9.8[TUE] SCHOOL ≪REVSキャラバン supported by 大興金属≫に新たなパートナーが2社決定",
+      "date": "2026-09-08"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3171",
       "title": "2026.9.3[THU] HOST AREA 【ホストエリア活動】浜松市［スポーツ塾2026］にてラグビー体験を実施しました",
@@ -106,16 +116,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3153",
       "title": "2026.8.5[WED] OTHERS 夏季休業期間のお知らせ",
       "date": "2026-08-05"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3152",
-      "title": "2026.8.3[MON] HOST AREA 【ホストエリア活動】静岡市 令和8年度「小学校体育実技指導研修会」にて教員向けタグラグビー講習会を実施しました",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3144",
-      "title": "2026.8.3[MON] FAN CLUB ＜CLUB REVS＞継続入会特典プレゼント＆アップグレードキャンペーン",
-      "date": "2026-08-03"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3140",

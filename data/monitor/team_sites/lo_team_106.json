@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-09-08T01:13:01+09:00",
+  "checked_at": "2026-09-08T17:47:57+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "63e1832070c9c099"
+      "hash": "d5851a21f130252e"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "96deb43aa12652d5"
+      "hash": "6c6cbdd585456f47"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260908.html-0",
+      "title": "2026-09-08 相模原・福岡で一般公開練習を実施します",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260908.html",
+      "title": "2026-09-08 ダイナボアーズ公式ファンクラブ2026-27新規入会の受付を開始しました",
+      "date": "2026-09-08"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule#2",
       "title": "2026-09-04 日程更新｜プレシーズンマッチ1試合（ビジター）の予定を公開",
@@ -49,7 +59,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260827.html",
-      "title": "2026-08-27 男子セブンズ日本代表｜中国遠征参加メンバーに服部航大選手が選出",
+      "title": "2026-08-27 [ チーム ] [ メディア ] 男子セブンズ日本代表｜中国遠征参加メンバーに服部航大選手が選出",
       "date": "2026-08-27"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/2526pr2",
       "title": "2026-05-28 [ チーム ] 試合情報/メンバー更新｜D1/D2入替戦 第2戦 三菱重工相模原ダイナボアーズ 対 豊田自動織機シャトルズ愛知",
       "date": "2026-05-28"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/2526pr1#10",
-      "title": "2026-05-26 [ メディア ] 試合レポート更新｜vsS愛知 --体現した“ダイナボアーズのDNA” 入替戦で好スタート…勝利を呼んだ粘り強さと決定力",
-      "date": "2026-05-26"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260521.html",
-      "title": "2026-05-21 [ チーム ] 「長崎タータンスペシャルジャージオークション2026」の開催について",
-      "date": "2026-05-21"
     }
   ]
 }

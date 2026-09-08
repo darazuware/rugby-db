@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-09-08T01:13:01+09:00",
+  "checked_at": "2026-09-08T17:47:57+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "f1c4cadebe68f3dc"
+      "hash": "b599f7d3eae12793"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "8166c38b5878839f"
+      "hash": "9890a5cef2623147"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2019.html",
+      "title": "イベント 2026.09.08 2026.8.21 明海大学 浦安市立高洲中学校 特別講演会にて講演を行いました",
+      "date": "2026-09-08"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2018.html",
       "title": "チーム 2026.09.07 2026-27シーズン トレーニング見学について",
@@ -64,7 +69,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2007.html",
-      "title": "チーム 2026.08.24 【代表情報】男子日本代表選出のお知らせ",
+      "title": "2026.08.24 ニュース 【代表情報】男子日本代表選出のお知らせ",
       "date": "2026-08-24"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/event/index_1973.html",
       "title": "2026.06.17 ニュース 2026.6.9「浦安D-Rocks 2025-26シーズンエンドパーティ」を開催しました",
       "date": "2026-06-17"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_1971.html",
-      "title": "2026.06.15 ニュース 2026.6.6 ファン感謝祭「D-Rocks Fes 2026」を開催しました",
-      "date": "2026-06-15"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-08T01:13:01+09:00",
+  "checked_at": "2026-09-08T17:47:57+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/event/index_2019.html",
+          "title": "イベント 2026.09.08 2026.8.21 明海大学 浦安市立高洲中学校 特別講演会にて講演を行いました",
+          "date": "2026-09-08",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -22,9 +32,7 @@
       "first_run": false,
       "item_count": 60,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kobesteelers.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -35,8 +43,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 33,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260908_01/",
+          "title": "チーム 2026年09月08日 グローバルラグビーフェスタ 2026 埼玉パナソニックワイルドナイツ 対 クイー... ニュースを見る",
+          "date": "2026-09-08",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -48,10 +66,7 @@
       "first_run": false,
       "item_count": 41,
       "new_items": [],
-      "changed_pages": [
-        "https://www.bravelupus.com/",
-        "https://www.bravelupus.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -63,7 +78,9 @@
       "first_run": false,
       "item_count": 10,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -86,7 +103,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260908.html-0",
+          "title": "2026-09-08 相模原・福岡で一般公開練習を実施します",
+          "date": "2026-09-08",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260908.html",
+          "title": "2026-09-08 ダイナボアーズ公式ファンクラブ2026-27新規入会の受付を開始しました",
+          "date": "2026-09-08",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -113,8 +143,23 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260908b.html",
+          "title": "ブラックラムズ東京オンラインショップ 新グッズ販売のお知らせ",
+          "date": "2026-09-08",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260908a.html",
+          "title": "ブラックラムズ東京ふるさとオンラインショップ「My Megaphone!（マイメガホン）」 サービス終了のお知らせ",
+          "date": "2026-09-08",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -125,8 +170,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 58,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/event/2026/09/08/120000.html",
+          "title": "2026.09.08 イベント情報",
+          "date": "2026-09-08",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -137,7 +191,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 27,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3179",
+          "title": "2026.9.8[TUE] TEAM 2名の選手と短期契約を締結",
+          "date": "2026-09-08",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3176",
+          "title": "2026.9.8[TUE] SCHOOL ≪REVSキャラバン supported by 大興金属≫に新たなパートナーが2社決定",
+          "date": "2026-09-08",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -177,10 +244,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kyudenvoltex.com/",
-        "https://www.kyudenvoltex.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -261,10 +325,18 @@
       "official_url": "https://docomo-rugby.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 44,
-      "new_items": [],
+      "item_count": 45,
+      "new_items": [
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8870",
+          "title": "お知らせ 2026年9月8日 ホストタウン活動スケジュール掲載開始のお知らせ",
+          "date": "2026-09-08",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://docomo-rugby.jp/"
+        "https://docomo-rugby.jp/",
+        "https://docomo-rugby.jp/news/"
       ],
       "rename_signals": []
     },
@@ -304,7 +376,11 @@
       "first_run": false,
       "item_count": 16,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://rrrfc.red/",
+        "https://rrrfc.red/blog/",
+        "https://rrrfc.red/categories/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -317,8 +393,7 @@
       "item_count": 45,
       "new_items": [],
       "changed_pages": [
-        "https://www.skyactivs.com/",
-        "https://www.skyactivs.com/news/2091"
+        "https://www.skyactivs.com/"
       ],
       "rename_signals": []
     },
@@ -342,24 +417,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 11,
-      "new_items": [
-        {
-          "url": "https://leriro-fukuoka.com/news-detail?id=276",
-          "title": "NTTジャパンラグビー リーグワン2026-27 ホストゲーム キッチンカー出店者様募集",
-          "date": "2026-09-07",
-          "category": null
-        },
-        {
-          "url": "https://leriro-fukuoka.com/news-detail?id=275",
-          "title": "社会人向けの研修ツアー「大人の修学旅行！2026」開催",
-          "date": "2026-09-07",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://leriro-fukuoka.com/",
-        "https://leriro-fukuoka.com/news"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     }
   ],
@@ -381,7 +440,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54186",
+          "title": "チケット情報【リポビタンDチャレンジカップ2026】男子日本代表 vs フィジー代表、女子日本代表 vs ウェールズ代表 2026.9.08 （火） 15人制男子日本代表 15人制女子日本代表 チケット WBB",
+          "date": "2026-09-08",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/52277",
+          "title": "新秩父宮ラグビー場（仮称）整備・運営等事業について 2026.9.08 （火） その他 日本協会",
+          "date": "2026-09-08",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -395,7 +467,15 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54186",
+      "title": "チケット情報【リポビタンDチャレンジカップ2026】男子日本代表 vs フィジー代表、女子日本代表 vs ウェールズ代表 2026.9.08 （火） 15人制男子日本代表 15人制女子日本代表 チケット WBB",
+      "date": "2026-09-08",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"

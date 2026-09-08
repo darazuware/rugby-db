@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-09-08T01:13:01+09:00",
+  "checked_at": "2026-09-08T17:47:57+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "3d296af7f3e27318"
+      "hash": "03782b4ab18e0512"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "7c376850b7b56412"
+      "hash": "c15d28610d5781a3"
     }
   ],
   "items": [
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8870",
+      "title": "お知らせ 2026年9月8日 ホストタウン活動スケジュール掲載開始のお知らせ",
+      "date": "2026-09-08"
+    },
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8867",
       "title": "お知らせ 2026年9月7日 レッハリラグビー教室 in 和歌山 開催のお知らせ",
@@ -44,7 +49,7 @@
     },
     {
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8853",
-      "title": "ホームタウン活動 2026年9月1日 【2026年8月】サステナNEWS",
+      "title": "ホストタウン活動 2026年9月1日 【2026年8月】サステナNEWS",
       "date": "2026-09-01"
     },
     {
