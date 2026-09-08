@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-07T22:56:27+09:00",
+  "checked_at": "2026-09-08T15:52:35+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6139",
+          "title": "クラブ 静岡ブルーレヴズ、2名の選手と短期契約を締結 2026.09.08",
+          "date": "2026-09-08",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -21,9 +28,9 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54189",
-          "title": "女子日本代表 イタリア・アイルランド遠征 参加メンバー のお知らせ 2026.9.07 （月） 15人制女子日本代表 女子",
-          "date": "2026-09-07",
+          "url": "https://www.rugby-japan.jp/news/54192",
+          "title": "レポート：女子セブンズ・デベロップメント・スコッド（SDS）福岡合宿 2026.9.08 （火） 女子セブンズ日本代表 女子 セブンズ SDS セブンズ・デベロップメント・スコッド",
+          "date": "2026-09-08",
           "category": "squad"
         }
       ],
@@ -43,9 +50,9 @@
   "highlights": [
     {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54189",
-      "title": "女子日本代表 イタリア・アイルランド遠征 参加メンバー のお知らせ 2026.9.07 （月） 15人制女子日本代表 女子",
-      "date": "2026-09-07",
+      "url": "https://www.rugby-japan.jp/news/54192",
+      "title": "レポート：女子セブンズ・デベロップメント・スコッド（SDS）福岡合宿 2026.9.08 （火） 女子セブンズ日本代表 女子 セブンズ SDS セブンズ・デベロップメント・スコッド",
+      "date": "2026-09-08",
       "category": "squad"
     }
   ],
