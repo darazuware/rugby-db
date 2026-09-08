@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-08T15:52:35+09:00",
+  "checked_at": "2026-09-08T21:35:23+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,14 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6139",
-          "title": "クラブ 静岡ブルーレヴズ、2名の選手と短期契約を締結 2026.09.08",
-          "date": "2026-09-08",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -26,14 +19,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54192",
-          "title": "レポート：女子セブンズ・デベロップメント・スコッド（SDS）福岡合宿 2026.9.08 （火） 女子セブンズ日本代表 女子 セブンズ SDS セブンズ・デベロップメント・スコッド",
-          "date": "2026-09-08",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -47,15 +33,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54192",
-      "title": "レポート：女子セブンズ・デベロップメント・スコッド（SDS）福岡合宿 2026.9.08 （火） 女子セブンズ日本代表 女子 セブンズ SDS セブンズ・デベロップメント・スコッド",
-      "date": "2026-09-08",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
