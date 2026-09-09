@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-08T21:35:23+09:00",
+  "checked_at": "2026-09-09T16:01:18+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6142",
+          "title": "クラブ 浦安D-Rocks、2026-27シーズン 浦安D-Rocks初となるMUFGスタジアム（国立競技場）での試合開催決定のお知らせ 2026.09.09",
+          "date": "2026-09-09",
+          "category": null
+        },
+        {
+          "url": "https://league-one.jp/news/6141",
+          "title": "クラブ クボタスピアーズ船橋・東京ベイ、2026-27シーズン ジャージーデザインの決定のお知らせ 2026.09.09",
+          "date": "2026-09-09",
+          "category": null
+        },
+        {
+          "url": "https://league-one.jp/news/6140",
+          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 ディビジョン1 試合日程・会場決定のお知らせ 2026.09.09",
+          "date": "2026-09-09",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,7 +38,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54191",
+          "title": "【男子日本代表コラム】今年こそ頂点へ！ ｢ブレイブブロッサムズ｣が国内開催のPNCで7大会ぶりの優勝を狙う！ 2026.9.09 （水） 15人制男子日本代表 WBB アサヒスーパードライ パシフィックネーションズカップ2026",
+          "date": "2026-09-09",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +59,15 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54191",
+      "title": "【男子日本代表コラム】今年こそ頂点へ！ ｢ブレイブブロッサムズ｣が国内開催のPNCで7大会ぶりの優勝を狙う！ 2026.9.09 （水） 15人制男子日本代表 WBB アサヒスーパードライ パシフィックネーションズカップ2026",
+      "date": "2026-09-09",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
