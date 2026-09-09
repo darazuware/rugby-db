@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-09-09T17:54:11+09:00",
+  "checked_at": "2026-09-09T23:55:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "7fc3e7399f148bea"
+      "hash": "b4c01b95175ac13d"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "24925dd36825a092"
+      "hash": "eb339fcda50ba8c5"
     }
   ],
   "items": [
@@ -26,6 +26,11 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
       "title": "試合日程一覧",
       "date": "2026-09-12"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260909_01/",
+      "title": "活動レポート 2026年09月09日 留学記：NZ編 齊藤誉哉④ ニュースを見る",
+      "date": "2026-09-09"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260908_01/",
@@ -76,11 +81,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260801_01/",
       "title": "ファンクラブ 2026年08月01日 【重要】2026-27シーズン「WILD KNIGHTS FUN CLUB」が生... ニュースを見る",
       "date": "2026-08-01"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260729_01/",
-      "title": "活動レポート 2026年07月29日 留学記：NZ編 田島貫太郎② ニュースを見る",
-      "date": "2026-07-29"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260504_01/",

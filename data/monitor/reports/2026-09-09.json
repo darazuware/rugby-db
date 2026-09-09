@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-09T17:54:11+09:00",
+  "checked_at": "2026-09-09T23:55:58+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,24 +9,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://urayasu-d-rocks.com/news/game/index_2006.html",
-          "title": "ゲーム 2026.09.09 2026-27シーズン 浦安D-Rocks初となるMUFGスタジアム（国立競技場）での試合開催決定のお知らせ",
-          "date": "2026-09-09",
-          "category": null
-        },
-        {
-          "url": "https://urayasu-d-rocks.com/news/game/index_2004.html",
-          "title": "ゲーム 2026.09.09 2026-27シーズン 試合日程決定のお知らせ（9/9時点）",
-          "date": "2026-09-09",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://urayasu-d-rocks.com/",
-        "https://urayasu-d-rocks.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -39,23 +23,15 @@
       "item_count": 60,
       "new_items": [
         {
-          "url": "https://www.kobesteelers.com/news/post35262/",
-          "title": "2026/9/9 チーム 9月7日(月) 網走キャンプ実施に伴い、網走市長を表敬訪問しました",
+          "url": "https://www.kobesteelers.com/news/post35016/",
+          "title": "チケット NTTリーグワン2026-27 ホストゲームシーズンシート販売のお知らせ 2026/9/9",
           "date": "2026-09-09",
-          "category": null
-        },
-        {
-          "url": "https://www.kobesteelers.com/news/post28972/",
-          "title": "2025/10/28 お知らせ コベルコ神戸スティーラーズの応援コールについて",
-          "date": "2025-10-28",
           "category": null
         }
       ],
       "changed_pages": [
         "https://www.kobesteelers.com/",
-        "https://www.kobesteelers.com/news/",
-        "https://www.kobesteelers.com/news/cat_news/information/",
-        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+        "https://www.kobesteelers.com/news/"
       ],
       "rename_signals": []
     },
@@ -69,9 +45,9 @@
       "item_count": 34,
       "new_items": [
         {
-          "url": "https://panasonic.co.jp/sports/wildknights/match/games/",
-          "title": "試合日程一覧",
-          "date": "2026-12-12",
+          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260909_01/",
+          "title": "活動レポート 2026年09月09日 留学記：NZ編 齊藤誉哉④ ニュースを見る",
+          "date": "2026-09-09",
           "category": null
         }
       ],
@@ -91,8 +67,8 @@
       "item_count": 41,
       "new_items": [
         {
-          "url": "https://www.bravelupus.com/news/260909/",
-          "title": "NTTジャパンラグビー リーグワン2026-27 ディビジョン1 試合日程・会場決定のお知らせ",
+          "url": "https://www.bravelupus.com/news/260909-2/",
+          "title": "アサヒスーパードライ パシフィックネーションズカップ2026 大会登録メンバーのお知らせ",
           "date": "2026-09-09",
           "category": null
         }
@@ -113,14 +89,8 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4240",
-          "title": "NTTジャパンラグビー リーグワン2026-27 大会日程決定のお知らせ 試合情報 PICK UP 2026.09.09",
-          "date": "2026-09-09",
-          "category": null
-        },
-        {
-          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4240/",
-          "title": "2026.9.9 試合情報 NTTジャパンラグビー リーグワン2026-27 大会日程決定のお知らせ",
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4263/",
+          "title": "2026.9.9 チケット・ファンクラブ イベント 【ファンクラブ】ゴールド会員様限定 公開練習のご案内",
           "date": "2026-09-09",
           "category": null
         }
@@ -140,8 +110,8 @@
       "item_count": 25,
       "new_items": [
         {
-          "url": "https://www.honda-heat.jp/news/2429/",
-          "title": "トピックス 2026.9.9 NTTジャパンラグビー リーグワン2026-27 試合日程決定のお知らせ",
+          "url": "https://www.honda-heat.jp/news/2430/",
+          "title": "トピックス 2026.9.9 平野叶翔、アサヒスーパードライ パシフィックネーションズカップ2026 大会登録メンバーに選出のお知らせ",
           "date": "2026-09-09",
           "category": null
         }
@@ -160,14 +130,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260909.html",
-          "title": "2026-09-09 NTTジャパンラグビー リーグワン2026-27 大会日程決定のお知らせ。開幕節は相模原で「神奈川ダービー」！",
-          "date": "2026-09-09",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -182,25 +145,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 14,
-      "new_items": [
-        {
-          "url": "https://www.canon-eagles.jp/news/gameinfo/20260909.html",
-          "title": "2026.09.09 GAME NTT JAPAN RUGBY LEAGUE ONE 2026-27 公式戦日程のお知らせ",
-          "date": "2026-09-09",
-          "category": null
-        },
-        {
-          "url": "https://www.canon-eagles.jp/news/info/20260908.html",
-          "title": "2026.09.08 TEAM 横浜キヤノンイーグルスの選手が南アフリカ代表としてニュージーランド代表戦に出場します",
-          "date": "2026-09-08",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.canon-eagles.jp/",
-        "https://www.canon-eagles.jp/news/",
-        "https://www.canon-eagles.jp/news/info/2026.html"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -211,17 +157,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [
-        {
-          "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260909a.html",
-          "title": "NTT JAPAN RUGBY LEAGUE ONE 2026-27 試合日程のお知らせ",
-          "date": "2026-09-09",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://blackrams-tokyo.com/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -232,30 +169,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 58,
-      "new_items": [
-        {
-          "url": "https://www.kubota-spears.com/news/2026/09/09/140000.html",
-          "title": "2026.09.09 ニュース・トピックス",
-          "date": "2026-09-09",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/news/2026/09/09/120000.html",
-          "title": "2026.09.09 ニュース・トピックス",
-          "date": "2026-09-09",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/goods/2026/09/09/121500.html",
-          "title": "2026.09.09 グッズ",
-          "date": "2026-09-09",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.kubota-spears.com/",
-        "https://www.kubota-spears.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -266,26 +181,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 27,
-      "new_items": [
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3182",
-          "title": "2026.9.9[WED] SCHOOL ブルーレヴズU18が静岡県U16ジュニアチャンピオンシップで3位",
-          "date": "2026-09-09",
-          "category": null
-        },
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3172",
-          "title": "2026.9.9[WED] TEAM 10/23(金)から宮崎県で＜延岡キャンプ 2026 supported by 辛麺屋桝元＞",
-          "date": "2026-09-09",
-          "category": null
-        },
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3165",
-          "title": "2026.9.9[WED] TEAM ホーム開幕は12月20日！NTTジャパンラグビー リーグワン2026-27日程決定！",
-          "date": "2026-09-09",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -300,18 +196,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/jrlo2627msa.html",
-          "title": "2026年 9月 9日 NTT JAPAN RUGBY LEAGUE ONE 2026-27の日程が発表されました！ （※ 2026年9月9日 時点の情報） いつも東京サンゴリアスへの温かいご声援ありがとうございます。12月12…",
-          "date": "2026-09-09",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.suntory.co.jp/culture-sports/sungoliath/",
-        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -360,17 +246,9 @@
       "status": "ok",
       "first_run": false,
       "item_count": 7,
-      "new_items": [
-        {
-          "url": "https://shuttles-aichi.com/news/%e5%9c%b0%e5%9f%9f%e4%ba%a4%e6%b5%81%e4%bc%9a%e5%ae%9f%e6%96%bd%e5%a0%b1%e5%91%8a/",
-          "title": "フォトギャラリー お知らせ 2026.09.08 地域交流会実施報告",
-          "date": "2026-09-08",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
-        "https://shuttles-aichi.com/",
-        "https://shuttles-aichi.com/news/"
+        "https://shuttles-aichi.com/"
       ],
       "rename_signals": []
     },
@@ -455,10 +333,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.rugguts.secom.co.jp/",
-        "https://www.rugguts.secom.co.jp/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -530,14 +405,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54190",
-          "title": "アサヒスーパードライ パシフィックネーションズカップ2026 大会登録メンバーのお知らせ 2026.9.09 （水） 15人制男子日本代表 WBB PNC アサヒスーパードライ パシフィックネーションズカップ2026 男子 日本代表",
-          "date": "2026-09-09",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -551,15 +419,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54190",
-      "title": "アサヒスーパードライ パシフィックネーションズカップ2026 大会登録メンバーのお知らせ 2026.9.09 （水） 15人制男子日本代表 WBB PNC アサヒスーパードライ パシフィックネーションズカップ2026 男子 日本代表",
-      "date": "2026-09-09",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
