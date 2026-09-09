@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-09-08T23:50:03+09:00",
+  "checked_at": "2026-09-09T17:54:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "29e44b636c29fb2b"
+      "hash": "b865600644a4ee7b"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "b8c756092f09beb3"
+      "hash": "b357a957c4606bcc"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260909.html",
+      "title": "2026-09-09 NTTジャパンラグビー リーグワン2026-27 大会日程決定のお知らせ。開幕節は相模原で「神奈川ダービー」！",
+      "date": "2026-09-09"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260908.html-0",
       "title": "2026-09-08 相模原・福岡で一般公開練習を実施します",
@@ -54,7 +59,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/dynaboarsfesta2026",
-      "title": "2026-08-28 ダイナボアーズフェスタ2026｜選手出演情報更新",
+      "title": "2026-08-28 [ イベント ] ダイナボアーズフェスタ2026｜選手出演情報更新",
       "date": "2026-08-28"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/2526pr2#10",
       "title": "2026-06-02 [ メディア ] 試合レポート更新｜vsS愛知 --「自分たちを信じた」先のD1残留 ルーキー躍動で後半圧倒、今季最後に示した成長の跡",
       "date": "2026-06-02"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/2526pr2",
-      "title": "2026-05-28 [ チーム ] 試合情報/メンバー更新｜D1/D2入替戦 第2戦 三菱重工相模原ダイナボアーズ 対 豊田自動織機シャトルズ愛知",
-      "date": "2026-05-28"
     }
   ]
 }

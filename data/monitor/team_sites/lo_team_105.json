@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-09-08T23:50:03+09:00",
+  "checked_at": "2026-09-09T17:54:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "07d4a2975052da5a"
+      "hash": "772be91d895548fd"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "455b2a390efd748b"
+      "hash": "499078b0885bc7c2"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2429/",
+      "title": "トピックス 2026.9.9 NTTジャパンラグビー リーグワン2026-27 試合日程決定のお知らせ",
+      "date": "2026-09-09"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2427/",
       "title": "イベント 2026.9.4 2026-27プレシーズン マッチ対戦相手決定のお知らせ",
@@ -130,11 +135,6 @@
     {
       "url": "https://www.honda-heat.jp/news/2402/",
       "title": "トピックス 2026.7.13 【表敬訪問】亀山市長を訪問し、25-26シーズン終了のご挨拶をさせていただきました",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2401/",
-      "title": "トピックス 2026.7.13 【表敬訪問】鈴鹿市長を訪問し、25-26シーズン終了のご挨拶をさせていただきました",
       "date": "2026-07-13"
     },
     {

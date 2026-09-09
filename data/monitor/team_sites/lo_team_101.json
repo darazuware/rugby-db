@@ -3,28 +3,33 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-09-08T23:50:03+09:00",
+  "checked_at": "2026-09-09T17:54:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "c7ee59a66c699155"
+      "hash": "0aeeec24a94813f4"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "27ea6175ae6c845c"
+      "hash": "23c6a163bb1d3310"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "e570e54ab6f665da"
+      "hash": "8f94b536e4183942"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "c07907e9945156d8"
+      "hash": "b0a6bf7afc1bf7b6"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35262/",
+      "title": "2026/9/9 チーム 9月7日(月) 網走キャンプ実施に伴い、網走市長を表敬訪問しました",
+      "date": "2026-09-09"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35201/",
       "title": "2026/9/7 イベント 9月27日(日)「ビーチスポーツフェスタinあかし」でラグビー体験を実施します",
@@ -166,11 +171,6 @@
       "date": "2026-08-20"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35082/",
-      "title": "2026/8/20 イベント 【レポート】「生田神社 大海夏祭2026」にてラグビー体験を実施しました",
-      "date": "2026-08-20"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35078/",
       "title": "2026/8/20 イベント 【レポート】「第16回UNIVER祭」にてラグビー体験を実施しました",
       "date": "2026-08-20"
@@ -178,11 +178,6 @@
     {
       "url": "https://www.kobesteelers.com/news/post35071/",
       "title": "2026/8/18 チーム 8月17日(月)新体制のもとで2026-27シーズンに向けて本格始動！",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35064/",
-      "title": "2026/8/18 チーム 8月17日(月)新体制記者会見を行いました",
       "date": "2026-08-18"
     },
     {
@@ -324,6 +319,11 @@
       "url": "https://www.kobesteelers.com/news/post29027/",
       "title": "2025/11/4 お知らせ 神戸を拠点とする各スポーツチームの紹介コーナーがJR三ノ宮駅南側エリアに設置されます",
       "date": "2025-11-04"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post28972/",
+      "title": "2025/10/28 お知らせ コベルコ神戸スティーラーズの応援コールについて",
+      "date": "2025-10-28"
     }
   ]
 }

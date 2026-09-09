@@ -3,24 +3,34 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-09-08T23:50:03+09:00",
+  "checked_at": "2026-09-09T17:54:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.canon-eagles.jp/",
-      "hash": "4df358d921631015"
+      "hash": "80ec687811ed5080"
     },
     {
       "url": "https://www.canon-eagles.jp/news/",
-      "hash": "578e734b902c0d81"
+      "hash": "260574da0bb15424"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/2026.html",
-      "hash": "4f8a1aec1130f6a2"
+      "hash": "97830ee7d327215a"
     }
   ],
   "items": [
+    {
+      "url": "https://www.canon-eagles.jp/news/gameinfo/20260909.html",
+      "title": "2026.09.09 GAME NTT JAPAN RUGBY LEAGUE ONE 2026-27 公式戦日程のお知らせ",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20260908.html",
+      "title": "2026.09.08 TEAM 横浜キヤノンイーグルスの選手が南アフリカ代表としてニュージーランド代表戦に出場します",
+      "date": "2026-09-08"
+    },
     {
       "url": "https://www.canon-eagles.jp/news/gameinfo/20260807.html",
       "title": "2026.09.04 GAME 【更新】2026-27シーズン 練習試合予定",
@@ -80,11 +90,6 @@
       "url": "https://www.canon-eagles.jp/news/info/20260723.html",
       "title": "2026.07.23 TEAM 男子日本代表網走合宿に横浜キヤノンイーグルスの選手が参加します",
       "date": "2026-07-23"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/about/jersey.html",
-      "title": "2026.07.17 TEAM 2026-27シーズンのジャージが決定しました",
-      "date": "2026-07-17"
     }
   ]
 }

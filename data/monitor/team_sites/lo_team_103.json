@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-09-08T23:50:03+09:00",
+  "checked_at": "2026-09-09T17:54:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "924b54dd5c9cc247"
+      "hash": "3c716a14e704562c"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "6bbd3e208ee2723c"
+      "hash": "5d12a5092efd8cdd"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/260909/",
+      "title": "NTTジャパンラグビー リーグワン2026-27 ディビジョン1 試合日程・会場決定のお知らせ",
+      "date": "2026-09-09"
+    },
     {
       "url": "https://www.bravelupus.com/news/260901/",
       "title": "2026-27シーズン プレシーズンマッチのお知らせ※11/21の試合を更新しました。",
@@ -216,11 +221,6 @@
       "url": "https://www.bravelupus.com/news/260507/",
       "title": "NTTジャパンラグビー リーグワン2025-26 プレーオフトーナメント進出決定のお知らせ（5/10：対戦相手決定）",
       "date": "2026-05-11"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/20260504/",
-      "title": "【ファンクラブ特典】5月5日（火・祝）練習見学 開催時間変更のお知らせ",
-      "date": "2026-05-04"
     }
   ]
 }

@@ -3,28 +3,33 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-09-08T17:47:57+09:00",
+  "checked_at": "2026-09-09T17:54:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "d9ba868635c997a9"
+      "hash": "573e44a3ab0c07d0"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "a71e810ef0349ba9"
+      "hash": "a4117ef69d085d0f"
     }
   ],
   "items": [
     {
-      "url": "https://shuttles-aichi.com/news/2026-27fanclub/",
-      "title": "お知らせ 2026.09.03 2026-27シーズン ファンクラブ会員募集のお知らせ",
-      "date": "2026-09-03"
+      "url": "https://shuttles-aichi.com/news/%e5%9c%b0%e5%9f%9f%e4%ba%a4%e6%b5%81%e4%bc%9a%e5%ae%9f%e6%96%bd%e5%a0%b1%e5%91%8a/",
+      "title": "フォトギャラリー お知らせ 2026.09.08 地域交流会実施報告",
+      "date": "2026-09-08"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
       "title": "もっと見る",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/2026-27fanclub/",
+      "title": "お知らせ 2026.09.03 2026-27シーズン ファンクラブ会員募集のお知らせ",
       "date": "2026-09-03"
     },
     {
@@ -46,11 +51,6 @@
       "url": "https://shuttles-aichi.com/news/2026-27newplayerstaff/",
       "title": "お知らせ 2026.08.03 2026-27シーズン新加入選手スタッフのお知らせ",
       "date": "2026-08-03"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/2026-27-season-fan-club-membership/",
-      "title": "お知らせ 2026.08.01 2026-27シーズン ファンクラブ 会員募集開始のお知らせ",
-      "date": "2026-08-01"
     }
   ]
 }

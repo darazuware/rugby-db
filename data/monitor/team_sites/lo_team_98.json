@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-09-08T23:50:03+09:00",
+  "checked_at": "2026-09-09T17:54:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "882ee8cfbe453f19"
+      "hash": "592699815597c295"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "71be74c1637e4b59"
+      "hash": "d9db0a210aff3636"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3182",
+      "title": "2026.9.9[WED] SCHOOL ブルーレヴズU18が静岡県U16ジュニアチャンピオンシップで3位",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3172",
+      "title": "2026.9.9[WED] TEAM 10/23(金)から宮崎県で＜延岡キャンプ 2026 supported by 辛麺屋桝元＞",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3165",
+      "title": "2026.9.9[WED] TEAM ホーム開幕は12月20日！NTTジャパンラグビー リーグワン2026-27日程決定！",
+      "date": "2026-09-09"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3179",
       "title": "2026.9.8[TUE] TEAM 2名の選手と短期契約を締結",
@@ -98,24 +113,9 @@
       "date": "2026-08-08"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3156",
-      "title": "2026.8.7[FRI] TEAM プレシーズンマッチ日程のお知らせ",
-      "date": "2026-08-07"
-    },
-    {
       "url": "https://www.shizuoka-bluerevs.com/news/3155",
       "title": "2026.8.7[FRI] FAN CLUB ＜CLUB REVS＞入会記念品の試着・展示会を8/29(土)に開催",
       "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3154",
-      "title": "2026.8.5[WED] HOST AREA 【ホストエリア活動】磐田市 「キラリ☆サマーキャンプ2026」にてタグラグビー体験を実施しました",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3153",
-      "title": "2026.8.5[WED] OTHERS 夏季休業期間のお知らせ",
-      "date": "2026-08-05"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3140",

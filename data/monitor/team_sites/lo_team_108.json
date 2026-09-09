@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-09-08T23:50:03+09:00",
+  "checked_at": "2026-09-09T17:54:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "7b53463ef15995e3"
+      "hash": "d6933443d527fb92"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260909a.html",
+      "title": "NTT JAPAN RUGBY LEAGUE ONE 2026-27 試合日程のお知らせ",
+      "date": "2026-09-09"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260908b.html",
       "title": "ブラックラムズ東京オンラインショップ 新グッズ販売のお知らせ",
@@ -26,11 +31,6 @@
     {
       "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260907c.html",
       "title": "リーグワンライジング2026 九州電力キューデンヴォルテクス戦 中止のお知らせ",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20260907a.html",
-      "title": "ブラックラムズ東京ファンクラブ『RAMOVE』レギュラー会員お友達・ご家族紹介キャンペーンのお知らせ",
       "date": "2026-09-07"
     },
     {

@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-09-08T23:50:03+09:00",
+  "checked_at": "2026-09-09T17:54:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "9e091f849645a6df"
+      "hash": "b5b1576ff8d3f526"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "83ca1df2f9ccbc2b"
+      "hash": "d89ec0d8f98a0e3b"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/jrlo2627msa.html",
+      "title": "2026年 9月 9日 NTT JAPAN RUGBY LEAGUE ONE 2026-27の日程が発表されました！ （※ 2026年9月9日 時点の情報） いつも東京サンゴリアスへの温かいご声援ありがとうございます。12月12…",
+      "date": "2026-09-09"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2609-1032.html",
       "title": "2026年 9月 4日 #1032 下川 甲嗣 『1対1で絶対に勝つ』",
@@ -211,11 +216,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/lor11fdblt..html",
       "title": "2026年 3月14日 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第11節 東京サントリーサンゴリアスvs東芝ブレイブルーパス東京戦のご案内 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第11節 ※ホストゲーム ■試合日時…",
       "date": "2026-03-14"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/dznjivnr.html",
-      "title": "2026年 3月 3日 DAZN Japan Investment合同会社とオフィシャルパートナー契約締結のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026年3月1日付で東京サン…",
-      "date": "2026-03-03"
     }
   ]
 }
