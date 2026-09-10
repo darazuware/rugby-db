@@ -1,7 +1,13 @@
 {
-  "checked_at": "2026-09-09T23:55:58+09:00",
+  "checked_at": "2026-09-10T15:57:50+09:00",
   "url": "https://league-one.jp/news/",
   "items": [
+    {
+      "url": "https://league-one.jp/news/6143",
+      "title": "クラブ ルリーロ福岡、2026-27シーズン チームスローガン及びキャプテン・バイスキャプテンのお知らせ 2026.09.10",
+      "date": "2026-09-10",
+      "category": "roster"
+    },
     {
       "url": "https://league-one.jp/news/6142",
       "title": "クラブ 浦安D-Rocks、2026-27シーズン 浦安D-Rocks初となるMUFGスタジアム（国立競技場）での試合開催決定のお知らせ 2026.09.09",
@@ -45,11 +51,6 @@
     {
       "url": "https://league-one.jp/news/6134",
       "title": "クラブ 栃木ホンダヒート/花園近鉄ライナーズ/レッドハリケーンズ大阪、『OSAKA FUNtast!c SPORTS PROJECT』参加のお知らせ 2026.09.03",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://league-one.jp/news/6133",
-      "title": "クラブ 日本製鉄釜石シーウェイブス、2026-27シーズン 新体制のお知らせ 2026.09.03",
       "date": "2026-09-03"
     }
   ]
