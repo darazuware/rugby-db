@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-09-10T17:52:54+09:00",
+  "checked_at": "2026-09-10T23:42:24+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "a4c31c45032a524c"
+      "hash": "a189a4e300e62770"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "e5b0b91c29a706ed"
+      "hash": "a030d1d379337ceb"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/260910/",
+      "title": "アサヒスーパードライパシフィックネーションズカップ2026 準決勝日本代表対アメリカ代表試合登録メンバーのお知らせ",
+      "date": "2026-09-10"
+    },
     {
       "url": "https://www.bravelupus.com/news/260901/",
       "title": "2026-27シーズン プレシーズンマッチのお知らせ※11/14、11/21の試合を更新しました。",
@@ -216,11 +221,6 @@
       "url": "https://www.bravelupus.com/news/260513/",
       "title": "NTTジャパンラグビー リーグワン2025-26 プレーオフトーナメント準々決勝チケット販売について",
       "date": "2026-05-13"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260511/",
-      "title": "2025-26シーズントレーニングマッチ実施報告 vs 埼玉WK・江東BS",
-      "date": "2026-05-11"
     }
   ]
 }

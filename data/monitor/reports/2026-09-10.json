@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-10T17:52:54+09:00",
+  "checked_at": "2026-09-10T23:42:24+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -10,10 +10,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://urayasu-d-rocks.com/",
-        "https://urayasu-d-rocks.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -26,17 +23,15 @@
       "item_count": 60,
       "new_items": [
         {
-          "url": "https://www.kobesteelers.com/news/post35256/",
-          "title": "2026/9/10 社会貢献 神戸市が取り組む「こうべ木陰プロジェクト」のPRに協力します",
+          "url": "https://www.kobesteelers.com/news/post35188/",
+          "title": "2026/9/10 チーム 9月12日(土)「アサヒスーパードライ パシフィックネーションズカップ2026」準決勝 アメリカ代表戦メンバー選出のお知らせ",
           "date": "2026-09-10",
-          "category": null
+          "category": "squad"
         }
       ],
       "changed_pages": [
         "https://www.kobesteelers.com/",
-        "https://www.kobesteelers.com/news/",
-        "https://www.kobesteelers.com/news/cat_news/information/",
-        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+        "https://www.kobesteelers.com/news/"
       ],
       "rename_signals": []
     },
@@ -48,18 +43,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 34,
-      "new_items": [
-        {
-          "url": "https://panasonic.co.jp/sports/wildknights/match/games/20260912/",
-          "title": "試合詳細",
-          "date": "2026-09-12",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://panasonic.co.jp/sports/wildknights/",
-        "https://panasonic.co.jp/sports/wildknights/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -70,7 +55,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 41,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/news/260910/",
+          "title": "アサヒスーパードライパシフィックネーションズカップ2026 準決勝日本代表対アメリカ代表試合登録メンバーのお知らせ",
+          "date": "2026-09-10",
+          "category": "squad"
+        }
+      ],
       "changed_pages": [
         "https://www.bravelupus.com/",
         "https://www.bravelupus.com/news/"
@@ -85,20 +77,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4266",
-          "title": "9月20日（日）に2026-27シーズン新ジャージーを初公開！お披露目会も開催 PICK UP 2026.09.10",
-          "date": "2026-09-10",
-          "category": null
-        },
-        {
-          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4266/",
-          "title": "2026.9.10 トピックス 9月20日（日）に2026-27シーズン新ジャージーを初公開！お披露目会も開催",
-          "date": "2026-09-10",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://verblitz.toyotatimes-sports.toyota/"
       ],
@@ -124,26 +103,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260910.html-1",
-          "title": "2026-09-10 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（9/12）に14番で先発出場予定",
-          "date": "2026-09-10",
-          "category": null
-        },
-        {
-          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260910.html",
-          "title": "2026-09-10 2026-27プレシーズン 全5試合の日程が決定",
-          "date": "2026-09-10",
-          "category": null
-        },
-        {
-          "url": "https://www.mhi.com/jp/company/sports/dynaboars/2026-27OS",
-          "title": "2026-09-10 2026-27シーズン スタッフ体制・事業運営体制を更新しました",
-          "date": "2026-09-10",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -170,17 +130,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [
-        {
-          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260907a.html",
-          "title": "10月10日(土) 「秋のラグビー観戦＆防災デー」開催のお知らせ",
-          "date": "2026-09-07",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://blackrams-tokyo.com/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -192,9 +143,7 @@
       "first_run": false,
       "item_count": 58,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kubota-spears.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -205,20 +154,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 27,
-      "new_items": [
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3181",
-          "title": "2026.9.10[THU] EVENT 10/12(月・祝)に＜ラグビーディスカバリー supported by しずぎん＞を浜松市で開催！",
-          "date": "2026-09-10",
-          "category": null
-        },
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3175",
-          "title": "2026.9.8[TUE] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（9/1～9/4）",
-          "date": "2026-09-08",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -233,18 +169,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/821.html",
-          "title": "2026年 9月10日 Day821 『2026-27シーズンスタート』",
-          "date": "2026-09-10",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.suntory.co.jp/culture-sports/sungoliath/",
-        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -254,9 +180,20 @@
       "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": false,
-      "item_count": 10,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 11,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0910-01/",
+          "title": "MATCH ジャパンラグビー リーグワン ライジング2026日程決定のお知らせ 2026.09.10",
+          "date": "2026-09-10",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/",
+        "https://www.jreast.co.jp/greenwarriors/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -268,10 +205,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kyudenvoltex.com/",
-        "https://www.kyudenvoltex.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -285,9 +219,7 @@
       "new_items": [],
       "changed_pages": [
         "https://blue-sharks.jp/",
-        "https://blue-sharks.jp/information/",
-        "https://blue-sharks.jp/news/",
-        "https://blue-sharks.jp/category/news/"
+        "https://blue-sharks.jp/information/"
       ],
       "rename_signals": []
     },
@@ -329,14 +261,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 25,
-      "new_items": [
-        {
-          "url": "https://hanazono-liners.jp/2026/09/10/liners-fanclub-termsandconditions/",
-          "title": "2026.09.10 その他 【重要】LINERS FANCLUB 2026-27 会員規約の表示不備に関するお詫びとご確認のお願い",
-          "date": "2026-09-10",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -351,17 +276,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 15,
-      "new_items": [
-        {
-          "url": "https://hino-reddolphins.com/2026-09-10/",
-          "title": "9/12 丸和MOMOTARO’S成田戦 メンバーのお知らせ",
-          "date": "2026-09-10",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -402,10 +318,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.rugguts.secom.co.jp/",
-        "https://www.rugguts.secom.co.jp/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -454,18 +367,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 11,
-      "new_items": [
-        {
-          "url": "https://leriro-fukuoka.com/news-detail?id=277",
-          "title": "2026-27シーズン プレイヤーズ体制/スローガンのお知らせ",
-          "date": "2026-09-10",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://leriro-fukuoka.com/",
-        "https://leriro-fukuoka.com/news"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     }
   ],
@@ -477,20 +380,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6146",
-          "title": "お知らせ 「ジャパンラグビー リーグワン ライジング2026」一部試合をリーグワン公式YouTubeで配信決定！ 2026.09.10",
-          "date": "2026-09-10",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6145",
-          "title": "お知らせ 「ジャパンラグビー リーグワン ライジング2026」一部キックオフ時間および観戦情報追加決定のお知らせ 2026.09.10",
-          "date": "2026-09-10",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -500,14 +390,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54193",
-          "title": "アサヒスーパードライ パシフィックネーションズカップ2026 準決勝 日本代表 対 アメリカ代表 試合登録メンバーのお知らせ 2026.9.10 （木） 15人制男子日本代表 WBB PNC アサヒスーパードライ パシフィックネーションズカップ2026 日本代表 日本代表戦",
-          "date": "2026-09-10",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -523,9 +406,16 @@
   ],
   "highlights": [
     {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54193",
-      "title": "アサヒスーパードライ パシフィックネーションズカップ2026 準決勝 日本代表 対 アメリカ代表 試合登録メンバーのお知らせ 2026.9.10 （木） 15人制男子日本代表 WBB PNC アサヒスーパードライ パシフィックネーションズカップ2026 日本代表 日本代表戦",
+      "source": "コベルコ神戸スティーラーズ",
+      "url": "https://www.kobesteelers.com/news/post35188/",
+      "title": "2026/9/10 チーム 9月12日(土)「アサヒスーパードライ パシフィックネーションズカップ2026」準決勝 アメリカ代表戦メンバー選出のお知らせ",
+      "date": "2026-09-10",
+      "category": "squad"
+    },
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/260910/",
+      "title": "アサヒスーパードライパシフィックネーションズカップ2026 準決勝日本代表対アメリカ代表試合登録メンバーのお知らせ",
       "date": "2026-09-10",
       "category": "squad"
     }

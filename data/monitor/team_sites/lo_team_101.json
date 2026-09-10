@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-09-10T17:52:54+09:00",
+  "checked_at": "2026-09-10T23:42:24+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "9af6c6a0aa6d0e5f"
+      "hash": "996f60322c28746b"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "753b523cbf5b8457"
+      "hash": "5ea4613d589deef2"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -28,6 +28,11 @@
     {
       "url": "https://www.kobesteelers.com/news/post35256/",
       "title": "2026/9/10 社会貢献 神戸市が取り組む「こうべ木陰プロジェクト」のPRに協力します",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35188/",
+      "title": "2026/9/10 チーム 9月12日(土)「アサヒスーパードライ パシフィックネーションズカップ2026」準決勝 アメリカ代表戦メンバー選出のお知らせ",
       "date": "2026-09-10"
     },
     {
@@ -184,11 +189,6 @@
       "url": "https://www.kobesteelers.com/news/post35078/",
       "title": "2026/8/20 イベント 【レポート】「第16回UNIVER祭」にてラグビー体験を実施しました",
       "date": "2026-08-20"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35071/",
-      "title": "2026/8/18 チーム 8月17日(月)新体制のもとで2026-27シーズンに向けて本格始動！",
-      "date": "2026-08-18"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34948/",
