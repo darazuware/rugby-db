@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-09-09T23:55:58+09:00",
+  "checked_at": "2026-09-10T17:52:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,10 +13,15 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "b612bf66c310216d"
+      "hash": "911b519b1d855066"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-09-10/",
+      "title": "9/12 丸和MOMOTARO’S成田戦 メンバーのお知らせ",
+      "date": "2026-09-10"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-09-04/",
       "title": "【スポットコーチ】前橋高校と桐生清桜高校、渋川工業高校の合同練習に参加しました",
@@ -86,11 +91,6 @@
       "url": "https://hino-reddolphins.com/2026-07-27/",
       "title": "株式会社フィールド・パートナーズを表敬訪問しました",
       "date": "2026-07-27"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-07-24/",
-      "title": "7/4イオンモール多摩平の森『たまもりスポーツイベント』に参加しました",
-      "date": "2026-07-24"
     }
   ]
 }

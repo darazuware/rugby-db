@@ -1,12 +1,23 @@
 {
-  "checked_at": "2026-09-10T15:57:50+09:00",
+  "checked_at": "2026-09-10T17:52:54+09:00",
   "url": "https://league-one.jp/news/",
   "items": [
     {
+      "url": "https://league-one.jp/news/6146",
+      "title": "お知らせ 「ジャパンラグビー リーグワン ライジング2026」一部試合をリーグワン公式YouTubeで配信決定！ 2026.09.10",
+      "date": "2026-09-10",
+      "category": null
+    },
+    {
+      "url": "https://league-one.jp/news/6145",
+      "title": "お知らせ 「ジャパンラグビー リーグワン ライジング2026」一部キックオフ時間および観戦情報追加決定のお知らせ 2026.09.10",
+      "date": "2026-09-10",
+      "category": null
+    },
+    {
       "url": "https://league-one.jp/news/6143",
       "title": "クラブ ルリーロ福岡、2026-27シーズン チームスローガン及びキャプテン・バイスキャプテンのお知らせ 2026.09.10",
-      "date": "2026-09-10",
-      "category": "roster"
+      "date": "2026-09-10"
     },
     {
       "url": "https://league-one.jp/news/6142",
@@ -42,16 +53,6 @@
       "url": "https://league-one.jp/news/6136",
       "title": "クラブ コベルコ神戸スティーラーズ、2026-27シーズン共同キャプテン決定のお知らせ 2026.09.04",
       "date": "2026-09-04"
-    },
-    {
-      "url": "https://league-one.jp/news/6135",
-      "title": "クラブ 栃木ホンダヒート、新練習拠点の完成および施設名称決定のお知らせ 2026.09.04",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://league-one.jp/news/6134",
-      "title": "クラブ 栃木ホンダヒート/花園近鉄ライナーズ/レッドハリケーンズ大阪、『OSAKA FUNtast!c SPORTS PROJECT』参加のお知らせ 2026.09.03",
-      "date": "2026-09-03"
     }
   ]
 }

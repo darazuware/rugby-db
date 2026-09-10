@@ -3,28 +3,33 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-09-09T23:55:58+09:00",
+  "checked_at": "2026-09-10T17:52:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "3b5d6700af2a7b18"
+      "hash": "9af6c6a0aa6d0e5f"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "60b9599f404911cd"
+      "hash": "753b523cbf5b8457"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "8f94b536e4183942"
+      "hash": "86d8940f141af70d"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "b0a6bf7afc1bf7b6"
+      "hash": "4ad3114e923e2fa2"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35256/",
+      "title": "2026/9/10 社会貢献 神戸市が取り組む「こうべ木陰プロジェクト」のPRに協力します",
+      "date": "2026-09-10"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35262/",
       "title": "2026/9/9 チーム 9月7日(月) 網走キャンプ実施に伴い、網走市長を表敬訪問しました",
@@ -219,11 +224,6 @@
       "url": "https://www.kobesteelers.com/news/post34926/",
       "title": "2026/7/29 社会貢献 「ノエスタラジオ体操2026」のムービーに福西 隼杜選手、船曳 涼太選手、辻野 隼大選手が出演します",
       "date": "2026-07-29"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34863/",
-      "title": "2026/7/17 普及 【レポート】タッチラグビー加古川大会に参加しました",
-      "date": "2026-07-17"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34386/",

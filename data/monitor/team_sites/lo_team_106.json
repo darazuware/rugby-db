@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-09-09T23:55:58+09:00",
+  "checked_at": "2026-09-10T17:52:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "4e085521bfe561ee"
+      "hash": "6e014d84663535b0"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "5427dc9f72c6e93e"
+      "hash": "0d3caf031d55583c"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260910.html-1",
+      "title": "2026-09-10 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（9/12）に14番で先発出場予定",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260910.html",
+      "title": "2026-09-10 2026-27プレシーズン 全5試合の日程が決定",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/2026-27OS",
+      "title": "2026-09-10 2026-27シーズン スタッフ体制・事業運営体制を更新しました",
+      "date": "2026-09-10"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260909.html",
       "title": "2026-09-09 NTTジャパンラグビー リーグワン2026-27 大会日程決定のお知らせ。開幕節は相模原で「神奈川ダービー」！",
@@ -44,17 +59,17 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260901.html-0",
-      "title": "2026-09-01 ダイナボアーズ公式ファンクラブ2026-27継続入会の受付を開始しました",
+      "title": "2026-09-01 [ ファンクラブ ] ダイナボアーズ公式ファンクラブ2026-27継続入会の受付を開始しました",
       "date": "2026-09-01"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260901.html",
-      "title": "2026-09-01 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（9/5）に14番で先発出場予定",
+      "title": "2026-09-01 [ チーム ] 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（9/5）に14番で先発出場予定",
       "date": "2026-09-01"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260828.html",
-      "title": "2026-08-28 ジャック・ボーウェン選手加入のお知らせ",
+      "title": "2026-08-28 [ チーム ] ジャック・ボーウェン選手加入のお知らせ",
       "date": "2026-08-28"
     },
     {
@@ -201,21 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260608.html",
       "title": "2026-06-08 [ チーム ] [ メディア ] 南アフリカ代表スコッドにダイナボアーズからルカニョ・アム選手が選出！｜15人制男子南アフリカ代表",
       "date": "2026-06-08"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260603.html-0",
-      "title": "2026-06-03 [ チーム ] チームを支えた仲間から。2025-26シーズンをもって退団となるスタッフからのコメントを公開",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260603.html",
-      "title": "2026-06-03 [ チーム ] すべての皆さまへ感謝のメッセージ。2025-26シーズンをもって退団となる選手からのコメントを公開",
-      "date": "2026-06-03"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/2526pr2#10",
-      "title": "2026-06-02 [ メディア ] 試合レポート更新｜vsS愛知 --「自分たちを信じた」先のD1残留 ルーキー躍動で後半圧倒、今季最後に示した成長の跡",
-      "date": "2026-06-02"
     }
   ]
 }

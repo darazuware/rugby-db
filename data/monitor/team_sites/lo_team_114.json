@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-09-09T23:55:58+09:00",
+  "checked_at": "2026-09-10T17:52:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "6bd168d1666a0544"
+      "hash": "3a892e5eb3d0a5d6"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "f9b7e4cb47360dbc"
+      "hash": "5fcfafd882cc8f1c"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/09/10/liners-fanclub-termsandconditions/",
+      "title": "2026.09.10 その他 【重要】LINERS FANCLUB 2026-27 会員規約の表示不備に関するお詫びとご確認のお願い",
+      "date": "2026-09-10"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/09/07/liners-fanclub-3/",
       "title": "2026.09.07 ファンクラブ イベント 【LINERS FANCLUB】花園近鉄ライナーズ公式アプリ サービス終了に伴うデジタル会員証の利用について",
@@ -39,7 +44,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/09/01/news-seasonpass/",
-      "title": "2026.09.01 その他 【ホスト全7試合を「マイシート」で熱く応援！26-27 シーズンパス発売】",
+      "title": "2026-09-01 その他 【ホスト全7試合を「マイシート」で熱く応援！26-27 シーズンパス発売】",
       "date": "2026-09-01"
     },
     {
@@ -86,11 +91,6 @@
       "url": "https://hanazono-liners.jp/2026/08/19/report-ekawa-2/",
       "title": "2026-08-19 チーム情報 オーストラリア留学レポート 江川 剛人選手編",
       "date": "2026-08-19"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/08/18/news-callcenter/",
-      "title": "2026-08-18 その他 【お知らせ】ファンクラブ・チケットに関するお問い合わせ窓口変更について",
-      "date": "2026-08-18"
     },
     {
       "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub/",

@@ -3,23 +3,28 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-09-09T23:55:58+09:00",
+  "checked_at": "2026-09-10T17:52:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "1e8869b2633bc31b"
+      "hash": "46af71f50223f93a"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "ce3fbfac4503aad5"
+      "hash": "cc65b6913a320d80"
     }
   ],
   "items": [
     {
+      "url": "https://www.kyudenvoltex.com/news/989",
+      "title": "お知らせ 2026年09月10日 NEW 「ジャパンラグビー リーグワン ライジング 2026」開催のお知らせ(9/10更新)",
+      "date": "2026-09-10"
+    },
+    {
       "url": "https://www.kyudenvoltex.com/news/1005",
-      "title": "お知らせ 2026年09月07日 NEW 「ジャパンラグビー リーグワン ライジング 2026」一部試合開催中止のお知らせ",
+      "title": "お知らせ 2026年09月07日 「ジャパンラグビー リーグワン ライジング 2026」一部試合開催中止のお知らせ",
       "date": "2026-09-07"
     },
     {
@@ -36,11 +41,6 @@
       "url": "https://www.kyudenvoltex.com/news/1002",
       "title": "お知らせ 2026年08月24日 【ご報告】サイモニ・ヴ二ランギ選手の帰国につきまして",
       "date": "2026-08-24"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/989",
-      "title": "お知らせ 2026年08月20日 「ジャパンラグビー リーグワン ライジング 2026」開催決定のお知らせ(8/20更新)",
-      "date": "2026-08-20"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1001",

@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-09-09T23:55:58+09:00",
+  "checked_at": "2026-09-10T17:52:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "b5b1576ff8d3f526"
+      "hash": "981805a2e7939276"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "d89ec0d8f98a0e3b"
+      "hash": "26a2500fc590df35"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/821.html",
+      "title": "2026年 9月10日 Day821 『2026-27シーズンスタート』",
+      "date": "2026-09-10"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/jrlo2627msa.html",
       "title": "2026年 9月 9日 NTT JAPAN RUGBY LEAGUE ONE 2026-27の日程が発表されました！ （※ 2026年9月9日 時点の情報） いつも東京サンゴリアスへの温かいご声援ありがとうございます。12月12…",
@@ -61,11 +66,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2608-1029.html",
       "title": "2026年 8月14日 #1029 箸本 龍雅 『自分のカラーを濃くしていく』",
       "date": "2026-08-14"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2608-1028.html",
-      "title": "2026年 8月 7日 #1028 中野 将伍 『もっと前に出られる』",
-      "date": "2026-08-07"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627icct.html",
