@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-10T21:40:17+09:00",
+  "checked_at": "2026-09-11T15:57:43+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6147",
+          "title": "クラブ 日本製鉄釜石シーウェイブス、2026-27シーズン 新加入選手（追加） 2026.09.11",
+          "date": "2026-09-11",
+          "category": "roster"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,7 +26,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54183",
+          "title": "（9/11更新）女子セブンズ・デベロップメント・スコッド（SDS） 福岡合宿スケジュールと参加メンバーのお知らせ 2026.9.11 （金） 女子セブンズ日本代表 女子 セブンズ",
+          "date": "2026-09-11",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54179",
+          "title": "（通達） 「チーム登録における登録要件未達について」【登録・大会運営】 2026.9.11 （金） 通達",
+          "date": "2026-09-11",
+          "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54171",
+          "title": "（9/11更新）アサヒスーパードライ パシフィックネーションズカップ2026 アメリカ代表 来日メンバーのお知らせ 2026.9.11 （金） 15人制男子日本代表 アサヒスーパードライ パシフィックネーションズカップ2026",
+          "date": "2026-09-11",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -28,14 +54,41 @@
       "url": "https://www.world.rugby/news",
       "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
+      "item_count": 1,
+      "new_items": [
+        {
+          "url": "https://www.world.rugby/news/1046419/ahi-super-dry-pacific-nations-cup-2026-semi-finals-preview",
+          "title": "PNC 2026 アサヒスーパードライ パシフィックネーションズカップ2026 準決勝プレビュー 前回大会王者のフィジーはカナダと、開催国の日本はアメリカと、土曜日に大阪で行われるアサヒスーパードライ パシフィックネーションズカップ2026準決勝で対戦します。 木 10 日 9月 月 2026 年 · 分読み取り1 分",
+          "date": "",
+          "category": null
+        }
+      ],
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6147",
+      "title": "クラブ 日本製鉄釜石シーウェイブス、2026-27シーズン 新加入選手（追加） 2026.09.11",
+      "date": "2026-09-11",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54183",
+      "title": "（9/11更新）女子セブンズ・デベロップメント・スコッド（SDS） 福岡合宿スケジュールと参加メンバーのお知らせ 2026.9.11 （金） 女子セブンズ日本代表 女子 セブンズ",
+      "date": "2026-09-11",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54171",
+      "title": "（9/11更新）アサヒスーパードライ パシフィックネーションズカップ2026 アメリカ代表 来日メンバーのお知らせ 2026.9.11 （金） 15人制男子日本代表 アサヒスーパードライ パシフィックネーションズカップ2026",
+      "date": "2026-09-11",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
-  "warnings": [
-    "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
-  ]
+  "warnings": []
 }
