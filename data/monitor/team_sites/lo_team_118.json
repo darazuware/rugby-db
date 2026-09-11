@@ -3,20 +3,30 @@
   "league": "league-one-d3",
   "name": "狭山セコムラガッツ",
   "official_url": "https://www.rugguts.secom.co.jp/",
-  "checked_at": "2026-09-10T23:42:24+09:00",
+  "checked_at": "2026-09-11T17:50:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.rugguts.secom.co.jp/",
-      "hash": "262f50757fa67107"
+      "hash": "b3d9746cc7f94668"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/news/",
-      "hash": "1ad6bf0978655544"
+      "hash": "803e2ebac9885eed"
     }
   ],
   "items": [
+    {
+      "url": "https://www.rugguts.secom.co.jp/results/20261031.html",
+      "title": "試合の詳細",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://www.rugguts.secom.co.jp/results/20261004.html",
+      "title": "試合の詳細",
+      "date": "2026-10-04"
+    },
     {
       "url": "https://www.rugguts.secom.co.jp/2026/08/2026-27-1.html",
       "title": "2026-27シーズン新加入選手のお知らせ",
@@ -59,7 +69,7 @@
     },
     {
       "url": "https://www.rugguts.secom.co.jp/2026/06/post-21.html",
-      "title": "選手・スタッフ退団のお知らせ 2026.06.15 news",
+      "title": "選手・スタッフ退団のお知らせ",
       "date": "2026-06-15"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://www.rugguts.secom.co.jp/2026/02/321.html",
       "title": "3月21日（土）横浜キヤノンイーグルスとのトレーニングマッチ追加のお知らせ",
       "date": "2026-02-32"
-    },
-    {
-      "url": "https://www.rugguts.secom.co.jp/results/20260228.html",
-      "title": "NTTジャパンラグビー リーグワン 2025-26 D3 第8節 の試合結果を掲載しました。",
-      "date": "2026-02-28"
-    },
-    {
-      "url": "https://www.rugguts.secom.co.jp/2026/02/post-19.html",
-      "title": "2月27日（金）朝日新聞連載「数字は語る」掲載のお知らせ",
-      "date": "2026-02-27"
     }
   ]
 }

@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-09-10T23:42:24+09:00",
+  "checked_at": "2026-09-11T17:50:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "8bd7dd3925a9ac7a"
+      "hash": "98fca215d3442e4d"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "6f8d132aa0edcd81"
+      "hash": "0c2589c5af7227fe"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3186",
+      "title": "2026.9.11[FRI] SCHOOL 9/27(日)に＜ブルーレヴズ ラグビー クリニック in 駿東＞を東部地区で開催！",
+      "date": "2026-09-11"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3181",
       "title": "2026.9.10[THU] EVENT 10/12(月・祝)に＜ラグビーディスカバリー supported by しずぎん＞を浜松市で開催！",
@@ -106,11 +111,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3164",
       "title": "2026.8.24[MON] OTHERS マレーシア代表セブンズラグビーと静岡ブルーレヴズが提携",
       "date": "2026-08-24"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3158",
-      "title": "2026.8.12[WED] TICKET 【シーズンシート追加購入キャンペーン】プレミアム交流会へご招待！",
-      "date": "2026-08-12"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3161",

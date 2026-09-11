@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-09-10T23:42:24+09:00",
+  "checked_at": "2026-09-11T17:50:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "b439c289644355d4"
+      "hash": "1de9887e07db3cd4"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "bfe305d6e93a6ac1"
+      "hash": "3795da12881b3ecd"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/team/index_2023.html",
+      "title": "チーム 2026.09.11 2026‐27シーズンにおける長期療養のこどものスポーツチーム入団事業「TEAMMATES」募集について",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2022.html",
+      "title": "イベント 2026.09.11 2026.9.13 バルドラール浦安「KEIYO TEAM6+10周年イベント」参加のお知らせ",
+      "date": "2026-09-11"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2006.html",
       "title": "ゲーム 2026.09.09 2026-27シーズン 浦安D-Rocks初となるMUFGスタジアム（国立競技場）での試合開催決定のお知らせ",
@@ -59,12 +69,12 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2010.html",
-      "title": "チーム 2026.09.01 OWV 2026-27シーズン 浦安D-Rocks公式アンバサダー継続就任のお知らせ",
+      "title": "2026.09.01 ニュース OWV 2026-27シーズン 浦安D-Rocks公式アンバサダー継続就任のお知らせ",
       "date": "2026-09-01"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_2014.html",
-      "title": "ファンクラブ 2026.09.01 浦安 D-Rocksファンクラブ「Club D-Rockers」2026-27 シーズン会員募集のお知らせ",
+      "title": "2026.09.01 ニュース 浦安 D-Rocksファンクラブ「Club D-Rockers」2026-27 シーズン会員募集のお知らせ",
       "date": "2026-09-01"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/game/index_1977.html",
       "title": "2026.07.01 ニュース NTTジャパンラグビー リーグワン2026-27 ディビジョン編成および大会日程のお知らせ",
       "date": "2026-07-01"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_1976.html",
-      "title": "2026.07.01 ニュース 2026.6.24 明海大学 ホスピタリティ・ツーリズム学部にて講演を行いました",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_1975.html",
-      "title": "2026.06.30 ニュース 黒木直之氏 退団のお知らせ",
-      "date": "2026-06-30"
     }
   ]
 }

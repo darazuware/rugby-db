@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-09-10T23:42:24+09:00",
+  "checked_at": "2026-09-11T17:50:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "72e32cd8ab82f0ad"
+      "hash": "3280645e29e062c6"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "9722e9869817f7dc"
+      "hash": "8ace58bd088a80f7"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/ticket.html",
+      "title": "2026-09-11 2026-27シーズン チケット情報を更新しました",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260911.html-0",
+      "title": "2026-09-11 チケットランクアップ受付のご案内",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260911.html",
+      "title": "2026-09-11 2026-27シーズン シーズンシート発売のご案内",
+      "date": "2026-09-11"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260910.html-1",
       "title": "2026-09-10 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（9/12）に14番で先発出場予定",
@@ -44,17 +59,17 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260908.html",
-      "title": "2026-09-08 ダイナボアーズ公式ファンクラブ2026-27新規入会の受付を開始しました",
+      "title": "2026-09-08 [ ファンクラブ ] ダイナボアーズ公式ファンクラブ2026-27新規入会の受付を開始しました",
       "date": "2026-09-08"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule#2",
-      "title": "2026-09-04 日程更新｜プレシーズンマッチ1試合（ビジター）の予定を公開",
+      "title": "2026-09-04 [ イベント ] 日程更新｜プレシーズンマッチ1試合（ビジター）の予定を公開",
       "date": "2026-09-04"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260904.html",
-      "title": "2026-09-04 男子セブンズ日本代表｜男子SDSスペイン遠征 参加メンバーに服部選手・吉本選手が選出",
+      "title": "2026-09-04 [ チーム ] [ メディア ] 男子セブンズ日本代表｜男子SDSスペイン遠征 参加メンバーに服部選手・吉本選手が選出",
       "date": "2026-09-04"
     },
     {
@@ -201,21 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260619.html",
       "title": "2026-06-19 [ イベント ] 「ダイナボアーズフェスタ2026」8/29（土）開催決定！今年もアリオ橋本を全緑ジャック！",
       "date": "2026-06-19"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260610.html",
-      "title": "2026-06-10 [ チーム ] [ メディア ] 日本代表 宮崎合宿参加メンバーの発表について｜15人制男子日本代表",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260609.html",
-      "title": "2026-06-09 [ チーム ] 2025-26シーズンの振り返りと御礼（総集編映像＆ディレーニーHC/吉田キャプテン コメント）",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260608.html",
-      "title": "2026-06-08 [ チーム ] [ メディア ] 南アフリカ代表スコッドにダイナボアーズからルカニョ・アム選手が選出！｜15人制男子南アフリカ代表",
-      "date": "2026-06-08"
     }
   ]
 }

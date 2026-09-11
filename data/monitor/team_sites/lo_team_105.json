@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-09-10T23:42:24+09:00",
+  "checked_at": "2026-09-11T17:50:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "7f05a8566b515555"
+      "hash": "5634dd4cb1230396"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "02c7ca0202707389"
+      "hash": "59334de3902a9f40"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2433/",
+      "title": "トピックス 2026.9.11 【チケット】2026-27シーズン チケット販売概要",
+      "date": "2026-09-11"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2430/",
       "title": "トピックス 2026.9.9 平野叶翔、アサヒスーパードライ パシフィックネーションズカップ2026 大会登録メンバーに選出のお知らせ",
@@ -131,11 +136,6 @@
       "url": "https://www.honda-heat.jp/news/2404/",
       "title": "トピックス 2026.7.20 【表敬訪問】四日市市長を訪問し、25-26シーズン終了のご挨拶をさせていただきました",
       "date": "2026-07-20"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2403/",
-      "title": "イベント 2026.7.15 『アークタウン・サマーフェスティバル 2026』参加のお知らせ",
-      "date": "2026-07-15"
     },
     {
       "url": "https://www.honda-heat.jp/hostgame/20260509/",

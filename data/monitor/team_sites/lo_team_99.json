@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-09-10T23:42:24+09:00",
+  "checked_at": "2026-09-11T17:50:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "981805a2e7939276"
+      "hash": "4da587d1d2ed1aef"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "26a2500fc590df35"
+      "hash": "96daf2af9b6e00ef"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2609-1033.html",
+      "title": "2026年 9月11日 #1033 小林 賢太 『プレーに一貫性がないんだったらちゃんと良くしていく』",
+      "date": "2026-09-11"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/821.html",
       "title": "2026年 9月10日 Day821 『2026-27シーズンスタート』",
@@ -61,11 +66,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/819.html",
       "title": "2026年 8月19日 Day819 『東京サンゴリアス・アカデミー 夏合宿レポート♪』",
       "date": "2026-08-19"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2608-1029.html",
-      "title": "2026年 8月14日 #1029 箸本 龍雅 『自分のカラーを濃くしていく』",
-      "date": "2026-08-14"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627icct.html",

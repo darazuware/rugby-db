@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-09-10T23:42:24+09:00",
+  "checked_at": "2026-09-11T17:50:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "996f60322c28746b"
+      "hash": "ccb2442c719630e6"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "5ea4613d589deef2"
+      "hash": "0979645bc6166e6b"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,16 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35287/",
+      "title": "2026/9/11 普及 【レポート】神戸市立御蔵小学校でタグラグビー教室を実施しました",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35225/",
+      "title": "2026/9/11 グッズ 2026-27シーズン オフィシャルグッズ第1弾発売のお知らせ",
+      "date": "2026-09-11"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35256/",
       "title": "2026/9/10 社会貢献 神戸市が取り組む「こうべ木陰プロジェクト」のPRに協力します",
@@ -221,11 +231,6 @@
       "date": "2026-07-31"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post34926/",
-      "title": "2026/7/29 社会貢献 「ノエスタラジオ体操2026」のムービーに福西 隼杜選手、船曳 涼太選手、辻野 隼大選手が出演します",
-      "date": "2026-07-29"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post34386/",
       "title": "2026/6/30 お知らせ SEASON REPORT2025-26発⾏のお知らせ",
       "date": "2026-06-30"
@@ -319,11 +324,6 @@
       "url": "https://www.kobesteelers.com/news/post29027/",
       "title": "2025/11/4 お知らせ 神戸を拠点とする各スポーツチームの紹介コーナーがJR三ノ宮駅南側エリアに設置されます",
       "date": "2025-11-04"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post28972/",
-      "title": "2025/10/28 お知らせ コベルコ神戸スティーラーズの応援コールについて",
-      "date": "2025-10-28"
     }
   ]
 }

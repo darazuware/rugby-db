@@ -3,16 +3,26 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-09-10T23:42:24+09:00",
+  "checked_at": "2026-09-11T17:50:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "cb2c51d8ba2570e8"
+      "hash": "b98dbbd8e061a114"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260911b.html",
+      "title": "10月3日(土)「第48回 たまがわ花火大会」リコー総合グラウンドでの観覧のご案内",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260911a.html",
+      "title": "10月10日(土) JR東日本グリーンウォリアーズ東葛戦 RAMOVE限定 無料観戦のお知らせ",
+      "date": "2026-09-11"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260909a.html",
       "title": "NTT JAPAN RUGBY LEAGUE ONE 2026-27 試合日程のお知らせ",
@@ -24,18 +34,8 @@
       "date": "2026-09-08"
     },
     {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260908a.html",
-      "title": "ブラックラムズ東京ふるさとオンラインショップ「My Megaphone!（マイメガホン）」 サービス終了のお知らせ",
-      "date": "2026-09-08"
-    },
-    {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260907a.html",
       "title": "10月10日(土) 「秋のラグビー観戦＆防災デー」開催のお知らせ",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260907c.html",
-      "title": "リーグワンライジング2026 九州電力キューデンヴォルテクス戦 中止のお知らせ",
       "date": "2026-09-07"
     }
   ]
