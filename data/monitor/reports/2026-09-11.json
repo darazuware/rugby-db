@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-11T17:50:22+09:00",
+  "checked_at": "2026-09-11T23:43:40+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,24 +9,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://urayasu-d-rocks.com/news/team/index_2023.html",
-          "title": "チーム 2026.09.11 2026‐27シーズンにおける長期療養のこどものスポーツチーム入団事業「TEAMMATES」募集について",
-          "date": "2026-09-11",
-          "category": "roster"
-        },
-        {
-          "url": "https://urayasu-d-rocks.com/news/event/index_2022.html",
-          "title": "イベント 2026.09.11 2026.9.13 バルドラール浦安「KEIYO TEAM6+10周年イベント」参加のお知らせ",
-          "date": "2026-09-11",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://urayasu-d-rocks.com/",
-        "https://urayasu-d-rocks.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -37,24 +21,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [
-        {
-          "url": "https://www.kobesteelers.com/news/post35287/",
-          "title": "2026/9/11 普及 【レポート】神戸市立御蔵小学校でタグラグビー教室を実施しました",
-          "date": "2026-09-11",
-          "category": null
-        },
-        {
-          "url": "https://www.kobesteelers.com/news/post35225/",
-          "title": "2026/9/11 グッズ 2026-27シーズン オフィシャルグッズ第1弾発売のお知らせ",
-          "date": "2026-09-11",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.kobesteelers.com/",
-        "https://www.kobesteelers.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -78,10 +46,7 @@
       "first_run": false,
       "item_count": 41,
       "new_items": [],
-      "changed_pages": [
-        "https://www.bravelupus.com/",
-        "https://www.bravelupus.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -93,9 +58,7 @@
       "first_run": false,
       "item_count": 10,
       "new_items": [],
-      "changed_pages": [
-        "https://verblitz.toyotatimes-sports.toyota/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -106,18 +69,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 25,
-      "new_items": [
-        {
-          "url": "https://www.honda-heat.jp/news/2433/",
-          "title": "トピックス 2026.9.11 【チケット】2026-27シーズン チケット販売概要",
-          "date": "2026-09-11",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.honda-heat.jp/",
-        "https://www.honda-heat.jp/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -128,26 +81,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.mhi.com/jp/company/sports/dynaboars/ticket.html",
-          "title": "2026-09-11 2026-27シーズン チケット情報を更新しました",
-          "date": "2026-09-11",
-          "category": null
-        },
-        {
-          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260911.html-0",
-          "title": "2026-09-11 チケットランクアップ受付のご案内",
-          "date": "2026-09-11",
-          "category": null
-        },
-        {
-          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260911.html",
-          "title": "2026-09-11 2026-27シーズン シーズンシート発売のご案内",
-          "date": "2026-09-11",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -162,19 +96,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 14,
-      "new_items": [
-        {
-          "url": "https://www.canon-eagles.jp/news/info/20260911.html",
-          "title": "2026.09.11 TEAM 2026-27シーズンテーマ発表",
-          "date": "2026-09-11",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.canon-eagles.jp/",
-        "https://www.canon-eagles.jp/news/",
-        "https://www.canon-eagles.jp/news/info/2026.html"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -185,23 +108,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [
-        {
-          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260911b.html",
-          "title": "10月3日(土)「第48回 たまがわ花火大会」リコー総合グラウンドでの観覧のご案内",
-          "date": "2026-09-11",
-          "category": null
-        },
-        {
-          "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260911a.html",
-          "title": "10月10日(土) JR東日本グリーンウォリアーズ東葛戦 RAMOVE限定 無料観戦のお知らせ",
-          "date": "2026-09-11",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://blackrams-tokyo.com/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -212,17 +120,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 58,
-      "new_items": [
-        {
-          "url": "https://www.kubota-spears.com/hostarea/2026/09/11/100000.html",
-          "title": "2026.09.11 ホストエリア活動",
-          "date": "2026-09-11",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.kubota-spears.com/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -233,14 +132,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 27,
-      "new_items": [
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3186",
-          "title": "2026.9.11[FRI] SCHOOL 9/27(日)に＜ブルーレヴズ ラグビー クリニック in 駿東＞を東部地区で開催！",
-          "date": "2026-09-11",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -255,18 +147,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2609-1033.html",
-          "title": "2026年 9月11日 #1033 小林 賢太 『プレーに一貫性がないんだったらちゃんと良くしていく』",
-          "date": "2026-09-11",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.suntory.co.jp/culture-sports/sungoliath/",
-        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -329,14 +211,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 13,
-      "new_items": [
-        {
-          "url": "https://kamaishi-seawaves.com/news/info/32342/",
-          "title": "お知らせ 2026.9.11 2026-27シーズン 新加入選手に関するお知らせ（追加）",
-          "date": "2026-09-11",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://kamaishi-seawaves.com/",
         "https://kamaishi-seawaves.com/news/",
@@ -367,17 +242,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 15,
-      "new_items": [
-        {
-          "url": "https://hino-reddolphins.com/2026-09-11/",
-          "title": "【9月26日 リーグワンライジング】暑さによる試合とイベントの中止について",
-          "date": "2026-09-11",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -402,14 +268,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 44,
-      "new_items": [
-        {
-          "url": "https://www.kurita-watergush.jp/20260911-2/",
-          "title": "お知らせ 2026/09/11 【イベント告知】チームPRイベントのお知らせ",
-          "date": "2026-09-11",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -424,24 +283,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.rugguts.secom.co.jp/results/20261031.html",
-          "title": "試合の詳細",
-          "date": "2026-10-31",
-          "category": null
-        },
-        {
-          "url": "https://www.rugguts.secom.co.jp/results/20261004.html",
-          "title": "試合の詳細",
-          "date": "2026-10-04",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.rugguts.secom.co.jp/",
-        "https://www.rugguts.secom.co.jp/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -513,14 +356,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54139",
-          "title": "（9/11更新）男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ 2026.9.11 （金） 15人制男子日本代表 WBB 日本代表",
-          "date": "2026-09-11",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -534,29 +370,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "浦安D-Rocks",
-      "url": "https://urayasu-d-rocks.com/news/team/index_2023.html",
-      "title": "チーム 2026.09.11 2026‐27シーズンにおける長期療養のこどものスポーツチーム入団事業「TEAMMATES」募集について",
-      "date": "2026-09-11",
-      "category": "roster"
-    },
-    {
-      "source": "日本製鉄釜石シーウェイブス",
-      "url": "https://kamaishi-seawaves.com/news/info/32342/",
-      "title": "お知らせ 2026.9.11 2026-27シーズン 新加入選手に関するお知らせ（追加）",
-      "date": "2026-09-11",
-      "category": "roster"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54139",
-      "title": "（9/11更新）男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ 2026.9.11 （金） 15人制男子日本代表 WBB 日本代表",
-      "date": "2026-09-11",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": []
 }
