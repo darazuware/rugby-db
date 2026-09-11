@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "keyword": "トゥールーズ ラグビー",
+    "targetPath": "/teams/top14/toulouse/",
+    "status": "observing",
+    "nextReviewDate": "2026-09-18",
+    "actions": [
+      {
+        "date": "2026-09-11",
+        "rankAtAction": 9.8,
+        "needs": "トゥールーズというクラブの概要（現在の主力選手）と、齋藤直人の去就（在籍中か退団済みか）を知りたい。Google関連質問にも齋藤の出場状況が上がっている。",
+        "done": "本文が斎藤在籍前提のまま古かったため、2026-07-31の退団・東京サントリーサンゴリアス復帰を反映し「日本との関わり」節を新設。ニュース記事(/news/naoto-saito-leaves-toulouse-2026/)と選手ページ(/players/naoto-saito/)への内部リンクを追加し、現主力選手(デュポン/マルシャン/ラモス)への言及も追加。"
+      }
+    ]
+  }
+]
