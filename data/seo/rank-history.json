@@ -1,0 +1,198 @@
+[
+  {
+    "date": "2026-09-11",
+    "keyword": "トゥールーズ ラグビー",
+    "targetPath": "/teams/top14/toulouse/",
+    "rank": 9.8,
+    "impressions": 72,
+    "clicks": 3,
+    "ctr": 4.17,
+    "rangeDays": 28,
+    "discovered": [
+      {
+        "query": "スタッドトゥールーザン",
+        "position": 9.5,
+        "impressions": 67
+      },
+      {
+        "query": "トゥールーズラグビー",
+        "position": 9.8,
+        "impressions": 22
+      },
+      {
+        "query": "ラグビー トゥールーズ",
+        "position": 10.6,
+        "impressions": 19
+      },
+      {
+        "query": "トゥルーズラグビー",
+        "position": 11.1,
+        "impressions": 14
+      },
+      {
+        "query": "トゥールーズ ラグビー メンバー",
+        "position": 1.8,
+        "impressions": 12
+      }
+    ]
+  },
+  {
+    "date": "2026-09-11",
+    "keyword": "トゥールーズラグビー",
+    "targetPath": "/teams/top14/toulouse/",
+    "rank": 9.8,
+    "impressions": 22,
+    "clicks": 0,
+    "ctr": 0,
+    "rangeDays": 28,
+    "discovered": [
+      {
+        "query": "トゥールーズ ラグビー",
+        "position": 9.8,
+        "impressions": 72
+      },
+      {
+        "query": "スタッドトゥールーザン",
+        "position": 9.5,
+        "impressions": 67
+      },
+      {
+        "query": "ラグビー トゥールーズ",
+        "position": 10.6,
+        "impressions": 19
+      },
+      {
+        "query": "トゥルーズラグビー",
+        "position": 11.1,
+        "impressions": 14
+      },
+      {
+        "query": "トゥールーズ ラグビー メンバー",
+        "position": 1.8,
+        "impressions": 12
+      }
+    ]
+  },
+  {
+    "date": "2026-09-11",
+    "keyword": "rwc2027 日程",
+    "targetPath": "/rwc2027",
+    "rank": 10.1,
+    "impressions": 13,
+    "clicks": 1,
+    "ctr": 7.69,
+    "rangeDays": 28,
+    "discovered": [
+      {
+        "query": "ラグビーワールドカップ 2027",
+        "position": 12.9,
+        "impressions": 16
+      },
+      {
+        "query": "ラグビー ワールドカップ 日程",
+        "position": 23.3,
+        "impressions": 12
+      },
+      {
+        "query": "ラグビーワールドカップ2027 試合日程",
+        "position": 10.4,
+        "impressions": 11
+      },
+      {
+        "query": "ラグビーワールドカップ 日程",
+        "position": 18.3,
+        "impressions": 9
+      },
+      {
+        "query": "ラグビーワールドカップ2027 日程",
+        "position": 10.1,
+        "impressions": 8
+      }
+    ]
+  },
+  {
+    "date": "2026-09-11",
+    "keyword": "ラグビーワールドカップ2027 試合日程",
+    "targetPath": "/rwc2027",
+    "rank": 10.4,
+    "impressions": 11,
+    "clicks": 0,
+    "ctr": 0,
+    "rangeDays": 28,
+    "discovered": [
+      {
+        "query": "ラグビーワールドカップ 2027",
+        "position": 12.9,
+        "impressions": 16
+      },
+      {
+        "query": "rwc2027 日程",
+        "position": 10.1,
+        "impressions": 13
+      },
+      {
+        "query": "ラグビー ワールドカップ 日程",
+        "position": 23.3,
+        "impressions": 12
+      },
+      {
+        "query": "ラグビーワールドカップ 日程",
+        "position": 18.3,
+        "impressions": 9
+      },
+      {
+        "query": "ラグビーワールドカップ2027 日程",
+        "position": 10.1,
+        "impressions": 8
+      }
+    ]
+  },
+  {
+    "date": "2026-09-11",
+    "keyword": "ラグビーワールドカップ 2027",
+    "targetPath": "/rwc2027",
+    "rank": 12.9,
+    "impressions": 16,
+    "clicks": 1,
+    "ctr": 6.25,
+    "rangeDays": 28,
+    "discovered": [
+      {
+        "query": "rwc2027 日程",
+        "position": 10.1,
+        "impressions": 13
+      },
+      {
+        "query": "ラグビー ワールドカップ 日程",
+        "position": 23.3,
+        "impressions": 12
+      },
+      {
+        "query": "ラグビーワールドカップ2027 試合日程",
+        "position": 10.4,
+        "impressions": 11
+      },
+      {
+        "query": "ラグビーワールドカップ 日程",
+        "position": 18.3,
+        "impressions": 9
+      },
+      {
+        "query": "ラグビーワールドカップ2027 日程",
+        "position": 10.1,
+        "impressions": 8
+      }
+    ]
+  },
+  {
+    "date": "2026-09-11",
+    "keyword": "urc ラグビー",
+    "targetPath": "/news/urc-league-guide-2025-26/",
+    "rank": 10.2,
+    "impressions": 12,
+    "clicks": 0,
+    "ctr": 0,
+    "rangeDays": 28,
+    "discovered": []
+  }
+]

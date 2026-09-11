@@ -1,0 +1,8 @@
+[
+  { "keyword": "トゥールーズ ラグビー", "targetPath": "/teams/top14/toulouse/", "priority": "high" },
+  { "keyword": "トゥールーズラグビー", "targetPath": "/teams/top14/toulouse/", "priority": "medium" },
+  { "keyword": "rwc2027 日程", "targetPath": "/rwc2027", "priority": "high" },
+  { "keyword": "ラグビーワールドカップ2027 試合日程", "targetPath": "/rwc2027", "priority": "medium" },
+  { "keyword": "ラグビーワールドカップ 2027", "targetPath": "/rwc2027", "priority": "medium" },
+  { "keyword": "urc ラグビー", "targetPath": "/news/urc-league-guide-2025-26/", "priority": "low" }
+]
