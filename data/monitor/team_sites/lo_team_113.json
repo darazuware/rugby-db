@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-09-12T17:34:04+09:00",
+  "checked_at": "2026-09-12T22:48:51+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "c9b40f575cca2a26"
+      "hash": "5be4497147dd022a"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "3e7c881c98cc43a4"
+      "hash": "92676e700a9d638f"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "8d762f0538091e96"
+      "hash": "cb770d3f85e50cd7"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/31656/",
+      "title": "お知らせ 2026.9.12 「ジャパンラグビー リーグワン ライジング 2026」開催のお知らせ",
+      "date": "2026-09-12"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/info/32342/",
       "title": "お知らせ 2026.9.11 2026-27シーズン 新加入選手に関するお知らせ（追加）",
@@ -60,11 +65,6 @@
       "url": "https://kamaishi-seawaves.com/news/info/32128/",
       "title": "お知らせ 2026.8.21 事務局固定電話の一時利用停止および臨時連絡先のお知らせ",
       "date": "2026-08-21"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/31656/",
-      "title": "お知らせ 2026.8.20 「ジャパンラグビー リーグワン ライジング 2026」開催のお知らせ",
-      "date": "2026-08-20"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/32048/",

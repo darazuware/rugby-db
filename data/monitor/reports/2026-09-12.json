@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-12T17:34:04+09:00",
+  "checked_at": "2026-09-12T22:48:51+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -34,10 +34,7 @@
       "first_run": false,
       "item_count": 34,
       "new_items": [],
-      "changed_pages": [
-        "https://panasonic.co.jp/sports/wildknights/",
-        "https://panasonic.co.jp/sports/wildknights/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -362,8 +359,8 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54196",
-          "title": "レポート：男子日本代表 大阪合宿 2026.9.12 （土） 15人制男子日本代表",
+          "url": "https://www.rugby-japan.jp/news/54199",
+          "title": "「アサヒスーパードライ パシフィックネーションズカップ2026」 準決勝 日本代表 対 アメリカ代表 試合結果のお知らせ 2026.9.12 （土） 15人制男子日本代表 WBB PNC アサヒスーパードライ パシフィックネーションズカップ2026",
           "date": "2026-09-12",
           "category": "squad"
         }
@@ -384,8 +381,8 @@
   "highlights": [
     {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54196",
-      "title": "レポート：男子日本代表 大阪合宿 2026.9.12 （土） 15人制男子日本代表",
+      "url": "https://www.rugby-japan.jp/news/54199",
+      "title": "「アサヒスーパードライ パシフィックネーションズカップ2026」 準決勝 日本代表 対 アメリカ代表 試合結果のお知らせ 2026.9.12 （土） 15人制男子日本代表 WBB PNC アサヒスーパードライ パシフィックネーションズカップ2026",
       "date": "2026-09-12",
       "category": "squad"
     }
