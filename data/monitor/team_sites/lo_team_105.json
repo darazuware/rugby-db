@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-09-12T22:48:51+09:00",
+  "checked_at": "2026-09-13T23:44:36+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "5634dd4cb1230396"
+      "hash": "997ddc90bef608b7"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "59334de3902a9f40"
+      "hash": "79b50874990f5868"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2438/",
+      "title": "トピックス 2026.9.12 【トレーニングマッチ 】10/3(土) 日本製鉄釜石シーウェイブス戦 試合案内",
+      "date": "2026-09-12"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2433/",
       "title": "トピックス 2026.9.11 【チケット】2026-27シーズン チケット販売概要",
@@ -130,11 +135,6 @@
     {
       "url": "https://www.honda-heat.jp/news/2406/",
       "title": "トピックス 2026.7.20 【表敬訪問】津市長を訪問し、25-26シーズン終了のご挨拶をさせていただきました",
-      "date": "2026-07-20"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2404/",
-      "title": "トピックス 2026.7.20 【表敬訪問】四日市市長を訪問し、25-26シーズン終了のご挨拶をさせていただきました",
       "date": "2026-07-20"
     },
     {
