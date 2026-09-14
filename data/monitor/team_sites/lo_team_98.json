@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-09-14T18:46:04+09:00",
+  "checked_at": "2026-09-15T01:42:34+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "3d040bbe54d07545"
+      "hash": "ebcfc589700534ca"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "d7c8282c17c7deea"
+      "hash": "ae765b0130c57384"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3187",
+      "title": "2026.9.14[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（9/7～9/11）",
+      "date": "2026-09-14"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3186",
       "title": "2026.9.11[FRI] SCHOOL 9/27(日)に＜ブルーレヴズ ラグビー クリニック in 駿東＞を東部地区で開催！",
@@ -106,11 +111,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3163",
       "title": "2026.8.25[TUE] HOST AREA 【ホストエリア活動】磐田市 「南御厨キッズ夏休み塾」にてタグラグビー教室を実施しました",
       "date": "2026-08-25"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3164",
-      "title": "2026.8.24[MON] OTHERS マレーシア代表セブンズラグビーと静岡ブルーレヴズが提携",
-      "date": "2026-08-24"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3161",
