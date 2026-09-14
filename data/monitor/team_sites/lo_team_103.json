@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-09-13T23:44:36+09:00",
+  "checked_at": "2026-09-14T18:46:04+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "49b65ea7ef609b29"
+      "hash": "5bc7ff8c3f12d1e1"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "90b3b96f46e09a0a"
+      "hash": "ef7ada352d29fda5"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/20260914/",
+      "title": "【新設】 【ルーパス塾 U8/U10クラス】",
+      "date": "2026-09-14"
+    },
     {
       "url": "https://www.bravelupus.com/news/260910/",
       "title": "アサヒスーパードライパシフィックネーションズカップ2026 準決勝日本代表対アメリカ代表試合登録メンバーのお知らせ",
@@ -216,11 +221,6 @@
       "url": "https://www.bravelupus.com/news/20260514/",
       "title": "新製品グッズ販売のお知らせ",
       "date": "2026-05-14"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260513/",
-      "title": "NTTジャパンラグビー リーグワン2025-26 プレーオフトーナメント準々決勝チケット販売について",
-      "date": "2026-05-13"
     }
   ]
 }

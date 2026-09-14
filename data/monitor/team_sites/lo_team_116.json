@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-09-13T23:44:36+09:00",
+  "checked_at": "2026-09-14T18:46:04+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "7862a164bfdd57a1"
+      "hash": "b94ff850f89b6232"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "c15d28610d5781a3"
+      "hash": "c37816c461f0d1c5"
     }
   ],
   "items": [
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8872",
+      "title": "お知らせ 2026年9月14日 山口泰輝選手が第20回アジア競技大会日本代表に選出",
+      "date": "2026-09-14"
+    },
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8870",
       "title": "お知らせ 2026年9月8日 ホストタウン活動スケジュール掲載開始のお知らせ",
@@ -216,11 +221,6 @@
       "url": "https://docomo-rugby.jp/news/detail.html?id=8575",
       "title": "お知らせ 2026年5月11日 ※更新情報あり 5月11日（月曜）第14節 ホストゲーム時のイベント予定について",
       "date": "2026-05-11"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8608",
-      "title": "お知らせ 2026年5月9日 パエア ミフィポセチ選手 現役引退のお知らせ",
-      "date": "2026-05-09"
     },
     {
       "url": "https://docomo-rugby.jp/game/member.html?id=324",

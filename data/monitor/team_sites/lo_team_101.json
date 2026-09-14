@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-09-13T23:44:36+09:00",
+  "checked_at": "2026-09-14T18:46:04+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "ccb2442c719630e6"
+      "hash": "e1c0f2376f5a6fe2"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "0979645bc6166e6b"
+      "hash": "5e71a5bc991a3cbb"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,16 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35294/",
+      "title": "2026/9/14 イベント 大丸神戸店に神戸4チームの優勝トロフィー等が展示されます",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://www.kobesteelers.com/interview/post35296/",
+      "title": "2026/9/14 チーム 【Road to RWC2027】「アサヒスーパードライ パシフィックネーションズカップ2026」日本代表 vsアメリカ代表レポート",
+      "date": "2026-09-14"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35287/",
       "title": "2026/9/11 普及 【レポート】神戸市立御蔵小学校でタグラグビー教室を実施しました",
@@ -181,11 +191,6 @@
       "date": "2026-08-26"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35110/",
-      "title": "2026/8/24 チーム ⽇本代表 宮崎合宿および大阪合宿参加メンバーのお知らせ",
-      "date": "2026-08-24"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35100/",
       "title": "2026/8/21 イベント 【レポート】神戸三宮センター街1丁目で神戸4チームの優勝トロフィー・シャーレが展示されました",
       "date": "2026-08-21"
@@ -193,11 +198,6 @@
     {
       "url": "https://www.kobesteelers.com/news/post35086/",
       "title": "2026/8/20 メディア 8月23日(日) 「DaiwaHouseスペシャル このまちのために ～神戸ラグビー 優勝とレガシー～」特番放送のお知らせ",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35078/",
-      "title": "2026/8/20 イベント 【レポート】「第16回UNIVER祭」にてラグビー体験を実施しました",
       "date": "2026-08-20"
     },
     {

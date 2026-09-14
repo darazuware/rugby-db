@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-09-13T23:44:36+09:00",
+  "checked_at": "2026-09-14T18:46:04+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "7f3e33ef05674e4c"
+      "hash": "3d040bbe54d07545"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "74a844aee0eddc38"
+      "hash": "d7c8282c17c7deea"
     }
   ],
   "items": [
@@ -94,7 +94,7 @@
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3159",
-      "title": "FAN CLUB 2026/8/28 CLUB REVS有料会員限定イベントの参加者募集",
+      "title": "2026.8.28[FRI] FAN CLUB CLUB REVS有料会員限定イベントの参加者募集",
       "date": "2026-08-28"
     },
     {

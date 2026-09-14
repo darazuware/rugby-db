@@ -3,54 +3,49 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-09-12T22:48:51+09:00",
+  "checked_at": "2026-09-14T18:46:04+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "ad65668756e9f4ff"
+      "hash": "95f85cda88a9ee1d"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "a4117ef69d085d0f"
+      "hash": "03522b0e52f761ae"
     }
   ],
   "items": [
     {
-      "url": "https://shuttles-aichi.com/news/%e5%9c%b0%e5%9f%9f%e4%ba%a4%e6%b5%81%e4%bc%9a%e5%ae%9f%e6%96%bd%e5%a0%b1%e5%91%8a/",
-      "title": "フォトギャラリー お知らせ 2026.09.08 地域交流会実施報告",
-      "date": "2026-09-08"
+      "url": "https://shuttles-aichi.com/news/player-josua-kerevi-20th-asian-games/",
+      "title": "お知らせ 2026.09.14 ケレビ ジョシュア選手「第20回アジア競技大会（2026／愛知・名古屋）」男子セブンズ日本代表に選出！",
+      "date": "2026-09-14"
     },
     {
-      "url": "https://shuttles-aichi.com/news/",
-      "title": "もっと見る",
+      "url": "https://shuttles-aichi.com/news/obu-city-yoshida-elementary-school-tag-rugby-visit-lesson-activity-report/",
+      "title": "フォトギャラリー お知らせ 2026.09.14 大府市立吉田小学校 タグラグビー訪問授業 実施報告",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/announcement-of-the-2026-27-season-co-captains-and-new-team-leadership-structure/",
+      "title": "お知らせ 2026.09.14 2026-27シーズン共同キャプテン及び新体制のお知らせ",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/10-3japan-rugby-league-one-rising/",
+      "title": "お知らせ 2026.09.14 10月3日（土）JAPAN RUGBY LEAGUE ONE RISING 静岡ブルーレヴズ戦 観戦のご案内",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/local-community-meet-up-report/",
+      "title": "フォトギャラリー お知らせ 2026.09.08 地域交流会実施報告",
       "date": "2026-09-08"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-27fanclub/",
       "title": "お知らせ 2026.09.03 2026-27シーズン ファンクラブ会員募集のお知らせ",
       "date": "2026-09-03"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/2026-27preseason/",
-      "title": "お知らせ 2026.08.07 プレシーズンマッチ開催のお知らせ",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/match-schedule-for-ntt-japan-rugby-league-one-202627/",
-      "title": "お知らせ 2026.08.06 NTTジャパンラグビー リーグワン2026-27 試合日程決定のお知らせ",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/aeon-mall-aratamabashi-feel-the-rugby/",
-      "title": "お知らせ イベント 2026.08.05 イオンモール新瑞橋で「Feel the Rugby」を開催！",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/2026-27newplayerstaff/",
-      "title": "お知らせ 2026.08.03 2026-27シーズン新加入選手スタッフのお知らせ",
-      "date": "2026-08-03"
     }
   ]
 }

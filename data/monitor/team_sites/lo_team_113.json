@@ -3,24 +3,34 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-09-12T22:48:51+09:00",
+  "checked_at": "2026-09-14T18:46:04+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "5be4497147dd022a"
+      "hash": "74d865838674a10e"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "92676e700a9d638f"
+      "hash": "ac559cadc2e44dc8"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "cb770d3f85e50cd7"
+      "hash": "d5414079fdfc7954"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/game/32414/",
+      "title": "試合情報 2026.9.14 2026プレシーズンマッチ 第2戦／栃木ホンダヒート戦",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://kamaishi-seawaves.com/news/game/32401/",
+      "title": "試合情報 2026.9.14 ジャパンラグビー リーグワン ライジング 2026 第1戦／日野レッドドルフィンズ戦",
+      "date": "2026-09-14"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/info/31656/",
       "title": "お知らせ 2026.9.12 「ジャパンラグビー リーグワン ライジング 2026」開催のお知らせ",
