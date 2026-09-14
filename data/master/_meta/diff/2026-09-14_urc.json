@@ -1,0 +1,1920 @@
+{
+  "league": "urc",
+  "signings": [
+    {
+      "id": "ar_adam-cooper",
+      "name_en": "Adam COOPER",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_alex-lautsou",
+      "name_en": "Alex LAUTSOU",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_alex-mattioli",
+      "name_en": "Alex MATTIOLI",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_alfie-prygodzicz",
+      "name_en": "Alfie PRYGODZICZ",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_anzelo-tuitavuki",
+      "name_en": "Anzelo TU'ITAVUKI",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_bayley-kuenzle",
+      "name_en": "Bayley KUENZLE",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_ben-coomer",
+      "name_en": "Ben COOMER",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_billy-sela",
+      "name_en": "Billy SELA",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_brayan-kamanga",
+      "name_en": "Brayan KAMANGA",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_caio-parry",
+      "name_en": "Caio PARRY",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_calen-edwards",
+      "name_en": "Calen EDWARDS",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_cameron-tyler-grocott",
+      "name_en": "Cameron TYLER-GROCOTT",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_campbell-waugh",
+      "name_en": "Campbell WAUGH",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_charlie-keane",
+      "name_en": "Charlie KEANE",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_charlie-o-shea",
+      "name_en": "Charlie O'SHEA",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_christain-foley",
+      "name_en": "Christain FOLEY",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_christopher-barrett",
+      "name_en": "Christopher BARRETT",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_cian-brady",
+      "name_en": "Cian BRADY",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_daniel-bassett",
+      "name_en": "Daniel BASSETT",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_daniel-marais",
+      "name_en": "Daniel MARAIS",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_duinn-maguire",
+      "name_en": "Duinn MAGUIRE",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_duncan-munn",
+      "name_en": "Duncan MUNN",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_elliot-stooke",
+      "name_en": "Elliot STOOKE",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_ereatara-enari",
+      "name_en": "Ere ENARI",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_francisco-minervino",
+      "name_en": "Francisco MINERVINO",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_francois-carlo-mey",
+      "name_en": "François Carlo MEY",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_francois-van-wyk",
+      "name_en": "François VAN WYK",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_gonzalo-hughes",
+      "name_en": "Gonzalo HUGHES",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_guy-rogers",
+      "name_en": "Guy ROGERS",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_hame-faiva",
+      "name_en": "Hame FAIVA",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_harry-turner",
+      "name_en": "Harry TURNER",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_harvey-bryant",
+      "name_en": "Harvey BRYANT",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_harvey-preston",
+      "name_en": "Harvey PRESTON",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_henry-armstrong",
+      "name_en": "Henry ARMSTRONG",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_ioan-leyshon",
+      "name_en": "Ioan LEYSHON",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_isaia-walker-leawere",
+      "name_en": "Isaia WALKER-LEAWERE",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_jack-bennett",
+      "name_en": "Jack BENNETT",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_jacopo-botturi",
+      "name_en": "Jacopo BOTTURI",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_james-mackenzie",
+      "name_en": "James MACKENZIE",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_james-o-leary",
+      "name_en": "James O'LEARY",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_jamie-conway",
+      "name_en": "Jamie CONWAY",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_jamie-ritchie",
+      "name_en": "Jamie RITCHIE",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_jarrod-evans",
+      "name_en": "Jarrod EVANS",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_joe-finn",
+      "name_en": "Joe FINN",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_josh-flook",
+      "name_en": "Josh FLOOK",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_josh-mackenzie",
+      "name_en": "Josh MACKENZIE",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_kieran-brookes",
+      "name_en": "Kieran BROOKES",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_leonardo-sodo-migliori",
+      "name_en": "Leonardo SODO MIGLIORI",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_liam-mcnamee",
+      "name_en": "Liam MCNAMEE",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_lloyd-moncrieff",
+      "name_en": "Lloyd MONCRIEFF",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_lorenzo-citton",
+      "name_en": "Lorenzo CITTON",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_louis-werchon",
+      "name_en": "Louis WERCHON",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_luke-murtagh",
+      "name_en": "Luke MURTAGH",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_marnus-van-der-merwe",
+      "name_en": "Marnus VAN DER MERWE",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_matias-medrano",
+      "name_en": "Matías MEDRANO",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_max-morrison",
+      "name_en": "Max MORRISON",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_mikey-summerfield",
+      "name_en": "Mikey SUMMERFIELD",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_noah-morgan",
+      "name_en": "Noah MORGAN",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_patricio-baronio",
+      "name_en": "Patricio BARONIO",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_piero-gritti",
+      "name_en": "Piero GRITTI",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_pietro-turrisi",
+      "name_en": "Pietro TURRISI",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_rhys-cole",
+      "name_en": "Rhys COLE",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_robert-carney",
+      "name_en": "Rob CARNEY",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_rory-baxter",
+      "name_en": "Rory BAXTER",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_rory-cameron",
+      "name_en": "Rory CAMERON",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_rory-lyons",
+      "name_en": "Rory LYONS",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_rourke-o-sullivan",
+      "name_en": "Rourke O'SULLIVAN",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_ruaraidh-hart",
+      "name_en": "Ruaraidh HART",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_ruwald-van-der-merwe",
+      "name_en": "Ruwald VAN DER MERWE",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_scott-sio",
+      "name_en": "Scott SIO",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_semisi-paea",
+      "name_en": "Semisi PAEA",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_sergio-pelliccioli",
+      "name_en": "Sergio PELLICCIOLI",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_sonny-mccabe",
+      "name_en": "Sonny MCCABE",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_terrell-peita",
+      "name_en": "Terrell PEITA",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_thomas-du-toit",
+      "name_en": "Thomas DU TOIT",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_tiehi-chatham",
+      "name_en": "Tiehi CHATHAM",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_tom-connolly",
+      "name_en": "Tom CONNOLLY",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_tom-manz",
+      "name_en": "Tom MANZ",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_tommy-allan",
+      "name_en": "Tommaso ALLAN",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_vinnay-cleak",
+      "name_en": "Vinnay CLEAK",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_will-harrison",
+      "name_en": "Will HARRISON",
+      "name_ja": null,
+      "team_id": "munster"
+    }
+  ],
+  "transfers": [
+    {
+      "id": "ar_aiden-stait",
+      "name_en": "Aiden STAIT",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_archie-griffin",
+      "name_en": "Archie GRIFFIN",
+      "name_ja": null,
+      "from_team_id": "dragons",
+      "to_team_id": "glasgow"
+    },
+    {
+      "id": "ar_archie-stanley",
+      "name_en": "Archie STANLEY",
+      "name_ja": null,
+      "from_team_id": "dragons",
+      "to_team_id": "glasgow"
+    },
+    {
+      "id": "ar_arthur-cordwell",
+      "name_en": "Arthur CORDWELL",
+      "name_ja": null,
+      "from_team_id": "dragons",
+      "to_team_id": "glasgow"
+    },
+    {
+      "id": "ar_badri-tsikhistavi",
+      "name_en": "Badri TSIKHISTAVI",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_benjamin-lahet",
+      "name_en": "Benjamin LAHET",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_beno--obano-",
+      "name_en": "Beno OBANO",
+      "name_ja": null,
+      "from_team_id": "dragons",
+      "to_team_id": "glasgow"
+    },
+    {
+      "id": "ar_bismarck-du-plessis",
+      "name_en": "Bismarck DU PLESSIS",
+      "name_ja": null,
+      "from_team_id": "cardiff",
+      "to_team_id": "edinburgh"
+    },
+    {
+      "id": "ar_charlie-ewels",
+      "name_en": "Charlie EWELS",
+      "name_ja": null,
+      "from_team_id": "cardiff",
+      "to_team_id": "edinburgh"
+    },
+    {
+      "id": "ar_ciaran-frawley",
+      "name_en": "Ciarán FRAWLEY",
+      "name_ja": null,
+      "from_team_id": "leinster",
+      "to_team_id": "connacht"
+    },
+    {
+      "id": "ar_d-arcy-rae",
+      "name_en": "D'Arcy RAE",
+      "name_ja": null,
+      "from_team_id": "dragons",
+      "to_team_id": "edinburgh"
+    },
+    {
+      "id": "ar_deon-slabbert",
+      "name_en": "Deon SLABBERT",
+      "name_ja": null,
+      "from_team_id": "ospreys",
+      "to_team_id": "cardiff"
+    },
+    {
+      "id": "ar_eddie-erskine",
+      "name_en": "Eddie ERSKINE",
+      "name_ja": null,
+      "from_team_id": "dragons",
+      "to_team_id": "glasgow"
+    },
+    {
+      "id": "ar_facundo-bosch",
+      "name_en": "Facundo BOSCH",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_harri-wilde",
+      "name_en": "Harri WILDE",
+      "name_ja": null,
+      "from_team_id": "cardiff",
+      "to_team_id": "ospreys"
+    },
+    {
+      "id": "ar_harvey-cuckson",
+      "name_en": "Harvey CUCKSON",
+      "name_ja": null,
+      "from_team_id": "dragons",
+      "to_team_id": "glasgow"
+    },
+    {
+      "id": "ar_hugo-afonso",
+      "name_en": "Hugo AFONSO",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_imanol-thicoipe",
+      "name_en": "Imanol THICOÏPE",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_ioan-emanuel",
+      "name_en": "Ioan EMANUEL",
+      "name_ja": null,
+      "from_team_id": "cardiff",
+      "to_team_id": "glasgow"
+    },
+    {
+      "id": "ar_jack-aungier",
+      "name_en": "Jack AUNGIER",
+      "name_ja": null,
+      "from_team_id": "connacht",
+      "to_team_id": "munster"
+    },
+    {
+      "id": "ar_jacques-du-plessis",
+      "name_en": "Jacques DU PLESSIS",
+      "name_ja": null,
+      "from_team_id": "cardiff",
+      "to_team_id": "edinburgh"
+    },
+    {
+      "id": "ar_jacques-van-rooyen",
+      "name_en": "Jacques VAN ROOYEN",
+      "name_ja": null,
+      "from_team_id": "cardiff",
+      "to_team_id": "edinburgh"
+    },
+    {
+      "id": "ar_jasper-spandler",
+      "name_en": "Jasper SPANDLER",
+      "name_ja": null,
+      "from_team_id": "dragons",
+      "to_team_id": "glasgow"
+    },
+    {
+      "id": "ar_jerry-cahir",
+      "name_en": "Jerry CAHIR",
+      "name_ja": null,
+      "from_team_id": "leinster",
+      "to_team_id": "connacht"
+    },
+    {
+      "id": "ar_johannes-jonker",
+      "name_en": "Johannes JONKER",
+      "name_ja": null,
+      "from_team_id": "dragons",
+      "to_team_id": "glasgow"
+    },
+    {
+      "id": "ar_john-stewart",
+      "name_en": "John STEWART",
+      "name_ja": null,
+      "from_team_id": "dragons",
+      "to_team_id": "glasgow"
+    },
+    {
+      "id": "ar_jokin-duhalt",
+      "name_en": "Jokin DUHALT",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_juan-schoeman",
+      "name_en": "Juan SCHOEMAN",
+      "name_ja": null,
+      "from_team_id": "dragons",
+      "to_team_id": "glasgow"
+    },
+    {
+      "id": "ar_kieran-verden",
+      "name_en": "Kieran VERDEN",
+      "name_ja": null,
+      "from_team_id": "dragons",
+      "to_team_id": "glasgow"
+    },
+    {
+      "id": "ar_le-roux-malan",
+      "name_en": "Le Roux MALAN",
+      "name_ja": null,
+      "from_team_id": "sharks",
+      "to_team_id": "cardiff"
+    },
+    {
+      "id": "ar_lizo-gqoboka",
+      "name_en": "Lizo GQOBOKA",
+      "name_ja": null,
+      "from_team_id": "cardiff",
+      "to_team_id": "edinburgh"
+    },
+    {
+      "id": "ar_louis-ortolan",
+      "name_en": "Louis ORTOLAN",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_lucas-official",
+      "name_en": "Lucas OFFICIAL",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_luke-tagi",
+      "name_en": "Luke TAGI",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_martin-villar",
+      "name_en": "Martin VILLAR",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_mateo-guerin",
+      "name_en": "Matéo GUÉRIN",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_matheo-futhazar",
+      "name_en": "Mathéo FUTHAZAR",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_matis-perchaud",
+      "name_en": "Matis PERCHAUD",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_max-bru",
+      "name_en": "Max BRU",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_max-pearce",
+      "name_en": "Max PEARCE",
+      "name_ja": null,
+      "from_team_id": "cardiff",
+      "to_team_id": "glasgow"
+    },
+    {
+      "id": "ar_merwe-olivier",
+      "name_en": "Merwe OLIVIER",
+      "name_ja": null,
+      "from_team_id": "ospreys",
+      "to_team_id": "cardiff"
+    },
+    {
+      "id": "ar_mihlali-mosi",
+      "name_en": "Mihlali MOSI",
+      "name_ja": null,
+      "from_team_id": "cardiff",
+      "to_team_id": "edinburgh"
+    },
+    {
+      "id": "ar_muller-uys",
+      "name_en": "Muller UYS",
+      "name_ja": null,
+      "from_team_id": "cardiff",
+      "to_team_id": "edinburgh"
+    },
+    {
+      "id": "ar_nial-annett",
+      "name_en": "Niall ANNETT",
+      "name_ja": null,
+      "from_team_id": "dragons",
+      "to_team_id": "glasgow"
+    },
+    {
+      "id": "ar_pascal-cotet",
+      "name_en": "Pascal COTET",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_peio-dospital",
+      "name_en": "Peïo DOSPITAL",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_phumzile-maqondwana",
+      "name_en": "Phumzile MAQONDWANA",
+      "name_ja": null,
+      "from_team_id": "cardiff",
+      "to_team_id": "edinburgh"
+    },
+    {
+      "id": "ar_pierre-castillon",
+      "name_en": "Pierre CASTILLON",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_pieter-scholtz",
+      "name_en": "Pieter SCHOLTZ",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_quentin-bethune",
+      "name_en": "Quentin BÉTHUNE",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_quinn-roux",
+      "name_en": "Quinn ROUX",
+      "name_ja": null,
+      "from_team_id": "dragons",
+      "to_team_id": "glasgow"
+    },
+    {
+      "id": "ar_rafael-cayuela",
+      "name_en": "Rafaël CAYUELA",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_scott-kirk",
+      "name_en": "Scott KIRK",
+      "name_ja": null,
+      "from_team_id": "dragons",
+      "to_team_id": "glasgow"
+    },
+    {
+      "id": "ar_sidney-tobias",
+      "name_en": "Sidney TOBIAS",
+      "name_ja": null,
+      "from_team_id": "cardiff",
+      "to_team_id": "edinburgh"
+    },
+    {
+      "id": "ar_swan-cormenier",
+      "name_en": "Swan CORMENIER",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_tevita-tatafu",
+      "name_en": "Tevita TATAFU",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_thomas-acquier",
+      "name_en": "Thomas ACQUIER",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_tiaan-lange",
+      "name_en": "Tiaan LANGE",
+      "name_ja": null,
+      "from_team_id": "ospreys",
+      "to_team_id": "cardiff"
+    },
+    {
+      "id": "ar_tielman-nieuwoudt",
+      "name_en": "Tielman NIEUWOUDT",
+      "name_ja": null,
+      "from_team_id": "ospreys",
+      "to_team_id": "cardiff"
+    },
+    {
+      "id": "ar_tom-dunn",
+      "name_en": "Tom DUNN",
+      "name_ja": null,
+      "from_team_id": "dragons",
+      "to_team_id": "glasgow"
+    },
+    {
+      "id": "ar_vincent-giudicelli",
+      "name_en": "Vincent GIUDICELLI",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_will-connors",
+      "name_en": "Will CONNORS",
+      "name_ja": null,
+      "from_team_id": "leinster",
+      "to_team_id": "connacht"
+    },
+    {
+      "id": "ar_will-stuart",
+      "name_en": "Will STUART",
+      "name_ja": null,
+      "from_team_id": "dragons",
+      "to_team_id": "glasgow"
+    },
+    {
+      "id": "ar_wj-steenkamp",
+      "name_en": "WJ STEENKAMP",
+      "name_ja": null,
+      "from_team_id": "cardiff",
+      "to_team_id": "edinburgh"
+    },
+    {
+      "id": "ar_yon-caperaa",
+      "name_en": "Yon CAPÉRAÀ",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    },
+    {
+      "id": "ar_yonn-ramond",
+      "name_en": "Yonn RAMOND",
+      "name_ja": null,
+      "from_team_id": "scarlets",
+      "to_team_id": "dragons"
+    }
+  ],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [
+    {
+      "id": "ar_andre-esterhuizen",
+      "name_en": "André ESTERHUIZEN",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 43,
+      "to_count": 50
+    },
+    {
+      "id": "ar_cameron-hanekom",
+      "name_en": "Cameron HANEKOM",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 6,
+      "to_count": 8
+    },
+    {
+      "id": "ar_damian-willemse",
+      "name_en": "Damian WILLEMSE",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 72,
+      "to_count": 83
+    },
+    {
+      "id": "ar_luke-mcgrath",
+      "name_en": "Luke MCGRATH",
+      "name_ja": null,
+      "team": "Ireland",
+      "from_count": 10,
+      "to_count": 23
+    },
+    {
+      "id": "ar_ox-nche",
+      "name_en": "Ox NCHÉ",
+      "name_ja": null,
+      "team": "South Africa",
+      "from_count": 75,
+      "to_count": 80
+    }
+  ],
+  "pending_departures": [
+    {
+      "id": "ar_aaron-wainwright",
+      "name_en": "Aaron WAINWRIGHT",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_adam-hastings",
+      "name_en": "Adam HASTINGS",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_alban-roussel",
+      "name_en": "Alban ROUSSEL",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_albert-batista",
+      "name_en": "Albert BATISTA",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_alec-hepburn",
+      "name_en": "Alec HEPBURN",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_amine-maalla",
+      "name_en": "Amine MAALLA",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_andrew-smith-2000",
+      "name_en": "Andrew SMITH",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_anthony-dinu",
+      "name_en": "Anthony DINU",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_archie-maggs",
+      "name_en": "Archie MAGGS",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_archie-mcmichael",
+      "name_en": "Archie MCMICHAEL",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_bailey-cutts",
+      "name_en": "Bailey CUTTS",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_ben-donnell",
+      "name_en": "Ben DONNELL",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_ben-salmon",
+      "name_en": "Ben SALMON",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_ben-tameifuna",
+      "name_en": "Ben TAMEIFUNA",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_ben-williams-14088",
+      "name_en": "Ben WILLIAMS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_billy-mcbryde",
+      "name_en": "Billy MCBRYDE",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_brent-jackson",
+      "name_en": "Brent JACKSON",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_chay-mullins",
+      "name_en": "Chay MULLINS",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_christopher-vaotoa",
+      "name_en": "Christopher VAOTOA",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_clement-maynadier",
+      "name_en": "Clément MAYNADIER",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_connor-moyse",
+      "name_en": "Connor MOYSE",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_conor-bartley",
+      "name_en": "Conor BARTLEY",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_conor-o-shaughnessy",
+      "name_en": "Conor O'SHAUGHNESSY",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_cornel-smit",
+      "name_en": "Cornel SMIT",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_cyril-cazeaux",
+      "name_en": "Cyril CAZEAUX",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_dan-gemine",
+      "name_en": "Dan GEMINE",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_daniel-kasende",
+      "name_en": "Daniel KASENDE",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_darragh-mcsweeney",
+      "name_en": "Darragh MCSWEENEY",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_dave-attwood",
+      "name_en": "Dave ATTWOOD",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_david-hawkshaw",
+      "name_en": "David HAWKSHAW",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_david-luisato",
+      "name_en": "David LUISATO",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_denis-buckley",
+      "name_en": "Denis BUCKLEY",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_dewi-lake",
+      "name_en": "Dewi LAKE",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_duncan-weir",
+      "name_en": "Duncan WEIR",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_dylan-barratt",
+      "name_en": "Dylan BARRATT",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_dylan-hicks",
+      "name_en": "Dylan HICKS",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_eanna-mccarthy",
+      "name_en": "Éanna MCCARTHY",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_eli-snyman",
+      "name_en": "Eli SNYMAN",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_enrico-lucchin",
+      "name_en": "Enrico LUCCHIN",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_enrique-pieretto-heiland",
+      "name_en": "Enrique PIERETTO HEILAND",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_enzo-fernandes",
+      "name_en": "Enzo FERNANDES",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_evan-hill",
+      "name_en": "Evan HILL",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_ewan-rosser",
+      "name_en": "Ewan ROSSER",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_fionn-gibbons",
+      "name_en": "Fionn GIBBONS",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_gabriel-oghre",
+      "name_en": "Gabriel OGHRE",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_gene-o-leary-kareem",
+      "name_en": "Gene O'LEARY KAREEM",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_george-hadden",
+      "name_en": "George HADDEN",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_giacomo-milano",
+      "name_en": "Giacomo MILANO",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_giovanni-marzotto",
+      "name_en": "Giovanni MARZOTTO",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_gonzalo-garcia-1999",
+      "name_en": "Gonzalo GARCIA",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_grant-stewart",
+      "name_en": "Grant STEWART",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_guido-petti",
+      "name_en": "Guido PETTI",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_guido-volpi",
+      "name_en": "Guido VOLPI",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_harrison-rock",
+      "name_en": "Harrison ROCK",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_henri-caparroi",
+      "name_en": "Henri CAPARROI",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_henry-tasesa-volkman",
+      "name_en": "Henry Tasesa VOLKMAN",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_huw-jones",
+      "name_en": "Huw JONES",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_iacopo-bianchi",
+      "name_en": "Iacopo BIANCHI",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_ieuan-cornelius",
+      "name_en": "Ieuan CORNELIUS",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_ieuan-davies",
+      "name_en": "Ieuan DAVIES",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_ion-neculai",
+      "name_en": "Ion NECULAI",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_jac-morgan",
+      "name_en": "Jac MORGAN",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_jack-carty",
+      "name_en": "Jack CARTY",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_jack-dempsey",
+      "name_en": "Jack DEMPSEY",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_jack-walsh",
+      "name_en": "Jack WALSH",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_jacques-nguimbous",
+      "name_en": "Jacques NGUIMBOUS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_jake-ball",
+      "name_en": "Jake BALL",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_james-benjamin",
+      "name_en": "James BENJAMIN",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_james-fender",
+      "name_en": "James FENDER",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_jamie-bhatti",
+      "name_en": "Jamie BHATTI",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_jandre-marais",
+      "name_en": "Jandré MARAIS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_jarrod-taylor",
+      "name_en": "Jarrod TAYLOR",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_jean-kleyn",
+      "name_en": "Jean KLEYN",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_jefferson-poirot",
+      "name_en": "Jefferson POIROT",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_joe-joyce",
+      "name_en": "Joe JOYCE",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_john-ryan",
+      "name_en": "John RYAN",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_johnny-matthews",
+      "name_en": "Johnny MATTHEWS",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_jonny-morris",
+      "name_en": "Jonny MORRIS",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_joseff-jones",
+      "name_en": "Joseff JONES",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_jude-trarieux",
+      "name_en": "Jude TRARIEUX",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_jules-dussutour",
+      "name_en": "Jules DUSSUTOUR",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_keillen-cullen",
+      "name_en": "Keillen CULLEN",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_leigh-halfpenny",
+      "name_en": "Leigh HALFPENNY",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_lekso-kaulashvili",
+      "name_en": "Lekso KAULASHVILI",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_lenny-alifanety",
+      "name_en": "Lenny ALIFANETY",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_leo-chauvin",
+      "name_en": "Léo CHAUVIN",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_liam-edwards",
+      "name_en": "Liam EDWARDS",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_logan-franklin",
+      "name_en": "Logan FRANKLIN",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_luca-morisi",
+      "name_en": "Luca MORISI",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_luke-daniel",
+      "name_en": "Luke DANIEL",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_luke-scully",
+      "name_en": "Luke SCULLY",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_mackenzie-martin",
+      "name_en": "Mackenzie MARTIN",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_malakai-fekitoa",
+      "name_en": "Malakai FEKITOA",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_malik-faissal",
+      "name_en": "Malik FAISSAL",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_marco-de-witt",
+      "name_en": "Marco DE WITT",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_marco-spreafichi",
+      "name_en": "Marco SPREAFICHI",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_martin-roger-farias",
+      "name_en": "Martin ROGER FARIAS",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_mateo-saint-germain",
+      "name_en": "Matéo SAINT-GERMAIN",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_matheo-frisach",
+      "name_en": "Mathéo FRISACH",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_matt-devine",
+      "name_en": "Matt DEVINE",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_matteo-noventa",
+      "name_en": "Matteo NOVENTA",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_max-douglas",
+      "name_en": "Max DOUGLAS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_max-nagy",
+      "name_en": "Max NAGY",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_maxime-lamothe",
+      "name_en": "Maxime LAMOTHE",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_mehdi-kourdes",
+      "name_en": "Mehdi KOURDES",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_migael-prinsloo",
+      "name_en": "Migael PRINSLOO",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_nahuel-tetaz-chaparro",
+      "name_en": "Nahuel TETAZ CHAPARRO",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_nathan-thibeau",
+      "name_en": "Nathan THIBEAU",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_nelson-casartelli",
+      "name_en": "Nelson CASARTELLI",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_niall-armstrong",
+      "name_en": "Niall ARMSTRONG",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_niall-scannell",
+      "name_en": "Niall SCANNELL",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_nikolaj-varotto",
+      "name_en": "Nikolaj VAROTTO",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_oisin-dowling",
+      "name_en": "Oisín DOWLING",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_oisin-mccormack",
+      "name_en": "Oisín MCCORMACK",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_oli-jager",
+      "name_en": "Oli JAGER",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_ollie-das",
+      "name_en": "Ollie DAS",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_osian-roberts",
+      "name_en": "Osian ROBERTS",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_pablo-dimcheff",
+      "name_en": "Pablo DIMCHEFF",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_paddy-patterson",
+      "name_en": "Paddy PATTERSON",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_peter-dooley",
+      "name_en": "Peter DOOLEY",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_phil-cokanasiga",
+      "name_en": "Phil COKANASIGA",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_rhodri-lewis",
+      "name_en": "Rhodri LEWIS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_riccardo-genovese",
+      "name_en": "Riccardo GENOVESE",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_roberto-fasti",
+      "name_en": "Roberto FASTI",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_roman-salanoa",
+      "name_en": "Roman SALANOA",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_rory-gavin",
+      "name_en": "Rory GAVIN",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_rory-jennings-",
+      "name_en": "Rory JENNINGS",
+      "name_ja": null,
+      "team_id": "cardiff"
+    },
+    {
+      "id": "ar_ruben-pargade",
+      "name_en": "Ruben PARGADE",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_ryan-conbeer",
+      "name_en": "Ryan CONBEER",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_scott-scrafton",
+      "name_en": "Scott SCRAFTON",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_scott-whitlock",
+      "name_en": "Scott WHITLOCK",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_shilo-klein",
+      "name_en": "Shilo KLEIN",
+      "name_ja": null,
+      "team_id": "zebre"
+    },
+    {
+      "id": "ar_sione-vailanu",
+      "name_en": "Sione VAILANU",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_sipili-falatea",
+      "name_en": "Sipili FALATEA",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_temi-lasisi",
+      "name_en": "Temi LASISI",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_thaakir-abrahams",
+      "name_en": "Thaakir ABRAHAMS",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_thomas-gallo",
+      "name_en": "Thomas GALLO",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_tiaan-fourie",
+      "name_en": "Tiaan FOURIE",
+      "name_ja": null,
+      "team_id": "sharks"
+    },
+    {
+      "id": "ar_tom-doughty",
+      "name_en": "Tom DOUGHTY",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_tom-florence-",
+      "name_en": "Tom FLORENCE",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_tom-nogueira",
+      "name_en": "Tom NOGUEIRA",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_tom-phillips-",
+      "name_en": "Tom PHILLIPS",
+      "name_ja": null,
+      "team_id": "scarlets"
+    },
+    {
+      "id": "ar_tomas-farthing",
+      "name_en": "Tomás FARTHING",
+      "name_ja": null,
+      "team_id": "connacht"
+    },
+    {
+      "id": "ar_tommaso-menoncello",
+      "name_en": "Tommaso MENONCELLO",
+      "name_ja": null,
+      "team_id": "benetton"
+    },
+    {
+      "id": "ar_tony-butler",
+      "name_en": "Tony BUTLER",
+      "name_ja": null,
+      "team_id": "munster"
+    },
+    {
+      "id": "ar_ugo-boniface",
+      "name_en": "Ugo BONIFACE",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_vadim-cobilas",
+      "name_en": "Vadim COBILAS",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_valery-morozov",
+      "name_en": "Valery MOROZOV",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_will-spencer",
+      "name_en": "Will SPENCER",
+      "name_ja": null,
+      "team_id": "dragons"
+    },
+    {
+      "id": "ar_william-greatbanks",
+      "name_en": "Will GREATBANKS",
+      "name_ja": null,
+      "team_id": "ospreys"
+    },
+    {
+      "id": "ar_yahnis-el-maslouhi",
+      "name_en": "Yahnis EL MASLOUHI",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_younes-bekhti",
+      "name_en": "Younès BEKHTI",
+      "name_ja": null,
+      "team_id": "glasgow"
+    },
+    {
+      "id": "ar_zaccharie-affane",
+      "name_en": "Zaccharie AFFANE",
+      "name_ja": null,
+      "team_id": "glasgow"
+    }
+  ],
+  "newly_finished_rounds": []
+}

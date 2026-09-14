@@ -1,8 +1,8 @@
 {
   "top14": {
-    "run_at": "2026-09-07T11:09:48+09:00",
+    "run_at": "2026-09-14T11:22:08+09:00",
     "counts": {
-      "players": 1149,
+      "players": 1188,
       "teams": 14
     },
     "warnings": [
@@ -23,15 +23,15 @@
     ]
   },
   "super-rugby": {
-    "run_at": "2026-09-07T11:09:48+09:00",
+    "run_at": "2026-09-14T11:22:08+09:00",
     "counts": {
-      "players": 462,
+      "players": 460,
       "teams": 11
     },
     "warnings": []
   },
   "league-one-d1": {
-    "run_at": "2026-09-07T11:09:48+09:00",
+    "run_at": "2026-09-14T11:22:08+09:00",
     "counts": {
       "players": 733,
       "teams": 12
@@ -41,19 +41,18 @@
     ]
   },
   "national": {
-    "run_at": "2026-09-07T11:09:48+09:00",
+    "run_at": "2026-09-14T11:22:08+09:00",
     "counts": {
-      "players": 1211,
+      "players": 1212,
       "teams": 0
     },
     "warnings": [
-      "cross_person: ['jrfu_national_510764', 'lo_483765'] が同一人物候補（name_en+birthdate一致）",
-      "cross_person: ['jrfu_national_510808', 'lo_484355'] が同一人物候補（name_en+birthdate一致）",
-      "cross_person: ['jrfu_national_510756', 'lo_484693'] が同一人物候補（name_en+birthdate一致）",
-      "cross_person: ['jrfu_national_510807', 'lo_484854'] が同一人物候補（name_en+birthdate一致）",
-      "cross_person: ['jrfu_national_510750', 'lo_483494'] が同一人物候補（name_en+birthdate一致）",
-      "jrfu national: 学校名11件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['JR東日本グリーンウォリアーズ東葛', 'クボタスピアーズ船橋・東京ベイ', 'コベルコ神戸スティーラーズ']）",
-      "jrfu national: ANTHROPIC_API_KEY未設定のためSonnetフォールバックをスキップ（未判定11件は学校扱いにしない: 所属欄はcareerへ、出身校欄はeducationから除外）",
+      "cross_person: ['jrfu_national_511566', 'lo_483765'] が同一人物候補（name_en+birthdate一致）",
+      "cross_person: ['jrfu_national_511545', 'lo_484355'] が同一人物候補（name_en+birthdate一致）",
+      "cross_person: ['jrfu_national_511558', 'lo_484693'] が同一人物候補（name_en+birthdate一致）",
+      "cross_person: ['jrfu_national_511552', 'lo_483494'] が同一人物候補（name_en+birthdate一致）",
+      "jrfu national: 学校名9件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['JR東日本グリーンウォリアーズ東葛', 'クボタスピアーズ船橋・東京ベイ', 'コベルコ神戸スティーラーズ']）",
+      "jrfu national: ANTHROPIC_API_KEY未設定のためSonnetフォールバックをスキップ（未判定9件は学校扱いにしない: 所属欄はcareerへ、出身校欄はeducationから除外）",
       "national japan: 'Arthur JOLY' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
       "national japan: 'Aurélien AZAR' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
       "national japan: 'Daniel BIBI BIZIWU' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
@@ -83,7 +82,7 @@
     ]
   },
   "sevens-national": {
-    "run_at": "2026-09-07T11:09:48+09:00",
+    "run_at": "2026-09-14T11:22:08+09:00",
     "counts": {
       "players": 26,
       "teams": 0
@@ -94,7 +93,7 @@
     ]
   },
   "age-grade": {
-    "run_at": "2026-09-07T11:09:48+09:00",
+    "run_at": "2026-09-14T11:22:08+09:00",
     "counts": {
       "players": 113,
       "teams": 0
@@ -105,17 +104,19 @@
     ]
   },
   "university": {
-    "run_at": "2026-09-07T11:09:48+09:00",
+    "run_at": "2026-09-14T11:22:08+09:00",
     "counts": {
-      "players": 1198,
+      "players": 969,
       "teams": 0
     },
     "warnings": [
+      "university 早稲田大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 立教大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 武蔵大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 成城大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 一橋大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 学習院大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 東洋大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 東洋大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 東海大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 流通経済大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 法政大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
@@ -126,10 +127,11 @@
       "university 山梨学院大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 拓殖大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 白鷗大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
-      "university 立命館大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 摂南大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 関西大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 大阪体育大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 立命館大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
+      "university 摂南大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
+      "university 天理大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
+      "university 関西大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
+      "university 大阪体育大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 大阪経済大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 大阪国際大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 追手門学院大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
@@ -138,7 +140,7 @@
     ]
   },
   "highschool": {
-    "run_at": "2026-09-07T11:09:48+09:00",
+    "run_at": "2026-09-14T11:22:08+09:00",
     "counts": {
       "players": 391,
       "teams": 0
@@ -168,9 +170,9 @@
     ]
   },
   "urc": {
-    "run_at": "2026-09-07T11:09:48+09:00",
+    "run_at": "2026-09-14T11:22:08+09:00",
     "counts": {
-      "players": 1050,
+      "players": 1014,
       "teams": 16
     },
     "warnings": [
@@ -194,9 +196,9 @@
     ]
   },
   "premiership": {
-    "run_at": "2026-09-07T11:09:48+09:00",
+    "run_at": "2026-09-14T11:22:08+09:00",
     "counts": {
-      "players": 675,
+      "players": 685,
       "teams": 10
     },
     "warnings": [
@@ -213,7 +215,7 @@
     ]
   },
   "league-one-d2": {
-    "run_at": "2026-09-07T11:09:48+09:00",
+    "run_at": "2026-09-14T11:22:08+09:00",
     "counts": {
       "players": 439,
       "teams": 8
@@ -223,7 +225,7 @@
     ]
   },
   "league-one-d3": {
-    "run_at": "2026-09-07T11:09:48+09:00",
+    "run_at": "2026-09-14T11:22:08+09:00",
     "counts": {
       "players": 337,
       "teams": 6
@@ -233,7 +235,7 @@
     ]
   },
   "mlr": {
-    "run_at": "2026-09-07T11:09:48+09:00",
+    "run_at": "2026-09-14T11:22:08+09:00",
     "counts": {
       "players": 211,
       "teams": 6

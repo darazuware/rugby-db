@@ -870,10 +870,10 @@
     "league": "national",
     "source": "rugby-japan.jp",
     "source_url": "https://www.rugby-japan.jp/news/54139",
-    "scraped_at": "2026-09-07T11:09:48+09:00",
+    "scraped_at": "2026-09-14T11:22:08+09:00",
     "news_id": "54139",
     "kind": "camp",
-    "title": "（9/5更新）男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ",
+    "title": "（9/11更新）男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ",
     "venue": "宮崎県屋外型トレーニングセンター",
     "start_date": "2026-08-27",
     "members": [
@@ -895,11 +895,19 @@
       },
       {
         "player_id": "ar_takato-okabe",
-        "name_ja": "岡部 崇人",
+        "name_ja": "岡部 崇人 ※8.",
         "name_en": "Takato OKABE",
         "position_group": "FW",
         "club_raw": "横浜キヤノンイーグルス",
         "caps": 13
+      },
+      {
+        "player_id": null,
+        "name_ja": "加藤 一希 ※9. Kazuki KATO",
+        "name_en": null,
+        "position_group": "FW",
+        "club_raw": "クボタスピアーズ船橋・東京ベイ Kubota Spears Funabashi TOKYO-BAY",
+        "caps": 0
       },
       {
         "player_id": null,
@@ -926,7 +934,7 @@
         "caps": 16
       },
       {
-        "player_id": "jrfu_national_510756",
+        "player_id": "jrfu_national_511558",
         "name_ja": "平野 叶翔",
         "name_en": "Kanato HIRANO",
         "position_group": "FW",
@@ -982,7 +990,7 @@
         "caps": 3
       },
       {
-        "player_id": "jrfu_national_510764",
+        "player_id": "jrfu_national_511566",
         "name_ja": "ルアン・ボタ",
         "name_en": "Ruan BOTHA",
         "position_group": "FW",
@@ -1030,7 +1038,7 @@
         "caps": 1
       },
       {
-        "player_id": "jrfu_national_510750",
+        "player_id": "jrfu_national_511552",
         "name_ja": "武内 慎",
         "name_en": "Shin TAKEUCHI",
         "position_group": "FW",

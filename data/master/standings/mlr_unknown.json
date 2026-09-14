@@ -1,57 +1,57 @@
 {
   "league": "mlr",
   "season": "unknown",
-  "scraped_at": "2026-09-07T08:33:45+09:00",
+  "scraped_at": "2026-09-14T08:41:15+09:00",
   "source_url": "https://all.rugby/tournament/mlr/table",
   "rows": [
     {
       "rank": 2,
       "team_id": "ca-legion",
-      "played": 9,
-      "won": 5,
+      "played": 8,
+      "won": 4,
       "drawn": 0,
       "lost": 4,
-      "points": 29,
+      "points": 24,
       "bonus": null
     },
     {
       "rank": 3,
       "team_id": "seattle-seawolves",
-      "played": 9,
-      "won": 5,
+      "played": 8,
+      "won": 4,
       "drawn": 0,
       "lost": 4,
-      "points": 26,
+      "points": 21,
       "bonus": null
     },
     {
       "rank": 4,
-      "team_id": "old-glory",
-      "played": 9,
+      "team_id": "new-england-free-jacks",
+      "played": 8,
       "won": 3,
       "drawn": 0,
-      "lost": 6,
-      "points": 17,
+      "lost": 5,
+      "points": 16,
       "bonus": null
     },
     {
       "rank": 5,
-      "team_id": "new-england-free-jacks",
-      "played": 9,
+      "team_id": "old-glory",
+      "played": 8,
       "won": 3,
       "drawn": 0,
-      "lost": 6,
-      "points": 17,
+      "lost": 5,
+      "points": 15,
       "bonus": null
     },
     {
       "rank": 6,
       "team_id": "anthem-rc",
-      "played": 9,
+      "played": 8,
       "won": 2,
       "drawn": 0,
-      "lost": 7,
-      "points": 13,
+      "lost": 6,
+      "points": 12,
       "bonus": null
     }
   ]

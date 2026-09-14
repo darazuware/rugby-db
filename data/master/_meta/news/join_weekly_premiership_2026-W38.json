@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ar_dylan-chessum",
+    "name_en": "Dylan CHESSUM",
+    "name_ja": null,
+    "team_id": "leicester"
+  },
+  {
+    "id": "ar_harry-wright",
+    "name_en": "Harry WRIGHT",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_jake-spurway",
+    "name_en": "Jake SPURWAY",
+    "name_ja": null,
+    "team_id": "harlequins"
+  },
+  {
+    "id": "ar_james-lang",
+    "name_en": "James LANG",
+    "name_ja": null,
+    "team_id": "harlequins"
+  },
+  {
+    "id": "ar_jules-martin-bonnard",
+    "name_en": "Jules MARTIN-BONNARD",
+    "name_ja": null,
+    "team_id": "harlequins"
+  },
+  {
+    "id": "ar_osman-dimen",
+    "name_en": "Osman DIMEN",
+    "name_ja": null,
+    "team_id": "harlequins"
+  },
+  {
+    "id": "ar_rakhat-clarkson",
+    "name_en": "Rakhat CLARKSON",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_ruben-cummings",
+    "name_en": "Ruben CUMMINGS",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_tom-worts",
+    "name_en": "Tom WORTS",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_will-may",
+    "name_en": "Will MAY",
+    "name_ja": null,
+    "team_id": "gloucester"
+  }
+]
