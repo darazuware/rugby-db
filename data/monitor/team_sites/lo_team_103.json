@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-09-15T18:20:52+09:00",
+  "checked_at": "2026-09-16T00:20:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "5bc7ff8c3f12d1e1"
+      "hash": "89aa08793c9bc61d"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "ef7ada352d29fda5"
+      "hash": "2e2bbc1711383978"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/260915/",
+      "title": "男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿スケジュールと参加メンバーのお知らせ",
+      "date": "2026-09-15"
+    },
     {
       "url": "https://www.bravelupus.com/news/20260914/",
       "title": "【新設】 【ルーパス塾 U8/U10クラス】",
@@ -216,11 +221,6 @@
       "url": "https://www.bravelupus.com/news/20260517/",
       "title": "ECによるグッズ販売のお知らせ",
       "date": "2026-05-17"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/20260514/",
-      "title": "新製品グッズ販売のお知らせ",
-      "date": "2026-05-14"
     }
   ]
 }

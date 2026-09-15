@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-09-15T18:20:52+09:00",
+  "checked_at": "2026-09-16T00:20:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "3138f8feeba64ff3"
+      "hash": "cd0f88041eb81347"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "9db1ec48e72c9c76"
+      "hash": "11791fb53a5ac20e"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260915.html",
+      "title": "2026-09-15 男子セブンズ日本代表｜男子SDS別府合宿 参加メンバーに服部選手・吉本選手が選出",
+      "date": "2026-09-15"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/ticket.html",
       "title": "2026-09-11 2026-27シーズン チケット情報を更新しました",
@@ -54,7 +59,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260908.html-0",
-      "title": "2026-09-08 相模原・福岡で一般公開練習を実施します",
+      "title": "2026-09-08 [ イベント ] 相模原・福岡で一般公開練習を実施します",
       "date": "2026-09-08"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260623.html",
       "title": "2026-06-23 [ チーム ] チャーリー・ティトコム選手 退団およびレスター・タイガース復帰のお知らせ",
       "date": "2026-06-23"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260619.html",
-      "title": "2026-06-19 [ イベント ] 「ダイナボアーズフェスタ2026」8/29（土）開催決定！今年もアリオ橋本を全緑ジャック！",
-      "date": "2026-06-19"
     }
   ]
 }
