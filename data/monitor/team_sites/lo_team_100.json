@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-09-15T01:42:34+09:00",
+  "checked_at": "2026-09-15T18:20:52+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "1de9887e07db3cd4"
+      "hash": "59ea01cfc8a8eb8f"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "3795da12881b3ecd"
+      "hash": "63a62665c65c6aab"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/fanclub/index_2024.html",
+      "title": "ファンクラブ 2026.09.15 2026.9.25「D-Rockersテーマ別対話会」「Club D-Rockers交流会」開催のお知らせ",
+      "date": "2026-09-15"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2023.html",
       "title": "チーム 2026.09.11 2026‐27シーズンにおける長期療養のこどものスポーツチーム入団事業「TEAMMATES」募集について",
@@ -64,7 +69,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2015.html",
-      "title": "パートナー 2026.09.02 わくわくはっぴー本棚との地域連携共創・相互支援に関する包括連携協定締結のお知らせ",
+      "title": "2026.09.02 ニュース わくわくはっぴー本棚との地域連携共創・相互支援に関する包括連携協定締結のお知らせ",
       "date": "2026-09-02"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/partner/index_1978.html",
       "title": "2026.07.02 ニュース Nolook商事株式会社とオフィシャルサプライヤー 契約締結のお知らせ",
       "date": "2026-07-02"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_1977.html",
-      "title": "2026.07.01 ニュース NTTジャパンラグビー リーグワン2026-27 ディビジョン編成および大会日程のお知らせ",
-      "date": "2026-07-01"
     }
   ]
 }

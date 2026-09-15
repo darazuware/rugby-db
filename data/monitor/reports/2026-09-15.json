@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-15T01:42:34+09:00",
+  "checked_at": "2026-09-15T18:20:52+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/fanclub/index_2024.html",
+          "title": "ファンクラブ 2026.09.15 2026.9.25「D-Rockersテーマ別対話会」「Club D-Rockers交流会」開催のお知らせ",
+          "date": "2026-09-15",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -22,7 +32,12 @@
       "first_run": false,
       "item_count": 60,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/",
+        "https://www.kobesteelers.com/news/cat_news/information/",
+        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+      ],
       "rename_signals": []
     },
     {
@@ -57,7 +72,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4269/",
+          "title": "2026.9.15 グッズ 【グッズ】オンラインショップでの「ファンクラブ会員連携サービス」開始のお知らせ",
+          "date": "2026-09-15",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4241",
+          "title": "【試合情報】プレシーズンマッチ実施のお知らせ（9/7 更新） 試合情報 2026.09.07",
+          "date": "2026-09-07",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://verblitz.toyotatimes-sports.toyota/"
       ],
@@ -99,7 +127,10 @@
       "first_run": false,
       "item_count": 14,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -134,14 +165,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 27,
-      "new_items": [
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3187",
-          "title": "2026.9.14[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（9/7～9/11）",
-          "date": "2026-09-14",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -189,11 +213,23 @@
       "league": "league-one-d2",
       "name": "清水建設江東ブルーシャークス",
       "official_url": "https://blue-sharks.jp/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 24,
+      "new_items": [
+        {
+          "url": "https://blue-sharks.jp/news/2026/09/25284/",
+          "title": "◇埼玉パナソニックワイルドナイツ戦マッチレポート",
+          "date": "2026-09-25",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -201,11 +237,13 @@
       "league": "league-one-d2",
       "name": "豊田自動織機シャトルズ愛知",
       "official_url": "https://shuttles-aichi.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 6,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://shuttles-aichi.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -213,11 +251,22 @@
       "league": "league-one-d2",
       "name": "日本製鉄釜石シーウェイブス",
       "official_url": "https://kamaishi-seawaves.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 15,
+      "new_items": [
+        {
+          "url": "https://kamaishi-seawaves.com/news/info/32434/",
+          "title": "お知らせ 2026.9.15 2026-27シーズン キャプテン決定のお知らせ",
+          "date": "2026-09-15",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://kamaishi-seawaves.com/",
+        "https://kamaishi-seawaves.com/news/",
+        "https://kamaishi-seawaves.com/news/info/"
+      ],
       "rename_signals": []
     },
     {
@@ -254,10 +303,24 @@
       "official_url": "https://docomo-rugby.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 45,
-      "new_items": [],
+      "item_count": 46,
+      "new_items": [
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8879",
+          "title": "お知らせ 2026年9月15日 セタ・タマニバル選手 フィジー代表選出のお知らせ",
+          "date": "2026-09-15",
+          "category": "squad"
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8874",
+          "title": "お知らせ 2026年9月15日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 第3節 SA広島戦試合会場決定のお知らせ",
+          "date": "2026-09-15",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://docomo-rugby.jp/"
+        "https://docomo-rugby.jp/",
+        "https://docomo-rugby.jp/news/"
       ],
       "rename_signals": []
     },
@@ -284,8 +347,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.rugguts.secom.co.jp/2026/09/2026-27-2.html",
+          "title": "2026-27シーズン新加入スタッフおよび新体制のお知らせ",
+          "date": "2026-09-20",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -293,9 +366,9 @@
       "league": "league-one-d3",
       "name": "中国電力レッドレグリオンズ",
       "official_url": "https://rrrfc.red/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 16,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -331,9 +404,9 @@
       "league": "league-one-d3",
       "name": "ルリーロ福岡",
       "official_url": "https://leriro-fukuoka.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 11,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -357,7 +430,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54201",
+          "title": "男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿スケジュールと参加メンバーのお知らせ 2026.9.15 （火） 男子セブンズ日本代表 セブンズ 日本代表 セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド sds^^^",
+          "date": "2026-09-15",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -371,13 +451,36 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日本製鉄釜石シーウェイブス",
+      "url": "https://kamaishi-seawaves.com/news/info/32434/",
+      "title": "お知らせ 2026.9.15 2026-27シーズン キャプテン決定のお知らせ",
+      "date": "2026-09-15",
+      "category": "roster"
+    },
+    {
+      "source": "狭山セコムラガッツ",
+      "url": "https://www.rugguts.secom.co.jp/2026/09/2026-27-2.html",
+      "title": "2026-27シーズン新加入スタッフおよび新体制のお知らせ",
+      "date": "2026-09-20",
+      "category": "roster"
+    },
+    {
+      "source": "レッドハリケーンズ大阪",
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8879",
+      "title": "お知らせ 2026年9月15日 セタ・タマニバル選手 フィジー代表選出のお知らせ",
+      "date": "2026-09-15",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54201",
+      "title": "男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿スケジュールと参加メンバーのお知らせ 2026.9.15 （火） 男子セブンズ日本代表 セブンズ 日本代表 セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド sds^^^",
+      "date": "2026-09-15",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
-  "warnings": [
-    "清水建設江東ブルーシャークス: 到達できるページがない: https://blue-sharks.jp/",
-    "豊田自動織機シャトルズ愛知: 到達できるページがない: https://shuttles-aichi.com/",
-    "日本製鉄釜石シーウェイブス: 到達できるページがない: https://kamaishi-seawaves.com/",
-    "中国電力レッドレグリオンズ: 到達できるページがない: https://rrrfc.red/",
-    "ルリーロ福岡: 到達できるページがない: https://leriro-fukuoka.com/"
-  ]
+  "warnings": []
 }

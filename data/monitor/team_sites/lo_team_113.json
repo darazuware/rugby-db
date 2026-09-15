@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-09-14T18:46:04+09:00",
+  "checked_at": "2026-09-15T18:20:52+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "74d865838674a10e"
+      "hash": "aa9be26739385e4c"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "ac559cadc2e44dc8"
+      "hash": "80c1c240d0faa13f"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "d5414079fdfc7954"
+      "hash": "3408acb35cde5ec7"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/32434/",
+      "title": "お知らせ 2026.9.15 2026-27シーズン キャプテン決定のお知らせ",
+      "date": "2026-09-15"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/game/32414/",
       "title": "試合情報 2026.9.14 2026プレシーズンマッチ 第2戦／栃木ホンダヒート戦",
@@ -90,11 +95,6 @@
       "url": "https://kamaishi-seawaves.com/news/info/32023/",
       "title": "お知らせ 2026.8.6 夏季休業のお知らせ",
       "date": "2026-08-06"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/31725/",
-      "title": "お知らせ 2026.8.4 「2026ラグビッグドリーム～釜石絆の日～」プレシーズンマッチ 第1戦 開催のお知らせ",
-      "date": "2026-08-04"
     }
   ]
 }

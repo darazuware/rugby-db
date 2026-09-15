@@ -3,20 +3,30 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-09-15T01:42:34+09:00",
+  "checked_at": "2026-09-15T18:20:52+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "8918567549128d55"
+      "hash": "67b5e6e08d403519"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "c37816c461f0d1c5"
+      "hash": "6daca12d0669600b"
     }
   ],
   "items": [
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8879",
+      "title": "お知らせ 2026年9月15日 セタ・タマニバル選手 フィジー代表選出のお知らせ",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8874",
+      "title": "お知らせ 2026年9月15日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 第3節 SA広島戦試合会場決定のお知らせ",
+      "date": "2026-09-15"
+    },
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8872",
       "title": "お知らせ 2026年9月14日 山口泰輝選手が第20回アジア競技大会日本代表に選出",
@@ -216,11 +226,6 @@
       "url": "http://docomo-rugby.jp/photo/game/detail.html?id=335",
       "title": "試合情報 2026年5月12日 【トレーニングマッチ】 豊田自動織機シャトルズ愛知 フォトギャラリー",
       "date": "2026-05-12"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8575",
-      "title": "お知らせ 2026年5月11日 ※更新情報あり 5月11日（月曜）第14節 ホストゲーム時のイベント予定について",
-      "date": "2026-05-11"
     },
     {
       "url": "https://docomo-rugby.jp/game/member.html?id=324",
