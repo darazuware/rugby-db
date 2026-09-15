@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-15T16:08:29+09:00",
+  "checked_at": "2026-09-15T22:05:52+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,26 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6151",
-          "title": "クラブ 浦安D-Rocks、長期療養のこどものスポーツチーム入団事業「TEAMMATES」の募集について 2026.09.15",
-          "date": "2026-09-15",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6150",
-          "title": "クラブ 日本製鉄釜石シーウェイブス、2026-27シーズン キャプテン決定のお知らせ 2026.09.15",
-          "date": "2026-09-15",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6149",
-          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 一部試合日程および会場追加決定のお知らせ 2026.09.15",
-          "date": "2026-09-15",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -38,38 +19,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54197",
-          "title": "ラグビー体験授業（倉敷市） 開催のお知らせ 2026.9.15 （火） 小学生 その他 日本協会 普及育成",
-          "date": "2026-09-15",
-          "category": null
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54184",
-          "title": "（9/15更新）アサヒスーパードライ パシフィックネーションズカップ2026 フィジー代表 来日メンバーのお知らせ 2026.9.15 （火） 15人制男子日本代表 パシフィックネーションズカップ2026",
-          "date": "2026-09-15",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54077",
-          "title": "（9/15更新）SMBCカップ 第23回全国小学生タグラグビー大会開催のお知らせ 2026.9.15 （火） 小学生 タグラグビー 大会 普及育成",
-          "date": "2026-09-15",
-          "category": null
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/53971",
-          "title": "（9/15更新）太陽生命カップ2026 第17回全国中学生ラグビーフットボール大会開催のお知らせ 2026.9.15 （火） 中学 普及育成 太陽生命カップ 大会",
-          "date": "2026-09-15",
-          "category": null
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54192",
-          "title": "（9/12更新）レポート：女子セブンズ・デベロップメント・スコッド（SDS）福岡合宿 2026.9.12 （土） 女子セブンズ日本代表 女子 セブンズ SDS セブンズ・デベロップメント・スコッド",
-          "date": "2026-09-12",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -83,36 +33,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6151",
-      "title": "クラブ 浦安D-Rocks、長期療養のこどものスポーツチーム入団事業「TEAMMATES」の募集について 2026.09.15",
-      "date": "2026-09-15",
-      "category": "roster"
-    },
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6150",
-      "title": "クラブ 日本製鉄釜石シーウェイブス、2026-27シーズン キャプテン決定のお知らせ 2026.09.15",
-      "date": "2026-09-15",
-      "category": "roster"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54192",
-      "title": "（9/12更新）レポート：女子セブンズ・デベロップメント・スコッド（SDS）福岡合宿 2026.9.12 （土） 女子セブンズ日本代表 女子 セブンズ SDS セブンズ・デベロップメント・スコッド",
-      "date": "2026-09-12",
-      "category": "squad"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54184",
-      "title": "（9/15更新）アサヒスーパードライ パシフィックネーションズカップ2026 フィジー代表 来日メンバーのお知らせ 2026.9.15 （火） 15人制男子日本代表 パシフィックネーションズカップ2026",
-      "date": "2026-09-15",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": []
 }
