@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-09-16T00:20:58+09:00",
+  "checked_at": "2026-09-16T18:13:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "b087a122b374ef29"
+      "hash": "11b6413374701360"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260916a.html",
+      "title": "HENNGE株式会社とオフィシャルパートナー契約継続のお知らせ",
+      "date": "2026-09-16"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260911a.html",
       "title": "NPCマナワツ・ターボス期限付き移籍レポート②（笹川大五選手）",
@@ -27,11 +32,6 @@
       "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260911a.html",
       "title": "10月10日(土) JR東日本グリーンウォリアーズ東葛戦 RAMOVE限定 無料観戦のお知らせ",
       "date": "2026-09-11"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260907a.html",
-      "title": "10月10日(土) 「秋のラグビー観戦＆防災デー」開催のお知らせ",
-      "date": "2026-09-07"
     }
   ]
 }

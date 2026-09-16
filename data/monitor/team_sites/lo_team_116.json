@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-09-16T00:20:58+09:00",
+  "checked_at": "2026-09-16T18:13:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "cbdb66f626c47a20"
+      "hash": "6abfbe62a65afb34"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "6daca12d0669600b"
+      "hash": "bde8945e97b7b516"
     }
   ],
   "items": [
@@ -26,11 +26,6 @@
       "url": "https://docomo-rugby.jp/news/detail.html?id=8874",
       "title": "お知らせ 2026年9月15日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 第3節 SA広島戦試合会場決定のお知らせ",
       "date": "2026-09-15"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8872",
-      "title": "お知らせ 2026年9月14日 山口泰輝選手が第20回アジア競技大会日本代表に選出",
-      "date": "2026-09-14"
     },
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8870",

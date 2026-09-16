@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-09-16T00:20:58+09:00",
+  "checked_at": "2026-09-16T18:13:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "3bc52bed98c6e5ee"
+      "hash": "fef0d42fa06fdf30"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "d3d0992eb96c773c"
+      "hash": "c9acd390adf2a045"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3188",
+      "title": "EVENT 2026/9/16 愛車で静岡とホーム開幕戦を青く染めよう！",
+      "date": "2026-09-16"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3187",
       "title": "2026.9.14[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（9/7～9/11）",
@@ -29,7 +34,7 @@
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3181",
-      "title": "2026.9.10[THU] EVENT 10/12(月・祝)に＜ラグビーディスカバリー supported by しずぎん＞を浜松市で開催！",
+      "title": "EVENT 2026/9/10 10/12に浜松市でラグビーディスカバリーを開催",
       "date": "2026-09-10"
     },
     {
@@ -84,7 +89,7 @@
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3168",
-      "title": "EVENT 2026/9/1 ラグビーディスカバリーを9/27(日)に沼津市で開催",
+      "title": "EVENT 2026/9/1 9/27に沼津市でラグビーディスカバリーを開催",
       "date": "2026-09-01"
     },
     {
@@ -141,11 +146,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3001",
       "title": "FAN CLUB 2026/3/31 ららぽーと磐田＜スポーツ・エンタメパスポート＞",
       "date": "2026-03-31"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/2986",
-      "title": "OTHERS 2026/3/11 【オフィシャルグッズ統括(マネジャー候補）】募集",
-      "date": "2026-03-11"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/1325",

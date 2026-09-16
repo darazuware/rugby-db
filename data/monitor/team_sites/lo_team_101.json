@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-09-16T00:20:58+09:00",
+  "checked_at": "2026-09-16T18:13:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "56245c73453bf453"
+      "hash": "3742c8e0f587bd33"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "1501348233ac6ff3"
+      "hash": "9f0e27a54d9f62ac"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35345/",
+      "title": "2026/9/16 イベント 9月19日(土)～20日(日)「Age-Well KOBE」にブースを出展します",
+      "date": "2026-09-16"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35294/",
       "title": "2026/9/14 イベント 大丸神戸店に神戸4チームの優勝トロフィー等が展示されます",
@@ -189,11 +194,6 @@
       "url": "https://www.kobesteelers.com/news/post35114/",
       "title": "2026/8/26 イベント 【選手イベント参加情報】第39回RICサマーイブニングカーニバルに選手が出演します",
       "date": "2026-08-26"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35100/",
-      "title": "2026/8/21 イベント 【レポート】神戸三宮センター街1丁目で神戸4チームの優勝トロフィー・シャーレが展示されました",
-      "date": "2026-08-21"
     },
     {
       "url": "https://www.kobesteelers.com/news/post35086/",

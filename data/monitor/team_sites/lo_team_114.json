@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-09-16T00:20:58+09:00",
+  "checked_at": "2026-09-16T18:13:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "baf581c79bf27d60"
+      "hash": "9c3431e8f56a939f"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "a8eb89de1b39efb2"
+      "hash": "3ce4ee6a11ebd4ce"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/09/16/26-27-6/",
+      "title": "2026.09.16 試合関連 NTTジャパンラグビー リーグワン2026-27 第6節試合日程および会場について追加決定のお知らせ",
+      "date": "2026-09-16"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/09/10/liners-fanclub-termsandconditions/",
       "title": "2026.09.10 その他 【重要】LINERS FANCLUB 2026-27 会員規約の表示不備に関するお詫びとご確認のお願い",
@@ -49,7 +54,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/09/01/itemae-off3/",
-      "title": "2026.09.01 活動報告書 その他 【番組 オフもいてまえ！花園近鉄ライナーズ（3回目・9/1放送）】",
+      "title": "2026-09-01 活動報告書 その他 【番組 オフもいてまえ！花園近鉄ライナーズ（3回目・9/1放送）】",
       "date": "2026-09-01"
     },
     {
@@ -86,11 +91,6 @@
       "url": "https://hanazono-liners.jp/2026/08/20/liners-fanclub2026-27-0/",
       "title": "2026.08.20 ファンクラブ イベント 【LINERS FANCLUB】2026-27 SEASON ファンクラブ詳細",
       "date": "2026-08-20"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/08/19/report-ekawa-2/",
-      "title": "2026-08-19 チーム情報 オーストラリア留学レポート 江川 剛人選手編",
-      "date": "2026-08-19"
     },
     {
       "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub/",

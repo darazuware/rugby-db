@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-09-16T00:20:58+09:00",
+  "checked_at": "2026-09-16T18:13:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "997ddc90bef608b7"
+      "hash": "9ce93f39e719c60e"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "79b50874990f5868"
+      "hash": "7d284fa2ff85dbda"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2439/",
+      "title": "トピックス 2026.9.16 男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿 参加のお知らせ",
+      "date": "2026-09-16"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2438/",
       "title": "トピックス 2026.9.12 【トレーニングマッチ 】10/3(土) 日本製鉄釜石シーウェイブス戦 試合案内",
@@ -131,11 +136,6 @@
       "url": "https://www.honda-heat.jp/news/2407/",
       "title": "イベント 2026.7.22 『第51回 ふるさと宮まつり』にて、オリジナルうちわを配布します",
       "date": "2026-07-22"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2406/",
-      "title": "トピックス 2026.7.20 【表敬訪問】津市長を訪問し、25-26シーズン終了のご挨拶をさせていただきました",
-      "date": "2026-07-20"
     },
     {
       "url": "https://www.honda-heat.jp/hostgame/20260509/",

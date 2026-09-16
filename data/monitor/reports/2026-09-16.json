@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-16T00:20:58+09:00",
+  "checked_at": "2026-09-16T18:13:54+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -21,8 +21,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35345/",
+          "title": "2026/9/16 イベント 9月19日(土)～20日(日)「Age-Well KOBE」にブースを出展します",
+          "date": "2026-09-16",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -45,18 +55,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 41,
-      "new_items": [
-        {
-          "url": "https://www.bravelupus.com/news/260915/",
-          "title": "男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿スケジュールと参加メンバーのお知らせ",
-          "date": "2026-09-15",
-          "category": "squad"
-        }
-      ],
-      "changed_pages": [
-        "https://www.bravelupus.com/",
-        "https://www.bravelupus.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -68,7 +68,9 @@
       "first_run": false,
       "item_count": 10,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -79,8 +81,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 25,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.honda-heat.jp/news/2439/",
+          "title": "トピックス 2026.9.16 男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿 参加のお知らせ",
+          "date": "2026-09-16",
+          "category": "squad"
+        }
+      ],
+      "changed_pages": [
+        "https://www.honda-heat.jp/",
+        "https://www.honda-heat.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -91,14 +103,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260915.html",
-          "title": "2026-09-15 男子セブンズ日本代表｜男子SDS別府合宿 参加メンバーに服部選手・吉本選手が選出",
-          "date": "2026-09-15",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -125,8 +130,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 4,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260916a.html",
+          "title": "HENNGE株式会社とオフィシャルパートナー契約継続のお知らせ",
+          "date": "2026-09-16",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -149,7 +163,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 27,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3188",
+          "title": "EVENT 2026/9/16 愛車で静岡とホーム開幕戦を青く染めよう！",
+          "date": "2026-09-16",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -197,13 +218,11 @@
       "league": "league-one-d2",
       "name": "清水建設江東ブルーシャークス",
       "official_url": "https://blue-sharks.jp/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 24,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://blue-sharks.jp/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -211,13 +230,11 @@
       "league": "league-one-d2",
       "name": "豊田自動織機シャトルズ愛知",
       "official_url": "https://shuttles-aichi.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 6,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://shuttles-aichi.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -225,15 +242,11 @@
       "league": "league-one-d2",
       "name": "日本製鉄釜石シーウェイブス",
       "official_url": "https://kamaishi-seawaves.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 15,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://kamaishi-seawaves.com/",
-        "https://kamaishi-seawaves.com/news/",
-        "https://kamaishi-seawaves.com/news/info/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -244,7 +257,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 25,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/2026/09/16/26-27-6/",
+          "title": "2026.09.16 試合関連 NTTジャパンラグビー リーグワン2026-27 第6節試合日程および会場について追加決定のお知らせ",
+          "date": "2026-09-16",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -270,10 +290,11 @@
       "official_url": "https://docomo-rugby.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 46,
+      "item_count": 45,
       "new_items": [],
       "changed_pages": [
-        "https://docomo-rugby.jp/"
+        "https://docomo-rugby.jp/",
+        "https://docomo-rugby.jp/news/"
       ],
       "rename_signals": []
     },
@@ -309,9 +330,9 @@
       "league": "league-one-d3",
       "name": "中国電力レッドレグリオンズ",
       "official_url": "https://rrrfc.red/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 16,
+      "item_count": 0,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -324,9 +345,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 45,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.skyactivs.com/news/4706",
+          "title": "2026.09.13[SUN] ACTIVITY ～スポーツ能力発見会 in 広島～ に参加しました",
+          "date": "2026-09-13",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://www.skyactivs.com/"
+        "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news"
       ],
       "rename_signals": []
     },
@@ -347,9 +376,9 @@
       "league": "league-one-d3",
       "name": "ルリーロ福岡",
       "official_url": "https://leriro-fukuoka.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 11,
+      "item_count": 0,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -389,20 +418,26 @@
   ],
   "highlights": [
     {
-      "source": "東芝ブレイブルーパス東京",
-      "url": "https://www.bravelupus.com/news/260915/",
-      "title": "男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿スケジュールと参加メンバーのお知らせ",
-      "date": "2026-09-15",
-      "category": "squad"
+      "source": "リコーブラックラムズ東京",
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260916a.html",
+      "title": "HENNGE株式会社とオフィシャルパートナー契約継続のお知らせ",
+      "date": "2026-09-16",
+      "category": "roster"
     },
     {
-      "source": "三菱重工相模原ダイナボアーズ",
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260915.html",
-      "title": "2026-09-15 男子セブンズ日本代表｜男子SDS別府合宿 参加メンバーに服部選手・吉本選手が選出",
-      "date": "2026-09-15",
+      "source": "三重ホンダヒート",
+      "url": "https://www.honda-heat.jp/news/2439/",
+      "title": "トピックス 2026.9.16 男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿 参加のお知らせ",
+      "date": "2026-09-16",
       "category": "squad"
     }
   ],
   "league_rename_news": [],
-  "warnings": []
+  "warnings": [
+    "清水建設江東ブルーシャークス: 到達できるページがない: https://blue-sharks.jp/",
+    "豊田自動織機シャトルズ愛知: 到達できるページがない: https://shuttles-aichi.com/",
+    "日本製鉄釜石シーウェイブス: 到達できるページがない: https://kamaishi-seawaves.com/",
+    "中国電力レッドレグリオンズ: 到達できるページがない: https://rrrfc.red/",
+    "ルリーロ福岡: 到達できるページがない: https://leriro-fukuoka.com/"
+  ]
 }
