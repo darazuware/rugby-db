@@ -3,16 +3,26 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-09-16T18:13:54+09:00",
+  "checked_at": "2026-09-17T00:13:18+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "2b2118cef3b4169d"
+      "hash": "8287efa20a8805e7"
     }
   ],
   "items": [
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4266/",
+      "title": "2026.9.16 トピックス 9月20日（日）に2026-27シーズン新ジャージーを初公開！お披露目会も開催（9/16 更新）",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4263/",
+      "title": "2026.9.16 チケット・ファンクラブ イベント 【ファンクラブ】ゴールド会員様限定 公開練習のご案内",
+      "date": "2026-09-16"
+    },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4269/",
       "title": "2026.9.15 グッズ 【グッズ】オンラインショップでの「ファンクラブ会員連携サービス」開始のお知らせ",
@@ -24,18 +34,8 @@
       "date": "2026-09-10"
     },
     {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4266/",
-      "title": "2026.9.10 トピックス 9月20日（日）に2026-27シーズン新ジャージーを初公開！お披露目会も開催",
-      "date": "2026-09-10"
-    },
-    {
       "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4240",
       "title": "NTTジャパンラグビー リーグワン2026-27 大会日程決定のお知らせ 試合情報 PICK UP 2026.09.09",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4263/",
-      "title": "2026.9.9 チケット・ファンクラブ イベント 【ファンクラブ】ゴールド会員様限定 公開練習のご案内",
       "date": "2026-09-09"
     },
     {
