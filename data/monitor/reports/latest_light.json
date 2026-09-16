@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-15T22:05:52+09:00",
+  "checked_at": "2026-09-16T16:09:10+09:00",
   "teams": [],
   "sources": [
     {
@@ -19,7 +19,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54188",
+          "title": "【太陽生命 JAPAN RUGBY CHALLENGE MATCH 2026】女子日本代表 vs 女子ウェールズ代表 チケット情報 2026.9.16 （水） 15人制女子日本代表 チケット",
+          "date": "2026-09-16",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54139",
+          "title": "（9/16更新）男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ 2026.9.16 （水） 15人制男子日本代表 WBB 日本代表",
+          "date": "2026-09-16",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +46,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54188",
+      "title": "【太陽生命 JAPAN RUGBY CHALLENGE MATCH 2026】女子日本代表 vs 女子ウェールズ代表 チケット情報 2026.9.16 （水） 15人制女子日本代表 チケット",
+      "date": "2026-09-16",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54139",
+      "title": "（9/16更新）男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ 2026.9.16 （水） 15人制男子日本代表 WBB 日本代表",
+      "date": "2026-09-16",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }
