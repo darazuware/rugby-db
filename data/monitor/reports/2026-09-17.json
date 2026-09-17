@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-17T00:13:18+09:00",
+  "checked_at": "2026-09-17T18:22:05+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/cheer/index_2025.html",
+          "title": "チア 2026.09.17 D-Rocks Cheerleaders 第5期メンバー決定のお知らせ",
+          "date": "2026-09-17",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -21,8 +31,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35301/",
+          "title": "2026/9/17 チーム 9月19日(土)「アサヒスーパードライ パシフィックネーションズカップ2026」決勝 フィジー代表戦メンバー選出のお知らせ",
+          "date": "2026-09-17",
+          "category": "squad"
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -32,12 +52,12 @@
       "official_url": "https://panasonic.co.jp/sports/wildknights/",
       "status": "ok",
       "first_run": false,
-      "item_count": 34,
+      "item_count": 35,
       "new_items": [
         {
-          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260916_01/",
-          "title": "活動レポート 2026年09月16日 留学記：NZ編 谷山隼大⑤ ニュースを見る",
-          "date": "2026-09-16",
+          "url": "https://panasonic.co.jp/sports/wildknights/match/games/20260919/",
+          "title": "試合詳細",
+          "date": "2026-09-19",
           "category": null
         }
       ],
@@ -81,8 +101,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 25,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.honda-heat.jp/news/2444/",
+          "title": "トピックス 2026.9.17 2026-27 プレシーズンKV公開のお知らせ",
+          "date": "2026-09-17",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.honda-heat.jp/",
+        "https://www.honda-heat.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -132,8 +162,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 58,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/news/2026/09/17/120000.html",
+          "title": "2026.09.17 ニュース・トピックス",
+          "date": "2026-09-17",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/",
+        "https://www.kubota-spears.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -144,7 +184,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 27,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3190",
+          "title": "OTHERS 2026/9/17 スタッフ募集(キャリア採用)のお知らせ 【スポンサーセールス担当】",
+          "date": "2026-09-17",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -170,9 +217,20 @@
       "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": false,
-      "item_count": 11,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 12,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0917-01/",
+          "title": "CRS 令和8年8月千葉豪雨被災支援対応 日本財団「県内プロスポーツチーム・アスリートと連携した情報発信プロジェクト」への賛同について 2026.09.17",
+          "date": "2026-09-17",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/",
+        "https://www.jreast.co.jp/greenwarriors/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -192,13 +250,11 @@
       "league": "league-one-d2",
       "name": "清水建設江東ブルーシャークス",
       "official_url": "https://blue-sharks.jp/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 24,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://blue-sharks.jp/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -206,13 +262,11 @@
       "league": "league-one-d2",
       "name": "豊田自動織機シャトルズ愛知",
       "official_url": "https://shuttles-aichi.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 6,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://shuttles-aichi.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -220,22 +274,11 @@
       "league": "league-one-d2",
       "name": "日本製鉄釜石シーウェイブス",
       "official_url": "https://kamaishi-seawaves.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 16,
-      "new_items": [
-        {
-          "url": "https://kamaishi-seawaves.com/news/society/32461/",
-          "title": "普及・社会貢献 2026.9.16 釜石市立平田小学校 ラグビー出前授業が行われました",
-          "date": "2026-09-16",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://kamaishi-seawaves.com/",
-        "https://kamaishi-seawaves.com/news/",
-        "https://kamaishi-seawaves.com/news/info/"
-      ],
+      "item_count": 0,
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -261,8 +304,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 15,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-09-17/",
+          "title": "【日野市】日野市立大坂上中学校の職場体験を実施しました",
+          "date": "2026-09-17",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -303,7 +355,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -311,9 +366,9 @@
       "league": "league-one-d3",
       "name": "中国電力レッドレグリオンズ",
       "official_url": "https://rrrfc.red/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 16,
+      "item_count": 0,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -349,9 +404,9 @@
       "league": "league-one-d3",
       "name": "ルリーロ福岡",
       "official_url": "https://leriro-fukuoka.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 11,
+      "item_count": 0,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -375,7 +430,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54203",
+          "title": "アサヒスーパードライ パシフィックネーションズカップ2026 決勝 日本代表 対 フィジー代表 試合登録メンバーのお知らせ 2026.9.17 （木） 15人制男子日本代表 WBB アサヒスーパードライ パシフィックネーションズカップ2026 パシフィックネーションズカップ2026 男子 日本代表戦 日本代表",
+          "date": "2026-09-17",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -389,7 +451,28 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "コベルコ神戸スティーラーズ",
+      "url": "https://www.kobesteelers.com/news/post35301/",
+      "title": "2026/9/17 チーム 9月19日(土)「アサヒスーパードライ パシフィックネーションズカップ2026」決勝 フィジー代表戦メンバー選出のお知らせ",
+      "date": "2026-09-17",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54203",
+      "title": "アサヒスーパードライ パシフィックネーションズカップ2026 決勝 日本代表 対 フィジー代表 試合登録メンバーのお知らせ 2026.9.17 （木） 15人制男子日本代表 WBB アサヒスーパードライ パシフィックネーションズカップ2026 パシフィックネーションズカップ2026 男子 日本代表戦 日本代表",
+      "date": "2026-09-17",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
-  "warnings": []
+  "warnings": [
+    "清水建設江東ブルーシャークス: 到達できるページがない: https://blue-sharks.jp/",
+    "豊田自動織機シャトルズ愛知: 到達できるページがない: https://shuttles-aichi.com/",
+    "日本製鉄釜石シーウェイブス: 到達できるページがない: https://kamaishi-seawaves.com/",
+    "中国電力レッドレグリオンズ: 到達できるページがない: https://rrrfc.red/",
+    "ルリーロ福岡: 到達できるページがない: https://leriro-fukuoka.com/"
+  ]
 }

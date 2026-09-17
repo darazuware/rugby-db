@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-09-17T00:13:18+09:00",
+  "checked_at": "2026-09-17T18:22:05+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "7bd64697f1e434a8"
+      "hash": "6bc044e94cf5053f"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "b37b7379c4f27600"
+      "hash": "7bd4de90cf5ef526"
     }
   ],
   "items": [
@@ -25,6 +25,11 @@
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
       "title": "試合日程一覧",
+      "date": "2026-09-19"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20260919/",
+      "title": "試合詳細",
       "date": "2026-09-19"
     },
     {

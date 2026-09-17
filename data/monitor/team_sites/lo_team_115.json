@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-09-17T00:13:18+09:00",
+  "checked_at": "2026-09-17T18:22:05+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,10 +13,15 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "16734731d07b65fb"
+      "hash": "2983d4c9c0fe0df4"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-09-17/",
+      "title": "【日野市】日野市立大坂上中学校の職場体験を実施しました",
+      "date": "2026-09-17"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-09-11/",
       "title": "【9月26日 リーグワンライジング】暑さによる試合とイベントの中止について",
@@ -86,11 +91,6 @@
       "url": "https://hino-reddolphins.com/2026-08-04/",
       "title": "くいもの屋わん 豊田北口/南大沢店 九州魂 南大沢店 特別クーポン継続実施のお知らせ",
       "date": "2026-08-04"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-07-28/",
-      "title": "【スポットコーチ】三菱製鋼 Steelersの練習に参加しました",
-      "date": "2026-07-28"
     }
   ]
 }

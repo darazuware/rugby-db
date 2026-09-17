@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-09-17T00:13:18+09:00",
+  "checked_at": "2026-09-17T18:22:05+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "8e9286d27e46471b"
+      "hash": "03d9b01139cdd08f"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "65e47a2e4bf281fe"
+      "hash": "aa2dbca2ea844d71"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "9d781d585de8e26b"
+      "hash": "39fbfb5513d05212"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0917-01/",
+      "title": "CRS 令和8年8月千葉豪雨被災支援対応 日本財団「県内プロスポーツチーム・アスリートと連携した情報発信プロジェクト」への賛同について 2026.09.17",
+      "date": "2026-09-17"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0910-01/",
       "title": "MATCH ジャパンラグビー リーグワン ライジング2026日程決定のお知らせ 2026.09.10",

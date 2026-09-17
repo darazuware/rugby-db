@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-09-17T00:13:18+09:00",
+  "checked_at": "2026-09-17T18:22:05+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "8d7c845702bc7829"
+      "hash": "751cb384f3c1c1cf"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "6c7dae673f59bd41"
+      "hash": "cf84610126bc69a4"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3190",
+      "title": "OTHERS 2026/9/17 スタッフ募集(キャリア採用)のお知らせ 【スポンサーセールス担当】",
+      "date": "2026-09-17"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3188",
       "title": "EVENT 2026/9/16 愛車で静岡とホーム開幕戦を青く染めよう！",
@@ -110,11 +115,6 @@
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3167",
       "title": "TEAM 2026/8/25 トレーニング一般公開のお知らせ",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3163",
-      "title": "2026.8.25[TUE] HOST AREA 【ホストエリア活動】磐田市 「南御厨キッズ夏休み塾」にてタグラグビー教室を実施しました",
       "date": "2026-08-25"
     },
     {
