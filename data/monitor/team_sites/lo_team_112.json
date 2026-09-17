@@ -3,20 +3,30 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-09-17T00:13:18+09:00",
+  "checked_at": "2026-09-18T00:22:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "13fd2738f38be7fa"
+      "hash": "e6aabab8dcc691d6"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "03522b0e52f761ae"
+      "hash": "edbaf75260b43c59"
     }
   ],
   "items": [
+    {
+      "url": "https://shuttles-aichi.com/news/tag-rugby-visit-class-at-otsukawa-higashi-elementary-school-in-handa-city/",
+      "title": "フォトギャラリー お知らせ 2026.09.17 半田市立乙川東小学校 タグラグビー訪問授業 実施報告",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/aeon-mall-aratamabashi-feel-the-rugby/",
+      "title": "お知らせ イベント 2026.09.17 イオンモール新瑞橋で「Feel the Rugby」を開催！",
+      "date": "2026-09-17"
+    },
     {
       "url": "https://shuttles-aichi.com/news/player-josua-kerevi-20th-asian-games/",
       "title": "お知らせ 2026.09.14 ケレビ ジョシュア選手「第20回アジア競技大会（2026／愛知・名古屋）」男子セブンズ日本代表に選出！",
@@ -36,16 +46,6 @@
       "url": "https://shuttles-aichi.com/news/10-3japan-rugby-league-one-rising/",
       "title": "お知らせ 2026.09.14 10月3日（土）JAPAN RUGBY LEAGUE ONE RISING 静岡ブルーレヴズ戦 観戦のご案内",
       "date": "2026-09-14"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/local-community-meet-up-report/",
-      "title": "フォトギャラリー お知らせ 2026.09.08 地域交流会実施報告",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/2026-27fanclub/",
-      "title": "お知らせ 2026.09.03 2026-27シーズン ファンクラブ会員募集のお知らせ",
-      "date": "2026-09-03"
     }
   ]
 }

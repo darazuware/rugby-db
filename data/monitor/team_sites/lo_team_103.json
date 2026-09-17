@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-09-17T18:22:05+09:00",
+  "checked_at": "2026-09-18T00:22:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "89aa08793c9bc61d"
+      "hash": "98341f4f020c1220"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "2e2bbc1711383978"
+      "hash": "4e641189d927d0f4"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/260917/",
+      "title": "アサヒスーパードライパシフィックネーションズカップ2026 決勝日本代表対フィジー代表試合登録メンバーのお知らせ",
+      "date": "2026-09-17"
+    },
     {
       "url": "https://www.bravelupus.com/news/260915/",
       "title": "男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿スケジュールと参加メンバーのお知らせ",
@@ -216,11 +221,6 @@
       "url": "https://www.bravelupus.com/news/20260520/",
       "title": "グッズ再販売のお知らせ",
       "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/20260517/",
-      "title": "ECによるグッズ販売のお知らせ",
-      "date": "2026-05-17"
     }
   ]
 }
