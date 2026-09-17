@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-17T16:07:03+09:00",
+  "checked_at": "2026-09-17T22:00:40+09:00",
   "teams": [],
   "sources": [
     {
@@ -21,21 +21,9 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54204",
-          "title": "「SMBC つなげるラグビープロジェクト」 小学生ラグビー体験会 参加者募集!（東京・北海道） 2026.9.17 （木） 小学生 普及育成",
+          "url": "https://www.rugby-japan.jp/news/54205",
+          "title": "「WXV Global Series 2026」 女子イタリア代表戦 試合登録メンバーのお知らせ 2026.9.17 （木） 15人制女子日本代表 女子",
           "date": "2026-09-17",
-          "category": null
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54075",
-          "title": "（9/17更新）【アサヒスーパードライ パシフィックネーションズカップ2026】チケット情報 2026.9.17 （木） 15人制男子日本代表 チケット WBB",
-          "date": "2026-09-17",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54106",
-          "title": "（9/16更新）2026年 女子日本代表 試合日程に関するお知らせ 2026.9.16 （水） 15人制女子日本代表 女子",
-          "date": "2026-09-16",
           "category": "squad"
         }
       ],
@@ -55,15 +43,8 @@
   "highlights": [
     {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54106",
-      "title": "（9/16更新）2026年 女子日本代表 試合日程に関するお知らせ 2026.9.16 （水） 15人制女子日本代表 女子",
-      "date": "2026-09-16",
-      "category": "squad"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54075",
-      "title": "（9/17更新）【アサヒスーパードライ パシフィックネーションズカップ2026】チケット情報 2026.9.17 （木） 15人制男子日本代表 チケット WBB",
+      "url": "https://www.rugby-japan.jp/news/54205",
+      "title": "「WXV Global Series 2026」 女子イタリア代表戦 試合登録メンバーのお知らせ 2026.9.17 （木） 15人制女子日本代表 女子",
       "date": "2026-09-17",
       "category": "squad"
     }
