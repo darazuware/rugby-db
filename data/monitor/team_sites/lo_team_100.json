@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-09-18T17:56:48+09:00",
+  "checked_at": "2026-09-18T23:42:31+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "37de867aab45466b"
+      "hash": "a8833615958e7aec"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "23a30227d669bac1"
+      "hash": "b22c838ec6be2da5"
     }
   ],
   "items": [
@@ -59,7 +59,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2018.html",
-      "title": "チーム 2026.09.07 2026-27シーズン トレーニング見学について",
+      "title": "2026.09.07 ニュース 2026-27シーズン トレーニング見学について",
       "date": "2026-09-07"
     },
     {
