@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-18T15:59:52+09:00",
+  "checked_at": "2026-09-18T21:39:57+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,26 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6154",
-          "title": "クラブ コベルコ神戸スティーラーズ、2026-27シーズン ジャージーデザイン決定のお知らせ 2026.09.18",
-          "date": "2026-09-18",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6153",
-          "title": "クラブ 栃木ホンダヒート、アセリ・マシヴォウ選手 日本国籍取得および登録名変更のお知らせ 2026.09.18",
-          "date": "2026-09-18",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6152",
-          "title": "クラブ リコーブラックラムズ東京、2026-27シーズン 1stジャージーデザイン及び サイボウズ株式会社胸スポンサー決定のお知らせ 2026.09.18",
-          "date": "2026-09-18",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -38,7 +19,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54209",
+          "title": "第113回女子セブンズユースアカデミー実施のお知らせ 2026.9.18 （金） アカデミー・強化育成 女子 セブンズ",
+          "date": "2026-09-18",
+          "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54010",
+          "title": "（9/18更新）2026年 女子日本代表 女子イタリア代表戦 開催決定のお知らせ 2026.9.18 （金） 15人制女子日本代表 女子",
+          "date": "2026-09-18",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -52,7 +46,15 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54010",
+      "title": "（9/18更新）2026年 女子日本代表 女子イタリア代表戦 開催決定のお知らせ 2026.9.18 （金） 15人制女子日本代表 女子",
+      "date": "2026-09-18",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }
