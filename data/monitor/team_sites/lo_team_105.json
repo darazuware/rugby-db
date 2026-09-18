@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-09-18T00:22:37+09:00",
+  "checked_at": "2026-09-18T17:56:48+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "e1ef10858a8a2cb5"
+      "hash": "be681f6f92851d48"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "255c4c81adcc4dff"
+      "hash": "2c1913ca23f967a6"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2446/",
+      "title": "トピックス 2026.9.18 「しもつけ21フォーラム」に登壇しました",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2443/",
+      "title": "トピックス 2026.9.18 アセリ・マシヴォウ選手 日本国籍取得および登録名変更のお知らせ",
+      "date": "2026-09-18"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2444/",
       "title": "トピックス 2026.9.17 2026-27 プレシーズンKV公開のお知らせ",
@@ -126,16 +136,6 @@
       "url": "https://www.honda-heat.jp/news/2412/",
       "title": "社会貢献 2026.7.30 『アークタウン・サマーフェスティバル 2026』に参加しました！",
       "date": "2026-07-30"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2408/",
-      "title": "トピックス 2026.7.25 退団選手のお知らせ",
-      "date": "2026-07-25"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2409/",
-      "title": "トピックス 2026.7.22 平野 叶翔、日本代表 網走合宿招集のお知らせ",
-      "date": "2026-07-22"
     },
     {
       "url": "https://www.honda-heat.jp/hostgame/20260509/",

@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-09-18T00:22:37+09:00",
+  "checked_at": "2026-09-18T17:56:48+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "459627289d2fa5da"
+      "hash": "19f0dd4062318fe7"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "f338d7575c66ddf2"
+      "hash": "d36e3c1b97e18d17"
     }
   ],
   "items": [
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/09/10/liners-fanclub-termsandconditions/",
-      "title": "2026.09.10 その他 【重要】LINERS FANCLUB 2026-27 会員規約の表示不備に関するお詫びとご確認のお願い",
+      "title": "2026.09.10 ファンクラブ 【重要】LINERS FANCLUB 2026-27 会員規約の表示不備に関するお詫びとご確認のお願い",
       "date": "2026-09-10"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/09/07/app-fin/",
-      "title": "2026.09.07 ファンクラブ イベント 花園近鉄ライナーズ公式アプリ サービス終了のお知らせおよび公式LINEアカウント一時休止のご案内",
+      "title": "2026.09.07 その他 花園近鉄ライナーズ公式アプリ サービス終了のお知らせおよび公式LINEアカウント一時休止のご案内",
       "date": "2026-09-07"
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/09/01/news-seasonpass/",
-      "title": "2026-09-01 その他 【ホスト全7試合を「マイシート」で熱く応援！26-27 シーズンパス発売】",
+      "title": "2026-09-01 ファンクラブ チケット 【ホスト全7試合を「マイシート」で熱く応援！26-27 シーズンパス発売】",
       "date": "2026-09-01"
     },
     {

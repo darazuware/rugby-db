@@ -3,16 +3,31 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-09-18T00:22:37+09:00",
+  "checked_at": "2026-09-18T17:56:48+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "9fe8cdb30399932d"
+      "hash": "3e5d594bb5cd1063"
     }
   ],
   "items": [
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4271",
+      "title": "【試合情報・チケット】10/31(土) トヨタヴェルブリッツ VS 日野レッドドルフィンズ チケット・ファンクラブ 試合情報 2026.09.18",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4273/",
+      "title": "2026.9.18 普及・アカデミー トヨタヴェルブリッツアカデミー #13",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4271/",
+      "title": "2026.9.18 チケット・ファンクラブ 試合情報 【試合情報・チケット】10/31(土) トヨタヴェルブリッツ VS 日野レッドドルフィンズ",
+      "date": "2026-09-18"
+    },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4266/",
       "title": "2026.9.16 トピックス 9月20日（日）に2026-27シーズン新ジャージーを初公開！お披露目会も開催（9/16 更新）",
@@ -44,24 +59,9 @@
       "date": "2026-09-09"
     },
     {
-      "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4241",
-      "title": "【試合情報】プレシーズンマッチ実施のお知らせ（9/7 更新） 試合情報 2026.09.07",
-      "date": "2026-09-07"
-    },
-    {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4241/",
       "title": "2026.9.7 試合情報 【試合情報】プレシーズンマッチ実施のお知らせ（9/7 更新）",
       "date": "2026-09-07"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4268/",
-      "title": "2026.9.3 普及・アカデミー トヨタヴェルブリッツアカデミー #12",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4262/",
-      "title": "2026.9.3 チケット・ファンクラブ 【ファンクラブ】ファンクラブ会員限定 VERBLITZ伝統の宴へ特別ご招待",
-      "date": "2026-09-03"
     }
   ]
 }

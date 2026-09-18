@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-09-18T00:22:37+09:00",
+  "checked_at": "2026-09-18T17:56:48+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "98341f4f020c1220"
+      "hash": "7208ed2aafaf9577"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "4e641189d927d0f4"
+      "hash": "b81f58cfe0a75085"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/260918/",
+      "title": "オフィシャルパートナー決定およびラッピングカー提供のお知らせ",
+      "date": "2026-09-18"
+    },
     {
       "url": "https://www.bravelupus.com/news/260917/",
       "title": "アサヒスーパードライパシフィックネーションズカップ2026 決勝日本代表対フィジー代表試合登録メンバーのお知らせ",
@@ -216,11 +221,6 @@
       "url": "https://www.bravelupus.com/game/https-www-bravelupus-com-game-ntt-japan-rugby-league-one-2025-26-play-offs-quarterfinal/",
       "title": "結果詳細",
       "date": "2026-05-24"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/20260520/",
-      "title": "グッズ再販売のお知らせ",
-      "date": "2026-05-20"
     }
   ]
 }

@@ -3,28 +3,43 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-09-18T00:22:37+09:00",
+  "checked_at": "2026-09-18T17:56:48+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "0385be34fa3cae68"
+      "hash": "c8c346e442c2be2f"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "4c9ff9d1a0824613"
+      "hash": "27fb5c3507c54f47"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "223d51b63e78ef62"
+      "hash": "15c4f0dbb2bcf675"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "ada76ef87328c659"
+      "hash": "337ae222fceccc77"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35336/",
+      "title": "2026/9/18 イベント 【レポート】9月12日(土)「甲子園キッズフェスタ～2026 autumn～」でラグビー体験を実施しました",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35328/",
+      "title": "2026/9/18 イベント 【レポート】「国際フロンティア産業メッセ2026」で優勝トロフィー展示・ラグビー体験を実施しました",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35311/",
+      "title": "チーム 2026-27シーズン ジャージーデザイン決定のお知らせ 2026/9/18",
+      "date": "2026-09-18"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35301/",
       "title": "2026/9/17 チーム 9月19日(土)「アサヒスーパードライ パシフィックネーションズカップ2026」決勝 フィジー代表戦メンバー選出のお知らせ",
@@ -166,11 +181,6 @@
       "date": "2026-08-31"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35138/",
-      "title": "2026/8/28 チーム ニュージーランド派遣レポート Part.1 中嶋 大希選手",
-      "date": "2026-08-28"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35121/",
       "title": "2026/8/28 お知らせ コベルコ神戸スティーラーズ公式アプリ サービス終了のお知らせ",
       "date": "2026-08-28"
@@ -194,11 +204,6 @@
       "url": "https://www.kobesteelers.com/news/post35105/",
       "title": "2026/8/27 普及 【レポート】「スポフェスKOBE～未来へつなぐスポーツ体験プログラム～」に参加しました",
       "date": "2026-08-27"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35114/",
-      "title": "2026/8/26 イベント 【選手イベント参加情報】第39回RICサマーイブニングカーニバルに選手が出演します",
-      "date": "2026-08-26"
     },
     {
       "url": "https://www.kobesteelers.com/news/post35086/",
@@ -319,11 +324,6 @@
       "url": "https://www.kobesteelers.com/photolibrary/",
       "title": "2025/11/12 お知らせ コベルコ神戸スティーラーズフェスタ2025 フォトライブラリーを公開しました",
       "date": "2025-11-12"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post29093/",
-      "title": "2025/11/6 お知らせ サポートステーションご登録のお願い",
-      "date": "2025-11-06"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-18T00:22:37+09:00",
+  "checked_at": "2026-09-18T17:56:48+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/game/index_2026.html",
+          "title": "ゲーム 2026.09.18 2026-27シーズン プレシーズンマッチ ホストゲーム無料ご招待のお知らせ",
+          "date": "2026-09-18",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -21,8 +31,32 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35336/",
+          "title": "2026/9/18 イベント 【レポート】9月12日(土)「甲子園キッズフェスタ～2026 autumn～」でラグビー体験を実施しました",
+          "date": "2026-09-18",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35328/",
+          "title": "2026/9/18 イベント 【レポート】「国際フロンティア産業メッセ2026」で優勝トロフィー展示・ラグビー体験を実施しました",
+          "date": "2026-09-18",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35311/",
+          "title": "チーム 2026-27シーズン ジャージーデザイン決定のお知らせ 2026/9/18",
+          "date": "2026-09-18",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/",
+        "https://www.kobesteelers.com/news/cat_news/information/",
+        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+      ],
       "rename_signals": []
     },
     {
@@ -47,10 +81,10 @@
       "item_count": 41,
       "new_items": [
         {
-          "url": "https://www.bravelupus.com/news/260917/",
-          "title": "アサヒスーパードライパシフィックネーションズカップ2026 決勝日本代表対フィジー代表試合登録メンバーのお知らせ",
-          "date": "2026-09-17",
-          "category": "squad"
+          "url": "https://www.bravelupus.com/news/260918/",
+          "title": "オフィシャルパートナー決定およびラッピングカー提供のお知らせ",
+          "date": "2026-09-18",
+          "category": null
         }
       ],
       "changed_pages": [
@@ -67,8 +101,29 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4271",
+          "title": "【試合情報・チケット】10/31(土) トヨタヴェルブリッツ VS 日野レッドドルフィンズ チケット・ファンクラブ 試合情報 2026.09.18",
+          "date": "2026-09-18",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4273/",
+          "title": "2026.9.18 普及・アカデミー トヨタヴェルブリッツアカデミー #13",
+          "date": "2026-09-18",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4271/",
+          "title": "2026.9.18 チケット・ファンクラブ 試合情報 【試合情報・チケット】10/31(土) トヨタヴェルブリッツ VS 日野レッドドルフィンズ",
+          "date": "2026-09-18",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -79,8 +134,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 25,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.honda-heat.jp/news/2446/",
+          "title": "トピックス 2026.9.18 「しもつけ21フォーラム」に登壇しました",
+          "date": "2026-09-18",
+          "category": null
+        },
+        {
+          "url": "https://www.honda-heat.jp/news/2443/",
+          "title": "トピックス 2026.9.18 アセリ・マシヴォウ選手 日本国籍取得および登録名変更のお知らせ",
+          "date": "2026-09-18",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.honda-heat.jp/",
+        "https://www.honda-heat.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -118,8 +189,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 4,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260918a.html",
+          "title": "2026-27シーズン 1stジャージーデザイン及びサイボウズ株式会社胸スポンサー決定のお知らせ",
+          "date": "2026-09-18",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -130,17 +210,9 @@
       "status": "ok",
       "first_run": false,
       "item_count": 58,
-      "new_items": [
-        {
-          "url": "https://www.kubota-spears.com/academy_news/2024/04/05/130000.html",
-          "title": "2024.04.05 育成活動",
-          "date": "2024-04-05",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
-        "https://www.kubota-spears.com/",
-        "https://www.kubota-spears.com/news/"
+        "https://www.kubota-spears.com/"
       ],
       "rename_signals": []
     },
@@ -152,7 +224,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 27,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3192",
+          "title": "2026.9.18[FRI] HOST AREA 令和８年熊本地震災害支援募金活動のお知らせ",
+          "date": "2026-09-18",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -167,8 +246,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2609-1034.html",
+          "title": "2026年 9月18日 #1034 小林 典大 『安定もしつつ爆発力がある選手に』",
+          "date": "2026-09-18",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -205,7 +294,10 @@
       "item_count": 24,
       "new_items": [],
       "changed_pages": [
-        "https://blue-sharks.jp/"
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
       ],
       "rename_signals": []
     },
@@ -219,15 +311,9 @@
       "item_count": 6,
       "new_items": [
         {
-          "url": "https://shuttles-aichi.com/news/tag-rugby-visit-class-at-otsukawa-higashi-elementary-school-in-handa-city/",
-          "title": "フォトギャラリー お知らせ 2026.09.17 半田市立乙川東小学校 タグラグビー訪問授業 実施報告",
-          "date": "2026-09-17",
-          "category": null
-        },
-        {
-          "url": "https://shuttles-aichi.com/news/aeon-mall-aratamabashi-feel-the-rugby/",
-          "title": "お知らせ イベント 2026.09.17 イオンモール新瑞橋で「Feel the Rugby」を開催！",
-          "date": "2026-09-17",
+          "url": "https://shuttles-aichi.com/news/free-rugby-workshop-in-aichi-its-happening/",
+          "title": "お知らせ イベント 2026.09.18 参加無料！ラグビー教室 in 愛知 開催決定！",
+          "date": "2026-09-18",
           "category": null
         }
       ],
@@ -276,8 +362,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 15,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-09-18/",
+          "title": "10/24レドルフィンお出かけのお知らせ",
+          "date": "2026-09-18",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -330,7 +425,11 @@
       "first_run": false,
       "item_count": 16,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://rrrfc.red/",
+        "https://rrrfc.red/blog/",
+        "https://rrrfc.red/categories/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -343,7 +442,11 @@
       "item_count": 45,
       "new_items": [],
       "changed_pages": [
-        "https://www.skyactivs.com/"
+        "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news",
+        "https://www.skyactivs.com/news/2091",
+        "https://www.skyactivs.com/news/2035",
+        "https://www.skyactivs.com/news/2001"
       ],
       "rename_signals": []
     },
@@ -380,7 +483,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6156",
+          "title": "お知らせ ジャパンラグビーリーグワン 規律委員会による懲罰の決定について(9月18日②) 2026.09.18",
+          "date": "2026-09-18",
+          "category": null
+        },
+        {
+          "url": "https://league-one.jp/news/6155",
+          "title": "お知らせ ジャパンラグビーリーグワン 規律委員会による懲罰の決定について(9月18日①) 2026.09.18",
+          "date": "2026-09-18",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -390,7 +506,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54206",
+          "title": "レポート：男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿 2026.9.18 （金） 男子セブンズ日本代表 セブンズ SDS 男子セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド",
+          "date": "2026-09-18",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54077",
+          "title": "（9/18更新）SMBCカップ 第23回全国小学生タグラグビー大会開催のお知らせ 2026.9.18 （金） 小学生 タグラグビー 大会 普及育成",
+          "date": "2026-09-18",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -406,10 +535,10 @@
   ],
   "highlights": [
     {
-      "source": "東芝ブレイブルーパス東京",
-      "url": "https://www.bravelupus.com/news/260917/",
-      "title": "アサヒスーパードライパシフィックネーションズカップ2026 決勝日本代表対フィジー代表試合登録メンバーのお知らせ",
-      "date": "2026-09-17",
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54206",
+      "title": "レポート：男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿 2026.9.18 （金） 男子セブンズ日本代表 セブンズ SDS 男子セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド",
+      "date": "2026-09-18",
       "category": "squad"
     }
   ],

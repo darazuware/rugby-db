@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-09-18T00:22:37+09:00",
+  "checked_at": "2026-09-18T17:56:48+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "11b6413374701360"
+      "hash": "5bb1d9089323cc19"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260918a.html",
+      "title": "2026-27シーズン 1stジャージーデザイン及びサイボウズ株式会社胸スポンサー決定のお知らせ",
+      "date": "2026-09-18"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260916a.html",
       "title": "HENNGE株式会社とオフィシャルパートナー契約継続のお知らせ",
@@ -26,11 +31,6 @@
     {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260911b.html",
       "title": "10月3日(土)「第48回 たまがわ花火大会」リコー総合グラウンドでの観覧のご案内",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260911a.html",
-      "title": "10月10日(土) JR東日本グリーンウォリアーズ東葛戦 RAMOVE限定 無料観戦のお知らせ",
       "date": "2026-09-11"
     }
   ]
