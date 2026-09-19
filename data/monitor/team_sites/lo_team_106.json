@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-09-18T23:42:31+09:00",
+  "checked_at": "2026-09-19T17:44:07+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "44829cde40371b3b"
+      "hash": "05ae930e5cf1d91e"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "f0399eb57db045f3"
+      "hash": "f42e9378db629e37"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260908.html-0#2",
+      "title": "2026-09-19 9/22（火）相模原での一般公開練習は中止とさせていただきます",
+      "date": "2026-09-19"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260915.html",
       "title": "2026-09-15 男子セブンズ日本代表｜男子SDS別府合宿 参加メンバーに服部選手・吉本選手が選出",
@@ -54,7 +59,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260909.html",
-      "title": "2026-09-09 NTTジャパンラグビー リーグワン2026-27 大会日程決定のお知らせ。開幕節は相模原で「神奈川ダービー」！",
+      "title": "2026-09-09 [ イベント ] NTTジャパンラグビー リーグワン2026-27 大会日程決定のお知らせ。開幕節は相模原で「神奈川ダービー」！",
       "date": "2026-09-09"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260629.html",
       "title": "2026-06-29 [ チーム ] [ メディア ] 男子日本代表宮崎合宿参加メンバーに平翔太選手が選出｜15人制男子日本代表",
       "date": "2026-06-29"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260623.html",
-      "title": "2026-06-23 [ チーム ] チャーリー・ティトコム選手 退団およびレスター・タイガース復帰のお知らせ",
-      "date": "2026-06-23"
     }
   ]
 }
