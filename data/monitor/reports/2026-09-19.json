@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-19T17:44:07+09:00",
+  "checked_at": "2026-09-19T23:03:02+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -34,10 +34,7 @@
       "first_run": false,
       "item_count": 35,
       "new_items": [],
-      "changed_pages": [
-        "https://panasonic.co.jp/sports/wildknights/",
-        "https://panasonic.co.jp/sports/wildknights/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -61,9 +58,7 @@
       "first_run": false,
       "item_count": 10,
       "new_items": [],
-      "changed_pages": [
-        "https://verblitz.toyotatimes-sports.toyota/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -86,14 +81,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260908.html-0#2",
-          "title": "2026-09-19 9/22（火）相模原での一般公開練習は中止とさせていただきます",
-          "date": "2026-09-19",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -192,13 +180,11 @@
       "league": "league-one-d2",
       "name": "清水建設江東ブルーシャークス",
       "official_url": "https://blue-sharks.jp/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 24,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://blue-sharks.jp/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -206,13 +192,11 @@
       "league": "league-one-d2",
       "name": "豊田自動織機シャトルズ愛知",
       "official_url": "https://shuttles-aichi.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 6,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://shuttles-aichi.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -220,15 +204,11 @@
       "league": "league-one-d2",
       "name": "日本製鉄釜石シーウェイブス",
       "official_url": "https://kamaishi-seawaves.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 16,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://kamaishi-seawaves.com/",
-        "https://kamaishi-seawaves.com/news/",
-        "https://kamaishi-seawaves.com/news/info/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -239,20 +219,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 27,
-      "new_items": [
-        {
-          "url": "https://hanazono-liners.jp/2026/09/19/liners-fanclub-4/",
-          "title": "2026.09.19 ファンクラブ 【LINERS FANCLUB】ファンクラブ入会サポート開催のお知らせ",
-          "date": "2026-09-19",
-          "category": null
-        },
-        {
-          "url": "https://hanazono-liners.jp/2026/09/19/10-3vskubota/",
-          "title": "2026.09.19 その他 【10月3日(土) ジャパンラグビーリーグワンライジング2026 クボタスピアーズ船橋・東京ベイ戦】についてのお知らせ",
-          "date": "2026-09-19",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -320,9 +287,9 @@
       "league": "league-one-d3",
       "name": "中国電力レッドレグリオンズ",
       "official_url": "https://rrrfc.red/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 16,
+      "item_count": 0,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -359,9 +326,9 @@
       "league": "league-one-d3",
       "name": "ルリーロ福岡",
       "official_url": "https://leriro-fukuoka.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 11,
+      "item_count": 0,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -387,10 +354,16 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/53971",
-          "title": "（9/19更新）太陽生命カップ2026 第17回全国中学生ラグビーフットボール大会開催のお知らせ 2026.9.19 （土） 中学 普及育成 太陽生命カップ 大会",
+          "url": "https://www.rugby-japan.jp/news/54210",
+          "title": "「アサヒスーパードライ パシフィックネーションズカップ2026」 決勝 日本代表 対 フィジー代表 試合結果のお知らせ 2026.9.19 （土） 15人制男子日本代表 アサヒスーパードライ パシフィックネーションズカップ2026 PNC WBB",
           "date": "2026-09-19",
-          "category": null
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54202",
+          "title": "WXV Global Series 2026 女子日本代表 対 女子イタリア代表 試合結果のお知らせ 2026.9.19 （土） 15人制女子日本代表 女子",
+          "date": "2026-09-19",
+          "category": "squad"
         }
       ],
       "rename_signals": []
@@ -406,7 +379,28 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54210",
+      "title": "「アサヒスーパードライ パシフィックネーションズカップ2026」 決勝 日本代表 対 フィジー代表 試合結果のお知らせ 2026.9.19 （土） 15人制男子日本代表 アサヒスーパードライ パシフィックネーションズカップ2026 PNC WBB",
+      "date": "2026-09-19",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54202",
+      "title": "WXV Global Series 2026 女子日本代表 対 女子イタリア代表 試合結果のお知らせ 2026.9.19 （土） 15人制女子日本代表 女子",
+      "date": "2026-09-19",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
-  "warnings": []
+  "warnings": [
+    "清水建設江東ブルーシャークス: 到達できるページがない: https://blue-sharks.jp/",
+    "豊田自動織機シャトルズ愛知: 到達できるページがない: https://shuttles-aichi.com/",
+    "日本製鉄釜石シーウェイブス: 到達できるページがない: https://kamaishi-seawaves.com/",
+    "中国電力レッドレグリオンズ: 到達できるページがない: https://rrrfc.red/",
+    "ルリーロ福岡: 到達できるページがない: https://leriro-fukuoka.com/"
+  ]
 }
