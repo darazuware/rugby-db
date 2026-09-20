@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-20T18:13:23+09:00",
+  "checked_at": "2026-09-20T23:23:31+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -57,29 +57,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4267",
-          "title": "2026-27シーズン ジャージーデザイン決定のお知らせ PICK UP トピックス 2026.09.20",
-          "date": "2026-09-20",
-          "category": null
-        },
-        {
-          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4272/",
-          "title": "2026.9.20 グッズ 【グッズ】2026-27オーセンティックジャージー発売のお知らせ",
-          "date": "2026-09-20",
-          "category": null
-        },
-        {
-          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4267/",
-          "title": "2026.9.20 トピックス 2026-27シーズン ジャージーデザイン決定のお知らせ",
-          "date": "2026-09-20",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://verblitz.toyotatimes-sports.toyota/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -368,14 +347,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6158",
-          "title": "クラブ トヨタヴェルブリッツ、2026-27シーズン ジャージーデザイン決定のお知らせ 2026.09.20",
-          "date": "2026-09-20",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
