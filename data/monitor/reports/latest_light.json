@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-21T16:34:44+09:00",
+  "checked_at": "2026-09-21T23:48:30+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,20 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6160",
-          "title": "クラブ 栃木ホンダヒート、2026-27シーズン 協賛パートナーならびにジャージーデザイン決定のお知らせ 2026.09.21",
-          "date": "2026-09-21",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6159",
-          "title": "クラブ トヨタヴェルブリッツ、2026-27シーズン 共同キャプテン決定のお知らせ 2026.09.21",
-          "date": "2026-09-21",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -32,14 +19,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/53968",
-          "title": "（9/21更新）男子日本代表 宮崎合宿 参加メンバーのお知らせ 2026.9.21 （月） 15人制男子日本代表 WBB",
-          "date": "2026-09-21",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -53,22 +33,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6159",
-      "title": "クラブ トヨタヴェルブリッツ、2026-27シーズン 共同キャプテン決定のお知らせ 2026.09.21",
-      "date": "2026-09-21",
-      "category": "roster"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/53968",
-      "title": "（9/21更新）男子日本代表 宮崎合宿 参加メンバーのお知らせ 2026.9.21 （月） 15人制男子日本代表 WBB",
-      "date": "2026-09-21",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": []
 }
