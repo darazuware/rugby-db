@@ -1,29 +1,21 @@
 {
   "top14": {
-    "run_at": "2026-09-14T11:22:08+09:00",
+    "run_at": "2026-09-21T11:30:24+09:00",
     "counts": {
-      "players": 1188,
+      "players": 1207,
       "teams": 14
     },
     "warnings": [
-      "top14 standings: team=bordeaux の数値欠落のため行を除外",
-      "top14 standings: team=castres の数値欠落のため行を除外",
       "top14 standings: team=pau の数値欠落のため行を除外",
       "top14 standings: team=lyon の数値欠落のため行を除外",
       "top14 standings: team=la-rochelle の数値欠落のため行を除外",
-      "top14 standings: team=paris の数値欠落のため行を除外",
-      "top14 standings: team=bayonne の数値欠落のため行を除外",
       "top14 standings: team=toulon の数値欠落のため行を除外",
-      "top14 standings: team=perpignan の数値欠落のため行を除外",
-      "top14 standings: team=toulouse の数値欠落のため行を除外",
-      "top14 standings: team=clermont の数値欠落のため行を除外",
-      "top14 standings: team=montpellier の数値欠落のため行を除外",
       "top14 standings: team=vannes の数値欠落のため行を除外",
       "top14 standings: team=racing-92 の数値欠落のため行を除外"
     ]
   },
   "super-rugby": {
-    "run_at": "2026-09-14T11:22:08+09:00",
+    "run_at": "2026-09-21T11:30:24+09:00",
     "counts": {
       "players": 460,
       "teams": 11
@@ -31,7 +23,7 @@
     "warnings": []
   },
   "league-one-d1": {
-    "run_at": "2026-09-14T11:22:08+09:00",
+    "run_at": "2026-09-21T11:30:24+09:00",
     "counts": {
       "players": 733,
       "teams": 12
@@ -41,48 +33,23 @@
     ]
   },
   "national": {
-    "run_at": "2026-09-14T11:22:08+09:00",
+    "run_at": "2026-09-21T11:30:24+09:00",
     "counts": {
-      "players": 1212,
+      "players": 1225,
       "teams": 0
     },
     "warnings": [
       "cross_person: ['jrfu_national_511566', 'lo_483765'] が同一人物候補（name_en+birthdate一致）",
-      "cross_person: ['jrfu_national_511545', 'lo_484355'] が同一人物候補（name_en+birthdate一致）",
-      "cross_person: ['jrfu_national_511558', 'lo_484693'] が同一人物候補（name_en+birthdate一致）",
       "cross_person: ['jrfu_national_511552', 'lo_483494'] が同一人物候補（name_en+birthdate一致）",
       "jrfu national: 学校名9件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['JR東日本グリーンウォリアーズ東葛', 'クボタスピアーズ船橋・東京ベイ', 'コベルコ神戸スティーラーズ']）",
       "jrfu national: ANTHROPIC_API_KEY未設定のためSonnetフォールバックをスキップ（未判定9件は学校扱いにしない: 所属欄はcareerへ、出身校欄はeducationから除外）",
-      "national japan: 'Arthur JOLY' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Aurélien AZAR' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Daniel BIBI BIZIWU' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Daniel BRENNAN' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Janick TARRIT' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Jimi MAXIMIN' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Mathieu TANGUY' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Alexandre ROUMAT' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
       "national japan: 'Warner DEARNS' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Kévin KORNATH' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Killian TIXERONT' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Lucas VELARTE' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Mattéo LE CORVEC' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Sacha ZEGUEUR' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Jonathan PÉLISSIÉ' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Maxime MACHENAUD' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Pierre POPELIN' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Alfred PARISIEN' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Mathieu SMAÏLI' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Arthur BONNEVAL' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Louis BIELLE-BIARREY' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Lucas TAUZIN' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Noa NAKAITACI' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
-      "national japan: 'Léo BARRÉ' をJRFU公式スコッドと氏名突合できず、生年月日は取得できなかった",
       "jrfu sevens-national: 学校名17件を正規表現・辞書・Sonnetいずれでもtype判定できず（例: ['(公財)日本ラグビーフットボール協会 / コカ・コーラボトラーズジャパン(株)', '(公財)日本ラグビーフットボール協会 / トヨタヴェルブリッツ', 'JR東日本グリーンウォリアーズ東葛']）",
       "jrfu sevens-national: ANTHROPIC_API_KEY未設定のためSonnetフォールバックをスキップ（未判定17件は学校扱いにしない: 所属欄はcareerへ、出身校欄はeducationから除外）"
     ]
   },
   "sevens-national": {
-    "run_at": "2026-09-14T11:22:08+09:00",
+    "run_at": "2026-09-21T11:30:24+09:00",
     "counts": {
       "players": 26,
       "teams": 0
@@ -93,7 +60,7 @@
     ]
   },
   "age-grade": {
-    "run_at": "2026-09-14T11:22:08+09:00",
+    "run_at": "2026-09-21T11:30:24+09:00",
     "counts": {
       "players": 113,
       "teams": 0
@@ -104,19 +71,17 @@
     ]
   },
   "university": {
-    "run_at": "2026-09-14T11:22:08+09:00",
+    "run_at": "2026-09-21T11:30:24+09:00",
     "counts": {
-      "players": 969,
+      "players": 1198,
       "teams": 0
     },
     "warnings": [
-      "university 早稲田大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 立教大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 武蔵大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 成城大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 一橋大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 学習院大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
-      "university 東洋大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
+      "university 東洋大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 東海大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 流通経済大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 法政大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
@@ -127,11 +92,10 @@
       "university 山梨学院大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 拓殖大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
       "university 白鷗大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
-      "university 立命館大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
-      "university 摂南大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
-      "university 天理大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
-      "university 関西大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
-      "university 大阪体育大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
+      "university 立命館大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 摂南大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 関西大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
+      "university 大阪体育大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 大阪経済大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 大阪国際大学: 名簿抽出0件（regex/Sonnetいずれも不可。JS描画サイト・フィルタUI経由の可能性）、スキップ",
       "university 追手門学院大学: 名簿ページ取得失敗（接続不可/DNS不可/404）、スキップ",
@@ -140,7 +104,7 @@
     ]
   },
   "highschool": {
-    "run_at": "2026-09-14T11:22:08+09:00",
+    "run_at": "2026-09-21T11:30:24+09:00",
     "counts": {
       "players": 391,
       "teams": 0
@@ -170,9 +134,9 @@
     ]
   },
   "urc": {
-    "run_at": "2026-09-14T11:22:08+09:00",
+    "run_at": "2026-09-21T11:30:24+09:00",
     "counts": {
-      "players": 1014,
+      "players": 1001,
       "teams": 16
     },
     "warnings": [
@@ -196,7 +160,7 @@
     ]
   },
   "premiership": {
-    "run_at": "2026-09-14T11:22:08+09:00",
+    "run_at": "2026-09-21T11:30:24+09:00",
     "counts": {
       "players": 685,
       "teams": 10
@@ -215,7 +179,7 @@
     ]
   },
   "league-one-d2": {
-    "run_at": "2026-09-14T11:22:08+09:00",
+    "run_at": "2026-09-21T11:30:24+09:00",
     "counts": {
       "players": 439,
       "teams": 8
@@ -225,7 +189,7 @@
     ]
   },
   "league-one-d3": {
-    "run_at": "2026-09-14T11:22:08+09:00",
+    "run_at": "2026-09-21T11:30:24+09:00",
     "counts": {
       "players": 337,
       "teams": 6
@@ -235,7 +199,7 @@
     ]
   },
   "mlr": {
-    "run_at": "2026-09-14T11:22:08+09:00",
+    "run_at": "2026-09-21T11:30:24+09:00",
     "counts": {
       "players": 211,
       "teams": 6

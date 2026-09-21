@@ -1,0 +1,714 @@
+[
+  {
+    "id": "ar_aleksandre-kuntelia",
+    "name_en": "Aleksandre KUNTELIA",
+    "name_ja": null,
+    "team": "Georgia",
+    "from_count": 6,
+    "to_count": 15
+  },
+  {
+    "id": "ar_alex-maughan",
+    "name_en": "Alex MAUGHAN",
+    "name_ja": null,
+    "team": "Usa",
+    "from_count": 6,
+    "to_count": 13
+  },
+  {
+    "id": "ar_alvaro-garcia",
+    "name_en": "Álvaro GARCIA",
+    "name_ja": null,
+    "team": "Spain",
+    "from_count": 23,
+    "to_count": 28
+  },
+  {
+    "id": "ar_antoine-hastoy",
+    "name_en": "Antoine HASTOY",
+    "name_ja": null,
+    "team": "France",
+    "from_count": 15,
+    "to_count": 17
+  },
+  {
+    "id": "ar_arturo-ten-hoever",
+    "name_en": "Arturo TEN HOEVER",
+    "name_ja": null,
+    "team": "Uruguay",
+    "from_count": 3,
+    "to_count": 4
+  },
+  {
+    "id": "ar_austin-creighton",
+    "name_en": "Austin CREIGHTON",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 5,
+    "to_count": 6
+  },
+  {
+    "id": "ar_barnaby-waddell",
+    "name_en": "Barnaby WADDELL",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 2,
+    "to_count": 6
+  },
+  {
+    "id": "ar_ben-lesage",
+    "name_en": "Ben LESAGE",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 18,
+    "to_count": 20
+  },
+  {
+    "id": "ar_ben-white",
+    "name_en": "Ben WHITE",
+    "name_ja": null,
+    "team": "Scotland",
+    "from_count": 56,
+    "to_count": 57
+  },
+  {
+    "id": "ar_benjamin-bonasso",
+    "name_en": "Ben BONASSO",
+    "name_ja": null,
+    "team": "Usa",
+    "from_count": 16,
+    "to_count": 19
+  },
+  {
+    "id": "ar_bryce-worden",
+    "name_en": "Bryce WORDEN",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 1,
+    "to_count": 4
+  },
+  {
+    "id": "ar_caleb-muntz",
+    "name_en": "Caleb MUNTZ",
+    "name_ja": null,
+    "team": "Fiji",
+    "from_count": 35,
+    "to_count": 40
+  },
+  {
+    "id": "ar_charlie-abel",
+    "name_en": "Charlie ABEL",
+    "name_ja": null,
+    "team": "Usa",
+    "from_count": 1,
+    "to_count": 3
+  },
+  {
+    "id": "ar_christopher-hilsenbeck",
+    "name_en": "Christopher HILSENBECK",
+    "name_ja": null,
+    "team": "Usa",
+    "from_count": 10,
+    "to_count": 13
+  },
+  {
+    "id": "ar_cody-nhanala",
+    "name_en": "Cody NHANALA",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 3,
+    "to_count": 4
+  },
+  {
+    "id": "ar_daragh-doyle",
+    "name_en": "Daragh DOYLE",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 6,
+    "to_count": 9
+  },
+  {
+    "id": "ar_demba-bamba",
+    "name_en": "Demba BAMBA",
+    "name_ja": null,
+    "team": "France",
+    "from_count": 32,
+    "to_count": 37
+  },
+  {
+    "id": "ar_dewald-kotze",
+    "name_en": "Dewald KOTZE",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 9,
+    "to_count": 15
+  },
+  {
+    "id": "ar_emerson-prior",
+    "name_en": "Emerson PRIOR",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 7,
+    "to_count": 10
+  },
+  {
+    "id": "ar_esei-ha-angana",
+    "name_en": "Esei HA'ANGANA",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 1,
+    "to_count": 5
+  },
+  {
+    "id": "ar_ethan-hooker",
+    "name_en": "Ethan HOOKER",
+    "name_ja": null,
+    "team": "South Africa",
+    "from_count": 14,
+    "to_count": 16
+  },
+  {
+    "id": "ar_faka-osi-pifeleti",
+    "name_en": "Faka'osi PIFELETI",
+    "name_ja": null,
+    "team": "Usa",
+    "from_count": 2,
+    "to_count": 6
+  },
+  {
+    "id": "ar_foster-dewitt",
+    "name_en": "Foster DEWITT",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 6,
+    "to_count": 14
+  },
+  {
+    "id": "ar_huw-jones",
+    "name_en": "Huw JONES",
+    "name_ja": null,
+    "team": "Scotland",
+    "from_count": 61,
+    "to_count": 93
+  },
+  {
+    "id": "ar_iakopo-petelo-mapu",
+    "name_en": "Iakopo MAPU",
+    "name_ja": null,
+    "team": "Samoa",
+    "from_count": 26,
+    "to_count": 27
+  },
+  {
+    "id": "ar_inaki-ayarza",
+    "name_en": "Iñaki AYARZA",
+    "name_ja": null,
+    "team": "Chile",
+    "from_count": 28,
+    "to_count": 30
+  },
+  {
+    "id": "ar_inoke-burua",
+    "name_en": "Inoke BURUA",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 1,
+    "to_count": 3
+  },
+  {
+    "id": "ar_isaiah-ravula",
+    "name_en": "Isaiah ARMSTRONG-RAVULA",
+    "name_ja": null,
+    "team": "Fiji",
+    "from_count": 13,
+    "to_count": 15
+  },
+  {
+    "id": "ar_isikeli-rabitu",
+    "name_en": "Isikeli RABITU",
+    "name_ja": null,
+    "team": "Fiji",
+    "from_count": 1,
+    "to_count": 2
+  },
+  {
+    "id": "ar_isoa-nasilasila",
+    "name_en": "Isoa NASILASILA",
+    "name_ja": null,
+    "team": "Fiji",
+    "from_count": 42,
+    "to_count": 46
+  },
+  {
+    "id": "ar_izzak-kelly",
+    "name_en": "Izzak KELLY",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 19,
+    "to_count": 28
+  },
+  {
+    "id": "ar_jacob-ince",
+    "name_en": "Jacob INCE",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 4,
+    "to_count": 7
+  },
+  {
+    "id": "ar_jamie-armstrong",
+    "name_en": "Jamie ARMSTRONG",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 1,
+    "to_count": 2
+  },
+  {
+    "id": "ar_jason-damm",
+    "name_en": "Jason DAMM",
+    "name_ja": null,
+    "team": "Usa",
+    "from_count": 20,
+    "to_count": 30
+  },
+  {
+    "id": "ar_jason-higgins",
+    "name_en": "Jason HIGGINS",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 25,
+    "to_count": 41
+  },
+  {
+    "id": "ar_jesse-kilgour",
+    "name_en": "Jesse KILGOUR",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 3,
+    "to_count": 4
+  },
+  {
+    "id": "ar_joaquin-oviedo",
+    "name_en": "Joaquín OVIEDO",
+    "name_ja": null,
+    "team": "Argentina",
+    "from_count": 16,
+    "to_count": 18
+  },
+  {
+    "id": "ar_joel-merkler",
+    "name_en": "Joël MERKLER",
+    "name_ja": null,
+    "team": "Spain",
+    "from_count": 13,
+    "to_count": 16
+  },
+  {
+    "id": "ar_joji-nasova-",
+    "name_en": "Joji NASOVA",
+    "name_ja": null,
+    "team": "Fiji",
+    "from_count": 4,
+    "to_count": 5
+  },
+  {
+    "id": "ar_jon-zabala",
+    "name_en": "Jon ZABALA",
+    "name_ja": null,
+    "team": "Spain",
+    "from_count": 37,
+    "to_count": 43
+  },
+  {
+    "id": "ar_jones-spencer",
+    "name_en": "Spencer JONES",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 27,
+    "to_count": 28
+  },
+  {
+    "id": "ar_juan-cruz-mallia",
+    "name_en": "Juan Cruz MALLÍA",
+    "name_ja": null,
+    "team": "Argentina",
+    "from_count": 45,
+    "to_count": 65
+  },
+  {
+    "id": "ar_juan-martin-scelzo",
+    "name_en": "Juan Martin SCELZO",
+    "name_ja": null,
+    "team": "Argentina",
+    "from_count": 2,
+    "to_count": 3
+  },
+  {
+    "id": "ar_justo-piccardo",
+    "name_en": "Justo PICCARDO",
+    "name_ja": null,
+    "team": "Argentina",
+    "from_count": 17,
+    "to_count": 21
+  },
+  {
+    "id": "ar_kavaia-tagivetaua",
+    "name_en": "Kavaia TAGIVETAUA",
+    "name_ja": null,
+    "team": "Fiji",
+    "from_count": 1,
+    "to_count": 2
+  },
+  {
+    "id": "ar_kenji-sato-",
+    "name_en": "Kenji SATO",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 13,
+    "to_count": 15
+  },
+  {
+    "id": "ar_konstantine-mikautadze",
+    "name_en": "Konstantine MIKAUTADZE",
+    "name_ja": null,
+    "team": "Georgia",
+    "from_count": 83,
+    "to_count": 84
+  },
+  {
+    "id": "ar_kyle-steeves",
+    "name_en": "Kyle STEEVES",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 7,
+    "to_count": 14
+  },
+  {
+    "id": "ar_kyle-tremblay",
+    "name_en": "Kyle TREMBLAY",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 11,
+    "to_count": 16
+  },
+  {
+    "id": "ar_lance-williams",
+    "name_en": "Lance WILLIAMS",
+    "name_ja": null,
+    "team": "Usa",
+    "from_count": 1,
+    "to_count": 2
+  },
+  {
+    "id": "ar_levani-botia",
+    "name_en": "Levani BOTIA",
+    "name_ja": null,
+    "team": "Fiji",
+    "from_count": 35,
+    "to_count": 38
+  },
+  {
+    "id": "ar_liam-james",
+    "name_en": "Liam JAMES",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 4,
+    "to_count": 5
+  },
+  {
+    "id": "ar_lua-makisi",
+    "name_en": "Lua MAKISI",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 33,
+    "to_count": 34
+  },
+  {
+    "id": "ar_manex-ariceta",
+    "name_en": "Manex ARICETA",
+    "name_ja": null,
+    "team": "Spain",
+    "from_count": 11,
+    "to_count": 16
+  },
+  {
+    "id": "ar_mark-o-keeffe",
+    "name_en": "Mark O'KEEFFE",
+    "name_ja": null,
+    "team": "Usa",
+    "from_count": 6,
+    "to_count": 8
+  },
+  {
+    "id": "ar_mateo-carreras",
+    "name_en": "Mateo CARRERAS",
+    "name_ja": null,
+    "team": "Argentina",
+    "from_count": 31,
+    "to_count": 41
+  },
+  {
+    "id": "ar_matthieu-jalibert",
+    "name_en": "Matthieu JALIBERT",
+    "name_ja": null,
+    "team": "France",
+    "from_count": 50,
+    "to_count": 56
+  },
+  {
+    "id": "ar_maxime-lucu",
+    "name_en": "Maxime LUCU",
+    "name_ja": null,
+    "team": "France",
+    "from_count": 47,
+    "to_count": 50
+  },
+  {
+    "id": "ar_mesake-doge",
+    "name_en": "Mesake DOGE",
+    "name_ja": null,
+    "team": "Fiji",
+    "from_count": 14,
+    "to_count": 33
+  },
+  {
+    "id": "ar_mickael--guillard",
+    "name_en": "Mickaël GUILLARD",
+    "name_ja": null,
+    "team": "France",
+    "from_count": 26,
+    "to_count": 27
+  },
+  {
+    "id": "ar_mike-stolberg",
+    "name_en": "Mike STOLBERG",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 4,
+    "to_count": 8
+  },
+  {
+    "id": "ar_mitch-wilson",
+    "name_en": "Mitch WILSON",
+    "name_ja": null,
+    "team": "Usa",
+    "from_count": 25,
+    "to_count": 32
+  },
+  {
+    "id": "ar_nathan-den-hoedt",
+    "name_en": "Nathan DEN HOEDT",
+    "name_ja": null,
+    "team": "Usa",
+    "from_count": 2,
+    "to_count": 8
+  },
+  {
+    "id": "ar_pablo-dimcheff",
+    "name_en": "Pablo DIMCHEFF",
+    "name_ja": null,
+    "team": "Italy",
+    "from_count": 6,
+    "to_count": 7
+  },
+  {
+    "id": "ar_paddy-ryan-1998",
+    "name_en": "Paddy RYAN",
+    "name_ja": null,
+    "team": "Usa",
+    "from_count": 32,
+    "to_count": 34
+  },
+  {
+    "id": "ar_patrick-tuipulotu",
+    "name_en": "Patrick TUIPULOTU",
+    "name_ja": null,
+    "team": "New Zealand",
+    "from_count": 68,
+    "to_count": 86
+  },
+  {
+    "id": "ar_paul-boudehent",
+    "name_en": "Paul BOUDEHENT",
+    "name_ja": null,
+    "team": "France",
+    "from_count": 25,
+    "to_count": 31
+  },
+  {
+    "id": "ar_payton-telea-ilalio",
+    "name_en": "Payton TELEA-ILALIO",
+    "name_ja": null,
+    "team": "Usa",
+    "from_count": 9,
+    "to_count": 10
+  },
+  {
+    "id": "ar_peni-ravai",
+    "name_en": "Peni RAVAI",
+    "name_ja": null,
+    "team": "Fiji",
+    "from_count": 44,
+    "to_count": 69
+  },
+  {
+    "id": "ar_ruben-de-haas",
+    "name_en": "Ruben DE HAAS",
+    "name_ja": null,
+    "team": "Usa",
+    "from_count": 49,
+    "to_count": 51
+  },
+  {
+    "id": "ar_ryunosuke-ito",
+    "name_en": "Ryunosuke ITO",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 8,
+    "to_count": 9
+  },
+  {
+    "id": "ar_sam-greene",
+    "name_en": "Sam GREENE",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 10,
+    "to_count": 18
+  },
+  {
+    "id": "ar_sam-miller",
+    "name_en": "Sam MILLER",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 12,
+    "to_count": 15
+  },
+  {
+    "id": "ar_sam-wye",
+    "name_en": "Sam WYE",
+    "name_ja": null,
+    "team": "Fiji",
+    "from_count": 10,
+    "to_count": 12
+  },
+  {
+    "id": "ar_sireli-maqala",
+    "name_en": "Sireli MAQALA",
+    "name_ja": null,
+    "team": "Fiji",
+    "from_count": 18,
+    "to_count": 21
+  },
+  {
+    "id": "ar_takoda-mcmullin",
+    "name_en": "Takoda MCMULLIN",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 7,
+    "to_count": 10
+  },
+  {
+    "id": "ar_takumi-inaba",
+    "name_en": "Takumi INABA",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 1,
+    "to_count": 2
+  },
+  {
+    "id": "ar_tedo-abzhandadze",
+    "name_en": "Tedo ABZHANDADZE",
+    "name_ja": null,
+    "team": "Georgia",
+    "from_count": 92,
+    "to_count": 102
+  },
+  {
+    "id": "ar_temo-mayanavanua",
+    "name_en": "Temo MAYANAVANUA",
+    "name_ja": null,
+    "team": "Fiji",
+    "from_count": 20,
+    "to_count": 51
+  },
+  {
+    "id": "ar_tevita-ikanivere",
+    "name_en": "Tevita IKANIVERE",
+    "name_ja": null,
+    "team": "Fiji",
+    "from_count": 22,
+    "to_count": 24
+  },
+  {
+    "id": "ar_tevita-tatafu",
+    "name_en": "Tevita TATAFU",
+    "name_ja": null,
+    "team": "France",
+    "from_count": 3,
+    "to_count": 4
+  },
+  {
+    "id": "ar_thibaud-flament",
+    "name_en": "Thibaud FLAMENT",
+    "name_ja": null,
+    "team": "France",
+    "from_count": 38,
+    "to_count": 52
+  },
+  {
+    "id": "ar_thomas-cretu",
+    "name_en": "Thomas CRÉTU",
+    "name_ja": null,
+    "team": "Romania",
+    "from_count": 17,
+    "to_count": 19
+  },
+  {
+    "id": "ar_tiennan-costley",
+    "name_en": "Tiennan COSTLEY",
+    "name_ja": null,
+    "team": "Japan",
+    "from_count": 12,
+    "to_count": 22
+  },
+  {
+    "id": "ar_tyler-ardron",
+    "name_en": "Tyler ARDRON",
+    "name_ja": null,
+    "team": "Canada",
+    "from_count": 19,
+    "to_count": 25
+  },
+  {
+    "id": "ar_vasil-lobzhanidze",
+    "name_en": "Vasil LOBZHANIDZE",
+    "name_ja": null,
+    "team": "Georgia",
+    "from_count": 140,
+    "to_count": 141
+  },
+  {
+    "id": "ar_vilimoni-botitu",
+    "name_en": "Vilimoni BOTITU",
+    "name_ja": null,
+    "team": "Fiji",
+    "from_count": 12,
+    "to_count": 30
+  },
+  {
+    "id": "ar_virimi-vakatawa",
+    "name_en": "Virimi VAKATAWA",
+    "name_ja": null,
+    "team": "Fiji",
+    "from_count": 1,
+    "to_count": 2
+  },
+  {
+    "id": "ar_wallace-sititi",
+    "name_en": "Wallace SITITI",
+    "name_ja": null,
+    "team": "New Zealand",
+    "from_count": 13,
+    "to_count": 16
+  }
+]

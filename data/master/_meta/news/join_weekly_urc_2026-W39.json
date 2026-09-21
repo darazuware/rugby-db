@@ -1,0 +1,356 @@
+[
+  {
+    "id": "ar_alun-lawrence",
+    "name_en": "Alun LAWRENCE",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_ben-donnell",
+    "name_en": "Ben DONNELL",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_cheslin-kolbe",
+    "name_en": "Cheslin KOLBE",
+    "name_ja": null,
+    "team_id": "stormers"
+  },
+  {
+    "id": "ar_ciaran-parker",
+    "name_en": "Ciaran PARKER",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_curwin-bosch",
+    "name_en": "Curwin BOSCH",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_dafydd-hughes",
+    "name_en": "Dafydd HUGHES",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_demitre-erasmus",
+    "name_en": "Demitre ERASMUS",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_dillon-lewis",
+    "name_en": "Dillon LEWIS",
+    "name_ja": null,
+    "team_id": "dragons"
+  },
+  {
+    "id": "ar_donovan-don",
+    "name_en": "Donovan DON",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_dylan-maart",
+    "name_en": "Dylan MAART",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_dylan-smith",
+    "name_en": "Dylan SMITH",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_ezekiel-ngubane",
+    "name_en": "Ezekiel NGOBENI",
+    "name_ja": null,
+    "team_id": "stormers"
+  },
+  {
+    "id": "ar_george-macdonald",
+    "name_en": "George MACDONALD",
+    "name_ja": null,
+    "team_id": "scarlets"
+  },
+  {
+    "id": "ar_gino-cupido",
+    "name_en": "Gino CUPIDO",
+    "name_ja": null,
+    "team_id": "stormers"
+  },
+  {
+    "id": "ar_gwilym-evans",
+    "name_en": "Gwilym EVANS",
+    "name_ja": null,
+    "team_id": "ospreys"
+  },
+  {
+    "id": "ar_hakeem-kunene",
+    "name_en": "Hakeem KUNENE",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_hanro-liebenberg",
+    "name_en": "Hanro LIEBENBERG",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_heinrich-theron",
+    "name_en": "Heinrich THERON",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_hendre-stassen",
+    "name_en": "Hendré STASSEN",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_herman-lubbe",
+    "name_en": "Herman LUBBE",
+    "name_ja": null,
+    "team_id": "stormers"
+  },
+  {
+    "id": "ar_ioan-emanuel",
+    "name_en": "Ioan EMANUEL",
+    "name_ja": null,
+    "team_id": "cardiff"
+  },
+  {
+    "id": "ar_ivan-van-zyl",
+    "name_en": "Ivan VAN ZYL",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_james-botham",
+    "name_en": "James BOTHAM",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_james-ratti",
+    "name_en": "James RATTI",
+    "name_ja": null,
+    "team_id": "ospreys"
+  },
+  {
+    "id": "ar_janco-uys",
+    "name_en": "Janco UYS",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_jannes-kirsten",
+    "name_en": "Jannes KIRSTEN",
+    "name_ja": null,
+    "team_id": "cardiff"
+  },
+  {
+    "id": "ar_jayden-brits",
+    "name_en": "Jayden BRITS",
+    "name_ja": null,
+    "team_id": "stormers"
+  },
+  {
+    "id": "ar_jean-smith",
+    "name_en": "Jean SMITH",
+    "name_ja": null,
+    "team_id": "benetton"
+  },
+  {
+    "id": "ar_joel-leotlela",
+    "name_en": "Joel LEOTLELA",
+    "name_ja": null,
+    "team_id": "stormers"
+  },
+  {
+    "id": "ar_johan-momsen",
+    "name_en": "Johan MOMSEN",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_josh-reynolds",
+    "name_en": "Josh REYNOLDS",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_joshua-boulle",
+    "name_en": "Joshua BOULLE",
+    "name_ja": null,
+    "team_id": "stormers"
+  },
+  {
+    "id": "ar_juan-loots",
+    "name_en": "Juan LOOTS",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_khuthadzo-rasivhaga",
+    "name_en": "Khuthadzo RASIVHAGA",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_liam-van-wyk",
+    "name_en": "Liam VAN WYK",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_lopeti-timani",
+    "name_en": "Lopeti TIMANI",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_luca-bakkes",
+    "name_en": "Luca BAKKES",
+    "name_ja": null,
+    "team_id": "stormers"
+  },
+  {
+    "id": "ar_lucas-de-la-rua",
+    "name_en": "Lucas DE LA RUA",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_lyle-matthews",
+    "name_en": "Lyle MATTHEWS",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_ma-a-nonu",
+    "name_en": "Ma'a NONU",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_matthew-fortuin",
+    "name_en": "Matthew FORTUIN",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_mawande-mdanda",
+    "name_en": "Mawande MDANDA",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_mihlali-mosi",
+    "name_en": "Mihlali MOSI",
+    "name_ja": null,
+    "team_id": "cardiff"
+  },
+  {
+    "id": "ar_murray-koster",
+    "name_en": "Murray KOSTER",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_neil-le-roux",
+    "name_en": "Neil LE ROUX",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_nemo-roelofse",
+    "name_en": "Nemo ROELOFSE",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_owain-james-18238",
+    "name_en": "Owain JAMES",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_rhys-litterick",
+    "name_en": "Rhys LITTERICK",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_riley-norton",
+    "name_en": "Riley NORTON",
+    "name_ja": null,
+    "team_id": "stormers"
+  },
+  {
+    "id": "ar_riyaad-bam",
+    "name_en": "Riyaad BAM",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_ruan-nortje",
+    "name_en": "Ruan NORTJÉ",
+    "name_ja": null,
+    "team_id": "cardiff"
+  },
+  {
+    "id": "ar_sango-xamlashe",
+    "name_en": "Sango XAMLASHE",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_siphosethu-mnebelele",
+    "name_en": "Esethu MNEBELELE",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_siya-kolisi",
+    "name_en": "Siya KOLISI",
+    "name_ja": null,
+    "team_id": "stormers"
+  },
+  {
+    "id": "ar_stephan-lewies",
+    "name_en": "Stephan LEWIES",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_suleiman-hartzenberg",
+    "name_en": "Suleiman HARTZENBERG",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_thaakir-abrahams",
+    "name_en": "Thaakir ABRAHAMS",
+    "name_ja": null,
+    "team_id": "bulls"
+  },
+  {
+    "id": "ar_wilco-louw",
+    "name_en": "Wilco LOUW",
+    "name_ja": null,
+    "team_id": "cardiff"
+  },
+  {
+    "id": "ar_yaqeen-ahmed",
+    "name_en": "Yaqeen AHMED",
+    "name_ja": null,
+    "team_id": "stormers"
+  }
+]

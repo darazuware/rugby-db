@@ -1,0 +1,98 @@
+---
+title: "代表週間代表キャップ更新まとめ（2026-W39）"
+pubDate: 2026-09-21
+category: "NEWS"
+tags: ["代表", "キャップ更新"]
+source_diff: "2026-09-21_national.json"
+draft: false
+---
+
+- [Aleksandre KUNTELIA](/players/aleksandre-kuntelia/): Georgia代表6→15キャップ
+- [Alex MAUGHAN](/players/alex-maughan/): Usa代表6→13キャップ
+- [Álvaro GARCIA](/players/alvaro-garcia/): Spain代表23→28キャップ
+- [Antoine HASTOY](/players/antoine-hastoy/): France代表15→17キャップ
+- [Arturo TEN HOEVER](/players/arturo-ten-hoever/): Uruguay代表3→4キャップ
+- [Austin CREIGHTON](/players/austin-creighton/): Canada代表5→6キャップ
+- [Barnaby WADDELL](/players/barnaby-waddell/): Canada代表2→6キャップ
+- [Ben LESAGE](/players/ben-lesage/): Canada代表18→20キャップ
+- [Ben WHITE](/players/ben-white/): Scotland代表56→57キャップ
+- [Ben BONASSO](/players/benjamin-bonasso/): Usa代表16→19キャップ
+- [Bryce WORDEN](/players/bryce-worden/): Canada代表1→4キャップ
+- [Caleb MUNTZ](/players/caleb-muntz/): Fiji代表35→40キャップ
+- [Charlie ABEL](/players/charlie-abel/): Usa代表1→3キャップ
+- [Christopher HILSENBECK](/players/christopher-hilsenbeck/): Usa代表10→13キャップ
+- [Cody NHANALA](/players/cody-nhanala/): Canada代表3→4キャップ
+- [Daragh DOYLE](/players/daragh-doyle/): Canada代表6→9キャップ
+- [Demba BAMBA](/players/demba-bamba/): France代表32→37キャップ
+- [Dewald KOTZE](/players/dewald-kotze/): Canada代表9→15キャップ
+- [Emerson PRIOR](/players/emerson-prior/): Canada代表7→10キャップ
+- [Esei HA'ANGANA](/players/esei-ha-angana/): Japan代表1→5キャップ
+- [Ethan HOOKER](/players/ethan-hooker/): South Africa代表14→16キャップ
+- [Faka'osi PIFELETI](/players/faka-osi-pifeleti/): Usa代表2→6キャップ
+- [Foster DEWITT](/players/foster-dewitt/): Canada代表6→14キャップ
+- [Huw JONES](/players/huw-jones/): Scotland代表61→93キャップ
+- [Iakopo MAPU](/players/iakopo-petelo-mapu/): Samoa代表26→27キャップ
+- [Iñaki AYARZA](/players/inaki-ayarza/): Chile代表28→30キャップ
+- [Inoke BURUA](/players/inoke-burua/): Japan代表1→3キャップ
+- [Isaiah ARMSTRONG-RAVULA](/players/isaiah-ravula/): Fiji代表13→15キャップ
+- [Isikeli RABITU](/players/isikeli-rabitu/): Fiji代表1→2キャップ
+- [Isoa NASILASILA](/players/isoa-nasilasila/): Fiji代表42→46キャップ
+- [Izzak KELLY](/players/izzak-kelly/): Canada代表19→28キャップ
+- [Jacob INCE](/players/jacob-ince/): Canada代表4→7キャップ
+- [Jamie ARMSTRONG](/players/jamie-armstrong/): Canada代表1→2キャップ
+- [Jason DAMM](/players/jason-damm/): Usa代表20→30キャップ
+- [Jason HIGGINS](/players/jason-higgins/): Canada代表25→41キャップ
+- [Jesse KILGOUR](/players/jesse-kilgour/): Canada代表3→4キャップ
+- [Joaquín OVIEDO](/players/joaquin-oviedo/): Argentina代表16→18キャップ
+- [Joël MERKLER](/players/joel-merkler/): Spain代表13→16キャップ
+- [Joji NASOVA](/players/joji-nasova-/): Fiji代表4→5キャップ
+- [Jon ZABALA](/players/jon-zabala/): Spain代表37→43キャップ
+- [Spencer JONES](/players/jones-spencer/): Canada代表27→28キャップ
+- [Juan Cruz MALLÍA](/players/juan-cruz-mallia/): Argentina代表45→65キャップ
+- [Juan Martin SCELZO](/players/juan-martin-scelzo/): Argentina代表2→3キャップ
+- [Justo PICCARDO](/players/justo-piccardo/): Argentina代表17→21キャップ
+- [Kavaia TAGIVETAUA](/players/kavaia-tagivetaua/): Fiji代表1→2キャップ
+- [Kenji SATO](/players/kenji-sato-/): Japan代表13→15キャップ
+- [Konstantine MIKAUTADZE](/players/konstantine-mikautadze/): Georgia代表83→84キャップ
+- [Kyle STEEVES](/players/kyle-steeves/): Canada代表7→14キャップ
+- [Kyle TREMBLAY](/players/kyle-tremblay/): Canada代表11→16キャップ
+- [Lance WILLIAMS](/players/lance-williams/): Usa代表1→2キャップ
+- [Levani BOTIA](/players/levani-botia/): Fiji代表35→38キャップ
+- [Liam JAMES](/players/liam-james/): Canada代表4→5キャップ
+- [Lua MAKISI](/players/lua-makisi/): Japan代表33→34キャップ
+- [Manex ARICETA](/players/manex-ariceta/): Spain代表11→16キャップ
+- [Mark O'KEEFFE](/players/mark-o-keeffe/): Usa代表6→8キャップ
+- [Mateo CARRERAS](/players/mateo-carreras/): Argentina代表31→41キャップ
+- [Matthieu JALIBERT](/players/matthieu-jalibert/): France代表50→56キャップ
+- [Maxime LUCU](/players/maxime-lucu/): France代表47→50キャップ
+- [Mesake DOGE](/players/mesake-doge/): Fiji代表14→33キャップ
+- [Mickaël GUILLARD](/players/mickael--guillard/): France代表26→27キャップ
+- [Mike STOLBERG](/players/mike-stolberg/): Japan代表4→8キャップ
+- [Mitch WILSON](/players/mitch-wilson/): Usa代表25→32キャップ
+- [Nathan DEN HOEDT](/players/nathan-den-hoedt/): Usa代表2→8キャップ
+- [Pablo DIMCHEFF](/players/pablo-dimcheff/): Italy代表6→7キャップ
+- [Paddy RYAN](/players/paddy-ryan-1998/): Usa代表32→34キャップ
+- [Patrick TUIPULOTU](/players/patrick-tuipulotu/): New Zealand代表68→86キャップ
+- [Paul BOUDEHENT](/players/paul-boudehent/): France代表25→31キャップ
+- [Payton TELEA-ILALIO](/players/payton-telea-ilalio/): Usa代表9→10キャップ
+- [Peni RAVAI](/players/peni-ravai/): Fiji代表44→69キャップ
+- [Ruben DE HAAS](/players/ruben-de-haas/): Usa代表49→51キャップ
+- [Ryunosuke ITO](/players/ryunosuke-ito/): Japan代表8→9キャップ
+- [Sam GREENE](/players/sam-greene/): Japan代表10→18キャップ
+- [Sam MILLER](/players/sam-miller/): Canada代表12→15キャップ
+- [Sam WYE](/players/sam-wye/): Fiji代表10→12キャップ
+- [Sireli MAQALA](/players/sireli-maqala/): Fiji代表18→21キャップ
+- [Takoda MCMULLIN](/players/takoda-mcmullin/): Canada代表7→10キャップ
+- [Takumi INABA](/players/takumi-inaba/): Japan代表1→2キャップ
+- [Tedo ABZHANDADZE](/players/tedo-abzhandadze/): Georgia代表92→102キャップ
+- [Temo MAYANAVANUA](/players/temo-mayanavanua/): Fiji代表20→51キャップ
+- [Tevita IKANIVERE](/players/tevita-ikanivere/): Fiji代表22→24キャップ
+- [Tevita TATAFU](/players/tevita-tatafu/): France代表3→4キャップ
+- [Thibaud FLAMENT](/players/thibaud-flament/): France代表38→52キャップ
+- [Thomas CRÉTU](/players/thomas-cretu/): Romania代表17→19キャップ
+- [Tiennan COSTLEY](/players/tiennan-costley/): Japan代表12→22キャップ
+- [Tyler ARDRON](/players/tyler-ardron/): Canada代表19→25キャップ
+- [Vasil LOBZHANIDZE](/players/vasil-lobzhanidze/): Georgia代表140→141キャップ
+- [Vilimoni BOTITU](/players/vilimoni-botitu/): Fiji代表12→30キャップ
+- [Virimi VAKATAWA](/players/virimi-vakatawa/): Fiji代表1→2キャップ
+- [Wallace SITITI](/players/wallace-sititi/): New Zealand代表13→16キャップ
