@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-09-20T23:23:31+09:00",
+  "checked_at": "2026-09-21T18:50:31+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "ee76086e899c3edb"
+      "hash": "18930594ffadeabf"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "acc0c3cf43d84141"
+      "hash": "bb6bb9a5e6a28187"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
@@ -29,6 +29,16 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.skyactivs.com/news/4719",
+      "title": "2026.09.21[MON] GAME 「ジャパンラグビーリーグワンライジング2026」およびプレシーズンマッチのお知らせ（追加）",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/4714",
+      "title": "2026.09.16[WED] GAME NTT ジャパンラグビー リーグワン 2026-27 一部会場決定のお知らせ",
+      "date": "2026-09-16"
+    },
     {
       "url": "https://www.skyactivs.com/news/4706",
       "title": "2026.09.13[SUN] ACTIVITY ～スポーツ能力発見会 in 広島～ に参加しました",
@@ -218,16 +228,6 @@
       "url": "https://www.skyactivs.com/news/3882",
       "title": "2026.04.30[THU] GAME 【メンバー発表】vsクリタウォーターガッシュ昭島",
       "date": "2026-04-30"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/3926",
-      "title": "2026.04.27[MON] ACTIVITY 西区やまなみファミリーハイキングに参加しました",
-      "date": "2026-04-27"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/3874",
-      "title": "2026.04.24[FRI] GAME 【メンバー発表】vs ルリーロ福岡",
-      "date": "2026-04-24"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",

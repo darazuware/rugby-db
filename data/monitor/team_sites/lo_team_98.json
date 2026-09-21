@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-09-20T23:23:31+09:00",
+  "checked_at": "2026-09-21T18:50:31+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "839cb2aa466af440"
+      "hash": "3196e1305dfe9e7a"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "48b2203ff437e4b1"
+      "hash": "44b14dd2a1a6bbde"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3196",
+      "title": "2026.9.21[MON] GOODS 【9/30(水)23:59まで】ふるさとオンラインストア［My Megaphone!］ サービス終了のお知らせ",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3191",
+      "title": "2026.9.21[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（9/14～9/18）",
+      "date": "2026-09-21"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3192",
       "title": "2026.9.18[FRI] HOST AREA 令和８年熊本地震災害支援募金活動のお知らせ",
@@ -106,11 +116,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3162",
       "title": "2026.9.1[TUE] FAN CLUB 公式ファンクラブ＜CLUB REVS＞新規入会受付開始！新規入会キャンペーンも実施！",
       "date": "2026-09-01"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3166",
-      "title": "2026.8.29[SAT] SCHOOL スタッド・トゥールーザンとのアカデミーキャンプを開催しました",
-      "date": "2026-08-29"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3167",
