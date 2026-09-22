@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-09-22T01:43:00+09:00",
+  "checked_at": "2026-09-22T18:13:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "a8833615958e7aec"
+      "hash": "1b8c47e09deab7f6"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "b22c838ec6be2da5"
+      "hash": "7da57297e2052f04"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2029.html",
+      "title": "イベント 2026.09.22 2026.9.30 浦安Dパーク開放イベント「ウェルネスプロジェクト～ナイトヨガ～」実施のお知らせ",
+      "date": "2026-09-22"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2026.html",
       "title": "ゲーム 2026.09.18 2026-27シーズン プレシーズンマッチ ホストゲーム無料ご招待のお知らせ",
@@ -54,7 +59,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2019.html",
-      "title": "イベント 2026.09.08 2026.8.21 明海大学 浦安市立高洲中学校 特別講演会にて講演を行いました",
+      "title": "2026.09.08 ニュース 2026.8.21 明海大学 浦安市立高洲中学校 特別講演会にて講演を行いました",
       "date": "2026-09-08"
     },
     {
@@ -210,11 +215,6 @@
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_1984.html",
       "title": "2026.07.10 ニュース 2026.7.26「D-Rockers ミーティング 2025-26」開催のお知らせ",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_1985.html",
-      "title": "2026.07.10 ニュース 2026.7.30【第2弾】ラグ活！～大人のためのラグビー体験会～ 開催決定！",
       "date": "2026-07-10"
     }
   ]

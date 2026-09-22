@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-09-22T01:43:00+09:00",
+  "checked_at": "2026-09-22T18:13:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "ffa27a93208827f4"
+      "hash": "29e093a7976c1e05"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "f78beda690154767"
+      "hash": "13bee5f3c5f71dda"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260922.html",
+      "title": "2026-09-22 ティム・カーダル選手加入のお知らせ",
+      "date": "2026-09-22"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260908.html-0#2",
       "title": "2026-09-19 9/22（火）相模原での一般公開練習は中止とさせていただきます",
@@ -49,7 +54,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260910.html",
-      "title": "2026-09-10 2026-27プレシーズン 全5試合の日程が決定",
+      "title": "2026-09-10 [ チーム ] 2026-27プレシーズン 全5試合の日程が決定",
       "date": "2026-09-10"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260701.html",
       "title": "2026-07-01 [ チーム ] NTTジャパンラグビー リーグワン2026-27大会フォーマット発表。開幕は12月12日！",
       "date": "2026-07-01"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260629.html",
-      "title": "2026-06-29 [ チーム ] [ メディア ] 男子日本代表宮崎合宿参加メンバーに平翔太選手が選出｜15人制男子日本代表",
-      "date": "2026-06-29"
     }
   ]
 }

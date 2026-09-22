@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-22T01:43:00+09:00",
+  "checked_at": "2026-09-22T18:13:54+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/event/index_2029.html",
+          "title": "イベント 2026.09.22 2026.9.30 浦安Dパーク開放イベント「ウェルネスプロジェクト～ナイトヨガ～」実施のお知らせ",
+          "date": "2026-09-22",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -34,9 +44,7 @@
       "first_run": false,
       "item_count": 35,
       "new_items": [],
-      "changed_pages": [
-        "https://panasonic.co.jp/sports/wildknights/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -72,7 +80,10 @@
       "first_run": false,
       "item_count": 25,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.honda-heat.jp/",
+        "https://www.honda-heat.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -83,7 +94,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260922.html",
+          "title": "2026-09-22 ティム・カーダル選手加入のお知らせ",
+          "date": "2026-09-22",
+          "category": "roster"
+        }
+      ],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -109,9 +127,30 @@
       "official_url": "https://blackrams-tokyo.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 4,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 5,
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20260922c.html",
+          "title": "9月27日(日)「第3回 鉄道フェスタ」スペシャルステージ参加のお知らせ",
+          "date": "2026-09-22",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260922b.html",
+          "title": "ラムまるぬいぐるみ リニューアル販売のお知らせ",
+          "date": "2026-09-22",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260922a.html",
+          "title": "2026-27シーズン ジャージーデザイングッズ販売のお知らせ",
+          "date": "2026-09-22",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -243,9 +282,18 @@
       "official_url": "https://hino-reddolphins.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 15,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 14,
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-09-22/",
+          "title": "オフィシャルオンラインショップを開設します",
+          "date": "2026-09-22",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -372,7 +420,15 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "三菱重工相模原ダイナボアーズ",
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260922.html",
+      "title": "2026-09-22 ティム・カーダル選手加入のお知らせ",
+      "date": "2026-09-22",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }

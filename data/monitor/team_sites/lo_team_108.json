@@ -3,16 +3,31 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-09-22T01:43:00+09:00",
+  "checked_at": "2026-09-22T18:13:54+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "5bb1d9089323cc19"
+      "hash": "4b0815804e7e2e3a"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20260922c.html",
+      "title": "9月27日(日)「第3回 鉄道フェスタ」スペシャルステージ参加のお知らせ",
+      "date": "2026-09-22"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260922b.html",
+      "title": "ラムまるぬいぐるみ リニューアル販売のお知らせ",
+      "date": "2026-09-22"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260922a.html",
+      "title": "2026-27シーズン ジャージーデザイングッズ販売のお知らせ",
+      "date": "2026-09-22"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260918a.html",
       "title": "2026-27シーズン 1stジャージーデザイン及びサイボウズ株式会社胸スポンサー決定のお知らせ",
@@ -22,16 +37,6 @@
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260916a.html",
       "title": "HENNGE株式会社とオフィシャルパートナー契約継続のお知らせ",
       "date": "2026-09-16"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20260911a.html",
-      "title": "NPCマナワツ・ターボス期限付き移籍レポート②（笹川大五選手）",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260911b.html",
-      "title": "10月3日(土)「第48回 たまがわ花火大会」リコー総合グラウンドでの観覧のご案内",
-      "date": "2026-09-11"
     }
   ]
 }
