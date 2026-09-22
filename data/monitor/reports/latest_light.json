@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-21T23:48:30+09:00",
+  "checked_at": "2026-09-22T16:14:17+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6161",
+          "title": "クラブ 三菱重工相模原ダイナボアーズ、ティム・カーダル選手加入のお知らせ 2026.09.22",
+          "date": "2026-09-22",
+          "category": "roster"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,7 +26,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54213",
+          "title": "レポート：第113回女子セブンズユースアカデミー（9月20日～23日） 2026.9.22 （火） 女子 セブンズ アカデミー・強化育成",
+          "date": "2026-09-22",
+          "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54211",
+          "title": "2026年度みんなでラグビー部門 自治体と連携した参画者拡大イベントおよび生涯ラグビー推進事業実施のお知らせ 2026.9.22 （火） その他 普及育成",
+          "date": "2026-09-22",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +53,15 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6161",
+      "title": "クラブ 三菱重工相模原ダイナボアーズ、ティム・カーダル選手加入のお知らせ 2026.09.22",
+      "date": "2026-09-22",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }
