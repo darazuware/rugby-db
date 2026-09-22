@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-09-22T18:13:54+09:00",
+  "checked_at": "2026-09-23T00:17:12+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "67ca0ef219db893f"
+      "hash": "1a859e0cd7dda6a6"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "cfa0825823422f53"
+      "hash": "8f8eaf4ec235b77c"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2448/",
+      "title": "トピックス 2026.9.22 【ファンクラブ】公式ファンクラブCLUB HEAT 2026-27シーズン概要のご案内",
+      "date": "2026-09-22"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2447/",
       "title": "トピックス 2026.9.21 栃木ホンダヒート2026-27シーズン 協賛パートナーならびにジャージーデザイン決定のお知らせ",
@@ -131,11 +136,6 @@
       "url": "https://www.honda-heat.jp/news/2415/",
       "title": "社会貢献 2026.8.3 【普及活動】國學院栃木高校ラグビー部にてラグビークリニックを開催しました",
       "date": "2026-08-03"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2413/",
-      "title": "トピックス 2026.8.1 男子セブンズ デベロップメント・スコッド（SDS）福岡合宿 参加のお知らせ",
-      "date": "2026-08-01"
     },
     {
       "url": "https://www.honda-heat.jp/hostgame/20260509/",
