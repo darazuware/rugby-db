@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-23T00:17:12+09:00",
+  "checked_at": "2026-09-23T18:14:39+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -71,9 +71,9 @@
       "item_count": 25,
       "new_items": [
         {
-          "url": "https://www.honda-heat.jp/news/2448/",
-          "title": "トピックス 2026.9.22 【ファンクラブ】公式ファンクラブCLUB HEAT 2026-27シーズン概要のご案内",
-          "date": "2026-09-22",
+          "url": "https://www.honda-heat.jp/news/2450/",
+          "title": "イベント 2026.9.23 【ホストタウン活動】「一日警察署長任命式」および「秋の交通安全啓発広報活動」参加のお知らせ",
+          "date": "2026-09-23",
           "category": null
         }
       ],
@@ -157,8 +157,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/822.html",
+          "title": "2026年 9月23日 Day822 『網走合宿』",
+          "date": "2026-09-23",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -195,7 +205,10 @@
       "item_count": 24,
       "new_items": [],
       "changed_pages": [
-        "https://blue-sharks.jp/"
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
       ],
       "rename_signals": []
     },
@@ -220,8 +233,21 @@
       "official_url": "https://kamaishi-seawaves.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 16,
-      "new_items": [],
+      "item_count": 18,
+      "new_items": [
+        {
+          "url": "https://kamaishi-seawaves.com/news/game/32522/",
+          "title": "試合情報 2026.9.23 2026プレシーズンマッチ 第3戦／埼玉パナソニックワイルドナイツ戦",
+          "date": "2026-09-23",
+          "category": null
+        },
+        {
+          "url": "https://kamaishi-seawaves.com/news/game/32514/",
+          "title": "試合情報 2026.9.23 ジャパンラグビー リーグワン ライジング 2026 第2戦／三菱重工相模原ダイナボアーズ戦",
+          "date": "2026-09-23",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://kamaishi-seawaves.com/",
         "https://kamaishi-seawaves.com/news/",
@@ -252,8 +278,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 14,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-09-23/",
+          "title": "新加入選手（バイロン・スミス）のお知らせ",
+          "date": "2026-09-23",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -306,7 +341,11 @@
       "first_run": false,
       "item_count": 16,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://rrrfc.red/",
+        "https://rrrfc.red/blog/",
+        "https://rrrfc.red/categories/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -319,7 +358,11 @@
       "item_count": 45,
       "new_items": [],
       "changed_pages": [
-        "https://www.skyactivs.com/"
+        "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news",
+        "https://www.skyactivs.com/news/2091",
+        "https://www.skyactivs.com/news/2035",
+        "https://www.skyactivs.com/news/2001"
       ],
       "rename_signals": []
     },
@@ -380,7 +423,15 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日野レッドドルフィンズ",
+      "url": "https://hino-reddolphins.com/2026-09-23/",
+      "title": "新加入選手（バイロン・スミス）のお知らせ",
+      "date": "2026-09-23",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }
