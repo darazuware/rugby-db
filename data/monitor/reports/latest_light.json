@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-23T16:16:20+09:00",
+  "checked_at": "2026-09-23T22:18:54+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,14 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6162",
-          "title": "クラブ 日野レッドドルフィンズ、新加入選手（バイロン・スミス）のお知らせ 2026.09.23",
-          "date": "2026-09-23",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -26,14 +19,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54201",
-          "title": "（9/23更新）男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿スケジュールと参加メンバーのお知らせ 2026.9.23 （水） 男子セブンズ日本代表 セブンズ 日本代表 セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド sds^^^",
-          "date": "2026-09-23",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -47,22 +33,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6162",
-      "title": "クラブ 日野レッドドルフィンズ、新加入選手（バイロン・スミス）のお知らせ 2026.09.23",
-      "date": "2026-09-23",
-      "category": "roster"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54201",
-      "title": "（9/23更新）男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿スケジュールと参加メンバーのお知らせ 2026.9.23 （水） 男子セブンズ日本代表 セブンズ 日本代表 セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド sds^^^",
-      "date": "2026-09-23",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": []
 }
