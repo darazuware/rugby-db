@@ -3,21 +3,21 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-09-23T18:14:39+09:00",
+  "checked_at": "2026-09-24T00:14:15+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "2ca7f08adf9610a2"
+      "hash": "a7428a8b2b37b672"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "7e5b630193ec3c15"
+      "hash": "36c00322aeeab91a"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "d2c83ebe07483b6e"
+      "hash": "66fba8b01d6779c4"
     }
   ],
   "items": [

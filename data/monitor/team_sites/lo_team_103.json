@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-09-23T18:14:39+09:00",
+  "checked_at": "2026-09-24T00:14:15+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "7208ed2aafaf9577"
+      "hash": "c8ccdf516e1ffe5b"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "b81f58cfe0a75085"
+      "hash": "c787aa96cbc55c96"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/260923/",
+      "title": "【プレシーズンマッチ】10/17日（土）vs 埼玉パナソニックワイルドナイツ 観戦について",
+      "date": "2026-09-23"
+    },
     {
       "url": "https://www.bravelupus.com/news/260918/",
       "title": "オフィシャルパートナー決定およびラッピングカー提供のお知らせ",
@@ -210,11 +215,6 @@
     {
       "url": "https://www.bravelupus.com/news/260528/",
       "title": "2025-26シーズン 退団選手及びスタッフのお知らせ",
-      "date": "2026-05-28"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/20260528fc/",
-      "title": "【重要】ファン感謝祭2部「猛勇狼士の会」詳細ご連絡",
       "date": "2026-05-28"
     },
     {
