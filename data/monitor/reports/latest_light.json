@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-23T22:18:54+09:00",
+  "checked_at": "2026-09-24T16:06:35+09:00",
   "teams": [],
   "sources": [
     {
@@ -19,7 +19,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54214",
+          "title": "2026年度ラグビー日本代表戦開催都市でのラグビー元日本代表および現役選手による小学校訪問事業のお知らせ 2026.9.24 （木） 15人制男子日本代表 普及育成",
+          "date": "2026-09-24",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54207",
+          "title": "「T1 Rugby Challenge in KUMAGAYA」参加者募集のお知らせ 2026.9.24 （木） その他 普及育成",
+          "date": "2026-09-24",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +46,15 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54214",
+      "title": "2026年度ラグビー日本代表戦開催都市でのラグビー元日本代表および現役選手による小学校訪問事業のお知らせ 2026.9.24 （木） 15人制男子日本代表 普及育成",
+      "date": "2026-09-24",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }
