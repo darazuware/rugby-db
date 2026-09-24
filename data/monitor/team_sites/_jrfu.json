@@ -1,18 +1,21 @@
 {
-  "checked_at": "2026-09-24T16:06:35+09:00",
+  "checked_at": "2026-09-24T18:12:47+09:00",
   "url": "https://www.rugby-japan.jp/news/",
   "items": [
     {
       "url": "https://www.rugby-japan.jp/news/54214",
       "title": "2026年度ラグビー日本代表戦開催都市でのラグビー元日本代表および現役選手による小学校訪問事業のお知らせ 2026.9.24 （木） 15人制男子日本代表 普及育成",
-      "date": "2026-09-24",
-      "category": "squad"
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.rugby-japan.jp/news/54213",
+      "title": "（9/24更新）レポート：第113回女子セブンズユースアカデミー（9月20日～23日） 2026.9.24 （木） 女子 セブンズ アカデミー・強化育成",
+      "date": "2026-09-24"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54207",
       "title": "「T1 Rugby Challenge in KUMAGAYA」参加者募集のお知らせ 2026.9.24 （木） その他 普及育成",
-      "date": "2026-09-24",
-      "category": null
+      "date": "2026-09-24"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54206",
@@ -25,9 +28,10 @@
       "date": "2026-09-24"
     },
     {
-      "url": "https://www.rugby-japan.jp/news/54213",
-      "title": "（9/23更新）レポート：第113回女子セブンズユースアカデミー（9月20日～23日） 2026.9.23 （水） 女子 セブンズ アカデミー・強化育成",
-      "date": "2026-09-23"
+      "url": "https://www.rugby-japan.jp/news/54189",
+      "title": "（9/24更新）女子日本代表 イタリア・アイルランド遠征 参加メンバー のお知らせ 2026.9.24 （木） 15人制女子日本代表 女子",
+      "date": "2026-09-24",
+      "category": "squad"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54201",
@@ -48,11 +52,6 @@
       "url": "https://www.rugby-japan.jp/news/53968",
       "title": "（9/21更新）男子日本代表 宮崎合宿 参加メンバーのお知らせ 2026.9.21 （月） 15人制男子日本代表 WBB",
       "date": "2026-09-21"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/53971",
-      "title": "（9/20更新）太陽生命カップ2026 第17回全国中学生ラグビーフットボール大会開催のお知らせ 2026.9.20 （日） 中学 普及育成 太陽生命カップ 大会",
-      "date": "2026-09-20"
     }
   ]
 }

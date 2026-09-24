@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-09-24T00:14:15+09:00",
+  "checked_at": "2026-09-24T18:12:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "ea5f5815fdba68a3"
+      "hash": "8e6ba15c393efa0c"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "886fb4c474b06a20"
+      "hash": "84ec316e8a496cc3"
     }
   ],
   "items": [
@@ -26,6 +26,11 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
       "title": "試合日程一覧",
       "date": "2026-10-03"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260924_01/",
+      "title": "活動レポート 2026年09月24日 留学記：NZ編 齊藤誉哉⑤ ニュースを見る",
+      "date": "2026-09-24"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20260919/",
@@ -76,11 +81,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260819_01/",
       "title": "活動レポート 2026年08月19日 留学記：NZ編 谷山隼大③ ニュースを見る",
       "date": "2026-08-19"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260812_01/",
-      "title": "活動レポート 2026年08月12日 留学記：NZ編 齊藤誉哉② ニュースを見る",
-      "date": "2026-08-12"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260801_01/",

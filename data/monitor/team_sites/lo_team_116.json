@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-09-24T00:14:15+09:00",
+  "checked_at": "2026-09-24T18:12:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "4b55b1515d0880be"
+      "hash": "fe39a0e54d5d18fe"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "bde8945e97b7b516"
+      "hash": "b10266223b50b5d7"
     }
   ],
   "items": [
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8881",
+      "title": "お知らせ 2026年9月24日 ラグビー体験イベント in イオンモール堺北花田 開催のお知らせ",
+      "date": "2026-09-24"
+    },
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8879",
       "title": "お知らせ 2026年9月15日 セタ・タマニバル選手 フィジー代表選出のお知らせ",

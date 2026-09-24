@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-09-24T00:14:15+09:00",
+  "checked_at": "2026-09-24T18:12:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "1b8c47e09deab7f6"
+      "hash": "876534de3af20e64"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "7da57297e2052f04"
+      "hash": "2b06a4760f4a0bfc"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2031.html",
+      "title": "ゲーム 2026.09.24 2026-27シーズン プレシーズンマッチ 日程更新のお知らせ",
+      "date": "2026-09-24"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2029.html",
       "title": "イベント 2026.09.22 2026.9.30 浦安Dパーク開放イベント「ウェルネスプロジェクト～ナイトヨガ～」実施のお知らせ",
@@ -54,7 +59,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2004.html",
-      "title": "ゲーム 2026.09.09 2026-27シーズン 試合日程決定のお知らせ（9/9時点）",
+      "title": "2026.09.09 ニュース 2026-27シーズン 試合日程決定のお知らせ（9/9時点）",
       "date": "2026-09-09"
     },
     {
@@ -210,11 +215,6 @@
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_1980.html",
       "title": "2026.07.10 ニュース 2026-27シーズン 新加入選手のお知らせ",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/fanclub/index_1984.html",
-      "title": "2026.07.10 ニュース 2026.7.26「D-Rockers ミーティング 2025-26」開催のお知らせ",
       "date": "2026-07-10"
     }
   ]

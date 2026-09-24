@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-09-24T00:14:15+09:00",
+  "checked_at": "2026-09-24T18:12:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "c8ccdf516e1ffe5b"
+      "hash": "258cf8245acd8a0b"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "c787aa96cbc55c96"
+      "hash": "d571b6c54771f79e"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/260924-2/",
+      "title": "「ルーパス塾 夏期集中トレーニング2026」を実施しました",
+      "date": "2026-09-24"
+    },
     {
       "url": "https://www.bravelupus.com/news/260923/",
       "title": "【プレシーズンマッチ】10/17日（土）vs 埼玉パナソニックワイルドナイツ 観戦について",
@@ -211,11 +216,6 @@
       "url": "https://www.bravelupus.com/news/20260603/",
       "title": "６月７日（日）リーグワンヴィレッジにてグッズショップを出店します",
       "date": "2026-06-03"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260528/",
-      "title": "2025-26シーズン 退団選手及びスタッフのお知らせ",
-      "date": "2026-05-28"
     },
     {
       "url": "https://www.bravelupus.com/game/https-www-bravelupus-com-game-ntt-japan-rugby-league-one-2025-26-play-offs-quarterfinal/",

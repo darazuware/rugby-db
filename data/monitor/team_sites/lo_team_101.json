@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-09-24T00:14:15+09:00",
+  "checked_at": "2026-09-24T18:12:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "c8c346e442c2be2f"
+      "hash": "080d33e7731da7c7"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "27fb5c3507c54f47"
+      "hash": "15f3e83fbaf4f11e"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,31 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35372/",
+      "title": "2026/9/24 イベント 9月26日(土)に神戸三宮センター街1丁目で開催される「SANNOMIYA COLLECTION 2026A/W」にブースを出展します",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35354/",
+      "title": "2026/9/24 社会貢献 「One Fan,One Future ～みんなの応援が未来の森に～」菅平高原での植樹活動に参加しました",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35349/",
+      "title": "2026/9/24 イベント 【選手イベント参加情報】子どもを育むスマハマプロジェクト「コベルコ神戸スティーラーズが須磨海岸にやってくる！」参加選手決定のお知らせ",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.kobesteelers.com/interview/post35380/",
+      "title": "2026/9/24 チーム 【Road to RWC2027】「アサヒスーパードライ パシフィックネーションズカップ2026」決勝 日本代表 vsフィジー代表レポート",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.kobesteelers.com/game/post34695/",
+      "title": "2026/9/24 試合 9月26日(土) 「ジャパンラグビー リーグワン ライジング2026」中国電力レッドレグリオンズ戦 出場メンバーのお知らせ",
+      "date": "2026-09-24"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35336/",
       "title": "2026/9/18 イベント 【レポート】9月12日(土)「甲子園キッズフェスタ～2026 autumn～」でラグビー体験を実施しました",
@@ -156,23 +181,8 @@
       "date": "2026-09-03"
     },
     {
-      "url": "https://www.kobesteelers.com/interview/post35176/",
-      "title": "2026/9/2 チーム 2026-27シーズン 新加入選手インタビュー CTBジョージ・ブリッジ選手",
-      "date": "2026-09-02"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35144/",
       "title": "2026/9/1 社会貢献 兵庫県・(公財)兵庫県人権啓発協会が実施する「プロスポーツとの連携による啓発メッセージの発信等」に協力します",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35129/",
-      "title": "2026/9/1 イベント 「国際フロンティア産業メッセ2026」のKOBELCOブースで優勝トロフィーを展示します",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://www.kobesteelers.com/interview/post35152/",
-      "title": "2026/9/1 チーム 2026-27シーズン新加入選手インタビュー LOマシュー・ダルトン選手",
       "date": "2026-09-01"
     },
     {
@@ -224,16 +234,6 @@
       "url": "https://www.kobesteelers.com/news/post34983/",
       "title": "2026/8/4 社会貢献 【レポート】7月30日(木)～8月2日(日)に開催された「KOBELCO CUP 2026」へ選手・スタッフを派遣しました",
       "date": "2026-08-04"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34951/",
-      "title": "2026/8/3 メディア 8月8日(土) 李 承信選手「リポビタン D チャレンジカップ 2026日本代表対オーストラリア」ゲスト解説のお知らせ",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34928/",
-      "title": "2026/8/3 チケット NTTリーグワン2026-27 ホストゲームのチケット価格と席種決定のお知らせ",
-      "date": "2026-08-03"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34962/",

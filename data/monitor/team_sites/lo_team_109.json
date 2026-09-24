@@ -3,27 +3,37 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-09-24T00:14:15+09:00",
+  "checked_at": "2026-09-24T18:12:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "03d9b01139cdd08f"
+      "hash": "5faf88628db41d81"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "aa2dbca2ea844d71"
+      "hash": "95fe6977884706ce"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "39fbfb5513d05212"
+      "hash": "64ccebe60b645e36"
     }
   ],
   "items": [
     {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0924-02/",
+      "title": "TICKET JR東日本グリーンウォリアーズ東葛 2026-2027シーズンシート販売のご案内 2026.09.24",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0924-01/",
+      "title": "TICKET NTTジャパンラグビー リーグワン2026-27 ホストゲームチケット販売日および価格のご案内 2026.09.24",
+      "date": "2026-09-24"
+    },
+    {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0917-01/",
-      "title": "CRS 令和8年8月千葉豪雨被災支援対応 日本財団「県内プロスポーツチーム・アスリートと連携した情報発信プロジェクト」への賛同について 2026.09.17",
+      "title": "CSR 令和8年8月千葉豪雨被災支援対応 日本財団「県内プロスポーツチーム・アスリートと連携した情報発信プロジェクト」への賛同について 2026.09.17",
       "date": "2026-09-17"
     },
     {

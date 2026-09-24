@@ -3,28 +3,33 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-09-24T00:14:15+09:00",
+  "checked_at": "2026-09-24T18:12:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "a24945319781533e"
+      "hash": "f60521bfe54416fb"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "7f902c16ae8e276a"
+      "hash": "bf2a3cd9a8543afa"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "0dd224791cb7e2d9"
+      "hash": "ff89202c6b90f1a6"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "096f3e5dc1865066"
+      "hash": "cdbf4419d1c7028d"
     }
   ],
   "items": [
+    {
+      "url": "https://blue-sharks.jp/news/2026/09/25313/",
+      "title": "お知らせ 2026/09/24 Jヴィレッジラグビークリニックレポート",
+      "date": "2026-09-25"
+    },
     {
       "url": "https://blue-sharks.jp/news/2026/09/25284/",
       "title": "◇埼玉パナソニックワイルドナイツ戦マッチレポート",
@@ -104,11 +109,6 @@
       "url": "https://blue-sharks.jp/news/2026/08/25042/",
       "title": "お知らせ 2026/08/03 夏季休業のお知らせ",
       "date": "2026-08-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/07/25022/",
-      "title": "お知らせ 2026/07/31 グロスターラグビー研修レポート Vol.4（浦野龍基）",
-      "date": "2026-07-25"
     },
     {
       "url": "https://blue-sharks.jp/game-guide/2026-5-23-d1-d2%e5%85%a5%e6%9b%bf%e6%88%a6/",

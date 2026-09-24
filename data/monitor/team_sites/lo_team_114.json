@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-09-24T00:14:15+09:00",
+  "checked_at": "2026-09-24T18:12:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "2c390544a4a8989e"
+      "hash": "5d6442d3cb4e2cbf"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "142b01e5ab341780"
+      "hash": "1d486ee416e16844"
     }
   ],
   "items": [
@@ -131,16 +131,6 @@
       "url": "https://hanazono-liners.jp/2026/05/18/2025-26taidan/",
       "title": "2026.05.18 チーム情報 その他 2025-26シーズン退団選手および退団スタッフのお知らせ",
       "date": "2026-05-18"
-    },
-    {
-      "url": "https://hanazono-liners.jp/shiaiyotei-kekka/",
-      "title": "試合日程を見る",
-      "date": "2026-05-10"
-    },
-    {
-      "url": "https://hanazono-liners.jp/result/20260510/",
-      "title": "結果詳細を見る",
-      "date": "2026-05-10"
     },
     {
       "url": "https://hanazono-liners.jp/2026/05/08/5-10-shuttles-match-members-and-match-details/",

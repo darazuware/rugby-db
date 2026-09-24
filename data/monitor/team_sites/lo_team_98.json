@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-09-24T00:14:15+09:00",
+  "checked_at": "2026-09-24T18:12:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "a47152222c025d93"
+      "hash": "35be9ef377ca950d"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "0ab2c3ac5b2b9335"
+      "hash": "40de600f2d48c401"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3197",
+      "title": "2026.9.24[THU] TEAM ポジション変更のお知らせ",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3195",
+      "title": "2026.9.24[THU] GOODS 【9/26(土)販売開始】新グッズ情報／プレーヤーズグッズSALE開催（vs.トヨタヴェルブリッツ／ヤマハ大久保グラウンド）",
+      "date": "2026-09-24"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3196",
       "title": "2026.9.21[MON] GOODS 【9/30(水)23:59まで】ふるさとオンラインストア［My Megaphone!］ サービス終了のお知らせ",
@@ -103,18 +113,8 @@
       "date": "2026-09-03"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3173",
-      "title": "2026.9.2[WED] TEAM 負傷による選手の長期欠場のお知らせ",
-      "date": "2026-09-02"
-    },
-    {
       "url": "https://www.shizuoka-bluerevs.com/news/3168",
       "title": "EVENT 2026/9/1 9/27に沼津市でラグビーディスカバリーを開催",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3162",
-      "title": "2026.9.1[TUE] FAN CLUB 公式ファンクラブ＜CLUB REVS＞新規入会受付開始！新規入会キャンペーンも実施！",
       "date": "2026-09-01"
     },
     {
