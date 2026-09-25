@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-09-25T00:36:42+09:00",
+  "checked_at": "2026-09-25T18:32:14+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "77c22a5527e3eee7"
+      "hash": "0afe90c863c9e86e"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "096123d996046f68"
+      "hash": "f048fc2e57eee5b2"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2609-1035.html",
+      "title": "2026年 9月25日 #1035 福島 秀法 『愚直な、地味な突破、身体を張ったプレー』",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/jrlo2627msa.html",
+      "title": "2026年 9月25日 NTT JAPAN RUGBY LEAGUE ONE 2026-27の日程が発表されました！（※9月25日情報更新） （※ 2026年9月25日時点の更新情報 → 第1節の試合日決定） いつも東京サンゴリアスへの温かいご声援あり…",
+      "date": "2026-09-25"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/822.html",
       "title": "2026年 9月23日 Day822 『網走合宿』",
@@ -38,11 +48,6 @@
       "date": "2026-09-10"
     },
     {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/jrlo2627msa.html",
-      "title": "2026年 9月 9日 NTT JAPAN RUGBY LEAGUE ONE 2026-27の日程が発表されました！ （※ 2026年9月9日 時点の情報） いつも東京サンゴリアスへの温かいご声援ありがとうございます。12月12…",
-      "date": "2026-09-09"
-    },
-    {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2609-1032.html",
       "title": "2026年 9月 4日 #1032 下川 甲嗣 『1対1で絶対に勝つ』",
       "date": "2026-09-04"
@@ -61,11 +66,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2608-1031.html",
       "title": "2026年 8月28日 #1031 竹内 柊平 『もっとチームになる』",
       "date": "2026-08-28"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/820.html",
-      "title": "2026年 8月26日 Day820 『東京サンゴリアス×日川クラブ 第1回ラグビークリニック♪』",
-      "date": "2026-08-26"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627icct.html",

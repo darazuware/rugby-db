@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-09-25T00:36:42+09:00",
+  "checked_at": "2026-09-25T18:32:14+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "64daa201bcd9c1b7"
+      "hash": "9cce3a27aa512724"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260925a.html",
+      "title": "10月17日(土) プレシーズンマッチ 花園近鉄ライナーズ戦 チケット情報のお知らせ",
+      "date": "2026-09-25"
+    },
     {
       "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20260922c.html",
       "title": "9月27日(日)「第3回 鉄道フェスタ」スペシャルステージ参加のお知らせ",
@@ -32,11 +37,6 @@
       "url": "https://blackrams-tokyo.com/news/team/2026-2027/20260918a.html",
       "title": "2026-27シーズン 1stジャージーデザイン及びサイボウズ株式会社胸スポンサー決定のお知らせ",
       "date": "2026-09-18"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260916a.html",
-      "title": "HENNGE株式会社とオフィシャルパートナー契約継続のお知らせ",
-      "date": "2026-09-16"
     }
   ]
 }

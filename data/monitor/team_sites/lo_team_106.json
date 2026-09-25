@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-09-25T00:36:42+09:00",
+  "checked_at": "2026-09-25T18:32:14+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "e61235dd7f1fef88"
+      "hash": "9f8d799118a3d8c5"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "6915838bdec6b928"
+      "hash": "c495459326751d26"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule",
+      "title": "▼また次のシーズンで！（イベント・地域活動実施中）",
+      "date": "2026-10-04"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/academy.html",
+      "title": "三菱重工相模原ダイナボアーズアカデミー ライセンス保持者による本格的な指導で将来を担う若いプレーヤーを育成します！",
+      "date": "2026-10-04"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260922.html",
       "title": "2026-09-22 ティム・カーダル選手加入のお知らせ",

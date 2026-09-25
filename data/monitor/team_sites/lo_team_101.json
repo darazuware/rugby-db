@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-09-25T00:36:42+09:00",
+  "checked_at": "2026-09-25T18:32:14+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "080d33e7731da7c7"
+      "hash": "4e7f89af28b5eae8"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "15f3e83fbaf4f11e"
+      "hash": "4cc2299c3a7c1d76"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,21 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35365/",
+      "title": "2026/9/25 チケット NTT リーグワン2026-27 ホストゲームのチケット販売スケジュールのお知らせ",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35347/",
+      "title": "2026/9/25 ファンクラブ 会員システムの年次更新及びサーバーメンテナンス実施のお知らせ",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35302/",
+      "title": "2026/9/25 パートナー NTTリーグワン2026-27 公式戦ジャージーパートナー決定のお知らせ",
+      "date": "2026-09-25"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35372/",
       "title": "2026/9/24 イベント 9月26日(土)に神戸三宮センター街1丁目で開催される「SANNOMIYA COLLECTION 2026A/W」にブースを出展します",
@@ -141,11 +156,6 @@
       "date": "2026-09-04"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35196/",
-      "title": "2026/9/4 イベント ミスター・ラグビー メモリアルイベント タグラグビー『平尾誠二杯』開催のお知らせ",
-      "date": "2026-09-04"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35193/",
       "title": "2026/9/4 チーム 2026-27シーズン共同キャプテン決定のお知らせ",
       "date": "2026-09-04"
@@ -163,11 +173,6 @@
     {
       "url": "https://www.kobesteelers.com/news/post35171/",
       "title": "2026/9/3 普及 【イベントレポート】第18回 北区ラグビーフェスティバルに参加しました",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35158/",
-      "title": "2026/9/3 イベント 【レポート】8月29日(土)第39回RICサマーイブニングカーニバルのステージイベントに出演しました",
       "date": "2026-09-03"
     },
     {
@@ -229,11 +234,6 @@
       "url": "https://www.kobesteelers.com/news/post35012/",
       "title": "ファンクラブ 2026-27シーズンオフィシャルファンクラブのお知らせ 2026/8/6",
       "date": "2026-08-06"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34983/",
-      "title": "2026/8/4 社会貢献 【レポート】7月30日(木)～8月2日(日)に開催された「KOBELCO CUP 2026」へ選手・スタッフを派遣しました",
-      "date": "2026-08-04"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34962/",

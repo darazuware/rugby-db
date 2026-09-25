@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-09-25T00:36:42+09:00",
+  "checked_at": "2026-09-25T18:32:14+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "966f322a700f7877"
+      "hash": "5df9bd07848aaf88"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "de8b3e31ba996a31"
+      "hash": "47488f7029327216"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/09/25/liners-fanclub-5/",
+      "title": "2026.09.25 ファンクラブ 【LINERS FANCLUB】システムメンテナンスのお知らせ",
+      "date": "2026-09-25"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/09/19/liners-fanclub-4/",
       "title": "2026.09.19 ファンクラブ 【LINERS FANCLUB】ファンクラブ入会サポート開催のお知らせ",

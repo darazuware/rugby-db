@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-09-25T00:36:42+09:00",
+  "checked_at": "2026-09-25T18:32:14+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,10 +13,15 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "1549fa45de984692"
+      "hash": "f2c87e60cbc457e4"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-09-25/",
+      "title": "9/26 日本製鉄釜石シーウェイブス戦 天候によるイベントの一部中止と観戦時の注意について",
+      "date": "2026-09-25"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-09-24/",
       "title": "9/26 日本製鉄釜石シーウェイブス戦 メンバーのお知らせ",
@@ -39,7 +44,7 @@
     },
     {
       "url": "https://hino-reddolphins.com/2026-09-17/",
-      "title": "【日野市】日野市立大坂上中学校の職場体験を実施しました",
+      "title": "【日野市】近隣中学校の職場体験を実施しました",
       "date": "2026-09-17"
     },
     {
@@ -86,11 +91,6 @@
       "url": "https://hino-reddolphins.com/2026-08-24/",
       "title": "2026-27シーズン サポーターズクラブについて",
       "date": "2026-08-24"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-08-20/",
-      "title": "9/26 ジャパンラグビーリーグワンライジング2026 日本製鉄釜石シーウェイブス戦 試合運営について",
-      "date": "2026-08-20"
     }
   ]
 }

@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-09-25T00:36:42+09:00",
+  "checked_at": "2026-09-25T18:32:14+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "876534de3af20e64"
+      "hash": "6ffc01cdbd2d3f3a"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "2b06a4760f4a0bfc"
+      "hash": "b4fa0c6e31b34a1d"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2033.html",
+      "title": "ゲーム 2026.09.25 10月10日(土) プレシーズンマッチ vs 東京サントリーサンゴリアス ホストゲーム情報",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2030.html",
+      "title": "イベント 2026.09.25 2026.9.18 浦安警察署 一日警察署長を務めました",
+      "date": "2026-09-25"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2031.html",
       "title": "ゲーム 2026.09.24 2026-27シーズン プレシーズンマッチ 日程更新のお知らせ",
@@ -49,12 +59,12 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2022.html",
-      "title": "イベント 2026.09.11 2026.9.13 バルドラール浦安「KEIYO TEAM6+10周年イベント」参加のお知らせ",
+      "title": "2026.09.11 ニュース 2026.9.13 バルドラール浦安「KEIYO TEAM6+10周年イベント」参加のお知らせ",
       "date": "2026-09-11"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2006.html",
-      "title": "ゲーム 2026.09.09 2026-27シーズン 浦安D-Rocks初となるMUFGスタジアム（国立競技場）での試合開催決定のお知らせ",
+      "title": "2026.09.09 ニュース 2026-27シーズン 浦安D-Rocks初となるMUFGスタジアム（国立競技場）での試合開催決定のお知らせ",
       "date": "2026-09-09"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/event/index_1986.html",
       "title": "2026.07.20 ニュース 2026.7.25「仙台駐屯地 夏まつり」出展のお知らせ",
       "date": "2026-07-20"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_1981.html",
-      "title": "2026.07.10 ニュース 2026-27シーズン 新体制決定のお知らせ",
-      "date": "2026-07-10"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_1980.html",
-      "title": "2026.07.10 ニュース 2026-27シーズン 新加入選手のお知らせ",
-      "date": "2026-07-10"
     }
   ]
 }

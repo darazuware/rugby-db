@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-09-25T00:36:42+09:00",
+  "checked_at": "2026-09-25T18:32:14+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "258cf8245acd8a0b"
+      "hash": "7223d613def275b9"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "d571b6c54771f79e"
+      "hash": "be16a97b1a4f9958"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/all_story/",
+      "title": "【連載企画】東芝ブレイブルーパス東京「物語り」（Vol.204更新）",
+      "date": "2026-09-25"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/",
+      "title": "記事一覧",
+      "date": "2026-09-25"
+    },
     {
       "url": "https://www.bravelupus.com/news/260924-2/",
       "title": "「ルーパス塾 夏期集中トレーニング2026」を実施しました",
@@ -101,11 +111,6 @@
       "url": "https://www.bravelupus.com/news/260820/",
       "title": "BL東京グッズ１0～50％OFF販売のお知らせ",
       "date": "2026-08-20"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/all_story/",
-      "title": "【連載企画】東芝ブレイブルーパス東京「物語り」（Vol.203更新）",
-      "date": "2026-08-17"
     },
     {
       "url": "https://www.bravelupus.com/news/260813/",
