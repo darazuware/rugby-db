@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-25T16:04:28+09:00",
+  "checked_at": "2026-09-25T22:13:20+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,20 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6164",
-          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 一部試合日程および会場追加決定のお知らせ 2026.09.25",
-          "date": "2026-09-25",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6163",
-          "title": "クラブ コベルコ神戸スティーラーズ、NTTリーグワン2026-27 公式戦ジャージーパートナー決定のお知らせ 2026.09.25",
-          "date": "2026-09-25",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -32,7 +19,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54215",
+          "title": "「WXV Global Series 2026」 女子アイルランド代表戦 試合登録メンバーのお知らせ 2026.9.25 （金） 15人制女子日本代表 女子",
+          "date": "2026-09-25",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -46,7 +40,15 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54215",
+      "title": "「WXV Global Series 2026」 女子アイルランド代表戦 試合登録メンバーのお知らせ 2026.9.25 （金） 15人制女子日本代表 女子",
+      "date": "2026-09-25",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }
