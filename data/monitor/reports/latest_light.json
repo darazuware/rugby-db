@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-24T22:08:03+09:00",
+  "checked_at": "2026-09-25T16:04:28+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6164",
+          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 一部試合日程および会場追加決定のお知らせ 2026.09.25",
+          "date": "2026-09-25",
+          "category": null
+        },
+        {
+          "url": "https://league-one.jp/news/6163",
+          "title": "クラブ コベルコ神戸スティーラーズ、NTTリーグワン2026-27 公式戦ジャージーパートナー決定のお知らせ 2026.09.25",
+          "date": "2026-09-25",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,20 +32,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54217",
-          "title": "レポート：女子セブンズ日本代表（サクラセブンズ）／女子セブンズ・デベロップメント・スコッド（SDS）熊谷合宿 2026.9.24 （木） 女子セブンズ日本代表 女子 セブンズ SDS セブンズ・デベロップメント・スコッド",
-          "date": "2026-09-24",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/53989",
-          "title": "（9/24更新）2026年 女子日本代表 女子アイルランド代表戦 開催決定のお知らせ 2026.9.24 （木） 15人制女子日本代表 女子",
-          "date": "2026-09-24",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -46,22 +46,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54217",
-      "title": "レポート：女子セブンズ日本代表（サクラセブンズ）／女子セブンズ・デベロップメント・スコッド（SDS）熊谷合宿 2026.9.24 （木） 女子セブンズ日本代表 女子 セブンズ SDS セブンズ・デベロップメント・スコッド",
-      "date": "2026-09-24",
-      "category": "squad"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/53989",
-      "title": "（9/24更新）2026年 女子日本代表 女子アイルランド代表戦 開催決定のお知らせ 2026.9.24 （木） 15人制女子日本代表 女子",
-      "date": "2026-09-24",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": []
 }
