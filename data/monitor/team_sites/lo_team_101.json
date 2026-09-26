@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-09-26T00:41:12+09:00",
+  "checked_at": "2026-09-26T18:17:08+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "4e7f89af28b5eae8"
+      "hash": "a2afc3a64dee1551"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "4cc2299c3a7c1d76"
+      "hash": "e1f63f2f05444898"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35407/",
+      "title": "2026/9/26 イベント 【レポート】神戸市内トップスポーツチーム4冠達成記念レリーフ除幕式にコーロクンが参加しました",
+      "date": "2026-09-26"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35365/",
       "title": "2026/9/25 チケット NTT リーグワン2026-27 ホストゲームのチケット販売スケジュールのお知らせ",
@@ -319,11 +324,6 @@
       "url": "https://www.kobesteelers.com/news/",
       "title": "2025/11/25 お知らせ チーム公式HPがより便利に！ニュース検索機能を追加しました",
       "date": "2025-11-25"
-    },
-    {
-      "url": "https://www.kobesteelers.com/photolibrary/",
-      "title": "2025/11/12 お知らせ コベルコ神戸スティーラーズフェスタ2025 フォトライブラリーを公開しました",
-      "date": "2025-11-12"
     }
   ]
 }
