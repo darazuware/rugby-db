@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-09-26T23:49:02+09:00",
+  "checked_at": "2026-09-27T18:56:43+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "e40c48790e4649e2"
+      "hash": "bdaa888b7afdce69"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "4fcec7490e5c8ac2"
+      "hash": "8bebcbdab019d31d"
     }
   ],
   "items": [
@@ -109,7 +109,7 @@
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3169",
-      "title": "SCHOOL 2026/9/3 ＜タグラグビークラス＞を9月より新規開設",
+      "title": "2026.9.3[THU] SCHOOL ＜タグラグビークラス＞を9月より新規開設",
       "date": "2026-09-03"
     },
     {

@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-09-26T23:49:02+09:00",
+  "checked_at": "2026-09-27T18:56:43+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "3dbc1c3e6ec08c88"
+      "hash": "34ef3d97c6cc84a9"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "86ffdcae7f2185f9"
+      "hash": "11c89bf4e815cb72"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
@@ -30,9 +30,34 @@
   ],
   "items": [
     {
+      "url": "https://www.skyactivs.com/news/4774",
+      "title": "2026.09.27[SUN] ACTIVITY 朝パッ君健康・スポーツフェスタ2026に参加しました",
+      "date": "2026-09-27"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/4767",
+      "title": "2026.09.26[SAT] ACTIVITY 秋の交通安全運動（JR横川駅前）に参加しました",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/4762",
+      "title": "2026.09.25[FRI] ACTIVITY 秋の交通安全運動（庚午小学校南交差点）に参加しました",
+      "date": "2026-09-25"
+    },
+    {
       "url": "https://www.skyactivs.com/news/4719",
       "title": "2026.09.21[MON] GAME 「ジャパンラグビーリーグワンライジング2026」およびプレシーズンマッチのお知らせ（追加）",
       "date": "2026-09-21"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/4749",
+      "title": "2026.09.20[SUN] ACTIVITY 朝日医療専門学校広島校オープンキャンパスに参加しました",
+      "date": "2026-09-20"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/4737",
+      "title": "2026.09.20[SUN] ACTIVITY 第25回「来て見て乗ってみん祭」に参加しました",
+      "date": "2026-09-20"
     },
     {
       "url": "https://www.skyactivs.com/news/4714",
@@ -91,12 +116,12 @@
     },
     {
       "url": "https://www.skyactivs.com/news/4447",
-      "title": "2026.07.13[MON] ACTIVITY 交通安全運動（庚午小学校前）に参加しました",
+      "title": "2026.07.13[MON] ACTIVITY 夏の交通安全運動（庚午小学校前）に参加しました",
       "date": "2026-07-13"
     },
     {
       "url": "https://www.skyactivs.com/news/4430",
-      "title": "2026.07.11[SAT] ACTIVITY 交通安全運動（JR横川駅前）に参加しました",
+      "title": "2026.07.11[SAT] ACTIVITY 夏の交通安全運動（JR横川駅前）に参加しました",
       "date": "2026-07-11"
     },
     {
@@ -203,31 +228,6 @@
       "url": "https://www.skyactivs.com/news/3973",
       "title": "2026.05.11[MON] ACTIVITY タグラグビーユニファイド体験会を実施しました",
       "date": "2026-05-11"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/3966",
-      "title": "2026.05.11[MON] TEAM アンドリュー・デビッドソン選手、NTTジャパンラグビー リーグワン2025-26 ディビジョン3 最多トライゲッター賞受賞のお知らせ",
-      "date": "2026-05-11"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/3953",
-      "title": "2026.05.11[MON] GAME NTT ジャパンラグビー リーグワン 2025-26 入替戦のお知らせ",
-      "date": "2026-05-11"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/3932",
-      "title": "2026.05.07[THU] GAME 【メンバー発表】vs狭山セコムラガッツ",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/3893",
-      "title": "2026.05.02[SAT] TEAM NTTジャパンラグビー リーグワン2025-26 ディビジョン3優勝のお知らせ",
-      "date": "2026-05-02"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/3882",
-      "title": "2026.04.30[THU] GAME 【メンバー発表】vsクリタウォーターガッシュ昭島",
-      "date": "2026-04-30"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",
