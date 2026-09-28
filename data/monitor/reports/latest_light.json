@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-25T22:13:20+09:00",
+  "checked_at": "2026-09-28T17:09:51+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,8 +9,34 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
-      "rename_signals": []
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6168",
+          "title": "クラブ 東芝ブレイブルーパス東京、2026-27シーズン新加入選手/スタッフ（追加）のお知らせ 2026.09.28",
+          "date": "2026-09-28",
+          "category": "roster"
+        },
+        {
+          "url": "https://league-one.jp/news/6167",
+          "title": "クラブ 東芝ブレイブルーパス東京、チーム名称変更のお知らせ 2026.09.28",
+          "date": "2026-09-28",
+          "category": "rename"
+        },
+        {
+          "url": "https://league-one.jp/news/6166",
+          "title": "クラブ 花園近鉄ライナーズ、2026-27シーズン新加入選手（追加）のお知らせ 2026.09.28",
+          "date": "2026-09-28",
+          "category": "roster"
+        }
+      ],
+      "rename_signals": [
+        {
+          "url": "https://league-one.jp/news/6167",
+          "title": "クラブ 東芝ブレイブルーパス東京、チーム名称変更のお知らせ 2026.09.28",
+          "date": "2026-09-28",
+          "category": "rename"
+        }
+      ]
     },
     {
       "key": "jrfu",
@@ -21,9 +47,15 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54215",
-          "title": "「WXV Global Series 2026」 女子アイルランド代表戦 試合登録メンバーのお知らせ 2026.9.25 （金） 15人制女子日本代表 女子",
-          "date": "2026-09-25",
+          "url": "https://www.rugby-japan.jp/news/54218",
+          "title": "アジアユースリーダーシッププログラム2026 実施のお知らせ 2026.9.28 （月） その他 普及育成",
+          "date": "2026-09-28",
+          "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54198",
+          "title": "（9/28更新）第20回アジア競技大会（愛知・名古屋）ラグビー日本代表選手団のお知らせ 2026.9.28 （月） 男子セブンズ日本代表 女子セブンズ日本代表 セブンズ 男子セブンズ 女子セブンズ アジア競技大会",
+          "date": "2026-09-28",
           "category": "squad"
         }
       ],
@@ -42,13 +74,34 @@
   ],
   "highlights": [
     {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6168",
+      "title": "クラブ 東芝ブレイブルーパス東京、2026-27シーズン新加入選手/スタッフ（追加）のお知らせ 2026.09.28",
+      "date": "2026-09-28",
+      "category": "roster"
+    },
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6166",
+      "title": "クラブ 花園近鉄ライナーズ、2026-27シーズン新加入選手（追加）のお知らせ 2026.09.28",
+      "date": "2026-09-28",
+      "category": "roster"
+    },
+    {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54215",
-      "title": "「WXV Global Series 2026」 女子アイルランド代表戦 試合登録メンバーのお知らせ 2026.9.25 （金） 15人制女子日本代表 女子",
-      "date": "2026-09-25",
+      "url": "https://www.rugby-japan.jp/news/54198",
+      "title": "（9/28更新）第20回アジア競技大会（愛知・名古屋）ラグビー日本代表選手団のお知らせ 2026.9.28 （月） 男子セブンズ日本代表 女子セブンズ日本代表 セブンズ 男子セブンズ 女子セブンズ アジア競技大会",
+      "date": "2026-09-28",
       "category": "squad"
     }
   ],
-  "league_rename_news": [],
+  "league_rename_news": [
+    {
+      "url": "https://league-one.jp/news/6167",
+      "title": "クラブ 東芝ブレイブルーパス東京、チーム名称変更のお知らせ 2026.09.28",
+      "date": "2026-09-28",
+      "category": "rename"
+    }
+  ],
   "warnings": []
 }
