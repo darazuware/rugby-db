@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-09-28T19:47:27+09:00",
+  "checked_at": "2026-09-29T03:19:02+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "e2baadfc1ec54b97"
+      "hash": "ae2afc4516ba78e6"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "dd6dfad9037a14e5"
+      "hash": "281b9c277ddeda18"
     }
   ],
   "items": [
@@ -31,6 +31,11 @@
       "url": "https://www.kurita-watergush.jp/game/20261003-m%e6%88%90%e7%94%b0-vswg%e6%98%ad%e5%b3%b6/",
       "title": "このゲームの詳細情報はこちら",
       "date": "2026-10-03"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20260928-2/",
+      "title": "地域貢献 2026/09/28 【イベント報告】モリタウン チームPR活動実施",
+      "date": "2026-09-28"
     },
     {
       "url": "https://www.kurita-watergush.jp/20260924-3/",
@@ -69,7 +74,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20260818-2/",
-      "title": "地域貢献 2026/08/18 【イベント報告】福島神社祭礼 神輿渡御参加",
+      "title": "お知らせ 公開日：2026/08/18 【イベント報告】福島神社祭礼 神輿渡御参加 （左から：河井祐樹、細矢一颯。大谷晃生） 実施日：8月16日（日）実施場所：福島神社境内ほか 昭島市・福… 続きを読む",
       "date": "2026-08-18"
     },
     {
@@ -231,11 +236,6 @@
       "url": "https://www.kurita-watergush.jp/20251110-2/",
       "title": "お知らせ 公開日：2025/11/10 11月15日（土）プレシーズンマッチ 中央大学戦のご案内 ■タイムスケジュールについて 11:30 開場（予定） 13:00 K.O（50分：1st 20分 / 2nd 20分 / 3rd 10分） 試… 続きを読む",
       "date": "2025-11-10"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20251021-2/",
-      "title": "お知らせ 公開日：2026/03/06 チケット販売スケジュール及び新席種販売のお知らせ（※3月6日更新） いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 「NTTジャパン… 続きを読む",
-      "date": "2025-10-21"
     }
   ]
 }
