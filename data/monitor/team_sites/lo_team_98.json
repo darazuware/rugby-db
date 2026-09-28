@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-09-28T00:28:00+09:00",
+  "checked_at": "2026-09-28T19:47:27+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "4a4e5c76e1ec2fbc"
+      "hash": "afd71c672a097c46"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "342972e7c385abb4"
+      "hash": "6dc678670e28e431"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3199",
+      "title": "2026.9.28[MON] SCHOOL ＜スクール・アカデミー＞秋の新規入会キャンペーンがスタート",
+      "date": "2026-09-28"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3197",
       "title": "2026.9.24[THU] TEAM ポジション変更のお知らせ",
@@ -105,11 +110,6 @@
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3170",
       "title": "2026.9.3[THU] HOST AREA 【ホストエリア活動】三島市 で静岡ブルーレヴズラグビー体験会を実施しました",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3169",
-      "title": "2026.9.3[THU] SCHOOL ＜タグラグビークラス＞を9月より新規開設",
       "date": "2026-09-03"
     },
     {

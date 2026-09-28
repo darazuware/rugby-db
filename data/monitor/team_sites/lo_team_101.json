@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-09-28T00:28:00+09:00",
+  "checked_at": "2026-09-28T19:47:27+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "a2afc3a64dee1551"
+      "hash": "64eb835f83c73516"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "e1f63f2f05444898"
+      "hash": "7ab6f3f07b1d106c"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/interview/post35414/",
+      "title": "2026/9/28 試合 【試合レポート】 9月26日(土) ジャパンラグビー リーグワン ライジング2026 中国電力レッドレグリオンズ戦",
+      "date": "2026-09-28"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35407/",
       "title": "2026/9/26 イベント 【レポート】神戸市内トップスポーツチーム4冠達成記念レリーフ除幕式にコーロクンが参加しました",
@@ -224,11 +229,6 @@
       "url": "https://www.kobesteelers.com/news/post35105/",
       "title": "2026/8/27 普及 【レポート】「スポフェスKOBE～未来へつなぐスポーツ体験プログラム～」に参加しました",
       "date": "2026-08-27"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35086/",
-      "title": "2026/8/20 メディア 8月23日(日) 「DaiwaHouseスペシャル このまちのために ～神戸ラグビー 優勝とレガシー～」特番放送のお知らせ",
-      "date": "2026-08-20"
     },
     {
       "url": "https://www.kobesteelers.com/news/post34948/",

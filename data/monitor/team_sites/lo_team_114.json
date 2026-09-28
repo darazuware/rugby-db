@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-09-28T00:28:00+09:00",
+  "checked_at": "2026-09-28T19:47:27+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "c1474eef5e1c53f0"
+      "hash": "2a7793ba066964ba"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "bcf49ad635ab906f"
+      "hash": "7f4a4ff681ad9696"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/09/28/2026-27new-player/",
+      "title": "2026.09.28 チーム情報 2026-27シーズン新加入選手（追加）のお知らせ",
+      "date": "2026-09-28"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/09/25/liners-fanclub-5/",
       "title": "2026.09.25 ファンクラブ 【LINERS FANCLUB】システムメンテナンスのお知らせ",
@@ -54,7 +59,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/09/07/9-13-event/",
-      "title": "2026.09.07 その他 9/13 花園図書館で開催の「ラグビー講習会」に、ライナーズの選手が参加します。",
+      "title": "2026-09-07 その他 9/13 花園図書館で開催の「ラグビー講習会」に、ライナーズの選手が参加します。",
       "date": "2026-09-07"
     },
     {
@@ -86,11 +91,6 @@
       "url": "https://hanazono-liners.jp/2026/08/24/news-event/",
       "title": "2026-08-24 イベント 8/29(土) 「おおきに祭り」に、ライナーズの選手が参加します",
       "date": "2026-08-24"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/08/20/report-miyashita-3/",
-      "title": "2026-08-20 チーム情報 オーストラリア留学レポート 宮下 大輝 選手編",
-      "date": "2026-08-20"
     },
     {
       "url": "https://hanazono-liners.jp/2026/08/20/liners-fanclub2026-27/",

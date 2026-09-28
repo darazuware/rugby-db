@@ -3,29 +3,44 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-09-28T00:28:00+09:00",
+  "checked_at": "2026-09-28T19:47:27+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "b6942a40c779dfad"
+      "hash": "1690596a69e0bdec"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "90b53bacaa53f999"
+      "hash": "70a339d43330a038"
     }
   ],
   "items": [
     {
+      "url": "https://www.bravelupus.com/news/260928/",
+      "title": "東芝ブレイブルーパス東京 チーム名称変更のお知らせ",
+      "date": "2026-09-28"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260928-2/",
+      "title": "2026-27シーズン新加入選手、スタッフ（追加）のお知らせ",
+      "date": "2026-09-28"
+    },
+    {
       "url": "https://www.bravelupus.com/news/",
       "title": "記事一覧",
-      "date": "2026-09-26"
+      "date": "2026-09-28"
     },
     {
       "url": "https://www.bravelupus.com/news/all_story/",
       "title": "【連載企画】東芝ブレイブルーパス東京「物語り」（Vol.204更新）",
       "date": "2026-09-25"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260924/",
+      "title": "【アジアプロジェクト】タイ代表 Pachara Polpathapee選手がチーム活動に参加しました。",
+      "date": "2026-09-24"
     },
     {
       "url": "https://www.bravelupus.com/news/260924-2/",
@@ -206,21 +221,6 @@
       "url": "https://www.bravelupus.com/news/20260624/",
       "title": "ECによるグッズ販売停止のお知らせ",
       "date": "2026-06-24"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260611-2/",
-      "title": "2026-27シーズン 新加入選手のお知らせ",
-      "date": "2026-06-11"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260610/",
-      "title": "男子日本代表 宮崎合宿 参加メンバーのお知らせ",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/20260603/",
-      "title": "６月７日（日）リーグワンヴィレッジにてグッズショップを出店します",
-      "date": "2026-06-03"
     },
     {
       "url": "https://www.bravelupus.com/game/https-www-bravelupus-com-game-ntt-japan-rugby-league-one-2025-26-play-offs-quarterfinal/",

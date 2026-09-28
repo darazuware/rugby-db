@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-09-28T00:28:00+09:00",
+  "checked_at": "2026-09-28T19:47:27+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "a8bd4d725c143866"
+      "hash": "717f6610a1d2d14c"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "284429f826c03a5b"
+      "hash": "0e0704dc93419b8e"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2457/",
+      "title": "2026/9/28 【ファンクラブ】公式ファンクラブCLUB HEAT 2026-27シーズン入会手順のご案内",
+      "date": "2026-09-28"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2456/",
+      "title": "トピックス 2026.9.28 男子セブンズ日本代表 選出のお知らせ",
+      "date": "2026-09-28"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2451/",
+      "title": "2026/9/28 「ホンダヒート ゆいの杜ラグビーパーク」での練習見学に関するお願い",
+      "date": "2026-09-28"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2450/",
       "title": "イベント 2026.9.23 【ホストタウン活動】「一日警察署長任命式」および「秋の交通安全啓発広報活動」参加のお知らせ",
@@ -54,7 +69,7 @@
     },
     {
       "url": "https://www.honda-heat.jp/news/2438/",
-      "title": "トピックス 2026.9.12 【トレーニングマッチ 】10/3(土) 日本製鉄釜石シーウェイブス戦 試合案内",
+      "title": "2026/9/12 【トレーニングマッチ 】10/3(土) 日本製鉄釜石シーウェイブス戦 試合案内",
       "date": "2026-09-12"
     },
     {
@@ -118,24 +133,9 @@
       "date": "2026-08-24"
     },
     {
-      "url": "https://www.honda-heat.jp/news/2418/",
-      "title": "トピックス 2026.8.18 男子セブンズ デベロップメント・スコッド（SDS）福岡合宿 参加のお知らせ",
-      "date": "2026-08-18"
-    },
-    {
       "url": "https://www.honda-heat.jp/news/2414/",
       "title": "イベント 2026.8.18 【ホストタウン活動】イオンモール鈴鹿のフードコートで「選手と一緒に食事体験」を実施いたしました。",
       "date": "2026-08-18"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2417/",
-      "title": "トピックス 2026.8.7 栃木ホンダヒート事務局およびヒートファンクラブ事務局 夏季休業のお知らせ",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2416/",
-      "title": "イベント 2026.8.7 2026-27プレシーズン マッチ日程決定のお知らせ",
-      "date": "2026-08-07"
     },
     {
       "url": "https://www.honda-heat.jp/hostgame/20260509/",

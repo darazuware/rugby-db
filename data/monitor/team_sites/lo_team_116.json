@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-09-28T00:28:00+09:00",
+  "checked_at": "2026-09-28T19:47:27+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "05056830a0445b13"
+      "hash": "54c9967042972521"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "b10266223b50b5d7"
+      "hash": "bf20542c137cd063"
     }
   ],
   "items": [
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8885",
+      "title": "お知らせ 2026年9月28日 ALESSA様の訃報に接して",
+      "date": "2026-09-28"
+    },
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8881",
       "title": "お知らせ 2026年9月24日 ラグビー体験イベント in イオンモール堺北花田 開催のお知らせ",

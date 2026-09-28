@@ -3,25 +3,25 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-09-28T00:28:00+09:00",
+  "checked_at": "2026-09-28T19:47:27+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "429160fa5a257c86"
+      "hash": "e70b87c7d1d72b6c"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "668f9754110f8422"
+      "hash": "0a9941737cb389e8"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "8af3dc0416442f90"
+      "hash": "68ea947d3bd3cc70"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "efe5e5e06b2fb4ce"
+      "hash": "9e5a5c1bca28bb49"
     }
   ],
   "items": [
