@@ -1,0 +1,584 @@
+[
+  {
+    "id": "ar_adam-mckenzie",
+    "name_en": "Adam MCKENZIE",
+    "name_ja": null,
+    "team_id": "edinburgh"
+  },
+  {
+    "id": "ar_alec-hepburn",
+    "name_en": "Alec HEPBURN",
+    "name_ja": null,
+    "team_id": "edinburgh"
+  },
+  {
+    "id": "ar_alzeadon-felix",
+    "name_en": "Alzeadon FELIX",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_andre-riaan-warner",
+    "name_en": "André Riaan WARNER",
+    "name_ja": null,
+    "team_id": "stormers"
+  },
+  {
+    "id": "ar_antony-miranda",
+    "name_en": "Antony MIRANDA",
+    "name_ja": null,
+    "team_id": "benetton"
+  },
+  {
+    "id": "ar_archie-appleby",
+    "name_en": "Archie APPLEBY",
+    "name_ja": null,
+    "team_id": "edinburgh"
+  },
+  {
+    "id": "ar_artur-smykovskiy",
+    "name_en": "Artur SMYKOVSKIY",
+    "name_ja": null,
+    "team_id": "leinster"
+  },
+  {
+    "id": "ar_asad-moos",
+    "name_en": "Asad MOOS",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_ben-blaney",
+    "name_en": "Ben BLANEY",
+    "name_ja": null,
+    "team_id": "leinster"
+  },
+  {
+    "id": "ar_ben-mcdonald",
+    "name_en": "Ben MCDONALD",
+    "name_ja": null,
+    "team_id": "edinburgh"
+  },
+  {
+    "id": "ar_blake-mcclean",
+    "name_en": "Blake MCCLEAN",
+    "name_ja": null,
+    "team_id": "ulster"
+  },
+  {
+    "id": "ar_boan-venter",
+    "name_en": "Boan VENTER",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_boeta-chamberlain",
+    "name_en": "Boeta CHAMBERLAIN",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_callum-reidy",
+    "name_en": "Callum REIDY",
+    "name_ja": null,
+    "team_id": "glasgow"
+  },
+  {
+    "id": "ar_cecil-parsons",
+    "name_en": "Cecil PARSONS",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_charlie-ewels",
+    "name_en": "Charlie EWELS",
+    "name_ja": null,
+    "team_id": "glasgow"
+  },
+  {
+    "id": "ar_charlie-molony",
+    "name_en": "Charlie MOLONY",
+    "name_ja": null,
+    "team_id": "leinster"
+  },
+  {
+    "id": "ar_charlie-o-connor",
+    "name_en": "Charlie O'CONNOR",
+    "name_ja": null,
+    "team_id": "ulster"
+  },
+  {
+    "id": "ar_chay-mullins",
+    "name_en": "Chay MULLINS",
+    "name_ja": null,
+    "team_id": "ulster"
+  },
+  {
+    "id": "ar_connor-mcvicker",
+    "name_en": "Connor MCVICKER",
+    "name_ja": null,
+    "team_id": "ulster"
+  },
+  {
+    "id": "ar_cyle-brink",
+    "name_en": "Cyle BRINK",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_dan-kelly-",
+    "name_en": "Dan KELLY",
+    "name_ja": null,
+    "team_id": "edinburgh"
+  },
+  {
+    "id": "ar_daniel-hawkshaw",
+    "name_en": "Daniel HAWKSHAW",
+    "name_ja": null,
+    "team_id": "ulster"
+  },
+  {
+    "id": "ar_daniel-kasende",
+    "name_en": "Daniel KASENDE",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_darrien-lane-landsberg",
+    "name_en": "Darrien LANDSBERG",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_deon-slabbert",
+    "name_en": "Deon SLABBERT",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_dylan-mcneice",
+    "name_en": "Dylan MCNEICE",
+    "name_ja": null,
+    "team_id": "leinster"
+  },
+  {
+    "id": "ar_eduardo-bello",
+    "name_en": "Eduardo BELLO",
+    "name_ja": null,
+    "team_id": "ulster"
+  },
+  {
+    "id": "ar_eli-snyman",
+    "name_en": "Eli SNYMAN",
+    "name_ja": null,
+    "team_id": "ulster"
+  },
+  {
+    "id": "ar_ethan-adams",
+    "name_en": "Ethan ADAMS",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_federico-pisani",
+    "name_en": "Federico PISANI",
+    "name_ja": null,
+    "team_id": "zebre"
+  },
+  {
+    "id": "ar_filippo-alongi",
+    "name_en": "Filippo ALONGI",
+    "name_ja": null,
+    "team_id": "zebre"
+  },
+  {
+    "id": "ar_geordie-gwynn",
+    "name_en": "Geordie GWYNN",
+    "name_ja": null,
+    "team_id": "edinburgh"
+  },
+  {
+    "id": "ar_gianni-lombard",
+    "name_en": "Gianni LOMBARD",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_gilermo-mentoe",
+    "name_en": "Gilermo MENTOE",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_harry-clark",
+    "name_en": "Harry CLARK",
+    "name_ja": null,
+    "team_id": "edinburgh"
+  },
+  {
+    "id": "ar_harry-goslin",
+    "name_en": "Harry GOSLIN",
+    "name_ja": null,
+    "team_id": "leinster"
+  },
+  {
+    "id": "ar_harry-jackaman",
+    "name_en": "Harry JACKAMAN",
+    "name_ja": null,
+    "team_id": "edinburgh"
+  },
+  {
+    "id": "ar_harry-soboil",
+    "name_en": "Harry SOBOIL",
+    "name_ja": null,
+    "team_id": "edinburgh"
+  },
+  {
+    "id": "ar_hassiem-pead",
+    "name_en": "Haashim PEAD",
+    "name_ja": null,
+    "team_id": "stormers"
+  },
+  {
+    "id": "ar_hyron-andrews",
+    "name_en": "Hyron ANDREWS",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_ioan-emanuel",
+    "name_en": "Ioan EMANUEL",
+    "name_ja": null,
+    "team_id": "glasgow"
+  },
+  {
+    "id": "ar_jacques-du-plessis",
+    "name_en": "Jacques DU PLESSIS",
+    "name_ja": null,
+    "team_id": "glasgow"
+  },
+  {
+    "id": "ar_james-grayson",
+    "name_en": "James GRAYSON",
+    "name_ja": null,
+    "team_id": "edinburgh"
+  },
+  {
+    "id": "ar_james-schnetler",
+    "name_en": "James SCHNETLER",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_jamie-benson",
+    "name_en": "Jamie BENSON",
+    "name_ja": null,
+    "team_id": "ulster"
+  },
+  {
+    "id": "ar_janko-swanepoel",
+    "name_en": "Janko SWANEPOEL",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_jannes-kirsten",
+    "name_en": "Jannes KIRSTEN",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_jason-hugo",
+    "name_en": "Jason HUGO",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_jd-hattingh",
+    "name_en": "JD HATTINGH",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_jed-findlay",
+    "name_en": "Jed FINDLAY",
+    "name_ja": null,
+    "team_id": "ulster"
+  },
+  {
+    "id": "ar_joe-van-zyl",
+    "name_en": "Joe VAN ZYL",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_joey-carbery",
+    "name_en": "Joey CARBERY",
+    "name_ja": null,
+    "team_id": "leinster"
+  },
+  {
+    "id": "ar_john-mckee",
+    "name_en": "John MCKEE",
+    "name_ja": null,
+    "team_id": "scarlets"
+  },
+  {
+    "id": "ar_josh-mcnally",
+    "name_en": "Josh MCNALLY",
+    "name_ja": null,
+    "team_id": "glasgow"
+  },
+  {
+    "id": "ar_jp-du-preez",
+    "name_en": "JP DU PREEZ",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_juan-barbotti",
+    "name_en": "Juan BARBOTTI",
+    "name_ja": null,
+    "team_id": "zebre"
+  },
+  {
+    "id": "ar_juan-ignacio-castellano",
+    "name_en": "Juan-Ignacio CASTELLANO",
+    "name_ja": null,
+    "team_id": "zebre"
+  },
+  {
+    "id": "ar_keagan-smith",
+    "name_en": "Keagan SMITH",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_keynan-knox",
+    "name_en": "Keynan KNOX",
+    "name_ja": null,
+    "team_id": "ulster"
+  },
+  {
+    "id": "ar_kienan-higgins",
+    "name_en": "Kienan HIGGINS",
+    "name_ja": null,
+    "team_id": "edinburgh"
+  },
+  {
+    "id": "ar_likhona-finca",
+    "name_en": "Likhona FINCA",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_louie-chapman",
+    "name_en": "Louie CHAPMAN",
+    "name_ja": null,
+    "team_id": "edinburgh"
+  },
+  {
+    "id": "ar_luke-cannon",
+    "name_en": "Luke CANNON",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_mahle-sithole",
+    "name_en": "Mahle SITHOLE",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_mahon-ronan",
+    "name_en": "Mahon RONAN",
+    "name_ja": null,
+    "team_id": "ulster"
+  },
+  {
+    "id": "ar_marco-ferreira",
+    "name_en": "Marco FERREIRA",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_marno-grobbelaar",
+    "name_en": "Marno GROBBELAAR",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_martin-moloney",
+    "name_en": "Martin MOLONEY",
+    "name_ja": null,
+    "team_id": "ulster"
+  },
+  {
+    "id": "ar_matt-devine",
+    "name_en": "Matt DEVINE",
+    "name_ja": null,
+    "team_id": "ulster"
+  },
+  {
+    "id": "ar_matthew-fick",
+    "name_en": "Matthew FICK",
+    "name_ja": null,
+    "team_id": "edinburgh"
+  },
+  {
+    "id": "ar_max-doyle",
+    "name_en": "Max DOYLE",
+    "name_ja": null,
+    "team_id": "leinster"
+  },
+  {
+    "id": "ar_merwe-olivier",
+    "name_en": "Merwe OLIVIER",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_mihlali-mosi",
+    "name_en": "Mihlali MOSI",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_morgan-naude",
+    "name_en": "Morgan NAUDÉ",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_morne-venter",
+    "name_en": "Morné VENTER",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_oli-anderson",
+    "name_en": "Oli ANDERSON",
+    "name_ja": null,
+    "team_id": "edinburgh"
+  },
+  {
+    "id": "ar_ollie-duncan",
+    "name_en": "Ollie DUNCAN",
+    "name_ja": null,
+    "team_id": "edinburgh"
+  },
+  {
+    "id": "ar_peter-dooley",
+    "name_en": "Peter DOOLEY",
+    "name_ja": null,
+    "team_id": "leinster"
+  },
+  {
+    "id": "ar_riley-higgins",
+    "name_en": "Riley HIGGINS",
+    "name_ja": null,
+    "team_id": "edinburgh"
+  },
+  {
+    "id": "ar_robert-hunt",
+    "name_en": "Robert HUNT",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_ruan-nortje",
+    "name_en": "Ruan NORTJÉ",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_ruan-swart",
+    "name_en": "Ruan SWART",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_sami-bishti",
+    "name_en": "Sami BISHTI",
+    "name_ja": null,
+    "team_id": "leinster"
+  },
+  {
+    "id": "ar_seb-lombard",
+    "name_en": "Seb LOMBARD",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_sikhumbuzo-notshe",
+    "name_en": "Sikhumbuzo NOTSHE",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_simphiwe-matanzima",
+    "name_en": "Simphiwe MATANZIMA",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_thando-biyela",
+    "name_en": "Thando BIYELA",
+    "name_ja": null,
+    "team_id": "lions"
+  },
+  {
+    "id": "ar_thomas-du-toit",
+    "name_en": "Thomas DU TOIT",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_tiaan-lange",
+    "name_en": "Tiaan LANGE",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_tielman-nieuwoudt",
+    "name_en": "Tielman NIEUWOUDT",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_toby-overson",
+    "name_en": "Toby OVERSON",
+    "name_ja": null,
+    "team_id": "edinburgh"
+  },
+  {
+    "id": "ar_tom-bell",
+    "name_en": "Tom BELL",
+    "name_ja": null,
+    "team_id": "ulster"
+  },
+  {
+    "id": "ar_tyrese-abolarin",
+    "name_en": "Tyrese ABOLARIN",
+    "name_ja": null,
+    "team_id": "ulster"
+  },
+  {
+    "id": "ar_wilco-louw",
+    "name_en": "Wilco LOUW",
+    "name_ja": null,
+    "team_id": "sharks"
+  },
+  {
+    "id": "ar_zane-bester",
+    "name_en": "Zane BESTER",
+    "name_ja": null,
+    "team_id": "zebre"
+  },
+  {
+    "id": "ar_zian-cilliers",
+    "name_en": "Zian CILLIERS",
+    "name_ja": null,
+    "team_id": "lions"
+  }
+]

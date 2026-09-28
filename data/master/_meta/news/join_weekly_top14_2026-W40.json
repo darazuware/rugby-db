@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ar_charlie-shortall",
+    "name_en": "Charlie SHORTALL",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_enzo-jean",
+    "name_en": "Enzo JEAN",
+    "name_ja": null,
+    "team_id": "toulon"
+  },
+  {
+    "id": "ar_ethan-staddon",
+    "name_en": "Ethan STADDON",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_ewan-richards",
+    "name_en": "Ewan RICHARDS",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_maximus-worsley",
+    "name_en": "Max WORSLEY",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_oscar-shortall",
+    "name_en": "Oscar SHORTALL",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  },
+  {
+    "id": "ar_uwe-kamoto",
+    "name_en": "Uwé KAMOTO",
+    "name_ja": null,
+    "team_id": "la-rochelle"
+  }
+]

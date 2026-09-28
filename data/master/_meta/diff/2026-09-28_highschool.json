@@ -1,0 +1,354 @@
+{
+  "league": "highschool",
+  "signings": [
+    {
+      "id": "hs_流通経済大学付属柏高校__フォラウ蔵人",
+      "name_en": null,
+      "name_ja": "フォラウ 蔵人",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__三倉大知",
+      "name_en": null,
+      "name_ja": "三倉 大知",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__中内晃",
+      "name_en": null,
+      "name_ja": "中内 晃",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__仲宗根光星",
+      "name_en": null,
+      "name_ja": "仲宗根 光星",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__佐藤蒼太",
+      "name_en": null,
+      "name_ja": "佐藤 蒼太",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__佐藤迅汰朗",
+      "name_en": null,
+      "name_ja": "佐藤 迅汰朗",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__八頭司隼仁",
+      "name_en": null,
+      "name_ja": "八頭司 隼仁",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__北詰煌",
+      "name_en": null,
+      "name_ja": "北詰 煌",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__古澤洋夢",
+      "name_en": null,
+      "name_ja": "古澤 洋夢",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__呉華演",
+      "name_en": null,
+      "name_ja": "呉 華演",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__夏目朋和",
+      "name_en": null,
+      "name_ja": "夏目 朋和",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__多田颯良",
+      "name_en": null,
+      "name_ja": "多田 颯良",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__太田湊翼",
+      "name_en": null,
+      "name_ja": "太田 湊翼",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__山川琥太郎",
+      "name_en": null,
+      "name_ja": "山川 琥太郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__岡本瑠翔",
+      "name_en": null,
+      "name_ja": "岡本 瑠翔",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__木村隆斗",
+      "name_en": null,
+      "name_ja": "木村 隆斗",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__本藏和真",
+      "name_en": null,
+      "name_ja": "本藏 和真",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__板垣八獅",
+      "name_en": null,
+      "name_ja": "板垣 八獅",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__桑畑遼大",
+      "name_en": null,
+      "name_ja": "桑畑 遼大",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__森谷雄大",
+      "name_en": null,
+      "name_ja": "森谷 雄大",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__田野亮太",
+      "name_en": null,
+      "name_ja": "田野 亮太",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__相田遥",
+      "name_en": null,
+      "name_ja": "相田 遥",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__矢田部陽真",
+      "name_en": null,
+      "name_ja": "矢田部 陽真",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__石内快",
+      "name_en": null,
+      "name_ja": "石内 快",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__福元星麗",
+      "name_en": null,
+      "name_ja": "福元 星麗",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__笠原充斗",
+      "name_en": null,
+      "name_ja": "笠原 充斗",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__笠原瑛斗",
+      "name_en": null,
+      "name_ja": "笠原 瑛斗",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__笠村祥仁郎",
+      "name_en": null,
+      "name_ja": "笠村 祥仁郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__細金賢太",
+      "name_en": null,
+      "name_ja": "細金 賢太",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__興津梁永",
+      "name_en": null,
+      "name_ja": "興津 梁永",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__鈴木健太",
+      "name_en": null,
+      "name_ja": "鈴木 健太",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__鈴木拓望",
+      "name_en": null,
+      "name_ja": "鈴木 拓望",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__高橋優志",
+      "name_en": null,
+      "name_ja": "高橋 優志",
+      "team_id": null
+    }
+  ],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [],
+  "pending_departures": [
+    {
+      "id": "hs_流通経済大学付属柏高校__ナモア-フェレティリキ",
+      "name_en": null,
+      "name_ja": "ナモア・フェレティリキ",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__フォラウ隼人",
+      "name_en": null,
+      "name_ja": "フォラウ 隼人",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__二木心大",
+      "name_en": null,
+      "name_ja": "二木 心大",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__大門歩瑠",
+      "name_en": null,
+      "name_ja": "大門 歩瑠",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__山中悠史",
+      "name_en": null,
+      "name_ja": "山中 悠史",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__山根陸",
+      "name_en": null,
+      "name_ja": "山根 陸",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__岡田聖悟",
+      "name_en": null,
+      "name_ja": "岡田 聖悟",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__早坂透真",
+      "name_en": null,
+      "name_ja": "早坂 透真",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__渡辺翔",
+      "name_en": null,
+      "name_ja": "渡辺 翔",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__甲斐翔大",
+      "name_en": null,
+      "name_ja": "甲斐 翔大",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__石村ビシャル",
+      "name_en": null,
+      "name_ja": "石村 ビシャル",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__福山太陽",
+      "name_en": null,
+      "name_ja": "福山 太陽",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__笠村晃太郎",
+      "name_en": null,
+      "name_ja": "笠村 晃太郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__芦康介",
+      "name_en": null,
+      "name_ja": "芦 康介",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__荒井幹太",
+      "name_en": null,
+      "name_ja": "荒井 幹太",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__荻原干城",
+      "name_en": null,
+      "name_ja": "荻原 干城",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__藤倉悠輝",
+      "name_en": null,
+      "name_ja": "藤倉 悠輝",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__西山凱渡",
+      "name_en": null,
+      "name_ja": "西山 凱渡",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__近澤響生",
+      "name_en": null,
+      "name_ja": "近澤 響生",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__長谷川煌詞",
+      "name_en": null,
+      "name_ja": "長谷川 煌詞",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__長野快音",
+      "name_en": null,
+      "name_ja": "長野 快音",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__阿部虎生",
+      "name_en": null,
+      "name_ja": "阿部 虎生",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__高柳大聖",
+      "name_en": null,
+      "name_ja": "高柳 大聖",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__髙梨太吾",
+      "name_en": null,
+      "name_ja": "髙梨 太吾",
+      "team_id": null
+    }
+  ],
+  "newly_finished_rounds": []
+}

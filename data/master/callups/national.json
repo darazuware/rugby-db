@@ -4,12 +4,12 @@
     "league": "national",
     "source": "rugby-japan.jp",
     "source_url": "https://www.rugby-japan.jp/news/53968",
-    "scraped_at": "2026-08-13T10:06:20+09:00",
+    "scraped_at": "2026-09-28T12:01:27+09:00",
     "news_id": "53968",
     "kind": "camp",
-    "title": "（8/6更新）男子日本代表 宮崎合宿 参加メンバーのお知らせ",
+    "title": "（9/21更新）男子日本代表 宮崎合宿 参加メンバーのお知らせ",
     "venue": "宮崎県屋外型トレーニングセンター",
-    "start_date": "2026-06-13",
+    "start_date": "2027-03-01",
     "members": [
       {
         "player_id": "ar_sojiro-otsuka",
@@ -28,7 +28,7 @@
         "caps": 8
       },
       {
-        "player_id": null,
+        "player_id": "jrfu_callup_yota-kamimori",
         "name_ja": "紙森 陽太 ※7.",
         "name_en": "Yota KAMIMORI",
         "position_group": "FW",
@@ -140,7 +140,7 @@
         "caps": 23
       },
       {
-        "player_id": null,
+        "player_id": "jrfu_callup_waisake-raratubua",
         "name_ja": "ワイサケ・ララトゥブア",
         "name_en": "Waisake RARATUBUA",
         "position_group": "FW",
@@ -180,7 +180,7 @@
         "caps": 28
       },
       {
-        "player_id": null,
+        "player_id": "jrfu_callup_takuro-hojo",
         "name_ja": "北條 拓郎 ※1. ※11.",
         "name_en": "Takuro HOJO",
         "position_group": "BK",
@@ -188,7 +188,7 @@
         "caps": 0
       },
       {
-        "player_id": "jrfu_national_510438",
+        "player_id": "jrfu_callup_haruto-watanabe",
         "name_ja": "渡邊 晴斗 ※1.",
         "name_en": "Haruto WATANABE",
         "position_group": "BK",
@@ -220,7 +220,7 @@
         "caps": 3
       },
       {
-        "player_id": null,
+        "player_id": "jrfu_callup_shogo-nakano",
         "name_ja": "中野 将伍 ※11.",
         "name_en": "Shogo NAKANO",
         "position_group": "BK",
@@ -260,7 +260,7 @@
         "caps": 2
       },
       {
-        "player_id": "jrfu_national_510441",
+        "player_id": "ar_haruto-kida",
         "name_ja": "木田 晴斗 ※11.",
         "name_en": "Haruto KIDA",
         "position_group": "BK",
@@ -268,7 +268,7 @@
         "caps": 2
       },
       {
-        "player_id": "jrfu_national_510411",
+        "player_id": "ar_inoke-burua",
         "name_ja": "イノケ・ブルア",
         "name_en": "Inoke BURUA",
         "position_group": "BK",

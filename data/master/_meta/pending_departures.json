@@ -147,12 +147,6 @@
       "name_ja": null,
       "team_id": "bordeaux"
     },
-    "ar_enzo-jean": {
-      "id": "ar_enzo-jean",
-      "name_en": "Enzo JEAN",
-      "name_ja": null,
-      "team_id": "toulon"
-    },
     "ar_esteban-morvan": {
       "id": "ar_esteban-morvan",
       "name_en": "Esteban MORVAN",
@@ -2144,6 +2138,12 @@
       "name_en": "Paul JEDRASIAK",
       "name_ja": null,
       "team_id": "castres"
+    },
+    "ar_noa-zinzen": {
+      "id": "ar_noa-zinzen",
+      "name_en": "Noa ZINZEN",
+      "name_ja": null,
+      "team_id": "racing-92"
     }
   },
   "super-rugby": {
@@ -2259,12 +2259,6 @@
       "name_ja": null,
       "team_id": "sharks"
     },
-    "ar_alec-hepburn": {
-      "id": "ar_alec-hepburn",
-      "name_en": "Alec HEPBURN",
-      "name_ja": null,
-      "team_id": "scarlets"
-    },
     "ar_amine-maalla": {
       "id": "ar_amine-maalla",
       "name_en": "Amine MAALLA",
@@ -2300,12 +2294,6 @@
       "name_en": "Dan GEMINE",
       "name_ja": null,
       "team_id": "scarlets"
-    },
-    "ar_daniel-kasende": {
-      "id": "ar_daniel-kasende",
-      "name_en": "Daniel KASENDE",
-      "name_ja": null,
-      "team_id": "ospreys"
     },
     "ar_dewi-lake": {
       "id": "ar_dewi-lake",
@@ -2535,12 +2523,6 @@
       "name_ja": null,
       "team_id": "glasgow"
     },
-    "ar_chay-mullins": {
-      "id": "ar_chay-mullins",
-      "name_en": "Chay MULLINS",
-      "name_ja": null,
-      "team_id": "connacht"
-    },
     "ar_christopher-vaotoa": {
       "id": "ar_christopher-vaotoa",
       "name_en": "Christopher VAOTOA",
@@ -2618,12 +2600,6 @@
       "name_en": "Éanna MCCARTHY",
       "name_ja": null,
       "team_id": "connacht"
-    },
-    "ar_eli-snyman": {
-      "id": "ar_eli-snyman",
-      "name_en": "Eli SNYMAN",
-      "name_ja": null,
-      "team_id": "benetton"
     },
     "ar_enrico-lucchin": {
       "id": "ar_enrico-lucchin",
@@ -2901,12 +2877,6 @@
       "name_ja": null,
       "team_id": "glasgow"
     },
-    "ar_matt-devine": {
-      "id": "ar_matt-devine",
-      "name_en": "Matt DEVINE",
-      "name_ja": null,
-      "team_id": "connacht"
-    },
     "ar_matteo-noventa": {
       "id": "ar_matteo-noventa",
       "name_en": "Matteo NOVENTA",
@@ -3002,12 +2972,6 @@
       "name_en": "Paddy PATTERSON",
       "name_ja": null,
       "team_id": "munster"
-    },
-    "ar_peter-dooley": {
-      "id": "ar_peter-dooley",
-      "name_en": "Peter DOOLEY",
-      "name_ja": null,
-      "team_id": "connacht"
     },
     "ar_riccardo-genovese": {
       "id": "ar_riccardo-genovese",
@@ -3164,12 +3128,6 @@
       "name_en": "Aphelele FASSI",
       "name_ja": null,
       "team_id": "sharks"
-    },
-    "ar_asad-moos": {
-      "id": "ar_asad-moos",
-      "name_en": "Asad MOOS",
-      "name_ja": null,
-      "team_id": "stormers"
     },
     "ar_brad-thyer": {
       "id": "ar_brad-thyer",
@@ -3405,12 +3363,6 @@
       "name_ja": null,
       "team_id": "sharks"
     },
-    "ar_ruan-swart": {
-      "id": "ar_ruan-swart",
-      "name_en": "Ruan SWART",
-      "name_ja": null,
-      "team_id": "bulls"
-    },
     "ar_ruben-van-heerden": {
       "id": "ar_ruben-van-heerden",
       "name_en": "Ruben VAN HEERDEN",
@@ -3458,6 +3410,336 @@
       "name_en": "Willem VAN DEN HEVER",
       "name_ja": null,
       "team_id": "sharks"
+    },
+    "ar_angus-bell": {
+      "id": "ar_angus-bell",
+      "name_en": "Angus BELL",
+      "name_ja": null,
+      "team_id": "ulster"
+    },
+    "ar_angus-williams": {
+      "id": "ar_angus-williams",
+      "name_en": "Angus WILLIAMS",
+      "name_ja": null,
+      "team_id": "edinburgh"
+    },
+    "ar_asenathi-ntlabakanye": {
+      "id": "ar_asenathi-ntlabakanye",
+      "name_en": "Asenathi NTLABAKANYE",
+      "name_ja": null,
+      "team_id": "lions"
+    },
+    "ar_ben-moxham": {
+      "id": "ar_ben-moxham",
+      "name_en": "Ben MOXHAM",
+      "name_ja": null,
+      "team_id": "ulster"
+    },
+    "ar_bernard-van-der-linde": {
+      "id": "ar_bernard-van-der-linde",
+      "name_en": "Bernard VAN DER LINDE",
+      "name_ja": null,
+      "team_id": "edinburgh"
+    },
+    "ar_billy-corrigan": {
+      "id": "ar_billy-corrigan",
+      "name_en": "Billy CORRIGAN",
+      "name_ja": null,
+      "team_id": "leinster"
+    },
+    "ar_bismarck-du-plessis": {
+      "id": "ar_bismarck-du-plessis",
+      "name_en": "Bismarck DU PLESSIS",
+      "name_ja": null,
+      "team_id": "edinburgh"
+    },
+    "ar_bobby-sheehan": {
+      "id": "ar_bobby-sheehan",
+      "name_en": "Bobby SHEEHAN",
+      "name_ja": null,
+      "team_id": "leinster"
+    },
+    "ar_bradley-mcnamara": {
+      "id": "ar_bradley-mcnamara",
+      "name_en": "Bradley MCNAMARA",
+      "name_ja": null,
+      "team_id": "ulster"
+    },
+    "ar_bryan-o-connor": {
+      "id": "ar_bryan-o-connor",
+      "name_en": "Bryan O'CONNOR",
+      "name_ja": null,
+      "team_id": "ulster"
+    },
+    "ar_charlie-shiel": {
+      "id": "ar_charlie-shiel",
+      "name_en": "Charlie SHIEL",
+      "name_ja": null,
+      "team_id": "edinburgh"
+    },
+    "ar_david-shanahan": {
+      "id": "ar_david-shanahan",
+      "name_en": "Dave SHANAHAN",
+      "name_ja": null,
+      "team_id": "ulster"
+    },
+    "ar_ed-byrne": {
+      "id": "ar_ed-byrne",
+      "name_en": "Ed BYRNE",
+      "name_ja": null,
+      "team_id": "leinster"
+    },
+    "ar_eduan-keyter": {
+      "id": "ar_eduan-keyter",
+      "name_en": "Eduan KEYTER",
+      "name_ja": null,
+      "team_id": "lions"
+    },
+    "ar_ethan-graham": {
+      "id": "ar_ethan-graham",
+      "name_en": "Ethan GRAHAM",
+      "name_ja": null,
+      "team_id": "ulster"
+    },
+    "ar_franco-marais": {
+      "id": "ar_franco-marais",
+      "name_en": "Franco MARAIS",
+      "name_ja": null,
+      "team_id": "lions"
+    },
+    "ar_heiko-pohlmann": {
+      "id": "ar_heiko-pohlmann",
+      "name_en": "Heiko POHLMANN",
+      "name_ja": null,
+      "team_id": "lions"
+    },
+    "ar_henry-mcerlean": {
+      "id": "ar_henry-mcerlean",
+      "name_en": "Henry MCERLEAN",
+      "name_ja": null,
+      "team_id": "leinster"
+    },
+    "ar_isaac-coates": {
+      "id": "ar_isaac-coates",
+      "name_en": "Isaac COATES",
+      "name_ja": null,
+      "team_id": "edinburgh"
+    },
+    "ar_jacques-van-rooyen": {
+      "id": "ar_jacques-van-rooyen",
+      "name_en": "Jacques VAN ROOYEN",
+      "name_ja": null,
+      "team_id": "edinburgh"
+    },
+    "ar_james-humphreys": {
+      "id": "ar_james-humphreys",
+      "name_en": "James HUMPHREYS",
+      "name_ja": null,
+      "team_id": "ulster"
+    },
+    "ar_james-lang": {
+      "id": "ar_james-lang",
+      "name_en": "James LANG",
+      "name_ja": null,
+      "team_id": "edinburgh"
+    },
+    "ar_james-lowe": {
+      "id": "ar_james-lowe",
+      "name_en": "James LOWE",
+      "name_ja": null,
+      "team_id": "leinster"
+    },
+    "ar_john-andrew": {
+      "id": "ar_john-andrew",
+      "name_en": "John ANDREW",
+      "name_ja": null,
+      "team_id": "ulster"
+    },
+    "ar_josh-stevens": {
+      "id": "ar_josh-stevens",
+      "name_en": "Josh STEVENS",
+      "name_ja": null,
+      "team_id": "ulster"
+    },
+    "ar_leon-lyons": {
+      "id": "ar_leon-lyons",
+      "name_en": "Leon LYONS",
+      "name_ja": null,
+      "team_id": "lions"
+    },
+    "ar_lewis-wells": {
+      "id": "ar_lewis-wells",
+      "name_en": "Lewis WELLS",
+      "name_ja": null,
+      "team_id": "edinburgh"
+    },
+    "ar_liam-molony": {
+      "id": "ar_liam-molony",
+      "name_en": "Liam MOLONY",
+      "name_ja": null,
+      "team_id": "leinster"
+    },
+    "ar_lizo-gqoboka": {
+      "id": "ar_lizo-gqoboka",
+      "name_en": "Lizo GQOBOKA",
+      "name_ja": null,
+      "team_id": "edinburgh"
+    },
+    "ar_lorcan-mcloughlin": {
+      "id": "ar_lorcan-mcloughlin",
+      "name_en": "Lorcan MCLOUGHLIN",
+      "name_ja": null,
+      "team_id": "ulster"
+    },
+    "ar_lubabalo-dobela": {
+      "id": "ar_lubabalo-dobela",
+      "name_en": "Lubabalo DOBELA",
+      "name_ja": null,
+      "team_id": "lions"
+    },
+    "ar_lukas-kenny": {
+      "id": "ar_lukas-kenny",
+      "name_en": "Lukas KENNY",
+      "name_ja": null,
+      "team_id": "ulster"
+    },
+    "ar_luke-mcgrath": {
+      "id": "ar_luke-mcgrath",
+      "name_en": "Luke MCGRATH",
+      "name_ja": null,
+      "team_id": "leinster"
+    },
+    "ar_mac-rutherford": {
+      "id": "ar_mac-rutherford",
+      "name_en": "Mac RUTHERFORD",
+      "name_ja": null,
+      "team_id": "edinburgh"
+    },
+    "ar_manuel-rass": {
+      "id": "ar_manuel-rass",
+      "name_en": "Manuel RASS",
+      "name_ja": null,
+      "team_id": "lions"
+    },
+    "ar_marcus-rea": {
+      "id": "ar_marcus-rea",
+      "name_en": "Marcus REA",
+      "name_ja": null,
+      "team_id": "ulster"
+    },
+    "ar_matt-davidson": {
+      "id": "ar_matt-davidson",
+      "name_en": "Matt DAVIDSON",
+      "name_ja": null,
+      "team_id": "edinburgh"
+    },
+    "ar_matthew-dalton": {
+      "id": "ar_matthew-dalton",
+      "name_en": "Matthew DALTON",
+      "name_ja": null,
+      "team_id": "ulster"
+    },
+    "ar_mike-jones": {
+      "id": "ar_mike-jones",
+      "name_en": "Mikey JONES",
+      "name_ja": null,
+      "team_id": "edinburgh"
+    },
+    "ar_paidi-farrell": {
+      "id": "ar_paidi-farrell",
+      "name_en": "Páidí FARRELL",
+      "name_ja": null,
+      "team_id": "leinster"
+    },
+    "ar_rabah-slimani": {
+      "id": "ar_rabah-slimani",
+      "name_en": "Rabah SLIMANI",
+      "name_ja": null,
+      "team_id": "leinster"
+    },
+    "ar_rieko-ioane": {
+      "id": "ar_rieko-ioane",
+      "name_en": "Rieko IOANE",
+      "name_ja": null,
+      "team_id": "leinster"
+    },
+    "ar_rory-mcguire": {
+      "id": "ar_rory-mcguire",
+      "name_en": "Rory MCGUIRE",
+      "name_ja": null,
+      "team_id": "ulster"
+    },
+    "ar_ross-mccann-": {
+      "id": "ar_ross-mccann-",
+      "name_en": "Ross MCCANN",
+      "name_ja": null,
+      "team_id": "edinburgh"
+    },
+    "ar_ross-mcknight": {
+      "id": "ar_ross-mcknight",
+      "name_en": "Ross MCKNIGHT",
+      "name_ja": null,
+      "team_id": "edinburgh"
+    },
+    "ar_ruben-schoeman": {
+      "id": "ar_ruben-schoeman",
+      "name_en": "Ruben SCHOEMAN",
+      "name_ja": null,
+      "team_id": "lions"
+    },
+    "ar_sam-berman": {
+      "id": "ar_sam-berman",
+      "name_en": "Sam BERMAN",
+      "name_ja": null,
+      "team_id": "ulster"
+    },
+    "ar_sam-leweni": {
+      "id": "ar_sam-leweni",
+      "name_en": "Sam LEWENI",
+      "name_ja": null,
+      "team_id": "edinburgh"
+    },
+    "ar_sam-skinner": {
+      "id": "ar_sam-skinner",
+      "name_en": "Sam SKINNER",
+      "name_ja": null,
+      "team_id": "edinburgh"
+    },
+    "ar_sean-reffell": {
+      "id": "ar_sean-reffell",
+      "name_en": "Sean REFFELL",
+      "name_ja": null,
+      "team_id": "ulster"
+    },
+    "ar_sidney-tobias": {
+      "id": "ar_sidney-tobias",
+      "name_en": "Sidney TOBIAS",
+      "name_ja": null,
+      "team_id": "edinburgh"
+    },
+    "ar_tapiwa-mafura": {
+      "id": "ar_tapiwa-mafura",
+      "name_en": "Tapiwa MAFURA",
+      "name_ja": null,
+      "team_id": "lions"
+    },
+    "ar_werner-kok": {
+      "id": "ar_werner-kok",
+      "name_en": "Werner KOK",
+      "name_ja": null,
+      "team_id": "ulster"
+    },
+    "ar_wilhelm-de-klerk": {
+      "id": "ar_wilhelm-de-klerk",
+      "name_en": "Wilhelm DE KLERK",
+      "name_ja": null,
+      "team_id": "ulster"
+    },
+    "ar_wj-steenkamp": {
+      "id": "ar_wj-steenkamp",
+      "name_en": "WJ STEENKAMP",
+      "name_ja": null,
+      "team_id": "edinburgh"
     }
   },
   "premiership": {
@@ -3605,12 +3887,6 @@
       "name_ja": null,
       "team_id": "exeter"
     },
-    "ar_chris-cloete": {
-      "id": "ar_chris-cloete",
-      "name_en": "Chris CLOETE",
-      "name_ja": null,
-      "team_id": "gloucester"
-    },
     "ar_christopher-vaotoa": {
       "id": "ar_christopher-vaotoa",
       "name_en": "Christopher VAOTOA",
@@ -3700,12 +3976,6 @@
       "name_en": "Enzo FERNANDES",
       "name_ja": null,
       "team_id": "bath"
-    },
-    "ar_ewan-caven": {
-      "id": "ar_ewan-caven",
-      "name_en": "Ewan CAVEN",
-      "name_ja": null,
-      "team_id": "gloucester"
     },
     "ar_felix-champain": {
       "id": "ar_felix-champain",
@@ -4576,6 +4846,24 @@
       "name_en": "Zaccharie AFFANE",
       "name_ja": null,
       "team_id": "bath"
+    },
+    "ar_rakhat-clarkson": {
+      "id": "ar_rakhat-clarkson",
+      "name_en": "Rakhat CLARKSON",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_ruben-cummings": {
+      "id": "ar_ruben-cummings",
+      "name_en": "Ruben CUMMINGS",
+      "name_ja": null,
+      "team_id": "gloucester"
+    },
+    "ar_will-may": {
+      "id": "ar_will-may",
+      "name_en": "Will MAY",
+      "name_ja": null,
+      "team_id": "gloucester"
     }
   },
   "national": {
@@ -6689,7 +6977,164 @@
       "name_en": null,
       "name_ja": "朝山 拓也",
       "team_id": null
+    },
+    "univ_専修大学__竹内明彦": {
+      "id": "univ_専修大学__竹内明彦",
+      "name_en": null,
+      "name_ja": "竹内 明彦",
+      "team_id": null
+    },
+    "univ_東京大学__上瑛人": {
+      "id": "univ_東京大学__上瑛人",
+      "name_en": null,
+      "name_ja": "上 瑛人",
+      "team_id": null
     }
   },
-  "highschool": {}
+  "highschool": {
+    "hs_流通経済大学付属柏高校__ナモア-フェレティリキ": {
+      "id": "hs_流通経済大学付属柏高校__ナモア-フェレティリキ",
+      "name_en": null,
+      "name_ja": "ナモア・フェレティリキ",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__フォラウ隼人": {
+      "id": "hs_流通経済大学付属柏高校__フォラウ隼人",
+      "name_en": null,
+      "name_ja": "フォラウ 隼人",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__二木心大": {
+      "id": "hs_流通経済大学付属柏高校__二木心大",
+      "name_en": null,
+      "name_ja": "二木 心大",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__大門歩瑠": {
+      "id": "hs_流通経済大学付属柏高校__大門歩瑠",
+      "name_en": null,
+      "name_ja": "大門 歩瑠",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__山中悠史": {
+      "id": "hs_流通経済大学付属柏高校__山中悠史",
+      "name_en": null,
+      "name_ja": "山中 悠史",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__山根陸": {
+      "id": "hs_流通経済大学付属柏高校__山根陸",
+      "name_en": null,
+      "name_ja": "山根 陸",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__岡田聖悟": {
+      "id": "hs_流通経済大学付属柏高校__岡田聖悟",
+      "name_en": null,
+      "name_ja": "岡田 聖悟",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__早坂透真": {
+      "id": "hs_流通経済大学付属柏高校__早坂透真",
+      "name_en": null,
+      "name_ja": "早坂 透真",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__渡辺翔": {
+      "id": "hs_流通経済大学付属柏高校__渡辺翔",
+      "name_en": null,
+      "name_ja": "渡辺 翔",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__甲斐翔大": {
+      "id": "hs_流通経済大学付属柏高校__甲斐翔大",
+      "name_en": null,
+      "name_ja": "甲斐 翔大",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__石村ビシャル": {
+      "id": "hs_流通経済大学付属柏高校__石村ビシャル",
+      "name_en": null,
+      "name_ja": "石村 ビシャル",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__福山太陽": {
+      "id": "hs_流通経済大学付属柏高校__福山太陽",
+      "name_en": null,
+      "name_ja": "福山 太陽",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__笠村晃太郎": {
+      "id": "hs_流通経済大学付属柏高校__笠村晃太郎",
+      "name_en": null,
+      "name_ja": "笠村 晃太郎",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__芦康介": {
+      "id": "hs_流通経済大学付属柏高校__芦康介",
+      "name_en": null,
+      "name_ja": "芦 康介",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__荒井幹太": {
+      "id": "hs_流通経済大学付属柏高校__荒井幹太",
+      "name_en": null,
+      "name_ja": "荒井 幹太",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__荻原干城": {
+      "id": "hs_流通経済大学付属柏高校__荻原干城",
+      "name_en": null,
+      "name_ja": "荻原 干城",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__藤倉悠輝": {
+      "id": "hs_流通経済大学付属柏高校__藤倉悠輝",
+      "name_en": null,
+      "name_ja": "藤倉 悠輝",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__西山凱渡": {
+      "id": "hs_流通経済大学付属柏高校__西山凱渡",
+      "name_en": null,
+      "name_ja": "西山 凱渡",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__近澤響生": {
+      "id": "hs_流通経済大学付属柏高校__近澤響生",
+      "name_en": null,
+      "name_ja": "近澤 響生",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__長谷川煌詞": {
+      "id": "hs_流通経済大学付属柏高校__長谷川煌詞",
+      "name_en": null,
+      "name_ja": "長谷川 煌詞",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__長野快音": {
+      "id": "hs_流通経済大学付属柏高校__長野快音",
+      "name_en": null,
+      "name_ja": "長野 快音",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__阿部虎生": {
+      "id": "hs_流通経済大学付属柏高校__阿部虎生",
+      "name_en": null,
+      "name_ja": "阿部 虎生",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__高柳大聖": {
+      "id": "hs_流通経済大学付属柏高校__高柳大聖",
+      "name_en": null,
+      "name_ja": "高柳 大聖",
+      "team_id": null
+    },
+    "hs_流通経済大学付属柏高校__髙梨太吾": {
+      "id": "hs_流通経済大学付属柏高校__髙梨太吾",
+      "name_en": null,
+      "name_ja": "髙梨 太吾",
+      "team_id": null
+    }
+  }
 }

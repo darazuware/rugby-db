@@ -1,0 +1,374 @@
+[
+  {
+    "id": "ar_akenzua-al-kareem-abdul-khalik",
+    "name_en": "Akenzua Al-Kareem ABDUL-KHALIK",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_alec-clarey",
+    "name_en": "Alec CLAREY",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_aleki-lutui",
+    "name_en": "Aleki LUTUI",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_alex-wardell",
+    "name_en": "Alex WARDELL",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_alfie-barbeary",
+    "name_en": "Alfie BARBEARY",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_archie-griffin",
+    "name_en": "Archie GRIFFIN",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_archie-stanley",
+    "name_en": "Archie STANLEY",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_arthur-cordwell",
+    "name_en": "Arthur CORDWELL",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_arthur-green",
+    "name_en": "Arthur GREEN",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_beck-cutting",
+    "name_en": "Beck CUTTING",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_ben-chapman",
+    "name_en": "Ben CHAPMAN",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_ben-pogson",
+    "name_en": "Ben POGSON",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_beno--obano-",
+    "name_en": "Beno OBANO",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_billy-sela",
+    "name_en": "Billy SELA",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_charlie-ewels",
+    "name_en": "Charlie EWELS",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_chris-cloete",
+    "name_en": "Chris CLOETE",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_corbin-thunder",
+    "name_en": "Corbin THUNDER",
+    "name_ja": null,
+    "team_id": "leicester"
+  },
+  {
+    "id": "ar_daniel-marais",
+    "name_en": "Daniel MARAIS",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_dom-hardman",
+    "name_en": "Dom HARDMAN",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_eddie-erskine",
+    "name_en": "Eddie ERSKINE",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_elliot-stooke",
+    "name_en": "Elliot STOOKE",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_ewan-caven",
+    "name_en": "Ewan CAVEN",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_fraser-rawlins",
+    "name_en": "Fraser RAWLINS",
+    "name_ja": null,
+    "team_id": "saracens"
+  },
+  {
+    "id": "ar_gareth-parry",
+    "name_en": "Gareth PARRY",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_griff-evans",
+    "name_en": "Griff EVANS",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_hame-faiva",
+    "name_en": "Hame FAIVA",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_harvey-beaton",
+    "name_en": "Harvey BEATON",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_harvey-cuckson",
+    "name_en": "Harvey CUCKSON",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_ioan-emanuel",
+    "name_en": "Ioan EMANUEL",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_irakli-kolbaia",
+    "name_en": "Irakli KOLBAIA",
+    "name_ja": null,
+    "team_id": "newcastle"
+  },
+  {
+    "id": "ar_jack-bennett",
+    "name_en": "Jack BENNETT",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_jacques-du-plessis",
+    "name_en": "Jacques DU PLESSIS",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_james-flynn",
+    "name_en": "James FLYNN",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_james-johnston",
+    "name_en": "James JOHNSTON",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_jasper-mcguire",
+    "name_en": "Jasper MCGUIRE",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_jasper-spandler",
+    "name_en": "Jasper SPANDLER",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_jevaughn-warren",
+    "name_en": "Jevaughn WARREN",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_joe-peard",
+    "name_en": "Joe PEARD",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_johannes-jonker",
+    "name_en": "Johannes JONKER",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_john-stewart",
+    "name_en": "John STEWART",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_josh-mcnally",
+    "name_en": "Josh MCNALLY",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_juan-schoeman",
+    "name_en": "Juan SCHOEMAN",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_kaden-pearce-paul",
+    "name_en": "Kaden PEARCE-PAUL",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_kai-wilkinson",
+    "name_en": "Kai WILKINSON",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_kapeli-pifeleti-jr",
+    "name_en": "Kapeli PIFELETI JR",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_kieran-verden",
+    "name_en": "Kieran VERDEN",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_luke-yendle",
+    "name_en": "Luke YENDLE",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_max-eke",
+    "name_en": "Max EKE",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_max-pearce",
+    "name_en": "Max PEARCE",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_mikey-summerfield",
+    "name_en": "Mikey SUMMERFIELD",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_nial-annett",
+    "name_en": "Niall ANNETT",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_oscar-churchouse",
+    "name_en": "Oscar CHURCHOUSE",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_quinn-roux",
+    "name_en": "Quinn ROUX",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_sam-crean",
+    "name_en": "Sam CREAN",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_samson-adejimi",
+    "name_en": "Samson ADEJIMI",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_scott-kirk",
+    "name_en": "Scott KIRK",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_syd-blackmore",
+    "name_en": "Syd BLACKMORE",
+    "name_ja": null,
+    "team_id": "northampton"
+  },
+  {
+    "id": "ar_thomas-du-toit",
+    "name_en": "Thomas DU TOIT",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_tom-dunn",
+    "name_en": "Tom DUNN",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_will-hodgson",
+    "name_en": "Will HODGSON",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_will-stuart",
+    "name_en": "Will STUART",
+    "name_ja": null,
+    "team_id": "gloucester"
+  },
+  {
+    "id": "ar_zac-nearchou",
+    "name_en": "Zac NEARCHOU",
+    "name_ja": null,
+    "team_id": "northampton"
+  }
+]
