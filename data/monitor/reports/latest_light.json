@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T02:57:00+09:00",
+  "checked_at": "2026-09-29T16:50:04+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6169",
+          "title": "クラブ 東京サントリーサンゴリアス、2026-27シーズンキャプテンおよびスローガン決定のお知らせ 2026.09.29",
+          "date": "2026-09-29",
+          "category": "roster"
+        }
+      ],
       "rename_signals": [
         {
           "url": "https://league-one.jp/news/6167",
@@ -25,7 +32,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54220",
+          "title": "男子セブンズ日本代表 名古屋合宿スケジュールと参加メンバーのお知らせ 2026.9.29 （火） 男子セブンズ日本代表 セブンズ アジア競技大会 男子セブンズ 男子",
+          "date": "2026-09-29",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54094",
+          "title": "（9/29更新）「ラグビーパーク in 新潟」開催のお知らせ 2026.9.29 （火） 高校 中学 小学生 その他 普及育成",
+          "date": "2026-09-29",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -39,7 +59,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6169",
+      "title": "クラブ 東京サントリーサンゴリアス、2026-27シーズンキャプテンおよびスローガン決定のお知らせ 2026.09.29",
+      "date": "2026-09-29",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54220",
+      "title": "男子セブンズ日本代表 名古屋合宿スケジュールと参加メンバーのお知らせ 2026.9.29 （火） 男子セブンズ日本代表 セブンズ アジア競技大会 男子セブンズ 男子",
+      "date": "2026-09-29",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [
     {
       "url": "https://league-one.jp/news/6167",
