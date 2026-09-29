@@ -3,13 +3,13 @@
   "league": "league-one-d1",
   "name": "クボタスピアーズ船橋・東京ベイ",
   "official_url": "http://www.kubota-spears.com/",
-  "checked_at": "2026-09-29T03:19:02+09:00",
+  "checked_at": "2026-09-29T19:35:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kubota-spears.com/",
-      "hash": "23fd8233849bb695"
+      "hash": "f3991b98c5d431ee"
     },
     {
       "url": "https://www.kubota-spears.com/news/",
@@ -17,6 +17,16 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kubota-spears.com/academy_news/2026/09/29/160000.html",
+      "title": "2026.09.29 育成活動",
+      "date": "2026-09-29"
+    },
+    {
+      "url": "https://www.kubota-spears.com/academy_news/2026/09/29/153000.html",
+      "title": "2026.09.29 育成活動",
+      "date": "2026-09-29"
+    },
     {
       "url": "https://www.kubota-spears.com/news/2026/09/25/140000.html",
       "title": "2026.09.25 ニュース・トピックス",
@@ -291,16 +301,6 @@
       "url": "https://www.kubota-spears.com/social-contribution/2025/04/30/100000.html",
       "title": "2025.04.30 CSR（社会貢献活動）",
       "date": "2025-04-30"
-    },
-    {
-      "url": "https://www.kubota-spears.com/academy_news/2025/04/25/100000.html",
-      "title": "2025.04.25 育成活動",
-      "date": "2025-04-25"
-    },
-    {
-      "url": "https://www.kubota-spears.com/academy_news/2024/04/05/130000.html",
-      "title": "2024.04.05 育成活動",
-      "date": "2024-04-05"
     },
     {
       "url": "https://www.kubota-spears.com/social-contribution/2023/04/24/100000.html",

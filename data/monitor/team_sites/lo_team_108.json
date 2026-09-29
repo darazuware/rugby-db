@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-09-29T03:19:02+09:00",
+  "checked_at": "2026-09-29T19:35:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "b6c0eab24ac05d16"
+      "hash": "14e021b1fe711277"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260929a.html",
+      "title": "プラス株式会社とオフィシャルパートナー新規契約のお知らせ",
+      "date": "2026-09-29"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20260927a.html",
       "title": "ブラックラムズ東京 RAMOVE会員限定 公式写真販売「RamShot」販売開始のお知らせ",
@@ -31,11 +36,6 @@
     {
       "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20260922c.html",
       "title": "9月27日(日)「第3回 鉄道フェスタ」スペシャルステージ参加のお知らせ",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260922a.html",
-      "title": "2026-27シーズン ジャージーデザイングッズ販売のお知らせ",
       "date": "2026-09-22"
     }
   ]

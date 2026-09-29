@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-09-29T03:19:02+09:00",
+  "checked_at": "2026-09-29T19:35:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "ba2f0e99b7024096"
+      "hash": "319d3b8d91360a57"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "5c5515668cb98357"
+      "hash": "137ef73195d566e4"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/1006",
+      "title": "試合情報 2026年09月29日 NEW 【リーグワン ライジング|ホスト】10/10(土)中国RR戦のお知らせ",
+      "date": "2026-09-29"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/989",
       "title": "お知らせ 2026年09月10日 「ジャパンラグビー リーグワン ライジング 2026」開催のお知らせ(9/10更新)",
@@ -181,11 +186,6 @@
       "url": "https://www.kyudenvoltex.com/news/970",
       "title": "試合情報 2026年03月15日 【リーグワン | ビジター】3/27(金)レッドハリケーンズ大阪戦のお知らせ",
       "date": "2026-03-15"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/964",
-      "title": "試合情報 2026年03月12日 【リーグワン | ホスト】3/14(土) 花園近鉄ライナーズ戦のお知らせ(3/12更新)",
-      "date": "2026-03-12"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/950",

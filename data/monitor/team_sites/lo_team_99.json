@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-09-29T03:19:02+09:00",
+  "checked_at": "2026-09-29T19:35:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "0afe90c863c9e86e"
+      "hash": "f250082f518d882d"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "f048fc2e57eee5b2"
+      "hash": "e35aea0fe7aa481d"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627tca.html",
+      "title": "2026年 9月29日 2026-27シーズンキャプテンおよびスローガン決定のお知らせ いつも東京サンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27シーズンのキャプテンおよび…",
+      "date": "2026-09-29"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2609-1035.html",
       "title": "2026年 9月25日 #1035 福島 秀法 『愚直な、地味な突破、身体を張ったプレー』",
@@ -61,11 +66,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627nts.html",
       "title": "2026年 9月 2日 東京サントリーサンゴリアス2026-27新体制のお知らせ！ いつもサントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27ーズンのチーム新体制…",
       "date": "2026-09-02"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2608-1031.html",
-      "title": "2026年 8月28日 #1031 竹内 柊平 『もっとチームになる』",
-      "date": "2026-08-28"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627icct.html",

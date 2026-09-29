@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-09-29T03:19:02+09:00",
+  "checked_at": "2026-09-29T19:35:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "585bf2ac5cee4d1f"
+      "hash": "626ae1aa27134b86"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "d4b6a856dbd151b7"
+      "hash": "d8e96d7401ed978c"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2453/",
+      "title": "選手紹介 2026.9.29 怪我を越え、いよいよピッチへ。山村和也×宮下 晃毅 座談会",
+      "date": "2026-09-29"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2457/",
       "title": "2026/9/28 【ファンクラブ】公式ファンクラブCLUB HEAT 2026-27シーズン入会手順のご案内",
@@ -126,11 +131,6 @@
       "url": "https://www.honda-heat.jp/news/2421/",
       "title": "イベント 2026.8.26 「OSAKA FUNtast!c SPORTS PROJECT」キックオフイベント参加のお知らせ",
       "date": "2026-08-26"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2420/",
-      "title": "トピックス 2026.8.24 祝原涼介、平野叶翔、福田健太 日本代表 宮崎（大阪）合宿参加のお知らせ",
-      "date": "2026-08-24"
     },
     {
       "url": "https://www.honda-heat.jp/news/2419/",

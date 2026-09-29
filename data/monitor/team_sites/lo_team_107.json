@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-09-29T03:19:02+09:00",
+  "checked_at": "2026-09-29T19:35:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.canon-eagles.jp/",
-      "hash": "0e3892546c230793"
+      "hash": "2a4f73c8af5fe40e"
     },
     {
       "url": "https://www.canon-eagles.jp/news/",
-      "hash": "3be5a993c03930b1"
+      "hash": "93774ee1f7972fcd"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/2026.html",
@@ -21,6 +21,16 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.canon-eagles.jp/news/interview/20260929.html",
+      "title": "2026.09.29 INTERVIEW 【新加入選手インタビュー】PR中野幹",
+      "date": "2026-09-29"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/interview/20260929-2.html",
+      "title": "2026.09.29 INTERVIEW 【新加入選手インタビュー】PR俵啓斗",
+      "date": "2026-09-29"
+    },
     {
       "url": "https://www.canon-eagles.jp/news/supporters/20260928.html",
       "title": "2026.09.28 SUPPORTER キッチンカー＆ふわふわ遊具も登場！10/12（月・祝）練習見学会のお知らせ",

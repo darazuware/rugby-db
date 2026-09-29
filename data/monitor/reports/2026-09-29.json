@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T03:19:02+09:00",
+  "checked_at": "2026-09-29T19:35:50+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,28 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/game/index_2034.html",
+          "title": "ゲーム 2026.09.29 10月17日(土) プレシーズンマッチ vs 日野レッドドルフィンズ ホストゲーム情報",
+          "date": "2026-09-29",
+          "category": null
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/event/index_2037.html",
+          "title": "イベント 2026.09.29 2026.10.18 浦安青年会議所×浦安D-Rocks共同開催 「すすめ！うらやす ONE TEAM ～みんなで創る防災フェス！～」開催のお知らせ",
+          "date": "2026-09-29",
+          "category": null
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/event/index_2035.html",
+          "title": "イベント 2026.09.29 2026.10.17 「試合のあとは、花火。浦安Dパークで花火を観よう！」実施のお知らせ",
+          "date": "2026-09-29",
+          "category": null
+        }
+      ],
       "changed_pages": [
+        "https://urayasu-d-rocks.com/",
         "https://urayasu-d-rocks.com/news/"
       ],
       "rename_signals": []
@@ -23,8 +43,36 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35429/",
+          "title": "2026/9/29 チーム 【NZ派遣レポートPart.2 中嶋 大希選手】",
+          "date": "2026-09-29",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35394/",
+          "title": "2026/9/29 普及 【レポート】9月18日(金)神戸市立渚中学校で「トライやる・ウィーク」事前学習に協力しました",
+          "date": "2026-09-29",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35390/",
+          "title": "2026/9/29 イベント 【レポート】9月19日(土)～20日(日)「Age-Well KOBE」にブースを出展しました",
+          "date": "2026-09-29",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/photolibrary/",
+          "title": "2025/11/12 お知らせ コベルコ神戸スティーラーズフェスタ2025 フォトライブラリーを公開しました",
+          "date": "2025-11-12",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -36,9 +84,7 @@
       "first_run": false,
       "item_count": 35,
       "new_items": [],
-      "changed_pages": [
-        "https://panasonic.co.jp/sports/wildknights/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -50,9 +96,7 @@
       "first_run": false,
       "item_count": 42,
       "new_items": [],
-      "changed_pages": [
-        "https://www.bravelupus.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -63,8 +107,29 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4278/",
+          "title": "2026.9.28 コラム 【リーグワンライジング マッチレポート】野口竜司、ヴェルブリッツデビュー！",
+          "date": "2026-09-28",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4240",
+          "title": "NTTジャパンラグビー リーグワン2026-27 大会日程決定のお知らせ 試合情報 PICK UP 2026.09.09",
+          "date": "2026-09-09",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4241",
+          "title": "【試合情報】プレシーズンマッチ実施のお知らせ（9/7 更新） 試合情報 2026.09.07",
+          "date": "2026-09-07",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -77,10 +142,10 @@
       "item_count": 25,
       "new_items": [
         {
-          "url": "https://www.honda-heat.jp/news/2445/",
-          "title": "2026/9/28 【トレーニングマッチ 】10/3(土) 日本製鉄釜石シーウェイブス戦 試合案内",
-          "date": "2026-09-28",
-          "category": null
+          "url": "https://www.honda-heat.jp/news/2453/",
+          "title": "選手紹介 2026.9.29 怪我を越え、いよいよピッチへ。山村和也×宮下 晃毅 座談会",
+          "date": "2026-09-29",
+          "category": "injury"
         }
       ],
       "changed_pages": [
@@ -111,9 +176,25 @@
       "official_url": "https://www.canon-eagles.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 15,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 17,
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/news/interview/20260929.html",
+          "title": "2026.09.29 INTERVIEW 【新加入選手インタビュー】PR中野幹",
+          "date": "2026-09-29",
+          "category": "roster"
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/interview/20260929-2.html",
+          "title": "2026.09.29 INTERVIEW 【新加入選手インタビュー】PR俵啓斗",
+          "date": "2026-09-29",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -124,8 +205,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260929a.html",
+          "title": "プラス株式会社とオフィシャルパートナー新規契約のお知らせ",
+          "date": "2026-09-29",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -136,8 +226,23 @@
       "status": "ok",
       "first_run": false,
       "item_count": 58,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/academy_news/2026/09/29/160000.html",
+          "title": "2026.09.29 育成活動",
+          "date": "2026-09-29",
+          "category": null
+        },
+        {
+          "url": "https://www.kubota-spears.com/academy_news/2026/09/29/153000.html",
+          "title": "2026.09.29 育成活動",
+          "date": "2026-09-29",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -148,7 +253,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 26,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3198",
+          "title": "2026.9.29[TUE] SDGs スポーツ庁のSOIP推進事業に採択。アプリを起点とした地域共創プロジェクトを推進",
+          "date": "2026-09-29",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3189",
+          "title": "2026.9.29[TUE] EVENT ホーム開幕戦で13,000名様にSHIZUOKA PRIDEシャツをプレゼント！",
+          "date": "2026-09-29",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -163,8 +281,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627tca.html",
+          "title": "2026年 9月29日 2026-27シーズンキャプテンおよびスローガン決定のお知らせ いつも東京サンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27シーズンのキャプテンおよび…",
+          "date": "2026-09-29",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -187,8 +315,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kyudenvoltex.com/news/1006",
+          "title": "試合情報 2026年09月29日 NEW 【リーグワン ライジング|ホスト】10/10(土)中国RR戦のお知らせ",
+          "date": "2026-09-29",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kyudenvoltex.com/",
+        "https://www.kyudenvoltex.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -212,10 +350,30 @@
       "official_url": "https://shuttles-aichi.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 6,
-      "new_items": [],
+      "item_count": 7,
+      "new_items": [
+        {
+          "url": "https://shuttles-aichi.com/news/notice-about-the-mizuho-3-game-pack-sale/",
+          "title": "お知らせ 2026.09.29 瑞穂3試合パック販売のお知らせ",
+          "date": "2026-09-29",
+          "category": null
+        },
+        {
+          "url": "https://shuttles-aichi.com/news/fan-meeting-held/",
+          "title": "お知らせ 2026.09.29 ファンミーティング開催決定！",
+          "date": "2026-09-29",
+          "category": null
+        },
+        {
+          "url": "https://shuttles-aichi.com/news/",
+          "title": "もっと見る",
+          "date": "2026-09-29",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://shuttles-aichi.com/"
+        "https://shuttles-aichi.com/",
+        "https://shuttles-aichi.com/news/"
       ],
       "rename_signals": []
     },
@@ -286,9 +444,9 @@
       "item_count": 44,
       "new_items": [
         {
-          "url": "https://www.kurita-watergush.jp/20260928-2/",
-          "title": "地域貢献 2026/09/28 【イベント報告】モリタウン チームPR活動実施",
-          "date": "2026-09-28",
+          "url": "https://www.kurita-watergush.jp/20260929-2/",
+          "title": "地域貢献 2026/09/29 【地域活動報告】「踏切事故撲滅及びマナーアップキャンペーン」参加",
+          "date": "2026-09-29",
           "category": null
         }
       ],
@@ -306,8 +464,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.rugguts.secom.co.jp/2026/09/post-26.html",
+          "title": "チームスローガン決定",
+          "date": "2026-09-29",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -333,7 +501,10 @@
       "new_items": [],
       "changed_pages": [
         "https://www.skyactivs.com/",
-        "https://www.skyactivs.com/news/2091"
+        "https://www.skyactivs.com/news",
+        "https://www.skyactivs.com/news/2091",
+        "https://www.skyactivs.com/news/2035",
+        "https://www.skyactivs.com/news/2001"
       ],
       "rename_signals": []
     },
@@ -386,7 +557,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54223",
+          "title": "女子セブンズ日本代表（サクラセブンズ） 名古屋合宿スケジュールと参加メンバーのお知らせ 2026.9.29 （火） 女子セブンズ日本代表",
+          "date": "2026-09-29",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54217",
+          "title": "（9/29更新）レポート：女子セブンズ日本代表（サクラセブンズ）／女子セブンズ・デベロップメント・スコッド（SDS）熊谷合宿 2026.9.29 （火） 女子セブンズ日本代表 女子 セブンズ SDS セブンズ・デベロップメント・スコッド",
+          "date": "2026-09-29",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -400,7 +584,50 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "横浜キヤノンイーグルス",
+      "url": "https://www.canon-eagles.jp/news/interview/20260929.html",
+      "title": "2026.09.29 INTERVIEW 【新加入選手インタビュー】PR中野幹",
+      "date": "2026-09-29",
+      "category": "roster"
+    },
+    {
+      "source": "横浜キヤノンイーグルス",
+      "url": "https://www.canon-eagles.jp/news/interview/20260929-2.html",
+      "title": "2026.09.29 INTERVIEW 【新加入選手インタビュー】PR俵啓斗",
+      "date": "2026-09-29",
+      "category": "roster"
+    },
+    {
+      "source": "東京サントリーサンゴリアス",
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627tca.html",
+      "title": "2026年 9月29日 2026-27シーズンキャプテンおよびスローガン決定のお知らせ いつも東京サンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27シーズンのキャプテンおよび…",
+      "date": "2026-09-29",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54223",
+      "title": "女子セブンズ日本代表（サクラセブンズ） 名古屋合宿スケジュールと参加メンバーのお知らせ 2026.9.29 （火） 女子セブンズ日本代表",
+      "date": "2026-09-29",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54217",
+      "title": "（9/29更新）レポート：女子セブンズ日本代表（サクラセブンズ）／女子セブンズ・デベロップメント・スコッド（SDS）熊谷合宿 2026.9.29 （火） 女子セブンズ日本代表 女子 セブンズ SDS セブンズ・デベロップメント・スコッド",
+      "date": "2026-09-29",
+      "category": "squad"
+    },
+    {
+      "source": "三重ホンダヒート",
+      "url": "https://www.honda-heat.jp/news/2453/",
+      "title": "選手紹介 2026.9.29 怪我を越え、いよいよピッチへ。山村和也×宮下 晃毅 座談会",
+      "date": "2026-09-29",
+      "category": "injury"
+    }
+  ],
   "league_rename_news": [
     {
       "url": "https://league-one.jp/news/6167",

@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "狭山セコムラガッツ",
   "official_url": "https://www.rugguts.secom.co.jp/",
-  "checked_at": "2026-09-29T03:19:02+09:00",
+  "checked_at": "2026-09-29T19:35:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.rugguts.secom.co.jp/",
-      "hash": "cd19a005123fa224"
+      "hash": "3bd4230c29fe5e84"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/news/",
-      "hash": "65407a62332572b8"
+      "hash": "a729e5399c1cb1d7"
     }
   ],
   "items": [
@@ -26,6 +26,11 @@
       "url": "https://www.rugguts.secom.co.jp/results/20261004.html",
       "title": "試合の詳細",
       "date": "2026-10-04"
+    },
+    {
+      "url": "https://www.rugguts.secom.co.jp/2026/09/post-26.html",
+      "title": "チームスローガン決定",
+      "date": "2026-09-29"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/2026/09/2026-27-2.html",
@@ -210,11 +215,6 @@
     {
       "url": "https://www.rugguts.secom.co.jp/results/#20260425",
       "title": "公式戦第13、15節の日程と開催場所が決定",
-      "date": "2026-03-03"
-    },
-    {
-      "url": "https://www.rugguts.secom.co.jp/2026/03/3supported-by-j-sports.html",
-      "title": "第11節パブリックビューイング（Supported by J SPORTS）開催のお知らせ",
       "date": "2026-03-03"
     }
   ]
