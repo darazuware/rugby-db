@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T23:34:39+09:00",
+  "checked_at": "2026-09-30T16:53:36+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,38 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6174",
+          "title": "クラブ 花園近鉄ライナーズ、キャプテン・バイスキャプテンおよび2026-27シーズン・チームスローガン継続のお知らせ 2026.09.30",
+          "date": "2026-09-30",
+          "category": "roster"
+        },
+        {
+          "url": "https://league-one.jp/news/6173",
+          "title": "クラブ 静岡ブルーレヴズ、スポーツ庁【SOIP推進事業】に採択 2026.09.30",
+          "date": "2026-09-30",
+          "category": null
+        },
+        {
+          "url": "https://league-one.jp/news/6172",
+          "title": "クラブ クボタスピアーズ船橋・東京ベイ、2026-27シーズン チームスローガン決定のお知らせ 2026.09.30",
+          "date": "2026-09-30",
+          "category": null
+        },
+        {
+          "url": "https://league-one.jp/news/6171",
+          "title": "クラブ 川越狭山セコムラガッツ、新スタジアム名称は『セコムラグビースタジアム』に決定 2026.09.30",
+          "date": "2026-09-30",
+          "category": null
+        },
+        {
+          "url": "https://league-one.jp/news/6170",
+          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 一部試合会場追加決定のお知らせ 2026.09.30",
+          "date": "2026-09-30",
+          "category": null
+        }
+      ],
       "rename_signals": [
         {
           "url": "https://league-one.jp/news/6167",
@@ -25,7 +56,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54222",
+          "title": "男子セブンズ日本代表 第20回アジア競技大会（愛知・名古屋） 大会登録メンバーと1日目試合スケジュールのお知らせ 2026.9.30 （水） 男子セブンズ日本代表 セブンズ アジア競技大会 男子 男子セブンズ",
+          "date": "2026-09-30",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -39,7 +77,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6174",
+      "title": "クラブ 花園近鉄ライナーズ、キャプテン・バイスキャプテンおよび2026-27シーズン・チームスローガン継続のお知らせ 2026.09.30",
+      "date": "2026-09-30",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54222",
+      "title": "男子セブンズ日本代表 第20回アジア競技大会（愛知・名古屋） 大会登録メンバーと1日目試合スケジュールのお知らせ 2026.9.30 （水） 男子セブンズ日本代表 セブンズ アジア競技大会 男子 男子セブンズ",
+      "date": "2026-09-30",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [
     {
       "url": "https://league-one.jp/news/6167",
