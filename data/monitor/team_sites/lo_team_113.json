@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-09-30T01:42:11+09:00",
+  "checked_at": "2026-09-30T19:24:49+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "6b6b241151e2c42d"
+      "hash": "3af4e997707db9bc"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "df956eefe1b30502"
+      "hash": "f2c13b35bb17e888"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "07b5d95e90d47bf8"
+      "hash": "27c9cc35c5fc845f"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/society/32624/",
+      "title": "普及・社会貢献 2026.9.30 甲子小学校・江釣子中学校で講話を行いました",
+      "date": "2026-09-30"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/game/32522/",
       "title": "試合情報 2026.9.23 2026プレシーズンマッチ 第3戦／埼玉パナソニックワイルドナイツ戦",

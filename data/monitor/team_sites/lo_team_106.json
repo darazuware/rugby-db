@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-09-30T01:42:11+09:00",
+  "checked_at": "2026-09-30T19:24:49+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "585b741304bc5ab1"
+      "hash": "f52388874b82a09f"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "94aba1f09f7145c3"
+      "hash": "5833f49902e1a456"
     }
   ],
   "items": [
@@ -26,6 +26,11 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/academy.html",
       "title": "三菱重工相模原ダイナボアーズアカデミー ライセンス保持者による本格的な指導で将来を担う若いプレーヤーを育成します！",
       "date": "2026-10-04"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule#3",
+      "title": "2026-09-30 日程更新｜2/21(日)のリーグワン第9節は秩父宮ラグビー場でのホスト試合！",
+      "date": "2026-09-30"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260922.html",
@@ -59,7 +64,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260910.html-1",
-      "title": "2026-09-10 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（9/12）に14番で先発出場予定",
+      "title": "2026-09-10 [ チーム ] 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（9/12）に14番で先発出場予定",
       "date": "2026-09-10"
     },
     {
@@ -221,11 +226,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260703.html",
       "title": "2026-07-03 [ チーム ] カート=リー・アレンゼ選手 再加入のお知らせ",
       "date": "2026-07-03"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260701.html",
-      "title": "2026-07-01 [ チーム ] NTTジャパンラグビー リーグワン2026-27大会フォーマット発表。開幕は12月12日！",
-      "date": "2026-07-01"
     }
   ]
 }

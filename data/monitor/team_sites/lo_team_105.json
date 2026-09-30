@@ -3,23 +3,43 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-09-30T01:42:11+09:00",
+  "checked_at": "2026-09-30T19:24:49+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "626ae1aa27134b86"
+      "hash": "75117c6660a6a330"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "d8e96d7401ed978c"
+      "hash": "0d9abacc6f5d85be"
     }
   ],
   "items": [
     {
+      "url": "https://www.honda-heat.jp/news/2459/",
+      "title": "2026/9/30 【ファンクラブ】よくいただくお問い合わせ",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2458/",
+      "title": "イベント 2026.9.30 「栃木ホンダヒート特設ブース」が宇都宮パセオにオープンします",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2455/",
+      "title": "トピックス 2026.9.30 退団スタッフのお知らせ",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2434/",
+      "title": "トピックス 2026.9.30 チケット、ファンクラブに関するお問い合わせ先変更のご案内",
+      "date": "2026-09-30"
+    },
+    {
       "url": "https://www.honda-heat.jp/news/2453/",
-      "title": "選手紹介 2026.9.29 怪我を越え、いよいよピッチへ。山村和也×宮下 晃毅 座談会",
+      "title": "選手紹介 2026.9.29 【選手インタビュー】怪我を越え、いよいよピッチへ。山村和也×宮下 晃毅 座談会",
       "date": "2026-09-29"
     },
     {
@@ -116,26 +136,6 @@
       "url": "https://www.honda-heat.jp/news/2424/",
       "title": "トピックス 2026.9.4 2026-27シーズン 協賛パートナー決定のお知らせ",
       "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2411/",
-      "title": "イベント 2026.8.28 【8/28更新】『ブレックスアリーナ宇都宮スポーツフェスティバル』参加のお知らせ",
-      "date": "2026-08-28"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2423/",
-      "title": "トピックス 2026.8.27 宮坂 航生、男子セブンズ 日本代表 中国遠征 参加のお知らせ",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2421/",
-      "title": "イベント 2026.8.26 「OSAKA FUNtast!c SPORTS PROJECT」キックオフイベント参加のお知らせ",
-      "date": "2026-08-26"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2419/",
-      "title": "イベント 2026.8.24 OSAKA熱活GAMES 参加決定のお知らせ",
-      "date": "2026-08-24"
     },
     {
       "url": "https://www.honda-heat.jp/hostgame/20260509/",

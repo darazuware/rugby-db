@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-09-30T01:42:11+09:00",
+  "checked_at": "2026-09-30T19:24:49+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "e8680215627dc351"
+      "hash": "13bc7907e21aa791"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "d6c36ef9d3c1828f"
+      "hash": "66598b7d92da725f"
     }
   ],
   "items": [
@@ -29,7 +29,7 @@
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",
-      "title": "2026.9.28[MON] SCHOOL ＜スクール・アカデミー＞秋の新規入会キャンペーンがスタート",
+      "title": "SCHOOL 2026/9/28 秋の新規入会キャンペーン",
       "date": "2026-09-28"
     },
     {

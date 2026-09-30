@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-09-30T01:42:11+09:00",
+  "checked_at": "2026-09-30T19:24:49+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "4fdf7db09f346823"
+      "hash": "d1c8c4bc1af1de90"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "163d32fc667cc4f4"
+      "hash": "cc553c489cce5c9b"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2036.html",
+      "title": "ゲーム 2026.09.30 2026-27シーズン 一部試合会場決定のお知らせ",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2038.html",
+      "title": "イベント 2026.09.30 2026.10 トレーニング公開日のお知らせ",
+      "date": "2026-09-30"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2034.html",
       "title": "ゲーム 2026.09.29 10月17日(土) プレシーズンマッチ vs 日野レッドドルフィンズ ホストゲーム情報",
@@ -54,7 +64,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2026.html",
-      "title": "ゲーム 2026.09.18 2026-27シーズン プレシーズンマッチ ホストゲーム無料ご招待のお知らせ",
+      "title": "2026.09.18 ニュース 2026-27シーズン プレシーズンマッチ ホストゲーム無料ご招待のお知らせ",
       "date": "2026-09-18"
     },
     {
@@ -205,16 +215,6 @@
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_1982.html",
       "title": "2026.07.24 ニュース 2026-27シーズン パートナーシップのご案内",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_1990.html",
-      "title": "2026.07.24 ニュース 2026.8.7 第1回 浦安D-Rocks OB選手と語ろう「D-Link」イベント参加者募集のお知らせ",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_1989.html",
-      "title": "2026.07.24 ニュース 2026.7.2～6 千葉県立浦安高等学校よりインターンシップを受け入れました",
       "date": "2026-07-24"
     }
   ]

@@ -3,20 +3,30 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-09-30T01:42:11+09:00",
+  "checked_at": "2026-09-30T19:24:49+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "0dbc8aa25d0130ac"
+      "hash": "604cfc08053ce191"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "e1d5090f2e3ae627"
+      "hash": "832fdd37388fac3f"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/09/30/capvicecap/",
+      "title": "2026.09.30 チーム情報 キャプテン・バイスキャプテン および 2026-27シーズン チームスローガン決定のお知らせ",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/09/30/10%e6%9c%883%e6%97%a5%e5%9c%9f%e3%82%af%e3%83%9c%e3%82%bf%e3%82%b9%e3%83%94%e3%82%a2%e3%83%bc%e3%82%ba%e8%88%b9%e6%a9%8b%e3%83%bb%e6%9d%b1%e4%ba%ac%e3%83%99%e3%82%a4%e6%88%a6%e3%80%80%e3%83%a9/",
+      "title": "2026.09.30 その他 10月3日(土)クボタスピアーズ船橋・東京ベイ戦 ライブ配信＆パブリックビューイング開催のお知らせ。",
+      "date": "2026-09-30"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/09/28/2026-27new-player/",
       "title": "2026.09.28 チーム情報 2026-27シーズン新加入選手（追加）のお知らせ",
@@ -39,12 +49,12 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/09/16/26-27-6/",
-      "title": "2026.09.16 試合関連 NTTジャパンラグビー リーグワン2026-27 第6節試合日程および会場について追加決定のお知らせ",
+      "title": "2026-09-16 試合関連 NTTジャパンラグビー リーグワン2026-27 第6節試合日程および会場について追加決定のお知らせ",
       "date": "2026-09-16"
     },
     {
       "url": "https://hanazono-liners.jp/2026/09/10/liners-fanclub-termsandconditions/",
-      "title": "2026.09.10 ファンクラブ 【重要】LINERS FANCLUB 2026-27 会員規約の表示不備に関するお詫びとご確認のお願い",
+      "title": "2026-09-10 ファンクラブ 【重要】LINERS FANCLUB 2026-27 会員規約の表示不備に関するお詫びとご確認のお願い",
       "date": "2026-09-10"
     },
     {

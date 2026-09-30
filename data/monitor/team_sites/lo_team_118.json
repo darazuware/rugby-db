@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "狭山セコムラガッツ",
   "official_url": "https://www.rugguts.secom.co.jp/",
-  "checked_at": "2026-09-30T01:42:11+09:00",
+  "checked_at": "2026-09-30T19:24:49+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.rugguts.secom.co.jp/",
-      "hash": "3bd4230c29fe5e84"
+      "hash": "1fde8857db7d38d0"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/news/",
-      "hash": "a729e5399c1cb1d7"
+      "hash": "8e7a4a6631da246e"
     }
   ],
   "items": [
@@ -26,6 +26,16 @@
       "url": "https://www.rugguts.secom.co.jp/results/20261004.html",
       "title": "試合の詳細",
       "date": "2026-10-04"
+    },
+    {
+      "url": "https://www.rugguts.secom.co.jp/2026/09/post-27.html",
+      "title": "新スタジアム名称は『セコムラグビースタジアム』に決定 2026.09.30 news",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://www.rugguts.secom.co.jp/2026/08/ntt-2026-27-d2202686.html",
+      "title": "NTTジャパンラグビー リーグワン2026-27 D2の試合日程のお知らせ（2026年9月30日更新） 2026.08.06 お知らせ",
+      "date": "2026-09-30"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/2026/09/post-26.html",
@@ -41,11 +51,6 @@
       "url": "https://www.rugguts.secom.co.jp/2026/08/2026-27-1.html",
       "title": "2026-27シーズン新加入選手のお知らせ",
       "date": "2026-08-20"
-    },
-    {
-      "url": "https://www.rugguts.secom.co.jp/2026/08/ntt-2026-27-d2202686.html",
-      "title": "NTTジャパンラグビー リーグワン2026-27 D2の試合日程のお知らせ（2026年8月6日更新） 2026.08.06 お知らせ",
-      "date": "2026-08-06"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/2026/08/post-25.html",
@@ -211,11 +216,6 @@
       "url": "https://www.rugguts.secom.co.jp/results/20260307.html",
       "title": "NTTジャパンラグビー リーグワン 2025-26 D3 第8節 の試合結果を掲載しました。",
       "date": "2026-03-07"
-    },
-    {
-      "url": "https://www.rugguts.secom.co.jp/results/#20260425",
-      "title": "公式戦第13、15節の日程と開催場所が決定",
-      "date": "2026-03-03"
     }
   ]
 }

@@ -1,36 +1,37 @@
 {
-  "checked_at": "2026-09-30T16:53:36+09:00",
+  "checked_at": "2026-09-30T19:24:49+09:00",
   "url": "https://league-one.jp/news/",
   "items": [
     {
+      "url": "https://league-one.jp/news/6175",
+      "title": "クラブ コベルコ神戸スティーラーズ、2026-27シーズンテーマ決定のお知らせ 2026.09.30",
+      "date": "2026-09-30",
+      "category": null
+    },
+    {
       "url": "https://league-one.jp/news/6174",
       "title": "クラブ 花園近鉄ライナーズ、キャプテン・バイスキャプテンおよび2026-27シーズン・チームスローガン継続のお知らせ 2026.09.30",
-      "date": "2026-09-30",
-      "category": "roster"
+      "date": "2026-09-30"
     },
     {
       "url": "https://league-one.jp/news/6173",
       "title": "クラブ 静岡ブルーレヴズ、スポーツ庁【SOIP推進事業】に採択 2026.09.30",
-      "date": "2026-09-30",
-      "category": null
+      "date": "2026-09-30"
     },
     {
       "url": "https://league-one.jp/news/6172",
       "title": "クラブ クボタスピアーズ船橋・東京ベイ、2026-27シーズン チームスローガン決定のお知らせ 2026.09.30",
-      "date": "2026-09-30",
-      "category": null
+      "date": "2026-09-30"
     },
     {
       "url": "https://league-one.jp/news/6171",
       "title": "クラブ 川越狭山セコムラガッツ、新スタジアム名称は『セコムラグビースタジアム』に決定 2026.09.30",
-      "date": "2026-09-30",
-      "category": null
+      "date": "2026-09-30"
     },
     {
       "url": "https://league-one.jp/news/6170",
       "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 一部試合会場追加決定のお知らせ 2026.09.30",
-      "date": "2026-09-30",
-      "category": null
+      "date": "2026-09-30"
     },
     {
       "url": "https://league-one.jp/news/6169",
@@ -51,11 +52,6 @@
       "url": "https://league-one.jp/news/6166",
       "title": "クラブ 花園近鉄ライナーズ、2026-27シーズン新加入選手（追加）のお知らせ 2026.09.28",
       "date": "2026-09-28"
-    },
-    {
-      "url": "https://league-one.jp/news/6163",
-      "title": "クラブ コベルコ神戸スティーラーズ、NTTリーグワン2026-27 公式戦ジャージーパートナー決定のお知らせ 2026.09.25",
-      "date": "2026-09-25"
     }
   ]
 }
