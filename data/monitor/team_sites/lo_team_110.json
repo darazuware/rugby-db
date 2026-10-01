@@ -3,23 +3,23 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-10-01T19:52:06+09:00",
+  "checked_at": "2026-10-02T02:12:04+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "8f8aeed3037a8b07"
+      "hash": "7a2ebca354e05556"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "137ef73195d566e4"
+      "hash": "4bba195a8c5d2fde"
     }
   ],
   "items": [
     {
       "url": "https://www.kyudenvoltex.com/news/1006",
-      "title": "試合情報 2026年09月29日 NEW 【リーグワン ライジング|ホスト】10/10(土)中国RR戦のお知らせ",
+      "title": "試合情報 2026年09月29日 【リーグワン ライジング|ホスト】10/10(土)中国RR戦のお知らせ",
       "date": "2026-09-29"
     },
     {
