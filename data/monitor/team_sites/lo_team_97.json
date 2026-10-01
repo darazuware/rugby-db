@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "クボタスピアーズ船橋・東京ベイ",
   "official_url": "http://www.kubota-spears.com/",
-  "checked_at": "2026-10-01T01:33:32+09:00",
+  "checked_at": "2026-10-01T19:52:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kubota-spears.com/",
-      "hash": "1b44707a8a72c09b"
+      "hash": "92deb76e2bb857b0"
     },
     {
       "url": "https://www.kubota-spears.com/news/",
-      "hash": "b433fdb744e7f3c1"
+      "hash": "dd01693039a5ee9a"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kubota-spears.com/schedule/index.php",
+      "title": "2026.10.01 ニュース・トピックス",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://www.kubota-spears.com/goods/2026/10/01/101500.html",
+      "title": "2026.10.01 グッズ",
+      "date": "2026-10-01"
+    },
     {
       "url": "https://www.kubota-spears.com/news/2026/09/30/150000.html",
       "title": "2026.09.30 ニュース・トピックス",
@@ -121,11 +131,6 @@
       "url": "https://www.kubota-spears.com/event/2026/08/04/120000.html",
       "title": "2026.08.04 イベント情報",
       "date": "2026-08-04"
-    },
-    {
-      "url": "https://www.kubota-spears.com/schedule/index.php",
-      "title": "2026.08.03 ニュース・トピックス",
-      "date": "2026-08-03"
     },
     {
       "url": "https://www.kubota-spears.com/news/2026/08/03/140000.html",
@@ -271,11 +276,6 @@
       "url": "https://www.kubota-spears.com/partner_news/2026/01/22/130000.html",
       "title": "2026.01.22 パートナー",
       "date": "2026-01-22"
-    },
-    {
-      "url": "https://www.kubota-spears.com/goods/2026/01/13/120000.html",
-      "title": "2026.01.13 グッズ",
-      "date": "2026-01-13"
     },
     {
       "url": "https://www.kubota-spears.com/partner_news/2025/12/04/120000.html",

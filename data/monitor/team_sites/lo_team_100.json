@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-10-01T01:33:32+09:00",
+  "checked_at": "2026-10-01T19:52:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "d1c8c4bc1af1de90"
+      "hash": "8744569f9c279ba3"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "cc553c489cce5c9b"
+      "hash": "5b826359a4b6bf0f"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/partner/index_2039.html",
+      "title": "パートナー 2026.10.01 株式会社NTTドコモ・フィナンシャルグループとのゴールドパートナーシップ契約締結のお知らせ",
+      "date": "2026-10-01"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2036.html",
       "title": "ゲーム 2026.09.30 2026-27シーズン 一部試合会場決定のお知らせ",
@@ -54,12 +59,12 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2031.html",
-      "title": "ゲーム 2026.09.24 2026-27シーズン プレシーズンマッチ 日程更新のお知らせ",
+      "title": "2026.09.24 ニュース 2026-27シーズン プレシーズンマッチ 日程更新のお知らせ",
       "date": "2026-09-24"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2029.html",
-      "title": "イベント 2026.09.22 2026.9.30 浦安Dパーク開放イベント「ウェルネスプロジェクト～ナイトヨガ～」実施のお知らせ",
+      "title": "2026.09.22 ニュース 2026.9.30 浦安Dパーク開放イベント「ウェルネスプロジェクト～ナイトヨガ～」実施のお知らせ",
       "date": "2026-09-22"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/event/index_1991.html",
       "title": "2026.07.28 ニュース 2026.7.25「仙台駐屯地 夏まつり」に参加しました",
       "date": "2026-07-28"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/partner/index_1982.html",
-      "title": "2026.07.24 ニュース 2026-27シーズン パートナーシップのご案内",
-      "date": "2026-07-24"
     }
   ]
 }

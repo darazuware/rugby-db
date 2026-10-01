@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-10-01T01:33:32+09:00",
+  "checked_at": "2026-10-01T19:52:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "f250082f518d882d"
+      "hash": "4a833189a714c9b3"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "e35aea0fe7aa481d"
+      "hash": "c396d79c875ac55b"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMvSPWKvsof.html",
+      "title": "2026年 10月 1日 2026 TRAINING MATCH vs 埼玉パナソニックワイルドナイツ メンバー発表",
+      "date": "2026-10-01"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627tca.html",
       "title": "2026年 9月29日 2026-27シーズンキャプテンおよびスローガン決定のお知らせ いつも東京サンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27シーズンのキャプテンおよび…",
@@ -211,11 +216,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/lor12vsdbc.html",
       "title": "2026年 3月16日 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第12節 三菱重工相模原ダイナボアーズ vs東京サントリーサンゴリアス戦のご案内 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第12節 ※ビジターゲーム ■試合日…",
       "date": "2026-03-16"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/lor11fdblt..html",
-      "title": "2026年 3月14日 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第11節 東京サントリーサンゴリアスvs東芝ブレイブルーパス東京戦のご案内 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第11節 ※ホストゲーム ■試合日時…",
-      "date": "2026-03-14"
     }
   ]
 }

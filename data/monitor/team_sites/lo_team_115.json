@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-10-01T01:33:32+09:00",
+  "checked_at": "2026-10-01T19:52:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,10 +13,15 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "40881f0d26c2a98c"
+      "hash": "e8ffdb87e8b1487c"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-10-01/",
+      "title": "石川建設株式会社とクラブパートナー契約を締結しました",
+      "date": "2026-10-01"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-09-30/",
       "title": "10月12日羽村市市民スポーツまつり（はむリンピック）に参加します",

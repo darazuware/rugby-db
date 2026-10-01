@@ -3,28 +3,58 @@
   "league": "league-one-d3",
   "name": "中国電力レッドレグリオンズ",
   "official_url": "https://rrrfc.red/",
-  "checked_at": "2026-10-01T01:33:32+09:00",
+  "checked_at": "2026-10-01T19:52:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://rrrfc.red/",
-      "hash": "9bd6521003cefb1d"
+      "hash": "bd487afb764d3711"
     },
     {
       "url": "https://rrrfc.red/blog/",
-      "hash": "4b9eb8f17fd8f913"
+      "hash": "14e1c57b78fbda66"
     },
     {
       "url": "https://rrrfc.red/categories/news/",
-      "hash": "a22c75e1a0956092"
+      "hash": "98d9835f6e82e009"
     }
   ],
   "items": [
     {
+      "url": "https://rrrfc.red/categories/un1000on/",
+      "title": "広島ダービー2024 UN1000ON",
+      "date": "2026-10-01"
+    },
+    {
       "url": "https://rrrfc.red/categories/news/",
       "title": "MORE",
-      "date": "2026-09-01"
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://rrrfc.red/categories/%e9%81%b8%e6%89%8b%e3%83%97%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab/",
+      "title": "選手プロフィール",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://rrrfc.red/categories/%e8%a9%a6%e5%90%88%e6%83%85%e5%a0%b1/",
+      "title": "試合情報",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://rrrfc.red/categories/%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88/",
+      "title": "イベント",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://rrrfc.red/blog/blog-6796/",
+      "title": "2026.10.01 新加入選手のお知らせ",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://rrrfc.red/blog/blog-6793/",
+      "title": "2026.10.01 新加入選手のお知らせ",
+      "date": "2026-10-01"
     },
     {
       "url": "https://rrrfc.red/blog/blog-6787/",
@@ -90,16 +120,6 @@
       "url": "https://rrrfc.red/blog/blog-6552/",
       "title": "2026.01.09 比較をやめて手にした新たなマインドセット。どんな番号でも貫く“自分らしさ”",
       "date": "2026-01-09"
-    },
-    {
-      "url": "https://rrrfc.red/blog/blog-6545/",
-      "title": "2026.01.09 【1/18（日）山口開催 vs.ルリーロ福岡】試合情報",
-      "date": "2026-01-09"
-    },
-    {
-      "url": "https://rrrfc.red/blog/blog-6487/",
-      "title": "2025.12.20 12/21（日）vs. ヤクルトレビンズ戸田 「坂町民無料招待デー」開催！",
-      "date": "2025-12-20"
     }
   ]
 }

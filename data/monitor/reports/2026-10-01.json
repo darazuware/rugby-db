@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T01:33:32+09:00",
+  "checked_at": "2026-10-01T19:52:06+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/partner/index_2039.html",
+          "title": "パートナー 2026.10.01 株式会社NTTドコモ・フィナンシャルグループとのゴールドパートナーシップ契約締結のお知らせ",
+          "date": "2026-10-01",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -21,8 +31,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35403/",
+          "title": "2026/10/1 チーム 2026-27シーズン退任スタッフおよび役職変更のお知らせ",
+          "date": "2026-10-01",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -32,9 +52,31 @@
       "official_url": "https://panasonic.co.jp/sports/wildknights/",
       "status": "ok",
       "first_run": false,
-      "item_count": 35,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 36,
+      "new_items": [
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/",
+          "title": "試合詳細",
+          "date": "2026-11-14",
+          "category": null
+        },
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261003/",
+          "title": "試合詳細",
+          "date": "2026-10-03",
+          "category": null
+        },
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261001_01/",
+          "title": "チーム 2026年10月01日 新加入スタッフのお知らせ ニュースを見る",
+          "date": "2026-10-01",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -45,7 +87,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/news/261001_02/",
+          "title": "2026-27シーズン新加入スタッフ（追加）のお知らせ",
+          "date": "2026-10-01",
+          "category": "roster"
+        },
+        {
+          "url": "https://www.bravelupus.com/news/261001/",
+          "title": "本日より東芝ブレイブルーパス武蔵として活動して参ります。",
+          "date": "2026-10-01",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.bravelupus.com/",
         "https://www.bravelupus.com/news/"
@@ -60,14 +115,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4279/",
-          "title": "2026.9.27 コラム English Content 【Match Report】Ryuji Noguchi makes his Verblitz debut",
-          "date": "2026-09-27",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://verblitz.toyotatimes-sports.toyota/"
       ],
@@ -81,7 +129,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 25,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.honda-heat.jp/news/2460/",
+          "title": "2026/10/1 【チケット】2026-27シーズン シーズンシート販売のご案内",
+          "date": "2026-10-01",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.honda-heat.jp/",
         "https://www.honda-heat.jp/news/"
@@ -111,8 +166,31 @@
       "status": "ok",
       "first_run": false,
       "item_count": 19,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/news/interview/20261001.html",
+          "title": "2026.10.01 INTERVIEW 【新加入選手インタビュー】LO/FL/NO.8 ゲージ・ジャクソン",
+          "date": "2026-10-01",
+          "category": "roster"
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/interview/20261001-2.html",
+          "title": "2026.10.01 INTERVIEW 【新加入選手インタビュー】UBK ティアーン・ファルコン",
+          "date": "2026-10-01",
+          "category": "roster"
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20261001.html",
+          "title": "2026.10.01 TEAM 横浜キヤノンイーグルス写真展 2026（キヤノンギャラリーS）のお知らせ",
+          "date": "2026-10-01",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/",
+        "https://www.canon-eagles.jp/news/info/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -123,7 +201,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/members/2026-2027/20261001a.html",
+          "title": "NPCマナワツ・ターボス期限付き移籍レポート③（笹川大五選手）",
+          "date": "2026-10-01",
+          "category": "roster"
+        }
+      ],
       "changed_pages": [
         "https://blackrams-tokyo.com/"
       ],
@@ -137,8 +222,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 58,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/goods/2026/10/01/101500.html",
+          "title": "2026.10.01 グッズ",
+          "date": "2026-10-01",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/",
+        "https://www.kubota-spears.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -149,7 +244,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 26,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3205",
+          "title": "2026.10.1[THU] HOST AREA 赤い羽根共同募金運動にレヴズくんが参加しました",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3201",
+          "title": "2026.10.1[THU] TICKET 大漁旗・フラッグ応援エリアを新設",
+          "date": "2026-10-01",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -164,8 +272,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMvSPWKvsof.html",
+          "title": "2026年 10月 1日 2026 TRAINING MATCH vs 埼玉パナソニックワイルドナイツ メンバー発表",
+          "date": "2026-10-01",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -175,9 +293,20 @@
       "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": false,
-      "item_count": 14,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 15,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1001-01/",
+          "title": "EVENT かしわスポーツフェスティバル 2026.10.01",
+          "date": "2026-10-01",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/",
+        "https://www.jreast.co.jp/greenwarriors/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -215,10 +344,18 @@
       "official_url": "https://shuttles-aichi.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 7,
-      "new_items": [],
+      "item_count": 6,
+      "new_items": [
+        {
+          "url": "https://shuttles-aichi.com/news/2026-10-3-saturday-japan-rugby-league-one-rising-2026-vs-shizuoka-blue-revs-participating-members/",
+          "title": "お知らせ 26年10月01日 2026/10/3(土) ジャパンラグビーリーグワン ライジング2026 vs 静岡ブルーレヴズ 出場メンバー",
+          "date": "2026-10-03",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://shuttles-aichi.com/"
+        "https://shuttles-aichi.com/",
+        "https://shuttles-aichi.com/news/"
       ],
       "rename_signals": []
     },
@@ -245,8 +382,33 @@
       "official_url": "https://hanazono-liners.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 28,
-      "new_items": [],
+      "item_count": 27,
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/2026/10/01/off-itemae4/",
+          "title": "2026.10.01 活動報告書 その他 【番組 オフもいてまえ！花園近鉄ライナーズ（4回目・10/1放送）】",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/10/01/brumbies-practice-tour/",
+          "title": "2026.10.01 ファンクラブ 【LINERS FANCLUB】ファンクラブ会員限定 ACTブランビーズ合同練習見学会開催のお知らせ",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/10/01/10-3member/",
+          "title": "2026.10.01 試合関連 チーム情報 【10月3日(土)クボタスピアーズ船橋・東京ベイ戦】メンバーのご案内",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/09/30/10-3-live-pv/",
+          "title": "2026.09.30 その他 10月3日(土)クボタスピアーズ船橋・東京ベイ戦 ライブ配信＆パブリックビューイング開催のお知らせ。",
+          "date": "2026-09-30",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -260,9 +422,18 @@
       "official_url": "https://hino-reddolphins.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 15,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 16,
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-10-01/",
+          "title": "石川建設株式会社とクラブパートナー契約を締結しました",
+          "date": "2026-10-01",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -272,10 +443,18 @@
       "official_url": "https://docomo-rugby.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 47,
-      "new_items": [],
+      "item_count": 46,
+      "new_items": [
+        {
+          "url": "https://docomo-rugby.jp/csr/detail.html?id=8886",
+          "title": "ホストタウン活動 2026年10月1日 【2026年9月】サステナNEWS",
+          "date": "2026-10-01",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://docomo-rugby.jp/"
+        "https://docomo-rugby.jp/",
+        "https://docomo-rugby.jp/news/"
       ],
       "rename_signals": []
     },
@@ -287,7 +466,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 44,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261001-2/",
+          "title": "地域貢献 2026/10/01 【地域活動報告】児童の登校見守り活動",
+          "date": "2026-10-01",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -303,7 +489,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -313,9 +502,50 @@
       "official_url": "https://rrrfc.red/",
       "status": "ok",
       "first_run": false,
-      "item_count": 16,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 20,
+      "new_items": [
+        {
+          "url": "https://rrrfc.red/categories/un1000on/",
+          "title": "広島ダービー2024 UN1000ON",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://rrrfc.red/categories/%e9%81%b8%e6%89%8b%e3%83%97%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab/",
+          "title": "選手プロフィール",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://rrrfc.red/categories/%e8%a9%a6%e5%90%88%e6%83%85%e5%a0%b1/",
+          "title": "試合情報",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://rrrfc.red/categories/%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88/",
+          "title": "イベント",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://rrrfc.red/blog/blog-6796/",
+          "title": "2026.10.01 新加入選手のお知らせ",
+          "date": "2026-10-01",
+          "category": "roster"
+        },
+        {
+          "url": "https://rrrfc.red/blog/blog-6793/",
+          "title": "2026.10.01 新加入選手のお知らせ",
+          "date": "2026-10-01",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://rrrfc.red/",
+        "https://rrrfc.red/blog/",
+        "https://rrrfc.red/categories/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -341,8 +571,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 12,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1471",
+          "title": "2026-27シーズン新加入選手について",
+          "date": "2026-10-01",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.yakult.co.jp/sports/rugby/",
+        "https://www.yakult.co.jp/sports/rugby/topics/"
+      ],
       "rename_signals": []
     },
     {
@@ -353,8 +593,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 11,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://leriro-fukuoka.com/news-detail?id=279",
+          "title": "2026-27シーズン 新加入選手のお知らせ（追加）",
+          "date": "2026-10-01",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://leriro-fukuoka.com/",
+        "https://leriro-fukuoka.com/news"
+      ],
       "rename_signals": []
     }
   ],
@@ -367,13 +617,7 @@
       "first_run": false,
       "item_count": 10,
       "new_items": [],
-      "rename_signals": [
-        {
-          "url": "https://league-one.jp/news/6167",
-          "title": "クラブ 東芝ブレイブルーパス東京、チーム名称変更のお知らせ 2026.09.28",
-          "date": "2026-09-28"
-        }
-      ]
+      "rename_signals": []
     },
     {
       "key": "jrfu",
@@ -382,7 +626,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54233",
+          "title": "女子セブンズ日本代表（サクラセブンズ） 第20回アジア競技大会（愛知・名古屋） 大会1 日目試合結果と 2 日目試合スケジュールのお知らせ 2026.10.01 （木） 女子セブンズ日本代表 女子 セブンズ",
+          "date": "2026-10-01",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54224",
+          "title": "男子セブンズ日本代表 第20回アジア競技大会（愛知・名古屋） 大会1日目試合結果と2日目試合スケジュールのお知らせ 2026.10.01 （木） 男子セブンズ日本代表 セブンズ アジア競技大会 男子セブンズ 男子",
+          "date": "2026-10-01",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -396,13 +653,92 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
-  "league_rename_news": [
+  "highlights": [
     {
-      "url": "https://league-one.jp/news/6167",
-      "title": "クラブ 東芝ブレイブルーパス東京、チーム名称変更のお知らせ 2026.09.28",
-      "date": "2026-09-28"
+      "source": "浦安D-Rocks",
+      "url": "https://urayasu-d-rocks.com/news/partner/index_2039.html",
+      "title": "パートナー 2026.10.01 株式会社NTTドコモ・フィナンシャルグループとのゴールドパートナーシップ契約締結のお知らせ",
+      "date": "2026-10-01",
+      "category": "roster"
+    },
+    {
+      "source": "埼玉パナソニックワイルドナイツ",
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261001_01/",
+      "title": "チーム 2026年10月01日 新加入スタッフのお知らせ ニュースを見る",
+      "date": "2026-10-01",
+      "category": "roster"
+    },
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/261001_02/",
+      "title": "2026-27シーズン新加入スタッフ（追加）のお知らせ",
+      "date": "2026-10-01",
+      "category": "roster"
+    },
+    {
+      "source": "横浜キヤノンイーグルス",
+      "url": "https://www.canon-eagles.jp/news/interview/20261001.html",
+      "title": "2026.10.01 INTERVIEW 【新加入選手インタビュー】LO/FL/NO.8 ゲージ・ジャクソン",
+      "date": "2026-10-01",
+      "category": "roster"
+    },
+    {
+      "source": "横浜キヤノンイーグルス",
+      "url": "https://www.canon-eagles.jp/news/interview/20261001-2.html",
+      "title": "2026.10.01 INTERVIEW 【新加入選手インタビュー】UBK ティアーン・ファルコン",
+      "date": "2026-10-01",
+      "category": "roster"
+    },
+    {
+      "source": "リコーブラックラムズ東京",
+      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20261001a.html",
+      "title": "NPCマナワツ・ターボス期限付き移籍レポート③（笹川大五選手）",
+      "date": "2026-10-01",
+      "category": "roster"
+    },
+    {
+      "source": "中国電力レッドレグリオンズ",
+      "url": "https://rrrfc.red/blog/blog-6796/",
+      "title": "2026.10.01 新加入選手のお知らせ",
+      "date": "2026-10-01",
+      "category": "roster"
+    },
+    {
+      "source": "中国電力レッドレグリオンズ",
+      "url": "https://rrrfc.red/blog/blog-6793/",
+      "title": "2026.10.01 新加入選手のお知らせ",
+      "date": "2026-10-01",
+      "category": "roster"
+    },
+    {
+      "source": "ヤクルトレビンズ戸田",
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1471",
+      "title": "2026-27シーズン新加入選手について",
+      "date": "2026-10-01",
+      "category": "roster"
+    },
+    {
+      "source": "ルリーロ福岡",
+      "url": "https://leriro-fukuoka.com/news-detail?id=279",
+      "title": "2026-27シーズン 新加入選手のお知らせ（追加）",
+      "date": "2026-10-01",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54233",
+      "title": "女子セブンズ日本代表（サクラセブンズ） 第20回アジア競技大会（愛知・名古屋） 大会1 日目試合結果と 2 日目試合スケジュールのお知らせ 2026.10.01 （木） 女子セブンズ日本代表 女子 セブンズ",
+      "date": "2026-10-01",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54224",
+      "title": "男子セブンズ日本代表 第20回アジア競技大会（愛知・名古屋） 大会1日目試合結果と2日目試合スケジュールのお知らせ 2026.10.01 （木） 男子セブンズ日本代表 セブンズ アジア競技大会 男子セブンズ 男子",
+      "date": "2026-10-01",
+      "category": "squad"
     }
   ],
+  "league_rename_news": [],
   "warnings": []
 }

@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-10-01T01:33:32+09:00",
+  "checked_at": "2026-10-01T19:52:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "70d016325b7ae452"
+      "hash": "f3cf6b7c573637b7"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20261001a.html",
+      "title": "NPCマナワツ・ターボス期限付き移籍レポート③（笹川大五選手）",
+      "date": "2026-10-01"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260929a.html",
       "title": "プラス株式会社とオフィシャルパートナー新規契約のお知らせ",
@@ -32,11 +37,6 @@
       "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260925a.html",
       "title": "10月17日(土) プレシーズンマッチ 花園近鉄ライナーズ戦 チケット情報のお知らせ",
       "date": "2026-09-25"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20260922c.html",
-      "title": "9月27日(日)「第3回 鉄道フェスタ」スペシャルステージ参加のお知らせ",
-      "date": "2026-09-22"
     }
   ]
 }

@@ -3,54 +3,49 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-10-01T01:33:32+09:00",
+  "checked_at": "2026-10-01T19:52:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "959ba677f6244386"
+      "hash": "c5c491c4f0d3492f"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "e84c65733d427ae7"
+      "hash": "4004277c852d909a"
     }
   ],
   "items": [
     {
+      "url": "https://shuttles-aichi.com/news/tag-rugby-visit-class-at-otsukawa-higashi-elementary-school-in-handa-city/",
+      "title": "フォトギャラリー お知らせ 26年09月17日 半田市立乙川東小学校 タグラグビー訪問授業 実施報告",
+      "date": "2026-10-03"
+    },
+    {
       "url": "https://shuttles-aichi.com/news/notice-about-the-mizuho-3-game-pack-sale/",
-      "title": "お知らせ 2026.09.29 瑞穂3試合パック販売のお知らせ",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/fan-meeting-held/",
-      "title": "お知らせ 2026.09.29 ファンミーティング開催決定！",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/10-3japan-rugby-league-one-rising/",
-      "title": "お知らせ 2026.09.29 10月3日（土）JAPAN RUGBY LEAGUE ONE RISING 静岡ブルーレヴズ戦 観戦のご案内",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/",
-      "title": "もっと見る",
-      "date": "2026-09-29"
+      "title": "お知らせ 26年09月29日 瑞穂3試合パック販売のお知らせ",
+      "date": "2026-10-03"
     },
     {
       "url": "https://shuttles-aichi.com/news/free-rugby-workshop-in-aichi-its-happening/",
-      "title": "お知らせ イベント 2026.09.18 参加無料！ラグビー教室 in 愛知 開催決定！",
-      "date": "2026-09-18"
+      "title": "お知らせ イベント 26年09月18日 参加無料！ラグビー教室 in 愛知 開催決定！",
+      "date": "2026-10-03"
     },
     {
-      "url": "https://shuttles-aichi.com/news/tag-rugby-visit-class-at-otsukawa-higashi-elementary-school-in-handa-city/",
-      "title": "フォトギャラリー お知らせ 2026.09.17 半田市立乙川東小学校 タグラグビー訪問授業 実施報告",
-      "date": "2026-09-17"
+      "url": "https://shuttles-aichi.com/news/fan-meeting-held/",
+      "title": "お知らせ 26年09月29日 ファンミーティング開催決定！",
+      "date": "2026-10-03"
     },
     {
-      "url": "https://shuttles-aichi.com/news/aeon-mall-aratamabashi-feel-the-rugby/",
-      "title": "お知らせ イベント 2026.09.17 イオンモール新瑞橋で「Feel the Rugby」を開催！",
-      "date": "2026-09-17"
+      "url": "https://shuttles-aichi.com/news/2026-10-3-saturday-japan-rugby-league-one-rising-2026-vs-shizuoka-blue-revs-participating-members/",
+      "title": "お知らせ 26年10月01日 2026/10/3(土) ジャパンラグビーリーグワン ライジング2026 vs 静岡ブルーレヴズ 出場メンバー",
+      "date": "2026-10-03"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/10-3japan-rugby-league-one-rising/",
+      "title": "お知らせ 26年09月29日 10月3日（土）JAPAN RUGBY LEAGUE ONE RISING 静岡ブルーレヴズ戦 観戦のご案内",
+      "date": "2026-10-03"
     }
   ]
 }

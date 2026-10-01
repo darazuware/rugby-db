@@ -3,28 +3,38 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-01T01:33:32+09:00",
+  "checked_at": "2026-10-01T19:52:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "7e780a873da216b9"
+      "hash": "25588397d5a75965"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "fdb06da00c1f02f9"
+      "hash": "d0474921a5186a95"
     }
   ],
   "items": [
     {
-      "url": "https://www.bravelupus.com/news/260909/",
-      "title": "NTTジャパンラグビー リーグワン2026-27 ディビジョン1 試合日程・会場決定のお知らせ ※6・11節会場更新",
-      "date": "2026-09-30"
+      "url": "https://www.bravelupus.com/news/261001_02/",
+      "title": "2026-27シーズン新加入スタッフ（追加）のお知らせ",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261001/",
+      "title": "本日より東芝ブレイブルーパス武蔵として活動して参ります。",
+      "date": "2026-10-01"
     },
     {
       "url": "https://www.bravelupus.com/news/",
       "title": "記事一覧",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260909/",
+      "title": "NTTジャパンラグビー リーグワン2026-27 ディビジョン1 試合日程・会場決定のお知らせ ※6・11節会場更新",
       "date": "2026-09-30"
     },
     {
@@ -39,7 +49,7 @@
     },
     {
       "url": "https://www.bravelupus.com/news/all_story/",
-      "title": "【連載企画】東芝ブレイブルーパス東京「物語り」（Vol.204更新）",
+      "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.204更新）",
       "date": "2026-09-25"
     },
     {
@@ -211,16 +221,6 @@
       "url": "https://www.bravelupus.com/news/260626/",
       "title": "クラウドファンディング第一弾 御礼",
       "date": "2026-06-26"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260625/",
-      "title": "リポビタンDチャレンジカップ2026 JAPAN XV vsマオリ・オールブラックス JAPAN XV 試合登録メンバーのお知らせ",
-      "date": "2026-06-25"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/20260624/",
-      "title": "ECによるグッズ販売停止のお知らせ",
-      "date": "2026-06-24"
     },
     {
       "url": "https://www.bravelupus.com/game/https-www-bravelupus-com-game-ntt-japan-rugby-league-one-2025-26-play-offs-quarterfinal/",

@@ -3,27 +3,42 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-10-01T01:33:32+09:00",
+  "checked_at": "2026-10-01T19:52:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "758cc56fe5864046"
+      "hash": "0563d661f294f673"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "66541af7eec4c48c"
+      "hash": "83064c94b4f5dcb1"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/10/01/off-itemae4/",
+      "title": "2026.10.01 活動報告書 その他 【番組 オフもいてまえ！花園近鉄ライナーズ（4回目・10/1放送）】",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/10/01/brumbies-practice-tour/",
+      "title": "2026.10.01 ファンクラブ 【LINERS FANCLUB】ファンクラブ会員限定 ACTブランビーズ合同練習見学会開催のお知らせ",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/10/01/10-3member/",
+      "title": "2026.10.01 試合関連 チーム情報 【10月3日(土)クボタスピアーズ船橋・東京ベイ戦】メンバーのご案内",
+      "date": "2026-10-01"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/09/30/capvicecap/",
       "title": "2026.09.30 チーム情報 キャプテン・バイスキャプテン および 2026-27シーズン チームスローガン決定のお知らせ",
       "date": "2026-09-30"
     },
     {
-      "url": "https://hanazono-liners.jp/2026/09/30/10%e6%9c%883%e6%97%a5%e5%9c%9f%e3%82%af%e3%83%9c%e3%82%bf%e3%82%b9%e3%83%94%e3%82%a2%e3%83%bc%e3%82%ba%e8%88%b9%e6%a9%8b%e3%83%bb%e6%9d%b1%e4%ba%ac%e3%83%99%e3%82%a4%e6%88%a6%e3%80%80%e3%83%a9/",
+      "url": "https://hanazono-liners.jp/2026/09/30/10-3-live-pv/",
       "title": "2026.09.30 その他 10月3日(土)クボタスピアーズ船橋・東京ベイ戦 ライブ配信＆パブリックビューイング開催のお知らせ。",
       "date": "2026-09-30"
     },
@@ -34,17 +49,17 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/09/25/liners-fanclub-5/",
-      "title": "2026.09.25 ファンクラブ 【LINERS FANCLUB】システムメンテナンスのお知らせ",
+      "title": "2026-09-25 ファンクラブ 【LINERS FANCLUB】システムメンテナンスのお知らせ",
       "date": "2026-09-25"
     },
     {
       "url": "https://hanazono-liners.jp/2026/09/19/liners-fanclub-4/",
-      "title": "2026.09.19 ファンクラブ 【LINERS FANCLUB】ファンクラブ入会サポート開催のお知らせ",
+      "title": "2026-09-19 ファンクラブ 【LINERS FANCLUB】ファンクラブ入会サポート開催のお知らせ",
       "date": "2026-09-19"
     },
     {
       "url": "https://hanazono-liners.jp/2026/09/19/10-3vskubota/",
-      "title": "2026.09.19 その他 【10月3日(土) ジャパンラグビーリーグワンライジング2026 クボタスピアーズ船橋・東京ベイ戦】についてのお知らせ",
+      "title": "2026-09-19 その他 【10月3日(土) ジャパンラグビーリーグワンライジング2026 クボタスピアーズ船橋・東京ベイ戦】についてのお知らせ",
       "date": "2026-09-19"
     },
     {
@@ -78,16 +93,6 @@
       "date": "2026-09-03"
     },
     {
-      "url": "https://hanazono-liners.jp/2026/09/01/news-seasonpass/",
-      "title": "2026-09-01 ファンクラブ チケット 【ホスト全7試合を「マイシート」で熱く応援！26-27 シーズンパス発売】",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/09/01/itemae-off3/",
-      "title": "2026-09-01 活動報告書 その他 【番組 オフもいてまえ！花園近鉄ライナーズ（3回目・9/1放送）】",
-      "date": "2026-09-01"
-    },
-    {
       "url": "https://hanazono-liners.jp/2026/08/24/rising-timeschedule/",
       "title": "2026.08.24 試合関連 ジャパンラグビー リーグワン ライジング2026 試合時間決定【追加】のお知らせ",
       "date": "2026-08-24"
@@ -95,11 +100,6 @@
     {
       "url": "https://hanazono-liners.jp/2026/08/24/news-osaka-funtastc-sports-project/",
       "title": "2026.08.24 試合関連 2026-27 プレシーズンマッチ【追加】および9/2(水)『OSAKA FUNtast!c SPORTS PROJECT』キックオフイベント選手参加のお知らせ",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/08/24/news-event/",
-      "title": "2026-08-24 イベント 8/29(土) 「おおきに祭り」に、ライナーズの選手が参加します",
       "date": "2026-08-24"
     },
     {
@@ -151,11 +151,6 @@
       "url": "https://hanazono-liners.jp/2026/05/08/5-10-shuttles-match-members-and-match-details/",
       "title": "2026.05.08 試合関連 チーム情報 【5/10豊田自動織機シャトルズ愛知戦】メンバーおよび試合詳細のご案内",
       "date": "2026-05-08"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/05/01/kcn-youtube-march-broadcasts-released-7/",
-      "title": "2026.05.01 チーム情報 KCN YouTube 「いてまえ！花園近鉄ライナーズ」5月放送分#7が公開されました",
-      "date": "2026-05-01"
     }
   ]
 }

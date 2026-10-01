@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-10-01T01:33:32+09:00",
+  "checked_at": "2026-10-01T19:52:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "f4a267fc97bac9a9"
+      "hash": "23d1370dd89c7d89"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "3026cea9e5c132bf"
+      "hash": "054766cf5436c873"
     }
   ],
   "items": [
@@ -23,9 +23,24 @@
       "date": "2026-12-12"
     },
     {
+      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/",
+      "title": "試合詳細",
+      "date": "2026-11-14"
+    },
+    {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
       "title": "試合日程一覧",
       "date": "2026-10-03"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261003/",
+      "title": "試合詳細",
+      "date": "2026-10-03"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261001_01/",
+      "title": "チーム 2026年10月01日 新加入スタッフのお知らせ ニュースを見る",
+      "date": "2026-10-01"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260930_01/",
@@ -63,18 +78,8 @@
       "date": "2026-09-09"
     },
     {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260908_01/",
-      "title": "チーム 2026年09月08日 グローバルラグビーフェスタ 2026 埼玉パナソニックワイルドナイツ 対 クイー... ニュースを見る",
-      "date": "2026-09-08"
-    },
-    {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260901_01/",
       "title": "活動レポート 2026年09月01日 留学記：NZ編 谷山隼大④ ニュースを見る",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260825_01/",
-      "title": "チーム 2026年09月01日 （更新）日本代表 宮崎（大阪） 参加メンバーのお知らせ ニュースを見る",
       "date": "2026-09-01"
     },
     {

@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-10-01T01:33:32+09:00",
+  "checked_at": "2026-10-01T19:52:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "5faf88628db41d81"
+      "hash": "2704118d35d0bd0a"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "95fe6977884706ce"
+      "hash": "f2d4595b3d684b8a"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "64ccebe60b645e36"
+      "hash": "1127a5ac98d6ac7f"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1001-01/",
+      "title": "EVENT かしわスポーツフェスティバル 2026.10.01",
+      "date": "2026-10-01"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0924-02/",
       "title": "TICKET JR東日本グリーンウォリアーズ東葛 2026-2027シーズンシート販売のご案内 2026.09.24",
