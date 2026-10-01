@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T17:15:29+09:00",
+  "checked_at": "2026-10-02T01:51:36+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,26 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6179",
-          "title": "クラブ ヤクルトレビンズ戸田、2026-27シーズン新加入選手について 2026.10.01",
-          "date": "2026-10-01",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6178",
-          "title": "クラブ ルリーロ福岡、2026-27シーズン新加入選手のお知らせ（追加） 2026.10.01",
-          "date": "2026-10-01",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6177",
-          "title": "クラブ 中国電力レッドレグリオンズ、新加入選手のお知らせ 2026.10.01",
-          "date": "2026-10-01",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -40,16 +21,16 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54232",
-          "title": "レポート：男子セブンズ日本代表 名古屋合宿 2026.10.01 （木） 男子セブンズ日本代表 セブンズ アジア競技大会 男子 男子セブンズ",
+          "url": "https://www.rugby-japan.jp/news/54234",
+          "title": "テストマッチ 女子アイルランド代表戦 試合登録メンバーのお知らせ 2026.10.01 （木） 15人制女子日本代表 女子",
           "date": "2026-10-01",
           "category": "squad"
         },
         {
-          "url": "https://www.rugby-japan.jp/news/54228",
-          "title": "JRFUカスタマーハラスメント対応方針策定のお知らせ 2026.10.01 （木） JRFU",
+          "url": "https://www.rugby-japan.jp/news/54200",
+          "title": "（10/1更新）レポート：女子日本代表 イタリア・アイルランド遠征 2026.10.01 （木） 15人制女子日本代表 女子",
           "date": "2026-10-01",
-          "category": null
+          "category": "squad"
         }
       ],
       "rename_signals": []
@@ -67,30 +48,16 @@
   ],
   "highlights": [
     {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6179",
-      "title": "クラブ ヤクルトレビンズ戸田、2026-27シーズン新加入選手について 2026.10.01",
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54234",
+      "title": "テストマッチ 女子アイルランド代表戦 試合登録メンバーのお知らせ 2026.10.01 （木） 15人制女子日本代表 女子",
       "date": "2026-10-01",
-      "category": "roster"
-    },
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6178",
-      "title": "クラブ ルリーロ福岡、2026-27シーズン新加入選手のお知らせ（追加） 2026.10.01",
-      "date": "2026-10-01",
-      "category": "roster"
-    },
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6177",
-      "title": "クラブ 中国電力レッドレグリオンズ、新加入選手のお知らせ 2026.10.01",
-      "date": "2026-10-01",
-      "category": "roster"
+      "category": "squad"
     },
     {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54232",
-      "title": "レポート：男子セブンズ日本代表 名古屋合宿 2026.10.01 （木） 男子セブンズ日本代表 セブンズ アジア競技大会 男子 男子セブンズ",
+      "url": "https://www.rugby-japan.jp/news/54200",
+      "title": "（10/1更新）レポート：女子日本代表 イタリア・アイルランド遠征 2026.10.01 （木） 15人制女子日本代表 女子",
       "date": "2026-10-01",
       "category": "squad"
     }
