@@ -3,35 +3,20 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-02T19:25:59+09:00",
+  "checked_at": "2026-10-03T01:25:25+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "6ce861ddcfa40928"
+      "hash": "c51aaf1852ca8858"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "e5ec994ea16c6e74"
+      "hash": "5416510a90e767c1"
     }
   ],
   "items": [
-    {
-      "url": "https://www.kurita-watergush.jp/stadium/%e6%9d%b1%e4%ba%ac%e5%a4%a7%e5%ad%a6%e4%b8%b8%e5%92%8c%e6%9f%8ffusion%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab%e3%83%89/",
-      "title": "アクセス",
-      "date": "2026-10-03"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/games/",
-      "title": "全ての試合情報はこちら",
-      "date": "2026-10-03"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/game/20261003-m%e6%88%90%e7%94%b0-vswg%e6%98%ad%e5%b3%b6/",
-      "title": "このゲームの詳細情報はこちら",
-      "date": "2026-10-03"
-    },
     {
       "url": "https://www.kurita-watergush.jp/20261001-2/",
       "title": "地域貢献 2026/10/01 【地域活動報告】児童の登校見守り活動",
