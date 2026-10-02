@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02T02:12:04+09:00",
+  "checked_at": "2026-10-02T19:25:59+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -21,8 +21,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35472/",
+          "title": "2026/10/2 イベント 【レポート】9月25日(金)「ラグビー部マーラー」で開催されたトークイベントに山下 裕史選手が出演しました",
+          "date": "2026-10-02",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -34,10 +44,7 @@
       "first_run": false,
       "item_count": 36,
       "new_items": [],
-      "changed_pages": [
-        "https://panasonic.co.jp/sports/wildknights/",
-        "https://panasonic.co.jp/sports/wildknights/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -60,7 +67,50 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4280",
+          "title": "【グッズ】2026-27レプリカジャージー発売のお知らせ グッズ 2026.10.02",
+          "date": "2026-10-02",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4285/",
+          "title": "2026.10.2 【ファンクラブ全会員様対象】10月27日公開練習について",
+          "date": "2026-10-02",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4284/",
+          "title": "2026.10.2 普及・アカデミー トヨタヴェルブリッツアカデミー #14",
+          "date": "2026-10-02",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4283/",
+          "title": "2026.10.2 グッズ 【グッズ】2026-27オーセンティックジャージー受注（２月お届け）",
+          "date": "2026-10-02",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4282/",
+          "title": "2026.10.2 グッズ 【グッズ】全選手対応！重ね着アパレル＆トート",
+          "date": "2026-10-02",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4281/",
+          "title": "2026.10.2 グッズ 【グッズ】ペットとお揃い雷神キャップ発売のお知らせ",
+          "date": "2026-10-02",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4280/",
+          "title": "2026.10.2 グッズ 【グッズ】2026-27レプリカジャージー発売のお知らせ",
+          "date": "2026-10-02",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://verblitz.toyotatimes-sports.toyota/"
       ],
@@ -73,9 +123,11 @@
       "official_url": "http://www.honda-heat.jp",
       "status": "ok",
       "first_run": false,
-      "item_count": 25,
+      "item_count": 24,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.honda-heat.jp/"
+      ],
       "rename_signals": []
     },
     {
@@ -86,7 +138,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/jrlr2026-2",
+          "title": "2026-10-02 リーグワンライジング vsRH大阪 10/31（日）三菱重工相模原G｜観戦情報掲載",
+          "date": "2026-10-02",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -101,8 +160,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 19,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/news/interview/20261002.html",
+          "title": "2026.10.02 INTERVIEW 【新加入コーチインタビュー】リチャード・コクリル アシスタントコーチ",
+          "date": "2026-10-02",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -125,8 +194,23 @@
       "status": "ok",
       "first_run": false,
       "item_count": 58,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/photo/",
+          "title": "2026.10.02 イベント情報",
+          "date": "2026-10-02",
+          "category": null
+        },
+        {
+          "url": "https://www.kubota-spears.com/event/2026/10/02/120000.html",
+          "title": "2026.10.02 イベント情報",
+          "date": "2026-10-02",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -137,7 +221,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 26,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3203",
+          "title": "2026.10.2[FRI] HOST AREA ＜ラグビーディスカバリー supported by しずぎん＞を沼津市で開催しました",
+          "date": "2026-10-02",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -152,8 +243,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2610-1036.html",
+          "title": "2026年 10月 2日 #1036 杉浦 皓亮 『スクラムが好き』",
+          "date": "2026-10-02",
+          "category": null
+        },
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/NJRLO2627TSA.html",
+          "title": "2026年 10月 2日 【チケット情報】NTT JAPAN RUGBY LEAGUE ONE 2026-27 東京サンゴリアスホストゲームチケット概要のご案内！ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 12月12日（土）に開幕するNTT J…",
+          "date": "2026-10-02",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -176,7 +283,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kyudenvoltex.com/news/1007",
+          "title": "チーム 2026年10月02日 NEW 2026-27 シーズンテーマおよび新キャプテン体制のお知らせ",
+          "date": "2026-10-02",
+          "category": "roster"
+        }
+      ],
       "changed_pages": [
         "https://www.kyudenvoltex.com/",
         "https://www.kyudenvoltex.com/news/"
@@ -188,11 +302,13 @@
       "league": "league-one-d2",
       "name": "清水建設江東ブルーシャークス",
       "official_url": "https://blue-sharks.jp/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 24,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://blue-sharks.jp/"
+      ],
       "rename_signals": []
     },
     {
@@ -200,11 +316,27 @@
       "league": "league-one-d2",
       "name": "豊田自動織機シャトルズ愛知",
       "official_url": "https://shuttles-aichi.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 6,
+      "new_items": [
+        {
+          "url": "https://shuttles-aichi.com/news/players-towel/",
+          "title": "お知らせ イベント 26年10月02日 PLAYER’S TOWEL｜受注販売スタート",
+          "date": "2026-10-03",
+          "category": null
+        },
+        {
+          "url": "https://shuttles-aichi.com/news/announcement-of-the-decision-to-continue-the-ske48-2026-27-season-shuttles-aichi-support-team/",
+          "title": "お知らせ 26年10月02日 SKE48 2026-27シーズン シャトルズ愛知応援隊 継続決定のお知らせ",
+          "date": "2026-10-03",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://shuttles-aichi.com/",
+        "https://shuttles-aichi.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -212,11 +344,15 @@
       "league": "league-one-d2",
       "name": "日本製鉄釜石シーウェイブス",
       "official_url": "https://kamaishi-seawaves.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 19,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://kamaishi-seawaves.com/",
+        "https://kamaishi-seawaves.com/news/",
+        "https://kamaishi-seawaves.com/news/info/"
+      ],
       "rename_signals": []
     },
     {
@@ -243,7 +379,9 @@
       "first_run": false,
       "item_count": 16,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://hino-reddolphins.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -254,9 +392,35 @@
       "status": "ok",
       "first_run": false,
       "item_count": 46,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8898",
+          "title": "お知らせ 2026年10月2日 ホストタウン活動スケジュール更新のお知らせ（10月）",
+          "date": "2026-10-02",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8897",
+          "title": "【U15クラス】9月活動レポート 2026年10月1日",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8896",
+          "title": "【U12アドバンスクラス】9月活動レポート 2026年10月1日",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8894",
+          "title": "【U12エントリークラス】９月活動レポート 2026年10月1日",
+          "date": "2026-10-01",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://docomo-rugby.jp/"
+        "https://docomo-rugby.jp/",
+        "https://docomo-rugby.jp/news/"
       ],
       "rename_signals": []
     },
@@ -284,7 +448,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -292,9 +459,9 @@
       "league": "league-one-d3",
       "name": "中国電力レッドレグリオンズ",
       "official_url": "https://rrrfc.red/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 20,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -307,9 +474,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 45,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.skyactivs.com/news/4787",
+          "title": "2026.10.02[FRI] GAME 【メンバー発表】vsルリーロ福岡",
+          "date": "2026-10-02",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://www.skyactivs.com/"
+        "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news",
+        "https://www.skyactivs.com/news/2091"
       ],
       "rename_signals": []
     },
@@ -321,8 +497,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 12,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1472",
+          "title": "＜プレシーズンマッチ＞清水建設江東ブルーシャークス戦メンバーについて",
+          "date": "2026-10-02",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1473",
+          "title": "2026-27シーズン ヤクルトレビンズ戸田 公式ファンクラブ入会受付開始！",
+          "date": "2026-10-01",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.yakult.co.jp/sports/rugby/",
+        "https://www.yakult.co.jp/sports/rugby/topics/"
+      ],
       "rename_signals": []
     },
     {
@@ -330,11 +522,21 @@
       "league": "league-one-d3",
       "name": "ルリーロ福岡",
       "official_url": "https://leriro-fukuoka.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 11,
+      "new_items": [
+        {
+          "url": "https://leriro-fukuoka.com/news-detail?id=280",
+          "title": "10月参加のイベントのお知らせ",
+          "date": "2026-09-30",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://leriro-fukuoka.com/",
+        "https://leriro-fukuoka.com/news"
+      ],
       "rename_signals": []
     }
   ],
@@ -356,7 +558,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54233",
+          "title": "女子セブンズ日本代表（サクラセブンズ） 第20回アジア競技大会（愛知・名古屋） 大会1 日目試合結果と 2 日目試合スケジュールのお知らせ 2026.10.01 （木） 女子セブンズ日本代表 女子 セブンズ",
+          "date": "2026-10-01",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -370,13 +579,29 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "横浜キヤノンイーグルス",
+      "url": "https://www.canon-eagles.jp/news/interview/20261002.html",
+      "title": "2026.10.02 INTERVIEW 【新加入コーチインタビュー】リチャード・コクリル アシスタントコーチ",
+      "date": "2026-10-02",
+      "category": "roster"
+    },
+    {
+      "source": "九州電力キューデンヴォルテクス",
+      "url": "https://www.kyudenvoltex.com/news/1007",
+      "title": "チーム 2026年10月02日 NEW 2026-27 シーズンテーマおよび新キャプテン体制のお知らせ",
+      "date": "2026-10-02",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54233",
+      "title": "女子セブンズ日本代表（サクラセブンズ） 第20回アジア競技大会（愛知・名古屋） 大会1 日目試合結果と 2 日目試合スケジュールのお知らせ 2026.10.01 （木） 女子セブンズ日本代表 女子 セブンズ",
+      "date": "2026-10-01",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
-  "warnings": [
-    "清水建設江東ブルーシャークス: 到達できるページがない: https://blue-sharks.jp/",
-    "豊田自動織機シャトルズ愛知: 到達できるページがない: https://shuttles-aichi.com/",
-    "日本製鉄釜石シーウェイブス: 到達できるページがない: https://kamaishi-seawaves.com/",
-    "中国電力レッドレグリオンズ: 到達できるページがない: https://rrrfc.red/",
-    "ルリーロ福岡: 到達できるページがない: https://leriro-fukuoka.com/"
-  ]
+  "warnings": []
 }

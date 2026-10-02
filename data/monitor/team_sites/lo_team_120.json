@@ -3,21 +3,21 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-10-02T02:12:04+09:00",
+  "checked_at": "2026-10-02T19:25:59+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "e1c6454027b6b579"
+      "hash": "d0279a861bf6601e"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "0a671981459e789c"
+      "hash": "dfeaa5236e9f62ed"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
-      "hash": "999bd67eedb6f91e"
+      "hash": "840913f986afc5a0"
     },
     {
       "url": "https://www.skyactivs.com/news/2035",
@@ -29,6 +29,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.skyactivs.com/news/4787",
+      "title": "2026.10.02[FRI] GAME 【メンバー発表】vsルリーロ福岡",
+      "date": "2026-10-02"
+    },
     {
       "url": "https://www.skyactivs.com/news/4774",
       "title": "2026.09.27[SUN] ACTIVITY 朝パッ君健康・スポーツフェスタ2026に参加しました",
@@ -223,11 +228,6 @@
       "url": "https://www.skyactivs.com/news/4006",
       "title": "2026.05.19[TUE] GAME 【イベント情報】vs日野レッドドルフィンズ",
       "date": "2026-05-19"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/3973",
-      "title": "2026.05.11[MON] ACTIVITY タグラグビーユニファイド体験会を実施しました",
-      "date": "2026-05-11"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",

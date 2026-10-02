@@ -3,23 +3,23 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-10-01T19:52:06+09:00",
+  "checked_at": "2026-10-02T19:25:59+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "c5c491c4f0d3492f"
+      "hash": "0b6175f550f20d08"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "4004277c852d909a"
+      "hash": "d020878f32775ae2"
     }
   ],
   "items": [
     {
-      "url": "https://shuttles-aichi.com/news/tag-rugby-visit-class-at-otsukawa-higashi-elementary-school-in-handa-city/",
-      "title": "フォトギャラリー お知らせ 26年09月17日 半田市立乙川東小学校 タグラグビー訪問授業 実施報告",
+      "url": "https://shuttles-aichi.com/news/players-towel/",
+      "title": "お知らせ イベント 26年10月02日 PLAYER’S TOWEL｜受注販売スタート",
       "date": "2026-10-03"
     },
     {
@@ -28,13 +28,13 @@
       "date": "2026-10-03"
     },
     {
-      "url": "https://shuttles-aichi.com/news/free-rugby-workshop-in-aichi-its-happening/",
-      "title": "お知らせ イベント 26年09月18日 参加無料！ラグビー教室 in 愛知 開催決定！",
+      "url": "https://shuttles-aichi.com/news/fan-meeting-held/",
+      "title": "お知らせ 26年09月29日 ファンミーティング開催決定！",
       "date": "2026-10-03"
     },
     {
-      "url": "https://shuttles-aichi.com/news/fan-meeting-held/",
-      "title": "お知らせ 26年09月29日 ファンミーティング開催決定！",
+      "url": "https://shuttles-aichi.com/news/announcement-of-the-decision-to-continue-the-ske48-2026-27-season-shuttles-aichi-support-team/",
+      "title": "お知らせ 26年10月02日 SKE48 2026-27シーズン シャトルズ愛知応援隊 継続決定のお知らせ",
       "date": "2026-10-03"
     },
     {

@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-10-02T02:12:04+09:00",
+  "checked_at": "2026-10-02T19:25:59+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "7a2ebca354e05556"
+      "hash": "e1545ae0e8cad607"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "4bba195a8c5d2fde"
+      "hash": "ef6139becfd26f69"
     }
   ],
   "items": [
     {
       "url": "https://www.kyudenvoltex.com/news/1006",
-      "title": "試合情報 2026年09月29日 【リーグワン ライジング|ホスト】10/10(土)中国RR戦のお知らせ",
-      "date": "2026-09-29"
+      "title": "チケット・ 試合情報",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/1007",
+      "title": "チーム 2026年10月02日 NEW 2026-27 シーズンテーマおよび新キャプテン体制のお知らせ",
+      "date": "2026-10-02"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/989",
@@ -171,11 +176,6 @@
       "url": "https://www.kyudenvoltex.com/news/972",
       "title": "試合情報 2026年04月01日 【リーグワン | ホスト】4/12(日) 日本製鉄釜石シーウェイブス戦のお知らせ",
       "date": "2026-04-01"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/974",
-      "title": "チーム 2026年03月31日 萩原 蓮選手 退団のお知らせ",
-      "date": "2026-03-31"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/971",

@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-10-02T02:12:04+09:00",
+  "checked_at": "2026-10-02T19:25:59+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "aa86703f32a8b67e"
+      "hash": "68a82aca10a9ac27"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "09fe86389be3faf6"
+      "hash": "a880c74f57c595f0"
     }
   ],
   "items": [
@@ -26,6 +26,11 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/academy.html",
       "title": "三菱重工相模原ダイナボアーズアカデミー ライセンス保持者による本格的な指導で将来を担う若いプレーヤーを育成します！",
       "date": "2026-10-04"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/jrlr2026-2",
+      "title": "2026-10-02 リーグワンライジング vsRH大阪 10/31（日）三菱重工相模原G｜観戦情報掲載",
+      "date": "2026-10-02"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule#3",
@@ -74,7 +79,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/2026-27OS",
-      "title": "2026-09-10 2026-27シーズン スタッフ体制・事業運営体制を更新しました",
+      "title": "2026-09-10 [ チーム ] 2026-27シーズン スタッフ体制・事業運営体制を更新しました",
       "date": "2026-09-10"
     },
     {
@@ -221,11 +226,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260703.html-0",
       "title": "2026-07-10 [ チーム ] 三島琳久選手の参加が決定！｜ダイナボアーズナイト2026in橋本 ～タックルナイト～",
       "date": "2026-07-10"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260703.html",
-      "title": "2026-07-03 [ チーム ] カート=リー・アレンゼ選手 再加入のお知らせ",
-      "date": "2026-07-03"
     }
   ]
 }

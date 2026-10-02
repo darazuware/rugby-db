@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-10-02T02:12:04+09:00",
+  "checked_at": "2026-10-02T19:25:59+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "099fbc4b2359bd62"
+      "hash": "bce02dea1b118665"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "2470f0ab542cc986"
+      "hash": "8af238aff5f654fc"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3203",
+      "title": "2026.10.2[FRI] HOST AREA ＜ラグビーディスカバリー supported by しずぎん＞を沼津市で開催しました",
+      "date": "2026-10-02"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3205",
       "title": "2026.10.1[THU] HOST AREA 赤い羽根共同募金運動にレヴズくんが参加しました",
@@ -106,11 +111,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3165",
       "title": "2026.9.9[WED] TEAM ホーム開幕は12月20日！NTTジャパンラグビー リーグワン2026-27日程決定！",
       "date": "2026-09-09"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3175",
-      "title": "2026.9.8[TUE] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（9/1～9/4）",
-      "date": "2026-09-08"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3167",

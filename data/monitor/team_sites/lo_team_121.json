@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "ヤクルトレビンズ戸田",
   "official_url": "https://www.yakult.co.jp/sports/rugby/",
-  "checked_at": "2026-10-02T02:12:04+09:00",
+  "checked_at": "2026-10-02T19:25:59+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.yakult.co.jp/sports/rugby/",
-      "hash": "2889c98a88791392"
+      "hash": "6ecebfb539a4d712"
     },
     {
       "url": "https://www.yakult.co.jp/sports/rugby/topics/",
-      "hash": "10491ac9bb7e42b8"
+      "hash": "406470b32d47c542"
     }
   ],
   "items": [
@@ -23,13 +23,23 @@
       "date": "2026-10-03"
     },
     {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1471",
-      "title": "2026-27シーズン新加入選手について",
-      "date": "2026-10-01"
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1472",
+      "title": "＜プレシーズンマッチ＞清水建設江東ブルーシャークス戦メンバーについて",
+      "date": "2026-10-02"
     },
     {
       "url": "https://www.yakult.co.jp/sports/rugby/topics/",
       "title": "MORE",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1473",
+      "title": "2026-27シーズン ヤクルトレビンズ戸田 公式ファンクラブ入会受付開始！",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1471",
+      "title": "2026-27シーズン新加入選手について",
       "date": "2026-10-01"
     },
     {
@@ -66,16 +76,6 @@
       "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1434",
       "title": "JRLO 2025-26 Div.3 第14節試合結果について",
       "date": "2026-05-03"
-    },
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1432",
-      "title": "JRLO 2025-26 Div.3 第14節出場メンバーおよびイベント情報について",
-      "date": "2026-05-01"
-    },
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1430",
-      "title": "トレーニングマッチの試合結果について",
-      "date": "2026-04-27"
     }
   ]
 }

@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-10-02T02:12:04+09:00",
+  "checked_at": "2026-10-02T19:25:59+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "058765f6a66485f7"
+      "hash": "23f0ac22b09daa93"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "ccbd07e873de24d8"
+      "hash": "d81ccac60e3a21b6"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35472/",
+      "title": "2026/10/2 イベント 【レポート】9月25日(金)「ラグビー部マーラー」で開催されたトークイベントに山下 裕史選手が出演しました",
+      "date": "2026-10-02"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35403/",
       "title": "2026/10/1 チーム 2026-27シーズン退任スタッフおよび役職変更のお知らせ",
@@ -318,11 +323,6 @@
     {
       "url": "https://www.kobesteelers.com/news/post29666/",
       "title": "2025/11/25 お知らせ 神戸三宮センター街でのチームPR活動実施について",
-      "date": "2025-11-25"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/",
-      "title": "2025/11/25 お知らせ チーム公式HPがより便利に！ニュース検索機能を追加しました",
       "date": "2025-11-25"
     }
   ]
