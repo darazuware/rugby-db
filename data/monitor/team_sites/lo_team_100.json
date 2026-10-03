@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-10-03T01:25:25+09:00",
+  "checked_at": "2026-10-03T18:47:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "8744569f9c279ba3"
+      "hash": "66e7ad29c5b2c990"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "5b826359a4b6bf0f"
+      "hash": "21fc56e7d8ff9d3d"
     }
   ],
   "items": [
@@ -99,7 +99,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2004.html",
-      "title": "2026.09.09 ニュース 2026-27シーズン 試合日程決定のお知らせ（9/9時点）",
+      "title": "2026.09.09 ニュース 2026-27シーズン 試合日程決定のお知らせ（10/1時点）",
       "date": "2026-09-09"
     },
     {

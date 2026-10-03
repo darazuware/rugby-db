@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-10-03T01:25:25+09:00",
+  "checked_at": "2026-10-03T18:47:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "0844bd32e5261512"
+      "hash": "56fd8596fcf8f4e5"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "62561fd1b3165337"
+      "hash": "90a06b8866320299"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMvSPWKvsof.html",
+      "title": "2026年 10月 3日 2026 TRAINING MATCH vs 埼玉パナソニックワイルドナイツ 試合結果",
+      "date": "2026-10-03"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2610-1036.html",
       "title": "2026年 10月 2日 #1036 杉浦 皓亮 『スクラムが好き』",
@@ -26,11 +31,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/NJRLO2627TSA.html",
       "title": "2026年 10月 2日 【チケット情報】NTT JAPAN RUGBY LEAGUE ONE 2026-27 東京サンゴリアスホストゲームチケット概要のご案内！ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 12月12日（土）に開幕するNTT J…",
       "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMvSPWKvsof.html",
-      "title": "2026年 10月 1日 2026 TRAINING MATCH vs 埼玉パナソニックワイルドナイツ メンバー発表",
-      "date": "2026-10-01"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627tca.html",

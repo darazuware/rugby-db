@@ -3,20 +3,30 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-10-03T01:25:25+09:00",
+  "checked_at": "2026-10-03T18:47:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "e3db2dfa64384d8a"
+      "hash": "d98dc781e0e382d8"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "5149de340ac15a56"
+      "hash": "f328e5f62b35e12b"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/shiaiyotei-kekka/",
+      "title": "試合日程を見る",
+      "date": "2026-10-03"
+    },
+    {
+      "url": "https://hanazono-liners.jp/result/match-2026-10-03-kubota/",
+      "title": "結果詳細を見る",
+      "date": "2026-10-03"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/10/01/off-itemae4/",
       "title": "2026.10.01 活動報告書 その他 【番組 オフもいてまえ！花園近鉄ライナーズ（4回目・10/1放送）】",
