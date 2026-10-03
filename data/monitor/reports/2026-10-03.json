@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-03T18:47:44+09:00",
+  "checked_at": "2026-10-03T23:59:55+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -10,10 +10,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://urayasu-d-rocks.com/",
-        "https://urayasu-d-rocks.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -37,10 +34,7 @@
       "first_run": false,
       "item_count": 36,
       "new_items": [],
-      "changed_pages": [
-        "https://panasonic.co.jp/sports/wildknights/",
-        "https://panasonic.co.jp/sports/wildknights/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -76,9 +70,7 @@
       "first_run": false,
       "item_count": 24,
       "new_items": [],
-      "changed_pages": [
-        "https://www.honda-heat.jp/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -156,10 +148,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.suntory.co.jp/culture-sports/sungoliath/",
-        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -238,20 +227,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 29,
-      "new_items": [
-        {
-          "url": "https://hanazono-liners.jp/shiaiyotei-kekka/",
-          "title": "試合日程を見る",
-          "date": "2026-10-03",
-          "category": null
-        },
-        {
-          "url": "https://hanazono-liners.jp/result/match-2026-10-03-kubota/",
-          "title": "結果詳細を見る",
-          "date": "2026-10-03",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -291,8 +267,33 @@
       "official_url": "https://www.kurita-watergush.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 41,
-      "new_items": [],
+      "item_count": 44,
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/stadium/%e5%8d%b0%e8%a5%bf%e5%b8%82%e6%9d%be%e5%b1%b1%e4%b8%8b%e5%85%ac%e5%9c%92%e9%99%b8%e4%b8%8a%e7%ab%b6%e6%8a%80%e5%a0%b4/",
+          "title": "アクセス",
+          "date": "2026-10-17",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/games/",
+          "title": "全ての試合情報はこちら",
+          "date": "2026-10-17",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261017-gw%e6%9d%b1%e8%91%9b-vswg%e6%98%ad%e5%b3%b6/",
+          "title": "このゲームの詳細情報はこちら",
+          "date": "2026-10-17",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261003-m%e6%88%90%e7%94%b0-vswg%e6%98%ad%e5%b3%b6/",
+          "title": "試合詳細結果",
+          "date": "2026-10-03",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -383,20 +384,8 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54240",
-          "title": "レポート：第79回男子セブンズユースアカデミー 2026.10.03 （土） アカデミー・強化育成 セブンズ 高校 男子 男子セブンズ セブンズユース ユースアカデミー",
-          "date": "2026-10-03",
-          "category": null
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54239",
-          "title": "レポート：第114回女子セブンズユースアカデミー（10月1日～3日） 2026.10.03 （土） 女子 セブンズ アカデミー・強化育成",
-          "date": "2026-10-03",
-          "category": null
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54231",
-          "title": "男子セブンズ日本代表 第20回アジア競技大会（愛知・名古屋） 大会3日目（最終日）試合結果とコメントのお知らせ 2026.10.03 （土） 男子セブンズ日本代表 セブンズ アジア競技大会 男子 男子セブンズ",
+          "url": "https://www.rugby-japan.jp/news/54237",
+          "title": "女子セブンズ日本代表（サクラセブンズ） 第20回アジア競技大会（愛知・名古屋） 大会3日目（最終日）試合結果とコメントのお知らせ 2026.10.03 （土） 女子セブンズ日本代表 女子 セブンズ",
           "date": "2026-10-03",
           "category": "squad"
         }
@@ -417,8 +406,8 @@
   "highlights": [
     {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54231",
-      "title": "男子セブンズ日本代表 第20回アジア競技大会（愛知・名古屋） 大会3日目（最終日）試合結果とコメントのお知らせ 2026.10.03 （土） 男子セブンズ日本代表 セブンズ アジア競技大会 男子 男子セブンズ",
+      "url": "https://www.rugby-japan.jp/news/54237",
+      "title": "女子セブンズ日本代表（サクラセブンズ） 第20回アジア競技大会（愛知・名古屋） 大会3日目（最終日）試合結果とコメントのお知らせ 2026.10.03 （土） 女子セブンズ日本代表 女子 セブンズ",
       "date": "2026-10-03",
       "category": "squad"
     }
