@@ -183,3 +183,68 @@ draft: false
 - [Thomas DU TOIT](/players/thomas-du-toit/): South Africa代表19→23キャップ
 - [Santiago CARRERAS](/teams/premiership/bath-rugby/#p-santiago-carreras): Argentina代表85→88キャップ
 - [Thomas DU TOIT](/players/thomas-du-toit/): South Africa代表23→28キャップ
+
+## 7月の移籍まとめ（旧7月月次レポート）
+
+### Top14：新加入（4件）
+
+2026年7月に新シーズンに向けた加入が確認された選手は4名。
+
+- [Enzo TRAILLE（エンゾ・トライユ）](/teams/top14/toulouse/#p-enzo-traille)が[トゥールーズ](/teams/top14/toulouse/)に加入
+- [Ismaël FALEYRAS（イスマエル・ファレイラス）](/players/ismael-faleyras/)が[スタッド・フランセ](/teams/top14/paris/)に加入
+- [Paul ROCHER（ポール・ロシェ）](/players/paul-rocher/)が[ラシン92](/teams/top14/racing-92/)に加入
+- [Sacha BENOIT（サシャ・ブノワ）](/players/sacha-benoit/)が[トゥーロン](/teams/top14/toulon/)に加入
+
+### スーパーラグビー：新加入（1件）
+
+2026年7月に新シーズンに向けた加入が確認された選手は1名。
+
+- [Ed KASPROWICZ（エド・カスプロヴィッチ）](/players/ed-kasprowicz/)がwaratahsに加入
+
+### URC：初キャップ（1件）
+
+2026年7月に代表で初キャップを記録した選手は1名。
+
+- [Ruben VAN HEERDEN](/players/ruben-van-heerden/)がSouth Africa代表で初キャップを記録した。
+
+## 注目移籍・発表
+
+### 濱野隼大、コベルコ神戸スティーラーズを離れ三菱重工相模原ダイナボアーズへ移籍
+
+### [濱野隼大](/players/junta-hamano-483951/)、王者神戸から相模原へ
+
+WTB/CTBの[濱野隼大](/players/junta-hamano-483951/)（2001年5月2日生、181cm/92kg）が、2020年から在籍した[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)を離れ、新シーズンから[三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/)に加入する。
+
+兵庫県三田市出身。中学2年時に単身ニュージーランドへ留学しロトルアボーイズ高校を卒業、2025年にはニュージーランド国内リーグ・マヌワツ（NPC）でもプレーするなど豊富な海外経験を持つ。2024年に[日本代表](/national-teams/japan/)に初選出され2キャップを記録した。
+
+移籍後の詳しい戦力構想は[三菱重工相模原ダイナボアーズの新加入選手発表記事](/news/mitsubishi-dynaboars-2026-new-signings/)で紹介している。
+
+### 高城勝一、東芝ブレイブルーパス東京を離れ三菱重工相模原ダイナボアーズへ移籍
+
+### [高城勝一](/players/shoichi-takagi-484372/)、[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/)から相模原へ
+
+ロック/フランカーの[高城勝一](/players/shoichi-takagi-484372/)（1998年6月29日生、197cm/112kg）が、2021年から在籍した[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/)を離れ、新シーズンから[三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/)に加入する。
+
+大阪府出身、摂南大学卒。日本生まれ・日本国籍の選手として2番目に高い197cmの長身を誇り、東芝時代にはチャンピオンチームの一員としての経験も積んだ。移籍にあたり本人は、これまで所属した東芝への感謝を述べつつ、新天地でのプレーに意欲を示している。
+
+移籍後の詳しい戦力構想は[三菱重工相模原ダイナボアーズの新加入選手発表記事](/news/mitsubishi-dynaboars-2026-new-signings/)で紹介している。
+
+### 齋藤直人、スタッド・トゥールーザンを離れ日本へ。2026-27シーズンはサンゴリアス復帰
+
+### [齋藤直人](/players/naoto-saito/)、[トゥールーズ](/teams/top14/toulouse/)での2年間を終え日本へ
+
+[日本代表](/national-teams/japan/)スクラムハーフの[齋藤直人](/players/naoto-saito/)が、フランス・トップ14の名門スタッド・トゥールーザンを離れ、2026-27シーズンから[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/)に復帰することが発表された。
+
+齋藤はサンゴリアス在籍時にリーグワンでのプレーを経て海外挑戦の道を選び、フランスの最高峰リーグであるトップ14でスタッド・トゥールーザンの一員としてプレーしてきた。今回の復帰にあたり、本人は「フランスでの2年間で培った経験のすべてをチームに還元し、悲願であるリーグワン初優勝のために全力を尽くします」とコメントしている。
+
+新加入選手としての発表内容や、同時に加入する海外組の顔ぶれについては[東京サントリーサンゴリアスの2026-27新加入選手発表記事](/news/suntory-sungoliath-2026-27-new-signings/)で詳しく紹介している。
+
+### リーグワン新規参入チームの名称が「丸和MOMOTARO'S成田」に決定
+
+2026-27シーズンからジャパンラグビーリーグワン ディビジョン3に新規参入する「[AZ-COM丸和MOMOTARO'S](/teams/league-one/azcom-maruwa-momotaros/)」が、新チーム名を「**丸和MOMOTARO'S成田**」（英語表記：MARUWA MOMOTARO'S NARITA、略称：M成田）に決定したと発表した。
+
+拠点は千葉県成田市。エンブレムの中央には、親会社である株式会社丸和運輸機関の「桃太郎文化」から受け継がれたシンボルの桃太郎が配置されている。「報恩感謝」「挑戦・成長・貢献」「利他の心」といった価値観を表現し、地域やファン、パートナーとの絆を大切にしながら勝利を目指す決意が込められたデザインだという。
+
+2026-27シーズンのディビジョン3は7チームで争われ、開幕は12月12日。M成田の開幕節はバイウィークとなり、第2節の[日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves/)戦（会場：柏の葉）が実質的なリーグワン初陣となる見込み。
+
+新体制のGM兼監督には細谷直氏、部長には蜂谷隆氏が就任することも合わせて発表されている。

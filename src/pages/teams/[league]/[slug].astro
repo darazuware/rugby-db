@@ -1,4 +1,5 @@
 ---
+import thinPages from "../../../../data/manual/thin_pages.json";
 export const prerender = true;
 import teamsData from "../../../../data/teams.json";
 export async function getStaticPaths() {
@@ -339,6 +340,7 @@ const teamStanding = leagueStandings.find((s: any) =>
 ---
 
 <Layout
+    noindex={(thinPages.teams as string[]).includes(Astro.url.pathname.replace(/\/?$/, "/"))}
     title={`${isLeagueOne ? teamNameDisplay : teamEnName} (${
         isLeagueOne ? teamEnName : teamNameDisplay
     }) | チーム詳細 | RUGBY PICKS`}

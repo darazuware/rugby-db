@@ -10,6 +10,7 @@ interface Props {
 	sidebarType?: "default" | "results";
 	activeLeague?: string;
 	activeRound?: number | "all";
+	noindex?: boolean;
 	lastmod?: string; // ISO 8601 date string, e.g. "2026-04-19"
 }
 
@@ -20,6 +21,7 @@ const {
 	activeLeague,
 	activeRound,
 	lastmod,
+	noindex = false,
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
@@ -37,6 +39,7 @@ const sidebarAdSlot = import.meta.env.PUBLIC_ADSENSE_SIDEBAR_SLOT;
 		<title>{title}</title>
 		<meta name="description" content={description} />
 		<link rel="canonical" href={canonicalURL} />
+		{noindex && <meta name="robots" content="noindex,follow" />}
 		{lastmod && <meta property="article:modified_time" content={lastmod} />}
 
 		<!-- Open Graph / Facebook -->

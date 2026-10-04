@@ -43,7 +43,7 @@ const formatDate = (date: Date) => {
               {item.data.title}
             </h2>
             <p class="text-sm text-foreground/60 line-clamp-3 mb-6">
-              {item.data.description}
+              {item.data.description ?? `${item.data.title}に関するRUGBY PICKSのニュース記事です。`}
             </p>
             <div class="mt-auto flex items-center justify-between text-xs font-bold uppercase tracking-widest text-foreground/20 group-hover:text-yellow-400/50 transition-colors">
               <span>Read More</span>

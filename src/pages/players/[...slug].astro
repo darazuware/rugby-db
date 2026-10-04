@@ -35,6 +35,7 @@ import { buildPlayerBioSentences, calcAge, isEnrolled } from "../../lib/playerTe
 import { positionJa } from "../../lib/positions";
 import { getSchoolmates, playerBadges, type SchoolmateRelation } from "../../lib/connections";
 import { getRelatedNews } from "../../lib/relatedNews";
+import thinPages from "../../../data/manual/thin_pages.json";
 import igEmbeds from "../../../data/manual/instagram_embeds.json";
 
 export async function getStaticPaths() {
@@ -318,6 +319,7 @@ const nameVariantsText = nameVariants.length
 ---
 
 <Layout
+  noindex={(thinPages.players as string[]).includes(player.slug)}
   title={`${mainName}${subName ? ` (${subName})` : ""} | ラグビー選手名鑑 | RUGBY PICKS`}
   description={`${mainName}${nameVariantsText}のプロフィール。${metaDesc}。正確な選手情報をお届けします。`}
 >

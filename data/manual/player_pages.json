@@ -1,6 +1,6 @@
 {
  "_note": "scripts/build_player_pages.py が生成。force_include/force_exclude のみ手編集可",
- "generated_at": "2026-10-04T23:18:55+09:00",
+ "generated_at": "2026-10-05T00:33:44+09:00",
  "criteria": "K1|K2|K3(mention>=2)",
  "force_include": [
   "lo_484310"
@@ -608,13 +608,6 @@
   {
    "id": "ar_james-johnston",
    "slug": "james-johnston",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "ar_james-lang",
-   "slug": "james-lang",
    "reasons": [
     "K3"
    ]

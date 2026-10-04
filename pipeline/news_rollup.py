@@ -120,6 +120,12 @@ def _render(month: str, entries: list[dict]) -> str:
     return "\n".join(out).rstrip() + "\n"
 
 
+def _extras(month: str) -> str:
+    """手書きの追加セクション（旧個別記事の統合分）。再生成で消えないよう末尾に付ける。"""
+    p = ROOT / "data" / "manual" / "rollup_extras" / f"{month}.md"
+    return "\n" + p.read_text(encoding="utf-8").strip() + "\n" if p.exists() else ""
+
+
 def run() -> int:
     new = _collect()
     ROLLUP_DIR.mkdir(parents=True, exist_ok=True)
@@ -144,7 +150,7 @@ def run() -> int:
             "",
         ]
         (NEWS_DIR / f"transfers-roundup-{month}.md").write_text(
-            "\n".join(fm) + _render(month, state), encoding="utf-8")
+            "\n".join(fm) + _render(month, state) + _extras(month), encoding="utf-8")
         print(f"[rollup] {month}: {len(state)} entries")
     return sum(len(v) for v in new.values())
 
