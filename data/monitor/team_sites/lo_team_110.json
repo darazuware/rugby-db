@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-10-04T19:31:04+09:00",
+  "checked_at": "2026-10-05T00:34:42+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "e1545ae0e8cad607"
+      "hash": "00c3a5a75f53af78"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "ef6139becfd26f69"
+      "hash": "8217b4b4f726b51a"
     }
   ],
   "items": [
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1007",
-      "title": "チーム 2026年10月02日 NEW 2026-27 シーズンテーマおよび新キャプテン体制のお知らせ",
+      "title": "チーム 2026年10月02日 2026-27 シーズンテーマおよび新キャプテン体制のお知らせ",
       "date": "2026-10-02"
     },
     {
