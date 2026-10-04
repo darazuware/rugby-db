@@ -7,4 +7,4 @@ source_diff: "2026-08-10_top14.json"
 draft: true
 ---
 
-[Paolo AGNESE](/players/paolo-agnese/)が[モンペリエ](/teams/top14/montpellier/)（Top14）に加入した。
+[Paolo AGNESE](/teams/top14/montpellier/#p-paolo-agnese)が[モンペリエ](/teams/top14/montpellier/)（Top14）に加入した。

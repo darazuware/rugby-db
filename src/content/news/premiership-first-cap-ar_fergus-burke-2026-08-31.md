@@ -7,4 +7,4 @@ source_diff: "2026-08-31_premiership.json"
 draft: false
 ---
 
-[Fergus BURKE](/players/fergus-burke/)がScotland代表で初キャップを記録した。
+[Fergus BURKE](/teams/premiership/saracens/#p-fergus-burke)がScotland代表で初キャップを記録した。

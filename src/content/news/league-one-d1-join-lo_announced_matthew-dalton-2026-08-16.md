@@ -7,4 +7,4 @@ source_diff: "2026-08-16_league-one-d1.json"
 draft: false
 ---
 
-[マシュー・ダルトン](/players/matthew-dalton/)が[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)（リーグワン）に加入した。
+[マシュー・ダルトン](/teams/league-one/kobelco-kobe-steelers/#p-matthew-dalton)が[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)（リーグワン）に加入した。

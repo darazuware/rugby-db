@@ -7,4 +7,4 @@ source_diff: "2026-08-12_top14.json"
 draft: true
 ---
 
-[Thomas WARMÉ](/players/thomas-warme/)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。
+[Thomas WARMÉ](/teams/top14/toulouse/#p-thomas-warme)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。

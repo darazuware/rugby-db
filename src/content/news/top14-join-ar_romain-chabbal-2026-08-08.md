@@ -7,4 +7,4 @@ source_diff: "2026-08-08_top14.json"
 draft: true
 ---
 
-[Romain CHABBAL](/players/romain-chabbal/)が[カストル](/teams/top14/castres/)（Top14）に加入した。
+[Romain CHABBAL](/teams/top14/castres/#p-romain-chabbal)が[カストル](/teams/top14/castres/)（Top14）に加入した。

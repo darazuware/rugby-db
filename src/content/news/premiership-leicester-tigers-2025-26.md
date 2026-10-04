@@ -24,7 +24,7 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "レスター・�
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
 | Freddie STEWARD | フレディ・スチュワード | フルバック | [イングランド代表](/national-teams/england/) | 35 |
-| George MARTIN | ジョージ・マーティン | ロック | イングランド代表 | 19 |
+| George MARTIN | ジョージ・マーティン | ロック | [イングランド代表](/national-teams/england/) | 19 |
 | Ollie CHESSUM | オリー・チェッサム | ロック | イングランド代表 | 23 |
 | Jack VAN POORTVLIET | ジャック・ファン・ポールトフリート | スクラムハーフ | イングランド代表 | 16 |
 | James O'CONNOR | ジェームズ・オコナー | フライハーフ | [オーストラリア代表](/national-teams/australia/) | 48 |

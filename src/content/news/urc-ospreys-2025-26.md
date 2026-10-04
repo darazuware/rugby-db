@@ -41,7 +41,7 @@ tags: ["URC", "チーム紹介", "2025-26", "オスプレーズ"]
 | Reuben MORGAN-WILLIAMS | ルーベン・モーガン=ウィリアムズ | SH |
 | Luke SCULLY | ルーク・スカリー | SO |
 | Jack WALSH | ジャック・ウォルシュ | SO |
-| Tom FLORENCE | [トム・フローレンス](/players/tom-florence-484407/) | CTB |
+| Tom FLORENCE | [トム・フローレンス](/teams/league-one/toyota-shuttles-aichi/#p-tom-florence-484407) | CTB |
 | Phil COKANASIGA | フィル・コカナシガ | CTB |
 | Keelan GILES | キーラン・ジャイルズ | WTB |
 | Iestyn HOPKINS | イェスティン・ホプキンス | FB |

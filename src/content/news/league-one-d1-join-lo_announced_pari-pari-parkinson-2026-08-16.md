@@ -7,4 +7,4 @@ source_diff: "2026-08-16_league-one-d1.json"
 draft: false
 ---
 
-[パリパリ・パーキンソン](/players/pari-pari-parkinson/)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
+[パリパリ・パーキンソン](/teams/league-one/yokohama-canon-eagles/#p-pari-pari-parkinson)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。

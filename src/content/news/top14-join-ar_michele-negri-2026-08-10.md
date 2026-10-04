@@ -7,4 +7,4 @@ source_diff: "2026-08-10_top14.json"
 draft: true
 ---
 
-[Michele NEGRI](/players/michele-negri/)が[モンペリエ](/teams/top14/montpellier/)（Top14）に加入した。
+[Michele NEGRI](/teams/top14/montpellier/#p-michele-negri)が[モンペリエ](/teams/top14/montpellier/)（Top14）に加入した。

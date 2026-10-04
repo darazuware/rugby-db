@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[John CULLEN](/players/john-cullen/)がnew-england-free-jacks（mlr）に加入した。
+John CULLENがnew-england-free-jacks（mlr）に加入した。

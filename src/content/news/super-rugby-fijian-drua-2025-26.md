@@ -25,7 +25,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "フィジア�
 | :--- | :--- | :--- | :--- | ---: |
 | Peni RAVAI | ペニ・ラバイ | プロップ | [フィジー代表](/national-teams/fiji/) | 39 |
 | Mesake DOGE | メサケ・ドゲ | プロップ | [フィジー代表](/national-teams/fiji/) | 10 |
-| Samu TAWAKE | サム・タワケ | プロップ | フィジー代表 | 2 |
+| Samu TAWAKE | サム・タワケ | プロップ | [フィジー代表](/national-teams/fiji/) | 2 |
 | Mesulame DOLOKOTO | メスラメ・ドロコト | フッカー | フィジー代表 | — |
 | Zuriel TOGIATAMA | ズリエル・トギアタマ | フッカー | フィジー代表 | 3 |
 | Isoa NASILASILA | イソア・ナシラシラ | ロック | フィジー代表 | 7 |

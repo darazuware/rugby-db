@@ -15,6 +15,14 @@ from datetime import date
 import pytest
 
 from pipeline import news_gen as ng
+from pipeline import player_links
+
+
+@pytest.fixture(autouse=True)
+def _indexable_taro(monkeypatch):
+    """fixture選手 taro-yamada は個別ページを持つ選手として扱う（player_pages.json に依存しない）。"""
+    monkeypatch.setattr(player_links, "indexable_slugs", lambda: frozenset({"taro-yamada"}))
+
 
 
 def _diff(league="league-one-d1", **overrides):
@@ -387,3 +395,15 @@ def test_build_articles_for_diff_integration_overseas_defers_to_weekly():
     assert articles == []
     assert join_weekly == [{"id": "ar_1", "name_en": "Taro Yamada", "name_ja": "山田太郎", "team_id": "t1"}]
     assert dep_weekly == [{"id": "ar_2", "name_en": "Old Player", "name_ja": None, "team_id": "t2"}]
+
+
+def test_player_link_non_indexable_falls_back_to_team_anchor(monkeypatch):
+    """個別ページを持たない選手はチーム名簿アンカー（行き先が無ければ平文）。"""
+    monkeypatch.setattr(player_links, "indexable_slugs", lambda: frozenset())
+    monkeypatch.setattr(player_links, "team_page_path", lambda team: "/teams/league-one/kobelco-kobe-steelers/")
+    monkeypatch.setattr(player_links, "_master_teams", lambda: {"t1": {"id": "t1", "league": "league-one-d1"}})
+    p = {"id": "x", "slug": "foo-bar", "league": "league-one-d1", "team_id": "t1"}
+    assert ng.player_link({"id": "x"}, {"x": p}) == "/teams/league-one/kobelco-kobe-steelers/#p-foo-bar"
+    # チーム不明・リーグ不明は平文（None）
+    q = {"id": "y", "slug": "baz", "league": "university", "team_id": None}
+    assert ng.player_link({"id": "y"}, {"y": q}) is None

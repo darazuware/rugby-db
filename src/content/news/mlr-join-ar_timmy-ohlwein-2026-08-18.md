@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[Timmy OHLWEIN](/players/timmy-ohlwein/)がca-legion（mlr）に加入した。
+Timmy OHLWEINがca-legion（mlr）に加入した。

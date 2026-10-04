@@ -36,7 +36,7 @@ from datetime import date as date_cls, datetime
 from pathlib import Path
 from typing import Optional
 
-from pipeline import io
+from pipeline import io, player_links
 
 LEAGUE_LABEL_JA: dict[str, str] = {
     "league-one-d1": "リーグワン",
@@ -152,11 +152,12 @@ def player_display_name(entry: dict) -> Optional[str]:
 
 
 def player_link(entry: dict, players_by_id: dict[str, dict]) -> Optional[str]:
-    """現master に存在する id のみ選手ページへのリンクにする。無ければ None。"""
+    """現master に存在する id のみリンクにする。個別ページがある選手は /players/{slug}/、
+    それ以外はチーム名簿アンカー（行き先が無ければ None=平文）。規則は pipeline/player_links.py。"""
     p = players_by_id.get(entry.get("id"))
     if not p or not p.get("slug"):
         return None
-    return f"/players/{p['slug']}/"
+    return player_links.player_href(p)
 
 
 def _player_md(entry: dict, players_by_id: dict[str, dict]) -> Optional[str]:

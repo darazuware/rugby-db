@@ -25,7 +25,7 @@ NSTワラターズの前身であるニューサウスウェールズラグビ�
 | :--- | :--- | :--- | :--- | ---: |
 | Isaac AEDO KAILEA | アイザック・アエド・カイレア | プロップ | [オーストラリア代表](/national-teams/australia/) | — |
 | Folau FAINGA'A | フォラウ・ファインガア | フッカー | [オーストラリア代表](/national-teams/australia/) | 11 |
-| Angus BLYTH | アンガス・ブライス | ロック | オーストラリア代表 | — |
+| Angus BLYTH | アンガス・ブライス | ロック | [オーストラリア代表](/national-teams/australia/) | — |
 | Matt PHILIP | マット・フィリップ | ロック | オーストラリア代表 | 29 |
 | Pete SAMU | ピート・サム | フランカー/No8 | オーストラリア代表 | — |
 | Jake GORDON | ジェイク・ゴードン | スクラムハーフ | オーストラリア代表 | — |

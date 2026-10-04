@@ -136,7 +136,7 @@ D2で2連覇してD1に昇格してきた上り調子のチームです。浦安
 **本拠地：** 三重県営鈴鹿スポーツガーデン（三重県鈴鹿市）
 **創設：** 1961年
 
-本拠地の鈴鹿といえばF1サーキットで有名ですが、ラグビーも熱い。[パブロ・マテーラ](/players/pablo-matera-484715/)（[アルゼンチン代表](/national-teams/argentina/)主将を務めたFL）や[レメキ ロマノ ラヴァ](/players/lemeki-lomano-lava-484673/)（元[日本代表](/national-teams/japan/)）など、個性の強い選手が好きなチームです。
+本拠地の鈴鹿といえばF1サーキットで有名ですが、ラグビーも熱い。[パブロ・マテーラ](/leagues/league-one/)（[アルゼンチン代表](/national-teams/argentina/)主将を務めたFL）や[レメキ ロマノ ラヴァ](/leagues/league-one/)（元[日本代表](/national-teams/japan/)）など、個性の強い選手が好きなチームです。
 
 2026-27シーズンから栃木へ移転が予定されていて、三重での観戦は今のうちかもしれません。
 
@@ -227,7 +227,7 @@ OBの坂田好弘は東洋人として初めてラグビーの殿堂入りを果
 **本拠地：** ヤンマースタジアム長居（大阪市）
 **創設：** 1993年（旧NTTドコモ[レッドハリケーンズ大阪](/teams/league-one/hurricanes/)）
 
-[TJ・ペレナラ](/players/tj-perenara-484865/)（[ニュージーランド代表](/national-teams/new-zealand/)SH）が在籍しているのが話題です。社員選手中心のチームにあのペレナラがいるというギャップが面白い。「大阪UP」というスローガンで大阪のラグビー熱を引っ張ろうとしています。
+[TJ・ペレナラ](/teams/league-one/ricoh-black-rams-tokyo/#p-tj-perenara-484865)（[ニュージーランド代表](/national-teams/new-zealand/)SH）が在籍しているのが話題です。社員選手中心のチームにあのペレナラがいるというギャップが面白い。「大阪UP」というスローガンで大阪のラグビー熱を引っ張ろうとしています。
 
 ---
 
@@ -240,10 +240,10 @@ D3は入場無料や数百円で観られる試合が多くて、地域のお祭
 | チーム | 本拠地 |
 |------|------|
 | [狭山セコムラガッツ](/teams/league-one/secom-rugguts/) | 埼玉県狭山市 |
-| ルリーロ福岡 | 福岡県 |
+| [ルリーロ福岡](/teams/league-one/ruriro-fukuoka/) | 福岡県 |
 | [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins/) | 埼玉県戸田市 |
 | [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima/) | 東京都昭島市 |
-| 中国電力レッドレグリオンズ | 広島県 |
+| [中国電力レッドレグリオンズ](/teams/league-one/chugoku-electric-red-regulions/) | 広島県 |
 | [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima/) | 広島県 |
 
 ---

@@ -27,14 +27,14 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "モアナパ�
 | Sam MOLI | サム・モリ | フッカー | [トンガ代表](/national-teams/tonga/) | 13 |
 | Veikoso POLONIATI | ヴェイコソ・ポロニアティ | ロック | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Miracle FAI'ILAGI | ミラクル・ファイラギ | フランカー/No8 | [サモア代表](/national-teams/samoa/) | 3 |
-| Semisi PAEA | セミシ・パエア | フランカー/No8 | トンガ代表 | 3 |
+| Semisi PAEA | セミシ・パエア | フランカー/No8 | [トンガ代表](/national-teams/tonga/) | 3 |
 | Niko JONES | ニコ・ジョーンズ | フランカー/No8 | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Tupou MA'AFU-AFUNGIA | トゥポウ・マアフ・アフンギア | フランカー/No8 | トンガ代表 | — |
 | Augustine PULU | オーガスティン・プル | スクラムハーフ | トンガ代表 | 3 |
 | Melani MATAVAO | メラニ・マタバオ | スクラムハーフ | [サモア代表](/national-teams/samoa/) | 13 |
-| Jonathan TAUMATEINE | ジョナサン・タウマテイン | スクラムハーフ | サモア代表 | 11 |
+| Jonathan TAUMATEINE | ジョナサン・タウマテイン | スクラムハーフ | [サモア代表](/national-teams/samoa/) | 11 |
 | Pat PELLEGRINI | パット・ペレグリーニ | スタンドオフ | [トンガ代表](/national-teams/tonga/) | — |
-| Julian SAVEA | ジュリアン・サベア | センター | ニュージーランド代表 | 35 |
+| Julian SAVEA | ジュリアン・サベア | センター | [ニュージーランド代表](/national-teams/new-zealand/) | 35 |
 | Ngani LAUMAPE | ンガニ・ラウマペ | センター | ニュージーランド代表 | — |
 | Simon-Peter TOLEAFOA | サイモン・ピーター・トレアフォア | フルバック | サモア代表 | — |
 
@@ -48,7 +48,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "モアナパ�
 | Feleti SAE-TA'UFO'OU | フェレティ・サエタウフォオウ | プロップ |
 | Chris APOUA | クリス・アポウア | プロップ |
 | Tito TUIPULOTU | ティト・トゥイプロトゥ | プロップ |
-| Mamoru HARADA | 原田衛 | フッカー |
+| Mamoru HARADA | [原田衛](/players/mamoru-harada/) | フッカー |
 | Mills SANERIVI | ミルズ・サネリビ | フッカー |
 | Allan CRAIG | アラン・クレイグ | ロック |
 | Ofa TAUATEVALU | オファ・タウアテバル | ロック |
@@ -58,7 +58,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "モアナパ�
 | Sam TUITUPOU | サム・トゥイトゥポウ | フランカー/No8 |
 | Dominic ROPETI | ドミニク・ロペティ | フランカー/No8 |
 | Ola TAUELANGI | オラ・タウエランギ | フランカー/No8 |
-| Semisi TUPOU TA'EILOA | [セミシ・トゥポウ](/players/semisi-tupou-484450/)・タエイロア | フランカー/No8 |
+| Semisi TUPOU TA'EILOA | [セミシ・トゥポウ](/teams/league-one/toyota-verblitz/#p-semisi-tupou-484450)・タエイロア | フランカー/No8 |
 | Konrad TOLEAFOA | コンラッド・トレアフォア | フランカー/No8 |
 | Siaosi NGININGINI | シアオシ・ンギニンギニ | スクラムハーフ |
 | Jackson GARDEN-BACHOP | ジャクソン・ガーデン・バショップ | スタンドオフ |

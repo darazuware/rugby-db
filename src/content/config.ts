@@ -12,7 +12,7 @@ const players = defineCollection({
         height: z.string().optional(),
         weight: z.string().optional(),
         birth_date: z.string().optional(),
-        age: z.number().nullable(),
+        age: z.number().nullable().optional(), // 未使用: birth_date から calcAge で計算（01_DESIGN §3）
         country: z.string().optional(),
         birth_place_scraped: z.string().optional(),
         league: z.string().optional(),

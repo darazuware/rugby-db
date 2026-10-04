@@ -26,7 +26,7 @@ docs/adsense/TASKS.md の共通ルールとT1を読んで実行して。
 ```
 
 ## T2 名鑑縮小の実装【Sonnet 中】
-状態：未着手
+状態：✅完了 2026-10-04 — 個別ページ6,738→260人（K1〜K3＋force1、-96%。設計の約315人から-17%：週次キャップ一覧記事 `*-caps-weekly-*` をK3から除外したため。含めると467人）、サイトマップ7,188→654URL（/players/ 261）。ar_→lo_重複を計40件統合、非対象選手は301でチーム名簿 #p-{slug} へ、チーム名簿は表形式、/players は注目選手一覧、年齢は全てbirthdateから計算、記事リンク約1,900件を書換え。vitestは既存の4件失敗のみ（baselineと同一）
 
 プロンプト：
 ```
@@ -47,6 +47,7 @@ docs/adsense/TASKS.md の共通ルールとT2、docs/adsense/01_DESIGN.md を読
 プロンプト：
 ```
 docs/adsense/TASKS.md の共通ルールとT3を読んで実行して。
+前提（T2完了後）：個別ページ選手は data/manual/player_pages.json（scripts/build_player_pages.py 生成）。記事を統合・削除すると言及数が変わるので、完了前に必ず `python3 scripts/build_player_pages.py` を再実行して差分（昇格・降格した選手）を確認し、`python3 scripts/link_news.py --fix-dead --write` で記事内の選手リンクを整合させる。削除する短信内の `/players/` や `#p-` リンクも言及数に含まれる点に注意。
 やること：
 1. src/content/news で本文1,000字未満の記事を一覧化（加入・退団等の1行記事が中心）
 2. 週単位またはリーグ単位の「移籍まとめ」記事に統合（事実は元記事と source_diff の範囲のみ、AI知識で追記しない）。各まとめ記事に独自の見どころ考察を加え1本2,000字以上を目安

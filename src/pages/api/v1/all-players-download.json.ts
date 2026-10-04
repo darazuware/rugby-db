@@ -2,10 +2,13 @@ export const prerender = true;
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import teamsData from '../../../../data/teams.json';
+import { calcAge } from '../../../lib/age';
+import { getPlayerHrefResolver } from '../../../lib/master';
 import { getMasterPlayersLegacyShape, getMasterUniversityPlayersLegacyShape, masterCoveredLegacyLeagues } from '../../../lib/masterAdapters';
 
 export const GET: APIRoute = async () => {
   try {
+    const hrefOf = await getPlayerHrefResolver();
     // 1. master (SSOT) 対応済みリーグの選手（04/P2-3: league-one。P5-5: university。masterAdapters.ts 参照）
     const coveredLeagues = masterCoveredLegacyLeagues();
     const masterDataLists = await Promise.all(
@@ -48,7 +51,12 @@ export const GET: APIRoute = async () => {
       };
     });
 
-    const data = [...masterData, ...legacyData];
+    // age 固定値は出さず birth_date から計算（01_DESIGN §3）。href は個別ページ or チーム名簿アンカー（無ければ null）。
+    const data = [...masterData, ...legacyData].map((p: any) => ({
+      ...p,
+      href: hrefOf(p.slug),
+      data: { ...p.data, age: calcAge(p.data.birth_date) },
+    }));
 
     return new Response(
       JSON.stringify(data),

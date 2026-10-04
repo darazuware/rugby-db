@@ -7,4 +7,4 @@ source_diff: "2026-08-12_top14.json"
 draft: true
 ---
 
-[Maxence BAUX](/players/maxence-baux/)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。
+[Maxence BAUX](/teams/top14/toulouse/#p-maxence-baux)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。

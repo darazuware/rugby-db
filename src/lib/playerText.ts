@@ -7,6 +7,7 @@
  */
 import type { Player, CareerEntry, SeasonStats, LeagueKey } from "./master";
 import { positionJa } from "./positions";
+import { calcAge } from "./age";
 
 /** リーグキー → 表示用リーグ名（キャップ実績の文言に使用）。 */
 const LEAGUE_LABEL_JA: Readonly<Record<LeagueKey, string>> = Object.freeze({
@@ -34,21 +35,7 @@ function leagueLabelJa(league: LeagueKey | null | undefined): string | null {
 // 年齢・生年月日
 // ---------------------------------------------------------------------------
 
-/** YYYY-MM-DD から満年齢を計算する。パース不能/null は null。 */
-export function calcAge(birthdate: string | null | undefined, asOf: Date = new Date()): number | null {
-  if (!birthdate) return null;
-  const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(birthdate);
-  if (!m) return null;
-  const [, yStr, moStr, dStr] = m;
-  const y = Number(yStr);
-  const mo = Number(moStr);
-  const d = Number(dStr);
-  let age = asOf.getFullYear() - y;
-  const hadBirthdayThisYear =
-    asOf.getMonth() + 1 > mo || (asOf.getMonth() + 1 === mo && asOf.getDate() >= d);
-  if (!hadBirthdayThisYear) age -= 1;
-  return age;
-}
+export { calcAge };
 
 function formatBirthdateJa(birthdate: string): string | null {
   const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(birthdate);

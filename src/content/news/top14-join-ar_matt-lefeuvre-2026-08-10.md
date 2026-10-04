@@ -7,4 +7,4 @@ source_diff: "2026-08-10_top14.json"
 draft: true
 ---
 
-[Matt LEFEUVRE](/players/matt-lefeuvre/)が[モンペリエ](/teams/top14/montpellier/)（Top14）に加入した。
+[Matt LEFEUVRE](/teams/top14/montpellier/#p-matt-lefeuvre)が[モンペリエ](/teams/top14/montpellier/)（Top14）に加入した。

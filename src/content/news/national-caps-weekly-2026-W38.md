@@ -7,75 +7,75 @@ source_diff: "2026-09-14_national.json"
 draft: false
 ---
 
-- [Adam HASTINGS](/players/adam-hastings/): Scotland代表40→46キャップ
-- [André ESTERHUIZEN](/players/andre-esterhuizen/): South Africa代表43→50キャップ
-- [Antoine DUPONT](/players/antoine-dupont/): France代表81→84キャップ
-- [Atila SEPTAR](/players/atila-septar/): Romania代表8→10キャップ
-- [Baptiste ERDOCIO](/players/baptiste-erdocio/): France代表2→3キャップ
-- [Baptiste SERIN](/players/baptiste-serin/): France代表30→45キャップ
-- [Bautista DELGUY](/players/bautista-delguy/): Argentina代表37→62キャップ
-- [Beauden BARRETT](/players/beauden-barrett/): New Zealand代表92→194キャップ
-- [Beka SAGINADZE](/players/beka-saghinadze/): Georgia代表58→84キャップ
-- [Blair KINGHORN](/players/blair-kinghorn/): Scotland代表73→84キャップ
-- [Caleb MUNTZ](/players/caleb-muntz/): Fiji代表34→35キャップ
-- [Cameron HANEKOM](/players/cameron-hanekom/): South Africa代表6→8キャップ
-- [Cam ROIGARD](/players/cameron-roigard/): New Zealand代表26→30キャップ
-- [Charles OLLIVON](/players/charles-ollivon/): France代表58→75キャップ
-- [Cleopas KUNDIONA](/players/cleopas-kundiona/): Zimbabwe代表2→4キャップ
-- [Damian WILLEMSE](/players/damian-willemse/): South Africa代表72→83キャップ
-- [Demba BAMBA](/players/demba-bamba/): France代表31→32キャップ
-- [Dorian ALDEGHERI](/players/dorian-aldegheri/): France代表31→38キャップ
-- [Du'Plessis KIRIFI](/players/du-plessis-kirifi/): New Zealand代表10→11キャップ
-- [Emmanuel MEAFOU](/players/emmanuel-meafou/): France代表10→21キャップ
-- [Ethan DE GROOT](/players/ethan-de-groot/): New Zealand代表35→47キャップ
-- [Fabien BRAU-BOIRIE](/players/fabien-brau-boirie/): France代表4→7キャップ
-- [François CROS](/players/francois-cros/): France代表30→42キャップ
-- [George BELL](/players/george-bell/): New Zealand代表2→4キャップ
-- [Georges-Henri COLOMBE](/players/georges-henri-colombe/): France代表11→12キャップ
-- [Georges SHVELIDZE](/players/georges-shvelidze/): Georgia代表7→11キャップ
-- [Gianmarco LUCCHESI](/players/gianmarco-lucchesi/): Italy代表31→44キャップ
-- [Giorgi AKHALADZE](/players/giorgi-akhaladze/): Georgia代表22→25キャップ
-- [Giorgi MELIKIDZE](/players/giorgi-melikidze/): Georgia代表34→35キャップ
+- [Adam HASTINGS](/teams/top14/montpellier/#p-adam-hastings): Scotland代表40→46キャップ
+- [André ESTERHUIZEN](/teams/urc/hollywoodbets-sharks/#p-andre-esterhuizen): South Africa代表43→50キャップ
+- [Antoine DUPONT](/teams/top14/toulouse/#p-antoine-dupont): France代表81→84キャップ
+- [Atila SEPTAR](/national-teams/romania/#p-atila-septar): Romania代表8→10キャップ
+- [Baptiste ERDOCIO](/teams/top14/montpellier/#p-baptiste-erdocio): France代表2→3キャップ
+- [Baptiste SERIN](/teams/top14/toulon/#p-baptiste-serin): France代表30→45キャップ
+- [Bautista DELGUY](/teams/top14/clermont/#p-bautista-delguy): Argentina代表37→62キャップ
+- [Beauden BARRETT](/teams/super-rugby/blues/#p-beauden-barrett): New Zealand代表92→194キャップ
+- [Beka SAGINADZE](/teams/top14/lyon/#p-beka-saghinadze): Georgia代表58→84キャップ
+- [Blair KINGHORN](/teams/top14/toulouse/#p-blair-kinghorn): Scotland代表73→84キャップ
+- [Caleb MUNTZ](/national-teams/fiji/#p-caleb-muntz): Fiji代表34→35キャップ
+- [Cameron HANEKOM](/teams/urc/vodacom-bulls/#p-cameron-hanekom): South Africa代表6→8キャップ
+- [Cam ROIGARD](/teams/super-rugby/hurricanes/#p-cameron-roigard): New Zealand代表26→30キャップ
+- [Charles OLLIVON](/teams/top14/toulon/#p-charles-ollivon): France代表58→75キャップ
+- [Cleopas KUNDIONA](/teams/premiership/northampton-saints/#p-cleopas-kundiona): Zimbabwe代表2→4キャップ
+- [Damian WILLEMSE](/teams/urc/dhl-stormers/#p-damian-willemse): South Africa代表72→83キャップ
+- [Demba BAMBA](/teams/top14/racing-92/#p-demba-bamba): France代表31→32キャップ
+- [Dorian ALDEGHERI](/teams/top14/toulouse/#p-dorian-aldegheri): France代表31→38キャップ
+- [Du'Plessis KIRIFI](/teams/super-rugby/hurricanes/#p-du-plessis-kirifi): New Zealand代表10→11キャップ
+- [Emmanuel MEAFOU](/teams/top14/toulouse/#p-emmanuel-meafou): France代表10→21キャップ
+- [Ethan DE GROOT](/teams/super-rugby/highlanders/#p-ethan-de-groot): New Zealand代表35→47キャップ
+- [Fabien BRAU-BOIRIE](/teams/top14/pau/#p-fabien-brau-boirie): France代表4→7キャップ
+- [François CROS](/teams/top14/toulouse/#p-francois-cros): France代表30→42キャップ
+- [George BELL](/teams/super-rugby/crusaders/#p-george-bell): New Zealand代表2→4キャップ
+- [Georges-Henri COLOMBE](/teams/top14/toulouse/#p-georges-henri-colombe): France代表11→12キャップ
+- [Georges SHVELIDZE](/national-teams/georgia/#p-georges-shvelidze): Georgia代表7→11キャップ
+- [Gianmarco LUCCHESI](/teams/top14/toulon/#p-gianmarco-lucchesi): Italy代表31→44キャップ
+- [Giorgi AKHALADZE](/teams/top14/clermont/#p-giorgi-akhaladze): Georgia代表22→25キャップ
+- [Giorgi MELIKIDZE](/teams/top14/paris/#p-giorgi-melikidze): Georgia代表34→35キャップ
 - [Guido PETTI](/players/guido-petti/): Argentina代表145→147キャップ
-- [Hugo AURADOU](/players/hugo-auradou/): France代表18→20キャップ
-- [Hugo PIRLET](/players/hugo-pirlet/): Spain代表15→16キャップ
-- [Izzak KELLY](/players/izzak-kelly/): Canada代表16→19キャップ
-- [Jack ISCARO](/players/jack-iscaro/): Usa代表11→30キャップ
-- [Jean-Baptiste GROS](/players/jean-baptiste-gros/): France代表54→59キャップ
-- [Jesse KILGOUR](/players/jesse-kilgour/): Canada代表2→3キャップ
-- [Jesse KRIEL](/players/jesse-kriel/): South Africa代表122→144キャップ
+- [Hugo AURADOU](/teams/top14/pau/#p-hugo-auradou): France代表18→20キャップ
+- [Hugo PIRLET](/national-teams/spain/#p-hugo-pirlet): Spain代表15→16キャップ
+- [Izzak KELLY](/national-teams/canada/#p-izzak-kelly): Canada代表16→19キャップ
+- [Jack ISCARO](/teams/top14/paris/#p-jack-iscaro): Usa代表11→30キャップ
+- [Jean-Baptiste GROS](/teams/top14/toulon/#p-jean-baptiste-gros): France代表54→59キャップ
+- [Jesse KILGOUR](/national-teams/canada/#p-jesse-kilgour): Canada代表2→3キャップ
+- [Jesse KRIEL](/national-teams/south-africa/#p-jesse-kriel): South Africa代表122→144キャップ
 - [Jon ZABALA](/players/jon-zabala/): Spain代表32→37キャップ
-- [Jonny GRAY](/players/jonny-gray/): Scotland代表89→120キャップ
-- [Kalvin GOURGUES](/players/kalvin-gourgues/): France代表4→5キャップ
-- [Kyle PRESTON](/players/kyle-preston/): New Zealand代表6→7キャップ
-- [Leonel OVIEDO](/players/leonel-oviedo/): Argentina代表2→3キャップ
-- [Lucien RICHARDIS](/players/lucien-richardis/): Spain代表8→9キャップ
-- [Luka BEGIC](/players/luka-begic/): Portugal代表32→36キャップ
-- [Luka GOGINAVA](/players/luka-goginava/): Georgia代表11→12キャップ
-- [Luka JAPARIDZE](/players/luka-japaridze/): Georgia代表15→20キャップ
-- [Lukhan SALAKAIA-LOTO](/players/lukhan-lealaiaulolo-tui/): Australia代表39→69キャップ
-- [Martin PAGE-RELO](/players/martin-page-relo/): Italy代表21→23キャップ
-- [Mason FLESCH](/players/mason-flesch/): Canada代表31→36キャップ
-- [Maxime LUCU](/players/maxime-lucu/): France代表46→47キャップ
-- [Mickaël GUILLARD](/players/mickael--guillard/): France代表25→26キャップ
-- [Morné VAN DEN BERG](/players/morne-van-den-berg/): South Africa代表13→15キャップ
+- [Jonny GRAY](/teams/top14/perpignan/#p-jonny-gray): Scotland代表89→120キャップ
+- [Kalvin GOURGUES](/teams/top14/toulouse/#p-kalvin-gourgues): France代表4→5キャップ
+- [Kyle PRESTON](/teams/super-rugby/crusaders/#p-kyle-preston): New Zealand代表6→7キャップ
+- [Leonel OVIEDO](/teams/super-rugby/western-force/#p-leonel-oviedo): Argentina代表2→3キャップ
+- [Lucien RICHARDIS](/national-teams/spain/#p-lucien-richardis): Spain代表8→9キャップ
+- [Luka BEGIC](/national-teams/portugal/#p-luka-begic): Portugal代表32→36キャップ
+- [Luka GOGINAVA](/national-teams/georgia/#p-luka-goginava): Georgia代表11→12キャップ
+- [Luka JAPARIDZE](/teams/top14/montpellier/#p-luka-japaridze): Georgia代表15→20キャップ
+- [Lukhan SALAKAIA-LOTO](/leagues/super-rugby/): Australia代表39→69キャップ
+- [Martin PAGE-RELO](/teams/top14/bordeaux/#p-martin-page-relo): Italy代表21→23キャップ
+- Mason FLESCH: Canada代表31→36キャップ
+- [Maxime LUCU](/teams/top14/bordeaux/#p-maxime-lucu): France代表46→47キャップ
+- [Mickaël GUILLARD](/teams/top14/lyon/#p-mickael--guillard): France代表25→26キャップ
+- [Morné VAN DEN BERG](/teams/urc/emirates-lions/#p-morne-van-den-berg): South Africa代表13→15キャップ
 - [Naoto SAITO](/players/naoto-saito/): Japan代表39→46キャップ
-- [Otunuku PAUTA](/players/otunuku-pauta/): Tonga代表3→4キャップ
-- [Peter LAKAI](/players/peter-lakai/): New Zealand代表15→21キャップ
-- [Pierre BOCHATON](/players/pierre-bochaton/): France代表3→4キャップ
-- [Rodrigue NETI](/players/rodrigue-neti/): France代表10→13キャップ
-- [Ruben LOVE](/players/ruben-love/): New Zealand代表15→16キャップ
-- [Sam DARRY](/players/sam-darry/): New Zealand代表15→17キャップ
-- [Santiago CHOCOBARES](/players/santiago-chocobares/): Argentina代表21→44キャップ
-- [Santiago GRONDONA](/players/santiago-grondona/): Argentina代表22→33キャップ
-- [Sevu REECE](/players/sevu-reece/): New Zealand代表23→37キャップ
-- [Simão BENTO](/players/simao-bento/): Portugal代表23→35キャップ
-- [Sireli MAQALA](/players/sireli-maqala/): Fiji代表11→18キャップ
-- [Taylor GONTINEAC](/players/taylor-gontineac/): Romania代表13→24キャップ
-- [Thomas CRÉTU](/players/thomas-cretu/): Romania代表13→17キャップ
-- [Thomas GALLO](/players/thomas-gallo/): Argentina代表38→53キャップ
-- [Tommaso MENONCELLO](/players/tommaso-menoncello/): Italy代表32→60キャップ
-- [Tyrel LOMAX](/players/tyrel-lomax/): New Zealand代表62→70キャップ
-- [Va'a APELU MALIKO](/players/va-a-apelu-maliko/): Samoa代表3→4キャップ
-- [Xavier NUMIA](/players/xavier-numia/): New Zealand代表5→6キャップ
-- [Yoram MOEFANA](/players/yoram-moefana/): France代表25→62キャップ
+- [Otunuku PAUTA](/national-teams/tonga/#p-otunuku-pauta): Tonga代表3→4キャップ
+- [Peter LAKAI](/teams/super-rugby/hurricanes/#p-peter-lakai): New Zealand代表15→21キャップ
+- [Pierre BOCHATON](/teams/top14/bordeaux/#p-pierre-bochaton): France代表3→4キャップ
+- [Rodrigue NETI](/teams/top14/toulouse/#p-rodrigue-neti): France代表10→13キャップ
+- [Ruben LOVE](/teams/super-rugby/hurricanes/#p-ruben-love): New Zealand代表15→16キャップ
+- [Sam DARRY](/teams/super-rugby/hurricanes/#p-sam-darry): New Zealand代表15→17キャップ
+- [Santiago CHOCOBARES](/teams/top14/toulouse/#p-santiago-chocobares): Argentina代表21→44キャップ
+- [Santiago GRONDONA](/teams/top14/pau/#p-santiago-grondona): Argentina代表22→33キャップ
+- [Sevu REECE](/teams/super-rugby/crusaders/#p-sevu-reece): New Zealand代表23→37キャップ
+- [Simão BENTO](/national-teams/portugal/#p-simao-bento): Portugal代表23→35キャップ
+- [Sireli MAQALA](/teams/top14/bayonne/#p-sireli-maqala): Fiji代表11→18キャップ
+- [Taylor GONTINEAC](/teams/top14/castres/#p-taylor-gontineac): Romania代表13→24キャップ
+- [Thomas CRÉTU](/national-teams/romania/#p-thomas-cretu): Romania代表13→17キャップ
+- [Thomas GALLO](/teams/top14/lyon/#p-thomas-gallo): Argentina代表38→53キャップ
+- [Tommaso MENONCELLO](/teams/top14/toulouse/#p-tommaso-menoncello): Italy代表32→60キャップ
+- [Tyrel LOMAX](/teams/super-rugby/hurricanes/#p-tyrel-lomax): New Zealand代表62→70キャップ
+- [Va'a APELU MALIKO](/national-teams/samoa/#p-va-a-apelu-maliko): Samoa代表3→4キャップ
+- [Xavier NUMIA](/teams/super-rugby/hurricanes/#p-xavier-numia): New Zealand代表5→6キャップ
+- [Yoram MOEFANA](/teams/top14/bordeaux/#p-yoram-moefana): France代表25→62キャップ

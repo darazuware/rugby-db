@@ -25,7 +25,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "クルセイ�
 | :--- | :--- | :--- | :--- | ---: |
 | Fletcher NEWELL | フレッチャー・ニュエル | プロップ | [ニュージーランド代表](/national-teams/new-zealand/) | 8 |
 | Tamaiti WILLIAMS | タマイティ・ウィリアムズ | プロップ | [ニュージーランド代表](/national-teams/new-zealand/) | 3 |
-| Codie TAYLOR | コーディ・テイラー | フッカー | ニュージーランド代表 | 79 |
+| Codie TAYLOR | コーディ・テイラー | フッカー | [ニュージーランド代表](/national-teams/new-zealand/) | 79 |
 | Cullen GRACE | カレン・グレース | ロック | ニュージーランド代表 | — |
 | Scott BARRETT | スコット・バレット | ロック | ニュージーランド代表 | 62 |
 | Christian LIO-WILLIE | クリスチャン・リオ・ウィリー | フランカー/No8 | ニュージーランド代表 | — |
@@ -50,7 +50,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "クルセイ�
 | Jamie HANNAH | ジェイミー・ハンナ | ロック |
 | Will TUCKER | ウィル・タッカー | ロック |
 | Liam JACK | リアム・ジャック | ロック |
-| Antonio SHALFOON | アントニオ・シャルフーン | ロック |
+| Antonio SHALFOON | [アントニオ・シャルフーン](/players/antonio-shalfoon/) | ロック |
 | Tahlor CAHILL | テイラー・キャヒル | ロック |
 | Dom GARDINER | ドム・ガーディナー | フランカー/No8 |
 | Corey KELLOW | コーリー・ケロウ | フランカー/No8 |

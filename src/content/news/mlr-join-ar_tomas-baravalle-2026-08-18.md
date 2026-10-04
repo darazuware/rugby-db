@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[Tomas BARAVALLE](/players/tomas-baravalle/)がchicago（mlr）に加入した。
+Tomas BARAVALLEがchicago（mlr）に加入した。

@@ -25,7 +25,7 @@ RC[トゥーロン](/teams/top14/toulon/)は2013年から2015年にかけて欧�
 | :--- | :--- | :--- | :--- | ---: |
 | Paolo GARBISI | パオロ・ガルビジ | フライハーフ | [イタリア代表](/national-teams/italy/) | 45 |
 | Charles OLLIVON | シャルル・オリボン | バックロー | [フランス代表](/national-teams/france/) | 45 |
-| Baptiste SERIN | バプティスト・スラン | スクラムハーフ | フランス代表 | 35 |
+| Baptiste SERIN | バプティスト・スラン | スクラムハーフ | [フランス代表](/national-teams/france/) | 35 |
 | Zach MERCER | ザック・マーサー | バックロー | [イングランド代表](/national-teams/england/) | 20 |
 
 ## その他在籍選手（2025-26シーズン）

@@ -24,7 +24,7 @@ tags: ["Top14", "チーム紹介", "2025-26", "ボルドー・ベグル"]
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
 | Damian PENAUD | ダミアン・ポノー | ウィング | [フランス代表](/national-teams/france/) | 65 |
-| Matthieu JALIBERT | マチュー・ジャリベール | フライハーフ | フランス代表 | 45 |
+| Matthieu JALIBERT | マチュー・ジャリベール | フライハーフ | [フランス代表](/national-teams/france/) | 45 |
 | Maxime LUCU | マキシム・リュキュ | スクラムハーフ | フランス代表 | 25 |
 | Cameron WOKI | カメロン・ウォキ | バックロー | フランス代表 | 25 |
 | Louis BIELLE-BIARREY | ルイ・ビエル＝ビアレー | ウィング | フランス代表 | 20 |

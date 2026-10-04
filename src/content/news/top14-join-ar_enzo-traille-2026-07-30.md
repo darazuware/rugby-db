@@ -7,4 +7,4 @@ source_diff: "2026-07-30_top14.json"
 draft: true
 ---
 
-[Enzo TRAILLE](/players/enzo-traille/)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。
+[Enzo TRAILLE](/teams/top14/toulouse/#p-enzo-traille)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。

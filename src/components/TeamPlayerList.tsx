@@ -1,7 +1,9 @@
 import React, { useState, useMemo, useCallback } from 'react';
+import { calcAge } from '../lib/age';
 
 interface Player {
     slug: string;
+    href?: string | null; // 個別ページがある選手のみ（無ければ名前はリンクにしない）
     data: {
         title: string;
         name_en: string;
@@ -23,64 +25,18 @@ interface Player {
     };
 }
 
-const FLAG_MAP: Record<string, string> = {
-    '日本': '🇯🇵',
-    'オーストラリア': '🇦🇺',
-    'AUS': '🇦🇺',
-    'ニュージーランド': '🇳🇿',
-    'NZ': '🇳🇿',
-    '南アフリカ': '🇿🇦',
-    'SA': '🇿🇦',
-    'フィジー': '🇫🇯',
-    'FIJ': '🇫🇯',
-    'トンガ': '🇹🇴',
-    'TGA': '🇹🇴',
-    'サモア': '🇼🇸',
-    'SAM': '🇼🇸',
-    'フランス': '🇫🇷',
-    'FRA': '🇫🇷',
-    'イングランド': '🏴󠁧󠁢󠁥󠁮󠁧󠁿',
-    'ENG': '🏴󠁧󠁢󠁥󠁮󠁧󠁿',
-    'ウェールズ': '🏴󠁧󠁢󠁷󠁬󠁳󠁿',
-    'WAL': '🏴󠁧󠁢󠁷󠁬󠁳󠁿',
-    'スコットランド': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
-    'SCO': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
-    'アイルランド': '🇮🇪',
-    'IRE': '🇮🇪',
-    'イタリア': '🇮🇹',
-    'ITA': '🇮🇹',
-    'アルゼンチン': '🇦🇷',
-    'ARG': '🇦🇷',
-    'アメリカ': '🇺🇸',
-    'USA': '🇺🇸',
-    'カナダ': '🇨🇦',
-    'CAN': '🇨🇦',
-    'ジョージア': '🇬🇪',
-    'GEO': '🇬🇪',
-    'ウルグアイ': '🇺🇾',
-    'URU': '🇺🇾',
-    'ポルトガル': '🇵🇹',
-    'POR': '🇵🇹',
-    'ルーマニア': '🇷🇴',
-    'ROU': '🇷🇴',
-    'ナミビア': '🇳🇦',
-    'NAM': '🇳🇦',
-    'チリ': '🇨🇱',
-    'CHL': '🇨🇱',
-    '韓国': '🇰🇷',
-    'KOR': '🇰🇷',
-    '中国': '🇨🇳',
-    'CHN': '🇨🇳',
-    '香港': '🇭🇰',
-    'HKG': '🇭🇰',
-};
-
 interface Props {
     players: Player[];
     isLeagueOne?: boolean;
 }
 
-const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
+const TeamPlayerList: React.FC<Props> = ({ players: rawPlayers, isLeagueOne = false }) => {
+    // age 固定値は使わず birth_date から閲覧日基準で計算（docs/adsense/01_DESIGN.md §3）
+    const players = useMemo(
+        () => rawPlayers.map(p => ({ ...p, data: { ...p.data, age: calcAge(p.data.birth_date) } })),
+        [rawPlayers],
+    );
+
     const [cartSlugs, setCartSlugs] = useState<Set<string>>(() => {
         try {
             const cart: {slug: string}[] = JSON.parse(localStorage.getItem('rugby_draft_cart') || '[]');
@@ -305,120 +261,72 @@ const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
                 ) : null}
             </div>
 
-            {/* 選手リスト（PlayerList.tsx のカードスタイルを継承） */}
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
-                {filteredAndSortedPlayers.length > 0 ? (
-                    filteredAndSortedPlayers.map((player) => (
-                    <a
-                        key={player.slug}
-                        href={`/players/${player.slug}/`}
-                        className="group block bg-card rounded-3xl p-6 shadow-sm hover:shadow-2xl hover:-translate-y-2 transition-all border border-border-dim relative overflow-hidden"
-                    >
-                        {/* デコレーション */}
-                        <div className="absolute top-0 right-0 w-16 h-16 translate-x-8 -translate-y-8 rotate-45 bg-yellow-400 z-10"></div>
-
-                        <div className="mb-6 relative z-10">
-                            <div className="flex flex-col gap-1 mb-3">
-                                <div className="flex justify-between items-start">
-                                    <span className="inline-block px-3 py-1 bg-foreground text-background text-[10px] font-black rounded-lg tracking-tighter">
-                                        {player.data.position}
-                                    </span>
-                                </div>
-                                {(player.data.league === 'league-one' || player.data.league === 'leagueone') && (
-                                    <span className="text-[9px] font-black text-foreground/40 uppercase tracking-widest">{player.data.category}</span>
-                                )}
-                            </div>
-                            {(() => {
-                                const isItemLeagueOne = player.data.league === 'league-one' || player.data.league === 'leagueone';
-                                const isItemJapanese = player.data.country === '日本';
-                                const isItemForeign = player.data.country && player.data.country !== '日本';
-                                
-                                // 漢字が含まれているか、日本の学校出身かを確認
-                                const hasKanji = player.data.title && /[\u4E00-\u9FFF]/.test(player.data.title);
-                                const hasJapaneseSchool = (player.data.high_school || "").includes("高校") || (player.data.university || "").includes("大学");
-
-                                // 日本語を優先（メインに表示）するかどうかの判定
-                                const prefersItemJapaneseMain = isItemJapanese || hasKanji || (hasJapaneseSchool && !isItemForeign) || (!isItemForeign && isItemLeagueOne);
-
-                                const itemMainName = prefersItemJapaneseMain ? (player.data.title.includes('|') ? player.data.title.split('|')[1].trim() : player.data.title) : (player.data.name_en || player.data.title);
-                                const itemSubName = prefersItemJapaneseMain ? (player.data.name_en || player.data.title) : (player.data.title.includes('|') ? player.data.title.split('|')[1].trim() : player.data.title);
-                                const showItemSub = itemSubName && itemSubName !== itemMainName;
-
+            {/* 選手名簿（表形式。各行は #p-{slug} アンカー。個別ページがある選手のみ名前がリンク） */}
+            <div className="overflow-x-auto bg-card rounded-3xl border border-border-dim shadow-sm">
+                <table className="w-full text-left text-sm">
+                    <thead>
+                        <tr className="border-b border-border-dim text-[10px] font-black uppercase tracking-widest text-foreground/40">
+                            <th className="px-4 py-3">名前</th>
+                            <th className="px-4 py-3">ポジション</th>
+                            <th className="px-4 py-3">出身校</th>
+                            <th className="px-4 py-3 text-right">年齢</th>
+                            <th className="px-2 py-3 w-10"><span className="sr-only">ドリームチーム</span></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {filteredAndSortedPlayers.length > 0 ? (
+                            filteredAndSortedPlayers.map((player) => {
+                                const d = player.data;
+                                const isJaName = /[\u3040-\u30FF\u4E00-\u9FFF]/.test(d.title || '');
+                                const mainName = d.title.includes('|') ? d.title.split('|')[1].trim() : d.title;
+                                const subName = isJaName && d.name_en && d.name_en !== mainName ? d.name_en : '';
+                                const school = [d.high_school, d.university].filter(Boolean).join(' → ');
                                 return (
-                                    <>
-                                        <h2 className={`text-2xl font-black text-foreground mb-3 leading-tight group-hover:text-yellow-600 transition-colors tracking-tighter ${!prefersItemJapaneseMain ? 'uppercase' : ''}`}>
-                                            {prefersItemJapaneseMain ? itemMainName : itemMainName?.split(' ').join('  ')}
-                                        </h2>
-                                        {showItemSub && (
-                                            <p className="text-[12px] font-bold text-foreground/40 mb-4 italic tracking-tight uppercase">
-                                                {itemSubName}
-                                            </p>
-                                        )}
-                                    </>
+                                    <tr
+                                        key={player.slug}
+                                        id={`p-${player.slug}`}
+                                        className="scroll-mt-28 border-b border-border-dim/50 last:border-0 target:bg-yellow-400/10 hover:bg-background/60 transition-colors"
+                                    >
+                                        <td className="px-4 py-3">
+                                            {player.href ? (
+                                                <a href={player.href} className="font-black text-foreground hover:text-yellow-600 transition-colors">
+                                                    {mainName}
+                                                </a>
+                                            ) : (
+                                                <span className="font-black text-foreground">{mainName}</span>
+                                            )}
+                                            {subName && (
+                                                <span className="block text-[10px] font-bold text-foreground/40 uppercase tracking-tight">{subName}</span>
+                                            )}
+                                        </td>
+                                        <td className="px-4 py-3 font-bold text-foreground/70 whitespace-nowrap">{d.position || '—'}</td>
+                                        <td className="px-4 py-3 font-bold text-foreground/70">{school || '—'}</td>
+                                        <td className="px-4 py-3 text-right font-black text-foreground whitespace-nowrap">
+                                            {d.age != null ? <>{d.age}<span className="text-[10px] ml-0.5 font-bold text-foreground/40">歳</span></> : '—'}
+                                        </td>
+                                        <td className="px-2 py-3 text-center">
+                                            <button
+                                                type="button"
+                                                onClick={e => addToCart(e, player)}
+                                                title={cartSlugs.has(player.slug) ? 'ドリームチームに追加済み' : 'ドリームチームに追加'}
+                                                className={`text-base leading-none transition-colors ${cartSlugs.has(player.slug) ? 'text-yellow-500' : 'text-foreground/20 hover:text-yellow-500'}`}
+                                            >
+                                                {cartSlugs.has(player.slug) ? '★' : '☆'}
+                                            </button>
+                                        </td>
+                                    </tr>
                                 );
-                            })()}
-
-                            {/* 学歴 (League Oneのみ表示) */}
-                            {(() => {
-                                const isItemLeagueOne = player.data.league === 'league-one' || player.data.league === 'leagueone';
-                                if (isItemLeagueOne && (player.data.high_school || player.data.university)) {
-                                    return (
-                                        <p className="text-xs font-black text-foreground/60 uppercase tracking-tighter mb-5 leading-tight">
-                                            {player.data.high_school && <span>{player.data.high_school}</span>}
-                                            {player.data.high_school && player.data.university && <span className="mx-1 text-yellow-500 font-bold">→</span>}
-                                            {player.data.university && <span>{player.data.university}</span>}
-                                        </p>
-                                    );
-                                }
-                                return null;
-                            })()}
-
-                            {/* 代表歴 / リーグワンキャップ */}
-                            {(player.data.caps || (player.data.league_one_caps && (player.data.league === 'league-one' || player.data.league === 'leagueone'))) && (
-                                <div className="inline-block px-3 py-1.5 bg-yellow-50 text-yellow-700 text-xs font-black rounded-md border border-yellow-100 italic">
-                                    <span className="mr-1.5 not-italic text-base">
-                                        {FLAG_MAP[player.data.country || ''] || (player.data.caps?.includes('日本') ? '🇯🇵' : '')}
-                                    </span>
-                                    {player.data.caps ? player.data.caps : `L1: ${player.data.league_one_caps} caps`}
-                                </div>
-                            )}
-
-                            {/* 入部年を表示 (入部順ソート時などに有用) */}
-                            {player.data.joined_year && (
-                                <div className="mt-3 text-[10px] font-black text-foreground/40 uppercase tracking-widest">
-                                    JOINED: {player.data.joined_year}
-                                </div>
-                            )}
-                        </div>
-
-                                    <div className="flex justify-between items-end text-xs font-black text-foreground border-t border-border-dim pt-4 uppercase tracking-tighter mt-auto">
-                            <div className="flex flex-col">
-                                <span className="text-[18px] leading-none">{player.data.age}<span className="text-[10px] ml-0.5 font-bold">歳</span></span>
-                            </div>
-                            <div className="flex flex-col text-right">
-                                <span className="text-[15px] leading-none">{player.data.height}<span className="text-[10px] text-foreground/40 font-bold mx-0.5">cm</span> / {player.data.weight}<span className="text-[10px] text-foreground/40 font-bold ml-0.5">kg</span></span>
-                            </div>
-                        </div>
-                        <button
-                            onClick={e => addToCart(e, player)}
-                            className={`mt-3 w-full py-2 text-[11px] font-black rounded-xl transition-all border ${
-                                cartSlugs.has(player.slug)
-                                    ? 'bg-yellow-400/20 border-yellow-400 text-yellow-600'
-                                    : 'bg-foreground/5 border-border-dim text-foreground/40 hover:bg-yellow-400/10 hover:border-yellow-400/50 hover:text-foreground/70'
-                            }`}
-                        >
-                            {cartSlugs.has(player.slug) ? '★ カート追加済み' : '☆ ドリームチームに追加'}
-                        </button>
-                    </a>
-                ))
-                ) : (
-                    <div className="col-span-full py-20 text-center animate-in fade-in zoom-in duration-500">
-                        <div className="inline-block p-6 bg-card rounded-[2rem] border border-border-dim border-dashed">
-                            <p className="text-foreground/40 font-black italic uppercase tracking-widest mb-2">No Players Match Your Search</p>
-                            <p className="text-yellow-500 font-bold">検索条件を変えてお試しください</p>
-                        </div>
-                    </div>
-                )}
+                            })
+                        ) : (
+                            <tr>
+                                <td colSpan={5} className="py-16 text-center">
+                                    <p className="text-foreground/40 font-black italic uppercase tracking-widest mb-2">No Players Match Your Search</p>
+                                    <p className="text-yellow-500 font-bold">検索条件を変えてお試しください</p>
+                                </td>
+                            </tr>
+                        )}
+                    </tbody>
+                </table>
             </div>
         </div>
     );

@@ -7,4 +7,4 @@ source_diff: "2026-08-06_top14.json"
 draft: true
 ---
 
-[Hippolyte CARNOT](/players/hippolyte-carnot/)が[スタッド・フランセ](/teams/top14/paris/)（Top14）に加入した。
+[Hippolyte CARNOT](/teams/top14/paris/#p-hippolyte-carnot)が[スタッド・フランセ](/teams/top14/paris/)（Top14）に加入した。

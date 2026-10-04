@@ -7,4 +7,4 @@ source_diff: "2026-08-16_league-one-d1.json"
 draft: false
 ---
 
-[アキ・トゥイバイララ](/players/aki-tuivailala/)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。
+[アキ・トゥイバイララ](/teams/league-one/shizuoka-blue-revs/#p-aki-tuivailala)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。

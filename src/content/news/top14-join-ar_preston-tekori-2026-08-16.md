@@ -7,4 +7,4 @@ source_diff: "2026-08-16_top14.json"
 draft: true
 ---
 
-[Preston TEKORI](/players/preston-tekori/)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。
+[Preston TEKORI](/teams/top14/toulouse/#p-preston-tekori)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。

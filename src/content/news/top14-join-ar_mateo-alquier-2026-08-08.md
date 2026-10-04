@@ -7,4 +7,4 @@ source_diff: "2026-08-08_top14.json"
 draft: true
 ---
 
-[Mateo ALQUIER](/players/mateo-alquier/)が[カストル](/teams/top14/castres/)（Top14）に加入した。
+[Mateo ALQUIER](/teams/top14/castres/#p-mateo-alquier)が[カストル](/teams/top14/castres/)（Top14）に加入した。

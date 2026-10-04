@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[Sam GOLLA](/players/sam-golla/)がchicago（mlr）に加入した。
+Sam GOLLAがchicago（mlr）に加入した。

@@ -7,4 +7,4 @@ source_diff: "2026-08-16_league-one-d1.json"
 draft: false
 ---
 
-[田中 真一](/players/shinichi-tanaka/)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
+[田中 真一](/teams/league-one/yokohama-canon-eagles/#p-shinichi-tanaka)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。

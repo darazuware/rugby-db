@@ -7,4 +7,4 @@ source_diff: "2026-08-10_top14.json"
 draft: true
 ---
 
-[Louis FAVRAU](/players/louis-favrau/)が[ボルドー・ベグル](/teams/top14/bordeaux/)（Top14）に加入した。
+[Louis FAVRAU](/teams/top14/bordeaux/#p-louis-favrau)が[ボルドー・ベグル](/teams/top14/bordeaux/)（Top14）に加入した。

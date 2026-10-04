@@ -25,7 +25,7 @@ draft: false
 - [Daniel MARAIS](/players/daniel-marais/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
 - [Eddie ERSKINE](/players/eddie-erskine/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
 - [Elliot STOOKE](/players/elliot-stooke/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
-- [Fabrice METZ（ファブリス・メッツ）](/players/fabrice-metz/)が[スタッド・フランセ](/teams/top14/paris/)に加入
+- [Fabrice METZ（ファブリス・メッツ）](/teams/top14/paris/#p-fabrice-metz)が[スタッド・フランセ](/teams/top14/paris/)に加入
 - [Facundo BOSCH（ファクンド・ボッシュ）](/players/facundo-bosch/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
 - [Hame FAIVA](/players/hame-faiva/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入
 - [Harvey CUCKSON](/players/harvey-cuckson/)が[ラ・ロシェル](/teams/top14/la-rochelle/)に加入

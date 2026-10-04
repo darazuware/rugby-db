@@ -7,4 +7,4 @@ source_diff: "2026-08-08_top14.json"
 draft: true
 ---
 
-[Milo SELME DE MONDINI](/players/milo-selme-de-mondini/)が[カストル](/teams/top14/castres/)（Top14）に加入した。
+[Milo SELME DE MONDINI](/teams/top14/castres/#p-milo-selme-de-mondini)が[カストル](/teams/top14/castres/)（Top14）に加入した。

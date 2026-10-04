@@ -29,7 +29,7 @@ tags: ["URC", "チーム紹介", "2025-26", "グラスゴー・ウォリアー�
 | Scott CUMMINGS | スコット・カミングス | LO | スコットランド | 42 |
 | Rory DARGE | ロリー・ダージ | FL/No8 | スコットランド | 25 |
 | Matt FAGERSON | マット・ファジャーソン | FL/No8 | スコットランド | 50 |
-| Jack DEMPSEY | ジャック・デンプシー | FL/No8 | スコットランド | 22 |
+| Jack DEMPSEY | [ジャック・デンプシー](/players/jack-dempsey/) | FL/No8 | スコットランド | 22 |
 | Jamie DOBIE | ジェイミー・ドビー | SH | スコットランド | 9 |
 | George HORNE | ジョージ・ホーン | SH | スコットランド | 34 |
 | Adam HASTINGS | アダム・ヘイスティングス | SO | スコットランド | 27 |

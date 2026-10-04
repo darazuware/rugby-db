@@ -7,4 +7,4 @@ source_diff: "2026-08-08_top14.json"
 draft: true
 ---
 
-[Gabin RODIER](/players/gabin-rodier/)が[カストル](/teams/top14/castres/)（Top14）に加入した。
+[Gabin RODIER](/teams/top14/castres/#p-gabin-rodier)が[カストル](/teams/top14/castres/)（Top14）に加入した。

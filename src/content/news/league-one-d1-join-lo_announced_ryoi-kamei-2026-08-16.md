@@ -7,4 +7,4 @@ source_diff: "2026-08-16_league-one-d1.json"
 draft: false
 ---
 
-[亀井 亮依](/players/ryoi-kamei/)が三重ホンダヒート（リーグワン）に加入した。
+[亀井 亮依](/leagues/league-one/)が三重ホンダヒート（リーグワン）に加入した。

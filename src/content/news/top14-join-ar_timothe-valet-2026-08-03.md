@@ -7,4 +7,4 @@ source_diff: "2026-08-03_top14.json"
 draft: true
 ---
 
-[Timothé VALET](/players/timothe-valet/)が[カストル](/teams/top14/castres/)（Top14）に加入した。
+[Timothé VALET](/teams/top14/castres/#p-timothe-valet)が[カストル](/teams/top14/castres/)（Top14）に加入した。

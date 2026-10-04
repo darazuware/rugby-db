@@ -30,7 +30,7 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "エクセター�
 | Christ TSHIUNZA | クライスト・チウンザ | ロック | [ウェールズ代表](/national-teams/wales/) | 15 |
 | Ross VINTCENT | ロス・ヴィントセント | フランカー | [イタリア代表](/national-teams/italy/) | 10 |
 | Tom HOOPER | トム・フーパー | フランカー | [オーストラリア代表](/national-teams/australia/) | 4 |
-| Andrea ZAMBONIN | アンドレア・ザンボニン | ロック | イタリア代表 | 3 |
+| Andrea ZAMBONIN | アンドレア・ザンボニン | ロック | [イタリア代表](/national-teams/italy/) | 3 |
 
 ## その他在籍選手（2025-26シーズン）
 

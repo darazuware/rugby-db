@@ -7,4 +7,4 @@ source_diff: "2026-08-12_top14.json"
 draft: true
 ---
 
-[Guilhem LACAND](/players/guilhem-lacand/)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。
+[Guilhem LACAND](/teams/top14/toulouse/#p-guilhem-lacand)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。

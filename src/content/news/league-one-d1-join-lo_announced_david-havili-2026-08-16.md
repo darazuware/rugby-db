@@ -7,4 +7,4 @@ source_diff: "2026-08-16_league-one-d1.json"
 draft: false
 ---
 
-[デイヴィッド・ハヴィリ](/players/david-havili/)が[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
+[デイヴィッド・ハヴィリ](/teams/league-one/toshiba-brave-lupus-tokyo/#p-david-havili)が[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。

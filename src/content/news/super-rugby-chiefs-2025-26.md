@@ -26,8 +26,8 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "チーフス"]
 | Ollie NORRIS | オリー・ノリス | プロップ | [オーストラリア代表](/national-teams/australia/) | — |
 | Samisoni TAUKEI'AHO | サミソニ・タウケイアホ | フッカー | [ニュージーランド代表](/national-teams/new-zealand/) | 25 |
 | Tupou VAA'I | トゥポウ・ヴァアイ | ロック | [ニュージーランド代表](/national-teams/new-zealand/) | 22 |
-| Simon PARKER | サイモン・パーカー | フランカー/No8 | ニュージーランド代表 | — |
-| Samipeni FINAU | サミペニ・フィナウ | フランカー/No8 | [トンガ代表](/national-teams/tonga/) | — |
+| Simon PARKER | サイモン・パーカー | フランカー/No8 | [ニュージーランド代表](/national-teams/new-zealand/) | — |
+| Samipeni FINAU | [サミペニ・フィナウ](/players/samipeni-finau/) | フランカー/No8 | [トンガ代表](/national-teams/tonga/) | — |
 | Luke JACOBSON | ルーク・ジェイコブソン | フランカー/No8 | ニュージーランド代表 | 15 |
 | Wallace SITITI | ウォレス・シティティ | フランカー/No8 | ニュージーランド代表 | — |
 | Cortez RATIMA | コルテス・ラティマ | スクラムハーフ | ニュージーランド代表 | — |

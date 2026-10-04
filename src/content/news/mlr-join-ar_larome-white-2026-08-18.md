@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[LaRome WHITE](/players/larome-white/)がca-legion（mlr）に加入した。
+LaRome WHITEがca-legion（mlr）に加入した。

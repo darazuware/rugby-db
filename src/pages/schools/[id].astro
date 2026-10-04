@@ -11,7 +11,8 @@ export const prerender = true;
 import Layout from "../../layouts/Layout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import {
-  canHaveIndividualPlayerPage,
+  getTeamPagePaths,
+  playerHref,
   getAllSchools,
   type Player,
   type School,
@@ -52,8 +53,9 @@ function sortByGradYearDesc(list: Player[]): Player[] {
 }
 
 // 個別ページのある選手（卒業生・現役プロ・代表等） / 個別ページの無い高校生（10のポリシー）
-const alumni = sortByGradYearDesc(players.filter(canHaveIndividualPlayerPage));
-const currentHsStudents = sortByGradYearDesc(players.filter((p) => !canHaveIndividualPlayerPage(p)));
+const alumni = sortByGradYearDesc(players.filter((p) => p.league !== "highschool"));
+const currentHsStudents = sortByGradYearDesc(players.filter((p) => p.league === "highschool"));
+const teamPaths = await getTeamPagePaths();
 
 const displayName = school.name;
 const metaDescParts = [
@@ -115,7 +117,7 @@ const metaDesc = metaDescParts.filter(Boolean).join("、") + "。masterデータ
                 return (
                   <li>
                     <a
-                      href={`/players/${p.slug}`}
+                      href={playerHref(p, teamPaths) === "/players/" ? undefined : playerHref(p, teamPaths)}
                       class="flex flex-col gap-1 p-4 rounded-2xl bg-background border border-border-dim hover:border-yellow-400/50 transition-all group"
                     >
                       <div class="flex items-center justify-between gap-2">

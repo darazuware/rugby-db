@@ -28,7 +28,7 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "グロスター"]
 | Ross BYRNE | ロス・バーン | フライハーフ | [アイルランド代表](/national-teams/ireland/) | 21 |
 | Jack SINGLETON | ジャック・シングルトン | フッカー | [イングランド代表](/national-teams/england/) | 2 |
 | Josh HATHAWAY | ジョシュ・ハサウェイ | フルバック | [ウェールズ代表](/national-teams/wales/) | 2 |
-| Max LLEWELLYN | マックス・ルウェリン | センター | ウェールズ代表 | 5 |
+| Max LLEWELLYN | マックス・ルウェリン | センター | [ウェールズ代表](/national-teams/wales/) | 5 |
 | Freddie THOMAS | フレディ・トーマス | フランカー | ウェールズ代表 | 1 |
 
 ## その他在籍選手（2025-26シーズン）

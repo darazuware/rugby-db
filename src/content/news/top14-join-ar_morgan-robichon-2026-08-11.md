@@ -7,4 +7,4 @@ source_diff: "2026-08-11_top14.json"
 draft: true
 ---
 
-[Morgan ROBICHON](/players/morgan-robichon/)が[リヨン](/teams/top14/lyon/)（Top14）に加入した。
+[Morgan ROBICHON](/teams/top14/lyon/#p-morgan-robichon)が[リヨン](/teams/top14/lyon/)（Top14）に加入した。

@@ -7,4 +7,4 @@ source_diff: "2026-08-10_top14.json"
 draft: true
 ---
 
-[Hector DARBES](/players/hector-darbes/)が[モンペリエ](/teams/top14/montpellier/)（Top14）に加入した。
+[Hector DARBES](/teams/top14/montpellier/#p-hector-darbes)が[モンペリエ](/teams/top14/montpellier/)（Top14）に加入した。

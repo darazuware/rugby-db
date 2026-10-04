@@ -1,0 +1,1900 @@
+{
+ "_note": "scripts/build_player_pages.py が生成。force_include/force_exclude のみ手編集可",
+ "generated_at": "2026-10-04T23:00:58+09:00",
+ "criteria": "K1|K2|K3(mention>=2)",
+ "force_include": [
+  "lo_484310"
+ ],
+ "force_exclude": [],
+ "players": [
+  {
+   "id": "ar_adam-coleman",
+   "slug": "adam-coleman",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_adam-zapĘdowski",
+   "slug": "adam-zapĘdowski",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_aiden-stait",
+   "slug": "aiden-stait",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_akenzua-al-kareem-abdul-khalik",
+   "slug": "akenzua-al-kareem-abdul-khalik",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_alec-clarey",
+   "slug": "alec-clarey",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_aleki-lutui",
+   "slug": "aleki-lutui",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_alex-wardell",
+   "slug": "alex-wardell",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_alfie-barbeary",
+   "slug": "alfie-barbeary",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_alvaro-garcia",
+   "slug": "alvaro-garcia",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_amine-maalla",
+   "slug": "amine-maalla",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_ander-etchebarne-sanchez",
+   "slug": "ander-etchebarne-sanchez",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_archie-griffin",
+   "slug": "archie-griffin",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_archie-stanley",
+   "slug": "archie-stanley",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_arthur-cordwell",
+   "slug": "arthur-cordwell",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_arthur-green",
+   "slug": "arthur-green",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_arthur-iturria",
+   "slug": "arthur-iturria",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_badri-tsikhistavi",
+   "slug": "badri-tsikhistavi",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_bailey-trew",
+   "slug": "bailey-trew",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_beck-cutting",
+   "slug": "beck-cutting",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_ben-chapman",
+   "slug": "ben-chapman",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_ben-pogson",
+   "slug": "ben-pogson",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_ben-tameifuna",
+   "slug": "ben-tameifuna",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_benjamin-lahet",
+   "slug": "benjamin-lahet",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_beno--obano-",
+   "slug": "beno--obano-",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_bertrand-mistri",
+   "slug": "bertrand-mistri",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_billy-sela",
+   "slug": "billy-sela",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_carlu-sadie",
+   "slug": "carlu-sadie",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_charlie-ewels",
+   "slug": "charlie-ewels",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_chris-cloete",
+   "slug": "chris-cloete",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_clement-maynadier",
+   "slug": "clement-maynadier",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_connor-sa",
+   "slug": "connor-sa",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_connor-treacey",
+   "slug": "connor-treacey",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_cyle-brink",
+   "slug": "cyle-brink",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_cyril-cazeaux",
+   "slug": "cyril-cazeaux",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_d-arcy-rae",
+   "slug": "d-arcy-rae",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_dalton-papali-i",
+   "slug": "dalton-papali-i",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_damien-kuilagi",
+   "slug": "damien-kuilagi",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_daniel-marais",
+   "slug": "daniel-marais",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_darcy-swain",
+   "slug": "darcy-swain",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_denis-marchois",
+   "slug": "denis-marchois",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_deon-slabbert",
+   "slug": "deon-slabbert",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_diego-escobar",
+   "slug": "diego-escobar",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_dillon-lewis",
+   "slug": "dillon-lewis",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_dom-hardman",
+   "slug": "dom-hardman",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_dylan-indaburu",
+   "slug": "dylan-indaburu",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_dylan-smith",
+   "slug": "dylan-smith",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_eddie-erskine",
+   "slug": "eddie-erskine",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_elliot-stooke",
+   "slug": "elliot-stooke",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_enzo-fernandes",
+   "slug": "enzo-fernandes",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_esei-ha-angana",
+   "slug": "esei-ha-angana",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_ethan-staddon",
+   "slug": "ethan-staddon",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_ewan-richards",
+   "slug": "ewan-richards",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_facundo-bosch",
+   "slug": "facundo-bosch",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_finlay-christie",
+   "slug": "finlay-christie",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_florian-vives",
+   "slug": "florian-vives",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_gabriel-oghre",
+   "slug": "gabriel-oghre",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_gabriel-rolland",
+   "slug": "gabriel-rolland",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_gael-fickou",
+   "slug": "gael-fickou",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_gareth-parry",
+   "slug": "gareth-parry",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_griff-evans",
+   "slug": "griff-evans",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_guido-petti",
+   "slug": "guido-petti",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_gwilym-evans",
+   "slug": "gwilym-evans",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_hame-faiva",
+   "slug": "hame-faiva",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_harvey-beaton",
+   "slug": "harvey-beaton",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_harvey-cuckson",
+   "slug": "harvey-cuckson",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_hendro-hattingh",
+   "slug": "hendro-hattingh",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_hoskins-sotutu",
+   "slug": "hoskins-sotutu",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_hugo-afonso",
+   "slug": "hugo-afonso",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_hugo-leclerq",
+   "slug": "hugo-leclerq",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_ignacio-valdes-leiva",
+   "slug": "ignacio-valdes-leiva",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_imanol-thicoipe",
+   "slug": "imanol-thicoipe",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_ioan-emanuel",
+   "slug": "ioan-emanuel",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_ion-neculai",
+   "slug": "ion-neculai",
+   "reasons": [
+    "K2"
+   ]
+  },
+  {
+   "id": "ar_jack-bennett",
+   "slug": "jack-bennett",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_jacques-du-plessis",
+   "slug": "jacques-du-plessis",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_jacques-nguimbous",
+   "slug": "jacques-nguimbous",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_james-flynn",
+   "slug": "james-flynn",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_james-johnston",
+   "slug": "james-johnston",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_james-ratti",
+   "slug": "james-ratti",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_jandre-marais",
+   "slug": "jandre-marais",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_janko-swanepoel",
+   "slug": "janko-swanepoel",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_jannes-kirsten",
+   "slug": "jannes-kirsten",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_jasper-mcguire",
+   "slug": "jasper-mcguire",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_jasper-spandler",
+   "slug": "jasper-spandler",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_jefferson-poirot",
+   "slug": "jefferson-poirot",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_jevaughn-warren",
+   "slug": "jevaughn-warren",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_joe-peard",
+   "slug": "joe-peard",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_joe-van-zyl",
+   "slug": "joe-van-zyl",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_johannes-jonker",
+   "slug": "johannes-jonker",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_john-stewart",
+   "slug": "john-stewart",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_jokin-duhalt",
+   "slug": "jokin-duhalt",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_jon-zabala",
+   "slug": "jon-zabala",
+   "reasons": [
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_josh-mcnally",
+   "slug": "josh-mcnally",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_josua-nadredre",
+   "slug": "josua-nadredre",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_juan-harinordoquy",
+   "slug": "juan-harinordoquy",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_juan-schoeman",
+   "slug": "juan-schoeman",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_jude-trarieux",
+   "slug": "jude-trarieux",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_jules-coulon",
+   "slug": "jules-coulon",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_jules-derre",
+   "slug": "jules-derre",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_jules-martin-bonnard",
+   "slug": "jules-martin-bonnard",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_kaden-pearce-paul",
+   "slug": "kaden-pearce-paul",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_kapeli-pifeleti-jr",
+   "slug": "kapeli-pifeleti-jr",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_kieran-verden",
+   "slug": "kieran-verden",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_konstantine-mikautadze",
+   "slug": "konstantine-mikautadze",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_kurt-eklund",
+   "slug": "kurt-eklund",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_lekso-kaulashvili",
+   "slug": "lekso-kaulashvili",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_lenny-alifanety",
+   "slug": "lenny-alifanety",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_leo-camara",
+   "slug": "leo-camara",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_leo-chauvin",
+   "slug": "leo-chauvin",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_louis-ortolan",
+   "slug": "louis-ortolan",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_lua-makisi",
+   "slug": "lua-makisi",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_lucas-official",
+   "slug": "lucas-official",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_lucas-paulos",
+   "slug": "lucas-paulos",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_luke-tagi",
+   "slug": "luke-tagi",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_luke-yendle",
+   "slug": "luke-yendle",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_manex-ariceta",
+   "slug": "manex-ariceta",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_manuel-leindekar",
+   "slug": "manuel-leindekar",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_martin-villar",
+   "slug": "martin-villar",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_mateo-guerin",
+   "slug": "mateo-guerin",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_matheo-frisach",
+   "slug": "matheo-frisach",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_matheo-futhazar",
+   "slug": "matheo-futhazar",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_mathias-bonal",
+   "slug": "mathias-bonal",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_matis-perchaud",
+   "slug": "matis-perchaud",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_max-bru",
+   "slug": "max-bru",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_max-eke",
+   "slug": "max-eke",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_max-pearce",
+   "slug": "max-pearce",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_maxime-lamothe",
+   "slug": "maxime-lamothe",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_maxime-vitoux",
+   "slug": "maxime-vitoux",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_merwe-olivier",
+   "slug": "merwe-olivier",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_mihlali-mosi",
+   "slug": "mihlali-mosi",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_mike-stolberg",
+   "slug": "mike-stolberg",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_mikey-summerfield",
+   "slug": "mikey-summerfield",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_muller-uys",
+   "slug": "muller-uys",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_nathan-thibeau",
+   "slug": "nathan-thibeau",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_nial-annett",
+   "slug": "nial-annett",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_nico-jones",
+   "slug": "nico-jones",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_pablo-dimcheff",
+   "slug": "pablo-dimcheff",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_pascal-cotet",
+   "slug": "pascal-cotet",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_peio-dospital",
+   "slug": "peio-dospital",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_petero-mailulu",
+   "slug": "petero-mailulu",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_phumzile-maqondwana",
+   "slug": "phumzile-maqondwana",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_pierre-castillon",
+   "slug": "pierre-castillon",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_pieter-scholtz",
+   "slug": "pieter-scholtz",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_quentin-bethune",
+   "slug": "quentin-bethune",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_quinn-roux",
+   "slug": "quinn-roux",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_rafael-cayuela",
+   "slug": "rafael-cayuela",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_robert-hunt",
+   "slug": "robert-hunt",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_rory-cameron",
+   "slug": "rory-cameron",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_ruan-nortje",
+   "slug": "ruan-nortje",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_ruben-pargade",
+   "slug": "ruben-pargade",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_ruben-van-heerden",
+   "slug": "ruben-van-heerden",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_sam-crean",
+   "slug": "sam-crean",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_samson-adejimi",
+   "slug": "samson-adejimi",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_samuel-ezeala",
+   "slug": "samuel-ezeala",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_santiago-videla",
+   "slug": "santiago-videla",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_scott-kirk",
+   "slug": "scott-kirk",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_seb-lombard",
+   "slug": "seb-lombard",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_sesoni-tamani",
+   "slug": "sesoni-tamani",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_simphiwe-matanzima",
+   "slug": "simphiwe-matanzima",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_sipili-falatea",
+   "slug": "sipili-falatea",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_sojiro-otsuka",
+   "slug": "sojiro-otsuka",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_swan-cormenier",
+   "slug": "swan-cormenier",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_syd-blackmore",
+   "slug": "syd-blackmore",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_tevita-tatafu",
+   "slug": "tevita-tatafu",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_theo-mcfarland",
+   "slug": "theo-mcfarland",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_thomas-acquier",
+   "slug": "thomas-acquier",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_thomas-ceyte",
+   "slug": "thomas-ceyte",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_thomas-du-toit",
+   "slug": "thomas-du-toit",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_thomas-jolmes",
+   "slug": "thomas-jolmes",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_tiaan-lange",
+   "slug": "tiaan-lange",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_tielman-nieuwoudt",
+   "slug": "tielman-nieuwoudt",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_tom-dunn",
+   "slug": "tom-dunn",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_tom-nogueira",
+   "slug": "tom-nogueira",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_toma-akino-taufa",
+   "slug": "toma-akino-taufa",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_txomin-ithurbide",
+   "slug": "txomin-ithurbide",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_ugo-boniface",
+   "slug": "ugo-boniface",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_vincent-giudicelli",
+   "slug": "vincent-giudicelli",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_warner-dearns",
+   "slug": "warner-dearns",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_wilco-louw",
+   "slug": "wilco-louw",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_will-stuart",
+   "slug": "will-stuart",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_yahnis-el-maslouhi",
+   "slug": "yahnis-el-maslouhi",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_yanick-tomo-engouang-nze",
+   "slug": "yanick-tomo-engouang-nze",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_yon-caperaa",
+   "slug": "yon-caperaa",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_yonn-ramond",
+   "slug": "yonn-ramond",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_younes-bekhti",
+   "slug": "younes-bekhti",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_zac-nearchou",
+   "slug": "zac-nearchou",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "ar_zaccharie-affane",
+   "slug": "zaccharie-affane",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "jrfu_callup_haruto-watanabe",
+   "slug": "jrfu_callup_haruto-watanabe",
+   "reasons": [
+    "K1"
+   ]
+  },
+  {
+   "id": "jrfu_callup_shogo-nakano",
+   "slug": "jrfu_callup_shogo-nakano",
+   "reasons": [
+    "K1"
+   ]
+  },
+  {
+   "id": "jrfu_callup_takuro-hojo",
+   "slug": "jrfu_callup_takuro-hojo",
+   "reasons": [
+    "K1"
+   ]
+  },
+  {
+   "id": "jrfu_callup_waisake-raratubua",
+   "slug": "jrfu_callup_waisake-raratubua",
+   "reasons": [
+    "K1"
+   ]
+  },
+  {
+   "id": "jrfu_callup_yota-kamimori",
+   "slug": "jrfu_callup_yota-kamimori",
+   "reasons": [
+    "K1"
+   ]
+  },
+  {
+   "id": "jrfu_national_511552",
+   "slug": "shin-takeuchi-511552",
+   "reasons": [
+    "K1"
+   ]
+  },
+  {
+   "id": "jrfu_national_511566",
+   "slug": "ruan-botha-511566",
+   "reasons": [
+    "K1"
+   ]
+  },
+  {
+   "id": "jrfu_u23_497504",
+   "slug": "ryunosuke-ito-497504",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_483497",
+   "slug": "samisoni-tua-483497",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_483750",
+   "slug": "haruto-kida-483750",
+   "reasons": [
+    "K1",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_483767",
+   "slug": "faulua-makisi-483767",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_483782",
+   "slug": "izi-sword-483782",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_483785",
+   "slug": "yuya-hirose-483785",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_483786",
+   "slug": "hayate-era-483786",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_483933",
+   "slug": "kazuma-ueda-483933",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_483934",
+   "slug": "itsuki-kamimura-483934",
+   "reasons": [
+    "K1",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_483940",
+   "slug": "inoke-burua-483940",
+   "reasons": [
+    "K1",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_483942",
+   "slug": "tiennan-costley-483942",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_483951",
+   "slug": "junta-hamano-483951",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_483953",
+   "slug": "seungsin-lee-483953",
+   "reasons": [
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_483967",
+   "slug": "hiroshi-yamashita-483967",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_484033",
+   "slug": "kenji-sato-484033",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_484045",
+   "slug": "tomoki-osada-484045",
+   "reasons": [
+    "K1",
+    "K2"
+   ]
+  },
+  {
+   "id": "lo_484053",
+   "slug": "esei-haangana-484053",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_484055",
+   "slug": "ben-gunter-484055",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_484057",
+   "slug": "dylan-riley-484057",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_484058",
+   "slug": "sho-furuhata-484058",
+   "reasons": [
+    "K2"
+   ]
+  },
+  {
+   "id": "lo_484154",
+   "slug": "takumi-inaba-484154",
+   "reasons": [
+    "K1"
+   ]
+  },
+  {
+   "id": "lo_484173",
+   "slug": "sam-greene-484173",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_484310",
+   "slug": "saimoni-vunilagi-484310",
+   "reasons": [
+    "force"
+   ]
+  },
+  {
+   "id": "lo_484319",
+   "slug": "kotaro-matsushima-484319",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_484344",
+   "slug": "michael-stolberg-484344",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_484358",
+   "slug": "michael-leitch-484358",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_484365",
+   "slug": "takuro-matsunaga-484365",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_484372",
+   "slug": "shoichi-takagi-484372",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_484466",
+   "slug": "kazuki-himeno-484466",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_484693",
+   "slug": "kanato-hirano-484693",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_484728",
+   "slug": "charlie-lawrence-484728",
+   "reasons": [
+    "K2"
+   ]
+  },
+  {
+   "id": "lo_484847",
+   "slug": "takato-okabe-484847",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_484849",
+   "slug": "ryosuke-iwaihara-484849",
+   "reasons": [
+    "K1",
+    "K2"
+   ]
+  },
+  {
+   "id": "lo_484853",
+   "slug": "kippei-ishida-484853",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_484878",
+   "slug": "shu-yamamoto-484878",
+   "reasons": [
+    "K2"
+   ]
+  },
+  {
+   "id": "lo_484880",
+   "slug": "yuki-ikeda-484880",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_484885",
+   "slug": "taira-main-484885",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_485500",
+   "slug": "shinobu-fujiwara-485500",
+   "reasons": [
+    "K1",
+    "K2"
+   ]
+  },
+  {
+   "id": "lo_485708",
+   "slug": "jack-cornelsen-485708",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_485712",
+   "slug": "shuhei-takeuchi-485712",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_485713",
+   "slug": "shodai-hirao-485713",
+   "reasons": [
+    "K2"
+   ]
+  },
+  {
+   "id": "lo_485714",
+   "slug": "kenta-fukuda-485714",
+   "reasons": [
+    "K1",
+    "K2"
+   ]
+  },
+  {
+   "id": "lo_485715",
+   "slug": "kenta-kobayashi-485715",
+   "reasons": [
+    "K2"
+   ]
+  },
+  {
+   "id": "lo_485716",
+   "slug": "kanji-shimokawa-485716",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_485719",
+   "slug": "harry-hockings-485719",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_486437",
+   "slug": "keijiro-tamefusa-486437",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_486439",
+   "slug": "shinya-komura-486439",
+   "reasons": [
+    "K1"
+   ]
+  },
+  {
+   "id": "lo_493618",
+   "slug": "shunsuke-uenobo-493618",
+   "reasons": [
+    "K1",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_announced_antonio-shalfoon",
+   "slug": "antonio-shalfoon",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_announced_aphelele-fassi",
+   "slug": "aphelele-fassi",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_announced_ed-kasprowicz",
+   "slug": "ed-kasprowicz",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_announced_george-bridge",
+   "slug": "george-bridge",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_announced_grant-williams",
+   "slug": "grant-williams",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_announced_hunter-paisami",
+   "slug": "hunter-paisami",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_announced_jack-dempsey",
+   "slug": "jack-dempsey",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_announced_james-lowe",
+   "slug": "james-lowe",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_announced_jonah-lowe",
+   "slug": "jonah-lowe",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_announced_jumpei-ogura",
+   "slug": "jumpei-ogura",
+   "reasons": [
+    "K1"
+   ]
+  },
+  {
+   "id": "lo_announced_keita-ando",
+   "slug": "keita-ando",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_announced_mamoru-harada",
+   "slug": "mamoru-harada",
+   "reasons": [
+    "K1",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_announced_naoto-saito",
+   "slug": "naoto-saito",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_announced_samipeni-finau",
+   "slug": "samipeni-finau",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_announced_stephen-perofeta",
+   "slug": "stephen-perofeta",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_announced_tanielu-terea",
+   "slug": "tanielu-terea",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_announced_toshi-kurita-butlin",
+   "slug": "toshi-kurita-butlin",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "univ_早稲田大学__矢崎由高",
+   "slug": "univ-早稲田大学-矢崎由高",
+   "reasons": [
+    "K1",
+    "K2",
+    "K3"
+   ]
+  }
+ ]
+}

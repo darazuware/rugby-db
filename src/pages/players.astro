@@ -2,17 +2,82 @@
 export const prerender = true;
 import Layout from "../layouts/Layout.astro";
 import Breadcrumbs from "../components/Breadcrumbs.astro";
-import PlayerList from "../components/PlayerList";
-import { getCollection } from "astro:content";
+import { getAllPlayers, getAllTeams, isIndexablePlayer, teamDisplayName } from "../lib/master";
+import { positionJa } from "../lib/positions";
 
-const allPlayers = await getCollection("players");
+// 注目選手一覧: 個別ページを持つ選手（data/manual/player_pages.json）のみをサーバー描画する。
+// 全選手の名簿は各チームページ（/teams/）にある。
+const [players, teams] = await Promise.all([getAllPlayers(), getAllTeams()]);
+const teamName = new Map(teams.map((t) => [t.id, teamDisplayName(t)]));
+
+const featured = players.filter(isIndexablePlayer);
+
+type Group = { key: string; label: string; match: (p: (typeof featured)[number]) => boolean };
+const GROUPS: Group[] = [
+  { key: "japan", label: "日本代表・代表候補", match: (p) => p.team_id === "japan" || p.caps?.team === "Japan" },
+  { key: "lo", label: "リーグワン", match: (p) => p.league.startsWith("league-one") },
+  { key: "premiership", label: "プレミアシップ", match: (p) => p.league === "premiership" },
+  { key: "top14", label: "TOP14", match: (p) => p.league === "top14" },
+  { key: "urc", label: "URC", match: (p) => p.league === "urc" },
+  { key: "super-rugby", label: "スーパーラグビー", match: (p) => p.league === "super-rugby" },
+];
+
+const used = new Set<string>();
+const sections = GROUPS.map((g) => {
+  const list = featured.filter((p) => !used.has(p.id) && g.match(p));
+  list.forEach((p) => used.add(p.id));
+  return { ...g, list };
+});
+const others = featured.filter((p) => !used.has(p.id));
+if (others.length > 0) {
+  sections.push({ key: "others", label: "その他", match: () => true, list: others });
+}
+const visibleSections = sections.filter((s) => s.list.length > 0);
+
+const displayName = (p: (typeof featured)[number]) => p.name_ja || p.name_en || p.slug;
 ---
 
-<Layout title="選手名鑑 | RUGBY PICKS">
-	<div class="max-w-7xl mx-auto px-4 py-8">
-		<Breadcrumbs items={[{ label: "選手名鑑" }]} />
-		<div class="mb-10">
-			<PlayerList initialPlayers={[]} client:load />
-		</div>
-	</div>
+<Layout
+  title="注目選手 | RUGBY PICKS"
+  description={`日本代表・代表候補をはじめ、関連記事のある注目選手${featured.length}人のプロフィール一覧。全選手の名簿は各チームページから確認できます。`}
+>
+  <div class="max-w-7xl mx-auto px-4 py-8">
+    <Breadcrumbs items={[{ label: "注目選手" }]} />
+
+    <header class="mb-10">
+      <h1 class="text-3xl md:text-5xl font-black text-foreground tracking-tighter mb-4">注目選手</h1>
+      <p class="text-foreground/60 font-bold border-l-4 border-yellow-400 pl-4 leading-relaxed">
+        日本代表・代表候補、独自の紹介素材や関連記事がある選手のプロフィールを掲載しています（{featured.length}人）。
+        上記以外の選手は、各<a href="/teams/" class="text-yellow-600 hover:underline">チームページ</a>の選手名簿（名前・ポジション・出身校・年齢）で確認できます。
+      </p>
+    </header>
+
+    {visibleSections.map((section) => (
+      <section class="mb-12" id={section.key}>
+        <div class="flex items-center gap-4 mb-6">
+          <h2 class="text-xl font-black text-foreground border-l-4 border-yellow-400 pl-4">{section.label}</h2>
+          <span class="px-3 py-1 bg-card border border-border-dim rounded-lg text-[10px] font-black text-foreground/40">
+            {section.list.length}人
+          </span>
+        </div>
+        <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3">
+          {section.list.map((p) => (
+            <li>
+              <a
+                href={`/players/${p.slug}/`}
+                class="flex flex-col gap-1 p-4 rounded-2xl bg-card border border-border-dim hover:border-yellow-400/50 transition-all group"
+              >
+                <span class="font-black text-foreground group-hover:text-yellow-600 transition-colors truncate">
+                  {displayName(p)}
+                </span>
+                <span class="text-[11px] font-bold text-foreground/50 truncate">
+                  {[positionJa(p.position), p.team_id ? teamName.get(p.team_id) : null].filter(Boolean).join(" ／ ") || "—"}
+                </span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </div>
 </Layout>

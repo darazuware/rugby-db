@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[Connor ROBINSON](/players/connor-robinson/)がchicago（mlr）に加入した。
+Connor ROBINSONがchicago（mlr）に加入した。

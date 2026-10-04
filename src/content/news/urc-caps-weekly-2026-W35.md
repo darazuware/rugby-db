@@ -7,4 +7,4 @@ source_diff: "2026-08-26_urc.json"
 draft: false
 ---
 
-- [Damian WILLEMSE](/players/damian-willemse/): South Africa代表48→65キャップ
+- [Damian WILLEMSE](/teams/urc/dhl-stormers/#p-damian-willemse): South Africa代表48→65キャップ

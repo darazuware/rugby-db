@@ -7,92 +7,92 @@ source_diff: "2026-09-21_national.json"
 draft: false
 ---
 
-- [Aleksandre KUNTELIA](/players/aleksandre-kuntelia/): Georgia代表6→15キャップ
-- [Alex MAUGHAN](/players/alex-maughan/): Usa代表6→13キャップ
+- [Aleksandre KUNTELIA](/teams/top14/la-rochelle/#p-aleksandre-kuntelia): Georgia代表6→15キャップ
+- Alex MAUGHAN: Usa代表6→13キャップ
 - [Álvaro GARCIA](/players/alvaro-garcia/): Spain代表23→28キャップ
-- [Antoine HASTOY](/players/antoine-hastoy/): France代表15→17キャップ
-- [Arturo TEN HOEVER](/players/arturo-ten-hoever/): Uruguay代表3→4キャップ
-- [Austin CREIGHTON](/players/austin-creighton/): Canada代表5→6キャップ
-- [Barnaby WADDELL](/players/barnaby-waddell/): Canada代表2→6キャップ
-- [Ben LESAGE](/players/ben-lesage/): Canada代表18→20キャップ
-- [Ben WHITE](/players/ben-white/): Scotland代表56→57キャップ
-- [Ben BONASSO](/players/benjamin-bonasso/): Usa代表16→19キャップ
-- [Bryce WORDEN](/players/bryce-worden/): Canada代表1→4キャップ
-- [Caleb MUNTZ](/players/caleb-muntz/): Fiji代表35→40キャップ
-- [Charlie ABEL](/players/charlie-abel/): Usa代表1→3キャップ
-- [Christopher HILSENBECK](/players/christopher-hilsenbeck/): Usa代表10→13キャップ
-- [Cody NHANALA](/players/cody-nhanala/): Canada代表3→4キャップ
-- [Daragh DOYLE](/players/daragh-doyle/): Canada代表6→9キャップ
-- [Demba BAMBA](/players/demba-bamba/): France代表32→37キャップ
-- [Dewald KOTZE](/players/dewald-kotze/): Canada代表9→15キャップ
-- [Emerson PRIOR](/players/emerson-prior/): Canada代表7→10キャップ
+- [Antoine HASTOY](/teams/top14/la-rochelle/#p-antoine-hastoy): France代表15→17キャップ
+- [Arturo TEN HOEVER](/national-teams/uruguay/#p-arturo-ten-hoever): Uruguay代表3→4キャップ
+- [Austin CREIGHTON](/national-teams/canada/#p-austin-creighton): Canada代表5→6キャップ
+- [Barnaby WADDELL](/national-teams/canada/#p-barnaby-waddell): Canada代表2→6キャップ
+- Ben LESAGE: Canada代表18→20キャップ
+- [Ben WHITE](/teams/top14/toulon/#p-ben-white): Scotland代表56→57キャップ
+- Ben BONASSO: Usa代表16→19キャップ
+- [Bryce WORDEN](/national-teams/canada/#p-bryce-worden): Canada代表1→4キャップ
+- [Caleb MUNTZ](/national-teams/fiji/#p-caleb-muntz): Fiji代表35→40キャップ
+- Charlie ABEL: Usa代表1→3キャップ
+- Christopher HILSENBECK: Usa代表10→13キャップ
+- [Cody NHANALA](/national-teams/canada/#p-cody-nhanala): Canada代表3→4キャップ
+- [Daragh DOYLE](/national-teams/canada/#p-daragh-doyle): Canada代表6→9キャップ
+- [Demba BAMBA](/teams/top14/racing-92/#p-demba-bamba): France代表32→37キャップ
+- Dewald KOTZE: Canada代表9→15キャップ
+- [Emerson PRIOR](/national-teams/canada/#p-emerson-prior): Canada代表7→10キャップ
 - [Esei HA'ANGANA](/players/esei-ha-angana/): Japan代表1→5キャップ
-- [Ethan HOOKER](/players/ethan-hooker/): South Africa代表14→16キャップ
-- [Faka'osi PIFELETI](/players/faka-osi-pifeleti/): Usa代表2→6キャップ
-- [Foster DEWITT](/players/foster-dewitt/): Canada代表6→14キャップ
-- [Huw JONES](/players/huw-jones/): Scotland代表61→93キャップ
-- [Iakopo MAPU](/players/iakopo-petelo-mapu/): Samoa代表26→27キャップ
-- [Iñaki AYARZA](/players/inaki-ayarza/): Chile代表28→30キャップ
-- [Inoke BURUA](/players/inoke-burua/): Japan代表1→3キャップ
-- [Isaiah ARMSTRONG-RAVULA](/players/isaiah-ravula/): Fiji代表13→15キャップ
-- [Isikeli RABITU](/players/isikeli-rabitu/): Fiji代表1→2キャップ
-- [Isoa NASILASILA](/players/isoa-nasilasila/): Fiji代表42→46キャップ
-- [Izzak KELLY](/players/izzak-kelly/): Canada代表19→28キャップ
-- [Jacob INCE](/players/jacob-ince/): Canada代表4→7キャップ
-- [Jamie ARMSTRONG](/players/jamie-armstrong/): Canada代表1→2キャップ
-- [Jason DAMM](/players/jason-damm/): Usa代表20→30キャップ
-- [Jason HIGGINS](/players/jason-higgins/): Canada代表25→41キャップ
-- [Jesse KILGOUR](/players/jesse-kilgour/): Canada代表3→4キャップ
-- [Joaquín OVIEDO](/players/joaquin-oviedo/): Argentina代表16→18キャップ
-- [Joël MERKLER](/players/joel-merkler/): Spain代表13→16キャップ
-- [Joji NASOVA](/players/joji-nasova-/): Fiji代表4→5キャップ
+- [Ethan HOOKER](/teams/urc/hollywoodbets-sharks/#p-ethan-hooker): South Africa代表14→16キャップ
+- Faka'osi PIFELETI: Usa代表2→6キャップ
+- [Foster DEWITT](/national-teams/canada/#p-foster-dewitt): Canada代表6→14キャップ
+- [Huw JONES](/teams/top14/toulon/#p-huw-jones): Scotland代表61→93キャップ
+- [Iakopo MAPU](/national-teams/samoa/#p-iakopo-petelo-mapu): Samoa代表26→27キャップ
+- [Iñaki AYARZA](/national-teams/chile/#p-inaki-ayarza): Chile代表28→30キャップ
+- [Inoke BURUA](/players/inoke-burua-483940/): Japan代表1→3キャップ
+- [Isaiah ARMSTRONG-RAVULA](/teams/super-rugby/fijian-drua/#p-isaiah-ravula): Fiji代表13→15キャップ
+- [Isikeli RABITU](/teams/super-rugby/fijian-drua/#p-isikeli-rabitu): Fiji代表1→2キャップ
+- [Isoa NASILASILA](/teams/super-rugby/fijian-drua/#p-isoa-nasilasila): Fiji代表42→46キャップ
+- [Izzak KELLY](/national-teams/canada/#p-izzak-kelly): Canada代表19→28キャップ
+- [Jacob INCE](/national-teams/canada/#p-jacob-ince): Canada代表4→7キャップ
+- [Jamie ARMSTRONG](/national-teams/canada/#p-jamie-armstrong): Canada代表1→2キャップ
+- Jason DAMM: Usa代表20→30キャップ
+- [Jason HIGGINS](/national-teams/canada/#p-jason-higgins): Canada代表25→41キャップ
+- [Jesse KILGOUR](/national-teams/canada/#p-jesse-kilgour): Canada代表3→4キャップ
+- [Joaquín OVIEDO](/teams/top14/perpignan/#p-joaquin-oviedo): Argentina代表16→18キャップ
+- [Joël MERKLER](/teams/top14/toulouse/#p-joel-merkler): Spain代表13→16キャップ
+- [Joji NASOVA](/teams/super-rugby/fijian-drua/#p-joji-nasova-): Fiji代表4→5キャップ
 - [Jon ZABALA](/players/jon-zabala/): Spain代表37→43キャップ
-- [Spencer JONES](/players/jones-spencer/): Canada代表27→28キャップ
-- [Juan Cruz MALLÍA](/players/juan-cruz-mallia/): Argentina代表45→65キャップ
-- [Juan Martin SCELZO](/players/juan-martin-scelzo/): Argentina代表2→3キャップ
-- [Justo PICCARDO](/players/justo-piccardo/): Argentina代表17→21キャップ
-- [Kavaia TAGIVETAUA](/players/kavaia-tagivetaua/): Fiji代表1→2キャップ
-- [Kenji SATO](/players/kenji-sato-/): Japan代表13→15キャップ
+- [Spencer JONES](/national-teams/canada/#p-jones-spencer): Canada代表27→28キャップ
+- [Juan Cruz MALLÍA](/teams/top14/toulouse/#p-juan-cruz-mallia): Argentina代表45→65キャップ
+- [Juan Martin SCELZO](/teams/top14/paris/#p-juan-martin-scelzo): Argentina代表2→3キャップ
+- [Justo PICCARDO](/teams/top14/montpellier/#p-justo-piccardo): Argentina代表17→21キャップ
+- [Kavaia TAGIVETAUA](/teams/super-rugby/fijian-drua/#p-kavaia-tagivetaua): Fiji代表1→2キャップ
+- [Kenji SATO](/players/kenji-sato-484033/): Japan代表13→15キャップ
 - [Konstantine MIKAUTADZE](/players/konstantine-mikautadze/): Georgia代表83→84キャップ
-- [Kyle STEEVES](/players/kyle-steeves/): Canada代表7→14キャップ
-- [Kyle TREMBLAY](/players/kyle-tremblay/): Canada代表11→16キャップ
-- [Lance WILLIAMS](/players/lance-williams/): Usa代表1→2キャップ
-- [Levani BOTIA](/players/levani-botia/): Fiji代表35→38キャップ
-- [Liam JAMES](/players/liam-james/): Canada代表4→5キャップ
+- Kyle STEEVES: Canada代表7→14キャップ
+- [Kyle TREMBLAY](/national-teams/canada/#p-kyle-tremblay): Canada代表11→16キャップ
+- Lance WILLIAMS: Usa代表1→2キャップ
+- [Levani BOTIA](/teams/top14/la-rochelle/#p-levani-botia): Fiji代表35→38キャップ
+- [Liam JAMES](/national-teams/canada/#p-liam-james): Canada代表4→5キャップ
 - [Lua MAKISI](/players/lua-makisi/): Japan代表33→34キャップ
 - [Manex ARICETA](/players/manex-ariceta/): Spain代表11→16キャップ
-- [Mark O'KEEFFE](/players/mark-o-keeffe/): Usa代表6→8キャップ
-- [Mateo CARRERAS](/players/mateo-carreras/): Argentina代表31→41キャップ
-- [Matthieu JALIBERT](/players/matthieu-jalibert/): France代表50→56キャップ
-- [Maxime LUCU](/players/maxime-lucu/): France代表47→50キャップ
-- [Mesake DOGE](/players/mesake-doge/): Fiji代表14→33キャップ
-- [Mickaël GUILLARD](/players/mickael--guillard/): France代表26→27キャップ
+- Mark O'KEEFFE: Usa代表6→8キャップ
+- [Mateo CARRERAS](/teams/top14/bayonne/#p-mateo-carreras): Argentina代表31→41キャップ
+- [Matthieu JALIBERT](/teams/top14/bordeaux/#p-matthieu-jalibert): France代表50→56キャップ
+- [Maxime LUCU](/teams/top14/bordeaux/#p-maxime-lucu): France代表47→50キャップ
+- [Mesake DOGE](/teams/super-rugby/fijian-drua/#p-mesake-doge): Fiji代表14→33キャップ
+- [Mickaël GUILLARD](/teams/top14/lyon/#p-mickael--guillard): France代表26→27キャップ
 - [Mike STOLBERG](/players/mike-stolberg/): Japan代表4→8キャップ
-- [Mitch WILSON](/players/mitch-wilson/): Usa代表25→32キャップ
-- [Nathan DEN HOEDT](/players/nathan-den-hoedt/): Usa代表2→8キャップ
+- Mitch WILSON: Usa代表25→32キャップ
+- Nathan DEN HOEDT: Usa代表2→8キャップ
 - [Pablo DIMCHEFF](/players/pablo-dimcheff/): Italy代表6→7キャップ
-- [Paddy RYAN](/players/paddy-ryan-1998/): Usa代表32→34キャップ
-- [Patrick TUIPULOTU](/players/patrick-tuipulotu/): New Zealand代表68→86キャップ
-- [Paul BOUDEHENT](/players/paul-boudehent/): France代表25→31キャップ
-- [Payton TELEA-ILALIO](/players/payton-telea-ilalio/): Usa代表9→10キャップ
-- [Peni RAVAI](/players/peni-ravai/): Fiji代表44→69キャップ
-- [Ruben DE HAAS](/players/ruben-de-haas/): Usa代表49→51キャップ
-- [Ryunosuke ITO](/players/ryunosuke-ito/): Japan代表8→9キャップ
-- [Sam GREENE](/players/sam-greene/): Japan代表10→18キャップ
-- [Sam MILLER](/players/sam-miller/): Canada代表12→15キャップ
-- [Sam WYE](/players/sam-wye/): Fiji代表10→12キャップ
-- [Sireli MAQALA](/players/sireli-maqala/): Fiji代表18→21キャップ
-- [Takoda MCMULLIN](/players/takoda-mcmullin/): Canada代表7→10キャップ
-- [Takumi INABA](/players/takumi-inaba/): Japan代表1→2キャップ
-- [Tedo ABZHANDADZE](/players/tedo-abzhandadze/): Georgia代表92→102キャップ
-- [Temo MAYANAVANUA](/players/temo-mayanavanua/): Fiji代表20→51キャップ
-- [Tevita IKANIVERE](/players/tevita-ikanivere/): Fiji代表22→24キャップ
+- Paddy RYAN: Usa代表32→34キャップ
+- [Patrick TUIPULOTU](/teams/super-rugby/hurricanes/#p-patrick-tuipulotu): New Zealand代表68→86キャップ
+- [Paul BOUDEHENT](/teams/top14/la-rochelle/#p-paul-boudehent): France代表25→31キャップ
+- Payton TELEA-ILALIO: Usa代表9→10キャップ
+- [Peni RAVAI](/teams/super-rugby/fijian-drua/#p-peni-ravai): Fiji代表44→69キャップ
+- Ruben DE HAAS: Usa代表49→51キャップ
+- [Ryunosuke ITO](/players/ryunosuke-ito-497504/): Japan代表8→9キャップ
+- [Sam GREENE](/players/sam-greene-484173/): Japan代表10→18キャップ
+- [Sam MILLER](/national-teams/canada/#p-sam-miller): Canada代表12→15キャップ
+- [Sam WYE](/national-teams/fiji/#p-sam-wye): Fiji代表10→12キャップ
+- [Sireli MAQALA](/teams/top14/bayonne/#p-sireli-maqala): Fiji代表18→21キャップ
+- [Takoda MCMULLIN](/national-teams/canada/#p-takoda-mcmullin): Canada代表7→10キャップ
+- [Takumi INABA](/players/takumi-inaba-484154/): Japan代表1→2キャップ
+- [Tedo ABZHANDADZE](/national-teams/georgia/#p-tedo-abzhandadze): Georgia代表92→102キャップ
+- [Temo MAYANAVANUA](/teams/super-rugby/fijian-drua/#p-temo-mayanavanua): Fiji代表20→51キャップ
+- [Tevita IKANIVERE](/national-teams/fiji/#p-tevita-ikanivere): Fiji代表22→24キャップ
 - [Tevita TATAFU](/players/tevita-tatafu/): France代表3→4キャップ
-- [Thibaud FLAMENT](/players/thibaud-flament/): France代表38→52キャップ
-- [Thomas CRÉTU](/players/thomas-cretu/): Romania代表17→19キャップ
-- [Tiennan COSTLEY](/players/tiennan-costley/): Japan代表12→22キャップ
-- [Tyler ARDRON](/players/tyler-ardron/): Canada代表19→25キャップ
-- [Vasil LOBZHANIDZE](/players/vasil-lobzhanidze/): Georgia代表140→141キャップ
-- [Vilimoni BOTITU](/players/vilimoni-botitu/): Fiji代表12→30キャップ
-- [Virimi VAKATAWA](/players/virimi-vakatawa/): Fiji代表1→2キャップ
-- [Wallace SITITI](/players/wallace-sititi/): New Zealand代表13→16キャップ
+- [Thibaud FLAMENT](/teams/top14/toulouse/#p-thibaud-flament): France代表38→52キャップ
+- [Thomas CRÉTU](/national-teams/romania/#p-thomas-cretu): Romania代表17→19キャップ
+- [Tiennan COSTLEY](/players/tiennan-costley-483942/): Japan代表12→22キャップ
+- [Tyler ARDRON](/national-teams/canada/#p-tyler-ardron): Canada代表19→25キャップ
+- [Vasil LOBZHANIDZE](/national-teams/georgia/#p-vasil-lobzhanidze): Georgia代表140→141キャップ
+- [Vilimoni BOTITU](/teams/top14/castres/#p-vilimoni-botitu): Fiji代表12→30キャップ
+- [Virimi VAKATAWA](/teams/super-rugby/fijian-drua/#p-virimi-vakatawa): Fiji代表1→2キャップ
+- [Wallace SITITI](/teams/super-rugby/chiefs/#p-wallace-sititi): New Zealand代表13→16キャップ

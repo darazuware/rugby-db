@@ -7,4 +7,4 @@ source_diff: "2026-08-10_top14.json"
 draft: true
 ---
 
-[Malo POULON](/players/malo-poulon/)が[モンペリエ](/teams/top14/montpellier/)（Top14）に加入した。
+[Malo POULON](/teams/top14/montpellier/#p-malo-poulon)が[モンペリエ](/teams/top14/montpellier/)（Top14）に加入した。

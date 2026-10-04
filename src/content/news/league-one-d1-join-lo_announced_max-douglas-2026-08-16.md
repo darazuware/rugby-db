@@ -7,4 +7,4 @@ source_diff: "2026-08-16_league-one-d1.json"
 draft: false
 ---
 
-[マックス・ダグラス](/players/max-douglas/)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。
+[マックス・ダグラス](/teams/league-one/shizuoka-blue-revs/#p-max-douglas)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。

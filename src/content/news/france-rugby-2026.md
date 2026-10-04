@@ -46,22 +46,22 @@ tags: ["フランス", "レ・ブルー", "RWC2027", "ワールドカップ2027"
 
 現在のフランスを率いるのは**ファビアン・ガルティエ**ヘッドコーチ。2022年のグランドスラムに続き、**2025年・2026年のシックスネーションズを連覇**しました。
 
-主将は**[アントワーヌ・デュポン](/players/antoine-dupont/)**（[トゥールーズ](/teams/top14/toulouse/)）。世界最高のスクラムハーフと評される司令塔で、大きな膝の負傷から復帰し、2026年のシックスネーションズ制覇を牽引しました。
+主将は**[アントワーヌ・デュポン](/teams/top14/toulouse/#p-antoine-dupont)**（[トゥールーズ](/teams/top14/toulouse/)）。世界最高のスクラムハーフと評される司令塔で、大きな膝の負傷から復帰し、2026年のシックスネーションズ制覇を牽引しました。
 
-そして特筆すべきは**選手層の異常な厚さ**です。2026年シックスネーションズを制したメンバーには、**グレゴリー・アルドリット、[ダミアン・プノー](/players/damian-penaud/)、[ガエル・フィクー](/players/gael-fickou/)といった実績十分のスターが外れていました**。それでも優勝できる。これがフランスの選手層です。
+そして特筆すべきは**選手層の異常な厚さ**です。2026年シックスネーションズを制したメンバーには、**グレゴリー・アルドリット、[ダミアン・プノー](/teams/top14/bordeaux/#p-damian-penaud)、[ガエル・フィクー](/players/gael-fickou/)といった実績十分のスターが外れていました**。それでも優勝できる。これがフランスの選手層です。
 
 ### 注目選手（すべてトップ14所属）
 
 | 選手 | カタカナ | Pos | 所属クラブ |
 |:---|:---|:---|:---|
-| Antoine Dupont | **[アントワーヌ・デュポン](/players/antoine-dupont/)**（主将） | SH | [トゥールーズ](/teams/top14/toulouse/) |
-| Romain Ntamack | **[ロマン・ンタマック](/players/romain-ntamack/)** | SO | トゥールーズ |
-| Thomas Ramos | **[トマ・ラモス](/players/thomas-ramos/)** | FB | トゥールーズ |
-| Damian Penaud | **[ダミアン・プノー](/players/damian-penaud/)** | WTB | [ボルドー・ベグル](/teams/top14/bordeaux/) |
-| Matthieu Jalibert | **[マチュー・ジャリベール](/players/matthieu-jalibert/)** | SO | [ボルドー・ベグル](/teams/top14/bordeaux/) |
+| Antoine Dupont | **[アントワーヌ・デュポン](/teams/top14/toulouse/#p-antoine-dupont)**（主将） | SH | [トゥールーズ](/teams/top14/toulouse/) |
+| Romain Ntamack | **[ロマン・ンタマック](/teams/top14/toulouse/#p-romain-ntamack)** | SO | [トゥールーズ](/teams/top14/toulouse/) |
+| Thomas Ramos | **[トマ・ラモス](/teams/top14/toulouse/#p-thomas-ramos)** | FB | トゥールーズ |
+| Damian Penaud | **[ダミアン・プノー](/teams/top14/bordeaux/#p-damian-penaud)** | WTB | [ボルドー・ベグル](/teams/top14/bordeaux/) |
+| Matthieu Jalibert | **[マチュー・ジャリベール](/teams/top14/bordeaux/#p-matthieu-jalibert)** | SO | [ボルドー・ベグル](/teams/top14/bordeaux/) |
 | Gaël Fickou | **[ガエル・フィクー](/players/gael-fickou/)** | CTB | [ラシン92](/teams/top14/racing-92/) |
-| Charles Ollivon | **[シャルル・オリヴォン](/players/charles-ollivon/)** | BR | [トゥーロン](/teams/top14/toulon/) |
-| Cameron Woki | **[キャメロン・ウォキ](/players/cameron-woki/)** | LO/BR | ボルドー・ベグル |
+| Charles Ollivon | **[シャルル・オリヴォン](/teams/top14/toulon/#p-charles-ollivon)** | BR | [トゥーロン](/teams/top14/toulon/) |
+| Cameron Woki | **[キャメロン・ウォキ](/teams/top14/bordeaux/#p-cameron-woki)** | LO/BR | [ボルドー・ベグル](/teams/top14/bordeaux/) |
 
 ---
 
@@ -69,7 +69,7 @@ tags: ["フランス", "レ・ブルー", "RWC2027", "ワールドカップ2027"
 
 [フランス代表](/national-teams/france/)のもう一つの特徴が、**所属クラブの徹底した国内集中**です。
 
-RUGBY PICKSの名鑑データで現役フランス代表を集計すると、**63人全員が国内のトップ14**でプレーしていました。1人の例外もありません。海外リーグでプレーするフランス代表は、事実上ゼロです。
+RUGBY PICKSの名鑑データで現役[フランス代表](/national-teams/france/)を集計すると、**63人全員が国内のトップ14**でプレーしていました。1人の例外もありません。海外リーグでプレーするフランス代表は、事実上ゼロです。
 
 理由は明快で、**トップ14が世界一の資金力を持つリーグだから**。世界中のスター選手がフランスに集まる時代に、フランス人がわざわざ国外に出る理由はありません。
 

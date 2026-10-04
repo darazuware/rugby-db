@@ -6,7 +6,7 @@ category: "NEWS"
 tags: ["トップ14", "リーグワン", "齋藤直人", "移籍", "日本代表"]
 ---
 
-# 齋藤直人、[トゥールーズ](/teams/top14/toulouse/)での2年間を終え日本へ
+# [齋藤直人](/players/naoto-saito/)、[トゥールーズ](/teams/top14/toulouse/)での2年間を終え日本へ
 
 [日本代表](/national-teams/japan/)スクラムハーフの[齋藤直人](/players/naoto-saito/)が、フランス・トップ14の名門スタッド・トゥールーザンを離れ、2026-27シーズンから[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/)に復帰することが発表された。
 

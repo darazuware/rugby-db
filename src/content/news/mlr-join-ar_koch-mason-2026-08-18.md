@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[Mason KOCH](/players/koch-mason/)がca-legion（mlr）に加入した。
+Mason KOCHがca-legion（mlr）に加入した。

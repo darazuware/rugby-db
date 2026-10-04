@@ -7,4 +7,4 @@ source_diff: "2026-08-12_top14.json"
 draft: true
 ---
 
-[Baptiste VIALAS](/players/baptiste-vialas/)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。
+[Baptiste VIALAS](/teams/top14/toulouse/#p-baptiste-vialas)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。

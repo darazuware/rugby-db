@@ -39,10 +39,10 @@ tags: ["URC", "チーム紹介", "2025-26", "シャークス"]
 | Phepsi BUTHELEZI | ペプシ・ブテレジ | FL/No8 |
 | Jordan HENDRIKSE | ジョーダン・ヘンドリクセ | SO |
 | François VENTER | フランソワ・フェンター | CTB |
-| Aphelele FASSI | アフェレレ・ファッシ | FB |
+| Aphelele FASSI | [アフェレレ・ファッシ](/players/aphelele-fassi/) | FB |
 | Edwill VAN DER MERWE | エドウィル・ファン・デル・メルウェ | WTB |
 | Marnus POTGIETER | マルナス・ポトヒーター | WTB |
-| Grant WILLIAMS | グラント・ウィリアムズ | SH |
+| Grant WILLIAMS | [グラント・ウィリアムズ](/players/grant-williams/) | SH |
 | Emmanuel TSHITUKA | エマヌエル・チトゥカ | FL/No8 |
 
 ---

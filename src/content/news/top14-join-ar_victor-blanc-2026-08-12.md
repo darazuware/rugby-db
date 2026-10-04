@@ -7,4 +7,4 @@ source_diff: "2026-08-12_top14.json"
 draft: true
 ---
 
-[Victor BLANC](/players/victor-blanc/)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。
+[Victor BLANC](/teams/top14/toulouse/#p-victor-blanc)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。

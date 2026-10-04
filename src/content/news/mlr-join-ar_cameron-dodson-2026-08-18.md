@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[Cam DODSON](/players/cameron-dodson/)がca-legion（mlr）に加入した。
+Cam DODSONがca-legion（mlr）に加入した。

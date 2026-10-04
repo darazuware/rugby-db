@@ -7,4 +7,4 @@ source_diff: "2026-08-08_top14.json"
 draft: true
 ---
 
-[Aidan IONESCU](/players/aidan-ionescu/)が[カストル](/teams/top14/castres/)（Top14）に加入した。
+[Aidan IONESCU](/teams/top14/castres/#p-aidan-ionescu)が[カストル](/teams/top14/castres/)（Top14）に加入した。

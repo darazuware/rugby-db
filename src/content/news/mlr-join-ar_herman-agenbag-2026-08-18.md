@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[Herman AGENBAG](/players/herman-agenbag/)がchicago（mlr）に加入した。
+Herman AGENBAGがchicago（mlr）に加入した。

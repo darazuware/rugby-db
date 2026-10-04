@@ -25,7 +25,7 @@ tags: ["Top14", "チーム紹介", "2025-26", "ラ・ロシェル"]
 | :--- | :--- | :--- | :--- | ---: |
 | Greg ALLDRITT | グレゴリー・オルドリット | バックロー | [フランス代表](/national-teams/france/) | 55 |
 | Levani BOTIA | レヴァニ・ボシア | バックロー | [フィジー代表](/national-teams/fiji/) | 45 |
-| Jonathan DANTY | ジョナタン・ダンティ | センター | フランス代表 | 25 |
+| Jonathan DANTY | ジョナタン・ダンティ | センター | [フランス代表](/national-teams/france/) | 25 |
 | Ultan DILLANE | ウルタン・ディレイン | セカンドロー | [アイルランド代表](/national-teams/ireland/) | 25 |
 | Will SKELTON | ウィル・スケルトン | セカンドロー | [オーストラリア代表](/national-teams/australia/) | 20 |
 | Antoine HASTOY | アントワーヌ・アストワ | フライハーフ | フランス代表 | 15 |

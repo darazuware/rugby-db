@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[Juan Pablo ZEISS](/players/juan-pablo-zeiss/)がchicago（mlr）に加入した。
+Juan Pablo ZEISSがchicago（mlr）に加入した。

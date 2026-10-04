@@ -61,6 +61,13 @@ describe("calcAge", () => {
     const asOf = new Date("2026-07-18T00:00:00+09:00");
     expect(calcAge("1991-01-01", asOf)).toBe(35);
   });
+
+  it("YYYY.MM.DD / YYYY/M/D（レガシーmd形式）も計算できる", () => {
+    const asOf = new Date("2026-07-18T00:00:00+09:00");
+    expect(calcAge("1991.10.19", asOf)).toBe(34);
+    expect(calcAge("1991/1/1", asOf)).toBe(35);
+    expect(calcAge("不明", asOf)).toBeNull();
+  });
 });
 
 describe("introSentence — null 値は文を出さない", () => {

@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import rankingData from "../../data/access_ranking.json";
+import { getPlayerHrefResolver } from '../lib/master';
 
 interface Props {
   type?: "default" | "results";
@@ -74,11 +75,12 @@ while (hybridList.length < total) {
 }
 
 // ランク番号を再付番 + hasPage フラグ付与
-const popularPlayers = hybridList.map((p, i) => ({
-  ...p,
-  rank: i + 1,
-  hasPage: p.hasPage === true || validSlugSet.has(p.id),
-}));
+// リンク先は個別ページ or チーム名簿アンカー（master に無い選手はリンクしない）
+const hrefOf = await getPlayerHrefResolver();
+const popularPlayers = hybridList.map((p, i) => {
+  const href = p.hasPage === true || validSlugSet.has(p.id) ? hrefOf(p.id) : null;
+  return { ...p, rank: i + 1, href, hasPage: href != null };
+});
 ---
 
 <aside class="w-full space-y-8 mt-12 lg:mt-0 lg:sticky lg:top-24 lg:self-start">
@@ -226,7 +228,7 @@ const popularPlayers = hybridList.map((p, i) => ({
         {popularPlayers.map((player) => (
           player.hasPage ? (
             <a
-              href={`/players/${player.id}`}
+              href={player.href}
               class="flex items-center gap-4 p-3 rounded-2xl hover:bg-white/5 transition-all group border border-transparent hover:border-white/10"
             >
               <div class="relative">

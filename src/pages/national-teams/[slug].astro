@@ -4,6 +4,7 @@ import nationalTeamsConfig from "../../../data/national_teams_config.json";
 import nationalPlayersMap from "../../../data/national_players_map.json";
 import NationalPlayerList from "../../components/NationalPlayerList";
 import { getCollection, type CollectionEntry } from "astro:content";
+import { getPlayerHrefResolver, getPlayerSlugResolution } from "../../lib/master";
 
 export const prerender = true;
 
@@ -20,7 +21,14 @@ if (!team) {
     return Astro.redirect("/404");
 }
 
-const players = (nationalPlayersMap as any)[team.id] || [];
+// birth_date（master）と href（個別ページ or チーム名簿アンカー）を付与。age は固定値を使わずクライアントで計算。
+const [playerHrefOf, playerBySlug] = await Promise.all([getPlayerHrefResolver(), getPlayerSlugResolution()]);
+const players = ((nationalPlayersMap as any)[team.id] || []).map((p: any) => ({
+  ...p,
+  age: null,
+  birth_date: playerBySlug.get(p.slug)?.birthdate ?? null,
+  href: playerHrefOf(p.slug),
+}));
 
 // その国の関連記事（news）。tag か title にチーム名（「代表」を除いた短縮名）を含むものを集める。
 // 未来pubDate・下書きは除外（news 一覧と同じ JST 基準）。

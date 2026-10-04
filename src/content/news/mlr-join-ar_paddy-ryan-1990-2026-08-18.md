@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[Paddy RYAN](/players/paddy-ryan-1990/)がca-legion（mlr）に加入した。
+Paddy RYANがca-legion（mlr）に加入した。

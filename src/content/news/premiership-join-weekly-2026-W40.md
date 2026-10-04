@@ -23,20 +23,20 @@ draft: false
 - [Billy SELA](/players/billy-sela/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Charlie EWELS](/players/charlie-ewels/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Chris CLOETE](/players/chris-cloete/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Corbin THUNDER](/players/corbin-thunder/)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入
+- [Corbin THUNDER](/teams/premiership/leicester-tigers/#p-corbin-thunder)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入
 - [Daniel MARAIS](/players/daniel-marais/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Dom HARDMAN](/players/dom-hardman/)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
 - [Eddie ERSKINE](/players/eddie-erskine/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Elliot STOOKE](/players/elliot-stooke/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Ewan CAVEN](/players/ewan-caven/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Fraser RAWLINS](/players/fraser-rawlins/)が[サラセンズ](/teams/premiership/saracens/)に加入
+- [Ewan CAVEN](/teams/premiership/gloucester-rugby/#p-ewan-caven)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
+- [Fraser RAWLINS](/teams/premiership/saracens/#p-fraser-rawlins)が[サラセンズ](/teams/premiership/saracens/)に加入
 - [Gareth PARRY](/players/gareth-parry/)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
 - [Griff EVANS](/players/griff-evans/)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
 - [Hame FAIVA](/players/hame-faiva/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Harvey BEATON](/players/harvey-beaton/)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
 - [Harvey CUCKSON](/players/harvey-cuckson/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Ioan EMANUEL](/players/ioan-emanuel/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Irakli KOLBAIA](/players/irakli-kolbaia/)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-falcons/)に加入
+- [Irakli KOLBAIA](/teams/premiership/newcastle-falcons/#p-irakli-kolbaia)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-falcons/)に加入
 - [Jack BENNETT](/players/jack-bennett/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Jacques DU PLESSIS](/players/jacques-du-plessis/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [James FLYNN](/players/james-flynn/)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
@@ -50,7 +50,7 @@ draft: false
 - [Josh MCNALLY](/players/josh-mcnally/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Juan SCHOEMAN](/players/juan-schoeman/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Kaden PEARCE-PAUL](/players/kaden-pearce-paul/)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Kai WILKINSON](/players/kai-wilkinson/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
+- [Kai WILKINSON](/teams/premiership/gloucester-rugby/#p-kai-wilkinson)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Kapeli PIFELETI JR](/players/kapeli-pifeleti-jr/)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
 - [Kieran VERDEN](/players/kieran-verden/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Luke YENDLE](/players/luke-yendle/)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
@@ -58,7 +58,7 @@ draft: false
 - [Max PEARCE](/players/max-pearce/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Mikey SUMMERFIELD](/players/mikey-summerfield/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Niall ANNETT](/players/nial-annett/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Oscar CHURCHOUSE](/players/oscar-churchouse/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
+- [Oscar CHURCHOUSE](/teams/premiership/gloucester-rugby/#p-oscar-churchouse)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Quinn ROUX](/players/quinn-roux/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Sam CREAN](/players/sam-crean/)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
 - [Samson ADEJIMI](/players/samson-adejimi/)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
@@ -66,6 +66,6 @@ draft: false
 - [Syd BLACKMORE](/players/syd-blackmore/)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
 - [Thomas DU TOIT](/players/thomas-du-toit/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Tom DUNN](/players/tom-dunn/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Will HODGSON](/players/will-hodgson/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
+- [Will HODGSON](/teams/premiership/gloucester-rugby/#p-will-hodgson)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Will STUART](/players/will-stuart/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Zac NEARCHOU](/players/zac-nearchou/)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入

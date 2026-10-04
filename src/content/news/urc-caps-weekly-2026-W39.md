@@ -8,6 +8,6 @@ draft: false
 ---
 
 - [Facundo BOSCH](/players/facundo-bosch/): Argentina代表17→18キャップ
-- [James LANG](/players/james-lang/): Scotland代表3→7キャップ
-- [Luke MCGRATH](/players/luke-mcgrath/): Ireland代表23→30キャップ
+- [James LANG](/teams/premiership/harlequins/#p-james-lang): Scotland代表3→7キャップ
+- [Luke MCGRATH](/teams/top14/perpignan/#p-luke-mcgrath): Ireland代表23→30キャップ
 - [Tevita TATAFU](/players/tevita-tatafu/): France代表3→4キャップ

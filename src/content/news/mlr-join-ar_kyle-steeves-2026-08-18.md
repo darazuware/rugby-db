@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[Kyle STEEVES](/players/kyle-steeves/)がchicago（mlr）に加入した。
+Kyle STEEVESがchicago（mlr）に加入した。

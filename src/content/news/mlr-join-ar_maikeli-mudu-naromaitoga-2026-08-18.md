@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[Maikeli MUDU NAROMAITOGA](/players/maikeli-mudu-naromaitoga/)がchicago（mlr）に加入した。
+Maikeli MUDU NAROMAITOGAがchicago（mlr）に加入した。

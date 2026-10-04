@@ -7,4 +7,4 @@ source_diff: "2026-08-16_league-one-d1.json"
 draft: false
 ---
 
-[マーク ナワンガニタワシ](/players/mark-nawaqanitawase/)が[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/)（リーグワン）に加入した。
+[マーク ナワンガニタワシ](/teams/league-one/saitama-panasonic-wild-knights/#p-mark-nawaqanitawase)が[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/)（リーグワン）に加入した。

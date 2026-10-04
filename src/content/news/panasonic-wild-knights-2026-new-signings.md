@@ -14,12 +14,12 @@ tags: ["リーグワン", "埼玉パナソニックワイルドナイツ", "新�
 
 2005年9月20日生まれ、183cm/101kg。オーストラリア・Knox Grammar School出身で、オーストラリアU20代表の経歴を持つセンター。加入コメントでは「自分自身のプレーを向上させながら、日本の文化に触れられる機会は、私のキャリアにおいて非常に貴重な経験になると確信しています」と語り、力強いタックルとダイナミックなアタックを持ち味に挙げている。
 
-## 栗田バットリン瞳志（WTB）
+## [栗田バットリン瞳志](/players/toshi-kurita-butlin/)（WTB）
 
 2005年2月19日生まれ、179cm/88kg。オーストラリア・Brisbane State High School出身のウイング。加入にあたり「ワイルドナイツのような歴史ある名門チームの一員として、リーグワンの舞台でプレーできることに胸が躍る思いです」とコメントし、将来的な[日本代表](/national-teams/japan/)入りを目標に掲げている。
 
 ---
 
-なお、チーム所属の[齊藤誉哉](/players/takaya-saito-484038/)、[谷山隼大](/players/hayata-taniyama-484078/)の両CTBは、2026年7月からニュージーランド州代表選手権（Bunnings NPC）のサウスランドスタッグスへ期限付きで武者修行に出ている。ワイルドナイツ所属のまま海外経験を積む形で、退団・移籍ではない。
+なお、チーム所属の[齊藤誉哉](/teams/league-one/saitama-panasonic-wild-knights/#p-takaya-saito-484038)、[谷山隼大](/teams/league-one/saitama-panasonic-wild-knights/#p-hayata-taniyama-484078)の両CTBは、2026年7月からニュージーランド州代表選手権（Bunnings NPC）のサウスランドスタッグスへ期限付きで武者修行に出ている。ワイルドナイツ所属のまま海外経験を積む形で、退団・移籍ではない。
 
 チームの選手一覧・詳細は[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/)のチームページから確認できる。

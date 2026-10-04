@@ -26,7 +26,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "ブルーズ"]
 | Jordan LAY | ジョーダン・レイ | プロップ | [サモア代表](/national-teams/samoa/) | 26 |
 | Ofa TU'UNGAFASI | オファ・トゥウンガファシ | プロップ | [ニュージーランド代表](/national-teams/new-zealand/) | 53 |
 | Patrick TUIPULOTU | パトリック・トゥイプロトゥ | ロック | [ニュージーランド代表](/national-teams/new-zealand/) | 25 |
-| Hoskins SOTUTU | ホスキンス・ソトゥトゥ | フランカー/No8 | ニュージーランド代表 | — |
+| Hoskins SOTUTU | ホスキンス・ソトゥトゥ | フランカー/No8 | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Dalton PAPALI'I | ダルトン・パパリイ | フランカー/No8 | ニュージーランド代表 | 26 |
 | Finlay CHRISTIE | フィンレー・クリスティ | スクラムハーフ | ニュージーランド代表 | 17 |
 | Beauden BARRETT | ボーデン・バレット | スタンドオフ | ニュージーランド代表 | 116 |
@@ -59,7 +59,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "ブルーズ"]
 | Taufa FUNAKI | タウファ・フナキ | スクラムハーフ |
 | Sam NOCK | サム・ノック | スクラムハーフ |
 | Rico SIMPSON | リコ・シンプソン | スタンドオフ |
-| Stephen PEROFETA | スティーブン・ペロフェタ | スタンドオフ |
+| Stephen PEROFETA | [スティーブン・ペロフェタ](/players/stephen-perofeta/) | スタンドオフ |
 | Corey EVANS | コーリー・エバンズ | センター |
 | James CAMERON | ジェームズ・キャメロン | センター |
 | Xavi TAELE | グザビ・タエレ | センター |

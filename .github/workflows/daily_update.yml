@@ -76,13 +76,20 @@ jobs:
       - name: Generate news articles
         run: python3 -m pipeline.news_gen 2>&1 | tee pipeline_news.log
 
+      # 個別ページを持つ選手リスト（K1〜K3）を再計算し、基準から外れた選手への記事内リンクをチーム名簿アンカーへ書き換える。
+      # 記事が増えて言及2本に達した選手は自動で個別ページに昇格する（docs/adsense/01_DESIGN.md）。
+      - name: Update indexable player pages
+        run: |
+          python3 scripts/build_player_pages.py
+          python3 scripts/link_news.py --fix-dead --write
+
       # 公式サイト監視は monitor_news.yml に移管（日中に高頻度で回すため）。
 
       - name: Commit and push
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/master src/content/news data/monitor
+          git add data/master data/manual/player_pages.json src/content/news data/monitor
           git diff --cached --name-only -- src/content/news > news_changed.txt || true
           if git diff --cached --quiet; then
             echo "変更なし。コミットしない。"

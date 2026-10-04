@@ -7,4 +7,4 @@ source_diff: "2026-08-12_top14.json"
 draft: true
 ---
 
-[Tsiaro Yohan RANDRIANARY](/players/tsiaro-yohan-randrianary/)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。
+[Tsiaro Yohan RANDRIANARY](/teams/top14/toulouse/#p-tsiaro-yohan-randrianary)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。

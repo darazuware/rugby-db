@@ -7,4 +7,4 @@ source_diff: "2026-08-10_top14.json"
 draft: true
 ---
 
-[Flavien LARUELLE](/players/flavien-laruelle/)が[モンペリエ](/teams/top14/montpellier/)（Top14）に加入した。
+[Flavien LARUELLE](/teams/top14/montpellier/#p-flavien-laruelle)が[モンペリエ](/teams/top14/montpellier/)（Top14）に加入した。

@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[Lindsey STEVENS](/players/lindsey-stevens/)がca-legion（mlr）に加入した。
+Lindsey STEVENSがca-legion（mlr）に加入した。

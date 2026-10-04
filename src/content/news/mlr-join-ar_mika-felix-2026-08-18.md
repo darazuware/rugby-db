@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[Mika FELIX](/players/mika-felix/)がca-legion（mlr）に加入した。
+Mika FELIXがca-legion（mlr）に加入した。

@@ -7,4 +7,4 @@ source_diff: "2026-08-16_league-one-d1.json"
 draft: false
 ---
 
-[俵 啓斗](/players/keito-tawara/)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
+[俵 啓斗](/teams/league-one/yokohama-canon-eagles/#p-keito-tawara)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。

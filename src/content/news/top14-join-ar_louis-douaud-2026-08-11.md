@@ -7,4 +7,4 @@ source_diff: "2026-08-11_top14.json"
 draft: true
 ---
 
-[Louis DOUAUD](/players/louis-douaud/)が[リヨン](/teams/top14/lyon/)（Top14）に加入した。
+[Louis DOUAUD](/teams/top14/lyon/#p-louis-douaud)が[リヨン](/teams/top14/lyon/)（Top14）に加入した。

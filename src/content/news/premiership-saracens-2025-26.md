@@ -28,7 +28,7 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "サラセンズ"]
 | Nick TOMPKINS | ニック・トンプキンス | センター | [ウェールズ代表](/national-teams/wales/) | 38 |
 | Marco RICCIONI | マルコ・リッチョーニ | プロップ | [イタリア代表](/national-teams/italy/) | 31 |
 | Eroni MAWI | エロニ・マウィ | プロップ | [フィジー代表](/national-teams/fiji/) | 25 |
-| Max MALINS | マックス・マリンズ | ウィング | イングランド代表 | 21 |
+| Max MALINS | マックス・マリンズ | ウィング | [イングランド代表](/national-teams/england/) | 21 |
 | Lucio CINTI | ルシオ・チンティ | センター | [アルゼンチン代表](/national-teams/argentina/) | 16 |
 | Nick ISIEKWE | ニック・イシェクウェ | ロック | イングランド代表 | 11 |
 | Theo MCFARLAND | テオ・マクファーランド | フランカー | [サモア代表](/national-teams/samoa/) | 7 |

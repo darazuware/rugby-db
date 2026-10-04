@@ -7,4 +7,4 @@ source_diff: "2026-08-16_league-one-d1.json"
 draft: false
 ---
 
-[キーラン・ヴァンスターダン](/players/keran-van-staden/)が[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)（リーグワン）に加入した。
+[キーラン・ヴァンスターダン](/teams/league-one/kubota-spears-funabashi-tokyo-bay/#p-keran-van-staden)が[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)（リーグワン）に加入した。

@@ -57,11 +57,11 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "ハイラン�
 | Adam LENNOX | アダム・レノックス | スタンドオフ |
 | Taine ROBINSON | タイン・ロビンソン | スタンドオフ |
 | Josh WHAANGA | ジョシュ・ファンガ | センター |
-| Tanielu TELE'A | タニエル・テレア | センター |
+| Tanielu TELE'A | [タニエル・テレア](/players/tanielu-terea/) | センター |
 | Jake TE HIWI | ジェイク・テ・ヒウィ | センター |
 | Jacob RATUMAITAVUKI-KNEEPKENS | ジェイコブ・ラトゥマイタブキ・ネプキンズ | ウィング |
 | Caleb TANGITAU | ケイレブ・タンギタウ | ウィング |
-| Jonah LOWE | ジョナ・ロウ | ウィング |
+| Jonah LOWE | [ジョナ・ロウ](/players/jonah-lowe/) | ウィング |
 | Stanley SOLOMON | スタンリー・ソロモン | ウィング |
 | Jona NAREKI | ジョナ・ナレキ | ウィング |
 | Andrew KNEWSTUBB | アンドリュー・ニュースタブ | フルバック |

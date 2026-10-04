@@ -8,7 +8,7 @@ draft: false
 ---
 
 - [Guido PETTI](/players/guido-petti/): Argentina代表80→145キャップ
-- [Lucio CINTI LUNA](/players/lucio-luna/): Argentina代表48→60キャップ
-- [Matías MORONI](/players/matias-moroni/): Argentina代表122→128キャップ
-- [Santiago CARRERAS](/players/santiago-carreras/): Argentina代表50→85キャップ
+- [Lucio CINTI LUNA](/teams/premiership/saracens/#p-lucio-luna): Argentina代表48→60キャップ
+- [Matías MORONI](/teams/premiership/bristol-bears/#p-matias-moroni): Argentina代表122→128キャップ
+- [Santiago CARRERAS](/teams/premiership/bath-rugby/#p-santiago-carreras): Argentina代表50→85キャップ
 - [Thomas DU TOIT](/players/thomas-du-toit/): South Africa代表19→23キャップ

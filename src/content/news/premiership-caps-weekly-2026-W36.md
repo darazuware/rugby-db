@@ -7,5 +7,5 @@ source_diff: "2026-08-31_premiership.json"
 draft: false
 ---
 
-- [Santiago CARRERAS](/players/santiago-carreras/): Argentina代表85→88キャップ
+- [Santiago CARRERAS](/teams/premiership/bath-rugby/#p-santiago-carreras): Argentina代表85→88キャップ
 - [Thomas DU TOIT](/players/thomas-du-toit/): South Africa代表23→28キャップ

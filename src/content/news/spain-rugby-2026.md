@@ -120,11 +120,11 @@ FERは、アルコベンダス（クラブ）の関係者3名が書面でパス�
 
 | 選手 | カタカナ | Pos | 所属クラブ | 年齢 | キャップ |
 |:---|:---|:---|:---|---:|---:|
-| Álvar Gimeno | **[アルバル・ヒメノ](/players/alvar-gimeno/)** | CTB | ベジエ（仏プロD2） | 28 | **63** |
-| Ignacio Piñeiro | **[イグナシオ・ピニェイロ](/players/ignacio-pineiro/)** | LO | グルノーブル（仏プロD2） | 23 | 33 |
+| Álvar Gimeno | **[アルバル・ヒメノ](/national-teams/spain/#p-alvar-gimeno)** | CTB | ベジエ（仏プロD2） | 28 | **63** |
+| Ignacio Piñeiro | **[イグナシオ・ピニェイロ](/national-teams/spain/#p-ignacio-pineiro)** | LO | グルノーブル（仏プロD2） | 23 | 33 |
 | Jon Zabala | **[ジョン・サバラ](/players/jon-zabala/)**（主将） | PR | [ポー](/teams/top14/pau/)（仏トップ14） | 29 | 32 |
 | Álvaro García | **[アルバロ・ガルシア](/players/alvaro-garcia/)** | HO | [スタッド・フランセ](/teams/top14/paris/)（仏トップ14） | 22 | 23 |
-| Kerman Aurrekoetxea | **[ケルマン・アウレコエチェア](/players/kerman-aurrekoetxea/)** | SH | ビアリッツ（仏プロD2） | 26 | 13 |
+| Kerman Aurrekoetxea | **[ケルマン・アウレコエチェア](/national-teams/spain/#p-kerman-aurrekoetxea)** | SH | ビアリッツ（仏プロD2） | 26 | 13 |
 | Manex Ariceta | **[マネクス・アリセタ](/players/manex-ariceta/)** | BR | [バイヨンヌ](/teams/top14/bayonne/)（仏トップ14） | 22 | 7 |
 | Samuel Ezeala | **[サミュエル・エゼアラ](/players/samuel-ezeala/)** | WTB | [スタッド・フランセ](/teams/top14/paris/)（仏トップ14） | 26 | 3 |
 

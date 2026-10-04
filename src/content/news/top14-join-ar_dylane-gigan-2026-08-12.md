@@ -7,4 +7,4 @@ source_diff: "2026-08-12_top14.json"
 draft: true
 ---
 
-[Dylane GIGAN](/players/dylane-gigan/)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。
+[Dylane GIGAN](/teams/top14/toulouse/#p-dylane-gigan)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。

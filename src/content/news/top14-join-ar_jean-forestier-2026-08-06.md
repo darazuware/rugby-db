@@ -7,4 +7,4 @@ source_diff: "2026-08-06_top14.json"
 draft: true
 ---
 
-[Jean FORESTIER](/players/jean-forestier/)が[カストル](/teams/top14/castres/)（Top14）に加入した。
+[Jean FORESTIER](/teams/top14/castres/#p-jean-forestier)が[カストル](/teams/top14/castres/)（Top14）に加入した。

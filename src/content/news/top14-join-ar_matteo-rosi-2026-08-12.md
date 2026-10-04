@@ -7,4 +7,4 @@ source_diff: "2026-08-12_top14.json"
 draft: true
 ---
 
-[Matteo ROSI](/players/matteo-rosi/)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。
+[Matteo ROSI](/teams/top14/toulouse/#p-matteo-rosi)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。

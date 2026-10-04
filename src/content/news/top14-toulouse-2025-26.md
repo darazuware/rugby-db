@@ -25,7 +25,7 @@ tags: ["Top14", "チーム紹介", "2025-26", "トゥールーズ"]
 | :--- | :--- | :--- | :--- | ---: |
 | Antoine DUPONT | アントワーヌ・デュポン | スクラムハーフ | [フランス代表](/national-teams/france/) | 75 |
 | Cyril BAILLE | シリル・バイユ | プロップ | [フランス代表](/national-teams/france/) | 55 |
-| Julien MARCHAND | ジュリアン・マルシャン | フッカー | フランス代表 | 50 |
+| Julien MARCHAND | ジュリアン・マルシャン | フッカー | [フランス代表](/national-teams/france/) | 50 |
 | Romain NTAMACK | ロマン・タマック | フライハーフ | フランス代表 | 50 |
 | Thibaud FLAMENT | ティボー・フラマン | セカンドロー | フランス代表 | 25 |
 | François CROS | フランソワ・クロ | バックロー | フランス代表 | 25 |

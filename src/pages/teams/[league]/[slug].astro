@@ -21,6 +21,7 @@ import teamNamesJp from "../../../../data/team_names_jp.json";
 import { getTeamSlug } from "../../../utils/team_utils";
 import Breadcrumbs from "../../../components/Breadcrumbs.astro";
 import { findMasterTeamBySlug, getTeamRosterLegacyShape } from "../../../lib/masterAdapters";
+import { isIndexablePlayerSlug } from "../../../lib/master";
 import AccommodationButton from "../../../components/AccommodationButton.astro";
 import PRNotice from "../../../components/PRNotice.astro";
 import { getVenueArea } from "../../../lib/venueAreas";
@@ -185,6 +186,13 @@ if (masterTeam) {
 }
 const teamPlayers = uniqueTeamPlayers;
 
+// 名簿の選手リンク: 個別ページがある選手のみ /players/{slug}/、それ以外は同ページの名簿行 #p-{slug}
+const rosterHref = (slug: string) => (isIndexablePlayerSlug(slug) ? `/players/${slug}/` : `#p-${slug}`);
+const rosterRows = uniqueTeamPlayers.map((p: any) => ({
+    ...p,
+    href: isIndexablePlayerSlug(p.slug) ? `/players/${p.slug}/` : null,
+}));
+
 // 共通の戦績データ取得
 import resultsData from "../../../../data/results_2026.json";
 
@@ -279,7 +287,7 @@ const teamArticle = teamArticles.find(
 const { Content: TeamArticleContent } = teamArticle ? await teamArticle.render() : { Content: null };
 
 // 記事本文に登場する選手名を検出（クライアントサイドリンク挿入用）
-type PlayerLink = { name: string; slug: string };
+type PlayerLink = { name: string; slug: string; href: string };
 const articleMentions: PlayerLink[] = [];
 if (teamArticle?.body) {
     const body = teamArticle.body;
@@ -292,7 +300,7 @@ if (teamArticle?.body) {
             const noSpace = String(p.data.name_ja).replace(/[\s　]/g, '');
             const dotVariant = String(p.data.name_ja).trim().replace(/[\s　]/g, '・');
             if (noSpace.length >= 2 && (body.includes(noSpace) || body.includes(dotVariant))) {
-                articleMentions.push({ name: body.includes(noSpace) ? noSpace : dotVariant, slug: pSlug });
+                articleMentions.push({ name: body.includes(noSpace) ? noSpace : dotVariant, slug: pSlug, href: rosterHref(pSlug) });
                 seen.add(pSlug);
                 continue;
             }
@@ -300,7 +308,7 @@ if (teamArticle?.body) {
         // 英語名
         const en = p.data.name_en ? String(p.data.name_en).trim() : '';
         if (en.includes(' ') && body.includes(en)) {
-            articleMentions.push({ name: en, slug: pSlug });
+            articleMentions.push({ name: en, slug: pSlug, href: rosterHref(pSlug) });
             seen.add(pSlug);
             continue;
         }
@@ -308,7 +316,7 @@ if (teamArticle?.body) {
         if (p.data.aliases) {
             for (const alias of p.data.aliases) {
                 if (alias && body.includes(alias)) {
-                    articleMentions.push({ name: alias, slug: pSlug });
+                    articleMentions.push({ name: alias, slug: pSlug, href: rosterHref(pSlug) });
                     seen.add(pSlug);
                     break;
                 }
@@ -553,7 +561,7 @@ const teamStanding = leagueStandings.find((s: any) =>
                                 {popularPlayers.length > 0 ? (
                                     <div class="space-y-3">
                                         {popularPlayers.map(p => (
-                                            <a href={`/players/${p.id}`} class="flex items-center gap-4 p-3 rounded-2xl bg-background border border-border-dim hover:border-yellow-400/50 transition-all group">
+                                            <a href={rosterHref(p.id)} class="flex items-center gap-4 p-3 rounded-2xl bg-background border border-border-dim hover:border-yellow-400/50 transition-all group">
                                                 <div class="w-10 h-10 bg-gray-900 rounded-lg flex items-center justify-center text-foreground/20 font-black italic border border-border-dim group-hover:border-yellow-400/30 transition-colors">
                                                     {p.name[0]}
                                                 </div>
@@ -597,7 +605,7 @@ const teamStanding = leagueStandings.find((s: any) =>
                         </div>
                         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
                             {internationalPlayers.map(p => (
-                                <a href={`/players/${p.id}`} class="flex items-center gap-4 p-4 rounded-2xl bg-background border border-border-dim hover:border-red-500/50 transition-all group">
+                                <a href={rosterHref(p.id)} class="flex items-center gap-4 p-4 rounded-2xl bg-background border border-border-dim hover:border-red-500/50 transition-all group">
                                     <div class="w-10 h-10 bg-gray-900 rounded-lg flex items-center justify-center text-foreground/20 font-black italic border border-border-dim group-hover:border-red-500/30 transition-colors shrink-0">
                                         {p.name_jp ? p.name_jp[0] : "?"}
                                     </div>
@@ -648,9 +656,9 @@ const teamStanding = leagueStandings.find((s: any) =>
                                     if (node.nodeType === 3) { // TEXT_NODE
                                         let text = node.textContent;
                                         let changed = false;
-                                        for (const { name, slug } of players) {
+                                        for (const { name, href } of players) {
                                             if (text.includes(name)) {
-                                                text = text.split(name).join(`\x00${slug}\x01${name}\x02`);
+                                                text = text.split(name).join(`\x00${href}\x01${name}\x02`);
                                                 changed = true;
                                             }
                                         }
@@ -658,7 +666,7 @@ const teamStanding = leagueStandings.find((s: any) =>
                                             const span = document.createElement('span');
                                             span.innerHTML = text
                                                 .replace(/\x00([^\x01]+)\x01([^\x02]+)\x02/g,
-                                                    (_, s, n) => `<a href="/players/${s}" class="text-yellow-400 hover:underline font-bold">${n}</a>`);
+                                                    (_, s, n) => `<a href="${s}" class="text-yellow-400 hover:underline font-bold">${n}</a>`);
                                             node.replaceWith(span);
                                         }
                                     } else if (node.nodeType === 1 && node.tagName !== 'A' && node.tagName !== 'SCRIPT') {
@@ -743,7 +751,7 @@ const teamStanding = leagueStandings.find((s: any) =>
                 {
                     teamPlayers.length > 0 ? (
                         <TeamPlayerList
-                            players={uniqueTeamPlayers}
+                            players={rosterRows}
                             isLeagueOne={isLeagueOne}
                             client:load
                         />

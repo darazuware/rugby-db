@@ -1,10 +1,14 @@
-import { describe, expect, it } from "vitest";
+import { afterAll, beforeEach, describe, expect, it } from "vitest";
 import {
   applyPlayerMerges,
+  __setIndexablePlayersForTests,
   canHaveIndividualPlayerPage,
   dedupePlayersById,
   getAllPlayers,
   getAllTeams,
+  isIndexablePlayerSlug,
+  playerFallbackPath,
+  playerHref,
   sanitizeMinorPlayer,
   type Player,
 } from "../master";
@@ -194,15 +198,51 @@ describe("sanitizeMinorPlayer（10のポリシー: 未成年の禁止フィー�
   });
 });
 
-describe("canHaveIndividualPlayerPage（10のポリシー: 高校生は個別ページを作らない）", () => {
-  it("league=highschool は false", () => {
-    expect(canHaveIndividualPlayerPage(makePlayer({ league: "highschool" }))).toBe(false);
+describe("canHaveIndividualPlayerPage / isIndexablePlayer（01_DESIGN: player_pages.json 掲載選手のみ）", () => {
+  beforeEach(() => {
+    __setIndexablePlayersForTests([{ id: "listed", slug: "listed-slug" }]);
+  });
+  afterAll(() => __setIndexablePlayersForTests());
+
+  it("league=highschool は載っていても false", () => {
+    __setIndexablePlayersForTests([{ id: "hs1", slug: "hs1" }]);
+    expect(canHaveIndividualPlayerPage(makePlayer({ id: "hs1", league: "highschool" }))).toBe(false);
   });
 
-  it("league=highschool 以外（大学・age-grade等）は true", () => {
-    expect(canHaveIndividualPlayerPage(makePlayer({ league: "university" }))).toBe(true);
-    expect(canHaveIndividualPlayerPage(makePlayer({ league: "age-grade" }))).toBe(true);
-    expect(canHaveIndividualPlayerPage(makePlayer({ league: "league-one-d1" }))).toBe(true);
+  it("player_pages.json に載っている選手のみ true", () => {
+    expect(canHaveIndividualPlayerPage(makePlayer({ id: "listed", league: "university" }))).toBe(true);
+    expect(canHaveIndividualPlayerPage(makePlayer({ id: "other", league: "league-one-d1" }))).toBe(false);
+    expect(isIndexablePlayerSlug("listed-slug")).toBe(true);
+    expect(isIndexablePlayerSlug("other")).toBe(false);
+  });
+});
+
+describe("playerHref / playerFallbackPath", () => {
+  const teamPaths = new Map([["lo_team_1", "/teams/league-one/kobelco-kobe-steelers/"]]);
+  beforeEach(() => {
+    __setIndexablePlayersForTests([{ id: "listed", slug: "listed-slug" }]);
+  });
+  afterAll(() => __setIndexablePlayersForTests());
+
+  it("indexable は個別ページ", () => {
+    const p = makePlayer({ id: "listed", slug: "listed-slug", team_id: "lo_team_1" });
+    expect(playerHref(p, teamPaths)).toBe("/players/listed-slug/");
+  });
+
+  it("非indexable はチーム名簿アンカー", () => {
+    const p = makePlayer({ id: "o", slug: "foo-bar", team_id: "lo_team_1" });
+    expect(playerHref(p, teamPaths)).toBe("/teams/league-one/kobelco-kobe-steelers/#p-foo-bar");
+  });
+
+  it("チーム不明はリーグ→/players/ の順にフォールバック", () => {
+    expect(playerFallbackPath(makePlayer({ slug: "a", team_id: null, league: "top14" }), teamPaths)).toBe("/leagues/top14/");
+    expect(playerFallbackPath(makePlayer({ slug: "a", team_id: null, league: "university" }), teamPaths)).toBe("/players/");
+  });
+
+  it("代表チーム id は national-teams のアンカー", () => {
+    expect(
+      playerFallbackPath(makePlayer({ slug: "a", team_id: "fiji", league: "national" }), teamPaths),
+    ).toBe("/national-teams/fiji/#p-a");
   });
 });
 

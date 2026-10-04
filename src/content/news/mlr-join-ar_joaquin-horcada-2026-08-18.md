@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[Joaquín HORCADA](/players/joaquin-horcada/)がchicago（mlr）に加入した。
+Joaquín HORCADAがchicago（mlr）に加入した。

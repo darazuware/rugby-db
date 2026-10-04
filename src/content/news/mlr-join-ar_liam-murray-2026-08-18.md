@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[Liam MURRAY](/players/liam-murray/)がchicago（mlr）に加入した。
+Liam MURRAYがchicago（mlr）に加入した。

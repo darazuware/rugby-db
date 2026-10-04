@@ -7,4 +7,4 @@ source_diff: "2026-08-08_top14.json"
 draft: true
 ---
 
-[Moussa TAALEB](/players/moussa-taaleb/)が[カストル](/teams/top14/castres/)（Top14）に加入した。
+[Moussa TAALEB](/teams/top14/castres/#p-moussa-taaleb)が[カストル](/teams/top14/castres/)（Top14）に加入した。

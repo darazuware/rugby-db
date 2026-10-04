@@ -7,4 +7,4 @@ source_diff: "2026-08-16_league-one-d1.json"
 draft: false
 ---
 
-[カート＝リー・アレンゼ](/players/kurt-lee-arendse/)が[三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/)（リーグワン）に加入した。
+[カート＝リー・アレンゼ](/teams/league-one/mitsubishi-sagamihara-dynaboars/#p-kurt-lee-arendse)が[三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/)（リーグワン）に加入した。

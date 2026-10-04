@@ -1,7 +1,13 @@
 import React, { useState, useMemo, useEffect, useCallback } from 'react';
+import { calcAge } from '../lib/age';
+
+// age 固定値は使わず、常に birth_date から閲覧日基準で計算する（docs/adsense/01_DESIGN.md §3）
+const withComputedAge = (list: Player[]): Player[] =>
+    list.map(p => ({ ...p, data: { ...p.data, age: calcAge(p.data.birth_date) } }));
 
 interface Player {
     slug: string;
+    href?: string | null; // 個別ページ or チーム名簿アンカー（無ければリンクしない）
     data: {
         title: string;
         name_en?: string;
@@ -177,11 +183,11 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
     const [isPanelOpen, setIsPanelOpen] = useState(false);
     const [currentPage, setCurrentPage] = useState(1);
     const ITEMS_PER_PAGE = 48;
-    const [players, setPlayers] = useState<Player[]>(initialPlayers);
+    const [players, setPlayers] = useState<Player[]>(() => withComputedAge(initialPlayers));
     const [isLoading, setIsLoading] = useState(initialPlayers.length === 0);
 
     // クライアントサイドでのデータ取得（localStorageに1時間キャッシュして再取得を回避）
-    const CACHE_KEY = 'rugby_players_cache_v1';
+    const CACHE_KEY = 'rugby_players_cache_v2';
     const CACHE_TTL_MS = 60 * 60 * 1000;
 
     useEffect(() => {
@@ -192,7 +198,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                     if (cached) {
                         const { ts, data } = JSON.parse(cached);
                         if (Date.now() - ts < CACHE_TTL_MS && Array.isArray(data) && data.length > 0) {
-                            setPlayers(data);
+                            setPlayers(withComputedAge(data));
                             setIsLoading(false);
                             return;
                         }
@@ -203,7 +209,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                     const response = await fetch('/api/v1/all-players-download.json');
                     if (!response.ok) throw new Error('Failed to fetch');
                     const data = await response.json();
-                    setPlayers(data);
+                    setPlayers(withComputedAge(data));
                     try {
                         localStorage.setItem(CACHE_KEY, JSON.stringify({ ts: Date.now(), data }));
                     } catch {}
@@ -997,7 +1003,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                         return (
                             <a
                                 key={player.slug}
-                                href={`/players/${player.slug}`}
+                                href={player.href ?? undefined}
                                 className="group block bg-card rounded-3xl p-6 shadow-sm hover:shadow-2xl hover:-translate-y-2 transition-all border border-border-dim relative overflow-hidden flex flex-col h-full"
                             >
                                 {/* ディビジョン・アクセント（リーグ別カラー適用） */}

@@ -7,4 +7,4 @@ source_diff: "2026-08-11_top14.json"
 draft: true
 ---
 
-[Oskars VITOLINS](/players/oskars-vitolins/)が[ヴァンヌ](/teams/top14/vannes/)（Top14）に加入した。
+[Oskars VITOLINS](/teams/top14/vannes/#p-oskars-vitolins)が[ヴァンヌ](/teams/top14/vannes/)（Top14）に加入した。

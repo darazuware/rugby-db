@@ -2,7 +2,15 @@ import { defineMiddleware } from "astro:middleware";
 import legacyRedirects from "../data/redirects.json";
 import masterRedirects from "../data/master/_meta/redirects.json";
 import retiredSlugs from "../data/master/_meta/retired_slugs.json";
-import { canHaveIndividualPlayerPage, getAllPlayers } from "./lib/master";
+import {
+  canHaveIndividualPlayerPage,
+  getAllPlayers,
+  getPlayerSlugResolution,
+  getTeamPagePaths,
+  isIndexablePlayer,
+  isIndexablePlayerSlug,
+  playerFallbackPath,
+} from "./lib/master";
 
 // ハニーポットのURL (実データAPIと分離)
 const HONEYPOT_PATH = '/api/v1/hidden-dataset.json';
@@ -41,6 +49,20 @@ function getCurrentPlayerPaths(): Promise<Set<string>> {
   return currentPlayerPathsPromise;
 }
 
+// 01_DESIGN §2: 個別ページを持たない選手（非indexable・統合で消えた slug）の 301 先。
+// 個別ページがある slug / master に存在しない slug は null（呼び出し側で通常処理）。
+const PLAYER_PATH = /^\/players\/([^/]+)\/?$/;
+async function resolvePlayerRedirect(path: string): Promise<string | null> {
+  const m = PLAYER_PATH.exec(path);
+  if (!m) return null;
+  const slug = m[1];
+  if (isIndexablePlayerSlug(slug)) return null;
+  const player = (await getPlayerSlugResolution().catch(() => new Map())).get(slug);
+  if (!player || player.league === "highschool") return null;
+  if (isIndexablePlayer(player)) return `/players/${player.slug}/`; // 統合された旧 slug
+  return playerFallbackPath(player, await getTeamPagePaths());
+}
+
 export const onRequest = defineMiddleware(async (context, next) => {
   const { url, request } = context;
   const pathname = url.pathname;
@@ -68,12 +90,29 @@ export const onRequest = defineMiddleware(async (context, next) => {
   const redirectTarget = (redirects as Record<string, string>)[cleanPath] || (redirects as Record<string, string>)[decodedPath];
 
   if (redirectTarget) {
+    // redirects.json の行き先が非indexable選手なら、1ホップで最終先へ
+    const finalTarget = await resolvePlayerRedirect(redirectTarget);
+    if (finalTarget) {
+      return new Response(null, {
+        status: 301,
+        headers: { 'Location': encodeURI(finalTarget), 'Cache-Control': 'public, max-age=3600' },
+      });
+    }
     return new Response(null, {
       status: 301,
       headers: {
         'Location': redirectTarget,
         'Cache-Control': 'public, max-age=31536000, immutable'
       }
+    });
+  }
+
+  // 非indexable選手・統合済みslug → チーム名簿アンカーへ301（基準変更で復活し得るので immutable にしない）
+  const playerTarget = await resolvePlayerRedirect(decodedPath);
+  if (playerTarget) {
+    return new Response(null, {
+      status: 301,
+      headers: { 'Location': encodeURI(playerTarget), 'Cache-Control': 'public, max-age=3600' },
     });
   }
 

@@ -7,4 +7,4 @@ source_diff: "2026-08-26_super-rugby.json"
 draft: false
 ---
 
-- [Luke AIKEN](/players/luke-aiken/)がwestern-forceに加入
+- [Luke AIKEN](/teams/super-rugby/western-force/#p-luke-aiken)がwestern-forceに加入

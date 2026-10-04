@@ -7,4 +7,4 @@ source_diff: "2026-08-08_top14.json"
 draft: true
 ---
 
-[Constans DAVILLÉ](/players/constans-daville/)が[カストル](/teams/top14/castres/)（Top14）に加入した。
+[Constans DAVILLÉ](/teams/top14/castres/#p-constans-daville)が[カストル](/teams/top14/castres/)（Top14）に加入した。

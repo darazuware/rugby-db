@@ -7,4 +7,4 @@ source_diff: "2026-08-11_top14.json"
 draft: true
 ---
 
-[Mathys TEYSSIER](/players/mathys-teyssier/)が[リヨン](/teams/top14/lyon/)（Top14）に加入した。
+[Mathys TEYSSIER](/teams/top14/lyon/#p-mathys-teyssier)が[リヨン](/teams/top14/lyon/)（Top14）に加入した。

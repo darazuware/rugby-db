@@ -75,7 +75,7 @@ RWC2027では**プールAでニュージーランド、オーストラリア、�
 
 ※職業・学業の情報は、現地紙 La Tercera（2021年10月31日）およびカトリカ大学工学部の記事（2022年7月21日）で報じられた時点のものです。
 
-大学の工学部でチームメイトが机を並べ、週末は代表として世界と戦う。これがチリ代表の日常です。
+大学の工学部でチームメイトが机を並べ、週末は代表として世界と戦う。これが[チリ代表](/national-teams/chile/)の日常です。
 
 ---
 
@@ -88,7 +88,7 @@ RWC2027では**プールAでニュージーランド、オーストラリア、�
 | Diego Escobar | **[ディエゴ・エスコバル](/players/diego-escobar/)** | HO | [ラシン92](/teams/top14/racing-92/)（仏トップ14） | 26 | **59** |
 | Santiago Videla | **[サンティアゴ・ビデラ](/players/santiago-videla/)** | CTB/SO | シカゴ・ハウンズ（米MLR） | 28 | **37**／通算**216点** |
 | Javier Eissmann | **ハビエル・アイスマン** | LO | アジャン（仏プロD2） | 29 | 36 |
-| Iñaki Ayarza | **[イニャキ・アヤルサ](/players/inaki-ayarza/)** | CTB | [ヴァンヌ](/teams/top14/vannes/)（仏） | 26 | 28 |
+| Iñaki Ayarza | **[イニャキ・アヤルサ](/national-teams/chile/#p-inaki-ayarza)** | CTB | [ヴァンヌ](/teams/top14/vannes/)（仏） | 26 | 28 |
 | Martín Sigren | **マルティン・シグレン**（主将） | BR | ニューイングランド・フリージャックス（米MLR） | 30 | 27 |
 | Matías Dittus | **マティアス・ディトゥス** | PR | アノネー（仏ナショナル） | 33 | 27 |
 

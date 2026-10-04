@@ -7,4 +7,4 @@ source_diff: "2026-08-16_league-one-d1.json"
 draft: false
 ---
 
-[ゲージ・ジャクソン](/players/gage-jackson/)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
+[ゲージ・ジャクソン](/teams/league-one/yokohama-canon-eagles/#p-gage-jackson)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。

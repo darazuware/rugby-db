@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[Dinesvaran KRISHNAN](/players/dinesvaran-krishnan/)がca-legion（mlr）に加入した。
+Dinesvaran KRISHNANがca-legion（mlr）に加入した。

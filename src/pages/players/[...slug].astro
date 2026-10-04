@@ -21,8 +21,11 @@ import {
   canHaveIndividualPlayerPage,
   getAllPlayers,
   getAllSchools,
+  getPlayerAliasSlugs,
   getPlayerEpisodes,
   getTeamById,
+  getTeamPagePaths,
+  playerHref,
   teamDisplayName,
   type Player,
   type School,
@@ -62,6 +65,7 @@ export async function getStaticPaths() {
 }
 
 const { player, legacyKana } = Astro.props as { player: Player; legacyKana: string | null };
+const teamPaths = await getTeamPagePaths();
 
 const team: Team | undefined = player.team_id
   ? await getTeamById(player.team_id)
@@ -86,7 +90,7 @@ const bioSentences = buildPlayerBioSentences(player, { teamName });
 
 // エピソード（JRFU公式/チーム公式/リーグワン公式/主要メディアからのスクレイピング事実のみ。
 // 出典は本文に表示しない: feedback_hide_sources）
-const episodes = await getPlayerEpisodes(player.id);
+const episodes = await getPlayerEpisodes(player.id, player.merged_from);
 const episodeCategoryOrder = ["経歴", "プレースタイル", "人物像", "名言"] as const;
 const episodesByCategory = episodeCategoryOrder
   .map((category) => ({
@@ -96,7 +100,10 @@ const episodesByCategory = episodeCategoryOrder
   .filter((g) => g.facts.length > 0);
 
 // 検証済み公式Instagram（本人アカウントのみ・data/manual/instagram_embeds.json）
-const igEmbed = (igEmbeds as Record<string, { account?: string; permalink?: string }>)[player.slug];
+// IG埋め込みは slug キー。統合された旧 slug（ar_ 側）で登録されているものも拾う
+const aliasSlugs = (await getPlayerAliasSlugs()).get(player.id) ?? [player.slug];
+const igMap = igEmbeds as Record<string, { account?: string; permalink?: string }>;
+const igEmbed = [player.slug, ...aliasSlugs].map((s) => igMap[s]).find((e) => e?.permalink);
 
 // つながりグラフ（P5-4, 10）: 出身校ベースの同期/先輩後輩 + 年代別/セブンズ代表バッジ。
 // 学校→選手インデックスはビルド中一度だけ構築される（lib/connections.ts）。
@@ -570,16 +577,12 @@ const nameVariantsText = nameVariants.length
                         );
                         return (
                           <li class="flex items-center gap-2 p-3 rounded-xl bg-background border border-border-dim">
-                            {canHaveIndividualPlayerPage(mate.player) ? (
-                              <a
-                                href={`/players/${mate.player.slug}`}
-                                class="flex items-center gap-2 min-w-0 hover:text-yellow-600 transition-colors flex-1"
-                              >
-                                {content}
-                              </a>
-                            ) : (
-                              <div class="flex items-center gap-2 min-w-0 flex-1">{content}</div>
-                            )}
+                            <a
+                              href={playerHref(mate.player, teamPaths) === "/players/" ? undefined : playerHref(mate.player, teamPaths)}
+                              class="flex items-center gap-2 min-w-0 hover:text-yellow-600 transition-colors flex-1"
+                            >
+                              {content}
+                            </a>
                           </li>
                         );
                       })}

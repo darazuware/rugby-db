@@ -129,9 +129,9 @@ D2最下位・[日野レッドドルフィンズ](/teams/league-one/hino-red-dol
 | **1** | **スカイアクティブズ広島** | 9 | 9 | 0 | 0 | +236 | **42** |
 | **2** | **[狭山セコムラガッツ](/teams/league-one/secom-rugguts/)** | 9 | 7 | 0 | 2 | +246 | **36** |
 | 3 | [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima/) | 10 | 3 | 0 | 7 | -96 | 17 |
-| 4 | ルリーロ福岡 | 9 | 3 | 1 | 5 | -94 | 15 |
+| 4 | [ルリーロ福岡](/teams/league-one/ruriro-fukuoka/) | 9 | 3 | 1 | 5 | -94 | 15 |
 | 5 | [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins/) | 10 | 3 | 0 | 7 | -181 | 14 |
-| 6 | 中国電力レッドレグリオンズ | 9 | 2 | 1 | 6 | -111 | 11 |
+| 6 | [中国電力レッドレグリオンズ](/teams/league-one/chugoku-electric-red-regulions/) | 9 | 2 | 1 | 6 | -111 | 11 |
 
 ### 広島の全勝伝説 ― 9戦9勝、失う気配なし
 

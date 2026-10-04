@@ -7,4 +7,4 @@ source_diff: "2026-08-31_urc.json"
 draft: false
 ---
 
-[Zach PORTHEN](/players/zachary-porthen/)がSouth Africa代表で初キャップを記録した。
+[Zach PORTHEN](/teams/urc/dhl-stormers/#p-zachary-porthen)がSouth Africa代表で初キャップを記録した。

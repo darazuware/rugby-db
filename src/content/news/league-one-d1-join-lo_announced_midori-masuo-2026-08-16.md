@@ -7,4 +7,4 @@ source_diff: "2026-08-16_league-one-d1.json"
 draft: false
 ---
 
-[舛尾 緑](/players/midori-masuo/)が[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/)（リーグワン）に加入した。
+[舛尾 緑](/teams/league-one/saitama-panasonic-wild-knights/#p-midori-masuo)が[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/)（リーグワン）に加入した。

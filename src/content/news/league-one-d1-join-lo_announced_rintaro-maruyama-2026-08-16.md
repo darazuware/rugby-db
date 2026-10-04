@@ -7,4 +7,4 @@ source_diff: "2026-08-16_league-one-d1.json"
 draft: false
 ---
 
-[丸山 凜太朗](/players/rintaro-maruyama/)が三重ホンダヒート（リーグワン）に加入した。
+[丸山 凜太朗](/leagues/league-one/)が三重ホンダヒート（リーグワン）に加入した。

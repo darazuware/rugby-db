@@ -1,4 +1,5 @@
 import React, { useState, useMemo } from 'react';
+import { calcAge } from '../lib/age';
 
 interface Player {
   name_ja: string;
@@ -8,7 +9,9 @@ interface Player {
   team: string;
   league: string;
   caps: string; // Changed to string for flexibility
-  age: string | null;
+  age: string | null; // 使わない（birth_date から計算）
+  birth_date?: string | null;
+  href?: string | null; // 個別ページ or チーム名簿アンカー
   height: string;
   weight: string;
   caps_display?: string;
@@ -53,7 +56,15 @@ interface Props {
   textColor: string;
 }
 
-const NationalPlayerList: React.FC<Props> = ({ initialPlayers, teamColor, textColor }) => {
+const NationalPlayerList: React.FC<Props> = ({ initialPlayers: rawPlayers, teamColor, textColor }) => {
+  // age 固定値は使わず birth_date から閲覧日基準で計算（docs/adsense/01_DESIGN.md §3）
+  const initialPlayers = useMemo(
+    () => rawPlayers.map(p => {
+      const a = calcAge(p.birth_date);
+      return { ...p, age: a != null ? String(a) : null };
+    }),
+    [rawPlayers],
+  );
   const [sortBy, setSortBy] = useState<string>('caps_desc');
   const [filterPos, setFilterPos] = useState<string>('ALL');
   const [filterLeague, setFilterLeague] = useState<string>('ALL');
@@ -221,7 +232,8 @@ const NationalPlayerList: React.FC<Props> = ({ initialPlayers, teamColor, textCo
         {sortedPlayers.map((player) => (
           <a
             key={player.slug}
-            href={`/players/${player.slug}`}
+            id={`p-${player.slug}`}
+            href={player.href ?? undefined}
             className="group block bg-card/40 backdrop-blur-md border border-border-dim/50 rounded-2xl p-5 hover:border-yellow-400/50 transition-all duration-500 relative overflow-hidden"
           >
             {/* 背景デコレーション */}

@@ -8,6 +8,9 @@
  */
 import { readFile, readdir } from "node:fs/promises";
 import { join } from "node:path";
+import playerPagesData from "../../data/manual/player_pages.json";
+import legacyTeams from "../../data/teams.json";
+import { getTeamSlug } from "../utils/team_utils";
 
 // ---------------------------------------------------------------------------
 // リーグキー（pipeline/schemas.py: TEAM_LEAGUES / NO_TEAM_LEAGUES）
@@ -376,13 +379,109 @@ export function sanitizeMinorPlayer(player: Player): Player {
 }
 
 /**
- * 選手個別ページ（/players/{slug}）を生成してよいか（10「高校生の個別ページは作らない」）。
- * league="highschool" は学校ページ内の一覧行のみで表示し、個別ページは生成しない。
- * 大学進学・U代表/セブンズ代表選出（education の追加や squad/league の変化）により
- * league が highschool 以外になった時点で個別ページ対象になる。
+ * 個別ページ（/players/{slug}/）を持つ選手か（docs/adsense/01_DESIGN.md §1）。
+ * data/manual/player_pages.json（scripts/build_player_pages.py 生成）に id が載っている選手のみ。
+ * 高校生（league="highschool"）は載っていても対象外（10: 学校ページ内の一覧行のみ）。
  */
+let _indexableIds: Set<string> = new Set(
+  ((playerPagesData as { players: { id: string }[] }).players ?? []).map((r) => r.id),
+);
+let _indexableSlugs: Set<string> = new Set(
+  ((playerPagesData as { players: { slug: string }[] }).players ?? []).map((r) => r.slug),
+);
+
+/** テスト用: 個別ページ対象 id/slug を差し替える（引数なしで player_pages.json に戻す）。 */
+export function __setIndexablePlayersForTests(rows?: { id: string; slug: string }[]): void {
+  const src = rows ?? (playerPagesData as { players: { id: string; slug: string }[] }).players;
+  _indexableIds = new Set(src.map((r) => r.id));
+  _indexableSlugs = new Set(src.map((r) => r.slug));
+}
+
+export function isIndexablePlayer(player: Pick<Player, "id" | "league">): boolean {
+  return player.league !== "highschool" && _indexableIds.has(player.id);
+}
+
+/** slug が個別ページを持つか（middleware 用。同一 slug の別 id が混在しても1件でも対象なら true）。 */
+export function isIndexablePlayerSlug(slug: string): boolean {
+  return _indexableSlugs.has(slug);
+}
+
+/** 個別ページ（/players/{slug}/）を生成してよいか。isIndexablePlayer と同義。 */
 export function canHaveIndividualPlayerPage(player: Player): boolean {
-  return player.league !== "highschool";
+  return isIndexablePlayer(player);
+}
+
+// ---------------------------------------------------------------------------
+// 個別ページを持たない選手のリンク先（チーム名簿アンカー）
+// ---------------------------------------------------------------------------
+
+/** master の league → 旧UI/URL の league キー（/teams/{league}/{slug}/, /leagues/{league}/）。 */
+function legacyLeagueKey(league: LeagueKey): string | null {
+  if (league.startsWith("league-one")) return "league-one";
+  if (["top14", "super-rugby", "urc", "premiership"].includes(league)) return league;
+  return null;
+}
+
+const NATIONAL_TEAM_SLUGS = new Set([
+  "japan", "new-zealand", "south-africa", "france", "ireland", "england", "australia",
+  "scotland", "wales", "argentina", "fiji", "italy", "georgia", "samoa", "tonga", "zimbabwe",
+  "usa", "canada", "uruguay", "chile", "portugal", "spain", "hong-kong", "romania",
+]);
+
+const _legacyTeamSlugSet = new Set(
+  (legacyTeams as { league: string; slug: string }[]).map((t) => `${t.league}/${t.slug}`),
+);
+
+let _teamPagePathsCache: Promise<Map<string, string>> | null = null;
+
+/** master の team_id → チームページのパス（/teams/{league}/{slug}/）。ページが無いチームは含まない。 */
+export function getTeamPagePaths(): Promise<Map<string, string>> {
+  if (!_teamPagePathsCache) {
+    _teamPagePathsCache = getAllTeams().then((teams) => {
+      const map = new Map<string, string>();
+      for (const t of teams) {
+        const lg = legacyLeagueKey(t.league);
+        if (!lg) continue;
+        const cands = [t.name_ja, t.name_en]
+          .filter((n): n is string => !!n)
+          .map((n) => getTeamSlug(n));
+        cands.push(t.id);
+        const slug = cands.find((c) => _legacyTeamSlugSet.has(`${lg}/${c}`));
+        if (slug) map.set(t.id, `/teams/${lg}/${slug}/`);
+      }
+      return map;
+    });
+  }
+  return _teamPagePathsCache;
+}
+
+/**
+ * 個別ページを持たない選手の遷移先（301・内部リンク共用）。
+ * 1. 所属チームのページ → /teams/{league}/{team}/#p-{slug}（名簿行アンカー）
+ * 2. 代表（国別）→ /national-teams/{team}/#p-{slug}
+ * 3. チーム不明 → /leagues/{league}/（存在するリーグのみ）
+ * 4. それ以外 → /players/
+ */
+export function playerFallbackPath(
+  player: Pick<Player, "slug" | "team_id" | "league">,
+  teamPaths: Map<string, string>,
+): string {
+  const teamPath = player.team_id ? teamPaths.get(player.team_id) : undefined;
+  if (teamPath) return `${teamPath}#p-${player.slug}`;
+  if (player.team_id && NATIONAL_TEAM_SLUGS.has(player.team_id)) {
+    return `/national-teams/${player.team_id}/#p-${player.slug}`;
+  }
+  const lg = legacyLeagueKey(player.league);
+  if (lg) return `/leagues/${lg}/`;
+  return "/players/";
+}
+
+/** 選手へのリンク先。個別ページがあればそこ、無ければチーム名簿アンカー。リンク生成は必ずこれを通す。 */
+export function playerHref(
+  player: Pick<Player, "id" | "slug" | "team_id" | "league">,
+  teamPaths: Map<string, string>,
+): string {
+  return isIndexablePlayer(player) ? `/players/${player.slug}/` : playerFallbackPath(player, teamPaths);
 }
 
 /**
@@ -452,6 +551,71 @@ async function getPlayerSlugIndex(): Promise<Map<string, Player>> {
 export async function getPlayerBySlug(slug: string): Promise<Player | undefined> {
   const index = await getPlayerSlugIndex();
   return index.get(slug);
+}
+
+let _slugResolutionCache: Promise<Map<string, Player>> | null = null;
+
+/**
+ * slug → 現存する選手（統合後）。player_merges で統合された旧 slug も canonical に解決する。
+ * middleware が 301 の行き先を決めるのに使う（非indexable・統合済み slug 用）。
+ */
+export function getPlayerSlugResolution(): Promise<Map<string, Player>> {
+  if (!_slugResolutionCache) {
+    _slugResolutionCache = (async () => {
+      const [raw, merges, players] = await Promise.all([
+        loadAllPlayersRaw(),
+        loadPlayerMerges(),
+        getAllPlayers(),
+      ]);
+      const byId = new Map(players.map((p) => [p.id, p]));
+      const map = new Map<string, Player>();
+      for (const p of raw) {
+        const canon = byId.get(merges[p.id] ?? p.id);
+        if (canon && !map.has(p.slug)) map.set(p.slug, canon);
+      }
+      // 現存選手の slug は優先。同一 slug の別人物が混在する場合は個別ページ対象を優先する。
+      const direct = new Map<string, Player>();
+      for (const p of players) {
+        if (!direct.has(p.slug) || isIndexablePlayer(p)) direct.set(p.slug, p);
+      }
+      for (const [slug, p] of direct) map.set(slug, p);
+      return map;
+    })();
+  }
+  return _slugResolutionCache;
+}
+
+/**
+ * slug → リンク先（個別ページ or チーム名簿アンカー）。master に存在しない slug・行き先が無い選手は null。
+ * レガシー content collection の slug など、Player オブジェクトを持たない箇所のリンク生成用。
+ */
+export async function getPlayerHrefResolver(): Promise<(slug: string) => string | null> {
+  const [resolution, teamPaths] = await Promise.all([getPlayerSlugResolution(), getTeamPagePaths()]);
+  return (slug: string) => {
+    if (isIndexablePlayerSlug(slug)) return `/players/${slug}/`;
+    const p = resolution.get(slug);
+    if (!p) return null;
+    const href = playerHref(p, teamPaths);
+    return href === "/players/" ? null : href; // 行き先が一覧しかない選手はリンクしない
+  };
+}
+
+let _aliasSlugCache: Promise<Map<string, string[]>> | null = null;
+
+/** 選手 id → その人物に解決される slug 一覧（統合された旧 slug を含む。slug キーの手動データ参照用）。 */
+export function getPlayerAliasSlugs(): Promise<Map<string, string[]>> {
+  if (!_aliasSlugCache) {
+    _aliasSlugCache = getPlayerSlugResolution().then((resolution) => {
+      const map = new Map<string, string[]>();
+      for (const [slug, p] of resolution) {
+        const list = map.get(p.id);
+        if (list) list.push(slug);
+        else map.set(p.id, [slug]);
+      }
+      return map;
+    });
+  }
+  return _aliasSlugCache;
 }
 
 export async function getPlayerById(id: string): Promise<Player | undefined> {
@@ -615,8 +779,16 @@ export interface PlayerEpisodes {
   facts: PlayerEpisodeFact[];
 }
 
-export async function getPlayerEpisodes(playerId: string): Promise<PlayerEpisodes | null> {
-  return readJsonSafe<PlayerEpisodes | null>(join(EPISODES_DIR, `${playerId}.json`), null);
+export async function getPlayerEpisodes(
+  playerId: string,
+  mergedFrom: string[] = [],
+): Promise<PlayerEpisodes | null> {
+  // 統合（player_merges）で消えた旧 id 側にエピソードがある場合も拾う
+  for (const id of [playerId, ...mergedFrom]) {
+    const ep = await readJsonSafe<PlayerEpisodes | null>(join(EPISODES_DIR, `${id}.json`), null);
+    if (ep) return ep;
+  }
+  return null;
 }
 
 // ---------------------------------------------------------------------------
@@ -624,6 +796,9 @@ export async function getPlayerEpisodes(playerId: string): Promise<PlayerEpisode
 // ---------------------------------------------------------------------------
 
 export function __resetMasterCacheForTests(): void {
+  _aliasSlugCache = null;
+  _slugResolutionCache = null;
+  _teamPagePathsCache = null;
   _playersCache = null;
   _playerBySlugCache = null;
   _teamsCache = null;

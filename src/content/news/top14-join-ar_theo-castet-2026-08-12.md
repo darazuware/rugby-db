@@ -7,4 +7,4 @@ source_diff: "2026-08-12_top14.json"
 draft: true
 ---
 
-[Théo CASTET](/players/theo-castet/)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。
+[Théo CASTET](/teams/top14/toulouse/#p-theo-castet)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。

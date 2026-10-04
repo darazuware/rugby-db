@@ -7,4 +7,4 @@ source_diff: "2026-09-07_premiership.json"
 draft: false
 ---
 
-[Edoardo TODARO](/players/edoardo-todaro/)がItaly代表で初キャップを記録した。
+[Edoardo TODARO](/teams/premiership/northampton-saints/#p-edoardo-todaro)がItaly代表で初キャップを記録した。

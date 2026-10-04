@@ -7,4 +7,4 @@ source_diff: "2026-08-18_mlr.json"
 draft: true
 ---
 
-[Justice NKOMBUA](/players/justice-nkombua/)がnew-england-free-jacks（mlr）に加入した。
+Justice NKOMBUAがnew-england-free-jacks（mlr）に加入した。

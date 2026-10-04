@@ -7,4 +7,4 @@ source_diff: "2026-08-10_top14.json"
 draft: true
 ---
 
-[Arthur AZÉMA](/players/arthur-azema/)が[モンペリエ](/teams/top14/montpellier/)（Top14）に加入した。
+[Arthur AZÉMA](/teams/top14/montpellier/#p-arthur-azema)が[モンペリエ](/teams/top14/montpellier/)（Top14）に加入した。
