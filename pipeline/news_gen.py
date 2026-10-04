@@ -703,6 +703,9 @@ def main(argv: Optional[list[str]] = None) -> int:
         total += len(articles)
         print(f"[news] {league}: {len(articles)} 記事生成 ({source_diff})")
 
+    if total:
+        from . import news_rollup
+        news_rollup.run()
     print(f"[news] 合計 {total} 記事")
     return 0
 

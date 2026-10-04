@@ -42,7 +42,7 @@ docs/adsense/TASKS.md の共通ルールとT2、docs/adsense/01_DESIGN.md を読
 ```
 
 ## T3 短信ニュースの統合【Sonnet 中】
-状態：未着手
+状態：✅完了 2026-10-04 — 公開中の短信77本を月次まとめ3本（transfers-roundup-2026-07/08/09）に統合、旧URLは data/redirects.json で301。pipeline/news_rollup.py を news_gen 末尾に接続し今後は追記方式。個別ページ選手 260→276人（まとめ記事の言及で昇格）。7月まとめのみ約700字。draft 92本・手書き短め記事は未対象
 
 プロンプト：
 ```
