@@ -132,7 +132,7 @@ docs/adsense/TASKS.md の共通ルールとT7を読んで実行して。
 ```
 
 ## T8 特集記事執筆【Sonnet 中】
-状態：未着手
+状態：✅完了 2026-10-05 — 3本公開（rwc2027-travel-guide / how-to-watch-japan-tests / rugby-gear-by-position、各5,000字以上）。ビザ・直行便・チケットは二次情報のため「公式で要確認」明記（immi.homeaffairs.gov.auは403で直接確認不可）。ビルド成功
 
 プロンプト：
 ```
