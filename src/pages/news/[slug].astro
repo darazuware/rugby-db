@@ -4,6 +4,7 @@ import AuthorBox from "../../components/AuthorBox.astro";
 import { getCollection, getEntry, type CollectionEntry } from "astro:content";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import MagazineBanner from "../../components/MagazineBanner.astro";
+import AffiliateSlot from "../../components/AffiliateSlot.astro";
 
 export const prerender = true;
 
@@ -33,6 +34,10 @@ const articleDescription =
   entry.data.description ?? `${entry.data.title}に関するRUGBY PICKSのニュース記事です。`;
 const articlePublishedAt = entry.data.pubDate.toISOString();
 const articleModifiedAt = (entry.data.updatedDate ?? entry.data.pubDate).toISOString();
+
+// 試合レビュー記事（slugが -review で終わる）には配信サービス枠を自動挿入
+const isMatchReview = /-review$/.test(slug);
+const slotKind = isMatchReview || /^how-to-watch/.test(slug) ? "watch" : /^rwc2027-travel/.test(slug) ? "travel" : /^rugby-gear/.test(slug) ? "gear" : null;
 
 // 本文に Instagram 埋め込みがあるときだけ embed.js を読み込む
 const hasInstagram = /instagram-media/.test(entry.body ?? "");
@@ -110,6 +115,8 @@ const formatDate = (date: Date) => {
         >
           <Content />
         </div>
+
+        {slotKind && <AffiliateSlot kind={slotKind} ids={isMatchReview ? ["jsports", "dazn"] : undefined} />}
 
         <AuthorBox />
 

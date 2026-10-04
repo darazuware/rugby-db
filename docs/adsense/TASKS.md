@@ -117,7 +117,7 @@ docs/adsense/TASKS.md の共通ルールとT6修正、docs/adsense/06_AUDIT.md�
 ```
 
 ## T7 アフィリエイト導入【Sonnet 中】
-状態：未着手
+状態：✅完了 2026-10-05 — AffiliateSlot（配信/用品/旅行、ASP_LINKS未設定なら非表示）を作成し、-review記事末尾と/resultsに配信枠を挿入。特集3本の構成案は 07_AFFILIATE.md。ASP登録手順をTelegram送信。リンク貼付はユーザーのASP承認後
 
 プロンプト：
 ```
@@ -129,4 +129,17 @@ docs/adsense/TASKS.md の共通ルールとT7を読んで実行して。
 4. 必要なASP登録（A8.net・もしも等）をユーザー操作として平易に列挙しTelegram送信
 5. 賭博系は扱わない
 完了したら共通ルールの完了条件どおりに終える（次タスクは特集記事執筆【Sonnet 中】として作成）。
+```
+
+## T8 特集記事執筆【Sonnet 中】
+状態：未着手
+
+プロンプト：
+```
+docs/adsense/TASKS.md の共通ルールとT8、docs/adsense/07_AFFILIATE.md の「特集記事の構成案」を読んで実行して。
+やること：
+1. RWC2027観戦ガイド・視聴方法ガイド・ポジション別用品選びの3本を src/content/news に draft: false で作成（各2,000字以上）。事実（大会日程・会場・ビザ・料金）は公式ソースをWebで確認し、確認できない項目は「公式で要確認」と書く（AI知識で断定しない）
+2. 枠は news/[slug].astro が slug で自動挿入済み（rwc2027-travel*→travel、rugby-gear*→gear、how-to-watch*→watch）。slugをこの命名にする。記事本文は内部リンクのみ
+3. 賭博系は扱わない。ビルド確認
+完了したら共通ルールの完了条件どおりに終える。
 ```

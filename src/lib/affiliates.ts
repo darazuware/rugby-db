@@ -125,3 +125,49 @@ export const FLIGHT_PROVIDERS: Record<string, FlightProvider> = {
 export function getFlightProviders(): FlightProvider[] {
     return Object.values(FLIGHT_PROVIDERS);
 }
+
+// ---- T7: ASP発行リンク（アフィリエイト枠用） ----
+// ユーザーがASP管理画面で取得したリンクをここに貼る。空文字のうちは AffiliateSlot が枠ごと非表示にする。
+// キーは WATCH_PROVIDERS / 用品 / 旅行 の id。AIは実リンクを書かない。
+export const ASP_LINKS: Record<string, string> = {
+    // 配信サービス
+    dazn: "",
+    jsports: "",
+    wowow: "",
+    skyperfectv: "",
+    // 用品（Amazon/楽天 等）
+    "gear-spikes": "",
+    "gear-protein": "",
+    "gear-ball": "",
+    // 旅行（RWC2027等）
+    skyticket: "",
+    expedia: "",
+    agoda: "",
+    bookingcom: "",
+    "travel-wifi": "",
+    "travel-insurance": "",
+};
+
+export const ASP_LABELS: Record<string, string> = {
+    dazn: "DAZN", jsports: "J SPORTS", wowow: "WOWOW", skyperfectv: "スカパー!",
+    "gear-spikes": "ラグビースパイクを探す", "gear-protein": "プロテインを探す", "gear-ball": "ラグビーボールを探す",
+    skyticket: "航空券を探す（skyticket）", expedia: "航空券・ホテル（Expedia）",
+    agoda: "ホテルを探す（Agoda）", bookingcom: "ホテルを探す（Booking.com）",
+    "travel-wifi": "海外Wi-Fiをレンタル", "travel-insurance": "海外旅行保険を比較",
+};
+
+export type SlotKind = "watch" | "gear" | "travel";
+
+export const SLOT_ITEMS: Record<SlotKind, { heading: string; ids: string[] }> = {
+    watch: { heading: "配信サービス", ids: ["jsports", "dazn", "wowow", "skyperfectv"] },
+    gear: { heading: "ラグビー用品", ids: ["gear-spikes", "gear-protein", "gear-ball"] },
+    travel: { heading: "観戦旅行", ids: ["skyticket", "expedia", "agoda", "bookingcom", "travel-wifi", "travel-insurance"] },
+};
+
+/** 枠に出すリンク（ASPリンクが設定済みのものだけ）。ids指定で絞り込み */
+export function getSlotLinks(kind: SlotKind, onlyIds?: string[]): { id: string; label: string; url: string }[] {
+    return SLOT_ITEMS[kind].ids
+        .filter((id) => !onlyIds || onlyIds.includes(id))
+        .map((id) => ({ id, label: ASP_LABELS[id], url: ASP_LINKS[id]?.trim() ?? "" }))
+        .filter((l) => /^https?:\/\//.test(l.url));
+}

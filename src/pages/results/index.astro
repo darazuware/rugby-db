@@ -7,6 +7,7 @@ import teamsData from "../../../data/teams.json";
 
 import { getTeamLink, normalizeTeam, groupByRound } from "../../utils/result_utils";
 import PRNotice from "../../components/PRNotice.astro";
+import AffiliateSlot from "../../components/AffiliateSlot.astro";
 import WatchButton from "../../components/WatchButton.astro";
 
 const leagues = [
@@ -63,6 +64,7 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
                 2025-26シーズンの全試合結果。常に最新の試合を最上部に表示。
             </p>
             <PRNotice />
+            <AffiliateSlot kind="watch" ids={["jsports", "dazn"]} class="mt-6" />
         </header>
 
         <div class="flex flex-col gap-4 mb-12" id="filter-wrapper">

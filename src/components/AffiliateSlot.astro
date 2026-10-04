@@ -1,0 +1,36 @@
+---
+// アフィリエイト枠（配信サービス / 用品 / 旅行）。ASPリンクが未設定なら何も出さない。
+// リンクは src/lib/affiliates.ts の ASP_LINKS に貼る。参照: docs/adsense/07_AFFILIATE.md
+import { getSlotLinks, AFFILIATE_LINK_ATTRS, SLOT_ITEMS, PR_NOTICE_TEXT, type SlotKind } from "../lib/affiliates";
+
+interface Props {
+    kind: SlotKind;
+    /** 表示するidを絞る（例: 試合の視聴先のみ） */
+    ids?: string[];
+    class?: string;
+}
+const { kind, ids, class: className = "" } = Astro.props;
+const links = getSlotLinks(kind, ids);
+---
+
+{
+    links.length > 0 && (
+        <aside class={`my-10 rounded-2xl border border-border-dim bg-foreground/5 p-5 ${className}`}>
+            <p class="text-[10px] font-black uppercase tracking-widest text-foreground/50 mb-3">
+                {SLOT_ITEMS[kind].heading}　<span class="font-bold normal-case tracking-normal">※ {PR_NOTICE_TEXT}</span>
+            </p>
+            <div class="flex flex-wrap gap-2">
+                {links.map((l) => (
+                    <a
+                        href={l.url}
+                        rel={AFFILIATE_LINK_ATTRS.rel}
+                        target={AFFILIATE_LINK_ATTRS.target}
+                        class="inline-flex items-center px-5 py-2.5 bg-yellow-400 text-black rounded-xl font-black text-xs hover:bg-yellow-300 transition-colors"
+                    >
+                        {l.label}
+                    </a>
+                ))}
+            </div>
+        </aside>
+    )
+}
