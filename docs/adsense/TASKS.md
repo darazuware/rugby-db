@@ -101,7 +101,7 @@ docs/adsense/TASKS.md の共通ルールとT6を読んで実行して。
 ```
 
 ## T6修正 薄いページのnoindex化・統合【Sonnet 中】
-状態：未着手
+状態：✅完了 2026-10-05 — 選手263人・チーム56件・dream-team/magazine/notice/sitemapをnoindex＋サイトマップ除外（thin_pages.json、scripts/build_thin_pages.py）、短信5本＋7月まとめを8/9月まとめへ統合301。本番再計測：サイトマップ600→270URL、800字未満14件=5.2%（≦10%達成）。計測 docs/adsense/06_audit_textlen_after.tsv。次＝Search Console反映確認→2〜4週間後に再申請（T7並行可）
 
 プロンプト：
 ```
