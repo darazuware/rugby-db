@@ -143,3 +143,6 @@ docs/adsense/TASKS.md の共通ルールとT8、docs/adsense/07_AFFILIATE.md の
 3. 賭博系は扱わない。ビルド確認
 完了したら共通ルールの完了条件どおりに終える。
 ```
+
+## T9 再申請準備確認
+状態：✅完了 2026-10-05 — 薄いページ5.2%・noindex混入0・運営者情報/ポリシー/ads.txt全OK。再申請OK（Search Console反映確認はユーザー）。T8特集3本はJST07:00自動公開。詳細 docs/adsense/08_READINESS.md
