@@ -77,8 +77,25 @@ const ISO_BY_EN: Record<string, string> = {
   "South Africa": "ZA",
 };
 
+const normName = (n: string): string =>
+  n.toLowerCase().replace(/[’‘`]/g, "'").replace(/&/g, 'and').replace(/\bst\.? /g, 'saint ')
+    .replace(/\b(the|island)\b/g, '').replace(/\s+/g, ' ').trim();
+
+Object.assign(ISO_BY_EN, {
+  "Niue": "NU", "Saint Kitts and Nevis": "KN", "Antigua and Barbuda": "AG", "Grenada": "GD", "Dominica": "DM",
+  "Turks and Caicos": "TC", "British Virgin Islands": "VG", "US Virgin Islands": "VI", "Aruba": "AW",
+  "Sint Maarten": "SX", "Suriname": "SR", "Belize": "BZ", "Nicaragua": "NI", "Gibraltar": "GI",
+  "Isle of Man": "IM", "Jersey": "JE", "Guernsey": "GG", "Faroe Islands": "FO", "Liechtenstein": "LI",
+  "San Marino": "SM", "Kosovo": "XK", "Georgia ": "GE", "Samoa ": "WS", "Cook Islands ": "CK",
+  "Fiji ": "FJ", "East Timor": "TL", "Timor-Leste": "TL", "Maldives": "MV", "Bhutan": "BT", "Palestine": "PS",
+  "Yemen": "YE", "Libya": "LY", "Sudan": "SD", "South Sudan": "SS", "Somalia": "SO", "Angola": "AO",
+  "DR Congo": "CD", "Democratic Republic of Congo": "CD", "Congo": "CG", "Cape Verde": "CV", "Gambia": "GM",
+  "Sierra Leone": "SL", "Liberia": "LR", "Guinea": "GN", "Niger": "NE", "Chad": "TD", "Mauritania": "MR",
+  "Seychelles": "SC", "Comoros": "KM", "Djibouti": "DJ", "Eritrea": "ER", "Namibia ": "NA",
+});
+
 const ISO_BY_EN_LOWER: Record<string, string> = Object.fromEntries(
-  Object.entries(ISO_BY_EN).map(([k, v]) => [k.toLowerCase(), v]),
+  Object.entries(ISO_BY_EN).map(([k, v]) => [normName(k), v]),
 );
 
 const ENG_FLAGS: Record<string, string> = {
@@ -92,7 +109,7 @@ function resolveFlag(jp: string, en: string): string {
   if (FLAG_MAP[jp]) return FLAG_MAP[jp];
   if (FLAG_MAP[en]) return FLAG_MAP[en];
   if (ENG_FLAGS[en]) return ENG_FLAGS[en];
-  const iso = ISO_BY_EN[en] ?? ISO_BY_EN_LOWER[en.toLowerCase()];
+  const iso = ISO_BY_EN[en] ?? ISO_BY_EN_LOWER[normName(en)];
   return iso ? isoToFlag(iso) : '';
 }
 
