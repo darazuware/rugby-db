@@ -77,6 +77,10 @@ const ISO_BY_EN: Record<string, string> = {
   "South Africa": "ZA",
 };
 
+const ISO_BY_EN_LOWER: Record<string, string> = Object.fromEntries(
+  Object.entries(ISO_BY_EN).map(([k, v]) => [k.toLowerCase(), v]),
+);
+
 const ENG_FLAGS: Record<string, string> = {
   England: '🏴󠁧󠁢󠁥󠁮󠁧󠁿', Wales: '🏴󠁧󠁢󠁷󠁬󠁳󠁿', Scotland: '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
 };
@@ -88,7 +92,7 @@ function resolveFlag(jp: string, en: string): string {
   if (FLAG_MAP[jp]) return FLAG_MAP[jp];
   if (FLAG_MAP[en]) return FLAG_MAP[en];
   if (ENG_FLAGS[en]) return ENG_FLAGS[en];
-  const iso = ISO_BY_EN[en];
+  const iso = ISO_BY_EN[en] ?? ISO_BY_EN_LOWER[en.toLowerCase()];
   return iso ? isoToFlag(iso) : '';
 }
 
