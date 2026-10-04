@@ -41,6 +41,57 @@ const FLAG_MAP: Record<string, string> = {
   'ウガンダ': '🇺🇬', 'クック諸島': '🇨🇰', 'パプアニューギニア': '🇵🇬',
 };
 
+// 英語名 → ISO国コード（FLAG_MAPに無い国の国旗を生成する）
+const ISO_BY_EN: Record<string, string> = {
+  "Chinese Taipei": "TW", "Taiwan": "TW", "Ivory Coast": "CI", "Côte d'Ivoire": "CI", "Cote d'Ivoire": "CI",
+  "Czechia": "CZ", "Czech Republic": "CZ", "Poland": "PL", "Sweden": "SE", "Lithuania": "LT", "Latvia": "LV",
+  "Ukraine": "UA", "Moldova": "MD", "Croatia": "HR", "Serbia": "RS", "Slovenia": "SI", "Slovakia": "SK",
+  "Hungary": "HU", "Bulgaria": "BG", "Malta": "MT", "Norway": "NO", "Denmark": "DK", "Finland": "FI",
+  "Andorra": "AD", "Austria": "AT", "Luxembourg": "LU", "Monaco": "MC", "Israel": "IL", "Greece": "GR",
+  "Turkey": "TR", "Türkiye": "TR", "Bosnia & Herzegovina": "BA", "Bosnia and Herzegovina": "BA", "Cyprus": "CY",
+  "Lebanon": "LB", "Iran": "IR", "Jordan": "JO", "Uzbekistan": "UZ", "Singapore": "SG", "Thailand": "TH",
+  "India": "IN", "Indonesia": "ID", "Pakistan": "PK", "Vietnam": "VN", "Laos": "LA", "Cambodia": "KH",
+  "Mongolia": "MN", "Guam": "GU", "Fiji": "FJ", "Solomon Islands": "SB", "Vanuatu": "VU", "New Caledonia": "NC",
+  "Tahiti": "PF", "American Samoa": "AS", "Niue": "NU", "Tuvalu": "TV", "Nauru": "NR", "Palau": "PW",
+  "Senegal": "SN", "Madagascar": "MG", "Mauritius": "MU", "Morocco": "MA", "Tunisia": "TN", "Zambia": "ZM",
+  "Botswana": "BW", "Nigeria": "NG", "Ghana": "GH", "Cameroon": "CM", "Burkina Faso": "BF", "Mali": "ML",
+  "Tanzania": "TZ", "Rwanda": "RW", "Burundi": "BI", "Malawi": "MW", "Mozambique": "MZ", "Eswatini": "SZ",
+  "Swaziland": "SZ", "Lesotho": "LS", "Ethiopia": "ET", "Egypt": "EG", "Togo": "TG", "Benin": "BJ",
+  "Gabon": "GA", "Mexico": "MX", "Paraguay": "PY", "Peru": "PE", "Venezuela": "VE", "Bolivia": "BO",
+  "Ecuador": "EC", "Costa Rica": "CR", "Panama": "PA", "Guatemala": "GT", "El Salvador": "SV", "Honduras": "HN",
+  "Jamaica": "JM", "Trinidad & Tobago": "TT", "Trinidad and Tobago": "TT", "Barbados": "BB", "Bahamas": "BS",
+  "Bermuda": "BM", "Cayman Islands": "KY", "Guyana": "GY", "Saint Vincent and the Grenadines": "VC",
+  "St Vincent & The Grenadines": "VC", "Saint Lucia": "LC", "Curacao": "CW", "Curaçao": "CW", "Cuba": "CU",
+  "Dominican Republic": "DO", "Haiti": "HT", "Puerto Rico": "PR", "Belarus": "BY", "Estonia": "EE", "Albania": "AL",
+  "North Macedonia": "MK", "Montenegro": "ME", "Iceland": "IS", "Kyrgyzstan": "KG", "Tajikistan": "TJ",
+  "Azerbaijan": "AZ", "Armenia": "AM", "Qatar": "QA", "UAE": "AE", "United Arab Emirates": "AE", "Bahrain": "BH",
+  "Kuwait": "KW", "Saudi Arabia": "SA", "Oman": "OM", "Syria": "SY", "Iraq": "IQ", "Afghanistan": "AF",
+  "Bangladesh": "BD", "Nepal": "NP", "Myanmar": "MM", "Brunei": "BN", "Macau China": "MO", "Macau": "MO",
+  "Japan": "JP", "Samoa": "WS", "Tonga": "TO", "Uganda": "UG", "Kenya": "KE", "Zimbabwe": "ZW", "Namibia": "NA",
+  "Algeria": "DZ", "Colombia": "CO", "Kazakhstan": "KZ", "Sri Lanka": "LK", "Philippines": "PH", "Malaysia": "MY",
+  "South Korea": "KR", "Korea": "KR", "China": "CN", "Hong Kong China": "HK", "Hong Kong": "HK",
+  "Cook Islands": "CK", "Papua New Guinea": "PG", "Russia": "RU", "Brazil": "BR", "Belgium": "BE",
+  "Switzerland": "CH", "Germany": "DE", "Netherlands": "NL", "Spain": "ES", "Portugal": "PT", "Romania": "RO",
+  "Chile": "CL", "Uruguay": "UY", "Georgia": "GE", "Canada": "CA", "USA": "US", "United States": "US",
+  "Argentina": "AR", "Italy": "IT", "Ireland": "IE", "France": "FR", "Australia": "AU", "New Zealand": "NZ",
+  "South Africa": "ZA",
+};
+
+const ENG_FLAGS: Record<string, string> = {
+  England: '🏴󠁧󠁢󠁥󠁮󠁧󠁿', Wales: '🏴󠁧󠁢󠁷󠁬󠁳󠁿', Scotland: '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
+};
+
+const isoToFlag = (iso: string): string =>
+  [...iso.toUpperCase()].map((c) => String.fromCodePoint(0x1f1e6 + c.charCodeAt(0) - 65)).join('');
+
+function resolveFlag(jp: string, en: string): string {
+  if (FLAG_MAP[jp]) return FLAG_MAP[jp];
+  if (FLAG_MAP[en]) return FLAG_MAP[en];
+  if (ENG_FLAGS[en]) return ENG_FLAGS[en];
+  const iso = ISO_BY_EN[en];
+  return iso ? isoToFlag(iso) : '';
+}
+
 export interface RankingEntry {
   rank: number;
   previousRank: number;
@@ -81,7 +132,7 @@ async function fetchCategory(cat: 'mru' | 'wru'): Promise<{ date: string; rankin
         team_en: en,
         team_jp: jp,
         abbreviation: e?.team?.abbreviation ?? '',
-        flag: FLAG_MAP[jp] ?? FLAG_MAP[en] ?? '',
+        flag: resolveFlag(jp, en),
       };
     }),
   };
