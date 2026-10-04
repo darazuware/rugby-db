@@ -1,5 +1,6 @@
 ---
 import Layout from "../../layouts/Layout.astro";
+import AuthorBox from "../../components/AuthorBox.astro";
 import { getCollection, getEntry, type CollectionEntry } from "astro:content";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import MagazineBanner from "../../components/MagazineBanner.astro";
@@ -28,6 +29,10 @@ if (!entry || entry.data.draft) {
 }
 
 const { Content } = await entry.render();
+const articleDescription =
+  entry.data.description ?? `${entry.data.title}に関するRUGBY PICKSのニュース記事です。`;
+const articlePublishedAt = entry.data.pubDate.toISOString();
+const articleModifiedAt = (entry.data.updatedDate ?? entry.data.pubDate).toISOString();
 
 // 本文に Instagram 埋め込みがあるときだけ embed.js を読み込む
 const hasInstagram = /instagram-media/.test(entry.body ?? "");
@@ -41,7 +46,26 @@ const formatDate = (date: Date) => {
 };
 ---
 
-<Layout title={`${entry.data.title} | ニュース | RUGBY PICKS`}>
+<Layout
+  title={`${entry.data.title} | ニュース | RUGBY PICKS`}
+  description={articleDescription}
+  lastmod={articleModifiedAt}
+>
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    headline: entry.data.title,
+    description: articleDescription,
+    datePublished: articlePublishedAt,
+    dateModified: articleModifiedAt,
+    mainEntityOfPage: Astro.url.href,
+    publisher: {
+      "@type": "Organization",
+      name: "RUGBY PICKS",
+      url: Astro.site?.href,
+    },
+    author: { "@type": "Person", name: "RUGBY PICKS 運営者", url: new URL("/about", Astro.site).href },
+  })} />
   <div class="py-4">
     <Breadcrumbs
       items={[
@@ -86,6 +110,8 @@ const formatDate = (date: Date) => {
         >
           <Content />
         </div>
+
+        <AuthorBox />
 
         <div class="mt-16">
           <MagazineBanner />

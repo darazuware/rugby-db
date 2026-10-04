@@ -2,6 +2,7 @@
 import "../styles/global.css";
 import ThemeToggle from "../components/ThemeToggle";
 import RightSidebar from "../components/RightSidebar.astro";
+import AdSenseUnit from "../components/AdSenseUnit.astro";
 
 interface Props {
 	title: string;
@@ -14,7 +15,7 @@ interface Props {
 
 const {
 	title,
-	description = "RUGBY PICKS（ラグビーピックス）は、世界中のラグビー選手情報をリアルタイム検索できる日本最大級の名鑑データベースです。リーグワン、TOP 14、SUPER RUGBY、URCの全選手を網羅。年齢・身長・体重等でのソートも可能。",
+	description = "RUGBY PICKS（ラグビーピックス）は、リーグワン・日本代表・海外リーグの試合結果、移籍、注目選手を日本語で読めるラグビーメディアです。RWC2027に向けた特集も掲載。",
 	sidebarType = "default",
 	activeLeague,
 	activeRound,
@@ -23,6 +24,7 @@ const {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const ogImageURL = new URL("/ogp-image.png", Astro.site);
+const sidebarAdSlot = import.meta.env.PUBLIC_ADSENSE_SIDEBAR_SLOT;
 ---
 
 <!DOCTYPE html>
@@ -123,6 +125,11 @@ const ogImageURL = new URL("/ogp-image.png", Astro.site);
 					class="flex-1 flex flex-wrap justify-center xs:justify-end items-center gap-x-3 gap-y-2.5 xs:gap-4 sm:gap-8 md:gap-12 lg:gap-16 font-black tracking-widest text-[11px] xs:text-[14px] sm:text-[15px]"
 				>
 					<a
+						href="/news"
+						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap flex-shrink-0"
+						>ニュース</a
+					>
+					<a
 						href="/leagues"
 						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap flex-shrink-0"
 						>リーグ</a
@@ -138,19 +145,14 @@ const ogImageURL = new URL("/ogp-image.png", Astro.site);
 						>世界ランキング</a
 					>
 					<a
-						href="/players"
-						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap flex-shrink-0"
-						>名鑑</a
-					>
-					<a
 						href="/results"
 						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap flex-shrink-0"
 						>戦績</a
 					>
 					<a
-						href="/news"
+						href="/players"
 						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap flex-shrink-0"
-						>ニュース</a
+						>名鑑</a
 					>
 					<details class="relative flex-shrink-0 group/rwc [&_summary::-webkit-details-marker]:hidden">
 						<summary
@@ -197,18 +199,11 @@ const ogImageURL = new URL("/ogp-image.png", Astro.site);
 						activeLeague={activeLeague} 
 						activeRound={activeRound} 
 					/>
-					<!-- Sidebar Ad -->
-					<div class="sticky top-24">
-						<ins class="adsbygoogle"
-							 style="display:block"
-							 data-ad-client="ca-pub-7526742711058970"
-							 data-ad-slot="sidebar-ad-slot"
-							 data-ad-format="auto"
-							 data-full-width-responsive="true"></ins>
-						<script is:inline>
-							 (adsbygoogle = window.adsbygoogle || []).push({});
-						</script>
-					</div>
+					{sidebarAdSlot && (
+						<div class="sticky top-24">
+							<AdSenseUnit slot={sidebarAdSlot} />
+						</div>
+					)}
 				</div>
 			</div>
 		</div>
