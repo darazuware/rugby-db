@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-10-03T23:59:55+09:00",
+  "checked_at": "2026-10-04T19:31:04+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "38c4793daa1b6a51"
+      "hash": "1e0c4e84b46553b1"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "085af2611f27cb4a"
+      "hash": "f9e88717c54594ae"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2462/",
+      "title": "2026/10/4 【ジャパンラグビーリーグワン ライジング2026 】10/11(日) クボタスピアーズ船橋・東京ベイ戦 試合案内",
+      "date": "2026-10-04"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2460/",
       "title": "2026/10/1 【チケット】2026-27シーズン シーズンシート販売のご案内",
@@ -64,7 +69,7 @@
     },
     {
       "url": "https://www.honda-heat.jp/news/2445/",
-      "title": "2026/9/28 【トレーニングマッチ 】10/3(土) 日本製鉄釜石シーウェイブス戦 試合案内",
+      "title": "トピックス 2026.9.28 【トレーニングマッチ 】10/3(土) 日本製鉄釜石シーウェイブス戦 試合案内",
       "date": "2026-09-28"
     },
     {
@@ -130,11 +135,6 @@
     {
       "url": "https://www.honda-heat.jp/news/2426/",
       "title": "トピックス 2026.9.4 男子セブンズ デベロップメント・スコッド（SDS）スペイン遠征 参加のお知らせ",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2425/",
-      "title": "トピックス 2026.9.4 新練習拠点の完成および施設名称決定のお知らせ",
       "date": "2026-09-04"
     }
   ]

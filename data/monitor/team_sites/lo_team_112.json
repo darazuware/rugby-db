@@ -3,49 +3,49 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-10-03T23:59:55+09:00",
+  "checked_at": "2026-10-04T19:31:04+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "81bf9d3bac25421d"
+      "hash": "a10f9bf7912a1035"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "d020878f32775ae2"
+      "hash": "3e725e7c1c5cf60c"
     }
   ],
   "items": [
-    {
-      "url": "https://shuttles-aichi.com/news/players-towel/",
-      "title": "お知らせ イベント 26年10月02日 PLAYER’S TOWEL｜受注販売スタート",
-      "date": "2026-10-03"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/notice-about-the-mizuho-3-game-pack-sale/",
-      "title": "お知らせ 26年09月29日 瑞穂3試合パック販売のお知らせ",
-      "date": "2026-10-03"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/fan-meeting-held/",
-      "title": "お知らせ 26年09月29日 ファンミーティング開催決定！",
-      "date": "2026-10-03"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/announcement-of-the-decision-to-continue-the-ske48-2026-27-season-shuttles-aichi-support-team/",
-      "title": "お知らせ 26年10月02日 SKE48 2026-27シーズン シャトルズ愛知応援隊 継続決定のお知らせ",
-      "date": "2026-10-03"
-    },
     {
       "url": "https://shuttles-aichi.com/news/2026-10-3-saturday-japan-rugby-league-one-rising-2026-vs-shizuoka-blue-revs-participating-members/",
       "title": "お知らせ 26年10月01日 2026/10/3(土) ジャパンラグビーリーグワン ライジング2026 vs 静岡ブルーレヴズ 出場メンバー",
       "date": "2026-10-03"
     },
     {
-      "url": "https://shuttles-aichi.com/news/10-3japan-rugby-league-one-rising/",
-      "title": "お知らせ 26年09月29日 10月3日（土）JAPAN RUGBY LEAGUE ONE RISING 静岡ブルーレヴズ戦 観戦のご案内",
+      "url": "https://shuttles-aichi.com/news/2026-10-3-satjapan-rugby-league-one-rising-2026-vs-shizuoka-bluerevs-photo-gallery/",
+      "title": "フォトギャラリー",
       "date": "2026-10-03"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/players-towel/",
+      "title": "お知らせ イベント 2026.10.02 PLAYER’S TOWEL｜受注販売スタート",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/announcement-of-the-decision-to-continue-the-ske48-2026-27-season-shuttles-aichi-support-team/",
+      "title": "お知らせ 2026.10.02 SKE48 2026-27シーズン シャトルズ愛知応援隊 継続決定のお知らせ",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/notice-about-the-mizuho-3-game-pack-sale/",
+      "title": "お知らせ 2026.09.29 瑞穂3試合パック販売のお知らせ",
+      "date": "2026-09-29"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/fan-meeting-held/",
+      "title": "お知らせ 2026.09.29 ファンミーティング開催決定！",
+      "date": "2026-09-29"
     }
   ]
 }

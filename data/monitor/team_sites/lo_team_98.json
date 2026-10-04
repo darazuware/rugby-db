@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-10-03T23:59:55+09:00",
+  "checked_at": "2026-10-04T19:31:04+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "70a5f152d293890b"
+      "hash": "2e4ae2df3491c09c"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "99b4154ed8695804"
+      "hash": "8c5be4f3bdcec50b"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3208",
+      "title": "2026.10.4[SUN] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（9/29～10/2）",
+      "date": "2026-10-04"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3203",
       "title": "2026.10.2[FRI] HOST AREA ＜ラグビーディスカバリー supported by しずぎん＞を沼津市で開催しました",
@@ -41,6 +46,11 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3189",
       "title": "2026.9.29[TUE] EVENT ホーム開幕戦で13,000名様にSHIZUOKA PRIDEシャツをプレゼント！",
       "date": "2026-09-29"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3200",
+      "title": "2026.9.28[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（9/24～9/25）",
+      "date": "2026-09-28"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",
@@ -96,16 +106,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3181",
       "title": "EVENT 2026/9/10 10/12に浜松市でラグビーディスカバリーを開催",
       "date": "2026-09-10"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3182",
-      "title": "2026.9.9[WED] SCHOOL ブルーレヴズU18が静岡県U16ジュニアチャンピオンシップで3位",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3172",
-      "title": "2026.9.9[WED] TEAM 10/23(金)から宮崎県で＜延岡キャンプ 2026 supported by 辛麺屋桝元＞",
-      "date": "2026-09-09"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3165",
