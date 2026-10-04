@@ -1,33 +1,5 @@
 [
   {
-    "name_en_normalized": "naoto saito",
-    "birthdate": "1997-08-26",
-    "members": [
-      {
-        "league": "league-one-d1",
-        "id": "lo_announced_naoto-saito"
-      },
-      {
-        "league": "national",
-        "id": "ar_naoto-saito"
-      }
-    ]
-  },
-  {
-    "name_en_normalized": "mamoru harada",
-    "birthdate": "1999-04-15",
-    "members": [
-      {
-        "league": "league-one-d1",
-        "id": "lo_announced_mamoru-harada"
-      },
-      {
-        "league": "national",
-        "id": "ar_mamoru-harada"
-      }
-    ]
-  },
-  {
     "name_en_normalized": "ryosuke iwaihara",
     "birthdate": "1996-10-06",
     "members": [
