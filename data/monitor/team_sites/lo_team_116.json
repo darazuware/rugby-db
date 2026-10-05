@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-10-05T20:21:50+09:00",
+  "checked_at": "2026-10-06T04:26:43+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "bd45d4d6901f5e76"
+      "hash": "635fbde58bef4e73"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "c8b3b5cb2388497f"
+      "hash": "080db37942a6ff5a"
     }
   ],
   "items": [
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8900",
+      "title": "お知らせ 2026年10月5日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 DIVISION 2 第1節・2節キックオフ時間決定のお知らせ",
+      "date": "2026-10-05"
+    },
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8898",
       "title": "お知らせ 2026年10月2日 ホストタウン活動スケジュール更新のお知らせ（10月）",
@@ -215,11 +220,6 @@
     {
       "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8647",
       "title": "アカデミー 2026年6月2日 【U15クラス】5月活動レポート",
-      "date": "2026-06-02"
-    },
-    {
-      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8645",
-      "title": "アカデミー 2026年6月2日 【U12アドバンスクラス】5月活動レポート",
       "date": "2026-06-02"
     },
     {

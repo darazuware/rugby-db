@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-05T20:21:50+09:00",
+  "checked_at": "2026-10-06T04:26:43+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "5fd8b55f70143cca"
+      "hash": "e767d90d87cd0cf2"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "ce7ed62c35a0d657"
+      "hash": "9c4240f6a86bb0e1"
     }
   ],
   "items": [
