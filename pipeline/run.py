@@ -90,13 +90,14 @@ def _merge_announced_transfers(league: str, players: list[dict]) -> tuple[list[d
         for p in players
         if p.get("name_en")
     }
+    existing_ids = {p.get("id") for p in players}
     merged = list(players)
     added: list[dict] = []
     for entry in announced:
         if entry.get("league") != league:
             continue
         name_en = (entry.get("name_en") or "").strip().lower()
-        if name_en and name_en in existing_names:
+        if (name_en and name_en in existing_names) or (entry.get("id") and entry["id"] in existing_ids):
             continue  # 公式ロースターに反映済み。手動分は不要。
         rec = {k: v for k, v in entry.items() if k != "note"}
         rec.setdefault("source", "manual-curated")
@@ -122,6 +123,17 @@ def _sync_roster_ids(teams: list[dict], added_players: list[dict]) -> None:
             roster.sort()
 
 
+def _drop_roster_ids(teams: list[dict], players: list[dict], dropped: list[dict]) -> None:
+    """dedupe_league_ids で除外したレコードの id を、統合先と別チームの roster_ids から外す
+    （check_roster_sym の相互参照を保つ。in-place）。"""
+    kept_team = {p["id"]: p.get("team_id") for p in players}
+    teams_by_id = {t["id"]: t for t in teams}
+    for p in dropped:
+        team = teams_by_id.get(p.get("team_id"))
+        if team and kept_team.get(p["id"]) != team["id"] and p["id"] in team.get("roster_ids", []):
+            team["roster_ids"].remove(p["id"])
+
+
 def run_leagues(leagues: list[str], *, dry_run: bool, only: set[str] | None = None) -> int:
     players_by_league: dict[str, list[dict]] = {}
     prev_by_league: dict[str, list[dict]] = {}
@@ -142,12 +154,16 @@ def run_leagues(leagues: list[str], *, dry_run: bool, only: set[str] | None = No
         merged_players, added_players = _merge_announced_transfers(
             league, result.get("players", []),
         )
+        merged_players, dropped, dedupe_warnings = checks.dedupe_league_ids(merged_players, league)
         players_by_league[league] = merged_players
+        all_warnings.extend(dedupe_warnings)
         if league == "national":
             national_call_ups = result.get("call_ups", [])
         league_teams = result.get("teams", [])
         if added_players:
             _sync_roster_ids(league_teams, added_players)
+        if dropped:
+            _drop_roster_ids(league_teams, merged_players, dropped)
         teams.extend(league_teams)
         matches.extend(result.get("matches", []))
         standings.extend(result.get("standings", []))

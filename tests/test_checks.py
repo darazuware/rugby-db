@@ -125,3 +125,49 @@ def test_run_all_integration():
     t = _team("t1", roster_ids=["a"])
     r = checks.run_all({"league-one-d1": [p]}, [t], [_match()], [])
     assert r.ok
+
+
+def test_dedupe_league_ids_merges_same_person():
+    """同一リーグ内の同一 id 二重掲載（移籍直後に旧新クラブ両方の squad 等）は畳む。"""
+    a = _player("ar_x", league="top14", team_id="paris", name_en="Foo Bar", birthdate=None)
+    b = _player("ar_x", league="top14", team_id="toulon", name_en="Foo Bar", birthdate="1995-01-01")
+    out, dropped, warns = checks.dedupe_league_ids([a, b, _player("ar_y", league="top14")], "top14")
+    assert [p["id"] for p in out] == ["ar_x", "ar_y"]
+    assert out[0]["team_id"] == "paris" and out[0]["birthdate"] == "1995-01-01"
+    assert dropped == [b] and len(warns) == 1
+    assert checks.check_dup_id({"top14": out}).ok
+
+
+def test_dedupe_league_ids_keeps_collision_for_dup_id_error():
+    """name_en/birthdate が食い違う同一 id（ID衝突疑い）は畳まず check_dup_id で止める。"""
+    a = _player("ar_x", league="top14", name_en="Foo Bar", birthdate="1990-01-01")
+    b = _player("ar_x", league="top14", name_en="Baz Qux", birthdate="1990-01-01")
+    out, dropped, _ = checks.dedupe_league_ids([a, b], "top14")
+    assert len(out) == 2 and not dropped
+    assert not checks.check_dup_id({"top14": out}).ok
+
+
+def test_cross_league_id_same_person_is_ok():
+    """代表×クラブ・クラブ間掛け持ちの同一 id はエラーにも警告にもしない。"""
+    pbl = {
+        "national": [_player("ar_x", league="national", team_id="japan", birthdate="1999-04-15")],
+        "super-rugby": [_player("ar_x", league="super-rugby", birthdate=None)],
+        "urc": [_player("ar_x", league="urc")],
+    }
+    assert checks.check_dup_id(pbl).ok
+    r = checks.check_cross_league_id(pbl)
+    assert r.ok and not r.warnings
+    pbl["urc"] = [_player("ar_x", league="urc", name_en="Other Person")]
+    r = checks.check_cross_league_id(pbl)
+    assert r.ok and len(r.warnings) == 1
+
+
+def test_drop_roster_ids_after_dedupe():
+    from pipeline import run
+    a = _player("ar_x", league="top14", team_id="paris")
+    b = _player("ar_x", league="top14", team_id="toulon")
+    out, dropped, _ = checks.dedupe_league_ids([a, b], "top14")
+    teams = [_team("paris", roster_ids=["ar_x"]), _team("toulon", roster_ids=["ar_x"])]
+    run._drop_roster_ids(teams, out, dropped)
+    assert teams[0]["roster_ids"] == ["ar_x"] and teams[1]["roster_ids"] == []
+    assert checks.check_roster_sym(out, teams).ok

@@ -52,6 +52,70 @@ def check_dup_id(players_by_league: dict[str, list[dict]]) -> CheckResult:
     return r
 
 
+def _same_identity(a: dict, b: dict) -> bool:
+    """同一 id の2レコードが同一人物として矛盾しないか（name_en 正規化一致、
+    birthdate は両方非nullなら一致）。値の真偽は判断せず、レコード同士の突合のみ。"""
+    na, nb = a.get("name_en"), b.get("name_en")
+    if na and nb and normalize_name_en(na) != normalize_name_en(nb):
+        return False
+    ba, bb = a.get("birthdate"), b.get("birthdate")
+    return not (ba and bb and ba != bb)
+
+
+def dedupe_league_ids(players: list[dict], league: str) -> tuple[list[dict], list[dict], list[str]]:
+    """1リーグ内の同一 id を決定的に1レコードへ畳む（check_dup_id の前段）。
+
+    all.rugby の id は選手ページslug由来で一意のため、リーグ内で同一 id が複数回出る
+    のは同一人物の二重掲載（移籍直後に旧・新クラブ双方の squad に載る、手動補完分と
+    スクレイプ分の重複等）。同一人物と矛盾しなければ先勝ち（スクレイパーの取得順）で
+    残し、後続レコードの値は先頭側が null/空の項目にのみ補う。name_en/birthdate が
+    食い違う（＝ID衝突の疑い）場合は畳まずに残し、check_dup_id でエラーにする。
+
+    戻り値: (畳んだ後の players, 捨てたレコード, warnings)
+    """
+    kept: dict[str, dict] = {}
+    out: list[dict] = []
+    dropped: list[dict] = []
+    warnings: list[str] = []
+    for p in players:
+        first = kept.get(p["id"])
+        if first is None:
+            kept[p["id"]] = p
+            out.append(p)
+            continue
+        if not _same_identity(first, p):
+            out.append(p)  # 衝突疑い → check_dup_id でエラーとして止める
+            continue
+        for k, v in p.items():
+            if first.get(k) in (None, [], "") and v not in (None, [], ""):
+                first[k] = v
+        dropped.append(p)
+        warnings.append(
+            f"dup_id_merged: {p['id']} ({league} 内で重複掲載、"
+            f"team_id={first.get('team_id')} 側に統合、{p.get('team_id')} 側を除外)")
+    return out, dropped, warnings
+
+
+def check_cross_league_id(players_by_league: dict[str, list[dict]]) -> CheckResult:
+    """リーグ横断の同一 id が同一人物として矛盾しないかを確認（warning のみ）。
+
+    代表×クラブ・クラブ間掛け持ちの同一 id は正規の仕様（site 側 dedupePlayersById が
+    1レコードに畳む）。name_en/birthdate が食い違う場合だけ ID 衝突の疑いとして警告する。
+    """
+    r = CheckResult()
+    first: dict[str, tuple[str, dict]] = {}
+    for league, players in players_by_league.items():
+        for p in players:
+            prev = first.get(p["id"])
+            if prev is None:
+                first[p["id"]] = (league, p)
+            elif prev[0] != league and not _same_identity(prev[1], p):
+                r.warnings.append(
+                    f"cross_league_id: {p['id']} が {prev[0]} と {league} で別人物の疑い"
+                    f"（name_en/birthdate 不一致）")
+    return r
+
+
 def check_dup_person(players_by_league: dict[str, list[dict]]) -> CheckResult:
     """同一リーグ内で name_en+birthdate が両方非nullで重複 → エラー。
 
@@ -208,6 +272,7 @@ def run_all(players_by_league: dict[str, list[dict]],
     result = CheckResult()
     all_players = [p for ps in players_by_league.values() for p in ps]
     result.extend(check_dup_id(players_by_league))
+    result.extend(check_cross_league_id(players_by_league))
     result.extend(check_dup_person(players_by_league))
     result.extend(check_cross_person(players_by_league, player_merges))
     result.extend(check_team_ref(all_players, teams))
