@@ -667,13 +667,14 @@
       "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "aliases": []
     },
-    "Newcastle Falcons": {
-      "jp": "ニューカッスル・ファルコンズ",
+    "Newcastle Red Bulls": {
+      "jp": "ニューカッスル・レッドブルズ",
       "country": "イングランド",
       "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "aliases": [
         "Newcastle",
-        "Newcastle Red Bulls"
+        "Newcastle Falcons",
+        "ニューカッスル・ファルコンズ"
       ]
     }
   },

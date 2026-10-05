@@ -19,7 +19,7 @@ draft: false
 - [George FORD](/teams/premiership/sale-sharks/#p-george-ford): England代表80→101キャップ
 - [George FURBANK](/teams/premiership/harlequins/#p-george-furbank): England代表8→14キャップ
 - [George MARTIN](/teams/premiership/saracens/#p-george-martin): England代表20→22キャップ
-- [George TURNER](/teams/premiership/newcastle-falcons/#p-george-turner): Scotland代表46→47キャップ
+- [George TURNER](/teams/premiership/newcastle-red-bulls/#p-george-turner): Scotland代表46→47キャップ
 - [Hame FAIVA](/players/hame-faiva/): Italy代表8→9キャップ
 - [Harry WILLIAMS](/teams/premiership/harlequins/#p-harry-williams): England代表13→17キャップ
 - [Jamie BHATTI](/teams/premiership/bath-rugby/#p-jamie-bhatti): Scotland代表26→30キャップ
@@ -27,7 +27,7 @@ draft: false
 - [Josh BAYLISS](/teams/premiership/bath-rugby/#p-josh-bayliss): Scotland代表11→15キャップ
 - [Luke COWAN-DICKIE](/teams/premiership/sale-sharks/#p-luke-cowan-dickie): England代表39→59キャップ
 - [Max MALINS](/teams/premiership/saracens/#p-max-malins): England代表17→18キャップ
-- [Murray MCCALLUM](/teams/premiership/newcastle-falcons/#p-murray-mccallum): Scotland代表2→3キャップ
+- [Murray MCCALLUM](/teams/premiership/newcastle-red-bulls/#p-murray-mccallum): Scotland代表2→3キャップ
 - [Nick TOMPKINS](/teams/premiership/saracens/#p-nick--tompkins): Wales代表26→38キャップ
 - [Nicky SMITH](/teams/premiership/sale-sharks/#p-nicky-smith): Wales代表52→56キャップ
 - [Nika ABULADZE](/teams/premiership/exeter-chiefs/#p-nika-abuladze): Georgia代表18→23キャップ

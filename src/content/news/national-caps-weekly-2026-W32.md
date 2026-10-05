@@ -48,7 +48,7 @@ draft: false
 - [Santiago CARRERAS](/teams/premiership/bath-rugby/#p-santiago-carreras): Argentina代表50→85キャップ
 - [Sekope LOPETI-MOLI](/national-teams/tonga/#p-sekope-lopeti-moli): Tonga代表5→6キャップ
 - [Shunsuke UENOBO](/players/shunsuke-uenobo-493618/): Japan代表1→3キャップ
-- [Simón BENÍTEZ-CRUZ](/teams/premiership/newcastle-falcons/#p-simon-benitez-cruz): Argentina代表8→14キャップ
+- [Simón BENÍTEZ-CRUZ](/teams/premiership/newcastle-red-bulls/#p-simon-benitez-cruz): Argentina代表8→14キャップ
 - [Sojiro OTSUKA](/players/sojiro-otsuka/): Japan代表4→5キャップ
 - [Takuro MATSUNAGA](/players/takuro-matsunaga-484365/): Japan代表5→8キャップ
 - [Taniela FILIMONE](/national-teams/tonga/#p-taniela-filimone): Tonga代表10→11キャップ

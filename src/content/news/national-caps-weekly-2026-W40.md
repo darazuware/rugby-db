@@ -77,7 +77,7 @@ draft: false
 - [George FURBANK](/teams/premiership/harlequins/#p-george-furbank): England代表8→14キャップ
 - [George HORNE](/teams/urc/glasgow-warriors/#p-george-horne): Scotland代表33→47キャップ
 - [George MARTIN](/teams/premiership/saracens/#p-george-martin): England代表13→22キャップ
-- [George TURNER](/teams/premiership/newcastle-falcons/#p-george-turner): Scotland代表46→47キャップ
+- [George TURNER](/teams/premiership/newcastle-red-bulls/#p-george-turner): Scotland代表46→47キャップ
 - [Giacomo NICOTERA](/teams/top14/paris/#p-giacomo-nicotera): Italy代表35→36キャップ
 - [Giosué ZILOCCHI](/teams/urc/benetton-rugby-trevise/#p-giosue-zilocchi): Italy代表14→24キャップ
 - [Gregor MCNEISH](/national-teams/hong-kong/#p-gregor-mcneish): Hong Kong代表4→5キャップ

@@ -50,7 +50,7 @@ draft: false
 - [Ross BYRNE](/teams/premiership/gloucester-rugby/#p-ross-byrne): Ireland代表25→31キャップ
 - [Thomas DU TOIT](/players/thomas-du-toit/): South Africa代表28→36キャップ
 - [Tom ROEBUCK](/teams/premiership/sale-sharks/#p-tom-roebuck): England代表8→10キャップ
-- [Chris HARRIS](/teams/premiership/newcastle-falcons/#p-chris-harris): Scotland代表41→44キャップ
+- [Chris HARRIS](/teams/premiership/newcastle-red-bulls/#p-chris-harris): Scotland代表41→44キャップ
 - [Cleopas KUNDIONA](/teams/premiership/northampton-saints/#p-cleopas-kundiona): Zimbabwe代表2→4キャップ
 - [Dan ROBSON](/teams/premiership/gloucester-rugby/#p-dan-robson): England代表8→20キャップ
 - [Ethan ROOTS](/teams/premiership/exeter-chiefs/#p-ethan-roots): England代表3→5キャップ

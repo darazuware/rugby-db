@@ -134,8 +134,10 @@ export const TEAM_SLUG_MAP: Record<string, string> = {
     "グロスター・ラグビー": "gloucester-rugby",
     "Harlequins": "harlequins",
     "ハリクインズ": "harlequins",
-    "Newcastle Falcons": "newcastle-falcons",
-    "ニューカッスル・ファルコンズ": "newcastle-falcons"
+    "Newcastle Red Bulls": "newcastle-red-bulls",
+    "ニューカッスル・レッドブルズ": "newcastle-red-bulls",
+    "Newcastle Falcons": "newcastle-red-bulls",
+    "ニューカッスル・ファルコンズ": "newcastle-red-bulls"
 };
 
 /**

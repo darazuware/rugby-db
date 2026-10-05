@@ -29,7 +29,7 @@ draft: false
 - [Emmanuel MEAFOU](/teams/top14/toulouse/#p-emmanuel-meafou): France代表9→10キャップ
 - [Faustino SÁNCHEZ VALAROLO](/national-teams/argentina/#p-faustino-sanchez-valarolo): Argentina代表4→6キャップ
 - [Florian VERHAEGHE](/teams/top14/montpellier/#p-florian-verhaeghe): France代表5→6キャップ
-- [Francisco MORENO](/teams/premiership/newcastle-falcons/#p-francisco-moreno): Argentina代表3→4キャップ
+- [Francisco MORENO](/teams/premiership/newcastle-red-bulls/#p-francisco-moreno): Argentina代表3→4キャップ
 - [Gaël FICKOU](/players/gael-fickou/): France代表116→126キャップ
 - [Giacomo NICOTERA](/teams/top14/paris/#p-giacomo-nicotera): Italy代表22→35キャップ
 - [Giorgi AKHALADZE](/teams/top14/clermont/#p-giorgi-akhaladze): Georgia代表15→22キャップ
@@ -89,7 +89,7 @@ draft: false
 - [Sama MALOLO](/teams/top14/perpignan/#p-sama-malolo): Samoa代表13→14キャップ
 - [Santiago GRONDONA](/teams/top14/pau/#p-santiago-grondona): Argentina代表21→22キャップ
 - [Simão BENTO](/national-teams/portugal/#p-simao-bento): Portugal代表22→23キャップ
-- [Simón BENÍTEZ-CRUZ](/teams/premiership/newcastle-falcons/#p-simon-benitez-cruz): Argentina代表21→22キャップ
+- [Simón BENÍTEZ-CRUZ](/teams/premiership/newcastle-red-bulls/#p-simon-benitez-cruz): Argentina代表21→22キャップ
 - [Siôn PARRY](/national-teams/canada/#p-sion-parry): Canada代表20→26キャップ
 - [Sipili FALATEA](/players/sipili-falatea/): France代表13→22キャップ
 - [Sireli MAQALA](/teams/top14/bayonne/#p-sireli-maqala): Fiji代表9→11キャップ

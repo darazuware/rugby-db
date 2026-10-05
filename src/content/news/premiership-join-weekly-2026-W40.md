@@ -36,7 +36,7 @@ draft: false
 - [Harvey BEATON](/players/harvey-beaton/)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
 - [Harvey CUCKSON](/players/harvey-cuckson/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Ioan EMANUEL](/players/ioan-emanuel/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Irakli KOLBAIA](/teams/premiership/newcastle-falcons/#p-irakli-kolbaia)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-falcons/)に加入
+- [Irakli KOLBAIA](/teams/premiership/newcastle-red-bulls/#p-irakli-kolbaia)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
 - [Jack BENNETT](/players/jack-bennett/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Jacques DU PLESSIS](/players/jacques-du-plessis/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [James FLYNN](/players/james-flynn/)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入

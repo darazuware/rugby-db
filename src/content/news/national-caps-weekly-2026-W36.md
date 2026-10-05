@@ -19,7 +19,7 @@ draft: false
 - [Ethan HOOKER](/teams/urc/hollywoodbets-sharks/#p-ethan-hooker): South Africa代表13→14キャップ
 - [Fabian HOLLAND](/national-teams/new-zealand/#p-fabian-holland): New Zealand代表14→17キャップ
 - [Fletcher NEWELL](/teams/super-rugby/crusaders/#p-fletcher-newell): New Zealand代表36→47キャップ
-- [Francisco MORENO](/teams/premiership/newcastle-falcons/#p-francisco-moreno): Argentina代表1→3キャップ
+- [Francisco MORENO](/teams/premiership/newcastle-red-bulls/#p-francisco-moreno): Argentina代表1→3キャップ
 - [George BOWER](/teams/super-rugby/crusaders/#p-george-bower): New Zealand代表19→24キャップ
 - [Gonzalo LOPEZ BONTEMPO](/national-teams/spain/#p-gonzalo-lopez): Spain代表23→25キャップ
 - [Harry POTTER](/leagues/super-rugby/): Australia代表17→22キャップ
@@ -48,7 +48,7 @@ draft: false
 - [Sacha FEINBERG-MNGOMEZULU](/teams/urc/dhl-stormers/#p-sacha-mngomezulu): South Africa代表30→31キャップ
 - [Samuel MARQUÈS](/national-teams/portugal/#p-samuel-marques): Portugal代表19→42キャップ
 - [Santiago CARRERAS](/teams/premiership/bath-rugby/#p-santiago-carreras): Argentina代表85→88キャップ
-- [Simón BENÍTEZ-CRUZ](/teams/premiership/newcastle-falcons/#p-simon-benitez-cruz): Argentina代表14→21キャップ
+- [Simón BENÍTEZ-CRUZ](/teams/premiership/newcastle-red-bulls/#p-simon-benitez-cruz): Argentina代表14→21キャップ
 - [Simon PARKER](/teams/super-rugby/chiefs/#p-simon-parker): New Zealand代表10→11キャップ
 - [Tedo ABZHANDADZE](/national-teams/georgia/#p-tedo-abzhandadze): Georgia代表36→92キャップ
 - [Tijde VISSER](/national-teams/zimbabwe/#p-tijde-visser): Zimbabwe代表2→4キャップ
