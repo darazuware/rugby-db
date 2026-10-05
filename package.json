@@ -7,7 +7,10 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "test": "vitest run"
+    "test": "vitest run",
+    "test:data": "python3 -m pytest -q tests",
+    "test:e2e": "vitest run -c vitest.e2e.config.ts",
+    "test:all": "npm run test:data && npm run test && npm run build && npm run test:e2e"
   },
   "dependencies": {
     "@astrojs/react": "^4.4.2",

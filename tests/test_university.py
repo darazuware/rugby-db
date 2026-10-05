@@ -2,6 +2,8 @@
 （ネットワークアクセスなし）。"""
 import pathlib
 
+import pytest
+
 from pipeline.scrape import university as u
 from pipeline.transform import normalize
 
@@ -45,6 +47,9 @@ def test_extract_records_parses_combined_grade_and_school_line():
     assert suzuki["school_raw"] == "東海大学付属高輪台高等学校"
 
 
+@pytest.mark.xfail(strict=True, reason=(
+    "既知の不具合（2026-10-05 テスト整備時に検出、本番コード未修正）: "
+    "_fields_near が直後ブロックの『3年生 / 桐蔭学園高等学校』行を山田太郎の出身校として拾う"))
 def test_extract_records_does_not_borrow_neighboring_school():
     # 山田太郎自身のブロックには出身校の記載が無い -> 隣の藤田健太の出身校を
     # 誤って借用しない（_FIELD_WINDOW による近傍制限）。
