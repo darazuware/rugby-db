@@ -1,6 +1,7 @@
 ---
 title: "男子日本代表 オーストラリア遠征参加メンバー（31名）"
 pubDate: 2026-08-10
+updatedDate: 2026-10-05
 category: "NEWS"
 tags: ["代表", "招集"]
 source_diff: "2026-08-10_national.json"
@@ -146,3 +147,7 @@ draft: false
 
 **前回招集から新たに選出**
 [池田 悠希](/players/yuki-ikeda-484880/)
+
+**その後の追加選出**（日本ラグビーフットボール協会の更新発表分）
+- 稲場 巧（FW / [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/) / 0キャップ）
+- サム・グリーン（BK / 静岡ブルーレブズ / 7キャップ）

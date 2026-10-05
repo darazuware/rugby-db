@@ -1,6 +1,7 @@
 ---
 title: "男子日本代表 網走合宿参加メンバー（34名）"
 pubDate: 2026-07-24
+updatedDate: 2026-10-05
 category: "NEWS"
 tags: ["代表", "招集", "合宿"]
 source_diff: "2026-07-24_national.json"
@@ -168,3 +169,6 @@ draft: false
 [松永 拓朗](/players/takuro-matsunaga-484365/)（Instagram [@takuro_m_](https://www.instagram.com/takuro_m_/)）
 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DbI0VXhD0Uk/" data-instgrm-version="14" style="max-width:540px;width:100%;margin:1.5rem auto;"></blockquote>
+
+**その後の追加選出**（日本ラグビーフットボール協会の更新発表分）
+- 池田 悠希（BK / [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo/) / 2キャップ）

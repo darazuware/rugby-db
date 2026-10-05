@@ -1,6 +1,7 @@
 ---
 title: "男子日本代表 宮崎（大阪）合宿参加メンバー（34名）"
 pubDate: 2026-08-25
+updatedDate: 2026-10-05
 category: "NEWS"
 tags: ["代表", "招集", "合宿"]
 source_diff: "2026-08-25_national.json"
@@ -12,7 +13,7 @@ draft: false
 - 期間: 2026-08-27〜
 
 **メンバー構成**
-- 初選出（0キャップ）: 5名 — [平野 叶翔](/players/kanato-hirano-510683/)、[稲場 巧 ※1.](/players/takumi-inaba-510660/)、[ルアン・ボタ](/players/jrfu_callup_ruan-botha/)、[武内 慎](/players/jrfu_callup_shin-takeuchi/)、[イノケ・ブルア](/players/inoke-burua-510663/)
+- 初選出（0キャップ）: 5名 — [平野 叶翔](/players/kanato-hirano-510683/)、[稲場 巧](/players/takumi-inaba-510660/)、[ルアン・ボタ](/players/jrfu_callup_ruan-botha/)、[武内 慎](/players/jrfu_callup_shin-takeuchi/)、[イノケ・ブルア](/players/inoke-burua-510663/)
 - 所属クラブ・大学: 14
 - 最多キャップ: [ディラン・ライリー](/players/dylan-riley-484057/)（43キャップ）
 
@@ -20,11 +21,11 @@ draft: false
 - [祝原 涼介](/players/ryosuke-iwaihara-484849/)（[栃木ホンダヒート](/teams/league-one/tochigi-honda-heat/) / 5キャップ）
 - [大塚 壮二郎](/players/sojiro-otsuka/)（関西学院大学 / 5キャップ）
 - [岡部 崇人](/players/takato-okabe-484847/)（[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/) / 13キャップ）
-- [佐藤 健次](/players/kenji-sato-484033/) Kenji SATO（[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 10キャップ）
+- [佐藤 健次](/players/kenji-sato-484033/)（[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 10キャップ）
 - [原田 衛](/players/mamoru-harada/)（[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/) / 16キャップ）
 - [平野 叶翔](/players/kanato-hirano-510683/)（[栃木ホンダヒート](/teams/league-one/tochigi-honda-heat/) / 0キャップ）
 - [イジー・ソード](/players/izi-sword-483782/)（[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) / 2キャップ）
-- [稲場 巧 ※1.](/players/takumi-inaba-510660/)（静岡ブルーレブズ / 0キャップ）
+- [稲場 巧](/players/takumi-inaba-510660/)（静岡ブルーレブズ / 0キャップ）
 - [竹内 柊平](/players/shuhei-takeuchi-485712/)（[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/) / 28キャップ）
 - [ジャック・コーネルセン](/players/jack-cornelsen-485708/)（[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 34キャップ）
 - [マイケル・ストーバーグ](/players/mike-stolberg/)（[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/) / 3キャップ）
@@ -47,7 +48,7 @@ draft: false
 - [サミソニ・トゥア](/players/samisoni-tua-483497/)（[浦安D-Rocks](/teams/league-one/urayasu-d-rocks/) / 6キャップ）
 - [ディラン・ライリー](/players/dylan-riley-484057/)（[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 43キャップ）
 - [廣瀬 雄也](/players/yuya-hirose-483785/)（[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) / 7キャップ）
-- [植田 和磨](/players/kazuma-ueda-483933/) Kazuma UEDA（KOBELCO KOBE STEELERS / 7キャップ）
+- [植田 和磨](/players/kazuma-ueda-483933/)（[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/) / 7キャップ）
 - [長田 智希](/players/tomoki-osada-484045/)（[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 26キャップ）
 - [木田 晴斗](/players/haruto-kida-483750/)（[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) / 3キャップ）
 - [イノケ・ブルア](/players/inoke-burua-510663/)（[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/) / 0キャップ）
@@ -149,4 +150,10 @@ draft: false
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DbI0VXhD0Uk/" data-instgrm-version="14" style="max-width:540px;width:100%;margin:1.5rem auto;"></blockquote>
 
 **前回招集から新たに選出**
-[祝原 涼介](/players/ryosuke-iwaihara-484849/)、佐藤 健次 Kenji SATO、[稲場 巧 ※1.](/players/takumi-inaba-510660/)、[ルアン・ボタ](/players/jrfu_callup_ruan-botha/)、[武内 慎](/players/jrfu_callup_shin-takeuchi/)、[福田 健太](/players/kenta-fukuda-485714/)、[藤原 忍](/players/shinobu-fujiwara-485500/)、[廣瀬 雄也](/players/yuya-hirose-483785/)、植田 和磨 Kazuma UEDA、[長田 智希](/players/tomoki-osada-484045/)、[サム・グリーン](/players/sam-greene-484173/)
+[祝原 涼介](/players/ryosuke-iwaihara-484849/)、佐藤 健次、[稲場 巧](/players/takumi-inaba-510660/)、[ルアン・ボタ](/players/jrfu_callup_ruan-botha/)、[武内 慎](/players/jrfu_callup_shin-takeuchi/)、[福田 健太](/players/kenta-fukuda-485714/)、[藤原 忍](/players/shinobu-fujiwara-485500/)、[廣瀬 雄也](/players/yuya-hirose-483785/)、植田 和磨、[長田 智希](/players/tomoki-osada-484045/)、[サム・グリーン](/players/sam-greene-484173/)
+
+**その後の追加選出**（日本ラグビーフットボール協会の更新発表分）
+- 加藤 一希（FW / [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) / 0キャップ）
+- 古畑 翔（FW / [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 1キャップ）
+- 木村 星南（FW / [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/) / 3キャップ）
+- 武藤 ゆらぎ（BK / [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/) / 0キャップ）
