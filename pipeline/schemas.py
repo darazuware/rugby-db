@@ -322,6 +322,37 @@ class Stadium(_StrictModel):
     source_url: Optional[str] = None
 
 
+# チーム補足情報（創設年・本拠地・タイトル歴）の出典として許可するドメイン。
+# 選手データの ALLOWED_DOMAINS とは分離し、チームの補足値にだけ適用する
+# （pipeline/scrape/team_wiki.py が版固定 permalink を各値に付与する）。
+TEAM_FACT_DOMAINS = {"wikipedia.org"}
+
+
+def _validate_fact_url(url: str) -> str:
+    host = (urlparse(url).hostname or "").lower()
+    if not any(host == d or host.endswith("." + d) for d in TEAM_FACT_DOMAINS | ALLOWED_DOMAINS):
+        raise ValueError(f"チーム補足値の出典ドメインが許可リスト外: {url}")
+    return url
+
+
+class TeamTitle(_StrictModel):
+    competition: str = Field(min_length=1)
+    count: int = Field(ge=1)
+    seasons: list[str] = Field(default_factory=list)
+    source_url: str
+
+    @field_validator("source_url")
+    @classmethod
+    def _url(cls, v: str) -> str:
+        return _validate_fact_url(v)
+
+    @model_validator(mode="after")
+    def _count(self) -> "TeamTitle":
+        if self.seasons and len(self.seasons) != self.count:
+            raise ValueError(f"{self.competition}: count と seasons の数が不一致")
+        return self
+
+
 class Team(_StrictModel):
     id: str = Field(min_length=1)
     league: str
@@ -336,11 +367,21 @@ class Team(_StrictModel):
     official_url: Optional[str] = None
     roster_mode: Literal["full", "partial"] = "full"
     roster_ids: list[str] = Field(default_factory=list)
+    titles: list[TeamTitle] = Field(default_factory=list)
+    # 補完した値の出典（フィールド名 → URL）。scrape 由来の値には付けない
+    field_sources: dict[str, str] = Field(default_factory=dict)
 
     @field_validator("source_url")
     @classmethod
     def _url(cls, v: str) -> str:
         return _validate_source_url(v)
+
+    @field_validator("field_sources")
+    @classmethod
+    def _fact_urls(cls, v: dict[str, str]) -> dict[str, str]:
+        for url in v.values():
+            _validate_fact_url(url)
+        return v
 
     @field_validator("league")
     @classmethod

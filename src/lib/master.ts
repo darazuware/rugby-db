@@ -123,6 +123,15 @@ export interface Team {
   official_url: string | null;
   roster_mode: "full" | "partial";
   roster_ids: string[];
+  titles?: TeamTitle[];
+  field_sources?: Record<string, string>;
+}
+
+export interface TeamTitle {
+  competition: string;
+  count: number;
+  seasons: string[];
+  source_url: string;
 }
 
 export interface Match {

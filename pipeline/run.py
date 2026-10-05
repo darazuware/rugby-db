@@ -25,7 +25,7 @@ import argparse
 import sys
 from datetime import datetime
 
-from pipeline import callups, io
+from pipeline import callups, io, team_facts
 from pipeline.diffs import detect as diffs_detect
 from pipeline.scrape import all_rugby, highschool, jrfu, league_one, university
 from pipeline.validate import checks
@@ -271,6 +271,8 @@ def run_leagues(leagues: list[str], *, dry_run: bool, only: set[str] | None = No
                 if prev:
                     t["official_url"] = t.get("official_url") or prev.get("official_url")
                     t["home_area"] = t.get("home_area") or prev.get("home_area")
+            # 創設年・本拠地・タイトル歴（data/manual/team_facts.json、出典つき）で null を補完
+            all_warnings.extend(team_facts.apply_all(new_teams))
             io.write_records(io.teams_path(league), new_teams)
             io.update_last_run(
                 league,
