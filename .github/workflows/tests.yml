@@ -1,0 +1,44 @@
+name: Tests
+
+# データ検証（data/master スキーマ・参照整合性）＋ユニット＋ビルド＋主要画面E2E。
+# Actions 課金対策（daily_update.yml 参照）: 自動 push（daily_update 等）では走らせず、
+# PR と手動実行のみ。
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          npm ci
+
+      - name: Data validation + pipeline tests (pytest)
+        run: npm run test:data
+
+      - name: Unit tests (vitest)
+        run: npm test
+
+      - name: Build
+        run: node --max-old-space-size=4096 ./node_modules/.bin/astro build
+
+      - name: E2E (main pages)
+        run: npm run test:e2e

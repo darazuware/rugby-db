@@ -258,8 +258,12 @@ describe("getAllPlayers / getAllTeams（実データ読み込み）", () => {
     }
   });
 
-  it("slug が重複しない（getStaticPaths の前提）", async () => {
-    const players = await getAllPlayers();
+  it("個別ページを生成する選手の slug が重複しない（getStaticPaths の前提）", async () => {
+    __setIndexablePlayersForTests();
+    // getStaticPaths は canHaveIndividualPlayerPage で絞った選手のみページ化する。
+    // 全選手では lo_announced_* と ar_* の同一 slug が併存する（既知・ページ生成には影響しない）。
+    const players = (await getAllPlayers()).filter(canHaveIndividualPlayerPage);
+    expect(players.length).toBeGreaterThan(0);
     const slugs = players.map((p) => p.slug);
     expect(new Set(slugs).size).toBe(slugs.length);
   });
