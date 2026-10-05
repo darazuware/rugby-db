@@ -1,0 +1,893 @@
+{
+  "_note": "pipeline/roster_repair.py が生成。all.rugby squad ページへの他クラブ選手混入の是正結果。club=null は対象リーグのどのクラブにも採らない。根拠は https://all.rugby/player/{slug} の在籍歴。",
+  "players": {
+    "adrian-choat": {
+      "club": null,
+      "reason": "複数ページ['brumbies', 'chiefs', 'crusaders', 'fijian-drua', 'highlanders', 'hurricanes', 'moana-pasifika', 'reds', 'waratahs', 'western-force']に掲載・在籍中['Sayama Secom Rugguts']で決められない"
+    },
+    "aiden-stait": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "aj-lam": {
+      "club": "clermont",
+      "reason": "top14 へ移動"
+    },
+    "akenzua-al-kareem-abdul-khalik": {
+      "club": "bristol",
+      "reason": "付け替え"
+    },
+    "akira-ioane": {
+      "club": null,
+      "reason": "複数ページ['brumbies', 'chiefs', 'crusaders', 'fijian-drua', 'highlanders', 'hurricanes', 'moana-pasifika', 'reds', 'waratahs', 'western-force']に掲載・在籍中['Hanazono Kintetsu Liners']で決められない"
+    },
+    "alec-clarey": {
+      "club": "saracens",
+      "reason": "付け替え"
+    },
+    "alex-hodgman": {
+      "club": "reds",
+      "reason": "付け替え"
+    },
+    "alex-mann": {
+      "club": "cardiff",
+      "reason": "付け替え"
+    },
+    "alexandre-ricard": {
+      "club": "bordeaux",
+      "reason": "付け替え"
+    },
+    "alfie-barbeary": {
+      "club": "saracens",
+      "reason": "付け替え"
+    },
+    "allan-alaalatoa": {
+      "club": "brumbies",
+      "reason": "付け替え"
+    },
+    "alun-lawrence": {
+      "club": "cardiff",
+      "reason": "付け替え"
+    },
+    "amine-maalla": {
+      "club": null,
+      "reason": "在籍歴なし・現所属 'US Dax Rugby Landes'"
+    },
+    "ander-etchebarne-sanchez": {
+      "club": null,
+      "reason": "複数ページ['bordeaux', 'castres', 'toulouse']に掲載・在籍中['Saint Jean-de-Luz Olympique Rugby']で決められない"
+    },
+    "andre-riaan-warner": {
+      "club": "stormers",
+      "reason": "urc へ移動"
+    },
+    "anton-segner": {
+      "club": "blues",
+      "reason": "付け替え"
+    },
+    "archie-griffin": {
+      "club": "bath",
+      "reason": "付け替え"
+    },
+    "archie-stanley": {
+      "club": null,
+      "reason": "複数ページ['clermont', 'la-rochelle', 'racing-92', 'glasgow', 'bristol', 'gloucester', 'leicester', 'sale', 'saracens']に掲載・在籍中[]で決められない"
+    },
+    "arthur-cordwell": {
+      "club": null,
+      "reason": "複数ページ['clermont', 'la-rochelle', 'racing-92', 'glasgow', 'bristol', 'gloucester', 'leicester', 'sale', 'saracens']に掲載・在籍中[]で決められない"
+    },
+    "arthur-green": {
+      "club": "bath",
+      "reason": "付け替え"
+    },
+    "arthur-iturria": {
+      "club": "bayonne",
+      "reason": "付け替え"
+    },
+    "badri-tsikhistavi": {
+      "club": null,
+      "reason": "複数ページ['bordeaux', 'castres', 'lyon', 'montpellier', 'paris', 'pau', 'perpignan', 'toulon', 'toulouse', 'vannes', 'benetton', 'dragons', 'scarlets', 'zebre', 'bath', 'harlequins', 'newcastle']に掲載・在籍中['Black Lion', 'Stade Olympique Chambéry']で決められない"
+    },
+    "baptiste-heguy": {
+      "club": "bayonne",
+      "reason": "付け替え"
+    },
+    "bayley-kuenzle": {
+      "club": "glasgow",
+      "reason": "urc へ移動"
+    },
+    "ben-donnell": {
+      "club": "ulster",
+      "reason": "付け替え"
+    },
+    "benjamin-lahet": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "beno--obano-": {
+      "club": "bath",
+      "reason": "付け替え"
+    },
+    "billy-pollard": {
+      "club": "brumbies",
+      "reason": "付け替え"
+    },
+    "billy-sela": {
+      "club": "bath",
+      "reason": "付け替え"
+    },
+    "bixente-lahitete": {
+      "club": "bayonne",
+      "reason": "付け替え"
+    },
+    "blake-schoupp": {
+      "club": "brumbies",
+      "reason": "付け替え"
+    },
+    "braydon-ennor": {
+      "club": "perpignan",
+      "reason": "top14 へ移動"
+    },
+    "cadeyrn-neville": {
+      "club": "brumbies",
+      "reason": "付け替え"
+    },
+    "cameron-dodson": {
+      "club": null,
+      "reason": "複数ページ['anthem-rc', 'ca-legion', 'new-england-free-jacks', 'old-glory']に掲載・在籍中['Association Sportive Béziers Hérault']で決められない"
+    },
+    "cameron-suafoa": {
+      "club": null,
+      "reason": "複数ページ['brumbies', 'chiefs', 'crusaders', 'fijian-drua', 'highlanders', 'hurricanes', 'moana-pasifika', 'reds', 'waratahs', 'western-force']に掲載・在籍中[]で決められない"
+    },
+    "charlie-cale": {
+      "club": "brumbies",
+      "reason": "付け替え"
+    },
+    "charlie-ewels": {
+      "club": "bath",
+      "reason": "付け替え"
+    },
+    "chris-cloete": {
+      "club": null,
+      "reason": "複数ページ['clermont', 'la-rochelle', 'racing-92', 'gloucester']に掲載・在籍中[]で決められない"
+    },
+    "connor-robinson": {
+      "club": "old-glory",
+      "reason": "付け替え"
+    },
+    "connor-treacey": {
+      "club": "bath",
+      "reason": "premiership へ移動"
+    },
+    "corey-domachowski": {
+      "club": "scarlets",
+      "reason": "付け替え"
+    },
+    "cullen-grace": {
+      "club": "scarlets",
+      "reason": "urc へ移動"
+    },
+    "cyle-brink": {
+      "club": null,
+      "reason": "複数ページ['cardiff', 'connacht', 'edinburgh', 'leinster', 'lions', 'munster', 'ospreys', 'sharks', 'stormers', 'ulster']に掲載・在籍中[]で決められない"
+    },
+    "dafydd-hughes": {
+      "club": "cardiff",
+      "reason": "付け替え"
+    },
+    "dalton-papali-i": {
+      "club": "castres",
+      "reason": "top14 へ移動"
+    },
+    "dan-hanson": {
+      "club": "anthem-rc",
+      "reason": "付け替え"
+    },
+    "daniel-marais": {
+      "club": null,
+      "reason": "複数ページ['clermont', 'la-rochelle', 'racing-92', 'glasgow', 'bristol', 'gloucester', 'leicester', 'sale', 'saracens']に掲載・在籍中[]で決められない"
+    },
+    "darcy-swain": {
+      "club": "clermont",
+      "reason": "top14 へ移動"
+    },
+    "denis-marchois": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "dewald-kotze": {
+      "club": "seattle-seawolves",
+      "reason": "付け替え"
+    },
+    "dinesvaran-krishnan": {
+      "club": null,
+      "reason": "複数ページ['anthem-rc', 'ca-legion', 'new-england-free-jacks', 'old-glory']に掲載・在籍中[]で決められない"
+    },
+    "dylan-indaburu": {
+      "club": null,
+      "reason": "複数ページ['bordeaux', 'castres', 'lyon', 'montpellier', 'paris', 'pau', 'perpignan', 'toulon', 'toulouse', 'vannes', 'bath', 'harlequins']に掲載・在籍中[]で決められない"
+    },
+    "eddie-erskine": {
+      "club": null,
+      "reason": "複数ページ['clermont', 'la-rochelle', 'racing-92', 'glasgow', 'bristol', 'gloucester', 'leicester', 'sale', 'saracens']に掲載・在籍中[]で決められない"
+    },
+    "efan-daniel": {
+      "club": "ospreys",
+      "reason": "付け替え"
+    },
+    "elia-canakaivata": {
+      "club": null,
+      "reason": "在籍中 ['Fijian Drua', 'Sale Sharks'] は他リーグ sale"
+    },
+    "elliot-stooke": {
+      "club": "leicester",
+      "reason": "付け替え"
+    },
+    "enzo-fernandes": {
+      "club": null,
+      "reason": "在籍歴なし・現所属 'US Dax Rugby Landes'"
+    },
+    "ereatara-enari": {
+      "club": "dragons",
+      "reason": "urc へ移動"
+    },
+    "esteban-capilla": {
+      "club": "bayonne",
+      "reason": "付け替え"
+    },
+    "etene-nanai-seturo": {
+      "club": "clermont",
+      "reason": "top14 へ移動"
+    },
+    "ethan-staddon": {
+      "club": "bristol",
+      "reason": "premiership へ移動"
+    },
+    "evan-lloyd-": {
+      "club": "cardiff",
+      "reason": "付け替え"
+    },
+    "ewan-richards": {
+      "club": "bath",
+      "reason": "premiership へ移動"
+    },
+    "facundo-bosch": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "fergus-lee-warner": {
+      "club": "newcastle",
+      "reason": "premiership へ移動"
+    },
+    "finlay-christie": {
+      "club": "blues",
+      "reason": "付け替え"
+    },
+    "florian-baquey": {
+      "club": "bordeaux",
+      "reason": "付け替え"
+    },
+    "franco-molina": {
+      "club": "newcastle",
+      "reason": "premiership へ移動"
+    },
+    "george-timmins": {
+      "club": "bath",
+      "reason": "premiership へ移動"
+    },
+    "guido-petti": {
+      "club": "harlequins",
+      "reason": "premiership へ移動"
+    },
+    "hame-faiva": {
+      "club": "newcastle",
+      "reason": "付け替え"
+    },
+    "harry-johnson-holmes": {
+      "club": "harlequins",
+      "reason": "premiership へ移動"
+    },
+    "harry-plummer": {
+      "club": "clermont",
+      "reason": "top14 へ移動"
+    },
+    "harvey-beaton": {
+      "club": "saracens",
+      "reason": "付け替え"
+    },
+    "harvey-cuckson": {
+      "club": "scarlets",
+      "reason": "付け替え"
+    },
+    "henry-palmer": {
+      "club": null,
+      "reason": "在籍歴なし・現所属 'Cornish Pirates'"
+    },
+    "hoskins-sotutu": {
+      "club": "newcastle",
+      "reason": "premiership へ移動"
+    },
+    "hugh-roach": {
+      "club": null,
+      "reason": "複数ページ['anthem-rc', 'ca-legion', 'new-england-free-jacks', 'old-glory', 'seattle-seawolves']に掲載・在籍中[]で決められない"
+    },
+    "hugo-afonso": {
+      "club": null,
+      "reason": "複数ページ['bordeaux', 'castres', 'lyon', 'montpellier', 'paris', 'pau', 'perpignan', 'toulon', 'toulouse', 'vannes', 'benetton', 'dragons', 'scarlets', 'zebre', 'bath', 'harlequins', 'newcastle']に掲載・在籍中[]で決められない"
+    },
+    "hugo-leclerq": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "iestyn-rees": {
+      "club": null,
+      "reason": "在籍歴なし・現所属 'Nottingham Rugby'"
+    },
+    "ignacio-valdes-leiva": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "imanol-thicoipe": {
+      "club": null,
+      "reason": "複数ページ['bordeaux', 'castres', 'lyon', 'montpellier', 'paris', 'pau', 'perpignan', 'toulon', 'toulouse', 'vannes', 'benetton', 'dragons', 'scarlets', 'zebre', 'bath', 'harlequins', 'newcastle']に掲載・在籍中[]で決められない"
+    },
+    "inia-tabuavou": {
+      "club": "vannes",
+      "reason": "top14 へ移動"
+    },
+    "ioan-emanuel": {
+      "club": "cardiff",
+      "reason": "付け替え"
+    },
+    "isaia-walker-leawere": {
+      "club": "benetton",
+      "reason": "urc へ移動"
+    },
+    "jack-bennett": {
+      "club": "bath",
+      "reason": "付け替え"
+    },
+    "jack-wright": {
+      "club": null,
+      "reason": "在籍歴なし・現所属 'Shizuoka Blue Revs'"
+    },
+    "jaco-coetzee": {
+      "club": "bath",
+      "reason": "premiership へ移動"
+    },
+    "jacques-du-plessis": {
+      "club": null,
+      "reason": "複数ページ['clermont', 'la-rochelle', 'racing-92', 'glasgow', 'bristol', 'gloucester', 'sale', 'saracens']に掲載・在籍中[]で決められない"
+    },
+    "jacques-nguimbous": {
+      "club": "bordeaux",
+      "reason": "付け替え"
+    },
+    "james-botham": {
+      "club": "cardiff",
+      "reason": "付け替え"
+    },
+    "james-lay": {
+      "club": "moana-pasifika",
+      "reason": "付け替え"
+    },
+    "james-slipper": {
+      "club": "brumbies",
+      "reason": "付け替え"
+    },
+    "james-tucker": {
+      "club": null,
+      "reason": "複数ページ['brumbies', 'chiefs', 'crusaders', 'fijian-drua', 'highlanders', 'hurricanes', 'moana-pasifika', 'reds', 'waratahs', 'western-force']に掲載・在籍中['Waikato Mooloos']で決められない"
+    },
+    "janko-swanepoel": {
+      "club": null,
+      "reason": "複数ページ['cardiff', 'connacht', 'edinburgh', 'leinster', 'lions', 'munster', 'ospreys', 'sharks', 'stormers', 'ulster']に掲載・在籍中['Mie Honda Heat RFC']で決められない"
+    },
+    "jannes-kirsten": {
+      "club": "bulls",
+      "reason": "付け替え"
+    },
+    "jasper-spandler": {
+      "club": "bath",
+      "reason": "付け替え"
+    },
+    "joe-van-zyl": {
+      "club": null,
+      "reason": "複数ページ['cardiff', 'connacht', 'edinburgh', 'leinster', 'lions', 'munster', 'ospreys', 'sharks', 'stormers', 'ulster']に掲載・在籍中[]で決められない"
+    },
+    "johan-momsen": {
+      "club": null,
+      "reason": "在籍中 ['Anthem Rugby Carolina', 'Sharks Rugby Club'] は他リーグ sharks"
+    },
+    "johannes-jonker": {
+      "club": null,
+      "reason": "複数ページ['clermont', 'la-rochelle', 'racing-92', 'glasgow', 'bristol', 'gloucester', 'leicester', 'sale', 'saracens']に掲載・在籍中['FC Grenoble Rugby']で決められない"
+    },
+    "john-stewart": {
+      "club": "leicester",
+      "reason": "付け替え"
+    },
+    "jokin-duhalt": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "jordan-lay": {
+      "club": "blues",
+      "reason": "付け替え"
+    },
+    "josh-fusitua": {
+      "club": null,
+      "reason": "複数ページ['brumbies', 'chiefs', 'crusaders', 'fijian-drua', 'highlanders', 'hurricanes', 'moana-pasifika', 'reds', 'waratahs', 'western-force']に掲載・在籍中['Blues', 'Auckland']で決められない"
+    },
+    "josh-mcnally": {
+      "club": "cardiff",
+      "reason": "urc へ移動"
+    },
+    "juan-harinordoquy": {
+      "club": "bayonne",
+      "reason": "付け替え"
+    },
+    "juan-schoeman": {
+      "club": "lions",
+      "reason": "urc へ移動"
+    },
+    "judah-qoro-saumaisue": {
+      "club": "brumbies",
+      "reason": "付け替え"
+    },
+    "jules-derre": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "jules-martin-bonnard": {
+      "club": "toulouse",
+      "reason": "top14 へ移動"
+    },
+    "kieran-verden": {
+      "club": "bath",
+      "reason": "付け替え"
+    },
+    "kieron-assiratti": {
+      "club": "cardiff",
+      "reason": "付け替え"
+    },
+    "koch-mason": {
+      "club": null,
+      "reason": "複数ページ['anthem-rc', 'ca-legion', 'new-england-free-jacks', 'old-glory', 'seattle-seawolves']に掲載・在籍中[]で決められない"
+    },
+    "konstantine-mikautadze": {
+      "club": null,
+      "reason": "複数ページ['bordeaux', 'castres', 'lyon', 'montpellier', 'pau', 'toulon', 'toulouse', 'vannes']に掲載・在籍中['CA Brive Corrèze Limousin']で決められない"
+    },
+    "kurt-eklund": {
+      "club": "blues",
+      "reason": "付け替え"
+    },
+    "lachlan-lonergan": {
+      "club": "brumbies",
+      "reason": "付け替え"
+    },
+    "lachlan-shaw": {
+      "club": "brumbies",
+      "reason": "付け替え"
+    },
+    "lalakai-foketi": {
+      "club": "ospreys",
+      "reason": "urc へ移動"
+    },
+    "larome-white": {
+      "club": "seattle-seawolves",
+      "reason": "付け替え"
+    },
+    "lawson-creighton": {
+      "club": "ospreys",
+      "reason": "urc へ移動"
+    },
+    "leo-chauvin": {
+      "club": "bordeaux",
+      "reason": "付け替え"
+    },
+    "liam-belcher": {
+      "club": "cardiff",
+      "reason": "付け替え"
+    },
+    "lindsey-stevens": {
+      "club": "new-england-free-jacks",
+      "reason": "付け替え"
+    },
+    "lopeti-timani": {
+      "club": null,
+      "reason": "在籍歴なし・現所属 'US Carcassonne'"
+    },
+    "louis-ortolan": {
+      "club": null,
+      "reason": "複数ページ['bordeaux', 'castres', 'lyon', 'montpellier', 'paris', 'pau', 'perpignan', 'toulon', 'toulouse', 'vannes', 'dragons', 'scarlets', 'zebre', 'bath', 'harlequins', 'newcastle']に掲載・在籍中[]で決められない"
+    },
+    "lucas-de-la-rua": {
+      "club": "cardiff",
+      "reason": "付け替え"
+    },
+    "lucas-official": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "lucas-paulos": {
+      "club": "bayonne",
+      "reason": "付け替え"
+    },
+    "luke-reimer": {
+      "club": "brumbies",
+      "reason": "付け替え"
+    },
+    "luke-tagi": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "manuel-leindekar": {
+      "club": null,
+      "reason": "複数ページ['bordeaux', 'castres', 'lyon', 'toulouse', 'vannes']に掲載・在籍中['Oyonnax Rugby', 'FC Grenoble Rugby']で決められない"
+    },
+    "marcel-renata": {
+      "club": "blues",
+      "reason": "付け替え"
+    },
+    "martin-villar": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "mateo-guerin": {
+      "club": null,
+      "reason": "複数ページ['bordeaux', 'castres', 'lyon', 'montpellier', 'paris', 'pau', 'perpignan', 'toulon', 'toulouse', 'vannes', 'benetton', 'dragons', 'scarlets', 'zebre', 'bath', 'harlequins', 'newcastle']に掲載・在籍中['US Dax Rugby Landes']で決められない"
+    },
+    "matheo-futhazar": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "matis-perchaud": {
+      "club": "bordeaux",
+      "reason": "top14 へ移動"
+    },
+    "max-bru": {
+      "club": null,
+      "reason": "複数ページ['bordeaux', 'castres', 'lyon', 'montpellier', 'paris', 'pau', 'perpignan', 'toulon', 'toulouse', 'vannes', 'dragons', 'scarlets', 'bath', 'harlequins', 'newcastle']に掲載・在籍中[]で決められない"
+    },
+    "max-eke": {
+      "club": "saracens",
+      "reason": "付け替え"
+    },
+    "max-pearce": {
+      "club": "bath",
+      "reason": "付け替え"
+    },
+    "merwe-olivier": {
+      "club": null,
+      "reason": "複数ページ['cardiff', 'connacht', 'edinburgh', 'leinster', 'lions', 'munster', 'ospreys', 'sharks', 'stormers', 'ulster']に掲載・在籍中['Kubota Spears Funabashi Tokyo-Bay']で決められない"
+    },
+    "mihlali-mosi": {
+      "club": null,
+      "reason": "複数ページ['cardiff', 'edinburgh', 'leinster', 'sharks']に掲載・在籍中[]で決められない"
+    },
+    "mika-felix": {
+      "club": null,
+      "reason": "複数ページ['anthem-rc', 'ca-legion', 'new-england-free-jacks', 'old-glory', 'seattle-seawolves']に掲載・在籍中[]で決められない"
+    },
+    "mikey-summerfield": {
+      "club": "bath",
+      "reason": "付け替え"
+    },
+    "mills-sanerivi": {
+      "club": "vannes",
+      "reason": "top14 へ移動"
+    },
+    "morgan-mignot": {
+      "club": "bordeaux",
+      "reason": "付け替え"
+    },
+    "nathan-thibeau": {
+      "club": "bordeaux",
+      "reason": "付け替え"
+    },
+    "nepo-laulala": {
+      "club": "gloucester",
+      "reason": "premiership へ移動"
+    },
+    "nial-annett": {
+      "club": null,
+      "reason": "複数ページ['clermont', 'la-rochelle', 'racing-92', 'glasgow', 'bristol', 'gloucester', 'leicester', 'sale', 'saracens']に掲載・在籍中[]で決められない"
+    },
+    "nick-frost": {
+      "club": "brumbies",
+      "reason": "付け替え"
+    },
+    "nougzar-adjamov": {
+      "club": null,
+      "reason": "在籍歴なし・現所属 'US Salles'"
+    },
+    "ofa-tu-ungafasi": {
+      "club": "blues",
+      "reason": "付け替え"
+    },
+    "olamide-sodeke": {
+      "club": "saracens",
+      "reason": "付け替え"
+    },
+    "owain-james-18238": {
+      "club": "dragons",
+      "reason": "付け替え"
+    },
+    "paddy-ryan-1990": {
+      "club": null,
+      "reason": "複数ページ['anthem-rc', 'ca-legion', 'new-england-free-jacks', 'old-glory', 'seattle-seawolves']に掲載・在籍中[]で決められない"
+    },
+    "pascal-cotet": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "patrick-tuipulotu": {
+      "club": "blues",
+      "reason": "付け替え"
+    },
+    "peio-dospital": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "pete-samu": {
+      "club": "waratahs",
+      "reason": "付け替え"
+    },
+    "pierre-castillon": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "pieter-scholtz": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "ponipate-loganimasi": {
+      "club": null,
+      "reason": "在籍中 ['Fijian Drua', 'Sale Sharks'] は他リーグ sale"
+    },
+    "pouri-rakete-stones": {
+      "club": "newcastle",
+      "reason": "premiership へ移動"
+    },
+    "quentin-bethune": {
+      "club": null,
+      "reason": "複数ページ['bordeaux', 'castres', 'lyon', 'montpellier', 'paris', 'pau', 'perpignan', 'toulon', 'toulouse', 'vannes', 'benetton', 'dragons', 'scarlets', 'zebre', 'bath', 'harlequins', 'newcastle']に掲載・在籍中[]で決められない"
+    },
+    "quinn-roux": {
+      "club": "bath",
+      "reason": "付け替え"
+    },
+    "rafael-cayuela": {
+      "club": null,
+      "reason": "複数ページ['bordeaux', 'castres', 'lyon', 'montpellier', 'paris', 'pau', 'perpignan', 'toulon', 'toulouse', 'vannes', 'benetton', 'dragons', 'scarlets', 'zebre', 'bath', 'harlequins', 'newcastle']に掲載・在籍中['Stado Tarbes Pyrénées Rugby']で決められない"
+    },
+    "rhys-barratt": {
+      "club": "cardiff",
+      "reason": "付け替え"
+    },
+    "rhys-carre": {
+      "club": "saracens",
+      "reason": "premiership へ移動"
+    },
+    "rhys-litterick": {
+      "club": "edinburgh",
+      "reason": "付け替え"
+    },
+    "rhys-van-nek": {
+      "club": "brumbies",
+      "reason": "付け替え"
+    },
+    "ricky-riccitelli": {
+      "club": "montpellier",
+      "reason": "top14 へ移動"
+    },
+    "riley-higgins": {
+      "club": "edinburgh",
+      "reason": "urc へ移動"
+    },
+    "rob-rush": {
+      "club": null,
+      "reason": "複数ページ['chiefs', 'crusaders', 'hurricanes', 'reds', 'waratahs']に掲載・在籍中['Northland Taniwha']で決められない"
+    },
+    "rob-valetini": {
+      "club": "brumbies",
+      "reason": "付け替え"
+    },
+    "robert-hunt": {
+      "club": "dragons",
+      "reason": "付け替え"
+    },
+    "romain-latterrade": {
+      "club": "bordeaux",
+      "reason": "付け替え"
+    },
+    "rory-cameron": {
+      "club": null,
+      "reason": "複数ページ['clermont', 'la-rochelle', 'racing-92', 'glasgow', 'gloucester', 'saracens']に掲載・在籍中[]で決められない"
+    },
+    "rory-thornton": {
+      "club": "cardiff",
+      "reason": "付け替え"
+    },
+    "ruan-nortje": {
+      "club": "bulls",
+      "reason": "付け替え"
+    },
+    "rufus-mclean": {
+      "club": "paris",
+      "reason": "top14 へ移動"
+    },
+    "sam-crean": {
+      "club": "ulster",
+      "reason": "urc へ移動"
+    },
+    "sam-darry": {
+      "club": "blues",
+      "reason": "付け替え"
+    },
+    "sam-golla": {
+      "club": "anthem-rc",
+      "reason": "付け替え"
+    },
+    "sam-moli": {
+      "club": "leicester",
+      "reason": "premiership へ移動"
+    },
+    "sam-nock": {
+      "club": null,
+      "reason": "複数ページ['chiefs', 'crusaders', 'reds', 'waratahs']に掲載・在籍中['Blues', 'Northland Taniwha']で決められない"
+    },
+    "samson-adejimi": {
+      "club": "newcastle",
+      "reason": "付け替え"
+    },
+    "scott-kirk": {
+      "club": "bath",
+      "reason": "付け替え"
+    },
+    "seb-davies": {
+      "club": "dragons",
+      "reason": "付け替え"
+    },
+    "seb-lombard": {
+      "club": "lions",
+      "reason": "付け替え"
+    },
+    "semisi-paea": {
+      "club": "cardiff",
+      "reason": "urc へ移動"
+    },
+    "seru-uru": {
+      "club": "racing-92",
+      "reason": "top14 へ移動"
+    },
+    "sevu-reece": {
+      "club": "perpignan",
+      "reason": "top14 へ移動"
+    },
+    "simione-kuruvoli": {
+      "club": "vannes",
+      "reason": "top14 へ移動"
+    },
+    "sione-ahio": {
+      "club": "la-rochelle",
+      "reason": "top14 へ移動"
+    },
+    "soane-vikena": {
+      "club": "highlanders",
+      "reason": "付け替え"
+    },
+    "sosefo-kautai": {
+      "club": "highlanders",
+      "reason": "付け替え"
+    },
+    "steveni-lombard": {
+      "club": null,
+      "reason": "複数ページ['anthem-rc', 'ca-legion', 'new-england-free-jacks', 'old-glory', 'seattle-seawolves']に掲載・在籍中[]で決められない"
+    },
+    "swan-cormenier": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "taine-plumtree": {
+      "club": "scarlets",
+      "reason": "urc へ移動"
+    },
+    "tevita-tatafu": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "thomas-acquier": {
+      "club": null,
+      "reason": "複数ページ['bordeaux', 'castres', 'lyon', 'montpellier', 'paris', 'pau', 'perpignan', 'toulon', 'toulouse', 'vannes', 'dragons', 'scarlets', 'bath', 'harlequins', 'newcastle']に掲載・在籍中['US Tyrosse']で決められない"
+    },
+    "thomas-ceyte": {
+      "club": "clermont",
+      "reason": "付け替え"
+    },
+    "thomas-du-toit": {
+      "club": null,
+      "reason": "複数ページ['clermont', 'la-rochelle', 'racing-92', 'glasgow', 'sharks', 'bristol', 'gloucester', 'leicester', 'sale', 'saracens']に掲載・在籍中['Bath Rugby', 'Sharks Rugby Club']で決められない"
+    },
+    "thomas-ross": {
+      "club": null,
+      "reason": "在籍歴なし・現所属 'Valence Romans Drôme Rugby'"
+    },
+    "tiaan-lange": {
+      "club": "lions",
+      "reason": "付け替え"
+    },
+    "tielman-nieuwoudt": {
+      "club": "bulls",
+      "reason": "付け替え"
+    },
+    "timmy-ohlwein": {
+      "club": null,
+      "reason": "複数ページ['anthem-rc', 'ca-legion', 'new-england-free-jacks', 'old-glory', 'seattle-seawolves']に掲載・在籍中[]で決められない"
+    },
+    "tom-dunn": {
+      "club": "bath",
+      "reason": "付け替え"
+    },
+    "tom-nogueira": {
+      "club": "bordeaux",
+      "reason": "付け替え"
+    },
+    "tom-robinson": {
+      "club": null,
+      "reason": "複数ページ['brumbies', 'chiefs', 'crusaders', 'fijian-drua', 'highlanders', 'hurricanes', 'moana-pasifika', 'reds', 'waratahs', 'western-force']に掲載・在籍中[]で決められない"
+    },
+    "txomin-ithurbide": {
+      "club": null,
+      "reason": "複数ページ['bordeaux', 'castres', 'toulouse', 'vannes']に掲載・在籍中['Saint Jean-de-Luz Olympique Rugby']で決められない"
+    },
+    "ugo-boniface": {
+      "club": "vannes",
+      "reason": "付け替え"
+    },
+    "vincent-giudicelli": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "wilco-louw": {
+      "club": "stormers",
+      "reason": "付け替え"
+    },
+    "will-davies-king": {
+      "club": null,
+      "reason": "在籍歴なし・現所属 'Bedford Blues'"
+    },
+    "will-stuart": {
+      "club": "bath",
+      "reason": "付け替え"
+    },
+    "yahnis-el-maslouhi": {
+      "club": null,
+      "reason": "在籍歴なし・現所属 'Association Sportive Béziers Hérault'"
+    },
+    "yon-caperaa": {
+      "club": "pau",
+      "reason": "top14 へ移動"
+    },
+    "yonn-ramond": {
+      "club": "bayonne",
+      "reason": "top14 へ移動"
+    },
+    "zach-fittler": {
+      "club": "pau",
+      "reason": "top14 へ移動"
+    },
+    "zinedine-aouad": {
+      "club": null,
+      "reason": "在籍歴なし・現所属 'Nissa Rugby'"
+    },
+    "zuriel-togiatama": {
+      "club": "newcastle",
+      "reason": "premiership へ移動"
+    }
+  }
+}

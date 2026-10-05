@@ -85,20 +85,6 @@
    ]
   },
   {
-   "id": "ar_amine-maalla",
-   "slug": "amine-maalla",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "ar_ander-etchebarne-sanchez",
-   "slug": "ander-etchebarne-sanchez",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
    "id": "ar_andre-esterhuizen",
    "slug": "andre-esterhuizen",
    "reasons": [
@@ -113,20 +99,6 @@
    ]
   },
   {
-   "id": "ar_archie-stanley",
-   "slug": "archie-stanley",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "ar_arthur-cordwell",
-   "slug": "arthur-cordwell",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
    "id": "ar_arthur-green",
    "slug": "arthur-green",
    "reasons": [
@@ -136,13 +108,6 @@
   {
    "id": "ar_arthur-iturria",
    "slug": "arthur-iturria",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "ar_badri-tsikhistavi",
-   "slug": "badri-tsikhistavi",
    "reasons": [
     "K3"
    ]
@@ -225,13 +190,6 @@
    ]
   },
   {
-   "id": "ar_chris-cloete",
-   "slug": "chris-cloete",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
    "id": "ar_chris-harris",
    "slug": "chris-harris",
    "reasons": [
@@ -262,13 +220,6 @@
   {
    "id": "ar_connor-treacey",
    "slug": "connor-treacey",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "ar_cyle-brink",
-   "slug": "cyle-brink",
    "reasons": [
     "K3"
    ]
@@ -316,13 +267,6 @@
    ]
   },
   {
-   "id": "ar_daniel-marais",
-   "slug": "daniel-marais",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
    "id": "ar_darcy-swain",
    "slug": "darcy-swain",
    "reasons": [
@@ -365,13 +309,6 @@
    ]
   },
   {
-   "id": "ar_dylan-indaburu",
-   "slug": "dylan-indaburu",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
    "id": "ar_dylan-smith",
    "slug": "dylan-smith",
    "reasons": [
@@ -379,22 +316,8 @@
    ]
   },
   {
-   "id": "ar_eddie-erskine",
-   "slug": "eddie-erskine",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
    "id": "ar_elliot-stooke",
    "slug": "elliot-stooke",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "ar_enzo-fernandes",
-   "slug": "enzo-fernandes",
    "reasons": [
     "K3"
    ]
@@ -535,13 +458,6 @@
    ]
   },
   {
-   "id": "ar_hugo-afonso",
-   "slug": "hugo-afonso",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
    "id": "ar_hugo-leclerq",
    "slug": "hugo-leclerq",
    "reasons": [
@@ -551,13 +467,6 @@
   {
    "id": "ar_ignacio-valdes-leiva",
    "slug": "ignacio-valdes-leiva",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "ar_imanol-thicoipe",
-   "slug": "imanol-thicoipe",
    "reasons": [
     "K3"
    ]
@@ -580,13 +489,6 @@
   {
    "id": "ar_jack-bennett",
    "slug": "jack-bennett",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "ar_jacques-du-plessis",
-   "slug": "jacques-du-plessis",
    "reasons": [
     "K3"
    ]
@@ -622,13 +524,6 @@
   {
    "id": "ar_jandre-marais",
    "slug": "jandre-marais",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "ar_janko-swanepoel",
-   "slug": "janko-swanepoel",
    "reasons": [
     "K3"
    ]
@@ -671,20 +566,6 @@
   {
    "id": "ar_joe-peard",
    "slug": "joe-peard",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "ar_joe-van-zyl",
-   "slug": "joe-van-zyl",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "ar_johannes-jonker",
-   "slug": "johannes-jonker",
    "reasons": [
     "K3"
    ]
@@ -838,13 +719,6 @@
    ]
   },
   {
-   "id": "ar_louis-ortolan",
-   "slug": "louis-ortolan",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
    "id": "ar_lua-makisi",
    "slug": "lua-makisi",
    "reasons": [
@@ -917,13 +791,6 @@
    ]
   },
   {
-   "id": "ar_mateo-guerin",
-   "slug": "mateo-guerin",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
    "id": "ar_matheo-frisach",
    "slug": "matheo-frisach",
    "reasons": [
@@ -947,13 +814,6 @@
   {
    "id": "ar_matis-perchaud",
    "slug": "matis-perchaud",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "ar_max-bru",
-   "slug": "max-bru",
    "reasons": [
     "K3"
    ]
@@ -987,20 +847,6 @@
    ]
   },
   {
-   "id": "ar_merwe-olivier",
-   "slug": "merwe-olivier",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "ar_mihlali-mosi",
-   "slug": "mihlali-mosi",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
    "id": "ar_mike-stolberg",
    "slug": "mike-stolberg",
    "reasons": [
@@ -1026,13 +872,6 @@
   {
    "id": "ar_nathan-thibeau",
    "slug": "nathan-thibeau",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "ar_nial-annett",
-   "slug": "nial-annett",
    "reasons": [
     "K3"
    ]
@@ -1101,13 +940,6 @@
    ]
   },
   {
-   "id": "ar_quentin-bethune",
-   "slug": "quentin-bethune",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
    "id": "ar_quinn-roux",
    "slug": "quinn-roux",
    "reasons": [
@@ -1122,22 +954,8 @@
    ]
   },
   {
-   "id": "ar_rafael-cayuela",
-   "slug": "rafael-cayuela",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
    "id": "ar_robert-hunt",
    "slug": "robert-hunt",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "ar_rory-cameron",
-   "slug": "rory-cameron",
    "reasons": [
     "K3"
    ]
@@ -1271,13 +1089,6 @@
    ]
   },
   {
-   "id": "ar_thomas-acquier",
-   "slug": "thomas-acquier",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
    "id": "ar_thomas-ceyte",
    "slug": "thomas-ceyte",
    "reasons": [
@@ -1341,13 +1152,6 @@
    ]
   },
   {
-   "id": "ar_txomin-ithurbide",
-   "slug": "txomin-ithurbide",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
    "id": "ar_ugo-boniface",
    "slug": "ugo-boniface",
    "reasons": [
@@ -1380,13 +1184,6 @@
   {
    "id": "ar_will-stuart",
    "slug": "will-stuart",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "ar_yahnis-el-maslouhi",
-   "slug": "yahnis-el-maslouhi",
    "reasons": [
     "K3"
    ]

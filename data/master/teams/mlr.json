@@ -23,7 +23,6 @@
       "ar_ramiro-gurovich",
       "ar_seth-smith",
       "ar_james-scott",
-      "ar_johan-momsen",
       "ar_will-sherman",
       "ar_alejandro-martinez-tapia",
       "ar_baden-godfrey",
@@ -44,7 +43,9 @@
       "ar_conner-mooneyham",
       "ar_julian-roberts",
       "ar_malacchi-esdale",
-      "ar_jeron-pantor"
+      "ar_jeron-pantor",
+      "ar_dan-hanson",
+      "ar_sam-golla"
     ]
   },
   {
@@ -71,38 +72,27 @@
       "ar_ben-sugars",
       "ar_cyrille-cama",
       "ar_joe-taufete-e",
-      "ar_larome-white",
       "ar_jurie-van-vuuren",
       "ar_ben-houston",
       "ar_chase-jones",
       "ar_christian-poidevin",
       "ar_ed-timpson",
-      "ar_mika-felix",
       "ar_jason-damm",
       "ar_keni-nasoqeqe",
-      "ar_paddy-ryan-1990",
       "ar_lance-williams",
       "ar_ronan-murphy",
-      "ar_steveni-lombard",
       "ar_gonzalo-bertranou",
       "ar_tas-smith",
-      "ar_timmy-ohlwein",
       "ar_matt-anticev",
-      "ar_hugh-roach",
       "ar_steffan-crimp",
       "ar_bill-meakes",
       "ar_cassh-maluia",
-      "ar_lindsey-stevens",
       "ar_cole-semu",
       "ar_nick-chan",
-      "ar_koch-mason",
       "ar_joseph-mano",
       "ar_oscar-treacy",
-      "ar_cameron-dodson",
       "ar_ryan-james",
-      "ar_corbin-smith",
-      "ar_dinesvaran-krishnan",
-      "ar_dan-hanson"
+      "ar_corbin-smith"
     ]
   },
   {
@@ -143,11 +133,9 @@
       "ar_nicolas-revol",
       "ar_malcolm-may",
       "ar_mason-flesch",
-      "ar_connor-robinson",
       "ar_matt-oworu",
       "ar_mathis-demandolx",
       "ar_michael-baska",
-      "ar_dewald-kotze",
       "ar_ruben-de-haas",
       "ar_christopher-hilsenbeck",
       "ar_reece-botha",
@@ -162,7 +150,6 @@
       "ar_maikeli-mudu-naromaitoga",
       "ar_noah-brown",
       "ar_peyton-wall",
-      "ar_sam-golla",
       "ar_brock-webster"
     ]
   },
@@ -211,7 +198,8 @@
       "ar_john-cullen",
       "ar_line-latu",
       "ar_mitch-wilson",
-      "ar_justice-nkombua"
+      "ar_justice-nkombua",
+      "ar_lindsey-stevens"
     ]
   },
   {
@@ -257,7 +245,8 @@
       "ar_harley-wheeler",
       "ar_john-rizzo",
       "ar_perry-humphreys",
-      "ar_owen-sheehy"
+      "ar_owen-sheehy",
+      "ar_connor-robinson"
     ]
   },
   {
@@ -288,7 +277,6 @@
       "ar_paddy-ryan-1998",
       "ar_riekert-hattingh",
       "ar_tia-i-vavao",
-      "ar_andre-riaan-warner",
       "ar_juan-philip-smith",
       "ar_nick-boyer",
       "ar_david-coetzer",
@@ -302,8 +290,9 @@
       "ar_matthias-douglas",
       "ar_michael-hand",
       "ar_nolan-tuamoheloa",
-      "ar_rufus-mclean",
-      "ar_divan-rossouw"
+      "ar_divan-rossouw",
+      "ar_dewald-kotze",
+      "ar_larome-white"
     ]
   }
 ]

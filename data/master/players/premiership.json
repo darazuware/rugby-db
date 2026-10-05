@@ -381,41 +381,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_aiden-stait",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/aiden-stait",
-    "scraped_at": "2026-09-28T10:15:12+09:00",
-    "name_en": "Aiden STAIT",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "aiden-stait",
-    "position": "Lock",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 196,
-    "weight_kg": 150,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2023,
-        "to": null,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_aj-macginty",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/aj-macginty",
@@ -469,7 +434,7 @@
     "name_kana": null,
     "slug": "akenzua-al-kareem-abdul-khalik",
     "position": "Back row",
-    "team_id": "gloucester",
+    "team_id": "bristol",
     "league": "premiership",
     "height_cm": 189,
     "weight_kg": 116,
@@ -600,7 +565,7 @@
     "name_kana": null,
     "slug": "alec-clarey",
     "position": "Prop",
-    "team_id": "northampton",
+    "team_id": "saracens",
     "league": "premiership",
     "height_cm": 188,
     "weight_kg": 111,
@@ -1192,7 +1157,7 @@
     "name_kana": null,
     "slug": "alfie-barbeary",
     "position": "Back row",
-    "team_id": "gloucester",
+    "team_id": "saracens",
     "league": "premiership",
     "height_cm": 196,
     "weight_kg": 109,
@@ -1771,7 +1736,7 @@
     "name_kana": null,
     "slug": "archie-griffin",
     "position": "Prop",
-    "team_id": "gloucester",
+    "team_id": "bath",
     "league": "premiership",
     "height_cm": 196,
     "weight_kg": 117,
@@ -1903,53 +1868,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_archie-stanley",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/archie-stanley",
-    "scraped_at": "2026-09-28T10:11:09+09:00",
-    "name_en": "Archie STANLEY",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "archie-stanley",
-    "position": "Prop",
-    "team_id": "gloucester",
-    "league": "premiership",
-    "height_cm": 171,
-    "weight_kg": 111,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Bath Rugby",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "London Scottish",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Bath Rugby",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_archie-van-der-flier",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/archie-van-der-flier",
@@ -2044,53 +1962,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_arthur-cordwell",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/arthur-cordwell",
-    "scraped_at": "2026-09-28T10:08:50+09:00",
-    "name_en": "Arthur CORDWELL",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "arthur-cordwell",
-    "position": "Prop",
-    "team_id": "gloucester",
-    "league": "premiership",
-    "height_cm": 194,
-    "weight_kg": 130,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Bath Rugby",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Coventry Rugby",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Bath Rugby",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_arthur-green",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/arthur-green",
@@ -2100,7 +1971,7 @@
     "name_kana": null,
     "slug": "arthur-green",
     "position": "Back row",
-    "team_id": "gloucester",
+    "team_id": "bath",
     "league": "premiership",
     "height_cm": 202,
     "weight_kg": 114,
@@ -2376,47 +2247,6 @@
       {
         "team": "Exeter Chiefs",
         "from": 2025,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_badri-tsikhistavi",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/badri-tsikhistavi",
-    "scraped_at": "2026-09-28T10:14:29+09:00",
-    "name_en": "Badri TSIKHISTAVI",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "badri-tsikhistavi",
-    "position": "Prop",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 190,
-    "weight_kg": 116,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Black Lion",
-        "from": 2025,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "Stade Olympique Chambéry",
-        "from": 2026,
         "to": 2027,
         "source_url": null
       }
@@ -3292,47 +3122,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_benjamin-lahet",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/benjamin-lahet",
-    "scraped_at": "2026-09-28T10:14:31+09:00",
-    "name_en": "Benjamin LAHET",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "benjamin-lahet",
-    "position": "Prop",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 190,
-    "weight_kg": 114,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2018,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Capbreton Hossegor Rugby",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_beno--obano-",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/beno--obano-",
@@ -3342,7 +3131,7 @@
     "name_kana": null,
     "slug": "beno--obano-",
     "position": "Prop",
-    "team_id": "gloucester",
+    "team_id": "bath",
     "league": "premiership",
     "height_cm": 180,
     "weight_kg": 117,
@@ -3513,7 +3302,7 @@
     "name_kana": null,
     "slug": "billy-sela",
     "position": "Prop",
-    "team_id": "gloucester",
+    "team_id": "bath",
     "league": "premiership",
     "height_cm": 205,
     "weight_kg": 116,
@@ -4632,7 +4421,7 @@
     "name_kana": null,
     "slug": "charlie-ewels",
     "position": "Lock",
-    "team_id": "gloucester",
+    "team_id": "bath",
     "league": "premiership",
     "height_cm": 209,
     "weight_kg": 122,
@@ -4994,47 +4783,6 @@
         "team": "Saracens",
         "from": 2026,
         "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_chris-cloete",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/chris-cloete",
-    "scraped_at": "2026-09-28T10:11:05+09:00",
-    "name_en": "Chris CLOETE",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "chris-cloete",
-    "position": "Back row",
-    "team_id": "gloucester",
-    "league": "premiership",
-    "height_cm": 180,
-    "weight_kg": 109,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Munster Rugby",
-        "from": 2017,
-        "to": 2022,
-        "source_url": null
-      },
-      {
-        "team": "Bath Rugby",
-        "from": 2022,
-        "to": 2024,
         "source_url": null
       }
     ],
@@ -5930,41 +5678,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_daniel-marais",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/daniel-marais",
-    "scraped_at": "2026-09-28T10:11:50+09:00",
-    "name_en": "Daniel MARAIS",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "daniel-marais",
-    "position": "Lock",
-    "team_id": "gloucester",
-    "league": "premiership",
-    "height_cm": 192,
-    "weight_kg": 101,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Bath Rugby",
-        "from": 2023,
-        "to": 2024,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_danilo-fischetti",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/danilo-fischetti",
@@ -6162,53 +5875,6 @@
       {
         "team": "Gloucester Rugby",
         "from": 2026,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_denis-marchois",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/denis-marchois",
-    "scraped_at": "2026-09-28T10:14:14+09:00",
-    "name_en": "Denis MARCHOIS",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "denis-marchois",
-    "position": "Lock",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 202,
-    "weight_kg": 129,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Section Paloise Béarn Pyrénées",
-        "from": 2019,
-        "to": 2021,
-        "source_url": null
-      },
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2021,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Sporting Union Agenais",
-        "from": 2025,
         "to": 2027,
         "source_url": null
       }
@@ -6522,53 +6188,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_dylan-indaburu",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/dylan-indaburu",
-    "scraped_at": "2026-09-28T10:15:14+09:00",
-    "name_en": "Dylan INDABURU",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "dylan-indaburu",
-    "position": "Lock",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": null,
-    "weight_kg": null,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Section Paloise Béarn Pyrénées",
-        "from": 2017,
-        "to": 2019,
-        "source_url": null
-      },
-      {
-        "team": "Avenir Bizanos",
-        "from": 2021,
-        "to": 2023,
-        "source_url": null
-      },
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2023,
-        "to": 2024,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_ed-prowse",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ed-prowse",
@@ -6603,41 +6222,6 @@
         "team": "Northampton Saints",
         "from": 2025,
         "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_eddie-erskine",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/eddie-erskine",
-    "scraped_at": "2026-09-28T10:11:54+09:00",
-    "name_en": "Eddie ERSKINE",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "eddie-erskine",
-    "position": "Lock",
-    "team_id": "gloucester",
-    "league": "premiership",
-    "height_cm": 186,
-    "weight_kg": 96,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Hartpury RFC",
-        "from": 2024,
-        "to": 2025,
         "source_url": null
       }
     ],
@@ -6960,7 +6544,7 @@
     "name_kana": null,
     "slug": "elliot-stooke",
     "position": "Lock",
-    "team_id": "gloucester",
+    "team_id": "leicester",
     "league": "premiership",
     "height_cm": 194,
     "weight_kg": 118,
@@ -7872,53 +7456,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_facundo-bosch",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/facundo-bosch",
-    "scraped_at": "2026-09-28T10:13:21+09:00",
-    "name_en": "Facundo BOSCH",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "facundo-bosch",
-    "position": "Hooker",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 168,
-    "weight_kg": 97,
-    "birthdate": null,
-    "nationality": [
-      "Argentina"
-    ],
-    "caps": {
-      "team": "Argentina",
-      "count": 18,
-      "source_url": "https://all.rugby/player/facundo-bosch"
-    },
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Stade Rochelais",
-        "from": 2019,
-        "to": 2022,
-        "source_url": null
-      },
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2022,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_fergus-burke",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/fergus-burke",
@@ -7963,6 +7500,34 @@
         "source_url": null
       }
     ],
+    "season_stats": null,
+    "education": [],
+    "instagram": null,
+    "image_url": null,
+    "squad": null,
+    "is_featured": false,
+    "is_minor": false,
+    "merged_from": []
+  },
+  {
+    "id": "ar_fergus-lee-warner",
+    "source": "all.rugby",
+    "source_url": "https://all.rugby/player/fergus-lee-warner",
+    "scraped_at": "2026-09-28T09:27:15+09:00",
+    "name_en": "Fergus LEE-WARNER",
+    "name_ja": null,
+    "name_kana": null,
+    "slug": "fergus-lee-warner",
+    "position": "Back row",
+    "team_id": "newcastle",
+    "league": "premiership",
+    "height_cm": 206,
+    "weight_kg": 120,
+    "birthdate": null,
+    "nationality": [],
+    "caps": null,
+    "league_caps": null,
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -10047,7 +9612,7 @@
     "name_kana": null,
     "slug": "hame-faiva",
     "position": "Hooker",
-    "team_id": "gloucester",
+    "team_id": "newcastle",
     "league": "premiership",
     "height_cm": 189,
     "weight_kg": 100,
@@ -10658,7 +10223,7 @@
     "name_kana": null,
     "slug": "harvey-beaton",
     "position": "Prop",
-    "team_id": "northampton",
+    "team_id": "saracens",
     "league": "premiership",
     "height_cm": 204,
     "weight_kg": 107,
@@ -10681,53 +10246,6 @@
       },
       {
         "team": "Saracens",
-        "from": 2026,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_harvey-cuckson",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/harvey-cuckson",
-    "scraped_at": "2026-09-28T10:12:03+09:00",
-    "name_en": "Harvey CUCKSON",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "harvey-cuckson",
-    "position": "Lock",
-    "team_id": "gloucester",
-    "league": "premiership",
-    "height_cm": 214,
-    "weight_kg": 116,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Worcester Warriors",
-        "from": 2026,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "Bath Rugby",
-        "from": 2026,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "Scarlets",
         "from": 2026,
         "to": 2027,
         "source_url": null
@@ -11276,129 +10794,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_hugo-afonso",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/hugo-afonso",
-    "scraped_at": "2026-09-28T10:14:56+09:00",
-    "name_en": "Hugo AFONSO",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "hugo-afonso",
-    "position": "Hooker",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": null,
-    "weight_kg": null,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2015,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Saint Jean-de-Luz Olympique Rugby",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_hugo-leclerq",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/hugo-leclerq",
-    "scraped_at": "2026-09-28T10:15:16+09:00",
-    "name_en": "Hugo LECLERQ",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "hugo-leclerq",
-    "position": "Lock",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": null,
-    "weight_kg": null,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "AS Sain-Martin-de-Seignanx",
-        "from": 2018,
-        "to": 2022,
-        "source_url": null
-      },
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2022,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_iestyn-rees",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/iestyn-rees",
-    "scraped_at": "2026-09-28T10:08:16+09:00",
-    "name_en": "Iestyn REES",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "iestyn-rees",
-    "position": "Back row",
-    "team_id": "northampton",
-    "league": "premiership",
-    "height_cm": 189,
-    "weight_kg": 113,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Cambridge RUFC",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Nottingham Rugby",
-        "from": 2025,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_ieuan-davies",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/ieuan-davies",
@@ -11433,82 +10828,6 @@
         "team": "Bath Rugby",
         "from": 2026,
         "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_ignacio-valdes-leiva",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/ignacio-valdes-leiva",
-    "scraped_at": "2026-09-28T10:30:45+09:00",
-    "name_en": "Ignacio VALDES-LEIVA",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "ignacio-valdes-leiva",
-    "position": "Lock",
-    "team_id": "harlequins",
-    "league": "premiership",
-    "height_cm": null,
-    "weight_kg": null,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Nissa Rugby",
-        "from": 2017,
-        "to": 2019,
-        "source_url": null
-      },
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2019,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_imanol-thicoipe",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/imanol-thicoipe",
-    "scraped_at": "2026-09-28T10:14:37+09:00",
-    "name_en": "Imanol THICOÏPE",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "imanol-thicoipe",
-    "position": "Prop",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": null,
-    "weight_kg": null,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2011,
-        "to": 2024,
         "source_url": null
       }
     ],
@@ -11562,53 +10881,6 @@
       {
         "team": "Exeter Chiefs",
         "from": 2023,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_ioan-emanuel",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/ioan-emanuel",
-    "scraped_at": "2026-09-28T10:11:21+09:00",
-    "name_en": "Ioan EMANUEL",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "ioan-emanuel",
-    "position": "Prop",
-    "team_id": "gloucester",
-    "league": "premiership",
-    "height_cm": 186,
-    "weight_kg": 133,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Cardiff Rugby",
-        "from": 2026,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "Bath Rugby",
-        "from": 2027,
-        "to": 2027,
-        "source_url": null
-      },
-      {
-        "team": "Cardiff Rugby",
-        "from": 2027,
         "to": 2027,
         "source_url": null
       }
@@ -11920,7 +11192,7 @@
     "name_kana": null,
     "slug": "jack-bennett",
     "position": "Lock",
-    "team_id": "gloucester",
+    "team_id": "bath",
     "league": "premiership",
     "height_cm": 186,
     "weight_kg": 101,
@@ -12705,53 +11977,6 @@
         "team": "Bath Rugby",
         "from": 2020,
         "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_jacques-du-plessis",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/jacques-du-plessis",
-    "scraped_at": "2026-09-28T10:10:31+09:00",
-    "name_en": "Jacques DU PLESSIS",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "jacques-du-plessis",
-    "position": "Lock",
-    "team_id": "gloucester",
-    "league": "premiership",
-    "height_cm": 198,
-    "weight_kg": 120,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Bath Rugby",
-        "from": 2023,
-        "to": 2023,
-        "source_url": null
-      },
-      {
-        "team": "Bulls",
-        "from": 2024,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Bath Rugby",
-        "from": 2024,
-        "to": 2025,
         "source_url": null
       }
     ],
@@ -14036,7 +13261,7 @@
     "name_kana": null,
     "slug": "jasper-spandler",
     "position": "Hooker",
-    "team_id": "gloucester",
+    "team_id": "bath",
     "league": "premiership",
     "height_cm": 185,
     "weight_kg": 107,
@@ -15079,53 +14304,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_johannes-jonker",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/johannes-jonker",
-    "scraped_at": "2026-09-28T10:09:06+09:00",
-    "name_en": "Johannes JONKER",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "johannes-jonker",
-    "position": "Prop",
-    "team_id": "gloucester",
-    "league": "premiership",
-    "height_cm": 174,
-    "weight_kg": 121,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Ealing Trailfinders",
-        "from": 2020,
-        "to": 2021,
-        "source_url": null
-      },
-      {
-        "team": "Bath Rugby",
-        "from": 2021,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "FC Grenoble Rugby",
-        "from": 2024,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_john-stewart",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/john-stewart",
@@ -15135,7 +14313,7 @@
     "name_kana": null,
     "slug": "john-stewart",
     "position": "Hooker",
-    "team_id": "gloucester",
+    "team_id": "leicester",
     "league": "premiership",
     "height_cm": 198,
     "weight_kg": 97,
@@ -15159,41 +14337,6 @@
       {
         "team": "Cambridge RUFC",
         "from": 2026,
-        "to": null,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_jokin-duhalt",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/jokin-duhalt",
-    "scraped_at": "2026-09-28T10:14:58+09:00",
-    "name_en": "Jokin DUHALT",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "jokin-duhalt",
-    "position": "Hooker",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": null,
-    "weight_kg": null,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2022,
         "to": null,
         "source_url": null
       }
@@ -15942,47 +15085,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_josh-mcnally",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/josh-mcnally",
-    "scraped_at": "2026-09-28T10:10:38+09:00",
-    "name_en": "Josh MCNALLY",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "josh-mcnally",
-    "position": "Lock",
-    "team_id": "gloucester",
-    "league": "premiership",
-    "height_cm": 214,
-    "weight_kg": 120,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Bath Rugby",
-        "from": 2019,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Cardiff Rugby",
-        "from": 2024,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_josh-poyser",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/josh-poyser",
@@ -16162,141 +15264,6 @@
       {
         "team": "Saracens",
         "from": 2023,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_juan-schoeman",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/juan-schoeman",
-    "scraped_at": "2026-09-28T10:09:11+09:00",
-    "name_en": "Juan SCHOEMAN",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "juan-schoeman",
-    "position": "Prop",
-    "team_id": "gloucester",
-    "league": "premiership",
-    "height_cm": 199,
-    "weight_kg": 114,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Southern Kings",
-        "from": 2020,
-        "to": 2020,
-        "source_url": null
-      },
-      {
-        "team": "Bath Rugby",
-        "from": 2020,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Lions Rugby",
-        "from": 2024,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_jules-derre",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/jules-derre",
-    "scraped_at": "2026-09-28T10:30:47+09:00",
-    "name_en": "Jules DERRE",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "jules-derre",
-    "position": "Lock",
-    "team_id": "harlequins",
-    "league": "premiership",
-    "height_cm": null,
-    "weight_kg": null,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Stado Tarbes Pyrénées Rugby",
-        "from": 2020,
-        "to": 2022,
-        "source_url": null
-      },
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2022,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "Saint Jean-de-Luz Olympique Rugby",
-        "from": 2026,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_jules-martin-bonnard",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/jules-martin-bonnard",
-    "scraped_at": "2026-09-28T10:30:51+09:00",
-    "name_en": "Jules MARTIN-BONNARD",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "jules-martin-bonnard",
-    "position": "Lock",
-    "team_id": "harlequins",
-    "league": "premiership",
-    "height_cm": 212,
-    "weight_kg": 90,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2023,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "Stade Toulousain",
-        "from": 2026,
         "to": 2027,
         "source_url": null
       }
@@ -16973,7 +15940,7 @@
     "name_kana": null,
     "slug": "kieran-verden",
     "position": "Prop",
-    "team_id": "gloucester",
+    "team_id": "bath",
     "league": "premiership",
     "height_cm": 191,
     "weight_kg": 108,
@@ -17462,41 +16429,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_louis-ortolan",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/louis-ortolan",
-    "scraped_at": "2026-09-28T10:13:34+09:00",
-    "name_en": "Louis ORTOLAN",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "louis-ortolan",
-    "position": "Hooker",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 171,
-    "weight_kg": 117,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2017,
-        "to": 2024,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_louis-rees-zammit",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/louis-rees-zammit",
@@ -17653,47 +16585,6 @@
       {
         "team": "Harlequins",
         "from": 2025,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_lucas-official",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/lucas-official",
-    "scraped_at": "2026-09-28T10:14:39+09:00",
-    "name_en": "Lucas OFFICIAL",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "lucas-official",
-    "position": "Prop",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 193,
-    "weight_kg": 101,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "AS Urruñarrak",
-        "from": 2015,
-        "to": 2016,
-        "source_url": null
-      },
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2016,
         "to": 2027,
         "source_url": null
       }
@@ -18130,47 +17021,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_luke-tagi",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/luke-tagi",
-    "scraped_at": "2026-09-28T10:12:27+09:00",
-    "name_en": "Luke TAGI",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "luke-tagi",
-    "position": "Prop",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 189,
-    "weight_kg": 127,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Provence Rugby",
-        "from": 2021,
-        "to": 2023,
-        "source_url": null
-      },
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2023,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_luke-yendle",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/luke-yendle",
@@ -18546,141 +17396,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_martin-villar",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/martin-villar",
-    "scraped_at": "2026-09-28T10:12:32+09:00",
-    "name_en": "Martin VILLAR",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "martin-villar",
-    "position": "Prop",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 176,
-    "weight_kg": 115,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Stade Montois Rugby Pro",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Oyonnax Rugby",
-        "from": 2025,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_mateo-guerin",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/mateo-guerin",
-    "scraped_at": "2026-09-28T10:14:41+09:00",
-    "name_en": "Matéo GUÉRIN",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "mateo-guerin",
-    "position": "Prop",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 197,
-    "weight_kg": 134,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Stade Bordelais",
-        "from": 2021,
-        "to": 2023,
-        "source_url": null
-      },
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2023,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "US Dax Rugby Landes",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_matheo-futhazar",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/matheo-futhazar",
-    "scraped_at": "2026-09-28T10:15:02+09:00",
-    "name_en": "Mathéo FUTHAZAR",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "matheo-futhazar",
-    "position": "Hooker",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": null,
-    "weight_kg": null,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2022,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "Association Sportive Béziers Hérault",
-        "from": 2026,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_mathis-dehauteur",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/mathis-dehauteur",
@@ -18769,88 +17484,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_matis-perchaud",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/matis-perchaud",
-    "scraped_at": "2026-09-28T10:12:36+09:00",
-    "name_en": "Matis PERCHAUD",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "matis-perchaud",
-    "position": "Prop",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 190,
-    "weight_kg": 117,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2017,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Union Bordeaux-Bègles",
-        "from": 2024,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_max-bru",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/max-bru",
-    "scraped_at": "2026-09-28T10:15:06+09:00",
-    "name_en": "Max BRU",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "max-bru",
-    "position": "Hooker",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 173,
-    "weight_kg": 101,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2018,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Anglet Olympique Rugby Club",
-        "from": 2024,
-        "to": 2025,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_max-clark",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/max-clark",
@@ -18907,7 +17540,7 @@
     "name_kana": null,
     "slug": "max-eke",
     "position": "Lock",
-    "team_id": "northampton",
+    "team_id": "saracens",
     "league": "premiership",
     "height_cm": 204,
     "weight_kg": 89,
@@ -19300,7 +17933,7 @@
     "name_kana": null,
     "slug": "max-pearce",
     "position": "Hooker",
-    "team_id": "gloucester",
+    "team_id": "bath",
     "league": "premiership",
     "height_cm": 194,
     "weight_kg": 125,
@@ -19517,7 +18150,7 @@
     "name_kana": null,
     "slug": "mikey-summerfield",
     "position": "Prop",
-    "team_id": "gloucester",
+    "team_id": "bath",
     "league": "premiership",
     "height_cm": 167,
     "weight_kg": 114,
@@ -19854,37 +18487,24 @@
     "merged_from": []
   },
   {
-    "id": "ar_nial-annett",
+    "id": "ar_nepo-laulala",
     "source": "all.rugby",
-    "source_url": "https://all.rugby/player/nial-annett",
-    "scraped_at": "2026-09-28T10:09:58+09:00",
-    "name_en": "Niall ANNETT",
+    "source_url": "https://all.rugby/player/nepo-laulala",
+    "scraped_at": "2026-09-28T09:27:34+09:00",
+    "name_en": "Nepo LAULALA",
     "name_ja": null,
     "name_kana": null,
-    "slug": "nial-annett",
-    "position": "Hooker",
+    "slug": "nepo-laulala",
+    "position": "Prop",
     "team_id": "gloucester",
     "league": "premiership",
-    "height_cm": 178,
-    "weight_kg": 111,
+    "height_cm": 175,
+    "weight_kg": 122,
     "birthdate": null,
     "nationality": [],
     "caps": null,
     "league_caps": null,
-    "career": [
-      {
-        "team": "Worcester Warriors",
-        "from": 2015,
-        "to": 2022,
-        "source_url": null
-      },
-      {
-        "team": "Bath Rugby",
-        "from": 2022,
-        "to": 2025,
-        "source_url": null
-      }
-    ],
+    "career": [],
     "season_stats": null,
     "education": [],
     "instagram": null,
@@ -20515,7 +19135,7 @@
     "name_kana": null,
     "slug": "olamide-sodeke",
     "position": "Lock",
-    "team_id": "northampton",
+    "team_id": "saracens",
     "league": "premiership",
     "height_cm": 198,
     "weight_kg": 132,
@@ -22082,53 +20702,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_pascal-cotet",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/pascal-cotet",
-    "scraped_at": "2026-09-28T10:12:40+09:00",
-    "name_en": "Pascal COTET",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "pascal-cotet",
-    "position": "Prop",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 183,
-    "weight_kg": 127,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Racing Club Narbonnais",
-        "from": 2018,
-        "to": 2022,
-        "source_url": null
-      },
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2022,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "Provence Rugby",
-        "from": 2026,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_patreece-bell",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/patreece-bell",
@@ -22381,47 +20954,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_peio-dospital",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/peio-dospital",
-    "scraped_at": "2026-09-28T10:14:45+09:00",
-    "name_en": "Peïo DOSPITAL",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "peio-dospital",
-    "position": "Prop",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": null,
-    "weight_kg": null,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2022,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Biarritz Olympique Pays Basque",
-        "from": 2025,
-        "to": null,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_phil-brantingham",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/phil-brantingham",
@@ -22491,88 +21023,6 @@
         "team": "Gloucester Rugby",
         "from": 2026,
         "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_pierre-castillon",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/pierre-castillon",
-    "scraped_at": "2026-09-28T10:12:45+09:00",
-    "name_en": "Pierre CASTILLON",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "pierre-castillon",
-    "position": "Prop",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 184,
-    "weight_kg": 99,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2018,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_pieter-scholtz",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/pieter-scholtz",
-    "scraped_at": "2026-09-28T10:12:49+09:00",
-    "name_en": "Pieter SCHOLTZ",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "pieter-scholtz",
-    "position": "Prop",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 194,
-    "weight_kg": 153,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Wasps",
-        "from": 2021,
-        "to": 2022,
-        "source_url": null
-      },
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2022,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Mitsubishi Sagamihara Dynaboars",
-        "from": 2025,
-        "to": null,
         "source_url": null
       }
     ],
@@ -22674,47 +21124,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_quentin-bethune",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/quentin-bethune",
-    "scraped_at": "2026-09-28T10:12:51+09:00",
-    "name_en": "Quentin BÉTHUNE",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "quentin-bethune",
-    "position": "Prop",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 178,
-    "weight_kg": 128,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Stade Français Paris Rugby",
-        "from": 2019,
-        "to": 2022,
-        "source_url": null
-      },
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2022,
-        "to": 2025,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_quinn-roux",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/quinn-roux",
@@ -22724,7 +21133,7 @@
     "name_kana": null,
     "slug": "quinn-roux",
     "position": "Lock",
-    "team_id": "gloucester",
+    "team_id": "bath",
     "league": "premiership",
     "height_cm": 192,
     "weight_kg": 133,
@@ -22750,47 +21159,6 @@
         "team": "Bath Rugby",
         "from": 2022,
         "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_rafael-cayuela",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/rafael-cayuela",
-    "scraped_at": "2026-09-28T10:14:53+09:00",
-    "name_en": "Rafaël CAYUELA",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "rafael-cayuela",
-    "position": "Prop",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 175,
-    "weight_kg": 103,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2019,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "Stado Tarbes Pyrénées Rugby",
-        "from": 2024,
-        "to": null,
         "source_url": null
       }
     ],
@@ -23320,41 +21688,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_rory-cameron",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/rory-cameron",
-    "scraped_at": "2026-09-28T10:12:13+09:00",
-    "name_en": "Rory CAMERON",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "rory-cameron",
-    "position": "Lock",
-    "team_id": "gloucester",
-    "league": "premiership",
-    "height_cm": 199,
-    "weight_kg": 117,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Bath Rugby",
-        "from": 2023,
-        "to": 2024,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_rory-hutchinson",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/rory-hutchinson",
@@ -23764,53 +22097,6 @@
     "career": [
       {
         "team": "Harlequins",
-        "from": 2025,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_sam-crean",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/sam-crean",
-    "scraped_at": "2026-09-28T10:06:35+09:00",
-    "name_en": "Sam CREAN",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "sam-crean",
-    "position": "Prop",
-    "team_id": "northampton",
-    "league": "premiership",
-    "height_cm": 183,
-    "weight_kg": 120,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Ampthill Rugby",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Saracens",
-        "from": 2025,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Ulster Rugby",
         "from": 2025,
         "to": 2027,
         "source_url": null
@@ -24410,7 +22696,7 @@
     "name_kana": null,
     "slug": "samson-adejimi",
     "position": "Hooker",
-    "team_id": "northampton",
+    "team_id": "newcastle",
     "league": "premiership",
     "height_cm": 182,
     "weight_kg": 106,
@@ -24504,7 +22790,7 @@
     "name_kana": null,
     "slug": "scott-kirk",
     "position": "Prop",
-    "team_id": "gloucester",
+    "team_id": "bath",
     "league": "premiership",
     "height_cm": 176,
     "weight_kg": 102,
@@ -25394,47 +23680,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_swan-cormenier",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/swan-cormenier",
-    "scraped_at": "2026-09-28T10:13:02+09:00",
-    "name_en": "Swan CORMENIER",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "swan-cormenier",
-    "position": "Prop",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 186,
-    "weight_kg": 117,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Sporting Club Albigeois",
-        "from": 2017,
-        "to": 2019,
-        "source_url": null
-      },
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2019,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_syd-blackmore",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/syd-blackmore",
@@ -25681,48 +23926,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_tevita-tatafu",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/tevita-tatafu",
-    "scraped_at": "2026-09-28T10:13:09+09:00",
-    "name_en": "Tevita TATAFU",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "tevita-tatafu",
-    "position": "Prop",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 200,
-    "weight_kg": 130,
-    "birthdate": null,
-    "nationality": [
-      "Tonga",
-      "France"
-    ],
-    "caps": {
-      "team": "France",
-      "count": 4,
-      "source_url": "https://all.rugby/player/tevita-tatafu"
-    },
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2019,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_theo-povey",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/theo-povey",
@@ -25809,106 +24012,6 @@
       {
         "team": "Saracens",
         "from": 2023,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_thomas-acquier",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/thomas-acquier",
-    "scraped_at": "2026-09-28T10:13:49+09:00",
-    "name_en": "Thomas ACQUIER",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "thomas-acquier",
-    "position": "Hooker",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 175,
-    "weight_kg": 110,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "CA Brive Corrèze Limousin",
-        "from": 2014,
-        "to": 2022,
-        "source_url": null
-      },
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2022,
-        "to": 2024,
-        "source_url": null
-      },
-      {
-        "team": "US Tyrosse",
-        "from": 2024,
-        "to": null,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_thomas-du-toit",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/thomas-du-toit",
-    "scraped_at": "2026-09-28T10:09:31+09:00",
-    "name_en": "Thomas DU TOIT",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "thomas-du-toit",
-    "position": "Prop",
-    "team_id": "gloucester",
-    "league": "premiership",
-    "height_cm": 202,
-    "weight_kg": 127,
-    "birthdate": null,
-    "nationality": [
-      "South Africa"
-    ],
-    "caps": {
-      "team": "South Africa",
-      "count": 54,
-      "source_url": "https://all.rugby/player/thomas-du-toit"
-    },
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Sharks Rugby Club",
-        "from": 2020,
-        "to": 2023,
-        "source_url": null
-      },
-      {
-        "team": "Bath Rugby",
-        "from": 2023,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "Sharks Rugby Club",
-        "from": 2026,
         "to": 2027,
         "source_url": null
       }
@@ -26602,7 +24705,7 @@
     "name_kana": null,
     "slug": "tom-dunn",
     "position": "Hooker",
-    "team_id": "gloucester",
+    "team_id": "bath",
     "league": "premiership",
     "height_cm": 172,
     "weight_kg": 106,
@@ -27891,53 +25994,6 @@
     "merged_from": []
   },
   {
-    "id": "ar_vincent-giudicelli",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/vincent-giudicelli",
-    "scraped_at": "2026-09-28T10:13:55+09:00",
-    "name_en": "Vincent GIUDICELLI",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "vincent-giudicelli",
-    "position": "Hooker",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 181,
-    "weight_kg": 99,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Montpellier Hérault Rugby",
-        "from": 2017,
-        "to": 2023,
-        "source_url": null
-      },
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2023,
-        "to": 2026,
-        "source_url": null
-      },
-      {
-        "team": "Provence Rugby",
-        "from": 2026,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
     "id": "ar_werner-kok",
     "source": "all.rugby",
     "source_url": "https://all.rugby/player/werner-kok",
@@ -28728,7 +26784,7 @@
     "name_kana": null,
     "slug": "will-stuart",
     "position": "Prop",
-    "team_id": "gloucester",
+    "team_id": "bath",
     "league": "premiership",
     "height_cm": 180,
     "weight_kg": 135,
@@ -28911,88 +26967,6 @@
         "team": "Sale Sharks",
         "from": 2026,
         "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_yon-caperaa",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/yon-caperaa",
-    "scraped_at": "2026-09-28T10:15:10+09:00",
-    "name_en": "Yon CAPÉRAÀ",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "yon-caperaa",
-    "position": "Hooker",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 195,
-    "weight_kg": 104,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2022,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Section Paloise Béarn Pyrénées",
-        "from": 2025,
-        "to": 2027,
-        "source_url": null
-      }
-    ],
-    "season_stats": null,
-    "education": [],
-    "instagram": null,
-    "image_url": null,
-    "squad": null,
-    "is_featured": false,
-    "is_minor": false,
-    "merged_from": []
-  },
-  {
-    "id": "ar_yonn-ramond",
-    "source": "all.rugby",
-    "source_url": "https://all.rugby/player/yonn-ramond",
-    "scraped_at": "2026-09-28T10:14:55+09:00",
-    "name_en": "Yonn RAMOND",
-    "name_ja": null,
-    "name_kana": null,
-    "slug": "yonn-ramond",
-    "position": "Prop",
-    "team_id": "bath",
-    "league": "premiership",
-    "height_cm": 197,
-    "weight_kg": 123,
-    "birthdate": null,
-    "nationality": [],
-    "caps": null,
-    "league_caps": null,
-    "career": [
-      {
-        "team": "Aviron Bayonnais",
-        "from": 2023,
-        "to": 2025,
-        "source_url": null
-      },
-      {
-        "team": "Rugby Club de Saint-Médard en Jalles",
-        "from": 2025,
-        "to": null,
         "source_url": null
       }
     ],
