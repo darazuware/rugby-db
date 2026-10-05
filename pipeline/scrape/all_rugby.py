@@ -26,6 +26,7 @@ from __future__ import annotations
 import os
 import re
 import time
+import unicodedata
 from datetime import datetime, timezone, timedelta
 from typing import Optional
 
@@ -385,6 +386,163 @@ def _enrich_national(raw: dict, country_display: str) -> None:
         }
 
 
+def parse_club_name(html: str) -> Optional[str]:
+    """squad ページの <title>「Blues rugby team players for 2025/2026 - All.Rugby」→ 'Blues'。"""
+    m = re.search(r"<title>\s*(.*?)\s+rugby team players", html or "", re.I | re.S)
+    return m.group(1).strip() if m else None
+
+
+_CLUB_GENERIC = {"rugby", "rfc", "rufc", "fc", "club", "the", "union", "football", "team",
+                 "de", "du", "la", "le", "pro"}
+
+
+def _club_tokens(name: str) -> set[str]:
+    s = unicodedata.normalize("NFKD", name or "").encode("ascii", "ignore").decode().lower()
+    return {t for t in re.findall(r"[a-z0-9]+", s) if t not in _CLUB_GENERIC}
+
+
+def club_name_matches(a: Optional[str], b: Optional[str]) -> bool:
+    """'Bath' と 'Bath Rugby'、'Northampton (Saints)' と 'Northampton Saints' 等を同一視。
+    汎用語を除いたトークン集合の一方が他方を含むとき一致とする。"""
+    A, B = _club_tokens(a or ""), _club_tokens(b or "")
+    return bool(A) and bool(B) and (A <= B or B <= A)
+
+
+def current_club(career: list[dict], *, now_year: Optional[int] = None) -> Optional[str]:
+    """career 末尾が在籍中（to=null または to>=取得年）ならそのチーム名、でなければ None。"""
+    if not career:
+        return None
+    last = career[-1]
+    year = now_year if now_year is not None else datetime.now(JST).year
+    to = last.get("to")
+    if to is None or (str(to).isdigit() and int(to) >= year):
+        return last.get("team")
+    return None
+
+
+def active_clubs(career: list[dict], *, now_year: Optional[int] = None) -> list[str]:
+    """在籍中（to=null または to>=取得年）の全チーム名。SR選手のNPC州代表・ローン先等で
+    在籍中が複数あるケースに対応（末尾だけ見ると親クラブを取りこぼす）。"""
+    year = now_year if now_year is not None else datetime.now(JST).year
+    out = []
+    for c in career or []:
+        to = c.get("to")
+        if c.get("team") and (to is None or (str(to).isdigit() and int(to) >= year)):
+            out.append(c["team"])
+    return out
+
+
+def pick_club(pages: list[str], club_names: dict[str, list[str]], career: list[dict]) -> Optional[str]:
+    """掲載ページ群から選手の所属クラブを1つ選ぶ。在籍中チームと名前が一致するページが
+    1つならそれ。無ければ career 末尾（最新）のチームと一致するページが1つならそれ。"""
+    def hits(team_names: list[str]) -> list[str]:
+        return [p for p in pages
+                if any(club_name_matches(n, t) for n in club_names.get(p, [p]) for t in team_names)]
+    h = hits(active_clubs(career))
+    if len(h) == 1:
+        return h[0]
+    if len(h) > 1:
+        # 移籍期（旧クラブ to=今年・新クラブ from=今年）で両方在籍中扱いになる場合は
+        # from が最も新しい在籍中チームに一意に一致するページを採る
+        act = [c for c in career if c.get("team") in active_clubs(career)]
+        latest = max((str(c.get("from") or "") for c in act), default="")
+        newest = [c["team"] for c in act if str(c.get("from") or "") == latest]
+        h2 = hits(newest)
+        return h2[0] if len(h2) == 1 else None
+    if not h and career:
+        # 在籍中に一致なし（ローン先・下部クラブのみ在籍中等）→ 過去を含む在籍歴で最新の一致
+        year = datetime.now(JST).year
+        for c in reversed(career):
+            to = str(c.get("to") or "")
+            if to.isdigit() and int(to) < year - 1:
+                continue  # 2年以上前に離れたクラブは根拠にしない
+            h = hits([c.get("team")])
+            if len(h) == 1:
+                return h[0]
+            if h:
+                return None
+    return None
+
+
+def resolve_duplicate_members(squads: dict[str, list[dict]], club_names: dict[str, Optional[str]],
+                              career_of) -> tuple[dict[str, str], list[str]]:
+    """複数クラブの squad ページに載る選手（all.rugby 側で他クラブの選手が混入する
+    事象、2026-10-05 確認: Super Rugby 全11クラブのページに共通の約20名が載り、
+    blues ページには Brumbies の選手も載っていた）の所属を、選手個別ページの
+    現所属（career 末尾）とクラブ名の一致で決める。
+
+    返り値: ({slug: 採用クラブslug}, warnings)。一意に決まらない選手は返り値に
+    含めない（呼び出し側でどのクラブにも割り当てない＝原則3の保守的判断）。
+    career_of(slug) -> list[dict] は選手個別ページの career を返す関数。
+    """
+    clubs_of: dict[str, list[str]] = {}
+    for club, rows in squads.items():
+        for r in rows:
+            clubs_of.setdefault(r["slug"], [])
+            if club not in clubs_of[r["slug"]]:
+                clubs_of[r["slug"]].append(club)
+    resolved: dict[str, str] = {}
+    warnings: list[str] = []
+    for slug, clubs in clubs_of.items():
+        if len(clubs) < 2:
+            continue
+        career = career_of(slug) or []
+        names = {c: [club_names[c]] for c in clubs if club_names.get(c)}
+        hit = pick_club(clubs, names, career)
+        if hit:
+            resolved[slug] = hit
+        else:
+            warnings.append(f"all.rugby: {slug} が複数クラブ {clubs} の squad に掲載、"
+                            f"在籍中 {active_clubs(career)} と一致せず除外")
+    return resolved, warnings
+
+
+def _career_from_page(slug: str) -> list[dict]:
+    html = _get(f"{BASE}/player/{slug}")
+    time.sleep(_SLEEP)
+    return parse_player_bio(html)["career"] if html else []
+
+
+def fetch_squads(club_slugs: list[str], warnings: list[str], league: str):
+    """club_slugs の squad を取得し、重複掲載を解決して {club: [raw...]} を返す。"""
+    squads: dict[str, list[dict]] = {}
+    names: dict[str, Optional[str]] = {}
+    for slug in club_slugs:
+        shtml = _get(f"{BASE}/club/{slug}/squad")
+        time.sleep(_SLEEP)
+        if shtml is None:
+            warnings.append(f"{league}: club/{slug}/squad 取得失敗、スキップ")
+            continue
+        squads[slug] = parse_squad(shtml)
+        names[slug] = parse_club_name(shtml)
+    resolved, rw = resolve_duplicate_members(squads, names, _career_from_page)
+    warnings.extend(rw)
+    counts: dict[str, int] = {}
+    for rows in squads.values():
+        for r in rows:
+            counts[r["slug"]] = counts.get(r["slug"], 0) + 1
+    out = {}
+    corrections = io.read_manual(ROSTER_CORRECTIONS, default={}).get("players", {})
+    for club, rows in squads.items():
+        out[club] = [r for r in rows
+                     if (counts[r["slug"]] == 1 or resolved.get(r["slug"]) == club)
+                     and allowed_by_corrections(r["slug"], club, corrections)]
+    return out
+
+
+# pipeline/roster_repair.py が全リーグ横断の検査（選手個別ページの在籍歴で突合）で確定した
+# 是正結果。日次収集が混入したページをそのまま取り込んで是正を巻き戻さないよう、ここで適用する。
+ROSTER_CORRECTIONS = "roster_corrections.json"
+
+
+def allowed_by_corrections(slug: str, club: str, corrections: dict) -> bool:
+    """corrections[slug] = {"club": 所属クラブ or None, ...}。None は対象リーグ外（どのページでも採らない）。"""
+    c = corrections.get(slug)
+    if c is None:
+        return True
+    return c.get("club") == club
+
+
 def collect(tournament: str, *, with_caps: bool = False, light: bool = False) -> dict:
     """tournament = 'top14' 等。players/teams/standings（transform 済み）を返す。
 
@@ -425,15 +583,15 @@ def collect(tournament: str, *, with_caps: bool = False, light: bool = False) ->
 
     teams_out: list[dict] = []
     players_out: list[dict] = []
-    seen_players: set[str] = set()  # 同一 slug の重複所属を防ぐ（最初のクラブに割当）
+    seen_players: set[str] = set()  # 念のための二重割当防止（重複掲載は fetch_squads で解決済み）
 
+    # 複数クラブに載る選手は「最初のクラブに割当」だと他クラブ選手の混入を招く
+    # （blues に Brumbies 選手が入った事例）ため、現所属で解決してから組み立てる。
+    squads = fetch_squads(club_slugs, warnings, league)
     for slug in club_slugs:
-        shtml = _get(f"{BASE}/club/{slug}/squad")
-        time.sleep(_SLEEP)
-        if shtml is None:
-            warnings.append(f"{league}: club/{slug}/squad 取得失敗、スキップ")
+        if slug not in squads:
             continue
-        squad = parse_squad(shtml)
+        squad = squads[slug]
         if _MAX_PLAYERS:
             squad = squad[:_MAX_PLAYERS]
 

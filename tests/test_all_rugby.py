@@ -261,3 +261,132 @@ def test_collect_light_skips_squad_and_player_fetch(monkeypatch):
     assert result["matches"] == []
     assert len(result["standings"]) == 1
     assert result["standings"][0]["rows"][0]["team_id"] == "testclub"
+
+
+# --- 重複掲載（他クラブ選手の混入）の解決: blues に Brumbies 選手が入った事例の回帰 ---
+
+def test_parse_club_name():
+    html = "<html><head><title>Blues rugby team players for 2025/2026 - All.Rugby</title></head></html>"
+    assert all_rugby.parse_club_name(html) == "Blues"
+
+
+def test_current_club_future_end_year_counts_as_current():
+    career = [{"team": "A", "from": "2024", "to": "2025"}, {"team": "B", "from": "2026", "to": "2027"}]
+    assert all_rugby.current_club(career, now_year=2026) == "B"
+    assert all_rugby.current_club([{"team": "A", "from": "2020", "to": "2024"}], now_year=2026) is None
+
+
+def test_resolve_duplicate_members_uses_current_club():
+    squads = {
+        "blues": [{"slug": "barrett"}, {"slug": "valetini"}, {"slug": "japan-bound"}],
+        "brumbies": [{"slug": "valetini"}, {"slug": "japan-bound"}, {"slug": "lonely"}],
+    }
+    names = {"blues": "Blues", "brumbies": "Brumbies"}
+    careers = {
+        "valetini": [{"team": "Brumbies", "from": "2017", "to": None}],
+        "japan-bound": [{"team": "Blues", "from": "2024", "to": "2024"},
+                        {"team": "Hanazono Kintetsu Liners", "from": "2024", "to": None}],
+    }
+    resolved, warns = all_rugby.resolve_duplicate_members(squads, names, lambda s: careers.get(s, []))
+    assert resolved == {"valetini": "brumbies"}  # 最初のクラブ(blues)ではなく現所属
+    assert len(warns) == 1 and "japan-bound" in warns[0]  # 一意に決まらない選手は除外
+
+
+def test_roster_repair_plan_moves_and_drops():
+    from pipeline import roster_repair
+    players = [{"id": f"ar_{s}", "team_id": t} for s, t in
+               [("v", "blues"), ("j", "blues"), ("b", "blues"), ("x", "blues"), ("loan", "blues"),
+                ("o1", "blues"), ("o2", "blues"), ("o3", "blues"), ("o4", "blues"), ("o5", "blues")]]
+    teams = [{"id": "blues", "roster_ids": [p["id"] for p in players]}, {"id": "brumbies", "roster_ids": []}]
+    pages_of = {"v": ["blues", "brumbies"], "j": ["blues", "brumbies", "chiefs"]}
+    careers = {
+        "v": [{"team": "Brumbies", "to": None}],                       # 重複掲載→現所属へ付け替え
+        "j": [{"team": "Hanazono Kintetsu Liners", "to": None}],       # 3ページ掲載・リーグ外→除外
+        "b": [{"team": "Blues", "to": None}],
+        "x": [{"team": "Aviron Bayonnais", "to": None}],               # 単一掲載・在籍歴なし→除外
+        "loan": [{"team": "Blues", "from": "2024", "to": "2028"},
+                 {"team": "Bedford Town", "to": None}],                # 在籍歴あり(ローン)→触らない
+    }
+    names = {"blues": ["Blues"], "brumbies": ["Brumbies"]}
+    pl = roster_repair.plan(players, league_clubs={"blues", "brumbies"}, pages_of=pages_of,
+                            names=names, career_of=lambda s: careers.get(s, []))
+    assert pl["move"] == {"ar_v": ("blues", "brumbies")}
+    assert set(pl["drop"]) == {"ar_j", "ar_x"}
+    out = roster_repair.apply_plan(players, teams, pl)
+    assert {p["id"] for p in out} == {p["id"] for p in players} - {"ar_j", "ar_x"}
+    assert teams[1]["roster_ids"] == ["ar_v"] and "ar_v" not in teams[0]["roster_ids"]
+
+
+def test_roster_repair_skips_team_when_most_would_drop():
+    from pipeline import roster_repair
+    players = [{"id": f"ar_p{i}", "team_id": "edinburgh"} for i in range(4)]
+    careers = {f"p{i}": [{"team": "Edimbourg Rugby", "to": None}] for i in range(4)}
+    pl = roster_repair.plan(players, league_clubs={"edinburgh"}, pages_of={},
+                            names={"edinburgh": ["Edinburgh"]}, career_of=lambda s: careers[s])
+    assert pl["drop"] == {} and pl["skipped_teams"] == ["edinburgh"]
+
+
+def test_team_names_uses_majority_current_club():
+    from pipeline import roster_repair
+    careers = [[{"team": "Edimbourg Rugby", "to": None}]] * 3 + [[]]
+    assert roster_repair.team_names("edinburgh", "Edinburgh", careers) == ["Edinburgh", "Edimbourg Rugby"]
+
+
+def test_pick_club_uses_any_active_entry():
+    # SR選手が NPC 州代表も在籍中（career 末尾は州代表）でも、SR クラブ側に決まる
+    career = [{"team": "Chiefs", "from": "2022", "to": "2028"},
+              {"team": "Waikato Mooloos", "from": "2025", "to": None}]
+    names = {"chiefs": ["Chiefs"], "blues": ["Blues"]}
+    assert all_rugby.pick_club(["blues", "chiefs"], names, career) == "chiefs"
+    assert all_rugby.pick_club(["blues", "chiefs"], names, [{"team": "Kobe Steelers", "to": None}]) is None
+
+
+def test_pick_club_prefers_newest_when_two_active():
+    career = [{"team": "Fijian Drua", "from": "2022", "to": "2026"},
+              {"team": "Sale Sharks", "from": "2026", "to": "2028"}]
+    names = {"fijian-drua": ["Fijian Drua"], "sale": ["Sale"]}
+    assert all_rugby.pick_club(["fijian-drua", "sale"], names, career) == "sale"
+
+
+def test_roster_repair_relocates_instead_of_dropping_known_pro():
+    from pipeline import roster_repair
+    players = [{"id": "ar_s", "team_id": "pau"}] + [{"id": f"ar_o{i}", "team_id": "pau"} for i in range(3)]
+    careers = {"s": [{"team": "Aviron Bayonnais", "from": "2024", "to": None}],
+               **{f"o{i}": [{"team": "Section Paloise", "to": None}] for i in range(3)}}
+    names = {"pau": ["Pau", "Section Paloise"], "bayonne": ["Bayonne", "Aviron Bayonnais"],
+             "bath": ["Bath"]}
+    pl = roster_repair.plan(players, league_clubs={"pau", "bayonne"}, pages_of={},
+                            names=names, career_of=lambda s: careers[s],
+                            club_league={"pau": "top14", "bayonne": "top14", "bath": "premiership"})
+    assert pl["move"] == {"ar_s": ("pau", "bayonne")} and pl["drop"] == {}
+    pl2 = roster_repair.plan([{"id": "ar_s", "team_id": "bath"}] + [{"id": f"ar_o{i}", "team_id": "bath"} for i in range(3)],
+                             league_clubs={"bath"}, pages_of={}, names=names,
+                             career_of=lambda s: careers[s] if s == "s" else [{"team": "Bath Rugby", "to": None}],
+                             club_league={"pau": "top14", "bayonne": "top14", "bath": "premiership"})
+    assert pl2["relocate"] == {"ar_s": ("bath", "bayonne", "top14")}
+
+
+def test_roster_repair_keeps_multi_page_player_without_career_info():
+    from pipeline import roster_repair
+    players = [{"id": "ar_n", "team_id": "northampton"}, {"id": "ar_m", "team_id": "northampton"}]
+    pages_of = {"n": ["exeter", "northampton"], "m": ["exeter", "northampton"]}
+    careers = {"n": [], "m": [{"team": "Northampton Saints", "from": "2022", "to": "2025"},
+                              {"team": "Ampthill Rugby", "from": "2025", "to": None}]}
+    names = {"exeter": ["Exeter"], "northampton": ["Northampton (Saints)"]}
+    pl = roster_repair.plan(players, league_clubs={"exeter", "northampton"}, pages_of=pages_of,
+                            names=names, career_of=lambda s: careers[s])
+    assert pl["move"] == {} and pl["drop"] == {}  # 2ページ間で決められない→維持
+    pl3 = roster_repair.plan([{"id": "ar_n", "team_id": "northampton"},
+                              {"id": "ar_a", "team_id": "northampton"}, {"id": "ar_b", "team_id": "northampton"}],
+                             league_clubs={"exeter", "northampton", "bath"},
+                             pages_of={"n": ["exeter", "northampton", "bath"]}, names=names,
+                             career_of=lambda s: [])
+    assert set(pl3["drop"]) == {"ar_n"}  # 3ページ以上・在籍情報なし→混入として除外
+
+
+def test_allowed_by_corrections():
+    corr = {"valetini": {"club": "brumbies"}, "choat": {"club": None}}
+    assert all_rugby.allowed_by_corrections("valetini", "brumbies", corr)
+    assert not all_rugby.allowed_by_corrections("valetini", "blues", corr)
+    assert not all_rugby.allowed_by_corrections("choat", "hurricanes", corr)
+    assert all_rugby.allowed_by_corrections("barrett", "blues", corr)
