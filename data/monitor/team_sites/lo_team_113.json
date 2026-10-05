@@ -3,24 +3,34 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-10-05T00:34:42+09:00",
+  "checked_at": "2026-10-05T20:21:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "284e4156d10422a2"
+      "hash": "5e8a114a677deca0"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "74c8eb90bd7b9ea4"
+      "hash": "7ae666439255bce7"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "f9482bcebe4e99d9"
+      "hash": "fa822f54be756476"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/32680/",
+      "title": "お知らせ 2026.10.5 2026-27シーズン クラブスローガン決定のお知らせ",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/32026/",
+      "title": "お知らせ 2026.10.5 NTTジャパンラグビー リーグワン2026-27 ディビジョン3 試合日程・会場決定のお知らせ",
+      "date": "2026-10-05"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/society/32624/",
       "title": "普及・社会貢献 2026.9.30 甲子小学校・江釣子中学校で講話を行いました",
@@ -105,16 +115,6 @@
       "url": "https://kamaishi-seawaves.com/news/info/32048/",
       "title": "お知らせ 2026.8.7 2026プレシーズンマッチのお知らせ",
       "date": "2026-08-07"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/32026/",
-      "title": "お知らせ 2026.8.6 NTTジャパンラグビー リーグワン2026-27 ディビジョン3 試合日程・会場決定のお知らせ",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/32023/",
-      "title": "お知らせ 2026.8.6 夏季休業のお知らせ",
-      "date": "2026-08-06"
     }
   ]
 }

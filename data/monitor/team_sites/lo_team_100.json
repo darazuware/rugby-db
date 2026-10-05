@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-10-05T00:34:42+09:00",
+  "checked_at": "2026-10-05T20:21:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "66e7ad29c5b2c990"
+      "hash": "cf8527dff1edbbce"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "21fc56e7d8ff9d3d"
+      "hash": "d366aca1ca7e7d2a"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2042.html",
+      "title": "ゲーム 2026.10.05 2026-27シーズン 第1節〜第3節 キックオフ時間決定のお知らせ",
+      "date": "2026-10-05"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2039.html",
       "title": "パートナー 2026.10.01 株式会社NTTドコモ・フィナンシャルグループとのゴールドパートナーシップ契約締結のお知らせ",
@@ -50,11 +55,6 @@
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2033.html",
       "title": "ゲーム 2026.09.25 10月10日(土) プレシーズンマッチ vs 東京サントリーサンゴリアス ホストゲーム情報",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_2030.html",
-      "title": "イベント 2026.09.25 2026.9.18 浦安警察署 一日警察署長を務めました",
       "date": "2026-09-25"
     },
     {

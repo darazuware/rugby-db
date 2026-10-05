@@ -3,13 +3,13 @@
   "league": "league-one-d3",
   "name": "ヤクルトレビンズ戸田",
   "official_url": "https://www.yakult.co.jp/sports/rugby/",
-  "checked_at": "2026-10-05T00:34:42+09:00",
+  "checked_at": "2026-10-05T20:21:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.yakult.co.jp/sports/rugby/",
-      "hash": "6ecebfb539a4d712"
+      "hash": "34f61990e7760487"
     },
     {
       "url": "https://www.yakult.co.jp/sports/rugby/topics/",
@@ -20,7 +20,7 @@
     {
       "url": "https://www.yakult.co.jp/sports/rugby/result/index.html",
       "title": "大会日程",
-      "date": "2026-10-03"
+      "date": "2026-10-10"
     },
     {
       "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1472",

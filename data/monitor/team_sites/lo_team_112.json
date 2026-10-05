@@ -3,20 +3,30 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-10-05T00:34:42+09:00",
+  "checked_at": "2026-10-05T20:21:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "58f91af6a48e02f5"
+      "hash": "d7f344678cd02c83"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "3e725e7c1c5cf60c"
+      "hash": "f4b41b2718a8492a"
     }
   ],
   "items": [
+    {
+      "url": "https://shuttles-aichi.com/news/section-1-section-2-notice-of-kick-off-time-decision/",
+      "title": "お知らせ 2026.10.05 第1節・第2節 キックオフ時間決定のお知らせ",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/notice-mizuho-3-game-pack-now-on-sale1/",
+      "title": "お知らせ 2026.10.05 瑞穂3試合パック販売開始のお知らせ",
+      "date": "2026-10-05"
+    },
     {
       "url": "https://shuttles-aichi.com/news/2026-10-3-saturday-japan-rugby-league-one-rising-2026-vs-shizuoka-blue-revs-participating-members/",
       "title": "お知らせ 26年10月01日 2026/10/3(土) ジャパンラグビーリーグワン ライジング2026 vs 静岡ブルーレヴズ 出場メンバー",
@@ -36,16 +46,6 @@
       "url": "https://shuttles-aichi.com/news/announcement-of-the-decision-to-continue-the-ske48-2026-27-season-shuttles-aichi-support-team/",
       "title": "お知らせ 2026.10.02 SKE48 2026-27シーズン シャトルズ愛知応援隊 継続決定のお知らせ",
       "date": "2026-10-02"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/notice-about-the-mizuho-3-game-pack-sale/",
-      "title": "お知らせ 2026.09.29 瑞穂3試合パック販売のお知らせ",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/fan-meeting-held/",
-      "title": "お知らせ 2026.09.29 ファンミーティング開催決定！",
-      "date": "2026-09-29"
     }
   ]
 }

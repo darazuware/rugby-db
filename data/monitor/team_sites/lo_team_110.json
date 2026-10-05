@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-10-05T00:34:42+09:00",
+  "checked_at": "2026-10-05T20:21:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "00c3a5a75f53af78"
+      "hash": "023b76e5046e8ddf"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "8217b4b4f726b51a"
+      "hash": "9478fb0a8f16dbfd"
     }
   ],
   "items": [
@@ -21,6 +21,16 @@
       "url": "https://www.kyudenvoltex.com/news/1006",
       "title": "チケット・ 試合情報",
       "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/998",
+      "title": "お知らせ 2026年10月05日 NEW NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ(10/5更新)",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/1008",
+      "title": "地域・社会貢献 2026年10月05日 NEW 福岡文化幼稚園でラグビー体験教室を開催しました",
+      "date": "2026-10-05"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1007",
@@ -61,11 +71,6 @@
       "url": "https://www.kyudenvoltex.com/news/1000",
       "title": "お知らせ 2026年08月07日 【8/10募集開始!】2026-27シーズン ファンクラブのご案内",
       "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/998",
-      "title": "お知らせ 2026年08月06日 NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ",
-      "date": "2026-08-06"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/996",
@@ -111,11 +116,6 @@
       "url": "https://www.kyudenvoltex.com/news/988",
       "title": "地域・社会貢献 2026年06月12日 松浦市立上志佐小学校でタグラグビー教室を開催しました",
       "date": "2026-06-12"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/987",
-      "title": "地域・社会貢献 2026年06月09日 ミクニワールドスタジアム北九州でラグビークリニックを開催しました",
-      "date": "2026-06-09"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/986",

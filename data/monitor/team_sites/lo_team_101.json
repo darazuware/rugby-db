@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-10-05T00:34:42+09:00",
+  "checked_at": "2026-10-05T20:21:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "23f0ac22b09daa93"
+      "hash": "02307b27fedcdeb1"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "d81ccac60e3a21b6"
+      "hash": "b3af5ae15c94babd"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,16 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35506/",
+      "title": "2026/10/5 イベント 12月12日(土) ホストゲーム開幕戦で「シーズン記念Tシャツ」を先着15,000名様にプレゼントします！",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35496/",
+      "title": "2026/10/5 普及 【レポート】神戸市立桂木小学校でタグラグビー教室を実施しました",
+      "date": "2026-10-05"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35472/",
       "title": "2026/10/2 イベント 【レポート】9月25日(金)「ラグビー部マーラー」で開催されたトークイベントに山下 裕史選手が出演しました",
@@ -151,11 +161,6 @@
       "date": "2026-09-16"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35294/",
-      "title": "2026/9/14 イベント 大丸神戸店に神戸4チームの優勝トロフィー等が展示されます",
-      "date": "2026-09-14"
-    },
-    {
       "url": "https://www.kobesteelers.com/interview/post35296/",
       "title": "2026/9/14 チーム 【Road to RWC2027】「アサヒスーパードライ パシフィックネーションズカップ2026」日本代表 vsアメリカ代表レポート",
       "date": "2026-09-14"
@@ -228,11 +233,6 @@
     {
       "url": "https://www.kobesteelers.com/news/post35128/",
       "title": "2026/8/27 普及 【選手イベント参加情報】第18回 北区ラグビーフェスティバルに選手が参加します",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35122/",
-      "title": "2026/8/27 社会貢献 【レポート】「教員の民間企業研修」でタグラグビー体験とチームビルドに関する講話を実施しました",
       "date": "2026-08-27"
     },
     {

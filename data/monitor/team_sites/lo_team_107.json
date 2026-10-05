@@ -3,24 +3,34 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-10-05T00:34:42+09:00",
+  "checked_at": "2026-10-05T20:21:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.canon-eagles.jp/",
-      "hash": "1dede2ce72f51e42"
+      "hash": "4aa5a662c4e424a7"
     },
     {
       "url": "https://www.canon-eagles.jp/news/",
-      "hash": "a2ccd48672f87b33"
+      "hash": "42c88a86f826d0ef"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/2026.html",
-      "hash": "1e0f81046d717524"
+      "hash": "48d7df42fe38c250"
     }
   ],
   "items": [
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20261005.html",
+      "title": "2026.10.05 TEAM キックオフ時間決定（第1～3節）のお知らせ",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20261005-2.html",
+      "title": "2026.10.05 TEAM 2026-27シーズン チケット販売日程",
+      "date": "2026-10-05"
+    },
     {
       "url": "https://www.canon-eagles.jp/news/interview/20261002.html",
       "title": "2026.10.02 INTERVIEW 【新加入コーチインタビュー】リチャード・コクリル アシスタントコーチ",
@@ -72,11 +82,6 @@
       "date": "2026-09-28"
     },
     {
-      "url": "https://www.canon-eagles.jp/news/event/20260925.html",
-      "title": "2026.09.25 EVENT 10月のイベント出演予定",
-      "date": "2026-09-25"
-    },
-    {
       "url": "https://www.canon-eagles.jp/news/info/20260924.html",
       "title": "2026.09.24 TEAM 2026-27シーズン 新入団スタッフのお知らせ",
       "date": "2026-09-24"
@@ -105,16 +110,6 @@
       "url": "https://www.canon-eagles.jp/news/info/20260827.html",
       "title": "2026.08.27 TEAM 男子日本代表宮崎（大阪）合宿に横浜キヤノンイーグルスの選手が参加します（追加）",
       "date": "2026-08-27"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/info/20260824.html",
-      "title": "2026.08.24 TEAM 男子日本代表宮崎（大阪）合宿に横浜キヤノンイーグルスの選手が参加します",
-      "date": "2026-08-24"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/info/20260824-2.html",
-      "title": "2026.08.24 TEAM 横浜キヤノンイーグルスの選手が南アフリカ代表としてニュージーランド代表戦に出場します",
-      "date": "2026-08-24"
     }
   ]
 }

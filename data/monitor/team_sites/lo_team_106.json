@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-10-05T00:34:42+09:00",
+  "checked_at": "2026-10-05T20:21:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "28fda345a5723382"
+      "hash": "6aaed690d11d20f5"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "e157df3ccdc4eb43"
+      "hash": "b3ab1632481f7831"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule#3",
+      "title": "2026-10-05 日程更新｜12/13(日)のリーグワン開幕戦・神奈川ダービーは13:40キックオフ！",
+      "date": "2026-10-05"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule",
       "title": "▼また次のシーズンで！（イベント・地域活動実施中）",
@@ -31,11 +36,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/jrlr2026-2",
       "title": "2026-10-02 リーグワンライジング vsRH大阪 10/31（日）三菱重工相模原G｜観戦情報掲載",
       "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule#3",
-      "title": "2026-09-30 日程更新｜2/21(日)のリーグワン第9節は秩父宮ラグビー場でのホスト試合！",
-      "date": "2026-09-30"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260922.html",
@@ -54,7 +54,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/ticket.html",
-      "title": "2026-09-11 2026-27シーズン チケット情報を更新しました",
+      "title": "2026-09-11 [ チーム ] 2026-27シーズン チケット情報を更新しました",
       "date": "2026-09-11"
     },
     {

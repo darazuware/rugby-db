@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-05T00:34:42+09:00",
+  "checked_at": "2026-10-05T20:21:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "1be4ca41c2866a89"
+      "hash": "5fd8b55f70143cca"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "f43257646c609dfe"
+      "hash": "ce7ed62c35a0d657"
     }
   ],
   "items": [
@@ -31,6 +31,11 @@
       "url": "https://www.kurita-watergush.jp/game/20261017-gw%e6%9d%b1%e8%91%9b-vswg%e6%98%ad%e5%b3%b6/",
       "title": "このゲームの詳細情報はこちら",
       "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20260806-2-2/",
+      "title": "お知らせ 2026/10/05 NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ",
+      "date": "2026-10-05"
     },
     {
       "url": "https://www.kurita-watergush.jp/game/20261003-m%e6%88%90%e7%94%b0-vswg%e6%98%ad%e5%b3%b6/",
@@ -74,7 +79,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20260902-2/",
-      "title": "地域貢献 2026/09/02 【イベント報告】第54回昭島市民くじら祭参加",
+      "title": "お知らせ 公開日：2026/09/02 【イベント報告】第54回昭島市民くじら祭参加 実施日：8月29日（土）、8月30日（日）実施場所：昭和公園陸上競技場（昭島市）、江戸街道（昭島駅～昭和… 続きを読む",
       "date": "2026-09-02"
     },
     {
@@ -91,11 +96,6 @@
       "url": "https://www.kurita-watergush.jp/20260807-2-2/",
       "title": "お知らせ 公開日：2026/09/01 9/1より 2026-27シーズン ファンクラブ会員募集開始（9月1日更新） いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。9/1（火）10:00… 続きを読む",
       "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260806-2-2/",
-      "title": "お知らせ 公開日：2026/08/06 NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 NTT ジャパンラ… 続きを読む",
-      "date": "2026-08-06"
     },
     {
       "url": "https://www.kurita-watergush.jp/20260806-2-1/",
