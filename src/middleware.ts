@@ -63,6 +63,17 @@ async function resolvePlayerRedirect(path: string): Promise<string | null> {
   return playerFallbackPath(player, await getTeamPagePaths());
 }
 
+// redirects.json の行き先が master に存在しない選手 slug（ページ無し）か。
+// 該当時は 404 を避けて一覧へ 301（事実は補完しない）。
+async function isMissingPlayerPath(path: string): Promise<boolean> {
+  const m = PLAYER_PATH.exec(path);
+  if (!m) return false;
+  const slug = m[1];
+  if (isIndexablePlayerSlug(slug)) return false;
+  const resolution = await getPlayerSlugResolution().catch(() => null);
+  return !!resolution && !resolution.has(slug);
+}
+
 export const onRequest = defineMiddleware(async (context, next) => {
   const { url, request } = context;
   const pathname = url.pathname;
@@ -90,7 +101,9 @@ export const onRequest = defineMiddleware(async (context, next) => {
 
   if (redirectTarget) {
     // redirects.json の行き先が非indexable選手なら、1ホップで最終先へ
-    const finalTarget = await resolvePlayerRedirect(redirectTarget);
+    const finalTarget =
+      (await resolvePlayerRedirect(redirectTarget)) ??
+      ((await isMissingPlayerPath(redirectTarget)) ? RETIRED_REDIRECT_TARGET : null);
     if (finalTarget) {
       return new Response(null, {
         status: 301,

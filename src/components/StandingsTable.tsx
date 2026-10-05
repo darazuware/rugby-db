@@ -7,6 +7,7 @@ interface Standing {
     display_name?: string; // standings.json の互換性のため追加
     flag?: string;
     slug: string;
+    href?: string | null; // チームページが無い場合は null（リンクしない）
     played: string;
     won: string;
     drawn: string;
@@ -137,6 +138,8 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, re
     const renderRows = (items: Standing[]) => (
         items.map((team, index) => {
             const displayName = team.display_name || team.team_name_jp || team.team_name;
+            const teamHref = team.href === undefined ? `/teams/${leagueId}/${team.slug}` : team.href;
+            const TeamTag: any = teamHref ? 'a' : 'div';
             return (
                 <tr key={team.slug} className={`hover:bg-background transition-colors ${index < 4 ? config.highlight : ''}`}>
                     <td className={`px-2 py-4 text-center font-black text-foreground border-r border-border-dim/20 ${index < 4 ? config.accent : ''} text-[10px]`}>
@@ -144,15 +147,15 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, re
                     </td>
                     <td className="px-2 py-4">
                         <div className="flex flex-col min-w-[100px]">
-                            <a 
-                                href={`/teams/${leagueId}/${team.slug}`}
+                            <TeamTag
+                                {...(teamHref ? { href: teamHref } : {})}
                                 className="flex items-center gap-1 mb-0.5 group/team"
                             >
                                 {team.flag && <span className="text-xs scale-110 mr-1 flex-shrink-0">{team.flag}</span>}
                                 <span className={`font-black text-foreground leading-tight tracking-tighter break-keep group-hover/team:text-yellow-400 transition-colors ${((displayName || '').length > 10) ? 'text-[9px]' : 'text-[11px]'}`}>
                                     {displayName}
                                 </span>
-                            </a>
+                            </TeamTag>
                         </div>
                     </td>
                     <td className="px-2 py-4 text-center font-bold text-foreground/60 border-l border-border-dim/10 text-[10px] sm:text-[12px]">{team.played}</td>

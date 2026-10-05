@@ -6,6 +6,7 @@ interface TeamStanding {
     points: string;
     flag?: string;
     slug: string;
+    href?: string | null;
 }
 
 interface LeagueData {
@@ -49,10 +50,13 @@ const StandingsWidget: React.FC<Props> = ({ leagueStandings }) => {
                         </div>
 
                         <div className="space-y-4">
-                            {league.teams.slice(0, 3).map((team, idx) => (
-                                <a
+                            {league.teams.slice(0, 3).map((team, idx) => {
+                                const href = team.href === undefined ? `/teams/${league.id}/${team.slug}` : team.href;
+                                const Row: any = href ? 'a' : 'div';
+                                return (
+                                <Row
                                     key={team.slug || team.display_name}
-                                    href={`/teams/${league.id}/${team.slug}`}
+                                    {...(href ? { href } : {})}
                                     className="standings-row flex items-center justify-between p-4 rounded-3xl bg-foreground/[0.04] border border-border-dim/50 hover:bg-foreground/[0.08] hover:border-border-dim transition-all group/item shadow-sm relative z-10"
                                 >
                                     <div className="flex items-center gap-4">
@@ -80,8 +84,9 @@ const StandingsWidget: React.FC<Props> = ({ leagueStandings }) => {
                                             {team.points && team.points !== '0' ? team.points : '-'}
                                         </span>
                                     </div>
-                                </a>
-                            ))}
+                                </Row>
+                                );
+                            })}
                         </div>
 
                         <a

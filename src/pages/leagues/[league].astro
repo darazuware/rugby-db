@@ -42,8 +42,9 @@ import standingsData from "../../../data/standings.json";
 import StandingsTable from "../../components/StandingsTable";
 import LeagueMatchResults from "../../components/LeagueMatchResults";
 import { getLeagueStandings, type LeagueId } from "../../lib/safeStandings";
+import { withTeamHref } from "../../lib/teamPages";
 
-const leagueStandings = getLeagueStandings(standingsData, targetLeague as LeagueId);
+const leagueStandings = withTeamHref(targetLeague, getLeagueStandings(standingsData, targetLeague as LeagueId));
 
 const leagueResultsAll = (resultsData as any)[targetLeague] || [];
 // 重複排除

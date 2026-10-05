@@ -75,44 +75,10 @@ function firstDir(dir: string): string {
 }
 
 // ---------------------------------------------------------------------------
-// 既知の不具合（2026-10-05 時点。本テスト整備時に検出、本番コード/データ未修正）。
-// ここに載っているURLはリンク切れ判定から除外する。直したらこの一覧から消すこと。
+// 既知の不具合。ここに載っているURLはリンク切れ判定から除外する。直したらこの一覧から消すこと。
 // 新たなリンク切れはテスト失敗になる。
 // ---------------------------------------------------------------------------
-const KNOWN_BROKEN = new Set<string>([
-  // World Rugby API 到達不可時のフォールバック data/world_rankings.json がリポジトリに無く 500
-  "/world-rankings",
-  // index.astro の固定リンク先にページが無い（404）
-  "/results/highschool",
-  "/teams/high-school",
-  "/teams/university",
-  // data/standings.json（旧データ）由来のチームslugが現行チームページと不一致（404）
-  "/teams/top14/aviron-bayonnais",
-  "/teams/top14/castres-olympique",
-  "/teams/top14/lyon-ou",
-  "/teams/top14/rc-toulon",
-  "/teams/top14/usa-perpignan",
-  "/teams/urc/benetton-rugby",
-  "/teams/urc/dragons-rfc",
-  "/teams/premiership/chiefs",
-  // data/master/_meta/redirects.json の行き先に選手ページが存在しない（404）
-  "/players/amanaki-taiyo-lotoahea",
-  "/players/christian-lealiifano",
-  "/players/dino-lamb",
-  "/players/faf-de-klerk",
-  "/players/genki-sudou",
-  "/players/hayato-ishibashi",
-  "/players/kaishun-azuma",
-  "/players/kotaro-tstsuno",
-  "/players/pieter-steph-du-toit",
-  "/players/sam-jeffries",
-  "/players/shuichi-kobayashi",
-  "/players/taisei-hiranuma",
-  "/players/takumi-hurukawa",
-  "/players/vea-taumoefolau",
-  "/players/yukito-akasako",
-  "/players/yuma-kikumoto",
-]);
+const KNOWN_BROKEN = new Set<string>([]);
 const isKnownBroken = (href: string) => KNOWN_BROKEN.has(href.replace(/\/$/, ""));
 
 // ---------------------------------------------------------------------------
@@ -136,6 +102,7 @@ const MAIN_PAGES = [
   "/privacy/",
   "/terms/",
   "/contact/",
+  "/world-rankings/",
 ];
 
 describe("主要画面が 200 で正常に描画される", () => {

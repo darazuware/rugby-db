@@ -11,6 +11,7 @@ import { getCollection } from "astro:content";
 import teamsData from "../../../../data/teams.json";
 import standingsData from "../../../../data/standings.json";
 import { getLeagueStandings, type LeagueId } from "../../../lib/safeStandings";
+import { teamPageHref } from "../../../lib/teamPages";
 import resultsData from "../../../../data/results_2026.json";
 import teamNamesJp from "../../../../data/team_names_jp.json";
 import { findTeamNameMapping, getTeamSlug } from "../../../utils/team_utils";
@@ -87,9 +88,11 @@ const standings = rawStandings.map((s: any) => {
         (mapping && t.team_name === mapping.jp)
     );
     
+    const slug = teamInTeams?.slug || s.slug;
     return {
         ...s,
-        slug: teamInTeams?.slug || s.slug,
+        slug,
+        href: teamPageHref(league || "", slug, [s.team_name, s.team_name_jp, s.display_name]),
         display_name:
             s.display_name || mapping?.jp || s.team_name_jp || s.team_name,
         flag: s.flag || mapping?.flag || "",

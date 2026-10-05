@@ -127,7 +127,7 @@ export interface RankingsPayload {
   updated_at: string;
   mens: RankingEntry[];
   womens: RankingEntry[];
-  source?: 'live' | 'cache';
+  source?: 'live' | 'cache' | 'unavailable';
 }
 
 async function fetchCategory(cat: 'mru' | 'wru'): Promise<{ date: string; rankings: RankingEntry[] }> {
@@ -180,6 +180,11 @@ export async function getWorldRankings(): Promise<RankingsPayload> {
       source: 'live',
     };
   } catch {
-    return loadCache();
+    try {
+      return await loadCache();
+    } catch {
+      // API・キャッシュ共に無い場合は空で返す（値の補完はしない）
+      return { updated_at: '', mens: [], womens: [], source: 'unavailable' };
+    }
   }
 }

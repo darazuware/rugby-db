@@ -27,11 +27,15 @@ const rankingsData = await getWorldRankings();
             </p>
         </header>
 
-        <WorldRankingsComponent 
-            client:load 
-            mens={rankingsData.mens} 
-            womens={rankingsData.womens}
-            updatedAt={rankingsData.updated_at}
-        />
+        {rankingsData.mens.length === 0 && rankingsData.womens.length === 0 ? (
+            <p class="text-foreground/70 font-bold">現在ランキングデータを取得できません。時間をおいて再度ご確認ください。</p>
+        ) : (
+            <WorldRankingsComponent 
+                client:load 
+                mens={rankingsData.mens} 
+                womens={rankingsData.womens}
+                updatedAt={rankingsData.updated_at}
+            />
+        )}
     </div>
 </Layout>

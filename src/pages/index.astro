@@ -6,6 +6,7 @@ import PRNotice from "../components/PRNotice.astro";
 import StandingsWidget from "../components/StandingsWidget";
 import standingsData from "../../data/standings.json";
 import { getLeagueStandings, type LeagueId } from "../lib/safeStandings";
+import { teamPageHref } from "../lib/teamPages";
 import teamsData from "../../data/teams.json";
 import teamNamesJp from "../../data/team_names_jp.json";
 import { getLiveNews } from "../lib/news";
@@ -37,9 +38,11 @@ const mapStandings = (leagueId: string) => {
             t.team_name_jp === s.team_name || 
             (mapping && t.team_name === mapping.jp)
         );
+        const slug = teamInTeams?.slug || s.slug;
         return {
             ...s,
-            slug: teamInTeams?.slug || s.slug,
+            slug,
+            href: teamPageHref(leagueId, slug, [s.team_name, s.team_name_jp, s.display_name]),
             display_name: s.display_name || mapping?.jp || s.team_name,
             flag: s.flag || mapping?.flag || "",
         };
@@ -300,7 +303,7 @@ const leagueStandings = [
     </div>
 
     <section class="mb-16">
-        <StandingsWidget client:load leagueStandings={leagueStandings} />
+        <StandingsWidget client:load leagueStandings={leagueStandings.filter(l => l.id !== 'high-school' && l.id !== 'university')} />
     </section>
 
     <section class="mb-12">
