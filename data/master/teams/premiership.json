@@ -6,9 +6,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/bath/squad",
     "scraped_at": "2026-09-28T10:15:16+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Bath, Somerset, England",
+    "home_stadiums": [
+      {
+        "name": "The Recreation Ground",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Bath_Rugby&oldid=1376490942"
+      }
+    ],
+    "founded": 1865,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -95,7 +100,70 @@
       "ar_aiden-stait",
       "ar_dylan-indaburu",
       "ar_hugo-leclerq"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Premiership Rugby",
+        "count": 7,
+        "seasons": [
+          "1988–89",
+          "1990–91",
+          "1991–92",
+          "1992–93",
+          "1993–94",
+          "1995–96",
+          "2024–25"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Bath_Rugby&oldid=1376490942"
+      },
+      {
+        "competition": "RFU Knockout Cup",
+        "count": 10,
+        "seasons": [
+          "1983–84",
+          "1984–85",
+          "1985–86",
+          "1986–87",
+          "1988–89",
+          "1989–90",
+          "1991–92",
+          "1993–94",
+          "1994–95",
+          "1995–96"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Bath_Rugby&oldid=1376490942"
+      },
+      {
+        "competition": "Premiership Rugby Cup",
+        "count": 1,
+        "seasons": [
+          "2024–25"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Bath_Rugby&oldid=1376490942"
+      },
+      {
+        "competition": "European Champions Cup",
+        "count": 1,
+        "seasons": [
+          "1997–98"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Bath_Rugby&oldid=1376490942"
+      },
+      {
+        "competition": "European Challenge Cup",
+        "count": 2,
+        "seasons": [
+          "2007–08",
+          "2024–25"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Bath_Rugby&oldid=1376490942"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Bath_Rugby&oldid=1376490942",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Bath_Rugby&oldid=1376490942",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Bath_Rugby&oldid=1376490942"
+    }
   },
   {
     "id": "bristol",
@@ -104,9 +172,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/bristol/squad",
     "scraped_at": "2026-09-28T10:17:25+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Bristol, England",
+    "home_stadiums": [
+      {
+        "name": "Ashton Gate Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Bristol_Bears&oldid=1375935249"
+      }
+    ],
+    "founded": 1888,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -168,7 +241,57 @@
       "ar_aidan-boshoff",
       "ar_evan-morris",
       "ar_josh-carrington"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "European Challenge Cup",
+        "count": 1,
+        "seasons": [
+          "2019–20"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Bristol_Bears&oldid=1375935249"
+      },
+      {
+        "competition": "RFU Championship",
+        "count": 4,
+        "seasons": [
+          "1998–99",
+          "2004–05",
+          "2015–16",
+          "2017–18"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Bristol_Bears&oldid=1375935249"
+      },
+      {
+        "competition": "RFU Knockout Cup",
+        "count": 1,
+        "seasons": [
+          "1982–83"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Bristol_Bears&oldid=1375935249"
+      },
+      {
+        "competition": "British and Irish Cup",
+        "count": 1,
+        "seasons": [
+          "2010–11"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Bristol_Bears&oldid=1375935249"
+      },
+      {
+        "competition": "EDF Energy Trophy",
+        "count": 1,
+        "seasons": [
+          "2003–04"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Bristol_Bears&oldid=1375935249"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Bristol_Bears&oldid=1375935249",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Bristol_Bears&oldid=1375935249",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Bristol_Bears&oldid=1375935249"
+    }
   },
   {
     "id": "exeter",
@@ -177,9 +300,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/exeter/squad",
     "scraped_at": "2026-09-28T10:23:37+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Exeter, Devon, England",
+    "home_stadiums": [
+      {
+        "name": "Sandy Park",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Exeter_Chiefs&oldid=1376473839"
+      }
+    ],
+    "founded": 1871,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -237,7 +365,65 @@
       "ar_charlie-poynton",
       "ar_nick-lilley",
       "ar_noah-fenton"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "European Rugby Champions Cup",
+        "count": 1,
+        "seasons": [
+          "2019–20"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Exeter_Chiefs&oldid=1376473839"
+      },
+      {
+        "competition": "Premiership Rugby",
+        "count": 2,
+        "seasons": [
+          "2016–17",
+          "2019–20"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Exeter_Chiefs&oldid=1376473839"
+      },
+      {
+        "competition": "Anglo-Welsh Cup /Premiership Rugby Cup",
+        "count": 3,
+        "seasons": [
+          "2013–14",
+          "2017–18",
+          "2022–23"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Exeter_Chiefs&oldid=1376473839"
+      },
+      {
+        "competition": "RFU Championship",
+        "count": 1,
+        "seasons": [
+          "2009–10"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Exeter_Chiefs&oldid=1376473839"
+      },
+      {
+        "competition": "National League 1",
+        "count": 1,
+        "seasons": [
+          "1996–97"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Exeter_Chiefs&oldid=1376473839"
+      },
+      {
+        "competition": "National League 2 South",
+        "count": 1,
+        "seasons": [
+          "1995–96"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Exeter_Chiefs&oldid=1376473839"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Exeter_Chiefs&oldid=1376473839",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Exeter_Chiefs&oldid=1376473839",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Exeter_Chiefs&oldid=1376473839"
+    }
   },
   {
     "id": "gloucester",
@@ -246,9 +432,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/gloucester/squad",
     "scraped_at": "2026-09-28T10:12:18+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Gloucester, Gloucestershire, England",
+    "home_stadiums": [
+      {
+        "name": "Kingsholm Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Gloucester_Rugby&oldid=1377486592"
+      }
+    ],
+    "founded": 1873,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -355,7 +546,67 @@
       "ar_kai-wilkinson",
       "ar_krystof-wood",
       "ar_tomos-evans"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Zurich Premiership Play-Off",
+        "count": 1,
+        "seasons": [
+          "2001–02"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Gloucester_Rugby&oldid=1377486592"
+      },
+      {
+        "competition": "European Challenge Cup",
+        "count": 2,
+        "seasons": [
+          "2005–06",
+          "2014–15"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Gloucester_Rugby&oldid=1377486592"
+      },
+      {
+        "competition": "RFU Knockout Cup",
+        "count": 4,
+        "seasons": [
+          "1971–72",
+          "1977–78",
+          "1981–82",
+          "2002–03"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Gloucester_Rugby&oldid=1377486592"
+      },
+      {
+        "competition": "Anglo-Welsh Cup",
+        "count": 1,
+        "seasons": [
+          "2010–11"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Gloucester_Rugby&oldid=1377486592"
+      },
+      {
+        "competition": "Premiership Rugby Cup",
+        "count": 1,
+        "seasons": [
+          "2023–24"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Gloucester_Rugby&oldid=1377486592"
+      },
+      {
+        "competition": "C&G Cup",
+        "count": 2,
+        "seasons": [
+          "1997–98",
+          "1998–99"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Gloucester_Rugby&oldid=1377486592"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Gloucester_Rugby&oldid=1377486592",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Gloucester_Rugby&oldid=1377486592",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Gloucester_Rugby&oldid=1377486592"
+    }
   },
   {
     "id": "harlequins",
@@ -364,9 +615,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/harlequins/squad",
     "scraped_at": "2026-09-28T10:30:51+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Twickenham, London, England",
+    "home_stadiums": [
+      {
+        "name": "Twickenham Stoop",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Harlequin_F.C.&oldid=1378199767"
+      }
+    ],
+    "founded": 1866,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -449,7 +705,66 @@
       "ar_jules-derre",
       "ar_ben-perkins",
       "ar_jules-martin-bonnard"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Premiership Rugby",
+        "count": 2,
+        "seasons": [
+          "2011–12",
+          "2020–21"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Harlequin_F.C.&oldid=1378199767"
+      },
+      {
+        "competition": "RFU Championship",
+        "count": 1,
+        "seasons": [
+          "2005–06"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Harlequin_F.C.&oldid=1378199767"
+      },
+      {
+        "competition": "European Challenge Cup",
+        "count": 3,
+        "seasons": [
+          "2000–01",
+          "2003–04",
+          "2010–11"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Harlequin_F.C.&oldid=1378199767"
+      },
+      {
+        "competition": "RFU Knockout Cup",
+        "count": 2,
+        "seasons": [
+          "1987–88",
+          "1990–91"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Harlequin_F.C.&oldid=1378199767"
+      },
+      {
+        "competition": "Anglo-Welsh Cup",
+        "count": 1,
+        "seasons": [
+          "2012–13"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Harlequin_F.C.&oldid=1378199767"
+      },
+      {
+        "competition": "EDF Energy Trophy",
+        "count": 1,
+        "seasons": [
+          "2005–06"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Harlequin_F.C.&oldid=1378199767"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Harlequin_F.C.&oldid=1378199767",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Harlequin_F.C.&oldid=1378199767",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Harlequin_F.C.&oldid=1378199767"
+    }
   },
   {
     "id": "leicester",
@@ -458,9 +773,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/leicester/squad",
     "scraped_at": "2026-09-28T10:21:39+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Leicester, England",
+    "home_stadiums": [
+      {
+        "name": "Mattioli Woods Welford Road",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Leicester_Tigers&oldid=1378414635"
+      }
+    ],
+    "founded": 1880,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -517,7 +837,79 @@
       "ar_harry-palmer",
       "ar_josh-poyser",
       "ar_nathaniel-robinson"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Premiership Rugby",
+        "count": 11,
+        "seasons": [
+          "1988",
+          "1995",
+          "1999",
+          "2000",
+          "2001",
+          "2002",
+          "2007",
+          "2009",
+          "2010",
+          "2013",
+          "2022"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Leicester_Tigers&oldid=1378414635"
+      },
+      {
+        "competition": "European Cup",
+        "count": 2,
+        "seasons": [
+          "2001",
+          "2002"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Leicester_Tigers&oldid=1378414635"
+      },
+      {
+        "competition": "Zurich Championship",
+        "count": 1,
+        "seasons": [
+          "2001"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Leicester_Tigers&oldid=1378414635"
+      },
+      {
+        "competition": "RFU Knockout Cup",
+        "count": 5,
+        "seasons": [
+          "1979",
+          "1980",
+          "1981",
+          "1993",
+          "1997"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Leicester_Tigers&oldid=1378414635"
+      },
+      {
+        "competition": "Anglo-Welsh Cup",
+        "count": 3,
+        "seasons": [
+          "2007",
+          "2012",
+          "2017"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Leicester_Tigers&oldid=1378414635"
+      },
+      {
+        "competition": "Premiership Rugby Cup",
+        "count": 1,
+        "seasons": [
+          "2026"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Leicester_Tigers&oldid=1378414635"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Leicester_Tigers&oldid=1378414635",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Leicester_Tigers&oldid=1378414635",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Leicester_Tigers&oldid=1378414635"
+    }
   },
   {
     "id": "newcastle",
@@ -526,9 +918,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/newcastle/squad",
     "scraped_at": "2026-09-28T10:25:54+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Newcastle upon Tyne, Tyne and Wear, England",
+    "home_stadiums": [
+      {
+        "name": "Kingston Park",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Newcastle_Red_Bulls&oldid=1378259455"
+      }
+    ],
+    "founded": 1877,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -595,7 +992,43 @@
       "ar_harry-hawkins",
       "ar_nathan-greenwood",
       "ar_sam-waugh"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Premiership Rugby",
+        "count": 1,
+        "seasons": [
+          "1997–98"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Newcastle_Red_Bulls&oldid=1378259455"
+      },
+      {
+        "competition": "Championship (2nd division)",
+        "count": 3,
+        "seasons": [
+          "1992–93",
+          "2012–13",
+          "2019–20"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Newcastle_Red_Bulls&oldid=1378259455"
+      },
+      {
+        "competition": "RFU Knockout Cup",
+        "count": 4,
+        "seasons": [
+          "1975–76",
+          "1976–77",
+          "2000–01",
+          "2003–04"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Newcastle_Red_Bulls&oldid=1378259455"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Newcastle_Red_Bulls&oldid=1378259455",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Newcastle_Red_Bulls&oldid=1378259455",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Newcastle_Red_Bulls&oldid=1378259455"
+    }
   },
   {
     "id": "northampton",
@@ -604,9 +1037,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/northampton/squad",
     "scraped_at": "2026-09-28T10:08:35+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Northampton, England",
+    "home_stadiums": [
+      {
+        "name": "Franklin's Gardens",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Northampton_Saints&oldid=1377025470"
+      }
+    ],
+    "founded": 1880,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -698,7 +1136,12 @@
       "ar_aidan-pugh",
       "ar_henry-lumley",
       "ar_charlie-tamani"
-    ]
+    ],
+    "titles": [],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Northampton_Saints&oldid=1377025470",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Northampton_Saints&oldid=1377025470"
+    }
   },
   {
     "id": "sale",
@@ -707,8 +1150,13 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/sale/squad",
     "scraped_at": "2026-09-28T10:28:01+09:00",
-    "home_area": null,
-    "home_stadiums": [],
+    "home_area": "Barton-upon-Irwell, Salford, England",
+    "home_stadiums": [
+      {
+        "name": "CorpAcq Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Sale_Sharks&oldid=1377522902"
+      }
+    ],
     "founded": null,
     "colors": {},
     "official_url": null,
@@ -770,7 +1218,46 @@
       "ar_osian-roberts",
       "ar_sebi-krippner",
       "ar_austin-keogh"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Premiership Rugby",
+        "count": 1,
+        "seasons": [
+          "2005–06"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Sale_Sharks&oldid=1377522902"
+      },
+      {
+        "competition": "RFU Championship",
+        "count": 1,
+        "seasons": [
+          "1993–94"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Sale_Sharks&oldid=1377522902"
+      },
+      {
+        "competition": "European Challenge Cup",
+        "count": 2,
+        "seasons": [
+          "2001–02",
+          "2004–05"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Sale_Sharks&oldid=1377522902"
+      },
+      {
+        "competition": "Premiership Rugby Cup",
+        "count": 1,
+        "seasons": [
+          "2019–20"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Sale_Sharks&oldid=1377522902"
+      }
+    ],
+    "field_sources": {
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Sale_Sharks&oldid=1377522902",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Sale_Sharks&oldid=1377522902"
+    }
   },
   {
     "id": "saracens",
@@ -779,9 +1266,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/saracens/squad",
     "scraped_at": "2026-09-28T10:19:42+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Hendon, Greater London, England",
+    "home_stadiums": [
+      {
+        "name": "StoneX Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Saracens_F.C.&oldid=1378338881"
+      }
+    ],
+    "founded": 1876,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -847,6 +1339,62 @@
       "ar_seva-kava",
       "ar_zac-finch",
       "ar_ben-morrow"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Premiership Rugby",
+        "count": 6,
+        "seasons": [
+          "2010–11",
+          "2014–15",
+          "2015–16",
+          "2017–18",
+          "2018–19",
+          "2022–23"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Saracens_F.C.&oldid=1378338881"
+      },
+      {
+        "competition": "Champ Rugby",
+        "count": 3,
+        "seasons": [
+          "1988–89",
+          "1994–95",
+          "2020–21"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Saracens_F.C.&oldid=1378338881"
+      },
+      {
+        "competition": "European Rugby Champions Cup",
+        "count": 3,
+        "seasons": [
+          "2015–16",
+          "2016–17",
+          "2018–19"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Saracens_F.C.&oldid=1378338881"
+      },
+      {
+        "competition": "RFU Knockout Cup",
+        "count": 1,
+        "seasons": [
+          "1997–98"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Saracens_F.C.&oldid=1378338881"
+      },
+      {
+        "competition": "Anglo–Welsh Cup",
+        "count": 1,
+        "seasons": [
+          "2014–15"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Saracens_F.C.&oldid=1378338881"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Saracens_F.C.&oldid=1378338881",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Saracens_F.C.&oldid=1378338881",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Saracens_F.C.&oldid=1378338881"
+    }
   }
 ]

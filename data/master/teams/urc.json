@@ -6,9 +6,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/benetton/squad",
     "scraped_at": "2026-09-28T09:50:36+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Treviso, Italy",
+    "home_stadiums": [
+      {
+        "name": "Stadio Comunale di Monigo",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Benetton_Rugby&oldid=1376149960"
+      }
+    ],
+    "founded": 1932,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -59,7 +64,64 @@
       "ar_matt-gallagher",
       "ar_rhyno-smith",
       "ar_giacomo-falchetto"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Italian Championship",
+        "count": 15,
+        "seasons": [
+          "1956",
+          "1978",
+          "1983",
+          "1989",
+          "1992",
+          "1997",
+          "1998",
+          "1999",
+          "2001",
+          "2003",
+          "2004",
+          "2006",
+          "2007",
+          "2009",
+          "2010"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Benetton_Rugby&oldid=1376149960"
+      },
+      {
+        "competition": "Coppa Italia",
+        "count": 4,
+        "seasons": [
+          "1970",
+          "1998",
+          "2005",
+          "2010"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Benetton_Rugby&oldid=1376149960"
+      },
+      {
+        "competition": "Italian Super Cup",
+        "count": 2,
+        "seasons": [
+          "2006",
+          "2009"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Benetton_Rugby&oldid=1376149960"
+      },
+      {
+        "competition": "Pro14 Rainbow Cup",
+        "count": 1,
+        "seasons": [
+          "2021"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Benetton_Rugby&oldid=1376149960"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Benetton_Rugby&oldid=1376149960",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Benetton_Rugby&oldid=1376149960",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Benetton_Rugby&oldid=1376149960"
+    }
   },
   {
     "id": "bulls",
@@ -68,9 +130,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/bulls/squad",
     "scraped_at": "2026-09-28T09:31:03+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Pretoria, South Africa",
+    "home_stadiums": [
+      {
+        "name": "Loftus Versfeld Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Bulls_%28rugby_union%29&oldid=1376205275"
+      }
+    ],
+    "founded": 1938,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -152,7 +219,12 @@
       "ar_willie-le-roux",
       "ar_owain-james-18238",
       "ar_gwilym-bradley"
-    ]
+    ],
+    "titles": [],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Bulls_%28rugby_union%29&oldid=1376205275",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Bulls_%28rugby_union%29&oldid=1376205275"
+    }
   },
   {
     "id": "cardiff",
@@ -161,9 +233,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/cardiff/squad",
     "scraped_at": "2026-09-28T09:43:48+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Cardiff, Wales",
+    "home_stadiums": [
+      {
+        "name": "Cardiff Arms Park",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Cardiff_Rugby&oldid=1378360930"
+      }
+    ],
+    "founded": 1876,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -219,7 +296,40 @@
       "ar_harvey-bryant",
       "ar_matty-young",
       "ar_rhys-cummings"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Welsh Shield",
+        "count": 2,
+        "seasons": [
+          "2022-23",
+          "2024-25"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Cardiff_Rugby&oldid=1378360930"
+      },
+      {
+        "competition": "Anglo-Welsh Cup",
+        "count": 1,
+        "seasons": [
+          "2008–09"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Cardiff_Rugby&oldid=1378360930"
+      },
+      {
+        "competition": "European Challenge Cup",
+        "count": 2,
+        "seasons": [
+          "2009–10",
+          "2017–18"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Cardiff_Rugby&oldid=1378360930"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Cardiff_Rugby&oldid=1378360930",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Cardiff_Rugby&oldid=1378360930",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Cardiff_Rugby&oldid=1378360930"
+    }
   },
   {
     "id": "connacht",
@@ -228,9 +338,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/connacht/squad",
     "scraped_at": "2026-09-28T10:03:47+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Galway, Ireland",
+    "home_stadiums": [
+      {
+        "name": "Galway Greyhound Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Connacht_Rugby&oldid=1378358972"
+      }
+    ],
+    "founded": 1885,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -292,7 +407,26 @@
       "ar_daniel-ryan",
       "ar_cian-brady",
       "ar_james-nicholson"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Inter-Provincial Championship",
+        "count": 3,
+        "seasons": [],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Connacht_Rugby&oldid=1378358972"
+      },
+      {
+        "competition": "United Rugby Championship",
+        "count": 1,
+        "seasons": [],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Connacht_Rugby&oldid=1378358972"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Connacht_Rugby&oldid=1378358972",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Connacht_Rugby&oldid=1378358972",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Connacht_Rugby&oldid=1378358972"
+    }
   },
   {
     "id": "dragons",
@@ -301,9 +435,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/dragons/squad",
     "scraped_at": "2026-09-28T09:48:51+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Newport, Wales",
+    "home_stadiums": [
+      {
+        "name": "Rodney Parade",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Dragons_RFC&oldid=1377516497"
+      }
+    ],
+    "founded": 2003,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -393,7 +532,12 @@
       "ar_yon-caperaa",
       "ar_aiden-stait",
       "ar_oli-woodman"
-    ]
+    ],
+    "titles": [],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Dragons_RFC&oldid=1377516497",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Dragons_RFC&oldid=1377516497"
+    }
   },
   {
     "id": "edinburgh",
@@ -402,9 +546,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/edinburgh/squad",
     "scraped_at": "2026-09-28T09:41:55+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Edinburgh, Scotland",
+    "home_stadiums": [
+      {
+        "name": "Edinburgh Rugby Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Edinburgh_Rugby&oldid=1376327487"
+      }
+    ],
+    "founded": 1872,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -480,7 +629,38 @@
       "ar_nairn-moncrieff",
       "ar_finlay-doyle",
       "ar_henry-widdowson"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Scottish Inter-District Championship / Scottish League",
+        "count": 3,
+        "seasons": [
+          "1997–98",
+          "1998–99",
+          "2002–03"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Edinburgh_Rugby&oldid=1376327487"
+      },
+      {
+        "competition": "1872 Cup",
+        "count": 7,
+        "seasons": [
+          "2008–09",
+          "2014–15",
+          "2015–16",
+          "2017–18",
+          "2018–19",
+          "2019–20",
+          "2021–22"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Edinburgh_Rugby&oldid=1376327487"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Edinburgh_Rugby&oldid=1376327487",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Edinburgh_Rugby&oldid=1376327487",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Edinburgh_Rugby&oldid=1376327487"
+    }
   },
   {
     "id": "glasgow",
@@ -489,8 +669,13 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/glasgow/squad",
     "scraped_at": "2026-09-28T09:39:20+09:00",
-    "home_area": null,
-    "home_stadiums": [],
+    "home_area": "Glasgow, Scotland",
+    "home_stadiums": [
+      {
+        "name": "Scotstoun Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Glasgow_Warriors&oldid=1377069988"
+      }
+    ],
     "founded": null,
     "colors": {},
     "official_url": null,
@@ -589,7 +774,60 @@
       "ar_guy-rogers",
       "ar_harry-provan",
       "ar_rory-cameron"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "United Rugby Championship",
+        "count": 2,
+        "seasons": [
+          "2014–15",
+          "2023–24"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Glasgow_Warriors&oldid=1377069988"
+      },
+      {
+        "competition": "United Rugby Championship Scottish/Italian Shield",
+        "count": 4,
+        "seasons": [
+          "2022–23",
+          "2023–24",
+          "2024–25",
+          "2025–26"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Glasgow_Warriors&oldid=1377069988"
+      },
+      {
+        "competition": "Scottish Inter-District Championship",
+        "count": 1,
+        "seasons": [
+          "1999–2000"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Glasgow_Warriors&oldid=1377069988"
+      },
+      {
+        "competition": "1872 Cup",
+        "count": 12,
+        "seasons": [
+          "2007–08",
+          "2009–10",
+          "2010–11",
+          "2011–12",
+          "2012–13",
+          "2013–14",
+          "2016–17",
+          "2020–21",
+          "2022–23",
+          "2023–24",
+          "2024–25",
+          "2025-26"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Glasgow_Warriors&oldid=1377069988"
+      }
+    ],
+    "field_sources": {
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Glasgow_Warriors&oldid=1377069988",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Glasgow_Warriors&oldid=1377069988"
+    }
   },
   {
     "id": "leinster",
@@ -598,9 +836,18 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/leinster/squad",
     "scraped_at": "2026-09-28T09:53:02+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Dublin, Ireland",
+    "home_stadiums": [
+      {
+        "name": "RDS Arena",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Leinster_Rugby&oldid=1373331551"
+      },
+      {
+        "name": "Aviva Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Leinster_Rugby&oldid=1373331551"
+      }
+    ],
+    "founded": 1879,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -670,7 +917,109 @@
       "ar_charlie-molony",
       "ar_hugo-mclaughlin",
       "ar_ruben-moloney"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "European Rugby Champions Cup",
+        "count": 4,
+        "seasons": [
+          "2008–09",
+          "2010–11",
+          "2011–12",
+          "2017–18"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Leinster_Rugby&oldid=1373331551"
+      },
+      {
+        "competition": "European Rugby Challenge Cup",
+        "count": 1,
+        "seasons": [
+          "2012–13"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Leinster_Rugby&oldid=1373331551"
+      },
+      {
+        "competition": "United Rugby Championship",
+        "count": 10,
+        "seasons": [
+          "2001–02",
+          "2007–08",
+          "2012–13",
+          "2013–14",
+          "2017–18",
+          "2018–19",
+          "2019–20",
+          "2020–21",
+          "2024–25",
+          "2025–26"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Leinster_Rugby&oldid=1373331551"
+      },
+      {
+        "competition": "URC Irish Shield",
+        "count": 5,
+        "seasons": [
+          "2021–22",
+          "2022–23",
+          "2023–24",
+          "2024–25",
+          "2025–26"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Leinster_Rugby&oldid=1373331551"
+      },
+      {
+        "competition": "Irish Inter-Provincial Championship",
+        "count": 22,
+        "seasons": [
+          "1949",
+          "1950",
+          "1955",
+          "1957",
+          "1959",
+          "1961",
+          "1962",
+          "1964",
+          "1965",
+          "1972",
+          "1973",
+          "1976",
+          "1978",
+          "1980",
+          "1981",
+          "1982",
+          "1983",
+          "1984",
+          "1994",
+          "1996",
+          "1998",
+          "2002"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Leinster_Rugby&oldid=1373331551"
+      },
+      {
+        "competition": "Celtic Cup",
+        "count": 2,
+        "seasons": [
+          "2018–19",
+          "2019–20"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Leinster_Rugby&oldid=1373331551"
+      },
+      {
+        "competition": "British & Irish Cup",
+        "count": 2,
+        "seasons": [
+          "2012–13",
+          "2013–14"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Leinster_Rugby&oldid=1373331551"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Leinster_Rugby&oldid=1373331551",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Leinster_Rugby&oldid=1373331551",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Leinster_Rugby&oldid=1373331551"
+    }
   },
   {
     "id": "lions",
@@ -679,9 +1028,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/lions/squad",
     "scraped_at": "2026-09-28T09:45:48+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Johannesburg, South Africa",
+    "home_stadiums": [
+      {
+        "name": "Ellis Park Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Lions_%28United_Rugby_Championship%29&oldid=1376821547"
+      }
+    ],
+    "founded": 1889,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -743,7 +1097,44 @@
       "ar_jd-hattingh",
       "ar_luke-cannon",
       "ar_alzeadon-felix"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Currie Cup Premier Division",
+        "count": 11,
+        "seasons": [
+          "1922",
+          "1939",
+          "1950",
+          "1952",
+          "1971",
+          "1972",
+          "1993",
+          "1994",
+          "1999",
+          "2011",
+          "2015"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Lions_%28United_Rugby_Championship%29&oldid=1376821547"
+      },
+      {
+        "competition": "Vodacom Cup",
+        "count": 5,
+        "seasons": [
+          "1999",
+          "2002",
+          "2003",
+          "2004",
+          "2013"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Lions_%28United_Rugby_Championship%29&oldid=1376821547"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Lions_%28United_Rugby_Championship%29&oldid=1376821547",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Lions_%28United_Rugby_Championship%29&oldid=1376821547",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Lions_%28United_Rugby_Championship%29&oldid=1376821547"
+    }
   },
   {
     "id": "munster",
@@ -752,9 +1143,18 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/munster/squad",
     "scraped_at": "2026-09-28T09:57:27+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Limerick and Cork, Ireland",
+    "home_stadiums": [
+      {
+        "name": "Thomond Park",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Munster_Rugby&oldid=1377727157"
+      },
+      {
+        "name": "Musgrave Park",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Munster_Rugby&oldid=1377727157"
+      }
+    ],
+    "founded": 1879,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -819,7 +1219,89 @@
       "ar_gordon-wood",
       "ar_james-o-leary",
       "ar_robert-carney"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "European Rugby Champions Cup",
+        "count": 2,
+        "seasons": [
+          "2005–06",
+          "2007–08"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Munster_Rugby&oldid=1377727157"
+      },
+      {
+        "competition": "United Rugby Championship",
+        "count": 4,
+        "seasons": [
+          "2002–03",
+          "2008–09",
+          "2010–11",
+          "2022–23"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Munster_Rugby&oldid=1377727157"
+      },
+      {
+        "competition": "British & Irish Cup",
+        "count": 2,
+        "seasons": [
+          "2011–12",
+          "2016–17"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Munster_Rugby&oldid=1377727157"
+      },
+      {
+        "competition": "Celtic Cup",
+        "count": 1,
+        "seasons": [
+          "2004–05"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Munster_Rugby&oldid=1377727157"
+      },
+      {
+        "competition": "IRFU Interprovincial Championship",
+        "count": 22,
+        "seasons": [
+          "1947–48",
+          "1952–53",
+          "1954–55",
+          "1957–58",
+          "1959–60",
+          "1962–63",
+          "1965–66",
+          "1966–67",
+          "1968–69",
+          "1972–73",
+          "1973–74",
+          "1975–76",
+          "1977–78",
+          "1978–79",
+          "1982–83",
+          "1987–88",
+          "1993–94",
+          "1994–95",
+          "1996–97",
+          "1998–99",
+          "1999–2000",
+          "2000–01"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Munster_Rugby&oldid=1377727157"
+      },
+      {
+        "competition": "Setanta Challenge Cup",
+        "count": 2,
+        "seasons": [
+          "2007",
+          "2008"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Munster_Rugby&oldid=1377727157"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Munster_Rugby&oldid=1377727157",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Munster_Rugby&oldid=1377727157",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Munster_Rugby&oldid=1377727157"
+    }
   },
   {
     "id": "ospreys",
@@ -828,9 +1310,9 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/ospreys/squad",
     "scraped_at": "2026-09-28T10:01:43+09:00",
-    "home_area": null,
+    "home_area": "Swansea, Wales",
     "home_stadiums": [],
-    "founded": null,
+    "founded": 2003,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -888,7 +1370,43 @@
       "ar_jack-hoskins",
       "ar_lewis-edwards",
       "ar_ben-evans-"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Celtic League/Pro12/United Rugby Championship",
+        "count": 4,
+        "seasons": [
+          "2004–05",
+          "2006–07",
+          "2009–10",
+          "2011–12"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Ospreys_%28rugby_union%29&oldid=1378208295"
+      },
+      {
+        "competition": "United Rugby Championship Welsh Shield",
+        "count": 3,
+        "seasons": [
+          "2021–22",
+          "2023–24",
+          "2025–26"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Ospreys_%28rugby_union%29&oldid=1378208295"
+      },
+      {
+        "competition": "Anglo-Welsh Cup",
+        "count": 1,
+        "seasons": [
+          "2007–08"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Ospreys_%28rugby_union%29&oldid=1378208295"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Ospreys_%28rugby_union%29&oldid=1378208295",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Ospreys_%28rugby_union%29&oldid=1378208295",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Ospreys_%28rugby_union%29&oldid=1378208295"
+    }
   },
   {
     "id": "scarlets",
@@ -897,9 +1415,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/scarlets/squad",
     "scraped_at": "2026-09-28T09:59:45+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Llanelli, Wales",
+    "home_stadiums": [
+      {
+        "name": "Parc y Scarlets",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Scarlets&oldid=1377217251"
+      }
+    ],
+    "founded": 2003,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -968,7 +1491,23 @@
       "ar_thomas-williams",
       "ar_iori-badham",
       "ar_sion-jones"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Celtic League/Pro12/Pro14",
+        "count": 2,
+        "seasons": [
+          "2003–04",
+          "2016–17"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Scarlets&oldid=1377217251"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Scarlets&oldid=1377217251",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Scarlets&oldid=1377217251",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Scarlets&oldid=1377217251"
+    }
   },
   {
     "id": "sharks",
@@ -977,9 +1516,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/sharks/squad",
     "scraped_at": "2026-09-28T09:33:51+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Durban, KwaZulu-Natal, South Africa",
+    "home_stadiums": [
+      {
+        "name": "Kings Park Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Sharks_%28rugby_union%29&oldid=1376811491"
+      }
+    ],
+    "founded": 1890,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -1061,7 +1605,38 @@
       "ar_mihlali-mosi",
       "ar_luan-giliomee",
       "ar_zekethelo-siyaya"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Currie Cup",
+        "count": 9,
+        "seasons": [
+          "1990",
+          "1992",
+          "1995",
+          "1996",
+          "2008",
+          "2010",
+          "2013",
+          "2018",
+          "2024"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Sharks_%28rugby_union%29&oldid=1376811491"
+      },
+      {
+        "competition": "EPCR Challenge Cup",
+        "count": 1,
+        "seasons": [
+          "2023/24"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Sharks_%28rugby_union%29&oldid=1376811491"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Sharks_%28rugby_union%29&oldid=1376811491",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Sharks_%28rugby_union%29&oldid=1376811491",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Sharks_%28rugby_union%29&oldid=1376811491"
+    }
   },
   {
     "id": "stormers",
@@ -1070,9 +1645,18 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/stormers/squad",
     "scraped_at": "2026-09-28T09:35:56+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Cape Town, South Africa",
+    "home_stadiums": [
+      {
+        "name": "DHL Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Stormers&oldid=1377879362"
+      },
+      {
+        "name": "Danie Craven Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Stormers&oldid=1377879362"
+      }
+    ],
+    "founded": 1883,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -1134,7 +1718,43 @@
       "ar_gino-cupido",
       "ar_markus-muller",
       "ar_jc-mars"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "South African Conference",
+        "count": 5,
+        "seasons": [
+          "2011",
+          "2012",
+          "2015",
+          "2016",
+          "2017"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Stormers&oldid=1377879362"
+      },
+      {
+        "competition": "URC (2021–present)",
+        "count": 1,
+        "seasons": [
+          "2021-2022"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Stormers&oldid=1377879362"
+      },
+      {
+        "competition": "URC South African Shield",
+        "count": 2,
+        "seasons": [
+          "2021-2022",
+          "2022-2023"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Stormers&oldid=1377879362"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Stormers&oldid=1377879362",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Stormers&oldid=1377879362",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Stormers&oldid=1377879362"
+    }
   },
   {
     "id": "ulster",
@@ -1143,9 +1763,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/ulster/squad",
     "scraped_at": "2026-09-28T09:55:14+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Belfast, Northern Ireland",
+    "home_stadiums": [
+      {
+        "name": "Ravenhill Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Ulster_Rugby&oldid=1378626376"
+      }
+    ],
+    "founded": 1879,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -1211,7 +1836,71 @@
       "ar_josh-gibson",
       "ar_daniel-green",
       "ar_jed-findlay"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "European Rugby Champions Cup",
+        "count": 1,
+        "seasons": [
+          "1998–99"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Ulster_Rugby&oldid=1378626376"
+      },
+      {
+        "competition": "United Rugby Championship",
+        "count": 1,
+        "seasons": [
+          "2005–06"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Ulster_Rugby&oldid=1378626376"
+      },
+      {
+        "competition": "Celtic Cup",
+        "count": 1,
+        "seasons": [
+          "2003–04"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Ulster_Rugby&oldid=1378626376"
+      },
+      {
+        "competition": "Irish Inter-Provincial Championships",
+        "count": 26,
+        "seasons": [
+          "1946–47",
+          "1950–51",
+          "1951–52",
+          "1953–54",
+          "1955–56",
+          "1956–57",
+          "1966–67",
+          "1967–68",
+          "1969–70",
+          "1970–71",
+          "1972–73",
+          "1974–75",
+          "1975–76",
+          "1976–77",
+          "1977–78",
+          "1982–83",
+          "1984–85",
+          "1985–86",
+          "1986–87",
+          "1987–88",
+          "1988–89",
+          "1989–90",
+          "1990–91",
+          "1991–92",
+          "1992–93",
+          "1993–94"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Ulster_Rugby&oldid=1378626376"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Ulster_Rugby&oldid=1378626376",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Ulster_Rugby&oldid=1378626376",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Ulster_Rugby&oldid=1378626376"
+    }
   },
   {
     "id": "zebre",
@@ -1220,8 +1909,13 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/zebre/squad",
     "scraped_at": "2026-09-28T10:05:23+09:00",
-    "home_area": null,
-    "home_stadiums": [],
+    "home_area": "Parma, Italy",
+    "home_stadiums": [
+      {
+        "name": "Stadio Sergio Lanfranchi",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Zebre_Parma&oldid=1378187940"
+      }
+    ],
     "founded": null,
     "colors": {},
     "official_url": null,
@@ -1271,6 +1965,10 @@
       "ar_mirko-belloni",
       "ar_simone-gesi",
       "ar_lorenzo-pani"
-    ]
+    ],
+    "titles": [],
+    "field_sources": {
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Zebre_Parma&oldid=1378187940"
+    }
   }
 ]

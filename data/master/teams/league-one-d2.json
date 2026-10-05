@@ -8,7 +8,7 @@
     "scraped_at": "2026-09-28T09:14:25+09:00",
     "home_area": "千葉県我孫子市、柏市、松戸市、流山市、野田市、鎌ケ谷市、白井市、印西市",
     "home_stadiums": [],
-    "founded": null,
+    "founded": 1985,
     "colors": {},
     "official_url": "https://www.jreast.co.jp/greenwarriors/",
     "roster_mode": "full",
@@ -59,7 +59,39 @@
       "lo_483567",
       "lo_485129",
       "lo_483528"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "日本選手権",
+        "count": 3,
+        "seasons": [
+          "2002",
+          "2004",
+          "2005"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=JR%E6%9D%B1%E6%97%A5%E6%9C%AC%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A6%E3%82%A9%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%BA%E6%9D%B1%E8%91%9B&oldid=111232073"
+      },
+      {
+        "competition": "国体",
+        "count": 1,
+        "seasons": [
+          "1998"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=JR%E6%9D%B1%E6%97%A5%E6%9C%AC%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A6%E3%82%A9%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%BA%E6%9D%B1%E8%91%9B&oldid=111232073"
+      },
+      {
+        "competition": "マイクロソフトカップ",
+        "count": 1,
+        "seasons": [
+          "2003"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=JR%E6%9D%B1%E6%97%A5%E6%9C%AC%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A6%E3%82%A9%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%BA%E6%9D%B1%E8%91%9B&oldid=111232073"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://ja.wikipedia.org/w/index.php?title=JR%E6%9D%B1%E6%97%A5%E6%9C%AC%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A6%E3%82%A9%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%BA%E6%9D%B1%E8%91%9B&oldid=111232073",
+      "titles": "https://ja.wikipedia.org/w/index.php?title=JR%E6%9D%B1%E6%97%A5%E6%9C%AC%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A6%E3%82%A9%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%BA%E6%9D%B1%E8%91%9B&oldid=111232073"
+    }
   },
   {
     "id": "lo_team_110",
@@ -69,8 +101,17 @@
     "source_url": "https://league-one.jp/team/110",
     "scraped_at": "2026-09-28T09:14:25+09:00",
     "home_area": "福岡市",
-    "home_stadiums": [],
-    "founded": null,
+    "home_stadiums": [
+      {
+        "name": "東平尾公園博多の森陸上競技場",
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E4%B9%9D%E5%B7%9E%E9%9B%BB%E5%8A%9B%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%87%E3%83%B3%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%86%E3%82%AF%E3%82%B9&oldid=110961104"
+      },
+      {
+        "name": "駅前不動産スタジアム",
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E4%B9%9D%E5%B7%9E%E9%9B%BB%E5%8A%9B%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%87%E3%83%B3%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%86%E3%82%AF%E3%82%B9&oldid=110961104"
+      }
+    ],
+    "founded": 1951,
     "colors": {},
     "official_url": "https://www.kyudenvoltex.com/",
     "roster_mode": "full",
@@ -132,7 +173,48 @@
       "lo_483701",
       "lo_483717",
       "lo_483726"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "全国社会人大会",
+        "count": 1,
+        "seasons": [
+          "1953"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E4%B9%9D%E5%B7%9E%E9%9B%BB%E5%8A%9B%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%87%E3%83%B3%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%86%E3%82%AF%E3%82%B9&oldid=110961104"
+      },
+      {
+        "competition": "西日本社会人リーグ",
+        "count": 7,
+        "seasons": [
+          "1981",
+          "1982",
+          "1984",
+          "1987",
+          "1988",
+          "1989",
+          "1990"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E4%B9%9D%E5%B7%9E%E9%9B%BB%E5%8A%9B%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%87%E3%83%B3%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%86%E3%82%AF%E3%82%B9&oldid=110961104"
+      },
+      {
+        "competition": "トップキュウシュウA",
+        "count": 6,
+        "seasons": [
+          "2005",
+          "2006",
+          "2010",
+          "2011",
+          "2014",
+          "2016"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E4%B9%9D%E5%B7%9E%E9%9B%BB%E5%8A%9B%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%87%E3%83%B3%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%86%E3%82%AF%E3%82%B9&oldid=110961104"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://ja.wikipedia.org/w/index.php?title=%E4%B9%9D%E5%B7%9E%E9%9B%BB%E5%8A%9B%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%87%E3%83%B3%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%86%E3%82%AF%E3%82%B9&oldid=110961104",
+      "titles": "https://ja.wikipedia.org/w/index.php?title=%E4%B9%9D%E5%B7%9E%E9%9B%BB%E5%8A%9B%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%87%E3%83%B3%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%86%E3%82%AF%E3%82%B9&oldid=110961104"
+    }
   },
   {
     "id": "lo_team_111",
@@ -142,8 +224,13 @@
     "source_url": "https://league-one.jp/team/111",
     "scraped_at": "2026-09-28T09:14:25+09:00",
     "home_area": "東京都江東区",
-    "home_stadiums": [],
-    "founded": null,
+    "home_stadiums": [
+      {
+        "name": "江東区夢の島陸上競技場",
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E6%B8%85%E6%B0%B4%E5%BB%BA%E8%A8%AD%E6%B1%9F%E6%9D%B1%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BC%E3%82%AF%E3%82%B9&oldid=111143751"
+      }
+    ],
+    "founded": 1976,
     "colors": {},
     "official_url": "https://blue-sharks.jp/",
     "roster_mode": "full",
@@ -208,7 +295,21 @@
       "lo_484206",
       "lo_484231",
       "lo_484232"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "トップイーストリーグDiv.1",
+        "count": 1,
+        "seasons": [
+          "2018"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E6%B8%85%E6%B0%B4%E5%BB%BA%E8%A8%AD%E6%B1%9F%E6%9D%B1%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BC%E3%82%AF%E3%82%B9&oldid=111143751"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://ja.wikipedia.org/w/index.php?title=%E6%B8%85%E6%B0%B4%E5%BB%BA%E8%A8%AD%E6%B1%9F%E6%9D%B1%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BC%E3%82%AF%E3%82%B9&oldid=111143751",
+      "titles": "https://ja.wikipedia.org/w/index.php?title=%E6%B8%85%E6%B0%B4%E5%BB%BA%E8%A8%AD%E6%B1%9F%E6%9D%B1%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BC%E3%82%AF%E3%82%B9&oldid=111143751"
+    }
   },
   {
     "id": "lo_team_112",
@@ -218,8 +319,17 @@
     "source_url": "https://league-one.jp/team/112",
     "scraped_at": "2026-09-28T09:14:25+09:00",
     "home_area": "愛知県",
-    "home_stadiums": [],
-    "founded": null,
+    "home_stadiums": [
+      {
+        "name": "パロマ瑞穂ラグビー場",
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E8%B1%8A%E7%94%B0%E8%87%AA%E5%8B%95%E7%B9%94%E6%A9%9F%E3%82%B7%E3%83%A3%E3%83%88%E3%83%AB%E3%82%BA%E6%84%9B%E7%9F%A5&oldid=111179612"
+      },
+      {
+        "name": "ウェーブスタジアム刈谷",
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E8%B1%8A%E7%94%B0%E8%87%AA%E5%8B%95%E7%B9%94%E6%A9%9F%E3%82%B7%E3%83%A3%E3%83%88%E3%83%AB%E3%82%BA%E6%84%9B%E7%9F%A5&oldid=111179612"
+      }
+    ],
+    "founded": 1984,
     "colors": {},
     "official_url": "https://shuttles-aichi.com/",
     "roster_mode": "full",
@@ -279,7 +389,49 @@
       "lo_484428",
       "lo_484394",
       "lo_484410"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "トップウェストA",
+        "count": 4,
+        "seasons": [
+          "2004",
+          "2009",
+          "2011",
+          "2012"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E8%B1%8A%E7%94%B0%E8%87%AA%E5%8B%95%E7%B9%94%E6%A9%9F%E3%82%B7%E3%83%A3%E3%83%88%E3%83%AB%E3%82%BA%E6%84%9B%E7%9F%A5&oldid=111179612"
+      },
+      {
+        "competition": "トップチャレンジリーグ (TCL)",
+        "count": 1,
+        "seasons": [
+          "2021"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E8%B1%8A%E7%94%B0%E8%87%AA%E5%8B%95%E7%B9%94%E6%A9%9F%E3%82%B7%E3%83%A3%E3%83%88%E3%83%AB%E3%82%BA%E6%84%9B%E7%9F%A5&oldid=111179612"
+      },
+      {
+        "competition": "ジャパンラグビーリーグワン ディビジョン2",
+        "count": 2,
+        "seasons": [
+          "2024-25",
+          "2025-26"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E8%B1%8A%E7%94%B0%E8%87%AA%E5%8B%95%E7%B9%94%E6%A9%9F%E3%82%B7%E3%83%A3%E3%83%88%E3%83%AB%E3%82%BA%E6%84%9B%E7%9F%A5&oldid=111179612"
+      },
+      {
+        "competition": "ジャパンラグビーリーグワン ディビジョン3",
+        "count": 1,
+        "seasons": [
+          "2022"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E8%B1%8A%E7%94%B0%E8%87%AA%E5%8B%95%E7%B9%94%E6%A9%9F%E3%82%B7%E3%83%A3%E3%83%88%E3%83%AB%E3%82%BA%E6%84%9B%E7%9F%A5&oldid=111179612"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://ja.wikipedia.org/w/index.php?title=%E8%B1%8A%E7%94%B0%E8%87%AA%E5%8B%95%E7%B9%94%E6%A9%9F%E3%82%B7%E3%83%A3%E3%83%88%E3%83%AB%E3%82%BA%E6%84%9B%E7%9F%A5&oldid=111179612",
+      "titles": "https://ja.wikipedia.org/w/index.php?title=%E8%B1%8A%E7%94%B0%E8%87%AA%E5%8B%95%E7%B9%94%E6%A9%9F%E3%82%B7%E3%83%A3%E3%83%88%E3%83%AB%E3%82%BA%E6%84%9B%E7%9F%A5&oldid=111179612"
+    }
   },
   {
     "id": "lo_team_113",
@@ -289,8 +441,25 @@
     "source_url": "https://league-one.jp/team/113",
     "scraped_at": "2026-09-28T09:14:25+09:00",
     "home_area": "釜石市、岩手県",
-    "home_stadiums": [],
-    "founded": null,
+    "home_stadiums": [
+      {
+        "name": "釜石鵜住居復興スタジアム",
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E9%87%9C%E7%9F%B3%E3%82%B7%E3%83%BC%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%96%E3%82%B9&oldid=110480360"
+      },
+      {
+        "name": "ハワイアンズスタジアムいわき",
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E9%87%9C%E7%9F%B3%E3%82%B7%E3%83%BC%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%96%E3%82%B9&oldid=110480360"
+      },
+      {
+        "name": "いわぎんスタジアム",
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E9%87%9C%E7%9F%B3%E3%82%B7%E3%83%BC%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%96%E3%82%B9&oldid=110480360"
+      },
+      {
+        "name": "サンディスクスタジアムきたかみ",
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E9%87%9C%E7%9F%B3%E3%82%B7%E3%83%BC%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%96%E3%82%B9&oldid=110480360"
+      }
+    ],
+    "founded": 2001,
     "colors": {},
     "official_url": "https://kamaishi-seawaves.com/",
     "roster_mode": "full",
@@ -343,7 +512,60 @@
       "lo_484515",
       "lo_484518",
       "lo_484519"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "日本選手権",
+        "count": 8,
+        "seasons": [
+          "1976",
+          "1978",
+          "1979",
+          "1980",
+          "1981",
+          "1982",
+          "1983",
+          "1984"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E9%87%9C%E7%9F%B3%E3%82%B7%E3%83%BC%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%96%E3%82%B9&oldid=110480360"
+      },
+      {
+        "competition": "全国社会人大会",
+        "count": 9,
+        "seasons": [
+          "1970",
+          "1976",
+          "1978",
+          "1979",
+          "1980",
+          "1981",
+          "1982",
+          "1983",
+          "1984"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E9%87%9C%E7%9F%B3%E3%82%B7%E3%83%BC%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%96%E3%82%B9&oldid=110480360"
+      },
+      {
+        "competition": "国体",
+        "count": 9,
+        "seasons": [
+          "1965",
+          "1967",
+          "1968",
+          "1971",
+          "1972",
+          "1973",
+          "1977",
+          "1979",
+          "1982"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E9%87%9C%E7%9F%B3%E3%82%B7%E3%83%BC%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%96%E3%82%B9&oldid=110480360"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E9%87%9C%E7%9F%B3%E3%82%B7%E3%83%BC%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%96%E3%82%B9&oldid=110480360",
+      "titles": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E9%87%9C%E7%9F%B3%E3%82%B7%E3%83%BC%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%96%E3%82%B9&oldid=110480360"
+    }
   },
   {
     "id": "lo_team_114",
@@ -353,8 +575,13 @@
     "source_url": "https://league-one.jp/team/114",
     "scraped_at": "2026-09-28T09:14:25+09:00",
     "home_area": "東大阪市、大阪府",
-    "home_stadiums": [],
-    "founded": null,
+    "home_stadiums": [
+      {
+        "name": "東大阪市花園ラグビー場",
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E8%8A%B1%E5%9C%92%E8%BF%91%E9%89%84%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%BA&oldid=109440795"
+      }
+    ],
+    "founded": 1929,
     "colors": {},
     "official_url": "https://hanazono-liners.jp/",
     "roster_mode": "full",
@@ -417,7 +644,88 @@
       "lo_484534",
       "lo_484552",
       "lo_493603"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "日本選手権",
+        "count": 3,
+        "seasons": [
+          "1966",
+          "1967",
+          "1974"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E8%8A%B1%E5%9C%92%E8%BF%91%E9%89%84%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%BA&oldid=109440795"
+      },
+      {
+        "competition": "全国社会人大会",
+        "count": 8,
+        "seasons": [
+          "1953",
+          "1956",
+          "1957",
+          "1961",
+          "1966",
+          "1967",
+          "1969",
+          "1974"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E8%8A%B1%E5%9C%92%E8%BF%91%E9%89%84%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%BA&oldid=109440795"
+      },
+      {
+        "competition": "関西社会人リーグ",
+        "count": 17,
+        "seasons": [
+          "1958",
+          "1959",
+          "1960",
+          "1961",
+          "1962",
+          "1963",
+          "1964",
+          "1965",
+          "1966",
+          "1967",
+          "1968",
+          "1971",
+          "1972",
+          "1973",
+          "1974",
+          "1977",
+          "1988"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E8%8A%B1%E5%9C%92%E8%BF%91%E9%89%84%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%BA&oldid=109440795"
+      },
+      {
+        "competition": "リーグワン DIVISION 2",
+        "count": 1,
+        "seasons": [
+          "2022"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E8%8A%B1%E5%9C%92%E8%BF%91%E9%89%84%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%BA&oldid=109440795"
+      },
+      {
+        "competition": "トップチャレンジリーグ",
+        "count": 1,
+        "seasons": [
+          "2019"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E8%8A%B1%E5%9C%92%E8%BF%91%E9%89%84%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%BA&oldid=109440795"
+      },
+      {
+        "competition": "トップウェストA",
+        "count": 3,
+        "seasons": [
+          "2005",
+          "2006",
+          "2007"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E8%8A%B1%E5%9C%92%E8%BF%91%E9%89%84%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%BA&oldid=109440795"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://ja.wikipedia.org/w/index.php?title=%E8%8A%B1%E5%9C%92%E8%BF%91%E9%89%84%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%BA&oldid=109440795",
+      "titles": "https://ja.wikipedia.org/w/index.php?title=%E8%8A%B1%E5%9C%92%E8%BF%91%E9%89%84%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%BA&oldid=109440795"
+    }
   },
   {
     "id": "lo_team_115",
@@ -427,8 +735,21 @@
     "source_url": "https://league-one.jp/team/115",
     "scraped_at": "2026-09-28T09:14:25+09:00",
     "home_area": "東京都日野市、八王子市および周辺地域",
-    "home_stadiums": [],
-    "founded": null,
+    "home_stadiums": [
+      {
+        "name": "太田市運動公園陸上競技場",
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E9%87%8E%E3%83%AC%E3%83%83%E3%83%89%E3%83%89%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3%E3%82%BA&oldid=108969827"
+      },
+      {
+        "name": "AGFフィールド",
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E9%87%8E%E3%83%AC%E3%83%83%E3%83%89%E3%83%89%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3%E3%82%BA&oldid=108969827"
+      },
+      {
+        "name": "上柚木公園陸上競技場",
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E9%87%8E%E3%83%AC%E3%83%83%E3%83%89%E3%83%89%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3%E3%82%BA&oldid=108969827"
+      }
+    ],
+    "founded": 1950,
     "colors": {},
     "official_url": "https://hino-reddolphins.com/",
     "roster_mode": "full",
@@ -488,7 +809,30 @@
       "lo_484601",
       "lo_484608",
       "lo_493741"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "関東社会人リーグ・春季リーグ",
+        "count": 1,
+        "seasons": [
+          "1961"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E9%87%8E%E3%83%AC%E3%83%83%E3%83%89%E3%83%89%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3%E3%82%BA&oldid=108969827"
+      },
+      {
+        "competition": "関東社会人リーグ・秋季トーナメント",
+        "count": 2,
+        "seasons": [
+          "1963",
+          "1964"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E9%87%8E%E3%83%AC%E3%83%83%E3%83%89%E3%83%89%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3%E3%82%BA&oldid=108969827"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E9%87%8E%E3%83%AC%E3%83%83%E3%83%89%E3%83%89%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3%E3%82%BA&oldid=108969827",
+      "titles": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E9%87%8E%E3%83%AC%E3%83%83%E3%83%89%E3%83%89%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3%E3%82%BA&oldid=108969827"
+    }
   },
   {
     "id": "lo_team_116",
@@ -498,8 +842,17 @@
     "source_url": "https://league-one.jp/team/116",
     "scraped_at": "2026-09-28T09:14:25+09:00",
     "home_area": "大阪府大阪市",
-    "home_stadiums": [],
-    "founded": null,
+    "home_stadiums": [
+      {
+        "name": "ヤンマースタジアム長居",
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E3%83%AC%E3%83%83%E3%83%89%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%BA%E5%A4%A7%E9%98%AA&oldid=109188787"
+      },
+      {
+        "name": "YANMAR HANASAKA STADIUM",
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E3%83%AC%E3%83%83%E3%83%89%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%BA%E5%A4%A7%E9%98%AA&oldid=109188787"
+      }
+    ],
+    "founded": 1993,
     "colors": {},
     "official_url": "https://docomo-rugby.jp/",
     "roster_mode": "full",
@@ -564,6 +917,37 @@
       "lo_484996",
       "lo_485001",
       "lo_485026"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "トップチャレンジリーグ",
+        "count": 1,
+        "seasons": [
+          "2018"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E3%83%AC%E3%83%83%E3%83%89%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%BA%E5%A4%A7%E9%98%AA&oldid=109188787"
+      },
+      {
+        "competition": "トップウェストA",
+        "count": 2,
+        "seasons": [
+          "2010",
+          "2016"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E3%83%AC%E3%83%83%E3%83%89%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%BA%E5%A4%A7%E9%98%AA&oldid=109188787"
+      },
+      {
+        "competition": "ジャパンラグビーリーグワン DIVISION3",
+        "count": 1,
+        "seasons": [
+          "2022-23"
+        ],
+        "source_url": "https://ja.wikipedia.org/w/index.php?title=%E3%83%AC%E3%83%83%E3%83%89%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%BA%E5%A4%A7%E9%98%AA&oldid=109188787"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://ja.wikipedia.org/w/index.php?title=%E3%83%AC%E3%83%83%E3%83%89%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%BA%E5%A4%A7%E9%98%AA&oldid=109188787",
+      "titles": "https://ja.wikipedia.org/w/index.php?title=%E3%83%AC%E3%83%83%E3%83%89%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%BA%E5%A4%A7%E9%98%AA&oldid=109188787"
+    }
   }
 ]

@@ -6,9 +6,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/bayonne/squad",
     "scraped_at": "2026-09-28T09:27:23+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Bayonne, France",
+    "home_stadiums": [
+      {
+        "name": "Stade Jean-Dauger",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Aviron_Bayonnais&oldid=1377688810"
+      }
+    ],
+    "founded": 1906,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -96,7 +101,42 @@
       "ar_arthur-crepin-leblond",
       "ar_jacques-nguimbous",
       "ar_telmo-fisher-obieta"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "French championship Top 14",
+        "count": 3,
+        "seasons": [
+          "1913",
+          "1934",
+          "1943"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Aviron_Bayonnais&oldid=1377688810"
+      },
+      {
+        "competition": "Pro D2",
+        "count": 2,
+        "seasons": [
+          "2019",
+          "2022"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Aviron_Bayonnais&oldid=1377688810"
+      },
+      {
+        "competition": "Challenge Yves du Manoir",
+        "count": 2,
+        "seasons": [
+          "1936",
+          "1980"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Aviron_Bayonnais&oldid=1377688810"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Aviron_Bayonnais&oldid=1377688810",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Aviron_Bayonnais&oldid=1377688810",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Aviron_Bayonnais&oldid=1377688810"
+    }
   },
   {
     "id": "bordeaux",
@@ -105,9 +145,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/bordeaux/squad",
     "scraped_at": "2026-09-28T09:27:11+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Bordeaux, France",
+    "home_stadiums": [
+      {
+        "name": "Stade Chaban-Delmas",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Union_Bordeaux_B%C3%A8gles&oldid=1376729164"
+      }
+    ],
+    "founded": 2006,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -201,7 +246,23 @@
       "ar_johan-janiec",
       "ar_thomas-baronnet",
       "ar_tom-larrey"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "European Rugby Champions Cup",
+        "count": 2,
+        "seasons": [
+          "2025",
+          "2026"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Union_Bordeaux_B%C3%A8gles&oldid=1376729164"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Union_Bordeaux_B%C3%A8gles&oldid=1376729164",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Union_Bordeaux_B%C3%A8gles&oldid=1376729164",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Union_Bordeaux_B%C3%A8gles&oldid=1376729164"
+    }
   },
   {
     "id": "castres",
@@ -210,9 +271,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/castres/squad",
     "scraped_at": "2026-09-28T09:27:19+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Castres, France",
+    "home_stadiums": [
+      {
+        "name": "Stade Pierre-Fabre",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Castres_Olympique&oldid=1363946804"
+      }
+    ],
+    "founded": 1906,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -305,7 +371,50 @@
       "ar_lorenzo-laouna",
       "ar_axel-neth",
       "ar_mathys-falguera"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "French championship Top 14",
+        "count": 5,
+        "seasons": [
+          "1949",
+          "1950",
+          "1993",
+          "2013",
+          "2018"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Castres_Olympique&oldid=1363946804"
+      },
+      {
+        "competition": "European Shield",
+        "count": 1,
+        "seasons": [
+          "2003"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Castres_Olympique&oldid=1363946804"
+      },
+      {
+        "competition": "French Cup",
+        "count": 1,
+        "seasons": [
+          "1948"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Castres_Olympique&oldid=1363946804"
+      },
+      {
+        "competition": "Group B French Champions",
+        "count": 1,
+        "seasons": [
+          "1989"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Castres_Olympique&oldid=1363946804"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Castres_Olympique&oldid=1363946804",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Castres_Olympique&oldid=1363946804",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Castres_Olympique&oldid=1363946804"
+    }
   },
   {
     "id": "clermont",
@@ -314,9 +423,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/clermont/squad",
     "scraped_at": "2026-09-28T09:27:15+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Clermont-Ferrand, France",
+    "home_stadiums": [
+      {
+        "name": "Stade Marcel-Michelin",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=ASM_Clermont_Auvergne&oldid=1373244897"
+      }
+    ],
+    "founded": 1911,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -411,7 +525,51 @@
       "ar_mael-berger",
       "ar_sacha-leroy",
       "ar_tom-savinel"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "European Rugby Challenge Cup",
+        "count": 3,
+        "seasons": [
+          "1999",
+          "2007",
+          "2019"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=ASM_Clermont_Auvergne&oldid=1373244897"
+      },
+      {
+        "competition": "French championship Top 14",
+        "count": 2,
+        "seasons": [
+          "2010",
+          "2017"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=ASM_Clermont_Auvergne&oldid=1373244897"
+      },
+      {
+        "competition": "Challenge Yves du Manoir",
+        "count": 3,
+        "seasons": [
+          "1938",
+          "1976",
+          "1986"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=ASM_Clermont_Auvergne&oldid=1373244897"
+      },
+      {
+        "competition": "League Cup",
+        "count": 1,
+        "seasons": [
+          "2001"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=ASM_Clermont_Auvergne&oldid=1373244897"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=ASM_Clermont_Auvergne&oldid=1373244897",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=ASM_Clermont_Auvergne&oldid=1373244897",
+      "titles": "https://en.wikipedia.org/w/index.php?title=ASM_Clermont_Auvergne&oldid=1373244897"
+    }
   },
   {
     "id": "la-rochelle",
@@ -420,9 +578,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/la-rochelle/squad",
     "scraped_at": "2026-09-28T09:27:06+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "La Rochelle, France",
+    "home_stadiums": [
+      {
+        "name": "Stade Marcel-Deflandre",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Stade_Rochelais&oldid=1376510075"
+      }
+    ],
+    "founded": 1898,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -538,7 +701,32 @@
       "ar_jessy-taofifenua",
       "ar_mark-grindlay",
       "ar_martin-betsen"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "European Rugby Champions Cup",
+        "count": 2,
+        "seasons": [
+          "2022",
+          "2023"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Stade_Rochelais&oldid=1376510075"
+      },
+      {
+        "competition": "League Cup",
+        "count": 2,
+        "seasons": [
+          "2002",
+          "2003"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Stade_Rochelais&oldid=1376510075"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Stade_Rochelais&oldid=1376510075",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Stade_Rochelais&oldid=1376510075",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Stade_Rochelais&oldid=1376510075"
+    }
   },
   {
     "id": "lyon",
@@ -547,9 +735,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/lyon/squad",
     "scraped_at": "2026-09-28T09:27:04+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Lyon, France",
+    "home_stadiums": [
+      {
+        "name": "Stade de Gerland",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Lyon_OU_Rugby&oldid=1365845962"
+      }
+    ],
+    "founded": 1896,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -633,7 +826,66 @@
       "ar_gabin-lacoste",
       "ar_jerry-suveinaika",
       "ar_luka-khorbaladze"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "European Rugby Challenge Cup",
+        "count": 1,
+        "seasons": [
+          "2022"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Lyon_OU_Rugby&oldid=1365845962"
+      },
+      {
+        "competition": "French championship Top 14",
+        "count": 2,
+        "seasons": [
+          "1932",
+          "1933"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Lyon_OU_Rugby&oldid=1365845962"
+      },
+      {
+        "competition": "Pro D2",
+        "count": 3,
+        "seasons": [
+          "2011",
+          "2014",
+          "2016"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Lyon_OU_Rugby&oldid=1365845962"
+      },
+      {
+        "competition": "Challenge Yves du Manoir",
+        "count": 1,
+        "seasons": [
+          "1933"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Lyon_OU_Rugby&oldid=1365845962"
+      },
+      {
+        "competition": "Fédérale 1",
+        "count": 1,
+        "seasons": [
+          "2002"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Lyon_OU_Rugby&oldid=1365845962"
+      },
+      {
+        "competition": "Deuxième Division",
+        "count": 2,
+        "seasons": [
+          "1989",
+          "1992"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Lyon_OU_Rugby&oldid=1365845962"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Lyon_OU_Rugby&oldid=1365845962",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Lyon_OU_Rugby&oldid=1365845962",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Lyon_OU_Rugby&oldid=1365845962"
+    }
   },
   {
     "id": "montpellier",
@@ -642,9 +894,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/montpellier/squad",
     "scraped_at": "2026-09-28T09:27:17+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Montpellier, France",
+    "home_stadiums": [
+      {
+        "name": "Septeo Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Montpellier_H%C3%A9rault_Rugby&oldid=1369856445"
+      }
+    ],
+    "founded": 1986,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -725,7 +982,48 @@
       "ar_matt-lefeuvre",
       "ar_rupeni-junior-caucaunibuca",
       "ar_sacha-codorniou"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "French championship Top 14",
+        "count": 1,
+        "seasons": [
+          "2022"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Montpellier_H%C3%A9rault_Rugby&oldid=1369856445"
+      },
+      {
+        "competition": "European Rugby Challenge Cup",
+        "count": 3,
+        "seasons": [
+          "2016",
+          "2021",
+          "2026"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Montpellier_H%C3%A9rault_Rugby&oldid=1369856445"
+      },
+      {
+        "competition": "European Shield",
+        "count": 1,
+        "seasons": [
+          "2004"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Montpellier_H%C3%A9rault_Rugby&oldid=1369856445"
+      },
+      {
+        "competition": "Pro D2",
+        "count": 1,
+        "seasons": [
+          "2003"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Montpellier_H%C3%A9rault_Rugby&oldid=1369856445"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Montpellier_H%C3%A9rault_Rugby&oldid=1369856445",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Montpellier_H%C3%A9rault_Rugby&oldid=1369856445",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Montpellier_H%C3%A9rault_Rugby&oldid=1369856445"
+    }
   },
   {
     "id": "paris",
@@ -734,8 +1032,13 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/paris/squad",
     "scraped_at": "2026-09-28T09:27:21+09:00",
-    "home_area": null,
-    "home_stadiums": [],
+    "home_area": "Paris, France",
+    "home_stadiums": [
+      {
+        "name": "Stade Jean-Bouin",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Stade_Fran%C3%A7ais&oldid=1376523092"
+      }
+    ],
     "founded": null,
     "colors": {},
     "official_url": null,
@@ -813,7 +1116,50 @@
       "ar_aporosa-lalabalavu",
       "ar_yannick-lodjro",
       "ar_edward-jumatate"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "French championship Top 14",
+        "count": 14,
+        "seasons": [
+          "1893",
+          "1894",
+          "1895",
+          "1897",
+          "1898",
+          "1901",
+          "1903",
+          "1908",
+          "1998",
+          "2000",
+          "2003",
+          "2004",
+          "2007",
+          "2015"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Stade_Fran%C3%A7ais&oldid=1376523092"
+      },
+      {
+        "competition": "European Rugby Challenge Cup",
+        "count": 1,
+        "seasons": [
+          "2017"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Stade_Fran%C3%A7ais&oldid=1376523092"
+      },
+      {
+        "competition": "French Cup",
+        "count": 1,
+        "seasons": [
+          "1999"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Stade_Fran%C3%A7ais&oldid=1376523092"
+      }
+    ],
+    "field_sources": {
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Stade_Fran%C3%A7ais&oldid=1376523092",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Stade_Fran%C3%A7ais&oldid=1376523092"
+    }
   },
   {
     "id": "pau",
@@ -822,9 +1168,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/pau/squad",
     "scraped_at": "2026-09-28T09:27:02+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Pau, France",
+    "home_stadiums": [
+      {
+        "name": "Stade du Hameau",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Section_Paloise&oldid=1360071946"
+      }
+    ],
+    "founded": 1902,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -938,7 +1289,57 @@
       "ar_jules-martin-bonnard",
       "ar_valentin-bourges",
       "ar_joachim-senga"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "French championship Top 14",
+        "count": 3,
+        "seasons": [
+          "1928",
+          "1946",
+          "1964"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Section_Paloise&oldid=1360071946"
+      },
+      {
+        "competition": "European Rugby Challenge Cup",
+        "count": 1,
+        "seasons": [
+          "2000"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Section_Paloise&oldid=1360071946"
+      },
+      {
+        "competition": "Pro D2",
+        "count": 1,
+        "seasons": [
+          "2015"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Section_Paloise&oldid=1360071946"
+      },
+      {
+        "competition": "Challenge Yves du Manoir",
+        "count": 2,
+        "seasons": [
+          "1939",
+          "1952"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Section_Paloise&oldid=1360071946"
+      },
+      {
+        "competition": "French Cup",
+        "count": 1,
+        "seasons": [
+          "1997"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Section_Paloise&oldid=1360071946"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Section_Paloise&oldid=1360071946",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Section_Paloise&oldid=1360071946",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Section_Paloise&oldid=1360071946"
+    }
   },
   {
     "id": "perpignan",
@@ -947,8 +1348,13 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/perpignan/squad",
     "scraped_at": "2026-09-28T09:27:13+09:00",
-    "home_area": null,
-    "home_stadiums": [],
+    "home_area": "Perpignan, France",
+    "home_stadiums": [
+      {
+        "name": "Stade Aimé Giral",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=USA_Perpignan&oldid=1352181663"
+      }
+    ],
     "founded": null,
     "colors": {},
     "official_url": null,
@@ -1028,7 +1434,43 @@
       "ar_setareki-toganiyadrava",
       "ar_simon-sol",
       "ar_charles-salikikoro"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "French championship Top 14",
+        "count": 4,
+        "seasons": [
+          "1938",
+          "1944",
+          "1955",
+          "2009"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=USA_Perpignan&oldid=1352181663"
+      },
+      {
+        "competition": "Challenge Yves du Manoir",
+        "count": 3,
+        "seasons": [
+          "1935",
+          "1955",
+          "1994"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=USA_Perpignan&oldid=1352181663"
+      },
+      {
+        "competition": "Pro D2",
+        "count": 2,
+        "seasons": [
+          "2018",
+          "2021"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=USA_Perpignan&oldid=1352181663"
+      }
+    ],
+    "field_sources": {
+      "home_area": "https://en.wikipedia.org/w/index.php?title=USA_Perpignan&oldid=1352181663",
+      "titles": "https://en.wikipedia.org/w/index.php?title=USA_Perpignan&oldid=1352181663"
+    }
   },
   {
     "id": "racing-92",
@@ -1037,8 +1479,13 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/racing-92/squad",
     "scraped_at": "2026-09-28T09:27:29+09:00",
-    "home_area": null,
-    "home_stadiums": [],
+    "home_area": "Nanterre, France",
+    "home_stadiums": [
+      {
+        "name": "Plenitude Arena",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Racing_92&oldid=1362089257"
+      }
+    ],
     "founded": null,
     "colors": {},
     "official_url": null,
@@ -1117,7 +1564,43 @@
       "ar_alessandro-ragusi",
       "ar_come-nitharum",
       "ar_matanu-fernando"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "French championship Top 14",
+        "count": 6,
+        "seasons": [
+          "1892",
+          "1900",
+          "1902",
+          "1959",
+          "1990",
+          "2016"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Racing_92&oldid=1362089257"
+      },
+      {
+        "competition": "Coupe de l'Espérance",
+        "count": 1,
+        "seasons": [
+          "1918"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Racing_92&oldid=1362089257"
+      },
+      {
+        "competition": "Division One Group A2/Rugby Pro D2",
+        "count": 2,
+        "seasons": [
+          "1998",
+          "2009"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Racing_92&oldid=1362089257"
+      }
+    ],
+    "field_sources": {
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Racing_92&oldid=1362089257",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Racing_92&oldid=1362089257"
+    }
   },
   {
     "id": "toulon",
@@ -1126,9 +1609,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/toulon/squad",
     "scraped_at": "2026-09-28T09:27:25+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Toulon, France",
+    "home_stadiums": [
+      {
+        "name": "Stade Mayol",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=RC_Toulon&oldid=1348639112"
+      }
+    ],
+    "founded": 1908,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -1207,7 +1695,61 @@
       "ar_ewen-tanguy",
       "ar_mateo-gracieux",
       "ar_noe-lebrun"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Heineken Cup / European Rugby Champions Cup",
+        "count": 3,
+        "seasons": [
+          "2013",
+          "2014",
+          "2015"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=RC_Toulon&oldid=1348639112"
+      },
+      {
+        "competition": "European Rugby Challenge Cup",
+        "count": 1,
+        "seasons": [
+          "2023"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=RC_Toulon&oldid=1348639112"
+      },
+      {
+        "competition": "French championship Top 14",
+        "count": 4,
+        "seasons": [
+          "1931",
+          "1987",
+          "1992",
+          "2014"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=RC_Toulon&oldid=1348639112"
+      },
+      {
+        "competition": "Challenge Yves du Manoir",
+        "count": 2,
+        "seasons": [
+          "1934",
+          "1970"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=RC_Toulon&oldid=1348639112"
+      },
+      {
+        "competition": "Pro D2",
+        "count": 2,
+        "seasons": [
+          "2005",
+          "2008"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=RC_Toulon&oldid=1348639112"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=RC_Toulon&oldid=1348639112",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=RC_Toulon&oldid=1348639112",
+      "titles": "https://en.wikipedia.org/w/index.php?title=RC_Toulon&oldid=1348639112"
+    }
   },
   {
     "id": "toulouse",
@@ -1216,9 +1758,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/toulouse/squad",
     "scraped_at": "2026-09-28T09:27:08+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Toulouse, France",
+    "home_stadiums": [
+      {
+        "name": "Stade Ernest-Wallon",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Stade_Toulousain&oldid=1374823685"
+      }
+    ],
+    "founded": 1907,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -1336,7 +1883,81 @@
       "ar_iban-calleja",
       "ar_romeo-mola",
       "ar_juan-harinordoquy"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Heineken Cup / European Rugby Champions Cup",
+        "count": 6,
+        "seasons": [
+          "1996",
+          "2003",
+          "2005",
+          "2010",
+          "2021",
+          "2024"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Stade_Toulousain&oldid=1374823685"
+      },
+      {
+        "competition": "French championship Top 14",
+        "count": 25,
+        "seasons": [
+          "1912",
+          "1922",
+          "1923",
+          "1924",
+          "1926",
+          "1927",
+          "1947",
+          "1985",
+          "1986",
+          "1989",
+          "1994",
+          "1995",
+          "1996",
+          "1997",
+          "1999",
+          "2001",
+          "2008",
+          "2011",
+          "2012",
+          "2019",
+          "2021",
+          "2023",
+          "2024",
+          "2025",
+          "2026"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Stade_Toulousain&oldid=1374823685"
+      },
+      {
+        "competition": "Challenge Yves du Manoir",
+        "count": 4,
+        "seasons": [
+          "1934",
+          "1988",
+          "1993",
+          "1995"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Stade_Toulousain&oldid=1374823685"
+      },
+      {
+        "competition": "French Cup",
+        "count": 4,
+        "seasons": [
+          "1946",
+          "1947",
+          "1984",
+          "1998"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Stade_Toulousain&oldid=1374823685"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Stade_Toulousain&oldid=1374823685",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Stade_Toulousain&oldid=1374823685",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Stade_Toulousain&oldid=1374823685"
+    }
   },
   {
     "id": "vannes",
@@ -1345,9 +1966,14 @@
     "name_en": null,
     "source_url": "https://all.rugby/club/vannes/squad",
     "scraped_at": "2026-09-28T09:27:27+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Vannes, France",
+    "home_stadiums": [
+      {
+        "name": "Stade de la Rabine",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Rugby_Club_Vannes&oldid=1376000231"
+      }
+    ],
+    "founded": 1950,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -1432,6 +2058,22 @@
       "ar_philippe-roudaut",
       "ar_davit-arobelidze",
       "ar_iliesa-baravilala"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Pro D2",
+        "count": 2,
+        "seasons": [
+          "2024",
+          "2026"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Rugby_Club_Vannes&oldid=1376000231"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Rugby_Club_Vannes&oldid=1376000231",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Rugby_Club_Vannes&oldid=1376000231",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Rugby_Club_Vannes&oldid=1376000231"
+    }
   }
 ]

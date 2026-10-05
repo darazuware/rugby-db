@@ -6,9 +6,14 @@
     "name_en": "blues",
     "source_url": "https://all.rugby/club/blues/squad",
     "scraped_at": "2026-09-28T09:27:38+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Auckland, New Zealand",
+    "home_stadiums": [
+      {
+        "name": "Eden Park",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Blues_%28Super_Rugby%29&oldid=1370890337"
+      }
+    ],
+    "founded": 1996,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -66,7 +71,33 @@
       "ar_lachlan-shaw",
       "ar_angus-revell",
       "ar_jd-van-der-westhuizen"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Super Rugby (1996–present)",
+        "count": 4,
+        "seasons": [
+          "1996",
+          "1997",
+          "2003",
+          "2024"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Blues_%28Super_Rugby%29&oldid=1370890337"
+      },
+      {
+        "competition": "Super Rugby Trans-Tasman",
+        "count": 1,
+        "seasons": [
+          "2021"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Blues_%28Super_Rugby%29&oldid=1370890337"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Blues_%28Super_Rugby%29&oldid=1370890337",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Blues_%28Super_Rugby%29&oldid=1370890337",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Blues_%28Super_Rugby%29&oldid=1370890337"
+    }
   },
   {
     "id": "brumbies",
@@ -75,9 +106,14 @@
     "name_en": "brumbies",
     "source_url": "https://all.rugby/club/brumbies/squad",
     "scraped_at": "2026-09-28T09:27:42+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Canberra, Australian Capital Territory",
+    "home_stadiums": [
+      {
+        "name": "Canberra Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=ACT_Brumbies&oldid=1377862921"
+      }
+    ],
+    "founded": 1995,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -111,7 +147,58 @@
       "ar_joe-dillon",
       "ar_riley-whitefeld",
       "ar_shane-wilcox"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Super Rugby",
+        "count": 2,
+        "seasons": [
+          "2001",
+          "2004"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=ACT_Brumbies&oldid=1377862921"
+      },
+      {
+        "competition": "Australian Conference",
+        "count": 4,
+        "seasons": [
+          "2013",
+          "2016",
+          "2017",
+          "2019"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=ACT_Brumbies&oldid=1377862921"
+      },
+      {
+        "competition": "Super Rugby AU",
+        "count": 1,
+        "seasons": [
+          "2020"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=ACT_Brumbies&oldid=1377862921"
+      },
+      {
+        "competition": "Australian Provincial Championship",
+        "count": 1,
+        "seasons": [
+          "2006"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=ACT_Brumbies&oldid=1377862921"
+      },
+      {
+        "competition": "Ricoh National Championship",
+        "count": 1,
+        "seasons": [
+          "1999"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=ACT_Brumbies&oldid=1377862921"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=ACT_Brumbies&oldid=1377862921",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=ACT_Brumbies&oldid=1377862921",
+      "titles": "https://en.wikipedia.org/w/index.php?title=ACT_Brumbies&oldid=1377862921"
+    }
   },
   {
     "id": "chiefs",
@@ -120,9 +207,14 @@
     "name_en": "chiefs",
     "source_url": "https://all.rugby/club/chiefs/squad",
     "scraped_at": "2026-09-28T09:27:36+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Hamilton, New Zealand",
+    "home_stadiums": [
+      {
+        "name": "FMG Stadium Waikato",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Chiefs_%28Super_Rugby%29&oldid=1370874851"
+      }
+    ],
+    "founded": 1996,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -163,7 +255,41 @@
       "ar_micah-fale",
       "ar_kele-lasaqa",
       "ar_ollie-guerin"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Super Rugby (1996–present)",
+        "count": 2,
+        "seasons": [
+          "2012",
+          "2013"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Chiefs_%28Super_Rugby%29&oldid=1370874851"
+      },
+      {
+        "competition": "New Zealand Conference",
+        "count": 2,
+        "seasons": [
+          "2012",
+          "2013"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Chiefs_%28Super_Rugby%29&oldid=1370874851"
+      },
+      {
+        "competition": "BNZ Cup",
+        "count": 2,
+        "seasons": [
+          "2013",
+          "2014"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Chiefs_%28Super_Rugby%29&oldid=1370874851"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Chiefs_%28Super_Rugby%29&oldid=1370874851",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Chiefs_%28Super_Rugby%29&oldid=1370874851",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Chiefs_%28Super_Rugby%29&oldid=1370874851"
+    }
   },
   {
     "id": "crusaders",
@@ -172,9 +298,18 @@
     "name_en": "crusaders",
     "source_url": "https://all.rugby/club/crusaders/squad",
     "scraped_at": "2026-09-28T09:27:40+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Christchurch, New Zealand",
+    "home_stadiums": [
+      {
+        "name": "Apollo Projects Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Crusaders_%28rugby_union%29&oldid=1370874952"
+      },
+      {
+        "name": "One New Zealand Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Crusaders_%28rugby_union%29&oldid=1370874952"
+      }
+    ],
+    "founded": 1996,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -219,7 +354,55 @@
       "ar_kobe-brownlee",
       "ar_lautasi-etuale",
       "ar_logan-williams"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Super Rugby (1996–Present)",
+        "count": 13,
+        "seasons": [
+          "1998",
+          "1999",
+          "2000",
+          "2002",
+          "2005",
+          "2006",
+          "2008",
+          "2017",
+          "2018",
+          "2019",
+          "2022",
+          "2023",
+          "2025"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Crusaders_%28rugby_union%29&oldid=1370874952"
+      },
+      {
+        "competition": "Super Rugby Aotearoa",
+        "count": 2,
+        "seasons": [
+          "2020",
+          "2021"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Crusaders_%28rugby_union%29&oldid=1370874952"
+      },
+      {
+        "competition": "New Zealand/Australasian Conference",
+        "count": 5,
+        "seasons": [
+          "2011",
+          "2014",
+          "2017",
+          "2018",
+          "2019"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Crusaders_%28rugby_union%29&oldid=1370874952"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Crusaders_%28rugby_union%29&oldid=1370874952",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Crusaders_%28rugby_union%29&oldid=1370874952",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Crusaders_%28rugby_union%29&oldid=1370874952"
+    }
   },
   {
     "id": "fijian-drua",
@@ -228,9 +411,14 @@
     "name_en": "fijian-drua",
     "source_url": "https://all.rugby/club/fijian-drua/squad",
     "scraped_at": "2026-09-28T09:27:53+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Nadi, Fiji",
+    "home_stadiums": [
+      {
+        "name": "HFC Bank Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Fijian_Drua&oldid=1374536198"
+      }
+    ],
+    "founded": 2017,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -277,7 +465,22 @@
       "ar_ilaisa-droasese",
       "ar_janeiro-wakeham",
       "ar_paula-tuvalo"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "National Rugby Championship",
+        "count": 1,
+        "seasons": [
+          "2018"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Fijian_Drua&oldid=1374536198"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Fijian_Drua&oldid=1374536198",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Fijian_Drua&oldid=1374536198",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Fijian_Drua&oldid=1374536198"
+    }
   },
   {
     "id": "highlanders",
@@ -286,9 +489,14 @@
     "name_en": "highlanders",
     "source_url": "https://all.rugby/club/highlanders/squad",
     "scraped_at": "2026-09-28T09:27:49+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Dunedin, New Zealand",
+    "home_stadiums": [
+      {
+        "name": "Forsyth Barr Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Highlanders_%28rugby_union%29&oldid=1378378909"
+      }
+    ],
+    "founded": 1996,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -326,7 +534,22 @@
       "ar_alex-arnold",
       "ar_josh-tengblad",
       "ar_mika-muliaina"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Super Rugby (1996–Present)",
+        "count": 1,
+        "seasons": [
+          "2015"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Highlanders_%28rugby_union%29&oldid=1378378909"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Highlanders_%28rugby_union%29&oldid=1378378909",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Highlanders_%28rugby_union%29&oldid=1378378909",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Highlanders_%28rugby_union%29&oldid=1378378909"
+    }
   },
   {
     "id": "hurricanes",
@@ -335,9 +558,14 @@
     "name_en": "hurricanes",
     "source_url": "https://all.rugby/club/hurricanes/squad",
     "scraped_at": "2026-09-28T09:27:34+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Wellington, New Zealand; Manawatū-Whanganui, New Zealand; Hawke's Bay, New Zealand; Gisborne, New Zealand",
+    "home_stadiums": [
+      {
+        "name": "Hnry Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Hurricanes_%28rugby_union%29&oldid=1368385942"
+      }
+    ],
+    "founded": 1996,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -399,7 +627,32 @@
       "ar_rob-rush",
       "ar_jericho-wharehinga",
       "ar_triumph-voice"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Super Rugby (1996–Present)",
+        "count": 2,
+        "seasons": [
+          "2016",
+          "2026"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Hurricanes_%28rugby_union%29&oldid=1368385942"
+      },
+      {
+        "competition": "New Zealand/Australasian Conference",
+        "count": 2,
+        "seasons": [
+          "2015",
+          "2016"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Hurricanes_%28rugby_union%29&oldid=1368385942"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Hurricanes_%28rugby_union%29&oldid=1368385942",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Hurricanes_%28rugby_union%29&oldid=1368385942",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Hurricanes_%28rugby_union%29&oldid=1368385942"
+    }
   },
   {
     "id": "moana-pasifika",
@@ -409,8 +662,13 @@
     "source_url": "https://all.rugby/club/moana-pasifika/squad",
     "scraped_at": "2026-09-28T09:27:55+09:00",
     "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_stadiums": [
+      {
+        "name": "North Harbour Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Moana_Pasifika&oldid=1370875682"
+      }
+    ],
+    "founded": 2020,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -438,7 +696,11 @@
       "ar_solomona-alaimalo",
       "ar_denzel-samoa",
       "ar_tuna-tuitama-"
-    ]
+    ],
+    "titles": [],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Moana_Pasifika&oldid=1370875682"
+    }
   },
   {
     "id": "reds",
@@ -447,9 +709,14 @@
     "name_en": "reds",
     "source_url": "https://all.rugby/club/reds/squad",
     "scraped_at": "2026-09-28T09:27:44+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Brisbane, Queensland, Australia",
+    "home_stadiums": [
+      {
+        "name": "Lang Park",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Queensland_Reds&oldid=1375257288"
+      }
+    ],
+    "founded": 1882,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -504,7 +771,55 @@
       "ar_frankie-goldsbrough",
       "ar_tai-taka",
       "ar_nick-lynagh"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Super Rugby (1996–)",
+        "count": 1,
+        "seasons": [
+          "2011"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Queensland_Reds&oldid=1375257288"
+      },
+      {
+        "competition": "Super Rugby AU (2020–2021)",
+        "count": 1,
+        "seasons": [
+          "2021"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Queensland_Reds&oldid=1375257288"
+      },
+      {
+        "competition": "Ricoh National Championship",
+        "count": 1,
+        "seasons": [
+          "2000"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Queensland_Reds&oldid=1375257288"
+      },
+      {
+        "competition": "Super 10",
+        "count": 2,
+        "seasons": [
+          "1994",
+          "1995"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Queensland_Reds&oldid=1375257288"
+      },
+      {
+        "competition": "Super 6",
+        "count": 1,
+        "seasons": [
+          "1992"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Queensland_Reds&oldid=1375257288"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Queensland_Reds&oldid=1375257288",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Queensland_Reds&oldid=1375257288",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Queensland_Reds&oldid=1375257288"
+    }
   },
   {
     "id": "waratahs",
@@ -513,9 +828,14 @@
     "name_en": "waratahs",
     "source_url": "https://all.rugby/club/waratahs/squad",
     "scraped_at": "2026-09-28T09:27:47+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Sydney, New South Wales, Australia",
+    "home_stadiums": [
+      {
+        "name": "Sydney Football Stadium",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=New_South_Wales_Waratahs&oldid=1378098055"
+      }
+    ],
+    "founded": 1882,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -576,7 +896,30 @@
       "ar_zach-fittler",
       "ar_tom-farr-jones",
       "ar_louis-fenwicke"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Super Rugby (2011–present) / Super Rugby AU (2020–2021) / Super Rugby Trans-Tasman (2021)",
+        "count": 1,
+        "seasons": [
+          "2014"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=New_South_Wales_Waratahs&oldid=1378098055"
+      },
+      {
+        "competition": "Super Rugby AUS (2025–present)",
+        "count": 1,
+        "seasons": [
+          "2025"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=New_South_Wales_Waratahs&oldid=1378098055"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=New_South_Wales_Waratahs&oldid=1378098055",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=New_South_Wales_Waratahs&oldid=1378098055",
+      "titles": "https://en.wikipedia.org/w/index.php?title=New_South_Wales_Waratahs&oldid=1378098055"
+    }
   },
   {
     "id": "western-force",
@@ -585,9 +928,14 @@
     "name_en": "western-force",
     "source_url": "https://all.rugby/club/western-force/squad",
     "scraped_at": "2026-09-28T09:27:51+09:00",
-    "home_area": null,
-    "home_stadiums": [],
-    "founded": null,
+    "home_area": "Perth, Western Australia",
+    "home_stadiums": [
+      {
+        "name": "HBF Park",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Western_Force&oldid=1378179548"
+      }
+    ],
+    "founded": 2005,
     "colors": {},
     "official_url": null,
     "roster_mode": "full",
@@ -633,6 +981,37 @@
       "ar_kurtley-beale",
       "ar_jasper-asi",
       "ar_luke-aiken"
-    ]
+    ],
+    "titles": [
+      {
+        "competition": "Super Rugby AUS",
+        "count": 1,
+        "seasons": [
+          "2026"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Western_Force&oldid=1378179548"
+      },
+      {
+        "competition": "National Rugby Championship",
+        "count": 1,
+        "seasons": [
+          "2019"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Western_Force&oldid=1378179548"
+      },
+      {
+        "competition": "Global Rapid Rugby",
+        "count": 1,
+        "seasons": [
+          "2019"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Western_Force&oldid=1378179548"
+      }
+    ],
+    "field_sources": {
+      "founded": "https://en.wikipedia.org/w/index.php?title=Western_Force&oldid=1378179548",
+      "home_area": "https://en.wikipedia.org/w/index.php?title=Western_Force&oldid=1378179548",
+      "titles": "https://en.wikipedia.org/w/index.php?title=Western_Force&oldid=1378179548"
+    }
   }
 ]
