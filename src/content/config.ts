@@ -50,6 +50,8 @@ const news = defineCollection({
         category: z.string().optional(),
         tags: z.array(z.string()).optional(),
         draft: z.boolean().optional().default(false),
+        // 検証で中身を取り下げた自動記事など。URLは残しつつ検索インデックス・サイトマップから外す
+        noindex: z.boolean().optional().default(false),
     }),
 });
 

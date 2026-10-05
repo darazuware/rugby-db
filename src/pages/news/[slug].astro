@@ -52,6 +52,7 @@ const formatDate = (date: Date) => {
   title={`${entry.data.title} | ニュース | RUGBY PICKS`}
   description={articleDescription}
   lastmod={articleModifiedAt}
+  noindex={entry.data.noindex}
 >
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
