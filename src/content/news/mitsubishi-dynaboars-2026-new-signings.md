@@ -6,7 +6,7 @@ category: "NEWS"
 tags: ["リーグワン", "三菱重工相模原ダイナボアーズ", "新加入", "移籍", "2026-27シーズン"]
 ---
 
-# [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/)、新シーズンへ4選手を補強
+## [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/)、新シーズンへ4選手を補強
 
 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/)は、新シーズンに向けた戦力強化として4選手との契約を発表した。リーグワン内からの即戦力2人に加え、若き才能と代表クラスのベテランも加わる。
 

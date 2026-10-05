@@ -27,9 +27,10 @@ const univRows = rows.filter((r) => r.school.type === "univ");
 
 <Layout
   title="学校一覧 | 出身選手データベース | RUGBY PICKS"
-  description={`高校・大学別のラグビー選手出身校データベース。${schools.length}校を掲載。masterデータのみから生成。`}
+  description={`高校・大学別のラグビー選手出身校データベース。出身選手が確認できる${rows.length}校を掲載。`}
+  noindex={rows.length === 0}
 >
-  <main class="bg-background min-h-screen py-12 px-4">
+  <div class="bg-background min-h-screen py-4 sm:py-12 sm:px-4">
     <div class="max-w-5xl mx-auto">
       <Breadcrumbs items={[{ label: "学校" }]} />
 
@@ -41,6 +42,12 @@ const univRows = rows.filter((r) => r.school.type === "univ");
           出身校別に選手を検索。{rows.length}校・{rows.reduce((sum, r) => sum + r.count, 0)}名を掲載。
         </p>
       </header>
+
+      {rows.length === 0 && (
+        <p class="text-center text-foreground/60 font-bold py-12">
+          出身校データを準備中です。<a href="/players" class="text-yellow-600 underline underline-offset-4">選手名鑑</a>から選手を探せます。
+        </p>
+      )}
 
       {univRows.length > 0 && (
         <section class="mb-12">
@@ -88,5 +95,5 @@ const univRows = rows.filter((r) => r.school.type === "univ");
         </section>
       )}
     </div>
-  </main>
+  </div>
 </Layout>

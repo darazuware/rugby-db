@@ -60,7 +60,7 @@ const leagueData = [
             <h1 class="text-5xl md:text-7xl font-black italic tracking-tighter mb-6 uppercase text-foreground leading-none">
                 League <span class="text-yellow-400">Standings</span>
             </h1>
-            <p class="text-base md:text-lg text-foreground/50 font-bold max-w-2xl italic">
+            <p class="text-base md:text-lg text-foreground/70 font-bold max-w-2xl italic">
                 最新の戦績に基づいた、各リーグの詳細な順位表です。
             </p>
             <PRNotice />
@@ -90,7 +90,7 @@ const leagueData = [
                     </div>
                     
                     <div class="mt-8 flex flex-wrap justify-end items-center gap-4">
-                        <a href={`/teams/${league.id}`} class="px-6 py-3 bg-foreground/5 border border-border-dim text-foreground/40 hover:text-foreground hover:bg-foreground/10 transition-all rounded-xl font-black text-[10px] uppercase tracking-widest">
+                        <a href={`/teams/${league.id}`} class="px-6 py-3 bg-foreground/5 border border-border-dim text-foreground/70 hover:text-foreground hover:bg-foreground/10 transition-all rounded-xl font-black text-[10px] uppercase tracking-widest">
                             選手名鑑をみる
                         </a>
                         <a href={`/results?league=${league.id}`} class="px-6 py-3 bg-yellow-400 text-black hover:bg-white transition-all rounded-xl font-black text-[10px] uppercase tracking-widest shadow-xl shadow-yellow-400/10">

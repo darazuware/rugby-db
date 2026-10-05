@@ -168,6 +168,7 @@ const NationalPlayerList: React.FC<Props> = ({ initialPlayers: rawPlayers, teamC
               <div className="relative">
                 <input
                   type="text"
+                  aria-label="選手名・チーム名で検索"
                   placeholder="名前・チーム名で検索..."
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
@@ -177,7 +178,9 @@ const NationalPlayerList: React.FC<Props> = ({ initialPlayers: rawPlayers, teamC
                   <svg xmlns="http://www.w3.org/2000/svg" className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
                 </div>
                 {searchQuery && (
-                   <button 
+                   <button
+                    type="button"
+                    aria-label="検索語をクリア"
                     onClick={() => setSearchQuery('')}
                     className="absolute right-3.5 top-1/2 -translate-y-1/2 text-foreground/30 hover:text-yellow-400 transition-colors"
                    >
@@ -191,6 +194,7 @@ const NationalPlayerList: React.FC<Props> = ({ initialPlayers: rawPlayers, teamC
               <h3 className="text-[10px] font-black text-foreground/40 uppercase tracking-[0.2em] italic">League</h3>
               <div className="relative">
                 <select
+                  aria-label="リーグで絞り込み"
                   value={filterLeague}
                   onChange={(e) => setFilterLeague(e.target.value)}
                   className="w-full bg-card/50 border border-border-dim/30 rounded-xl px-4 py-2.5 text-[10px] font-black text-foreground/60 appearance-none cursor-pointer focus:outline-none focus:border-yellow-400 transition-all uppercase tracking-widest"
@@ -207,6 +211,7 @@ const NationalPlayerList: React.FC<Props> = ({ initialPlayers: rawPlayers, teamC
               <h3 className="text-[10px] font-black text-foreground/40 uppercase tracking-[0.2em] italic">Position</h3>
               <div className="relative">
                 <select
+                  aria-label="ポジションで絞り込み"
                   value={filterPos}
                   onChange={(e) => setFilterPos(e.target.value)}
                   className="w-full bg-card/50 border border-border-dim/30 rounded-xl px-4 py-2.5 text-[10px] font-black text-foreground/60 appearance-none cursor-pointer focus:outline-none focus:border-yellow-400 transition-all uppercase tracking-widest"

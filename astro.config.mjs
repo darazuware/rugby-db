@@ -12,6 +12,8 @@ const thinPaths = new Set([
   ...thinPages.players.map((s) => `/players/${s}/`),
   ...thinPages.teams,
   '/dream-team/', '/magazine/', '/sitemap/', '/notice/saimoni-vunilagi/',
+  // /teams/[league] と重複する noindex ページ
+  ...['league-one', 'super-rugby', 'top14', 'premiership', 'urc'].map((l) => `/leagues/${l}/`),
 ]);
 
 // https://astro.build/config

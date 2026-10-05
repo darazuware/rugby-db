@@ -27,13 +27,31 @@ const {
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const ogImageURL = new URL("/ogp-image.png", Astro.site);
 const sidebarAdSlot = import.meta.env.PUBLIC_ADSENSE_SIDEBAR_SLOT;
+const currentPath = Astro.url.pathname;
+const navLinks: [string, string][] = [
+	["/news", "ニュース"],
+	["/leagues", "リーグ"],
+	["/standings", "順位表"],
+	["/world-rankings", "世界ランキング"],
+	["/results", "戦績"],
+	["/players", "名鑑"],
+];
+const footerLinks: [string, string][] = [
+	["/about", "RUGBY PICKSについて"],
+	["/privacy", "プライバシーポリシー"],
+	["/terms", "免責事項・利用規約"],
+	["/contact", "お問い合わせ"],
+	["/privacy#minors", "未成年選手の情報削除について"],
+	["/news", "ニュース"],
+	["/sitemap", "サイトマップ"],
+];
 ---
 
 <!DOCTYPE html>
 <html lang="ja">
 	<head>
 		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
@@ -77,7 +95,8 @@ const sidebarAdSlot = import.meta.env.PUBLIC_ADSENSE_SIDEBAR_SLOT;
 			crossorigin="anonymous"></script>
 		<script is:inline>
 			const theme = (() => {
-				const saved = typeof localStorage !== 'undefined' ? localStorage.getItem('theme') : null;
+				let saved = null;
+				try { saved = localStorage.getItem('theme'); } catch (e) {}
 				if (saved === 'dark' || saved === 'light') return saved;
 				return 'auto';
 			})();
@@ -96,7 +115,8 @@ const sidebarAdSlot = import.meta.env.PUBLIC_ADSENSE_SIDEBAR_SLOT;
 
 			// OS設定変更の監視
 			window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
-				const currentSaved = localStorage.getItem('theme');
+				let currentSaved = null;
+				try { currentSaved = localStorage.getItem('theme'); } catch (e) {}
 				if (!currentSaved || currentSaved === 'auto') {
 					applyTheme('auto');
 				}
@@ -104,11 +124,13 @@ const sidebarAdSlot = import.meta.env.PUBLIC_ADSENSE_SIDEBAR_SLOT;
 		</script>
 	</head>
 	<body id="top" class="selection:bg-yellow-400 selection:text-black overflow-x-hidden">
-		<nav class="bg-card text-foreground p-3 sm:p-4 sticky top-0 z-50 shadow-lg border-b border-border-dim w-full">
+		<a href="#main-content" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[200] focus:bg-yellow-400 focus:text-black focus:px-4 focus:py-2 focus:rounded-lg focus:font-bold">本文へスキップ</a>
+		<nav aria-label="メインナビゲーション" class="bg-card text-foreground p-3 sm:p-4 sticky top-0 z-50 shadow-lg border-b border-border-dim w-full">
 			<div class="max-w-[1400px] mx-auto flex flex-col xs:flex-row justify-between items-center gap-3 sm:gap-4">
 				<div class="flex justify-between items-center w-full xs:w-auto px-1">
 					<a
 						href="/"
+						aria-label="RUGBY PICKS トップページ"
 						class="flex flex-col leading-none sm:leading-tight pr-1 sm:pr-2 flex-shrink-0"
 					>
 						<span
@@ -127,36 +149,13 @@ const sidebarAdSlot = import.meta.env.PUBLIC_ADSENSE_SIDEBAR_SLOT;
 				<div
 					class="flex-1 flex flex-wrap justify-center xs:justify-end items-center gap-x-3 gap-y-2.5 xs:gap-4 sm:gap-8 md:gap-12 lg:gap-16 font-black tracking-widest text-[11px] xs:text-[14px] sm:text-[15px]"
 				>
-					<a
-						href="/news"
-						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap flex-shrink-0"
-						>ニュース</a
-					>
-					<a
-						href="/leagues"
-						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap flex-shrink-0"
-						>リーグ</a
-					>
-					<a
-						href="/standings"
-						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap flex-shrink-0"
-						>順位表</a
-					>
-					<a
-						href="/world-rankings"
-						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap flex-shrink-0"
-						>世界ランキング</a
-					>
-					<a
-						href="/results"
-						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap flex-shrink-0"
-						>戦績</a
-					>
-					<a
-						href="/players"
-						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap flex-shrink-0"
-						>名鑑</a
-					>
+					{navLinks.map(([href, label]) => (
+						<a
+							href={href}
+							aria-current={currentPath.startsWith(href) ? "page" : undefined}
+							class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 aria-[current=page]:border-yellow-400 pb-0.5 whitespace-nowrap flex-shrink-0"
+						>{label}</a>
+					))}
 					<details class="relative flex-shrink-0 group/rwc [&_summary::-webkit-details-marker]:hidden">
 						<summary
 							class="list-none cursor-pointer text-yellow-400 hover:text-yellow-500 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap font-bold flex items-center gap-1"
@@ -193,7 +192,7 @@ const sidebarAdSlot = import.meta.env.PUBLIC_ADSENSE_SIDEBAR_SLOT;
 
 		<div class="max-w-[1400px] mx-auto px-4 py-8 lg:py-16 overflow-x-hidden">
 			<div class="grid grid-cols-1 lg:grid-cols-[1fr_320px] gap-8 xl:gap-20">
-				<main class="min-w-0 w-full">
+				<main id="main-content" class="min-w-0 w-full">
 					<slot />
 				</main>
 				<div class="hidden lg:block space-y-8">
@@ -220,49 +219,17 @@ const sidebarAdSlot = import.meta.env.PUBLIC_ADSENSE_SIDEBAR_SLOT;
 					RUGBY&nbsp;<span class="text-yellow-400">PICKS</span>
 				</div>
 				<div
-					class="text-[10px] md:text-xs flex flex-wrap justify-center gap-x-8 gap-y-3 mb-8 font-bold uppercase tracking-widest text-foreground/40"
+					class="text-[10px] md:text-xs flex flex-wrap justify-center gap-x-8 gap-y-3 mb-8 font-bold uppercase tracking-widest text-foreground/70"
 				>
-					<a
-						href="/about"
-						class="hover:text-yellow-400 transition-colors"
-						>RUGBY PICKSについて</a
-					>
-					<a
-						href="/privacy"
-						class="hover:text-yellow-400 transition-colors"
-						>プライバシーポリシー</a
-					>
-					<a
-						href="/terms"
-						class="hover:text-yellow-400 transition-colors"
-						>免責事項・利用規約</a
-					>
-					<a
-						href="/contact"
-						class="hover:text-yellow-400 transition-colors"
-						>お問い合わせ</a
-					>
-					<a
-						href="/privacy#minors"
-						class="hover:text-yellow-400 transition-colors"
-						>未成年選手の情報削除について</a
-					>
-					<a
-						href="/news"
-						class="hover:text-yellow-400 transition-colors"
-						>ニュース</a
-					>
-					<a
-						href="/sitemap"
-						class="hover:text-yellow-400 transition-colors"
-						>サイトマップ</a
-					>
+					{footerLinks.map(([href, label]) => (
+						<a href={href} class="hover:text-yellow-400 transition-colors">{label}</a>
+					))}
 				</div>
 			</div>
 		</footer>
 
 		<!-- Cookie同意バナー -->
-		<div id="cookie-banner" class="fixed bottom-0 left-0 right-0 z-[100] bg-card border-t border-border-dim shadow-2xl px-4 py-4 hidden">
+		<div id="cookie-banner" role="region" aria-label="Cookieの使用について" class="fixed bottom-0 left-0 right-0 z-[100] bg-card border-t border-border-dim shadow-2xl px-4 py-4 hidden">
 			<div class="max-w-[1400px] mx-auto flex flex-col sm:flex-row items-start sm:items-center gap-3 sm:gap-6">
 				<p class="text-xs text-foreground/70 flex-1 leading-relaxed">
 					当サイトはGoogle AdSenseによる広告配信およびアクセス解析のため、<strong class="text-foreground">Cookie</strong>を使用しています。
@@ -282,11 +249,13 @@ const sidebarAdSlot = import.meta.env.PUBLIC_ADSENSE_SIDEBAR_SLOT;
 				var banner = document.getElementById('cookie-banner');
 				var btn = document.getElementById('cookie-accept');
 				if (!banner || !btn) return;
-				if (!localStorage.getItem('cookie_consent')) {
+				var consented = false;
+				try { consented = !!localStorage.getItem('cookie_consent'); } catch (e) {}
+				if (!consented) {
 					banner.classList.remove('hidden');
 				}
 				btn.addEventListener('click', function() {
-					localStorage.setItem('cookie_consent', '1');
+					try { localStorage.setItem('cookie_consent', '1'); } catch (e) {}
 					banner.classList.add('hidden');
 				});
 			})();
@@ -308,6 +277,5 @@ const sidebarAdSlot = import.meta.env.PUBLIC_ADSENSE_SIDEBAR_SLOT;
 			})();
 		</script>
 
-		<style is:global></style>
 	</body>
 </html>

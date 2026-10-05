@@ -136,6 +136,7 @@ const TeamList: React.FC<Props> = ({ initialTeams, leagueContext }) => {
                     <label className="block text-xs font-black text-foreground/40 uppercase tracking-widest mb-2">チーム検索</label>
                     <input
                         type="text"
+                        aria-label="チーム名で検索"
                         placeholder="チーム名（日本語・英語）で検索..."
                         className={`w-full p-4 bg-background border-2 border-transparent rounded-2xl focus:bg-card ${theme.focus} outline-none transition-all font-bold text-foreground`}
                         value={search}

@@ -2,8 +2,11 @@
 import Layout from "../layouts/Layout.astro";
 ---
 
-<Layout title="免責事項・利用規約 | RUGBY PICKS">
-    <main class="bg-background min-h-screen pt-20 pb-20">
+<Layout
+    title="免責事項・利用規約 | RUGBY PICKS"
+    description="RUGBY PICKSの免責事項と利用規約。掲載情報の正確性、著作権、リンク、広告・アフィリエイトについての方針を掲載しています。"
+>
+    <div class="bg-background pt-4 sm:pt-12 pb-20">
         <div
             class="container mx-auto px-4 max-w-4xl font-sans leading-relaxed text-foreground/80"
         >
@@ -97,11 +100,6 @@ import Layout from "../layouts/Layout.astro";
                 </div>
             </section>
         </div>
-    </main>
+    </div>
 </Layout>
 
-<style>
-    main {
-        background: radial-gradient(circle at 50% 0%, var(--background) 0%, var(--card) 100%);
-    }
-</style>

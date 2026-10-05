@@ -126,8 +126,11 @@ const leagues = [
 ];
 ---
 
-<Layout title="リーグ・大会一覧 | RUGBY PICKS">
-    <div class="py-12">
+<Layout
+    title="リーグ・大会一覧 | RUGBY PICKS"
+    description="リーグワン、スーパーラグビー、トップ14、URC、プレミアシップ、社会人地域リーグなど、RUGBY PICKSで扱うラグビーリーグ・大会の一覧。各リーグのチーム一覧・順位・戦績ページへ移動できます。"
+>
+    <div class="py-4 sm:py-12">
         <header class="mb-16">
             <span
                 class="inline-block px-4 py-1 bg-yellow-400 text-black font-black text-sm rounded-full mb-6 uppercase tracking-widest italic"
@@ -135,7 +138,7 @@ const leagues = [
                 World Leagues
             </span>
             <h1
-                class="text-6xl md:text-7xl font-black italic tracking-tighter mb-8 leading-none uppercase text-foreground"
+                class="text-5xl md:text-7xl font-black italic tracking-tighter mb-8 leading-none uppercase text-foreground"
             >
                 Explore<br /><span class="text-yellow-400">The Leagues</span
                 >
@@ -148,10 +151,10 @@ const leagues = [
             <PRNotice />
         </header>
 
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-12">
                 {
                     leagues.map((league) => (
-                        <div class="group relative bg-card border border-border-dim rounded-[3rem] p-12 overflow-hidden hover:shadow-2xl transition-all">
+                        <div class="group relative bg-card border border-border-dim rounded-[2rem] sm:rounded-[3rem] p-6 sm:p-12 overflow-hidden hover:shadow-2xl transition-all">
                             <div
                                 class={`absolute top-0 right-0 w-32 h-32 translate-x-16 -translate-y-16 rotate-45 ${league.color} opacity-10 group-hover:opacity-100 transition-opacity`}
                             />
@@ -163,11 +166,11 @@ const leagues = [
                                     {league.tag}
                                 </span>
 
-                                <h2 class="text-3xl font-black text-foreground italic flex items-baseline gap-3">
+                                <h2 class="text-2xl sm:text-3xl font-black text-foreground italic flex flex-wrap items-baseline gap-x-3 gap-y-1">
                                     <span class="uppercase tracking-tighter">{league.name}</span>
-                                    <span class="text-lg text-foreground/40 not-italic tracking-tight">{league.name_jp}</span>
+                                    <span class="text-lg text-foreground/60 not-italic tracking-tight group-hover:text-white/80 transition-colors">{league.name_jp}</span>
                                 </h2>
-                                <p class="text-lg font-bold text-foreground/40 mb-8 group-hover:text-white/80 transition-colors">
+                                <p class="text-lg font-bold text-foreground/60 mb-8 group-hover:text-white/80 transition-colors">
                                     {league.title}
                                 </p>
 
@@ -204,12 +207,8 @@ const leagues = [
             </div>
 
             <section
-                class="mt-32 p-16 bg-gray-900 rounded-[4rem] text-center overflow-hidden relative"
+                class="mt-16 sm:mt-32 p-8 sm:p-16 bg-gray-900 rounded-[2rem] sm:rounded-[4rem] text-center overflow-hidden relative"
             >
-                <div
-                    class="absolute inset-0 opacity-10 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')]"
-                >
-                </div>
                 <div class="relative z-10">
                     <h2
                         class="text-4xl font-black text-white italic tracking-tighter mb-8"
@@ -218,11 +217,11 @@ const leagues = [
                         >
                     </h2>
                     <p class="text-gray-400 font-bold mb-12 max-w-2xl mx-auto">
-                        リーグの垣根を超えて、全4,600名以上の選手から一括検索が可能です。
+                        リーグの垣根を超えて、掲載中の全選手から一括検索が可能です。
                     </p>
                     <a
                         href="/players"
-                        class="inline-block px-12 py-5 bg-yellow-400 text-black font-black text-xl rounded-2xl hover:bg-white hover:scale-105 transition-all shadow-2xl shadow-yellow-400/20"
+                        class="inline-block px-6 sm:px-12 py-5 bg-yellow-400 text-black font-black text-lg sm:text-xl rounded-2xl hover:bg-white hover:scale-105 transition-all shadow-2xl shadow-yellow-400/20"
                     >
                         選手名鑑（全体検索）へ
                     </a>

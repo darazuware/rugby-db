@@ -13,7 +13,7 @@ import standingsData from "../../../../data/standings.json";
 import { getLeagueStandings, type LeagueId } from "../../../lib/safeStandings";
 import resultsData from "../../../../data/results_2026.json";
 import teamNamesJp from "../../../../data/team_names_jp.json";
-import { getTeamSlug } from "../../../utils/team_utils";
+import { findTeamNameMapping, getTeamSlug } from "../../../utils/team_utils";
 import { groupByRound } from "../../../utils/result_utils";
 import Breadcrumbs from "../../../components/Breadcrumbs.astro";
 import { getMasterPlayersLegacyShape } from "../../../lib/masterAdapters";
@@ -48,31 +48,8 @@ export async function getStaticPaths() {
 const { league } = Astro.params;
 const { leagueName } = Astro.props;
 
-// チーム情報のマッピングを取得する共通関数
-const getTeamMapping = (teamName: string) => {
-    const leagueMapping = (teamNamesJp as any)[league || ""] || {};
-    // 1. 正式名で直接検索
-    if (leagueMapping[teamName]) return leagueMapping[teamName];
-    // 2. エイリアス、日本語名、または短縮日本語名で全体検索
-    for (const formalName in leagueMapping) {
-        const data = leagueMapping[formalName];
-        const shortJp = data.jp.includes("（")
-            ? data.jp.split("（")[0]
-            : data.jp;
-        if (
-            data.jp === teamName ||
-            shortJp === teamName ||
-            (data.aliases && data.aliases.includes(teamName)) ||
-            formalName.includes(teamName) ||
-            teamName.includes(formalName) ||
-            data.jp.includes(teamName) ||
-            teamName.includes(data.jp)
-        ) {
-            return data;
-        }
-    }
-    return null;
-};
+const getTeamMapping = (teamName: string) =>
+    findTeamNameMapping(teamNamesJp as any, league || "", teamName, true);
 
 const filteredTeams = (teamsData as any[])
     .filter((t: any) => t.league === league)
@@ -202,7 +179,7 @@ const roundsForSidebar = groupedForSidebar.map(g => ({
             }
         });
     </script>
-    <main class="bg-background min-h-screen py-12 px-4">
+    <div class="bg-background min-h-screen py-4 sm:py-12 sm:px-4">
         <div class="max-w-7xl mx-auto">
             <header class="mb-12">
                 <Breadcrumbs items={[
@@ -212,9 +189,9 @@ const roundsForSidebar = groupedForSidebar.map(g => ({
                 <h1
                     class="text-4xl md:text-5xl font-black text-foreground tracking-tighter italic mb-4 uppercase flex flex-col md:flex-row md:items-baseline gap-2 md:gap-4"
                 >
-                    <div>
+                    <span>
                         {currentNames.en}<span class="text-yellow-400"> TEAMS</span>
-                    </div>
+                    </span>
                     <span class="not-italic text-xl md:text-2xl text-foreground/40"
                         >{currentNames.jp} チーム一覧・選手名鑑</span
                     >
@@ -235,7 +212,7 @@ const roundsForSidebar = groupedForSidebar.map(g => ({
                 {/* モバイル用ジャンプボタン - スクロール追従 */}
                 {
                     !isURC && (
-                        <div class="sticky top-0 z-40 bg-card/90 backdrop-blur-sm -mx-4 px-4 py-4 mb-0 border-b border-border-dim flex flex-wrap gap-2 xl:hidden overflow-x-auto no-scrollbar">
+                        <nav aria-label="ページ内ナビゲーション" class="bg-card/90 -mx-4 px-4 py-4 mt-6 border-y border-border-dim flex flex-wrap gap-2 xl:hidden">
                             <a
                                 href="#players"
                                 class="px-4 py-2 bg-yellow-400 text-black text-[10px] font-black rounded-full uppercase tracking-widest shadow-lg shadow-yellow-400/20 active:scale-95 transition-all whitespace-nowrap"
@@ -254,7 +231,7 @@ const roundsForSidebar = groupedForSidebar.map(g => ({
                             >
                                 クラブ一覧
                             </a>
-                        </div>
+                        </nav>
                     )
                 }
             </header>
@@ -355,10 +332,11 @@ const roundsForSidebar = groupedForSidebar.map(g => ({
                 <AffiliateBanner league={league} />
             </div>
         </div>
-    </main>
+    </div>
 
     {/* 固定クイックナビゲーション (PC & スマホ) */}
     <nav
+        aria-label="クイックナビゲーション"
         class="fixed right-4 bottom-8 xl:right-8 xl:top-1/2 xl:-translate-y-1/2 z-50 flex flex-col gap-3 animate-in fade-in slide-in-from-right-4 duration-500"
     >
         {/* トップへ戻る */}
@@ -366,6 +344,7 @@ const roundsForSidebar = groupedForSidebar.map(g => ({
             href="#top"
             class="w-12 h-12 md:w-14 md:h-14 bg-card/90 backdrop-blur-md border border-border-dim rounded-2xl shadow-xl flex items-center justify-center text-foreground/40 hover:text-yellow-500 hover:border-yellow-200 transition-all hover:-translate-y-1 group"
             title="トップへ戻る"
+            aria-label="トップへ戻る"
         >
             <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -392,6 +371,7 @@ const roundsForSidebar = groupedForSidebar.map(g => ({
                         href="#players"
                         class="w-12 h-12 md:w-14 md:h-14 bg-yellow-400 border border-yellow-500 rounded-2xl shadow-xl shadow-yellow-400/20 flex items-center justify-center text-black hover:scale-110 transition-all group"
                         title="選手検索"
+            aria-label="選手検索"
                     >
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
@@ -416,6 +396,7 @@ const roundsForSidebar = groupedForSidebar.map(g => ({
                         href="#standings"
                         class="w-12 h-12 md:w-14 md:h-14 bg-card border border-border-dim rounded-2xl shadow-xl flex items-center justify-center text-foreground hover:border-yellow-400 transition-all group"
                         title="順位表"
+            aria-label="順位表"
                     >
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
@@ -440,6 +421,7 @@ const roundsForSidebar = groupedForSidebar.map(g => ({
                         href="#teams"
                         class="w-12 h-12 md:w-14 md:h-14 bg-card border border-border-dim rounded-2xl shadow-xl flex items-center justify-center text-foreground hover:border-yellow-400 transition-all group"
                         title="クラブ一覧"
+            aria-label="クラブ一覧"
                     >
                         <svg
                             xmlns="http://www.w3.org/2000/svg"

@@ -14,12 +14,9 @@ export async function getStaticPaths() {
 }
 import Layout from "../../../layouts/Layout.astro";
 import { getCollection } from "astro:content";
-import srTeams from "../../../../data/super_rugby_teams.json";
-import t14Teams from "../../../../data/top14_teams_detailed.json";
-import urcTeams from "../../../../data/urc_teams.json";
 import TeamPlayerList from "../../../components/TeamPlayerList";
 import teamNamesJp from "../../../../data/team_names_jp.json";
-import { getTeamSlug } from "../../../utils/team_utils";
+import { findTeamNameMapping } from "../../../utils/team_utils";
 import Breadcrumbs from "../../../components/Breadcrumbs.astro";
 import { findMasterTeamBySlug, getTeamRosterLegacyShape } from "../../../lib/masterAdapters";
 import { isIndexablePlayerSlug } from "../../../lib/master";
@@ -35,29 +32,8 @@ if (!team) {
 }
 const league = team.league;
 
-// チーム情報のマッピングを取得する共通関数
-const getTeamMapping = (teamName: string) => {
-    const leagueMapping = (teamNamesJp as any)[league || ""] || {};
-    // 1. 正式名（English Key）で直接検索
-    if (leagueMapping[teamName]) return { ...leagueMapping[teamName], formalName: teamName };
-    // 2. エイリアス、日本語名、または短縮日本語名で全体検索
-    for (const formalName in leagueMapping) {
-        const data = leagueMapping[formalName];
-        const shortJp = data.jp.includes("（")
-            ? data.jp.split("（")[0]
-            : data.jp;
-        if (
-            data.jp === teamName ||
-            shortJp === teamName ||
-            (data.aliases && data.aliases.includes(teamName)) ||
-            formalName.includes(teamName) ||
-            teamName.includes(formalName)
-        ) {
-            return { ...data, formalName };
-        }
-    }
-    return null;
-};
+const getTeamMapping = (teamName: string) =>
+    findTeamNameMapping(teamNamesJp as any, league, teamName);
 
 // 日本語名・旗の取得
 const mapping = getTeamMapping(team.team_name);
@@ -99,10 +75,7 @@ const teamEnName =
     TEAM_EN_NAME_MAP[team.team_name] ||
     team.team_name.toUpperCase();
 
-const { slug: paramSlug } = Astro.params; // Rename to avoid conflict with team.slug
 const isLeagueOne = league === "league-one";
-// The 'team' prop is already available from getStaticPaths, so no need to find it again unless it's missing.
-// const team = Astro.props.team || teamsData.find((t: any) => t.slug === paramSlug);
 
 // 所属選手の取得
 // master (SSOT) にチームが存在する場合は roster_ids ベースの厳密な突合を使う（04/P2-3）。
@@ -293,7 +266,9 @@ const articleMentions: PlayerLink[] = [];
 if (teamArticle?.body) {
     const body = teamArticle.body;
     const seen = new Set<string>();
-    for (const p of allPlayers) {
+    // master 対応チームでは allPlayers を読み込んでいないため、ここで取得する
+    const mentionCandidates = allPlayers.length > 0 ? allPlayers : await getCollection("players");
+    for (const p of mentionCandidates) {
         const pSlug: string = p.slug || (p as any).id;
         if (seen.has(pSlug)) continue;
         // 日本語名（スペース除去・中点バリアント）
@@ -332,6 +307,11 @@ if (teamArticle?.body) {
 import standingsData from "../../../../data/standings.json";
 import { getLeagueStandings, type LeagueId } from "../../../lib/safeStandings";
 const leagueStandings = getLeagueStandings(standingsData, (league || "") as LeagueId);
+// プリレンダー時の pathname は日本語がパーセントエンコードされるため decode して thin_pages と照合する
+const isThinPage = (thinPages.teams as string[]).includes(
+    decodeURI(Astro.url.pathname).replace(/\/?$/, "/")
+);
+const leagueLabel = league.toUpperCase().replaceAll("-", " ");
 const teamStanding = leagueStandings.find((s: any) => 
     s.display_name === teamNameDisplay || 
     s.team_name === team.team_name || 
@@ -340,7 +320,7 @@ const teamStanding = leagueStandings.find((s: any) =>
 ---
 
 <Layout
-    noindex={(thinPages.teams as string[]).includes(Astro.url.pathname.replace(/\/?$/, "/"))}
+    noindex={isThinPage}
     title={`${isLeagueOne ? teamNameDisplay : teamEnName} (${
         isLeagueOne ? teamEnName : teamNameDisplay
     }) | チーム詳細 | RUGBY PICKS`}
@@ -349,18 +329,18 @@ const teamStanding = leagueStandings.find((s: any) =>
         : `${teamEnName} (${teamNameDisplay}) の選手・成績・最新情報。RUGBY PICKS で世界のラグビーチームを探索。`
     }
 >
-    <main class="bg-background min-h-screen py-8 md:py-12 px-0 sm:px-4 text-foreground relative overflow-hidden w-full">
+    <div class="bg-background min-h-screen py-8 md:py-12 px-0 sm:px-4 text-foreground relative overflow-hidden w-full">
         {/* 背景の装飾的なぼかし要素 */}
         <div class="absolute top-0 left-1/4 w-96 h-96 bg-yellow-400/5 rounded-full blur-[128px] -z-10 animate-pulse"></div>
         <div class="absolute bottom-0 right-1/4 w-[32rem] h-[32rem] bg-indigo-500/5 rounded-full blur-[160px] -z-10"></div>
 
-        <div class="w-full max-w-7xl mx-auto relative z-10 px-4 sm:px-0" id="top">
+        <div class="w-full max-w-7xl mx-auto relative z-10 px-4 sm:px-0">
             <Breadcrumbs items={[
-                { label: league.toUpperCase().replace("-", " "), href: `/teams/${league}` },
+                { label: leagueLabel, href: `/teams/${league}` },
                 { label: teamNameDisplay }
             ]} />
             {/* クイックナビゲーション (Sticky Nav) */}
-            <div class="fixed bottom-8 left-1/2 -translate-x-1/2 z-50 flex items-center gap-2 p-1.5 bg-black/40 backdrop-blur-xl border border-white/10 rounded-2xl shadow-2xl scale-90 sm:scale-100">
+            <nav aria-label="ページ内ナビゲーション" class="fixed bottom-4 sm:bottom-8 left-1/2 -translate-x-1/2 z-50 flex items-center gap-1 sm:gap-2 p-1.5 max-w-[calc(100vw-1rem)] overflow-x-auto text-white bg-black/70 backdrop-blur-xl border border-white/10 rounded-2xl shadow-2xl scale-90 sm:scale-100">
                 <a href="#info" class="px-4 py-2 hover:bg-white/10 rounded-xl transition-all text-[10px] font-black uppercase tracking-widest flex items-center gap-2 group">
                     <span class="w-1.5 h-1.5 rounded-full bg-blue-400 group-hover:scale-125 transition-transform"></span>
                     INFO
@@ -388,17 +368,17 @@ const teamStanding = leagueStandings.find((s: any) =>
                     PLAYERS
                 </a>
                 <div class="w-px h-4 bg-white/10 mx-1"></div>
-                <a href="#top" class="w-8 h-8 flex items-center justify-center hover:bg-yellow-400 hover:text-black rounded-xl transition-all group">
+                <a href="#top" aria-label="ページ上部へ戻る" class="w-8 h-8 shrink-0 flex items-center justify-center hover:bg-yellow-400 hover:text-black rounded-xl transition-all group">
                     <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg>
                 </a>
-            </div>
+            </nav>
 
             {/* チームヘッダー */}
             <div
                 class="bg-card rounded-3xl shadow-xl overflow-hidden border border-border-dim mb-12"
             >
-                <div class="bg-gray-900 p-8 md:p-12 text-white relative">
-                    <div class="absolute top-0 right-0 p-10 opacity-10 hidden md:block">
+                <div class="bg-gray-900 p-5 sm:p-8 md:p-12 text-white relative">
+                    <div class="absolute top-0 right-0 p-10 opacity-10 hidden md:block" aria-hidden="true">
                         <span
                             class="text-7xl font-black italic break-all text-right block max-w-xl uppercase"
                             >{teamEnName}</span
@@ -410,7 +390,7 @@ const teamStanding = leagueStandings.find((s: any) =>
                                 href={`/teams/${league}`}
                                 class="inline-flex items-center text-yellow-400 font-bold hover:translate-x-1 transition-transform"
                             >
-                                ← {league.toUpperCase().replace("-", " ")} チーム一覧
+                                ← {leagueLabel} チーム一覧
                             </a>
                             {teamStanding && (
                                 <a href="/standings" class="bg-yellow-400 text-black px-4 py-1.5 rounded-full font-black text-[10px] uppercase tracking-[0.2em] shadow-lg hover:bg-white transition-colors flex items-center gap-2">
@@ -422,9 +402,9 @@ const teamStanding = leagueStandings.find((s: any) =>
                         {
                             isLeagueOne ? (
                                 <>
-                                    <h1 class="text-5xl md:text-7xl font-black mb-4 tracking-tighter flex items-center gap-6 flex-wrap">
+                                    <h1 class="text-3xl sm:text-5xl md:text-7xl font-black mb-4 tracking-tighter flex items-center gap-4 sm:gap-6 flex-wrap break-words">
                                         {teamFlag && (
-                                            <span class="text-7xl md:text-8xl drop-shadow-2xl animate-in fade-in zoom-in duration-700">
+                                            <span aria-hidden="true" class="text-5xl sm:text-7xl md:text-8xl drop-shadow-2xl animate-in fade-in zoom-in duration-700">
                                                 {teamFlag}
                                             </span>
                                         )}
@@ -432,16 +412,16 @@ const teamStanding = leagueStandings.find((s: any) =>
                                     </h1>
                                     {teamEnName &&
                                         teamEnName !== teamNameDisplay && (
-                                            <div class="text-2xl font-bold text-foreground/40 mb-6 italic tracking-tight uppercase">
+                                            <div class="text-lg sm:text-2xl font-bold text-white/50 mb-6 italic tracking-tight uppercase break-words">
                                                 {teamEnName}
                                             </div>
                                         )}
                                 </>
                             ) : (
                                 <>
-                                    <h1 class="text-6xl md:text-8xl font-black mb-2 tracking-tighter flex items-center gap-6 flex-wrap uppercase">
+                                    <h1 class="text-3xl sm:text-6xl md:text-8xl font-black mb-2 tracking-tighter flex items-center gap-4 sm:gap-6 flex-wrap uppercase break-words">
                                         {teamFlag && (
-                                            <span class="text-7xl md:text-9xl drop-shadow-2xl animate-in fade-in zoom-in duration-700">
+                                            <span aria-hidden="true" class="text-5xl sm:text-7xl md:text-9xl drop-shadow-2xl animate-in fade-in zoom-in duration-700">
                                                 {teamFlag}
                                             </span>
                                         )}
@@ -449,29 +429,33 @@ const teamStanding = leagueStandings.find((s: any) =>
                                     </h1>
                                     {teamNameDisplay &&
                                         teamNameDisplay !== teamEnName && (
-                                            <div class="text-2xl font-bold text-foreground/40 mb-6 italic tracking-tight uppercase">
+                                            <div class="text-lg sm:text-2xl font-bold text-white/50 mb-6 italic tracking-tight uppercase break-words">
                                                 {teamNameDisplay}
                                             </div>
                                         )}
                                 </>
                             )
                         }
-                        <div class="flex gap-4">
+                        <div class="flex flex-wrap gap-2 sm:gap-4">
+                            {team.division && (
                             <span
                                 class="bg-yellow-400 text-black px-4 py-1 rounded-full font-black text-xs uppercase tracking-widest leading-none flex items-center"
                                 >{team.division}</span
                             >
+                            )}
+                            {team.host_area && (
                             <span
                                 class="bg-white/10 backdrop-blur-md px-4 py-1 rounded-full font-bold text-xs flex items-center"
                                 >{team.host_area}</span
                             >
+                            )}
                         </div>
                     </div>
                 </div>
 
-                <div class="p-10" id="info">
+                <div class="p-5 sm:p-10" id="info">
                     {getVenueArea(team.home_ground) && <PRNotice />}
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12">
                         <div class="space-y-8">
                             <h2
                                 class="text-xl font-black border-l-4 border-yellow-400 pl-4"
@@ -489,6 +473,7 @@ const teamStanding = leagueStandings.find((s: any) =>
                                         </dd>
                                     </div>
                                 )}
+                                {team.legal_entity && (
                                 <div>
                                     <dt
                                         class="text-[10px] font-black text-foreground/40 uppercase tracking-widest mb-1"
@@ -499,6 +484,7 @@ const teamStanding = leagueStandings.find((s: any) =>
                                         {team.legal_entity}
                                     </dd>
                                 </div>
+                                )}
                                 <div>
                                     <dt
                                         class="text-[10px] font-black text-foreground/40 uppercase tracking-widest mb-1"
@@ -519,6 +505,7 @@ const teamStanding = leagueStandings.find((s: any) =>
                                         </dd>
                                     )}
                                 </div>
+                                {team.host_area && (
                                 <div>
                                     <dt
                                         class="text-[10px] font-black text-foreground/40 uppercase tracking-widest mb-1"
@@ -529,6 +516,7 @@ const teamStanding = leagueStandings.find((s: any) =>
                                         {team.host_area}
                                     </dd>
                                 </div>
+                                )}
                                 {
                                     team.official_site && (
                                         <div>
@@ -556,16 +544,16 @@ const teamStanding = leagueStandings.find((s: any) =>
                         </div>
 
                             {/* [NEW] チーム内注目選手 (Star Players) */}
+                            {popularPlayers.length > 0 && (
                             <div class="space-y-6">
                                 <h2 class="text-xl font-black border-l-4 border-yellow-400 pl-4 uppercase tracking-wider">
                                     注目選手
                                 </h2>
-                                {popularPlayers.length > 0 ? (
                                     <div class="space-y-3">
                                         {popularPlayers.map(p => (
                                             <a href={rosterHref(p.id)} class="flex items-center gap-4 p-3 rounded-2xl bg-background border border-border-dim hover:border-yellow-400/50 transition-all group">
                                                 <div class="w-10 h-10 bg-gray-900 rounded-lg flex items-center justify-center text-foreground/20 font-black italic border border-border-dim group-hover:border-yellow-400/30 transition-colors">
-                                                    {p.name[0]}
+                                                    {(p.name_jp || p.name || "?")[0]}
                                                 </div>
                                                 <div class="flex-1 min-w-0">
                                                     <div class="text-[10px] font-black text-yellow-400/60 uppercase tracking-widest mb-0.5">TOP {p.rank}</div>
@@ -575,24 +563,15 @@ const teamStanding = leagueStandings.find((s: any) =>
                                             </a>
                                         ))}
                                     </div>
-                                ) : (
-                                    <div class="bg-background rounded-2xl p-6 border border-border-dim text-center">
-                                         <p class="text-[10px] text-foreground/40 font-bold">データ収集中...</p>
-                                    </div>
-                                )}
-                                <div class="bg-yellow-400/5 rounded-2xl p-4 border border-yellow-400/10">
-                                    <p class="text-[9px] text-yellow-400/60 font-black italic text-center uppercase tracking-widest leading-relaxed">
-                                        Team Stats / Featured Players
-                                    </p>
-                                </div>
                             </div>
+                            )}
                         </div>
                     </div>
                 </div>
 
                 {/* 代表経験者セクション (リーグワンのみ) */}
                 {internationalPlayers.length > 0 && (
-                    <section class="mb-16 scroll-mt-32 px-10 pb-2" id="internationals">
+                    <section class="mb-16 scroll-mt-32 pb-2" id="internationals">
                         <div class="flex items-center gap-4 mb-8">
                             <div class="flex items-center gap-3">
                                 <div class="w-1.5 h-8 bg-red-500 rounded-full"></div>
@@ -625,7 +604,7 @@ const teamStanding = leagueStandings.find((s: any) =>
 
                 {/* チーム紹介記事 */}
                 {TeamArticleContent && (
-                    <section class="mb-16 scroll-mt-32 px-10 pb-10" id="about">
+                    <section class="mb-16 scroll-mt-32 pb-10" id="about">
                         <div class="flex items-center gap-4 mb-8">
                             <div class="flex items-center gap-3">
                                 <div class="w-1.5 h-8 bg-purple-400 rounded-full"></div>
@@ -665,8 +644,9 @@ const teamStanding = leagueStandings.find((s: any) =>
                                             }
                                         }
                                         if (changed) {
+                                            const esc = (v) => v.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
                                             const span = document.createElement('span');
-                                            span.innerHTML = text
+                                            span.innerHTML = esc(text)
                                                 .replace(/\x00([^\x01]+)\x01([^\x02]+)\x02/g,
                                                     (_, s, n) => `<a href="${s}" class="text-yellow-400 hover:underline font-bold">${n}</a>`);
                                             node.replaceWith(span);
@@ -723,8 +703,7 @@ const teamStanding = leagueStandings.find((s: any) =>
                                         </div>
                                     </div>
                                     <div class="mt-4 pt-3 border-t border-border-dim/30 flex items-center justify-between text-[8px] font-black uppercase tracking-widest italic group-hover:text-yellow-400/40 transition-colors">
-                                        <span>Season 2025-26</span>
-                                        <span class="text-foreground/20">Performance</span>
+                                        <span>{m.date ? m.date.slice(0, 4) : ""}</span>
                                     </div>
                                 </div>
                             ))}
@@ -767,5 +746,5 @@ const teamStanding = leagueStandings.find((s: any) =>
                 }
             </section>
         </div>
-    </main>
+    </div>
 </Layout>

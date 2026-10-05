@@ -11,14 +11,14 @@ if (redirectTarget) {
 }
 ---
 
-<Layout title="404 Page Not Found | RUGBY PICKS">
-    <main class="min-h-[70vh] flex items-center justify-center px-4 py-20 relative overflow-hidden">
+<Layout noindex title="404 Page Not Found | RUGBY PICKS">
+    <div class="min-h-[70vh] flex items-center justify-center px-4 py-20 relative overflow-hidden">
         {/* 背景の装飾 */}
-        <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-yellow-400/5 rounded-full blur-[120px] -z-10"></div>
+        <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[min(800px,100vw)] h-[min(800px,100vw)] bg-yellow-400/5 rounded-full blur-[120px] -z-10"></div>
         
         <div class="max-w-2xl w-full text-center relative z-10">
             <div class="mb-8">
-                <span class="text-[12rem] font-black leading-none text-transparent bg-clip-text bg-gradient-to-b from-yellow-400 to-yellow-600/20 italic tracking-tighter opacity-50">404</span>
+                <span aria-hidden="true" class="text-[8rem] sm:text-[12rem] font-black leading-none text-transparent bg-clip-text bg-gradient-to-b from-yellow-400 to-yellow-600/20 italic tracking-tighter opacity-50">404</span>
             </div>
             
             <h1 class="text-4xl md:text-5xl font-black text-foreground mb-6 tracking-tight uppercase italic">
@@ -53,5 +53,5 @@ if (redirectTarget) {
                 </div>
             </div>
         </div>
-    </main>
+    </div>
 </Layout>

@@ -2,9 +2,12 @@
 import Layout from "../layouts/Layout.astro";
 ---
 
-<Layout title="RUGBY PICKSについて | 日本語で読むラグビーメディア">
-    <main class="bg-background min-h-screen pt-20 pb-20">
-        <div class="container mx-auto px-4 max-w-4xl font-sans leading-relaxed text-foreground/80">
+<Layout
+    title="RUGBY PICKSについて | 日本語で読むラグビーメディア"
+    description="RUGBY PICKS（ラグビーピックス）の運営者情報、サイトの目的、掲載データの方針、収益化についてご案内します。"
+>
+    <div class="bg-background pt-4 sm:pt-12 pb-20">
+        <div class="container mx-auto sm:px-4 max-w-4xl font-sans leading-relaxed text-foreground/80">
             <header class="mb-12 border-b border-border-dim pb-8 text-center sm:text-left">
                 <h1 class="text-4xl md:text-5xl font-black text-foreground italic tracking-tighter mb-4">
                     ABOUT <span class="text-yellow-400">RUGBY PICKS</span>
@@ -62,8 +65,8 @@ import Layout from "../layouts/Layout.astro";
                         <li class="flex items-start gap-3">
                             <span class="text-yellow-400 mt-1">✓</span>
                             <div>
-                                <strong class="text-foreground">世界4大リーグを完全網羅</strong>
-                                <p class="text-sm mt-1">日本のLeague One、フランスのTop 14、南半球のSuper Rugby、欧州・南アのURCを横断的に検索できます。</p>
+                                <strong class="text-foreground">国内外の主要リーグを横断</strong>
+                                <p class="text-sm mt-1">日本のリーグワンをはじめ、Top 14、Super Rugby、URC、プレミアシップなど海外リーグの情報を横断的に確認できます。</p>
                             </div>
                         </li>
                         <li class="flex items-start gap-3">
@@ -95,29 +98,29 @@ import Layout from "../layouts/Layout.astro";
                     <div class="bg-card border border-border-dim rounded-xl overflow-hidden">
                         <dl class="divide-y divide-border-dim">
                             <div class="flex flex-col sm:flex-row px-6 py-4 gap-1">
-                                <dt class="text-sm font-bold text-foreground/40 uppercase tracking-widest sm:w-40 flex-shrink-0">サイト名</dt>
+                                <dt class="text-sm font-bold text-foreground/60 uppercase tracking-widest sm:w-40 flex-shrink-0">サイト名</dt>
                                 <dd class="text-foreground font-bold">RUGBY PICKS（ラグビーピックス）</dd>
                             </div>
                             <div class="flex flex-col sm:flex-row px-6 py-4 gap-1">
-                                <dt class="text-sm font-bold text-foreground/40 uppercase tracking-widest sm:w-40 flex-shrink-0">運営者</dt>
+                                <dt class="text-sm font-bold text-foreground/60 uppercase tracking-widest sm:w-40 flex-shrink-0">運営者</dt>
                                 <dd class="text-foreground">RUGBY PICKS（個人運営）</dd>
                             </div>
                             <div class="flex flex-col sm:flex-row px-6 py-4 gap-1">
-                                <dt class="text-sm font-bold text-foreground/40 uppercase tracking-widest sm:w-40 flex-shrink-0">所在地</dt>
+                                <dt class="text-sm font-bold text-foreground/60 uppercase tracking-widest sm:w-40 flex-shrink-0">所在地</dt>
                                 <dd class="text-foreground">日本</dd>
                             </div>
                             <div class="flex flex-col sm:flex-row px-6 py-4 gap-1">
-                                <dt class="text-sm font-bold text-foreground/40 uppercase tracking-widest sm:w-40 flex-shrink-0">サイトURL</dt>
+                                <dt class="text-sm font-bold text-foreground/60 uppercase tracking-widest sm:w-40 flex-shrink-0">サイトURL</dt>
                                 <dd class="text-foreground">https://rugbypick.com</dd>
                             </div>
                             <div class="flex flex-col sm:flex-row px-6 py-4 gap-1">
-                                <dt class="text-sm font-bold text-foreground/40 uppercase tracking-widest sm:w-40 flex-shrink-0">お問い合わせ</dt>
+                                <dt class="text-sm font-bold text-foreground/60 uppercase tracking-widest sm:w-40 flex-shrink-0">お問い合わせ</dt>
                                 <dd class="text-foreground">
                                     <a href="/contact" class="text-yellow-400 hover:text-yellow-500 underline transition-colors">お問い合わせフォームへ</a>
                                 </dd>
                             </div>
                             <div class="flex flex-col sm:flex-row px-6 py-4 gap-1">
-                                <dt class="text-sm font-bold text-foreground/40 uppercase tracking-widest sm:w-40 flex-shrink-0">収益化</dt>
+                                <dt class="text-sm font-bold text-foreground/60 uppercase tracking-widest sm:w-40 flex-shrink-0">収益化</dt>
                                 <dd class="text-foreground text-sm">Google AdSense による広告収益、およびAmazon・楽天アフィリエイトプログラムによる紹介料</dd>
                             </div>
                         </dl>
@@ -125,17 +128,12 @@ import Layout from "../layouts/Layout.astro";
                 </div>
 
                 <div class="pt-8 border-t border-border-dim text-center">
-                    <p class="text-sm text-foreground/40 italic">
+                    <p class="text-sm text-foreground/60 italic">
                         RUGBY PICKS 運営者
                     </p>
                 </div>
             </section>
         </div>
-    </main>
+    </div>
 </Layout>
 
-<style>
-    main {
-        background: radial-gradient(circle at 50% 0%, var(--background) 0%, var(--card) 100%);
-    }
-</style>

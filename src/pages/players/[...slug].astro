@@ -321,7 +321,7 @@ const nameVariantsText = nameVariants.length
 <Layout
   noindex={(thinPages.players as string[]).includes(player.slug)}
   title={`${mainName}${subName ? ` (${subName})` : ""} | ラグビー選手名鑑 | RUGBY PICKS`}
-  description={`${mainName}${nameVariantsText}のプロフィール。${metaDesc}。正確な選手情報をお届けします。`}
+  description={`${mainName}${nameVariantsText}のプロフィール。${metaDesc ? `${metaDesc}。` : ""}正確な選手情報をお届けします。`}
 >
   <JSONLD type="SportsPlayer" data={jsonldData} />
   <div class="py-4">
@@ -341,9 +341,9 @@ const nameVariantsText = nameVariants.length
 
     <div class="bg-card rounded-3xl shadow-2xl overflow-hidden border border-border-dim">
       {/* ヘッダー */}
-      <div class="bg-gray-900 p-8 text-white relative">
+      <div class="bg-gray-900 p-5 sm:p-8 text-white relative overflow-hidden">
         {player.position && (
-          <div class="absolute top-0 right-0 p-8 opacity-10 pointer-events-none">
+          <div class="absolute top-0 right-0 p-8 opacity-10 pointer-events-none" aria-hidden="true">
             <span class="text-9xl font-black">{player.position}</span>
           </div>
         )}
@@ -356,7 +356,7 @@ const nameVariantsText = nameVariants.length
             ← 選手一覧に戻る
           </a>
 
-          <div class="flex items-center gap-6">
+          <div class="flex items-center gap-4 sm:gap-6">
             <PlayerAvatar
               name={mainName}
               color={teamColor}
@@ -365,14 +365,14 @@ const nameVariantsText = nameVariants.length
               playerId={player.id}
               isMinor={player.is_minor}
             />
-            <div>
-              <h1 class="text-4xl md:text-5xl font-black mb-2">{mainName}</h1>
+            <div class="min-w-0">
+              <h1 class="text-2xl sm:text-4xl md:text-5xl font-black mb-2 break-words">{mainName}</h1>
               {subName && (
                 <p
                   class={
                     prefersJa
-                      ? "text-xl text-gray-400 font-bold uppercase tracking-widest"
-                      : "text-xl text-gray-300 font-bold tracking-widest italic"
+                      ? "text-base sm:text-xl text-gray-400 font-bold uppercase tracking-widest break-words"
+                      : "text-base sm:text-xl text-gray-300 font-bold tracking-widest italic break-words"
                   }
                 >
                   {subName}
@@ -384,14 +384,14 @@ const nameVariantsText = nameVariants.length
       </div>
 
       {/* 本体 */}
-      <div class="p-8">
+      <div class="p-5 sm:p-8">
         {/* 統計グリッド */}
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
           {[statsLeft, statsRight].map((col) => (
             <div class="space-y-6">
               {col.map((s) => (
-                <div class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3">
-                  <div class="flex flex-col">
+                <div class="flex justify-between items-end gap-4 border-b-2 border-border-dim/20 pb-3">
+                  <div class="flex flex-col shrink-0">
                     <span class="font-black text-foreground text-sm">{s.label}</span>
                     <span
                       class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
@@ -402,7 +402,7 @@ const nameVariantsText = nameVariants.length
                   {s.href ? (
                     <a
                       href={s.href}
-                      class={`font-black tracking-tighter hover:text-yellow-600 transition-colors underline decoration-border-dim/50 hover:decoration-yellow-400 decoration-2 underline-offset-4 text-right ml-4 ${
+                      class={`font-black tracking-tighter hover:text-yellow-600 transition-colors underline decoration-border-dim/50 hover:decoration-yellow-400 decoration-2 underline-offset-4 text-right min-w-0 break-words ${
                         s.accent ? "text-yellow-600 text-lg" : "text-foreground text-xl"
                       }`}
                     >
@@ -410,7 +410,7 @@ const nameVariantsText = nameVariants.length
                     </a>
                   ) : (
                     <span
-                      class={`font-black tracking-tighter text-right ml-4 ${
+                      class={`font-black tracking-tighter text-right min-w-0 break-words ${
                         s.accent ? "text-yellow-600 text-lg" : "text-foreground text-xl"
                       }`}
                     >
@@ -441,7 +441,7 @@ const nameVariantsText = nameVariants.length
               <span
                 class="inline-flex items-center gap-2 bg-border-dim/10 rounded-full px-3 py-1 text-sm font-bold text-foreground"
               >
-                {flagFor(c) && <span class="text-lg leading-none">{flagFor(c)}</span>}
+                {flagFor(c) && <span class="text-lg leading-none" aria-hidden="true">{flagFor(c)}</span>}
                 {c}
               </span>
             ))}
@@ -510,7 +510,7 @@ const nameVariantsText = nameVariants.length
                   href={`https://www.instagram.com/${igEmbed.account}/`}
                   class="text-yellow-600 font-bold hover:text-yellow-500"
                   target="_blank"
-                  rel="noopener"
+                  rel="noopener noreferrer"
                 >@{igEmbed.account}</a>
               </p>
             )}

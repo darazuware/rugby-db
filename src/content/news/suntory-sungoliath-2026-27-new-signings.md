@@ -6,7 +6,7 @@ category: "NEWS"
 tags: ["リーグワン", "東京サントリーサンゴリアス", "新加入", "移籍", "2026-27シーズン"]
 ---
 
-# [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/)、2026-27シーズン新加入3選手を発表
+## [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/)、2026-27シーズン新加入3選手を発表
 
 東京[サントリー](/teams/league-one/tokyo-suntory-sungoliath/)サンゴリアスは、2026-27シーズンからチームに加わる新加入選手を相次いで発表した。海外でキャップを重ねてきた選手が名を連ね、リーグワン屈指の顔ぶれとなる。
 

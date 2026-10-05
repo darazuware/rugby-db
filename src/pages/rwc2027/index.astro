@@ -48,8 +48,17 @@ const durationDays =
       86400000
   ) + 1;
 
-const pageTitle = "ラグビーワールドカップ2027 日程・組み合わせ・日本代表試合日｜完全ガイド";
-const pageDescription = `${formatDate(rwc.tournament.start_date)}〜${formatDate(rwc.tournament.end_date)}開催。オーストラリアでの大会に日本はプールEで、フランス・アメリカ・サモアと同じプールで戦います。全試合日程・会場・組み合わせを完全網羅。`;
+const pageTitle = "ラグビーワールドカップ2027 日程・組み合わせ・日本代表試合日｜完全ガイド | RUGBY PICKS";
+// 事実（開催国・プール・対戦国）は data/manual/rwc2027.json からのみ組み立てる（03_VALIDATION）
+const japanPool: string | null = rwc.japan_pool ?? null;
+const japanPoolOpponents: string[] = japanPool
+  ? ((rwc.pools?.[japanPool] ?? []) as string[]).filter((t) => t !== "日本")
+  : [];
+const pageDescription = `${formatDate(rwc.tournament.start_date)}〜${formatDate(rwc.tournament.end_date)}開催。${rwc.tournament.host_country_ja}での大会${
+  japanPool && japanPoolOpponents.length > 0
+    ? `に日本はプール${japanPool}で、${japanPoolOpponents.join("・")}と同じプールで戦います`
+    : ""
+}。試合日程・会場・組み合わせをまとめています。`;
 
 // JSON-LD schema for SportsEvent
 const jsonLdData = {
@@ -75,12 +84,6 @@ const jsonLdData = {
     "@type": "Organization",
     "name": "World Rugby",
     "url": "https://www.world.rugby/"
-  },
-  "offers": {
-    "@type": "Offer",
-    "url": "https://rugbypick.com/rwc2027",
-    "availability": "https://schema.org/InStock",
-    "validFrom": rwc.scraped_at
   }
 };
 ---
@@ -92,11 +95,11 @@ const jsonLdData = {
 
   <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLdData)} />
 
-  <main class="min-h-screen bg-background">
-    <div class="pt-8 pb-16 px-4">
+  <div class="min-h-screen bg-background">
+    <div class="pt-8 pb-16 sm:px-4">
       <div class="max-w-7xl mx-auto">
         {/* H1 Title */}
-        <h1 class="text-4xl md:text-6xl font-black text-foreground italic tracking-tighter mb-4 leading-tight">
+        <h1 class="text-3xl sm:text-4xl md:text-6xl font-black text-foreground italic tracking-tighter mb-4 leading-tight break-words">
           {rwc.tournament.name_ja}
         </h1>
         <p class="text-foreground/60 font-bold tracking-[0.05em] text-sm md:text-base mb-4">
@@ -386,7 +389,7 @@ const jsonLdData = {
 
       </div>
     </div>
-  </main>
+  </div>
 
   <style>
     main {

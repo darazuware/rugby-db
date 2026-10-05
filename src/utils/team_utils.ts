@@ -155,3 +155,43 @@ export function getTeamSlug(name: string): string {
         .replace(/-+/g, "-")
         .replace(/^-|-$/g, "");
 }
+
+export interface TeamNameMapping {
+    jp: string;
+    flag?: string;
+    country?: string;
+    aliases?: string[];
+    formalName: string;
+    [key: string]: unknown;
+}
+
+/**
+ * data/team_names_jp.json からチーム名の日本語表記・旗などのマッピングを探す。
+ * 1. 正式名（English Key）で直接検索
+ * 2. エイリアス、日本語名、短縮日本語名、正式名の部分一致で全体検索
+ * @param loose true のとき日本語名の部分一致も許可する（一覧・順位表用）
+ */
+export function findTeamNameMapping(
+    namesByLeague: Record<string, Record<string, any>>,
+    leagueId: string,
+    teamName: string,
+    loose = false,
+): TeamNameMapping | null {
+    const leagueMapping = namesByLeague[leagueId || ""] || {};
+    if (leagueMapping[teamName]) return { ...leagueMapping[teamName], formalName: teamName };
+    for (const formalName in leagueMapping) {
+        const data = leagueMapping[formalName];
+        const shortJp = data.jp.includes("（") ? data.jp.split("（")[0] : data.jp;
+        if (
+            data.jp === teamName ||
+            shortJp === teamName ||
+            (data.aliases && data.aliases.includes(teamName)) ||
+            formalName.includes(teamName) ||
+            teamName.includes(formalName) ||
+            (loose && (data.jp.includes(teamName) || teamName.includes(data.jp)))
+        ) {
+            return { ...data, formalName };
+        }
+    }
+    return null;
+}

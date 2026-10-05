@@ -6,7 +6,7 @@ const leagues = [
         id: "league-one",
         name: "League One",
         description:
-            "日本最高峰のラグビーリーグ。Division 1〜3まで全チーム網羅。",
+            "日本最高峰のラグビーリーグ。Division 1〜3のチームを掲載。",
     },
     {
         id: "super-rugby",
@@ -45,8 +45,11 @@ const regionalLeagues = [
 ];
 ---
 
-<Layout title="チーム一覧 | RUGBY PICKS">
-    <main class="bg-background min-h-screen py-12 px-4">
+<Layout
+    title="チーム一覧 | RUGBY PICKS"
+    description="リーグワン、スーパーラグビー、トップ14、URC、プレミアシップ、社会人地域リーグのチーム一覧。各チームの所属選手・戦績ページへ移動できます。"
+>
+    <div class="bg-background min-h-screen py-4 sm:py-12 sm:px-4">
         <div class="max-w-7xl mx-auto">
             <header class="mb-16 text-center">
                 <h1
@@ -83,7 +86,7 @@ const regionalLeagues = [
                                 <p class="text-foreground/60 font-medium text-sm leading-relaxed mb-6">
                                     {league.description}
                                 </p>
-                                <div class="flex items-center gap-2 text-xs font-black uppercase tracking-widest text-foreground/30 group-hover:text-foreground transition-colors">
+                                <div class="flex items-center gap-2 text-xs font-black uppercase tracking-widest text-foreground/60 group-hover:text-foreground transition-colors">
                                     <span>Go to Teams</span>
                                     <span class="group-hover:translate-x-1 transition-transform">
                                         →
@@ -117,7 +120,7 @@ const regionalLeagues = [
                                 <p class="text-foreground/60 font-medium text-sm leading-relaxed mb-6">
                                     {league.description}
                                 </p>
-                                <div class="flex items-center gap-2 text-xs font-black uppercase tracking-widest text-foreground/30 group-hover:text-foreground transition-colors">
+                                <div class="flex items-center gap-2 text-xs font-black uppercase tracking-widest text-foreground/60 group-hover:text-foreground transition-colors">
                                     <span>Go to Teams</span>
                                     <span class="group-hover:translate-x-1 transition-transform">→</span>
                                 </div>
@@ -128,7 +131,7 @@ const regionalLeagues = [
             </div>
 
             <div
-                class="bg-card rounded-[3rem] p-12 text-center relative overflow-hidden border border-border-dim"
+                class="bg-card rounded-[2rem] sm:rounded-[3rem] p-6 sm:p-12 text-center relative overflow-hidden border border-border-dim"
             >
                 <div
                     class="absolute top-0 left-0 w-full h-full opacity-10 pointer-events-none"
@@ -161,5 +164,5 @@ const regionalLeagues = [
                 </div>
             </div>
         </div>
-    </main>
+    </div>
 </Layout>

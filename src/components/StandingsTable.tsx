@@ -123,6 +123,17 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, re
             return rb - ra;
         });
 
+    // ディビジョン別に同じ節番号が並ぶため、DOM id は最初の出現のみ `${leagueId}-round-N`
+    // （ジャンプ先）とし、2つ目以降はディビジョン名を付けて重複を避ける。
+    const seenRoundIds = new Set<string>();
+    const uniqueRoundId = (roundKey: string, div: string) => {
+        if (!seenRoundIds.has(roundKey)) {
+            seenRoundIds.add(roundKey);
+            return roundKey;
+        }
+        return `${roundKey}-${String(div).toLowerCase().replace(/\s+/g, '-')}`;
+    };
+
     const renderRows = (items: Standing[]) => (
         items.map((team, index) => {
             const displayName = team.display_name || team.team_name_jp || team.team_name;
@@ -241,9 +252,11 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, re
                             <div className="relative group/jump w-full sm:w-auto">
                                 <select 
                                     onChange={handleRoundJump}
+                                    defaultValue=""
+                                    aria-label="節を選択"
                                     className="w-full sm:w-auto bg-black/20 hover:bg-black/30 border border-white/20 rounded-xl px-4 py-1.5 text-[10px] font-black text-white appearance-none cursor-pointer focus:outline-none transition-all uppercase tracking-widest"
                                 >
-                                    <option value="" disabled selected>節を選択 (Jump to Round)</option>
+                                    <option value="" disabled>節を選択 (Jump to Round)</option>
                                     {availableRounds.map(roundKey => {
                                         const roundId = roundKey.split('-').pop();
                                         return (
@@ -289,7 +302,7 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, re
                                         }).map(roundKey => {
                                             const roundId = roundKey.split('-').pop();
                                             return (
-                                                <div key={roundKey} id={roundKey} className="scroll-mt-24">
+                                                <div key={roundKey} id={uniqueRoundId(roundKey, div)} className="scroll-mt-24">
                                                     <div className="flex items-center gap-3 mb-4">
                                                         <span className="text-[10px] font-black text-yellow-500 uppercase italic">
                                                             {leagueId === 'league-one' ? `第${roundId}節` : `ROUND ${roundId}`}

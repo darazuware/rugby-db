@@ -740,6 +740,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                         <label className="block text-xs font-black text-foreground/40 uppercase tracking-widest mb-2">キーワードで探す</label>
                         <input
                             type="text"
+                            aria-label="キーワードで選手を探す"
                             placeholder="選手名, 所属チーム..."
                             className={`w-full p-4 bg-background border-2 border-transparent rounded-2xl focus:bg-card ${theme.focus} outline-none transition-all font-bold text-lg text-foreground`}
                             value={search}

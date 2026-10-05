@@ -13,8 +13,11 @@ const formatDate = (date: Date) => {
 };
 ---
 
-<Layout title="ニュース & コラム | RUGBY PICKS">
-  <main class="py-12">
+<Layout
+  title="ニュース & コラム | RUGBY PICKS"
+  description="RUGBY PICKSのラグビーニュース・コラム一覧。リーグワン、日本代表、海外リーグの試合レポートや移籍情報を新しい順に掲載しています。"
+>
+  <div class="py-4 sm:py-12">
     <header class="mb-12 border-b border-border-dim pb-8">
       <h1 class="text-4xl font-black text-foreground italic tracking-tighter mb-4">
         NEWS <span class="text-yellow-400">&</span> COLUMN
@@ -24,7 +27,7 @@ const formatDate = (date: Date) => {
       </p>
     </header>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-8">
       {
         news.map((item) => (
           <a
@@ -35,7 +38,7 @@ const formatDate = (date: Date) => {
               <span class="bg-yellow-400 text-black text-[10px] font-black px-2 py-0.5 rounded uppercase tracking-widest">
                 {item.data.category || "NEWS"}
               </span>
-              <time class="text-xs text-foreground/40 font-bold font-mono">
+              <time datetime={item.data.pubDate.toISOString()} class="text-xs text-foreground/60 font-bold font-mono">
                 {formatDate(item.data.pubDate)}
               </time>
             </div>
@@ -53,5 +56,5 @@ const formatDate = (date: Date) => {
         ))
       }
     </div>
-  </main>
+  </div>
 </Layout>

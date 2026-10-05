@@ -3,7 +3,8 @@ import Layout from "../../layouts/Layout.astro";
 import nationalTeamsConfig from "../../../data/national_teams_config.json";
 import nationalPlayersMap from "../../../data/national_players_map.json";
 import NationalPlayerList from "../../components/NationalPlayerList";
-import { getCollection, type CollectionEntry } from "astro:content";
+import type { CollectionEntry } from "astro:content";
+import { getLiveNews } from "../../lib/news";
 import { getPlayerHrefResolver, getPlayerSlugResolution } from "../../lib/master";
 
 export const prerender = true;
@@ -31,13 +32,9 @@ const players = ((nationalPlayersMap as any)[team.id] || []).map((p: any) => ({
 }));
 
 // その国の関連記事（news）。tag か title にチーム名（「代表」を除いた短縮名）を含むものを集める。
-// 未来pubDate・下書きは除外（news 一覧と同じ JST 基準）。
-const nowJst = Date.now() + 9 * 60 * 60 * 1000;
+// 未公開・下書きは除外（news/[slug] の生成条件と同じ lib/news.ts の基準。リンク切れ防止）。
 const countryTag = team.name.replace(/代表$/, "").trim();
-const allNews = await getCollection(
-  "news",
-  (e: CollectionEntry<"news">) => !e.data.draft && e.data.pubDate.valueOf() <= nowJst,
-);
+const allNews = await getLiveNews();
 // タイトルに国名を含む記事＝その国が主題（tag の substring 一致は
 // 「日本代表」タグを他国記事が持つため誤検知するので使わない）。
 // 先頭タグが国名と完全一致する場合も拾う（国別ガイドは先頭タグが国名）。
@@ -46,10 +43,6 @@ const teamArticles = allNews
     (e: CollectionEntry<"news">) =>
       e.data.title.includes(countryTag) ||
       (e.data.tags ?? [])[0] === countryTag,
-  )
-  .sort(
-    (a: CollectionEntry<"news">, b: CollectionEntry<"news">) =>
-      b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
   );
 
 // ヒーローセクションの背景グラデーション
@@ -57,10 +50,10 @@ const bgGradient = `linear-gradient(135deg, ${team.color} 0%, #111 100%)`;
 ---
 
 <Layout title={`${team.name} | RUGBY PICKS`} description={`${team.name}の所属選手、キャップ数、プロフィール一覧。2027年ラグビーワールドカップに向けた各国の戦力をチェック。`}>
-  <main class="min-h-screen bg-background">
+  <div class="min-h-screen bg-background">
     {/* ヒーローセクション */}
     <div 
-      class="relative overflow-hidden pt-32 pb-20 md:pt-48 md:pb-32 px-4 border-b border-border-dim/30"
+      class="relative overflow-hidden pt-16 pb-12 md:pt-48 md:pb-32 px-4 rounded-3xl md:rounded-none border-b border-border-dim/30"
       style={{ background: bgGradient }}
     >
       <div class="absolute inset-0 opacity-20 pointer-events-none">
@@ -72,7 +65,7 @@ const bgGradient = `linear-gradient(135deg, ${team.color} 0%, #111 100%)`;
       
       <div class="max-w-7xl mx-auto relative z-10">
         <div class="flex flex-col items-center gap-6 md:gap-10 text-center">
-          <div class="text-4xl md:text-6xl drop-shadow-2xl animate-bounce-subtle shrink-0">
+          <div aria-hidden="true" class="text-4xl md:text-6xl drop-shadow-2xl animate-bounce-subtle shrink-0">
             {team.flag}
           </div>
           <div class="space-y-3">
@@ -95,41 +88,41 @@ const bgGradient = `linear-gradient(135deg, ${team.color} 0%, #111 100%)`;
     </div>
 
     {/* メインコンテンツ */}
-    <div class="max-w-7xl mx-auto px-4 py-16">
-      <div class="flex flex-col lg:flex-row gap-12">
+    <div class="max-w-7xl mx-auto sm:px-4 py-8 sm:py-16">
+      <div class="flex flex-col lg:flex-row gap-8 lg:gap-12">
         {/* 左側：統計・情報 (Sticky) */}
         <aside class="lg:w-1/4 space-y-8">
           {/* チーム切り替えボタン */}
           <div class="mb-8">
             <a 
               href="/national-teams"
-              class="flex items-center justify-center gap-2 w-full py-4 bg-white/5 hover:bg-white/10 border border-white/10 rounded-2xl text-[12px] font-black text-white uppercase tracking-widest transition-all group"
+              class="flex items-center justify-center gap-2 w-full py-4 bg-foreground/5 hover:bg-foreground/10 border border-border-dim rounded-2xl text-[12px] font-black text-foreground uppercase tracking-widest transition-all group"
             >
-              <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 transform group-hover:-translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="15 19l-7-7 7-7" />
+              <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 transform group-hover:-translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
               </svg>
               その他の代表チームを見る
             </a>
           </div>
 
-          <div class="bg-card/30 backdrop-blur-xl border border-border-dim/50 rounded-3xl p-8 sticky top-28">
+          <div class="bg-card/30 backdrop-blur-xl border border-border-dim/50 rounded-3xl p-6 sm:p-8 lg:sticky lg:top-28">
             <h2 class="text-[12px] font-black text-foreground/40 uppercase tracking-[0.3em] italic mb-8 border-b border-border-dim/10 pb-4">
               Team Overview
             </h2>
             <div class="space-y-8">
               <div>
-                <div class="text-[10px] font-black text-foreground/30 uppercase tracking-widest mb-1">Squad Size</div>
+                <div class="text-[10px] font-black text-foreground/60 uppercase tracking-widest mb-1">Squad Size</div>
                 <div class="text-4xl font-black text-foreground italic">{players.length}<span class="text-sm ml-1 opacity-40">Players</span></div>
               </div>
               <div>
-                <div class="text-[10px] font-black text-foreground/30 uppercase tracking-widest mb-1">Most Caps</div>
+                <div class="text-[10px] font-black text-foreground/60 uppercase tracking-widest mb-1">Most Caps</div>
                 <div class="text-4xl font-black text-foreground italic">
                   {Math.max(0, ...players.map((p: any) => parseInt(p.caps_display || "0", 10) || 0))}
                   <span class="text-sm ml-1 opacity-40">Caps</span>
                 </div>
               </div>
               <div class="pt-8 mt-8 border-t border-border-dim/10">
-                <p class="text-[11px] font-bold text-foreground/40 leading-relaxed">
+                <p class="text-[11px] font-bold text-foreground/60 leading-relaxed">
                   ※現在代表に選ばれている（近年テストマッチに出場した）選手をキャップ数順に掲載しています。2027年ワールドカップ本大会の最終メンバーは未定です。
                 </p>
               </div>
@@ -171,7 +164,7 @@ const bgGradient = `linear-gradient(135deg, ${team.color} 0%, #111 100%)`;
         </div>
       </div>
     </div>
-  </main>
+  </div>
 </Layout>
 
 <style>

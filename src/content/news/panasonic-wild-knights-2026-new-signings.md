@@ -6,7 +6,7 @@ category: "NEWS"
 tags: ["リーグワン", "埼玉パナソニックワイルドナイツ", "新加入", "2026年度"]
 ---
 
-# [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/)、オーストラリアの若手2人が新加入
+## [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/)、オーストラリアの若手2人が新加入
 
 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/)は、2026年度の新加入選手を発表した。いずれもオーストラリア出身の若手バックスで、将来性を見込んでの獲得となる。
 

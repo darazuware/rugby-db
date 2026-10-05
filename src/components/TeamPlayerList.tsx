@@ -183,6 +183,7 @@ const TeamPlayerList: React.FC<Props> = ({ players: rawPlayers, isLeagueOne = fa
                     <div className="relative group">
                         <input
                             type="text"
+                            aria-label="名前・学校名・ポジションで選手を検索"
                             placeholder="名前、学校名、ポジションなどで検索..."
                             className="w-full p-5 bg-background border-2 border-transparent rounded-2xl focus:border-yellow-400/50 outline-none transition-all font-bold text-lg text-foreground shadow-sm group-hover:shadow-md"
                             value={searchTerm}

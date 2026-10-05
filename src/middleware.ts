@@ -67,12 +67,11 @@ export const onRequest = defineMiddleware(async (context, next) => {
   const { url, request } = context;
   const pathname = url.pathname;
   
-  // Vercel環境でのIP取得 (ビルド時は null または unknown になる可能性があるためガード)
-  const ip = request.headers?.get('x-forwarded-for') || 'unknown';
-  const userAgent = request.headers?.get('user-agent') || 'unknown';
-
   // ハニーポットへのアクセスを検知
+  // ヘッダーはここでのみ読む（プリレンダー時に Astro.request.headers 警告を出さないため）
   if (pathname === HONEYPOT_PATH) {
+    const ip = request.headers?.get('x-forwarded-for') || 'unknown';
+    const userAgent = request.headers?.get('user-agent') || 'unknown';
     console.warn(`[BOT DETECTED] IP: ${ip}, UA: ${userAgent}, Path: ${pathname}`);
     
     return new Response(

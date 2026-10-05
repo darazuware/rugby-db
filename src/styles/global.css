@@ -1,5 +1,8 @@
 @import "tailwindcss";
 
+/* ThemeToggle は <html class="dark"> を切り替えるため、dark: バリアントをクラス基準にする */
+@custom-variant dark (&:where(.dark, .dark *));
+
 @theme {
     --font-sans: "Inter", "ui-sans-serif", "system-ui", "sans-serif", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     --font-display: "Outfit", "sans-serif";
@@ -42,7 +45,73 @@
     }
 }
 
-/* 記事本文のスタイル */
+/* 記事本文のスタイル
+   @tailwindcss/typography は未導入のため、Markdown 本文の基本書式をここで定義する
+   （Tailwind の preflight で見出し・リストの書式が消えるのを補う） */
+.prose {
+    line-height: 1.85;
+    overflow-wrap: anywhere;
+}
+.prose h2 {
+    font-size: 1.375rem;
+    font-weight: 900;
+    line-height: 1.4;
+}
+.prose h3 {
+    font-size: 1.125rem;
+    font-weight: 800;
+    line-height: 1.5;
+}
+.prose h4 {
+    font-weight: 700;
+    margin-top: 1.25rem;
+    margin-bottom: 0.5rem;
+}
+.prose ul,
+.prose ol {
+    padding-left: 1.5rem;
+    margin: 1rem 0 1.25rem;
+}
+.prose ul {
+    list-style: disc;
+}
+.prose ol {
+    list-style: decimal;
+}
+.prose li {
+    margin: 0.35rem 0;
+}
+.prose li::marker {
+    color: #eab308;
+}
+.prose a {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+.prose strong {
+    font-weight: 800;
+}
+.prose blockquote {
+    border-left: 4px solid #facc15;
+    padding: 0.25rem 0 0.25rem 1rem;
+    margin: 1.5rem 0;
+    opacity: 0.85;
+}
+.prose hr {
+    margin: 2rem 0;
+    border-color: var(--border-color);
+}
+.prose img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 0.5rem;
+}
+.prose code {
+    font-size: 0.9em;
+    padding: 0.1em 0.3em;
+    border-radius: 0.25rem;
+    background-color: var(--accent-dim);
+}
 .prose table {
     width: 100%;
     border-collapse: collapse;
@@ -210,4 +279,20 @@
     opacity: 1;
     visibility: visible;
     transform: translateX(-50%) translateY(0);
+}
+/* キーボード操作時のフォーカス表示（アクセシビリティ） */
+:where(a, button, summary, input, select, textarea, [tabindex]):focus-visible {
+    outline: 2px solid #facc15;
+    outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
 }

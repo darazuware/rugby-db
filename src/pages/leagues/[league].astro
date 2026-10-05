@@ -32,6 +32,8 @@ if (!league || !LEAGUE_TITLE_MAP[league as string]) {
 }
 
 const targetLeague = (league || "").toLowerCase().trim();
+const leagueLabel = (league || "").replaceAll("-", " ").toUpperCase();
+// /teams/[league] と内容が重複するため noindex（sitemap からも除外: astro.config.mjs）
 
 // 試合結果データの取得 (results_2026.json)
 import resultsData from "../../../data/results_2026.json";
@@ -55,26 +57,24 @@ const leagueResults = leagueResultsAll.filter((m: any) => {
 ---
 
 <Layout
+    noindex
     title={`${title} | ラグビー選手名鑑 | RUGBY PICKS`}
-    description={`${title}。${league
-        ?.replace("-", " ")
-        .toUpperCase()} に登録されている全選手の身長、体重、年齢、ポジション別の検索・ソートが可能です。`}
+    description={`${title}。${leagueLabel} に登録されている全選手の身長、体重、年齢、ポジション別の検索・ソートが可能です。`}
 >
-    <!-- DEBUG: LEAGUES-PAGE-COMBINED-20260312 -->
-    <main class="bg-background min-h-screen pt-12 pb-24">
-        <div class="container mx-auto px-4 mb-12">
+    <div class="bg-background min-h-screen pt-4 sm:pt-12 pb-24">
+        <div class="container mx-auto sm:px-4 mb-12">
             <div
-                class="flex items-center gap-4 text-xs font-black text-foreground/30 uppercase tracking-[0.3em] mb-8"
+                class="flex items-center gap-4 text-xs font-black text-foreground/60 uppercase tracking-[0.3em] mb-8"
             >
                 <a href="/" class="hover:text-yellow-400 transition-colors"
                     >HOME</a
                 >
-                <span class="text-foreground/10">/</span>
-                <span class="text-yellow-400">{league?.replace("-", " ")}</span>
+                <span class="text-foreground/30" aria-hidden="true">/</span>
+                <span class="text-yellow-600">{leagueLabel}</span>
             </div>
 
-            <h1 class="text-5xl md:text-7xl font-black text-white italic tracking-tighter mb-12 uppercase">
-                {league?.replace("-", " ")}
+            <h1 class="text-4xl sm:text-5xl md:text-7xl font-black text-foreground italic tracking-tighter mb-12 uppercase break-words">
+                {leagueLabel}
             </h1>
 
             {/* 順位表セクション */}
@@ -96,7 +96,7 @@ const leagueResults = leagueResultsAll.filter((m: any) => {
             )}
         </div>
 
-        <div id="players" class="max-w-7xl mx-auto px-4 mt-24 border-t border-border-dim pt-24">
+        <div id="players" class="max-w-7xl mx-auto sm:px-4 mt-24 border-t border-border-dim pt-24">
             <div class="flex items-center gap-4 mb-12">
                 <h2 class="text-2xl font-black text-foreground italic tracking-tight uppercase">Player Directory</h2>
                 <div class="h-px flex-1 bg-border-dim"></div>
@@ -107,10 +107,11 @@ const leagueResults = leagueResultsAll.filter((m: any) => {
                 leagueContext={targetLeague}
             />
         </div>
-    </main>
+    </div>
 
     {/* 固定クイックナビゲーション (PC & スマホ) */}
     <nav
+        aria-label="クイックナビゲーション"
         class="fixed right-4 bottom-8 xl:right-8 xl:top-1/2 xl:-translate-y-1/2 z-50 flex flex-col gap-3 animate-in fade-in slide-in-from-right-4 duration-500"
     >
         {/* トップへ戻る */}
@@ -118,6 +119,7 @@ const leagueResults = leagueResultsAll.filter((m: any) => {
             href="#top"
             class="w-12 h-12 md:w-14 md:h-14 bg-card/90 backdrop-blur-md border border-border-dim rounded-2xl shadow-xl flex items-center justify-center text-foreground/40 hover:text-yellow-500 hover:border-yellow-200 transition-all hover:-translate-y-1 group"
             title="トップへ戻る"
+            aria-label="トップへ戻る"
         >
             <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -141,6 +143,7 @@ const leagueResults = leagueResultsAll.filter((m: any) => {
             href="#players"
             class="w-12 h-12 md:w-14 md:h-14 bg-yellow-400 border border-yellow-500 rounded-2xl shadow-xl shadow-yellow-400/20 flex items-center justify-center text-black hover:scale-110 transition-all group"
             title="選手検索"
+            aria-label="選手検索"
         >
             <svg
                 xmlns="http://www.w3.org/2000/svg"

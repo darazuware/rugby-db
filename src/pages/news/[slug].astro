@@ -2,6 +2,7 @@
 import Layout from "../../layouts/Layout.astro";
 import AuthorBox from "../../components/AuthorBox.astro";
 import { getCollection, getEntry, type CollectionEntry } from "astro:content";
+import { isLive } from "../../lib/news";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import MagazineBanner from "../../components/MagazineBanner.astro";
 import AffiliateSlot from "../../components/AffiliateSlot.astro";
@@ -9,12 +10,8 @@ import AffiliateSlot from "../../components/AffiliateSlot.astro";
 export const prerender = true;
 
 export async function getStaticPaths() {
-  // JST 基準で公開判定（index.astro と揃える）。pubDate=日付のみは UTC 真夜中に解釈されるため +9h。
-  // publishAt があればその日時。無ければ pubDate（UTC0:00）の JST 当日 7:00 に公開（index.astro と揃える）。
-  const REVEAL_OFFSET_MS = -2 * 60 * 60 * 1000; // UTC0:00 -2h = JST 7:00
-  const news = await getCollection("news", (entry: CollectionEntry<"news">) =>
-    !entry.data.draft &&
-    (entry.data.publishAt ? entry.data.publishAt.valueOf() : entry.data.pubDate.valueOf() + REVEAL_OFFSET_MS) <= Date.now());
+  // 公開判定は lib/news.ts の isLive に統一（一覧・トップと同じ基準）
+  const news = await getCollection("news", isLive);
   return news.map((entry: CollectionEntry<"news">) => ({
     params: { slug: entry.slug },
   }));
@@ -82,24 +79,24 @@ const formatDate = (date: Date) => {
     <article
       class="bg-card rounded-3xl shadow-2xl overflow-hidden border border-border-dim"
     >
-      <header class="bg-gray-900 p-8 md:p-12 text-white relative">
+      <header class="bg-gray-900 p-5 sm:p-8 md:p-12 text-white relative">
         <div class="relative z-10 max-w-3xl">
           <div class="flex items-center gap-4 mb-6">
             <span class="bg-yellow-400 text-black text-[11px] font-black px-3 py-1 rounded uppercase tracking-widest">
               {entry.data.category || "NEWS"}
             </span>
-            <time class="text-sm text-gray-400 font-bold font-mono">
+            <time datetime={articlePublishedAt} class="text-sm text-gray-400 font-bold font-mono">
               {formatDate(entry.data.pubDate)}
             </time>
           </div>
-          <h1 class="text-2xl md:text-4xl lg:text-5xl font-black mb-6 leading-tight tracking-tighter">
+          <h1 class="text-2xl md:text-4xl lg:text-5xl font-black mb-6 leading-tight tracking-tighter break-words">
             {entry.data.title}
           </h1>
           {
             entry.data.tags && (
               <div class="flex flex-wrap gap-2">
                 {entry.data.tags.map((tag: string) => (
-                  <span class="text-[10px] font-bold uppercase tracking-widest text-gray-500 border border-gray-800 px-2 py-0.5 rounded">
+                  <span class="text-[10px] font-bold uppercase tracking-widest text-gray-400 border border-gray-700 px-2 py-0.5 rounded">
                     #{tag}
                   </span>
                 ))}
@@ -109,7 +106,7 @@ const formatDate = (date: Date) => {
         </div>
       </header>
 
-      <div class="p-8 md:p-12">
+      <div class="p-5 sm:p-8 md:p-12">
         <div
           class="prose prose-lg dark:prose-invert max-w-none prose-headings:font-black prose-headings:text-foreground prose-a:text-yellow-400 hover:prose-a:text-yellow-500 transition-colors prose-table:w-full prose-th:bg-gray-800 prose-th:text-white prose-th:font-bold prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-700 prose-tr:border-b prose-tr:border-gray-700 prose-thead:border-b prose-thead:border-gray-600"
         >
@@ -157,21 +154,9 @@ const formatDate = (date: Date) => {
   article .prose a[href^="/national-teams/"]:hover {
     color: #eab308;
   }
-  @media (prefers-color-scheme: dark) {
-    article .prose a[href^="/players/"],
-    article .prose a[href^="/teams/"],
-    article .prose a[href^="/national-teams/"] {
-      color: #fde047;
-    }
-  }
-  :global(:root[data-theme="dark"]) article .prose a[href^="/players/"],
-  :global(:root[data-theme="dark"]) article .prose a[href^="/teams/"],
-  :global(:root[data-theme="dark"]) article .prose a[href^="/national-teams/"] {
+  :root.dark article .prose a[href^="/players/"],
+  :root.dark article .prose a[href^="/teams/"],
+  :root.dark article .prose a[href^="/national-teams/"] {
     color: #fde047;
-  }
-  :global(:root[data-theme="light"]) article .prose a[href^="/players/"],
-  :global(:root[data-theme="light"]) article .prose a[href^="/teams/"],
-  :global(:root[data-theme="light"]) article .prose a[href^="/national-teams/"] {
-    color: #ca8a04;
   }
 </style>
