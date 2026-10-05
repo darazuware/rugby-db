@@ -1,156 +1,43 @@
 ---
 title: "URC週間加入まとめ（2026-W38）"
 pubDate: 2026-09-14
+updatedDate: 2026-10-05
 category: "NEWS"
 tags: ["URC", "加入"]
 source_diff: "2026-09-14_urc.json"
 draft: false
 ---
 
-- [Adam COOPER](/teams/urc/connacht-rugby/#p-adam-cooper)が[コナート・ラグビー](/teams/urc/connacht-rugby/)に加入
-- [Aiden STAIT](/players/aiden-stait/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Alex LAUTSOU](/teams/urc/munster-rugby/#p-alex-lautsou)が[マンスター・ラグビー](/teams/urc/munster-rugby/)に加入
-- [Alex MATTIOLI](/teams/urc/zebre-parma/#p-alex-mattioli)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入
-- [Alfie PRYGODZICZ](/teams/urc/cardiff-rugby/#p-alfie-prygodzicz)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Anzelo TU'ITAVUKI](/teams/urc/dragons-rugby/#p-anzelo-tuitavuki)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Archie GRIFFIN](/players/archie-griffin/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Archie STANLEY](/players/archie-stanley/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Arthur CORDWELL](/players/arthur-cordwell/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Badri TSIKHISTAVI](/players/badri-tsikhistavi/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Bayley KUENZLE](/teams/super-rugby/western-force/#p-bayley-kuenzle)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Ben COOMER](/teams/urc/cardiff-rugby/#p-ben-coomer)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Benjamin LAHET](/players/benjamin-lahet/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Beno OBANO](/players/beno--obano-/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Billy SELA](/players/billy-sela/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Bismarck DU PLESSIS](/players/bismarck-du-plessis/)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Brayan KAMANGA](/teams/urc/cardiff-rugby/#p-brayan-kamanga)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Caio PARRY](/teams/urc/dragons-rugby/#p-caio-parry)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Calen EDWARDS](/teams/urc/cardiff-rugby/#p-calen-edwards)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Cameron TYLER-GROCOTT](/teams/urc/cardiff-rugby/#p-cameron-tyler-grocott)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Campbell WAUGH](/teams/urc/glasgow-warriors/#p-campbell-waugh)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Charlie EWELS](/players/charlie-ewels/)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Charlie KEANE](/teams/urc/connacht-rugby/#p-charlie-keane)が[コナート・ラグビー](/teams/urc/connacht-rugby/)に加入
-- [Charlie O'SHEA](/teams/urc/munster-rugby/#p-charlie-o-shea)が[マンスター・ラグビー](/teams/urc/munster-rugby/)に加入
-- [Christain FOLEY](/teams/urc/munster-rugby/#p-christain-foley)が[マンスター・ラグビー](/teams/urc/munster-rugby/)に加入
-- [Christopher BARRETT](/teams/urc/munster-rugby/#p-christopher-barrett)が[マンスター・ラグビー](/teams/urc/munster-rugby/)に加入
-- [Cian BRADY](/teams/urc/connacht-rugby/#p-cian-brady)が[コナート・ラグビー](/teams/urc/connacht-rugby/)に加入
-- [Ciarán FRAWLEY](/teams/urc/connacht-rugby/#p-ciaran-frawley)が[コナート・ラグビー](/teams/urc/connacht-rugby/)に加入
-- [D'Arcy RAE](/players/d-arcy-rae/)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Daniel BASSETT](/teams/urc/dragons-rugby/#p-daniel-bassett)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Daniel MARAIS](/players/daniel-marais/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Deon SLABBERT](/players/deon-slabbert/)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Duinn MAGUIRE](/teams/urc/connacht-rugby/#p-duinn-maguire)が[コナート・ラグビー](/teams/urc/connacht-rugby/)に加入
-- [Duncan MUNN](/teams/urc/glasgow-warriors/#p-duncan-munn)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Eddie ERSKINE](/players/eddie-erskine/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Elliot STOOKE](/players/elliot-stooke/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Ere ENARI](/teams/super-rugby/hurricanes/#p-ereatara-enari)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Facundo BOSCH（ファクンド・ボッシュ）](/players/facundo-bosch/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Francisco MINERVINO](/teams/urc/zebre-parma/#p-francisco-minervino)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入
-- [François Carlo MEY](/teams/urc/benetton-rugby-trevise/#p-francois-carlo-mey)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
-- [François VAN WYK](/teams/urc/connacht-rugby/#p-francois-van-wyk)が[コナート・ラグビー](/teams/urc/connacht-rugby/)に加入
-- [Gonzalo HUGHES](/teams/urc/benetton-rugby-trevise/#p-gonzalo-hughes)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
-- [Guy ROGERS](/teams/urc/glasgow-warriors/#p-guy-rogers)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Hame FAIVA](/players/hame-faiva/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Harri WILDE](/teams/urc/ospreys/#p-harri-wilde)が[オスプリーズ](/teams/urc/ospreys/)に加入
-- [Harry TURNER](/teams/urc/cardiff-rugby/#p-harry-turner)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Harvey BRYANT](/teams/urc/cardiff-rugby/#p-harvey-bryant)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Harvey CUCKSON](/players/harvey-cuckson/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Harvey PRESTON](/teams/urc/glasgow-warriors/#p-harvey-preston)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Henry ARMSTRONG](/teams/urc/glasgow-warriors/#p-henry-armstrong)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Hugo AFONSO](/players/hugo-afonso/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Imanol THICOÏPE](/players/imanol-thicoipe/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Ioan EMANUEL](/players/ioan-emanuel/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Ioan LEYSHON](/teams/urc/cardiff-rugby/#p-ioan-leyshon)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Isaia WALKER-LEAWERE](/teams/super-rugby/hurricanes/#p-isaia-walker-leawere)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
-- [Jack AUNGIER](/teams/urc/munster-rugby/#p-jack-aungier)が[マンスター・ラグビー](/teams/urc/munster-rugby/)に加入
-- [Jack BENNETT](/players/jack-bennett/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Jacopo BOTTURI](/teams/urc/zebre-parma/#p-jacopo-botturi)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入
-- [Jacques DU PLESSIS](/players/jacques-du-plessis/)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Jacques VAN ROOYEN](/players/jacques-van-rooyen/)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [James MACKENZIE](/teams/urc/glasgow-warriors/#p-james-mackenzie)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [James O'LEARY](/teams/urc/munster-rugby/#p-james-o-leary)が[マンスター・ラグビー](/teams/urc/munster-rugby/)に加入
-- [Jamie CONWAY](/teams/urc/munster-rugby/#p-jamie-conway)が[マンスター・ラグビー](/teams/urc/munster-rugby/)に加入
-- [Jamie RITCHIE（ジェイミー・リッチー）](/teams/urc/glasgow-warriors/#p-jamie-ritchie)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Jarrod EVANS](/teams/urc/cardiff-rugby/#p-jarrod-evans)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Jasper SPANDLER](/players/jasper-spandler/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Jerry CAHIR](/teams/urc/connacht-rugby/#p-jerry-cahir)が[コナート・ラグビー](/teams/urc/connacht-rugby/)に加入
-- [Joe FINN](/teams/urc/munster-rugby/#p-joe-finn)が[マンスター・ラグビー](/teams/urc/munster-rugby/)に加入
-- [Johannes JONKER](/players/johannes-jonker/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [John STEWART](/players/john-stewart/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Jokin DUHALT](/players/jokin-duhalt/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Josh FLOOK](/leagues/super-rugby/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
-- [Josh MACKENZIE](/teams/urc/glasgow-warriors/#p-josh-mackenzie)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Juan SCHOEMAN](/players/juan-schoeman/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Kieran BROOKES（キーラン・ブルックス）](/teams/urc/munster-rugby/#p-kieran-brookes)が[マンスター・ラグビー](/teams/urc/munster-rugby/)に加入
-- [Kieran VERDEN](/players/kieran-verden/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Le Roux MALAN](/teams/urc/cardiff-rugby/#p-le-roux-malan)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Leonardo SODO MIGLIORI](/teams/urc/zebre-parma/#p-leonardo-sodo-migliori)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入
-- [Liam MCNAMEE](/teams/urc/connacht-rugby/#p-liam-mcnamee)が[コナート・ラグビー](/teams/urc/connacht-rugby/)に加入
-- [Lizo GQOBOKA](/players/lizo-gqoboka/)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Lloyd MONCRIEFF](/teams/urc/glasgow-warriors/#p-lloyd-moncrieff)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Lorenzo CITTON](/teams/urc/zebre-parma/#p-lorenzo-citton)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入
-- [Louis ORTOLAN](/players/louis-ortolan/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Louis WERCHON](/leagues/super-rugby/)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
-- [Lucas OFFICIAL](/players/lucas-official/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Luke MURTAGH](/teams/urc/connacht-rugby/#p-luke-murtagh)が[コナート・ラグビー](/teams/urc/connacht-rugby/)に加入
-- [Luke TAGI（ルーク・タギ）](/players/luke-tagi/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Marnus VAN DER MERWE](/teams/urc/munster-rugby/#p-marnus-van-der-merwe)が[マンスター・ラグビー](/teams/urc/munster-rugby/)に加入
-- [Martin VILLAR](/players/martin-villar/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Matéo GUÉRIN](/players/mateo-guerin/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Mathéo FUTHAZAR](/players/matheo-futhazar/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Matías MEDRANO](/teams/urc/benetton-rugby-trevise/#p-matias-medrano)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
-- [Matis PERCHAUD（マティス・ペルショー）](/players/matis-perchaud/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Max BRU](/players/max-bru/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Max MORRISON](/teams/urc/glasgow-warriors/#p-max-morrison)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Max PEARCE](/players/max-pearce/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Merwe OLIVIER](/players/merwe-olivier/)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Mihlali MOSI](/players/mihlali-mosi/)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Mikey SUMMERFIELD](/players/mikey-summerfield/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Muller UYS](/players/muller-uys/)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Niall ANNETT](/players/nial-annett/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Noah MORGAN](/teams/urc/dragons-rugby/#p-noah-morgan)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Pascal COTET（パスカル・コテ）](/players/pascal-cotet/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Patricio BARONIO](/teams/urc/zebre-parma/#p-patricio-baronio)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入
-- [Peïo DOSPITAL](/players/peio-dospital/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Phumzile MAQONDWANA](/players/phumzile-maqondwana/)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Piero GRITTI](/teams/urc/benetton-rugby-trevise/#p-piero-gritti)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
-- [Pierre CASTILLON（ピエール・カスティヨン）](/players/pierre-castillon/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Pieter SCHOLTZ](/players/pieter-scholtz/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Pietro TURRISI](/teams/urc/zebre-parma/#p-pietro-turrisi)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入
-- [Quentin BÉTHUNE](/players/quentin-bethune/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Quinn ROUX](/players/quinn-roux/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Rafaël CAYUELA](/players/rafael-cayuela/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Rhys COLE](/teams/urc/dragons-rugby/#p-rhys-cole)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Rob CARNEY](/teams/urc/munster-rugby/#p-robert-carney)が[マンスター・ラグビー](/teams/urc/munster-rugby/)に加入
-- [Rory BAXTER](/teams/urc/glasgow-warriors/#p-rory-baxter)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Rory CAMERON](/players/rory-cameron/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Rory LYONS](/teams/urc/connacht-rugby/#p-rory-lyons)が[コナート・ラグビー](/teams/urc/connacht-rugby/)に加入
-- [Rourke O'SULLIVAN](/teams/urc/connacht-rugby/#p-rourke-o-sullivan)が[コナート・ラグビー](/teams/urc/connacht-rugby/)に加入
-- [Ruaraidh HART](/teams/urc/glasgow-warriors/#p-ruaraidh-hart)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Ruwald VAN DER MERWE](/teams/urc/glasgow-warriors/#p-ruwald-van-der-merwe)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Scott KIRK](/players/scott-kirk/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Scott SIO](/teams/urc/cardiff-rugby/#p-scott-sio)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Semisi PAEA](/teams/super-rugby/moana-pasifika/#p-semisi-paea)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Sergio PELLICCIOLI](/teams/urc/zebre-parma/#p-sergio-pelliccioli)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入
-- [Sidney TOBIAS](/players/sidney-tobias/)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Sonny MCCABE](/teams/urc/cardiff-rugby/#p-sonny-mccabe)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Swan CORMENIER（スワン・コルムニエ）](/players/swan-cormenier/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Terrell PEITA](/teams/super-rugby/blues/#p-terrell-peita)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Tevita TATAFU（テヴィタ・タタフ）](/players/tevita-tatafu/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Thomas ACQUIER](/players/thomas-acquier/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Thomas DU TOIT](/players/thomas-du-toit/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Tiaan LANGE](/players/tiaan-lange/)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Tiehi CHATHAM](/teams/urc/dragons-rugby/#p-tiehi-chatham)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Tielman NIEUWOUDT](/players/tielman-nieuwoudt/)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Tom CONNOLLY](/teams/urc/connacht-rugby/#p-tom-connolly)が[コナート・ラグビー](/teams/urc/connacht-rugby/)に加入
-- [Tom DUNN](/players/tom-dunn/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Tom MANZ](/teams/urc/cardiff-rugby/#p-tom-manz)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Tommaso ALLAN（トマソ・アラン）](/teams/urc/zebre-parma/#p-tommy-allan)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入
-- [Vincent GIUDICELLI（ヴァンサン・ジュディセリ）](/players/vincent-giudicelli/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Vinnay CLEAK](/teams/urc/cardiff-rugby/#p-vinnay-cleak)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入
-- [Will CONNORS](/teams/urc/connacht-rugby/#p-will-connors)が[コナート・ラグビー](/teams/urc/connacht-rugby/)に加入
-- [Will HARRISON](/teams/urc/munster-rugby/#p-will-harrison)が[マンスター・ラグビー](/teams/urc/munster-rugby/)に加入
-- [Will STUART](/players/will-stuart/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [WJ STEENKAMP](/players/wj-steenkamp/)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Yon CAPÉRAÀ](/players/yon-caperaa/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
-- [Yonn RAMOND](/players/yonn-ramond/)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入
+2026-W38にURCの所属選手データで、新たな所属先が確認された選手は31名。前所属は各選手の経歴データに基づく。
+
+- [Alex MATTIOLI](/teams/urc/zebre-parma/#p-alex-mattioli)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入（前所属: Racing 92）
+- [Anzelo TU'ITAVUKI](/teams/urc/dragons-rugby/#p-anzelo-tuitavuki)が[ドラゴンズ・ラグビー](/teams/urc/dragons-rugby/)に加入（前所属: US Colomiers）
+- [Duncan MUNN](/teams/urc/glasgow-warriors/#p-duncan-munn)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入（前所属: North Brisbane Rugby Club）
+- [Francisco MINERVINO](/teams/urc/zebre-parma/#p-francisco-minervino)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入（前所属: Petrarca Rugby）
+- [François Carlo MEY](/teams/urc/benetton-rugby-trevise/#p-francois-carlo-mey)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入（前所属: Soyaux-Angoulême XV Charente）
+- [François VAN WYK](/teams/urc/connacht-rugby/#p-francois-van-wyk)が[コナート・ラグビー](/teams/urc/connacht-rugby/)に加入（前所属: Bath Rugby）
+- [Gonzalo HUGHES](/teams/urc/benetton-rugby-trevise/#p-gonzalo-hughes)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入（前所属: CA Périgueux Dordogne）
+- [Guy ROGERS](/teams/urc/glasgow-warriors/#p-guy-rogers)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入（前所属: London Scottish）
+- [Jack AUNGIER](/teams/urc/munster-rugby/#p-jack-aungier)が[マンスター・ラグビー](/teams/urc/munster-rugby/)に加入（前所属: Connacht Rugby）
+- [Jacopo BOTTURI](/teams/urc/zebre-parma/#p-jacopo-botturi)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入（前所属: Petrarca Rugby）
+- [Jamie RITCHIE（ジェイミー・リッチー）](/teams/urc/glasgow-warriors/#p-jamie-ritchie)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入（前所属: Union Sportive Arlequins Perpignanais）
+- [Jarrod EVANS](/teams/urc/cardiff-rugby/#p-jarrod-evans)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入（前所属: Harlequins）
+- [Jerry CAHIR](/teams/urc/connacht-rugby/#p-jerry-cahir)が[コナート・ラグビー](/teams/urc/connacht-rugby/)に加入（前所属: Leinster Rugby）
+- [Kieran BROOKES（キーラン・ブルックス）](/teams/urc/munster-rugby/#p-kieran-brookes)が[マンスター・ラグビー](/teams/urc/munster-rugby/)に加入（前所属: Union Sportive Arlequins Perpignanais）
+- [Le Roux MALAN](/teams/urc/cardiff-rugby/#p-le-roux-malan)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入（前所属: Sharks Rugby Club）
+- [Leonardo SODO MIGLIORI](/teams/urc/zebre-parma/#p-leonardo-sodo-migliori)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入（前所属: Fiamme Oro Roma）
+- [Liam MCNAMEE](/teams/urc/connacht-rugby/#p-liam-mcnamee)が[コナート・ラグビー](/teams/urc/connacht-rugby/)に加入（前所属: Carrick on Shannon RFC）
+- [Lorenzo CITTON](/teams/urc/zebre-parma/#p-lorenzo-citton)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入（前所属: Petrarca Rugby）
+- [Marnus VAN DER MERWE](/teams/urc/munster-rugby/#p-marnus-van-der-merwe)が[マンスター・ラグビー](/teams/urc/munster-rugby/)に加入（前所属: Scarlets）
+- [Matías MEDRANO](/teams/urc/benetton-rugby-trevise/#p-matias-medrano)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入（前所属: Pampas XV）
+- [Patricio BARONIO](/teams/urc/zebre-parma/#p-patricio-baronio)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入（前所属: Rugby Viadana 1970）
+- [Piero GRITTI](/teams/urc/benetton-rugby-trevise/#p-piero-gritti)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入（前所属: ASM Clermont Auvergne）
+- [Pietro TURRISI](/teams/urc/zebre-parma/#p-pietro-turrisi)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入（前所属: Racing 92）
+- [Rob CARNEY](/teams/urc/munster-rugby/#p-robert-carney)が[マンスター・ラグビー](/teams/urc/munster-rugby/)に加入（前所属: Cashel RFC）
+- [Ruaraidh HART](/teams/urc/glasgow-warriors/#p-ruaraidh-hart)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入（前所属: Stirling County RFC）
+- [Scott SIO](/teams/urc/cardiff-rugby/#p-scott-sio)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入（前所属: Exeter Chiefs）
+- [Sergio PELLICCIOLI](/teams/urc/zebre-parma/#p-sergio-pelliccioli)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入（前所属: Petrarca Rugby）
+- [Tom CONNOLLY](/teams/urc/connacht-rugby/#p-tom-connolly)が[コナート・ラグビー](/teams/urc/connacht-rugby/)に加入（前所属: Old Belvedere RC）
+- [Tom MANZ](/teams/urc/cardiff-rugby/#p-tom-manz)が[カーディフ・ラグビー](/teams/urc/cardiff-rugby/)に加入（前所属: Nottingham Rugby）
+- [Tommaso ALLAN（トマソ・アラン）](/teams/urc/zebre-parma/#p-tommy-allan)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入（前所属: Union Sportive Arlequins Perpignanais）
+- [Will HARRISON](/teams/urc/munster-rugby/#p-will-harrison)が[マンスター・ラグビー](/teams/urc/munster-rugby/)に加入（前所属: Hanazono Kintetsu Liners）

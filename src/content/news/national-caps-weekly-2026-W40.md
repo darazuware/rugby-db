@@ -1,212 +1,110 @@
 ---
-title: "代表週間代表キャップ更新まとめ（2026-W40）"
+title: "代表キャップ週間更新まとめ（2026-W40）"
 pubDate: 2026-09-28
+updatedDate: 2026-10-05
 category: "NEWS"
 tags: ["代表", "キャップ更新"]
 source_diff: "2026-09-28_national.json"
 draft: false
 ---
 
-- [Abel DA CUNHA](/national-teams/portugal/#p-abel-da-cunha): Portugal代表14→16キャップ
-- [Alessandro FUSCO](/teams/urc/zebre-parma/#p-alessandro-fusco): Italy代表20→23キャップ
-- [Alessandro IZEKOR](/teams/urc/benetton-rugby-trevise/#p-alessandro-izekor): Italy代表5→6キャップ
-- [Alex MITCHELL](/teams/premiership/northampton-saints/#p-alex-mitchell): England代表20→28キャップ
-- [Alex SALETA](/national-teams/spain/#p-alex-saleta): Spain代表9→14キャップ
-- [Alexandru BUCUR](/national-teams/romania/#p-alexandru-bucur): Romania代表16→18キャップ
-- [Alfonso VIDAL](/national-teams/uruguay/#p-alfonso-vidal): Uruguay代表2→3キャップ
-- [Allan ALAALATOA](/teams/super-rugby/blues/#p-allan-alaalatoa): Australia代表75→79キャップ
-- [André CUNHA](/national-teams/portugal/#p-andre-cunha): Portugal代表5→6キャップ
-- [André-Hugo VENTER](/teams/urc/dhl-stormers/#p-andre-hugo-venter): South Africa代表2→3キャップ
-- [Andrea ZAMBONIN](/teams/premiership/exeter-chiefs/#p-andrea-zambonin): Italy代表14→18キャップ
-- [Andrés VILASECA](/national-teams/uruguay/#p-andres-vilaseca): Uruguay代表24→30キャップ
-- [Andy ONYEAMA-CHRISTIE](/teams/premiership/saracens/#p-andy-christie): Scotland代表8→10キャップ
-- [António PRIM](/national-teams/portugal/#p-antonio-prim): Portugal代表13→19キャップ
-- [Anzelo TU'ITAVUKI](/teams/urc/dragons-rugby/#p-anzelo-tuitavuki): Tonga代表5→9キャップ
-- [Asher OPOKU](/teams/premiership/sale-sharks/#p-asher-opoku): England代表4→8キャップ
-- [Augusto VILLANUEVA](/national-teams/chile/#p-augusto-villanueva): Chile代表1→2キャップ
-- [Baptiste SERIN](/teams/top14/toulon/#p-baptiste-serin): France代表45→46キャップ
-- Ben LESAGE: Canada代表20→30キャップ
-- [Ben TAMEIFUNA](/players/ben-tameifuna/): Tonga代表28→36キャップ
-- [Benhard JANSE VAN RENSBURG](/teams/premiership/bristol-bears/#p-benhard-janse-van-rensburg): England代表1→2キャップ
-- [Benjamín GRONDONA](/teams/premiership/bristol-bears/#p-benjamin-grondona): Argentina代表3→4キャップ
-- [Billy PROCTOR](/teams/super-rugby/hurricanes/#p-billy-proctor): New Zealand代表7→9キャップ
-- [Blair MURRAY](/teams/urc/scarlets/#p-blair-murray): Wales代表13→18キャップ
-- [Brendon NELL](/national-teams/hong-kong/#p-brendon-nell-1995): Hong Kong代表2→4キャップ
-- [Brock GALLAGHER](/national-teams/canada/#p-brock-gallagher): Canada代表10→13キャップ
-- [Bryan CHIANG](/national-teams/zimbabwe/#p-bryan-chiang): Zimbabwe代表1→2キャップ
-- [Caleb CLARKE](/teams/super-rugby/blues/#p-caleb-clarke): New Zealand代表25→32キャップ
-- [Calum SCOTT](/national-teams/hong-kong/#p-calum-scott): Hong Kong代表3→4キャップ
-- [Carlü SADIE](/players/carlu-sadie/): South Africa代表1→2キャップ
-- [Charlie EWELS](/players/charlie-ewels/): England代表24→32キャップ
-- [Charlie LAWRENCE](/players/charlie-lawrence-484728/): Japan代表6→9キャップ
-- [Ciarán FRAWLEY](/teams/urc/connacht-rugby/#p-ciaran-frawley): Ireland代表12→13キャップ
-- [Connor TUPAI](/national-teams/samoa/#p-connor-tupai): Samoa代表6→8キャップ
-- [Cortez RATIMA](/teams/super-rugby/chiefs/#p-cortez-ratima): New Zealand代表19→24キャップ
-- Cory GILLILAND-DANIEL: Usa代表10→18キャップ
-- [Cristian CHIRICA](/national-teams/romania/#p-cristian-chirica): Romania代表23→32キャップ
-- [Cristóbal GAME](/national-teams/chile/#p-cristobal-game): Chile代表8→9キャップ
-- [Dan EDWARDS](/teams/urc/ospreys/#p-dan-edwards): Wales代表9→12キャップ
-- [Dan SHEEHAN](/teams/urc/leinster-rugby/#p-dan-sheehan): Ireland代表24→35キャップ
-- [Daniel PLAI](/national-teams/romania/#p-daniel-plai): Romania代表28→29キャップ
-- [Danilo FISCHETTI](/teams/premiership/northampton-saints/#p-danilo-fischetti): Italy代表48→61キャップ
-- [David ODIASE](/teams/urc/zebre-parma/#p-david-odiase): Italy代表5→6キャップ
-- [David WALLIS](/national-teams/portugal/#p-david-wallis-de-carvalho): Portugal代表19→28キャップ
-- [Diogo Hasse FERREIRA](/national-teams/portugal/#p-diogo-hasse-ferreira): Portugal代表32→44キャップ
-- [Dion KHUMALO](/national-teams/zimbabwe/#p-dion-khumalo): Zimbabwe代表2→4キャップ
-- [Domingos CABRAL](/national-teams/portugal/#p-domingos-cabral): Portugal代表5→8キャップ
-- [Dragoș SER](/national-teams/romania/#p-dragos-ser): Romania代表14→22キャップ
-- [Duarte TORGAL](/national-teams/portugal/#p-duarte-torgal): Portugal代表23→25キャップ
-- [Dylan SCHWARTZ](/national-teams/romania/#p-dylan-schwartz): Romania代表2→3キャップ
-- [Eddie JAMES](/teams/urc/scarlets/#p-eddie-james): Wales代表10→11キャップ
-- [Efraín ELÍAS](/teams/top14/toulouse/#p-efrain-elias): Argentina代表4→6キャップ
-- [Ethan BLACKADDER](/teams/super-rugby/crusaders/#p-ethan-blackadder): New Zealand代表10→13キャップ
-- Ethan MCVEIGH: Usa代表11→12キャップ
-- [Faf DE KLERK](/national-teams/south-africa/#p-faf-de-klerk): South Africa代表45→52キャップ
-- [Faizal SOLOMONA](/national-teams/hong-kong/#p-faizal-solomona): Hong Kong代表6→7キャップ
-- [Federico RUZZA](/teams/urc/benetton-rugby-trevise/#p-federico-ruzza): Italy代表53→65キャップ
-- [Felipe ALIAGA](/national-teams/uruguay/#p-felipe-aliaga): Uruguay代表19→23キャップ
-- [Fin BAXTER](/teams/premiership/harlequins/#p-fin-baxter): England代表15→16キャップ
-- [Fine INISI](/teams/urc/dragons-rugby/#p-fine-inisi): Tonga代表14→20キャップ
-- [Finlay CHRISTIE](/players/finlay-christie/): New Zealand代表15→26キャップ
-- [Fraser DINGWALL](/teams/premiership/northampton-saints/#p-fraser-dingwall): England代表8→10キャップ
-- [Freddy DOUGLAS](/teams/urc/edinburgh-rugby/#p-freddy-douglas): Scotland代表2→3キャップ
-- [Gabriel POP](/national-teams/romania/#p-gabriel-pop): Romania代表6→11キャップ
-- [Gabriel VÉLEZ](/national-teams/spain/#p-gabriel-velez): Spain代表1→2キャップ
-- [George BOWER](/teams/super-rugby/crusaders/#p-george-bower): New Zealand代表24→26キャップ
-- [George FORD](/teams/premiership/sale-sharks/#p-george-ford): England代表80→101キャップ
-- [George FURBANK](/teams/premiership/harlequins/#p-george-furbank): England代表8→14キャップ
-- [George HORNE](/teams/urc/glasgow-warriors/#p-george-horne): Scotland代表33→47キャップ
-- [George MARTIN](/teams/premiership/saracens/#p-george-martin): England代表13→22キャップ
-- [George TURNER](/teams/premiership/newcastle-red-bulls/#p-george-turner): Scotland代表46→47キャップ
-- [Giacomo NICOTERA](/teams/top14/paris/#p-giacomo-nicotera): Italy代表35→36キャップ
-- [Giosué ZILOCCHI](/teams/urc/benetton-rugby-trevise/#p-giosue-zilocchi): Italy代表14→24キャップ
-- [Gregor MCNEISH](/national-teams/hong-kong/#p-gregor-mcneish): Hong Kong代表4→5キャップ
-- [Guilherme VASCONCELOS](/national-teams/portugal/#p-guilherme-vasconcelos): Portugal代表8→9キャップ
-- [Guy SPANTON](/national-teams/hong-kong/#p-guy-spanton): Hong Kong代表2→4キャップ
-- [Haereiti HETET](/teams/super-rugby/fijian-drua/#p-haereiti-hetet): Fiji代表14→20キャップ
-- [Herschel JANTJIES](/teams/top14/bayonne/#p-herschel-jantjies): South Africa代表14→21キャップ
-- [Hugo KEENAN](/teams/urc/leinster-rugby/#p-hugo-keenan): Ireland代表32→36キャップ
-- [Ian PRIOR](/national-teams/zimbabwe/#p-ian-prior): Zimbabwe代表1→2キャップ
-- [Ignacio BREX](/teams/top14/toulon/#p-ignacio-brex): Italy代表47→49キャップ
-- [Iñaki GURRUCHAGA](/national-teams/chile/#p-inaki-gurruchaga): Chile代表12→19キャップ
-- [Inaki MATEU](/national-teams/spain/#p-inaki-mateu): Spain代表20→30キャップ
-- [Isaiah ARMSTRONG-RAVULA](/teams/super-rugby/fijian-drua/#p-isaiah-ravula): Fiji代表15→17キャップ
-- [Isikeli RABITU](/teams/super-rugby/fijian-drua/#p-isikeli-rabitu): Fiji代表2→3キャップ
-- [Jack CROWLEY](/teams/urc/munster-rugby/#p-jack-crowley): Ireland代表21→27キャップ
-- [Jake GORDON](/leagues/super-rugby/): Australia代表35→36キャップ
-- [James O'CONNOR](/national-teams/australia/#p-james-o-connor): Australia代表20→24キャップ
-- [Jamie DOBIE](/teams/urc/glasgow-warriors/#p-jamie-dobie): Scotland代表14→18キャップ
-- [Jamison GIBSON-PARK](/teams/urc/leinster-rugby/#p-jamison-gibson-park): Ireland代表38→48キャップ
-- [Jason TOMANE](/national-teams/romania/#p-jason-tomane): Romania代表23→27キャップ
-- [Jay TUIVAITI](/national-teams/samoa/#p-jay-tuivaiti): Samoa代表1→2キャップ
-- [Jean COTARMANAC'H](/teams/top14/vannes/#p-jean-cotarmanac-h): Uruguay代表4→5キャップ
-- [Jean-Pierre SMITH](/national-teams/romania/#p-jean-pierre-smith-1997): Romania代表2→3キャップ
-- [Jimmy O'BRIEN](/teams/urc/leinster-rugby/#p-jimmy-o-brien): Ireland代表10→13キャップ
-- [João GRANATE](/national-teams/portugal/#p-joao-granate): Portugal代表25→37キャップ
-- [Joaquín OVIEDO](/teams/top14/perpignan/#p-joaquin-oviedo): Argentina代表18→20キャップ
-- [Joaquín SUÁREZ](/national-teams/uruguay/#p-joaquin-suarez): Uruguay代表10→12キャップ
-- [Joe HAWKINS](/teams/urc/scarlets/#p-joe-hawkins): Wales代表11→13キャップ
-- Joe TAUFETE'E: Usa代表16→24キャップ
-- [JW BELL](/national-teams/spain/#p-john-wessel-bell): Spain代表19→33キャップ
-- [Jondre WILLIAMS](/national-teams/romania/#p-jondre-williams): Romania代表1→2キャップ
-- [Josh ADAMS](/teams/urc/cardiff-rugby/#p-josh--adams-): Wales代表65→66キャップ
-- [Josh BAYLISS](/teams/premiership/bath-rugby/#p-josh-bayliss): Scotland代表11→15キャップ
-- [Josh CANHAM](/leagues/super-rugby/): Australia代表5→8キャップ
-- [Joshua HRSTICH](/national-teams/hong-kong/#p-joshua-hrstich): Hong Kong代表6→11キャップ
-- [Joshua MOORBY](/teams/super-rugby/hurricanes/#p-joshua-moorby): New Zealand代表5→6キャップ
-- [Juan PENOUCOS](/national-teams/argentina/#p-juan-penoucos): Argentina代表1→2キャップ
-- Julian ROBERTS: Usa代表4→5キャップ
-- [Kanji SHIMOKAWA](/players/kanji-shimokawa-485716/): Japan代表21→26キャップ
-- [Keiron ASSIRATTI](/teams/urc/vodacom-bulls/#p-kieron-assiratti): Wales代表13→18キャップ
-- [Kippei ISHIDA](/players/kippei-ishida-484853/): Japan代表7→9キャップ
-- [Kyle ROWE](/teams/urc/glasgow-warriors/#p-kyle-rowe): Scotland代表17→20キャップ
-- [Kyle SULLIVAN](/national-teams/hong-kong/#p-kyle-sullivan): Hong Kong代表6→9キャップ
-- [Lachlan DOHENY](/national-teams/hong-kong/#p-lachlan-doheny): Hong Kong代表2→3キャップ
-- [Lekima TAGITAGIVALU](/teams/top14/racing-92/#p-lekima-tagitagivalu): Fiji代表8→10キャップ
-- [Lolani FALEIVA](/national-teams/samoa/#p-lolani-faleiva): Samoa代表2→3キャップ
-- [Lorenzo PANI](/teams/urc/zebre-parma/#p-lorenzo-pani): Italy代表9→13キャップ
-- [Lucas BIANCHI](/national-teams/uruguay/#p-lucas-bianchi): Uruguay代表15→24キャップ
-- [Luka IVANISHVILI](/teams/premiership/bristol-bears/#p-luka-ivanishvili): Georgia代表21→29キャップ
-- Maliu NIUAFE: Usa代表2→3キャップ
-- [Manuel CARDOSO PINTO](/national-teams/portugal/#p-manuel-cardoso-pinto): Portugal代表33→34キャップ
-- [Marco RICCIONI](/teams/top14/perpignan/#p-marco-riccioni): Italy代表33→34キャップ
-- [Martiniano CIAN](/national-teams/spain/#p-martiniano-cian): Spain代表15→24キャップ
-- [Mathéo TRIKI](/national-teams/spain/#p-matheo-triki): Spain代表13→14キャップ
-- [Matías GARAFULIC](/national-teams/chile/#p-matias-garafulic): Chile代表22→23キャップ
-- [Matt FAESSLER](/leagues/super-rugby/): Australia代表13→16キャップ
-- [Matt TIERNEY](/national-teams/canada/#p-matt-tierney): Canada代表14→19キャップ
-- [Matt WORLEY](/national-teams/hong-kong/#p-matt-worley): Hong Kong代表8→10キャップ
-- [Matthew FOULDS](/national-teams/spain/#p-matthew-foulds): Spain代表26→34キャップ
-- [Max THRELKELD](/national-teams/hong-kong/#p-max-threlkeld): Hong Kong代表2→3キャップ
-- [Max WILLIAMSON](/teams/urc/glasgow-warriors/#p-max-williamson): Scotland代表9→14キャップ
-- [Michael CURRY](/national-teams/samoa/#p-michael-curry): Samoa代表10→13キャップ
-- [Mihai GRAURE](/national-teams/romania/#p-mihai-graure): Romania代表11→18キャップ
-- [Mikheil BABUNASHVILI](/national-teams/georgia/#p-mikheil-babunashvili): Georgia代表18→26キャップ
-- [Miles AMATOSERO](/leagues/super-rugby/): Australia代表1→2キャップ
-- [Mirko BELLONI](/teams/urc/zebre-parma/#p-mirko-belloni): Italy代表2→3キャップ
-- [Niccolò CANNONE](/teams/urc/benetton-rugby-trevise/#p-niccolo-cannone): Italy代表53→56キャップ
-- [Nick TOMPKINS](/teams/premiership/saracens/#p-nick--tompkins): Wales代表26→38キャップ
-- [Nicky SMITH](/teams/premiership/sale-sharks/#p-nicky-smith): Wales代表52→56キャップ
-- [Nicolas ONUTU](/national-teams/romania/#p-nicolas-onutu): Romania代表26→29キャップ
-- [Nicolás SAAB](/national-teams/chile/#p-nicolas-saab): Chile代表5→7キャップ
-- [Nika ABULADZE](/teams/premiership/exeter-chiefs/#p-nika-abuladze): Georgia代表18→23キャップ
-- [Noah FLESCH](/national-teams/canada/#p-noah-flesch): Canada代表10→11キャップ
-- [Otumaka MAUSIA](/national-teams/tonga/#p-otumaka-mausia): Tonga代表8→14キャップ
-- [Ovidiu COJOCARU](/national-teams/romania/#p-ovidiu-cojocaru): Romania代表24→31キャップ
-- [Pablo PÉREZ](/national-teams/spain/#p-pablo-perez): Spain代表2→3キャップ
-- [Patrick HARRISON](/teams/urc/edinburgh-rugby/#p-patrick-harrison): Scotland代表4→5キャップ
-- [Paul ALTIER](/national-teams/hong-kong/#p-paul-altier): Hong Kong代表4→5キャップ
-- [Pete SAMU](/teams/super-rugby/blues/#p-pete-samu): Australia代表27→31キャップ
-- [Pierce MACKINLAY-WEST](/national-teams/hong-kong/#p-pierce-mackinlay-west): Hong Kong代表6→9キャップ
-- Piers VON DADELSZEN: Canada代表10→14キャップ
-- [Pono DAVIS](/national-teams/usa/#p-pono-davis): Usa代表8→11キャップ
-- [Raimundo MARTÍNEZ](/national-teams/chile/#p-raimundo-martinez): Chile代表20→21キャップ
-- [Riccardo FAVRETTO](/teams/urc/benetton-rugby-trevise/#p-riccardo-favretto): Italy代表10→14キャップ
-- [Robbie POVEY](/national-teams/canada/#p-robbie-povey): Canada代表11→14キャップ
-- [Robert BALOUCOUNE](/teams/urc/ulster-rugby/#p-robert-baloucoune): Ireland代表7→8キャップ
-- [Rodrigo MARTINEZ](/teams/urc/dragons-rugby/#p-rodrigo-martinez): Argentina代表3→4キャップ
-- [Ronan KELLEHER](/teams/urc/leinster-rugby/#p-ronan-kelleher): Ireland代表38→42キャップ
-- [Rory DARGE](/teams/urc/glasgow-warriors/#p-rory-darge): Scotland代表26→34キャップ
-- [Rory HUTCHINSON](/teams/premiership/northampton-saints/#p-rory-hutchinson): Scotland代表11→15キャップ
-- [Rory SUTHERLAND](/teams/urc/glasgow-warriors/#p-rory-sutherland): Scotland代表29→41キャップ
-- [Ryan ELIAS](/teams/urc/scarlets/#p-ryan-elias): Wales代表45→46キャップ
-- [Salesi RAYASI](/teams/top14/bordeaux/#p-salesi-rayasi): Fiji代表5→7キャップ
-- [Salvador LUES](/national-teams/chile/#p-salvador-lues): Chile代表17→20キャップ
-- [Sam UNDERHILL](/teams/premiership/bath-rugby/#p-sam-underhill): England代表26→47キャップ
-- [Sandro MAMAMTAVRISHVILI](/national-teams/georgia/#p-sandro-mamamtavrishvili): Georgia代表6→10キャップ
-- [Santiago CIVETTA](/national-teams/uruguay/#p-santiago-civetta): Uruguay代表21→29キャップ
-- [Scott CUMMINGS](/teams/urc/glasgow-warriors/#p-scott-cummings): Scotland代表44→49キャップ
-- [Scott SIO](/teams/urc/cardiff-rugby/#p-scott-sio): Samoa代表1→2キャップ
-- [Semi RADRADRA](/national-teams/fiji/#p-semi-radradra): Fiji代表14→19キャップ
-- [Sena KIMURA](/teams/league-one/toshiba-brave-lupus-tokyo/#p-sena-kimura-484355): Japan代表3→5キャップ
-- [Shilo KLEIN](/national-teams/usa/#p-shilo-klein): Usa代表11→12キャップ
-- [Simi KURUVOLI](/teams/super-rugby/fijian-drua/#p-simione-kuruvoli): Fiji代表24→26キャップ
-- [Sione TUIPULOTU](/teams/urc/glasgow-warriors/#p-sione-tuipulotu): Scotland代表29→37キャップ
-- [Sione TUIPULOTU](/national-teams/tonga/#p-sione-tuipulotu-12428): Tonga代表3→4キャップ
-- [Siua MAILE](/teams/urc/benetton-rugby-trevise/#p-siua-maile): Tonga代表11→15キャップ
-- [Shodai HIRAO](/players/shodai-hirao-485713/): Japan代表2→4キャップ
-- [Tadiwa GWASHU](/national-teams/zimbabwe/#p-tadiwanashe-gwashu): Zimbabwe代表3→4キャップ
-- [Takumi INABA](/players/takumi-inaba-484154/): Japan代表2→3キャップ
-- [Taleni SEU](/national-teams/samoa/#p-taleni-seu): Samoa代表10→12キャップ
-- [Tane TAKULUA](/national-teams/tonga/#p-tane-takulua): Tonga代表50→51キャップ
-- [Tani BAY](/national-teams/spain/#p-tani-bay): Spain代表21→32キャップ
-- [Teddy WILLIAMS](/teams/urc/cardiff-rugby/#p-teddy-williams): Wales代表6→11キャップ
-- [Telusa VEAINU](/national-teams/tonga/#p-telusa-veainu): Tonga代表10→13キャップ
-- [Tevita IKANIVERE](/national-teams/fiji/#p-tevita-ikanivere): Fiji代表24→34キャップ
-- [Tevita MANUMUA](/national-teams/romania/#p-tevita-manumua): Romania代表16→19キャップ
-- Tevita NAQALI: Usa代表5→9キャップ
-- [Tietie TUIMAUGA](/teams/premiership/saracens/#p-tietie-tuimauga): Samoa代表6→8キャップ
-- [Tima FAINGA'ANUKU](/national-teams/tonga/#p-tima-fainga-anuku): Tonga代表7→8キャップ
-- [Tom STEWART](/teams/urc/ulster-rugby/#p-tom-stewart): Ireland代表5→6キャップ
-- [Toma MÎRZAC](/national-teams/romania/#p-toma-mirzac): Romania代表2→3キャップ
-- [Tommaso BONI](/national-teams/usa/#p-tommaso-boni): Usa代表9→10キャップ
-- [Tommy REFFELL](/teams/premiership/leicester-tigers/#p-tommy-reffell): Wales代表19→27キャップ
-- [Tornike KAKHOIDZE](/national-teams/georgia/#p-tornike-kakhoidze): Georgia代表13→17キャップ
-- [Trevor DAVISON](/teams/premiership/northampton-saints/#p-trevor-davison): England代表7→8キャップ
-- [Tudor BUTNARIU](/national-teams/romania/#p-tudor-butnariu): Romania代表27→28キャップ
-- [Tuidraki SAMUSAMUVODRE](/teams/super-rugby/fijian-drua/#p-tuidraki-samusamuvodre): Fiji代表3→4キャップ
-- [Vasco BAPTISTA](/national-teams/portugal/#p-vasco-baptista): Portugal代表15→16キャップ
-- [Vincent TSHITUKA](/teams/urc/hollywoodbets-sharks/#p-vincent-tshituka): South Africa代表2→3キャップ
-- [Wallace SITITI](/teams/super-rugby/chiefs/#p-wallace-sititi): New Zealand代表16→20キャップ
-- [Yuki IKEDA](/players/yuki-ikeda-484880/): Japan代表1→2キャップ
-- [Zander FAGERSON](/teams/urc/glasgow-warriors/#p-zander-fagerson): Scotland代表44→76キャップ
+2026-W40に代表キャップ数の更新が確認された選手は98名（代表の選手データに基づく）。
+
+- [Abel DA CUNHA](/national-teams/portugal/#p-abel-da-cunha): ポルトガル代表 14→16キャップ
+- [Alessandro IZEKOR](/national-teams/italy/#p-alessandro-izekor): イタリア代表 5→6キャップ
+- [Alexandru BUCUR](/national-teams/romania/#p-alexandru-bucur): ルーマニア代表 16→18キャップ
+- [Alfonso VIDAL](/national-teams/uruguay/#p-alfonso-vidal): ウルグアイ代表 2→3キャップ
+- [André CUNHA](/national-teams/portugal/#p-andre-cunha): ポルトガル代表 5→6キャップ
+- [André-Hugo VENTER](/national-teams/south-africa/#p-andre-hugo-venter): 南アフリカ代表 2→3キャップ
+- [Andy ONYEAMA-CHRISTIE](/national-teams/scotland/#p-andy-christie): スコットランド代表 8→10キャップ
+- [Augusto VILLANUEVA](/national-teams/chile/#p-augusto-villanueva): チリ代表 1→2キャップ
+- [Baptiste SERIN](/national-teams/france/#p-baptiste-serin): フランス代表 45→46キャップ
+- [Benhard JANSE VAN RENSBURG](/national-teams/england/#p-benhard-janse-van-rensburg): イングランド代表 1→2キャップ
+- [Benjamín GRONDONA](/national-teams/argentina/#p-benjamin-grondona): アルゼンチン代表 3→4キャップ
+- [Billy PROCTOR](/national-teams/new-zealand/#p-billy-proctor): ニュージーランド代表 7→9キャップ
+- [Brendon NELL](/national-teams/hong-kong/#p-brendon-nell-1995): 香港代表 2→4キャップ
+- [Bryan CHIANG](/national-teams/zimbabwe/#p-bryan-chiang): ジンバブエ代表 1→2キャップ
+- [Calum SCOTT](/national-teams/hong-kong/#p-calum-scott): 香港代表 3→4キャップ
+- [Carlü SADIE](/players/carlu-sadie/): 南アフリカ代表 1→2キャップ
+- [Ciarán FRAWLEY](/national-teams/ireland/#p-ciaran-frawley): アイルランド代表 12→13キャップ
+- [Connor TUPAI](/national-teams/samoa/#p-connor-tupai): サモア代表 6→8キャップ
+- [Cristóbal GAME](/national-teams/chile/#p-cristobal-game): チリ代表 8→9キャップ
+- [Daniel PLAI](/national-teams/romania/#p-daniel-plai): ルーマニア代表 28→29キャップ
+- [David ODIASE](/national-teams/italy/#p-david-odiase): イタリア代表 5→6キャップ
+- [Dion KHUMALO](/national-teams/zimbabwe/#p-dion-khumalo): ジンバブエ代表 2→4キャップ
+- [Duarte TORGAL](/national-teams/portugal/#p-duarte-torgal): ポルトガル代表 23→25キャップ
+- [Dylan SCHWARTZ](/national-teams/romania/#p-dylan-schwartz): ルーマニア代表 2→3キャップ
+- [Eddie JAMES](/national-teams/wales/#p-eddie-james): ウェールズ代表 10→11キャップ
+- [Efraín ELÍAS](/national-teams/argentina/#p-efrain-elias): アルゼンチン代表 4→6キャップ
+- [Ethan MCVEIGH](/national-teams/usa/#p-ethan-mcveigh): アメリカ代表 11→12キャップ
+- [Faizal SOLOMONA](/national-teams/hong-kong/#p-faizal-solomona): 香港代表 6→7キャップ
+- [Fin BAXTER](/national-teams/england/#p-fin-baxter): イングランド代表 15→16キャップ
+- [Fraser DINGWALL](/national-teams/england/#p-fraser-dingwall): イングランド代表 8→10キャップ
+- [Freddy DOUGLAS](/national-teams/scotland/#p-freddy-douglas): スコットランド代表 2→3キャップ
+- [Gabriel VÉLEZ](/national-teams/spain/#p-gabriel-velez): スペイン代表 1→2キャップ
+- [George BOWER](/national-teams/new-zealand/#p-george-bower): ニュージーランド代表 24→26キャップ
+- [George TURNER](/national-teams/scotland/#p-george-turner): スコットランド代表 46→47キャップ
+- [Giacomo NICOTERA](/national-teams/italy/#p-giacomo-nicotera): イタリア代表 35→36キャップ
+- [Gregor MCNEISH](/national-teams/hong-kong/#p-gregor-mcneish): 香港代表 4→5キャップ
+- [Guilherme VASCONCELOS](/national-teams/portugal/#p-guilherme-vasconcelos): ポルトガル代表 8→9キャップ
+- [Guy SPANTON](/national-teams/hong-kong/#p-guy-spanton): 香港代表 2→4キャップ
+- [Ian PRIOR](/national-teams/zimbabwe/#p-ian-prior): ジンバブエ代表 1→2キャップ
+- [Ignacio BREX](/national-teams/italy/#p-ignacio-brex): イタリア代表 47→49キャップ
+- [Isaiah ARMSTRONG-RAVULA](/national-teams/fiji/#p-isaiah-ravula): フィジー代表 15→17キャップ
+- [Isikeli RABITU](/national-teams/fiji/#p-isikeli-rabitu): フィジー代表 2→3キャップ
+- [Jake GORDON](/national-teams/australia/#p-jake-gordon): オーストラリア代表 35→36キャップ
+- [Jay TUIVAITI](/national-teams/samoa/#p-jay-tuivaiti): サモア代表 1→2キャップ
+- [Jean COTARMANAC'H](/national-teams/uruguay/#p-jean-cotarmanac-h): ウルグアイ代表 4→5キャップ
+- [Jean-Pierre SMITH](/national-teams/romania/#p-jean-pierre-smith-1997): ルーマニア代表 2→3キャップ
+- [Joaquín OVIEDO](/national-teams/argentina/#p-joaquin-oviedo): アルゼンチン代表 18→20キャップ
+- [Joaquín SUÁREZ](/national-teams/uruguay/#p-joaquin-suarez): ウルグアイ代表 10→12キャップ
+- [Joe HAWKINS](/national-teams/wales/#p-joe-hawkins): ウェールズ代表 11→13キャップ
+- [Jondre WILLIAMS](/national-teams/romania/#p-jondre-williams): ルーマニア代表 1→2キャップ
+- [Josh ADAMS](/national-teams/wales/#p-josh--adams-): ウェールズ代表 65→66キャップ
+- [Joshua MOORBY](/national-teams/new-zealand/#p-joshua-moorby): ニュージーランド代表 5→6キャップ
+- [Juan PENOUCOS](/national-teams/argentina/#p-juan-penoucos): アルゼンチン代表 1→2キャップ
+- [Julian ROBERTS](/national-teams/usa/#p-julian-roberts): アメリカ代表 4→5キャップ
+- [Kippei ISHIDA](/national-teams/japan/#p-kippei-ishida): 日本代表 7→9キャップ
+- [Lachlan DOHENY](/national-teams/hong-kong/#p-lachlan-doheny): 香港代表 2→3キャップ
+- [Lekima TAGITAGIVALU](/national-teams/fiji/#p-lekima-tagitagivalu): フィジー代表 8→10キャップ
+- [Lolani FALEIVA](/national-teams/samoa/#p-lolani-faleiva): サモア代表 2→3キャップ
+- [Maliu NIUAFE](/national-teams/usa/#p-maliu-niuafe): アメリカ代表 2→3キャップ
+- [Manuel CARDOSO PINTO](/national-teams/portugal/#p-manuel-cardoso-pinto): ポルトガル代表 33→34キャップ
+- [Marco RICCIONI](/national-teams/italy/#p-marco-riccioni): イタリア代表 33→34キャップ
+- [Mathéo TRIKI](/national-teams/spain/#p-matheo-triki): スペイン代表 13→14キャップ
+- [Matías GARAFULIC](/national-teams/chile/#p-matias-garafulic): チリ代表 22→23キャップ
+- [Matt WORLEY](/national-teams/hong-kong/#p-matt-worley): 香港代表 8→10キャップ
+- [Max THRELKELD](/national-teams/hong-kong/#p-max-threlkeld): 香港代表 2→3キャップ
+- [Miles AMATOSERO](/national-teams/australia/#p-miles-amatosero): オーストラリア代表 1→2キャップ
+- [Mirko BELLONI](/national-teams/italy/#p-mirko-belloni): イタリア代表 2→3キャップ
+- [Nicolás SAAB](/national-teams/chile/#p-nicolas-saab): チリ代表 5→7キャップ
+- [Noah FLESCH](/national-teams/canada/#p-noah-flesch): カナダ代表 10→11キャップ
+- [Pablo PÉREZ](/national-teams/spain/#p-pablo-perez): スペイン代表 2→3キャップ
+- [Patrick HARRISON](/national-teams/scotland/#p-patrick-harrison): スコットランド代表 4→5キャップ
+- [Paul ALTIER](/national-teams/hong-kong/#p-paul-altier): 香港代表 4→5キャップ
+- [Raimundo MARTÍNEZ](/national-teams/chile/#p-raimundo-martinez): チリ代表 20→21キャップ
+- [Robert BALOUCOUNE](/national-teams/ireland/#p-robert-baloucoune): アイルランド代表 7→8キャップ
+- [Rodrigo MARTINEZ](/national-teams/argentina/#p-rodrigo-martinez): アルゼンチン代表 3→4キャップ
+- [Ryan ELIAS](/national-teams/wales/#p-ryan-elias): ウェールズ代表 45→46キャップ
+- [Salesi RAYASI](/national-teams/fiji/#p-salesi-rayasi): フィジー代表 5→7キャップ
+- [Scott SIO](/national-teams/samoa/#p-scott-sio): サモア代表 1→2キャップ
+- [Sena KIMURA](/national-teams/japan/#p-sena-kimura): 日本代表 3→5キャップ
+- [Shilo KLEIN](/national-teams/usa/#p-shilo-klein): アメリカ代表 11→12キャップ
+- [Simi KURUVOLI](/national-teams/fiji/#p-simione-kuruvoli): フィジー代表 24→26キャップ
+- [Sione TUIPULOTU](/national-teams/tonga/#p-sione-tuipulotu-12428): トンガ代表 3→4キャップ
+- [Shodai HIRAO](/national-teams/japan/#p-syoudai-hirao): 日本代表 2→4キャップ
+- [Tadiwa GWASHU](/national-teams/zimbabwe/#p-tadiwanashe-gwashu): ジンバブエ代表 3→4キャップ
+- [Takumi INABA](/national-teams/japan/#p-takumi-inaba): 日本代表 2→3キャップ
+- [Taleni SEU](/national-teams/samoa/#p-taleni-seu): サモア代表 10→12キャップ
+- [Tane TAKULUA](/national-teams/tonga/#p-tane-takulua): トンガ代表 50→51キャップ
+- [Tietie TUIMAUGA](/national-teams/samoa/#p-tietie-tuimauga): サモア代表 6→8キャップ
+- [Tima FAINGA'ANUKU](/national-teams/tonga/#p-tima-fainga-anuku): トンガ代表 7→8キャップ
+- [Tom STEWART](/national-teams/ireland/#p-tom-stewart): アイルランド代表 5→6キャップ
+- [Toma MÎRZAC](/national-teams/romania/#p-toma-mirzac): ルーマニア代表 2→3キャップ
+- [Tommaso BONI](/national-teams/usa/#p-tommaso-boni): アメリカ代表 9→10キャップ
+- [Trevor DAVISON](/national-teams/england/#p-trevor-davison): イングランド代表 7→8キャップ
+- [Tudor BUTNARIU](/national-teams/romania/#p-tudor-butnariu): ルーマニア代表 27→28キャップ
+- [Tuidraki SAMUSAMUVODRE](/national-teams/fiji/#p-tuidraki-samusamuvodre): フィジー代表 3→4キャップ
+- [Vasco BAPTISTA](/national-teams/portugal/#p-vasco-baptista): ポルトガル代表 15→16キャップ
+- [Vincent TSHITUKA](/national-teams/south-africa/#p-vincent-tshituka): 南アフリカ代表 2→3キャップ
+- [Yuki IKEDA](/national-teams/japan/#p-yuki-ikeda): 日本代表 1→2キャップ

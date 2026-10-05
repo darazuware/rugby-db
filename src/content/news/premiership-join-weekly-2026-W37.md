@@ -1,242 +1,76 @@
 ---
 title: "プレミアシップ週間加入まとめ（2026-W37）"
 pubDate: 2026-09-07
+updatedDate: 2026-10-05
 category: "NEWS"
 tags: ["プレミアシップ", "加入"]
 source_diff: "2026-09-07_premiership.json"
 draft: false
 ---
 
-- [Aaron WAINWRIGHT](/teams/premiership/leicester-tigers/#p-aaron-wainwright)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入
-- [Aiden REID](/teams/premiership/northampton-saints/#p-aiden-reid)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Aiden STAIT](/players/aiden-stait/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Alec CLAREY](/players/alec-clarey/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Aleki LUTUI](/players/aleki-lutui/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Alex LOZOWSKI](/teams/premiership/sale-sharks/#p-alex-lozowski)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Alex MEAD](/teams/premiership/northampton-saints/#p-alex-mead)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Alex WARDELL](/players/alex-wardell/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Alex YEABSLEY](/teams/premiership/bath-rugby/#p-alex-yeabsley)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Alfie BARBEARY](/players/alfie-barbeary/)が[サラセンズ](/teams/premiership/saracens/)に加入
-- [Alfie BOWMAN](/teams/premiership/harlequins/#p-alfie-bowman)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Alfie WARWICK](/teams/premiership/newcastle-red-bulls/#p-alfie-warwick)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Allan FERRIE](/teams/premiership/newcastle-red-bulls/#p-allan-ferrie)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Andrew TURNER](/teams/premiership/bristol-bears/#p-andrew-turner)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Archie MCARTHUR](/teams/premiership/exeter-chiefs/#p-archie-mcarthur)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Archie STANLEY](/players/archie-stanley/)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Arthur CORDWELL](/players/arthur-cordwell/)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Austin KEOGH](/teams/premiership/sale-sharks/#p-austin-keogh)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Badri TSIKHISTAVI](/players/badri-tsikhistavi/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Bailey CUTTS](/teams/premiership/bath-rugby/#p-bailey-cutts)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Beck CUTTING](/players/beck-cutting/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Ben ALEXANDER](/teams/premiership/northampton-saints/#p-ben-alexander-22241)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Ben CHAPMAN](/players/ben-chapman/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Ben KOOLEN](/teams/premiership/gloucester-rugby/#p-ben-koolen)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Ben PERKINS](/teams/premiership/harlequins/#p-ben-perkins)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Ben POGSON](/players/ben-pogson/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Ben ROGERS](/teams/premiership/bristol-bears/#p-ben-rogers)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Benjamín ELIZALDE](/teams/premiership/newcastle-red-bulls/#p-benjamin-elizalde)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Benjamin LAHET](/players/benjamin-lahet/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Brandon JACKSON](/teams/premiership/newcastle-red-bulls/#p-brandon-jackson)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Cai DEVINE](/teams/premiership/northampton-saints/#p-cai-devine)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Callum MCCABE](/teams/premiership/gloucester-rugby/#p-callum-mccabe)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Cam JORDAN](/teams/premiership/newcastle-red-bulls/#p-cameron-jordan)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Cebo DLAMINI](/teams/premiership/sale-sharks/#p-cebolenkosi-dlamini)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Charlie BRAY](/teams/premiership/sale-sharks/#p-charlie-bray)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Charlie DINNEEN](/teams/premiership/newcastle-red-bulls/#p-charlie-dinneen)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Charlie POYNTON](/teams/premiership/exeter-chiefs/#p-charlie-poynton)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Charlie TAMANI](/teams/premiership/northampton-saints/#p-charlie-tamani)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Charlie TITCOMBE](/teams/premiership/leicester-tigers/#p-charlie-titcombe)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入
-- [Chris HARRIS](/teams/premiership/newcastle-red-bulls/#p-chris-harris)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Christ TSHIUNZA](/teams/premiership/sale-sharks/#p-christ-tshiunza)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Corné WEILBACH](/teams/premiership/saracens/#p-corne-weilbach)が[サラセンズ](/teams/premiership/saracens/)に加入
-- [Courtney LAWES](/teams/premiership/sale-sharks/#p-courtney-lawes)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Dallas MCLEOD](/teams/premiership/exeter-chiefs/#p-dallas-mcleod)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Dan DU PREEZ](/teams/premiership/bath-rugby/#p-dan-du-preez)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Dan ROBSON（ダン・ロブソン）](/teams/premiership/gloucester-rugby/#p-dan-robson)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Daniel MARAIS](/players/daniel-marais/)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [David OPOKU](/teams/premiership/sale-sharks/#p-david-opoku)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Declan TREACEY](/teams/premiership/bath-rugby/#p-declan-treacey)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Denis MARCHOIS](/players/denis-marchois/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Dewi LAKE](/teams/premiership/gloucester-rugby/#p-dewi-lake)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Dom HARDMAN](/players/dom-hardman/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Dylan INDABURU](/players/dylan-indaburu/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Eddie ERSKINE](/players/eddie-erskine/)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Ediz KARSAK](/teams/premiership/saracens/#p-ediz-karsak)が[サラセンズ](/teams/premiership/saracens/)に加入
-- [Edward SIGAUKE](/teams/premiership/harlequins/#p-edward-sigauke)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Elia CANAKAIVATA](/teams/premiership/sale-sharks/#p-elia-canakaivata)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Eliot SALT](/teams/premiership/gloucester-rugby/#p-eliot-salt)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Elliot MILLAR-MILLS](/teams/premiership/newcastle-red-bulls/#p-elliot-millar-mills)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Elliot STOOKE](/players/elliot-stooke/)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Ethan STADDON](/players/ethan-staddon/)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Euan OAKES](/teams/premiership/newcastle-red-bulls/#p-euan-oakes)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Facundo BOSCH（ファクンド・ボッシュ）](/players/facundo-bosch/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Fergus MAINEY](/teams/premiership/northampton-saints/#p-fergus-mainey)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Francisco MORENO](/teams/premiership/newcastle-red-bulls/#p-francisco-moreno)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Franco MOLINA](/teams/premiership/newcastle-red-bulls/#p-franco-molina)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Gabriel OGHRE](/players/gabriel-oghre/)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Gareth PARRY](/players/gareth-parry/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [George FURBANK](/teams/premiership/harlequins/#p-george-furbank)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [George MARTIN](/teams/premiership/saracens/#p-george-martin)が[サラセンズ](/teams/premiership/saracens/)に加入
-- [George TONGA'UIHA](/teams/premiership/northampton-saints/#p-george-tonga-uiha)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [George TURNER](/teams/premiership/newcastle-red-bulls/#p-george-turner)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Griff EVANS](/players/griff-evans/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Guido PETTI](/players/guido-petti/)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Halen KING](/teams/premiership/gloucester-rugby/#p-halen-king)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Hame FAIVA](/players/hame-faiva/)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Harry HAWKINS](/teams/premiership/newcastle-red-bulls/#p-harry-hawkins)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Harry JOHNSON-HOLMES](/teams/premiership/harlequins/#p-harry-johnson-holmes)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Harry WELLS](/teams/premiership/bristol-bears/#p-harry-wells)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Harry WILSON](/teams/premiership/exeter-chiefs/#p-harry-wilson-1997)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Harvey BEATON](/players/harvey-beaton/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Harvey CUCKSON](/players/harvey-cuckson/)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Henry HODGSON](/teams/premiership/saracens/#p-henry-hodgson)が[サラセンズ](/teams/premiership/saracens/)に加入
-- [Henry HORSFALL](/teams/premiership/gloucester-rugby/#p-henry-horsfall)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Henry LAIDLOW](/teams/premiership/harlequins/#p-henry-laidlow)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Hoskins SOTUTU](/players/hoskins-sotutu/)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Hugo AFONSO](/players/hugo-afonso/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Hugo LECLERQ](/players/hugo-leclerq/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Iestyn REES](/teams/premiership/northampton-saints/#p-iestyn-rees)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Ieuan DAVIES](/teams/premiership/bath-rugby/#p-ieuan-davies)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Ignacio VALDES-LEIVA](/players/ignacio-valdes-leiva/)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Imanol THICOÏPE](/players/imanol-thicoipe/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Ioan EMANUEL](/players/ioan-emanuel/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Ion NECULAI](/players/ion-neculai/)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Isaac MEARS](/teams/premiership/bath-rugby/#p-isaac-mears)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Iwan SHENTON](/teams/premiership/northampton-saints/#p-iwan-shenton)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Jac MORGAN](/teams/premiership/gloucester-rugby/#p-jac-morgan)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Jack BESWICK](/teams/premiership/harlequins/#p-jack-beswick)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Jack DOOREY-PALMER](/teams/premiership/leicester-tigers/#p-jack-doorey-palmer)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入
-- [Jack KEMP](/teams/premiership/harlequins/#p-jack-kemp)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Jack NESBITT](/teams/premiership/newcastle-red-bulls/#p-jack-nesbitt)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Jack TYLER](/teams/premiership/harlequins/#p-jack-tyler)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Jacques DU PLESSIS](/players/jacques-du-plessis/)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Jago MORGAN](/teams/premiership/harlequins/#p-jago-morgan)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Jake DALZIEL](/teams/premiership/newcastle-red-bulls/#p-jake-dalziel)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Jake MURRAY](/teams/premiership/exeter-chiefs/#p-jake-murray)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [James BENNETT](/teams/premiership/northampton-saints/#p-james-bennett)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [James DUN](/teams/premiership/harlequins/#p-james-dun)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [James FLYNN](/players/james-flynn/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [James HARPER](/teams/premiership/newcastle-red-bulls/#p-james-harper)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [James JOHNSTON](/players/james-johnston/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Jamie BHATTI](/teams/premiership/bath-rugby/#p-jamie-bhatti)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Jasper MCGUIRE](/players/jasper-mcguire/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Jean KLEYN](/teams/premiership/gloucester-rugby/#p-jean-kleyn)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Jevaughn WARREN](/players/jevaughn-warren/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [JJ SCHEEPERS](/teams/premiership/sale-sharks/#p-jj-scheepers)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Joe JENKINS](/teams/premiership/leicester-tigers/#p-joe-jenkins)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入
-- [Joe JOYCE](/teams/premiership/gloucester-rugby/#p-joe-joyce)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Joe MARCHANT（ジョー・マーチャント）](/teams/premiership/sale-sharks/#p-joe-marchant)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Joe PEARD](/players/joe-peard/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Joel SCLAVI（ジョエル・スクラヴィ）](/teams/premiership/leicester-tigers/#p-joel-sclavi)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入
-- [Johannes JONKER](/players/johannes-jonker/)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [John STEWART](/players/john-stewart/)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Jokin DUHALT](/players/jokin-duhalt/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Jordan ELS](/teams/premiership/northampton-saints/#p-jordan-els)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Jordan IKEH](/teams/premiership/sale-sharks/#p-jordan-ikeh)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Josh ANDREWS](/teams/premiership/harlequins/#p-josh-andrews)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Josh CAULFIELD](/teams/premiership/bristol-bears/#p-josh-caulfield)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Josh MCNALLY](/players/josh-mcnally/)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Josh POYSER](/teams/premiership/leicester-tigers/#p-josh-poyser)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入
-- [Josh TAYLOR](/teams/premiership/northampton-saints/#p-josh-taylor)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Juan SCHOEMAN](/players/juan-schoeman/)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Jules DERRE](/players/jules-derre/)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Junior DENNY](/teams/premiership/gloucester-rugby/#p-junior-denny)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Kaden PEARCE-PAUL](/players/kaden-pearce-paul/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Kaiden WATSON](/teams/premiership/harlequins/#p-kaiden-watson)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Kapeli PIFELETI JR](/players/kapeli-pifeleti-jr/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Krystof WOOD](/teams/premiership/gloucester-rugby/#p-krystof-wood)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Lawrence OGBONNYA](/teams/premiership/sale-sharks/#p-lawrence-ogbonnya)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Lefty ZIGIRIADIS](/teams/premiership/northampton-saints/#p-lefty-zigiriadis)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Leo DICKINSON](/teams/premiership/harlequins/#p-leo-dickinson)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Louie SINCLAIR](/teams/premiership/bristol-bears/#p-louie-sinclair)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Louis ORTOLAN](/players/louis-ortolan/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Lucas OFFICIAL](/players/lucas-official/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Luke TAGI（ルーク・タギ）](/players/luke-tagi/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Luke YENDLE](/players/luke-yendle/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Mako VUNIPOLA（マコ・ヴニポラ）](/teams/premiership/leicester-tigers/#p-mako-vunipola)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入
-- [Malik FAISSAL](/teams/premiership/northampton-saints/#p-malik-faissal)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Marco FEPULEA'I](/teams/premiership/gloucester-rugby/#p-marco-fepulea-i)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Marley CHANDRA](/teams/premiership/harlequins/#p-marley-chandra)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Martin VILLAR](/players/martin-villar/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Matéo GUÉRIN](/players/mateo-guerin/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Mathéo FUTHAZAR](/players/matheo-futhazar/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Matis PERCHAUD（マティス・ペルショー）](/players/matis-perchaud/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Max BRU](/players/max-bru/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Max CLARK](/teams/premiership/bristol-bears/#p-max-clark)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Max EKE](/players/max-eke/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Max HICKS（マックス・ヒックス）](/teams/premiership/newcastle-red-bulls/#p-max-hicks)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Max HOOPER](/teams/premiership/bath-rugby/#p-max-hooper)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Max PEARCE](/players/max-pearce/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Max RAWLINSON](/teams/premiership/harlequins/#p-max-rawlinson)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Mikey SUMMERFIELD](/players/mikey-summerfield/)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Nathan RICKERBY](/teams/premiership/newcastle-red-bulls/#p-nathan-rickerby)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Nathaniel ROBINSON](/teams/premiership/leicester-tigers/#p-nathaniel-robinson)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入
-- [Niall ANNETT](/players/nial-annett/)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Nicky SMITH](/teams/premiership/sale-sharks/#p-nicky-smith)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Nika ABULADZE（ニカ・アブラゼ）](/teams/premiership/exeter-chiefs/#p-nika-abuladze)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Noah BUXTON](/teams/premiership/northampton-saints/#p-noah-buxton)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Noah WILLIAMS](/teams/premiership/bristol-bears/#p-noah-williams)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Obi ENE](/teams/premiership/newcastle-red-bulls/#p-obi-ene)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Obinna NKWOCHA](/teams/premiership/exeter-chiefs/#p-obinna-nkwocha)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Olamide SODEKE](/teams/premiership/northampton-saints/#p-olamide-sodeke)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Oli HEWITT](/teams/premiership/gloucester-rugby/#p-oli-hewitt)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Oliver ASHTON](/teams/premiership/newcastle-red-bulls/#p-oliver-ashton)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- Oscar LENNONが[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Osian ROBERTS](/teams/premiership/sale-sharks/#p-osian-roberts)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Owen GILLETT](/teams/premiership/saracens/#p-owen-gillett)が[サラセンズ](/teams/premiership/saracens/)に加入
-- [Pascal COTET（パスカル・コテ）](/players/pascal-cotet/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Patrick KEAVENEY](/teams/premiership/saracens/#p-patrick-keaveney)が[サラセンズ](/teams/premiership/saracens/)に加入
-- [Peïo DOSPITAL](/players/peio-dospital/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Phil COKANASIGA](/teams/premiership/gloucester-rugby/#p-phil-cokanasiga)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Pierre CASTILLON（ピエール・カスティヨン）](/players/pierre-castillon/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Pieter SCHOLTZ](/players/pieter-scholtz/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Ponipate LOGANIMASI](/teams/premiership/sale-sharks/#p-ponipate-loganimasi)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Pouri RAKETE-STONES](/teams/premiership/newcastle-red-bulls/#p-pouri-rakete-stones)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Quentin BÉTHUNE](/players/quentin-bethune/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Rafaël CAYUELA](/players/rafael-cayuela/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Raffi QUIRKE](/teams/premiership/newcastle-red-bulls/#p-raffi-quirke)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Rory CAMERON](/players/rory-cameron/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Rory MCKNIGHT](/teams/premiership/bath-rugby/#p-rory-mcknight)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Rusi TUIMA](/teams/premiership/newcastle-red-bulls/#p-rusiate-tuima)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Sam CREAN](/players/sam-crean/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Sam GRAHAM](/teams/premiership/newcastle-red-bulls/#p-sam-graham)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Sam HARRIS](/teams/premiership/exeter-chiefs/#p-sam-harris-)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Sam MARSHALL](/teams/premiership/harlequins/#p-sam-marshall)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Sam MOLI](/teams/premiership/leicester-tigers/#p-sam-moli)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入
-- [Sam WOLSTENHOLME](/teams/premiership/exeter-chiefs/#p-sam-wolstenholme)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Sampie SWIEGERS](/teams/premiership/harlequins/#p-sampie-swiegers)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Samson ADEJIMI](/players/samson-adejimi/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Sione VA'ENUKU](/teams/premiership/saracens/#p-sione-va-enuku)が[サラセンズ](/teams/premiership/saracens/)に加入
-- [Sitiveni VASUTURAGA](/teams/premiership/harlequins/#p-sitiveni-vasuturaga)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Sol MOODY](/teams/premiership/bristol-bears/#p-sol-moody)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Sonny GOODE](/teams/premiership/northampton-saints/#p-sonny-goode)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Swan CORMENIER（スワン・コルムニエ）](/players/swan-cormenier/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Syd BLACKMORE](/players/syd-blackmore/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Teddy SMITH-MILNE](/teams/premiership/gloucester-rugby/#p-teddy-smith-milne)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Tevita TATAFU（テヴィタ・タタフ）](/players/tevita-tatafu/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Thomas ACQUIER](/players/thomas-acquier/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Thomas DU TOIT](/players/thomas-du-toit/)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Tiane ELONE](/teams/premiership/saracens/#p-tiane-elone)が[サラセンズ](/teams/premiership/saracens/)に加入
-- [Tobi WILSON](/teams/premiership/bristol-bears/#p-tobi-wilson)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入
-- [Tom DARGAN](/teams/premiership/saracens/#p-tom-dargan)が[サラセンズ](/teams/premiership/saracens/)に加入
-- [Tomas FRANCIS](/teams/premiership/sale-sharks/#p-tom-francis)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Tom JAMES](/teams/premiership/saracens/#p-tom-james-)が[サラセンズ](/teams/premiership/saracens/)に加入
-- [Tom ROWE](/teams/premiership/northampton-saints/#p-tom-rowe-)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Tom WEST](/teams/premiership/newcastle-red-bulls/#p-tom-west)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Tomos EVANS](/teams/premiership/gloucester-rugby/#p-tomos-evans)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Tomos WILLIAMS](/teams/premiership/saracens/#p-tomos-williams)が[サラセンズ](/teams/premiership/saracens/)に加入
-- [Vincent GIUDICELLI（ヴァンサン・ジュディセリ）](/players/vincent-giudicelli/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Werner KOK](/teams/premiership/newcastle-red-bulls/#p-werner-kok)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Will BAYSTON](/teams/premiership/sale-sharks/#p-will-bayston)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Will BUTT](/teams/premiership/exeter-chiefs/#p-will-butt)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Will CATLEY](/teams/premiership/northampton-saints/#p-will-catley)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入
-- [Will GRAHAM](/teams/premiership/newcastle-red-bulls/#p-will-graham)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Will RIGG](/teams/premiership/newcastle-red-bulls/#p-will-rigg)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Will ROUE](/teams/premiership/bath-rugby/#p-will-roue)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Xavier ROE](/teams/premiership/sale-sharks/#p-xavier-roe)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Yon CAPÉRAÀ](/players/yon-caperaa/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Yonn RAMOND](/players/yonn-ramond/)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入
-- [Zac JONES](/teams/premiership/gloucester-rugby/#p-zac-jones)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Zac NEARCHOU](/players/zac-nearchou/)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入
-- [Zack HENRY（ザック・ヘンリー）](/teams/premiership/newcastle-red-bulls/#p-zack-henry)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
-- [Zuriel TOGIATAMA](/teams/premiership/newcastle-red-bulls/#p-zuriel-togiatama)が[ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)に加入
+2026-W37にプレミアシップの所属選手データで、新たな所属先が確認された選手は64名。前所属は各選手の経歴データに基づく。
+
+- [Alex LOZOWSKI](/players/alex-lozowski/)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入（前所属: Saracens）
+- [Allan FERRIE](/teams/premiership/newcastle-red-bulls/#p-allan-ferrie)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Coventry Rugby）
+- [Andrew TURNER](/teams/premiership/bristol-bears/#p-andrew-turner)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入（前所属: Harlequins）
+- [Archie MCARTHUR](/teams/premiership/exeter-chiefs/#p-archie-mcarthur)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入（前所属: Hartpury RFC）
+- [Ben ALEXANDER](/teams/premiership/northampton-saints/#p-ben-alexander-22241)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入（前所属: Old Albanian RFC）
+- [Benjamín ELIZALDE](/teams/premiership/newcastle-red-bulls/#p-benjamin-elizalde)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Bristol Bears）
+- [Brandon JACKSON](/teams/premiership/newcastle-red-bulls/#p-brandon-jackson)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Ampthill Rugby）
+- [Cam JORDAN](/teams/premiership/newcastle-red-bulls/#p-cameron-jordan)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Gloucester Rugby）
+- [Cebo DLAMINI](/teams/premiership/sale-sharks/#p-cebolenkosi-dlamini)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入（前所属: Sharks Rugby Club）
+- [Charlie TITCOMBE](/teams/premiership/leicester-tigers/#p-charlie-titcombe)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入（前所属: Mitsubishi Sagamihara Dynaboars）
+- [Chris HARRIS](/players/chris-harris/)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Bath Rugby）
+- [Christ TSHIUNZA](/players/christ-tshiunza/)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入（前所属: Exeter Chiefs）
+- [Corné WEILBACH](/teams/premiership/saracens/#p-corne-weilbach)が[サラセンズ](/teams/premiership/saracens/)に加入（前所属: Stormers）
+- [Courtney LAWES](/teams/premiership/sale-sharks/#p-courtney-lawes)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入（前所属: CA Brive Corrèze Limousin）
+- [Dan DU PREEZ](/teams/premiership/bath-rugby/#p-dan-du-preez)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入（前所属: Sale Sharks）
+- [Dan ROBSON（ダン・ロブソン）](/players/dan-robson/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入（前所属: Section Paloise Béarn Pyrénées）
+- [Eliot SALT](/teams/premiership/gloucester-rugby/#p-eliot-salt)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入（前所属: Coventry Rugby）
+- [Elliot MILLAR-MILLS](/teams/premiership/newcastle-red-bulls/#p-elliot-millar-mills)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Northampton Saints）
+- [George TURNER](/teams/premiership/newcastle-red-bulls/#p-george-turner)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Harlequins）
+- [Harry WELLS](/teams/premiership/bristol-bears/#p-harry-wells)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入（前所属: Oundle RFC）
+- [Harry WILSON](/teams/premiership/exeter-chiefs/#p-harry-wilson-1997)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入（前所属: Saracens）
+- [Ieuan DAVIES](/teams/premiership/bath-rugby/#p-ieuan-davies)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入（前所属: Cardiff Rugby）
+- [Ion NECULAI](/players/ion-neculai/)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入（前所属: Zebre Parma）
+- [Jac MORGAN](/teams/premiership/gloucester-rugby/#p-jac-morgan)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入（前所属: Ospreys）
+- [Jack DOOREY-PALMER](/teams/premiership/leicester-tigers/#p-jack-doorey-palmer)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入（前所属: Cambridge RUFC）
+- [Jake MURRAY](/teams/premiership/exeter-chiefs/#p-jake-murray)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入（前所属: London Scottish）
+- [James BENNETT](/teams/premiership/northampton-saints/#p-james-bennett)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入（前所属: Loughborough University）
+- [James DUN](/teams/premiership/harlequins/#p-james-dun)が[ハーレクインズ](/teams/premiership/harlequins/)に加入（前所属: Bristol Bears）
+- [James HARPER](/teams/premiership/newcastle-red-bulls/#p-james-harper)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Sale Sharks）
+- [Jamie BHATTI](/teams/premiership/bath-rugby/#p-jamie-bhatti)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入（前所属: Glasgow Warriors）
+- [Jean KLEYN](/teams/premiership/gloucester-rugby/#p-jean-kleyn)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入（前所属: Munster Rugby）
+- [JJ SCHEEPERS](/teams/premiership/sale-sharks/#p-jj-scheepers)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入（前所属: Pumas）
+- [Joe JENKINS](/teams/premiership/leicester-tigers/#p-joe-jenkins)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入（前所属: Bristol Bears）
+- [Joe JOYCE](/teams/premiership/gloucester-rugby/#p-joe-joyce)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入（前所属: Connacht Rugby）
+- [Joe MARCHANT（ジョー・マーチャント）](/teams/premiership/sale-sharks/#p-joe-marchant)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入（前所属: Stade Français Paris Rugby）
+- [Joel SCLAVI（ジョエル・スクラヴィ）](/teams/premiership/leicester-tigers/#p-joel-sclavi)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入（前所属: Stade Rochelais）
+- [Jordan ELS](/teams/premiership/northampton-saints/#p-jordan-els)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入（前所属: Harlequins）
+- [Josh CAULFIELD](/teams/premiership/bristol-bears/#p-josh-caulfield)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入（前所属: Ealing Trailfinders）
+- [Lefty ZIGIRIADIS](/teams/premiership/northampton-saints/#p-lefty-zigiriadis)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入（前所属: Ealing Trailfinders）
+- [Louie SINCLAIR](/teams/premiership/bristol-bears/#p-louie-sinclair)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入（前所属: Cornish Pirates）
+- [Mako VUNIPOLA（マコ・ヴニポラ）](/teams/premiership/leicester-tigers/#p-mako-vunipola)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入（前所属: Rugby Club Vannes）
+- [Marco FEPULEA'I](/teams/premiership/gloucester-rugby/#p-marco-fepulea-i)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入（前所属: Stade Montois Rugby Pro）
+- [Max CLARK](/teams/premiership/bristol-bears/#p-max-clark)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入（前所属: Newcastle）
+- [Max HICKS（マックス・ヒックス）](/teams/premiership/newcastle-red-bulls/#p-max-hicks)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Union Sportive Arlequins Perpignanais）
+- [Nicky SMITH](/teams/premiership/sale-sharks/#p-nicky-smith)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入（前所属: Leicester Tigers）
+- [Nika ABULADZE（ニカ・アブラゼ）](/teams/premiership/exeter-chiefs/#p-nika-abuladze)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入（前所属: Montpellier Hérault Rugby）
+- [Obi ENE](/teams/premiership/newcastle-red-bulls/#p-obi-ene)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Caldy RFC）
+- [Obinna NKWOCHA](/teams/premiership/exeter-chiefs/#p-obinna-nkwocha)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入（前所属: Worcester Warriors）
+- [Osian ROBERTS](/teams/premiership/sale-sharks/#p-osian-roberts)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入（前所属: Caldy RFC）
+- [Phil COKANASIGA](/teams/premiership/gloucester-rugby/#p-phil-cokanasiga)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入（前所属: Ospreys）
+- [Rusi TUIMA](/teams/premiership/newcastle-red-bulls/#p-rusiate-tuima)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Exeter Chiefs）
+- [Sam GRAHAM](/teams/premiership/newcastle-red-bulls/#p-sam-graham)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Northampton Saints）
+- [Sam WOLSTENHOLME](/teams/premiership/exeter-chiefs/#p-sam-wolstenholme)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入（前所属: Bristol Bears）
+- [Sione VA'ENUKU](/teams/premiership/saracens/#p-sione-va-enuku)が[サラセンズ](/teams/premiership/saracens/)に加入（前所属: Ampthill Rugby）
+- [Sol MOODY](/teams/premiership/bristol-bears/#p-sol-moody)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入（前所属: Cornish Pirates）
+- [Tobi WILSON](/teams/premiership/bristol-bears/#p-tobi-wilson)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入（前所属: Ealing Trailfinders）
+- [Tomas FRANCIS](/teams/premiership/sale-sharks/#p-tom-francis)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入（前所属: Provence Rugby）
+- [Tom JAMES](/teams/premiership/saracens/#p-tom-james-)が[サラセンズ](/teams/premiership/saracens/)に加入（前所属: Northampton Saints）
+- [Tom ROWE](/teams/premiership/northampton-saints/#p-tom-rowe-)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入（前所属: Loughborough University）
+- [Tom WEST](/teams/premiership/newcastle-red-bulls/#p-tom-west)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Northampton Saints）
+- [Tomos WILLIAMS](/teams/premiership/saracens/#p-tomos-williams)が[サラセンズ](/teams/premiership/saracens/)に加入（前所属: Gloucester Rugby）
+- [Werner KOK](/teams/premiership/newcastle-red-bulls/#p-werner-kok)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Ulster Rugby）
+- [Will RIGG](/teams/premiership/newcastle-red-bulls/#p-will-rigg)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Exeter Chiefs）
+- [Zack HENRY（ザック・ヘンリー）](/teams/premiership/newcastle-red-bulls/#p-zack-henry)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Stade Français Paris Rugby）

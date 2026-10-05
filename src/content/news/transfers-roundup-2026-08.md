@@ -1,12 +1,12 @@
 ---
 title: "ラグビー移籍・代表キャップ動向まとめ（2026年8月）"
-description: "2026年8月のTop14・URC・mlr・スーパーラグビー・プレミアシップ・リーグワン・代表における加入・退団・代表キャップ更新を一覧でまとめた月次レポート。"
+description: "2026年8月のURC・プレミアシップ・リーグワン・代表における加入・退団・代表キャップ更新を一覧でまとめた月次レポート。"
 pubDate: 2026-08-31
 category: "NEWS"
 tags: ["移籍", "加入", "キャップ更新", "月次まとめ"]
 draft: false
 ---
-2026年8月に確認された、加入・退団・代表キャップ更新の動きをTop14・URC・mlr・スーパーラグビー・プレミアシップ・リーグワン・代表別にまとめた。掲載は合計126件。各選手名のリンクから所属チームの名簿に進める。
+2026年8月に確認された、加入・退団・代表キャップ更新の動きをURC・プレミアシップ・リーグワン・代表別にまとめた。掲載は合計55件。各選手名のリンクから所属チームの名簿に進める。
 
 ## リーグワン：新加入（42件）
 
@@ -15,7 +15,7 @@ draft: false
 - [アキ・トゥイバイララ](/teams/league-one/shizuoka-blue-revs/#p-aki-tuivailala)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。
 - [アントニオ・シャルフーン](/players/antonio-shalfoon/)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。
 - [アフェレレ・ファッシ](/players/aphelele-fassi/)が[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
-- [ベイリー・トゥルー](/teams/league-one/kubota-spears-funabashi-tokyo-bay/#p-bailey-trew)が[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)（リーグワン）に加入した。
+- [ベイリー・トゥルー](/players/bailey-trew/)が[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)（リーグワン）に加入した。
 - [ベイリン・サリヴァン](/teams/league-one/kubota-spears-funabashi-tokyo-bay/#p-bailyn-sullivan)が[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)（リーグワン）に加入した。
 - [デイヴィッド・ハヴィリ](/teams/league-one/toshiba-brave-lupus-tokyo/#p-david-havili)が[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
 - [エド・カスプロウィッツ](/players/ed-kasprowicz/)が[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/)（リーグワン）に加入した。
@@ -55,134 +55,38 @@ draft: false
 - [セバスチャン ・シアラウ](/teams/league-one/chugoku-electric-red-regulions/#p-sebasstian-sialau-484259)が[中国電力レッドレグリオンズ](/teams/league-one/chugoku-electric-red-regulions/)（リーグワン）に加入した。
 - [河嶋 凜太郎](/teams/league-one/chugoku-electric-red-regulions/#p-rintaro-kawasima-484285)が[中国電力レッドレグリオンズ](/teams/league-one/chugoku-electric-red-regulions/)（リーグワン）に加入した。
 
-## mlr：新加入（26件）
-
-2026年8月に新シーズンに向けた加入が確認された選手は26名。
-
-- Alex TUCCIがchicago（mlr）に加入
-- Cam DODSONがca-legion（mlr）に加入
-- Connor ROBINSONがchicago（mlr）に加入
-- Dan HANSONがca-legion（mlr）に加入
-- Dewald KOTZEがchicago（mlr）に加入
-- Dinesvaran KRISHNANがca-legion（mlr）に加入
-- Herman AGENBAGがchicago（mlr）に加入
-- Hugh ROACHがca-legion（mlr）に加入
-- Joaquin HORCADAがchicago（mlr）に加入
-- John CULLENがchicago（mlr）に加入
-- Juan Pablo ZEISSがchicago（mlr）に加入
-- Justice NKOMBUAがca-legion（mlr）に加入
-- Koch MASONがca-legion（mlr）に加入
-- Kyle STEEVESがchicago（mlr）に加入
-- Larome WHITEがca-legion（mlr）に加入
-- Liam MURRAYがchicago（mlr）に加入
-- Lindsey STEVENSがca-legion（mlr）に加入
-- Lucas BURがchicago（mlr）に加入
-- Maikeli MUDU NAROMAITOGAがchicago（mlr）に加入
-- Mika FELIXがca-legion（mlr）に加入
-- Nicolas REVOLがchicago（mlr）に加入
-- Paddy RYANがca-legion（mlr）に加入
-- Sam GOLLAがchicago（mlr）に加入
-- Steveni LOMBARDがca-legion（mlr）に加入
-- Timmy OHLWEINがca-legion（mlr）に加入
-- Tomas BARAVALLEがchicago（mlr）に加入
-
-## Top14：新加入（8件）
-
-2026年8月に新シーズンに向けた加入が確認された選手は8名。チーム別で最も多かったのはボルドー・ベグル（4名）、トゥーロン（2名）。
-
-- [Antonio GÁMEZ](/teams/top14/toulon/#p-antonio-gamez)が[トゥーロン](/teams/top14/toulon/)に加入
-- [Christian MENDES](/teams/top14/toulon/#p-christian-mendes)が[トゥーロン](/teams/top14/toulon/)に加入
-- [Ewen MORVAN](/teams/top14/vannes/#p-ewen-morvan)が[ヴァンヌ](/teams/top14/vannes/)に加入
-- [Jules MARTIN-BONNARD](/players/jules-martin-bonnard/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
-- [Jules SAÏD](/teams/top14/bordeaux/#p-jules-said)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
-- [Konstantine MIKAUTADZE](/players/konstantine-mikautadze/)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
-- [Prince TAMBO-FANTCHO](/teams/top14/bordeaux/#p-prince-tambo-fantcho)が[ボルドー・ベグル](/teams/top14/bordeaux/)に加入
-- [Raphaël MARTIN](/teams/top14/lyon/#p-raphael-martin)が[リヨン](/teams/top14/lyon/)に加入
-
-## プレミアシップ：新加入（3件）
-
-2026年8月に新シーズンに向けた加入が確認された選手は3名。チーム別で最も多かったのはセール・シャークス（2名）。
-
-- [Tom WHORROD（トム・ウォロッド）](/players/tom-whorrod/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
-- [Hendro HATTINGH](/players/hendro-hattingh/)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-- [Nico JONES](/players/nico-jones/)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入
-
-## スーパーラグビー：新加入（2件）
-
-2026年8月に新シーズンに向けた加入が確認された選手は2名。
-
-- [Luke AIKEN](/teams/super-rugby/western-force/#p-luke-aiken)がwestern-forceに加入
-- [Bailey TREW](/teams/league-one/kubota-spears-funabashi-tokyo-bay/#p-bailey-trew)がbrumbiesに加入
-
 ## プレミアシップ：初キャップ（1件）
 
 2026年8月に代表で初キャップを記録した選手は1名。
 
-- [Fergus BURKE](/teams/premiership/saracens/#p-fergus-burke)がScotland代表で初キャップを記録した。
+- [Fergus BURKE](/teams/premiership/saracens/#p-fergus-burke)がスコットランド代表で初キャップを記録した。
 
 ## URC：初キャップ（1件）
 
 2026年8月に代表で初キャップを記録した選手は1名。
 
-- [Zach PORTHEN](/teams/urc/dhl-stormers/#p-zachary-porthen)がSouth Africa代表で初キャップを記録した。
+- [Zach PORTHEN](/teams/urc/dhl-stormers/#p-zachary-porthen)が南アフリカ代表で初キャップを記録した。
 
-## 代表：代表キャップ更新（19件）
-
-2026年8月に代表キャップ数が更新された選手は19名。
-
-- [Alamanda MOTUGA](/national-teams/samoa/#p-alamanda-motuga): Samoa代表8→24キャップ
-- [Christian LIO-WILLIE](/teams/super-rugby/crusaders/#p-christian-lio-willie): New Zealand代表2→5キャップ
-- [Du'Plessis KIRIFI](/teams/super-rugby/hurricanes/#p-du-plessis-kirifi): New Zealand代表8→10キャップ
-- [Ezekiel LINDENMUTH](/national-teams/usa/#p-ezekiel-lindenmuth): Usa代表7→11キャップ
-- [Jimmy TUPOU](/national-teams/tonga/#p-jimmy-tupou): Tonga代表3→4キャップ
-- [John TAPUELUELU](/national-teams/tonga/#p-john-tapueluelu): Tonga代表8→19キャップ
-- [Samu TAWAKE](/teams/super-rugby/fijian-drua/#p-samu-tawake): Fiji代表23→26キャップ
-- [Taniela FILIMONE](/national-teams/tonga/#p-taniela-filimone): Tonga代表5→10キャップ
-- [Veikoso POLONIATI](/teams/super-rugby/moana-pasifika/#p-veikoso-poloniati): Tonga代表10→12キャップ
-- [Willy HAVILI](/national-teams/tonga/#p-willy-havili): Tonga代表29→30キャップ
-- [Arturo TEN HOEVER](/national-teams/uruguay/#p-arturo-ten-hoever): Uruguay代表2→3キャップ
-- [Damian DE ALLENDE](/national-teams/south-africa/#p-damian-de-allende): South Africa代表113→157キャップ
-- [Damian WILLEMSE](/teams/urc/dhl-stormers/#p-damian-willemse): South Africa代表29→65キャップ
-- [Gonzalo LOPEZ BONTEMPO](/national-teams/spain/#p-gonzalo-lopez): Spain代表19→23キャップ
-- [Hinckley VAOVASA](/national-teams/romania/#p-hinckley-vaovasa): Romania代表47→52キャップ
-- [Manex ARICETA](/players/manex-ariceta/): Spain代表7→11キャップ
-- [Michael KUMBIRAI](/national-teams/zimbabwe/#p-michael-kumbirai): Zimbabwe代表3→4キャップ
-- [Thierry FUTEU](/national-teams/spain/#p-thierry-futeu): Spain代表49→62キャップ
-- [Victor MUPUNGA](/national-teams/zimbabwe/#p-victor-mupunga): Zimbabwe代表4→5キャップ
-
-## URC：代表キャップ更新（17件）
-
-2026年8月に代表キャップ数が更新された選手は17名。
-
-- [André ESTERHUIZEN](/teams/urc/hollywoodbets-sharks/#p-andre-esterhuizen): South Africa代表24→43キャップ
-- [Cameron HANEKOM](/teams/urc/vodacom-bulls/#p-cameron-hanekom): South Africa代表1→3キャップ
-- [Eben ETZEBETH](/teams/urc/hollywoodbets-sharks/#p-eben-etzebeth): South Africa代表109→130キャップ
-- [Angus BELL](/national-teams/australia/#p-angus-bell): Australia代表51→68キャップ
-- [Cameron HANEKOM](/teams/urc/vodacom-bulls/#p-cameron-hanekom): South Africa代表3→4キャップ
-- [Marco VAN STADEN](/teams/urc/vodacom-bulls/#p-marco-van-staden): South Africa代表48→53キャップ
-- [Cobus REINACH](/teams/urc/dhl-stormers/#p-cobus-reinach): South Africa代表40→55キャップ
-- [Kurt-Lee ARENDSE](/teams/league-one/mitsubishi-sagamihara-dynaboars/#p-kurt-lee-arendse): South Africa代表17→36キャップ
-- [Ox NCHÉ](/teams/urc/hollywoodbets-sharks/#p-ox-nche): South Africa代表53→58キャップ
-- [Ruan NORTJÉ](/players/ruan-nortje/): South Africa代表12→31キャップ
-- [Damian WILLEMSE](/teams/urc/dhl-stormers/#p-damian-willemse): South Africa代表48→65キャップ
-- [Damian WILLEMSE](/teams/urc/dhl-stormers/#p-damian-willemse): South Africa代表65→72キャップ
-- [Eben ETZEBETH](/teams/urc/hollywoodbets-sharks/#p-eben-etzebeth): South Africa代表130→163キャップ
-- [Enrique PIERETTO HEILAND](/players/enrique-pieretto-heiland/): Argentina代表21→23キャップ
-- [Malakai FEKITOA](/players/malakai-fekitoa/): New Zealand代表13→17キャップ
-- [Sacha FEINBERG-MNGOMEZULU](/teams/urc/dhl-stormers/#p-sacha-mngomezulu): South Africa代表30→31キャップ
-- [Wilco LOUW](/players/wilco-louw/): South Africa代表19→34キャップ
-
-## プレミアシップ：代表キャップ更新（7件）
+## 代表：代表キャップ更新（7件）
 
 2026年8月に代表キャップ数が更新された選手は7名。
 
-- [Guido PETTI](/players/guido-petti/): Argentina代表80→145キャップ
-- [Lucio CINTI LUNA](/teams/premiership/saracens/#p-lucio-luna): Argentina代表48→60キャップ
-- [Matías MORONI](/teams/premiership/bristol-bears/#p-matias-moroni): Argentina代表122→128キャップ
-- [Santiago CARRERAS](/teams/premiership/bath-rugby/#p-santiago-carreras): Argentina代表50→85キャップ
-- [Thomas DU TOIT](/players/thomas-du-toit/): South Africa代表19→23キャップ
-- [Santiago CARRERAS](/teams/premiership/bath-rugby/#p-santiago-carreras): Argentina代表85→88キャップ
-- [Thomas DU TOIT](/players/thomas-du-toit/): South Africa代表23→28キャップ
+- [Du'Plessis KIRIFI](/teams/super-rugby/hurricanes/#p-du-plessis-kirifi): ニュージーランド代表8→10キャップ
+- [Jimmy TUPOU](/national-teams/tonga/#p-jimmy-tupou): トンガ代表3→4キャップ
+- [Veikoso POLONIATI](/teams/super-rugby/moana-pasifika/#p-veikoso-poloniati): トンガ代表10→12キャップ
+- [Willy HAVILI](/national-teams/tonga/#p-willy-havili): トンガ代表29→30キャップ
+- [Arturo TEN HOEVER](/national-teams/uruguay/#p-arturo-ten-hoever): ウルグアイ代表2→3キャップ
+- [Michael KUMBIRAI](/national-teams/zimbabwe/#p-michael-kumbirai): ジンバブエ代表3→4キャップ
+- [Victor MUPUNGA](/national-teams/zimbabwe/#p-victor-mupunga): ジンバブエ代表4→5キャップ
+
+## URC：代表キャップ更新（4件）
+
+2026年8月に代表キャップ数が更新された選手は4名。
+
+- [Cameron HANEKOM](/teams/urc/vodacom-bulls/#p-cameron-hanekom): 南アフリカ代表1→3キャップ
+- [Cameron HANEKOM](/teams/urc/vodacom-bulls/#p-cameron-hanekom): 南アフリカ代表3→4キャップ
+- [Enrique PIERETTO HEILAND](/players/enrique-pieretto-heiland/): アルゼンチン代表21→23キャップ
+- [Sacha FEINBERG-MNGOMEZULU](/teams/urc/dhl-stormers/#p-sacha-mngomezulu): 南アフリカ代表30→31キャップ
 
 ## 7月の移籍まとめ（旧7月月次レポート）
 

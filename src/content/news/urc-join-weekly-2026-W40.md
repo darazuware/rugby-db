@@ -1,106 +1,42 @@
 ---
 title: "URC週間加入まとめ（2026-W40）"
 pubDate: 2026-09-28
+updatedDate: 2026-10-05
 category: "NEWS"
 tags: ["URC", "加入"]
 source_diff: "2026-09-28_urc.json"
 draft: false
 ---
 
-- [Adam MCKENZIE](/teams/urc/edinburgh-rugby/#p-adam-mckenzie)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Alec HEPBURN](/teams/urc/edinburgh-rugby/#p-alec-hepburn)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Alzeadon FELIX](/teams/urc/emirates-lions/#p-alzeadon-felix)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- André Riaan WARNERが[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
-- [Antony MIRANDA](/teams/urc/benetton-rugby-trevise/#p-antony-miranda)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入
-- [Archie APPLEBY](/teams/urc/edinburgh-rugby/#p-archie-appleby)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Artur SMYKOVSKIY](/teams/urc/leinster-rugby/#p-artur-smykovskiy)が[レンスター・ラグビー](/teams/urc/leinster-rugby/)に加入
-- [Asad MOOS](/teams/urc/emirates-lions/#p-asad-moos)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Ben BLANEY](/teams/urc/leinster-rugby/#p-ben-blaney)が[レンスター・ラグビー](/teams/urc/leinster-rugby/)に加入
-- [Ben MCDONALD](/teams/urc/edinburgh-rugby/#p-ben-mcdonald)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Blake MCCLEAN](/teams/urc/ulster-rugby/#p-blake-mcclean)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入
-- [Boan VENTER](/teams/urc/emirates-lions/#p-boan-venter)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Boeta CHAMBERLAIN](/teams/urc/emirates-lions/#p-boeta-chamberlain)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Callum REIDY](/teams/urc/glasgow-warriors/#p-callum-reidy)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Cecil PARSONS](/teams/urc/emirates-lions/#p-cecil-parsons)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Charlie EWELS](/players/charlie-ewels/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Charlie MOLONY](/teams/urc/leinster-rugby/#p-charlie-molony)が[レンスター・ラグビー](/teams/urc/leinster-rugby/)に加入
-- [Charlie O'CONNOR](/teams/urc/ulster-rugby/#p-charlie-o-connor)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入
-- [Chay MULLINS](/teams/urc/ulster-rugby/#p-chay-mullins)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入
-- [Connor MCVICKER](/teams/urc/ulster-rugby/#p-connor-mcvicker)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入
-- [Cyle BRINK](/players/cyle-brink/)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入
-- [Dan KELLY](/teams/urc/edinburgh-rugby/#p-dan-kelly-)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Daniel HAWKSHAW](/teams/urc/ulster-rugby/#p-daniel-hawkshaw)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入
-- [Daniel KASENDE](/teams/urc/emirates-lions/#p-daniel-kasende)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Darrien LANDSBERG](/teams/urc/hollywoodbets-sharks/#p-darrien-lane-landsberg)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入
-- [Deon SLABBERT](/players/deon-slabbert/)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入
-- [Dylan MCNEICE](/teams/urc/leinster-rugby/#p-dylan-mcneice)が[レンスター・ラグビー](/teams/urc/leinster-rugby/)に加入
-- [Eduardo BELLO](/teams/urc/ulster-rugby/#p-eduardo-bello)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入
-- [Eli SNYMAN](/teams/urc/ulster-rugby/#p-eli-snyman)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入
-- [Ethan ADAMS](/teams/urc/emirates-lions/#p-ethan-adams)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Federico PISANI](/teams/urc/zebre-parma/#p-federico-pisani)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入
-- [Filippo ALONGI](/teams/urc/zebre-parma/#p-filippo-alongi)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入
-- [Geordie GWYNN](/teams/urc/edinburgh-rugby/#p-geordie-gwynn)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Gianni LOMBARD](/teams/urc/hollywoodbets-sharks/#p-gianni-lombard)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入
-- [Gilermo MENTOE](/teams/urc/emirates-lions/#p-gilermo-mentoe)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Harry CLARK](/teams/urc/edinburgh-rugby/#p-harry-clark)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Harry GOSLIN](/teams/urc/leinster-rugby/#p-harry-goslin)が[レンスター・ラグビー](/teams/urc/leinster-rugby/)に加入
-- [Harry JACKAMAN](/teams/urc/edinburgh-rugby/#p-harry-jackaman)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Harry SOBOIL](/teams/urc/edinburgh-rugby/#p-harry-soboil)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Haashim PEAD](/teams/urc/dhl-stormers/#p-hassiem-pead)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入
-- [Hyron ANDREWS](/teams/urc/emirates-lions/#p-hyron-andrews)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Ioan EMANUEL](/players/ioan-emanuel/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [Jacques DU PLESSIS](/players/jacques-du-plessis/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [James GRAYSON](/teams/urc/edinburgh-rugby/#p-james-grayson)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [James SCHNETLER](/teams/urc/emirates-lions/#p-james-schnetler)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Jamie BENSON](/teams/urc/ulster-rugby/#p-jamie-benson)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入
-- [Janko SWANEPOEL](/players/janko-swanepoel/)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入
-- [Jannes KIRSTEN](/players/jannes-kirsten/)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入
-- [Jason HUGO](/teams/urc/emirates-lions/#p-jason-hugo)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [JD HATTINGH](/teams/urc/emirates-lions/#p-jd-hattingh)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Jed FINDLAY](/teams/urc/ulster-rugby/#p-jed-findlay)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入
-- [Joe VAN ZYL](/players/joe-van-zyl/)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入
-- [Joey CARBERY（ジョーイ・カーベリー）](/teams/urc/leinster-rugby/#p-joey-carbery)が[レンスター・ラグビー](/teams/urc/leinster-rugby/)に加入
-- [John MCKEE](/teams/urc/scarlets/#p-john-mckee)が[スカーレッツ](/teams/urc/scarlets/)に加入
-- [Josh MCNALLY](/players/josh-mcnally/)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入
-- [JP DU PREEZ](/teams/urc/emirates-lions/#p-jp-du-preez)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Juan BARBOTTI](/teams/urc/zebre-parma/#p-juan-barbotti)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入
-- [Juan-Ignacio CASTELLANO](/teams/urc/zebre-parma/#p-juan-ignacio-castellano)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入
-- [Keagan SMITH](/teams/urc/emirates-lions/#p-keagan-smith)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Keynan KNOX](/teams/urc/ulster-rugby/#p-keynan-knox)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入
-- Kienan HIGGINSが[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Likhona FINCA](/teams/urc/emirates-lions/#p-likhona-finca)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Louie CHAPMAN](/teams/super-rugby/crusaders/#p-louie-chapman)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Luke CANNON](/teams/urc/emirates-lions/#p-luke-cannon)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Mahle SITHOLE](/teams/urc/emirates-lions/#p-mahle-sithole)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Mahon RONAN](/teams/urc/ulster-rugby/#p-mahon-ronan)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入
-- [Marco FERREIRA](/teams/urc/emirates-lions/#p-marco-ferreira)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Marno GROBBELAAR](/teams/urc/emirates-lions/#p-marno-grobbelaar)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Martin MOLONEY](/teams/urc/ulster-rugby/#p-martin-moloney)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入
-- [Matt DEVINE](/teams/urc/ulster-rugby/#p-matt-devine)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入
-- [Matthew FICK](/teams/urc/edinburgh-rugby/#p-matthew-fick)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Max DOYLE](/teams/urc/leinster-rugby/#p-max-doyle)が[レンスター・ラグビー](/teams/urc/leinster-rugby/)に加入
-- [Merwe OLIVIER](/players/merwe-olivier/)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入
-- [Mihlali MOSI](/players/mihlali-mosi/)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入
-- [Morgan NAUDÉ](/teams/urc/emirates-lions/#p-morgan-naude)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Morné VENTER](/teams/urc/emirates-lions/#p-morne-venter)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Oli ANDERSON](/teams/urc/edinburgh-rugby/#p-oli-anderson)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Ollie DUNCAN](/teams/urc/edinburgh-rugby/#p-ollie-duncan)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Peter DOOLEY](/teams/urc/leinster-rugby/#p-peter-dooley)が[レンスター・ラグビー](/teams/urc/leinster-rugby/)に加入
-- [Riley HIGGINS](/teams/super-rugby/hurricanes/#p-riley-higgins)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Robert HUNT](/players/robert-hunt/)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入
-- [Ruan NORTJÉ](/players/ruan-nortje/)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入
-- [Ruan SWART](/teams/urc/emirates-lions/#p-ruan-swart)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Sami BISHTI](/teams/urc/leinster-rugby/#p-sami-bishti)が[レンスター・ラグビー](/teams/urc/leinster-rugby/)に加入
-- [Seb LOMBARD](/players/seb-lombard/)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入
-- [Sikhumbuzo NOTSHE](/teams/urc/emirates-lions/#p-sikhumbuzo-notshe)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Simphiwe MATANZIMA](/players/simphiwe-matanzima/)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入
-- [Thando BIYELA](/teams/urc/emirates-lions/#p-thando-biyela)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
-- [Thomas DU TOIT](/players/thomas-du-toit/)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入
-- [Tiaan LANGE](/players/tiaan-lange/)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入
-- [Tielman NIEUWOUDT](/players/tielman-nieuwoudt/)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入
-- [Toby OVERSON](/teams/urc/edinburgh-rugby/#p-toby-overson)が[エディンバラ・ラグビー](/teams/urc/edinburgh-rugby/)に加入
-- [Tom BELL](/teams/urc/ulster-rugby/#p-tom-bell)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入
-- [Tyrese ABOLARIN](/teams/urc/ulster-rugby/#p-tyrese-abolarin)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入
-- [Wilco LOUW](/players/wilco-louw/)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入
-- [Zane BESTER](/teams/urc/zebre-parma/#p-zane-bester)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入
-- [Zian CILLIERS](/teams/urc/emirates-lions/#p-zian-cilliers)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入
+2026-W40にURCの所属選手データで、新たな所属先が確認された選手は30名。前所属は各選手の経歴データに基づく。
+
+- [Antony MIRANDA](/teams/urc/benetton-rugby-trevise/#p-antony-miranda)が[ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise/)に加入（前所属: Mogliano Veneto Rugby）
+- [Asad MOOS](/teams/urc/emirates-lions/#p-asad-moos)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入（前所属: Stormers）
+- [Boan VENTER](/teams/urc/emirates-lions/#p-boan-venter)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入（前所属: Edimbourg Rugby）
+- [Boeta CHAMBERLAIN](/teams/urc/emirates-lions/#p-boeta-chamberlain)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入（前所属: Newcastle）
+- [Callum REIDY](/teams/urc/glasgow-warriors/#p-callum-reidy)が[グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors/)に加入（前所属: Glasgow Hawks）
+- [Chay MULLINS](/teams/urc/ulster-rugby/#p-chay-mullins)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入（前所属: Connacht Rugby）
+- [Daniel HAWKSHAW](/teams/urc/ulster-rugby/#p-daniel-hawkshaw)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入（前所属: Clontarf Rugby）
+- [Daniel KASENDE](/teams/urc/emirates-lions/#p-daniel-kasende)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入（前所属: Ospreys）
+- [Darrien LANDSBERG](/teams/urc/hollywoodbets-sharks/#p-darrien-lane-landsberg)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入（前所属: Lions Rugby）
+- [Eduardo BELLO](/teams/urc/ulster-rugby/#p-eduardo-bello)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入（前所属: Newcastle）
+- [Eli SNYMAN](/teams/urc/ulster-rugby/#p-eli-snyman)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入（前所属: Benetton Rugby Trévise）
+- [Ethan ADAMS](/teams/urc/emirates-lions/#p-ethan-adams)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入（前所属: Golden Lions）
+- [Federico PISANI](/teams/urc/zebre-parma/#p-federico-pisani)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入（前所属: Petrarca Rugby）
+- [Filippo ALONGI](/teams/urc/zebre-parma/#p-filippo-alongi)が[ゼブレ・パルマ](/teams/urc/zebre-parma/)に加入（前所属: Valorugby Emilia）
+- [Gianni LOMBARD](/teams/urc/hollywoodbets-sharks/#p-gianni-lombard)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入（前所属: Lions Rugby）
+- [Haashim PEAD](/teams/urc/dhl-stormers/#p-hassiem-pead)が[DHLストーマーズ](/teams/urc/dhl-stormers/)に加入（前所属: Lions Rugby）
+- [Hyron ANDREWS](/teams/urc/emirates-lions/#p-hyron-andrews)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入（前所属: Sale Sharks）
+- [Jamie BENSON](/teams/urc/ulster-rugby/#p-jamie-benson)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入（前所属: Harlequins）
+- [Joey CARBERY（ジョーイ・カーベリー）](/teams/urc/leinster-rugby/#p-joey-carbery)が[レンスター・ラグビー](/teams/urc/leinster-rugby/)に加入（前所属: Union Bordeaux-Bègles）
+- [JP DU PREEZ](/teams/urc/emirates-lions/#p-jp-du-preez)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入（前所属: Red Hurricanes Osaka）
+- [Keagan SMITH](/teams/urc/emirates-lions/#p-keagan-smith)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入（前所属: Golden Lions）
+- [Keynan KNOX](/teams/urc/ulster-rugby/#p-keynan-knox)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入（前所属: USON Nevers Rugby）
+- [Mahon RONAN](/teams/urc/ulster-rugby/#p-mahon-ronan)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入（前所属: Leinster Rugby）
+- [Marco FERREIRA](/teams/urc/emirates-lions/#p-marco-ferreira)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入（前所属: Golden Lions）
+- [Marno GROBBELAAR](/teams/urc/emirates-lions/#p-marno-grobbelaar)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入（前所属: Golden Lions）
+- [Martin MOLONEY](/teams/urc/ulster-rugby/#p-martin-moloney)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入（前所属: Exeter Chiefs）
+- [Morgan NAUDÉ](/teams/urc/emirates-lions/#p-morgan-naude)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入（前所属: Golden Lions）
+- [Peter DOOLEY](/teams/urc/leinster-rugby/#p-peter-dooley)が[レンスター・ラグビー](/teams/urc/leinster-rugby/)に加入（前所属: Connacht Rugby）
+- [Ruan SWART](/teams/urc/emirates-lions/#p-ruan-swart)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入（前所属: Bulls）
+- [Sikhumbuzo NOTSHE](/teams/urc/emirates-lions/#p-sikhumbuzo-notshe)が[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)に加入（前所属: Union Sportive Montalbanaise）
