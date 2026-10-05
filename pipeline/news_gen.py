@@ -36,7 +36,7 @@ from datetime import date as date_cls, datetime
 from pathlib import Path
 from typing import Optional
 
-from pipeline import io, player_links
+from pipeline import io, news_verify, player_links
 
 LEAGUE_LABEL_JA: dict[str, str] = {
     "league-one-d1": "リーグワン",
@@ -148,7 +148,8 @@ def team_display_name(team: Optional[dict]) -> Optional[str]:
 
 
 def player_display_name(entry: dict) -> Optional[str]:
-    return entry.get("name_ja") or entry.get("name_en") or None
+    # JRFU 発表ページの注記記号（※1. 等）が氏名に混入している場合は除く
+    return news_verify.strip_footnote(entry.get("name_ja") or entry.get("name_en")) or None
 
 
 def player_link(entry: dict, players_by_id: dict[str, dict]) -> Optional[str]:
@@ -218,6 +219,8 @@ class Article:
     pub_date: str = ""
     source_diff: str = ""
     category: str = "NEWS"
+    noindex: bool = False
+    updated_date: str = ""
 
     def filename(self) -> str:
         return f"{self.slug}.md"
@@ -228,10 +231,12 @@ class Article:
             "---",
             f'title: "{self.title}"',
             f"pubDate: {self.pub_date}",
+            *([f"updatedDate: {self.updated_date}"] if self.updated_date else []),
             f'category: "{self.category}"',
             f"tags: {tags_yaml}",
             f'source_diff: "{self.source_diff}"',
             "draft: false",
+            *(["noindex: true"] if self.noindex else []),
             "---",
             "",
             self.body.rstrip(),
@@ -324,12 +329,18 @@ def build_join_weekly_article(league: str, iso_week: str, entries: list[dict], *
         team_name = team_display_name(teams_by_id.get(entry.get("team_id")))
         if not name or not team_name:
             continue
+        # 名簿の読み込み直し・所属誤判定を「加入」と書かないよう、master で裏付けが取れる行だけ載せる
+        if not news_verify.join_verified(league, entry["id"], entry.get("team_id")):
+            continue
         who = _player_display_with_kana(entry, players_by_id) or name
-        lines.append(f"- {who}が{team_md(team_name)}に加入")
+        prev = news_verify.previous_team(league, entry["id"])
+        lines.append(f"- {who}が{team_md(team_name)}に加入" + (f"（前所属: {prev}）" if prev else ""))
     if not lines:
         return None
     title = f"{label}週間加入まとめ（{iso_week}）"
-    body = "\n".join(lines)
+    lead = (f"{iso_week}に{label}の所属選手データで、新たな所属先が確認された選手は{len(lines)}名。"
+            "前所属は各選手の経歴データに基づく。")
+    body = "\n".join([lead, "", *lines])
     slug = f"{league}-join-weekly-{iso_week}"
     return Article(slug=slug, title=title, body=body, tags=[label, "加入"],
                    pub_date=pub_date, source_diff=source_diff)
@@ -597,12 +608,17 @@ def build_caps_weekly_article(league: str, iso_week: str, entries: list[dict], *
         frm, to = entry.get("from_count"), entry.get("to_count")
         if not name or not team or frm is None or to is None:
             continue
+        # 1週間で MAX_WEEKLY_CAPS_DELTA 超の増加はソース側の数え直しとみなし載せない
+        if not news_verify.caps_delta_plausible(frm, to):
+            continue
         who = _player_md(entry, players_by_id) or name
-        lines.append(f"- {who}: {team}代表{frm}→{to}キャップ")
+        lines.append(f"- {who}: {news_verify.country_ja(team)}代表 {frm}→{to}キャップ")
     if not lines:
         return None
-    title = f"{label}週間代表キャップ更新まとめ（{iso_week}）"
-    body = "\n".join(lines)
+    title = (f"代表キャップ週間更新まとめ（{iso_week}）" if league == "national"
+             else f"{label}所属選手の代表キャップ更新まとめ（{iso_week}）")
+    lead = f"{iso_week}に代表キャップ数の更新が確認された選手は{len(lines)}名（{label}の選手データに基づく）。"
+    body = "\n".join([lead, "", *lines])
     slug = f"{league}-caps-weekly-{iso_week}"
     return Article(slug=slug, title=title, body=body, tags=[label, "キャップ更新"],
                    pub_date=pub_date, source_diff=source_diff)
@@ -629,11 +645,112 @@ def _diff_files_for_date(target_date: str) -> list[Path]:
     return sorted(diff_dir.glob(f"{target_date}_*.json"))
 
 
+
+# ---------------------------------------------------------------------------
+# 公開済み自動記事の再生成（検証ロジック変更時に使う）
+# ---------------------------------------------------------------------------
+
+_WITHDRAWN = ("この週に検出された加入・キャップ更新は、選手データとの照合で事実の裏付けが取れなかったため"
+              "掲載を取り下げた。最新の所属・キャップ数は各チームの選手名簿を参照のこと。")
+
+
+def _front(path: Path) -> dict[str, str]:
+    import re
+    m = re.match(r"\A---\n(.*?)\n---\n", path.read_text(encoding="utf-8"), re.S)
+    out: dict[str, str] = {}
+    for line in (m.group(1).splitlines() if m else []):
+        k, _, v = line.partition(":")
+        out[k.strip()] = v.strip().strip('"')
+    return out
+
+
+def _callup_event(news_id: str, source_diff: str) -> Optional[dict]:
+    """招集イベント: メンバーは現 master（最新の追加・辞退を反映）、期間・会場・前回差分は初出 diff の値。
+    master の start_date は更新注記の年（例: 2027）を誤読することがあるため使わない。"""
+    master = {c.get("news_id"): c for c in io.read_records(io.MASTER_DIR / "callups" / "national.json")}
+    ev = None
+    for path in [io.META_DIR / "diff" / source_diff, *sorted((io.META_DIR / "diff").glob("*_national.json"))]:
+        for e in (io.read_json(path, default={}) or {}).get("call_ups", []):
+            if e.get("news_id") == news_id:
+                ev = dict(e)
+                break
+        if ev:
+            break
+    m = master.get(news_id)
+    if not ev or not m:
+        return ev
+    import re
+    ev["title"] = re.sub(r"^（[^）]*更新）", "", ev.get("title") or m.get("title") or "")
+    ev["members"] = [{**x, "id": x.get("player_id") or x.get("id")} for x in m["members"]]
+    ev["member_count"] = len(ev["members"])
+    if not ev.get("venue"):
+        ev["venue"] = m.get("venue")
+    return ev
+
+
+def rebuild_published(today: str) -> int:
+    """公開中（draft:false）の週次まとめ・招集記事を現行の検証ロジックで再生成する。
+    pubDate/source_diff は維持。載せられる行が0件の週次記事は noindex にして取り下げ文のみ残す
+    （URL を消すとリダイレクトが要るため、統合判断は人に委ねる）。"""
+    import re
+    n = 0
+    for path in sorted(NEWS_DIR.glob("*.md")):
+        m = re.match(r"(.+)-(caps|join)-weekly-(\d{4}-W\d{2})$", path.stem)
+        c = re.match(r"(.+)-callup-(\d+)$", path.stem)
+        if not m and not c:
+            continue
+        fm = _front(path)
+        if fm.get("draft") == "true":
+            continue
+        pub, src = fm.get("pubDate", today), fm.get("source_diff", "")
+        if m:
+            league, kind, wk = m.groups()
+            players_by_id = {p["id"]: p for p in io.read_records(io.players_path(league))}
+            teams_by_id = {t["id"]: t for t in io.read_records(io.teams_path(league))}
+            if kind == "caps":
+                state = io.read_json(NEWS_META_DIR / f"caps_updates_{league}_{wk}.json", default=[])
+                art = build_caps_weekly_article(league, wk, state, players_by_id=players_by_id,
+                                                pub_date=pub, source_diff=src)
+            else:
+                state = io.read_json(NEWS_META_DIR / f"join_weekly_{league}_{wk}.json", default=[])
+                art = build_join_weekly_article(league, wk, state, players_by_id=players_by_id,
+                                                teams_by_id=teams_by_id, pub_date=pub, source_diff=src)
+            if art is None:
+                art = Article(slug=path.stem, title=fm.get("title", path.stem), body=_WITHDRAWN,
+                              tags=[league_label(league), "加入" if kind == "join" else "キャップ更新"],
+                              pub_date=pub, source_diff=src, noindex=True)
+        else:
+            league, news_id = c.groups()
+            ev = _callup_event(news_id, src)
+            if not ev:
+                continue
+            players_by_id = {p["id"]: p for p in io.read_records(io.players_path(league))}
+            arts = build_call_up_articles({"league": league, "call_ups": [ev]}, players_by_id=players_by_id,
+                                          pub_date=pub, source_diff=src)
+            if not arts:
+                continue
+            art = arts[0]
+        old = re.sub(r"^updatedDate:.*\n", "", path.read_text(encoding="utf-8"), flags=re.M)
+        new = art.to_markdown()
+        if old == new:
+            continue
+        art.updated_date = today
+        path.write_text(art.to_markdown(), encoding="utf-8")
+        n += 1
+        print(f"[news] rebuilt {path.name}{' (noindex)' if art.noindex else ''}")
+    return n
+
+
 def main(argv: Optional[list[str]] = None) -> int:
     ap = argparse.ArgumentParser(prog="pipeline.news_gen")
     ap.add_argument("--date", default=None, help="対象diffの日付 YYYY-MM-DD（省略時は本日 JST）")
+    ap.add_argument("--rebuild-published", action="store_true",
+                    help="公開中の週次まとめ・招集記事を現行の検証ロジックで再生成する")
     args = ap.parse_args(argv)
     target_date = args.date or datetime.now(io.JST).strftime("%Y-%m-%d")
+    if args.rebuild_published:
+        print(f"[news] 再生成 {rebuild_published(target_date)} 件")
+        return 0
 
     files = _diff_files_for_date(target_date)
     if not files:

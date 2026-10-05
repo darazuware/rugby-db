@@ -13,7 +13,7 @@ import re
 from collections import Counter
 from pathlib import Path
 
-from . import io
+from . import io, news_verify
 
 ROOT = Path(__file__).resolve().parent.parent
 NEWS_DIR = ROOT / "src" / "content" / "news"
@@ -92,13 +92,20 @@ def _team_counts(texts: list[str]) -> Counter:
     return c
 
 
+_COUNTRY = re.compile(r"([A-Z][A-Za-z ]+)代表")
+
+
 def _render(month: str, entries: list[dict]) -> str:
     y, mo = month.split("-")
     groups: dict[tuple, list[str]] = {}
     for e in entries:
+        # master で裏付けが取れない行（所属不一致・1週間で不自然なキャップ増）は載せない
+        if not news_verify.rollup_line_ok(e):
+            continue
+        text = _COUNTRY.sub(lambda m: news_verify.country_ja(m.group(1).strip()) + "代表", e["text"])
         lines = groups.setdefault((e["kind"], e["label"]), [])
-        if e["text"] not in lines:
-            lines.append(e["text"])
+        if text not in lines:
+            lines.append(text)
     total = sum(len(v) for v in groups.values())
     labels = sorted({l for _, l in groups})
     out = [
@@ -135,26 +142,42 @@ def run() -> int:
         seen = {(s["kind"], s["label"], s["text"]) for s in state}
         state += [e for e in entries if (e["kind"], e["label"], e["text"]) not in seen]
         io.write_json(p, state)
-        y, mo = month.split("-")
-        last = max(e["date"] for e in state)
-        labels = "・".join(sorted({e["label"] for e in state}))
-        fm = [
-            "---",
-            f'title: "ラグビー移籍・代表キャップ動向まとめ（{y}年{int(mo)}月）"',
-            f'description: "{y}年{int(mo)}月の{labels}における加入・退団・代表キャップ更新を一覧でまとめた月次レポート。"',
-            f"pubDate: {last}",
-            'category: "NEWS"',
-            'tags: ["移籍", "加入", "キャップ更新", "月次まとめ"]',
-            "draft: false",
-            "---",
-            "",
-        ]
-        (NEWS_DIR / f"transfers-roundup-{month}.md").write_text(
-            "\n".join(fm) + _render(month, state) + _extras(month), encoding="utf-8")
-        print(f"[rollup] {month}: {len(state)} entries")
+        _write(month, state)
     return sum(len(v) for v in new.values())
 
 
+def rerender() -> None:
+    """蓄積済み state から月次記事を再描画する（検証ロジック変更時用。元記事の削除・リダイレクト追加はしない）。"""
+    for p in sorted(ROLLUP_DIR.glob("rollup_*.json")):
+        month = p.stem.removeprefix("rollup_")
+        if (NEWS_DIR / f"transfers-roundup-{month}.md").exists():  # 統合・リダイレクト済みの月は復活させない
+            _write(month, io.read_json(p, default=[]))
+
+
+def _write(month: str, state: list[dict]) -> None:
+    y, mo = month.split("-")
+    last = max(e["date"] for e in state)
+    labels = "・".join(sorted({e["label"] for e in state if news_verify.rollup_line_ok(e)}))
+    fm = [
+        "---",
+        f'title: "ラグビー移籍・代表キャップ動向まとめ（{y}年{int(mo)}月）"',
+        f'description: "{y}年{int(mo)}月の{labels}における加入・退団・代表キャップ更新を一覧でまとめた月次レポート。"',
+        f"pubDate: {last}",
+        'category: "NEWS"',
+        'tags: ["移籍", "加入", "キャップ更新", "月次まとめ"]',
+        "draft: false",
+        "---",
+        "",
+    ]
+    (NEWS_DIR / f"transfers-roundup-{month}.md").write_text(
+        "\n".join(fm) + _render(month, state) + _extras(month), encoding="utf-8")
+    print(f"[rollup] {month}: {len(state)} entries")
+
+
 if __name__ == "__main__":
-    argparse.ArgumentParser(prog="pipeline.news_rollup").parse_args()
-    run()
+    ap = argparse.ArgumentParser(prog="pipeline.news_rollup")
+    ap.add_argument("--rerender", action="store_true", help="既存 state から月次記事を再描画のみ行う")
+    if ap.parse_args().rerender:
+        rerender()
+    else:
+        run()

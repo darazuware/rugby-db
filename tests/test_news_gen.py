@@ -175,16 +175,28 @@ def test_merge_weekly_entries_dedupes_by_id_keeping_latest():
     assert next(m for m in merged if m["id"] == "ar_1")["team_id"] == "t2"
 
 
-def test_build_join_weekly_article():
+def test_build_join_weekly_article(monkeypatch):
+    monkeypatch.setattr(ng.news_verify, "join_verified", lambda lg, pid, tid: pid == "ar_1")
+    monkeypatch.setattr(ng.news_verify, "previous_team", lambda lg, pid: "Old Club")
     entries = [
         {"id": "ar_1", "name_en": "Taro Yamada", "name_ja": "山田太郎", "team_id": "t1"},
+        {"id": "ar_9", "name_en": "Unverified", "name_ja": None, "team_id": "t1"},
     ]
     a = ng.build_join_weekly_article("top14", "2026-W29", entries, players_by_id=PLAYERS,
                                      teams_by_id=TEAMS, pub_date="2026-07-18", source_diff="x.json")
     assert a is not None
     assert a.title == "Top14週間加入まとめ（2026-W29）"
-    assert a.body == "- [山田太郎](/players/taro-yamada/)がスタッド・トゥールーザンに加入"
+    assert a.body.endswith("\n\n- [山田太郎](/players/taro-yamada/)がスタッド・トゥールーザンに加入（前所属: Old Club）")
+    assert "Unverified" not in a.body
     assert a.slug == "top14-join-weekly-2026-W29"
+
+
+def test_build_join_weekly_article_none_when_unverified(monkeypatch):
+    monkeypatch.setattr(ng.news_verify, "join_verified", lambda lg, pid, tid: False)
+    entries = [{"id": "ar_1", "name_en": "Taro Yamada", "name_ja": "山田太郎", "team_id": "t1"}]
+    assert ng.build_join_weekly_article("top14", "2026-W29", entries, players_by_id=PLAYERS,
+                                        teams_by_id=TEAMS, pub_date="2026-07-18",
+                                        source_diff="x.json") is None
 
 
 def test_build_join_weekly_article_none_when_empty():
@@ -274,14 +286,18 @@ def test_merge_caps_updates_adds_new_id():
 
 def test_build_caps_weekly_article():
     entries = [
-        {"id": "ar_1", "name_ja": "山田太郎", "name_en": "Taro Yamada", "team": "日本",
+        {"id": "ar_1", "name_ja": "山田太郎", "name_en": "Taro Yamada", "team": "Japan",
          "from_count": 10, "to_count": 12},
+        # 1週間で+16は数え直しとみなし除外
+        {"id": "ar_2", "name_ja": None, "name_en": "Jump Player", "team": "Japan",
+         "from_count": 24, "to_count": 40},
     ]
     a = ng.build_caps_weekly_article("national", "2026-W29", entries, players_by_id=PLAYERS,
                                      pub_date="2026-07-18", source_diff="x.json")
     assert a is not None
-    assert a.title == "代表週間代表キャップ更新まとめ（2026-W29）"
-    assert a.body == "- [山田太郎](/players/taro-yamada/): 日本代表10→12キャップ"
+    assert a.title == "代表キャップ週間更新まとめ（2026-W29）"
+    assert a.body.endswith("\n\n- [山田太郎](/players/taro-yamada/): 日本代表 10→12キャップ")
+    assert "Jump Player" not in a.body
     assert a.slug == "national-caps-weekly-2026-W29"
 
 
@@ -407,3 +423,12 @@ def test_player_link_non_indexable_falls_back_to_team_anchor(monkeypatch):
     # チーム不明・リーグ不明は平文（None）
     q = {"id": "y", "slug": "baz", "league": "university", "team_id": None}
     assert ng.player_link({"id": "y"}, {"y": q}) is None
+
+
+def test_strip_footnote_and_caps_delta():
+    from pipeline import news_verify as nv
+    assert nv.strip_footnote("稲場 巧 ※1 Takumi INABA") == "稲場 巧"
+    assert nv.strip_footnote("佐藤 健次 Kenji SATO") == "佐藤 健次"
+    assert nv.strip_footnote("Dylan RILEY") == "Dylan RILEY"
+    assert nv.caps_delta_plausible(10, 12) and not nv.caps_delta_plausible(8, 14)
+    assert not nv.caps_delta_plausible(5, 5)
