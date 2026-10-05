@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02T23:25:15+09:00",
+  "checked_at": "2026-10-05T17:14:30+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6186",
+          "title": "クラブ コベルコ神戸スティーラーズ、12月12日(土) ホストゲーム開幕戦で「シーズン記念Tシャツ」を先着15,000名様にプレゼントします！ 2026.10.05",
+          "date": "2026-10-05",
+          "category": null
+        },
+        {
+          "url": "https://league-one.jp/news/6185",
+          "title": "クラブ 浦安D-Rocks、MUFGスタジアム（国立競技場）開催試合における3万人招待キャンペーン実施のお知らせ 2026.10.05",
+          "date": "2026-10-05",
+          "category": null
+        },
+        {
+          "url": "https://league-one.jp/news/6183",
+          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 D1 第1-3節／D2 第1-2節／D3 第1-2節 キックオフ時間決定のお知らせ 2026.10.05",
+          "date": "2026-10-05",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,7 +38,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54243",
+          "title": "男子日本代表ヨーロッパ遠征「リポビタンDツアー2026」実施のお知らせ 2026.10.05 （月） 15人制男子日本代表 WBB",
+          "date": "2026-10-05",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +59,15 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54243",
+      "title": "男子日本代表ヨーロッパ遠征「リポビタンDツアー2026」実施のお知らせ 2026.10.05 （月） 15人制男子日本代表 WBB",
+      "date": "2026-10-05",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }
