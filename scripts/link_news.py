@@ -63,6 +63,10 @@ for lg_map in names_jp.values():
             if len(al) >= 4 and any(ord(c) > 127 for c in al):
                 clubs.setdefault(al, url)
 
+# 誤リンクの元になる曖昧な別名（他チーム・企業名と衝突）
+for _k in ('ライオン', 'JR東日本'):
+    clubs.pop(_k, None)
+
 # national: 「◯◯代表」-> /national-teams/{slug}/
 national = {}
 for t in json.load(open(ROOT/'data/national_teams_config.json')):
