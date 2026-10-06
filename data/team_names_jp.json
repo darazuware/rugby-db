@@ -148,11 +148,13 @@
       ]
     },
     "Emirates Lions": {
-      "jp": "エミレーツ・ライオンズ",
+      "jp": "10ベット・ライオンズ",
       "country": "南アフリカ",
       "flag": "🇿🇦",
       "aliases": [
-        "Lions"
+        "Lions",
+        "10bet Lions",
+        "エミレーツ・ライオンズ"
       ]
     },
     "Vodacom Bulls": {

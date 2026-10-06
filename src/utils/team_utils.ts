@@ -96,6 +96,8 @@ export const TEAM_SLUG_MAP: Record<string, string> = {
     "ハリウッドベッツ・シャークス": "hollywoodbets-sharks",
     "Hollywoodbets Sharks": "hollywoodbets-sharks",
     "エミレーツ・ライオンズ": "emirates-lions",
+    "10ベット・ライオンズ": "emirates-lions",
+    "10bet Lions": "emirates-lions",
     "Emirates Lions": "emirates-lions",
     "Fidelity SecureDrive Lions": "emirates-lions",
     "Benetton Rugby": "benetton-rugby-trevise",

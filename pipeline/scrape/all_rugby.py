@@ -96,7 +96,7 @@ NAME_JA |= {
     "cardiff": "カーディフ・ラグビー", "connacht": "コナート・ラグビー",
     "dragons": "ドラゴンズ・ラグビー", "edinburgh": "エディンバラ・ラグビー",
     "glasgow": "グラスゴー・ウォリアーズ", "leinster": "レンスター・ラグビー",
-    "lions": "エミレーツ・ライオンズ", "munster": "マンスター・ラグビー",
+    "lions": "10ベット・ライオンズ", "munster": "マンスター・ラグビー",
     "ospreys": "オスプリーズ", "scarlets": "スカーレッツ",
     "sharks": "ハリウッドベッツ・シャークス", "stormers": "DHLストーマーズ",
     "ulster": "アルスター・ラグビー", "zebre": "ゼブレ・パルマ",
