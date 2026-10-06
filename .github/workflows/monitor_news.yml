@@ -74,11 +74,3 @@ jobs:
             git pull --rebase --autostash
             git push
           fi
-
-      # 選手の加入・退団・代表招集が出たときだけ通知する（改称告知も含む）。
-      - name: Notify highlights
-        if: always()
-        continue-on-error: true
-        run: python3 scripts/notify_monitor.py
-        env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
