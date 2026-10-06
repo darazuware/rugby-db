@@ -54,9 +54,6 @@ jobs:
           fi
 
       - name: Detect & report scheduled publishes
-        env:
-          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-          CHAT_ID: ${{ secrets.CHAT_ID }}
         run: |
           if [ "${{ steps.flag.outputs.daily }}" = "true" ]; then
             python3 -m pipeline.publish_report --daily
@@ -76,12 +73,3 @@ jobs:
             git pull --rebase --autostash
             git push
           fi
-
-      - name: Notify failure
-        if: failure()
-        env:
-          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-          CHAT_ID: ${{ secrets.CHAT_ID }}
-        run: |
-          python3 -m pipeline.telegram_notify send \
-            --text "$(printf '⚠️ <b>予約公開ジョブ失敗</b>\nログ: https://github.com/%s/actions/runs/%s' '${{ github.repository }}' '${{ github.run_id }}')"
