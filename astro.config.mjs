@@ -7,6 +7,7 @@ import vercel from '@astrojs/vercel';
 
 import sitemap from '@astrojs/sitemap';
 import thinPages from './data/manual/thin_pages.json' with { type: 'json' };
+import remarkBreakAfterPeriod from './src/plugins/remarkBreakAfterPeriod.mjs';
 import { readdirSync, readFileSync } from 'node:fs';
 
 // frontmatter に noindex: true を持つニュース記事
@@ -26,6 +27,7 @@ const thinPaths = new Set([
 // https://astro.build/config
 export default defineConfig({
   site: "https://rugbypick.com",
+  markdown: { remarkPlugins: [remarkBreakAfterPeriod] },
   output: 'server',
   integrations: [
     react(),
