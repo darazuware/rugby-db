@@ -195,10 +195,16 @@ def standing_allrugby(rows_raw: list[dict], *, league: str, season: str,
     for r in rows_raw:
         tid = r.get("team_id")
         vals = {k: _to_int(r.get(k)) for k in ("rank", "played", "won", "drawn", "lost", "points")}
-        if (vals["drawn"] is None and str(r.get("drawn") or "").strip() == ""
-                and None not in (vals["played"], vals["won"], vals["lost"])
-                and vals["played"] == vals["won"] + vals["lost"]):
-            vals["drawn"] = 0
+        # 空欄の W/D/L は 0 表示（all.rugby）。played が数値で、空欄を0とした合計が
+        # played に一致する場合のみ算術検証つきで補完する。
+        blanks = [k for k in ("won", "drawn", "lost")
+                  if vals[k] is None and str(r.get(k) or "").strip() == ""]
+        if blanks and vals["played"] is not None:
+            known = sum(vals[k] for k in ("won", "drawn", "lost") if vals[k] is not None)
+            if known == vals["played"] and all(
+                    vals[k] is not None or k in blanks for k in ("won", "drawn", "lost")):
+                for k in blanks:
+                    vals[k] = 0
         if tid is None or any(vals[k] is None for k in ("rank", "played", "won", "drawn", "lost", "points")):
             warnings.append(f"{league} standings: team={tid} の数値欠落のため行を除外")
             continue

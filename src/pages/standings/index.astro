@@ -5,8 +5,23 @@ import StandingsTable from "../../components/StandingsTable";
 import standingsData from "../../../data/standings.json";
 import { getLeagueStandings, type LeagueId } from "../../lib/safeStandings";
 import { withTeamHref } from "../../lib/teamPages";
+import { getStandingByLeague, getTeamsByLeague } from "../../lib/master";
 import PRNotice from "../../components/PRNotice.astro";
 import WatchButton from "../../components/WatchButton.astro";
+
+const t14Master = await getStandingByLeague("top14");
+const t14Teams = await getTeamsByLeague("top14");
+const t14Rows = t14Master
+    ? [...t14Master.rows].sort((a, b) => a.rank - b.rank).map((r) => {
+          const t = t14Teams.find((x) => x.id === r.team_id);
+          const name = t?.name_ja ?? r.team_id;
+          return {
+              rank: r.rank, team_name: name, display_name: name, flag: "🇫🇷", slug: r.team_id,
+              played: r.played, won: r.won, drawn: r.drawn, lost: r.lost,
+              diff: "-", points: r.points,
+          };
+      })
+    : getLeagueStandings(standingsData, "top14");
 
 const leagueData = [
     {
@@ -31,7 +46,7 @@ const leagueData = [
         title_jp: "トップ14",
         color: "bg-[#C5A059]",
         accent: "text-[#C5A059]",
-        standings: withTeamHref("top14", getLeagueStandings(standingsData, "top14"))
+        standings: withTeamHref("top14", t14Rows as any)
     },
     {
         id: "urc",
