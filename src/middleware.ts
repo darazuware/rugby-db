@@ -117,6 +117,15 @@ export const onRequest = defineMiddleware(async (context, next) => {
     if (/^\/players\/hs-/.test(decodeURIComponent(normalized))) {
       return new Response(null, { status: 301, headers: { 'Location': '/schools/', 'Cache-Control': 'public, max-age=3600' } });
     }
+    // 存在しないチームページ宛ての301は、リーグ一覧（mlrは一覧なし→/teams/）へ
+    const tm = /^\/teams\/([^/]+)\/([^/]+)\/?$/.exec(redirectTarget);
+    if (tm) {
+      const live = new Set([...(await getTeamPagePaths().catch(() => new Map<string, string>())).values()].map((p) => p.replace(/\/$/, "")));
+      if (live.size > 0 && !live.has(redirectTarget.replace(/\/$/, ""))) {
+        const fb = tm[1] === "mlr" ? "/teams/" : `/teams/${tm[1]}/`;
+        return new Response(null, { status: 301, headers: { 'Location': fb, 'Cache-Control': 'public, max-age=3600' } });
+      }
+    }
     if (legacy) {
       const t = (await resolvePlayerRedirect(normalized)) ?? ((await isMissingPlayerPath(normalized)) ? RETIRED_REDIRECT_TARGET : normalized);
       return new Response(null, { status: 301, headers: { 'Location': encodeURI(t), 'Cache-Control': 'public, max-age=3600' } });
