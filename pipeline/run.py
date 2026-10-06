@@ -135,6 +135,22 @@ def _drop_roster_ids(teams: list[dict], players: list[dict], dropped: list[dict]
             team["roster_ids"].remove(p["id"])
 
 
+def _official_premiership_standing(warnings: list[str]) -> dict | None:
+    """Premiership 順位表を公式 premrugby.com のフィードから取得。失敗時は None。"""
+    try:
+        from datetime import datetime, timedelta, timezone
+        from .scrape import premrugby
+        rows = premrugby.fetch()
+        if len(rows) < 10:
+            raise ValueError(f"rows={len(rows)}")
+        data = {"league": "premiership", "season": "2026-27", "source_url": premrugby.SOURCE_URL,
+                "rows": rows, "scraped_at": datetime.now(timezone(timedelta(hours=9))).isoformat(timespec="seconds")}
+        return Standing.model_validate(data).model_dump(by_alias=True)
+    except Exception as exc:  # noqa: BLE001
+        warnings.append(f"premiership 公式順位表の取得失敗（all.rugby 版にフォールバック）: {exc}")
+        return None
+
+
 def _official_top14_standing(warnings: list[str]) -> dict | None:
     """TOP14 順位表を公式 top14.lnr.fr から取得（一次情報）。失敗時は None。"""
     try:
@@ -193,6 +209,10 @@ def run_leagues(leagues: list[str], *, dry_run: bool, only: set[str] | None = No
             official = _official_top14_standing(all_warnings)
             if official:
                 league_standings = [official]  # 公式(top14.lnr.fr)優先。失敗時のみ all.rugby 版
+        if league == "premiership":
+            official = _official_premiership_standing(all_warnings)
+            if official:
+                league_standings = [official]
         standings.extend(league_standings)
         all_warnings.extend(result.get("warnings", []))
         prev_by_league[league] = io.read_records(io.players_path(league))

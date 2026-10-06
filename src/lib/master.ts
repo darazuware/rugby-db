@@ -733,7 +733,10 @@ export function getAllStandings(): Promise<Standing[]> {
 
 export async function getStandingByLeague(league: LeagueKey): Promise<Standing | undefined> {
   const standings = await getAllStandings();
-  return standings.find((s) => s.league === league);
+  // 同リーグに複数シーズンがある場合は最新シーズンを返す
+  return standings
+    .filter((s) => s.league === league)
+    .sort((a, b) => b.season.localeCompare(a.season))[0];
 }
 
 // ---------------------------------------------------------------------------

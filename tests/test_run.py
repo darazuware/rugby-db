@@ -173,3 +173,4 @@ def _no_official_top14(monkeypatch):
     # 公式サイトへの実ネットワークアクセスを防ぐ（フォールバック経路でテスト）
     from pipeline import run as _run
     monkeypatch.setattr(_run, "_official_top14_standing", lambda warnings: None)
+    monkeypatch.setattr(_run, "_official_premiership_standing", lambda warnings: None)
