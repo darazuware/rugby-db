@@ -17,10 +17,16 @@ const HONEYPOT_PATH = '/api/v1/hidden-dataset.json';
 
 // P2-4: 旧記事URL(legacy) + P1-4 移行(master旧slug→新slug)を統合。
 // キーが重複する場合は master（新スキーマ側）を優先。
-const redirects: Record<string, string> = {
+// キーは decode + 末尾スラッシュ除去で正規化（日本語/末尾/付きのキーが一致しない問題の対策）。
+const redirects: Record<string, string> = {};
+for (const [k, v] of Object.entries({
   ...(legacyRedirects as Record<string, string>),
   ...(masterRedirects as Record<string, string>),
-};
+})) {
+  let key = k;
+  try { key = decodeURIComponent(k); } catch { /* そのまま */ }
+  redirects[key.replace(/\/$/, "")] = v;
+}
 
 // P1-4 退避リスト（旧地域リーグ/個別高校大学ページ・未整備プロリーグ選手など、
 // master化していない旧slug）。個別ページは復元しないため一覧ページへ301集約する（04）。
@@ -94,12 +100,27 @@ export const onRequest = defineMiddleware(async (context, next) => {
     );
   }
 
+  // 高校生(hs-)選手は個別ページ無し（10のポリシー）→ 学校一覧へ301
+  if (/^\/players\/hs-/.test(decodeURIComponent(pathname))) {
+    return new Response(null, { status: 301, headers: { 'Location': '/schools/', 'Cache-Control': 'public, max-age=3600' } });
+  }
+
   // リダイレクト処理
   const cleanPath = pathname.replace(/\/$/, "");
   const decodedPath = decodeURIComponent(cleanPath);
   const redirectTarget = (redirects as Record<string, string>)[cleanPath] || (redirects as Record<string, string>)[decodedPath];
 
   if (redirectTarget) {
+    // 旧 /player/<slug>（廃止ルート）→ /players/<slug>、高校生(hs-)選手は個別ページ無し→学校一覧
+    const legacy = /^\/player\/([^/]+)\/?$/.exec(redirectTarget);
+    const normalized = legacy ? `/players/${legacy[1]}/` : redirectTarget;
+    if (/^\/players\/hs-/.test(decodeURIComponent(normalized))) {
+      return new Response(null, { status: 301, headers: { 'Location': '/schools/', 'Cache-Control': 'public, max-age=3600' } });
+    }
+    if (legacy) {
+      const t = (await resolvePlayerRedirect(normalized)) ?? ((await isMissingPlayerPath(normalized)) ? RETIRED_REDIRECT_TARGET : normalized);
+      return new Response(null, { status: 301, headers: { 'Location': encodeURI(t), 'Cache-Control': 'public, max-age=3600' } });
+    }
     // redirects.json の行き先が非indexable選手なら、1ホップで最終先へ
     const finalTarget =
       (await resolvePlayerRedirect(redirectTarget)) ??
