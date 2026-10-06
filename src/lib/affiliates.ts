@@ -87,7 +87,7 @@ export const MAGAZINE_PROVIDERS: Record<string, MagazineProvider> = {
     rakutenmagazine: {
         id: "rakutenmagazine",
         name: "楽天マガジン",
-        campaign: "今なら3ヶ月10円",
+        campaign: "31日間無料体験",
         url: "https://magazine.rakuten.co.jp/cpn/260730/?scid=af_ls_TG_2608cpn&argument=vqhTTgFN&dmai=a6a6197b22d8da",
     },
 };
