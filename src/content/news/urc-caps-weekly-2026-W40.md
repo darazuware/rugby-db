@@ -17,7 +17,7 @@ draft: false
 - [Evan LLOYD](/teams/urc/vodacom-bulls/#p-evan-lloyd-): ウェールズ代表 6→8キャップ
 - [Freddy DOUGLAS](/teams/urc/edinburgh-rugby/#p-freddy-douglas): スコットランド代表 2→3キャップ
 - [Glen YOUNG](/teams/urc/edinburgh-rugby/#p-glen-young): スコットランド代表 3→4キャップ
-- [Hame FAIVA](/players/hame-faiva/): イタリア代表 8→9キャップ
+- [Hame FAIVA](/teams/premiership/newcastle-red-bulls/#p-hame-faiva): イタリア代表 8→9キャップ
 - [Harri O'CONNOR](/teams/urc/scarlets/#p-harri-o-connor): ウェールズ代表 3→4キャップ
 - [Jack O'DONOGHUE](/teams/urc/munster-rugby/#p-jack-o-donoghue): アイルランド代表 1→2キャップ
 - [Javan SEBASTIAN](/teams/urc/cardiff-rugby/#p-javan-sebastian): スコットランド代表 6→8キャップ

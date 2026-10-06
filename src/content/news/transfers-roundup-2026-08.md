@@ -15,7 +15,7 @@ draft: false
 - [アキ・トゥイバイララ](/teams/league-one/shizuoka-blue-revs/#p-aki-tuivailala)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。
 - [アントニオ・シャルフーン](/players/antonio-shalfoon/)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。
 - [アフェレレ・ファッシ](/players/aphelele-fassi/)が[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
-- [ベイリー・トゥルー](/players/bailey-trew/)が[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)（リーグワン）に加入した。
+- [ベイリー・トゥルー](/teams/league-one/kubota-spears-funabashi-tokyo-bay/#p-bailey-trew)が[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)（リーグワン）に加入した。
 - [ベイリン・サリヴァン](/teams/league-one/kubota-spears-funabashi-tokyo-bay/#p-bailyn-sullivan)が[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)（リーグワン）に加入した。
 - [デイヴィッド・ハヴィリ](/teams/league-one/toshiba-brave-lupus-tokyo/#p-david-havili)が[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
 - [エド・カスプロウィッツ](/players/ed-kasprowicz/)が[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/)（リーグワン）に加入した。
@@ -32,7 +32,7 @@ draft: false
 - [安藤 啓太](/players/keita-ando/)が[三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/)（リーグワン）に加入した。
 - [俵 啓斗](/teams/league-one/yokohama-canon-eagles/#p-keito-tawara)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
 - [キーラン・ヴァンスターダン](/teams/league-one/kubota-spears-funabashi-tokyo-bay/#p-keran-van-staden)が[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)（リーグワン）に加入した。
-- [カート・エクランド](/players/kurt-eklund/)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
+- [カート・エクランド](/teams/league-one/yokohama-canon-eagles/#p-kurt-eklund)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
 - [カート＝リー・アレンゼ](/teams/league-one/mitsubishi-sagamihara-dynaboars/#p-kurt-lee-arendse)が[三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/)（リーグワン）に加入した。
 - [ラクラン・マックワンネル](/teams/league-one/yokohama-canon-eagles/#p-laghlan-mcwhannell)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
 - [マラカイ エナシオ](/teams/league-one/saitama-panasonic-wild-knights/#p-malakye-enasio)が[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/)（リーグワン）に加入した。
@@ -44,7 +44,7 @@ draft: false
 - [齋藤 直人](/players/naoto-saito/)が[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/)（リーグワン）に加入した。
 - [パリパリ・パーキンソン](/teams/league-one/yokohama-canon-eagles/#p-pari-pari-parkinson)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
 - [丸山 凜太朗](/leagues/league-one/)が三重ホンダヒート（リーグワン）に加入した。
-- [ルアン・ノルキエ](/players/ruan-nortje/)が[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)（リーグワン）に加入した。
+- [ルアン・ノルキエ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/#p-ruan-nortje)が[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)（リーグワン）に加入した。
 - [亀井 亮依](/leagues/league-one/)が三重ホンダヒート（リーグワン）に加入した。
 - [サミペニ・フィナウ](/players/samipeni-finau/)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
 - [田中 真一](/teams/league-one/yokohama-canon-eagles/#p-shinichi-tanaka)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
@@ -109,7 +109,7 @@ draft: false
 
 2026年7月に代表で初キャップを記録した選手は1名。
 
-- [Ruben VAN HEERDEN](/players/ruben-van-heerden/)がSouth Africa代表で初キャップを記録した。
+- [Ruben VAN HEERDEN](/teams/top14/montpellier/#p-ruben-van-heerden)がSouth Africa代表で初キャップを記録した。
 
 ## 注目移籍・発表
 

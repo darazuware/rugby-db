@@ -7,4 +7,4 @@ source_diff: "2026-08-08_top14.json"
 draft: true
 ---
 
-[Gabriel ROLLAND](/players/gabriel-rolland/)が[カストル](/teams/top14/castres/)（Top14）に加入した。
+[Gabriel ROLLAND](/teams/top14/castres/#p-gabriel-rolland)が[カストル](/teams/top14/castres/)（Top14）に加入した。

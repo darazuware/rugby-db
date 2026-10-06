@@ -20,7 +20,7 @@ draft: false
 - [George BELL](/national-teams/new-zealand/#p-george-bell): ニュージーランド代表 2→4キャップ
 - [Georges-Henri COLOMBE](/national-teams/france/#p-georges-henri-colombe): フランス代表 11→12キャップ
 - [Giorgi MELIKIDZE](/national-teams/georgia/#p-giorgi-melikidze): ジョージア代表 34→35キャップ
-- [Guido PETTI](/players/guido-petti/): アルゼンチン代表 145→147キャップ
+- [Guido PETTI](/teams/premiership/harlequins/#p-guido-petti): アルゼンチン代表 145→147キャップ
 - [Hugo AURADOU](/national-teams/france/#p-hugo-auradou): フランス代表 18→20キャップ
 - [Hugo PIRLET](/national-teams/spain/#p-hugo-pirlet): スペイン代表 15→16キャップ
 - [Jesse KILGOUR](/national-teams/canada/#p-jesse-kilgour): カナダ代表 2→3キャップ

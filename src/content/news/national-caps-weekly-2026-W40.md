@@ -25,7 +25,7 @@ draft: false
 - [Brendon NELL](/national-teams/hong-kong/#p-brendon-nell-1995): 香港代表 2→4キャップ
 - [Bryan CHIANG](/national-teams/zimbabwe/#p-bryan-chiang): ジンバブエ代表 1→2キャップ
 - [Calum SCOTT](/national-teams/hong-kong/#p-calum-scott): 香港代表 3→4キャップ
-- [Carlü SADIE](/players/carlu-sadie/): 南アフリカ代表 1→2キャップ
+- [Carlü SADIE](/teams/top14/bordeaux/#p-carlu-sadie): 南アフリカ代表 1→2キャップ
 - [Ciarán FRAWLEY](/national-teams/ireland/#p-ciaran-frawley): アイルランド代表 12→13キャップ
 - [Connor TUPAI](/national-teams/samoa/#p-connor-tupai): サモア代表 6→8キャップ
 - [Cristóbal GAME](/national-teams/chile/#p-cristobal-game): チリ代表 8→9キャップ

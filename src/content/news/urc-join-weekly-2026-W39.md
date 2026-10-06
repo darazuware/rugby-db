@@ -14,7 +14,7 @@ draft: false
 - [Curwin BOSCH](/teams/urc/vodacom-bulls/#p-curwin-bosch)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入（前所属: CA Brive Corrèze Limousin）
 - [Donovan DON](/teams/urc/hollywoodbets-sharks/#p-donovan-don)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入（前所属: AF. SUD 7's）
 - [Dylan MAART](/teams/urc/vodacom-bulls/#p-dylan-maart)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入（前所属: Stormers）
-- [Dylan SMITH](/players/dylan-smith/)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入（前所属: Blue Bulls）
+- [Dylan SMITH](/teams/urc/vodacom-bulls/#p-dylan-smith)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入（前所属: Blue Bulls）
 - [Hakeem KUNENE](/teams/urc/vodacom-bulls/#p-hakeem-kunene)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入（前所属: Sharks Rugby Club）
 - [Hanro LIEBENBERG](/teams/urc/vodacom-bulls/#p-hanro-liebenberg)が[ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls/)に加入（前所属: Leicester Tigers）
 - [Hendré STASSEN](/teams/urc/hollywoodbets-sharks/#p-hendre-stassen)が[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)に加入（前所属: CA Brive Corrèze Limousin）

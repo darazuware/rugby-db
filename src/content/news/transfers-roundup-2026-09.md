@@ -23,10 +23,10 @@ draft: false
 - [Tom ROEBUCK](/teams/premiership/sale-sharks/#p-tom-roebuck): イングランド代表8→10キャップ
 - [Cleopas KUNDIONA](/teams/premiership/northampton-saints/#p-cleopas-kundiona): ジンバブエ代表2→4キャップ
 - [Ethan ROOTS](/teams/premiership/exeter-chiefs/#p-ethan-roots): イングランド代表3→5キャップ
-- [Guido PETTI](/players/guido-petti/): アルゼンチン代表145→147キャップ
+- [Guido PETTI](/teams/premiership/harlequins/#p-guido-petti): アルゼンチン代表145→147キャップ
 - [Ion NECULAI](/players/ion-neculai/): イタリア代表3→4キャップ
-- [Facundo BOSCH](/players/facundo-bosch/): アルゼンチン代表17→18キャップ
-- [Tevita TATAFU](/players/tevita-tatafu/): フランス代表3→4キャップ
+- [Facundo BOSCH](/teams/top14/bayonne/#p-facundo-bosch): アルゼンチン代表17→18キャップ
+- [Tevita TATAFU](/teams/top14/bayonne/#p-tevita-tatafu): フランス代表3→4キャップ
 
 ## URC：代表キャップ更新（7件）
 
@@ -34,11 +34,11 @@ draft: false
 
 - [Cameron HANEKOM](/teams/urc/vodacom-bulls/#p-cameron-hanekom): 南アフリカ代表4→6キャップ
 - [Ignacio MENDY](/teams/urc/benetton-rugby-trevise/#p-ignacio-mendy): アルゼンチン代表7→9キャップ
-- [Lekso KAULASHVILI](/players/lekso-kaulashvili/): ジョージア代表4→6キャップ
+- [Lekso KAULASHVILI](/teams/top14/pau/#p-lekso-kaulashvili): ジョージア代表4→6キャップ
 - [Tommaso MENONCELLO](/teams/top14/toulouse/#p-tommaso-menoncello): イタリア代表31→32キャップ
 - [Cameron HANEKOM](/teams/urc/vodacom-bulls/#p-cameron-hanekom): 南アフリカ代表6→8キャップ
-- [Facundo BOSCH](/players/facundo-bosch/): アルゼンチン代表17→18キャップ
-- [Tevita TATAFU](/players/tevita-tatafu/): フランス代表3→4キャップ
+- [Facundo BOSCH](/teams/top14/bayonne/#p-facundo-bosch): アルゼンチン代表17→18キャップ
+- [Tevita TATAFU](/teams/top14/bayonne/#p-tevita-tatafu): フランス代表3→4キャップ
 
 ## プレミアシップ週間加入まとめ（W38）
 
@@ -46,7 +46,7 @@ draft: false
 - [Harry WRIGHT](/teams/premiership/gloucester-rugby/#p-harry-wright)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Jake SPURWAY](/teams/premiership/harlequins/#p-jake-spurway)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
 - [James LANG](/teams/premiership/harlequins/#p-james-lang)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
-- [Jules MARTIN-BONNARD](/players/jules-martin-bonnard/)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
+- [Jules MARTIN-BONNARD](/teams/top14/toulouse/#p-jules-martin-bonnard)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
 - [Osman DIMEN](/teams/premiership/harlequins/#p-osman-dimen)が[ハーレクインズ](/teams/premiership/harlequins/)に加入
 - [Rakhat CLARKSON](/players/rakhat-clarkson/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入
 - [Ruben CUMMINGS](/players/ruben-cummings/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入

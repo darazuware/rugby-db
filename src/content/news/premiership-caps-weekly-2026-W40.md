@@ -16,7 +16,7 @@ draft: false
 - [Fraser DINGWALL](/teams/premiership/northampton-saints/#p-fraser-dingwall): イングランド代表 8→10キャップ
 - [George MARTIN](/teams/premiership/saracens/#p-george-martin): イングランド代表 20→22キャップ
 - [George TURNER](/teams/premiership/newcastle-red-bulls/#p-george-turner): スコットランド代表 46→47キャップ
-- [Hame FAIVA](/players/hame-faiva/): イタリア代表 8→9キャップ
+- [Hame FAIVA](/teams/premiership/newcastle-red-bulls/#p-hame-faiva): イタリア代表 8→9キャップ
 - [Max MALINS](/teams/premiership/saracens/#p-max-malins): イングランド代表 17→18キャップ
 - [Murray MCCALLUM](/teams/premiership/newcastle-red-bulls/#p-murray-mccallum): スコットランド代表 2→3キャップ
 - [Steven LUATUA](/teams/premiership/bristol-bears/#p-steven-luatua): ニュージーランド代表 6→8キャップ

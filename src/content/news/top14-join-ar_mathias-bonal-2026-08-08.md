@@ -7,4 +7,4 @@ source_diff: "2026-08-08_top14.json"
 draft: true
 ---
 
-[Mathias BONAL](/players/mathias-bonal/)が[カストル](/teams/top14/castres/)（Top14）に加入した。
+[Mathias BONAL](/teams/top14/castres/#p-mathias-bonal)が[カストル](/teams/top14/castres/)（Top14）に加入した。

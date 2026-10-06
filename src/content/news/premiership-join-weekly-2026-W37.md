@@ -20,12 +20,12 @@ draft: false
 - [Cam JORDAN](/teams/premiership/newcastle-red-bulls/#p-cameron-jordan)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Gloucester Rugby）
 - [Cebo DLAMINI](/teams/premiership/sale-sharks/#p-cebolenkosi-dlamini)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入（前所属: Sharks Rugby Club）
 - [Charlie TITCOMBE](/teams/premiership/leicester-tigers/#p-charlie-titcombe)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入（前所属: Mitsubishi Sagamihara Dynaboars）
-- [Chris HARRIS](/players/chris-harris/)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Bath Rugby）
-- [Christ TSHIUNZA](/players/christ-tshiunza/)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入（前所属: Exeter Chiefs）
+- [Chris HARRIS](/teams/premiership/newcastle-red-bulls/#p-chris-harris)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Bath Rugby）
+- [Christ TSHIUNZA](/teams/premiership/sale-sharks/#p-christ-tshiunza)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入（前所属: Exeter Chiefs）
 - [Corné WEILBACH](/teams/premiership/saracens/#p-corne-weilbach)が[サラセンズ](/teams/premiership/saracens/)に加入（前所属: Stormers）
 - [Courtney LAWES](/teams/premiership/sale-sharks/#p-courtney-lawes)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入（前所属: CA Brive Corrèze Limousin）
 - [Dan DU PREEZ](/teams/premiership/bath-rugby/#p-dan-du-preez)が[バース・ラグビー](/teams/premiership/bath-rugby/)に加入（前所属: Sale Sharks）
-- [Dan ROBSON（ダン・ロブソン）](/players/dan-robson/)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入（前所属: Section Paloise Béarn Pyrénées）
+- [Dan ROBSON（ダン・ロブソン）](/teams/premiership/gloucester-rugby/#p-dan-robson)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入（前所属: Section Paloise Béarn Pyrénées）
 - [Eliot SALT](/teams/premiership/gloucester-rugby/#p-eliot-salt)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入（前所属: Coventry Rugby）
 - [Elliot MILLAR-MILLS](/teams/premiership/newcastle-red-bulls/#p-elliot-millar-mills)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Northampton Saints）
 - [George TURNER](/teams/premiership/newcastle-red-bulls/#p-george-turner)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Harlequins）

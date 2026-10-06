@@ -7,4 +7,4 @@ source_diff: "2026-08-11_top14.json"
 draft: true
 ---
 
-[Maxime VITOUX](/players/maxime-vitoux/)が[リヨン](/teams/top14/lyon/)（Top14）に加入した。
+[Maxime VITOUX](/teams/top14/lyon/#p-maxime-vitoux)が[リヨン](/teams/top14/lyon/)（Top14）に加入した。

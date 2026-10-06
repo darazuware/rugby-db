@@ -7,4 +7,4 @@ source_diff: "2026-08-16_top14.json"
 draft: true
 ---
 
-[Damien KUILAGI](/players/damien-kuilagi/)が[ボルドー・ベグル](/teams/top14/bordeaux/)（Top14）に加入した。
+[Damien KUILAGI](/teams/top14/bordeaux/#p-damien-kuilagi)が[ボルドー・ベグル](/teams/top14/bordeaux/)（Top14）に加入した。

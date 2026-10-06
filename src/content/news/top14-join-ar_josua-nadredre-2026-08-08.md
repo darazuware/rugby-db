@@ -7,4 +7,4 @@ source_diff: "2026-08-08_top14.json"
 draft: true
 ---
 
-[Josua NADREDRE](/players/josua-nadredre/)が[カストル](/teams/top14/castres/)（Top14）に加入した。
+[Josua NADREDRE](/teams/top14/castres/#p-josua-nadredre)が[カストル](/teams/top14/castres/)（Top14）に加入した。

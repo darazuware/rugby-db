@@ -46,5 +46,5 @@ draft: false
 - [Thomas LACLAYAT](/national-teams/france/#p-thomas-laclayat): フランス代表 3→4キャップ
 - [Tijde VISSER](/national-teams/zimbabwe/#p-tijde-visser): ジンバブエ代表 4→6キャップ
 - [Tom ROEBUCK](/national-teams/england/#p-tom-roebuck): イングランド代表 8→10キャップ
-- [Tommaso MENONCELLO](/players/tommaso-menoncello/): イタリア代表 31→32キャップ
+- [Tommaso MENONCELLO](/teams/top14/toulouse/#p-tommaso-menoncello): イタリア代表 31→32キャップ
 - [Wallace SITITI](/national-teams/new-zealand/#p-wallace-sititi): ニュージーランド代表 12→13キャップ
