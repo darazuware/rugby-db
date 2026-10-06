@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-06T04:26:43+09:00",
+  "checked_at": "2026-10-06T20:11:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "25588397d5a75965"
+      "hash": "056a9d5834e257e8"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "d0474921a5186a95"
+      "hash": "762b099d34335202"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/261006fc/",
+      "title": "【お詫び】ゴールド会員2026-27ファンクラブ 先行入会について",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260909/",
+      "title": "NTTジャパンラグビー リーグワン2026-27 ディビジョン1 試合日程・会場決定のお知らせ ※1-3節キックオフ時間更新",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/",
+      "title": "記事一覧",
+      "date": "2026-10-06"
+    },
     {
       "url": "https://www.bravelupus.com/news/261001_02/",
       "title": "2026-27シーズン新加入スタッフ（追加）のお知らせ",
@@ -26,16 +41,6 @@
       "url": "https://www.bravelupus.com/news/261001/",
       "title": "本日より東芝ブレイブルーパス武蔵として活動して参ります。",
       "date": "2026-10-01"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/",
-      "title": "記事一覧",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260909/",
-      "title": "NTTジャパンラグビー リーグワン2026-27 ディビジョン1 試合日程・会場決定のお知らせ ※6・11節会場更新",
-      "date": "2026-09-30"
     },
     {
       "url": "https://www.bravelupus.com/news/260928/",
@@ -216,11 +221,6 @@
       "url": "https://www.bravelupus.com/news/260630/",
       "title": "三鷹市の小学校にてラグビー体験授業を実施しました",
       "date": "2026-06-30"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260626/",
-      "title": "クラウドファンディング第一弾 御礼",
-      "date": "2026-06-26"
     },
     {
       "url": "https://www.bravelupus.com/game/https-www-bravelupus-com-game-ntt-japan-rugby-league-one-2025-26-play-offs-quarterfinal/",

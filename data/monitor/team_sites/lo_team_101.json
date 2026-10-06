@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-10-06T04:26:43+09:00",
+  "checked_at": "2026-10-06T20:11:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "02307b27fedcdeb1"
+      "hash": "1c3c809bc2801640"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "b3af5ae15c94babd"
+      "hash": "5505c01bf7a4b406"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35517/",
+      "title": "2026/10/6 イベント 10月11日(日)「のびのびプレイランドin東遊園地」でラグビー体験を実施します",
+      "date": "2026-10-06"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35506/",
       "title": "2026/10/5 イベント 12月12日(土) ホストゲーム開幕戦で「シーズン記念Tシャツ」を先着15,000名様にプレゼントします！",
@@ -154,11 +159,6 @@
       "url": "https://www.kobesteelers.com/news/post35301/",
       "title": "2026/9/17 チーム 9月19日(土)「アサヒスーパードライ パシフィックネーションズカップ2026」決勝 フィジー代表戦メンバー選出のお知らせ",
       "date": "2026-09-17"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35345/",
-      "title": "2026/9/16 イベント 9月19日(土)～20日(日)「Age-Well KOBE」にブースを出展します",
-      "date": "2026-09-16"
     },
     {
       "url": "https://www.kobesteelers.com/interview/post35296/",

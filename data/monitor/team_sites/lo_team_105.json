@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-10-06T04:26:43+09:00",
+  "checked_at": "2026-10-06T20:11:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "15c321885e0d17a0"
+      "hash": "bfabeebf79a5a213"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "8164ecb963c2aa10"
+      "hash": "be94b7b14e634bac"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2461/",
+      "title": "トピックス 2026.10.6 新加入スタッフのお知らせ",
+      "date": "2026-10-06"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2429/",
       "title": "トピックス 2026.10.5 【2026/10/05更新】NTTジャパンラグビー リーグワン2026-27 試合日程決定のお知らせ",
@@ -130,11 +135,6 @@
     {
       "url": "https://www.honda-heat.jp/news/2427/",
       "title": "イベント 2026.9.4 2026-27プレシーズン マッチ対戦相手決定のお知らせ",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2426/",
-      "title": "トピックス 2026.9.4 男子セブンズ デベロップメント・スコッド（SDS）スペイン遠征 参加のお知らせ",
       "date": "2026-09-04"
     }
   ]

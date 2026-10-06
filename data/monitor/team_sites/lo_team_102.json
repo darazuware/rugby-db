@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-10-06T04:26:43+09:00",
+  "checked_at": "2026-10-06T20:11:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "bbb5c84023d683c3"
+      "hash": "51d1dcda3ca9c2b6"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "6c849898311f5d44"
+      "hash": "f70352b1e453033c"
     }
   ],
   "items": [
@@ -31,6 +31,16 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
       "title": "試合日程一覧",
       "date": "2026-10-10"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261005_02/",
+      "title": "チケット 2026年10月06日 【ご案内】シーズンシート継続購入プランについて ニュースを見る",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261005_01/",
+      "title": "チケット 2026年10月06日 【大切なお知らせ】車いす席および車いす用駐車券の購入方法変更について ニュースを見る",
+      "date": "2026-10-06"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261003/",
@@ -104,12 +114,12 @@
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260429_01/",
-      "title": "チケット 2026年04月29日 5月9日(土) BL東京戦 チケット販売状況について ニュースを見る",
+      "title": "チケット 2026年04月29日 5月9日(土) B武蔵戦 チケット販売状況について ニュースを見る",
       "date": "2026-04-29"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20260509/#event",
-      "title": "イベント 2026年04月29日 5月9日(土) 第18節 東芝ブレイブルーパス東京戦 イベント情報 ニュースを見る",
+      "title": "イベント 2026年04月29日 5月9日(土) 第18節 東芝ブレイブルーパス武蔵戦 イベント情報 ニュースを見る",
       "date": "2026-04-29"
     },
     {

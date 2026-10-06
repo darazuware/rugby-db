@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-10-06T04:26:43+09:00",
+  "checked_at": "2026-10-06T20:11:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "5a12f83be62282fd"
+      "hash": "14e815b30ebfcfc0"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "342eecefee3d20ef"
+      "hash": "864291ff28425b03"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3209",
+      "title": "2026.10.6[TUE] HOST AREA 【ホストエリア活動】浜松市「三島町こども会」にてタグラグビー教室を実施しました",
+      "date": "2026-10-06"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3208",
       "title": "2026.10.4[SUN] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（9/29～10/2）",
@@ -96,11 +101,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3187",
       "title": "2026.9.14[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（9/7～9/11）",
       "date": "2026-09-14"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3186",
-      "title": "2026.9.11[FRI] SCHOOL 9/27(日)に＜ブルーレヴズ ラグビー クリニック in 駿東＞を東部地区で開催！",
-      "date": "2026-09-11"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3181",

@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-10-06T04:26:43+09:00",
+  "checked_at": "2026-10-06T20:11:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "0ead95a6169ea14d"
+      "hash": "d036064b5bb5b33f"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261006a.html",
+      "title": "手書き風ラムまるトートバッグ 再入荷のお知らせ",
+      "date": "2026-10-06"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261005b.html",
       "title": "10月11日(日) みんなでつなごうリレーフェスティバル2026「ゆるキャラリレー」ラムまる出場のお知らせ",
@@ -27,11 +32,6 @@
       "url": "https://blackrams-tokyo.com/news/members/2026-2027/20261001a.html",
       "title": "NPCマナワツ・ターボス期限付き移籍レポート③（笹川大五選手）",
       "date": "2026-10-01"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260929a.html",
-      "title": "プラス株式会社とオフィシャルパートナー新規契約のお知らせ",
-      "date": "2026-09-29"
     },
     {
       "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260909a.html",

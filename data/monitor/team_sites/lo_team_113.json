@@ -3,32 +3,32 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-10-06T04:26:43+09:00",
+  "checked_at": "2026-10-06T20:11:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "40e776bb8d53f915"
+      "hash": "885f8922e41bb8ea"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "b80ab3abc915bd23"
+      "hash": "b3707c0488fbfffe"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "957bc571b7f4ab11"
+      "hash": "3404fdfde590a283"
     }
   ],
   "items": [
     {
-      "url": "https://kamaishi-seawaves.com/news/info/32680/",
-      "title": "お知らせ 2026.10.5 2026-27シーズン クラブスローガン決定のお知らせ",
-      "date": "2026-10-05"
+      "url": "https://kamaishi-seawaves.com/news/info/32026/",
+      "title": "お知らせ 2026.10.6 NTTジャパンラグビー リーグワン2026-27 ディビジョン3 試合日程・会場決定のお知らせ",
+      "date": "2026-10-06"
     },
     {
-      "url": "https://kamaishi-seawaves.com/news/info/32026/",
-      "title": "お知らせ 2026.10.5 NTTジャパンラグビー リーグワン2026-27 ディビジョン3 試合日程・会場決定のお知らせ",
+      "url": "https://kamaishi-seawaves.com/news/info/32680/",
+      "title": "お知らせ 2026.10.5 2026-27シーズン クラブスローガン決定のお知らせ",
       "date": "2026-10-05"
     },
     {

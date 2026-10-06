@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-10-06T04:26:43+09:00",
+  "checked_at": "2026-10-06T20:11:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "78a437b6d890f2d5"
+      "hash": "4e731773e1ff87e0"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "2b61f66421ca1d14"
+      "hash": "de97afb671223148"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/10/06/10-10vsdocomo/",
+      "title": "2026.10.06 試合関連 10月10日(土)レッドハリケーンズ大阪戦についてのお知らせ",
+      "date": "2026-10-06"
+    },
     {
       "url": "https://hanazono-liners.jp/shiaiyotei-kekka/",
       "title": "試合日程を見る",
@@ -54,7 +59,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/09/28/2026-27new-player/",
-      "title": "2026.09.28 チーム情報 2026-27シーズン新加入選手（追加）のお知らせ",
+      "title": "2026-09-28 チーム情報 2026-27シーズン新加入選手（追加）のお知らせ",
       "date": "2026-09-28"
     },
     {
@@ -96,11 +101,6 @@
       "url": "https://hanazono-liners.jp/2026/09/07/9-13-event/",
       "title": "2026-09-07 その他 9/13 花園図書館で開催の「ラグビー講習会」に、ライナーズの選手が参加します。",
       "date": "2026-09-07"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/09/03/%e3%80%8eosaka-funtastc-sports-project%e3%80%8f%e8%bf%bd%e5%8a%a0%e6%83%85%e5%a0%b1%ef%bc%88%e3%83%81%e3%82%b1%e3%83%83%e3%83%88%e8%b2%a9%e5%a3%b2%ef%bc%89%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89/",
-      "title": "2026-09-03 その他 『OSAKA FUNtast!c SPORTS PROJECT』追加情報（チケット販売）のお知らせ",
-      "date": "2026-09-03"
     },
     {
       "url": "https://hanazono-liners.jp/2026/08/24/rising-timeschedule/",
@@ -156,11 +156,6 @@
       "url": "https://hanazono-liners.jp/2026/05/18/2025-26taidan/",
       "title": "2026.05.18 チーム情報 その他 2025-26シーズン退団選手および退団スタッフのお知らせ",
       "date": "2026-05-18"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/05/08/5-10-shuttles-match-members-and-match-details/",
-      "title": "2026.05.08 試合関連 チーム情報 【5/10豊田自動織機シャトルズ愛知戦】メンバーおよび試合詳細のご案内",
-      "date": "2026-05-08"
     }
   ]
 }

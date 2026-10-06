@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-10-06T04:26:43+09:00",
+  "checked_at": "2026-10-06T20:11:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "bd7ca48c73e242c4"
+      "hash": "f0d740537055668c"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "f4b41b2718a8492a"
+      "hash": "f5c7c1d7d0ccd991"
     }
   ],
   "items": [
+    {
+      "url": "https://shuttles-aichi.com/news/gold-regular-member-only-fan-meeting-participants-decided/",
+      "title": "お知らせ イベント 2026.10.06 ゴールド・レギュラー会員限定！ファンミーティング参加メンバー決定！",
+      "date": "2026-10-06"
+    },
     {
       "url": "https://shuttles-aichi.com/news/section-1-section-2-notice-of-kick-off-time-decision/",
       "title": "お知らせ 2026.10.05 第1節・第2節 キックオフ時間決定のお知らせ",
@@ -26,11 +31,6 @@
       "url": "https://shuttles-aichi.com/news/notice-mizuho-3-game-pack-now-on-sale1/",
       "title": "お知らせ 2026.10.05 瑞穂3試合パック販売開始のお知らせ",
       "date": "2026-10-05"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/2026-10-3-saturday-japan-rugby-league-one-rising-2026-vs-shizuoka-blue-revs-participating-members/",
-      "title": "お知らせ 26年10月01日 2026/10/3(土) ジャパンラグビーリーグワン ライジング2026 vs 静岡ブルーレヴズ 出場メンバー",
-      "date": "2026-10-03"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-10-3-satjapan-rugby-league-one-rising-2026-vs-shizuoka-bluerevs-photo-gallery/",
