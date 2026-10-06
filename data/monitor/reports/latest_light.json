@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-06T04:02:03+09:00",
+  "checked_at": "2026-10-06T17:30:31+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6188",
+          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 一部試合日程および会場追加決定のお知らせ 2026.10.06",
+          "date": "2026-10-06",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,7 +26,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/53544",
+          "title": "（10/6更新）男子ラグビーワールドカップ2035開催国選定プロセス決定を受けて 2026.10.06 （火） ラグビーワールドカップ 日本協会",
+          "date": "2026-10-06",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
