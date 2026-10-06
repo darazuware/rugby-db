@@ -1,3 +1,4 @@
+import pytest
 """P3-2: pipeline.run の --only matches,standings 軽量モードのテスト。
 
 完了条件（05: 試合日の軽量ジョブ）:
@@ -165,3 +166,10 @@ def test_full_run_writes_players_and_pending(monkeypatch, tmp_path):
     diff_files = list((io.META_DIR / "diff").glob("*_top14.json"))
     diff = json.loads(diff_files[0].read_text())
     assert [s["id"] for s in diff["signings"]] == ["b"]
+
+
+@pytest.fixture(autouse=True)
+def _no_official_top14(monkeypatch):
+    # 公式サイトへの実ネットワークアクセスを防ぐ（フォールバック経路でテスト）
+    from pipeline import run as _run
+    monkeypatch.setattr(_run, "_official_top14_standing", lambda warnings: None)

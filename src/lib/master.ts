@@ -160,6 +160,9 @@ export interface StandingRow {
   lost: number;
   points: number;
   bonus: number | null;
+  points_for?: number | null;
+  points_against?: number | null;
+  diff?: number | null;
 }
 
 export interface Standing {

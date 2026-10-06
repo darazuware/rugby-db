@@ -27,7 +27,7 @@ LEAGUE_KEYS = TEAM_LEAGUES | NO_TEAM_LEAGUES
 # rugby-japan.jp: P1-7で追加。02は「JRFU（jrfu.jp）」と表記するが jrfu.jp は
 # 名前解決不可（実在しない）。日本代表公式サイトの実ドメインは www.rugby-japan.jp
 # （2026-07-18 に実ページで確認）のため、正データ取得元としてこちらを許可する。
-ALLOWED_DOMAINS = {"league-one.jp", "all.rugby", "jrfu.jp", "rugby-japan.jp"}
+ALLOWED_DOMAINS = {"league-one.jp", "all.rugby", "jrfu.jp", "rugby-japan.jp", "lnr.fr"}
 
 # P5-5: 大学ラグビー部員名簿（10_YOUTH_AGEGRADE.md 大学スコープ）。
 # 関東大学対抗戦A/B・関東大学リーグ戦1部/2部・関西大学A/Bリーグ、各校ラグビー部
@@ -428,6 +428,9 @@ class StandingRow(_StrictModel):
     lost: int = Field(ge=0)
     points: int
     bonus: Optional[int] = None
+    points_for: Optional[int] = None
+    points_against: Optional[int] = None
+    diff: Optional[int] = None
 
 
 class Standing(_StrictModel):

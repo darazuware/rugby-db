@@ -18,7 +18,7 @@ const t14Rows = t14Master
           return {
               rank: r.rank, team_name: name, display_name: name, flag: "🇫🇷", slug: r.team_id,
               played: r.played, won: r.won, drawn: r.drawn, lost: r.lost,
-              diff: "-", points: r.points,
+              diff: r.diff == null ? "-" : (r.diff > 0 ? `+${r.diff}` : String(r.diff)), points: r.points,
           };
       })
     : getLeagueStandings(standingsData, "top14");

@@ -26,6 +26,7 @@ import sys
 from datetime import datetime
 
 from pipeline import callups, io, team_facts
+from pipeline.schemas import Standing
 from pipeline.diffs import detect as diffs_detect
 from pipeline.scrape import all_rugby, highschool, jrfu, league_one, university
 from pipeline.validate import checks
@@ -134,6 +135,27 @@ def _drop_roster_ids(teams: list[dict], players: list[dict], dropped: list[dict]
             team["roster_ids"].remove(p["id"])
 
 
+def _official_top14_standing(warnings: list[str]) -> dict | None:
+    """TOP14 順位表を公式 top14.lnr.fr から取得（一次情報）。失敗時は None。"""
+    try:
+        from datetime import datetime, timedelta, timezone
+        from .scrape import lnr
+        season, r = lnr.fetch()
+        if not season or len(r) < 14:
+            raise ValueError(f"season={season} rows={len(r)}")
+        rows = [{"rank": x["rank"], "team_id": x["team_id"], "played": int(x["played"]),
+                 "won": int(x["won"]), "drawn": int(x["drawn"]), "lost": int(x["lost"]),
+                 "points": int(x["points"]), "bonus": int(x["bonus"]),
+                 "points_for": int(x["pf"]), "points_against": int(x["pa"]), "diff": int(x["diff"])}
+                for x in r]
+        data = {"league": "top14", "season": season, "source_url": lnr.URL, "rows": rows,
+                "scraped_at": datetime.now(timezone(timedelta(hours=9))).isoformat(timespec="seconds")}
+        return Standing.model_validate(data).model_dump(by_alias=True)
+    except Exception as exc:  # noqa: BLE001
+        warnings.append(f"top14 公式順位表の取得失敗（all.rugby 版にフォールバック）: {exc}")
+        return None
+
+
 def run_leagues(leagues: list[str], *, dry_run: bool, only: set[str] | None = None) -> int:
     players_by_league: dict[str, list[dict]] = {}
     prev_by_league: dict[str, list[dict]] = {}
@@ -166,7 +188,12 @@ def run_leagues(leagues: list[str], *, dry_run: bool, only: set[str] | None = No
             _drop_roster_ids(league_teams, merged_players, dropped)
         teams.extend(league_teams)
         matches.extend(result.get("matches", []))
-        standings.extend(result.get("standings", []))
+        league_standings = result.get("standings", [])
+        if league == "top14":
+            official = _official_top14_standing(all_warnings)
+            if official:
+                league_standings = [official]  # 公式(top14.lnr.fr)優先。失敗時のみ all.rugby 版
+        standings.extend(league_standings)
         all_warnings.extend(result.get("warnings", []))
         prev_by_league[league] = io.read_records(io.players_path(league))
 
