@@ -6,11 +6,7 @@ name: Scheduled Publish
 # 状態ファイル data/master/_meta/publish_state.json が更新された時だけ commit/push し、
 # その push が Vercel 再ビルドを起こして prerender ページ（/news/<slug>/）を生成する。
 on:
-  schedule:
-    # 30分毎に検知（GitHub の cron は数分遅延あり。ブログ用途で許容）
-    - cron: '*/30 * * * *'
-    # 07:00 JST = 22:00 UTC: 予定が無くても本日/明日の予定サマリを送る
-    - cron: '0 22 * * *'
+  # 定期実行は停止中（手動実行のみ）
   workflow_dispatch:
     inputs:
       daily:
