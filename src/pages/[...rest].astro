@@ -1,0 +1,6 @@
+---
+// 未登録パスの受け皿。ルートに該当させて Vercel の「一致なし→404固定」を回避し、
+// middleware の301が正しいステータスで返るようにする。301対象外は通常の404ページ。
+export const prerender = false;
+return new Response(null, { status: 404 });
+---
