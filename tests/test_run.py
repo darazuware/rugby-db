@@ -1,4 +1,3 @@
-import pytest
 """P3-2: pipeline.run の --only matches,standings 軽量モードのテスト。
 
 完了条件（05: 試合日の軽量ジョブ）:
@@ -10,6 +9,7 @@ import pytest
 
 fixture のみで network は使わない（SCRAPERS をモックに差し替える）。
 """
+import pytest
 from pipeline import io, run
 
 

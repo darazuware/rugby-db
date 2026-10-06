@@ -1,6 +1,6 @@
 ---
 interface Props {
-    slot: string;
+    slot?: string;
     format?: "auto" | "fluid" | "rectangle";
     class?: string;
     responsive?: "true" | "false";
@@ -14,16 +14,19 @@ const {
 } = Astro.props;
 
 const AD_CLIENT = "ca-pub-7526742711058970";
+const isValidSlot = /^\d+$/.test(slot ?? "");
 ---
 
-<div class={`adsense-container my-8 overflow-hidden flex justify-center ${className}`}>
-    <ins class="adsbygoogle"
-         style="display:block"
-         data-ad-client={AD_CLIENT}
-         data-ad-slot={slot}
-         data-ad-format={format}
-         data-full-width-responsive={responsive}></ins>
-    <script is:inline>
-         (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-</div>
+{isValidSlot && (
+    <div class={`adsense-container my-8 overflow-hidden flex justify-center ${className}`}>
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client={AD_CLIENT}
+             data-ad-slot={slot}
+             data-ad-format={format}
+             data-full-width-responsive={responsive}></ins>
+        <script is:inline>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+)}
