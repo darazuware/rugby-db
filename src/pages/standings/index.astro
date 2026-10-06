@@ -10,7 +10,7 @@ import PRNotice from "../../components/PRNotice.astro";
 import WatchButton from "../../components/WatchButton.astro";
 
 // 公式一次情報から取得済みの master 順位表（無ければ旧 standings.json にフォールバック）
-async function masterRows(league: "top14" | "premiership", flag: string, fallbackId: LeagueId) {
+async function masterRows(league: "top14" | "premiership" | "urc", flag: string, fallbackId: LeagueId) {
     const st = await getStandingByLeague(league);
     if (!st) return getLeagueStandings(standingsData, fallbackId);
     const teams = await getTeamsByLeague(league);
@@ -24,6 +24,7 @@ async function masterRows(league: "top14" | "premiership", flag: string, fallbac
     });
 }
 const t14Rows = await masterRows("top14", "🇫🇷", "top14");
+const urcRows = await masterRows("urc", "🌍", "urc");
 const premRows = await masterRows("premiership", "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "premiership");
 
 const leagueData = [
@@ -57,7 +58,7 @@ const leagueData = [
         title_jp: "ユナイテッド・ラグビー・チャンピオンシップ",
         color: "bg-[#003366]",
         accent: "text-[#003366]",
-        standings: withTeamHref("urc", getLeagueStandings(standingsData, "urc"))
+        standings: withTeamHref("urc", urcRows as any)
     },
     {
         id: "premiership",
