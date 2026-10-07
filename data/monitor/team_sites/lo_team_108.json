@@ -3,13 +3,13 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-10-07T19:59:10+09:00",
+  "checked_at": "2026-10-08T02:36:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "d036064b5bb5b33f"
+      "hash": "c45195b27d98438e"
     }
   ],
   "items": [
@@ -29,14 +29,14 @@
       "date": "2026-10-05"
     },
     {
-      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20261001a.html",
-      "title": "NPCマナワツ・ターボス期限付き移籍レポート③（笹川大五選手）",
-      "date": "2026-10-01"
-    },
-    {
       "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260909a.html",
       "title": "(10/5更新) NTT JAPAN RUGBY LEAGUE ONE 2026-27 試合日程のお知らせ",
       "date": "2026-09-09"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260907a.html",
+      "title": "(10/8更新) 10月10日(土) 「秋のラグビー観戦＆防災デー」開催のお知らせ",
+      "date": "2026-09-07"
     }
   ]
 }
