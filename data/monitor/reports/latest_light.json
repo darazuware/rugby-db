@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-07T01:28:29+09:00",
+  "checked_at": "2026-10-07T17:06:12+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6192",
+          "title": "クラブ 静岡ブルーレヴズ、田嶋グン選手・佐藤健人選手 本契約締結のお知らせ 2026.10.07",
+          "date": "2026-10-07",
+          "category": "roster"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +40,15 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6192",
+      "title": "クラブ 静岡ブルーレヴズ、田嶋グン選手・佐藤健人選手 本契約締結のお知らせ 2026.10.07",
+      "date": "2026-10-07",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }
