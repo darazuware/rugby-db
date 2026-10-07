@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-07T02:00:09+09:00",
+  "checked_at": "2026-10-07T19:59:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "b4bbc376caa7b5e8"
+      "hash": "4265a62e07101b2d"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "fcc175ebd8b17da7"
+      "hash": "a6445522f9068984"
     }
   ],
   "items": [
@@ -31,6 +31,11 @@
       "url": "https://www.kurita-watergush.jp/game/20261017-gw%e6%9d%b1%e8%91%9b-vswg%e6%98%ad%e5%b3%b6/",
       "title": "このゲームの詳細情報はこちら",
       "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261007-2/",
+      "title": "お知らせ 2026/10/07 10月31日（土）ライジング2026 ヤクルトレビンズ戸田戦イベントのご案内",
+      "date": "2026-10-07"
     },
     {
       "url": "https://www.kurita-watergush.jp/20260806-2-2/",
@@ -74,7 +79,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20260911-2/",
-      "title": "お知らせ 2026/09/11 【イベント告知】チームPRイベントのお知らせ",
+      "title": "お知らせ 公開日：2026/09/11 【イベント告知】チームPRイベントのお知らせ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 9月27日（日）… 続きを読む",
       "date": "2026-09-11"
     },
     {
@@ -231,11 +236,6 @@
       "url": "https://www.kurita-watergush.jp/20251201-2/",
       "title": "お知らせ 公開日：2025/12/01 開幕節12月13日(土) 中国電力レッドレグリオンズ戦 ホストゲームイベントのご案内（※12月12日更新） 12月13日(土) リーグワンD3 第1節 中国電力レッドレグリオンズ戦のホストゲームイベントをお知らせいたし… 続きを読む",
       "date": "2025-12-01"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20251117-2/",
-      "title": "お知らせ 公開日：2025/11/17 11月29日（土）プレシーズンマッチ 日本製鉄釜石シーウェイブス戦イベントのご案内（※11月29日更新） ■タイムスケジュールについて 10:00 開場（予定） 10:15 ラグビー体験会 受付開始（※どなたでもご参加いた… 続きを読む",
-      "date": "2025-11-17"
     }
   ]
 }

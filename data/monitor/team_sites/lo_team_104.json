@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-10-07T02:00:09+09:00",
+  "checked_at": "2026-10-07T19:59:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "2d2444a6d65ecb6e"
+      "hash": "1684fdd7ec4a7921"
     }
   ],
   "items": [
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4285/",
+      "title": "2026.10.7 チケット・ファンクラブ イベント 【ファンクラブ全会員様対象】10月27日公開練習について",
+      "date": "2026-10-07"
+    },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4241",
       "title": "【試合情報】プレシーズンマッチ実施のお知らせ（10/5 チケット情報更新） 試合情報 2026.10.05",
@@ -20,13 +25,8 @@
     },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4241/",
-      "title": "2026.10.5 試合情報 【試合情報】プレシーズンマッチ実施のお知らせ（10/5 チケット情報更新）",
+      "title": "2026.10.5 試合情報 【試合情報】プレシーズンマッチ実施のお知らせ（10/7 開場時間更新）",
       "date": "2026-10-05"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4285/",
-      "title": "2026.10.2 チケット・ファンクラブ イベント 【ファンクラブ全会員様対象】10月27日公開練習について",
-      "date": "2026-10-02"
     },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4284/",

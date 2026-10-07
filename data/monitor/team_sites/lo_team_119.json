@@ -3,21 +3,21 @@
   "league": "league-one-d3",
   "name": "中国電力レッドレグリオンズ",
   "official_url": "https://rrrfc.red/",
-  "checked_at": "2026-10-06T20:11:10+09:00",
+  "checked_at": "2026-10-07T19:59:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://rrrfc.red/",
-      "hash": "bd487afb764d3711"
+      "hash": "55e68494036365fa"
     },
     {
       "url": "https://rrrfc.red/blog/",
-      "hash": "14e1c57b78fbda66"
+      "hash": "0b8f823a0b09104e"
     },
     {
       "url": "https://rrrfc.red/categories/news/",
-      "hash": "98d9835f6e82e009"
+      "hash": "ac086d51254e46fa"
     }
   ],
   "items": [

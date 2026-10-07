@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-10-06T20:11:10+09:00",
+  "checked_at": "2026-10-07T19:59:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "885f8922e41bb8ea"
+      "hash": "11e7ea209997b374"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "b3707c0488fbfffe"
+      "hash": "a1bf60601f5c46e4"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "3404fdfde590a283"
+      "hash": "f9821f8612e0ceb5"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/32703/",
+      "title": "お知らせ 2026.10.7 観て、食べて、応援！開幕戦まで楽しみがつながる「HOP STEP JUMP! キャンペーン」実施のお知らせ",
+      "date": "2026-10-07"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/info/32026/",
       "title": "お知らせ 2026.10.6 NTTジャパンラグビー リーグワン2026-27 ディビジョン3 試合日程・会場決定のお知らせ",
@@ -77,11 +82,6 @@
       "date": "2026-09-11"
     },
     {
-      "url": "https://kamaishi-seawaves.com/news/society/32289/",
-      "title": "普及・社会貢献 2026.9.7 釜石市立鵜住居小学校 ラグビー出前授業が行われました",
-      "date": "2026-09-07"
-    },
-    {
       "url": "https://kamaishi-seawaves.com/news/info/32270/",
       "title": "お知らせ 2026.9.4 2026プレシーズンマッチのお知らせ（追加）",
       "date": "2026-09-04"
@@ -110,11 +110,6 @@
       "url": "https://kamaishi-seawaves.com/news/info/32128/",
       "title": "お知らせ 2026.8.21 事務局固定電話の一時利用停止および臨時連絡先のお知らせ",
       "date": "2026-08-21"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/32048/",
-      "title": "お知らせ 2026.8.7 2026プレシーズンマッチのお知らせ",
-      "date": "2026-08-07"
     }
   ]
 }

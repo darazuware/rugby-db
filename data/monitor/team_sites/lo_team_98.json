@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-10-07T02:00:09+09:00",
+  "checked_at": "2026-10-07T19:59:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "d6e37736614a00ae"
+      "hash": "f3888b8c95a2ebc9"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "035d33b6803da46d"
+      "hash": "7536488164785653"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3210",
+      "title": "2026.10.7[WED] TEAM 田嶋 グン選手・佐藤 健人選手と本契約を締結",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3202",
+      "title": "2026.10.7[WED] OTHERS 令和8年熊本地震災害支援募金活動のご報告と御礼",
+      "date": "2026-10-07"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3209",
       "title": "2026.10.6[TUE] HOST AREA 【ホストエリア活動】浜松市「三島町こども会」にてタグラグビー教室を実施しました",
@@ -96,11 +106,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3188",
       "title": "EVENT 2026/9/16 愛車で静岡とホーム開幕戦を青く染めよう！",
       "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3187",
-      "title": "2026.9.14[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（9/7～9/11）",
-      "date": "2026-09-14"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3181",

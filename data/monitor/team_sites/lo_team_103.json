@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-07T02:00:09+09:00",
+  "checked_at": "2026-10-07T19:59:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "056a9d5834e257e8"
+      "hash": "31f5ead777c00696"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "762b099d34335202"
+      "hash": "527b85b6c5df2722"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/261007/",
+      "title": "東芝ブレイブルーパス武蔵 2026鹿児島キャンプ実施のお知らせ",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/",
+      "title": "記事一覧",
+      "date": "2026-10-07"
+    },
     {
       "url": "https://www.bravelupus.com/news/261006fc/",
       "title": "【お詫び】ゴールド会員2026-27ファンクラブ 先行入会について",
@@ -25,11 +35,6 @@
     {
       "url": "https://www.bravelupus.com/news/260909/",
       "title": "NTTジャパンラグビー リーグワン2026-27 ディビジョン1 試合日程・会場決定のお知らせ ※1-3節キックオフ時間更新",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/",
-      "title": "記事一覧",
       "date": "2026-10-06"
     },
     {
@@ -216,11 +221,6 @@
       "url": "https://www.bravelupus.com/news/260701/",
       "title": "2026-27シーズン 新加入選手のお知らせ",
       "date": "2026-07-01"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260630/",
-      "title": "三鷹市の小学校にてラグビー体験授業を実施しました",
-      "date": "2026-06-30"
     },
     {
       "url": "https://www.bravelupus.com/game/https-www-bravelupus-com-game-ntt-japan-rugby-league-one-2025-26-play-offs-quarterfinal/",

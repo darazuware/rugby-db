@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-10-07T02:00:09+09:00",
+  "checked_at": "2026-10-07T19:59:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "cf8527dff1edbbce"
+      "hash": "281daed9be77c06f"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "d366aca1ca7e7d2a"
+      "hash": "4721f84b6867fa44"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/index_2041.html",
+      "title": "ニュース 2026.10.07 2026.9.25「D-Rockersテーマ別対話会（応援）」「Club D-Rockers交流会」を開催しました",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2043.html",
+      "title": "イベント 2026.10.07 2026-27シーズン ホストゲーム会場限定「キッズスタンプカード」実施のお知らせ",
+      "date": "2026-10-07"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2042.html",
       "title": "ゲーム 2026.10.05 2026-27シーズン 第1節〜第3節 キックオフ時間決定のお知らせ",
@@ -44,7 +54,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2037.html",
-      "title": "イベント 2026.09.29 2026.10.18 浦安青年会議所×浦安D-Rocks共同開催 「すすめ！うらやす ONE TEAM ～みんなで創る防災フェス！～」開催のお知らせ",
+      "title": "2026.09.29 ニュース 2026.10.18 浦安青年会議所×浦安D-Rocks共同開催 「すすめ！うらやす ONE TEAM ～みんなで創る防災フェス！～」開催のお知らせ",
       "date": "2026-09-29"
     },
     {
@@ -54,7 +64,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2033.html",
-      "title": "ゲーム 2026.09.25 10月10日(土) プレシーズンマッチ vs 東京サントリーサンゴリアス ホストゲーム情報",
+      "title": "2026.09.25 ニュース 10月10日(土) プレシーズンマッチ vs 東京サントリーサンゴリアス ホストゲーム情報",
       "date": "2026-09-25"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_1994.html",
       "title": "2026.07.30 ニュース 2026.7.26プラチナ会員限定イベント「シーズンエンドパーティ 2025-26」を開催しました",
       "date": "2026-07-30"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_1992.html",
-      "title": "2026.07.28 ニュース 2026.7.25 公益財団法人うらやす財団主催「あつまれ！うんどう公園夏休みこどもスペシャルDAY」に参加しました",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_1991.html",
-      "title": "2026.07.28 ニュース 2026.7.25「仙台駐屯地 夏まつり」に参加しました",
-      "date": "2026-07-28"
     }
   ]
 }

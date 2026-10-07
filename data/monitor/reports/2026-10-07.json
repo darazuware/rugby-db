@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-07T02:00:09+09:00",
+  "checked_at": "2026-10-07T19:59:10+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/index_2041.html",
+          "title": "ニュース 2026.10.07 2026.9.25「D-Rockersテーマ別対話会（応援）」「Club D-Rockers交流会」を開催しました",
+          "date": "2026-10-07",
+          "category": null
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/event/index_2043.html",
+          "title": "イベント 2026.10.07 2026-27シーズン ホストゲーム会場限定「キッズスタンプカード」実施のお知らせ",
+          "date": "2026-10-07",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -21,8 +37,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35525/",
+          "title": "2026/10/7 イベント 【イベントレポート】10月3日(土)スマハマプロジェクト「コベルコ神戸スティーラーズが須磨海岸にやってくる！」に参加しました",
+          "date": "2026-10-07",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -33,8 +59,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 38,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261007_01/",
+          "title": "活動レポート 2026年10月07日 留学記：NZ編 齊藤誉哉⑥ ニュースを見る",
+          "date": "2026-10-07",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -45,8 +81,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/news/261007/",
+          "title": "東芝ブレイブルーパス武蔵 2026鹿児島キャンプ実施のお知らせ",
+          "date": "2026-10-07",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.bravelupus.com/",
+        "https://www.bravelupus.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -58,7 +104,9 @@
       "first_run": false,
       "item_count": 10,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -66,9 +114,9 @@
       "league": "league-one-d1",
       "name": "三重ホンダヒート",
       "official_url": "http://www.honda-heat.jp",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 24,
+      "item_count": 0,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -131,8 +179,21 @@
       "official_url": "https://www.shizuoka-bluerevs.com",
       "status": "ok",
       "first_run": false,
-      "item_count": 26,
-      "new_items": [],
+      "item_count": 27,
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3210",
+          "title": "2026.10.7[WED] TEAM 田嶋 グン選手・佐藤 健人選手と本契約を締結",
+          "date": "2026-10-07",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3202",
+          "title": "2026.10.7[WED] OTHERS 令和8年熊本地震災害支援募金活動のご報告と御礼",
+          "date": "2026-10-07",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -171,8 +232,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kyudenvoltex.com/news/1011",
+          "title": "チーム 2026年10月07日 NEW 2026年度 新加入スタッフのお知らせ",
+          "date": "2026-10-07",
+          "category": "roster"
+        },
+        {
+          "url": "https://www.kyudenvoltex.com/news/1010",
+          "title": "地域・社会貢献 2026年10月07日 NEW 福岡市認知症月間特別企画 ラグビーイベント/喜連選手講演会",
+          "date": "2026-10-07",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kyudenvoltex.com/",
+        "https://www.kyudenvoltex.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -180,11 +257,23 @@
       "league": "league-one-d2",
       "name": "清水建設江東ブルーシャークス",
       "official_url": "https://blue-sharks.jp/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 24,
+      "new_items": [
+        {
+          "url": "https://blue-sharks.jp/news/2026/10/25368/",
+          "title": "９月２５日 「ラグビー体験教室」開催のご報告",
+          "date": "2026-10-25",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -192,11 +281,21 @@
       "league": "league-one-d2",
       "name": "豊田自動織機シャトルズ愛知",
       "official_url": "https://shuttles-aichi.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 6,
+      "new_items": [
+        {
+          "url": "https://shuttles-aichi.com/news/tokai-city-tomikishima-elementary-school-tag-rugby-visiting-class-implementation-report/",
+          "title": "フォトギャラリー お知らせ 2026.10.06 東海市立富木島小学校 タグラグビー訪問授業 実施報告",
+          "date": "2026-10-06",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://shuttles-aichi.com/",
+        "https://shuttles-aichi.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -204,11 +303,22 @@
       "league": "league-one-d2",
       "name": "日本製鉄釜石シーウェイブス",
       "official_url": "https://kamaishi-seawaves.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 18,
+      "new_items": [
+        {
+          "url": "https://kamaishi-seawaves.com/news/info/32703/",
+          "title": "お知らせ 2026.10.7 観て、食べて、応援！開幕戦まで楽しみがつながる「HOP STEP JUMP! キャンペーン」実施のお知らせ",
+          "date": "2026-10-07",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://kamaishi-seawaves.com/",
+        "https://kamaishi-seawaves.com/news/",
+        "https://kamaishi-seawaves.com/news/info/"
+      ],
       "rename_signals": []
     },
     {
@@ -260,7 +370,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 44,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261007-2/",
+          "title": "お知らせ 2026/10/07 10月31日（土）ライジング2026 ヤクルトレビンズ戸田戦イベントのご案内",
+          "date": "2026-10-07",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -275,8 +392,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.rugguts.secom.co.jp/2026/10/post-29.html",
+          "title": "チケット販売スケジュールのお知らせ",
+          "date": "2026-10-07",
+          "category": null
+        },
+        {
+          "url": "https://www.rugguts.secom.co.jp/2026/10/post-28.html",
+          "title": "ホストゲームシーズンシート販売のお知らせ",
+          "date": "2026-10-07",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -284,11 +417,15 @@
       "league": "league-one-d3",
       "name": "中国電力レッドレグリオンズ",
       "official_url": "https://rrrfc.red/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 20,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://rrrfc.red/",
+        "https://rrrfc.red/blog/",
+        "https://rrrfc.red/categories/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -301,7 +438,11 @@
       "item_count": 45,
       "new_items": [],
       "changed_pages": [
-        "https://www.skyactivs.com/"
+        "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news",
+        "https://www.skyactivs.com/news/2091",
+        "https://www.skyactivs.com/news/2035",
+        "https://www.skyactivs.com/news/2001"
       ],
       "rename_signals": []
     },
@@ -322,9 +463,9 @@
       "league": "league-one-d3",
       "name": "ルリーロ福岡",
       "official_url": "https://leriro-fukuoka.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 11,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -362,13 +503,17 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "九州電力キューデンヴォルテクス",
+      "url": "https://www.kyudenvoltex.com/news/1011",
+      "title": "チーム 2026年10月07日 NEW 2026年度 新加入スタッフのお知らせ",
+      "date": "2026-10-07",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
-    "清水建設江東ブルーシャークス: 到達できるページがない: https://blue-sharks.jp/",
-    "豊田自動織機シャトルズ愛知: 到達できるページがない: https://shuttles-aichi.com/",
-    "日本製鉄釜石シーウェイブス: 到達できるページがない: https://kamaishi-seawaves.com/",
-    "中国電力レッドレグリオンズ: 到達できるページがない: https://rrrfc.red/",
-    "ルリーロ福岡: 到達できるページがない: https://leriro-fukuoka.com/"
+    "三重ホンダヒート: 到達できるページがない: http://www.honda-heat.jp"
   ]
 }

@@ -3,28 +3,33 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-10-06T20:11:10+09:00",
+  "checked_at": "2026-10-07T19:59:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "1845bf02a9769265"
+      "hash": "3c2cf6eaae373414"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "1bc0eb3828f39f96"
+      "hash": "bf6b89326d5268f3"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "31240588acb21576"
+      "hash": "b759ce63e1a1dd4b"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "86b1b2703e357a85"
+      "hash": "b20f4b6e10745c23"
     }
   ],
   "items": [
+    {
+      "url": "https://blue-sharks.jp/news/2026/10/25368/",
+      "title": "９月２５日 「ラグビー体験教室」開催のご報告",
+      "date": "2026-10-25"
+    },
     {
       "url": "https://blue-sharks.jp/news/2026/10/25345/",
       "title": "◇ヤクルトレビンズ戸田戦マッチレポート",
@@ -38,7 +43,7 @@
     {
       "url": "https://blue-sharks.jp/information/",
       "title": "もっと見る",
-      "date": "2026-10-05"
+      "date": "2026-10-07"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/09/25313/",
@@ -47,7 +52,7 @@
     },
     {
       "url": "https://blue-sharks.jp/news/2026/09/25284/",
-      "title": "◇埼玉パナソニックワイルドナイツ戦マッチレポート",
+      "title": "お知らせ 2026/09/15 ◇埼玉パナソニックワイルドナイツ戦マッチレポート",
       "date": "2026-09-25"
     },
     {
@@ -103,11 +108,6 @@
     {
       "url": "https://blue-sharks.jp/news/2026/08/25060/",
       "title": "お知らせ 2026/08/06 NTTジャパンラグビーリーグワン 2026-27 大会日程決定のお知らせ",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/08/25051/",
-      "title": "お知らせ 2026/08/05 グロスターラグビー研修レポート Vol.5（李優河）",
       "date": "2026-08-25"
     },
     {

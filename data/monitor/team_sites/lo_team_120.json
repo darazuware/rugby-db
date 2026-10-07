@@ -3,29 +3,29 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-10-07T02:00:09+09:00",
+  "checked_at": "2026-10-07T19:59:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "75998d24dfcb652d"
+      "hash": "3b0839c7db9fd011"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "dfeaa5236e9f62ed"
+      "hash": "3caf2b4a4588174a"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
-      "hash": "840913f986afc5a0"
+      "hash": "11810a33eeae6bf2"
     },
     {
       "url": "https://www.skyactivs.com/news/2035",
-      "hash": "2ad0fd58c2338433"
+      "hash": "bb1ee92e9fa08cc6"
     },
     {
       "url": "https://www.skyactivs.com/news/2001",
-      "hash": "78c281593fbea346"
+      "hash": "e696c3e5a6d7feeb"
     }
   ],
   "items": [

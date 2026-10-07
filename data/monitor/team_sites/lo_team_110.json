@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-10-07T02:00:09+09:00",
+  "checked_at": "2026-10-07T19:59:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "85af7608320bc265"
+      "hash": "1ad1591c49066b2b"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "9a992635502282d4"
+      "hash": "396a8327b3523df7"
     }
   ],
   "items": [
@@ -21,6 +21,16 @@
       "url": "https://www.kyudenvoltex.com/news/1006",
       "title": "チケット・ 試合情報",
       "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/1011",
+      "title": "チーム 2026年10月07日 NEW 2026年度 新加入スタッフのお知らせ",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/1010",
+      "title": "地域・社会貢献 2026年10月07日 NEW 福岡市認知症月間特別企画 ラグビーイベント/喜連選手講演会",
+      "date": "2026-10-07"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1009",
@@ -113,11 +123,6 @@
       "date": "2026-06-23"
     },
     {
-      "url": "https://www.kyudenvoltex.com/news/990",
-      "title": "地域・社会貢献 2026年06月19日 壱岐市立箱崎小学校でタグラグビー教室を開催しました",
-      "date": "2026-06-19"
-    },
-    {
       "url": "https://www.kyudenvoltex.com/news/986",
       "title": "お知らせ 2026年06月05日 【グッズ情報】2025-26シーズンありがとうセール",
       "date": "2026-06-05"
@@ -166,11 +171,6 @@
       "url": "https://www.kyudenvoltex.com/news/978",
       "title": "チーム 2026年04月13日 2025-26シーズン退団選手のお知らせ(4/13)",
       "date": "2026-04-13"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/977",
-      "title": "チーム 2026年04月09日 2025-26シーズン退団選手のお知らせ",
-      "date": "2026-04-09"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/972",

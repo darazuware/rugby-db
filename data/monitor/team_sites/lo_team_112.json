@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-10-06T20:11:10+09:00",
+  "checked_at": "2026-10-07T19:59:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "f0d740537055668c"
+      "hash": "6b47a08ed7118d99"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "f5c7c1d7d0ccd991"
+      "hash": "84b4f77db098b571"
     }
   ],
   "items": [
+    {
+      "url": "https://shuttles-aichi.com/news/tokai-city-tomikishima-elementary-school-tag-rugby-visiting-class-implementation-report/",
+      "title": "フォトギャラリー お知らせ 2026.10.06 東海市立富木島小学校 タグラグビー訪問授業 実施報告",
+      "date": "2026-10-06"
+    },
     {
       "url": "https://shuttles-aichi.com/news/gold-regular-member-only-fan-meeting-participants-decided/",
       "title": "お知らせ イベント 2026.10.06 ゴールド・レギュラー会員限定！ファンミーティング参加メンバー決定！",
@@ -40,11 +45,6 @@
     {
       "url": "https://shuttles-aichi.com/news/players-towel/",
       "title": "お知らせ イベント 2026.10.02 PLAYER’S TOWEL｜受注販売スタート",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/announcement-of-the-decision-to-continue-the-ske48-2026-27-season-shuttles-aichi-support-team/",
-      "title": "お知らせ 2026.10.02 SKE48 2026-27シーズン シャトルズ愛知応援隊 継続決定のお知らせ",
       "date": "2026-10-02"
     }
   ]
