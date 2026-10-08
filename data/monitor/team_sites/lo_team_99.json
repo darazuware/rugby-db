@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-10-08T02:36:46+09:00",
+  "checked_at": "2026-10-08T20:16:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "1612382ce2ea6c01"
+      "hash": "d9f80a19bf0a9f40"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "4323703ced63269e"
+      "hash": "28f9d9107b87e229"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMvUDRvudp.html",
+      "title": "2026年 10月 8日 2026 TRAINING MATCH vs 浦安D-Rocks メンバー発表",
+      "date": "2026-10-08"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026.html",
       "title": "2026年 10月 5日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 第1節～第3節のキックオフ時間が決定しました！",
@@ -61,11 +66,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2609-1034.html",
       "title": "2026年 9月18日 #1034 小林 典大 『安定もしつつ爆発力がある選手に』",
       "date": "2026-09-18"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2609-1033.html",
-      "title": "2026年 9月11日 #1033 小林 賢太 『プレーに一貫性がないんだったらちゃんと良くしていく』",
-      "date": "2026-09-11"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/cmrf26vnzc.html",

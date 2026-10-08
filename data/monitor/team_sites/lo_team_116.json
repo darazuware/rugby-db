@@ -3,20 +3,30 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-10-08T02:36:46+09:00",
+  "checked_at": "2026-10-08T20:16:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "fcd000df9f8ded49"
+      "hash": "d0d28c1780568147"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "ed568e296ef0b08d"
+      "hash": "34038aa45393ce22"
     }
   ],
   "items": [
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8917",
+      "title": "お知らせ 2026年10月8日 熱活GAMESにレッドハリケーンズ大阪が出場！",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://docomo-rugby.jp/game/member.html?id=336",
+      "title": "試合情報 2026年10月8日 【JAPAN RUGBY LEAGUE ONE RISING】JAPAN RUGBY LEAGUE ONE RISING 花園近鉄ライナーズ メンバー発表",
+      "date": "2026-10-08"
+    },
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8901",
       "title": "お知らせ 2026年10月6日 ファンクラブ・チケット情報の更新について",
@@ -54,7 +64,7 @@
     },
     {
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8886",
-      "title": "ホストタウン活動 2026年10月1日 【2026年9月】サステナNEWS",
+      "title": "SUSTAINABILITY 2026年10月1日 【2026年9月】サステナNEWS",
       "date": "2026-10-01"
     },
     {
@@ -104,7 +114,7 @@
     },
     {
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8853",
-      "title": "ホストタウン活動 2026年9月1日 【2026年8月】サステナNEWS",
+      "title": "SUSTAINABILITY 2026年9月1日 【2026年8月】サステナNEWS",
       "date": "2026-09-01"
     },
     {
@@ -213,16 +223,6 @@
       "date": "2026-07-01"
     },
     {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8649",
-      "title": "お知らせ 2026年6月12日 レッハリフェス2026を開催しました！",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8541",
-      "title": "お知らせ 2026年6月5日 ※更新情報あり 【当日プログラム】レッドハリケーンズフェスティバル",
-      "date": "2026-06-05"
-    },
-    {
       "url": "https://docomo-rugby.jp/game/report.html?id=324",
       "title": "試合情報 2026年5月13日 【NTT JAPAN RUGBY LEAGUE ONE 2025-26 DIVISION 2】第14節 NECグリーンロケッツ東葛",
       "date": "2026-05-13"
@@ -233,18 +233,13 @@
       "date": "2026-05-12"
     },
     {
-      "url": "https://docomo-rugby.jp/game/member.html?id=324",
-      "title": "試合情報 2026年5月9日 【NTT JAPAN RUGBY LEAGUE ONE 2025-26 DIVISION 2】第14節 NECグリーンロケッツ東葛 メンバー発表",
-      "date": "2026-05-09"
-    },
-    {
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8386",
-      "title": "ラグビー普及育成活動 2025年12月3日 おおきに商店presents第16回ドコモカップ決勝トーナメント結果について",
+      "title": "SUSTAINABILITY 2025年12月3日 おおきに商店presents第16回ドコモカップ決勝トーナメント結果について",
       "date": "2025-12-03"
     },
     {
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8366",
-      "title": "ラグビー普及育成活動 2025年11月11日 おおきに商店presents第16回ドコモカップ予選結果について",
+      "title": "SUSTAINABILITY 2025年11月11日 おおきに商店presents第16回ドコモカップ予選結果について",
       "date": "2025-11-11"
     }
   ]

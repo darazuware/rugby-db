@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-10-08T02:36:46+09:00",
+  "checked_at": "2026-10-08T20:16:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "a43e7a5579b42c08"
+      "hash": "2780ff5751aa9637"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "24a8bb064ff25f34"
+      "hash": "b41683a3bd19dcc1"
     }
   ],
   "items": [
@@ -31,6 +31,21 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
       "title": "試合日程一覧",
       "date": "2026-10-10"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261010/",
+      "title": "試合詳細",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261008_02/",
+      "title": "チーム 2026年10月08日 ワイルドナイツ ボランティア募集のお知らせ ニュースを見る",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261008_01/",
+      "title": "チーム 2026年10月08日 日本代表 別府合宿 参加メンバーのお知らせ ニュースを見る",
+      "date": "2026-10-08"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261007_01/",
@@ -81,11 +96,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260916_01/",
       "title": "活動レポート 2026年09月16日 留学記：NZ編 谷山隼大⑤ ニュースを見る",
       "date": "2026-09-16"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20260912/",
-      "title": "チーム 2026年09月12日 9月12日(土) 強化試合 1戦目 清水建設江東ブルーシャークス戦 試合結果 ニュースを見る",
-      "date": "2026-09-12"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260909_01/",

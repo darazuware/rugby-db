@@ -3,28 +3,33 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-08T02:36:46+09:00",
+  "checked_at": "2026-10-08T20:16:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "31f5ead777c00696"
+      "hash": "cba021a24d900857"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "527b85b6c5df2722"
+      "hash": "e9dc16f110f8a6a1"
     }
   ],
   "items": [
     {
-      "url": "https://www.bravelupus.com/news/261007/",
-      "title": "東芝ブレイブルーパス武蔵 2026鹿児島キャンプ実施のお知らせ",
-      "date": "2026-10-07"
+      "url": "https://www.bravelupus.com/news/261008/",
+      "title": "男子日本代表 別府合宿参加メンバーのお知らせ",
+      "date": "2026-10-08"
     },
     {
       "url": "https://www.bravelupus.com/news/",
       "title": "記事一覧",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261007/",
+      "title": "東芝ブレイブルーパス武蔵 2026鹿児島キャンプ実施のお知らせ",
       "date": "2026-10-07"
     },
     {
@@ -216,11 +221,6 @@
       "url": "https://www.bravelupus.com/news/260702-2/",
       "title": "NTTジャパンラグビー リーグワン2026-27 ディビジョン編成および大会日程のお知らせ",
       "date": "2026-07-02"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260701/",
-      "title": "2026-27シーズン 新加入選手のお知らせ",
-      "date": "2026-07-01"
     },
     {
       "url": "https://www.bravelupus.com/game/https-www-bravelupus-com-game-ntt-japan-rugby-league-one-2025-26-play-offs-quarterfinal/",

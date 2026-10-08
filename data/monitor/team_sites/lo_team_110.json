@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-10-08T02:36:46+09:00",
+  "checked_at": "2026-10-08T20:16:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "efaecd8d3fc795b0"
+      "hash": "cec61ef1904d11b9"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "55d29579386648ed"
+      "hash": "d862db5f8e3a0c06"
     }
   ],
   "items": [
@@ -23,13 +23,18 @@
       "date": "2026-10-10"
     },
     {
+      "url": "https://www.kyudenvoltex.com/game/p169",
+      "title": "メンバー",
+      "date": "2026-10-10"
+    },
+    {
       "url": "https://www.kyudenvoltex.com/news/1011",
       "title": "チーム 2026年10月07日 NEW 2026年度 新加入スタッフのお知らせ",
       "date": "2026-10-07"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1010",
-      "title": "地域・社会貢献 2026年10月07日 NEW 福岡市認知症月間特別企画 ラグビーイベント/喜連選手講演会",
+      "title": "地域・社会貢献 2026年10月07日 NEW 「福岡市認知症月間特別企画 ラグビーイベント/喜連選手講演会」",
       "date": "2026-10-07"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://www.kyudenvoltex.com/news/931",
       "title": "アカデミー 2025年11月20日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第22回",
       "date": "2025-11-20"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/930",
-      "title": "アカデミー 2025年11月18日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第21回",
-      "date": "2025-11-18"
     }
   ]
 }

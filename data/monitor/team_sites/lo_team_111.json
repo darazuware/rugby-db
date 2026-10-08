@@ -3,28 +3,33 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-10-08T02:36:46+09:00",
+  "checked_at": "2026-10-08T20:16:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "72d1e03d41722df5"
+      "hash": "fbfd9481c5baef9f"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "bf6b89326d5268f3"
+      "hash": "84b45e5983a5b184"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "b759ce63e1a1dd4b"
+      "hash": "b18a155147955fb9"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "b20f4b6e10745c23"
+      "hash": "d60ceba98c861c9c"
     }
   ],
   "items": [
+    {
+      "url": "https://blue-sharks.jp/news/2026/10/25375/",
+      "title": "１０月７日 「タグラグビー教室」開催のご報告",
+      "date": "2026-10-25"
+    },
     {
       "url": "https://blue-sharks.jp/news/2026/10/25368/",
       "title": "９月２５日 「ラグビー体験教室」開催のご報告",
@@ -43,11 +48,11 @@
     {
       "url": "https://blue-sharks.jp/information/",
       "title": "もっと見る",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/09/25313/",
-      "title": "Jヴィレッジラグビークリニックレポート",
+      "title": "お知らせ 2026/09/24 Jヴィレッジラグビークリニックレポート",
       "date": "2026-09-25"
     },
     {
@@ -98,11 +103,6 @@
     {
       "url": "https://blue-sharks.jp/news/2026/08/25186/",
       "title": "お知らせ 2026/08/07 2026-27 シーズンプレシーズンマッチスケジュール決定のお知らせ",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/08/25063/",
-      "title": "お知らせ 2026/08/05 2026-27シーズン新体制のお知らせ",
       "date": "2026-08-25"
     },
     {

@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "クボタスピアーズ船橋・東京ベイ",
   "official_url": "http://www.kubota-spears.com/",
-  "checked_at": "2026-10-08T02:36:46+09:00",
+  "checked_at": "2026-10-08T20:16:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kubota-spears.com/",
-      "hash": "57e36a79b914b7a1"
+      "hash": "ba4d9573adf629cd"
     },
     {
       "url": "https://www.kubota-spears.com/news/",
-      "hash": "ec45b85e9880255e"
+      "hash": "eb91f9c04addc53d"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kubota-spears.com/news/2026/10/08/110000.html",
+      "title": "2026.10.08 ニュース・トピックス",
+      "date": "2026-10-08"
+    },
     {
       "url": "https://www.kubota-spears.com/photo/",
       "title": "2026.10.05 ニュース・トピックス",
@@ -196,11 +201,6 @@
       "url": "https://www.kubota-spears.com/news/2026/07/07/161500.html",
       "title": "2026.07.07 ニュース・トピックス",
       "date": "2026-07-07"
-    },
-    {
-      "url": "https://www.kubota-spears.com/news/2026/07/02/170000.html",
-      "title": "2026.07.02 ニュース・トピックス",
-      "date": "2026-07-02"
     },
     {
       "url": "https://www.kubota-spears.com/goods/2026/06/24/160000.html",

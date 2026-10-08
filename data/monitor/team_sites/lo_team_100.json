@@ -3,20 +3,45 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-10-08T02:36:46+09:00",
+  "checked_at": "2026-10-08T20:16:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "281daed9be77c06f"
+      "hash": "238f3924ad16ca14"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "4721f84b6867fa44"
+      "hash": "9f3aff2981258b3d"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2047.html",
+      "title": "ゲーム 2026.10.08 【メンバー発表】2026-27シーズン プレシーズンマッチ① 東京サントリーサンゴリアス戦（10月10日）",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2045.html",
+      "title": "ゲーム 2026.10.08 10月23日(金) プレシーズンマッチ vs トヨタヴェルブリッツ ホストゲーム情報",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2033.html",
+      "title": "ゲーム 2026.10.08 【更新】10月10日(土) プレシーズンマッチ vs 東京サントリーサンゴリアス ホストゲーム情報",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2046.html",
+      "title": "イベント 2026.10.08 2026.10.10「わくわくハッピー本棚」との連携協定に基づく 初のブックドライブ（古本回収）実施のお知らせ",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2044.html",
+      "title": "イベント 2026.10.08 2026.10.6 笛吹警察署 一日警察署長・副署長を務めました",
+      "date": "2026-10-08"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/index_2041.html",
       "title": "ニュース 2026.10.07 2026.9.25「D-Rockersテーマ別対話会（応援）」「Club D-Rockers交流会」を開催しました",
@@ -39,17 +64,17 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2036.html",
-      "title": "ゲーム 2026.09.30 2026-27シーズン 一部試合会場決定のお知らせ",
+      "title": "2026.09.30 ニュース 2026-27シーズン 一部試合会場決定のお知らせ",
       "date": "2026-09-30"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2038.html",
-      "title": "イベント 2026.09.30 2026.10 トレーニング公開日のお知らせ",
+      "title": "2026.09.30 ニュース 2026.10 トレーニング公開日のお知らせ",
       "date": "2026-09-30"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2034.html",
-      "title": "ゲーム 2026.09.29 10月17日(土) プレシーズンマッチ vs 日野レッドドルフィンズ ホストゲーム情報",
+      "title": "2026.09.29 ニュース 10月17日(土) プレシーズンマッチ vs 日野レッドドルフィンズ ホストゲーム情報",
       "date": "2026-09-29"
     },
     {
@@ -59,13 +84,8 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2035.html",
-      "title": "イベント 2026.09.29 2026.10.17 「試合のあとは、花火。浦安Dパークで花火を観よう！」実施のお知らせ",
+      "title": "2026.09.29 ニュース 2026.10.17 「試合のあとは、花火。浦安Dパークで花火を観よう！」実施のお知らせ",
       "date": "2026-09-29"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_2033.html",
-      "title": "2026.09.25 ニュース 10月10日(土) プレシーズンマッチ vs 東京サントリーサンゴリアス ホストゲーム情報",
-      "date": "2026-09-25"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2031.html",
@@ -196,26 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_1998.html",
       "title": "2026.08.04 ニュース ファンクラブClub D-Rockers システムリニューアルに伴うホワイト会員新規入会受付終了について",
       "date": "2026-08-04"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/partner/index_1997.html",
-      "title": "2026.08.03 ニュース Save the Ocean株式会社とオフィシャルサプライヤー契約締結のお知らせ",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_1996.html",
-      "title": "2026.08.01 ニュース 2026.8 浦安Dパーク開放イベント「夏休み！浦安Dパークで遊ぼう！」開催のお知らせ",
-      "date": "2026-08-01"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_1995.html",
-      "title": "2026.07.30 ニュース 浦安D-Rocks 公式TikTok開設のお知らせ",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/fanclub/index_1994.html",
-      "title": "2026.07.30 ニュース 2026.7.26プラチナ会員限定イベント「シーズンエンドパーティ 2025-26」を開催しました",
-      "date": "2026-07-30"
     }
   ]
 }

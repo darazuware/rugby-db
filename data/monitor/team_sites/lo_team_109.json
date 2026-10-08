@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-10-08T02:36:46+09:00",
+  "checked_at": "2026-10-08T20:16:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "6df1f35737d532f3"
+      "hash": "35524f97b7cd2d37"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "f2d4595b3d684b8a"
+      "hash": "c64a49e15c87f7d0"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "1127a5ac98d6ac7f"
+      "hash": "ffa4d3f0753ca7cb"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1007-01/",
+      "title": "TEAM 2026-27シーズンの新加入スタッフ（追加）および退団スタッフのお知らせ 2026.10.08",
+      "date": "2026-10-08"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1001-01/",
       "title": "EVENT かしわスポーツフェスティバル 2026.10.01",

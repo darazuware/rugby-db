@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-08T02:36:46+09:00",
+  "checked_at": "2026-10-08T20:16:35+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,36 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/game/index_2047.html",
+          "title": "ゲーム 2026.10.08 【メンバー発表】2026-27シーズン プレシーズンマッチ① 東京サントリーサンゴリアス戦（10月10日）",
+          "date": "2026-10-08",
+          "category": null
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/game/index_2045.html",
+          "title": "ゲーム 2026.10.08 10月23日(金) プレシーズンマッチ vs トヨタヴェルブリッツ ホストゲーム情報",
+          "date": "2026-10-08",
+          "category": null
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/event/index_2046.html",
+          "title": "イベント 2026.10.08 2026.10.10「わくわくハッピー本棚」との連携協定に基づく 初のブックドライブ（古本回収）実施のお知らせ",
+          "date": "2026-10-08",
+          "category": null
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/event/index_2044.html",
+          "title": "イベント 2026.10.08 2026.10.6 笛吹警察署 一日警察署長・副署長を務めました",
+          "date": "2026-10-08",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -21,8 +49,38 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35584/",
+          "title": "2026/10/8 パートナー NTTリーグワン2026-27 法人シーズンシート販売のお知らせ",
+          "date": "2026-10-08",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35573/",
+          "title": "2026/10/8 普及 【レポート】神戸市立名倉小学校でタグラグビー教室を実施しました",
+          "date": "2026-10-08",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35545/",
+          "title": "2026/10/8 チーム ⽇本代表 別府合宿参加メンバーのお知らせ",
+          "date": "2026-10-08",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/game/post34697/",
+          "title": "2026/10/8 試合 10月10日(土) 「ジャパンラグビー リーグワン ライジング2026」ルリーロ福岡戦 出場メンバーのお知らせ",
+          "date": "2026-10-08",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/",
+        "https://www.kobesteelers.com/news/cat_news/information/",
+        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+      ],
       "rename_signals": []
     },
     {
@@ -32,9 +90,31 @@
       "official_url": "https://panasonic.co.jp/sports/wildknights/",
       "status": "ok",
       "first_run": false,
-      "item_count": 38,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 40,
+      "new_items": [
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261010/",
+          "title": "試合詳細",
+          "date": "2026-10-10",
+          "category": null
+        },
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261008_02/",
+          "title": "チーム 2026年10月08日 ワイルドナイツ ボランティア募集のお知らせ ニュースを見る",
+          "date": "2026-10-08",
+          "category": null
+        },
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261008_01/",
+          "title": "チーム 2026年10月08日 日本代表 別府合宿 参加メンバーのお知らせ ニュースを見る",
+          "date": "2026-10-08",
+          "category": "squad"
+        }
+      ],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -45,8 +125,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/news/261008/",
+          "title": "男子日本代表 別府合宿参加メンバーのお知らせ",
+          "date": "2026-10-08",
+          "category": "squad"
+        }
+      ],
+      "changed_pages": [
+        "https://www.bravelupus.com/",
+        "https://www.bravelupus.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -57,8 +147,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4286/",
+          "title": "2026.10.8 イベント チケット・ファンクラブ 【ファンクラブ】10/31 選手と一緒にボールパーソン体験！参加者8名募集（12歳以下限定）",
+          "date": "2026-10-08",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -81,7 +180,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261008.html-0",
+          "title": "2026-10-08 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部航大選手が選出",
+          "date": "2026-10-08",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261008.html",
+          "title": "2026-10-08 15人制男子日本代表｜別府合宿参加メンバーにチャーリー・ローレンス選手が選出",
+          "date": "2026-10-08",
+          "category": "squad"
+        }
+      ],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -96,8 +208,31 @@
       "status": "ok",
       "first_run": false,
       "item_count": 18,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/gameinfo/info/2026-2027/20261010.html",
+          "title": "詳細・チケット情報",
+          "date": "2026-10-10",
+          "category": null
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20261008.html",
+          "title": "2026.10.08 TEAM 横浜キヤノンイーグルスの選手の代表活動に関するお知らせ",
+          "date": "2026-10-08",
+          "category": null
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/gameinfo/20261008.html",
+          "title": "2026.10.08 GAME 練習試合 （10/10）埼玉パナソニックワイルドナイツ戦 出場選手",
+          "date": "2026-10-08",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/",
+        "https://www.canon-eagles.jp/news/info/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -108,14 +243,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [
-        {
-          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260907a.html",
-          "title": "(10/8更新) 10月10日(土) 「秋のラグビー観戦＆防災デー」開催のお知らせ",
-          "date": "2026-09-07",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://blackrams-tokyo.com/"
       ],
@@ -129,8 +257,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 56,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/news/2026/10/08/110000.html",
+          "title": "2026.10.08 ニュース・トピックス",
+          "date": "2026-10-08",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/",
+        "https://www.kubota-spears.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -156,8 +294,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMvUDRvudp.html",
+          "title": "2026年 10月 8日 2026 TRAINING MATCH vs 浦安D-Rocks メンバー発表",
+          "date": "2026-10-08",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -167,9 +315,20 @@
       "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": false,
-      "item_count": 15,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 16,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1007-01/",
+          "title": "TEAM 2026-27シーズンの新加入スタッフ（追加）および退団スタッフのお知らせ 2026.10.08",
+          "date": "2026-10-08",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/",
+        "https://www.jreast.co.jp/greenwarriors/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -180,7 +339,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kyudenvoltex.com/game/p169",
+          "title": "メンバー",
+          "date": "2026-10-10",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kyudenvoltex.com/",
         "https://www.kyudenvoltex.com/news/"
@@ -195,9 +361,19 @@
       "status": "ok",
       "first_run": false,
       "item_count": 24,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://blue-sharks.jp/news/2026/10/25375/",
+          "title": "１０月７日 「タグラグビー教室」開催のご報告",
+          "date": "2026-10-25",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://blue-sharks.jp/"
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
       ],
       "rename_signals": []
     },
@@ -223,7 +399,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 18,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://kamaishi-seawaves.com/news/info/32815/",
+          "title": "お知らせ 2026.10.8 ベンジャミン・ニーニー選手 サモア代表選出のお知らせ",
+          "date": "2026-10-08",
+          "category": "squad"
+        }
+      ],
       "changed_pages": [
         "https://kamaishi-seawaves.com/",
         "https://kamaishi-seawaves.com/news/",
@@ -239,7 +422,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 28,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/2026/10/08/docomo-member/",
+          "title": "2026.10.08 試合関連 チーム情報 【10月10日(土)レッドハリケーンズ大阪戦】メンバーのご案内",
+          "date": "2026-10-08",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/10/08/2026-27jersey/",
+          "title": "2026.10.08 チーム情報 パートナー 2026-27 ジャージーデザイン決定のお知らせ",
+          "date": "2026-10-08",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -265,10 +461,24 @@
       "official_url": "https://docomo-rugby.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 46,
-      "new_items": [],
+      "item_count": 45,
+      "new_items": [
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8917",
+          "title": "お知らせ 2026年10月8日 熱活GAMESにレッドハリケーンズ大阪が出場！",
+          "date": "2026-10-08",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/game/member.html?id=336",
+          "title": "試合情報 2026年10月8日 【JAPAN RUGBY LEAGUE ONE RISING】JAPAN RUGBY LEAGUE ONE RISING 花園近鉄ライナーズ メンバー発表",
+          "date": "2026-10-08",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://docomo-rugby.jp/"
+        "https://docomo-rugby.jp/",
+        "https://docomo-rugby.jp/news/"
       ],
       "rename_signals": []
     },
@@ -296,7 +506,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -333,8 +546,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 12,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1474",
+          "title": "＜プレシーズンゲーム＞川越狭山セコムラガッツ戦メンバーについて",
+          "date": "2026-10-08",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.yakult.co.jp/sports/rugby/",
+        "https://www.yakult.co.jp/sports/rugby/topics/"
+      ],
       "rename_signals": []
     },
     {
@@ -382,7 +605,50 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "NECグリーンロケッツ東葛",
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1007-01/",
+      "title": "TEAM 2026-27シーズンの新加入スタッフ（追加）および退団スタッフのお知らせ 2026.10.08",
+      "date": "2026-10-08",
+      "category": "roster"
+    },
+    {
+      "source": "埼玉パナソニックワイルドナイツ",
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261008_01/",
+      "title": "チーム 2026年10月08日 日本代表 別府合宿 参加メンバーのお知らせ ニュースを見る",
+      "date": "2026-10-08",
+      "category": "squad"
+    },
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/261008/",
+      "title": "男子日本代表 別府合宿参加メンバーのお知らせ",
+      "date": "2026-10-08",
+      "category": "squad"
+    },
+    {
+      "source": "三菱重工相模原ダイナボアーズ",
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261008.html-0",
+      "title": "2026-10-08 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部航大選手が選出",
+      "date": "2026-10-08",
+      "category": "squad"
+    },
+    {
+      "source": "三菱重工相模原ダイナボアーズ",
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261008.html",
+      "title": "2026-10-08 15人制男子日本代表｜別府合宿参加メンバーにチャーリー・ローレンス選手が選出",
+      "date": "2026-10-08",
+      "category": "squad"
+    },
+    {
+      "source": "日本製鉄釜石シーウェイブス",
+      "url": "https://kamaishi-seawaves.com/news/info/32815/",
+      "title": "お知らせ 2026.10.8 ベンジャミン・ニーニー選手 サモア代表選出のお知らせ",
+      "date": "2026-10-08",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "三重ホンダヒート: 到達できるページがない: http://www.honda-heat.jp"

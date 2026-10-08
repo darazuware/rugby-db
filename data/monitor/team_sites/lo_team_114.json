@@ -3,20 +3,30 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-10-08T02:36:46+09:00",
+  "checked_at": "2026-10-08T20:16:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "86ac082ac38c3daa"
+      "hash": "9bca4b6e2994998b"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "154595fad073499c"
+      "hash": "326e48a6ad72d10d"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/10/08/docomo-member/",
+      "title": "2026.10.08 試合関連 チーム情報 【10月10日(土)レッドハリケーンズ大阪戦】メンバーのご案内",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/10/08/2026-27jersey/",
+      "title": "2026.10.08 チーム情報 パートナー 2026-27 ジャージーデザイン決定のお知らせ",
+      "date": "2026-10-08"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/10/06/10-10vsdocomo/",
       "title": "2026.10.06 試合関連 10月10日(土)レッドハリケーンズ大阪戦についてのお知らせ",
@@ -49,12 +59,12 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/09/30/capvicecap/",
-      "title": "2026.09.30 チーム情報 キャプテン・バイスキャプテン および 2026-27シーズン チームスローガン決定のお知らせ",
+      "title": "2026-09-30 チーム情報 キャプテン・バイスキャプテン および 2026-27シーズン チームスローガン決定のお知らせ",
       "date": "2026-09-30"
     },
     {
       "url": "https://hanazono-liners.jp/2026/09/30/10-3-live-pv/",
-      "title": "2026.09.30 その他 10月3日(土)クボタスピアーズ船橋・東京ベイ戦 ライブ配信＆パブリックビューイング開催のお知らせ。",
+      "title": "2026-09-30 その他 10月3日(土)クボタスピアーズ船橋・東京ベイ戦 ライブ配信＆パブリックビューイング開催のお知らせ。",
       "date": "2026-09-30"
     },
     {
@@ -146,16 +156,6 @@
       "url": "https://hanazono-liners.jp/2026/07/07/news-rising/",
       "title": "2026.07.07 試合関連 ジャパンラグビー リーグワン ライジング2026 試合日程および対戦相手決定のお知らせ",
       "date": "2026-07-07"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/06/01/https-hanazono-liners-jp-2026-05-01-kcn-youtube-march-broadcasts-released-8/",
-      "title": "2026.06.01 チーム情報 KCN YouTube 「いてまえ！花園近鉄ライナーズ」6月放送分#8が公開されました",
-      "date": "2026-06-01"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/05/18/2025-26taidan/",
-      "title": "2026.05.18 チーム情報 その他 2025-26シーズン退団選手および退団スタッフのお知らせ",
-      "date": "2026-05-18"
     }
   ]
 }

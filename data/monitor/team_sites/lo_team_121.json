@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "ヤクルトレビンズ戸田",
   "official_url": "https://www.yakult.co.jp/sports/rugby/",
-  "checked_at": "2026-10-08T02:36:46+09:00",
+  "checked_at": "2026-10-08T20:16:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.yakult.co.jp/sports/rugby/",
-      "hash": "34f61990e7760487"
+      "hash": "2d16b7392d4c51ec"
     },
     {
       "url": "https://www.yakult.co.jp/sports/rugby/topics/",
-      "hash": "406470b32d47c542"
+      "hash": "ce5f4849c00b742d"
     }
   ],
   "items": [
@@ -23,13 +23,18 @@
       "date": "2026-10-10"
     },
     {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1472",
-      "title": "＜プレシーズンマッチ＞清水建設江東ブルーシャークス戦メンバーについて",
-      "date": "2026-10-02"
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1474",
+      "title": "＜プレシーズンゲーム＞川越狭山セコムラガッツ戦メンバーについて",
+      "date": "2026-10-08"
     },
     {
       "url": "https://www.yakult.co.jp/sports/rugby/topics/",
       "title": "MORE",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1472",
+      "title": "＜プレシーズンゲーム ＞清水建設江東ブルーシャークス戦メンバーについて",
       "date": "2026-10-02"
     },
     {
@@ -71,11 +76,6 @@
       "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1437",
       "title": "JRLO 2025-26 Div.3 第15節試合結果について",
       "date": "2026-05-11"
-    },
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1434",
-      "title": "JRLO 2025-26 Div.3 第14節試合結果について",
-      "date": "2026-05-03"
     }
   ]
 }

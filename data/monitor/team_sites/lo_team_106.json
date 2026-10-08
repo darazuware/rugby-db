@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-10-08T02:36:46+09:00",
+  "checked_at": "2026-10-08T20:16:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "a7c44041f650a46d"
+      "hash": "26910c55214e20e0"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "eb0aee235c3cbcbf"
+      "hash": "305e47b550246174"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261008.html-0",
+      "title": "2026-10-08 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部航大選手が選出",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261008.html",
+      "title": "2026-10-08 15人制男子日本代表｜別府合宿参加メンバーにチャーリー・ローレンス選手が選出",
+      "date": "2026-10-08"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule#3",
       "title": "2026-10-05 日程更新｜12/13(日)のリーグワン開幕戦・神奈川ダービーは13:40キックオフ！",
@@ -25,6 +35,11 @@
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule",
       "title": "▼また次のシーズンで！（イベント・地域活動実施中）",
+      "date": "2026-10-04"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260911.html",
+      "title": "シーズンシート販売中！ あなただけのお座席確保は2026年10月4日（日）まで！",
       "date": "2026-10-04"
     },
     {
@@ -59,12 +74,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260911.html-0",
-      "title": "2026-09-11 チケットランクアップ受付のご案内",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260911.html",
-      "title": "1 1 Slide",
+      "title": "2026-09-11 [ ファンクラブ ] チケットランクアップ受付のご案内",
       "date": "2026-09-11"
     },
     {
@@ -216,16 +226,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260714.html-0",
       "title": "2026-07-14 [ チーム ] 南アフリカ代表｜カート＝リー・アレンゼ選手がウェールズ代表戦（7/18）に11番で先発出場",
       "date": "2026-07-14"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260714.html",
-      "title": "2026-07-14 [ チーム ] 安藤啓太選手、高城勝一選手、濱野隼大選手 加入のお知らせ",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260703.html-0",
-      "title": "2026-07-10 [ チーム ] 三島琳久選手の参加が決定！｜ダイナボアーズナイト2026in橋本 ～タックルナイト～",
-      "date": "2026-07-10"
     }
   ]
 }
