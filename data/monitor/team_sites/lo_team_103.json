@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-08T20:16:35+09:00",
+  "checked_at": "2026-10-09T02:39:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "cba021a24d900857"
+      "hash": "507875f6c1d932d2"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "e9dc16f110f8a6a1"
+      "hash": "0d138891fe03f673"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/all_story/",
+      "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.205更新）",
+      "date": "2026-10-08"
+    },
     {
       "url": "https://www.bravelupus.com/news/261008/",
       "title": "男子日本代表 別府合宿参加メンバーのお知らせ",
@@ -61,11 +66,6 @@
       "url": "https://www.bravelupus.com/news/260928-2/",
       "title": "2026-27シーズン新加入選手、スタッフ（追加）のお知らせ",
       "date": "2026-09-28"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/all_story/",
-      "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.204更新）",
-      "date": "2026-09-25"
     },
     {
       "url": "https://www.bravelupus.com/news/260924/",

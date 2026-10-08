@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-10-08T20:16:35+09:00",
+  "checked_at": "2026-10-09T02:39:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "35812ec865cb95ff"
+      "hash": "ca2397c14d24de7c"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "3caf2b4a4588174a"
+      "hash": "1a2f133745e37993"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
@@ -29,6 +29,16 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.skyactivs.com/news/4811",
+      "title": "2026.10.05[MON] ACTIVITY 「第33回ひろしまトラックまつり」に参加しました",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/4806",
+      "title": "2026.10.04[SUN] ACTIVITY 「黒瀬児童館まつり」に参加しました",
+      "date": "2026-10-04"
+    },
     {
       "url": "https://www.skyactivs.com/news/4787",
       "title": "2026.10.02[FRI] GAME 【メンバー発表】vsルリーロ福岡",
@@ -218,16 +228,6 @@
       "url": "https://www.skyactivs.com/news/4179",
       "title": "2026.05.28[THU] GAME 【メンバー発表】vs日野レッドドルフィンズ",
       "date": "2026-05-28"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/4050",
-      "title": "2026.05.21[THU] GAME 【メンバー発表】vs日野レッドドルフィンズ",
-      "date": "2026-05-21"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/4006",
-      "title": "2026.05.19[TUE] GAME 【イベント情報】vs日野レッドドルフィンズ",
-      "date": "2026-05-19"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",

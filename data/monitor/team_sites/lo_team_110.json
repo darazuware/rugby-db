@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-10-08T20:16:35+09:00",
+  "checked_at": "2026-10-09T02:39:50+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "cec61ef1904d11b9"
+      "hash": "3362704840589dbc"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "d862db5f8e3a0c06"
+      "hash": "3f09108099041053"
     }
   ],
   "items": [
@@ -39,7 +39,7 @@
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1009",
-      "title": "地域・社会貢献 2026年10月06日 NEW 「春日市スポーツフェスタ フットボールフェスタ」に参加しました",
+      "title": "地域・社会貢献 2026年10月06日 「春日市スポーツフェスタ フットボールフェスタ」に参加しました",
       "date": "2026-10-06"
     },
     {
