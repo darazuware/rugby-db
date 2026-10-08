@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-08T02:12:25+09:00",
+  "checked_at": "2026-10-08T17:22:06+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6194",
+          "title": "クラブ JR東日本グリーンウォリアーズ東葛、2026-27シーズン退団スタッフおよび新加入スタッフのお知らせ 2026.10.08",
+          "date": "2026-10-08",
+          "category": "roster"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,7 +26,44 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54246",
+          "title": "女子セブンズ・デベロップメント・スコッド（SDS） 熊谷合宿スケジュールと参加メンバーのお知らせ 2026.10.08 （木） 女子セブンズ日本代表 女子 セブンズ",
+          "date": "2026-10-08",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54245",
+          "title": "男子セブンズ・デベロップメント・スコッド(SDS) 福岡合宿スケジュールと参加メンバーのお知らせ 2026.10.08 （木） 男子セブンズ日本代表 セブンズ SDS 男子 男子セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド",
+          "date": "2026-10-08",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54244",
+          "title": "男子日本代表 別府合宿参加メンバーのお知らせ 2026.10.08 （木） 15人制男子日本代表 WBB 男子 日本代表",
+          "date": "2026-10-08",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54226",
+          "title": "（10/8更新）第114回女子セブンズユースアカデミー実施のお知らせ 2026.10.08 （木） 女子 セブンズ アカデミー・強化育成",
+          "date": "2026-10-08",
+          "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54209",
+          "title": "（10/8更新）第113回女子セブンズユースアカデミー実施のお知らせ 2026.10.08 （木） アカデミー・強化育成 女子 セブンズ",
+          "date": "2026-10-08",
+          "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54141",
+          "title": "（10/8更新）FOR ALL ミニ・ラグビーフレンドリーマッチ2026 開催のお知らせ 2026.10.08 （木） 小学生 普及育成 スクール",
+          "date": "2026-10-08",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +77,36 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6194",
+      "title": "クラブ JR東日本グリーンウォリアーズ東葛、2026-27シーズン退団スタッフおよび新加入スタッフのお知らせ 2026.10.08",
+      "date": "2026-10-08",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54246",
+      "title": "女子セブンズ・デベロップメント・スコッド（SDS） 熊谷合宿スケジュールと参加メンバーのお知らせ 2026.10.08 （木） 女子セブンズ日本代表 女子 セブンズ",
+      "date": "2026-10-08",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54245",
+      "title": "男子セブンズ・デベロップメント・スコッド(SDS) 福岡合宿スケジュールと参加メンバーのお知らせ 2026.10.08 （木） 男子セブンズ日本代表 セブンズ SDS 男子 男子セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド",
+      "date": "2026-10-08",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54244",
+      "title": "男子日本代表 別府合宿参加メンバーのお知らせ 2026.10.08 （木） 15人制男子日本代表 WBB 男子 日本代表",
+      "date": "2026-10-08",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }
