@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-09T02:09:52+09:00",
+  "checked_at": "2026-10-09T17:25:35+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6195",
+          "title": "クラブ トヨタヴェルブリッツ、2026-27シーズン新加入選手のお知らせ《追加》 2026.10.09",
+          "date": "2026-10-09",
+          "category": "roster"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,7 +26,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54248",
+          "title": "X-エリアユースラグビー 〜ノーサイド・フェス in 浦安〜 to the NEXT STAGE 開催のお知らせ 2026.10.09 （金） 高校 JRFU 普及育成 ユース",
+          "date": "2026-10-09",
+          "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54247",
+          "title": "【女子セブンズ日本代表コラム】8年ぶりにアジア大会優勝！オリンピック中間年で見えたもの。 2026.10.09 （金） 女子セブンズ日本代表 女子 セブンズ 日本代表コラムシリーズ",
+          "date": "2026-10-09",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +53,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6195",
+      "title": "クラブ トヨタヴェルブリッツ、2026-27シーズン新加入選手のお知らせ《追加》 2026.10.09",
+      "date": "2026-10-09",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54247",
+      "title": "【女子セブンズ日本代表コラム】8年ぶりにアジア大会優勝！オリンピック中間年で見えたもの。 2026.10.09 （金） 女子セブンズ日本代表 女子 セブンズ 日本代表コラムシリーズ",
+      "date": "2026-10-09",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }
