@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-09T02:39:50+09:00",
+  "checked_at": "2026-10-09T20:15:18+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "507875f6c1d932d2"
+      "hash": "b851f21d5a7bfaeb"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "0d138891fe03f673"
+      "hash": "36ed78c9e624ecd9"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/261009/",
+      "title": "新製品グッズ販売のお知らせ",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/",
+      "title": "記事一覧",
+      "date": "2026-10-09"
+    },
     {
       "url": "https://www.bravelupus.com/news/all_story/",
       "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.205更新）",
@@ -25,11 +35,6 @@
     {
       "url": "https://www.bravelupus.com/news/261008/",
       "title": "男子日本代表 別府合宿参加メンバーのお知らせ",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/",
-      "title": "記事一覧",
       "date": "2026-10-08"
     },
     {
@@ -215,11 +220,6 @@
     {
       "url": "https://www.bravelupus.com/news/260702/",
       "title": "ネーションズチャンピオンシップ2026 日本代表 対 イタリア代表 試合登録メンバーのお知らせ",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260702-2/",
-      "title": "NTTジャパンラグビー リーグワン2026-27 ディビジョン編成および大会日程のお知らせ",
       "date": "2026-07-02"
     },
     {

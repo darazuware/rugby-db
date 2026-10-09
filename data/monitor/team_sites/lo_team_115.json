@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-10-09T02:39:50+09:00",
+  "checked_at": "2026-10-09T20:15:18+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,10 +13,15 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "e8ffdb87e8b1487c"
+      "hash": "9ea4600c6e5ff5bd"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-10-09/",
+      "title": "10月25日（日）2026太田スポーツ・レクリエーション祭に参加します",
+      "date": "2026-10-09"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-10-01/",
       "title": "石川建設株式会社とクラブパートナー契約を締結しました",
@@ -91,11 +96,6 @@
       "url": "https://hino-reddolphins.com/2026-08-26/",
       "title": "9/26 ジャパンラグビーリーグワンライジング2026 日本製鉄釜石シーウェイブス戦 アクセス情報のお知らせ",
       "date": "2026-08-26"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-08-25/",
-      "title": "9/12 プレシーズンマッチ実施のお知らせ",
-      "date": "2026-08-25"
     }
   ]
 }

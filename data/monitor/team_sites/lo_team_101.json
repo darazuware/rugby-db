@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-10-09T02:39:50+09:00",
+  "checked_at": "2026-10-09T20:15:18+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "1b99efb591b8cf57"
+      "hash": "f60b006e0ec39bb8"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "1f038d655b845e91"
+      "hash": "47026a5ce25b39d5"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,16 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35566/",
+      "title": "2026/10/9 イベント 【イベントレポート】「第2回神戸大綱引き大会」に参加しました",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35552/",
+      "title": "2026/10/9 グッズ 2026-27シーズン 背番号入りオーセンティックジャージー・レプリカジャージー受注販売のお知らせ",
+      "date": "2026-10-09"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35584/",
       "title": "2026/10/8 パートナー NTTリーグワン2026-27 法人シーズンシート販売のお知らせ",
@@ -141,18 +151,8 @@
       "date": "2026-09-25"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35372/",
-      "title": "2026/9/24 イベント 9月26日(土)に神戸三宮センター街1丁目で開催される「SANNOMIYA COLLECTION 2026A/W」にブースを出展します",
-      "date": "2026-09-24"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35354/",
       "title": "2026/9/24 社会貢献 「One Fan,One Future ～みんなの応援が未来の森に～」菅平高原での植樹活動に参加しました",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35349/",
-      "title": "2026/9/24 イベント 【選手イベント参加情報】子どもを育むスマハマプロジェクト「コベルコ神戸スティーラーズが須磨海岸にやってくる！」参加選手決定のお知らせ",
       "date": "2026-09-24"
     },
     {
@@ -224,11 +224,6 @@
       "url": "https://www.kobesteelers.com/news/post35171/",
       "title": "2026/9/3 普及 【イベントレポート】第18回 北区ラグビーフェスティバルに参加しました",
       "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35144/",
-      "title": "2026/9/1 社会貢献 兵庫県・(公財)兵庫県人権啓発協会が実施する「プロスポーツとの連携による啓発メッセージの発信等」に協力します",
-      "date": "2026-09-01"
     },
     {
       "url": "https://www.kobesteelers.com/news/post35142/",
@@ -323,6 +318,11 @@
     {
       "url": "https://www.kobesteelers.com/news/post29666/",
       "title": "2025/11/25 お知らせ 神戸三宮センター街でのチームPR活動実施について",
+      "date": "2025-11-25"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/",
+      "title": "2025/11/25 お知らせ チーム公式HPがより便利に！ニュース検索機能を追加しました",
       "date": "2025-11-25"
     }
   ]

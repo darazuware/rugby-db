@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-10-09T02:39:50+09:00",
+  "checked_at": "2026-10-09T20:15:18+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "ca2397c14d24de7c"
+      "hash": "d06608e5144900a2"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "1a2f133745e37993"
+      "hash": "71ac5d81b71ce033"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
@@ -48,6 +48,11 @@
       "url": "https://www.skyactivs.com/news/4774",
       "title": "2026.09.27[SUN] ACTIVITY 朝パッ君健康・スポーツフェスタ2026に参加しました",
       "date": "2026-09-27"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/4822",
+      "title": "2026.09.26[SAT] ACTIVITY りゅうせん幼稚園でラグビー体験会を実施しました",
+      "date": "2026-09-26"
     },
     {
       "url": "https://www.skyactivs.com/news/4767",
@@ -223,11 +228,6 @@
       "url": "https://www.skyactivs.com/news/4186",
       "title": "2026.05.30[SAT] TEAM NTTジャパンラグビーリーグワン 2025-26 ディビジョン2昇格決定のお知らせ",
       "date": "2026-05-30"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/4179",
-      "title": "2026.05.28[THU] GAME 【メンバー発表】vs日野レッドドルフィンズ",
-      "date": "2026-05-28"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",

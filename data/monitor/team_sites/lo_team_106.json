@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-10-09T02:39:50+09:00",
+  "checked_at": "2026-10-09T20:15:18+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "ad96f411b6dc70be"
+      "hash": "afb4fd6bd3d9b3c3"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "1c48fa65a40e5a0a"
+      "hash": "d42ff0ece37c947b"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/jrlr2026-1#member",
+      "title": "2026-10-09 リーグワン ライジング2026 日本製鉄釜石シーウェイブス 対 三菱重工相模原ダイナボアーズ｜試合メンバー更新",
+      "date": "2026-10-09"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261008.html-0",
       "title": "2026-10-08 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部航大選手が選出",
@@ -31,21 +36,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule#3",
       "title": "2026-10-05 日程更新｜12/13(日)のリーグワン開幕戦・神奈川ダービーは13:40キックオフ！",
       "date": "2026-10-05"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule",
-      "title": "▼また次のシーズンで！（イベント・地域活動実施中）",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260911.html",
-      "title": "シーズンシート販売中！ あなただけのお座席確保は2026年10月4日（日）まで！",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/academy.html",
-      "title": "三菱重工相模原ダイナボアーズアカデミー ライセンス保持者による本格的な指導で将来を担う若いプレーヤーを育成します！",
-      "date": "2026-10-04"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/jrlr2026-2",
@@ -64,7 +54,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260915.html",
-      "title": "2026-09-15 男子セブンズ日本代表｜男子SDS別府合宿 参加メンバーに服部選手・吉本選手が選出",
+      "title": "2026-09-15 [ チーム ] [ メディア ] 男子セブンズ日本代表｜男子SDS別府合宿 参加メンバーに服部選手・吉本選手が選出",
       "date": "2026-09-15"
     },
     {
@@ -75,6 +65,11 @@
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260911.html-0",
       "title": "2026-09-11 [ ファンクラブ ] チケットランクアップ受付のご案内",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260911.html",
+      "title": "2026-09-11 [ ファンクラブ ] 2026-27シーズン シーズンシート発売のご案内",
       "date": "2026-09-11"
     },
     {
@@ -221,11 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260715.html",
       "title": "2026-07-15 [ イベント ] 公式オンラインショップ新商品追加およびオフ＆プレシーズン中のグッズ販売について",
       "date": "2026-07-15"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260714.html-0",
-      "title": "2026-07-14 [ チーム ] 南アフリカ代表｜カート＝リー・アレンゼ選手がウェールズ代表戦（7/18）に11番で先発出場",
-      "date": "2026-07-14"
     }
   ]
 }

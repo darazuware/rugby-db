@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-09T02:39:50+09:00",
+  "checked_at": "2026-10-09T20:15:18+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -21,8 +21,30 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35566/",
+          "title": "2026/10/9 イベント 【イベントレポート】「第2回神戸大綱引き大会」に参加しました",
+          "date": "2026-10-09",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35552/",
+          "title": "2026/10/9 グッズ 2026-27シーズン 背番号入りオーセンティックジャージー・レプリカジャージー受注販売のお知らせ",
+          "date": "2026-10-09",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/",
+          "title": "2025/11/25 お知らせ チーム公式HPがより便利に！ニュース検索機能を追加しました",
+          "date": "2025-11-25",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -33,8 +55,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261009_01/",
+          "title": "ファンクラブ 2026年10月09日 10/18(日)開催『埼玉パナソニックワイルドナイツ ファンクラブイベント』詳細... ニュースを見る",
+          "date": "2026-10-09",
+          "category": null
+        },
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/#ticket",
+          "title": "チケット 2026年10月09日 11月14日(土) グローバルラグビーフェスタ 2026 クイーンズランドレッズ... ニュースを見る",
+          "date": "2026-10-09",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -45,7 +83,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/news/261009/",
+          "title": "新製品グッズ販売のお知らせ",
+          "date": "2026-10-09",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.bravelupus.com/",
         "https://www.bravelupus.com/news/"
@@ -60,8 +105,23 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4288/",
+          "title": "2026.10.9 コラム 2026-27シーズン新加入選手",
+          "date": "2026-10-09",
+          "category": "roster"
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4287/",
+          "title": "2026.10.9 普及・アカデミー トヨタヴェルブリッツアカデミー #15",
+          "date": "2026-10-09",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -83,8 +143,15 @@
       "official_url": "https://dynaboars.mhi.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 42,
-      "new_items": [],
+      "item_count": 40,
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/jrlr2026-1#member",
+          "title": "2026-10-09 リーグワン ライジング2026 日本製鉄釜石シーウェイブス 対 三菱重工相模原ダイナボアーズ｜試合メンバー更新",
+          "date": "2026-10-09",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -99,8 +166,19 @@
       "status": "ok",
       "first_run": false,
       "item_count": 18,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/news/event/20261009.html",
+          "title": "2026.10.09 EVENT 11/8（日）2026-27シーズン開幕前イベント「イーグルスパーク」開催決定！",
+          "date": "2026-10-09",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/",
+        "https://www.canon-eagles.jp/news/info/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -111,8 +189,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261008a.html",
+          "title": "10月10日(土) リーグワン ライジング2026 JR東日本グリーンウォリアーズ東葛戦 メンバーのお知らせ",
+          "date": "2026-10-08",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -123,8 +210,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 56,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/event/2026/10/09/100000.html",
+          "title": "2026.10.09 イベント情報",
+          "date": "2026-10-09",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/",
+        "https://www.kubota-spears.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -150,8 +247,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2610-1037.html",
+          "title": "2026年 10月 9日 #1037 野中 健吾 『いちばん美しいスポーツ』",
+          "date": "2026-10-09",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -161,9 +268,20 @@
       "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": false,
-      "item_count": 16,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 17,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1009-01/",
+          "title": "MATCH 10月17日（土） ジャパンラグビー リーグワンライジング 2026 クリタウォーターガッシュ昭島戦のお知ら 2026.10.09",
+          "date": "2026-10-09",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/",
+        "https://www.jreast.co.jp/greenwarriors/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -176,8 +294,7 @@
       "item_count": 40,
       "new_items": [],
       "changed_pages": [
-        "https://www.kyudenvoltex.com/",
-        "https://www.kyudenvoltex.com/news/"
+        "https://www.kyudenvoltex.com/"
       ],
       "rename_signals": []
     },
@@ -191,7 +308,10 @@
       "item_count": 24,
       "new_items": [],
       "changed_pages": [
-        "https://blue-sharks.jp/"
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
       ],
       "rename_signals": []
     },
@@ -248,8 +368,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 16,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-10-09/",
+          "title": "10月25日（日）2026太田スポーツ・レクリエーション祭に参加します",
+          "date": "2026-10-09",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -290,7 +419,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -301,19 +433,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 15,
-      "new_items": [
-        {
-          "url": "https://rrrfc.red/blog/blog-6825/",
-          "title": "2026.10.08 オーストラリアから目標の舞台へ。樋口大成が挑む新たな戦い",
-          "date": "2026-10-08",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://rrrfc.red/",
-        "https://rrrfc.red/blog/",
-        "https://rrrfc.red/categories/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -326,15 +447,9 @@
       "item_count": 45,
       "new_items": [
         {
-          "url": "https://www.skyactivs.com/news/4811",
-          "title": "2026.10.05[MON] ACTIVITY 「第33回ひろしまトラックまつり」に参加しました",
-          "date": "2026-10-05",
-          "category": null
-        },
-        {
-          "url": "https://www.skyactivs.com/news/4806",
-          "title": "2026.10.04[SUN] ACTIVITY 「黒瀬児童館まつり」に参加しました",
-          "date": "2026-10-04",
+          "url": "https://www.skyactivs.com/news/4822",
+          "title": "2026.09.26[SAT] ACTIVITY りゅうせん幼稚園でラグビー体験会を実施しました",
+          "date": "2026-09-26",
           "category": null
         }
       ],
@@ -401,7 +516,15 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "トヨタヴェルブリッツ",
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4288/",
+      "title": "2026.10.9 コラム 2026-27シーズン新加入選手",
+      "date": "2026-10-09",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "三重ホンダヒート: 到達できるページがない: http://www.honda-heat.jp"

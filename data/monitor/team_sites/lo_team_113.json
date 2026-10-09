@@ -3,33 +3,33 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-10-09T02:39:50+09:00",
+  "checked_at": "2026-10-09T20:15:18+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "5e348e1740d03520"
+      "hash": "0861fc8fba1e1f95"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "52c8c29a39330313"
+      "hash": "3449ef364a4e8635"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "515abbd46dbd075d"
+      "hash": "eb20f19fd3c6f0b4"
     }
   ],
   "items": [
     {
+      "url": "https://kamaishi-seawaves.com/news/info/32703/",
+      "title": "お知らせ 2026.10.9 観て、食べて、応援！開幕戦まで楽しみがつながる「HOP STEP JUMP! キャンペーン」実施のお知らせ",
+      "date": "2026-10-09"
+    },
+    {
       "url": "https://kamaishi-seawaves.com/news/info/32815/",
       "title": "お知らせ 2026.10.8 ベンジャミン・ニーニー選手 サモア代表選出のお知らせ",
       "date": "2026-10-08"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/32703/",
-      "title": "お知らせ 2026.10.7 観て、食べて、応援！開幕戦まで楽しみがつながる「HOP STEP JUMP! キャンペーン」実施のお知らせ",
-      "date": "2026-10-07"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/32026/",

@@ -3,16 +3,26 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-10-09T02:39:50+09:00",
+  "checked_at": "2026-10-09T20:15:18+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "85d26d230fafd556"
+      "hash": "91761a32602bc23e"
     }
   ],
   "items": [
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4288/",
+      "title": "2026.10.9 コラム 2026-27シーズン新加入選手",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4287/",
+      "title": "2026.10.9 普及・アカデミー トヨタヴェルブリッツアカデミー #15",
+      "date": "2026-10-09"
+    },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4286/",
       "title": "2026.10.8 イベント チケット・ファンクラブ 【ファンクラブ】10/31 選手と一緒にボールパーソン体験！参加者8名募集（12歳以下限定）",
@@ -41,16 +51,6 @@
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4283/",
       "title": "2026.10.2 グッズ 【グッズ】2026-27オーセンティックジャージー受注（２月お届け）",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4282/",
-      "title": "2026.10.2 グッズ 【グッズ】全選手対応！重ね着アパレル＆トート",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4281/",
-      "title": "2026.10.2 グッズ 【グッズ】ペットとお揃い雷神キャップ発売のお知らせ",
       "date": "2026-10-02"
     },
     {

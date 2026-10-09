@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-10-09T02:39:50+09:00",
+  "checked_at": "2026-10-09T20:15:18+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "d9f80a19bf0a9f40"
+      "hash": "5c4405d1610f621b"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "28f9d9107b87e229"
+      "hash": "5ecd68cf4c658d78"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2610-1037.html",
+      "title": "2026年 10月 9日 #1037 野中 健吾 『いちばん美しいスポーツ』",
+      "date": "2026-10-09"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMvUDRvudp.html",
       "title": "2026年 10月 8日 2026 TRAINING MATCH vs 浦安D-Rocks メンバー発表",
@@ -61,11 +66,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/822.html",
       "title": "2026年 9月23日 Day822 『網走合宿』",
       "date": "2026-09-23"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2609-1034.html",
-      "title": "2026年 9月18日 #1034 小林 典大 『安定もしつつ爆発力がある選手に』",
-      "date": "2026-09-18"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/cmrf26vnzc.html",

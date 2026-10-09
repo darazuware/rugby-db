@@ -3,21 +3,21 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-10-09T02:39:50+09:00",
+  "checked_at": "2026-10-09T20:15:18+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.canon-eagles.jp/",
-      "hash": "8e47a09798e5bbfb"
+      "hash": "a327327d956bdf4e"
     },
     {
       "url": "https://www.canon-eagles.jp/news/",
-      "hash": "55b0f22b2ae49a0f"
+      "hash": "a8d70c7e475c99ca"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/2026.html",
-      "hash": "ea63fcd441121a32"
+      "hash": "462e2c5637404094"
     }
   ],
   "items": [
@@ -25,6 +25,11 @@
       "url": "https://www.canon-eagles.jp/gameinfo/info/2026-2027/20261010.html",
       "title": "詳細・チケット情報",
       "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/event/20261009.html",
+      "title": "2026.10.09 EVENT 11/8（日）2026-27シーズン開幕前イベント「イーグルスパーク」開催決定！",
+      "date": "2026-10-09"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/20261008.html",
@@ -80,11 +85,6 @@
       "url": "https://www.canon-eagles.jp/news/info/20260930.html",
       "title": "2026.09.30 TEAM 試合会場決定（第8・11・12・13節）のお知らせ",
       "date": "2026-09-30"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/interview/20260929-2.html",
-      "title": "2026.09.29 INTERVIEW 【新加入選手インタビュー】PR俵啓斗",
-      "date": "2026-09-29"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/20260924.html",
