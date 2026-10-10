@@ -1,6 +1,6 @@
 {
  "_note": "scripts/build_player_pages.py が生成。force_include/force_exclude のみ手編集可",
- "generated_at": "2026-10-09T13:37:36+00:00",
+ "generated_at": "2026-10-10T05:48:58+00:00",
  "criteria": "K1|K2|K3(mention>=2)",
  "force_include": [
   "lo_484310"
