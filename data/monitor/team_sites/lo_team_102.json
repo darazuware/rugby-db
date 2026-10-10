@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-10-10T02:15:20+09:00",
+  "checked_at": "2026-10-10T19:32:15+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "90125226a1b2c72b"
+      "hash": "2be5cfdd4b93720c"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "e222fece4238e3df"
+      "hash": "71a78568463074b1"
     }
   ],
   "items": [
@@ -30,11 +30,11 @@
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
       "title": "試合日程一覧",
-      "date": "2026-10-10"
+      "date": "2026-10-17"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261010/",
-      "title": "試合詳細",
+      "title": "結果詳細",
       "date": "2026-10-10"
     },
     {
@@ -96,11 +96,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260924_01/",
       "title": "活動レポート 2026年09月24日 留学記：NZ編 齊藤誉哉⑤ ニュースを見る",
       "date": "2026-09-24"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20260919/",
-      "title": "結果詳細",
-      "date": "2026-09-19"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260916_01/",
@@ -216,6 +211,11 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2025/20250421_01/",
       "title": "グッズ 2025年04月21日 We Are Wild Knights キャンペーンのお知らせ ニュースを見る",
       "date": "2025-04-21"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2024/20240420_01/",
+      "title": "グッズ 2024年04月20日 会場をワイルドナイツブル―に染めろ ～王座奪還キャンペーン～実施のお知らせ ニュースを見る",
+      "date": "2024-04-20"
     }
   ]
 }

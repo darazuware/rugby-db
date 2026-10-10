@@ -3,20 +3,40 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-10-10T02:15:20+09:00",
+  "checked_at": "2026-10-10T19:32:15+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "dfe20f8616b75a82"
+      "hash": "b0383d91e9b2e823"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "c3cb61749b0461c9"
+      "hash": "b5b4ab79518a986f"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/shiaiyotei-kekka/",
+      "title": "試合日程を見る",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://hanazono-liners.jp/result/match-2026-10-10-red-hurricanes/",
+      "title": "結果詳細を見る",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/10/10/f2627-cmtowel/",
+      "title": "2026.10.10 ファンクラブ イベント 【LINERS FANCLUB】2026-27シーズン 応援タオル デザイン決定のお知らせ",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/10/10/2026-27-season-communication/",
+      "title": "2026.10.10 その他 2026-27シーズン コミュニケーションメッセージ決定のお知らせ ​",
+      "date": "2026-10-10"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/10/08/docomo-member/",
       "title": "2026.10.08 試合関連 チーム情報 【10月10日(土)レッドハリケーンズ大阪戦】メンバーのご案内",
@@ -33,23 +53,13 @@
       "date": "2026-10-06"
     },
     {
-      "url": "https://hanazono-liners.jp/shiaiyotei-kekka/",
-      "title": "試合日程を見る",
-      "date": "2026-10-03"
-    },
-    {
-      "url": "https://hanazono-liners.jp/result/match-2026-10-03-kubota/",
-      "title": "結果詳細を見る",
-      "date": "2026-10-03"
-    },
-    {
       "url": "https://hanazono-liners.jp/2026/10/01/off-itemae4/",
       "title": "2026.10.01 活動報告書 その他 【番組 オフもいてまえ！花園近鉄ライナーズ（4回目・10/1放送）】",
       "date": "2026-10-01"
     },
     {
       "url": "https://hanazono-liners.jp/2026/10/01/brumbies-practice-tour/",
-      "title": "2026.10.01 ファンクラブ 【LINERS FANCLUB】ファンクラブ会員限定 ACTブランビーズ合同練習見学会開催のお知らせ",
+      "title": "2026-10-01 ファンクラブ 【LINERS FANCLUB】ファンクラブ会員限定 ACTブランビーズ合同練習見学会開催のお知らせ",
       "date": "2026-10-01"
     },
     {
@@ -93,11 +103,6 @@
       "date": "2026-09-16"
     },
     {
-      "url": "https://hanazono-liners.jp/2026/09/10/liners-fanclub-termsandconditions/",
-      "title": "2026-09-10 ファンクラブ 【重要】LINERS FANCLUB 2026-27 会員規約の表示不備に関するお詫びとご確認のお願い",
-      "date": "2026-09-10"
-    },
-    {
       "url": "https://hanazono-liners.jp/2026/09/07/liners-fanclub-3/",
       "title": "2026.09.07 ファンクラブ イベント 【LINERS FANCLUB】花園近鉄ライナーズ公式アプリ サービス終了に伴うデジタル会員証の利用について",
       "date": "2026-09-07"
@@ -105,11 +110,6 @@
     {
       "url": "https://hanazono-liners.jp/2026/09/07/app-fin/",
       "title": "2026.09.07 その他 花園近鉄ライナーズ公式アプリ サービス終了のお知らせおよび公式LINEアカウント一時休止のご案内",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/09/07/9-13-event/",
-      "title": "2026-09-07 その他 9/13 花園図書館で開催の「ラグビー講習会」に、ライナーズの選手が参加します。",
       "date": "2026-09-07"
     },
     {
@@ -151,11 +151,6 @@
       "url": "https://hanazono-liners.jp/2026/07/10/event-volleyball/",
       "title": "2026.07.10 イベント チーム情報 7/12 バレーボールネーションズリーグ「日本VSポーランド」の試合前に文選手が登場します",
       "date": "2026-07-10"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/07/07/news-rising/",
-      "title": "2026.07.07 試合関連 ジャパンラグビー リーグワン ライジング2026 試合日程および対戦相手決定のお知らせ",
-      "date": "2026-07-07"
     }
   ]
 }

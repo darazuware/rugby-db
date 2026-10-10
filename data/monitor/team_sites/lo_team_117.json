@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-10T02:15:20+09:00",
+  "checked_at": "2026-10-10T19:32:15+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "7010256d1c7240e2"
+      "hash": "a9f764be69a943fd"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "4fcccbb2d02b8df7"
+      "hash": "dcb41e4f657aca5f"
     }
   ],
   "items": [
@@ -31,6 +31,11 @@
       "url": "https://www.kurita-watergush.jp/game/20261017-gw%e6%9d%b1%e8%91%9b-vswg%e6%98%ad%e5%b3%b6/",
       "title": "このゲームの詳細情報はこちら",
       "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261010-2/",
+      "title": "お知らせ 2026/10/10 10月23日（金）日豪50周年フレンドシップマッチのご案内",
+      "date": "2026-10-10"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261007-2/",
@@ -74,7 +79,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20260924-2/",
-      "title": "お知らせ 2026/09/24 菅平ミニキャンプを実施しました",
+      "title": "お知らせ 公開日：2026/09/24 菅平ミニキャンプを実施しました いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 令和8年8月、そ… 続きを読む",
       "date": "2026-09-24"
     },
     {
@@ -231,11 +236,6 @@
       "url": "https://www.kurita-watergush.jp/20251209-2/",
       "title": "お知らせ 公開日：2026/01/13 ピッチサイドシート当日の入場方法について 下記の通りピッチサイドシート、当日の運用方法についてお知らせいたします。 ご確認のうえ、ご来場いただ… 続きを読む",
       "date": "2025-12-09"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20251201-2/",
-      "title": "お知らせ 公開日：2025/12/01 開幕節12月13日(土) 中国電力レッドレグリオンズ戦 ホストゲームイベントのご案内（※12月12日更新） 12月13日(土) リーグワンD3 第1節 中国電力レッドレグリオンズ戦のホストゲームイベントをお知らせいたし… 続きを読む",
-      "date": "2025-12-01"
     }
   ]
 }

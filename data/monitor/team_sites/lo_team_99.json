@@ -3,29 +3,29 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-10-10T02:15:20+09:00",
+  "checked_at": "2026-10-10T19:32:15+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "5c4405d1610f621b"
+      "hash": "30d625c48fedb86e"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "5ecd68cf4c658d78"
+      "hash": "833802b948f5826f"
     }
   ],
   "items": [
     {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMvUDRvudp.html",
+      "title": "2026年 10月10日 2026 TRAINING MATCH vs 浦安D-Rocks 試合結果",
+      "date": "2026-10-10"
+    },
+    {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2610-1037.html",
       "title": "2026年 10月 9日 #1037 野中 健吾 『いちばん美しいスポーツ』",
       "date": "2026-10-09"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMvUDRvudp.html",
-      "title": "2026年 10月 8日 2026 TRAINING MATCH vs 浦安D-Rocks メンバー発表",
-      "date": "2026-10-08"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026.html",

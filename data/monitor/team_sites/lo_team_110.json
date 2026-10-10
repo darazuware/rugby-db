@@ -3,13 +3,13 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-10-10T02:15:20+09:00",
+  "checked_at": "2026-10-10T19:32:15+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "bcc8aa206e571817"
+      "hash": "3e30b68d56311098"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
@@ -144,18 +144,8 @@
     },
     {
       "url": "https://www.kyudenvoltex.com/news/981",
-      "title": "チケット・ 試合情報",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/game/r160",
-      "title": "試合レポート",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/game/p160",
-      "title": "メンバー",
-      "date": "2026-05-09"
+      "title": "試合情報 2026年04月30日 【リーグワン | 最終節】5/9(土)日野レッドドルフィンズ戦のお知らせ(4/30更新)",
+      "date": "2026-04-30"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/982",
@@ -216,6 +206,16 @@
       "url": "https://www.kyudenvoltex.com/news/931",
       "title": "アカデミー 2025年11月20日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第22回",
       "date": "2025-11-20"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/930",
+      "title": "アカデミー 2025年11月18日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第21回",
+      "date": "2025-11-18"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/929",
+      "title": "アカデミー 2025年11月17日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第20回",
+      "date": "2025-11-17"
     }
   ]
 }

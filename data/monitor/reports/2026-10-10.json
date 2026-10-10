@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-10T02:15:20+09:00",
+  "checked_at": "2026-10-10T19:32:15+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -10,7 +10,9 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -22,7 +24,9 @@
       "first_run": false,
       "item_count": 60,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.kobesteelers.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -33,8 +37,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/news/2024/20240420_01/",
+          "title": "グッズ 2024年04月20日 会場をワイルドナイツブル―に染めろ ～王座奪還キャンペーン～実施のお知らせ ニュースを見る",
+          "date": "2024-04-20",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -45,9 +59,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/news/261010/",
+          "title": "2026-27シーズン公式戦ジャージーデザイン、およびオフィシャルパートナー決定のお知らせ",
+          "date": "2026-10-10",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://www.bravelupus.com/"
+        "https://www.bravelupus.com/",
+        "https://www.bravelupus.com/news/"
       ],
       "rename_signals": []
     },
@@ -150,7 +172,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -173,10 +198,22 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kyudenvoltex.com/news/930",
+          "title": "アカデミー 2025年11月18日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第21回",
+          "date": "2025-11-18",
+          "category": null
+        },
+        {
+          "url": "https://www.kyudenvoltex.com/news/929",
+          "title": "アカデミー 2025年11月17日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第20回",
+          "date": "2025-11-17",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://www.kyudenvoltex.com/",
-        "https://www.kyudenvoltex.com/news/"
+        "https://www.kyudenvoltex.com/"
       ],
       "rename_signals": []
     },
@@ -231,8 +268,27 @@
       "official_url": "https://hanazono-liners.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 28,
-      "new_items": [],
+      "item_count": 27,
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/result/match-2026-10-10-red-hurricanes/",
+          "title": "結果詳細を見る",
+          "date": "2026-10-10",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/10/10/f2627-cmtowel/",
+          "title": "2026.10.10 ファンクラブ イベント 【LINERS FANCLUB】2026-27シーズン 応援タオル デザイン決定のお知らせ",
+          "date": "2026-10-10",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/10/10/2026-27-season-communication/",
+          "title": "2026.10.10 その他 2026-27シーズン コミュニケーションメッセージ決定のお知らせ ​",
+          "date": "2026-10-10",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -273,7 +329,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 44,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261010-2/",
+          "title": "お知らせ 2026/10/10 10月23日（金）日豪50周年フレンドシップマッチのご案内",
+          "date": "2026-10-10",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -288,8 +351,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.rugguts.secom.co.jp/results/20260329.html",
+          "title": "NTTジャパンラグビー リーグワン 2025-26 D3 第10節 の試合結果を掲載しました。",
+          "date": "2026-03-29",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -300,19 +373,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 16,
-      "new_items": [
-        {
-          "url": "https://rrrfc.red/game/game-6774/",
-          "title": "MORE",
-          "date": "2026-10-10",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://rrrfc.red/",
-        "https://rrrfc.red/blog/",
-        "https://rrrfc.red/categories/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {

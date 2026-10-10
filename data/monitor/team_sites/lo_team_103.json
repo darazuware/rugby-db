@@ -3,28 +3,33 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-10T02:15:20+09:00",
+  "checked_at": "2026-10-10T19:32:15+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "a59c8ff600d615d2"
+      "hash": "95e024747310e93a"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "36ed78c9e624ecd9"
+      "hash": "b3d690e570585c96"
     }
   ],
   "items": [
     {
-      "url": "https://www.bravelupus.com/news/261009/",
-      "title": "新製品グッズ販売のお知らせ",
-      "date": "2026-10-09"
+      "url": "https://www.bravelupus.com/news/261010/",
+      "title": "2026-27シーズン公式戦ジャージーデザイン、およびオフィシャルパートナー決定のお知らせ",
+      "date": "2026-10-10"
     },
     {
       "url": "https://www.bravelupus.com/news/",
       "title": "記事一覧",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261009/",
+      "title": "新製品グッズ販売のお知らせ",
       "date": "2026-10-09"
     },
     {
@@ -216,11 +221,6 @@
       "url": "https://www.bravelupus.com/news/260707/",
       "title": "新宿区「令和７年度 親子ぜん息デイキャンプ」に参加しました",
       "date": "2026-07-07"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260702/",
-      "title": "ネーションズチャンピオンシップ2026 日本代表 対 イタリア代表 試合登録メンバーのお知らせ",
-      "date": "2026-07-02"
     },
     {
       "url": "https://www.bravelupus.com/game/https-www-bravelupus-com-game-ntt-japan-rugby-league-one-2025-26-play-offs-quarterfinal/",
