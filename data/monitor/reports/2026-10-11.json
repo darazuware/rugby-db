@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-11T01:02:13+09:00",
+  "checked_at": "2026-10-11T19:44:38+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -131,8 +131,21 @@
       "official_url": "https://www.shizuoka-bluerevs.com",
       "status": "ok",
       "first_run": false,
-      "item_count": 27,
-      "new_items": [],
+      "item_count": 29,
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3218",
+          "title": "2026.10.11[SUN] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（10/5～10/9）",
+          "date": "2026-10-11",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3215",
+          "title": "2026.10.11[SUN] HOST AREA 【ホストエリア活動】ラグビー経験者向けイベント「ブルーレヴズ ラグビー クリニック in 駿東」を実施しました",
+          "date": "2026-10-11",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -284,7 +297,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -296,9 +312,7 @@
       "first_run": false,
       "item_count": 15,
       "new_items": [],
-      "changed_pages": [
-        "https://rrrfc.red/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -358,7 +372,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54254",
+          "title": "女子日本代表候補 熊谷合宿 参加メンバーのお知らせ 2026.10.11 （日） 15人制女子日本代表 女子",
+          "date": "2026-10-11",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -372,7 +393,15 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54254",
+      "title": "女子日本代表候補 熊谷合宿 参加メンバーのお知らせ 2026.10.11 （日） 15人制女子日本代表 女子",
+      "date": "2026-10-11",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "三重ホンダヒート: 到達できるページがない: http://www.honda-heat.jp"
