@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-12T01:27:56+09:00",
+  "checked_at": "2026-10-12T20:50:45+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -10,9 +10,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://urayasu-d-rocks.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -59,7 +57,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4289/",
+          "title": "2026.10.12 イベント 【パートナー】10/25（日）CANTERBURY 名古屋店にて『一日店長イベント』開催のお知らせ",
+          "date": "2026-10-12",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://verblitz.toyotatimes-sports.toyota/"
       ],
@@ -189,7 +194,10 @@
       "item_count": 24,
       "new_items": [],
       "changed_pages": [
-        "https://blue-sharks.jp/"
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
       ],
       "rename_signals": []
     },
@@ -360,14 +368,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54253",
-          "title": "レポート：男子セブンズ・デベロップメント・スコッド(SDS) 福岡合宿 2026.10.11 （日） 男子セブンズ日本代表 セブンズ SDS 男子 男子セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド",
-          "date": "2026-10-11",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -381,15 +382,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54253",
-      "title": "レポート：男子セブンズ・デベロップメント・スコッド(SDS) 福岡合宿 2026.10.11 （日） 男子セブンズ日本代表 セブンズ SDS 男子 男子セブンズ 男子セブンズ・デベロップメント・スコッド セブンズ・デベロップメント・スコッド",
-      "date": "2026-10-11",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": [
     "三重ホンダヒート: 到達できるページがない: http://www.honda-heat.jp"
