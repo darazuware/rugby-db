@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T04:35:38+09:00",
+  "checked_at": "2026-10-13T17:53:42+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6196",
+          "title": "クラブ 川越狭山セコムラガッツ、2026-27シーズン新スタッフ加入のお知らせ 2026.10.13",
+          "date": "2026-10-13",
+          "category": "roster"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,7 +26,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54257",
+          "title": "男子セブンズユース日本代表 第4回ユースオリンピック競技大会出場決定および直前合宿・遠征スケジュールと出場メンバーのお知らせ 2026.10.13 （火） セブンズ 高校 男子 男子セブンズ 男子セブンズユース日本代表 ユース日本代表 オリンピック",
+          "date": "2026-10-13",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54250",
+          "title": "日本ラグビーフットボール協会100周年 「感謝と未来のフォーラム～NOSIDE（ノーサイド）を社会へ。共創社会に向けた価値の再定義～」を開催 2026.10.13 （火）",
+          "date": "2026-10-13",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +53,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6196",
+      "title": "クラブ 川越狭山セコムラガッツ、2026-27シーズン新スタッフ加入のお知らせ 2026.10.13",
+      "date": "2026-10-13",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54257",
+      "title": "男子セブンズユース日本代表 第4回ユースオリンピック競技大会出場決定および直前合宿・遠征スケジュールと出場メンバーのお知らせ 2026.10.13 （火） セブンズ 高校 男子 男子セブンズ 男子セブンズユース日本代表 ユース日本代表 オリンピック",
+      "date": "2026-10-13",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }
