@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-13T20:38:47+09:00",
+  "checked_at": "2026-10-14T02:52:09+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "abf6ad5ed77e0225"
+      "hash": "f890ffec8091535f"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "304cd53afa63ddb6"
+      "hash": "0babd6b5d5b4e823"
     }
   ],
   "items": [
@@ -35,6 +35,16 @@
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/category/community/",
+      "title": "地域貢献",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261013-3/",
+      "title": "地域貢献 2026/10/13 【地域活動報告】昭島駅周辺清掃活動",
       "date": "2026-10-13"
     },
     {
@@ -68,11 +78,6 @@
       "date": "2026-10-03"
     },
     {
-      "url": "https://www.kurita-watergush.jp/category/community/",
-      "title": "地域貢献",
-      "date": "2026-10-01"
-    },
-    {
       "url": "https://www.kurita-watergush.jp/20261001-2/",
       "title": "地域貢献 2026/10/01 【地域活動報告】児童の登校見守り活動",
       "date": "2026-10-01"
@@ -89,7 +94,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20260928-2/",
-      "title": "地域貢献 2026/09/28 【イベント報告】モリタウン チームPR活動実施",
+      "title": "地域貢献 公開日：2026/09/28 【イベント報告】モリタウン チームPR活動実施 （前列左から：河井祐樹、伊藤森心、横田大輝、山﨑海、後列左から：楠大輝、小山田裕悟、柳田翔吾、井口… 続きを読む",
       "date": "2026-09-28"
     },
     {
@@ -231,11 +236,6 @@
       "url": "https://www.kurita-watergush.jp/20260210-2/",
       "title": "お知らせ 公開日：2026/02/10 第7節2月21日(土) マツダスカイアクティブズ広島戦 ホストゲームイベントのご案内（※2月21日更新） 2月21日(土) リーグワンD3 第7節 マツダスカイアクティブズ広島戦のホストゲームイベントをお知らせいたし… 続きを読む",
       "date": "2026-02-10"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260127-2/",
-      "title": "お知らせ 公開日：2026/01/27 2025-26シーズン 新加入選手のお知らせ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 この度、2025-2… 続きを読む",
-      "date": "2026-01-27"
     }
   ]
 }
