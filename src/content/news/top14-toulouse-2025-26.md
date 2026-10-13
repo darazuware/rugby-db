@@ -23,17 +23,17 @@ tags: ["Top14", "チーム紹介", "2025-26", "トゥールーズ"]
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| Antoine DUPONT | アントワーヌ・デュポン | スクラムハーフ | [フランス代表](/national-teams/france/) | 75 |
-| Cyril BAILLE | シリル・バイユ | プロップ | [フランス代表](/national-teams/france/) | 55 |
-| Julien MARCHAND | ジュリアン・マルシャン | フッカー | [フランス代表](/national-teams/france/) | 50 |
-| Romain NTAMACK | ロマン・タマック | フライハーフ | フランス代表 | 50 |
-| Thibaud FLAMENT | ティボー・フラマン | セカンドロー | フランス代表 | 25 |
-| François CROS | フランソワ・クロ | バックロー | フランス代表 | 25 |
-| Anthony JELONCH | アンソニー・ジェロンシュ | バックロー | フランス代表 | 20 |
-| Emmanuel MEAFOU | エマニュエル・メアフー | セカンドロー | フランス代表 | 15 |
-| Jack WILLIS | ジャック・ウィリス | バックロー | [イングランド代表](/national-teams/england/) | 15 |
-| Thomas RAMOS | トマ・ラモス | フルバック | フランス代表 | 40 |
-| Naoto SAITO | 斎藤直人 | スクラムハーフ | [日本代表](/national-teams/japan/) | 40 |
+| Antoine DUPONT | アントワーヌ・デュポン | スクラムハーフ | [フランス代表](/national-teams/france/) | 64 |
+| Cyril BAILLE | シリル・バイユ | プロップ | [フランス代表](/national-teams/france/) | 57 |
+| Julien MARCHAND | ジュリアン・マルシャン | フッカー | [フランス代表](/national-teams/france/) | 53 |
+| Romain NTAMACK | ロマン・タマック | フライハーフ | フランス代表 | 43 |
+| Thibaud FLAMENT | ティボー・フラマン | セカンドロー | フランス代表 | 38 |
+| François CROS | フランソワ・クロ | バックロー | フランス代表 | 44 |
+| Anthony JELONCH | アンソニー・ジェロンシュ | バックロー | フランス代表 | 40 |
+| Emmanuel MEAFOU | エマニュエル・メアフー | セカンドロー | フランス代表 | 16 |
+| Jack WILLIS | ジャック・ウィリス | バックロー | [イングランド代表](/national-teams/england/) | 14 |
+| Thomas RAMOS | トマ・ラモス | フルバック | フランス代表 | 52 |
+| Naoto SAITO | 斎藤直人 | スクラムハーフ | [日本代表](/national-teams/japan/) | — |
 
 ## その他在籍選手（2025-26シーズン）
 
