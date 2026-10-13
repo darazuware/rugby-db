@@ -23,15 +23,15 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "サラセンズ"]
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| Owen FARRELL | オーウェン・ファレル | フライハーフ | [イングランド代表](/national-teams/england/) | 107 |
-| Maro ITOJE | マロ・イトジェ | ロック | [イングランド代表](/national-teams/england/) | 80 |
-| Nick TOMPKINS | ニック・トンプキンス | センター | [ウェールズ代表](/national-teams/wales/) | 38 |
-| Marco RICCIONI | マルコ・リッチョーニ | プロップ | [イタリア代表](/national-teams/italy/) | 31 |
-| Eroni MAWI | エロニ・マウィ | プロップ | [フィジー代表](/national-teams/fiji/) | 25 |
-| Max MALINS | マックス・マリンズ | ウィング | [イングランド代表](/national-teams/england/) | 21 |
-| Lucio CINTI | ルシオ・チンティ | センター | [アルゼンチン代表](/national-teams/argentina/) | 16 |
-| Nick ISIEKWE | ニック・イシェクウェ | ロック | イングランド代表 | 11 |
-| Theo MCFARLAND | テオ・マクファーランド | フランカー | [サモア代表](/national-teams/samoa/) | 7 |
+| Owen FARRELL | オーウェン・ファレル | フライハーフ | [イングランド代表](/national-teams/england/) | 112 |
+| Maro ITOJE | マロ・イトジェ | ロック | [イングランド代表](/national-teams/england/) | 102 |
+| Nick TOMPKINS | ニック・トンプキンス | センター | [ウェールズ代表](/national-teams/wales/) | 43 |
+| Marco RICCIONI | マルコ・リッチョーニ | プロップ | [イタリア代表](/national-teams/italy/) | 39 |
+| Eroni MAWI | エロニ・マウィ | プロップ | [フィジー代表](/national-teams/fiji/) | 50 |
+| Max MALINS | マックス・マリンズ | ウィング | [イングランド代表](/national-teams/england/) | 22 |
+| Lucio CINTI | ルシオ・チンティ | センター | [アルゼンチン代表](/national-teams/argentina/) | 39 |
+| Nick ISIEKWE | ニック・イシェクウェ | ロック | イングランド代表 | 15 |
+| Theo MCFARLAND | テオ・マクファーランド | フランカー | [サモア代表](/national-teams/samoa/) | 19 |
 | Theo DAN | テオ・ダン | フッカー | イングランド代表 | 20 |
 | Alex LOZOWSKI | アレックス・ロゾウスキー | センター | イングランド代表 | 5 |
 
@@ -50,4 +50,4 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "サラセンズ"]
 | Juan Martín GONZÁLEZ | フアン・マルティン・ゴンサレス | フランカー |
 
 ---
-*データ基準日: 2026-04-22*
+*データ基準日: 2026-10-14*

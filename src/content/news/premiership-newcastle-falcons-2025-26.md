@@ -23,9 +23,9 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "ニューカッ�
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| Liam WILLIAMS | リアム・ウィリアムズ | フルバック | [ウェールズ代表](/national-teams/wales/) | 92 |
-| Eduardo BELLO | エドゥアルド・ベロ | プロップ | [アルゼンチン代表](/national-teams/argentina/) | 14 |
-| Amanaki MAFI | アマナキ・マフィ | フランカー | [日本代表](/national-teams/japan/) | 36 |
+| Liam WILLIAMS | リアム・ウィリアムズ | フルバック | [ウェールズ代表](/national-teams/wales/) | 93 |
+| Eduardo BELLO | エドゥアルド・ベロ | プロップ | [アルゼンチン代表](/national-teams/argentina/) | 26 |
+| Amanaki MAFI | アマナキ・マフィ | No.8 | [日本代表](/national-teams/japan/) | 29 |
 
 ## その他在籍選手（2025-26シーズン）
 
@@ -40,4 +40,4 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "ニューカッ�
 | Ethan GRAYSON | イーサン・グレイソン | フライハーフ |
 
 ---
-*データ基準日: 2026-04-22*
+*データ基準日: 2026-10-14*

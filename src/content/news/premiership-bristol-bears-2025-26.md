@@ -23,15 +23,15 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "ブリストル�
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| Ellis GENGE | エリス・ゲンジ | プロップ | [イングランド代表](/national-teams/england/) | 62 |
-| Harry RANDALL | ハリー・ランダル | スクラムハーフ | [イングランド代表](/national-teams/england/) | 11 |
-| Louis REES-ZAMMIT | ルイス・リース=ザミット | ウィング | [ウェールズ代表](/national-teams/wales/) | 27 |
-| AJ MACGINTY | AJマクギンティ | フライハーフ | [アメリカ代表](/national-teams/usa/) | 24 |
-| Santiago GRONDONA | サンティアゴ・グロンドーナ | フランカー | [アルゼンチン代表](/national-teams/argentina/) | 15 |
-| Kalaveti RAVOUVOU | カラヴェティ・ラヴォウヴォウ | センター | [フィジー代表](/national-teams/fiji/) | 6 |
-| Pedro RUBIOLO | ペドロ・ルビオロ | ロック | [アルゼンチン代表](/national-teams/argentina/) | 5 |
-| Luka IVANISHVILI | ルカ・イヴァニシュヴィリ | フランカー | [ジョージア代表](/national-teams/georgia/) | 7 |
-| Tom JORDAN | トム・ジョーダン | センター | [スコットランド代表](/national-teams/scotland/) | 3 |
+| Ellis GENGE | エリス・ゲンジ | プロップ | [イングランド代表](/national-teams/england/) | 83 |
+| Harry RANDALL | ハリー・ランダル | スクラムハーフ | [イングランド代表](/national-teams/england/) | 14 |
+| Louis REES-ZAMMIT | ルイス・リース=ザミット | ウィング | [ウェールズ代表](/national-teams/wales/) | 43 |
+| AJ MACGINTY | AJマクギンティ | フライハーフ | [アメリカ代表](/national-teams/usa/) | 43 |
+| Santiago GRONDONA | サンティアゴ・グロンドーナ | フランカー | [アルゼンチン代表](/national-teams/argentina/) | 25 |
+| Kalaveti RAVOUVOU | カラヴェティ・ラヴォウヴォウ | センター | [フィジー代表](/national-teams/fiji/) | 12 |
+| Pedro RUBIOLO | ペドロ・ルビオロ | ロック | [アルゼンチン代表](/national-teams/argentina/) | 31 |
+| Luka IVANISHVILI | ルカ・イヴァニシュヴィリ | フランカー | [ジョージア代表](/national-teams/georgia/) | 23 |
+| Tom JORDAN | トム・ジョーダン | センター | [スコットランド代表](/national-teams/scotland/) | 20 |
 
 ## その他在籍選手（2025-26シーズン）
 
@@ -48,4 +48,4 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "ブリストル�
 | Sam WORSLEY | サム・ウォーズリー | フライハーフ |
 
 ---
-*データ基準日: 2026-04-22*
+*データ基準日: 2026-10-14*

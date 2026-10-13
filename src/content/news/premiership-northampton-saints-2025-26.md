@@ -23,17 +23,17 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "ノーサンプ�
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| Alex MITCHELL | アレックス・ミッチェル | スクラムハーフ | [イングランド代表](/national-teams/england/) | 18 |
-| Tommy FREEMAN | トミー・フリーマン | ウィング | [イングランド代表](/national-teams/england/) | 16 |
-| Fin SMITH | フィン・スミス | フライハーフ | イングランド代表 | 6 |
-| George FURBANK | ジョージ・ファーバンク | フルバック | イングランド代表 | 6 |
-| Alex COLES | アレックス・コールズ | ロック | イングランド代表 | 7 |
-| Ollie SLEIGHTHOLME | オリー・スレイトホルム | ウィング | イングランド代表 | 5 |
-| Danilo FISCHETTI | ダニーロ・フィスケッティ | プロップ | [イタリア代表](/national-teams/italy/) | 48 |
-| Rory HUTCHINSON | ロリー・ハッチンソン | センター | [スコットランド代表](/national-teams/scotland/) | 8 |
-| Fraser DINGWALL | フレイザー・ディンウォール | センター | イングランド代表 | 2 |
-| Henry POLLOCK | ヘンリー・ポロック | フランカー | イングランド代表 | 10 |
-| Curtis LANGDON | カーティス・ラングドン | フッカー | イングランド代表 | 2 |
+| Alex MITCHELL | アレックス・ミッチェル | スクラムハーフ | [イングランド代表](/national-teams/england/) | 32 |
+| Tommy FREEMAN | トミー・フリーマン | ウィング | [イングランド代表](/national-teams/england/) | 30 |
+| Fin SMITH | フィン・スミス | フライハーフ | イングランド代表 | 19 |
+| George FURBANK | ジョージ・ファーバンク | フルバック | イングランド代表 | 14 |
+| Alex COLES | アレックス・コールズ | ロック | イングランド代表 | 22 |
+| Ollie SLEIGHTHOLME | オリー・スレイトホルム | ウィング | イングランド代表 | 8 |
+| Danilo FISCHETTI | ダニーロ・フィスケッティ | プロップ | [イタリア代表](/national-teams/italy/) | 66 |
+| Rory HUTCHINSON | ロリー・ハッチンソン | センター | [スコットランド代表](/national-teams/scotland/) | 13 |
+| Fraser DINGWALL | フレイザー・ディンウォール | センター | イングランド代表 | 7 |
+| Henry POLLOCK | ヘンリー・ポロック | フランカー | イングランド代表 | 13 |
+| Curtis LANGDON | カーティス・ラングドン | フッカー | イングランド代表 | 4 |
 
 ## その他在籍選手（2025-26シーズン）
 
@@ -50,4 +50,4 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "ノーサンプ�
 | James RAMM | ジェームズ・ラム | ウィング |
 
 ---
-*データ基準日: 2026-04-22*
+*データ基準日: 2026-10-14*

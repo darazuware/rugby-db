@@ -17,23 +17,23 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "レスター・�
 
 ## チームの歴史と特徴
 
-1880年創設の[レスター・タイガーズ](/teams/premiership/leicester-tigers/)はプレミアシップ最多11回優勝の名門中の名門。ウェルフォード・ロードは英国最大級の収容規模と熱狂的な雰囲気を誇り、ホームアドバンテージが際立つ。2000-01・2001-02シーズンの欧州ハイネケンカップ2連覇は北半球ラグビー史に刻まれた偉業。2021-22シーズンには9季ぶりのプレミアシップ制覇で名門の復権を証明した。フレディ・スチュワードやジョージ・マーティンら若き[イングランド代表](/national-teams/england/)が次世代を担い、伝統と革新が共存する強豪として国際舞台でも存在感を示す。
+1880年創設の[レスター・タイガーズ](/teams/premiership/leicester-tigers/)はプレミアシップ最多11回優勝の名門中の名門。ウェルフォード・ロードはイングランド最大のクラブ専用ラグビー場として熱狂的な雰囲気を誇り、ホームアドバンテージが際立つ。2000-01・2001-02シーズンの欧州ハイネケンカップ2連覇は北半球ラグビー史に刻まれた偉業。2021-22シーズンには9季ぶりのプレミアシップ制覇で名門の復権を証明した。フレディ・スチュワードやジョージ・マーティンら若き[イングランド代表](/national-teams/england/)が次世代を担い、伝統と革新が共存する強豪として国際舞台でも存在感を示す。
 
 ## 代表経験あり選手（2025-26シーズン）
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| Freddie STEWARD | フレディ・スチュワード | フルバック | [イングランド代表](/national-teams/england/) | 35 |
-| George MARTIN | ジョージ・マーティン | ロック | [イングランド代表](/national-teams/england/) | 19 |
-| Ollie CHESSUM | オリー・チェッサム | ロック | イングランド代表 | 23 |
-| Jack VAN POORTVLIET | ジャック・ファン・ポールトフリート | スクラムハーフ | イングランド代表 | 16 |
-| James O'CONNOR | ジェームズ・オコナー | フライハーフ | [オーストラリア代表](/national-teams/australia/) | 48 |
-| Tommy REFFELL | トミー・リフェル | フランカー | [ウェールズ代表](/national-teams/wales/) | 23 |
-| Nicky SMITH | ニッキー・スミス | プロップ | [ウェールズ代表](/national-teams/wales/) | 49 |
-| Joe HEYES | ジョー・ヘイズ | プロップ | イングランド代表 | 7 |
-| Izaia PERESE | イザイア・ペレセ | センター | [オーストラリア代表](/national-teams/australia/) | 5 |
-| Will HURD | ウィル・ハード | プロップ | [スコットランド代表](/national-teams/scotland/) | 4 |
-| Solomone KATA | ソロモネ・カタ | センター | [トンガ代表](/national-teams/tonga/) | 9 |
+| Freddie STEWARD | フレディ・スチュワード | フルバック | [イングランド代表](/national-teams/england/) | 44 |
+| George MARTIN | ジョージ・マーティン | ロック | [イングランド代表](/national-teams/england/) | 24 |
+| Ollie CHESSUM | オリー・チェッサム | ロック | イングランド代表 | 38 |
+| Jack VAN POORTVLIET | ジャック・ファン・ポールトフリート | スクラムハーフ | イングランド代表 | 27 |
+| James O'CONNOR | ジェームズ・オコナー | フライハーフ | [オーストラリア代表](/national-teams/australia/) | 71 |
+| Tommy REFFELL | トミー・リフェル | フランカー | [ウェールズ代表](/national-teams/wales/) | 30 |
+| Nicky SMITH | ニッキー・スミス | プロップ | [ウェールズ代表](/national-teams/wales/) | 66 |
+| Joe HEYES | ジョー・ヘイズ | プロップ | イングランド代表 | 25 |
+| Izaia PERESE | イザイア・ペレセ | センター | [オーストラリア代表](/national-teams/australia/) | 6 |
+| Will HURD | ウィル・ハード | プロップ | [スコットランド代表](/national-teams/scotland/) | 11 |
+| Solomone KATA | ソロモネ・カタ | センター | [トンガ代表](/national-teams/tonga/) | 13 |
 
 ## その他在籍選手（2025-26シーズン）
 
@@ -50,4 +50,4 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "レスター・�
 | Orlando BAILEY | オーランド・ベイリー | フライハーフ |
 
 ---
-*データ基準日: 2026-04-22*
+*データ基準日: 2026-10-14*

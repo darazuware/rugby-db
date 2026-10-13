@@ -23,20 +23,20 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "バース"]
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| Finn RUSSELL | フィン・ラッセル | フライハーフ | [スコットランド代表](/national-teams/scotland/) | 82 |
-| Ollie LAWRENCE | オリー・ローレンス | センター | [イングランド代表](/national-teams/england/) | 31 |
-| Will STUART | ウィル・スチュアート | プロップ | [イングランド代表](/national-teams/england/) | 45 |
-| Charlie EWELS | チャーリー・エウェルズ | ロック | [イングランド代表](/national-teams/england/) | 30 |
-| Sam UNDERHILL | サム・アンダーヒル | フランカー | イングランド代表 | 30 |
-| Chris HARRIS | クリス・ハリス | センター | [スコットランド代表](/national-teams/scotland/) | 44 |
-| Cameron REDPATH | キャメロン・レッドパス | センター | スコットランド代表 | 9 |
-| Josh BAYLISS | ジョシュ・ベイリス | フランカー | スコットランド代表 | 10 |
-| Joe COKANASIGA | ジョー・コカナシガ | ウィング | イングランド代表 | 8 |
-| Henry ARUNDELL | ヘンリー・アランデル | フルバック | イングランド代表 | 8 |
-| Thomas DU TOIT | トーマス・デュ・トワ | プロップ | [南アフリカ代表](/national-teams/south-africa/) | 10 |
-| Ted HILL | テッド・ヒル | フランカー | イングランド代表 | 2 |
-| Ben SPENCER | ベン・スペンサー | スクラムハーフ | イングランド代表 | 4 |
-| Beno OBANO | ベノ・オバノ | プロップ | イングランド代表 | 3 |
+| Finn RUSSELL | フィン・ラッセル | フライハーフ | [スコットランド代表](/national-teams/scotland/) | 95 |
+| Ollie LAWRENCE | オリー・ローレンス | センター | [イングランド代表](/national-teams/england/) | 37 |
+| Will STUART | ウィル・スチュアート | プロップ | [イングランド代表](/national-teams/england/) | 53 |
+| Charlie EWELS | チャーリー・エウェルズ | ロック | [イングランド代表](/national-teams/england/) | 35 |
+| Sam UNDERHILL | サム・アンダーヒル | フランカー | イングランド代表 | 50 |
+| Chris HARRIS | クリス・ハリス | センター | [スコットランド代表](/national-teams/scotland/) | 46 |
+| Cameron REDPATH | キャメロン・レッドパス | センター | スコットランド代表 | 15 |
+| Josh BAYLISS | ジョシュ・ベイリス | フランカー | スコットランド代表 | 18 |
+| Joe COKANASIGA | ジョー・コカナシガ | ウィング | イングランド代表 | 16 |
+| Henry ARUNDELL | ヘンリー・アランデル | フルバック | イングランド代表 | 13 |
+| Thomas DU TOIT | トーマス・デュ・トワ | プロップ | [南アフリカ代表](/national-teams/south-africa/) | 32 |
+| Ted HILL | テッド・ヒル | フランカー | イングランド代表 | 5 |
+| Ben SPENCER | ベン・スペンサー | スクラムハーフ | イングランド代表 | 19 |
+| Beno OBANO | ベノ・オバノ | プロップ | イングランド代表 | 5 |
 | Santiago CARRERAS | サンティアゴ・カレラス | フライハーフ | [アルゼンチン代表](/national-teams/argentina/) | 64 |
 
 ## その他在籍選手（2025-26シーズン）
@@ -64,4 +64,4 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "バース"]
 | Charlie GRIFFIN | チャーリー・グリフィン | ウィング |
 
 ---
-*データ基準日: 2026-04-22*
+*データ基準日: 2026-10-14*

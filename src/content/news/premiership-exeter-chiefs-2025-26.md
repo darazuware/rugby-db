@@ -23,14 +23,14 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "エクセター�
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| Henry SLADE | ヘンリー・スレイド | センター | [イングランド代表](/national-teams/england/) | 55 |
-| Scott SIO | スコット・シオ | プロップ | [オーストラリア代表](/national-teams/australia/) | 59 |
-| Stephen VARNEY | スティーブン・ヴァーニー | スクラムハーフ | [イタリア代表](/national-teams/italy/) | 30 |
-| Dafydd JENKINS | ダフィッド・ジェンキンス | ロック | [ウェールズ代表](/national-teams/wales/) | 19 |
+| Henry SLADE | ヘンリー・スレイド | センター | [イングランド代表](/national-teams/england/) | 77 |
+| Scott SIO | スコット・シオ | プロップ | [オーストラリア代表](/national-teams/australia/) | 74 |
+| Stephen VARNEY | スティーブン・ヴァーニー | スクラムハーフ | [イタリア代表](/national-teams/italy/) | 39 |
+| Dafydd JENKINS | ダフィッド・ジェンキンス | ロック | [ウェールズ代表](/national-teams/wales/) | 31 |
 | Christ TSHIUNZA | クライスト・チウンザ | ロック | [ウェールズ代表](/national-teams/wales/) | 15 |
-| Ross VINTCENT | ロス・ヴィントセント | フランカー | [イタリア代表](/national-teams/italy/) | 10 |
-| Tom HOOPER | トム・フーパー | フランカー | [オーストラリア代表](/national-teams/australia/) | 4 |
-| Andrea ZAMBONIN | アンドレア・ザンボニン | ロック | [イタリア代表](/national-teams/italy/) | 3 |
+| Ross VINTCENT | ロス・ヴィントセント | フランカー | [イタリア代表](/national-teams/italy/) | 22 |
+| Tom HOOPER | トム・フーパー | フランカー | [オーストラリア代表](/national-teams/australia/) | 25 |
+| Andrea ZAMBONIN | アンドレア・ザンボニン | ロック | [イタリア代表](/national-teams/italy/) | 21 |
 
 ## その他在籍選手（2025-26シーズン）
 
@@ -47,4 +47,4 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "エクセター�
 | Tom WYATT | トム・ワイアット | ウィング |
 
 ---
-*データ基準日: 2026-04-22*
+*データ基準日: 2026-10-14*

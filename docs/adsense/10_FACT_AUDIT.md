@@ -225,3 +225,185 @@
 - 削除：16件（overseas 6／gear 1／glossary 2／watching-goods 2／rwc2027 2／vpn 3）
 - 要判断：1件（vpn-for-rugby-overseas.md の記事前提が配信各社の公式案内と矛盾）
 
+## Premiership
+
+# 事実監査結果：プレミアシップ
+
+### src/content/teams/premiership/bath-rugby.md — 問題なし（検証4件）
+### src/content/teams/premiership/bristol-bears.md — 問題なし（検証7件）
+### src/content/teams/premiership/exeter-chiefs.md — 問題なし（検証4件）
+### src/content/teams/premiership/gloucester-rugby.md — 問題なし（検証5件）
+### src/content/teams/premiership/harlequins.md — 問題なし（検証7件）
+
+### src/content/teams/premiership/leicester-tigers.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | ウェルフォード・ロードは英国最大級の収容規模 | イングランド最大のクラブ専用ラグビー場として | https://en.wikipedia.org/wiki/Welford_Road_Stadium |
+
+### src/content/teams/premiership/newcastle-red-bulls.md — 問題なし（検証8件）
+### src/content/teams/premiership/northampton-saints.md — 問題なし（検証5件）
+### src/content/teams/premiership/sale-sharks.md — 問題なし（検証6件）
+### src/content/teams/premiership/saracens.md — 問題なし（検証7件）
+
+### src/content/news/premiership-bath-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | ラッセル caps 82 | 95 | https://en.wikipedia.org/wiki/Finn_Russell |
+| 修正 | ローレンス caps 31 | 37 | https://en.wikipedia.org/wiki/Ollie_Lawrence |
+| 修正 | スチュアート caps 45 | 53 | https://en.wikipedia.org/wiki/Will_Stuart |
+| 修正 | エウェルズ caps 30 | 35 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | アンダーヒル caps 30 | 50 | https://en.wikipedia.org/wiki/Sam_Underhill |
+| 修正 | C.ハリス caps 44 | 46 | https://en.wikipedia.org/wiki/Chris_Harris_(rugby_union) |
+| 修正 | レッドパス caps 9 | 15 | https://en.wikipedia.org/wiki/Cameron_Redpath |
+| 修正 | ベイリス caps 10 | 18 | https://en.wikipedia.org/wiki/Scotland_national_rugby_union_team |
+| 修正 | コカナシガ caps 8 | 16 | https://en.wikipedia.org/wiki/Joe_Cokanasiga |
+| 修正 | アランデル caps 8 | 13 | https://en.wikipedia.org/wiki/Henry_Arundell |
+| 修正 | デュ・トワ caps 10 | 32 | https://en.wikipedia.org/wiki/Thomas_du_Toit |
+| 修正 | T.ヒル caps 2 | 5 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | スペンサー caps 4 | 19 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | オバノ caps 3 | 5 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | データ基準日 2026-04-22 | 2026-10-14（caps更新に合わせ） | — |
+
+（在籍確認：https://en.wikipedia.org/wiki/Bath_Rugby / List_of_2025–26・2026–27_Premiership_Rugby_transfers。S.ウィンターズは https://en.wikipedia.org/wiki/Sam_Winters 。カラーは bathrugby.com 「Blue, Black and White」で確認）
+
+### src/content/news/premiership-bristol-bears-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | ゲンジ caps 62 | 83 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | ランダル caps 11 | 14 | https://en.wikipedia.org/wiki/Harry_Randall_(rugby_union) |
+| 修正 | リース=ザミット caps 27 | 43 | https://en.wikipedia.org/wiki/Wales_national_rugby_union_team |
+| 修正 | マクギンティ caps 24 | 43 | https://en.wikipedia.org/wiki/AJ_MacGinty |
+| 修正 | S.グロンドーナ caps 15 | 25 | https://en.wikipedia.org/wiki/Santiago_Grondona |
+| 修正 | ラヴォウヴォウ caps 6 | 12 | https://en.wikipedia.org/wiki/Kalaveti_Ravouvou |
+| 修正 | ルビオロ caps 5 | 31 | https://en.wikipedia.org/wiki/Pedro_Rubiolo |
+| 修正 | イヴァニシュヴィリ caps 7 | 23 | https://en.wikipedia.org/wiki/Luka_Ivanishvili |
+| 修正 | ジョーダン caps 3 | 20 | https://en.wikipedia.org/wiki/Tom_Jordan_(rugby_union) |
+| 修正 | データ基準日 2026-04-22 | 2026-10-14 | — |
+
+### src/content/news/premiership-exeter-chiefs-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | スレイド caps 55 | 77 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | シオ caps 59 | 74（豪州代表分） | https://en.wikipedia.org/wiki/Scott_Sio |
+| 修正 | ヴァーニー caps 30 | 39 | https://en.wikipedia.org/wiki/Stephen_Varney |
+| 修正 | D.ジェンキンス caps 19 | 31 | https://en.wikipedia.org/wiki/Dafydd_Jenkins_(rugby_union) |
+| 修正 | ヴィントセント caps 10 | 22 | https://en.wikipedia.org/wiki/Ross_Vintcent |
+| 修正 | フーパー caps 4 | 25 | https://en.wikipedia.org/wiki/Tom_Hooper_(rugby_union) |
+| 修正 | ザンボニン caps 3 | 21 | https://en.wikipedia.org/wiki/Andrea_Zambonin |
+| 修正 | データ基準日 2026-04-22 | 2026-10-14 | — |
+
+### src/content/news/premiership-gloucester-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | T.ウィリアムズ caps 59 | 75 | https://en.wikipedia.org/wiki/Wales_national_rugby_union_team |
+| 修正 | ラウラーラ caps 49 | 53 | https://en.wikipedia.org/wiki/Nepo_Laulala |
+| 修正 | R.バーン caps 21 | 22 | https://en.wikipedia.org/wiki/Ross_Byrne |
+| 修正 | シングルトン caps 2 | 4 | https://en.wikipedia.org/wiki/Jack_Singleton |
+| 修正 | ハサウェイ caps 2 | 1 | https://en.wikipedia.org/wiki/Josh_Hathaway |
+| 修正 | ルウェリン caps 5 | 13 | https://en.wikipedia.org/wiki/Max_Llewellyn_(rugby_union) |
+| 修正 | F.トーマス caps 1 | 8 | https://en.wikipedia.org/wiki/Freddie_Thomas_(rugby_union) |
+| 修正 | データ基準日 2026-04-22 | 2026-10-14 | — |
+
+### src/content/news/premiership-harlequins-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | title「イングランド最古の名門」（1866年創設で最古ではない） | 「RFU創設メンバーの名門」 | https://en.wikipedia.org/wiki/Harlequin_F.C. |
+| 修正 | ライトブルー・クリムゾン・ブラック・オレンジ | チョコレートブラウン、フレンチグレー、マゼンタ、ライトブルー | https://en.wikipedia.org/wiki/Harlequin_F.C. |
+| 修正 | M.スミス caps 35 | 53 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | ランチベリー caps 61 | 70 | https://en.wikipedia.org/wiki/Joe_Launchbury |
+| 修正 | ドンブラント caps 20 | 23 | https://en.wikipedia.org/wiki/Alex_Dombrandt |
+| 修正 | ペッティ caps 75 | 97 | https://en.wikipedia.org/wiki/Guido_Petti |
+| 修正 | G.ターナー caps 40 | 50 | https://en.wikipedia.org/wiki/George_Turner_(rugby_union) |
+| 修正 | カニンガム=サウス caps 11 | 23 | https://en.wikipedia.org/wiki/Chandler_Cunningham-South |
+| 修正 | ラモシテレ caps 28 | 32（米国代表分） | https://en.wikipedia.org/wiki/Titi_Lamositele |
+| 修正 | J.エヴァンス caps 8 | 19 | https://en.wikipedia.org/wiki/Jarrod_Evans |
+| 修正 | データ基準日 2026-04-22 | 2026-10-14 | — |
+
+（主将ドンブラント2025-26は https://en.wikipedia.org/wiki/2025–26_Premiership_Rugby で確認）
+
+### src/content/news/premiership-leicester-tigers-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | ウェルフォード・ロードは英国最大級の収容規模 | イングランド最大のクラブ専用ラグビー場として | https://en.wikipedia.org/wiki/Welford_Road_Stadium |
+| 修正 | スチュワード caps 35 | 44 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | G.マーティン caps 19 | 24 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | チェッサム caps 23 | 38 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | ファン・ポールトフリート caps 16 | 27 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | オコナー caps 48 | 71 | https://en.wikipedia.org/wiki/James_O'Connor_(rugby_union) |
+| 修正 | リフェル caps 23 | 30 | https://en.wikipedia.org/wiki/Wales_national_rugby_union_team |
+| 修正 | N.スミス caps 49 | 66 | https://en.wikipedia.org/wiki/Wales_national_rugby_union_team |
+| 修正 | ヘイズ caps 7 | 25 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | ペレセ caps 5 | 6 | https://en.wikipedia.org/wiki/Izaia_Perese |
+| 修正 | ハード caps 4 | 11 | https://en.wikipedia.org/wiki/Scotland_national_rugby_union_team |
+| 修正 | カタ caps 9 | 13 | https://en.wikipedia.org/wiki/Solomone_Kata |
+| 修正 | データ基準日 2026-04-22 | 2026-10-14 | — |
+
+### src/content/news/premiership-newcastle-falcons-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | L.ウィリアムズ caps 92 | 93 | https://en.wikipedia.org/wiki/Liam_Williams_(rugby_union) |
+| 修正 | ベロ caps 14 | 26 | https://en.wikipedia.org/wiki/Eduardo_Bello |
+| 修正 | マフィ フランカー / caps 36 | No.8 / 29 | https://en.wikipedia.org/wiki/Amanaki_Mafi |
+| 修正 | データ基準日 2026-04-22 | 2026-10-14 | — |
+
+（畠山健介の在籍は https://en.wikipedia.org/wiki/Kensuke_Hatakeyama 、レッドブル買収・改称は https://en.wikipedia.org/wiki/Newcastle_Red_Bulls で確認。L.ウィリアムズは2026年3月に現役引退だが2025-26在籍は事実）
+
+### src/content/news/premiership-northampton-saints-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | ミッチェル caps 18 | 32 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | フリーマン caps 16 | 30 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | F.スミス caps 6 | 19 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | ファーバンク caps 6 | 14 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | コールズ caps 7 | 22 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | スレイトホルム caps 5 | 8 | https://en.wikipedia.org/wiki/Ollie_Sleightholme |
+| 修正 | フィスケッティ caps 48 | 66 | https://en.wikipedia.org/wiki/Danilo_Fischetti |
+| 修正 | ハッチンソン caps 8 | 13 | https://en.wikipedia.org/wiki/Scotland_national_rugby_union_team |
+| 修正 | ディンウォール caps 2 | 7 | https://en.wikipedia.org/wiki/Fraser_Dingwall |
+| 修正 | ポロック caps 10 | 13 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | ラングドン caps 2 | 4 | https://en.wikipedia.org/wiki/Curtis_Langdon |
+| 修正 | データ基準日 2026-04-22 | 2026-10-14 | — |
+
+（J.ルイス・A.ピューの2025-26在籍は northamptonsaints.co.uk で確認）
+
+### src/content/news/premiership-sale-sharks-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 本拠地 AJベル・スタジアム（表・本文の2箇所） | コーパック・スタジアム | https://en.wikipedia.org/wiki/Sale_Sharks |
+| 修正 | フォード caps 102 | 108 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | T.カリー caps 56 | 71 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | コーワン=ディッキー caps 44 | 61 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | B.カリー caps 6 | 14 | https://en.wikipedia.org/wiki/Ben_Curry |
+| 修正 | ローバック caps 3 | 12 | https://en.wikipedia.org/wiki/Tom_Roebuck |
+| 修正 | ロッド caps 7 | 10 | https://en.wikipedia.org/wiki/Bevan_Rodd |
+| 修正 | オポク=フォーダー caps 1 | 8 | https://en.wikipedia.org/wiki/England_national_rugby_union_team |
+| 修正 | ウィルグリフ・ジョン caps 2 | 5 | https://en.wikipedia.org/wiki/WillGriff_John |
+| 修正 | データ基準日 2026-04-22 | 2026-10-14 | — |
+
+（D.ホジキンソンは salesharks.com、T.バローは https://en.wikipedia.org/wiki/Tom_Burrow で在籍確認）
+
+### src/content/news/premiership-saracens-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | ファレル caps 107 | 112 | https://en.wikipedia.org/wiki/Owen_Farrell |
+| 修正 | イトジェ caps 80 | 102 | https://en.wikipedia.org/wiki/Maro_Itoje |
+| 修正 | トンプキンス caps 38 | 43 | https://en.wikipedia.org/wiki/Nick_Tompkins |
+| 修正 | リッチョーニ caps 31 | 39 | https://en.wikipedia.org/wiki/Marco_Riccioni |
+| 修正 | マウィ caps 25 | 50 | https://en.wikipedia.org/wiki/Eroni_Mawi |
+| 修正 | マリンズ caps 21 | 22 | https://en.wikipedia.org/wiki/Max_Malins |
+| 修正 | チンティ caps 16 | 39 | https://en.wikipedia.org/wiki/Lucio_Cinti |
+| 修正 | イシェクウェ caps 11 | 15 | https://en.wikipedia.org/wiki/Nick_Isiekwe |
+| 修正 | マクファーランド caps 7 | 19 | https://en.wikipedia.org/wiki/Theo_McFarland |
+| 修正 | データ基準日 2026-04-22 | 2026-10-14 | — |
+
+### src/content/news/premiership-league-guide-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 正式名称 ガラガー・プレミアシップ・ラグビー | ガラガー・PREM・ラグビー（Gallagher PREM Rugby） | https://en.wikipedia.org/wiki/Premiership_Rugby |
+| 修正 | セール本拠地 AJベル・スタジアム | コーパック・スタジアム | https://en.wikipedia.org/wiki/Sale_Sharks |
+
+### 集計
+- 記事数：21（teams 10 / news 11）
+- 修正件数：104（うち caps 87、データ基準日 10、本文・表・title 7）／削除件数：0
+- 要判断：①リーグは2025年7月に「Gallagher PREM」へ改称済み。全21本の「ガラガー・プレミアシップ」表記（title・リーグ欄・本文）は正式名称欄以外未変更 ②caps を2026-10時点の Wikipedia 値へ更新したため、選手表のある10本はデータ基準日を2026-10-14に変更（見出しは「2025-26シーズン」のまま） ③caps は Wikipedia 記載値で、項目ごとに「correct as of」日付が異なる（一部は2025年時点）
+
