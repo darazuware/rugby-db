@@ -20,6 +20,6 @@ tags: ["リーグワン", "埼玉パナソニックワイルドナイツ", "新�
 
 ---
 
-なお、チーム所属の[齊藤誉哉](/teams/league-one/saitama-panasonic-wild-knights/#p-takaya-saito-484038)、[谷山隼大](/teams/league-one/saitama-panasonic-wild-knights/#p-hayata-taniyama-484078)の両CTBは、2026年7月からニュージーランド州代表選手権（Bunnings NPC）のサウスランドスタッグスへ期限付きで武者修行に出ている。ワイルドナイツ所属のまま海外経験を積む形で、退団・移籍ではない。
+なお、チーム所属の[齊藤誉哉](/teams/league-one/saitama-panasonic-wild-knights/#p-takaya-saito-484038)、[谷山隼大](/teams/league-one/saitama-panasonic-wild-knights/#p-hayata-taniyama-484078)の両選手は、2026年のニュージーランド州代表選手権（Bunnings NPC）に向けてサウスランドスタッグスへ武者修行に出ている。ワイルドナイツ所属のまま海外経験を積む形で、退団・移籍ではない。
 
 チームの選手一覧・詳細は[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/)のチームページから確認できる。

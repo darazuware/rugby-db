@@ -617,3 +617,188 @@
 
 （親による追補）チーム別記事11本の「データ基準日」を caps 更新に合わせ 2026-10-14 に変更。
 
+## リーグワン
+
+### src/content/teams/league-one/chugoku-electric-red-regulions.md — 問題なし（検証8件）
+### src/content/teams/league-one/hanazono-kintetsu-liners.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | マニー リボック South Africa (9) | South Africa (34) | https://en.wikipedia.org/wiki/Manie_Libbok |
+（他に検証11件：創部経緯・社会人大会53回/50連続/8回・2004年度降格・ライナーズ由来・ワクァ10キャップ・イオアネNZ21キャップ等）
+### src/content/teams/league-one/hino-red-dolphins.md — 問題なし（検証10件）
+### src/content/teams/league-one/hurricanes.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 2010-11シーズンにトップリーグ昇格を果たした | 2010年度にトップリーグ昇格を決めた（参戦は2011年度から） | https://ja.wikipedia.org/wiki/レッドハリケーンズ大阪 |
+| 修正 | ヘンリー タエフ Samoa (3) | Samoa (12) | https://en.wikipedia.org/wiki/Henry_Taefu |
+### src/content/teams/league-one/jr-east-green-warriors-tokatsu.md — 問題なし（検証14件）
+### src/content/teams/league-one/kamaishi-seawaves.md — 問題なし（検証9件）
+### src/content/teams/league-one/kobelco-kobe-steelers.md — 問題なし（検証15件）
+### src/content/teams/league-one/kubota-spears-funabashi-tokyo-bay.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 削除 | 2012-13シーズンに「全勝」優勝で復帰 | 「全勝」を削除（トップイースト優勝を経て復帰） | 検証不可：ja.wikipedia、en.rugby-japan.jp、WebSearch |
+### src/content/teams/league-one/kurita-water-gush-akishima.md — 問題なし（検証11件）
+### src/content/teams/league-one/kyuden-voltex.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 本拠地：九州電力香椎競技場（福岡市東区） | 福岡市（練習場：九州電力香椎競技場） | https://ja.wikipedia.org/wiki/九州電力キューデンヴォルテクス |
+| 削除 | 1953年度、近鉄との「引き分けにより」両者優勝 | 「引き分けにより」を削除（近鉄との両チーム優勝） | 検証不可：ja.wikipedia（両チーム優勝のみ記載、決勝の引分け明記なし） |
+（要判断：選手名「中づる」は文字化けの疑い。CSV由来のため未修正）
+### src/content/teams/league-one/mazda-skyactivs-hiroshima.md — 問題なし（検証9件）
+### src/content/teams/league-one/mie-honda-heat.md — 問題なし（検証14件）
+### src/content/teams/league-one/mitsubishi-sagamihara-dynaboars.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 相模原ギオンスタジアム 15,100人（表・FAQの2箇所） | 15,300人 | https://ja.wikipedia.org/wiki/相模原ギオンスタジアム |
+
+### 集計（league-one_a）
+- 記事数13、修正6件（5記事）、削除2件
+- 要判断：9記事（draft）の在籍選手リスト（CSV由来、約500名の在籍・試合数・U20/セブンズ歴）は未検証。テストキャップのみ12名を検証し2件修正。kyuden「中づる」表記
+
+# 事実監査結果 league-one (b)
+
+### src/content/teams/league-one/ricoh-black-rams-tokyo.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 試合会場「えきまえ不動産スタジアム」（表・FAQの2箇所） | 駅前不動産スタジアム | https://ja.wikipedia.org/wiki/リコーブラックラムズ東京 |
+
+### src/content/teams/league-one/saitama-panasonic-wild-knights.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | FAQ「一度も降格したことがない唯一のチーム」 | 一度も降格したことがありません（「唯一」は出典になし） | https://ja.wikipedia.org/wiki/埼玉パナソニックワイルドナイツ |
+| 削除 | FAQ「パナソニックホールディングスの子会社です」 | （削除） | 検証不可：ja.wikipedia、news.panasonic.com/jp/press/jn220401-2、WebSearch |
+
+### src/content/teams/league-one/shizuoka-blue-revs.md — 問題なし（検証12件）
+
+### src/content/teams/league-one/tokyo-suntory-sungoliath.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 3市協定の相手「東芝ブレイブルーパス東京」 | 東芝ブレイブルーパス武蔵（2026/10/1改称） | https://ja.wikipedia.org/wiki/東芝ブレイブルーパス東京 |
+
+### src/content/teams/league-one/toshiba-brave-lupus-tokyo.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | title・FAQのチーム名「東芝ブレイブルーパス東京」 | 東芝ブレイブルーパス武蔵（2026年10月1日改称）。歴史に改称の1文を追加 | https://ja.wikipedia.org/wiki/東芝ブレイブルーパス東京 |
+| 修正 | チームカラー「赤・黒」 | 赤 | 同上 |
+| 修正 | 運営会社を「2022年のリーグワン創設に際して」設立（本文・FAQ） | 2021年8月に東芝から経営分離 | 同上 |
+| 修正 | ホストエリア 府中市・調布市・三鷹市 | 2026年10月に加わった川崎市を追記 | 同上 |
+| 要判断 | ファイル名・slug が旧名 toshiba-brave-lupus-tokyo のまま（内部リンク保護のため未変更） | — | — |
+
+### src/content/teams/league-one/toyota-verblitz.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 削除 | FAQ「名古屋市・北九州市・岐阜市でもホームゲーム」の岐阜市 | 名古屋市・北九州市でも | 検証不可：ja.wikipedia（2026-27会場に岐阜なし）、WebSearch（2025-26岐阜開催見つからず） |
+
+### src/content/teams/league-one/urayasu-d-rocks.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 削除 | チームカラー「黒・青」（表の行） | （削除） | 検証不可：ja/en.wikipedia、urayasu-d-rocks.com、WebSearch |
+
+### src/content/teams/league-one/yokohama-canon-eagles.md — 問題なし（検証14件）
+
+### src/content/teams/league-one/ruriro-fukuoka.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | ホストエリア11市町（朝倉市…柳川市・八女市） | 公式の14市町村（大牟田市・東峰村・みやま市を追加） | https://leriro-fukuoka.com/ |
+| 修正 | 選手33名の「リーグワンN試合」（例：前田土芽32→36、八文字雅和32→37） | 2025-26公式選手ページのキャップ数に更新 | https://league-one.jp/team/122 （各 /player/ ページ） |
+| 修正 | 重一生「U23('13)」 | U20、高校 | https://ja.wikipedia.org/wiki/重一生 |
+| 修正 | 前田土芽「U20,U23('16)、13 高校、日本代表(4)」 | U20、高校、日本代表(4)（U23は出典なし） | https://ja.wikipedia.org/wiki/前田土芽 |
+| 修正 | 松尾将太郎「U20('16)」、荒牧佑輔「セブンズ日本(4)」 | U20／セブンズ日本（年・数は検証不可のため除去） | https://ja.wikipedia.org/wiki/松尾将太郎 , https://ja.wikipedia.org/wiki/荒牧佑輔 |
+| 削除 | 竹内嘉章「U20,U23('16)」 | 代表歴を削除し「その他在籍選手」へ移動 | 検証不可：ja.wikipedia（記事なし）、WebSearch、en.rugby-japan.jp |
+
+### src/content/teams/league-one/secom-rugguts.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | リーグ「DIVISION3」 | DIVISION2（2025-26 D3 2位→入替戦で昇格、2026-27はD2） | https://ja.wikipedia.org/wiki/川越狭山セコムラガッツ |
+| 削除 | 本拠地「足利ガスグラウンド（栃木県足利市）」 | （削除） | 検証不可：ja/en.wikipedia、rugguts.secom.co.jp（/results/含む）、WebSearch |
+| 削除 | 「2025-26シーズンのホームゲームは足利市・川越市の施設も使用」 | （削除） | 同上 |
+| 修正 | 選手名「高」（HO） | 髙田 風吾 | https://www.rugguts.secom.co.jp/player-staff/ , https://league-one.jp/team/118 |
+| 修正 | 選手37名の「リーグワンN試合」（例：スレイド8→16、ダグラス55→62） | 2025-26公式選手ページのキャップ数に更新 | https://league-one.jp/team/118 （各 /player/ ページ） |
+| 削除 | 野口宜裕「セブンズ日本(36)」の36 | セブンズ日本 | 検証不可：ja.wikipedia（代表選出のみ記載）、WebSearch |
+
+### src/content/teams/league-one/shimizu-koto-blue-sharks.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 選手名「大サキ」「尾ザキ」 | 大﨑 哲徳／尾﨑 達洋 | https://blue-sharks.jp/category/members/ , https://league-one.jp/team/111 |
+| 修正 | 選手37名の「リーグワンN試合」（例：尾﨑43→50、ベイリー36→44） | 2025-26公式選手ページのキャップ数に更新 | https://league-one.jp/team/111 （各 /player/ ページ） |
+| 削除 | 選手名「宮ザキ」（WTB、4試合） | （行削除） | 検証不可：正しい漢字表記を確認できず（league-one.jpは外字注記のみ、blue-sharks.jp現行名簿になし、WebSearch） |
+| 削除 | 田森海音「U20('19)」（代表経験ありの節） | 代表歴を削除、見出しを「在籍選手」に | 検証不可：ja.wikipedia（記事なし）、WebSearch×2 |
+
+### src/content/teams/league-one/toyota-shuttles-aichi.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 「トップリーグへ初昇格するも翌シーズン最下位で降格」 | 2011年に最下位となり降格 | https://ja.wikipedia.org/wiki/豊田自動織機シャトルズ愛知 |
+| 修正 | 選手31名の「リーグワンN試合」（例：ケレビ45→53、セウ36→44） | 2025-26公式選手ページのキャップ数に更新 | https://league-one.jp/team/112 （各 /player/ ページ） |
+| 修正 | 湯本睦「高校('12)」、ケレビジョシュア「セブンズ日本(11)」 | 高校／セブンズ日本（年・数は検証不可のため除去） | https://ja.wikipedia.org/wiki/湯本睦 , https://ja.wikipedia.org/wiki/ケレビジョシュア |
+| 削除 | 佐藤慶「U23('17)」、中村大志「高校('13)」、末拓実「U20,U23('17)」 | 代表歴を削除し「その他在籍選手」へ移動 | 検証不可：ja.wikipedia（記事なし/別人）、WebSearch×2 |
+| 削除 | ヴィリアミ スワワ（CTB、8試合） | （行削除） | 検証不可：league-one.jp 2025-26名簿になし、WebSearch |
+| 要判断 | リアリーファノ：league-one.jp 2025-26名簿に不在。en.wikipediaは2025–2026 Toyota Shuttles・豪代表26キャップと記載のため残置 | — | https://en.wikipedia.org/wiki/Christian_Lealiifano |
+
+### src/content/teams/league-one/yakult-levins.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 選手名「野ザキ」「青柳」「高」（FB） | 野崎 伊織／青栁 龍之介／髙田 賢臣 | https://www.yakult.co.jp/sports/rugby/member/ （json/mamber_*.json）, https://league-one.jp/team/121 |
+| 修正 | ポジション：ボギドラウPR、半田巧HO、浅見亮太郎CTB、新野翼WTB | LO／FL/No8／SO／FB | https://league-one.jp/team/121 （各 /player/ ページ） |
+| 修正 | 選手28名の「リーグワンN試合」（例：ミカエリトゥ42→47） | 2025-26公式選手ページのキャップ数に更新 | 同上 |
+| 修正 | 占部航典「U20,U23('15)」 | U20、高校（U23は出典なし） | https://ja.wikipedia.org/wiki/占部航典 |
+| 削除 | 大石力也「セブンズ日本(14)」の14 | セブンズ日本 | 検証不可：ja.wikipedia（代表選出のみ記載） |
+
+### 集計（league-one b 担当 13記事）
+- 修正：24件（表の行数。うち選手のリーグワン出場数更新は5記事で計166名分を記事ごと1行に集約）
+- 削除：12件
+- 要判断：2件（東芝の改称に伴うslug／リアリーファノの在籍）
+- 備考：league-one.jp・Wikipedia API取得の一部は WebFetch 上限到達のため curl で実ページを取得
+
+### src/content/news/league-one-2025-26-kobe-champions.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | title「埼玉との激闘を制し、勝点1差のドラマチック戴冠」 | 「決勝でクボタを22-13で下し戴冠」 | https://ja.wikipedia.org/wiki/ジャパンラグビーリーグワン2025-26 / https://league-one.jp/en/news/181 |
+| 修正 | description「埼玉を勝点で僅差で上回り優勝」 | RS1位＋PO決勝でクボタに22-13で勝利し優勝 | 同上 |
+| 修正 | H2「勝点1差でリーグワン王座奪還」 | 「プレーオフ決勝を制しリーグワン初制覇」 | 同上 |
+| 修正 | 「最後の勝敗を分けたのは勝点1」「最終結果」 | RS1位の話と明記＋6/7 MUFGスタジアム決勝22-13を追記 | 同上 |
+| 修正 | 「赤と黒の王者」「赤と黒のジャージ」 | 「赤」（チームカラー：レッド） | https://ja.wikipedia.org/wiki/コベルコ神戸スティーラーズ |
+| 修正 | 埼玉との直接対決は「事実上の決勝戦の死闘」「鉄壁のディフェンス」 | 第9節ユニバー記念競技場で神戸が40-24で勝利 | https://ja.wikipedia.org/wiki/ジャパンラグビーリーグワン2025-26 |
+| 修正 | 「リーグ中盤戦」に7点差以内BP | 開幕節クボタ戦（28-33） | 同上 |
+| 修正 | ノエビアスタジアム神戸で優勝杯、「忘れられない夜」 | MUFGスタジアム（国立）50,451人、「一日」 | https://league-one.jp/en/news/181 |
+
+### src/content/news/league-one-2025-26-season-analysis.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 追記「最終順位は神戸が勝点75で初優勝（埼玉と勝点1差）」 | RS1位で終え、PO決勝でクボタに22-13で勝ち初優勝 | https://ja.wikipedia.org/wiki/ジャパンラグビーリーグワン2025-26 |
+| 修正 | トヨタと三重ホンダの得失点差「37点の差」 | 62点（表の-37と-99の差） | 記事内の表から計算 |
+
+### src/content/news/league-one-2025-26-data-analysis.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 削除 | 東福岡OBがオフに母校で指導する「フィードバック・ループ」 | （削除） | 検証不可：ja.wikipedia、検索 |
+| 削除 | 帝京大の強さの秘密は「食トレ」とバイオメカニクス筋肥大プログラム | （削除） | 検証不可：ja.wikipedia 帝京大学ラグビー部 |
+| 削除 | 京都成章は伝統的に「ディフェンスのチーム」として知られる | （削除） | 検証不可：ja.wikipedia 京都成章高等学校（報道のみ） |
+| 削除 | 東海大仰星は「適応のラグビー」を掲げる | （削除） | 検証不可：ja.wikipedia 東海大仰星、検索 |
+| 削除 | 帝京・明治・東海は「全寮制」、朝5時のウェイト | （削除）見出しも調整 | 検証不可：ja.wikipedia 帝京大学ラグビー部 |
+| 修正 | 「欧州のURC」 | 「欧州・南アフリカのURC」 | https://ja.wikipedia.org/wiki/ユナイテッド・ラグビー・チャンピオンシップ |
+| 削除 | 東福岡・桐蔭・帝京が「最新の栄養学・生理学」を取り入れた | （削除） | 検証不可 |
+| 削除 | 第22節：指導者が出身校別特性を戦術のコアに組み込んでいる（架空の発言含む） | （節ごと削除） | 検証不可 |
+| 要判断 | 高校・大学別人数、平均体格、URC/Top14平均値は自社DB集計 | 据え置き | 外部ソースで検証不能（自社データ） |
+
+### src/content/news/mitsubishi-dynaboars-2026-new-signings.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | アレンゼ「南アフリカ代表として30キャップ」 | 35キャップ（2026-09-27時点） | https://en.wikipedia.org/wiki/Kurt-Lee_Arendse |
+
+### src/content/news/panasonic-wild-knights-2026-new-signings.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 齊藤・谷山「両CTB」「2026年7月から」「期限付きで」 | 「両選手」「2026年のNPCに向けて」（谷山はWikipediaでNO8、時期・期限付き不明） | https://ja.wikipedia.org/wiki/埼玉パナソニックワイルドナイツ / https://www.provincial.rugby/news/rutledge-family-legacy-continues-as-southland-stags-unveil-2026-squad / https://panasonic.co.jp/sports/wildknights/news/2026/20261007_01/ |
+
+### src/content/news/suntory-sungoliath-2026-27-new-signings.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 削除 | 齋藤直人の復帰コメント「再び黄色いジャージを…」 | （削除） | 検証不可：サンゴリアス公式（403）、検索 |
+| 削除 | 海外武者修行から戻るケースが「続いている」 | （削除）リンク文は維持 | 検証不可 |
+
+### 集計（league-one_news）
+- 記事数：6（draft対象外なし）
+- 修正：13件 / 削除：9件
+- 要判断：1件（data-analysis の自社DB集計値は外部検証不能のため据え置き）
+
