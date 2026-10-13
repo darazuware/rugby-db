@@ -23,12 +23,12 @@ tags: ["URC", "チーム紹介", "2025-26", "ドラゴンズ"]
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| Wyn JONES | ウィン・ジョーンズ | PR | ウェールズ | 15 |
-| Dillon LEWIS | ディロン・ルイス | PR | ウェールズ | 51 |
-| Elliot DEE | エリオット・ディー | HO | ウェールズ | 51 |
-| Aaron WAINWRIGHT | アーロン・ウェインライト | FL/No8 | ウェールズ | 52 |
-| Rhodri WILLIAMS | ロドリ・ウィリアムズ | SH | ウェールズ | 5 |
-| Rio DYER | リオ・ダイアー | WTB | ウェールズ | 14 |
+| Wyn JONES | ウィン・ジョーンズ | PR | ウェールズ | 48 |
+| Dillon LEWIS | ディロン・ルイス | PR | ウェールズ | 57 |
+| Elliot DEE | エリオット・ディー | HO | ウェールズ | 55 |
+| Aaron WAINWRIGHT | アーロン・ウェインライト | FL/No8 | ウェールズ | 67 |
+| Rhodri WILLIAMS | ロドリ・ウィリアムズ | SH | ウェールズ | 10 |
+| Rio DYER | リオ・ダイアー | WTB | ウェールズ | 24 |
 
 ## その他在籍選手（2025-26シーズン）
 
@@ -38,7 +38,6 @@ tags: ["URC", "チーム紹介", "2025-26", "ドラゴンズ"]
 | James BENJAMIN | ジェームズ・ベンジャミン | HO |
 | Ben CARTER | ベン・カーター | LO |
 | Tom YOUNG | トム・ヤング | FL/No8 |
-| Morgan LLOYD | モルガン・ロイド | SH |
 | Jac LLOYD | ジャク・ロイド | SO |
 | Aneurin OWEN | アニューリン・オーウェン | CTB |
 | Jared ROSSER | ジャレッド・ロッサー | WTB |
@@ -46,4 +45,4 @@ tags: ["URC", "チーム紹介", "2025-26", "ドラゴンズ"]
 | Seb DAVIES | セブ・デイヴィス | LO |
 
 ---
-*データ基準日: 2026-04-21*
+*データ基準日: 2026-10-14*

@@ -952,5 +952,324 @@
 - 削除件数：35（2027ガイド 1、squad分布 2、08月 20、09月 12）※表の1行を1件と数える
 - 要判断：4（①東芝が2026-10-01に「ブレイブルーパス武蔵」へ改称、サイト全体の表記をどうするか ②代表分布2記事の人数は内部集計で外部検証の対象外 ③09月記事が2件のみ、タイトル・タグも不一致 ④月次レポートのキャップ更新データが全件外部ソースと矛盾、生成元データの見直しが必要）
 
-（親による追補）transfers-roundup-2026-08/09 は pipeline/news_rollup.py が data/master/_meta/news/rollup_2026-0{8,9}.json から再生成する記事。今回の修正は記事ファイルのみで、state は data/master 配下のため未変更。--rerender や同月エントリ追加で再生成されると削除行が復活する。手書き部分は data/manual/rollup_extras/ 由来で同様。
+（親による追補）transfers-roundup-2026-08/09 は pipeline/news_rollup.py が data/master/_meta/news/rollup_2026-0{8,9}.json から再生成する記事。今回の修正は記事ファイルのみで、state は data/master 配下のため未変更。--rerender や同月エントリ追加で再生成されると削除行が復活する。手書き部分（data/manual/rollup_extras/2026-0{8,9}.md）は監査後の記事内容に同期済み。
+
+## URC
+
+# URC 事実監査結果
+
+※代表capsは各選手英語版Wikipediaのinfobox現在値（2026-10-14取得）に更新。2025-26在籍は選手infobox・クラブ2025-26シーズン記事・URC移籍リストで確認。
+
+### src/content/news/urc-benetton-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 1932年にASラグビー・トレヴィーゾとして創設 | 1932年にGUFトレヴィーゾとして創設 | https://it.wikipedia.org/wiki/Benetton_Rugby_Treviso |
+| 修正 | Tiziano PASQUALI caps 20 | 25 | https://en.wikipedia.org/wiki/Tiziano_Pasquali |
+| 修正 | Nahuel TETAZ CHAPARRO caps 78 | 81 | https://en.wikipedia.org/wiki/Nahuel_Tetaz_Chaparro |
+| 修正 | Simone FERRARI caps 60 | 73 | https://en.wikipedia.org/wiki/Simone_Ferrari_%28rugby_union%29 |
+| 修正 | Giosuè ZILOCCHI caps 22 | 27 | https://en.wikipedia.org/wiki/Giosu%C3%A8_Zilocchi |
+| 修正 | Niccolò CANNONE caps 48 | 65 | https://en.wikipedia.org/wiki/Niccol%C3%B2_Cannone |
+| 修正 | Federico RUZZA caps 60 | 74 | https://en.wikipedia.org/wiki/Federico_Ruzza |
+| 修正 | Lorenzo CANNONE caps 24 | 40 | https://en.wikipedia.org/wiki/Lorenzo_Cannone |
+| 修正 | Manuel ZULIANI caps 28 | 43 | https://en.wikipedia.org/wiki/Manuel_Zuliani |
+| 修正 | Michele LAMARO caps 44 | 57 | https://en.wikipedia.org/wiki/Michele_Lamaro |
+| 修正 | Alessandro GARBISI caps 14 | 26 | https://en.wikipedia.org/wiki/Alessandro_Garbisi |
+| 修正 | Leonardo MARIN caps 13 | 26 | https://en.wikipedia.org/wiki/Leonardo_Marin |
+| 修正 | Tommaso MENONCELLO caps 24 | 41 | https://en.wikipedia.org/wiki/Tommaso_Menoncello |
+| 修正 | データ基準日 2026-04-21 | 2026-10-14（caps更新に合わせる） | — |
+
+### src/content/teams/urc/benetton-rugby-trevise.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 1932年にASラグビー・トレヴィーゾとして創設 | 1932年にGUFトレヴィーゾとして創設 | https://it.wikipedia.org/wiki/Benetton_Rugby_Treviso |
+
+### src/content/news/urc-bulls-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 要判断 | 「URC優勝1回（2023年）」（表）。タイトル歴のため対象外として未修正。2023年URC優勝はMunster | 未修正 | https://en.wikipedia.org/wiki/United_Rugby_Championship |
+| 修正 | Handré POLLARD caps 65 | 87 | https://en.wikipedia.org/wiki/Handr%C3%A9_Pollard |
+| 修正 | Johan GROBBELAAR caps 20 | 8 | https://en.wikipedia.org/wiki/Johan_Grobbelaar |
+| 修正 | Ruan NORTJE caps 25 | 18 | https://en.wikipedia.org/wiki/Ruan_Nortj%C3%A9 |
+| 修正 | Marcell COETZEE caps 50 | 31 | https://en.wikipedia.org/wiki/Marcell_Coetzee |
+| 修正 | Marco VAN STADEN caps 14 | 32 | https://en.wikipedia.org/wiki/Marco_van_Staden |
+| 修正 | Jan SERFONTEIN caps 21 | 35 | https://en.wikipedia.org/wiki/Jan_Serfontein |
+| 修正 | Kurt-Lee ARENDSE caps 10 | 35 | https://en.wikipedia.org/wiki/Kurt-Lee_Arendse |
+| 修正 | Willie LE ROUX caps 87 | 101 | https://en.wikipedia.org/wiki/Willie_le_Roux |
+| 削除 | 選手表 Sti SITHOLE | （削除） | 検証不可：Sti Sithole Wikipediaは所属Stormers表記、2025-26 Bulls在籍を示す記述なし（Bulls Wikipedia現スカッド/URC移籍リスト2025-26・2026-27も確認） |
+| 修正 | データ基準日 2026-04-21 | 2026-10-14（caps更新に合わせる） | — |
+
+### src/content/teams/urc/vodacom-bulls.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 要判断 | 「URC優勝1回（2023年）」「2022-23シーズンに初優勝」：タイトル歴のため対象外で未修正。2022-23 URC優勝はMunster | 未修正 | https://en.wikipedia.org/wiki/United_Rugby_Championship |
+
+### src/content/news/urc-cardiff-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 創設年「2003年（プロチーム）」 | 1996年（プロ化） | https://en.wikipedia.org/wiki/Cardiff_Rugby |
+| 修正 | 2003年にプロチームとして再出発 | 1996年にプロ化 | https://en.wikipedia.org/wiki/Cardiff_Rugby |
+| 要判断 | 欧州チャレンジカップ優勝年「2009・2017年」（タイトル歴のため未修正。チーム紹介ページは2010・2018年表記） | 未修正 | — |
+| 修正 | Corey DOMACHOWSKI caps 6 | 10 | https://en.wikipedia.org/wiki/Corey_Domachowski |
+| 修正 | Keiron ASSIRATTI caps 10 | 19 | https://en.wikipedia.org/wiki/Keiron_Assiratti |
+| 修正 | Evan LLOYD caps 5 | 8 | https://en.wikipedia.org/wiki/Evan_Lloyd_%28rugby_union%2C_born_2001%29 |
+| 修正 | James BOTHAM caps 16 | 21 | https://en.wikipedia.org/wiki/James_Botham |
+| 修正 | Taine BASHAM caps 16 | 17 | https://en.wikipedia.org/wiki/Taine_Basham |
+| 修正 | Aled DAVIES caps 19 | 20 | https://en.wikipedia.org/wiki/Aled_Davies_%28rugby_union%29 |
+| 修正 | Ben THOMAS caps 7 | 19 | https://en.wikipedia.org/wiki/Ben_Thomas_%28rugby_union%29 |
+| 修正 | Mason GRADY caps 6 | 17 | https://en.wikipedia.org/wiki/Mason_Grady |
+| 修正 | Josh ADAMS caps 59 | 70 | https://en.wikipedia.org/wiki/Josh_Adams_%28rugby_union%29 |
+| 修正 | Leigh HALFPENNY caps 100 | 101 | https://en.wikipedia.org/wiki/Leigh_Halfpenny |
+| 修正 | Cam WINNETT caps 5 | 9 | https://en.wikipedia.org/wiki/Cameron_Winnett |
+| 修正 | データ基準日 2026-04-21 | 2026-10-14（caps更新に合わせる） | — |
+
+### src/content/teams/urc/cardiff-rugby.md — 問題なし（検証7件）
+
+### src/content/news/urc-connacht-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | Finlay BEALHAM caps 51 | 57 | https://en.wikipedia.org/wiki/Finlay_Bealham |
+| 修正 | Dave HEFFERNAN caps 15 | 7 | https://en.wikipedia.org/wiki/Dave_Heffernan |
+| 修正 | Caolin BLADE caps 3 | 4 | https://en.wikipedia.org/wiki/Caolin_Blade |
+| 修正 | Jack CARTY caps 25 | 11 | https://en.wikipedia.org/wiki/Jack_Carty_%28rugby_union%29 |
+| 修正 | Bundee AKI caps 65 | 71 | https://en.wikipedia.org/wiki/Bundee_Aki |
+| 修正 | Mack HANSEN caps 28 | 30 | https://en.wikipedia.org/wiki/Mack_Hansen |
+| 修正 | Cian PRENDERGAST caps 4 | 10 | https://en.wikipedia.org/wiki/Cian_Prendergast |
+| 修正 | データ基準日 2026-04-21 | 2026-10-14（caps更新に合わせる） | — |
+
+### src/content/teams/urc/connacht-rugby.md — 問題なし（検証6件）
+
+### src/content/news/urc-dragons-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | Wyn JONES caps 15 | 48 | https://en.wikipedia.org/wiki/Wyn_Jones_%28rugby_union%29 |
+| 修正 | Dillon LEWIS caps 51 | 57 | https://en.wikipedia.org/wiki/Dillon_Lewis |
+| 修正 | Elliot DEE caps 51 | 55 | https://en.wikipedia.org/wiki/Elliot_Dee |
+| 修正 | Aaron WAINWRIGHT caps 52 | 67 | https://en.wikipedia.org/wiki/Aaron_Wainwright |
+| 修正 | Rhodri WILLIAMS caps 5 | 10 | https://en.wikipedia.org/wiki/Rhodri_Williams_%28rugby_union%29 |
+| 修正 | Rio DYER caps 14 | 24 | https://en.wikipedia.org/wiki/Rio_Dyer |
+| 削除 | 選手表 Morgan LLOYD | （削除） | 検証不可：Dragons Wikipedia現(2026-27)スカッドのみ |
+| 修正 | データ基準日 2026-04-21 | 2026-10-14（caps更新に合わせる） | — |
+
+### src/content/teams/urc/dragons-rugby.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | ロデーニー・パレードは1877年から2017年までニューポートRFCのホーム | 1877年から2021年まで | https://en.wikipedia.org/wiki/Rodney_Parade |
+
+### src/content/news/urc-edinburgh-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 本拠地 スコティッシュガス・マリーフィールド | エディンバラ・ラグビー・スタジアム | https://en.wikipedia.org/wiki/Edinburgh_Rugby |
+| 修正 | Pierre SCHOEMAN caps 37 | 52 | https://en.wikipedia.org/wiki/Pierre_Schoeman |
+| 修正 | Ewan ASHMAN caps 22 | 36 | https://en.wikipedia.org/wiki/Ewan_Ashman |
+| 修正 | Grant GILCHRIST caps 74 | 78 | https://en.wikipedia.org/wiki/Grant_Gilchrist |
+| 修正 | Sam SKINNER caps 30 | 35 | https://en.wikipedia.org/wiki/Sam_Skinner_%28rugby_union%29 |
+| 修正 | Hamish WATSON caps 58 | 59 | https://en.wikipedia.org/wiki/Hamish_Watson_%28rugby_union%29 |
+| 修正 | Magnus BRADBURY caps 35 | 24 | https://en.wikipedia.org/wiki/Magnus_Bradbury |
+| 修正 | Duhan VAN DER MERWE caps 44 | 54 | https://en.wikipedia.org/wiki/Duhan_van_der_Merwe |
+| 修正 | Darcy GRAHAM caps 42 | 57 | https://en.wikipedia.org/wiki/Darcy_Graham |
+| 削除 | 選手表 Sam BYRD | （削除） | 検証不可：Edinburgh Wikipedia現(2026-27)スカッドのみ、2025-26在籍の記述なし |
+| 削除 | 選手表 Ollie DUNCAN | （削除） | 検証不可：URC移籍リスト2026-27でアカデミーから昇格（2025-26トップ在籍確認できず） |
+| 削除 | 選手表 Matt DAVIDSON | （削除） | 検証不可：Wikipedia記事なし・Edinburgh現スカッド/2025-26各記事/移籍リストに記載なし |
+| 修正 | データ基準日 2026-04-21 | 2026-10-14（caps更新に合わせる） | — |
+
+### src/content/teams/urc/edinburgh-rugby.md — 問題なし（検証6件）
+
+### src/content/news/urc-glasgow-warriors-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 本拠地 スコティッシュガス・マリーフィールド | スコッツタウン・スタジアム | https://en.wikipedia.org/wiki/Glasgow_Warriors |
+| 修正 | Zander FAGERSON caps 70 | 84 | https://en.wikipedia.org/wiki/Zander_Fagerson |
+| 修正 | Jamie BHATTI caps 35 | 36 | https://en.wikipedia.org/wiki/Jamie_Bhatti |
+| 修正 | Rory SUTHERLAND caps 37 | 51 | https://en.wikipedia.org/wiki/Rory_Sutherland_%28rugby_union%29 |
+| 修正 | Scott CUMMINGS caps 42 | 52 | https://en.wikipedia.org/wiki/Scott_Cummings_%28rugby_union%29 |
+| 修正 | Rory DARGE caps 25 | 41 | https://en.wikipedia.org/wiki/Rory_Darge |
+| 修正 | Matt FAGERSON caps 50 | 66 | https://en.wikipedia.org/wiki/Matt_Fagerson |
+| 修正 | Jack DEMPSEY caps 22 | 35 | https://en.wikipedia.org/wiki/Jack_Dempsey_%28rugby_union%29 |
+| 修正 | Jamie DOBIE caps 9 | 22 | https://en.wikipedia.org/wiki/Jamie_Dobie |
+| 修正 | George HORNE caps 34 | 47 | https://en.wikipedia.org/wiki/George_Horne_%28rugby_union%29 |
+| 修正 | Adam HASTINGS caps 27 | 34 | https://en.wikipedia.org/wiki/Adam_Hastings |
+| 修正 | Huw JONES caps 53 | 63 | https://en.wikipedia.org/wiki/Huw_Jones_%28rugby_union%29 |
+| 修正 | Sione TUIPULOTU caps 23 | 41 | https://en.wikipedia.org/wiki/Sione_Tuipulotu_%28rugby_union%2C_born_February_1997%29 |
+| 修正 | Kyle STEYN caps 15 | 35 | https://en.wikipedia.org/wiki/Kyle_Steyn |
+| 修正 | Kyle ROWE caps 9 | 19 | https://en.wikipedia.org/wiki/Kyle_Rowe |
+| 修正 | データ基準日 2026-04-21 | 2026-10-14（caps更新に合わせる） | — |
+
+### src/content/teams/urc/glasgow-warriors.md — 問題なし（検証6件）
+
+### src/content/news/urc-leinster-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 削除 | RDSで毎試合ほぼ満員の熱狂的サポーターに支えられている | （削除）「RDSアリーナをホームとする。」 | 検証不可：Leinster Rugby / RDS Arena（英Wikipedia） |
+| 修正 | Andrew PORTER caps 75 | 79 | https://en.wikipedia.org/wiki/Andrew_Porter_%28rugby_union%29 |
+| 修正 | Tadhg FURLONG caps 80+ | 88 | https://en.wikipedia.org/wiki/Tadhg_Furlong |
+| 修正 | Dan SHEEHAN caps 32 | 41 | https://en.wikipedia.org/wiki/Dan_Sheehan_%28rugby_union%29 |
+| 修正 | Ronan KELLEHER caps 35 | 50 | https://en.wikipedia.org/wiki/R%C3%B3nan_Kelleher |
+| 修正 | James RYAN caps 72 | 83 | https://en.wikipedia.org/wiki/James_Ryan_%28rugby_union%2C_born_1996%29 |
+| 修正 | Ryan BAIRD caps 27 | 33 | https://en.wikipedia.org/wiki/Ryan_Baird |
+| 修正 | RG SNYMAN caps 28 | 50 | https://en.wikipedia.org/wiki/RG_Snyman |
+| 修正 | Joe McCARTHY caps 19 | 25 | https://en.wikipedia.org/wiki/Joe_McCarthy_%28rugby_union%29 |
+| 修正 | Josh VAN DER FLIER caps 73 | 81 | https://en.wikipedia.org/wiki/Josh_van_der_Flier |
+| 修正 | Caelan DORIS caps 51 | 61 | https://en.wikipedia.org/wiki/Caelan_Doris |
+| 修正 | Jack CONAN caps 51 | 62 | https://en.wikipedia.org/wiki/Jack_Conan |
+| 修正 | Jamison GIBSON-PARK caps 43 | 53 | https://en.wikipedia.org/wiki/Jamison_Gibson-Park |
+| 修正 | Luke McGRATH caps 14 | 19 | https://en.wikipedia.org/wiki/Luke_McGrath |
+| 修正 | Harry BYRNE caps 4 | 5 | https://en.wikipedia.org/wiki/Harry_Byrne |
+| 修正 | Sam PRENDERGAST caps 8 | 17 | https://en.wikipedia.org/wiki/Sam_Prendergast |
+| 修正 | Robbie HENSHAW caps 82 | 85 | https://en.wikipedia.org/wiki/Robbie_Henshaw |
+| 修正 | Garry RINGROSE caps 67 | 76 | https://en.wikipedia.org/wiki/Garry_Ringrose |
+| 修正 | Rieko IOANE caps 63 | 89 | https://en.wikipedia.org/wiki/Rieko_Ioane |
+| 修正 | James LOWE caps 40 | 45 | https://en.wikipedia.org/wiki/James_Lowe_%28rugby_union%29 |
+| 修正 | Hugo KEENAN caps 46 | 48 | https://en.wikipedia.org/wiki/Hugo_Keenan |
+| 修正 | Jimmy O'BRIEN caps 8 | 16 | https://en.wikipedia.org/wiki/Jimmy_O%27Brien_%28rugby_union%29 |
+| 削除 | 選手表 Billy CORRIGAN | （削除） | 検証不可：Wikipedia記事なし・Leinster/2025-26記事/移籍リストに記載なし |
+| 削除 | 選手表 Jack DEEGAN | （削除） | 検証不可：Leinster Wikipedia現アカデミー表のみ |
+| 削除 | 選手表 Henry McERLEAN | （削除） | 検証不可：Wikipedia記事なし・Leinster/2025-26記事/移籍リストに記載なし |
+| 修正 | データ基準日 2026-04-21 | 2026-10-14（caps更新に合わせる） | — |
+
+### src/content/teams/urc/leinster-rugby.md — 問題なし（検証6件）
+
+### src/content/news/urc-lions-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | Gianni LOMBARD（南アフリカ代表 5caps） | 代表キャップ確認できず→「その他在籍選手」へ移動 | https://en.wikipedia.org/wiki/Gianni_Lombard （南ア代表はSchools/U20のみ） |
+| 削除 | 選手表 Seb LOMBARD | （削除） | 検証不可：Wikipedia記事なし・Lions/2025-26記事/移籍リストに記載なし |
+| 削除 | 空になった「代表経験あり選手」見出し・表 | （削除） | — |
+| 修正 | データ基準日 2026-04-21 | 2026-10-14（caps更新に合わせる） | — |
+
+### src/content/teams/urc/emirates-lions.md — 問題なし（検証6件）
+
+### src/content/news/urc-munster-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | John RYAN caps 20 | 24 | https://en.wikipedia.org/wiki/John_Ryan_%28rugby_union%2C_born_1988%29 |
+| 修正 | Niall SCANNELL caps 16 | 20 | https://en.wikipedia.org/wiki/Niall_Scannell |
+| 修正 | Tadhg BEIRNE caps 61 | 73 | https://en.wikipedia.org/wiki/Tadhg_Beirne |
+| 修正 | Jack CROWLEY caps 24 | 35 | https://en.wikipedia.org/wiki/Jack_Crowley |
+| 修正 | Craig CASEY caps 14 | 31 | https://en.wikipedia.org/wiki/Craig_Casey |
+| 修正 | Calvin NASH caps 10 | 12 | https://en.wikipedia.org/wiki/Calvin_Nash |
+| 修正 | Gavin COOMBES caps 20 | 3 | https://en.wikipedia.org/wiki/Gavin_Coombes |
+| 修正 | データ基準日 2026-04-21 | 2026-10-14（caps更新に合わせる） | — |
+
+### src/content/teams/urc/munster-rugby.md — 問題なし（検証6件）
+
+### src/content/news/urc-ospreys-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 本拠地 スウォンジー.comスタジアム（2025-26） | ブルワリー・フィールド（ブリジェンド）※2025-26は全ホーム戦を同所で開催 | https://en.wikipedia.org/wiki/Ospreys_(rugby_union) |
+| 削除 | 近年はウェールズ代表の低迷とともに代表供給選手数が減少 | （削除）※同節の/national-teams/wales/リンク1個も消滅 | 検証不可：Ospreys英Wikipedia |
+| 修正 | Tom FLORENCEのリンク先がトヨタ所属の別人Tom Florence（NZ, 1998年生） | リンク解除（プレーンテキスト）。scripts/link_news.pyで再付与されないか要確認 | https://en.wikipedia.org/wiki/Tom_Florence_(rugby_union,_born_2003) |
+| 修正 | Dewi LAKE caps 9 | 31 | https://en.wikipedia.org/wiki/Dewi_Lake |
+| 修正 | Ross MORIARTY caps 34 | 54 | https://en.wikipedia.org/wiki/Ross_Moriarty |
+| 修正 | Jac MORGAN caps 17 | 24 | https://en.wikipedia.org/wiki/Jac_Morgan |
+| 修正 | Kieran HARDY caps 18 | 31 | https://en.wikipedia.org/wiki/Kieran_Hardy |
+| 修正 | Owen WATKIN caps 42 | 46 | https://en.wikipedia.org/wiki/Owen_Watkin |
+| 修正 | データ基準日 2026-04-21 | 2026-10-14（caps更新に合わせる） | — |
+
+### src/content/teams/urc/ospreys.md — 問題なし（検証6件）
+
+### src/content/news/urc-scarlets-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | Kemsley MATHIAS caps 5 | 6 | https://en.wikipedia.org/wiki/Kemsley_Mathias |
+| 修正 | Ryan ELIAS caps 38 | 48 | https://en.wikipedia.org/wiki/Ryan_Elias |
+| 修正 | Jake BALL caps 36 | 50 | https://en.wikipedia.org/wiki/Jake_Ball_%28rugby_union%29 |
+| 修正 | Sam COSTELOW caps 8 | 25 | https://en.wikipedia.org/wiki/Sam_Costelow |
+| 修正 | Gareth DAVIES caps 65 | 77 | https://en.wikipedia.org/wiki/Gareth_Davies_%28rugby_union%2C_born_1990%29 |
+| 修正 | Tom ROGERS caps 5 | 13 | https://en.wikipedia.org/wiki/Tom_Rogers_%28rugby_union%29 |
+| 修正 | Blair MURRAY caps 3 | 16 | https://en.wikipedia.org/wiki/Blair_Murray |
+| 修正 | Taine PLUMTREE ポジション LO | FL/No8 | 選手Wikipedia |
+| 修正 | データ基準日 2026-04-21 | 2026-10-14（caps更新に合わせる） | — |
+
+### src/content/teams/urc/scarlets.md — 問題なし（検証7件）
+
+### src/content/news/urc-sharks-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 創設年 1990年（現チーム） | 1890年（1996年スーパーラグビー参入は維持） | https://en.wikipedia.org/wiki/Sharks_(rugby_union) |
+| 修正 | 本拠地 キングスミード | キングス・パーク・スタジアム | https://en.wikipedia.org/wiki/Sharks_(rugby_union) |
+| 修正 | Ox NCHE caps 35 | 52 | https://en.wikipedia.org/wiki/Ox_Nch%C3%A9 |
+| 修正 | Trevor NYAKANE caps 62 | 68 | https://en.wikipedia.org/wiki/Trevor_Nyakane |
+| 修正 | Vincent KOCH caps 46 | 62 | https://en.wikipedia.org/wiki/Vincent_Koch |
+| 修正 | Bongi MBONAMBI caps 62 | 82 | https://en.wikipedia.org/wiki/Bongi_Mbonambi |
+| 修正 | Eben ETZEBETH caps 113 | 147 | https://en.wikipedia.org/wiki/Eben_Etzebeth |
+| 修正 | Jaden HENDRIKSE caps 13 | 20 | https://en.wikipedia.org/wiki/Jaden_Hendrikse |
+| 修正 | Makazole MAPIMPI caps 45 | 47 | https://en.wikipedia.org/wiki/Makazole_Mapimpi |
+| 修正 | データ基準日 2026-04-21 | 2026-10-14（caps更新に合わせる） | — |
+
+### src/content/teams/urc/hollywoodbets-sharks.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 創設年 1995年（現チーム名） | 1890年（1996年スーパーラグビー参入は維持） | https://en.wikipedia.org/wiki/Sharks_(rugby_union) |
+
+### src/content/news/urc-stormers-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 創設年 1997年 | 1883年 | https://en.wikipedia.org/wiki/Stormers |
+| 修正 | Frans MALHERBE caps 63 | 76 | https://en.wikipedia.org/wiki/Frans_Malherbe |
+| 修正 | Salmaan MOERAT caps 20 | 11 | https://en.wikipedia.org/wiki/Salmaan_Moerat |
+| 修正 | Deon FOURIE caps 7 | 16 | https://en.wikipedia.org/wiki/Deon_Fourie |
+| 修正 | Cobus REINACH caps 26 | 57 | https://en.wikipedia.org/wiki/Cobus_Reinach |
+| 修正 | Damian WILLEMSE caps 33 | 50 | https://en.wikipedia.org/wiki/Damian_Willemse |
+| 修正 | Warrick GELANT caps 7 | 10 | https://en.wikipedia.org/wiki/Warrick_Gelant |
+| 削除 | 選手表 Siya KOLISI | （削除） | 誤り：2025-26はSharks所属、Stormers加入は2026-27（https://en.wikipedia.org/wiki/List_of_2026%E2%80%9327_United_Rugby_Championship_transfers） |
+| 修正 | データ基準日 2026-04-21 | 2026-10-14（caps更新に合わせる） | — |
+
+### src/content/teams/urc/dhl-stormers.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 創設年 1997年 | 1883年 | https://en.wikipedia.org/wiki/Stormers |
+
+### src/content/news/urc-ulster-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 本拠地 キングスパン・スタジアム | アフィディア・スタジアム（2025年7月から命名権名称） | https://en.wikipedia.org/wiki/Ravenhill_Stadium |
+| 修正 | キングスパン・スタジアム（旧レイヴンヒル） | アフィディア・スタジアム（レイヴンヒル、旧キングスパン・スタジアム） | https://en.wikipedia.org/wiki/Ravenhill_Stadium |
+| 修正 | Angus BELL caps 36 | 58 | https://en.wikipedia.org/wiki/Angus_Bell |
+| 修正 | Tom STEWART caps 20 | 7 | https://en.wikipedia.org/wiki/Tom_Stewart_%28rugby_union%29 |
+| 修正 | Iain HENDERSON caps 85 | 86 | https://en.wikipedia.org/wiki/Iain_Henderson |
+| 修正 | Nick TIMONEY caps 15 | 14 | https://en.wikipedia.org/wiki/Nick_Timoney |
+| 修正 | Marcus REA（アイルランド代表 10caps） | 代表キャップ確認できず→「その他在籍選手」へ移動 | https://en.wikipedia.org/wiki/Marcus_Rea （アイルランド代表キャップ記載なし） |
+| 修正 | Stuart McCLOSKEY caps 17 | 31 | https://en.wikipedia.org/wiki/Stuart_McCloskey |
+| 修正 | James HUME caps 20 | 3 | https://en.wikipedia.org/wiki/James_Hume_%28rugby_union%29 |
+| 修正 | Jacob STOCKDALE caps 37 | 43 | https://en.wikipedia.org/wiki/Jacob_Stockdale |
+| 修正 | Michael LOWRY caps 15 | 1 | https://en.wikipedia.org/wiki/Michael_Lowry_%28rugby_union%29 |
+| 修正 | データ基準日 2026-04-21 | 2026-10-14（caps更新に合わせる） | — |
+
+### src/content/teams/urc/ulster-rugby.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 本拠地 キングスパン・スタジアム | アフィディア・スタジアム（2025年7月から命名権名称） | https://en.wikipedia.org/wiki/Ravenhill_Stadium |
+| 修正 | キングスパン・スタジアム（旧レイヴンヒル） | アフィディア・スタジアム（レイヴンヒル、旧キングスパン・スタジアム） | https://en.wikipedia.org/wiki/Ravenhill_Stadium |
+
+### src/content/news/urc-zebre-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 本拠地 トッレ・マルガ | スタディオ・セルジオ・ランフランキ | https://en.wikipedia.org/wiki/Zebre_Parma |
+| 削除 | イタリア代表強化を目的として設立された背景を持ち | （削除）※/national-teams/italy/リンク1個消滅 | 検証不可：Zebre Parma英・伊Wikipedia |
+| 修正 | Alessandro FUSCO caps 15 | 27 | https://en.wikipedia.org/wiki/Alessandro_Fusco |
+| 修正 | Luca MORISI caps 47 | 50 | https://en.wikipedia.org/wiki/Luca_Morisi |
+| 修正 | Marco ZANON caps 17 | 21 | https://en.wikipedia.org/wiki/Marco_Zanon |
+| 修正 | Jacopo TRULLA caps 12 | 17 | https://en.wikipedia.org/wiki/Jacopo_Trulla |
+| 修正 | Lorenzo PANI caps 5 | 14 | https://en.wikipedia.org/wiki/Lorenzo_Pani |
+| 修正 | David ODIASE caps 5 | 6 | https://en.wikipedia.org/wiki/David_Odiase |
+| 修正 | データ基準日 2026-04-21 | 2026-10-14（caps更新に合わせる） | — |
+
+### src/content/teams/urc/zebre-parma.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 削除 | イタリア代表強化を目的として設立された背景を持ち | （削除） | 検証不可：Zebre Parma英・伊Wikipedia |
+
+### src/content/news/urc-league-guide-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | アルスターはキングスパン・スタジアムを要塞に | アフィディア・スタジアム（レイヴンヒル） | https://en.wikipedia.org/wiki/Ravenhill_Stadium |
+| 削除 | ゼブレ：FIRが運営するイタリア代表強化目的のクラブ | 「FIRが運営するクラブ」（※/national-teams/italy/リンク1個消滅） | 検証不可：Zebre Parma英・伊Wikipedia |
+| 要判断 | 一覧表「ブルズ URC 1回」（タイトル歴のため未修正。URC優勝実績なし） | 未修正 | https://en.wikipedia.org/wiki/United_Rugby_Championship |
+
+### 集計
+- 記事数：33（teams/urc 16、news urc-*-2025-26 17）
+- 修正：172件（うち代表caps更新138件、データ基準日更新16件、本拠地・創設年など本文/表の事実修正14件、ポジション1件、代表表→その他表への移動2件、誤リンク解除1件）
+- 削除：16件（2025-26在籍を確認できない選手行11件、検証不可の記述4件、空になった表見出し1件）
+- 要判断：4件（ブルズ「URC優勝2023年」×2・カーディフのチャレンジカップ優勝年・ガイド一覧表のブルズURC優勝。いずれもタイトル歴のため未修正）／Ospreys記事 Tom Florence の誤リンクは link_news.py による再付与の有無を要確認
+- 備考：選手ポジションは infobox と大きく食い違うもののみ確認・修正（Wikipediaに記載がない選手は未確認のまま残置）
 

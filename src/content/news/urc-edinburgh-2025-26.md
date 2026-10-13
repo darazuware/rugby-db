@@ -12,7 +12,7 @@ tags: ["URC", "チーム紹介", "2025-26", "エディンバラ"]
 | :--- | :--- |
 | リーグ | URC（ユナイテッド・ラグビー・チャンピオンシップ） |
 | 創設年 | 1996年（プロチームとして） |
-| 本拠地 | スコティッシュガス・マリーフィールド（エディンバラ、スコットランド） |
+| 本拠地 | エディンバラ・ラグビー・スタジアム（エディンバラ、スコットランド） |
 | タイトル歴 | タイトルなし |
 
 ## チームの歴史と特徴
@@ -23,15 +23,15 @@ tags: ["URC", "チーム紹介", "2025-26", "エディンバラ"]
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| Pierre SCHOEMAN | ピエール・スホーマン | PR | スコットランド | 37 |
-| Ewan ASHMAN | エワン・アッシュマン | HO | スコットランド | 22 |
-| Grant GILCHRIST | グラント・ギルクリスト | LO | スコットランド | 74 |
-| Sam SKINNER | サム・スキナー | FL/No8 | スコットランド | 30 |
-| Hamish WATSON | ハミッシュ・ワトソン | FL/No8 | スコットランド | 58 |
-| Magnus BRADBURY | マグナス・ブラッドバリー | FL/No8 | スコットランド | 35 |
+| Pierre SCHOEMAN | ピエール・スホーマン | PR | スコットランド | 52 |
+| Ewan ASHMAN | エワン・アッシュマン | HO | スコットランド | 36 |
+| Grant GILCHRIST | グラント・ギルクリスト | LO | スコットランド | 78 |
+| Sam SKINNER | サム・スキナー | FL/No8 | スコットランド | 35 |
+| Hamish WATSON | ハミッシュ・ワトソン | FL/No8 | スコットランド | 59 |
+| Magnus BRADBURY | マグナス・ブラッドバリー | FL/No8 | スコットランド | 24 |
 | Luke CROSBIE | ルーク・クロスビー | FL/No8 | スコットランド | 12 |
-| Duhan VAN DER MERWE | デュアン・ファン・デル・メルウェ | WTB | スコットランド | 44 |
-| Darcy GRAHAM | ダーシー・グラハム | WTB | スコットランド | 42 |
+| Duhan VAN DER MERWE | デュアン・ファン・デル・メルウェ | WTB | スコットランド | 54 |
+| Darcy GRAHAM | ダーシー・グラハム | WTB | スコットランド | 57 |
 
 ## その他在籍選手（2025-26シーズン）
 
@@ -40,15 +40,12 @@ tags: ["URC", "チーム紹介", "2025-26", "エディンバラ"]
 | Paul HILL | ポール・ヒル | PR |
 | Jack UTTERSON | ジャック・ウタースン | HO |
 | Rob CARMICHAEL | ロブ・カーマイケル | LO |
-| Sam BYRD | サム・バード | LO |
-| Ollie DUNCAN | オリー・ダンカン | FL/No8 |
 | Charlie SHIEL | チャーリー・シール | SH |
 | James LANG | ジェームズ・ラング | SO |
 | Wes GOOSEN | ウェス・グーセン | CTB |
 | Mosese TUIPULOTU | モセセ・トゥイプロトゥ | CTB |
 | Matt CURRIE | マット・カリー | CTB |
 | Nairn MONCRIEFF | ネアン・モンクリーフ | WTB |
-| Matt DAVIDSON | マット・デイヴィドソン | CTB/FB |
 
 ---
-*データ基準日: 2026-04-21*
+*データ基準日: 2026-10-14*

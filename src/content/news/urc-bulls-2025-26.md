@@ -23,21 +23,20 @@ tags: ["URC", "チーム紹介", "2025-26", "ブルズ"]
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| Handré POLLARD | ハンドレ・ポラード | SO | 南アフリカ | 65 |
-| Johan GROBBELAAR | ヨハン・グロッベラー | HO | 南アフリカ | 20 |
-| Ruan NORTJE | ルアン・ノルトェ | LO | 南アフリカ | 25 |
-| Marcell COETZEE | マルセル・クッツェー | FL/No8 | 南アフリカ | 50 |
-| Marco VAN STADEN | マルコ・ファン・スタデン | FL/No8 | 南アフリカ | 14 |
-| Jan SERFONTEIN | ヤン・サーフォンテイン | CTB | 南アフリカ | 21 |
-| Kurt-Lee ARENDSE | カートリー・アレンセ | WTB | 南アフリカ | 10 |
-| Willie LE ROUX | ウィリー・ル・ルー | FB | 南アフリカ | 87 |
+| Handré POLLARD | ハンドレ・ポラード | SO | 南アフリカ | 87 |
+| Johan GROBBELAAR | ヨハン・グロッベラー | HO | 南アフリカ | 8 |
+| Ruan NORTJE | ルアン・ノルトェ | LO | 南アフリカ | 18 |
+| Marcell COETZEE | マルセル・クッツェー | FL/No8 | 南アフリカ | 31 |
+| Marco VAN STADEN | マルコ・ファン・スタデン | FL/No8 | 南アフリカ | 32 |
+| Jan SERFONTEIN | ヤン・サーフォンテイン | CTB | 南アフリカ | 35 |
+| Kurt-Lee ARENDSE | カートリー・アレンセ | WTB | 南アフリカ | 35 |
+| Willie LE ROUX | ウィリー・ル・ルー | FB | 南アフリカ | 101 |
 
 ## その他在籍選手（2025-26シーズン）
 
 | 選手名 | カタカナ | ポジション |
 | :--- | :--- | :--- |
 | Gerhard STEENEKAMP | ゲルハルト・スティーネカンプ | PR |
-| Sti SITHOLE | スティ・スィトール | PR |
 | Akker VAN DER MERWE | アッカー・ファン・デル・メルウェ | HO |
 | Ruan VERMAAK | ルアン・フェルマーク | LO |
 | Jannes KIRSTEN | ヤネス・キルステン | FL/No8 |
@@ -48,4 +47,4 @@ tags: ["URC", "チーム紹介", "2025-26", "ブルズ"]
 | David KRIEL | デイヴィッド・クリエル | FB |
 
 ---
-*データ基準日: 2026-04-21*
+*データ基準日: 2026-10-14*

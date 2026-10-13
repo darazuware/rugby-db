@@ -23,20 +23,20 @@ tags: ["URC", "チーム紹介", "2025-26", "スカーレッツ"]
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| Kemsley MATHIAS | ケムズリー・マティアス | PR | ウェールズ | 5 |
-| Ryan ELIAS | ライアン・エリアス | HO | ウェールズ | 38 |
-| Jake BALL | ジェイク・ボール | LO | ウェールズ | 36 |
-| Sam COSTELOW | サム・コステロウ | SO | ウェールズ | 8 |
-| Gareth DAVIES | ガレス・デイヴィス | SH | ウェールズ | 65 |
-| Tom ROGERS | トム・ロジャース | WTB | ウェールズ | 5 |
-| Blair MURRAY | ブレア・マレー | FB | ウェールズ | 3 |
+| Kemsley MATHIAS | ケムズリー・マティアス | PR | ウェールズ | 6 |
+| Ryan ELIAS | ライアン・エリアス | HO | ウェールズ | 48 |
+| Jake BALL | ジェイク・ボール | LO | ウェールズ | 50 |
+| Sam COSTELOW | サム・コステロウ | SO | ウェールズ | 25 |
+| Gareth DAVIES | ガレス・デイヴィス | SH | ウェールズ | 77 |
+| Tom ROGERS | トム・ロジャース | WTB | ウェールズ | 13 |
+| Blair MURRAY | ブレア・マレー | FB | ウェールズ | 16 |
 
 ## その他在籍選手（2025-26シーズン）
 
 | 選手名 | カタカナ | ポジション |
 | :--- | :--- | :--- |
 | Alec HEPBURN | アレック・ヘップバーン | PR |
-| Taine PLUMTREE | テイン・プラムツリー | LO |
+| Taine PLUMTREE | テイン・プラムツリー | FL/No8 |
 | Josh MacLEOD | ジョシュ・マクラウド | FL/No8 |
 | Dane BLACKER | デイン・ブラッカー | SH |
 | Steff Jac JONES | ステフ・ジャク・ジョーンズ | SO |
@@ -46,4 +46,4 @@ tags: ["URC", "チーム紹介", "2025-26", "スカーレッツ"]
 | Iori BADHAM | イオリ・バダム | FB |
 
 ---
-*データ基準日: 2026-04-21*
+*データ基準日: 2026-10-14*
