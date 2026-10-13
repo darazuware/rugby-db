@@ -802,3 +802,155 @@
 - 修正：13件 / 削除：9件
 - 要判断：1件（data-analysis の自社DB集計値は外部検証不能のため据え置き）
 
+## 日本代表・国際大会・月次まとめ
+
+# 事実監査結果 national_a
+
+### src/content/news/japan-2026-fixtures.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 9/19 PNC決勝 対戦相手「未定」 | フィジー | https://www.rugby-japan.jp/japan/schedule/ |
+| 修正 | 11/27〜29 ファイナルズ 会場「未定」 | ロンドン | https://en.wikipedia.org/wiki/2026_Nations_Championship |
+
+### src/content/news/nations-championship-2026-guide.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | Final 11/27〜29 会場「未定」 | ロンドン | https://en.wikipedia.org/wiki/2026_Nations_Championship |
+
+### src/content/news/japan-vs-france-2026-review.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | フランス先制は開始2分「ラインアウトからのモール」 | 開始2分、モール（ラインアウト起点は確認できず） | https://www.world.rugby/news/1045743/best-on-show-in-the-third-weekend-of-the-2026-nations-championship-and-nations-cup |
+| 削除 | 後半に複数回ゴールライン付近まで到達、割れなかったのは仏守備が堅いから | （削除） | 検証不可：en.rugby-japan.jp 試合レポート、en.wikipedia 2026 NC Southern Hemisphere Series |
+
+### src/content/news/japan-vs-australia-2026-leg1-review.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | ジョーンズHCが「基礎的なスキル」欠如、プレッシャーのない場面のミスを敗因に | 突き放すチャンスがあった最後の20分間の基本的なミスを敗因に | https://en.rugby-japan.jp/2026/08/09/brave-blossoms-come-up-short-against-wallabies-in-osaka/ |
+
+### src/content/news/japan-vs-australia-2026-leg2-review.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 削除 | ディアンズ主将「ブレイクダウンで…ターンオーバーを何回も許した」 | （削除） | 検証不可：en.rugby-japan.jp 試合レポート（別の発言のみ）、rugby-japan.jp/news/54116、braveblossoms/match/20260815 |
+| 削除 | ジョーンズHC「いい経験になった」と若手主体のシリーズを総括 | （削除） | 検証不可：同上（ジョーンズの発言なし） |
+
+### src/content/news/japan-vs-canada-2026-review.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 削除 | 観客数 18,045人 | （削除） | 検証不可：rugby-japan.jp/match/29975、rugby-japan.jp/news/54182、en.rugby-japan.jp試合レポート（「18,000人強」のみ） |
+| 修正 | キッカーは後半16分以降サム・グリーン | 後半終盤はサム・グリーン（G成功は後半37分・41分） | https://www.rugby-japan.jp/match/29975 |
+
+### src/content/news/japan-nations-championship-2026-july-review.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | ニール・ハットリーが「コーチ代理」 | ヘッドコーチ代理 | https://www.rugby-japan.jp/news/53910 |
+
+### src/content/news/nations-championship-2026.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 日本vsイタリアを「ネイションズチャンピオンシップの開幕戦」 | 初戦（大会最初の試合はNZ対フランス） | https://ja.wikipedia.org/wiki/ネーションズチャンピオンシップ2026 |
+| 修正 | チケットはJRFU公式サイト・チケットぴあ・e+ | JRFU公式チケットサイト「Ticket RUGBY」・チケットぴあ（他プレイガイド販売なし） | https://www.rugby-japan.jp/braveblossoms/topics/53891 |
+
+### src/content/news/u17-japan-2026-japan-korea-china-junior.md — 問題なし（検証30件）
+- 要判断：記事は8/13発表時点の23名で全項目一致（https://www.rugby-japan.jp/news/54114）。その後8/19に白谷玲大・田中瞳駕がコンディション不良で不参加、西宗佑（早稲田実業）が追加招集。新事実追加禁止のため未反映。
+
+### 集計（national_a）
+- 記事数：9
+- 修正：9件（fixtures 2、NC guide 1、France 1、豪州第1戦 1、カナダ 1、7月総括 1、NC2026 2）
+- 削除：4件（France 1、豪州第2戦 2、カナダ 1）
+- 要判断：1件（U17 発表後のメンバー変更）
+
+# 事実監査結果 national_b
+
+### src/content/news/japan-rugby-history.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | ヘスケスがゴール左隅にボールを押さえた | ゴール隅に（左右は根拠で確認できず） | https://www.world.rugby/news/571453/south-africa-ireland-scotland-three-times-japan-shocked-the-rugby-world |
+
+検証済み（残置）：1899年クラーク・田中銀之助・慶應／1932-01-31大阪でカナダ戦／1987年NZ・豪共催、全大会出場／1991年ジンバブエ勝利／E.ジョーンズ豪州出身・2007南ア技術顧問・2012就任／2015 南ア34-32・SA3位・29-32からスクラム選択・ヘスケス・リーチ発言・サモア/米国勝利・3勝で敗退／2019 アジア初・ロシア30-10・アイルランド19-12・サモア38-19・スコットランド28-21（台風下で開催）・QF 3-26・南ア決勝で英に勝利／J.ジョセフNZ出身／2023 チリ42-12・英12-34・サモア28-22・アルゼンチン27-39／リーグワン2022年開始／2027豪州。
+根拠：en.wikipedia.org/wiki/Japan_national_rugby_union_team, /Rugby_union_in_Japan, /Edward_Bramwell_Clarke, /Eddie_Jones_(rugby_union), /Jamie_Joseph, /2015_Rugby_World_Cup_Pool_B, /2019_Rugby_World_Cup_Pool_A, /2019_Rugby_World_Cup, /2023_Rugby_World_Cup_Pool_D, /Japan_Rugby_League_One, ja.wikipedia.org/wiki/ブライトンの奇跡
+
+### src/content/news/rugby-world-cup-2027-guide.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 削除 | 日本から豪州は直行便で約10時間、ほぼ毎日直行便 | （削除） | 検証不可：WebSearch（公式・Wikipedia該当なし、旅行メディアのみ） |
+
+検証済み（残置）：2027-10-01〜11-13／24チーム・52試合・6プール×4・R16方式／2003年以来／8会場7都市・Accor Stadium 8万人超で準決勝・3決・決勝／メルボルン=ドックランズ／開幕パース・アデレード6試合・ニューカッスル・タウンズビル／日本はプールE（仏・米・サモア）、2023プール3位で自動出場／ブリスベン2032五輪／豪東部との時差1〜2時間（QLDはDSTなし）／2023英・アルゼンチンに敗戦・チリに勝利。
+根拠：https://en.wikipedia.org/wiki/2027_Rugby_World_Cup , https://www.rugbyworldcup.com/news/571453 , https://en.wikipedia.org/wiki/Stadium_Australia , https://en.wikipedia.org/wiki/2032_Summer_Olympics , https://en.wikipedia.org/wiki/Time_in_Australia , https://en.wikipedia.org/wiki/2023_Rugby_World_Cup_Pool_D
+
+### src/content/news/japan-squad-club-distribution-2026.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 削除 | 現代表の代表的選手に姫野和樹（トヨタ） | （削除） | 検証不可（2025-26の代表出場）：en/ja Wikipedia 姫野和樹、JRFU 2026-09-19・10-08メンバー発表に不在 |
+| 削除 | 現代表の代表的選手に松島幸太朗（サントリー） | （削除） | 検証不可（2025-26の代表出場）：en/ja Wikipedia、JRFU 2026-09-19・10-08メンバー発表に不在 |
+
+検証済み（残置）：リーチ（東芝）・李承信（神戸）・ライリー（埼玉）・コーネルセン（埼玉）＝JRFU 2026-10-08 https://www.rugby-japan.jp/news/54244 ／松島のクレルモン在籍（2020-22）・姫野のハイランダーズ在籍（2021）＝en.wikipedia。
+要判断：集計人数（45人中37人、仏63人、蘇51人中29人等）はdata/masterの内部集計で外部検証の対象外として残置。東芝は2026-10-01に「東芝ブレイブルーパス武蔵」へ改称（en.wikipedia Toshiba_Brave_Lupus_Tokyo、JRFU 10-08発表で使用）。執筆時点（7月）は旧称で正しいため本文は未変更。サイト全体のチーム名・リンク表記の扱いは親で判断。
+
+### src/content/news/rwc2027-squad-league-distribution.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | スペインやルーマニアの主力はフランス2部以下に所属 | 両国代表は自国リーグ中心、仏クラブ所属が続く（西17/仏10、羅24/仏7） | https://en.wikipedia.org/wiki/Spain_national_rugby_union_team , https://en.wikipedia.org/wiki/Romania_national_rugby_union_team |
+
+検証済み（残置）：出場24カ国にポルトガル・ルーマニア・スペイン・チリ・ウルグアイ・ジンバブエ・香港等（en.wikipedia 2027_Rugby_World_Cup）／URC=愛・南ア・ウェールズ・蘇・伊（en.wikipedia United_Rugby_Championship）／SR=NZ・豪・フィジー（ドルア）・太平洋（en.wikipedia Super_Rugby_Pacific）／ジンバブエ選手の南ア所属・カリーカップ参戦（en.wikipedia Zimbabwe_national_rugby_union_team）。
+要判断：各国の人数・割合はdata/master内部集計で外部検証の対象外として残置。
+
+### src/content/news/transfers-roundup-2026-08.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 小倉・丸山・亀井・テレアが三重ホンダヒートに加入（4か所） | 栃木ホンダヒート（2026-07-01改称） | https://global.honda/jp/topics/2026/c_2026-06-18.html |
+| 削除 | カート・エクランドが横浜キヤノンに加入 | （削除） | 2026-27スカッドに不在 https://en.wikipedia.org/wiki/Yokohama_Canon_Eagles （報道では来日せず引退） |
+| 削除 | セバスチャン・シアラウが中国電力に加入 | （削除） | 検証不可：en.wikipedia Chugoku_Electric_Power_Red_Regulions（不在）、WebSearch |
+| 修正 | 件数 合計55件／L1 42件／キヤノン8名 | 合計40件／40件／7名、冒頭文・descriptionも実態に合わせ修正 | （上記削除に伴う） |
+| 削除 | Fergus BURKEがスコットランド代表で初キャップ（8月） | （削除） | 誤り：初キャップは2025-07-12 https://en.wikipedia.org/wiki/Fergus_Burke |
+| 削除 | Zach PORTHENが南ア代表で初キャップ（8月） | （削除） | 誤り：既に7〜8キャップ https://en.wikipedia.org/wiki/Zach_Porthen |
+| 削除 | KIRIFI NZ代表8→10キャップ | （削除） | 公式は8試合 https://www.allblacks.com/players/du-plessis-kirifi/ |
+| 削除 | Jimmy TUPOU トンガ3→4キャップ | （削除） | 検証不可：en.wikipedia Tonga_national_rugby_union_team（2回） |
+| 削除 | POLONIATI トンガ10→12キャップ | （削除） | 矛盾：2026-10-09時点9キャップ https://en.wikipedia.org/wiki/Tonga_national_rugby_union_team |
+| 削除 | Willy HAVILI トンガ29→30キャップ | （削除） | 矛盾：20キャップ（同上） |
+| 削除 | TEN HOEVER ウルグアイ2→3キャップ | （削除） | 矛盾：2026-07-18時点0キャップ https://en.wikipedia.org/wiki/Uruguay_national_rugby_union_team |
+| 削除 | KUMBIRAI ジンバブエ3→4キャップ | （削除） | 矛盾：2026-07-18時点2キャップ https://en.wikipedia.org/wiki/Zimbabwe_national_rugby_union_team |
+| 削除 | MUPUNGA ジンバブエ4→5キャップ | （削除） | 矛盾：14キャップ（同上） |
+| 削除 | HANEKOM 南ア1→3、3→4キャップ（2行） | （削除） | 矛盾：2024年デビュー、2026-09-12時点計6 https://en.wikipedia.org/wiki/Cameron_Hanekom |
+| 削除 | PIERETTO アルゼンチン21→23キャップ | （削除） | 矛盾：2025-12時点30キャップ https://en.wikipedia.org/wiki/Enrique_Pieretto |
+| 削除 | FEINBERG-MNGOMEZULU 南ア30→31キャップ | （削除） | 矛盾：2026-09-27時点25 https://en.wikipedia.org/wiki/Sacha_Feinberg-Mngomezulu |
+| 削除 | 7月Top14加入（Traille・Faleyras・Rocher・Benoit） | （削除） | 検証不可：各選手en.wikipedia（404）、各クラブwiki（2025-26のみ）、WebSearch |
+| 削除 | 7月 Kasprowiczがワラターズに加入 | （削除） | 検証不可：en.wikipedia NSW_Waratahs（不在）。8月のサントリー加入はwikiで確認済み |
+| 修正 | 7月初キャップの見出し「URC」（van Heerden） | 「Top14」（モンペリエ所属） | https://en.wikipedia.org/wiki/Ruben_van_Heerden |
+| 修正 | 濱野隼大 兵庫県三田市出身 | 兵庫県出身 | https://www.mhi.com/jp/company/sports/dynaboars/news/20260714.html |
+| 削除 | 高城 日本生まれ・日本国籍で2番目に高い197cm | （削除） | 検証不可：相模原公式発表に記載なし |
+| 削除 | 高城 東芝への感謝を述べつつ | （削除。新天地への意欲は残置） | 同上 |
+| 削除 | 齋藤直人の復帰コメント（「フランスでの2年間で…」） | （削除） | 検証不可：サントリー公式（403）、WebSearch、en.wikipedia Naoto_Saito |
+| 削除 | 「丸和MOMOTARO'S成田」改称の節（拠点・エンブレム・D3 7チーム・12/12開幕・GM細谷直等） | （節ごと削除） | 検証不可：WebSearch 2回、ja/en.wikipedia（404・取得不可） |
+
+検証済み（残置）：L1加入40名は各クラブen.wikipediaの2026-27スカッド掲載で確認（キヤノン・東芝・静岡・クボタ・神戸・サントリー・埼玉・相模原・ホンダ・リコー・中国電力）。うちエナシオ・栗田バットリン（埼玉公式2026-07-01）、アレンゼ（相模原公式2026-07-03）、安藤・高城・濱野（相模原公式2026-07-14）、小倉（en.wikipedia）、原田（ja.wikipedia：2026-06再入団）は新加入も確認。濱野・高城の生年月日・体格・経歴、齋藤のトゥールーズ2024-26在籍、van Heerdenの2026年初キャップも確認。
+要判断：①東芝は2026-10-01に「東芝ブレイブルーパス武蔵」へ改称（執筆時は旧称で正しいため未変更）。②代表キャップ更新データは照合した全件が外部ソースと食い違い、生成元データ自体の信頼性に問題がある可能性。
+
+### src/content/news/transfers-roundup-2026-09.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 削除 | Edoardo TODAROがイタリア代表で初キャップ（9月） | （削除） | 誤り：初キャップは2025-11-22 https://en.wikipedia.org/wiki/Edoardo_Todaro |
+| 削除 | Guido PETTI アルゼンチン145→147キャップ | （削除） | 誤り：97キャップ（2025-09） https://en.wikipedia.org/wiki/Guido_Petti |
+| 削除 | Tom ROEBUCK イングランド8→10キャップ | （削除） | 矛盾：2026-03時点12 https://en.wikipedia.org/wiki/Tom_Roebuck |
+| 削除 | Cleopas KUNDIONA ジンバブエ2→4キャップ | （削除） | 矛盾：18キャップ https://en.wikipedia.org/wiki/Zimbabwe_national_rugby_union_team |
+| 削除 | Ion NECULAI イタリア3→4キャップ | （削除） | 矛盾：2026-08-09時点で既に4 https://en.wikipedia.org/wiki/Ion_Neculai |
+| 削除 | Tommaso MENONCELLO イタリア31→32キャップ | （削除） | 矛盾：2026-07時点41 https://en.wikipedia.org/wiki/Tommaso_Menoncello |
+| 削除 | Cameron HANEKOM 南ア4→6、6→8キャップ（2行） | （削除） | 矛盾：2026-09-12時点計6 https://en.wikipedia.org/wiki/Cameron_Hanekom |
+| 削除 | Aaron REED 蘇4→5／LOZOWSKI 英6→7／ROOTS 英3→5 | （削除） | 検証不可：選手wiki（古い/404）、各代表チームwikiの現スコッド不在 |
+| 削除 | BOSCH 亜17→18（2行）／MENDY 亜7→9／KAULASHVILI 格4→6／TATAFU 仏3→4（2行） | （削除） | 検証不可：選手wiki（2018〜2024の古い値）、各代表wiki（Mendyは2026-08-17時点6で整合せず） |
+| 削除 | Dylan CHESSUMがレスター加入 | （削除） | 検証不可：Leicester_Tigers wiki（不在）、2026-27移籍一覧 |
+| 削除 | Gloucester加入5名（H.Wright・Clarkson・Cummings・Worts・May） | （削除） | 検証不可：Gloucester_Rugby wiki（シニア/アカデミーとも不在）、2026-27移籍一覧、gloucesterrugby.co.uk |
+| 削除 | Jules MARTIN-BONNARD・Osman DIMENがハーレクインズ加入 | （削除） | 検証不可：Harlequin_F.C. wiki（不在。Oscar Dimenは在籍だが同一人物か不明）、移籍一覧 |
+| 修正 | 冒頭「合計17件」・description | 合計2件・プレミアシップ加入のみに修正 | （上記削除に伴う） |
+
+検証済み（残置）：James Lang（エディンバラ→ハーレクインズ、https://en.wikipedia.org/wiki/List_of_2026%E2%80%9327_Premiership_Rugby_transfers ）、Jake Spurway（ハーレクインズ2026-27スカッド、https://en.wikipedia.org/wiki/Harlequin_F.C. ）。
+要判断：本文が2件のみになった。タイトル「代表キャップ動向まとめ」とtags「キャップ更新」が内容と合わない。記事の存続（非公開化・他月と統合）は親で判断。キャップ更新データは照合できた全件が外部ソースと食い違っており、生成元データの信頼性に問題がある可能性。
+
+### 集計（national_b）
+- 記事数：6
+- 修正件数：7（history 1、RWC分布 1、08月 4、09月 1）
+- 削除件数：35（2027ガイド 1、squad分布 2、08月 20、09月 12）※表の1行を1件と数える
+- 要判断：4（①東芝が2026-10-01に「ブレイブルーパス武蔵」へ改称、サイト全体の表記をどうするか ②代表分布2記事の人数は内部集計で外部検証の対象外 ③09月記事が2件のみ、タイトル・タグも不一致 ④月次レポートのキャップ更新データが全件外部ソースと矛盾、生成元データの見直しが必要）
+
+（親による追補）transfers-roundup-2026-08/09 は pipeline/news_rollup.py が data/master/_meta/news/rollup_2026-0{8,9}.json から再生成する記事。今回の修正は記事ファイルのみで、state は data/master 配下のため未変更。--rerender や同月エントリ追加で再生成されると削除行が復活する。手書き部分は data/manual/rollup_extras/ 由来で同様。
+

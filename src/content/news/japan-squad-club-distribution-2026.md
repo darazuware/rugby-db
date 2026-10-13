@@ -32,8 +32,6 @@ tags: ["日本代表", "リーグワン", "所属クラブ", "RWC2027", "デー�
 代表的な選手を挙げると——
 
 - **[リーチ マイケル](/players/michael-leitch-484358/)**（[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/)）
-- **[姫野 和樹](/players/kazuki-himeno-484466/)**（[トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz/)）
-- **[松島 幸太朗](/players/kotaro-matsushima-484319/)**（[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/)）
 - **[ディラン・ライリー](/players/dylan-riley-484057/)**（[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/)）
 - **[李 承信](/players/seungsin-lee-483953/)**（[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)）
 - **[ジャック・コーネルセン](/players/jack-cornelsen-485708/)**（埼玉[パナソニック](/teams/league-one/saitama-panasonic-wild-knights/)ワイルドナイツ）
