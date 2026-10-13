@@ -23,18 +23,18 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "フィジア�
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| Peni RAVAI | ペニ・ラバイ | プロップ | [フィジー代表](/national-teams/fiji/) | 39 |
-| Mesake DOGE | メサケ・ドゲ | プロップ | [フィジー代表](/national-teams/fiji/) | 10 |
-| Samu TAWAKE | サム・タワケ | プロップ | [フィジー代表](/national-teams/fiji/) | 2 |
+| Peni RAVAI | ペニ・ラバイ | プロップ | [フィジー代表](/national-teams/fiji/) | — |
+| Mesake DOGE | メサケ・ドゲ | プロップ | [フィジー代表](/national-teams/fiji/) | — |
+| Samu TAWAKE | サム・タワケ | プロップ | [フィジー代表](/national-teams/fiji/) | — |
 | Mesulame DOLOKOTO | メスラメ・ドロコト | フッカー | フィジー代表 | — |
-| Zuriel TOGIATAMA | ズリエル・トギアタマ | フッカー | フィジー代表 | 3 |
-| Isoa NASILASILA | イソア・ナシラシラ | ロック | フィジー代表 | 7 |
-| Temo MAYANAVANUA | テモ・マヤナヴァヌア | ロック | フィジー代表 | 11 |
-| Vilive MIRAMIRA | ビリヴェ・ミラミラ | フランカー/No8 | [フィジー代表](/national-teams/fiji/) | 5 |
-| Frank LOMANI | フランク・ロマニ | スクラムハーフ | フィジー代表 | 26 |
+| Zuriel TOGIATAMA | ズリエル・トギアタマ | フッカー | フィジー代表 | — |
+| Isoa NASILASILA | イソア・ナシラシラ | ロック | フィジー代表 | — |
+| Temo MAYANAVANUA | テモ・マヤナヴァヌア | ロック | フィジー代表 | — |
+| Vilive MIRAMIRA | ビリヴェ・ミラミラ | フランカー/No8 | [フィジー代表](/national-teams/fiji/) | — |
+| Frank LOMANI | フランク・ロマニ | スクラムハーフ | フィジー代表 | 40 |
 | Issak FINES | イサク・ファインズ | スクラムハーフ | [オーストラリア代表](/national-teams/australia/) | — |
-| Virimi VAKATAWA | ビリミ・バカタワ | センター | [フランス代表](/national-teams/france/) | 32 |
-| Ilaisa DROASESE | イライサ・ドロアセセ | フルバック | フィジー代表 | 4 |
+| Virimi VAKATAWA | ビリミ・バカタワ | センター | [フランス代表](/national-teams/france/) | 31 |
+| Ilaisa DROASESE | イライサ・ドロアセセ | フルバック | フィジー代表 | — |
 
 ## その他在籍選手（2025-26シーズン）
 
@@ -54,7 +54,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "フィジア�
 | Isoa TUWAI | イソア・トゥワイ | フランカー/No8 |
 | Joseva TAMANI | ジョセバ・タマニ | フランカー/No8 |
 | Philip BASELALA | フィリップ・バセララ | スクラムハーフ |
-| Simi KURUVOLI | シミ・クルヴォリ | スタンドオフ |
+| Simi KURUVOLI | シミ・クルヴォリ | スクラムハーフ |
 | Kemu VALETINI | ケム・バレティーニ | スタンドオフ |
 | Isaiah ARMSTRONG-RAVULA | イザイア・アームストロング・ラヴラ | スタンドオフ |
 | Isikeli RABITU | イシケリ・ラビトゥ | スタンドオフ |
@@ -71,4 +71,4 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "フィジア�
 | Epeli MOMO | エペリ・モモ | ウィング |
 
 ---
-*データ基準日: 2026-04-21*
+*データ基準日: 2026-10-14*

@@ -407,3 +407,213 @@
 - 修正件数：104（うち caps 87、データ基準日 10、本文・表・title 7）／削除件数：0
 - 要判断：①リーグは2025年7月に「Gallagher PREM」へ改称済み。全21本の「ガラガー・プレミアシップ」表記（title・リーグ欄・本文）は正式名称欄以外未変更 ②caps を2026-10時点の Wikipedia 値へ更新したため、選手表のある10本はデータ基準日を2026-10-14に変更（見出しは「2025-26シーズン」のまま） ③caps は Wikipedia 記載値で、項目ごとに「correct as of」日付が異なる（一部は2025年時点）
 
+## Super Rugby Pacific
+
+# 事実監査結果：super-rugby
+
+共通メモ：
+- 選手ロースターは公式2026スコッド発表（https://www.allblacks.com/news/dhl-super-rugby-pacific-squads-named-for-2026-season）＋各チームen.wikipedia「2026 squad」節（途中昇格選手）で照合。
+- caps列は各選手en.wikipediaのinfobox（API取得）で照合。infoboxの更新日が2026年のものはその値に更新、更新日が2025年以前（現時点の値と確認できない）は数値を「—」に置換。国籍（代表）の誤りは修正。
+- 各記事末尾の「データ基準日: 2026-04-21」は据え置き（caps値は2026-10時点のWikipedia値に更新したため、基準日表記とずれる点は要判断）。
+- en.wikipedia「Hurricanes (rugby union)」本文にAIへの指示文が埋め込まれていたが無視した。
+
+### src/content/teams/super-rugby/act-brumbies.md — 問題なし（検証8件）
+### src/content/teams/super-rugby/blues.md — 問題なし（検証5件）
+
+### src/content/teams/super-rugby/chiefs.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | リーチマイケル（2015年） | リーチマイケル（2015〜2017年） | https://en.wikipedia.org/wiki/Michael_Leitch |
+
+### src/content/teams/super-rugby/crusaders.md — 問題なし（検証5件）
+### src/content/teams/super-rugby/fijian-drua.md — 問題なし（検証8件）
+### src/content/teams/super-rugby/highlanders.md — 問題なし（検証7件）
+### src/content/teams/super-rugby/hurricanes.md — 問題なし（検証8件）
+
+### src/content/teams/super-rugby/moana-pasifika.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 削除 | ルーツの例示「マオリ」 | （削除） | 検証不可：en.wikipedia Moana Pasifika（Pacific Island nations/Pasifika heritageのみ記載） |
+| 削除 | 州協会を代表しない独自のアイデンティティを持つ | （削除） | 検証不可：en.wikipedia Moana Pasifika |
+
+### src/content/teams/super-rugby/nsw-waratahs.md — 問題なし（検証6件）
+### src/content/teams/super-rugby/queensland-reds.md — 問題なし（検証6件）
+### src/content/teams/super-rugby/western-force.md — 問題なし（検証9件）
+
+### src/content/news/super-rugby-act-brumbies-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | スリッパー caps 131 | 154 | https://en.wikipedia.org/wiki/James_Slipper |
+| 修正 | スコップ caps 1 | —（infobox 2023更新で現値未確認） | https://en.wikipedia.org/wiki/Blake_Schoupp |
+| 修正 | アラアラトア caps 33 | 94 | https://en.wikipedia.org/wiki/Allan_Alaalatoa |
+| 修正 | フロスト caps 12 | —（infobox 2025更新） | https://en.wikipedia.org/wiki/Nick_Frost_(rugby_union) |
+| 修正 | バレティーニ caps 35 | 69 | https://en.wikipedia.org/wiki/Rob_Valetini |
+（本文：創設・本拠地・カラー・E.ジョーンズ1998・2000-02決勝・2023年10月来日は en/ja.wikipedia で確認。ロースター全員公式2026スコッドで確認）
+
+### src/content/news/super-rugby-blues-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 後にノースランドとノースハーバーを加える形で構成変更 | チーフスと担当地域を交換し、オークランド・ノースハーバー・ノースランドを代表 | https://en.wikipedia.org/wiki/Blues_(Super_Rugby) |
+| 修正 | レイ caps 26 | —（infobox 2023更新） | https://en.wikipedia.org/wiki/Jordan_Lay |
+| 修正 | トゥウンガファシ caps 53 | 68 | https://en.wikipedia.org/wiki/Ofa_Tuʻungafasi |
+| 修正 | P.トゥイプロトゥ caps 25 | —（infobox 2024更新） | https://en.wikipedia.org/wiki/Patrick_Tuipulotu |
+| 修正 | パパリイ caps 26 | —（infobox 2025更新） | https://en.wikipedia.org/wiki/Dalton_Papali%27i |
+| 修正 | F.クリスティ caps 17 | 28 | https://en.wikipedia.org/wiki/Finlay_Christie |
+| 修正 | B.バレット caps 116 | 146 | https://en.wikipedia.org/wiki/Beauden_Barrett |
+| 修正 | アーキ caps 4 | —（infobox 2024更新） | https://en.wikipedia.org/wiki/Pita_Ahki |
+| 修正 | クラーク caps 18 | 33 | https://en.wikipedia.org/wiki/Caleb_Clarke_(rugby_union) |
+（マテンガ、M.トゥパエア、バーンズは公式初期発表外だがWikipedia 2026 squadで昇格選手として確認）
+
+### src/content/news/super-rugby-chiefs-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 本拠地 ワイカト・スタジアム（ワイカト） | FMGスタジアム・ワイカト（ハミルトン） | https://en.wikipedia.org/wiki/Chiefs_(rugby_union) |
+| 修正 | 国内6州協会（…タラナキ） | 7州協会（＋ンガティ・ポロウ・イーストコースト） | https://en.wikipedia.org/wiki/Chiefs_(rugby_union) |
+| 修正 | リーチ（2015・2016年在籍） | 2015〜2017年在籍 | https://en.wikipedia.org/wiki/Michael_Leitch |
+| 修正 | ノリス オーストラリア代表 | ニュージーランド代表 | https://en.wikipedia.org/wiki/Ollie_Norris |
+| 修正 | フィナウ トンガ代表 | ニュージーランド代表 | https://en.wikipedia.org/wiki/Samipeni_Finau |
+| 修正 | タウケイアホ caps 25 | —（infobox 2025更新） | https://en.wikipedia.org/wiki/Samisoni_Taukei%27aho |
+| 修正 | ヴァアイ caps 22 | —（infobox 2025更新） | https://en.wikipedia.org/wiki/Tupou_Vaa%27i |
+| 修正 | ジェイコブソン caps 15 | 29 | https://en.wikipedia.org/wiki/Luke_Jacobson |
+| 修正 | マッケンジー caps 42 | 82 | https://en.wikipedia.org/wiki/Damian_McKenzie |
+| 修正 | フォケティ caps 6 | 9 | https://en.wikipedia.org/wiki/Lalakai_Foketi |
+| 修正 | ナラワ caps 4 | —（infobox 2025更新） | https://en.wikipedia.org/wiki/Emoni_Narawa |
+| 修正 | タウモエフォラウ caps 5 | 6 | https://en.wikipedia.org/wiki/Kyren_Taumoefolau |
+
+### src/content/news/super-rugby-crusaders-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 削除 | 地元選手が豊富でドラフト依存度が低く | （削除）「在籍選手からは多くのオールブラックスが生まれている」に縮約 | 検証不可：en.wikipedia Crusaders（ドラフト記述なし、AB輩出のみ記載） |
+| 修正 | ニュエル caps 8 | —（infobox 2024更新） | https://en.wikipedia.org/wiki/Fletcher_Newell |
+| 修正 | T.ウィリアムズ caps 3 | —（infobox 2024更新） | https://en.wikipedia.org/wiki/Tamaiti_Williams |
+| 修正 | テイラー caps 79 | 112 | https://en.wikipedia.org/wiki/Codie_Taylor |
+| 修正 | S.バレット caps 62 | 90 | https://en.wikipedia.org/wiki/Scott_Barrett_(rugby_union) |
+| 修正 | ブラックアダー caps 9 | 15 | https://en.wikipedia.org/wiki/Ethan_Blackadder |
+| 修正 | ハビリ caps 25 | 30 | https://en.wikipedia.org/wiki/David_Havili |
+| 修正 | マクニコル ニュージーランド代表 | ウェールズ代表 | https://en.wikipedia.org/wiki/Johnny_McNicholl |
+| 修正 | リース caps 3 | 37 | https://en.wikipedia.org/wiki/Sevu_Reece |
+| 修正 | ファインガアヌク caps 3 | 12 | https://en.wikipedia.org/wiki/Leicester_Fainga%27anuku |
+| 修正 | ジョーダン caps 25 | 62 | https://en.wikipedia.org/wiki/Will_Jordan_(rugby_union) |
+（コーチ在任年 Deans 2000–08/Blackadder 2009–16/Robertson 2017–23 確認。MacDonald・Grant・LeeはWikipedia 2026 squadで昇格選手として確認）
+
+### src/content/news/super-rugby-fijian-drua-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | ラバイ caps 39 | —（infobox 2023更新・値不一致） | https://en.wikipedia.org/wiki/Peni_Ravai |
+| 修正 | ドゲ caps 10 | —（infobox 2025更新） | https://en.wikipedia.org/wiki/Mesake_Doge |
+| 修正 | タワケ caps 2 | —（infobox 2022更新） | https://en.wikipedia.org/wiki/Samu_Tawake |
+| 修正 | トギアタマ caps 3 | —（infoboxに数値なし） | https://en.wikipedia.org/wiki/Zuriel_Togiatama |
+| 修正 | ナシラシラ caps 7 | —（infobox 2022更新） | https://en.wikipedia.org/wiki/Isoa_Nasilasila |
+| 修正 | マヤナヴァヌア caps 11 | —（infobox 2021更新） | https://en.wikipedia.org/wiki/Temo_Mayanavanua |
+| 修正 | ミラミラ caps 5 | —（フィジー代表歴はRWC2023スコッドで確認） | https://en.wikipedia.org/wiki/2023_Rugby_World_Cup_squads |
+| 修正 | ロマニ caps 26 | 40 | https://en.wikipedia.org/wiki/Frank_Lomani |
+| 修正 | バカタワ caps 32 | 31（2022年で代表引退済み） | https://en.wikipedia.org/wiki/Virimi_Vakatawa |
+| 修正 | ドロアセセ caps 4 | —（代表歴はRWC2023スコッドで確認） | https://en.wikipedia.org/wiki/2023_Rugby_World_Cup_squads |
+| 修正 | クルヴォリ ポジション スタンドオフ | スクラムハーフ | https://en.wikipedia.org/wiki/Fijian_Drua |
+（本文：2017年FRU設立・2018年NRC制覇・NRC終了・2021年4月ライセンス・スバ/ラウトカ/シガトカ開催を確認。バカタワ・カコバウはWikipedia 2026 squadで確認）
+
+### src/content/news/super-rugby-highlanders-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | デ・フロート caps 17 | —（infobox 2024更新） | https://en.wikipedia.org/wiki/Ethan_de_Groot |
+| 修正 | タアバオ caps 8 | 22 | https://en.wikipedia.org/wiki/Angus_Ta%27avao |
+| 修正 | タバタバナワイ フィジー代表 | ニュージーランド代表 | https://en.wikipedia.org/wiki/Timoci_Tavatavanawai |
+（本文：オタゴ等3協会・フォーサイスバー・名称由来・2015決勝・田中2013–16・姫野2021を確認。Wingham・CaseyはWikipedia 2026 squadで昇格選手として確認）
+
+### src/content/news/super-rugby-hurricanes-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 本拠地 ウェストパック・スタジアム | Hnryスタジアム | https://en.wikipedia.org/wiki/Hurricanes_(rugby_union) |
+| 修正 | ロマックス caps 27 | 55 | https://en.wikipedia.org/wiki/Tyrel_Lomax |
+| 修正 | ディアンズ caps 21 | 37 | https://en.wikipedia.org/wiki/Warner_Dearns |
+| 修正 | シールズ ニュージーランド代表 | イングランド代表 | https://en.wikipedia.org/wiki/Brad_Shields |
+| 修正 | エナリ caps 7 | 11 | https://en.wikipedia.org/wiki/Ere_Enari |
+| 修正 | ロワガード caps 2 | 25 | https://en.wikipedia.org/wiki/Cam_Roigard |
+| 修正 | J.バレット caps 52 | 85 | https://en.wikipedia.org/wiki/Jordie_Barrett |
+（本文：7協会・黄と黒・2016優勝/2015決勝・ポウア2022アウピキ参加を en/ja.wikipedia で確認。PetaiaはWikipedia 2026 squadで昇格選手として確認）
+
+### src/content/news/super-rugby-moana-pasifika-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 削除 | ルーツの例示「マオリ」 | （削除） | 検証不可：en.wikipedia Moana Pasifika |
+| 削除 | 州協会を代表しない独自のアイデンティティ | （削除） | 検証不可：en.wikipedia Moana Pasifika |
+| 修正 | P.ラトゥ caps 1 | —（infobox 2025更新） | https://en.wikipedia.org/wiki/Paula_Latu |
+| 修正 | モリ caps 13 | 25 | https://en.wikipedia.org/wiki/Sam_Moli |
+| 削除 | ポロニアティ（NZ代表・ロック）行 | （削除） | 検証不可：公式2026スコッド発表・PMN掲載スコッド・en.wikipedia Moana Pasifikaに記載なし |
+| 修正 | ファイラギ caps 3 | 9 | https://en.wikipedia.org/wiki/Miracle_Fai%CA%BBilagi |
+| 修正 | パエア caps 3 | 13 | https://en.wikipedia.org/wiki/Semisi_Paea |
+| 削除 | N.ジョーンズ「ニュージーランド代表」 | 代表表から削除し「その他在籍選手」へ移動（在籍は公式スコッドで確認、代表歴はinfoboxに無し） | https://en.wikipedia.org/wiki/Niko_Jones |
+| 修正 | プル トンガ代表 caps 3 | 10 | https://en.wikipedia.org/wiki/Augustine_Pulu |
+| 修正 | マタバオ caps 13 | —（infobox 2023更新） | https://en.wikipedia.org/wiki/Melani_Matavao |
+| 修正 | タウマテイン caps 11 | —（infobox 2023更新） | https://en.wikipedia.org/wiki/Jonathan_Taumateine |
+| 修正 | サベア caps 35 | —（infobox 2025更新） | https://en.wikipedia.org/wiki/Julian_Savea |
+| 削除 | S-P.トレアフォア（サモア代表）行 | （削除） | 検証不可：公式2026スコッド発表・PMN掲載スコッド |
+| 削除 | ロラニ・ファレイバ（PR） | （削除） | 検証不可：同上 |
+| 削除 | サム・トゥイトゥポウ（FL） | （削除） | 検証不可：同上 |
+| 削除 | コンラッド・トレアフォア（FL） | （削除） | 検証不可：同上 |
+| 削除 | デンゼル・サモア（WTB） | （削除） | 検証不可：同上 |
+（本文：2020創設・2022参入・ノースハーバー・サモア/トンガ開催・2024 PMA・2026/4/15解散発表（財政難）を確認）
+
+### src/content/news/super-rugby-nsw-waratahs-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | F.ファインガア caps 11 | —（infobox 2022更新・値不一致） | https://en.wikipedia.org/wiki/Folau_Fainga%27a |
+| 修正 | フィリップ caps 29 | —（infobox 2023更新・値不一致） | https://en.wikipedia.org/wiki/Matt_Philip |
+| 修正 | ケラウェイ caps 24 | —（infobox 2025更新・値不一致） | https://en.wikipedia.org/wiki/Andrew_Kellaway_(rugby_union) |
+| 修正 | ヨーゲンセン caps 20 | 28 | https://en.wikipedia.org/wiki/Max_Jorgensen |
+（本文：NSWRU1874・1927–28遠征31戦24勝2分・1937年SCGでスプリングボクス撃破・1930年代・1996年スーパー12参戦を確認。Scott-YoungはWikipedia 2026 squad、GroverはSuper Rugby AUS squadで確認）
+
+### src/content/news/super-rugby-queensland-reds-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | ノングガー caps 3 | 20 | https://en.wikipedia.org/wiki/Zane_Nonggorr |
+| 修正 | フェスラー caps 2 | —（infobox 2023更新） | https://en.wikipedia.org/wiki/Matt_Faessler |
+| 修正 | サラカイア・ロト caps 16 | 48 | https://en.wikipedia.org/wiki/Lukhan_Salakaia-Loto |
+| 修正 | マクライト caps 13 | 47 | https://en.wikipedia.org/wiki/Fraser_McReight |
+| 修正 | マクダーモット caps 26 | 56 | https://en.wikipedia.org/wiki/Tate_McDermott |
+| 修正 | C.ゴードン caps 5 | 12 | https://en.wikipedia.org/wiki/Carter_Gordon |
+| 修正 | ヴォラヴォラ caps 38 | —（infoboxに代表更新日なし） | https://en.wikipedia.org/wiki/Ben_Volavola |
+| 修正 | パイサミ サモア代表 | オーストラリア代表 | https://en.wikipedia.org/wiki/Hunter_Paisami |
+| 修正 | ダウグヌ フィジー代表 | オーストラリア代表 | https://en.wikipedia.org/wiki/Filipo_Daugunu |
+| 削除 | ニック・リナー（WTB） | （削除） | 検証不可：公式2026スコッド発表・en.wikipedia Queensland Reds 2026 squad |
+（本文：1876年初試合・1883年北部RU・1996年3チーム参加・1996/99マイナープレミア確認。V.Latu・Mackay・RubensはWikipedia 2026 squad（DEV）で確認）
+
+### src/content/news/super-rugby-western-force-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 創設年 2006年 | 2005年 | https://en.wikipedia.org/wiki/Western_Force |
+| 修正 | 本拠地 スビアコ・オーバル | HBFパーク（スビアコは2006–09年のみ使用） | https://en.wikipedia.org/wiki/Western_Force |
+| 修正 | マット・ジトー（表記） | マット・ギタウ | https://en.wikipedia.org/wiki/Western_Force |
+| 修正 | フォトゥアイカ caps 5 | —（infobox 2025更新・値不一致） | https://en.wikipedia.org/wiki/Feao_Fotuaika |
+| 修正 | ドリー オーストラリア代表 | イングランド代表 | https://en.wikipedia.org/wiki/Nic_Dolly |
+| 修正 | ペンガ・アモサ ニュージーランド代表 | オーストラリア代表 | https://en.wikipedia.org/wiki/Brandon_Paenga-Amosa |
+| 修正 | ドナルドソン caps 3 | 26 | https://en.wikipedia.org/wiki/Ben_Donaldson_(rugby_union) |
+| 修正 | ブリッジ caps 5 | —（infobox 2021更新・値不一致） | https://en.wikipedia.org/wiki/George_Bridge |
+| 修正 | ビール caps 95 | —（infobox 2025更新） | https://en.wikipedia.org/wiki/Kurtley_Beale |
+（本文：2006年スーパー14参戦・ギタウ獲得（豪フットボール史上最高年俸）・2017除外・NRC/GRR・2020復帰・2022恒久復帰を確認。Epenisa・Oviedo・Daly・PalmerはWikipedia 2026 squadで確認）
+
+### src/content/news/super-rugby-pacific-team-guide-2025-26.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | チーフス本拠地 ワイカト・スタジアム | FMGスタジアム・ワイカト | https://en.wikipedia.org/wiki/Chiefs_(rugby_union) |
+| 修正 | リーチ 2015・2016年にチーフス在籍 | 2015〜2017年 | https://en.wikipedia.org/wiki/Michael_Leitch |
+| 修正 | ハリケーンズ本拠地 ウェストパック・スタジアム | Hnryスタジアム | https://en.wikipedia.org/wiki/Hurricanes_(rugby_union) |
+| 削除 | 風の強い港町にちなんだ「嵐」の名 | （削除） | 検証不可：en/ja.wikipedia Hurricanes（名称由来の記載なし） |
+| 削除 | オーストラリアのラグビー発祥の地・シドニー | 「シドニーを代表するチーム」 | 検証不可：en/ja.wikipedia Waratahs |
+| 修正 | ウィル・グレニア（表記） | ウィル・ゲニア（2011年在籍はPilecki Medal 2011で確認） | https://en.wikipedia.org/wiki/Queensland_Reds |
+| 修正 | フォース創設年 2006年（本文・まとめ表） | 2005年 | https://en.wikipedia.org/wiki/Western_Force |
+| 削除 | 「ラグビーオーストラリアによって」除外 | （削除） | 検証不可：en.wikipedia Western Force（SANZAARの削減として記載） |
+| 修正 | コロナ禍でNRCが廃止…存続を訴え続け | NRCは放映契約の変更に伴い廃止されたが | https://en.wikipedia.org/wiki/Fijian_Drua |
+| 削除 | バカタワはヨーロッパから凱旋した速射砲アタッカー | （削除） | 検証不可：NZ生まれ・仏代表（https://en.wikipedia.org/wiki/Virimi_Vakatawa）、凱旋の根拠なし |
+| 削除 | ルーツ例示「マオリ」／州協会を代表しないコンセプトで2022年に誕生 | 「2022年にスーパーラグビーへ参入した」 | 検証不可：en.wikipedia Moana Pasifika |
+（確認済：シティティ2024年WR年間ブレイクスルー賞 https://www.world.rugby/news/974759/world-rugby-awards-2024-winners?lang=en 、J.バレットはボーデンの弟（生年1997/1991）、ボイドHC2015–18で2016優勝、J.ジョセフ元日本代表HC、E.ジョーンズ元イングランドHC、ブランビーズ2000年から5季連続PO（ja.wikipedia）、スアアリイ2024年代表デビュー、モヤノ＝アルゼンチン出身、2022年「パシフィック」改称）
+（要判断：クルセイダーズ「ロバートソン時代の7シーズンで5回優勝」はタイトル歴のため未処置だが、Wikipediaでは2017–2023の7連覇。ブランビーズ創設年はen.wikipedia=1995年・ja.wikipedia=1996年で割れるため据え置き）
+
+### 集計（担当全体）
+- 記事数：23（チームページ11・ニュース12）
+- 修正：94件
+- 削除：18件
+- 要判断：3件（①caps列を2026-10時点値へ更新したが各記事末尾「データ基準日: 2026-04-21」は据え置き ②クルセイダーズ「7シーズンで5回優勝」（タイトル歴で対象外） ③ブランビーズ創設年1995/1996の資料不一致）
+
+（親による追補）チーム別記事11本の「データ基準日」を caps 更新に合わせ 2026-10-14 に変更。
+

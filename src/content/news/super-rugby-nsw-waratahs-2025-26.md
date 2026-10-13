@@ -24,14 +24,14 @@ NSWワラターズの前身であるニューサウスウェールズラグビ�
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
 | Isaac AEDO KAILEA | アイザック・アエド・カイレア | プロップ | [オーストラリア代表](/national-teams/australia/) | — |
-| Folau FAINGA'A | フォラウ・ファインガア | フッカー | [オーストラリア代表](/national-teams/australia/) | 11 |
+| Folau FAINGA'A | フォラウ・ファインガア | フッカー | [オーストラリア代表](/national-teams/australia/) | — |
 | Angus BLYTH | アンガス・ブライス | ロック | [オーストラリア代表](/national-teams/australia/) | — |
-| Matt PHILIP | マット・フィリップ | ロック | オーストラリア代表 | 29 |
+| Matt PHILIP | マット・フィリップ | ロック | オーストラリア代表 | — |
 | Pete SAMU | ピート・サム | フランカー/No8 | オーストラリア代表 | — |
 | Jake GORDON | ジェイク・ゴードン | スクラムハーフ | オーストラリア代表 | — |
 | Joseph SUA'ALI'I | ジョセフ・スアアリイ | センター | オーストラリア代表 | — |
-| Andrew KELLAWAY | アンドリュー・ケラウェイ | ウィング | オーストラリア代表 | 24 |
-| Max JORGENSEN | マックス・ヨーゲンセン | フルバック | [オーストラリア代表](/national-teams/australia/) | 20 |
+| Andrew KELLAWAY | アンドリュー・ケラウェイ | ウィング | オーストラリア代表 | — |
+| Max JORGENSEN | マックス・ヨーゲンセン | フルバック | [オーストラリア代表](/national-teams/australia/) | 28 |
 
 ## その他在籍選手（2025-26シーズン）
 
@@ -69,4 +69,4 @@ NSWワラターズの前身であるニューサウスウェールズラグビ�
 | James HENDREN | ジェームズ・ヘンドレン | フルバック |
 
 ---
-*データ基準日: 2026-04-21*
+*データ基準日: 2026-10-14*

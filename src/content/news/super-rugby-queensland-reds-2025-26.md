@@ -25,16 +25,16 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "クイーン�
 | :--- | :--- | :--- | :--- | ---: |
 | Jeffery TOOMAGA-ALLEN | ジェフリー・トゥマガ・アレン | プロップ | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Aidan ROSS | エイダン・ロス | プロップ | [ニュージーランド代表](/national-teams/new-zealand/) | — |
-| Zane NONGGORR | ゼイン・ノングガー | プロップ | [オーストラリア代表](/national-teams/australia/) | 3 |
-| Matt FAESSLER | マット・フェスラー | フッカー | [オーストラリア代表](/national-teams/australia/) | 2 |
-| Lukhan SALAKAIA-LOTO | ルカン・サラカイア・ロト | ロック | オーストラリア代表 | 16 |
-| Fraser MCREIGHT | フレイザー・マクライト | フランカー/No8 | オーストラリア代表 | 13 |
+| Zane NONGGORR | ゼイン・ノングガー | プロップ | [オーストラリア代表](/national-teams/australia/) | 20 |
+| Matt FAESSLER | マット・フェスラー | フッカー | [オーストラリア代表](/national-teams/australia/) | — |
+| Lukhan SALAKAIA-LOTO | ルカン・サラカイア・ロト | ロック | オーストラリア代表 | 48 |
+| Fraser MCREIGHT | フレイザー・マクライト | フランカー/No8 | オーストラリア代表 | 47 |
 | Harry WILSON | ハリー・ウィルソン | フランカー/No8 | オーストラリア代表 | — |
-| Tate MCDERMOTT | テイト・マクダーモット | スクラムハーフ | オーストラリア代表 | 26 |
-| Carter GORDON | カーター・ゴードン | スタンドオフ | オーストラリア代表 | 5 |
-| Ben VOLAVOLA | ベン・ヴォラヴォラ | スタンドオフ | [フィジー代表](/national-teams/fiji/) | 38 |
-| Hunter PAISAMI | [ハンター・パイサミ](/players/hunter-paisami/) | センター | [サモア代表](/national-teams/samoa/) | — |
-| Filipo DAUGUNU | フィリポ・ダウグヌ | ウィング | [フィジー代表](/national-teams/fiji/) | — |
+| Tate MCDERMOTT | テイト・マクダーモット | スクラムハーフ | オーストラリア代表 | 56 |
+| Carter GORDON | カーター・ゴードン | スタンドオフ | オーストラリア代表 | 12 |
+| Ben VOLAVOLA | ベン・ヴォラヴォラ | スタンドオフ | [フィジー代表](/national-teams/fiji/) | — |
+| Hunter PAISAMI | [ハンター・パイサミ](/players/hunter-paisami/) | センター | [オーストラリア代表](/national-teams/australia/) | — |
+| Filipo DAUGUNU | フィリポ・ダウグヌ | ウィング | [オーストラリア代表](/national-teams/australia/) | — |
 
 ## その他在籍選手（2025-26シーズン）
 
@@ -68,9 +68,8 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "クイーン�
 | Nick CONWAY | ニック・コンウェイ | ウィング |
 | Lachie ANDERSON | ラキー・アンダーソン | ウィング |
 | Tim RYAN | ティム・ライアン | ウィング |
-| Nic LYNAGH | ニック・リナー | ウィング |
 | Jock CAMPBELL | ジョック・キャンベル | フルバック |
 | Treyvon PRITCHARD | トレイボン・プリチャード | フルバック |
 
 ---
-*データ基準日: 2026-04-21*
+*データ基準日: 2026-10-14*

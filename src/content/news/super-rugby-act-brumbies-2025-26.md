@@ -23,11 +23,11 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "ACTブラン�
 
 | 選手名 | カタカナ | ポジション | 代表 | caps |
 | :--- | :--- | :--- | :--- | ---: |
-| James SLIPPER | ジェームズ・スリッパー | プロップ | [オーストラリア代表](/national-teams/australia/) | 131 |
-| Blake SCHOUPP | ブレイク・スコップ | プロップ | [オーストラリア代表](/national-teams/australia/) | 1 |
-| Allan ALAALATOA | アラン・アラアラトア | プロップ | [オーストラリア代表](/national-teams/australia/) | 33 |
-| Nick FROST | ニック・フロスト | ロック | オーストラリア代表 | 12 |
-| Rob VALETINI | ロブ・バレティーニ | フランカー/No8 | オーストラリア代表 | 35 |
+| James SLIPPER | ジェームズ・スリッパー | プロップ | [オーストラリア代表](/national-teams/australia/) | 154 |
+| Blake SCHOUPP | ブレイク・スコップ | プロップ | [オーストラリア代表](/national-teams/australia/) | — |
+| Allan ALAALATOA | アラン・アラアラトア | プロップ | [オーストラリア代表](/national-teams/australia/) | 94 |
+| Nick FROST | ニック・フロスト | ロック | オーストラリア代表 | — |
+| Rob VALETINI | ロブ・バレティーニ | フランカー/No8 | オーストラリア代表 | 69 |
 | Ryan LONERGAN | ライアン・ロナーガン | スクラムハーフ | オーストラリア代表 | — |
 | Tane EDMED | タネ・エドメッド | スタンドオフ | オーストラリア代表 | — |
 | Corey TOOLE | コーリー・トゥール | ウィング | オーストラリア代表 | — |
@@ -65,4 +65,4 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "ACTブラン�
 | Ollie SAPSFORD | オリー・サプスフォード | ウィング |
 
 ---
-*データ基準日: 2026-04-21*
+*データ基準日: 2026-10-14*
