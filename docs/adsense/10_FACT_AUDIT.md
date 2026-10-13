@@ -1273,3 +1273,210 @@
 - 要判断：4件（ブルズ「URC優勝2023年」×2・カーディフのチャレンジカップ優勝年・ガイド一覧表のブルズURC優勝。いずれもタイトル歴のため未修正）／Ospreys記事 Tom Florence の誤リンクは link_news.py による再付与の有無を要確認
 - 備考：選手ポジションは infobox と大きく食い違うもののみ確認・修正（Wikipediaに記載がない選手は未確認のまま残置）
 
+## 各国代表ガイド
+
+### src/content/news/canada-rugby-2026.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 削除 | description「財政危機、登録料値上げ」 | （削除） | 検証不可：en.wikipedia Rugby Canada／Canada national team、Web検索（値上げは2018年・2019年予選時のCBC報道のみで2021年敗退と無関係） |
+| 削除 | 2021年敗退で推定100万ポンド減収→登録料値上げ（財政への打撃 節） | （削除） | 同上 |
+| 修正 | アメリカもウルグアイに敗れ | アメリカも敗退し | https://en.wikipedia.org/wiki/United_States_men%27s_national_rugby_union_team |
+| 修正 | ランボール キャップ30 | 67 | https://rugby.ca/en/news/2026/08/canada-s-men-s-rugby-team-2026-september-tour-squad-announced |
+| 修正 | クアトリン 所属フリージャックス・43キャップ | カルカソンヌ・32キャップ（6/23時点29、7/18戦前31→同戦出場で32） | https://rugby.ca/en/news/2026/06/canada-s-men-s-rugby-team-2026-nations-cup-squad-announced ／ https://rugby.ca/en/news/2026/07/roster-named-for-canada-s-men-s-rugby-team-s-nations-cup-match-against-zimbabwe |
+| 修正 | アードロン 所属カストル（2020-） | プロヴァンス（仏プロD2）、カストル2020-26 | https://en.wikipedia.org/wiki/Provence_Rugby |
+| 修正 | ランボール「オープンサイド主体、アローズの流れをくむハウンズ」 | アローズを経てハウンズ所属のBR | https://en.wikipedia.org/wiki/Lucas_Rumball |
+| 修正 | 日本戦は「秋のテストマッチシリーズの一戦」 | JRFU創立100周年記念の一戦 | https://rugby.ca/en/news/2026/09/roster-named-for-canada-s-men-s-rugby-team-s-match-against-japan |
+
+検証済みで残した主な記述：HCミーハン（豪・2024〜）、主将ランボール、プールC・3試合の日付会場（Rugby Canada公式：10/4・10/10・10/16）、9大会連続出場、1991年8強（フィジー・ルーマニア撃破→NZに敗戦）、DTH RWC6トライ・4大会、リースRWC120点、PNC2025プールB2位・カルガリーで米国34-20・仙台で日本に敗戦、チリに合計46-54、オウォルがRWC公式注目選手、9/5新潟の日本戦、選手年齢。
+
+### src/content/news/chile-rugby-2026.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | title「土木エンジニア」／description「食肉事業の経営者」 | 「工学部生」／「食肉販売を手がける選手」 | https://www.uc.cl/noticias/los-condores-de-la-uc-que-hicieron-historia-en-el-rugby/ ／ https://www.chilevision.cl/vamos-contigo/la-emotiva-historia-de-matias-dittus-el-rugbista-chileno-que-entrena-en-las-mananas-y-vende-carnes-en-las-tardes/amp/ |
+| 修正 | 「ワールドカップ・ネーションズカップ」招集37人 | ワールドラグビー・ネーションズカップ、38人 | https://es.wikipedia.org/wiki/Selección_de_rugby_de_Chile |
+| 削除 | かつての代表に病院でインターンの医師 | （削除） | 検証不可：es.wikipedia、Web検索（La Tercera記事見つからず） |
+| 修正 | ディトゥス 食肉事業「La Bodega del Tongua」経営、商品詳細 | 食肉の販売を手がける | 上記chilevision |
+| 削除 | ボーメ アンドレス・ベジョ大学体育学部・U17コーチ | （削除） | 検証不可：es.wikipedia、Web検索 |
+| 修正 | ペドレロ 24歳・土木工学 | 25歳・工学 | uc.cl記事／es.wikipedia（2000/11/30生） |
+| 修正 | アイスマン 身長201cm・工学部 | 身長削除・工学（修士課程） | uc.cl記事 |
+| 修正 | R.マルティネス BR・25歳 | HO・26歳 | es.wikipedia（1999/11/25生、Hooker） |
+| 削除 | トレアルバ 商業工学の学位 | （削除） | 検証不可：uc.cl記事では商業工学はA.エスコバル |
+| 削除 | 元代表ウロス（医師）・イノストロサ（料理人） | （削除） | 検証不可：Web検索 |
+| 修正 | 注記「La Tercera…カトリカ大学工学部の記事」 | 2021〜2022年の報道時点 | 出典表記禁止ルールに合わせ文言修正 |
+| 修正 | 海外組5人・残る32人セルクナム | 海外組8人・残る30人 | es.wikipedia（2026年7月招集38人） |
+| 修正 | 表キャップ：エスコバル— ビデラ37 アイスマン36 アヤルサ28 シグレン27 ディトゥス27 | 19・43・37・27・31・39（6/23時点と注記） | es.wikipedia |
+| 修正 | アヤルサ CTB | FB | es.wikipedia |
+| 修正 | シグレン 所属フリージャックス | セルクナム（フリージャックス・ドンカスターは経歴） | es.wikipedia／https://en.wikipedia.org/wiki/Martín_Sigren |
+| 修正 | ビデラ CTB・SO・FB・WTB | SO・CTB・WTB | https://es.wikipedia.org/wiki/Santiago_Videla ／ en.wikipedia |
+| 修正 | セルクナム「チリ唯一のプロチーム」 | チリ初のプロチーム | https://es.wikipedia.org/wiki/Selknam_Rugby |
+| 修正 | SRA2026「リトラルが新規参入」 | ロサリオのカピバラス | https://en.wikipedia.org/wiki/2026_Super_Rugby_Americas_season |
+| 削除 | 「セルクナムはコンドルになるための道」発言 | （削除） | 検証不可 |
+| 削除 | 2026年国家予算 ラグビー33億4,200万ペソ等 | （削除） | 検証不可：Web検索（Dipres資料はChallenger M20増額16.5億ペソのみ） |
+| 修正 | 14%削減「2025年9月に報じられた」 | 「報じられた」（時期削除） | El Observador報道（Web検索） |
+| 修正 | 関連記事 カナダ「2022年にチリに敗れて」 | 2021年 | https://en.wikipedia.org/wiki/Chile_national_rugby_union_team |
+
+検証済みで残した主な記述：愛称、HCレモイネ（ウルグアイ）、主将シグレン、2大会連続2回目、サモア戦32-32（9/20ソルトレイクシティ）・31-12（9/27ビーニャ）、23番目・米州5カ国目、プールA、RWC2023の4試合（日付・スコア・会場）、日本戦6トライ・唯一の対戦、2022年7月米国撃破、選手年齢・所属、ビデラ歴代最多得点、セルクナム2019年11月設立・WR支援、4カ所のCAR、14%削減報道。
+
+### src/content/news/portugal-rugby-2026.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 主将 ジョゼ・マデイラ | トマス・アップルトン（2026年7月招集で主将） | https://en.wikipedia.org/wiki/Portugal_national_rugby_union_team |
+| 修正 | 決勝ジョージアのトライ ヴァノ・カルカゼ | イリア・スパンデラシュヴィリ | https://www.rugbypass.com/news/portugal-dethrone-georgia-with-shock-win-in-rec-final/ （the42/Lusa報道と一致） |
+| 削除 | 残り9分にジョージアのFBがイエローカード | （削除） | 検証不可：公式ゲームレポートPDF判読不可、報道はポルトガルのWallisのYCのみ |
+| 修正 | ストルティ「2本の単独トライ」 | 2本のトライ | https://en.wikipedia.org/wiki/2023_Rugby_World_Cup_Pool_C |
+| 修正 | 77分に途中出場のマルタがトライ | 78分にマルタ（先発LW） | 同上 |
+| 修正 | 本文中の出典表記（DN紙・日付）、「上記記事に記載」 | 削除／「当時の報道時点」 | 出典表記禁止ルール |
+| 修正 | コレイア 整形外科医（ルス病院）、ドレイ ポルトの弁護士 | 医師／弁護士 | https://en.wikipedia.org/wiki/João_Correia_(rugby_union) ／ https://en.wikipedia.org/wiki/Marcello_d'Orey |
+| 削除 | ジョゼ・ピント 整形外科医 | （削除） | 検証不可：en.wikipedia（プロ転向の記載のみ） |
+| 削除 | ミゲル・ポルテラ 弁護士・ディレイト役員 | （削除） | 検証不可：en.wikipedia |
+| 削除 | トマス・モライス 2007年の主将 | （削除） | 誤り（2007はHC、主将はヴァスコ・ウヴァ）：https://en.wikipedia.org/wiki/2007_Rugby_World_Cup_squads |
+| 修正 | 表：アップルトン33歳49キャップ | 32歳88キャップ・主将 | en.wikipedia（1993/7/29生、7/18時点88） |
+| 修正 | 表：マデイラ グルノーブル46キャップ | ペルピニャン（トップ14）53 | en.wikipedia ／ https://fr.wikipedia.org/wiki/José_Madeira |
+| 修正 | 表キャップ：ハッセ32 ソウザ・ゲデス29 ストルティ25 ヴァレイロ21 | 56・47・39・14 | https://fr.wikipedia.org/wiki/Diogo_Hasse_Ferreira ／ en.wikipedia |
+| 修正 | 表：マルケス ベジエ | カルカソンヌ | en.wikipedia（2026年7月招集） |
+| 削除 | マデイラ JIFF・2025/26 20試合2,541分 | （削除、グルノーブル2020-26→ペルピニャンに修正） | 検証不可：fr.wikipedia |
+| 削除 | ストルティ 2025/26 22トライ110得点 | （削除） | 検証不可：fr.wikipedia |
+| 削除 | ヴァレイロ プロD2 17試合・トップ14 1試合・123得点 | （削除） | 検証不可：fr.wikipedia（3月時点17試合119点） |
+| 修正 | マルケス・ピント「フランス国籍」、マルケス「ポー出身のJIFF」 | フランス生まれ、JIFF削除、現所属カルカソンヌ | https://en.wikipedia.org/wiki/Samuel_Marques ／ https://fr.wikipedia.org/wiki/Vincent_Pinto |
+| 修正 | ハッセ 171cm・105kg・タイトヘッド | 176cmのプロップ | https://fr.wikipedia.org/wiki/Diogo_Hasse_Ferreira |
+
+検証済みで残した主な記述：決勝2026/3/15ブタルケ（レガネス）19-17、5戦全勝、ヴァレイロ4PG+1Conv・ピントのトライ・21歳・FB先発、準決勝でスペイン撃破、愛称、HCマニックス、REC2025準決勝進出で出場権、RWC2023の4試合（日付・スコア・会場）、33人中17人プロ・16人兼業、20カ国中唯一アマチュアを含む、2007年の獣医（コルデイロ・養豚）・医師・弁護士、ABsのビール招待、ハッセの経歴年、24カ国・R16方式。
+※対象外のため未処置：description「初優勝」はタイトル歴（報道では2004年に続く2回目）。
+
+### src/content/news/georgia-rugby-2026.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | ブロンカン2026年夏就任・ボルトラミ1〜6月暫定 | 2026年就任・同年暫定（6/28招集時点でブロンカンHC） | https://en.wikipedia.org/wiki/Georgia_national_rugby_union_team |
+| 削除 | ボルトラミ「規律と戦術の精度向上に注力」 | （削除） | 検証不可：en.wikipedia |
+| 修正 | ボルトラミはフォワードコーチとして残留 | アシスタントコーチとして残留 | 同上（コーチ陣 2026/8/29時点） |
+| 修正 | ブロンカン「指導実績のある」 | （語句削除） | 検証不可 |
+| 削除 | ボルトラミで土台→ブロンカンが攻撃色という狙い | （削除） | 検証不可 |
+| 修正 | ゴルガゼ47キャップ | 52 | 同上（2026/7/18時点） |
+| 修正 | ニニアシュビリ73キャップ | 47 | 同上 |
+| 修正 | アプラシゼ83キャップ | 63 | 同上 |
+
+検証済みで残した主な記述：愛称レロエビ、7回目出場、プールB、主将ゴルガゼ（ポー）、ニニアシュビリ（ラ・ロシェル）、コッカリル2024-25、REC2025でオランダに40-7・決勝スペインに46-28、REC2026決勝ポルトガルに17-19。名鑑データ集計（58名中19名）はサイト内データのため対象外。
+
+### src/content/news/hong-kong-china-rugby-2026.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 「インチョンでの大会」（大会は複数会場） | 「この優勝」（韓国戦70-22はインチョン） | https://en.wikipedia.org/wiki/2025_Asia_Rugby_Championship |
+| 修正 | 2025/26登録39名、ング・シウルン（HO）ら数名 | 2026年7月招集30名、チュイ・キャンベル＝ウーら | https://en.wikipedia.org/wiki/Hong_Kong_national_rugby_union_team |
+| 修正 | バーカー36歳・ヒル35歳・ソーヤー34歳 | 35・36・33歳 | 同上（生年月日から算出） |
+| 削除 | アクステン＝バレット34歳・マクニーシュ34歳 | （削除） | 検証不可：同上の現招集に不在 |
+| 修正 | 「30代半ばが並びます」 | 「30代が並びます」 | 同上 |
+| 修正 | セイヤーズ32歳・マッキンレイ＝ウェスト30歳 | 31歳・29歳 | 同上 |
+| 修正 | 遠征「前年の夏」・「11月」 | 2024年夏・同年11月 | 同上 ／ https://en.wikipedia.org/wiki/2024_end-of-year_rugby_union_internationals |
+| 削除 | 国内シーズンをフルに戦い、オーストラリアで事前キャンプ | （削除、日本合宿のみ残す） | 検証不可：world.rugby/RWC公式、en.wikipedia |
+
+検証済みで残した主な記述：開幕戦10/1パース vs 豪、3試合の日付会場、アジア2カ国目・唯一のデビュー国、韓国に70-22、プールA、HCアスプリン（NZハミルトン出身・2025年8月・NZ年代別10年・予選突破コーチ陣）、主将ハーシュティッチNo.8・35歳、RWC公式注目3選手、日本に大敗した時代（94-5）。
+
+### src/content/news/france-rugby-2026.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 出場権「RWC2023プールC上位」 | プールA上位 | https://en.wikipedia.org/wiki/2023_Rugby_World_Cup_Pool_A |
+| 修正 | デュポン「大きな膝の負傷から復帰」 | 「大きな負傷から復帰」（2025年負傷→2026/2/5代表復帰は確認、部位は確認できず） | https://fr.wikipedia.org/wiki/Antoine_Dupont |
+
+検証済みで残した主な記述：愛称レ・ブルー、プールE（日本・米国・サモア）、HCガルティエ、主将デュポン、直近3大会QF敗退・2023はSAに28-29、2026年6N招集からアルドリット・プノー・フィクー不在、注目選手8人の所属クラブ、2026年7/18日本戦15-42、24カ国・3位上位4チームR16方式。名鑑データ集計（63人全員トップ14）はサイト内データのため対象外。
+
+### 集計（countries_a）
+- 記事数 6／修正 48件／削除 19件
+- 要判断：なし（参考：カナダ・クアトリンの32キャップは7/18戦前31からの算出値。ポルトガルdescriptionの「初優勝」はタイトル歴で対象外のため未処置だが、報道では2004年に続く2回目）
+
+### src/content/news/romania-rugby-2026.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 2025/26登録53名 | 2026年7月ネーションズカップ招集32名 | https://en.wikipedia.org/wiki/Romania_national_rugby_union_team |
+| 修正 | イメルマン ジェイコブ（BR） | ニコラース・イメルマン（LO） | 同上 |
+| 修正 | マヌムア CTB／ヴァオヴァサ FB／ティケ FB | WTB／SO／WTB | 同上 |
+| 削除 | ジョンドレ・ウィリアムズ、ジョジ・シコテ、フォノヴァイ・タンギマナ | （削除） | 検証不可：en.wikipedia 現スカッドに不在 |
+| 削除 | 海外系選手の年齢（28歳等） | （削除） | 検証不可：en.wikipedia スカッドに年齢なし |
+| 修正 | 53名中11名／センター4人が海外系 | 32名中8名／センターのトマネ、シュワルツも海外系 | 同上 |
+| 修正 | サヴィン ステアウア所属・60キャップ | ラピド・58キャップ | 同上 |
+| 修正 | ルパヌ 53キャップ | 45キャップ | 同上 |
+| 修正 | モツォク 201cm/104kg・55キャップ、経歴にマシー欠落 | 197cm・36キャップ、マシー（2020-21）追加 | https://fr.wikipedia.org/wiki/Adrian_Moțoc |
+| 修正 | モツォク所属 ニス（仏ナショナル） | ニス（仏） | 同上（リーグ名は検証不可） |
+| 修正 | アントネスク ナルボンヌ・202cm/109kg・キャップ— | セルヴェットRC（2026-）・198cm・45 | https://fr.wikipedia.org/wiki/Marius_Antonescu |
+| 削除 | アントネスク「ロックとして通算115回の先発」 | （削除） | 検証不可：fr.wikipedia |
+| 修正 | ゴンティネアク ベジエ（2024-）・キャップ— | カストル（2026-）・19 | https://fr.wikipedia.org/wiki/Taylor_Gontineac |
+| 削除 | ゴンティネアク JIFF保持者 | （削除） | 検証不可：fr.wikipedia |
+| 修正 | ルパヌ 65kg「極めて小柄」 | 73kg（文削除） | https://en.wikipedia.org/wiki/Gabriel_Rupanu |
+| 修正 | シミオネスク WTB | FB | https://en.wikipedia.org/wiki/Romania_national_rugby_union_team |
+| 削除 | 若手3人の年齢（29/24/22歳） | （削除） | 検証不可：rugbyworldcup.com spotlight・en.wikipedia |
+
+### src/content/news/spain-rugby-2026.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | サッカーW杯決勝 延長105分のゴール | 106分 | https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_final |
+| 削除 | CSD分類で団体競技5番目／登録28,104人・サッカー874,093人・約31倍 | （削除） | 検証不可：ferugby.es検索、es/en.wikipedia |
+| 削除 | 2019年南アの結婚式写真が証拠 | （削除） | 検証不可：fr/en.wikipedia、検索（写真としか報道なし） |
+| 修正 | 関係者3名が「書面で」改変を認めた | 3名が改変したと表明 | https://www.thelocal.com/20220702/spanish-rugby-president-resigns-after-world-cup-exclusion |
+| 修正 | 2026欧州選手権 2/7 スペイン vs オランダ 51-33 | オランダ vs スペイン 33-51（アムステルダム開催） | https://en.wikipedia.org/wiki/2026_Rugby_Europe_Championship |
+| 修正 | 11月 チリ11/7・ウルグアイ11/14 | ウルグアイ11/7・チリ11/14 | https://en.wikipedia.org/wiki/2026_World_Rugby_Nations_Cup |
+| 修正 | ヒメノ ベジエ所属・63キャップ | バレンシア（西）・55、経歴「2025年から国内のバレンシア」 | https://en.wikipedia.org/wiki/Spain_national_rugby_union_team / https://es.wikipedia.org/wiki/Álvar_Gimeno |
+| 修正 | 見出し・本文「主力7人全員がフランス所属」 | 7人中6人 | 同上 |
+| 修正 | ピニェイロ33／サバラ32／アウレコエチェア13／アリセタ7キャップ | 24／35／24／12 | https://en.wikipedia.org/wiki/Spain_national_rugby_union_team |
+| 削除 | アルバロ・ガルシア 23キャップ | — | 検証不可：en.wiki 22とes.wiki 24で食い違い |
+| 修正 | アリセタ所属 バイヨンヌ（仏トップ14） | シャンベリ（仏） | https://fr.wikipedia.org/wiki/Manex_Ariceta |
+| 修正 | エゼアラ 3キャップ／クレルモン在籍2017-2023 | 2キャップ／2018-2023 | https://fr.wikipedia.org/wiki/Samuel_Ezeala |
+| 修正 | サバラ・アウレコエチェア・アリセタ・エゼアラの4人がJIFF | サバラのみ（他3人は検証不可で削除） | https://fr.wikipedia.org/wiki/Jon_Zabala |
+| 修正 | サバラ 190cm/124kg、経歴 タルブ→バイヨンヌ→ベジエ→ポー | 188cm、バイヨンヌ→アングレ（期限付き）→タルブ→ベジエ→ポー | https://fr.wikipedia.org/wiki/Jon_Zabala |
+| 削除 | サバラ初キャップ2020年2月1日ロシア戦 | （削除） | fr.wikipediaは2017年から代表と記載し矛盾 |
+| 修正 | アウレコエチェア 179cm/69kg | 175cm（体重は検証不可で削除） | https://fr.wikipedia.org/wiki/Kerman_Aurrekoetxea |
+| 削除 | スカッド年齢（バスケス38歳、グエメス37歳、インフェル・マルシニャック19歳、30代10名前後） | （小見出しごと削除） | 検証不可・食い違い：es.wikipediaはグエメス36歳、バスケスは1989年生 |
+| 修正 | リーグ 1回総当たりの11節 | 1回総当たり（各10試合） | https://en.wikipedia.org/wiki/2025%E2%80%9326_Divisi%C3%B3n_de_Honor_de_Rugby |
+| 削除 | 主要クラブにレコレタス・ブルゴス2031、CRCポスエロ／スポンサー冠名 | 2025-26参加クラブ名のみに | 同上 |
+| 削除 | 報酬を得る選手と得ない選手が混在するセミプロリーグ | （削除、見出し「国内で食えない」→「国内リーグの構造」） | 検証不可：en/es.wikipedia |
+| 削除 | イベリアンズ：FER直接契約・クラブへレンタル・40名・トビリシカップ等の総会承認・ロードマップ | 「2023年から協会が運営を引き継いだ代表の育成チーム」のみ | https://en.wikipedia.org/wiki/Castilla_y_Le%C3%B3n_Iberians（他は検証不可：ferugby.es検索2回） |
+
+### src/content/news/samoa-rugby-2026.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | マクファーランド 196cm・バックローとして活躍しています | 198cm・ロック・フランカーとして活躍しました（2026-27はラ・ロシェルへ） | https://en.wikipedia.org/wiki/Theo_McFarland |
+| 削除 | サモア国内には選手を養えるプロリーグがない | （削除） | 検証不可：en.wikipedia Rugby union in Samoa、検索 |
+| 修正 | NZやオーストラリアで生まれ育ったサモア系 | ニュージーランドなどで | https://en.wikipedia.org/wiki/Rugby_union_in_Samoa |
+
+### src/content/news/usa-rugby-2026.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 2025年9月14日、デンバーでサモアを29-13（表・本文2箇所） | コロラド州コマースシティで | https://en.wikipedia.org/wiki/2025_World_Rugby_Pacific_Nations_Cup |
+| 削除 | 理事会が満場一致で選出 | 「満場一致で」削除 | 検証不可：en.wikipedia 2031 Men's RWC（Acclamationのみ） |
+| 修正 | アメリカはウルグアイに敗退 | ウルグアイ、チリに敗れ、最終予選でも出場を逃した | https://en.wikipedia.org/wiki/United_States_national_rugby_union_team |
+| 削除 | MLRサラリーキャップ約50万ドル・上限4万5千ドル・多くが兼業（description含む） | （削除、見出し変更） | 検証不可：en.wikipedia 2026 MLR season、検索 |
+| 修正 | カーティ アンセム所属・47キャップ、経歴NOLA→アンセム | 所属—・27キャップ、経歴はLAギルティニス・シカゴのみ | https://en.wikipedia.org/wiki/Luke_Carty / USA代表wikiスカッド（Unattached） |
+| 修正 | ボーニ オールドグローリーDC・キャップ—、「いま」代表 | モリアーノ（伊）・11、「いま」削除 | https://en.wikipedia.org/wiki/Tommaso_Boni |
+| 削除 | ニウアフェ、カペリ・ピフェレティ・ジュニア、ソセネ＝フェアガイ、ナカリ、マアフ、ヘル | （削除）、ファカオシ・ピフェレティを記載 | 検証不可：USA代表wiki現スカッドに不在 |
+
+### src/content/news/zimbabwe-rugby-2026.md — 問題なし（検証18件）
+
+### src/content/news/tier2-nations-guide.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 香港 登録39名 | 2026年6月発表の代表30名 | https://en.wikipedia.org/wiki/Hong_Kong_national_rugby_union_team |
+| 削除 | 香港 ング・シウルン（中国系3名ほど→2名ほど） | （削除） | 検証不可：同wiki現スカッドに不在 |
+| 修正 | バーカー36歳／ヒル35歳／ソーヤー34歳 | 35歳／36歳／33歳 | 同上（生年月日） |
+| 削除 | アクステン＝バレット34歳、マクニーシュ34歳 | （削除） | 検証不可：同wiki現スカッドに不在 |
+| 修正 | ルーマニア 登録53名、イメルマン ジェイコブ BR、マヌムア CTB、ヴァオヴァサ・ティケ FB | 招集32名、ニコラース LO、WTB、SO・WTB | https://en.wikipedia.org/wiki/Romania_national_rugby_union_team |
+| 削除 | ルーマニア ウィリアムズ、シコテ、タンギマナ | （削除） | 検証不可：同wiki現スカッドに不在 |
+| 削除 | アメリカ 登録43名・9名、ニウアフェ、カペリ・ピフェレティ・ジュニア、ソセネ＝フェアガイ、ナカリ、マアフ、ヘル | （削除）、ファカオシ・ピフェレティを記載 | 検証不可：USA代表wiki現スカッドに不在 |
+| 修正 | ボーニ32歳／デ・ハース26歳／マクリーン27歳 | 33歳／27歳／26歳 | https://en.wikipedia.org/wiki/Tommaso_Boni / https://en.wikipedia.org/wiki/Ruben_de_Haas / https://en.wikipedia.org/wiki/Rufus_McLean |
+| 削除 | ポルトガル 登録44名、トマス・バティスタ18歳（見出し「18歳と37歳」） | （削除、見出し「37歳のベテランが健在」） | 検証不可：en.wikipedia、検索 |
+| 修正 | アンソニー・アルヴェス36歳 | 37歳 | https://en.wikipedia.org/wiki/Anthony_Alves |
+| 削除 | チリ 代表選手の本業・学業（ディトゥスの食肉事業、ボーメ、ペドレロ、アイスマン、マルティネス、トレアルバ）と見出し | （削除、見出し「国内外でプレーする代表」） | 検証不可：検索2回（La Tercera・UC記事見つからず）。年齢もペドレロ25・トレアルバ30で誤り |
+| 修正 | シグレン MLRのNEフリージャックス所属 | チリのセルクナム | https://en.wikipedia.org/wiki/Chile_national_rugby_union_team |
+| 修正 | スペイン表 ヒメノ ベジエ・63、ピニェイロ33、サバラ32、アウレコエチェア13、アリセタ バイヨンヌ・7、エゼアラ3 | バレンシア（西）・55、24、35、24、シャンベリ・12、2 | spain記事と同じ根拠 |
+| 削除 | アルバロ・ガルシア23キャップ | — | en/es.wikipedia食い違い |
+| 修正 | JIFF 4人／エゼアラ2017-2023 | サバラのみ／2018-2023 | https://fr.wikipedia.org/wiki/Jon_Zabala / https://fr.wikipedia.org/wiki/Samuel_Ezeala |
+| 削除 | ディビシオン・デ・オノール セミプロリーグ・待遇差 | （削除） | 検証不可 |
+| 修正 | イベリアンズ 直営フランチャイズ立ち上げ・直接契約・レンタル・40名 | 2023年から協会が運営を引き継ぎ代表の育成チーム | https://en.wikipedia.org/wiki/Castilla_y_Le%C3%B3n_Iberians |
+| 修正 | カナダ 推定100万ポンドの収入減・登録料値上げ | 出場していれば約45万ポンドを受け取れたと報道（100万はCAD・2018年、値上げも2018年） | https://arc-dev.theglobeandmail.com/sports/article-rugby-canada-expects-to-feel-the-pinch-after-failing-to-qualify-for / https://rugby.ca/en/news/2018/04/statement-from-rugby-canada |
+| 削除 | ジンバブエ 登録32名 | 「代表には」 | 検証不可 |
+
+注：チリ詳細記事へのリンク文言「食肉業者と土木エンジニアがいる代表チーム」はリンク先記事タイトルのため未変更（要判断：chile-rugby-2026.md 側の同内容も検証不可の可能性大）。
+
+### 集計（担当：countries_b）
+- 記事数：6（romania / samoa / spain / usa / zimbabwe / tier2）
+- 修正件数：41
+- 削除件数：26
+- 要判断：tier2のチリ詳細記事リンク文言（リンク先側の職業情報が未検証）。samoa記事「上記6大リーグ」は自サイト名鑑データの集計で外部検証対象外（「上記」が指す記述が本文にない）
+
