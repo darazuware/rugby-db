@@ -3,20 +3,30 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-10-13T05:03:35+09:00",
+  "checked_at": "2026-10-13T20:38:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "ec11b445c06ca4d6"
+      "hash": "814e8579e55550f2"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "34038aa45393ce22"
+      "hash": "28c0b0321aa22f9a"
     }
   ],
   "items": [
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8919",
+      "title": "試合情報 2026年10月13日 プレシーズンマッチ 10月24日（土曜）豊田自動織機シャトルズ愛知戦のご案内",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://docomo-rugby.jp/game/report.html?id=336",
+      "title": "試合情報 2026年10月13日 【JAPAN RUGBY LEAGUE ONE RISING】JAPAN RUGBY LEAGUE ONE RISING 花園近鉄ライナーズ",
+      "date": "2026-10-13"
+    },
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8917",
       "title": "お知らせ 2026年10月8日 熱活GAMESにレッドハリケーンズ大阪が出場！",
@@ -211,26 +221,6 @@
       "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8690",
       "title": "アカデミー 2026年7月2日 【U12アドバンスクラス】6月活動レポート",
       "date": "2026-07-02"
-    },
-    {
-      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8687",
-      "title": "アカデミー 2026年7月2日 【U12エントリークラス】6月活動レポート",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8257",
-      "title": "お知らせ 2026年7月1日 【リリース】2026-27シーズン 新体制のお知らせ",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://docomo-rugby.jp/game/report.html?id=324",
-      "title": "試合情報 2026年5月13日 【NTT JAPAN RUGBY LEAGUE ONE 2025-26 DIVISION 2】第14節 NECグリーンロケッツ東葛",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "http://docomo-rugby.jp/photo/game/detail.html?id=335",
-      "title": "試合情報 2026年5月12日 【トレーニングマッチ】 豊田自動織機シャトルズ愛知 フォトギャラリー",
-      "date": "2026-05-12"
     },
     {
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8386",

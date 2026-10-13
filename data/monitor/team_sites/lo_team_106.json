@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-10-13T05:03:35+09:00",
+  "checked_at": "2026-10-13T20:38:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "255fcd909f0032e2"
+      "hash": "32040a90dd677325"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "1ee81dc877c66449"
+      "hash": "6dce7045e9f687d8"
     }
   ],
   "items": [
@@ -39,7 +39,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/jrlr2026-2",
-      "title": "2026-10-02 リーグワンライジング vsRH大阪 10/31（日）三菱重工相模原G｜観戦情報掲載",
+      "title": "2026-10-02 リーグワンライジング vsRH大阪 10/31（土）三菱重工相模原G｜観戦情報掲載",
       "date": "2026-10-02"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T05:03:35+09:00",
+  "checked_at": "2026-10-13T20:38:47+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/event/index_2030.html",
+          "title": "2026.09.25 イベント 2026.9.18 浦安警察署 一日警察署長を務めました",
+          "date": "2026-09-25",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -21,8 +31,44 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35634/",
+          "title": "2026/10/13 チーム 10月13日(火) 三田市出身の上ノ坊 駿介選手が三田市長を表敬訪問しました",
+          "date": "2026-10-13",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35614/",
+          "title": "2026/10/13 チーム 【中止】12月5日(土)プレシーズンマッチ トヨタヴェルブリッツ戦中止のお知らせ",
+          "date": "2026-10-13",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35612/",
+          "title": "2026/10/13 イベント 【選手イベント参加情報】10月18日(日)下鴨神社で開催される「第10回タグラグビー大会記念－座談会－」に上村 樹輝選手、李 承信選手が出演します",
+          "date": "2026-10-13",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35547/",
+          "title": "2026/10/13 お知らせ サーバーメンテナンスのお知らせ",
+          "date": "2026-10-13",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/interview/post35617/",
+          "title": "2026/10/13 試合 【試合レポート】 10月10日(土) ジャパンラグビー リーグワン ライジング2026 ルリーロ福岡戦",
+          "date": "2026-10-13",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/",
+        "https://www.kobesteelers.com/news/cat_news/information/",
+        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+      ],
       "rename_signals": []
     },
     {
@@ -45,8 +91,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/news/261013fc/",
+          "title": "★新規受付開始★【2026-27ファンクラブ】入会受付のご案内",
+          "date": "2026-10-13",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/221130_1/",
+          "title": "チームスピリット・チーム歌",
+          "date": "2026-10-01",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.bravelupus.com/",
+        "https://www.bravelupus.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -58,7 +120,9 @@
       "first_run": false,
       "item_count": 10,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -95,9 +159,11 @@
       "official_url": "https://www.canon-eagles.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 18,
+      "item_count": 17,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/"
+      ],
       "rename_signals": []
     },
     {
@@ -108,8 +174,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261013a.html",
+          "title": "プレシーズンマッチ 花園近鉄ライナーズ戦 新グッズ販売のお知らせ",
+          "date": "2026-10-13",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -119,9 +194,19 @@
       "official_url": "http://www.kubota-spears.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 56,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 55,
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/calendar/league01_rising/2026/1011/1300_00.html",
+          "title": "2026.10.13 ニュース・トピックス",
+          "date": "2026-10-13",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/",
+        "https://www.kubota-spears.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -171,8 +256,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kyudenvoltex.com/game/r169",
+          "title": "試合レポート",
+          "date": "2026-10-10",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kyudenvoltex.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -185,7 +279,10 @@
       "item_count": 24,
       "new_items": [],
       "changed_pages": [
-        "https://blue-sharks.jp/"
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
       ],
       "rename_signals": []
     },
@@ -194,11 +291,13 @@
       "league": "league-one-d2",
       "name": "豊田自動織機シャトルズ愛知",
       "official_url": "https://shuttles-aichi.com/",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
+      "item_count": 6,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://shuttles-aichi.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -251,10 +350,24 @@
       "official_url": "https://docomo-rugby.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 45,
-      "new_items": [],
+      "item_count": 43,
+      "new_items": [
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8919",
+          "title": "試合情報 2026年10月13日 プレシーズンマッチ 10月24日（土曜）豊田自動織機シャトルズ愛知戦のご案内",
+          "date": "2026-10-13",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/game/report.html?id=336",
+          "title": "試合情報 2026年10月13日 【JAPAN RUGBY LEAGUE ONE RISING】JAPAN RUGBY LEAGUE ONE RISING 花園近鉄ライナーズ",
+          "date": "2026-10-13",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://docomo-rugby.jp/"
+        "https://docomo-rugby.jp/",
+        "https://docomo-rugby.jp/news/"
       ],
       "rename_signals": []
     },
@@ -266,7 +379,32 @@
       "status": "ok",
       "first_run": false,
       "item_count": 44,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/category/with-watergush/",
+          "title": "私とウォーターガッシュ",
+          "date": "2026-10-13",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/20261013-2/",
+          "title": "私とウォーターガッシュ 2026/10/13 私とWATER GUSH #1 出渕賢史 PRダイエット目的で強制的に始めたラグビーが、人生に彩りを与えてくれた",
+          "date": "2026-10-13",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/category/news/",
+          "title": "お知らせ",
+          "date": "2026-10-10",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/category/community/",
+          "title": "地域貢献",
+          "date": "2026-10-01",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -281,8 +419,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.rugguts.secom.co.jp/2026/10/post-31.html",
+          "title": "新加入スタッフのお知らせ",
+          "date": "2026-10-13",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -307,8 +455,7 @@
       "item_count": 45,
       "new_items": [],
       "changed_pages": [
-        "https://www.skyactivs.com/",
-        "https://www.skyactivs.com/news/2091"
+        "https://www.skyactivs.com/"
       ],
       "rename_signals": []
     },
@@ -369,10 +516,17 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "狭山セコムラガッツ",
+      "url": "https://www.rugguts.secom.co.jp/2026/10/post-31.html",
+      "title": "新加入スタッフのお知らせ",
+      "date": "2026-10-13",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
-    "三重ホンダヒート: 到達できるページがない: http://www.honda-heat.jp",
-    "豊田自動織機シャトルズ愛知: 到達できるページがない: https://shuttles-aichi.com/"
+    "三重ホンダヒート: 到達できるページがない: http://www.honda-heat.jp"
   ]
 }

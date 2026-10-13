@@ -3,13 +3,13 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-10-13T05:03:35+09:00",
+  "checked_at": "2026-10-13T20:38:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "3e30b68d56311098"
+      "hash": "85de366b1e16dd1e"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
@@ -20,6 +20,11 @@
     {
       "url": "https://www.kyudenvoltex.com/news/1006",
       "title": "チケット・ 試合情報",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/game/r169",
+      "title": "試合レポート",
       "date": "2026-10-10"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://www.kyudenvoltex.com/news/930",
       "title": "アカデミー 2025年11月18日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第21回",
       "date": "2025-11-18"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/929",
-      "title": "アカデミー 2025年11月17日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第20回",
-      "date": "2025-11-17"
     }
   ]
 }

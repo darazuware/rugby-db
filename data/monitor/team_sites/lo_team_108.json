@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-10-13T05:03:35+09:00",
+  "checked_at": "2026-10-13T20:38:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "bb8326e9fd427a8e"
+      "hash": "015258abf2c6695a"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261013a.html",
+      "title": "プレシーズンマッチ 花園近鉄ライナーズ戦 新グッズ販売のお知らせ",
+      "date": "2026-10-13"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261008a.html",
       "title": "10月10日(土) リーグワン ライジング2026 JR東日本グリーンウォリアーズ東葛戦 メンバーのお知らせ",
@@ -26,11 +31,6 @@
     {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261005b.html",
       "title": "10月11日(日) みんなでつなごうリレーフェスティバル2026「ゆるキャラリレー」ラムまる出場のお知らせ",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261005a.html",
-      "title": "10月11日(日) 自由が丘女神まつり「iTSCOM presents リコーブラックラムズ東京スペシャルトークショー2026」のお知らせ",
       "date": "2026-10-05"
     },
     {

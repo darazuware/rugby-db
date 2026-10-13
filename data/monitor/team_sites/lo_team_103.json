@@ -3,28 +3,38 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-13T05:03:35+09:00",
+  "checked_at": "2026-10-13T20:38:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "95e024747310e93a"
+      "hash": "bf93c3619742dc7e"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "b3d690e570585c96"
+      "hash": "84756a8b990c85a5"
     }
   ],
   "items": [
     {
-      "url": "https://www.bravelupus.com/news/261010/",
-      "title": "2026-27シーズン公式戦ジャージーデザイン、およびオフィシャルパートナー決定のお知らせ",
-      "date": "2026-10-10"
+      "url": "https://www.bravelupus.com/news/261013fc/",
+      "title": "★新規受付開始★【2026-27ファンクラブ】入会受付のご案内",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260923/",
+      "title": "【プレシーズンマッチ】10/17日（土）vs 埼玉パナソニックワイルドナイツ 観戦について",
+      "date": "2026-10-13"
     },
     {
       "url": "https://www.bravelupus.com/news/",
       "title": "記事一覧",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261010/",
+      "title": "2026-27シーズン公式戦ジャージーデザイン、およびオフィシャルパートナー決定のお知らせ",
       "date": "2026-10-10"
     },
     {
@@ -68,6 +78,11 @@
       "date": "2026-10-01"
     },
     {
+      "url": "https://www.bravelupus.com/news/221130_1/",
+      "title": "チームスピリット・チーム歌",
+      "date": "2026-10-01"
+    },
+    {
       "url": "https://www.bravelupus.com/news/260928/",
       "title": "東芝ブレイブルーパス東京 チーム名称変更のお知らせ",
       "date": "2026-09-28"
@@ -86,11 +101,6 @@
       "url": "https://www.bravelupus.com/news/260924-2/",
       "title": "「ルーパス塾 夏期集中トレーニング2026」を実施しました",
       "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260923/",
-      "title": "【プレシーズンマッチ】10/17日（土）vs 埼玉パナソニックワイルドナイツ 観戦について",
-      "date": "2026-09-23"
     },
     {
       "url": "https://www.bravelupus.com/news/260918/",
@@ -211,16 +221,6 @@
       "url": "https://www.bravelupus.com/news/260709/",
       "title": "ネーションズチャンピオンシップ2026 日本代表 対 アイルランド代表 試合登録メンバーのお知らせ",
       "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260709-2/",
-      "title": "8月2日（日）府中駅南口直結「くるる」にてポップアップストアを出店します",
-      "date": "2026-07-09"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260707/",
-      "title": "新宿区「令和７年度 親子ぜん息デイキャンプ」に参加しました",
-      "date": "2026-07-07"
     },
     {
       "url": "https://www.bravelupus.com/game/https-www-bravelupus-com-game-ntt-japan-rugby-league-one-2025-26-play-offs-quarterfinal/",

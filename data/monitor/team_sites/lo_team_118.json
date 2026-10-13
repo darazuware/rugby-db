@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "狭山セコムラガッツ",
   "official_url": "https://www.rugguts.secom.co.jp/",
-  "checked_at": "2026-10-13T05:03:35+09:00",
+  "checked_at": "2026-10-13T20:38:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.rugguts.secom.co.jp/",
-      "hash": "1db5f5e9cfe87078"
+      "hash": "09d84009789d23e8"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/news/",
-      "hash": "209ecfdf42c2fdfd"
+      "hash": "0dd8474070a37985"
     }
   ],
   "items": [
@@ -26,6 +26,11 @@
       "url": "https://www.rugguts.secom.co.jp/2026/10/2026-27-3.html",
       "title": "2026-27シーズン、新ジャージーデザインのお知らせ",
       "date": "2026-10-20"
+    },
+    {
+      "url": "https://www.rugguts.secom.co.jp/2026/10/post-31.html",
+      "title": "新加入スタッフのお知らせ",
+      "date": "2026-10-13"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/2026/10/post-29.html",
@@ -211,11 +216,6 @@
       "url": "https://www.rugguts.secom.co.jp/2026/03/32431fm.html",
       "title": "3月24日（火）、31日（火）FMラジオ「ラグビーカフェオンレディオ」にライチェル出演のお知らせ",
       "date": "2026-03-32"
-    },
-    {
-      "url": "https://www.rugguts.secom.co.jp/results/20260329.html",
-      "title": "NTTジャパンラグビー リーグワン 2025-26 D3 第10節 の試合結果を掲載しました。",
-      "date": "2026-03-29"
     }
   ]
 }
