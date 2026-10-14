@@ -11,7 +11,7 @@ source_diff: "2026-09-14_national.json"
 2026-W38に代表キャップ数の更新が確認された選手は19名（代表の選手データに基づく）。
 
 - [Caleb MUNTZ](/national-teams/fiji/#p-caleb-muntz): フィジー代表 23→24キャップ
-- [Cameron HANEKOM](/players/cameron-hanekom/): 南アフリカ代表 5→6キャップ
+- [Cameron HANEKOM](/teams/urc/vodacom-bulls/#p-cameron-hanekom): 南アフリカ代表 5→6キャップ
 - [Cleopas KUNDIONA](/national-teams/zimbabwe/#p-cleopas-kundiona): ジンバブエ代表 17→18キャップ
 - [Demba BAMBA](/national-teams/france/#p-demba-bamba): フランス代表 32→33キャップ
 - [Du'Plessis KIRIFI](/national-teams/new-zealand/#p-du-plessis-kirifi): ニュージーランド代表 7→8キャップ

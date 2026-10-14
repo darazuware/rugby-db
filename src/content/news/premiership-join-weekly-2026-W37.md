@@ -10,7 +10,7 @@ draft: false
 
 2026-W37にプレミアシップの所属選手データで、新たな所属先が確認された選手は64名。前所属は各選手の経歴データに基づく。
 
-- [Alex LOZOWSKI](/players/alex-lozowski/)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入（前所属: Saracens）
+- [Alex LOZOWSKI](/teams/premiership/sale-sharks/#p-alex-lozowski)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入（前所属: Saracens）
 - [Allan FERRIE](/teams/premiership/newcastle-red-bulls/#p-allan-ferrie)が[ニューカッスル・ファルコンズ](/teams/premiership/newcastle-red-bulls/)に加入（前所属: Coventry Rugby）
 - [Andrew TURNER](/teams/premiership/bristol-bears/#p-andrew-turner)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入（前所属: Harlequins）
 - [Archie MCARTHUR](/teams/premiership/exeter-chiefs/#p-archie-mcarthur)が[エクセター・チーフス](/teams/premiership/exeter-chiefs/)に加入（前所属: Hartpury RFC）

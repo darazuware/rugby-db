@@ -14,7 +14,7 @@ draft: false
 
 - [アキ・トゥイバイララ](/teams/league-one/shizuoka-blue-revs/#p-aki-tuivailala)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。
 - [アントニオ・シャルフーン](/players/antonio-shalfoon/)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。
-- [アフェレレ・ファッシ](/players/aphelele-fassi/)が[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
+- [アフェレレ・ファッシ](/teams/league-one/toshiba-brave-lupus-tokyo/#p-aphelele-fassi)が[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
 - [ベイリー・トゥルー](/teams/league-one/kubota-spears-funabashi-tokyo-bay/#p-bailey-trew)が[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)（リーグワン）に加入した。
 - [ベイリン・サリヴァン](/teams/league-one/kubota-spears-funabashi-tokyo-bay/#p-bailyn-sullivan)が[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)（リーグワン）に加入した。
 - [デイヴィッド・ハヴィリ](/teams/league-one/toshiba-brave-lupus-tokyo/#p-david-havili)が[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
@@ -22,9 +22,9 @@ draft: false
 - [土屋 英慈](/teams/league-one/shizuoka-blue-revs/#p-eiji-tsuchiya)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。
 - [ゲージ・ジャクソン](/teams/league-one/yokohama-canon-eagles/#p-gage-jackson)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
 - [ジョージ・ブリッジ](/players/george-bridge/)が[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)（リーグワン）に加入した。
-- [グラント・ウィリアムズ](/players/grant-williams/)が[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)（リーグワン）に加入した。
+- [グラント・ウィリアムズ](/teams/league-one/kobelco-kobe-steelers/#p-grant-williams)が[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)（リーグワン）に加入した。
 - [ハンター・パイサミ](/players/hunter-paisami/)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。
-- [ジャック・デンプシー](/players/jack-dempsey/)が[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
+- [ジャック・デンプシー](/teams/league-one/toshiba-brave-lupus-tokyo/#p-jack-dempsey)が[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
 - [ジェームス・ロウ](/players/james-lowe/)が[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/)（リーグワン）に加入した。
 - [ジョナ・ロウ](/players/jonah-lowe/)が[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
 - [ジョセフ・ギャビガン](/teams/league-one/toshiba-brave-lupus-tokyo/#p-joseph-gavigan)が[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。

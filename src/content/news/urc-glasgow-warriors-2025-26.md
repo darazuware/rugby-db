@@ -30,7 +30,7 @@ tags: ["URC", "チーム紹介", "2025-26", "グラスゴー・ウォリアー�
 | Scott CUMMINGS | スコット・カミングス | LO | スコットランド | 52 |
 | Rory DARGE | ロリー・ダージ | FL/No8 | スコットランド | 41 |
 | Matt FAGERSON | マット・ファジャーソン | FL/No8 | スコットランド | 66 |
-| Jack DEMPSEY | [ジャック・デンプシー](/players/jack-dempsey/) | FL/No8 | スコットランド | 35 |
+| Jack DEMPSEY | [ジャック・デンプシー](/teams/league-one/toshiba-brave-lupus-tokyo/#p-jack-dempsey) | FL/No8 | スコットランド | 35 |
 | Jamie DOBIE | ジェイミー・ドビー | SH | スコットランド | 22 |
 | George HORNE | ジョージ・ホーン | SH | スコットランド | 47 |
 | Adam HASTINGS | アダム・ヘイスティングス | SO | スコットランド | 34 |

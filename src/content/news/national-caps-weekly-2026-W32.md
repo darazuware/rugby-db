@@ -11,7 +11,7 @@ source_diff: "2026-08-09_national.json"
 2026-W32に代表キャップ数の更新が確認された選手は13名（代表の選手データに基づく）。
 
 - [Boris WENGER](/national-teams/argentina/#p-boris-wenger): アルゼンチン代表 7→9キャップ
-- [Cameron HANEKOM](/players/cameron-hanekom/): 南アフリカ代表 1→3キャップ
+- [Cameron HANEKOM](/teams/urc/vodacom-bulls/#p-cameron-hanekom): 南アフリカ代表 1→3キャップ
 - [Declan MEREDITH](/national-teams/australia/#p-declan-meredith): オーストラリア代表 1→3キャップ
 - [Efraín ELÍAS](/national-teams/argentina/#p-efrain-elias): アルゼンチン代表 3→4キャップ
 - [Faustino SÁNCHEZ VALAROLO](/national-teams/argentina/#p-faustino-sanchez-valarolo): アルゼンチン代表 2→3キャップ

@@ -1,6 +1,6 @@
 {
  "_note": "scripts/build_player_pages.py が生成。force_include/force_exclude のみ手編集可",
- "generated_at": "2026-10-14T04:51:28+00:00",
+ "generated_at": "2026-10-14T12:18:19+00:00",
  "criteria": "K1|K2|K3(mention>=2)",
  "force_include": [
   "lo_484310"
@@ -8,22 +8,8 @@
  "force_exclude": [],
  "players": [
   {
-   "id": "ar_alex-lozowski",
-   "slug": "alex-lozowski",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
    "id": "ar_alvaro-garcia",
    "slug": "alvaro-garcia",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "ar_cameron-hanekom",
-   "slug": "cameron-hanekom",
    "reasons": [
     "K3"
    ]
@@ -40,16 +26,14 @@
    "slug": "esei-ha-angana",
    "reasons": [
     "K1",
-    "K2",
-    "K3"
+    "K2"
    ]
   },
   {
    "id": "ar_ion-neculai",
    "slug": "ion-neculai",
    "reasons": [
-    "K2",
-    "K3"
+    "K2"
    ]
   },
   {
@@ -65,8 +49,7 @@
    "slug": "lua-makisi",
    "reasons": [
     "K1",
-    "K2",
-    "K3"
+    "K2"
    ]
   },
   {
@@ -81,8 +64,7 @@
    "slug": "mike-stolberg",
    "reasons": [
     "K1",
-    "K2",
-    "K3"
+    "K2"
    ]
   },
   {
@@ -104,8 +86,7 @@
    "slug": "sojiro-otsuka",
    "reasons": [
     "K1",
-    "K2",
-    "K3"
+    "K2"
    ]
   },
   {
@@ -113,8 +94,7 @@
    "slug": "warner-dearns",
    "reasons": [
     "K1",
-    "K2",
-    "K3"
+    "K2"
    ]
   },
   {
@@ -180,23 +160,14 @@
    "slug": "samisoni-tua-483497",
    "reasons": [
     "K1",
-    "K2",
-    "K3"
+    "K2"
    ]
   },
   {
    "id": "lo_483750",
    "slug": "haruto-kida-483750",
    "reasons": [
-    "K1",
-    "K3"
-   ]
-  },
-  {
-   "id": "lo_483767",
-   "slug": "faulua-makisi-483767",
-   "reasons": [
-    "K3"
+    "K1"
    ]
   },
   {
@@ -204,8 +175,7 @@
    "slug": "izi-sword-483782",
    "reasons": [
     "K1",
-    "K2",
-    "K3"
+    "K2"
    ]
   },
   {
@@ -222,8 +192,7 @@
    "slug": "hayate-era-483786",
    "reasons": [
     "K1",
-    "K2",
-    "K3"
+    "K2"
    ]
   },
   {
@@ -239,16 +208,14 @@
    "id": "lo_483934",
    "slug": "itsuki-kamimura-483934",
    "reasons": [
-    "K1",
-    "K3"
+    "K1"
    ]
   },
   {
    "id": "lo_483940",
    "slug": "inoke-burua-483940",
    "reasons": [
-    "K1",
-    "K3"
+    "K1"
    ]
   },
   {
@@ -287,8 +254,7 @@
    "slug": "kenji-sato-484033",
    "reasons": [
     "K1",
-    "K2",
-    "K3"
+    "K2"
    ]
   },
   {
@@ -297,13 +263,6 @@
    "reasons": [
     "K1",
     "K2"
-   ]
-  },
-  {
-   "id": "lo_484053",
-   "slug": "esei-haangana-484053",
-   "reasons": [
-    "K3"
    ]
   },
   {
@@ -362,13 +321,6 @@
    ]
   },
   {
-   "id": "lo_484344",
-   "slug": "michael-stolberg-484344",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
    "id": "lo_484358",
    "slug": "michael-leitch-484358",
    "reasons": [
@@ -396,13 +348,6 @@
   {
    "id": "lo_484466",
    "slug": "kazuki-himeno-484466",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "lo_484693",
-   "slug": "kanato-hirano-484693",
    "reasons": [
     "K3"
    ]
@@ -452,8 +397,7 @@
    "slug": "yuki-ikeda-484880",
    "reasons": [
     "K1",
-    "K2",
-    "K3"
+    "K2"
    ]
   },
   {
@@ -487,8 +431,7 @@
    "slug": "shuhei-takeuchi-485712",
    "reasons": [
     "K1",
-    "K2",
-    "K3"
+    "K2"
    ]
   },
   {
@@ -536,8 +479,7 @@
    "slug": "keijiro-tamefusa-486437",
    "reasons": [
     "K1",
-    "K2",
-    "K3"
+    "K2"
    ]
   },
   {
@@ -551,20 +493,12 @@
    "id": "lo_493618",
    "slug": "shunsuke-uenobo-493618",
    "reasons": [
-    "K1",
-    "K3"
+    "K1"
    ]
   },
   {
    "id": "lo_announced_antonio-shalfoon",
    "slug": "antonio-shalfoon",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "lo_announced_aphelele-fassi",
-   "slug": "aphelele-fassi",
    "reasons": [
     "K3"
    ]
@@ -584,22 +518,8 @@
    ]
   },
   {
-   "id": "lo_announced_grant-williams",
-   "slug": "grant-williams",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
    "id": "lo_announced_hunter-paisami",
    "slug": "hunter-paisami",
-   "reasons": [
-    "K3"
-   ]
-  },
-  {
-   "id": "lo_announced_jack-dempsey",
-   "slug": "jack-dempsey",
    "reasons": [
     "K3"
    ]
@@ -682,8 +602,7 @@
    "slug": "univ-早稲田大学-矢崎由高",
    "reasons": [
     "K1",
-    "K2",
-    "K3"
+    "K2"
    ]
   }
  ]

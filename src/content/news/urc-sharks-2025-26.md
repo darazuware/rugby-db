@@ -40,10 +40,10 @@ tags: ["URC", "チーム紹介", "2025-26", "シャークス"]
 | Phepsi BUTHELEZI | ペプシ・ブテレジ | FL/No8 |
 | Jordan HENDRIKSE | ジョーダン・ヘンドリクセ | SO |
 | François VENTER | フランソワ・フェンター | CTB |
-| Aphelele FASSI | [アフェレレ・ファッシ](/players/aphelele-fassi/) | FB |
+| Aphelele FASSI | [アフェレレ・ファッシ](/teams/league-one/toshiba-brave-lupus-tokyo/#p-aphelele-fassi) | FB |
 | Edwill VAN DER MERWE | エドウィル・ファン・デル・メルウェ | WTB |
 | Marnus POTGIETER | マルナス・ポトヒーター | WTB |
-| Grant WILLIAMS | [グラント・ウィリアムズ](/players/grant-williams/) | SH |
+| Grant WILLIAMS | [グラント・ウィリアムズ](/teams/league-one/kobelco-kobe-steelers/#p-grant-williams) | SH |
 | Emmanuel TSHITUKA | エマヌエル・チトゥカ | FL/No8 |
 
 ---

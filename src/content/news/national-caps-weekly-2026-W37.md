@@ -11,7 +11,7 @@ source_diff: "2026-09-07_national.json"
 2026-W37に代表キャップ数の更新が確認された選手は30名（代表の選手データに基づく）。
 
 - [Caleb MUNTZ](/national-teams/fiji/#p-caleb-muntz): フィジー代表 22→23キャップ
-- [Cameron HANEKOM](/players/cameron-hanekom/): 南アフリカ代表 4→5キャップ
+- [Cameron HANEKOM](/teams/urc/vodacom-bulls/#p-cameron-hanekom): 南アフリカ代表 4→5キャップ
 - [Daragh DOYLE](/national-teams/canada/#p-daragh-doyle): カナダ代表 2→3キャップ
 - [Dewald KOTZE](/national-teams/canada/#p-dewald-kotze): カナダ代表 15→16キャップ
 - [Emmanuel MEAFOU](/national-teams/france/#p-emmanuel-meafou): フランス代表 17→18キャップ
