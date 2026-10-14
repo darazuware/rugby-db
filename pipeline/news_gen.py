@@ -545,7 +545,7 @@ def compact_call_up_section(sec: str) -> str:
     def flush() -> None:
         nonlocal group
         if group:
-            out.append(f"**{group}**: " + "、".join(names))
+            out.extend([f"**{group}**: " + "、".join(names), ""])
             names.clear()
             group = None
 

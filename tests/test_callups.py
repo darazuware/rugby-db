@@ -166,6 +166,6 @@ def test_compact_call_up_section_drops_photos():
            "### 選手フォト\n\nA（Instagram）\n\n<blockquote class=\"instagram-media\"></blockquote>\n\n"
            "**前回招集から新たに選出**\nB\n")
     out = news_gen.compact_call_up_section(sec)
-    assert "**FW（フォワード）**: [A](/players/a/)、B" in out
+    assert "**FW（フォワード）**: [A](/players/a/)、B\n\n**前回招集" in out
     assert "instagram" not in out and "**前回招集から新たに選出**\nB" in out
     assert news_gen.compact_call_up_section(out) == out
