@@ -4,6 +4,7 @@ description: "イングランドトップリーグ「ガラガー・プレミア
 pubDate: 2026-04-22
 category: "COLUMN"
 tags: ["プレミアシップ", "チーム紹介", "2025-26", "イングランドラグビー"]
+noindex: true
 ---
 
 ## リーグ概要
