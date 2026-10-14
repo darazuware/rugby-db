@@ -3,16 +3,26 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-10-06T20:11:10+09:00",
+  "checked_at": "2026-10-14T18:25:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "d036064b5bb5b33f"
+      "hash": "015258abf2c6695a"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261013a.html",
+      "title": "プレシーズンマッチ 花園近鉄ライナーズ戦 新グッズ販売のお知らせ",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261008a.html",
+      "title": "10月10日(土) リーグワン ライジング2026 JR東日本グリーンウォリアーズ東葛戦 メンバーのお知らせ",
+      "date": "2026-10-08"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261006a.html",
       "title": "手書き風ラムまるトートバッグ 再入荷のお知らせ",
@@ -24,19 +34,9 @@
       "date": "2026-10-05"
     },
     {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261005a.html",
-      "title": "10月11日(日) 自由が丘女神まつり「iTSCOM presents リコーブラックラムズ東京スペシャルトークショー2026」のお知らせ",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/members/2026-2027/20261001a.html",
-      "title": "NPCマナワツ・ターボス期限付き移籍レポート③（笹川大五選手）",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260909a.html",
-      "title": "(10/5更新) NTT JAPAN RUGBY LEAGUE ONE 2026-27 試合日程のお知らせ",
-      "date": "2026-09-09"
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260907a.html",
+      "title": "(10/8更新) 10月10日(土) 「秋のラグビー観戦＆防災デー」開催のお知らせ",
+      "date": "2026-09-07"
     }
   ]
 }

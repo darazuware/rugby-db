@@ -3,24 +3,54 @@
   "league": "league-one-d1",
   "name": "クボタスピアーズ船橋・東京ベイ",
   "official_url": "http://www.kubota-spears.com/",
-  "checked_at": "2026-10-06T20:11:10+09:00",
+  "checked_at": "2026-10-14T18:25:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kubota-spears.com/",
-      "hash": "57e36a79b914b7a1"
+      "hash": "b1ba804a99517088"
     },
     {
       "url": "https://www.kubota-spears.com/news/",
-      "hash": "ec45b85e9880255e"
+      "hash": "5913f15e780d4236"
     }
   ],
   "items": [
     {
+      "url": "https://www.kubota-spears.com/news/2026/10/14/140000.html",
+      "title": "2026.10.14 ニュース・トピックス",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://www.kubota-spears.com/event/2026/10/14/121500.html",
+      "title": "2026.10.14 イベント情報",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://www.kubota-spears.com/academy_news/2026/10/14/120000.html",
+      "title": "2026.10.14 育成活動",
+      "date": "2026-10-14"
+    },
+    {
       "url": "https://www.kubota-spears.com/photo/",
-      "title": "2026.10.05 ニュース・トピックス",
-      "date": "2026-10-05"
+      "title": "2026.10.13 ニュース・トピックス",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.kubota-spears.com/calendar/league01_rising/2026/1011/1300_00.html",
+      "title": "2026.10.13 ニュース・トピックス",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.kubota-spears.com/event/2026/10/09/100000.html",
+      "title": "2026.10.09 イベント情報",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/10/08/110000.html",
+      "title": "2026.10.08 ニュース・トピックス",
+      "date": "2026-10-08"
     },
     {
       "url": "https://www.kubota-spears.com/news/2026/10/05/140000.html",
@@ -148,11 +178,6 @@
       "date": "2026-08-05"
     },
     {
-      "url": "https://www.kubota-spears.com/event/2026/08/04/120000.html",
-      "title": "2026.08.04 イベント情報",
-      "date": "2026-08-04"
-    },
-    {
       "url": "https://www.kubota-spears.com/news/2026/08/03/140000.html",
       "title": "2026.08.03 ニュース・トピックス",
       "date": "2026-08-03"
@@ -168,21 +193,6 @@
       "date": "2026-07-24"
     },
     {
-      "url": "https://www.kubota-spears.com/news/2026/07/21/140000.html",
-      "title": "2026.07.21 ニュース・トピックス",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://www.kubota-spears.com/event/2026/07/17/120000.html",
-      "title": "2026.07.17 イベント情報",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.kubota-spears.com/news/2026/07/16/140000.html",
-      "title": "2026.07.16 ニュース・トピックス",
-      "date": "2026-07-16"
-    },
-    {
       "url": "https://www.kubota-spears.com/academy_news/2026/07/14/120000.html",
       "title": "2026.07.14 育成活動",
       "date": "2026-07-14"
@@ -191,16 +201,6 @@
       "url": "https://www.kubota-spears.com/social-contribution/2026/07/13/123000.html",
       "title": "2026.07.13 CSR（社会貢献活動）",
       "date": "2026-07-13"
-    },
-    {
-      "url": "https://www.kubota-spears.com/news/2026/07/07/161500.html",
-      "title": "2026.07.07 ニュース・トピックス",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://www.kubota-spears.com/news/2026/07/02/170000.html",
-      "title": "2026.07.02 ニュース・トピックス",
-      "date": "2026-07-02"
     },
     {
       "url": "https://www.kubota-spears.com/goods/2026/06/24/160000.html",
@@ -244,11 +244,6 @@
     },
     {
       "url": "https://www.kubota-spears.com/academy_news/2026/02/25/153000.html",
-      "title": "2026.02.25 育成活動",
-      "date": "2026-02-25"
-    },
-    {
-      "url": "https://www.kubota-spears.com/academy_news/2026/02/25/100000.html",
       "title": "2026.02.25 育成活動",
       "date": "2026-02-25"
     },

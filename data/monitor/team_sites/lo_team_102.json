@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-10-06T20:11:10+09:00",
+  "checked_at": "2026-10-14T18:25:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "51d1dcda3ca9c2b6"
+      "hash": "2be5cfdd4b93720c"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "f70352b1e453033c"
+      "hash": "71a78568463074b1"
     }
   ],
   "items": [
@@ -30,7 +30,37 @@
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
       "title": "試合日程一覧",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261010/",
+      "title": "結果詳細",
       "date": "2026-10-10"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261009_01/",
+      "title": "ファンクラブ 2026年10月09日 10/18(日)開催『埼玉パナソニックワイルドナイツ ファンクラブイベント』詳細... ニュースを見る",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/#ticket",
+      "title": "チケット 2026年10月09日 11月14日(土) グローバルラグビーフェスタ 2026 クイーンズランドレッズ... ニュースを見る",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261008_02/",
+      "title": "チーム 2026年10月08日 ワイルドナイツ ボランティア募集のお知らせ ニュースを見る",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261008_01/",
+      "title": "チーム 2026年10月08日 日本代表 別府合宿 参加メンバーのお知らせ ニュースを見る",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261007_01/",
+      "title": "活動レポート 2026年10月07日 留学記：NZ編 齊藤誉哉⑥ ニュースを見る",
+      "date": "2026-10-07"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261005_02/",
@@ -68,19 +98,9 @@
       "date": "2026-09-24"
     },
     {
-      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20260919/",
-      "title": "結果詳細",
-      "date": "2026-09-19"
-    },
-    {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260916_01/",
       "title": "活動レポート 2026年09月16日 留学記：NZ編 谷山隼大⑤ ニュースを見る",
       "date": "2026-09-16"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20260912/",
-      "title": "チーム 2026年09月12日 9月12日(土) 強化試合 1戦目 清水建設江東ブルーシャークス戦 試合結果 ニュースを見る",
-      "date": "2026-09-12"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260909_01/",
@@ -91,11 +111,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260901_01/",
       "title": "活動レポート 2026年09月01日 留学記：NZ編 谷山隼大④ ニュースを見る",
       "date": "2026-09-01"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260826_01/",
-      "title": "活動レポート 2026年08月26日 留学記：NZ編 齊藤誉哉③ ニュースを見る",
-      "date": "2026-08-26"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260801_01/",
@@ -191,11 +206,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2025/20251001_01/",
       "title": "お知らせ 2025年10月01日 株式会社SUBARUとのオフィシャルパートナーシップ契約締結のお知らせ ニュースを見る",
       "date": "2025-10-01"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2025/20250904_01/",
-      "title": "ファンクラブ 2025年09月04日 2025-26ワイルドナイツファンクラブ会員募集開始のお知らせ ニュースを見る",
-      "date": "2025-09-04"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2025/20250421_01/",

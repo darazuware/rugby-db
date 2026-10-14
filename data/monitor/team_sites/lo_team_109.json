@@ -3,24 +3,34 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-10-06T20:11:10+09:00",
+  "checked_at": "2026-10-14T18:25:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "6df1f35737d532f3"
+      "hash": "4702a7969c13b74b"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "f2d4595b3d684b8a"
+      "hash": "714407128beb2bf9"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "1127a5ac98d6ac7f"
+      "hash": "8ebfbd126f7e8c03"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1009-01/",
+      "title": "MATCH 10月17日（土） ジャパンラグビー リーグワンライジング 2026 クリタウォーターガッシュ昭島戦のお知ら 2026.10.09",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1007-01/",
+      "title": "TEAM 2026-27シーズンの新加入スタッフ（追加）および退団スタッフのお知らせ 2026.10.08",
+      "date": "2026-10-08"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1001-01/",
       "title": "EVENT かしわスポーツフェスティバル 2026.10.01",

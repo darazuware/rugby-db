@@ -3,48 +3,33 @@
   "league": "league-one-d3",
   "name": "中国電力レッドレグリオンズ",
   "official_url": "https://rrrfc.red/",
-  "checked_at": "2026-10-06T20:11:10+09:00",
+  "checked_at": "2026-10-14T18:25:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://rrrfc.red/",
-      "hash": "bd487afb764d3711"
+      "hash": "3ad32462d63952a8"
     },
     {
       "url": "https://rrrfc.red/blog/",
-      "hash": "14e1c57b78fbda66"
+      "hash": "a6cbf78b92b03b8e"
     },
     {
       "url": "https://rrrfc.red/categories/news/",
-      "hash": "98d9835f6e82e009"
+      "hash": "76427dbe739a76d0"
     }
   ],
   "items": [
     {
-      "url": "https://rrrfc.red/categories/un1000on/",
-      "title": "広島ダービー2024 UN1000ON",
-      "date": "2026-10-01"
-    },
-    {
       "url": "https://rrrfc.red/categories/news/",
       "title": "MORE",
-      "date": "2026-10-01"
+      "date": "2026-10-08"
     },
     {
-      "url": "https://rrrfc.red/categories/%e9%81%b8%e6%89%8b%e3%83%97%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab/",
-      "title": "選手プロフィール",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://rrrfc.red/categories/%e8%a9%a6%e5%90%88%e6%83%85%e5%a0%b1/",
-      "title": "試合情報",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://rrrfc.red/categories/%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88/",
-      "title": "イベント",
-      "date": "2026-10-01"
+      "url": "https://rrrfc.red/blog/blog-6825/",
+      "title": "2026.10.08 オーストラリアから目標の舞台へ。樋口大成が挑む新たな戦い",
+      "date": "2026-10-08"
     },
     {
       "url": "https://rrrfc.red/blog/blog-6796/",
@@ -102,11 +87,6 @@
       "date": "2026-02-20"
     },
     {
-      "url": "https://rrrfc.red/blog/blog-6605/",
-      "title": "2026.02.08 試合中止のお知らせ",
-      "date": "2026-02-08"
-    },
-    {
       "url": "https://rrrfc.red/blog/blog-6571/",
       "title": "2026.01.26 1/31（土）vs. 狭山セコムラガッツ 「坂町民無料招待デー」開催！",
       "date": "2026-01-26"
@@ -115,11 +95,6 @@
       "url": "https://rrrfc.red/blog/blog-6570/",
       "title": "2026.01.26 【1/31（土）vs.狭山セコムラガッツ】試合情報",
       "date": "2026-01-26"
-    },
-    {
-      "url": "https://rrrfc.red/blog/blog-6552/",
-      "title": "2026.01.09 比較をやめて手にした新たなマインドセット。どんな番号でも貫く“自分らしさ”",
-      "date": "2026-01-09"
     }
   ]
 }

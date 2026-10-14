@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-10-06T20:11:10+09:00",
+  "checked_at": "2026-10-14T18:25:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "1612382ce2ea6c01"
+      "hash": "142a8e4a7771c826"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "4323703ced63269e"
+      "hash": "9d0343a853f7c5f0"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/NJRLO2627TSA.html",
+      "title": "2026年 10月14日 【チケット情報】NTT JAPAN RUGBY LEAGUE ONE 2026-27 東京サンゴリアスホストゲームチケット概要のご案内！ （2026/10/14 14:00情報更新） いつも東京サントリーサンゴリアスへの温かいご声援ありがとうござい…",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMvUDRvudp.html",
+      "title": "2026年 10月10日 2026 TRAINING MATCH vs 浦安D-Rocks 試合結果",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2610-1037.html",
+      "title": "2026年 10月 9日 #1037 野中 健吾 『いちばん美しいスポーツ』",
+      "date": "2026-10-09"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026.html",
       "title": "2026年 10月 5日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 第1節～第3節のキックオフ時間が決定しました！",
@@ -30,11 +45,6 @@
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2610-1036.html",
       "title": "2026年 10月 2日 #1036 杉浦 皓亮 『スクラムが好き』",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/NJRLO2627TSA.html",
-      "title": "2026年 10月 2日 【チケット情報】NTT JAPAN RUGBY LEAGUE ONE 2026-27 東京サンゴリアスホストゲームチケット概要のご案内！ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 12月12日（土）に開幕するNTT J…",
       "date": "2026-10-02"
     },
     {
@@ -56,16 +66,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/822.html",
       "title": "2026年 9月23日 Day822 『網走合宿』",
       "date": "2026-09-23"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2609-1034.html",
-      "title": "2026年 9月18日 #1034 小林 典大 『安定もしつつ爆発力がある選手に』",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2609-1033.html",
-      "title": "2026年 9月11日 #1033 小林 賢太 『プレーに一貫性がないんだったらちゃんと良くしていく』",
-      "date": "2026-09-11"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/cmrf26vnzc.html",

@@ -3,28 +3,88 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-10-06T20:11:10+09:00",
+  "checked_at": "2026-10-14T18:25:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "1c3c809bc2801640"
+      "hash": "04a3137959608a36"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "5505c01bf7a4b406"
+      "hash": "56eef13d41fa1e42"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "da7b936dc032bbb5"
+      "hash": "94ac630671b13456"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "de68730b8fde0d3a"
+      "hash": "0ed4a79762d75531"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35634/",
+      "title": "2026/10/13 チーム 10月13日(火) 三田市出身の上ノ坊 駿介選手が三田市長を表敬訪問しました",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35614/",
+      "title": "2026/10/13 チーム 【中止】12月5日(土)プレシーズンマッチ トヨタヴェルブリッツ戦中止のお知らせ",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35612/",
+      "title": "2026/10/13 イベント 【選手イベント参加情報】10月18日(日)下鴨神社で開催される「第10回タグラグビー大会記念－座談会－」に上村 樹輝選手、李 承信選手が出演します",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35547/",
+      "title": "2026/10/13 お知らせ サーバーメンテナンスのお知らせ",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.kobesteelers.com/interview/post35617/",
+      "title": "2026/10/13 試合 【試合レポート】 10月10日(土) ジャパンラグビー リーグワン ライジング2026 ルリーロ福岡戦",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35566/",
+      "title": "2026/10/9 イベント 【イベントレポート】「第2回神戸大綱引き大会」に参加しました",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35552/",
+      "title": "2026/10/9 グッズ 2026-27シーズン 背番号入りオーセンティックジャージー・レプリカジャージー受注販売のお知らせ",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35584/",
+      "title": "2026/10/8 パートナー NTTリーグワン2026-27 法人シーズンシート販売のお知らせ",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35573/",
+      "title": "2026/10/8 普及 【レポート】神戸市立名倉小学校でタグラグビー教室を実施しました",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35545/",
+      "title": "2026/10/8 チーム ⽇本代表 別府合宿参加メンバーのお知らせ",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://www.kobesteelers.com/game/post34697/",
+      "title": "2026/10/8 試合 10月10日(土) 「ジャパンラグビー リーグワン ライジング2026」ルリーロ福岡戦 出場メンバーのお知らせ",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35525/",
+      "title": "2026/10/7 イベント 【イベントレポート】10月3日(土)スマハマプロジェクト「コベルコ神戸スティーラーズが須磨海岸にやってくる！」に参加しました",
+      "date": "2026-10-07"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35517/",
       "title": "2026/10/6 イベント 10月11日(日)「のびのびプレイランドin東遊園地」でラグビー体験を実施します",
@@ -32,7 +92,7 @@
     },
     {
       "url": "https://www.kobesteelers.com/news/post35506/",
-      "title": "2026/10/5 イベント 12月12日(土) ホストゲーム開幕戦で「シーズン記念Tシャツ」を先着15,000名様にプレゼントします！",
+      "title": "イベント 12月12日(土) ホストゲーム開幕戦で「シーズン記念Tシャツ」を先着15,000名様にプレゼントします！ 2026/10/5",
       "date": "2026-10-05"
     },
     {
@@ -72,7 +132,7 @@
     },
     {
       "url": "https://www.kobesteelers.com/news/post35399/",
-      "title": "お知らせ 2026-27シーズンテーマ決定のお知らせ 2026/9/30",
+      "title": "2026/9/30 お知らせ 2026-27シーズンテーマ決定のお知らせ",
       "date": "2026-09-30"
     },
     {
@@ -116,18 +176,8 @@
       "date": "2026-09-25"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35372/",
-      "title": "2026/9/24 イベント 9月26日(土)に神戸三宮センター街1丁目で開催される「SANNOMIYA COLLECTION 2026A/W」にブースを出展します",
-      "date": "2026-09-24"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35354/",
       "title": "2026/9/24 社会貢献 「One Fan,One Future ～みんなの応援が未来の森に～」菅平高原での植樹活動に参加しました",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35349/",
-      "title": "2026/9/24 イベント 【選手イベント参加情報】子どもを育むスマハマプロジェクト「コベルコ神戸スティーラーズが須磨海岸にやってくる！」参加選手決定のお知らせ",
       "date": "2026-09-24"
     },
     {
@@ -141,18 +191,8 @@
       "date": "2026-09-24"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35336/",
-      "title": "2026/9/18 イベント 【レポート】9月12日(土)「甲子園キッズフェスタ～2026 autumn～」でラグビー体験を実施しました",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35328/",
-      "title": "2026/9/18 イベント 【レポート】「国際フロンティア産業メッセ2026」で優勝トロフィー展示・ラグビー体験を実施しました",
-      "date": "2026-09-18"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35311/",
-      "title": "チーム 2026-27シーズン ジャージーデザイン決定のお知らせ 2026/9/18",
+      "title": "2026/9/18 チーム 2026-27シーズン ジャージーデザイン決定のお知らせ",
       "date": "2026-09-18"
     },
     {
@@ -181,44 +221,14 @@
       "date": "2026-09-10"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35188/",
-      "title": "2026/9/10 チーム 9月12日(土)「アサヒスーパードライ パシフィックネーションズカップ2026」準決勝 アメリカ代表戦メンバー選出のお知らせ",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35262/",
-      "title": "2026/9/9 チーム 9月7日(月) 網走キャンプ実施に伴い、網走市長を表敬訪問しました",
-      "date": "2026-09-09"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35016/",
       "title": "チケット NTTリーグワン2026-27 ホストゲームシーズンシート販売のお知らせ 2026/9/9",
       "date": "2026-09-09"
     },
     {
-      "url": "https://www.kobesteelers.com/interview/post35221/",
-      "title": "2026/9/7 チーム 【Road to RWC2027】「リポビタンDチャレンジカップ2026」日本代表 vsカナダ代表レポート",
-      "date": "2026-09-07"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35200/",
       "title": "2026/9/4 グッズ NTTリーグワン2025-26 優勝記念グッズ・アワード受賞記念グッズの発送状況について",
       "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35187/",
-      "title": "2026/9/4 試合 11月7日(土)プレシーズンマッチ(追加)のお知らせ",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35171/",
-      "title": "2026/9/3 普及 【イベントレポート】第18回 北区ラグビーフェスティバルに参加しました",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35144/",
-      "title": "2026/9/1 社会貢献 兵庫県・(公財)兵庫県人権啓発協会が実施する「プロスポーツとの連携による啓発メッセージの発信等」に協力します",
-      "date": "2026-09-01"
     },
     {
       "url": "https://www.kobesteelers.com/news/post35142/",
@@ -229,16 +239,6 @@
       "url": "https://www.kobesteelers.com/news/post35121/",
       "title": "2026/8/28 お知らせ コベルコ神戸スティーラーズ公式アプリ サービス終了のお知らせ",
       "date": "2026-08-28"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35128/",
-      "title": "2026/8/27 普及 【選手イベント参加情報】第18回 北区ラグビーフェスティバルに選手が参加します",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post34948/",
-      "title": "チーム 2026-27シーズン プレシーズンマッチのお知らせ 2026/8/7",
-      "date": "2026-08-07"
     },
     {
       "url": "https://www.kobesteelers.com/news/post35012/",

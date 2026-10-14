@@ -3,20 +3,55 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-10-06T20:11:10+09:00",
+  "checked_at": "2026-10-14T18:25:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "14e815b30ebfcfc0"
+      "hash": "6b7a4c033c9059d6"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "864291ff28425b03"
+      "hash": "c53b63f96d89e1e6"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3222",
+      "title": "2026.10.14[WED] HOST AREA 【ホストエリア活動】「ジュビロ磐田 ヤマハ・ヤマハ発動機マッチデー」にて、親子スポーツ体験会を実施しました",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3221",
+      "title": "2026.10.14[WED] HOST AREA 【ホストエリア活動】磐田市「いわたホームタウンスポーツフェスティバル」にてラグビー体験を実施しました",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3217",
+      "title": "2026.10.14[WED] TICKET ホームゲーム全9試合で使える！お得な回数券を販売",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3218",
+      "title": "2026.10.11[SUN] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（10/5～10/9）",
+      "date": "2026-10-11"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3215",
+      "title": "2026.10.11[SUN] HOST AREA 【ホストエリア活動】ラグビー経験者向けイベント「ブルーレヴズ ラグビー クリニック in 駿東」を実施しました",
+      "date": "2026-10-11"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3210",
+      "title": "2026.10.7[WED] TEAM 田嶋 グン選手・佐藤 健人選手と本契約を締結",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3202",
+      "title": "2026.10.7[WED] OTHERS 令和8年熊本地震災害支援募金活動のご報告と御礼",
+      "date": "2026-10-07"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3209",
       "title": "2026.10.6[TUE] HOST AREA 【ホストエリア活動】浜松市「三島町こども会」にてタグラグビー教室を実施しました",
@@ -73,21 +108,6 @@
       "date": "2026-09-24"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3196",
-      "title": "2026.9.21[MON] GOODS 【9/30(水)23:59まで】ふるさとオンラインストア［My Megaphone!］ サービス終了のお知らせ",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3191",
-      "title": "2026.9.21[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（9/14～9/18）",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3192",
-      "title": "2026.9.18[FRI] HOST AREA 令和８年熊本地震災害支援募金活動のお知らせ",
-      "date": "2026-09-18"
-    },
-    {
       "url": "https://www.shizuoka-bluerevs.com/news/3190",
       "title": "OTHERS 2026/9/17 スポンサーセールス担当スタッフ募集(キャリア採用)",
       "date": "2026-09-17"
@@ -98,13 +118,8 @@
       "date": "2026-09-16"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3187",
-      "title": "2026.9.14[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（9/7～9/11）",
-      "date": "2026-09-14"
-    },
-    {
       "url": "https://www.shizuoka-bluerevs.com/news/3181",
-      "title": "EVENT 2026/9/10 10/12に浜松市でラグビーディスカバリーを開催",
+      "title": "2026.9.10[THU] EVENT 10/12(月・祝)に＜ラグビーディスカバリー supported by しずぎん＞を浜松市で開催！",
       "date": "2026-09-10"
     },
     {
