@@ -1,14 +1,17 @@
 ---
-title: "男子日本代表 宮崎（大阪）合宿参加メンバー（34名）"
+title: "男子日本代表 招集・合宿メンバーまとめ（2026年）"
 pubDate: 2026-08-25
-updatedDate: 2026-10-05
+updatedDate: 2026-10-14
 category: "NEWS"
 tags: ["代表", "招集", "合宿"]
-source_diff: "2026-08-25_national.json"
+source_diff: ""
 draft: false
 ---
 
-男子[日本代表](/national-teams/japan/) 宮崎（大阪）合宿参加メンバー（34名）が発表された。
+2026年に発表された男子日本代表の招集・合宿メンバーを、新しい発表から順にまとめた（4件）。最新の発表は所属・キャップ数付きで全メンバーを、それ以前の発表はメンバー名を載せている。各選手名のリンクから選手ページに進める。
+
+<!-- callup:54139 2026-08-25 -->
+## 男子日本代表 宮崎（大阪）合宿参加メンバー（34名）
 
 - 期間: 2026-08-27〜
 
@@ -55,7 +58,7 @@ draft: false
 - [サム・グリーン](/players/sam-greene-484173/)（[JR東日本グリーンウォリアーズ東葛](/teams/league-one/jr-east-green-warriors-tokatsu/) / 7キャップ）
 - [松永 拓朗](/players/takuro-matsunaga-484365/)（[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/) / 10キャップ）
 
-## 選手フォト
+### 選手フォト
 
 [祝原 涼介](/players/ryosuke-iwaihara-484849/)（Instagram [@iwa01don](https://www.instagram.com/iwa01don/)）
 
@@ -157,3 +160,55 @@ draft: false
 - 古畑 翔（FW / [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 1キャップ）
 - 木村 星南（FW / [東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/) / 3キャップ）
 - 武藤 ゆらぎ（BK / [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/) / 0キャップ）
+
+<!-- callup:54111 2026-08-10 -->
+## 男子日本代表 オーストラリア遠征参加メンバー（31名）
+
+**メンバー構成**
+- 初選出（0キャップ）: 2名 — [平野 叶翔](/players/kanato-hirano-510431/)、[イノケ・ブルア](/players/inoke-burua-510411/)
+- 所属クラブ・大学: 12
+- 最多キャップ: [リーチ マイケル](/players/michael-leitch-484358/)（96キャップ）
+
+**FW（フォワード）**: [大塚 壮二郎](/players/sojiro-otsuka/)、[岡部 崇人](/players/takato-okabe-484847/)、[平野 叶翔](/players/kanato-hirano-510431/)、[江良 颯](/players/hayate-era-483786/)、[佐藤 健次](/players/kenji-sato-484033/)、[原田 衛](/players/mamoru-harada/)、[イジー・ソード](/players/izi-sword-483782/)、[竹内 柊平](/players/shuhei-takeuchi-485712/)、[ジャック・コーネルセン](/players/jack-cornelsen-485708/)、[マイケル・ストーバーグ](/players/mike-stolberg/)、[ワーナー・ディアンズ](/players/warner-dearns/)、[ハリー・ホッキングス](/players/harry-hockings-485719/)、[ベン・ガンター](/players/ben-gunter-484055/)、[ティエナン・コストリー](/players/tiennan-costley-483942/)、[下川 甲嗣](/players/kanji-shimokawa-485716/)、[エセイ・ハアンガナ](/players/esei-ha-angana/)、[マキシ ファウルア](/players/lua-makisi/)、[リーチ マイケル](/players/michael-leitch-484358/)
+
+**BK（バックス）**: [上村 樹輝](/players/itsuki-kamimura-483934/)、[齋藤 直人](/players/naoto-saito/)、[伊藤 龍之介](/players/ryunosuke-ito-497504/)、[池田 悠希](/players/yuki-ikeda-484880/)、[サミソニ・トゥア](/players/samisoni-tua-483497/)、[ディラン・ライリー](/players/dylan-riley-484057/)、[植田 和磨](/players/kazuma-ueda-483933/)、[木田 晴斗](/players/haruto-kida-510441/)、[イノケ・ブルア](/players/inoke-burua-510411/)、[メイン 平](/players/taira-main-484885/)、[上ノ坊 駿介](/players/shunsuke-uenobo-493618/)、[松永 拓朗](/players/takuro-matsunaga-484365/)、[矢崎 由高](/players/univ-早稲田大学-矢崎由高/)
+
+**前回招集から新たに選出**
+[池田 悠希](/players/yuki-ikeda-484880/)
+
+**その後の追加選出**（日本ラグビーフットボール協会の更新発表分）
+- 稲場 巧（FW / [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/) / 0キャップ）
+- サム・グリーン（BK / 静岡ブルーレブズ / 7キャップ）
+
+<!-- callup:53968 2026-08-07 -->
+## （8/6更新）男子日本代表 宮崎合宿 参加メンバー（35名）
+
+- 期間: 2026-06-13〜
+- 会場: 宮崎県屋外型トレーニングセンター
+
+**メンバー構成**
+- 初選出（0キャップ）: 10名 — [大塚 壮二郎](/players/sojiro-otsuka/)、[イジー・ソード](/players/izi-sword-483782/)、[マイケル・ストーバーグ](/players/mike-stolberg/)、[エセイ・ハアンガナ](/players/esei-ha-angana/)、[上村 樹輝](/players/itsuki-kamimura-483934/)、[北條 拓郎](/players/jrfu_callup_takuro-hojo/)、[渡邊 晴斗](/players/haruto-watanabe-510438/)、[伊藤 龍之介](/players/ryunosuke-ito-497504/)、[イノケ・ブルア](/players/inoke-burua-510411/)、[上ノ坊 駿介](/players/shunsuke-uenobo-493618/)
+- 所属クラブ・大学: 15
+- 最多キャップ: [リーチ マイケル](/players/michael-leitch-484358/)（92キャップ）
+
+**FW（フォワード）**: [大塚 壮二郎](/players/sojiro-otsuka/)、[岡部 崇人](/players/takato-okabe-484847/)、[紙森 陽太](/players/jrfu_callup_yota-kamimori/)、[江良 颯](/players/hayate-era-483786/)、[佐藤 健次](/players/kenji-sato-484033/)、[原田 衛](/players/mamoru-harada/)、[イジー・ソード](/players/izi-sword-483782/)、[竹内 柊平](/players/shuhei-takeuchi-485712/)、[為房 慶次朗](/players/keijiro-tamefusa-486437/)、[ジャック・コーネルセン](/players/jack-cornelsen-485708/)、[マイケル・ストーバーグ](/players/mike-stolberg/)、[ワーナー・ディアンズ](/players/warner-dearns/)、[ハリー・ホッキングス](/players/harry-hockings-485719/)、[ベン・ガンター](/players/ben-gunter-484055/)、[ティエナン・コストリー](/players/tiennan-costley-483942/)、[下川 甲嗣](/players/kanji-shimokawa-485716/)、[ワイサケ・ララトゥブア](/players/jrfu_callup_waisake-raratubua/)、[エセイ・ハアンガナ](/players/esei-ha-angana/)、[リーチ マイケル](/players/michael-leitch-484358/)
+
+**BK（バックス）**: [上村 樹輝](/players/itsuki-kamimura-483934/)、[齋藤 直人](/players/naoto-saito/)、[北條 拓郎](/players/jrfu_callup_takuro-hojo/)、[渡邊 晴斗](/players/haruto-watanabe-510438/)、[伊藤 龍之介](/players/ryunosuke-ito-497504/)、[小村 真也](/players/shinya-komura-486439/)、[サミソニ・トゥア](/players/samisoni-tua-483497/)、[中野 将伍](/players/jrfu_callup_shogo-nakano/)、[廣瀬 雄也](/players/yuya-hirose-483785/)、[ディラン・ライリー](/players/dylan-riley-484057/)、[石田 吉平](/players/kippei-ishida-484853/)、[植田 和磨](/players/kazuma-ueda-483933/)、[木田 晴斗](/players/haruto-kida-510441/)、[イノケ・ブルア](/players/inoke-burua-510411/)、[上ノ坊 駿介](/players/shunsuke-uenobo-493618/)、[松永 拓朗](/players/takuro-matsunaga-484365/)
+
+<!-- callup:54087 2026-07-24 -->
+## 男子日本代表 網走合宿参加メンバー（34名）
+
+- 期間: 2026-07-25〜
+- 会場: 網走スポーツ・トレーニングフィールド
+
+**メンバー構成**
+- 初選出（0キャップ）: 4名 — [平野 叶翔](/players/kanato-hirano-507122/)、[渡邊 晴斗](/players/haruto-watanabe-506359/)、[平 翔太](/players/shota-taira-506503/)、[イノケ・ブルア](/players/inoke-burua-506369/)
+- 所属クラブ・大学: 14
+- 最多キャップ: [リーチ マイケル](/players/michael-leitch-484358/)（95キャップ）
+
+**FW（フォワード）**: [大塚 壮二郎](/players/sojiro-otsuka/)、[岡部 崇人](/players/takato-okabe-484847/)、[平野 叶翔](/players/kanato-hirano-507122/)、[江良 颯](/players/hayate-era-483786/)、[佐藤 健次](/players/kenji-sato-484033/)、[原田 衛](/players/mamoru-harada/)、[イジー・ソード](/players/izi-sword-483782/)、[竹内 柊平](/players/shuhei-takeuchi-485712/)、[為房 慶次朗](/players/keijiro-tamefusa-486437/)、[ジャック・コーネルセン](/players/jack-cornelsen-485708/)、[マイケル・ストーバーグ](/players/mike-stolberg/)、[ワーナー・ディアンズ](/players/warner-dearns/)、[ハリー・ホッキングス](/players/harry-hockings-485719/)、[ベン・ガンター](/players/ben-gunter-484055/)、[ティエナン・コストリー](/players/tiennan-costley-483942/)、[下川 甲嗣](/players/kanji-shimokawa-485716/)、[エセイ・ハアンガナ](/players/esei-ha-angana/)、[マキシ ファウルア](/players/lua-makisi/)、[リーチ マイケル](/players/michael-leitch-484358/)
+
+**BK（バックス）**: [上村 樹輝](/players/itsuki-kamimura-483934/)、[齋藤 直人](/players/naoto-saito/)、[渡邊 晴斗](/players/haruto-watanabe-506359/)、[伊藤 龍之介](/players/ryunosuke-ito-497504/)、[平 翔太](/players/shota-taira-506503/)、[サミソニ・トゥア](/players/samisoni-tua-483497/)、[ディラン・ライリー](/players/dylan-riley-484057/)、[石田 吉平](/players/kippei-ishida-484853/)、[植田 和磨](/players/kazuma-ueda-483933/)、[木田 晴斗](/players/jrfu_callup_haruto-kida/)、[イノケ・ブルア](/players/inoke-burua-506369/)、[メイン 平](/players/taira-main-484885/)、[上ノ坊 駿介](/players/shunsuke-uenobo-493618/)、[松永 拓朗](/players/takuro-matsunaga-484365/)、[矢崎 由高](/players/univ-早稲田大学-矢崎由高/)
+
+**その後の追加選出**（日本ラグビーフットボール協会の更新発表分）
+- 池田 悠希（BK / [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo/) / 2キャップ）
