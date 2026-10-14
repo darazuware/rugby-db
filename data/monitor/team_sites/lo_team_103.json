@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-14T18:25:46+09:00",
+  "checked_at": "2026-10-15T00:38:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "bf93c3619742dc7e"
+      "hash": "51621f340dbf671b"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "84756a8b990c85a5"
+      "hash": "4c8910fab12d3ed4"
     }
   ],
   "items": [
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://www.bravelupus.com/news/260923/",
-      "title": "【プレシーズンマッチ】10/17日（土）vs 埼玉パナソニックワイルドナイツ 観戦について",
+      "title": "(10/14更新)【プレシーズンマッチ】10/17日（土）vs 埼玉パナソニックワイルドナイツ 観戦について",
       "date": "2026-10-13"
     },
     {

@@ -3,35 +3,20 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-14T18:25:46+09:00",
+  "checked_at": "2026-10-15T00:38:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "6b33825b81a9f26f"
+      "hash": "574498ff1b5dc42e"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "2b76b28c1a05fbd4"
+      "hash": "17d78141df17106c"
     }
   ],
   "items": [
-    {
-      "url": "https://www.kurita-watergush.jp/stadium/%e5%8d%b0%e8%a5%bf%e5%b8%82%e6%9d%be%e5%b1%b1%e4%b8%8b%e5%85%ac%e5%9c%92%e9%99%b8%e4%b8%8a%e7%ab%b6%e6%8a%80%e5%a0%b4/",
-      "title": "アクセス",
-      "date": "2026-10-17"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/games/",
-      "title": "全ての試合情報はこちら",
-      "date": "2026-10-17"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/game/20261017-gw%e6%9d%b1%e8%91%9b-vswg%e6%98%ad%e5%b3%b6/",
-      "title": "このゲームの詳細情報はこちら",
-      "date": "2026-10-17"
-    },
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",

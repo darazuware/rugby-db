@@ -3,20 +3,30 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-10-14T18:25:46+09:00",
+  "checked_at": "2026-10-15T00:38:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "ed718229b9855c80"
+      "hash": "1998a13f6847aa38"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "a8b3fac93b4df9ae"
+      "hash": "09770ff246b0073c"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/10/14/ju-report/",
+      "title": "2026.10.14 その他 【地域連携・普及活動】 2026 年 7 月レポート",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/10/14/au-report/",
+      "title": "2026.10.14 その他 【地域連携・普及活動】 2026 年 8月レポート",
+      "date": "2026-10-14"
+    },
     {
       "url": "https://hanazono-liners.jp/shiaiyotei-kekka/",
       "title": "試合日程を見る",
@@ -54,7 +64,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/10/01/off-itemae4/",
-      "title": "2026.10.01 活動報告書 その他 【番組 オフもいてまえ！花園近鉄ライナーズ（4回目・10/1放送）】",
+      "title": "2026-10-01 活動報告書 その他 【番組 オフもいてまえ！花園近鉄ライナーズ（4回目・10/1放送）】",
       "date": "2026-10-01"
     },
     {
@@ -91,16 +101,6 @@
       "url": "https://hanazono-liners.jp/2026/09/19/liners-fanclub-4/",
       "title": "2026-09-19 ファンクラブ 【LINERS FANCLUB】ファンクラブ入会サポート開催のお知らせ",
       "date": "2026-09-19"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/09/19/10-3vskubota/",
-      "title": "2026-09-19 その他 【10月3日(土) ジャパンラグビーリーグワンライジング2026 クボタスピアーズ船橋・東京ベイ戦】についてのお知らせ",
-      "date": "2026-09-19"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/09/16/26-27-6/",
-      "title": "2026-09-16 試合関連 NTTジャパンラグビー リーグワン2026-27 第6節試合日程および会場について追加決定のお知らせ",
-      "date": "2026-09-16"
     },
     {
       "url": "https://hanazono-liners.jp/2026/09/07/liners-fanclub-3/",
