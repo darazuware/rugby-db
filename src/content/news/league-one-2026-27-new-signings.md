@@ -15,11 +15,11 @@ tags: ["リーグワン", "新加入", "移籍", "2026-27シーズン", "三菱�
 
 ### [高城勝一](/players/shoichi-takagi-484372/)（LO/FL）、[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)から加入
 
-1998年6月29日生まれ、197cm/112kg。大阪府出身、摂南大学卒。[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)から加入し、日本生まれ・日本国籍の選手として2番目に高い197cmの長身を誇る。本人は「三菱重工[相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/)に加入できることを本当に嬉しく思っているとともに、このような機会を与えてくださったチーム関係者の皆さまに心より感謝いたします」とコメントしている。詳しい移籍の経緯は[こちらの記事](/news/shoichi-takagi-leaves-toshiba-brave-lupus-2026/)で紹介している。
+1998年6月29日生まれ、197cm/112kg。大阪府出身、摂南大学卒。[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)から加入し、日本生まれ・日本国籍の選手として2番目に高い197cmの長身を誇る。本人は「三菱重工[相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/)に加入できることを本当に嬉しく思っているとともに、このような機会を与えてくださったチーム関係者の皆さまに心より感謝いたします」とコメントしている。詳しい移籍の経緯は[こちらの記事](/news/transfers-roundup-2026-08/)で紹介している。
 
 ### [濱野隼大](/players/junta-hamano-483951/)（WTB/CTB）、[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)から加入
 
-2001年5月2日生まれ、181cm/92kg。兵庫県三田市出身で、中学生時代に単身ニュージーランドへ留学しロトルアボーイズ高校を卒業した経歴を持つ。2024年に[日本代表](/national-teams/japan/)に初選出され2キャップを記録。[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)から加入する。詳しい移籍の経緯は[こちらの記事](/news/junta-hamano-leaves-kobelco-steelers-2026/)で紹介している。
+2001年5月2日生まれ、181cm/92kg。兵庫県三田市出身で、中学生時代に単身ニュージーランドへ留学しロトルアボーイズ高校を卒業した経歴を持つ。2024年に[日本代表](/national-teams/japan/)に初選出され2キャップを記録。[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)から加入する。詳しい移籍の経緯は[こちらの記事](/news/transfers-roundup-2026-08/)で紹介している。
 
 ### [安藤啓太](/players/keita-ando/)（PR）、エクセター大学から加入
 
@@ -63,6 +63,6 @@ WTB/FBのジェームス・ロウ（1992年7月8日生、188cm/101kg）がアイ
 
 オーストラリア・NSWワラターズ所属のロック、エド・カスプロウィッツ（2007年1月18日生、203cm/105kg）も新加入選手の一人。203cmの長身を誇る若手フォワードで、スーパーラグビーの舞台からリーグワンに挑戦する。
 
-[齋藤直人](/players/naoto-saito/)のスタッド・トゥールーザンでの日々については、[こちらの記事](/news/naoto-saito-leaves-toulouse-2026/)でも触れている。
+[齋藤直人](/players/naoto-saito/)のスタッド・トゥールーザンでの日々については、[こちらの記事](/news/transfers-roundup-2026-08/)でも触れている。
 
 チームの詳細・選手一覧は[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/)のチームページから確認できる。

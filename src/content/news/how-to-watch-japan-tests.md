@@ -30,9 +30,6 @@ tags: ["視聴方法", "日本代表", "テストマッチ", "DAZN", "J SPORTS",
 詳しいサービス比較は、既存の解説にまとめています。
 
 - [海外ラグビーの見方ガイド](/news/how-to-watch-overseas-rugby/)
-- [リーグワンの視聴ガイド](/news/league-one-how-to-watch/)
-- [スーパーラグビーの視聴ガイド](/news/super-rugby-how-to-watch/)
-- [TOP14の視聴ガイド](/news/top14-how-to-watch/)
 
 ## 日本代表戦を観るための流れ
 
