@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-10-14T02:52:09+09:00",
+  "checked_at": "2026-10-14T18:25:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "85de366b1e16dd1e"
+      "hash": "463097f3526b5ea5"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "f67c1f73ae1f374b"
+      "hash": "0d85d65f7aeae98c"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/998",
+      "title": "お知らせ 2026年10月14日 NEW NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ(10/14更新)",
+      "date": "2026-10-14"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/1006",
       "title": "チケット・ 試合情報",
@@ -46,11 +51,6 @@
       "url": "https://www.kyudenvoltex.com/news/1009",
       "title": "地域・社会貢献 2026年10月06日 「春日市スポーツフェスタ フットボールフェスタ」に参加しました",
       "date": "2026-10-06"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/998",
-      "title": "お知らせ 2026年10月05日 NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ(10/5更新)",
-      "date": "2026-10-05"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1008",

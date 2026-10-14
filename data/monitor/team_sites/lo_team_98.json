@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-10-14T02:52:09+09:00",
+  "checked_at": "2026-10-14T18:25:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "0b48d7ad2355401a"
+      "hash": "6b7a4c033c9059d6"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "3ff0e5b7f44918d5"
+      "hash": "c53b63f96d89e1e6"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3222",
+      "title": "2026.10.14[WED] HOST AREA 【ホストエリア活動】「ジュビロ磐田 ヤマハ・ヤマハ発動機マッチデー」にて、親子スポーツ体験会を実施しました",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3221",
+      "title": "2026.10.14[WED] HOST AREA 【ホストエリア活動】磐田市「いわたホームタウンスポーツフェスティバル」にてラグビー体験を実施しました",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3217",
+      "title": "2026.10.14[WED] TICKET ホームゲーム全9試合で使える！お得な回数券を販売",
+      "date": "2026-10-14"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3218",
       "title": "2026.10.11[SUN] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（10/5～10/9）",
@@ -91,21 +106,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3195",
       "title": "2026.9.24[THU] GOODS 【9/26(土)販売開始】新グッズ情報／プレーヤーズグッズSALE開催（vs.トヨタヴェルブリッツ／ヤマハ大久保グラウンド）",
       "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3196",
-      "title": "2026.9.21[MON] GOODS 【9/30(水)23:59まで】ふるさとオンラインストア［My Megaphone!］ サービス終了のお知らせ",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3191",
-      "title": "2026.9.21[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（9/14～9/18）",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3192",
-      "title": "2026.9.18[FRI] HOST AREA 令和８年熊本地震災害支援募金活動のお知らせ",
-      "date": "2026-09-18"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3190",

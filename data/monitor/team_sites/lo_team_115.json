@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-10-14T02:52:09+09:00",
+  "checked_at": "2026-10-14T18:25:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,10 +13,15 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "9ea4600c6e5ff5bd"
+      "hash": "f6ea17f6eb8d6233"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-10-14/",
+      "title": "10月12日日野市スポーツ・レクリエーションフェスティバルに参加しました",
+      "date": "2026-10-14"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-10-09/",
       "title": "10月25日（日）2026太田スポーツ・レクリエーション祭に参加します",
@@ -91,11 +96,6 @@
       "url": "https://hino-reddolphins.com/2026-08-27/",
       "title": "8/26日野市 ふれあいラジオ体操に参加しました",
       "date": "2026-08-27"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-08-26/",
-      "title": "9/26 ジャパンラグビーリーグワンライジング2026 日本製鉄釜石シーウェイブス戦 アクセス情報のお知らせ",
-      "date": "2026-08-26"
     }
   ]
 }

@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-14T02:52:09+09:00",
+  "checked_at": "2026-10-14T18:25:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "f890ffec8091535f"
+      "hash": "6b33825b81a9f26f"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "0babd6b5d5b4e823"
+      "hash": "2b76b28c1a05fbd4"
     }
   ],
   "items": [
@@ -35,7 +35,12 @@
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-10-13"
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261014-2/",
+      "title": "私とウォーターガッシュ 2026/10/14 私とWATER GUSH #2 菅沼神兵 SO11年間、仕事と夢を両立し続けた男――SO菅沼神兵が語る、クリタへの想いとDiv2への誓い",
+      "date": "2026-10-14"
     },
     {
       "url": "https://www.kurita-watergush.jp/category/community/",
@@ -89,7 +94,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20260929-2/",
-      "title": "地域貢献 2026/09/29 【地域活動報告】「踏切事故撲滅及びマナーアップキャンペーン」参加",
+      "title": "地域貢献 公開日：2026/09/29 【地域活動報告】「踏切事故撲滅及びマナーアップキャンペーン」参加 （後列中央より：服部航平、中西貴則） 実施日：9月28日（月）実施場所：昭和飛行機前踏切 JR東日本 拝島… 続きを読む",
       "date": "2026-09-29"
     },
     {
@@ -231,11 +236,6 @@
       "url": "https://www.kurita-watergush.jp/20260213-2/",
       "title": "お知らせ 公開日：2026/02/13 第8節3月1日(日) ルリーロ福岡戦 ホストゲームイベントのご案内（※3月1日更新） 3月1日(日) リーグワンD3 第8節 ルリーロ福岡戦のホストゲームイベントをお知らせいたします。 イベントに… 続きを読む",
       "date": "2026-02-13"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260210-2/",
-      "title": "お知らせ 公開日：2026/02/10 第7節2月21日(土) マツダスカイアクティブズ広島戦 ホストゲームイベントのご案内（※2月21日更新） 2月21日(土) リーグワンD3 第7節 マツダスカイアクティブズ広島戦のホストゲームイベントをお知らせいたし… 続きを読む",
-      "date": "2026-02-10"
     }
   ]
 }

@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-10-14T02:52:09+09:00",
+  "checked_at": "2026-10-14T18:25:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "cc7d0353721c6af0"
+      "hash": "881e30514091054b"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "79fa4faf711f9828"
+      "hash": "72ee24bfcc41eadf"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261014.html-0",
+      "title": "2026-10-14 男子セブンズ日本代表｜スリランカ遠征 参加メンバーに服部航大選手が選出",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/familyfesta2026",
+      "title": "2026-10-14 ボーノ相模大野 × ダイナボアーズ ファミリーフェスタ開催決定！",
+      "date": "2026-10-14"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/jrlr2026-1#member",
       "title": "2026-10-09 リーグワン ライジング2026 日本製鉄釜石シーウェイブス 対 三菱重工相模原ダイナボアーズ｜試合メンバー更新",
@@ -44,12 +54,12 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260922.html",
-      "title": "2026-09-22 ティム・カーダル選手加入のお知らせ",
+      "title": "2026-09-22 [ チーム ] ティム・カーダル選手加入のお知らせ",
       "date": "2026-09-22"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260908.html-0#2",
-      "title": "2026-09-19 9/22（火）相模原での一般公開練習は中止とさせていただきます",
+      "title": "2026-09-19 [ イベント ] 9/22（火）相模原での一般公開練習は中止とさせていただきます",
       "date": "2026-09-19"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260728.html",
       "title": "2026-07-28 [ ファンクラブ ] 2026-27シーズン ファンクラブ自動継続について",
       "date": "2026-07-28"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/2026-27FC",
-      "title": "2026-07-28 [ ファンクラブ ] ダイナボアーズ公式ファンクラブ2026-27ご案内",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260715.html",
-      "title": "2026-07-15 [ イベント ] 公式オンラインショップ新商品追加およびオフ＆プレシーズン中のグッズ販売について",
-      "date": "2026-07-15"
     }
   ]
 }
