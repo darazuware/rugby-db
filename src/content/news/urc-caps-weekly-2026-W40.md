@@ -1,11 +1,11 @@
 ---
+draft: true
 title: "URC所属選手の代表キャップ更新まとめ（2026-W40）"
 pubDate: 2026-09-28
 updatedDate: 2026-10-05
 category: "NEWS"
 tags: ["URC", "キャップ更新"]
 source_diff: "2026-09-28_urc.json"
-draft: false
 ---
 
 2026-W40に代表キャップ数の更新が確認された選手は22名（URCの選手データに基づく）。

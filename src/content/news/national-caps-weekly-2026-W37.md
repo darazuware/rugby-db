@@ -1,11 +1,11 @@
 ---
+draft: true
 title: "代表キャップ週間更新まとめ（2026-W37）"
 pubDate: 2026-09-07
 updatedDate: 2026-10-05
 category: "NEWS"
 tags: ["代表", "キャップ更新"]
 source_diff: "2026-09-07_national.json"
-draft: false
 ---
 
 2026-W37に代表キャップ数の更新が確認された選手は30名（代表の選手データに基づく）。

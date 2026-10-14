@@ -1,11 +1,11 @@
 ---
+draft: true
 title: "代表キャップ週間更新まとめ（2026-W33）"
 pubDate: 2026-08-16
 updatedDate: 2026-10-05
 category: "NEWS"
 tags: ["代表", "キャップ更新"]
 source_diff: "2026-08-16_national.json"
-draft: false
 ---
 
 2026-W33に代表キャップ数の更新が確認された選手は8名（代表の選手データに基づく）。

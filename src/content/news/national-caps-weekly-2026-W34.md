@@ -1,11 +1,11 @@
 ---
+draft: true
 title: "代表キャップ週間更新まとめ（2026-W34）"
 pubDate: 2026-08-23
 updatedDate: 2026-10-05
 category: "NEWS"
 tags: ["代表", "キャップ更新"]
 source_diff: "2026-08-23_national.json"
-draft: false
 ---
 
 2026-W34に代表キャップ数の更新が確認された選手は2名（代表の選手データに基づく）。
