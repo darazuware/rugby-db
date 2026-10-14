@@ -299,6 +299,7 @@ def test_build_caps_weekly_article():
     assert a.body.endswith("\n\n- [山田太郎](/players/taro-yamada/): 日本代表 10→12キャップ")
     assert "Jump Player" not in a.body
     assert a.slug == "national-caps-weekly-2026-W29"
+    assert a.draft is True and "draft: true" in a.to_markdown()
 
 
 def test_build_caps_weekly_article_none_when_empty():

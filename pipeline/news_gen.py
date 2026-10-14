@@ -221,6 +221,7 @@ class Article:
     category: str = "NEWS"
     noindex: bool = False
     updated_date: str = ""
+    draft: bool = False
 
     def filename(self) -> str:
         return f"{self.slug}.md"
@@ -235,7 +236,7 @@ class Article:
             f'category: "{self.category}"',
             f"tags: {tags_yaml}",
             f'source_diff: "{self.source_diff}"',
-            "draft: false",
+            f"draft: {'true' if self.draft else 'false'}",
             *(["noindex: true"] if self.noindex else []),
             "---",
             "",
@@ -620,8 +621,10 @@ def build_caps_weekly_article(league: str, iso_week: str, entries: list[dict], *
     lead = f"{iso_week}に代表キャップ数の更新が確認された選手は{len(lines)}名（{label}の選手データに基づく）。"
     body = "\n".join([lead, "", *lines])
     slug = f"{league}-caps-weekly-{iso_week}"
+    # キャップ数のソースが Wikipedia より古い値を返す問題が未解決のため、自動公開せず下書きで出力する
+    # （docs/adsense/10_FACT_AUDIT.md 追補）。人の確認後に draft を外す。
     return Article(slug=slug, title=title, body=body, tags=[label, "キャップ更新"],
-                   pub_date=pub_date, source_diff=source_diff)
+                   pub_date=pub_date, source_diff=source_diff, draft=True)
 
 
 # ---------------------------------------------------------------------------
@@ -698,6 +701,8 @@ def rebuild_published(today: str) -> int:
         m = re.match(r"(.+)-(caps|join)-weekly-(\d{4}-W\d{2})$", path.stem)
         c = re.match(r"(.+)-callup-(\d+)$", path.stem)
         if not m and not c:
+            continue
+        if m and m.group(2) == "caps":  # 公開中のキャップ週次は Wikipedia で手修正済み。再生成で古い値に戻さない
             continue
         fm = _front(path)
         if fm.get("draft") == "true":
