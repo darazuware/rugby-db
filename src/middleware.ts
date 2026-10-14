@@ -25,7 +25,9 @@ for (const [k, v] of Object.entries({
 })) {
   let key = k;
   try { key = decodeURIComponent(k); } catch { /* そのまま */ }
-  redirects[key.replace(/\/$/, "")] = v;
+  key = key.replace(/\/$/, "");
+  // ニュースは Astro が slug を小文字化して配信する（-2026-W34 → -2026-w34）
+  redirects[key.startsWith("/news/") ? key.toLowerCase() : key] = v;
 }
 
 // P1-4 退避リスト（旧地域リーグ/個別高校大学ページ・未整備プロリーグ選手など、
@@ -108,7 +110,8 @@ export const onRequest = defineMiddleware(async (context, next) => {
   // リダイレクト処理
   const cleanPath = pathname.replace(/\/$/, "");
   const decodedPath = decodeURIComponent(cleanPath);
-  const redirectTarget = (redirects as Record<string, string>)[cleanPath] || (redirects as Record<string, string>)[decodedPath];
+  const newsPath = decodedPath.startsWith("/news/") ? decodedPath.toLowerCase() : decodedPath;
+  const redirectTarget = (redirects as Record<string, string>)[cleanPath] || (redirects as Record<string, string>)[newsPath];
 
   if (redirectTarget) {
     // 旧 /player/<slug>（廃止ルート）→ /players/<slug>、高校生(hs-)選手は個別ページ無し→学校一覧
