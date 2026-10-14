@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-14T02:19:35+09:00",
+  "checked_at": "2026-10-14T16:03:34+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6204",
+          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 一部試合日程および会場追加決定のお知らせ 2026.10.14",
+          "date": "2026-10-14",
+          "category": null
+        },
+        {
+          "url": "https://league-one.jp/news/6203",
+          "title": "クラブ 丸和MOMOTARO’S成田、山田章仁選手 タグワールドカップ2026（8人制タグラグビー） 日本代表として出場のお知らせ 2026.10.14",
+          "date": "2026-10-14",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,7 +32,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54258",
+          "title": "男子セブンズ日本代表 スリランカ遠征スケジュールと参加メンバーのお知らせ 2026.10.14 （水） 男子セブンズ日本代表 セブンズ ARE7s アジアラグビーエミレーツセブンズシリーズ2026 男子 男子セブンズ",
+          "date": "2026-10-14",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54249",
+          "title": "ラグビー体験授業（倉敷市） 開催のお知らせ 2026.10.14 （水） 小学生 その他 普及育成",
+          "date": "2026-10-14",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +59,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6203",
+      "title": "クラブ 丸和MOMOTARO’S成田、山田章仁選手 タグワールドカップ2026（8人制タグラグビー） 日本代表として出場のお知らせ 2026.10.14",
+      "date": "2026-10-14",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54258",
+      "title": "男子セブンズ日本代表 スリランカ遠征スケジュールと参加メンバーのお知らせ 2026.10.14 （水） 男子セブンズ日本代表 セブンズ ARE7s アジアラグビーエミレーツセブンズシリーズ2026 男子 男子セブンズ",
+      "date": "2026-10-14",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }
