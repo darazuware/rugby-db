@@ -34,16 +34,16 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "イングラン�
 
 ## 各チーム紹介リンク
 
-- [バース・ラグビー 2025-26シーズンガイド](/news/premiership-bath-2025-26)
-- [ブリストル・ベアーズ 2025-26シーズンガイド](/news/premiership-bristol-bears-2025-26)
-- [エクセター・チーフス 2025-26シーズンガイド](/news/premiership-exeter-chiefs-2025-26)
-- [グロスター・ラグビー 2025-26シーズンガイド](/news/premiership-gloucester-2025-26)
-- [ハーレクインズ 2025-26シーズンガイド](/news/premiership-harlequins-2025-26)
-- [レスター・タイガーズ 2025-26シーズンガイド](/news/premiership-leicester-tigers-2025-26)
-- [ニューカッスル・レッドブルズ（旧ファルコンズ） 2025-26シーズンガイド](/news/premiership-newcastle-falcons-2025-26)
-- [ノーサンプトン・セインツ 2025-26シーズンガイド](/news/premiership-northampton-saints-2025-26)
-- [セール・シャークス 2025-26シーズンガイド](/news/premiership-sale-sharks-2025-26)
-- [サラセンズ 2025-26シーズンガイド](/news/premiership-saracens-2025-26)
+- [バース・ラグビー チーム紹介](/teams/premiership/bath-rugby/)
+- [ブリストル・ベアーズ チーム紹介](/teams/premiership/bristol-bears/)
+- [エクセター・チーフス チーム紹介](/teams/premiership/exeter-chiefs/)
+- [グロスター・ラグビー チーム紹介](/teams/premiership/gloucester-rugby/)
+- [ハーレクインズ チーム紹介](/teams/premiership/harlequins/)
+- [レスター・タイガーズ チーム紹介](/teams/premiership/leicester-tigers/)
+- [ニューカッスル・レッドブルズ（旧ファルコンズ） チーム紹介](/teams/premiership/newcastle-red-bulls/)
+- [ノーサンプトン・セインツ チーム紹介](/teams/premiership/northampton-saints/)
+- [セール・シャークス チーム紹介](/teams/premiership/sale-sharks/)
+- [サラセンズ チーム紹介](/teams/premiership/saracens/)
 
 ## タイトル獲得回数ランキング
 
