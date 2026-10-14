@@ -113,3 +113,10 @@
 - news_gen: 掲載0件になった週次は noindex 取り下げページを作らず下書き化＋月次まとめへ301
 - news_gen: 代表招集は個別記事を作らず年間まとめ（{league}-callups-{年}）に追記
 - middleware: 大文字を含むニュースslugの301（-W34 → -w34）が効いていなかったため小文字で照合
+
+## 実行結果（2026-10-14 ビルド確認）
+
+- サイトマップ: 257 → 203 URL（ニュース 114 → 60）。noindex・非公開・統合元の混入 0件
+- premiership-league-guide-2025-26 は `<meta name="robots" content="noindex,follow">` を出力
+- 公開ニュースの再計測: 1,500字未満または8割以上類似は 68 → 5本（残す4・noindex1。how-to-watch-japan-tests は下書き記事へのリンク3行を外したため1,484字）
+- ニュース内リンクの切れ 0件（下書き・転送済みURLへのリンクを張り替え）
