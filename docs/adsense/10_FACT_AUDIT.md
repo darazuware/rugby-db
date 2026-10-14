@@ -1510,3 +1510,18 @@
 - 削除件数：26
 - 要判断：tier2のチリ詳細記事リンク文言（リンク先側の職業情報が未検証）。samoa記事「上記6大リーグ」は自サイト名鑑データの集計で外部検証対象外（「上記」が指す記述が本文にない）
 
+
+## 追補（2026-10-14 ユーザー指示による対応）
+
+### 要判断1：VPN記事
+- vpn-for-rugby-overseas を draft: true（非公開）。/news/vpn-for-rugby-overseas → /news/how-to-watch-overseas-rugby/ を data/redirects.json で301。how-to-watch-overseas-rugby の同記事への誘導節を削除
+
+### 要判断4：タイトル歴の誤り
+| ファイル | 元の記述 | 処置後 | 根拠URL |
+|---|---|---|---|
+| teams/urc/vodacom-bulls.md, news/urc-bulls-2025-26.md | URC優勝1回（2023年） | （削除。2022-23優勝はMunster、Bulls は URC 優勝なし） | https://en.wikipedia.org/wiki/United_Rugby_Championship |
+| teams/urc/vodacom-bulls.md | URCでも2022-23シーズンに初優勝 | 2021-22・2023-24・2024-25シーズンに決勝へ進出 | 同上 |
+| news/urc-league-guide-2025-26.md | ブルズ「URC 1回」 | （削除） | 同上 |
+| news/urc-cardiff-2025-26.md | チャレンジカップ優勝（2009・2017年） | 2010・2018年 | https://en.wikipedia.org/wiki/Cardiff_Rugby |
+| news/super-rugby-pacific-team-guide-2025-26.md | ロバートソン時代の7シーズンで5回優勝 | 7シーズン連続優勝 | https://en.wikipedia.org/wiki/Crusaders_(rugby_union) |
+| news/portugal-rugby-2026.md（description） | ジョージアを破り初優勝 | 2003-04年以来の優勝 | https://en.wikipedia.org/wiki/Portugal_national_rugby_union_team |
