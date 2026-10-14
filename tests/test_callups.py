@@ -134,3 +134,25 @@ def test_build_call_up_article_renders_roster_and_new_selection():
     assert "FW（フォワード）" in md and "BK（バックス）" in md
     assert "前回招集から新たに選出" in md
     assert "矢崎 由高" in md
+
+
+def test_build_call_up_rollup_article_newest_first_and_compacts_older():
+    ev = _event()
+    players, _ = jrfu.callup_members_to_players(ev)
+    evs = callups.assign_member_ids([ev], players)
+    pbi = {p["id"]: p for p in players}
+    older = {**evs[0], "news_id": "54000", "title": "男子日本代表 宮崎合宿参加メンバーのお知らせ"}
+    art = news_gen.build_call_up_rollup_article(
+        "national", "2026", [("2026-07-01", older), ("2026-07-23", evs[0])], players_by_id=pbi)
+    assert art.slug == "national-callups-2026"
+    assert art.pub_date == "2026-07-23"
+    heads = [l for l in art.body.splitlines() if l.startswith("## ")]
+    assert "網走" in heads[0] and "宮崎" in heads[1]
+    latest, past = art.body.split(heads[1])
+    assert "キャップ）" in latest and "**FW（フォワード）**\n" in latest
+    assert "**FW（フォワード）**: " in past and " / " not in past.split("**FW（フォワード）**")[1]
+
+
+def test_build_call_up_rollup_article_none_without_members():
+    assert news_gen.build_call_up_rollup_article("national", "2026", [("2026-07-01", None)],
+                                                 players_by_id={}) is None

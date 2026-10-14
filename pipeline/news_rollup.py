@@ -1,6 +1,9 @@
 """短信ニュース（加入・初キャップ・キャップ更新・退団の自動生成記事）を月次まとめ記事へ統合する。
 
-- 対象: pipeline.news_gen が出す自動記事のうち本文1,000字未満・draft:false のもの
+- 対象: pipeline.news_gen が出す自動記事のうち draft:false で、週次まとめ（*-weekly-*。字数を問わず単独公開しない）
+  または本文1,500字未満のもの（docs/adsense/11_THIN_CONTENT_PLAN.md）
+- 月次まとめ自体が本文1,500字未満なら noindex（URLは301の受け皿として残す）
+- data/manual/rollup_frozen.json の月は手修正済みのため再生成しない（元記事も統合しない）
 - エントリは data/meta/news/rollup_YYYY-MM.json に蓄積し、月次記事 transfers-roundup-YYYY-MM.md を再生成（追記方式）
 - 元記事は削除し、旧URLは data/redirects.json 経由でまとめ記事へ301
 - 事実は元記事本文の範囲のみ。集計（件数・チーム別）は本文中のリンクから機械的に数えるだけ
@@ -19,7 +22,8 @@ ROOT = Path(__file__).resolve().parent.parent
 NEWS_DIR = ROOT / "src" / "content" / "news"
 REDIRECTS = ROOT / "data" / "redirects.json"
 ROLLUP_DIR = io.META_DIR / "news"
-MIN_CHARS = 1000
+MIN_CHARS = 1500  # 本文（リンクURL・記法・空白を除く）の字数
+FROZEN = ROOT / "data" / "manual" / "rollup_frozen.json"
 
 KINDS = [  # (slugパターン, kind, 見出し)
     (re.compile(r"-first-cap-"), "cap1", "初キャップ"),
@@ -38,6 +42,29 @@ KIND_NOTE = {
 FM = re.compile(r"\A---\n(.*?)\n---\n(.*)\Z", re.S)
 
 
+def _plain_len(body: str) -> int:
+    t = re.sub(r"<[^>]+>", "", body)
+    t = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", t)
+    return len(re.sub(r"[\s#*_>`|\-:]", "", t))
+
+
+def _frozen() -> set[str]:
+    return set(json.loads(FROZEN.read_text(encoding="utf-8"))) if FROZEN.exists() else set()
+
+
+def month_url(month: str) -> str:
+    return f"/news/transfers-roundup-{month}/" if (NEWS_DIR / f"transfers-roundup-{month}.md").exists() else "/news/"
+
+
+def add_redirects(mapping: dict[str, str]) -> None:
+    """data/redirects.json に追記。ニュースのキーは配信URLに合わせ小文字にする。"""
+    if not mapping:
+        return
+    r = json.loads(REDIRECTS.read_text(encoding="utf-8"))
+    r.update({k.lower() if k.startswith("/news/") else k: v for k, v in mapping.items()})
+    REDIRECTS.write_text(json.dumps(r, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
 def _classify(slug: str):
     for pat, kind, _ in KINDS:
         if pat.search(slug):
@@ -54,6 +81,7 @@ def _collect() -> dict[str, list[dict]]:
     """月ごとの新規エントリを集め、元記事を削除してリダイレクトを追記する。"""
     new: dict[str, list[dict]] = {}
     redirects: dict[str, str] = {}
+    frozen = _frozen()
     for f in sorted(NEWS_DIR.glob("*.md")):
         slug = f.stem
         kind = _classify(slug)
@@ -65,22 +93,22 @@ def _collect() -> dict[str, list[dict]]:
         fm, body = m.groups()
         if re.search(r"^draft:\s*true", fm, re.M):
             continue
-        if len(re.sub(r"\s", "", body)) >= MIN_CHARS:
+        if "-weekly-" not in slug and _plain_len(body) >= MIN_CHARS:
             continue
         pd = re.search(r"pubDate:\s*(\d{4}-\d{2}-\d{2})", fm)
         if not pd:
             continue
         month = pd.group(1)[:7]
+        if month in frozen:
+            print(f"[rollup] {slug}: {month} は手修正済みのため統合しない（要確認）")
+            continue
         for line in (l.strip() for l in body.strip().splitlines() if l.strip()):
             text = line if line.startswith("- ") else "- " + line
             new.setdefault(month, []).append(
                 {"kind": kind, "label": _label(fm), "date": pd.group(1), "text": text})
         redirects[f"/news/{slug}"] = f"/news/transfers-roundup-{month}/"
         f.unlink()
-    if redirects:
-        r = json.loads(REDIRECTS.read_text(encoding="utf-8"))
-        r.update(redirects)
-        REDIRECTS.write_text(json.dumps(r, ensure_ascii=False, indent=4) + "\n", encoding="utf-8")
+    add_redirects(redirects)
     return new
 
 
@@ -148,8 +176,11 @@ def run() -> int:
 
 def rerender() -> None:
     """蓄積済み state から月次記事を再描画する（検証ロジック変更時用。元記事の削除・リダイレクト追加はしない）。"""
+    frozen = _frozen()
     for p in sorted(ROLLUP_DIR.glob("rollup_*.json")):
         month = p.stem.removeprefix("rollup_")
+        if month in frozen:
+            continue
         if (NEWS_DIR / f"transfers-roundup-{month}.md").exists():  # 統合・リダイレクト済みの月は復活させない
             _write(month, io.read_json(p, default=[]))
 
@@ -158,6 +189,7 @@ def _write(month: str, state: list[dict]) -> None:
     y, mo = month.split("-")
     last = max(e["date"] for e in state)
     labels = "・".join(sorted({e["label"] for e in state if news_verify.rollup_line_ok(e)}))
+    body = _render(month, state) + _extras(month)
     fm = [
         "---",
         f'title: "ラグビー移籍・代表キャップ動向まとめ（{y}年{int(mo)}月）"',
@@ -166,11 +198,11 @@ def _write(month: str, state: list[dict]) -> None:
         'category: "NEWS"',
         'tags: ["移籍", "加入", "キャップ更新", "月次まとめ"]',
         "draft: false",
+        *(["noindex: true"] if _plain_len(body) < MIN_CHARS else []),
         "---",
         "",
     ]
-    (NEWS_DIR / f"transfers-roundup-{month}.md").write_text(
-        "\n".join(fm) + _render(month, state) + _extras(month), encoding="utf-8")
+    (NEWS_DIR / f"transfers-roundup-{month}.md").write_text("\n".join(fm) + body, encoding="utf-8")
     print(f"[rollup] {month}: {len(state)} entries")
 
 

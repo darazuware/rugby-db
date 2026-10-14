@@ -423,6 +423,76 @@ def build_round_result_articles(diff: dict, *, matches_by_id: dict[str, dict], t
     return articles
 
 
+def _call_up_title(ev: dict, label: str) -> tuple[str, int]:
+    raw_title = (ev.get("title") or "").strip()
+    base = raw_title.replace("のお知らせ", "").strip() or f"{label} 招集メンバー"
+    return base, ev.get("member_count") or len(ev.get("members", []))
+
+
+def _call_up_body(ev: dict, players_by_id: dict[str, dict], *, compact: bool = False,
+                  photo_heading: str = "##") -> list[str]:
+    """招集イベント1件の本文行（期間・会場・構成・メンバー・新規選出）。
+    compact=True はメンバーを氏名のみ1行に並べ、写真を載せない（年間まとめの過去分用）。"""
+    members = ev.get("members", [])
+    lines: list[str] = []
+    if ev.get("start_date"):
+        lines.append(f"- 期間: {ev['start_date']}〜")
+    if ev.get("venue"):
+        lines.append(f"- 会場: {ev['venue']}")
+    lines.append("")
+
+    stats_lines = _call_up_stats_lines(members, players_by_id)
+    if stats_lines:
+        lines.append("**メンバー構成**")
+        lines.extend(stats_lines)
+        lines.append("")
+
+    group_label = {"FW": "FW（フォワード）", "BK": "BK（バックス）"}
+    seen_groups = [g for g in ("FW", "BK") if any(m.get("position_group") == g for m in members)]
+    other = [m for m in members if m.get("position_group") not in ("FW", "BK")]
+    groups = [(group_label[g], [m for m in members if m.get("position_group") == g]) for g in seen_groups]
+    if other:
+        groups.append(("その他", other))
+    for head, ms in groups:
+        if compact:
+            names = [_player_md(m, players_by_id) or player_display_name(m) for m in ms]
+            lines.append(f"**{head}**: " + "、".join(x for x in names if x))
+        else:
+            lines.append(f"**{head}**")
+            lines.extend(_call_up_member_line(m, players_by_id) for m in ms)
+        lines.append("")
+
+    # 検証済みInstagram写真（本人公式アカウントのみ）をメンバー順に埋め込む。
+    # キーは選手ページのslug（選手ページ側と共有）。
+    embeds = {} if compact else _ig_embeds()
+    def _emb_for(m: dict) -> Optional[dict]:
+        p = players_by_id.get(m.get("id"))
+        return embeds.get(p.get("slug")) if p and p.get("slug") else None
+    photo_members = [m for m in members if _emb_for(m)]
+    if photo_members:
+        lines.append(f"{photo_heading} 選手フォト")
+        lines.append("")
+        for m in photo_members:
+            emb = _emb_for(m)
+            name = _player_md(m, players_by_id) or player_display_name(m) or ""
+            acct = emb.get("account")
+            cap = f"{name}（Instagram [@{acct}](https://www.instagram.com/{acct}/)）" if acct else name
+            lines.append(cap)
+            lines.append("")
+            lines.append(instagram_block(emb["permalink"]))
+            lines.append("")
+
+    new_members = ev.get("new_members", [])
+    if ev.get("has_previous") and new_members:
+        names = [_player_md(m, players_by_id) or player_display_name(m) for m in new_members]
+        names = [x for x in names if x]
+        if names:
+            lines.append("**前回招集から新たに選出**")
+            lines.append("、".join(names))
+            lines.append("")
+    return lines
+
+
 def build_call_up_articles(diff: dict, *, players_by_id: dict[str, dict],
                            pub_date: str, source_diff: str) -> list[Article]:
     """gap B: 招集・合宿メンバー発表イベント（diff["call_ups"]）→ ロースター記事。
@@ -430,86 +500,52 @@ def build_call_up_articles(diff: dict, *, players_by_id: dict[str, dict],
     本文はイベントの事実（期間・会場・メンバー一覧＋選手ページリンク）と、前回招集からの
     「新たに選出された選手」（機械的差分）のみ。「復帰」等の含意や展望は書かない
     （03_VALIDATION 原則2）。slug は news_id 由来で冪等（再実行で同一記事を上書き）。
+    公開記事は main() で年間まとめ（build_call_up_rollup_article）に集約する。
     """
     league = diff["league"]
     label = league_label(league)
     articles: list[Article] = []
     for ev in diff.get("call_ups", []):
         news_id = ev.get("news_id")
-        members = ev.get("members", [])
-        if not news_id or not members:
+        if not news_id or not ev.get("members"):
             continue
-        raw_title = (ev.get("title") or "").strip()
-        base = raw_title.replace("のお知らせ", "").strip() or f"{label} 招集メンバー"
-        n = ev.get("member_count") or len(members)
-        title = f"{base}（{n}名）"
-
-        lines: list[str] = [f"{base}（{n}名）が発表された。", ""]
-        if ev.get("start_date"):
-            lines.append(f"- 期間: {ev['start_date']}〜")
-        if ev.get("venue"):
-            lines.append(f"- 会場: {ev['venue']}")
-        lines.append("")
-
-        stats_lines = _call_up_stats_lines(members, players_by_id)
-        if stats_lines:
-            lines.append("**メンバー構成**")
-            lines.extend(stats_lines)
-            lines.append("")
-
-        group_label = {"FW": "FW（フォワード）", "BK": "BK（バックス）"}
-        seen_groups = [g for g in ("FW", "BK") if any(m.get("position_group") == g for m in members)]
-        other = [m for m in members if m.get("position_group") not in ("FW", "BK")]
-        for g in seen_groups:
-            lines.append(f"**{group_label[g]}**")
-            for m in members:
-                if m.get("position_group") != g:
-                    continue
-                lines.append(_call_up_member_line(m, players_by_id))
-            lines.append("")
-        if other:
-            lines.append("**その他**")
-            for m in other:
-                lines.append(_call_up_member_line(m, players_by_id))
-            lines.append("")
-
-        # 検証済みInstagram写真（本人公式アカウントのみ）をメンバー順に埋め込む。
-        # キーは選手ページのslug（選手ページ側と共有）。
-        embeds = _ig_embeds()
-        def _emb_for(m: dict) -> Optional[dict]:
-            p = players_by_id.get(m.get("id"))
-            return embeds.get(p.get("slug")) if p and p.get("slug") else None
-        photo_members = [m for m in members if _emb_for(m)]
-        if photo_members:
-            lines.append("## 選手フォト")
-            lines.append("")
-            for m in photo_members:
-                emb = _emb_for(m)
-                name = _player_md(m, players_by_id) or player_display_name(m) or ""
-                acct = emb.get("account")
-                cap = f"{name}（Instagram [@{acct}](https://www.instagram.com/{acct}/)）" if acct else name
-                lines.append(cap)
-                lines.append("")
-                lines.append(instagram_block(emb["permalink"]))
-                lines.append("")
-
-        new_members = ev.get("new_members", [])
-        if ev.get("has_previous") and new_members:
-            names = [_player_md(m, players_by_id) or player_display_name(m) for m in new_members]
-            names = [x for x in names if x]
-            if names:
-                lines.append("**前回招集から新たに選出**")
-                lines.append("、".join(names))
-                lines.append("")
-
-        body = "\n".join(lines).rstrip()
-        slug = f"{league}-callup-{news_id}"
+        base, n = _call_up_title(ev, label)
+        lines = [f"{base}（{n}名）が発表された。", "", *_call_up_body(ev, players_by_id)]
         tags = [label, "招集"]
         if ev.get("kind") == "camp":
             tags.append("合宿")
-        articles.append(Article(slug=slug, title=title, body=body, tags=tags,
+        articles.append(Article(slug=f"{league}-callup-{news_id}", title=f"{base}（{n}名）",
+                                body="\n".join(lines).rstrip(), tags=tags,
                                 pub_date=pub_date, source_diff=source_diff))
     return articles
+
+
+CALLUP_TEAM_NAME = {"national": "男子日本代表"}
+
+
+def build_call_up_rollup_article(league: str, year: str, events: list[tuple[str, dict]], *,
+                                 players_by_id: dict[str, dict]) -> Optional[Article]:
+    """招集・合宿メンバー発表を年単位の1記事にまとめる。発表ごとの個別記事はメンバーの
+    大半が重なり似た記事が量産されるため作らない（docs/adsense/11_THIN_CONTENT_PLAN.md）。
+    events は (掲載日, イベント)。新しい順に並べ、最新の発表だけ所属・キャップ付きの全メンバーと
+    写真を載せ、それ以前はメンバー名のみ。"""
+    label = league_label(league)
+    events = sorted(((d, ev) for d, ev in events if ev and ev.get("members")), key=lambda x: x[0], reverse=True)
+    if not events:
+        return None
+    team = CALLUP_TEAM_NAME.get(league, label)
+    out = [f"{year}年に発表された{team}の招集・合宿メンバーを、新しい発表から順にまとめた（{len(events)}件）。"
+           "最新の発表は所属・キャップ数付きで全メンバーを、それ以前の発表はメンバー名を載せている。"
+           "各選手名のリンクから選手ページに進める。", ""]
+    for i, (_, ev) in enumerate(events):
+        base, n = _call_up_title(ev, label)
+        out += [f"## {base}（{n}名）", "", *_call_up_body(ev, players_by_id, compact=i > 0, photo_heading="###")]
+    tags = [label, "招集"]
+    if any(ev.get("kind") == "camp" for _, ev in events):
+        tags.append("合宿")
+    return Article(slug=f"{league}-callups-{year}", title=f"{team} 招集・合宿メンバーまとめ（{year}年）",
+                   body="\n".join(out).rstrip(), tags=tags, pub_date=events[0][0],
+                   source_diff=f"callups_{league}_{year}.json")
 
 
 def _call_up_stats_lines(members: list[dict], players_by_id: dict[str, dict]) -> list[str]:
@@ -553,7 +589,7 @@ def _call_up_member_line(m: dict, players_by_id: dict[str, dict]) -> str:
 def build_articles_for_diff(diff: dict, *, players_by_id: dict[str, dict], teams_by_id: dict[str, dict],
                             matches_by_id: dict[str, dict], pub_date: str,
                             source_diff: str) -> tuple[list[Article], list[dict], list[dict]]:
-    """caps_updates（週次まとめ）を除く、1回の diff から作れる記事すべて。
+    """caps_updates（週次まとめ）・call_ups（年間まとめ）を除く、1回の diff から作れる記事すべて。
     戻り値は (個別記事, 海外join週次エントリ, 海外departure週次エントリ)。"""
     articles: list[Article] = []
     join_articles, join_weekly = build_join_articles(diff, players_by_id=players_by_id, teams_by_id=teams_by_id,
@@ -566,8 +602,7 @@ def build_articles_for_diff(diff: dict, *, players_by_id: dict[str, dict], teams
                                          pub_date=pub_date, source_diff=source_diff)
     articles += build_round_result_articles(diff, matches_by_id=matches_by_id, teams_by_id=teams_by_id,
                                             pub_date=pub_date, source_diff=source_diff)
-    articles += build_call_up_articles(diff, players_by_id=players_by_id,
-                                       pub_date=pub_date, source_diff=source_diff)
+    # 招集（call_ups）は main() で年間まとめに集約する（build_call_up_rollup_article）
     return articles, join_weekly, dep_weekly
 
 
@@ -691,15 +726,65 @@ def _callup_event(news_id: str, source_diff: str) -> Optional[dict]:
     return ev
 
 
+def _callup_state_path(league: str, year: str) -> Path:
+    return NEWS_META_DIR / f"callups_{league}_{year}.json"
+
+
+def update_call_up_rollup(league: str, year: str, new_entries: list[dict], players_by_id: dict[str, dict],
+                          *, today: str = "") -> Optional[Article]:
+    """年間まとめの状態（news_id・初出diff・掲載日）に追記し、記事を組み直す。"""
+    path = _callup_state_path(league, year)
+    state = {e["news_id"]: e for e in io.read_json(path, default=[])}
+    for e in new_entries:
+        state.setdefault(e["news_id"], e)
+    entries = sorted(state.values(), key=lambda e: (e["pub_date"], e["news_id"]))
+    io.write_json(path, entries)
+    events = [(e["pub_date"], _callup_event(e["news_id"], e["source_diff"])) for e in entries]
+    art = build_call_up_rollup_article(league, year, events, players_by_id=players_by_id)
+    if art and today:
+        art.updated_date = today
+    return art
+
+
+def migrate_call_ups(today: str) -> int:
+    """公開中の発表ごとの招集記事（{league}-callup-{id}）を年間まとめへ統合し、旧URLを301する。"""
+    import re
+    from . import news_rollup
+    found: dict[tuple[str, str], list[dict]] = {}
+    olds: dict[tuple[str, str], list[Path]] = {}
+    for path in sorted(NEWS_DIR.glob("*.md")):
+        c = re.match(r"(.+)-callup-(\d+)$", path.stem)
+        if not c:
+            continue
+        fm = _front(path)
+        if fm.get("draft") == "true":
+            continue
+        pub = fm.get("pubDate", today)
+        key = (c.group(1), pub[:4])
+        found.setdefault(key, []).append({"news_id": c.group(2), "source_diff": fm.get("source_diff", ""),
+                                          "pub_date": pub})
+        olds.setdefault(key, []).append(path)
+    for (league, year), entries in found.items():
+        players_by_id = {p["id"]: p for p in io.read_records(io.players_path(league))}
+        art = update_call_up_rollup(league, year, entries, players_by_id, today=today)
+        if not art:
+            continue
+        write_articles([art])
+        news_rollup.add_redirects({f"/news/{p.stem}": f"/news/{art.slug}/" for p in olds[(league, year)]})
+        for p in olds[(league, year)]:
+            p.unlink()
+        print(f"[news] callups {league} {year}: {len(entries)} 件を {art.slug} に統合")
+    return sum(len(v) for v in found.values())
+
+
 def rebuild_published(today: str) -> int:
-    """公開中（draft:false）の週次まとめ・招集記事を現行の検証ロジックで再生成する。
-    pubDate/source_diff は維持。載せられる行が0件の週次記事は noindex にして取り下げ文のみ残す
-    （URL を消すとリダイレクトが要るため、統合判断は人に委ねる）。"""
+    """公開中（draft:false）の週次まとめ・招集年間まとめを現行の検証ロジックで再生成する。
+    pubDate/source_diff は維持。載せられる行が0件の週次記事は下書きにして月次まとめへ301する。"""
     import re
     n = 0
     for path in sorted(NEWS_DIR.glob("*.md")):
         m = re.match(r"(.+)-(caps|join)-weekly-(\d{4}-W\d{2})$", path.stem)
-        c = re.match(r"(.+)-callup-(\d+)$", path.stem)
+        c = re.match(r"(.+)-callups-(\d{4})$", path.stem)
         if not m and not c:
             continue
         if m and m.group(2) == "caps":  # 公開中のキャップ週次は Wikipedia で手修正済み。再生成で古い値に戻さない
@@ -721,20 +806,19 @@ def rebuild_published(today: str) -> int:
                 art = build_join_weekly_article(league, wk, state, players_by_id=players_by_id,
                                                 teams_by_id=teams_by_id, pub_date=pub, source_diff=src)
             if art is None:
+                # 載せる行が無い週次は取り下げページを残さず下書きにし、月次まとめへ301
+                # （本文の無いページを公開し続けない。docs/adsense/11_THIN_CONTENT_PLAN.md）
+                from . import news_rollup
                 art = Article(slug=path.stem, title=fm.get("title", path.stem), body=_WITHDRAWN,
                               tags=[league_label(league), "加入" if kind == "join" else "キャップ更新"],
-                              pub_date=pub, source_diff=src, noindex=True)
+                              pub_date=pub, source_diff=src, draft=True)
+                news_rollup.add_redirects({f"/news/{path.stem}": news_rollup.month_url(pub[:7])})
         else:
-            league, news_id = c.groups()
-            ev = _callup_event(news_id, src)
-            if not ev:
-                continue
+            league, year = c.groups()
             players_by_id = {p["id"]: p for p in io.read_records(io.players_path(league))}
-            arts = build_call_up_articles({"league": league, "call_ups": [ev]}, players_by_id=players_by_id,
-                                          pub_date=pub, source_diff=src)
-            if not arts:
+            art = update_call_up_rollup(league, year, [], players_by_id)
+            if not art:
                 continue
-            art = arts[0]
         old = re.sub(r"^updatedDate:.*\n", "", path.read_text(encoding="utf-8"), flags=re.M)
         new = art.to_markdown()
         if old == new:
@@ -751,8 +835,13 @@ def main(argv: Optional[list[str]] = None) -> int:
     ap.add_argument("--date", default=None, help="対象diffの日付 YYYY-MM-DD（省略時は本日 JST）")
     ap.add_argument("--rebuild-published", action="store_true",
                     help="公開中の週次まとめ・招集記事を現行の検証ロジックで再生成する")
+    ap.add_argument("--migrate-callups", action="store_true",
+                    help="発表ごとの招集記事を年間まとめへ統合し旧URLを301する")
     args = ap.parse_args(argv)
     target_date = args.date or datetime.now(io.JST).strftime("%Y-%m-%d")
+    if args.migrate_callups:
+        print(f"[news] 招集記事 {migrate_call_ups(target_date)} 件を統合")
+        return 0
     if args.rebuild_published:
         print(f"[news] 再生成 {rebuild_published(target_date)} 件")
         return 0
@@ -820,6 +909,14 @@ def main(argv: Optional[list[str]] = None) -> int:
             )
             if dep_article:
                 articles.append(dep_article)
+
+        if diff.get("call_ups"):
+            year = target_date[:4]
+            entries = [{"news_id": ev["news_id"], "source_diff": source_diff, "pub_date": target_date}
+                       for ev in diff["call_ups"] if ev.get("news_id") and ev.get("members")]
+            rollup = update_call_up_rollup(league, year, entries, players_by_id, today=target_date) if entries else None
+            if rollup:
+                articles.append(rollup)
 
         write_articles(articles, NEWS_DIR)
         total += len(articles)
