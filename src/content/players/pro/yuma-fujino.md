@@ -19,9 +19,9 @@ junior_high_school: ""
 rugby_school: ""
 scraped_url: "https://league-one.jp/player/484987"
 league_one_caps: "29"
-career_history_json: '[{"year": 2021, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2022, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2023, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2024, "teams": ["NTTドコモレッドハリケーンズ大阪", "東芝ブレイブルーパス東京"]}, {"year": 2025, "teams": ["NTTドコモレッドハリケーンズ大阪"]}, {"year": 2026, "teams": ["NTTドコモレッドハリケーンズ大阪"]}]'
+career_history_json: '[{"year": 2021, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2022, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2023, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2024, "teams": ["NTTドコモレッドハリケーンズ大阪", "東芝ブレイブルーパス武蔵"]}, {"year": 2025, "teams": ["NTTドコモレッドハリケーンズ大阪"]}, {"year": 2026, "teams": ["NTTドコモレッドハリケーンズ大阪"]}]'
 category: "pro"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2021 - 2024) -> NTTドコモレッドハリケーンズ大阪 (2024 - )
+東芝ブレイブルーパス武蔵 (2021 - 2024) -> NTTドコモレッドハリケーンズ大阪 (2024 - )

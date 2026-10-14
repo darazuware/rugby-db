@@ -19,9 +19,9 @@ junior_high_school: ""
 rugby_school: ""
 scraped_url: "https://league-one.jp/player/484683"
 league_one_caps: "37"
-career_history_json: '[{"year": 2021, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2022, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2023, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2024, "teams": ["三重ホンダヒート", "東芝ブレイブルーパス東京"]}, {"year": 2025, "teams": ["三重ホンダヒート"]}, {"year": 2026, "teams": ["三重ホンダヒート"]}]'
+career_history_json: '[{"year": 2021, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2022, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2023, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2024, "teams": ["三重ホンダヒート", "東芝ブレイブルーパス武蔵"]}, {"year": 2025, "teams": ["三重ホンダヒート"]}, {"year": 2026, "teams": ["三重ホンダヒート"]}]'
 category: "pro"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2021 - 2024) -> 三重ホンダヒート (2024 - )
+東芝ブレイブルーパス武蔵 (2021 - 2024) -> 三重ホンダヒート (2024 - )

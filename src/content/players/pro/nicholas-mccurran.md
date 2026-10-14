@@ -19,9 +19,9 @@ junior_high_school: ""
 rugby_school: ""
 scraped_url: "https://league-one.jp/player/484453"
 league_one_caps: "62"
-career_history_json: '[{"year": 2021, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2022, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2023, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2024, "teams": ["Toyota Verblitz", "東芝ブレイブルーパス東京"]}, {"year": 2025, "teams": ["Toyota Verblitz"]}, {"year": 2026, "teams": ["Toyota Verblitz"]}]'
+career_history_json: '[{"year": 2021, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2022, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2023, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2024, "teams": ["Toyota Verblitz", "東芝ブレイブルーパス武蔵"]}, {"year": 2025, "teams": ["Toyota Verblitz"]}, {"year": 2026, "teams": ["Toyota Verblitz"]}]'
 category: "pro"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2021 - 2024) -> Toyota Verblitz (2024 - )
+東芝ブレイブルーパス武蔵 (2021 - 2024) -> Toyota Verblitz (2024 - )

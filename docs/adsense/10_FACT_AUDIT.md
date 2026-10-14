@@ -1525,3 +1525,10 @@
 | news/urc-cardiff-2025-26.md | チャレンジカップ優勝（2009・2017年） | 2010・2018年 | https://en.wikipedia.org/wiki/Cardiff_Rugby |
 | news/super-rugby-pacific-team-guide-2025-26.md | ロバートソン時代の7シーズンで5回優勝 | 7シーズン連続優勝 | https://en.wikipedia.org/wiki/Crusaders_(rugby_union) |
 | news/portugal-rugby-2026.md（description） | ジョージアを破り初優勝 | 2003-04年以来の優勝 | https://en.wikipedia.org/wiki/Portugal_national_rugby_union_team |
+
+### 要判断3：東芝ブレイブルーパス東京 → 東芝ブレイブルーパス武蔵（2026-10-01改称、https://ja.wikipedia.org/wiki/東芝ブレイブルーパス武蔵）
+- src/content（news 9・teams 1・players 66 ほか、計79ファイル）の「東芝ブレイブルーパス東京」「Toshiba Brave Lupus Tokyo」「BL東京」を新称へ置換。運営会社「東芝ブレイブルーパス東京株式会社」は社名変更なし（同Wikipedia）のため据え置き。チームページの改称経緯の文も据え置き
+- 表示データ：data/teams.json（team_name・team_en_name）、data/standings.json、data/results_2026.json、data/national_players_map.json、public/data/players.json、data/team_names_jp.json（jp を新称、旧称を aliases へ）、data/manual/rollup_extras/2026-08.md
+- コード：src/lib/master.ts に TEAM_RENAMES（master が旧称の間の表示上書き）、src/utils/team_utils.ts・teams/[league]/[slug].astro に新称キー追加、pipeline/scrape/team_wiki.py の Wikipedia 記事名を新称へ
+- data/master は未変更（league-one.jp 側の更新でスクレイプ時に反映される想定）。URL slug（toshiba-brave-lupus-tokyo）は据え置き
+- ビルド出力で旧称が残るのは運営会社名のみ（確認済み）。data/national_players_map.json は scripts/gen_national_players_map.py 再実行で master 由来の旧称に戻る点に注意

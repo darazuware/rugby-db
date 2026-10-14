@@ -11,7 +11,7 @@ age: 23
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "東芝ブレイブルーパス東京（2025-26）"
+team: "東芝ブレイブルーパス武蔵（2025-26）"
 caps: "XV('25)、Test Matchs(1CAP"
 high_school: "常翔学園高校"
 university: "明治大学"
@@ -19,9 +19,9 @@ junior_high_school: ""
 rugby_school: ""
 scraped_url: "https://league-one.jp/player/484346"
 league_one_caps: "2"
-career_history_json: '[{"year": 2025, "teams": ["Toshiba Brave Lupus Tokyo"]}, {"year": 2026, "teams": ["Toshiba Brave Lupus Tokyo"]}]'
+career_history_json: '[{"year": 2025, "teams": ["Toshiba Brave Lupus Musashi"]}, {"year": 2026, "teams": ["Toshiba Brave Lupus Musashi"]}]'
 category: "pro"
 ---
 
 ## キャリア遍歴
-Toshiba Brave Lupus Tokyo (2025 - )
+Toshiba Brave Lupus Musashi (2025 - )

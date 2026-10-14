@@ -24,20 +24,20 @@ draft: false
 - [平野 叶翔](/players/kanato-hirano-507122/)（[栃木ホンダヒート](/teams/league-one/tochigi-honda-heat/) / 0キャップ）
 - [江良 颯](/players/hayate-era-483786/)（[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) / 9キャップ）
 - [佐藤 健次](/players/kenji-sato-484033/)（[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 10キャップ）
-- [原田 衛](/players/mamoru-harada/)（[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/) / 14キャップ）
+- [原田 衛](/players/mamoru-harada/)（[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/) / 14キャップ）
 - [イジー・ソード](/players/izi-sword-483782/)（[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) / 1キャップ）
 - [竹内 柊平](/players/shuhei-takeuchi-485712/)（[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/) / 26キャップ）
 - [為房 慶次朗](/players/keijiro-tamefusa-486437/)（[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) / 23キャップ）
 - [ジャック・コーネルセン](/players/jack-cornelsen-485708/)（[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 32キャップ）
-- [マイケル・ストーバーグ](/players/mike-stolberg/)（[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/) / 3キャップ）
-- [ワーナー・ディアンズ](/players/warner-dearns/)（[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/) / 35キャップ）
+- [マイケル・ストーバーグ](/players/mike-stolberg/)（[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/) / 3キャップ）
+- [ワーナー・ディアンズ](/players/warner-dearns/)（[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/) / 35キャップ）
 - [ハリー・ホッキングス](/players/harry-hockings-485719/)（[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/) / 5キャップ）
 - [ベン・ガンター](/players/ben-gunter-484055/)（[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 20キャップ）
 - [ティエナン・コストリー](/players/tiennan-costley-483942/)（[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/) / 14キャップ）
 - [下川 甲嗣](/players/kanji-shimokawa-485716/)（[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/) / 25キャップ）
 - [エセイ・ハアンガナ](/players/esei-ha-angana/)（[浦安D-Rocks](/teams/league-one/urayasu-d-rocks/) / 1キャップ）
 - [マキシ ファウルア](/players/lua-makisi/)（[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) / 23キャップ）
-- [リーチ マイケル](/players/michael-leitch-484358/)（[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/) / 95キャップ）
+- [リーチ マイケル](/players/michael-leitch-484358/)（[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/) / 95キャップ）
 
 **BK（バックス）**
 - [上村 樹輝](/players/itsuki-kamimura-483934/)（[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/) / 2キャップ）
@@ -53,7 +53,7 @@ draft: false
 - [イノケ・ブルア](/players/inoke-burua-506369/)（[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/) / 0キャップ）
 - [メイン 平](/players/taira-main-484885/)（[リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo/) / 3キャップ）
 - [上ノ坊 駿介](/players/shunsuke-uenobo-493618/)（[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/) / 1キャップ）
-- [松永 拓朗](/players/takuro-matsunaga-484365/)（[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/) / 8キャップ）
+- [松永 拓朗](/players/takuro-matsunaga-484365/)（[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/) / 8キャップ）
 - [矢崎 由高](/players/univ-早稲田大学-矢崎由高/)（[早稲田大学](/teams/university/waseda-university/) / 9キャップ）
 
 ## 選手フォト

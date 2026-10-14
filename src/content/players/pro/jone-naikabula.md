@@ -11,7 +11,7 @@ age: 31
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "東芝ブレイブルーパス東京（2025-26）"
+team: "東芝ブレイブルーパス武蔵（2025-26）"
 caps: "セブンズ日本(5)、日本代表(17)"
 high_school: "ケルストンボーイズ"
 university: "摂南大学"
@@ -19,9 +19,9 @@ junior_high_school: ""
 rugby_school: ""
 scraped_url: "https://league-one.jp/player/484356"
 league_one_caps: "52"
-career_history_json: '[{"year": 2018, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2019, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2020, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2021, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2022, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2023, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2024, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2025, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2026, "teams": ["東芝ブレイブルーパス東京"]}]'
+career_history_json: '[{"year": 2018, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2019, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2020, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2021, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2022, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2023, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2024, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2025, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2026, "teams": ["東芝ブレイブルーパス武蔵"]}]'
 category: "pro"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2018 - )
+東芝ブレイブルーパス武蔵 (2018 - )

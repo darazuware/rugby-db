@@ -26,7 +26,7 @@ tags: ["リーグワン", "チーム紹介", "2025-26", "ディビジョン1", "
 
 ---
 
-### [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/)
+### [東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)
 
 **本拠地：** 東芝府中グラウンド（東京都府中市）
 **前身：** 東芝府中工場ラグビー部（1948年）

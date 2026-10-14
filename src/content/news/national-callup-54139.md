@@ -22,13 +22,13 @@ draft: false
 - [大塚 壮二郎](/players/sojiro-otsuka/)（関西学院大学 / 5キャップ）
 - [岡部 崇人](/players/takato-okabe-484847/)（[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/) / 13キャップ）
 - [佐藤 健次](/players/kenji-sato-484033/)（[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 10キャップ）
-- [原田 衛](/players/mamoru-harada/)（[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/) / 16キャップ）
+- [原田 衛](/players/mamoru-harada/)（[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/) / 16キャップ）
 - [平野 叶翔](/players/kanato-hirano-510683/)（[栃木ホンダヒート](/teams/league-one/tochigi-honda-heat/) / 0キャップ）
 - [イジー・ソード](/players/izi-sword-483782/)（[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) / 2キャップ）
 - [稲場 巧](/players/takumi-inaba-510660/)（静岡ブルーレブズ / 0キャップ）
 - [竹内 柊平](/players/shuhei-takeuchi-485712/)（[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/) / 28キャップ）
 - [ジャック・コーネルセン](/players/jack-cornelsen-485708/)（[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 34キャップ）
-- [マイケル・ストーバーグ](/players/mike-stolberg/)（[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/) / 3キャップ）
+- [マイケル・ストーバーグ](/players/mike-stolberg/)（[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/) / 3キャップ）
 - [ルアン・ボタ](/players/jrfu_callup_ruan-botha/)（[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) / 0キャップ）
 - [ハリー・ホッキングス](/players/harry-hockings-485719/)（[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/) / 7キャップ）
 - [ベン・ガンター](/players/ben-gunter-484055/)（[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 22キャップ）
@@ -53,7 +53,7 @@ draft: false
 - [木田 晴斗](/players/haruto-kida-483750/)（[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) / 3キャップ）
 - [イノケ・ブルア](/players/inoke-burua-510663/)（[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/) / 0キャップ）
 - [サム・グリーン](/players/sam-greene-484173/)（[JR東日本グリーンウォリアーズ東葛](/teams/league-one/jr-east-green-warriors-tokatsu/) / 7キャップ）
-- [松永 拓朗](/players/takuro-matsunaga-484365/)（[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/) / 10キャップ）
+- [松永 拓朗](/players/takuro-matsunaga-484365/)（[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/) / 10キャップ）
 
 ## 選手フォト
 
@@ -155,5 +155,5 @@ draft: false
 **その後の追加選出**（日本ラグビーフットボール協会の更新発表分）
 - 加藤 一希（FW / [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) / 0キャップ）
 - 古畑 翔（FW / [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 1キャップ）
-- 木村 星南（FW / [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/) / 3キャップ）
+- 木村 星南（FW / [東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/) / 3キャップ）
 - 武藤 ゆらぎ（BK / [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/) / 0キャップ）

@@ -10,24 +10,24 @@ draft: false
 
 ## リーグワン：新加入（40件）
 
-2026年8月に新シーズンに向けた加入が確認された選手は40名。チーム別で最も多かったのは横浜キヤノンイーグルス（7名）、東芝ブレイブルーパス東京（6名）、静岡ブルーレヴズ（5名）。
+2026年8月に新シーズンに向けた加入が確認された選手は40名。チーム別で最も多かったのは横浜キヤノンイーグルス（7名）、東芝ブレイブルーパス武蔵（6名）、静岡ブルーレヴズ（5名）。
 
 - [アキ・トゥイバイララ](/teams/league-one/shizuoka-blue-revs/#p-aki-tuivailala)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。
 - [アントニオ・シャルフーン](/players/antonio-shalfoon/)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。
-- [アフェレレ・ファッシ](/players/aphelele-fassi/)が[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
+- [アフェレレ・ファッシ](/players/aphelele-fassi/)が[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
 - [ベイリー・トゥルー](/teams/league-one/kubota-spears-funabashi-tokyo-bay/#p-bailey-trew)が[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)（リーグワン）に加入した。
 - [ベイリン・サリヴァン](/teams/league-one/kubota-spears-funabashi-tokyo-bay/#p-bailyn-sullivan)が[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)（リーグワン）に加入した。
-- [デイヴィッド・ハヴィリ](/teams/league-one/toshiba-brave-lupus-tokyo/#p-david-havili)が[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
+- [デイヴィッド・ハヴィリ](/teams/league-one/toshiba-brave-lupus-tokyo/#p-david-havili)が[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
 - [エド・カスプロウィッツ](/players/ed-kasprowicz/)が[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/)（リーグワン）に加入した。
 - [土屋 英慈](/teams/league-one/shizuoka-blue-revs/#p-eiji-tsuchiya)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。
 - [ゲージ・ジャクソン](/teams/league-one/yokohama-canon-eagles/#p-gage-jackson)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
 - [ジョージ・ブリッジ](/players/george-bridge/)が[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)（リーグワン）に加入した。
 - [グラント・ウィリアムズ](/players/grant-williams/)が[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)（リーグワン）に加入した。
 - [ハンター・パイサミ](/players/hunter-paisami/)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。
-- [ジャック・デンプシー](/players/jack-dempsey/)が[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
+- [ジャック・デンプシー](/players/jack-dempsey/)が[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
 - [ジェームス・ロウ](/players/james-lowe/)が[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/)（リーグワン）に加入した。
-- [ジョナ・ロウ](/players/jonah-lowe/)が[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
-- [ジョセフ・ギャビガン](/teams/league-one/toshiba-brave-lupus-tokyo/#p-joseph-gavigan)が[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
+- [ジョナ・ロウ](/players/jonah-lowe/)が[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
+- [ジョセフ・ギャビガン](/teams/league-one/toshiba-brave-lupus-tokyo/#p-joseph-gavigan)が[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
 - [小倉 順平](/players/jumpei-ogura/)が栃木ホンダヒート（リーグワン）に加入した。
 - [安藤 啓太](/players/keita-ando/)が[三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/)（リーグワン）に加入した。
 - [俵 啓斗](/teams/league-one/yokohama-canon-eagles/#p-keito-tawara)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
@@ -35,7 +35,7 @@ draft: false
 - [カート＝リー・アレンゼ](/teams/league-one/mitsubishi-sagamihara-dynaboars/#p-kurt-lee-arendse)が[三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/)（リーグワン）に加入した。
 - [ラクラン・マックワンネル](/teams/league-one/yokohama-canon-eagles/#p-laghlan-mcwhannell)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
 - [マラカイ エナシオ](/teams/league-one/saitama-panasonic-wild-knights/#p-malakye-enasio)が[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/)（リーグワン）に加入した。
-- [原田 衛](/players/mamoru-harada/)が[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
+- [原田 衛](/players/mamoru-harada/)が[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
 - [マーク ナワンガニタワシ](/teams/league-one/saitama-panasonic-wild-knights/#p-mark-nawaqanitawase)が[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/)（リーグワン）に加入した。
 - [マシュー・ダルトン](/teams/league-one/kobelco-kobe-steelers/#p-matthew-dalton)が[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)（リーグワン）に加入した。
 - [マックス・ダグラス](/teams/league-one/shizuoka-blue-revs/#p-max-douglas)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。
@@ -73,11 +73,11 @@ WTB/CTBの[濱野隼大](/players/junta-hamano-483951/)（2001年5月2日生、1
 
 移籍後の詳しい戦力構想は[三菱重工相模原ダイナボアーズの新加入選手発表記事](/news/mitsubishi-dynaboars-2026-new-signings/)で紹介している。
 
-### 高城勝一、東芝ブレイブルーパス東京を離れ三菱重工相模原ダイナボアーズへ移籍
+### 高城勝一、東芝ブレイブルーパス武蔵を離れ三菱重工相模原ダイナボアーズへ移籍
 
-### [高城勝一](/players/shoichi-takagi-484372/)、[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/)から相模原へ
+### [高城勝一](/players/shoichi-takagi-484372/)、[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)から相模原へ
 
-ロック/フランカーの[高城勝一](/players/shoichi-takagi-484372/)（1998年6月29日生、197cm/112kg）が、2021年から在籍した[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/)を離れ、新シーズンから[三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/)に加入する。
+ロック/フランカーの[高城勝一](/players/shoichi-takagi-484372/)（1998年6月29日生、197cm/112kg）が、2021年から在籍した[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)を離れ、新シーズンから[三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/)に加入する。
 
 大阪府出身、摂南大学卒。東芝時代にはチャンピオンチームの一員としての経験も積んだ。移籍にあたり本人は、新天地でのプレーに意欲を示している。
 

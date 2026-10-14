@@ -4,6 +4,7 @@ export const TEAM_SLUG_MAP: Record<string, string> = {
     "浦安D-Rocks": "urayasu-d-rocks",
     コベルコ神戸スティーラーズ: "kobelco-kobe-steelers",
     埼玉パナソニックワイルドナイツ: "saitama-panasonic-wild-knights",
+    東芝ブレイブルーパス武蔵: "toshiba-brave-lupus-tokyo",
     東芝ブレイブルーパス東京: "toshiba-brave-lupus-tokyo",
     トヨタヴェルブリッツ: "toyota-verblitz",
     栃木ホンダヒート: "tochigi-honda-heat",

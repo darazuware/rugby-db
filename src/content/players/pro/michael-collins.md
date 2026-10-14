@@ -11,7 +11,7 @@ age: 32
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "東芝ブレイブルーパス東京（2025-26）"
+team: "東芝ブレイブルーパス武蔵（2025-26）"
 caps: ""
 high_school: "オタゴボーイズハイスクール"
 university: "オタゴ大学"

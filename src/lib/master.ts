@@ -678,10 +678,16 @@ export async function getTeamsByLeague(league: TeamLeagueKey): Promise<Team[]> {
   return teams.filter((t) => t.league === league);
 }
 
+/** 改称済みだが master（スクレイプ元）が旧称のままのチーム。master 側が更新されれば不要。 */
+const TEAM_RENAMES: Record<string, string> = {
+  東芝ブレイブルーパス東京: "東芝ブレイブルーパス武蔵", // 2026-10-01 改称
+};
+
 /** チームの表示名（name_ja優先、無ければname_en、両方無ければnull）。 */
 export function teamDisplayName(team: Team | null | undefined): string | null {
   if (!team) return null;
-  return team.name_ja ?? team.name_en ?? null;
+  const name = team.name_ja ?? team.name_en ?? null;
+  return name ? TEAM_RENAMES[name] ?? name : null;
 }
 
 // ---------------------------------------------------------------------------

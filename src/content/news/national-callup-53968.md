@@ -28,15 +28,15 @@ draft: false
 - [竹内 柊平](/players/shuhei-takeuchi-485712/)（[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/) / 24キャップ）
 - [為房 慶次朗](/players/keijiro-tamefusa-486437/)（[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) / 20キャップ）
 - [ジャック・コーネルセン](/players/jack-cornelsen-485708/)（[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 29キャップ）
-- [マイケル・ストーバーグ](/players/mike-stolberg/)（[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/) / 0キャップ）
-- [ワーナー・ディアンズ](/players/warner-dearns/)（[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/) / 32キャップ）
+- [マイケル・ストーバーグ](/players/mike-stolberg/)（[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/) / 0キャップ）
+- [ワーナー・ディアンズ](/players/warner-dearns/)（[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/) / 32キャップ）
 - [ハリー・ホッキングス](/players/harry-hockings-485719/)（[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/) / 2キャップ）
 - [ベン・ガンター](/players/ben-gunter-484055/)（[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 17キャップ）
 - [ティエナン・コストリー](/players/tiennan-costley-483942/)（[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/) / 11キャップ）
 - [下川 甲嗣](/players/kanji-shimokawa-485716/)（[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/) / 23キャップ）
 - [ワイサケ・ララトゥブア](/players/jrfu_callup_waisake-raratubua/)（[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/) / 5キャップ）
 - [エセイ・ハアンガナ](/players/esei-ha-angana/)（[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 0キャップ）
-- [リーチ マイケル](/players/michael-leitch-484358/)（[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/) / 92キャップ）
+- [リーチ マイケル](/players/michael-leitch-484358/)（[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/) / 92キャップ）
 
 **BK（バックス）**
 - [上村 樹輝](/players/itsuki-kamimura-483934/)（[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/) / 0キャップ）
@@ -54,7 +54,7 @@ draft: false
 - [木田 晴斗](/players/haruto-kida-510441/)（[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) / 2キャップ）
 - [イノケ・ブルア](/players/inoke-burua-510411/)（[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/) / 0キャップ）
 - [上ノ坊 駿介](/players/shunsuke-uenobo-493618/)（[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/) / 0キャップ）
-- [松永 拓朗](/players/takuro-matsunaga-484365/)（[東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo/) / 5キャップ）
+- [松永 拓朗](/players/takuro-matsunaga-484365/)（[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/) / 5キャップ）
 
 ## 選手フォト
 

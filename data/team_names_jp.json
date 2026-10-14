@@ -397,12 +397,14 @@
       ]
     },
     "Toshiba Brave Lupus Tokyo": {
-      "jp": "東芝ブレイブルーパス東京",
+      "jp": "東芝ブレイブルーパス武蔵",
       "country": "日本",
       "flag": "🇯🇵",
       "aliases": [
         "東芝",
-        "Brave Lupus"
+        "Brave Lupus",
+        "東芝ブレイブルーパス東京",
+        "Toshiba Brave Lupus Musashi"
       ]
     },
     "Kubota Spears Funabashi Tokyo Bay": {

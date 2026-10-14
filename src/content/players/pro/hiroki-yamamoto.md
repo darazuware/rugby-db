@@ -11,7 +11,7 @@ age: 33
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "東芝ブレイブルーパス東京（2025-26）"
+team: "東芝ブレイブルーパス武蔵（2025-26）"
 caps: "U23('13)、セブンズ日本(1)、日本代表(6)"
 high_school: "石見智翠館高校"
 university: "筑波大学"
@@ -19,9 +19,9 @@ junior_high_school: ""
 rugby_school: ""
 scraped_url: "https://league-one.jp/player/484371"
 league_one_caps: "34"
-career_history_json: '[{"year": 2015, "teams": ["Toshiba Brave Lupus Tokyo"]}, {"year": 2016, "teams": ["Toshiba Brave Lupus Tokyo"]}, {"year": 2017, "teams": ["Toshiba Brave Lupus Tokyo"]}, {"year": 2018, "teams": ["Toshiba Brave Lupus Tokyo"]}, {"year": 2019, "teams": ["Toshiba Brave Lupus Tokyo"]}, {"year": 2020, "teams": ["Toshiba Brave Lupus Tokyo"]}, {"year": 2021, "teams": ["Toshiba Brave Lupus Tokyo"]}, {"year": 2022, "teams": ["Toshiba Brave Lupus Tokyo"]}, {"year": 2023, "teams": ["Toshiba Brave Lupus Tokyo"]}, {"year": 2024, "teams": ["Toshiba Brave Lupus Tokyo"]}, {"year": 2025, "teams": ["Toshiba Brave Lupus Tokyo"]}, {"year": 2026, "teams": ["Toshiba Brave Lupus Tokyo"]}]'
+career_history_json: '[{"year": 2015, "teams": ["Toshiba Brave Lupus Musashi"]}, {"year": 2016, "teams": ["Toshiba Brave Lupus Musashi"]}, {"year": 2017, "teams": ["Toshiba Brave Lupus Musashi"]}, {"year": 2018, "teams": ["Toshiba Brave Lupus Musashi"]}, {"year": 2019, "teams": ["Toshiba Brave Lupus Musashi"]}, {"year": 2020, "teams": ["Toshiba Brave Lupus Musashi"]}, {"year": 2021, "teams": ["Toshiba Brave Lupus Musashi"]}, {"year": 2022, "teams": ["Toshiba Brave Lupus Musashi"]}, {"year": 2023, "teams": ["Toshiba Brave Lupus Musashi"]}, {"year": 2024, "teams": ["Toshiba Brave Lupus Musashi"]}, {"year": 2025, "teams": ["Toshiba Brave Lupus Musashi"]}, {"year": 2026, "teams": ["Toshiba Brave Lupus Musashi"]}]'
 category: "pro"
 ---
 
 ## キャリア遍歴
-Toshiba Brave Lupus Tokyo (2015 - )
+Toshiba Brave Lupus Musashi (2015 - )

@@ -19,9 +19,9 @@ junior_high_school: ""
 rugby_school: ""
 scraped_url: "https://league-one.jp/player/484759"
 league_one_caps: "10"
-career_history_json: '[{"year": 2023, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2024, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2025, "teams": ["ヤクルトレビンズ戸田", "東芝ブレイブルーパス東京"]}, {"year": 2026, "teams": ["ヤクルトレビンズ戸田"]}]'
+career_history_json: '[{"year": 2023, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2024, "teams": ["東芝ブレイブルーパス武蔵"]}, {"year": 2025, "teams": ["ヤクルトレビンズ戸田", "東芝ブレイブルーパス武蔵"]}, {"year": 2026, "teams": ["ヤクルトレビンズ戸田"]}]'
 category: "pro"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2023 - 2025) -> ヤクルトレビンズ戸田 (2025 - )
+東芝ブレイブルーパス武蔵 (2023 - 2025) -> ヤクルトレビンズ戸田 (2025 - )
