@@ -136,23 +136,36 @@ def test_build_call_up_article_renders_roster_and_new_selection():
     assert "矢崎 由高" in md
 
 
-def test_build_call_up_rollup_article_newest_first_and_compacts_older():
+def test_call_up_rollup_appends_newest_first_compacts_older_and_keeps_text():
     ev = _event()
     players, _ = jrfu.callup_members_to_players(ev)
     evs = callups.assign_member_ids([ev], players)
     pbi = {p["id"]: p for p in players}
-    older = {**evs[0], "news_id": "54000", "title": "男子日本代表 宮崎合宿参加メンバーのお知らせ"}
-    art = news_gen.build_call_up_rollup_article(
-        "national", "2026", [("2026-07-01", older), ("2026-07-23", evs[0])], players_by_id=pbi)
-    assert art.slug == "national-callups-2026"
-    assert art.pub_date == "2026-07-23"
+    a = news_gen.build_call_up_articles({"league": "national", "call_ups": evs}, players_by_id=pbi,
+                                        pub_date="2026-07-23", source_diff="x")[0]
+    old_body = a.body.replace("関西学院大学", "関西学院大学（手修正）")
+    first = news_gen.build_call_up_rollup_article(
+        "national", "2026", None, [news_gen.call_up_section("54000", "2026-07-01", "宮崎合宿（34名）", old_body)])
+    assert first.slug == "national-callups-2026" and "（1件）" in first.body
+    existing = first.to_markdown()
+    new_sec = news_gen.call_up_section("54087", "2026-07-23", a.title, a.body)
+    art = news_gen.build_call_up_rollup_article("national", "2026", existing, [new_sec], today="2026-07-23")
     heads = [l for l in art.body.splitlines() if l.startswith("## ")]
-    assert "網走" in heads[0] and "宮崎" in heads[1]
+    assert heads[0] == f"## {a.title}" and heads[1] == "## 宮崎合宿（34名）"
+    assert art.pub_date == "2026-07-23" and "（2件）" in art.body
     latest, past = art.body.split(heads[1])
-    assert "キャップ）" in latest and "**FW（フォワード）**\n" in latest
+    assert " / " in latest and "**FW（フォワード）**\n" in latest
     assert "**FW（フォワード）**: " in past and " / " not in past.split("**FW（フォワード）**")[1]
+    # 同じ発表を再追加しても二重にならない（冪等）
+    again = news_gen.build_call_up_rollup_article("national", "2026", art.to_markdown(), [new_sec])
+    assert again.body.count("<!-- callup:54087") == 1
 
 
-def test_build_call_up_rollup_article_none_without_members():
-    assert news_gen.build_call_up_rollup_article("national", "2026", [("2026-07-01", None)],
-                                                 players_by_id={}) is None
+def test_compact_call_up_section_drops_photos():
+    sec = ("<!-- callup:1 2026-07-01 -->\n## t\n\n**FW（フォワード）**\n- [A](/players/a/)（X / 3キャップ）\n- B\n\n"
+           "### 選手フォト\n\nA（Instagram）\n\n<blockquote class=\"instagram-media\"></blockquote>\n\n"
+           "**前回招集から新たに選出**\nB\n")
+    out = news_gen.compact_call_up_section(sec)
+    assert "**FW（フォワード）**: [A](/players/a/)、B" in out
+    assert "instagram" not in out and "**前回招集から新たに選出**\nB" in out
+    assert news_gen.compact_call_up_section(out) == out
