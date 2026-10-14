@@ -11,24 +11,24 @@ draft: false
 2026-W40に代表キャップ数の更新が確認された選手は22名（URCの選手データに基づく）。
 
 - [Akker VAN DER MERWE](/teams/urc/vodacom-bulls/#p-armand--van-der-merwe): 南アフリカ代表 2→3キャップ
-- [Calvin NASH](/teams/urc/munster-rugby/#p-calvin-nash): アイルランド代表 8→10キャップ
-- [Ciarán FRAWLEY](/teams/urc/connacht-rugby/#p-ciaran-frawley): アイルランド代表 12→13キャップ
+- [Calvin NASH](/teams/urc/munster-rugby/#p-calvin-nash): アイルランド代表 11→12キャップ
+- [Ciarán FRAWLEY](/teams/urc/connacht-rugby/#p-ciaran-frawley): アイルランド代表 14→15キャップ
 - [David ODIASE](/teams/urc/zebre-parma/#p-david-odiase): イタリア代表 5→6キャップ
 - [Evan LLOYD](/teams/urc/vodacom-bulls/#p-evan-lloyd-): ウェールズ代表 6→8キャップ
 - [Freddy DOUGLAS](/teams/urc/edinburgh-rugby/#p-freddy-douglas): スコットランド代表 2→3キャップ
 - [Glen YOUNG](/teams/urc/edinburgh-rugby/#p-glen-young): スコットランド代表 3→4キャップ
-- [Hame FAIVA](/teams/premiership/newcastle-red-bulls/#p-hame-faiva): イタリア代表 8→9キャップ
-- [Harri O'CONNOR](/teams/urc/scarlets/#p-harri-o-connor): ウェールズ代表 3→4キャップ
+- [Hame FAIVA](/teams/premiership/newcastle-red-bulls/#p-hame-faiva): イタリア代表 11→12キャップ
+- [Harri O'CONNOR](/teams/urc/scarlets/#p-harri-o-connor): ウェールズ代表 8→9キャップ
 - [Jack O'DONOGHUE](/teams/urc/munster-rugby/#p-jack-o-donoghue): アイルランド代表 1→2キャップ
-- [Javan SEBASTIAN](/teams/urc/cardiff-rugby/#p-javan-sebastian): スコットランド代表 6→8キャップ
+- [Javan SEBASTIAN](/teams/urc/cardiff-rugby/#p-javan-sebastian): スコットランド代表 9→10キャップ
 - [Johnny WILLIAMS](/teams/urc/scarlets/#p-johnny-williams-1996): ウェールズ代表 8→10キャップ
-- [Josh ADAMS](/teams/urc/cardiff-rugby/#p-josh--adams-): ウェールズ代表 65→66キャップ
+- [Josh ADAMS](/teams/urc/cardiff-rugby/#p-josh--adams-): ウェールズ代表 71→72キャップ
 - [Luke CROSBIE](/teams/urc/edinburgh-rugby/#p-luke-crosbie): スコットランド代表 11→12キャップ
-- [Makazole MAPIMPI](/teams/urc/hollywoodbets-sharks/#p-makazole-mapimpi): 南アフリカ代表 39→40キャップ
+- [Makazole MAPIMPI](/teams/urc/hollywoodbets-sharks/#p-makazole-mapimpi): 南アフリカ代表 46→47キャップ
 - [Patrick HARRISON](/teams/urc/edinburgh-rugby/#p-patrick-harrison): スコットランド代表 4→5キャップ
-- [Robert BALOUCOUNE](/teams/urc/ulster-rugby/#p-robert-baloucoune): アイルランド代表 7→8キャップ
-- [Ryan ELIAS](/teams/urc/scarlets/#p-ryan-elias): ウェールズ代表 45→46キャップ
+- [Robert BALOUCOUNE](/teams/urc/ulster-rugby/#p-robert-baloucoune): アイルランド代表 8→9キャップ
+- [Ryan ELIAS](/teams/urc/scarlets/#p-ryan-elias): ウェールズ代表 50→51キャップ
 - [Shane LEWIS-HUGHES](/teams/urc/dragons-rugby/#p-shane-lewis-hughes): ウェールズ代表 2→3キャップ
 - [Tom YOUNG](/teams/urc/dragons-rugby/#p-tom-young): ウェールズ代表 2→4キャップ
-- [Vincent KOCH](/teams/urc/hollywoodbets-sharks/#p-vincent-koch): 南アフリカ代表 51→52キャップ
+- [Vincent KOCH](/teams/urc/hollywoodbets-sharks/#p-vincent-koch): 南アフリカ代表 63→64キャップ
 - [Will CONNORS](/teams/urc/connacht-rugby/#p-will-connors): アイルランド代表 8→9キャップ

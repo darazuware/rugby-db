@@ -1532,3 +1532,333 @@
 - コード：src/lib/master.ts に TEAM_RENAMES（master が旧称の間の表示上書き）、src/utils/team_utils.ts・teams/[league]/[slug].astro に新称キー追加、pipeline/scrape/team_wiki.py の Wikipedia 記事名を新称へ
 - data/master は未変更（league-one.jp 側の更新でスクレイプ時に反映される想定）。URL slug（toshiba-brave-lupus-tokyo）は据え置き
 - ビルド出力で旧称が残るのは運営会社名のみ（確認済み）。data/national_players_map.json は scripts/gen_national_players_map.py 再実行で master 由来の旧称に戻る点に注意
+
+### 要判断2：代表キャップ週次記事（*-caps-weekly-*、10本）
+
+判定基準：source_diff の日付（検知日）時点の値を Wikipedia（選手記事・代表チーム記事の squad/caps 表・試合記事）と照合。誤りは修正、確定できない行・Wikipedia内で値が割れる行は削除、冒頭の人数を実数に更新。
+
+<!-- 方針: B を source_diff 日時点の Wikipedia 値で検証。B 修正時の A は前回検知日(source_diff-7日)時点の値。A=B になる行は「その週の更新なし」として削除。B 正しい行の A は A<B なら維持 -->
+<!-- 主根拠: AJ=https://en.wikipedia.org/wiki/2026_Australia–Japan_rugby_union_test_series (caps as of 8 Aug, 試合前) / AR=https://en.wikipedia.org/wiki/2026_Australia_rugby_union_tour_of_Argentina (as of 29 Aug) / NZSA=https://en.wikipedia.org/wiki/2026_New_Zealand_rugby_union_tour_of_South_Africa (SA: 22 Aug試合前) / RSA=https://en.wikipedia.org/wiki/South_Africa_national_rugby_union_team (updated 29 Aug) / INT=https://en.wikipedia.org/wiki/2026_men's_rugby_union_internationals (出場メンバー) / PNC=https://en.wikipedia.org/wiki/2026_World_Rugby_Pacific_Nations_Cup (as of 12 Sep) / USA=https://en.wikipedia.org/wiki/United_States_men's_national_rugby_union_team (updated 31 Aug) -->
+
+#### src/content/news/national-caps-weekly-2026-W32.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 冒頭 選手は18名 | 13名 | （行削除に伴う） |
+| 修正 | SÁNCHEZ VALAROLO 3→4 | 2→3 | AR(3, 8/8出場含む)+INT |
+| 修正 | Harry POTTER 13→15 | 12→13 | AJ(12)+INT 8/8出場, AR(14)と整合 |
+| 修正 | Josh NASSER 17→18 | 13→14 | AJ(13)+8/8出場, AR(15)と整合 |
+| 修正 | VAN DEN BERG 4→6 | 6→7 | NZSA(7)/RSA(8)+INT 8/8出場 |
+| 修正 | Samisoni TUA 2→3 | 4→5 | AJ(4)+8/8出場, PNC(6)と整合 |
+| 修正 | Shunsuke UENOBO 1→3 | 1→2 | AJ(1)+8/8出場 |
+| 修正 | Sojiro OTSUKA 4→5 | 3→4 | AJ(3)+8/8出場, PNC(6)と整合 |
+| 削除 | LINDENMUTH 米国 11→13 | （削除） | 検証不可：USA代表ページ(非表示欄10)、選手記事にキャップ記載なし |
+| 削除 | BOYLE-TIATIA サモア 2→3 | （削除） | 検証不可：Samoa代表ページ不掲載、選手記事404 |
+| 削除 | Nic BENN カナダ 16→17 | （削除） | 検証不可：Canada代表ページ不掲載、選手記事404 |
+| 削除 | Samu TAWAKE フィジー 26→28 | （削除） | PNC(16, 8/9〜9/12にフィジーのテスト無し)と矛盾 |
+| 削除 | FILIMONE トンガ 10→11 | （削除） | https://en.wikipedia.org/wiki/Tonga_national_rugby_union_team (8, 10/9更新)と矛盾 |
+検証OK: WENGER 7→9, HANEKOM 1→3, MEREDITH 1→3, ELÍAS 3→4, LAM 4→5(Samoa頁5), LOPETI-MOLI 5→6(Tonga頁6)
+
+#### src/content/news/national-caps-weekly-2026-W33.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 冒頭 選手は17名 | 8名 | （行削除に伴う） |
+| 修正 | Aidan ROSS 4→6 | 4→5 | AJ(3)+8/8,8/15出場, AR(5) |
+| 修正 | Harry POTTER 15→17 | 13→14 | AJ+AR(14) |
+| 修正 | Harry WILSON 56→57 | 40→41 | AJ(39)+2試合, AR(41) |
+| 修正 | Izi SWORD 1→3 | 1→2 | AJ(1)+8/15出場 |
+| 修正 | SALAKAIA-LOTO 34→35 | 45→46 | AJ(45)+8/15出場, AR(46) |
+| 修正 | Ryunosuke ITO 2→3 | 4→5 | AJ(3)+2試合, PNC(6) |
+| 削除 | Ben-Jason DIXON 11→13 | （削除） | NZSA/RSA(11, 8/9以降出場無し)→週内更新なし |
+| 削除 | Cameron HANEKOM 3→4 | （削除） | NZSA(3)→8/16時点3、週内更新なし |
+| 削除 | Jarred ADAMS サモア 10→12 | （削除） | 検証不可：Samoa代表頁不掲載、選手記事2024年更新(6) |
+| 削除 | Joel LAM サモア 5→6 | （削除） | Samoa代表頁(5, 10/8更新)と矛盾 |
+| 削除 | Julian ROBERTS 米国 2→4 | （削除） | USA(3)・PNC(3)、8/15米XV戦は非テスト→週内更新なし |
+| 削除 | Mark O'KEEFFE 米国 4→6 | （削除） | USA(5)・PNC(5)→週内更新なし |
+| 削除 | Richie ASIATA サモア 2→3 | （削除） | Samoa代表頁(2)と矛盾 |
+| 削除 | Sam TUITUPOU トンガ 3→4 | （削除） | Tonga代表頁(3)と矛盾 |
+| 削除 | NGININGINI トンガ 8→9 | （削除） | Tonga代表頁(6)と矛盾 |
+検証OK: REDELINGHUYS 7→9(USA/PNC 9), RAPETTI 6→7(AR 7)
+
+#### src/content/news/national-caps-weekly-2026-W34.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 冒頭 選手は5名 | 2名 | （行削除に伴う） |
+| 修正 | Damian WILLEMSE 27→29 | 52→53 | NZSA(52)+8/22出場, RSA(54)と整合 |
+| 修正 | WESSELS 14→15 | 13→14 | NZSA(13)+8/22出場, RSA(14) |
+| 削除 | LIO-WILLIE NZ 5→6 | （削除） | 検証不可：選手記事2023年更新(2)、ツアー/NZ代表頁不掲載 |
+| 削除 | Luke JACOBSON NZ 21→23 | （削除） | NZSA(29)・選手記事(29, 8/28更新)と矛盾、正値確定できず |
+| 削除 | Makeen ALIKHAN 米国 11→12 | （削除） | USA(8, 8/31更新)と矛盾 |
+
+#### src/content/news/national-caps-weekly-2026-W36.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | 冒頭 選手は21名 | 9名 | （行削除に伴う） |
+| 修正 | Agustín MOYANO 14→16 | 10→11 | AR(10)+8/29出場 |
+| 修正 | Ethan HOOKER 13→14 | 10→11 | NZSA(10)+8/29出場, RSA(11) |
+| 修正 | Francisco MORENO 1→3 | 1→2 | AR(1)+8/29出場 |
+| 修正 | Jeremy WILLIAMS 30→32 | 30→31 | AR(30)+8/29出場 |
+| 修正 | Jesse KRIEL 120→122 | 91→92 | NZSA(90)+2試合, RSA(92) |
+| 修正 | DE LUTIIS 1→3 | 1→2 | AR(1)+8/29出場 |
+| 修正 | FEINBERG-MNGOMEZULU 30→31 | 21→22 | NZSA(20)+2試合, RSA(22) |
+| 削除 | CARMONA スペイン 14→16 | （削除） | https://en.wikipedia.org/wiki/Spain_national_rugby_union_team (23, 7/18以降試合無し)と矛盾 |
+| 削除 | LOPEZ BONTEMPO スペイン 23→25 | （削除） | Spain代表頁(21)と矛盾 |
+| 削除 | EISSMANN チリ 36→38 | （削除） | https://en.wikipedia.org/wiki/Chile_national_rugby_union_team (40)と矛盾 |
+| 削除 | RICHARDIS スペイン 6→8 | （削除） | 検証不可：Spain代表頁不掲載、選手記事404 |
+| 削除 | NIORADZE ジョージア 15→17 | （削除） | 検証不可：Georgia頁(非表示6)・選手記事(12, 2024)と矛盾 |
+| 削除 | MSTOIANI ジョージア 1→3 | （削除） | 検証不可：Georgia頁(非表示0)、選手記事404 |
+| 削除 | BOYLE-TIATIA サモア 3→4 | （削除） | 検証不可（W32と同じ） |
+| 削除 | Ruben LOVE NZ 13→15 | （削除） | NZSA(10)・選手記事(11)と矛盾、正値確定できず |
+| 削除 | Simon PARKER NZ 10→11 | （削除） | NZSA(10)+2試合=12 vs NZ代表頁(10)で確定できず |
+| 削除 | Tijde VISSER ジンバブエ 2→4 | （削除） | https://en.wikipedia.org/wiki/Zimbabwe_national_rugby_union_team (3)と矛盾 |
+| 削除 | KARKADZE ジョージア 48→49 | （削除） | Georgia頁(非表示26)・選手記事(11, 2024)と矛盾 |
+| 削除 | POLONIATI トンガ 12→13 | （削除） | Tonga代表頁(9)と矛盾 |
+検証OK: CALE 4→5(AR 4+8/29), RAPETTI 7→8(AR 7+8/29)
+
+#### 集計（caps_1）
+- 記事数4、修正22件（件数表記4件含む）、削除29件
+- draft化なし
+- 要判断：NZ選手のキャップ数はWikipedia内で不整合（Vaa'i 50キャップ目の注記とツアー頁の値が食い違う）ため NZ 4行は削除。W34は残り2名
+
+（改訂版ルールで検証。B＝source_diff日時点のWikipedia/公式値。Bが誤りの行はB＝正値、A＝B−1に修正。値が確定できない行は削除。同一更新が前週記事と重複する行は削除）
+主な根拠：各代表ページ squad 表（caps updated 日付つき）、2026 NZ tour of SA（試合別出場）、2026 mid-year internationals（9/5 JPN v CAN、ARG v AUS 出場）、2026 PNC（9/12出場）、UAR 9/3発表（試合前キャップ数）
+
+#### src/content/news/national-caps-weekly-2026-W37.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | Muntz フィジー 33→34 | 22→23（8/25時点23、以後9/12まで試合なし） | https://en.wikipedia.org/wiki/Fiji_national_rugby_union_team |
+| 修正 | Hanekom 南ア 4→6 | 4→5（8/29時点4＋9/5出場） | https://en.wikipedia.org/wiki/South_Africa_national_rugby_union_team ／ https://en.wikipedia.org/wiki/2026_New_Zealand_rugby_union_tour_of_South_Africa |
+| 修正 | Doyle カナダ 4→6 | 2→3（9/5 JPN戦後3） | https://en.wikipedia.org/wiki/Canada_men%27s_national_rugby_union_team |
+| 修正 | Kotze カナダ 8→9 | 15→16 | 同上 |
+| 修正 | Kelly カナダ 15→16 | 16→17 | 同上 |
+| 修正 | Steeves カナダ 5→7 | 8→9 | 同上 |
+| 修正 | McMullin カナダ 5→7 | 7→8 | 同上 |
+| 修正 | Liam James カナダ 2→4 | 2→3（PNC開幕前3） | https://en.wikipedia.org/wiki/2026_World_Rugby_Pacific_Nations_Cup |
+| 修正 | Meafou フランス 9→10 | 17→18（7/18時点18、以後試合なし） | https://en.wikipedia.org/wiki/France_national_rugby_union_team |
+| 修正 | Verhaeghe フランス 5→6 | 4→5 | 同上 |
+| 修正 | Gourgues フランス 3→4 | 12→13 | 同上 |
+| 修正 | Le Garrec フランス 20→21 | 15→16 | 同上 |
+| 修正 | Sánchez Valarolo アルゼンチン 4→6 | 4→5（9/3発表で試合前4＋9/5先発） | https://uar.com.ar/los-pumas-con-equipo-confirmado-para-la-revancha-en-mendoza/ |
+| 修正 | Moreno アルゼンチン 3→4 | 2→3（試合前2＋9/5途中出場） | 同上 ／ https://uar.com.ar/los-pumas-empataron-con-australia-en-mendoza/ |
+| 修正 | Mendy アルゼンチン 7→9 | 7→8 | 同上 |
+| 修正 | Oviedo アルゼンチン 1→2 | 2→3 | 同上 |
+| 修正 | Benítez Cruz アルゼンチン 21→22 | 14→15 | 同上 |
+| 修正 | Kida 日本 4→5 | 3→4（9/9時点4） | https://en.wikipedia.org/wiki/Japan_national_rugby_union_team |
+| 修正 | Otsuka 日本 5→7 | 5→6（9/9時点6） | 同上 |
+| 修正 | Henry 豪州 4→6 | 3→4（8/29時点2＋8/29・9/5出場） | https://en.wikipedia.org/wiki/2026_Australia_rugby_union_tour_of_Argentina |
+| 修正 | Canham 豪州 4→5 | 7→8（8/29時点6＋2試合） | 同上 |
+| 修正 | Lalomilo サモア 8→10 | 6→7 | https://en.wikipedia.org/wiki/Samoa_national_rugby_union_team |
+| 修正 | Malolo サモア 13→14 | 14→15 | 同上 |
+| 修正 | Visser ジンバブエ 4→6 | 2→3 | https://en.wikipedia.org/wiki/Zimbabwe_national_rugby_union_team |
+| 修正 | Roebuck イングランド 8→10 | 11→12（2026-03時点12、7月代表外） | https://en.wikipedia.org/wiki/Tom_Roebuck |
+| 修正 | Menoncello イタリア 31→32 | 40→41 | https://en.wikipedia.org/wiki/Italy_national_rugby_union_team |
+| 修正 | Darry NZ 13→15 | 10→11（8/7時点10＋9/5先発） | https://en.wikipedia.org/wiki/2026_New_Zealand_rugby_union_tour_of_South_Africa |
+| 修正 | Sititi NZ 12→13 | 21→22（8/7時点21＋9/5途中出場） | 同上 |
+| 削除 | Jauneau フランス 3→4 | （削除） | 検証不可：en/fr Wikipedia 4（2025-11時点）、2026代表表に不在 |
+| 削除 | Laclayat フランス 3→4 | （削除） | 検証不可：en Wikipedia 3（2025-11時点）、2026代表表に不在 |
+| 削除 | Piccardo アルゼンチン 16→17 | （削除） | 検証不可：en Wikipedia 11（日付なし2025）、2026代表表に不在 |
+| 削除 | Santiago Grondona アルゼンチン 21→22 | （削除） | 検証不可：en Wikipedia 25（2023時点）と矛盾、現値不明 |
+| 削除 | Spanderashvili ジョージア 29→30 | （削除） | 検証不可：代表表「20f」不明瞭、選手記事8（2024時点） |
+| 削除 | Yato フィジー 18→19 | （削除） | 検証不可：en Wikipedia 20（2021時点）、PNC代表外 |
+| 削除 | Maqala フィジー 9→11 | （削除） | 検証不可：en Wikipedia 9（日付なし）、PNC代表外 |
+| 削除 | Bento ポルトガル 22→23 | （削除） | 検証不可：en記事なし、pt記事なし、fr記事は数値日付古い、代表表に不在 |
+
+残し（検証済み）：Scelzo 1→2（8/31時点1＋9/5途中出場）、Moorby 4→5（8/7時点3＋8/22・9/5出場）。冒頭件数 38→30名。
+
+#### src/content/news/national-caps-weekly-2026-W38.md
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | Muntz フィジー 34→35 | 23→24（9/12途中出場） | https://en.wikipedia.org/wiki/2026_World_Rugby_Pacific_Nations_Cup |
+| 修正 | Hanekom 南ア 6→8 | 5→6（選手記事 9/14時点6） | https://en.wikipedia.org/wiki/Cameron_Hanekom |
+| 修正 | van den Berg 南ア 13→15 | 9→10（8/29時点8＋9/5・9/12） | https://en.wikipedia.org/wiki/2026_New_Zealand_rugby_union_tour_of_South_Africa |
+| 修正 | Darry NZ 15→17 | 11→12 | 同上 |
+| 修正 | Love NZ 15→16 | 12→13（8/7時点10＋テスト3試合） | 同上 |
+| 修正 | Kirifi NZ 10→11 | 7→8（2026-10-04時点8、2026年テストなし） | https://en.wikipedia.org/wiki/Du%27Plessis_Kirifi |
+| 修正 | Petti アルゼンチン 145→147 | 103→104 | https://uar.com.ar/los-pumas-con-equipo-confirmado-para-la-revancha-en-mendoza/ |
+| 修正 | Kilgour カナダ 2→3 | 1→2（9/12出場なし、9/14時点2） | https://en.wikipedia.org/wiki/Canada_men%27s_national_rugby_union_team |
+| 修正 | Kundiona ジンバブエ 2→4 | 17→18 | https://en.wikipedia.org/wiki/Zimbabwe_national_rugby_union_team |
+| 修正 | Bamba フランス 31→32 | 32→33 | https://en.wikipedia.org/wiki/France_national_rugby_union_team |
+| 修正 | Auradou フランス 18→20 | 13→14 | 同上 |
+| 修正 | Lucu フランス 46→47 | 32→33 | 同上 |
+| 修正 | Guillard フランス 25→26 | 18→19 | 同上 |
+| 修正 | Bochaton フランス 3→4 | 2→3 | 同上 |
+| 修正 | Melikidze ジョージア 34→35 | 25→26 | https://en.wikipedia.org/wiki/Georgia_national_rugby_union_team |
+| 修正 | Pirlet スペイン 15→16 | 10→11 | https://en.wikipedia.org/wiki/Spain_national_rugby_union_team |
+| 修正 | Pauta トンガ 3→4 | 2→3 | https://en.wikipedia.org/wiki/Tonga_national_rugby_union_team |
+| 削除 | Gourgues フランス 4→5 | （削除） | W37で12→13に修正済み、9/7〜9/14に試合なし→重複・矛盾 |
+| 削除 | Oviedo アルゼンチン 2→3 | （削除） | W37で2→3に修正済み、9/7〜9/14に試合なし→重複・矛盾 |
+| 削除 | Erdocio フランス 2→3 | （削除） | 検証不可：en/fr 3（2025-12時点）、2026代表表に不在 |
+| 削除 | Colombe フランス 11→12 | （削除） | 検証不可：en 10・fr 11（2026-02時点）で食い違い |
+| 削除 | Bell NZ 2→4 | （削除） | 検証不可：en 2（2024-11時点）、南ア遠征は負傷離脱 |
+| 削除 | Goginava ジョージア 11→12 | （削除） | 検証不可：en 8（日付不整合）、代表表に不在 |
+| 削除 | Page-Relo イタリア 21→23 | （削除） | 検証不可：en 21（2025-11時点）、2026代表表に不在 |
+| 削除 | Septar ルーマニア 8→10 | （削除） | 検証不可：en 5（2023時点）、代表表に不在 |
+| 削除 | Richardis スペイン 8→9 | （削除） | 検証不可：en・fr 記事なし、代表表に不在 |
+| 削除 | Apelu Maliko サモア 3→4 | （削除） | 検証不可：en はセブンズのみ、代表表に不在 |
+
+残し（検証済み）：Preston 6→7、Numia 5→6（遠征ページの試合別出場から算出。NZ代表ページ squad 表は両名5で食い違い、試合別記録を優先）。冒頭件数 29→19名。
+
+#### 集計（result_caps_2）
+- 記事数 2／修正 45件（W37 28・W38 17）／削除 18件（W37 8・W38 10）
+- 要判断：修正行の多くは、更新が source_diff 日より前（7月や2025年）のキャップを検知週に計上したもの（A＝B−1に統一）。生成ロジックの見直しを推奨。Wikipedia 内でも数値の食い違いあり（NZ squad 表と遠征ページ、アルゼンチン squad 表と UAR）。その場合は試合別記録・公式を優先した
+
+#### src/content/news/national-caps-weekly-2026-W39.md
+（検知日 2026-09-21。PNC 2026 squad表=caps as of 2026-09-12 ＋ 9/12・9/19 の出場記録、各国代表記事の squad 表、選手記事で照合。A は直近出場前の値に合わせた）
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | Hastoy フランス 15→17 | 10→11 | https://en.wikipedia.org/wiki/France_national_rugby_union_team （caps 11, 2026-07-18時点） |
+| 削除 | Ten Hoever ウルグアイ 3→4 | （削除） | https://en.wikipedia.org/wiki/Uruguay_national_rugby_union_team （caps 0, 7/18時点。7月は控え未出場）→正値確定不可 |
+| 修正 | Creighton カナダ 5→6 | 3→4 | https://en.wikipedia.org/wiki/2026_World_Rugby_Pacific_Nations_Cup （3＋9/12出場） |
+| 修正 | LeSage カナダ 18→20 | 41→42 | 同上（40＋9/12・9/19出場） |
+| 修正 | Ben White スコットランド 56→57 | 37→38 | https://en.wikipedia.org/wiki/Ben_White_(rugby_union,_born_1998) （38, 2026-07-11時点、以後出場なし） |
+| 削除 | Charlie Abel アメリカ 1→3 | （削除） | https://en.wikipedia.org/wiki/2026_World_Rugby_Nations_Cup_Americas-Pacific_Series （7/18初キャップ、PNC非選出＝1のまま） |
+| 修正 | Hooker 南ア 14→16 | 12→13 | https://en.wikipedia.org/wiki/Ethan_Hooker （13, 9/15時点。9/27豪州戦は検知後） |
+| 削除 | Mapu サモア 26→27 | （削除） | 検証不可：en記事(14, 2024更新)・Samoa代表記事squad（非掲載） |
+| 修正 | Ayarza チリ 28→30 | 28→29 | https://en.wikipedia.org/wiki/Chile_national_rugby_union_team （29, 7/18時点） |
+| 修正 | Armstrong-Ravula フィジー 13→15 | 21→22 | PNC2026記事（20＋2試合） |
+| 修正 | Rabitu フィジー 1→2 | 2→3 | PNC2026記事（1＋2試合） |
+| 修正 | Jamie Armstrong カナダ 1→2 | 2→3 | PNC2026記事（1＋2試合） |
+| 修正 | Kilgour カナダ 3→4 | 2→3 | PNC2026記事（2＋9/19出場） |
+| 削除 | Joaquín Oviedo アルゼンチン 16→18 | （削除） | 検証不可：en記事は2023年時点で既に22（B=18と矛盾）、es/fr版に現在値なし、Argentina代表squad非掲載 |
+| 修正 | Spencer Jones カナダ 27→28 | 18→19 | PNC2026記事（18＋9/12出場、9/19未出場） |
+| 修正 | Scelzo アルゼンチン 2→3 | 1→2 | https://en.wikipedia.org/wiki/2026_Australia_rugby_union_tour_of_Argentina （1＋9/5出場） |
+| 削除 | Tagivetaua フィジー 1→2 | （削除） | PNC2026記事（caps 1、9/12非出場・9/19控え未出場＝更新なし） |
+| 修正 | Kenji Sato 日本 13→15 | 12→13 | PNC2026記事（11＋2試合） |
+| 修正 | Mikautadze ジョージア 83→84 | 86→87 | https://en.wikipedia.org/wiki/Georgia_national_rugby_union_team （Kote Mikautadze 87, 7/18時点） |
+| 修正 | Liam James カナダ 4→5 | 3→4 | PNC2026記事（3＋9/19出場） |
+| 修正 | Lua Makisi 日本 33→34 | 27→28 | PNC2026記事（Faulua Makisi 26＋2試合）※en選手記事infoboxは2021年時点27で不整合 |
+| 修正 | O'Keeffe アメリカ 6→8 | 5→6 | PNC2026記事（5＋9/12出場） |
+| 修正 | Guillard フランス 26→27 | 18→19 | France代表記事（19, 7/18時点）・fr版記事（7/12時点19） |
+| 修正 | Dimcheff イタリア 6→7 | 4→5 | https://en.wikipedia.org/wiki/Pablo_Dimcheff （5, 2026-09-17時点）・Italy代表記事 |
+| 修正 | Paddy Ryan アメリカ 32→34 | 21→22 | PNC2026記事（21＋9/12出場） |
+| 修正 | Telea-Ilalio アメリカ 9→10 | 8→9 | PNC2026記事（7＋2試合） |
+| 修正 | de Haas アメリカ 49→51 | 48→49 | PNC2026記事（47＋2試合） |
+| 修正 | Ryunosuke Ito 日本 8→9 | 7→8 | PNC2026記事（6＋2試合）・en選手記事（6, 9/8時点） |
+| 修正 | Sam Wye フィジー 10→12 | 7→8 | PNC2026記事（7＋9/19出場） |
+| 修正 | Takumi Inaba 日本 1→2 | 2→3 | PNC2026記事（1＋2試合） |
+| 修正 | Ikanivere フィジー 22→24 | 35→36 | PNC2026記事（34＋2試合） |
+| 修正 | Tatafu フランス 3→4 | 2→3 | France代表記事（3, 7/18時点） |
+| 修正 | Crétu ルーマニア 17→19 | 15→16 | https://fr.wikipedia.org/wiki/Thomas_Crețu （16, 2026-09-13時点） |
+| 修正 | Lobzhanidze ジョージア 140→141 | 106→107 | Georgia代表記事（107, 7/18時点） |
+| 修正 | Vakatawa フィジー 1→2 | 2→3 | PNC2026記事（1＋2試合） |
+| 修正 | 冒頭「選手は39名」 | 34名 | 行数に合わせた |
+| — | 検証OK（変更なし）：Nhanala 3→4、Burua 1→3、Nasova 4→5、Lance Williams 1→2 | — | PNC2026記事 |
+
+#### src/content/news/premiership-caps-weekly-2026-W40.md
+（検知日 2026-09-28。各国代表記事 squad 表（caps updated 2026-07-18）、選手記事 infobox＋更新日以降の試合記事出場記録で照合）
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 削除 | Onyeama-Christie スコットランド 8→10 | （削除） | 検証不可：en選手記事 8（更新日空欄）と矛盾、他ソースなし |
+| 修正 | Genge イングランド 70→72 | 82→83 | https://en.wikipedia.org/wiki/England_national_rugby_union_team （83, 7/18時点） |
+| 修正 | Fin Baxter イングランド 15→16 | 17→18 | https://en.wikipedia.org/wiki/Fin_Baxter （16, 2025-11-09）＋ https://en.wikipedia.org/wiki/2025_end-of-year_rugby_union_internationals （11/15・11/23出場） |
+| 修正 | George Martin イングランド 20→22 | 23→24 | England代表記事（24, 7/18時点） |
+| 修正 | George Turner スコットランド 46→47 | 54→55 | https://en.wikipedia.org/wiki/George_Turner_(rugby_union) （50, 2025-11-24）＋ https://en.wikipedia.org/wiki/2026_Six_Nations_Championship （5試合出場） |
+| 修正 | Faiva イタリア 8→9 | 11→12 | https://en.wikipedia.org/wiki/Hame_Faiva （10, 2024-01-05）＋ https://en.wikipedia.org/wiki/2024_mid-year_rugby_union_tests （7/12・7/19出場、以後出場なし） |
+| 削除 | Malins イングランド 17→18 | （削除） | en選手記事で2023年時点22（B=18と矛盾）。2023RWC以降の値を確定できず |
+| 削除 | Luatua NZ 6→8 | （削除） | https://en.wikipedia.org/wiki/Steve_Luatua （NZ 15キャップで終了、現在はサモア代表）→更新自体が成立しない |
+| 修正 | 冒頭「選手は11名」 | 8名 | 行数に合わせた |
+| — | 検証OK：Dingwall 8→10（7＋6N2026 3試合）、McCallum 2→3（infobox 3、2023更新）、Davison 7→8（4＋6N2026 4試合） | — | 各選手記事・2026 Six Nations記事 |
+
+#### src/content/news/urc-caps-weekly-2026-W40.md
+（検知日 2026-09-28。同上の方法）
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | Calvin Nash アイルランド 8→10 | 11→12 | https://en.wikipedia.org/wiki/Calvin_Nash （12, 2025-07-12、以後出場なし） |
+| 修正 | Frawley アイルランド 12→13 | 14→15 | https://en.wikipedia.org/wiki/Ireland_national_rugby_union_team （15, 7/18時点） |
+| 修正 | Faiva イタリア 8→9 | 11→12 | プレミアシップ記事と同じ |
+| 修正 | Harri O'Connor ウェールズ 3→4 | 8→9 | https://en.wikipedia.org/wiki/Harri_O'Connor （5, 2024-03-16）＋2024 mid-year tests 4試合出場 |
+| 修正 | Javan Sebastian スコットランド 6→8 | 9→10 | https://en.wikipedia.org/wiki/Javan_Sebastian （10, 2024-07-28、以後出場なし） |
+| 修正 | Josh Adams ウェールズ 65→66 | 71→72 | https://en.wikipedia.org/wiki/Wales_national_rugby_union_team （72, 7/18時点） |
+| 修正 | Mapimpi 南ア 39→40 | 46→47 | https://en.wikipedia.org/wiki/Makazole_Mapimpi （47, 2025-07-12、以後出場なし。9/27豪州戦メンバー外） |
+| 修正 | Baloucoune アイルランド 7→8 | 8→9 | Ireland代表記事（9, 7/18時点） |
+| 修正 | Ryan Elias ウェールズ 45→46 | 50→51 | Wales代表記事（51, 7/18時点） |
+| 修正 | Koch 南ア 51→52 | 63→64 | https://en.wikipedia.org/wiki/Vincent_Koch （62, 2024-11-23）＋ https://en.wikipedia.org/wiki/2025_mid-year_rugby_union_tests （7/5・7/19出場） |
+| — | 検証OK：Akker van der Merwe 2→3、Odiase 5→6、Evan Lloyd 6→8、Freddy Douglas 2→3、Glen Young 3→4、O'Donoghue 1→2、Johnny Williams 8→10、Crosbie 11→12、Patrick Harrison 4→5、Lewis-Hughes 2→3、Tom Young 2→4、Connors 8→9 | — | 各代表記事 squad／選手記事（Akker・O'Donoghue・Connors・McCallum・Lewis-Hughes・Glen Young は infobox 更新日が古いが値は一致、以後の出場記録なし） |
+
+#### 集計（担当3記事）
+- 記事数 3／修正 47件（W39 30＋冒頭件数1、プレミアシップ 5＋件数1、URC 10）／削除 8件（W39 5、プレミアシップ 3、URC 0）
+- draft化なし
+- 要判断：Wikipedia 内の不整合あり（Faulua Makisi・Inoke Burua の選手記事 infobox と PNC2026 squad 表が食い違い → squad 表＋試合記録を採用）。古い infobox 値との一致で残した行（Akker van der Merwe、O'Donoghue、Connors、McCallum、Lewis-Hughes、Glen Young）は「検知日に更新」の裏付けが弱い
+
+#### src/content/news/national-caps-weekly-2026-W40.md（改訂ルールで再監査）
+検知日 2026-09-28 時点の B を Wikipedia（各国代表記事 squad 表〈caps updated 日付付き〉、PNC2026／NZ南ア遠征／豪州アルゼンチン遠征の squad 表＋出場記録、選手記事 infobox）で照合。B 誤りは正値 > A なら B を修正、正値 ≦ A（A も矛盾）・Wikipedia 内で値が割れる・ソースなしは行削除。前回の draft: true は取り消し済み（draft: false）。
+
+| 区分 | 元の記述（要約可、60字以内） | 処置後 | 根拠URL |
+|---|---|---|---|
+| 修正 | Alessandro IZEKOR: イタリア代表 5→6 | 5→8 | https://en.wikipedia.org/wiki/Alessandro_Izekor |
+| 修正 | Alexandru BUCUR: ルーマニア代表 16→18 | 16→24 | https://en.wikipedia.org/wiki/Romania_national_rugby_union_team |
+| 削除 | Alfonso VIDAL: ウルグアイ代表 2→3 | （削除） | Wikipedia値2（Uruguay代表記事squad表）≦A、B矛盾 |
+| 削除 | André-Hugo VENTER: 南アフリカ代表 2→3 | （削除） | Wikipedia値2（South Africa代表記事squad表＋9月の試合出場なし）≦A |
+| 削除 | Andy ONYEAMA-CHRISTIE: スコットランド代表 8→10 | （削除） | Wikipedia値8（選手記事）≦A |
+| 削除 | Baptiste SERIN: フランス代表 45→46 | （削除） | Wikipedia内で50（France代表記事）と54（選手記事）が不一致、46とは矛盾 |
+| 修正 | Billy PROCTOR: ニュージーランド代表 7→9 | 7→13 | https://en.wikipedia.org/wiki/Billy_Proctor |
+| 修正 | Bryan CHIANG: ジンバブエ代表 1→2 | 1→3 | https://en.wikipedia.org/wiki/Zimbabwe_national_rugby_union_team |
+| 修正 | Calum SCOTT: 香港代表 3→4 | 3→10 | https://en.wikipedia.org/wiki/Hong_Kong_national_rugby_union_team |
+| 削除 | Carlü SADIE: 南アフリカ代表 1→2 | （削除） | Wikipedia値1（South Africa代表記事）≦A |
+| 削除 | Ciarán FRAWLEY: アイルランド代表 12→13 | （削除） | Wikipedia内で15（Ireland代表記事）と16（選手記事）が不一致 |
+| 修正 | Connor TUPAI: サモア代表 6→8 | 6→10 | https://en.wikipedia.org/wiki/Samoa_national_rugby_union_team |
+| 修正 | Cristóbal GAME: チリ代表 8→9 | 8→13 | https://en.wikipedia.org/wiki/Chile_national_rugby_union_team |
+| 修正 | Daniel PLAI: ルーマニア代表 28→29 | 28→37 | https://en.wikipedia.org/wiki/Romania_national_rugby_union_team |
+<!-- 20行目まで記録（一致: 6件） -->
+| 修正 | Dion KHUMALO: ジンバブエ代表 2→4 | 2→10 | https://en.wikipedia.org/wiki/Zimbabwe_national_rugby_union_team |
+| 修正 | Duarte TORGAL: ポルトガル代表 23→25 | 23→33 | https://en.wikipedia.org/wiki/Portugal_national_rugby_union_team |
+| 削除 | Ethan MCVEIGH: アメリカ代表 11→12 | （削除） | Wikipedia値9（PNC2026 squad、出場なし）≦A |
+| 削除 | Faizal SOLOMONA: 香港代表 6→7 | （削除） | 検証不可：en選手記事なし・Hong Kong代表記事squad表に記載なし |
+| 削除 | Fraser DINGWALL: イングランド代表 8→10 | （削除） | Wikipedia値7（選手記事）≦A |
+| 修正 | George BOWER: ニュージーランド代表 24→26 | 24→29 | https://en.wikipedia.org/wiki/2026_New_Zealand_rugby_union_tour_of_South_Africa ／ https://en.wikipedia.org/wiki/New_Zealand_national_rugby_union_team |
+| 修正 | George TURNER: スコットランド代表 46→47 | 46→50 | https://en.wikipedia.org/wiki/George_Turner_(rugby_union) |
+| 修正 | Giacomo NICOTERA: イタリア代表 35→36 | 35→41 | https://en.wikipedia.org/wiki/Giacomo_Nicotera |
+| 削除 | Gregor MCNEISH: 香港代表 4→5 | （削除） | 検証不可：en選手記事なし・Hong Kong代表記事squad表に記載なし |
+| 修正 | Guilherme VASCONCELOS: ポルトガル代表 8→9 | 8→11 | https://en.wikipedia.org/wiki/Portugal_national_rugby_union_team |
+| 削除 | Guy SPANTON: 香港代表 2→4 | （削除） | 検証不可：en選手記事なし・Hong Kong代表記事squad表に記載なし |
+| 削除 | Ian PRIOR: ジンバブエ代表 1→2 | （削除） | Wikipedia内で10（Zimbabwe代表記事）と9（選手記事、18 Jul 2026更新）が不一致 |
+| 修正 | Ignacio BREX: イタリア代表 47→49 | 47→55 | https://en.wikipedia.org/wiki/Italy_national_rugby_union_team |
+<!-- 40行目まで記録（一致: 7件） -->
+| 修正 | Isaiah ARMSTRONG-RAVULA: フィジー代表 15→17 | 15→22 | https://en.wikipedia.org/wiki/2026_World_Rugby_Pacific_Nations_Cup |
+| 削除 | Jay TUIVAITI: サモア代表 1→2 | （削除） | 検証不可：en選手記事なし・Samoa代表記事squad表に記載なし |
+| 修正 | Joaquín OVIEDO: アルゼンチン代表 18→20 | 18→22 | https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Oviedo |
+| 修正 | Joe HAWKINS: ウェールズ代表 11→13 | 11→14 | https://en.wikipedia.org/wiki/Wales_national_rugby_union_team |
+| 削除 | Jondre WILLIAMS: ルーマニア代表 1→2 | （削除） | 検証不可：en選手記事なし・Romania代表記事（en/ro）に記載なし |
+| 修正 | Josh ADAMS: ウェールズ代表 65→66 | 65→72 | https://en.wikipedia.org/wiki/Wales_national_rugby_union_team |
+| 修正 | Kippei ISHIDA: 日本代表 7→9 | 7→11 | https://en.wikipedia.org/wiki/Kippei_Ishida |
+| 削除 | Lekima TAGITAGIVALU: フィジー代表 8→10 | （削除） | Wikipedia値7（選手記事）≦A |
+| 修正 | Manuel CARDOSO PINTO: ポルトガル代表 33→34 | 33→49 | https://en.wikipedia.org/wiki/Portugal_national_rugby_union_team |
+<!-- 60行目まで記録（一致: 11件） -->
+| 修正 | Marco RICCIONI: イタリア代表 33→34 | 33→39 | https://en.wikipedia.org/wiki/Italy_national_rugby_union_team |
+| 修正 | Matías GARAFULIC: チリ代表 22→23 | 22→29 | https://en.wikipedia.org/wiki/Chile_national_rugby_union_team |
+| 修正 | Matt WORLEY: 香港代表 8→10 | 8→18 | https://en.wikipedia.org/wiki/Hong_Kong_national_rugby_union_team |
+| 修正 | Max THRELKELD: 香港代表 2→3 | 2→5 | https://en.wikipedia.org/wiki/Hong_Kong_national_rugby_union_team |
+| 削除 | Noah FLESCH: カナダ代表 10→11 | （削除） | 検証不可：en選手記事なし・Canada代表記事squad表／PNC2026 squadに記載なし |
+| 削除 | Pablo PÉREZ: スペイン代表 2→3 | （削除） | 検証不可：en選手記事なし・Spain代表記事（en/es）に選手として記載なし |
+| 削除 | Patrick HARRISON: スコットランド代表 4→5 | （削除） | Wikipedia値3（選手記事）≦A |
+| 修正 | Paul ALTIER: 香港代表 4→5 | 4→20 | https://en.wikipedia.org/wiki/Hong_Kong_national_rugby_union_team |
+| 修正 | Raimundo MARTÍNEZ: チリ代表 20→21 | 20→32 | https://en.wikipedia.org/wiki/Chile_national_rugby_union_team |
+| 修正 | Robert BALOUCOUNE: アイルランド代表 7→8 | 7→9 | https://en.wikipedia.org/wiki/Ireland_national_rugby_union_team |
+| 修正 | Ryan ELIAS: ウェールズ代表 45→46 | 45→51 | https://en.wikipedia.org/wiki/Wales_national_rugby_union_team |
+| 削除 | Salesi RAYASI: フィジー代表 5→7 | （削除） | Wikipedia値4（選手記事）≦A |
+| 削除 | Shilo KLEIN: アメリカ代表 11→12 | （削除） | Wikipedia値11（PNC2026 squad 9＋2試合）≦A |
+<!-- 80行目まで記録（一致: 7件） -->
+| 削除 | Simi KURUVOLI: フィジー代表 24→26 | （削除） | Wikipedia値2（選手記事Simione Kuruvoli (rugby union)）≦A |
+| 削除 | Shodai HIRAO: 日本代表 2→4 | （削除） | 検証不可：en選手記事なし・Japan代表記事（en/ja）squad表／PNC2026に記載なし |
+| 修正 | Tadiwa GWASHU: ジンバブエ代表 3→4 | 3→9 | https://en.wikipedia.org/wiki/Zimbabwe_national_rugby_union_team |
+| 削除 | Taleni SEU: サモア代表 10→12 | （削除） | Wikipedia値6（選手記事）≦A |
+| 削除 | Tane TAKULUA: トンガ代表 50→51 | （削除） | Wikipedia内で65（Tonga代表記事squad表）と58（同記事Most caps・選手記事）が不一致 |
+| 修正 | Tietie TUIMAUGA: サモア代表 6→8 | 6→11 | https://en.wikipedia.org/wiki/Samoa_national_rugby_union_team |
+| 修正 | Tima FAINGA'ANUKU: トンガ代表 7→8 | 7→9 | https://en.wikipedia.org/wiki/Tima_Fainga%CA%BBanuku |
+| 削除 | Tom STEWART: アイルランド代表 5→6 | （削除） | Wikipedia内で6（Ireland代表記事）と7（選手記事）が不一致 |
+| 削除 | Toma MÎRZAC: ルーマニア代表 2→3 | （削除） | 検証不可：en選手記事なし・Romania代表記事（en/ro）に記載なし |
+| 修正 | Tommaso BONI: アメリカ代表 9→10 | 9→11 | https://en.wikipedia.org/wiki/United_States_men's_national_rugby_union_team ／ https://en.wikipedia.org/wiki/2026_World_Rugby_Pacific_Nations_Cup |
+| 削除 | Trevor DAVISON: イングランド代表 7→8 | （削除） | Wikipedia値4（選手記事）≦A |
+| 修正 | Tudor BUTNARIU: ルーマニア代表 27→28 | 27→31 | https://en.wikipedia.org/wiki/Romania_national_rugby_union_team |
+| 削除 | Vasco BAPTISTA: ポルトガル代表 15→16 | （削除） | 検証不可：en選手記事なし・Portugal代表記事（en/pt）に記載なし |
+| 削除 | Vincent TSHITUKA: 南アフリカ代表 2→3 | （削除） | Wikipedia値2（South Africa代表記事＋9月の試合出場なし）≦A |
+| 削除 | Yuki IKEDA: 日本代表 1→2 | （削除） | 検証不可：en選手記事なし・Japan代表記事（en/ja）squad表／PNC2026に記載なし |
+<!-- 98行目まで記録（一致: 3件） -->
+
+- 一致（そのまま）34件。冒頭の人数「98名」→「68名」に修正。
+- 備考：Josh MOORBY は NZ 代表記事 squad 表 5 だが、NZ南ア遠征記事の squad（3）＋テスト出場3試合で 6 となり B と一致するため残した。
+
+#### 集計（result_caps_4）
+- 記事数 1／修正 34件／削除 30件（検証 98行、一致 34）
+- 要判断：なし（draft 化なし）。ただし元データは多くの選手で Wikipedia より大幅に古い値（例：RICCIONI 34 vs 39）で、週次データの取得元の鮮度に問題あり
+
+（親による所見）元データ（all.rugby 由来の national スナップショット）のキャップ値が Wikipedia より古い・検知週と実際の出場時期がずれる例が多数。生成ロジック（pipeline/news_gen.py の caps-weekly）と取得元の見直しが必要。
