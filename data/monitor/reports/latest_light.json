@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-14T22:17:05+09:00",
+  "checked_at": "2026-10-15T15:54:52+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6206",
+          "title": "クラブ 清水建設江東ブルーシャークス、2026-27シーズン新加入選手（追加） 2026.10.15",
+          "date": "2026-10-15",
+          "category": "roster"
+        },
+        {
+          "url": "https://league-one.jp/news/6205",
+          "title": "クラブ 日野レッドドルフィンズ、新加入選手（2名）のお知らせ 2026.10.15",
+          "date": "2026-10-15",
+          "category": "roster"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,7 +32,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54259",
+          "title": "【男子セブンズ日本代表コラム】 迫りくるスリランカ大会は「次こそ優勝。100パーセントの努力で挑む」 2026.10.15 （木） 男子セブンズ日本代表 セブンズ 日本代表コラムシリーズ 男子セブンズ",
+          "date": "2026-10-15",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +53,29 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6206",
+      "title": "クラブ 清水建設江東ブルーシャークス、2026-27シーズン新加入選手（追加） 2026.10.15",
+      "date": "2026-10-15",
+      "category": "roster"
+    },
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6205",
+      "title": "クラブ 日野レッドドルフィンズ、新加入選手（2名）のお知らせ 2026.10.15",
+      "date": "2026-10-15",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54259",
+      "title": "【男子セブンズ日本代表コラム】 迫りくるスリランカ大会は「次こそ優勝。100パーセントの努力で挑む」 2026.10.15 （木） 男子セブンズ日本代表 セブンズ 日本代表コラムシリーズ 男子セブンズ",
+      "date": "2026-10-15",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }
