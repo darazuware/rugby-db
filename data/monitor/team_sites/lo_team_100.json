@@ -3,20 +3,50 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-10-15T00:38:37+09:00",
+  "checked_at": "2026-10-15T18:04:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "d09ff425e08f91da"
+      "hash": "b5b013c80de76a72"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "da473191af78fad0"
+      "hash": "b9d62c9e27dcd1a1"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/index_2056.html",
+      "title": "ニュース 2026.10.15 「DAZN年間視聴パス」販売のお知らせ",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2055.html",
+      "title": "ゲーム 2026.10.15 2026-27シーズン 試合配信に関するお知らせ",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2053.html",
+      "title": "ゲーム 2026.10.15 【メンバー発表】2026-27シーズン プレシーズンマッチ② 日野レッドドルフィンズ戦（10月17日）",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2034.html",
+      "title": "ゲーム 2026.10.15 【更新】10月17日(土) プレシーズンマッチ vs 日野レッドドルフィンズ ホストゲーム情報",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2052.html",
+      "title": "イベント 2026.10.15 2026.10.23 浦安Dパーク開放イベント「ウェルネスプロジェクト～ヨガイベント～」実施のお知らせ",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2050.html",
+      "title": "イベント 2026.10.15 2026.10.11 「浦安市スポーツフェア 2026」に参加しました",
+      "date": "2026-10-15"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2049.html",
       "title": "ゲーム 2026.10.14 2026-27シーズン プレシーズンマッチ 日程更新のお知らせ",
@@ -29,12 +59,12 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2045.html",
-      "title": "ゲーム 2026.10.08 10月23日(金) プレシーズンマッチ vs トヨタヴェルブリッツ ホストゲーム情報",
+      "title": "2026.10.08 ニュース 10月23日(金) プレシーズンマッチ vs トヨタヴェルブリッツ ホストゲーム情報",
       "date": "2026-10-08"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2033.html",
-      "title": "ゲーム 2026.10.08 【更新】10月10日(土) プレシーズンマッチ vs 東京サントリーサンゴリアス ホストゲーム情報",
+      "title": "2026.10.08 ニュース 【更新】10月10日(土) プレシーズンマッチ vs 東京サントリーサンゴリアス ホストゲーム情報",
       "date": "2026-10-08"
     },
     {
@@ -49,17 +79,17 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/index_2041.html",
-      "title": "ニュース 2026.10.07 2026.9.25「D-Rockersテーマ別対話会（応援）」「Club D-Rockers交流会」を開催しました",
+      "title": "2026.10.07 ニュース 2026.9.25「D-Rockersテーマ別対話会（応援）」「Club D-Rockers交流会」を開催しました",
       "date": "2026-10-07"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2043.html",
-      "title": "イベント 2026.10.07 2026-27シーズン ホストゲーム会場限定「キッズスタンプカード」実施のお知らせ",
+      "title": "2026.10.07 ニュース 2026-27シーズン ホストゲーム会場限定「キッズスタンプカード」実施のお知らせ",
       "date": "2026-10-07"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2042.html",
-      "title": "ゲーム 2026.10.05 2026-27シーズン 第1節〜第3節 キックオフ時間決定のお知らせ",
+      "title": "2026.10.05 ニュース 2026-27シーズン 第1節〜第3節 キックオフ時間決定のお知らせ",
       "date": "2026-10-05"
     },
     {
@@ -76,11 +106,6 @@
       "url": "https://urayasu-d-rocks.com/news/event/index_2038.html",
       "title": "2026.09.30 ニュース 2026.10 トレーニング公開日のお知らせ",
       "date": "2026-09-30"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_2034.html",
-      "title": "2026.09.29 ニュース 【更新】10月17日(土) プレシーズンマッチ vs 日野レッドドルフィンズ ホストゲーム情報",
-      "date": "2026-09-29"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2037.html",
@@ -191,31 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/team/index_2007.html",
       "title": "2026.08.24 ニュース 【代表情報】男子日本代表選出のお知らせ",
       "date": "2026-08-24"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_2005.html",
-      "title": "2026.08.21 ニュース 2026.8.3～5 D-Rocks SUMMER CAMP 2026を開催しました",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/fanclub/index_1993.html",
-      "title": "2026.08.20 ニュース 【8.20 議事録追記】2026.7.26「D-Rockers ミーティング 2025-26」を開催しました",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_2000.html",
-      "title": "2026.08.18 ニュース 小西泰聖選手が母校・桐蔭学園ラグビー部の7人制ラグビーのコーチングサポートを実施しました",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_2002.html",
-      "title": "2026.08.17 ニュース 2026.8.1「浦安ラグビーFamily DAY 2026」に参加しました",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_1999.html",
-      "title": "2026.08.07 ニュース 2026.8.1「ドコモ未来プロジェクト SUMMER FES」に参加しました",
-      "date": "2026-08-07"
     }
   ]
 }

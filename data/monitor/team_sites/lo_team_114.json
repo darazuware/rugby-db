@@ -3,20 +3,30 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-10-15T00:38:37+09:00",
+  "checked_at": "2026-10-15T18:04:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "1998a13f6847aa38"
+      "hash": "5c8fb1e7d8275216"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "09770ff246b0073c"
+      "hash": "28d26135a8a514e7"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/10/15/rico-member/",
+      "title": "2026.10.15 試合関連 チーム情報 【10月17日(土)ブラックラムズ東京戦】メンバーのご案内",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/10/15/dazn/",
+      "title": "2026.10.15 その他 DAZN 年間視聴パス（リーグワンクラブ）販売のお知らせ",
+      "date": "2026-10-15"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/10/14/ju-report/",
       "title": "2026.10.14 その他 【地域連携・普及活動】 2026 年 7 月レポート",
@@ -93,16 +103,6 @@
       "date": "2026-09-28"
     },
     {
-      "url": "https://hanazono-liners.jp/2026/09/25/liners-fanclub-5/",
-      "title": "2026-09-25 ファンクラブ 【LINERS FANCLUB】システムメンテナンスのお知らせ",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/09/19/liners-fanclub-4/",
-      "title": "2026-09-19 ファンクラブ 【LINERS FANCLUB】ファンクラブ入会サポート開催のお知らせ",
-      "date": "2026-09-19"
-    },
-    {
       "url": "https://hanazono-liners.jp/2026/09/07/liners-fanclub-3/",
       "title": "2026.09.07 ファンクラブ イベント 【LINERS FANCLUB】花園近鉄ライナーズ公式アプリ サービス終了に伴うデジタル会員証の利用について",
       "date": "2026-09-07"
@@ -146,11 +146,6 @@
       "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub-2/",
       "title": "2026.08.03 ファンクラブ イベント 【LINERS FANCLUB】2026-27 SEASON ファンクラブ概要決定のお知らせ",
       "date": "2026-08-03"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/07/10/event-volleyball/",
-      "title": "2026.07.10 イベント チーム情報 7/12 バレーボールネーションズリーグ「日本VSポーランド」の試合前に文選手が登場します",
-      "date": "2026-07-10"
     }
   ]
 }

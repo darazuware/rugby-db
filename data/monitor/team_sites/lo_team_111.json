@@ -3,28 +3,38 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-10-15T00:38:37+09:00",
+  "checked_at": "2026-10-15T18:04:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "db36deffc181e21a"
+      "hash": "f98266c3e1d793f4"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "d823133ee4c7869d"
+      "hash": "2b4c6363940ceef9"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "fdfe7683637b7e1c"
+      "hash": "c21185ab7092f8ef"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "ea86ef942f872e96"
+      "hash": "1f74c52afa8d3555"
     }
   ],
   "items": [
+    {
+      "url": "https://blue-sharks.jp/news/2026/10/25399/",
+      "title": "DAZN年間視聴パス（リーグワンクラブ）販売のお知らせ",
+      "date": "2026-10-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/10/25392/",
+      "title": "2026-27シーズン 新加入選手（追加）のお知らせ",
+      "date": "2026-10-25"
+    },
     {
       "url": "https://blue-sharks.jp/news/2026/10/25375/",
       "title": "１０月７日 「タグラグビー教室」開催のご報告",
@@ -37,18 +47,18 @@
     },
     {
       "url": "https://blue-sharks.jp/news/2026/10/25345/",
-      "title": "◇ヤクルトレビンズ戸田戦マッチレポート",
+      "title": "お知らせ 2026/10/05 ◇ヤクルトレビンズ戸田戦マッチレポート",
       "date": "2026-10-25"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/10/25338/",
-      "title": "退任スタッフのお知らせ",
+      "title": "お知らせ 2026/10/05 退任スタッフのお知らせ",
       "date": "2026-10-25"
     },
     {
       "url": "https://blue-sharks.jp/information/",
       "title": "もっと見る",
-      "date": "2026-10-08"
+      "date": "2026-10-15"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/09/25313/",
@@ -98,16 +108,6 @@
     {
       "url": "https://blue-sharks.jp/news/2026/08/25189/",
       "title": "お知らせ 2026/08/10 グロスターラグビー研修レポート Vol.6（権丈太郎）",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/08/25186/",
-      "title": "お知らせ 2026/08/07 2026-27 シーズンプレシーズンマッチスケジュール決定のお知らせ",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/08/25060/",
-      "title": "お知らせ 2026/08/06 NTTジャパンラグビーリーグワン 2026-27 大会日程決定のお知らせ",
       "date": "2026-08-25"
     },
     {

@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "狭山セコムラガッツ",
   "official_url": "https://www.rugguts.secom.co.jp/",
-  "checked_at": "2026-10-15T00:38:37+09:00",
+  "checked_at": "2026-10-15T18:04:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.rugguts.secom.co.jp/",
-      "hash": "d07848a2586dc5d9"
+      "hash": "86d7e2ab9f234150"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/news/",
-      "hash": "66a889d844e78450"
+      "hash": "5ac598c19e038091"
     }
   ],
   "items": [
@@ -26,6 +26,11 @@
       "url": "https://www.rugguts.secom.co.jp/2026/10/2026-27-3.html",
       "title": "2026-27シーズン、新ジャージーデザインのお知らせ",
       "date": "2026-10-20"
+    },
+    {
+      "url": "https://www.rugguts.secom.co.jp/2026/10/dazn.html",
+      "title": "DAZN年間視聴パス（リーグワンクラブ）販売のお知らせ",
+      "date": "2026-10-15"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/2026/10/post-31.html",
@@ -210,11 +215,6 @@
     {
       "url": "https://www.rugguts.secom.co.jp/2026/03/327.html",
       "title": "3月27日（金）ライチェル、テレビ埼玉「スポたま」出演のお知らせ",
-      "date": "2026-03-32"
-    },
-    {
-      "url": "https://www.rugguts.secom.co.jp/2026/03/32431fm.html",
-      "title": "3月24日（火）、31日（火）FMラジオ「ラグビーカフェオンレディオ」にライチェル出演のお知らせ",
       "date": "2026-03-32"
     }
   ]

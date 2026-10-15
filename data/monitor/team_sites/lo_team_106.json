@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-10-15T00:38:37+09:00",
+  "checked_at": "2026-10-15T18:04:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "521681c047a06dbb"
+      "hash": "840afe02108965b9"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "40727cc340bfd333"
+      "hash": "269ed6cde6a5049a"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261015.html",
+      "title": "2026-10-15 DAZN年間視聴パス販売開始｜11/14までの購入で13か月視聴可能",
+      "date": "2026-10-15"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261014.html-0",
       "title": "2026-10-14 男子セブンズ日本代表｜スリランカ遠征 参加メンバーに服部航大選手が選出",
@@ -211,11 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260729.html",
       "title": "2026-07-29 [ イベント ] ダイナボアーズフェスタ2026｜イベントページ公開＆ボランティアスタッフ募集開始",
       "date": "2026-07-29"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260728.html",
-      "title": "2026-07-28 [ ファンクラブ ] 2026-27シーズン ファンクラブ自動継続について",
-      "date": "2026-07-28"
     }
   ]
 }

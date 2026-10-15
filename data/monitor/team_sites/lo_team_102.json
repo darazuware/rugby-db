@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-10-15T00:38:37+09:00",
+  "checked_at": "2026-10-15T18:04:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "2be5cfdd4b93720c"
+      "hash": "616e9ef6422b8001"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "71a78568463074b1"
+      "hash": "588e9c021c689996"
     }
   ],
   "items": [
@@ -31,6 +31,21 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
       "title": "試合日程一覧",
       "date": "2026-10-17"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261017/",
+      "title": "試合詳細",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261015_02/",
+      "title": "お知らせ 2026年10月15日 チケットラグビー・DAZN年間視聴パス 販売のお知らせ ニュースを見る",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261015_01/",
+      "title": "チーム 2026年10月15日 新加入スタッフのお知らせ ニュースを見る",
+      "date": "2026-10-15"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261010/",
@@ -78,19 +93,9 @@
       "date": "2026-10-03"
     },
     {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261001_01/",
-      "title": "チーム 2026年10月01日 新加入スタッフのお知らせ ニュースを見る",
-      "date": "2026-10-01"
-    },
-    {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260930_01/",
       "title": "活動レポート 2026年09月30日 留学記：NZ編 谷山隼大⑥ ニュースを見る",
       "date": "2026-09-30"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/team/schedule/",
-      "title": "チーム 2026年09月28日 10月度チームスケジュール ニュースを見る",
-      "date": "2026-09-28"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260924_01/",
@@ -201,11 +206,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2025/20251002_01/",
       "title": "お知らせ 2025年10月02日 10月11日 強化試合4戦目 相模原DB戦 試合会場および運営変更のお知らせ ニュースを見る",
       "date": "2025-10-02"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2025/20251001_01/",
-      "title": "お知らせ 2025年10月01日 株式会社SUBARUとのオフィシャルパートナーシップ契約締結のお知らせ ニュースを見る",
-      "date": "2025-10-01"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2025/20250421_01/",

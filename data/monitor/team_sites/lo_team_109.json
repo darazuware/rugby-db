@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-10-15T00:38:37+09:00",
+  "checked_at": "2026-10-15T18:04:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "4702a7969c13b74b"
+      "hash": "1ce811cb4430a49a"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "714407128beb2bf9"
+      "hash": "d8323d311a0984b4"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "8ebfbd126f7e8c03"
+      "hash": "3adf215fce84b765"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1015-01/",
+      "title": "TICKET DAZN年間視聴パス販売のお知らせ 2026.10.15",
+      "date": "2026-10-15"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1009-01/",
       "title": "MATCH 10月17日（土） ジャパンラグビー リーグワンライジング 2026 クリタウォーターガッシュ昭島戦のお知ら 2026.10.09",

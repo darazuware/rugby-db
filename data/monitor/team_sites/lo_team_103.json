@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-15T00:38:37+09:00",
+  "checked_at": "2026-10-15T18:04:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "51621f340dbf671b"
+      "hash": "abdf1c5d55d33a7f"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "4c8910fab12d3ed4"
+      "hash": "c50b17a425b74c23"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/261015/",
+      "title": "2026-27レプリカジャージー先行予約販売のお知らせ",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/",
+      "title": "記事一覧",
+      "date": "2026-10-15"
+    },
     {
       "url": "https://www.bravelupus.com/news/261013fc/",
       "title": "★新規受付開始★【2026-27ファンクラブ】入会受付のご案内",
@@ -24,12 +34,7 @@
     },
     {
       "url": "https://www.bravelupus.com/news/260923/",
-      "title": "(10/14更新)【プレシーズンマッチ】10/17日（土）vs 埼玉パナソニックワイルドナイツ 観戦について",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/",
-      "title": "記事一覧",
+      "title": "(10/14更新) 【プレシーズンマッチ】10/17（土）vs 埼玉パナソニックワイルドナイツ 観戦について",
       "date": "2026-10-13"
     },
     {
@@ -216,11 +221,6 @@
       "url": "https://www.bravelupus.com/news/260714/",
       "title": "2025-26シーズンレプリカジャージー30％OFF販売のお知らせ",
       "date": "2026-07-14"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260709/",
-      "title": "ネーションズチャンピオンシップ2026 日本代表 対 アイルランド代表 試合登録メンバーのお知らせ",
-      "date": "2026-07-09"
     },
     {
       "url": "https://www.bravelupus.com/game/https-www-bravelupus-com-game-ntt-japan-rugby-league-one-2025-26-play-offs-quarterfinal/",

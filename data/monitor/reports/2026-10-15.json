@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-15T00:38:37+09:00",
+  "checked_at": "2026-10-15T18:04:06+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,42 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/index_2056.html",
+          "title": "ニュース 2026.10.15 「DAZN年間視聴パス」販売のお知らせ",
+          "date": "2026-10-15",
+          "category": null
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/game/index_2055.html",
+          "title": "ゲーム 2026.10.15 2026-27シーズン 試合配信に関するお知らせ",
+          "date": "2026-10-15",
+          "category": null
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/game/index_2053.html",
+          "title": "ゲーム 2026.10.15 【メンバー発表】2026-27シーズン プレシーズンマッチ② 日野レッドドルフィンズ戦（10月17日）",
+          "date": "2026-10-15",
+          "category": null
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/event/index_2052.html",
+          "title": "イベント 2026.10.15 2026.10.23 浦安Dパーク開放イベント「ウェルネスプロジェクト～ヨガイベント～」実施のお知らせ",
+          "date": "2026-10-15",
+          "category": null
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/event/index_2050.html",
+          "title": "イベント 2026.10.15 2026.10.11 「浦安市スポーツフェア 2026」に参加しました",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -21,8 +55,25 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35630/",
+          "title": "2026/10/15 イベント 【レポート】「のびのびプレイランドin東遊園地」でラグビー体験を実施しました",
+          "date": "2026-10-15",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35604/",
+          "title": "2026/10/15 お知らせ DAZN年間視聴パス販売のご案内",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/",
+        "https://www.kobesteelers.com/news/cat_news/information/"
+      ],
       "rename_signals": []
     },
     {
@@ -33,8 +84,30 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261017/",
+          "title": "試合詳細",
+          "date": "2026-10-17",
+          "category": null
+        },
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261015_02/",
+          "title": "お知らせ 2026年10月15日 チケットラグビー・DAZN年間視聴パス 販売のお知らせ ニュースを見る",
+          "date": "2026-10-15",
+          "category": null
+        },
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261015_01/",
+          "title": "チーム 2026年10月15日 新加入スタッフのお知らせ ニュースを見る",
+          "date": "2026-10-15",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -45,7 +118,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/news/261015/",
+          "title": "2026-27レプリカジャージー先行予約販売のお知らせ",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.bravelupus.com/",
         "https://www.bravelupus.com/news/"
@@ -60,7 +140,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4290/",
+          "title": "2026.10.15 チケット・ファンクラブ DAZN年間視聴パス 販売のお知らせ",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://verblitz.toyotatimes-sports.toyota/"
       ],
@@ -86,7 +173,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261015.html",
+          "title": "2026-10-15 DAZN年間視聴パス販売開始｜11/14までの購入で13か月視聴可能",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -100,9 +194,19 @@
       "official_url": "https://www.canon-eagles.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 16,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 17,
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/news/gameinfo/20261015.html",
+          "title": "2026.10.15 GAME 練習試合 （10/17）栃木ホンダヒート戦 出場選手",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -115,9 +219,21 @@
       "item_count": 5,
       "new_items": [
         {
-          "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260909a.html",
-          "title": "(10/14更新) NTT JAPAN RUGBY LEAGUE ONE 2026-27 試合日程のお知らせ",
-          "date": "2026-09-09",
+          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261015c.html",
+          "title": "「秋のラグビー観戦＆防災デー」実施レポート",
+          "date": "2026-10-15",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261015a.html",
+          "title": "10月18日(日)「成城まちキャン Presents 成城ホコ天・キッズDAY」参加のお知らせ",
+          "date": "2026-10-15",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261015d.html",
+          "title": "「リーグワンDAZN年間視聴パス」販売開始および13か月プラン購入者限定プレゼントキャンペーンのお知らせ",
+          "date": "2026-10-15",
           "category": null
         }
       ],
@@ -134,8 +250,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 55,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/news/2026/10/15/120000.html",
+          "title": "2026.10.15 ニュース・トピックス",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/",
+        "https://www.kubota-spears.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -146,7 +272,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 29,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3211",
+          "title": "2026.10.15[THU] OTHERS ブルーレヴズ観るならDAZN！年間視聴パスの取扱開始！",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -161,8 +294,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/daznnsp.html",
+          "title": "2026年 10月15日 DAZN年間視聴パス販売のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 東京サントリーサンゴリアスでは、202…",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -172,9 +315,20 @@
       "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": false,
-      "item_count": 17,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 18,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1015-01/",
+          "title": "TICKET DAZN年間視聴パス販売のお知らせ 2026.10.15",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/",
+        "https://www.jreast.co.jp/greenwarriors/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -186,7 +340,9 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.kyudenvoltex.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -197,9 +353,25 @@
       "status": "ok",
       "first_run": false,
       "item_count": 24,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://blue-sharks.jp/news/2026/10/25399/",
+          "title": "DAZN年間視聴パス（リーグワンクラブ）販売のお知らせ",
+          "date": "2026-10-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/10/25392/",
+          "title": "2026-27シーズン 新加入選手（追加）のお知らせ",
+          "date": "2026-10-25",
+          "category": "roster"
+        }
+      ],
       "changed_pages": [
-        "https://blue-sharks.jp/"
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
       ],
       "rename_signals": []
     },
@@ -211,9 +383,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 6,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://shuttles-aichi.com/news/2026-10-17-sat-japan-rugby-league-one-rising-2026-vs-yakult-levins-toda-match-squad/",
+          "title": "お知らせ 26年10月15日 2026/10/17(土) ジャパンラグビーリーグワン ライジング2026 vs ヤクルトレビンズ戸田 出場メンバー",
+          "date": "2026-10-17",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://shuttles-aichi.com/"
+        "https://shuttles-aichi.com/",
+        "https://shuttles-aichi.com/news/"
       ],
       "rename_signals": []
     },
@@ -225,7 +405,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 18,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://kamaishi-seawaves.com/news/info/32917/",
+          "title": "お知らせ 2026.10.15 「DAZN年間視聴パス」販売のお知らせ（早期購入特典有り）",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://kamaishi-seawaves.com/",
         "https://kamaishi-seawaves.com/news/",
@@ -240,18 +427,18 @@
       "official_url": "https://hanazono-liners.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 27,
+      "item_count": 26,
       "new_items": [
         {
-          "url": "https://hanazono-liners.jp/2026/10/14/ju-report/",
-          "title": "2026.10.14 その他 【地域連携・普及活動】 2026 年 7 月レポート",
-          "date": "2026-10-14",
+          "url": "https://hanazono-liners.jp/2026/10/15/rico-member/",
+          "title": "2026.10.15 試合関連 チーム情報 【10月17日(土)ブラックラムズ東京戦】メンバーのご案内",
+          "date": "2026-10-15",
           "category": null
         },
         {
-          "url": "https://hanazono-liners.jp/2026/10/14/au-report/",
-          "title": "2026.10.14 その他 【地域連携・普及活動】 2026 年 8月レポート",
-          "date": "2026-10-14",
+          "url": "https://hanazono-liners.jp/2026/10/15/dazn/",
+          "title": "2026.10.15 その他 DAZN 年間視聴パス（リーグワンクラブ）販売のお知らせ",
+          "date": "2026-10-15",
           "category": null
         }
       ],
@@ -268,9 +455,18 @@
       "official_url": "https://hino-reddolphins.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 16,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 15,
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-10-15/",
+          "title": "10/17 浦安戦 メンバーのお知らせ",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -294,8 +490,39 @@
       "official_url": "https://www.kurita-watergush.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 41,
-      "new_items": [],
+      "item_count": 44,
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/stadium/%e5%8d%b0%e8%a5%bf%e5%b8%82%e6%9d%be%e5%b1%b1%e4%b8%8b%e5%85%ac%e5%9c%92%e9%99%b8%e4%b8%8a%e7%ab%b6%e6%8a%80%e5%a0%b4/",
+          "title": "アクセス",
+          "date": "2026-10-17",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/games/",
+          "title": "全ての試合情報はこちら",
+          "date": "2026-10-17",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261017-gw%e6%9d%b1%e8%91%9b-vswg%e6%98%ad%e5%b3%b6/",
+          "title": "このゲームの詳細情報はこちら",
+          "date": "2026-10-17",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/20261015-3/",
+          "title": "お知らせ 2026/10/15 DAZN年間視聴パス（リーグワンクラブ）販売のお知らせ",
+          "date": "2026-10-15",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/20261015-2/",
+          "title": "私とウォーターガッシュ 2026/10/15 私とWATER GUSH #3 杉森健太郎 WTB 5歳からラグビー一筋。仕事と夢を両立しながら、今も積極的に挑み続ける",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -310,8 +537,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.rugguts.secom.co.jp/2026/10/dazn.html",
+          "title": "DAZN年間視聴パス（リーグワンクラブ）販売のお知らせ",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -334,9 +571,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 45,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.skyactivs.com/news/4844",
+          "title": "2026.10.15[THU] GAME 【当日情報】vs 中国電力レッドレグリオンズ",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news",
         "https://www.skyactivs.com/news/2091"
       ],
       "rename_signals": []
@@ -349,8 +594,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 12,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1477",
+          "title": "DAZN年間視聴パス（リーグワンクラブ）販売のお知らせ",
+          "date": "2026-10-15",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1476",
+          "title": "＜ジャパンラグビーリーグワンライジング2026＞豊田自動織機シャトルズ愛知戦メンバーについて",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.yakult.co.jp/sports/rugby/",
+        "https://www.yakult.co.jp/sports/rugby/topics/"
+      ],
       "rename_signals": []
     },
     {
@@ -386,9 +647,9 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54262",
-          "title": "レポート：男子日本代表 別府合宿 2026.10.14 （水） 15人制男子日本代表",
-          "date": "2026-10-14",
+          "url": "https://www.rugby-japan.jp/news/54265",
+          "title": "ラグビー元日本代表および現役選手による小学校訪問事業レポート at 新宿区立落合第六小学校 2026.10.15 （木） 15人制男子日本代表 15人制女子日本代表 普及育成",
+          "date": "2026-10-15",
           "category": "squad"
         }
       ],
@@ -407,10 +668,24 @@
   ],
   "highlights": [
     {
+      "source": "埼玉パナソニックワイルドナイツ",
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261015_01/",
+      "title": "チーム 2026年10月15日 新加入スタッフのお知らせ ニュースを見る",
+      "date": "2026-10-15",
+      "category": "roster"
+    },
+    {
+      "source": "清水建設江東ブルーシャークス",
+      "url": "https://blue-sharks.jp/news/2026/10/25392/",
+      "title": "2026-27シーズン 新加入選手（追加）のお知らせ",
+      "date": "2026-10-25",
+      "category": "roster"
+    },
+    {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54262",
-      "title": "レポート：男子日本代表 別府合宿 2026.10.14 （水） 15人制男子日本代表",
-      "date": "2026-10-14",
+      "url": "https://www.rugby-japan.jp/news/54265",
+      "title": "ラグビー元日本代表および現役選手による小学校訪問事業レポート at 新宿区立落合第六小学校 2026.10.15 （木） 15人制男子日本代表 15人制女子日本代表 普及育成",
+      "date": "2026-10-15",
       "category": "squad"
     }
   ],

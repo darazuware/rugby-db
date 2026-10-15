@@ -3,40 +3,40 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-10-15T00:38:37+09:00",
+  "checked_at": "2026-10-15T18:04:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "0748f8b27e73a5b4"
+      "hash": "d736ef759d29194e"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261015c.html",
+      "title": "「秋のラグビー観戦＆防災デー」実施レポート",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261015a.html",
+      "title": "10月18日(日)「成城まちキャン Presents 成城ホコ天・キッズDAY」参加のお知らせ",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261015d.html",
+      "title": "「リーグワンDAZN年間視聴パス」販売開始および13か月プラン購入者限定プレゼントキャンペーンのお知らせ",
+      "date": "2026-10-15"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261013a.html",
       "title": "プレシーズンマッチ 花園近鉄ライナーズ戦 新グッズ販売のお知らせ",
       "date": "2026-10-13"
     },
     {
-      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261008a.html",
-      "title": "10月10日(土) リーグワン ライジング2026 JR東日本グリーンウォリアーズ東葛戦 メンバーのお知らせ",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261006a.html",
-      "title": "手書き風ラムまるトートバッグ 再入荷のお知らせ",
-      "date": "2026-10-06"
-    },
-    {
       "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260909a.html",
       "title": "(10/14更新) NTT JAPAN RUGBY LEAGUE ONE 2026-27 試合日程のお知らせ",
       "date": "2026-09-09"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20260907a.html",
-      "title": "(10/8更新) 10月10日(土) 「秋のラグビー観戦＆防災デー」開催のお知らせ",
-      "date": "2026-09-07"
     }
   ]
 }

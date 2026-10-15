@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-10-15T00:38:37+09:00",
+  "checked_at": "2026-10-15T18:04:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "bc69d434f0938922"
+      "hash": "d97f22e91c26bd71"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "4adfa01b5049856c"
+      "hash": "3d07b8c7a69d92fd"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3211",
+      "title": "2026.10.15[THU] OTHERS ブルーレヴズ観るならDAZN！年間視聴パスの取扱開始！",
+      "date": "2026-10-15"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3222",
       "title": "2026.10.14[WED] HOST AREA 【ホストエリア活動】「ジュビロ磐田 ヤマハ・ヤマハ発動機マッチデー」にて、親子スポーツ体験会を実施しました",
@@ -96,11 +101,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3199",
       "title": "SCHOOL 2026/9/28 秋の新規入会キャンペーン",
       "date": "2026-09-28"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3197",
-      "title": "2026.9.24[THU] TEAM ポジション変更のお知らせ",
-      "date": "2026-09-24"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3195",

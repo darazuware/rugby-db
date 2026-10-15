@@ -3,21 +3,21 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-10-15T00:38:37+09:00",
+  "checked_at": "2026-10-15T18:04:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "07b1735133bcdc27"
+      "hash": "0c3092a92ed99edc"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "71ac5d81b71ce033"
+      "hash": "0430ae116f24b2c0"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
-      "hash": "918e6b140c973ef2"
+      "hash": "11810a33eeae6bf2"
     },
     {
       "url": "https://www.skyactivs.com/news/2035",
@@ -29,6 +29,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.skyactivs.com/news/4844",
+      "title": "2026.10.15[THU] GAME 【当日情報】vs 中国電力レッドレグリオンズ",
+      "date": "2026-10-15"
+    },
     {
       "url": "https://www.skyactivs.com/news/4811",
       "title": "2026.10.05[MON] ACTIVITY 「第33回ひろしまトラックまつり」に参加しました",
@@ -223,11 +228,6 @@
       "url": "https://www.skyactivs.com/news/4195",
       "title": "2026.06.02[TUE] TEAM 退団スタッフおよび入団スタッフのお知らせ",
       "date": "2026-06-02"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/4186",
-      "title": "2026.05.30[SAT] TEAM NTTジャパンラグビーリーグワン 2025-26 ディビジョン2昇格決定のお知らせ",
-      "date": "2026-05-30"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",

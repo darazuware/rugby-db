@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-10-15T00:38:37+09:00",
+  "checked_at": "2026-10-15T18:04:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.canon-eagles.jp/",
-      "hash": "aaf0dbbeb87442c7"
+      "hash": "05a8833c14f46bd2"
     },
     {
       "url": "https://www.canon-eagles.jp/news/",
-      "hash": "a4b6fad3b234bba8"
+      "hash": "9cfebf8b4ad82004"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/2026.html",
@@ -21,6 +21,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.canon-eagles.jp/news/gameinfo/20261015.html",
+      "title": "2026.10.15 GAME 練習試合 （10/17）栃木ホンダヒート戦 出場選手",
+      "date": "2026-10-15"
+    },
     {
       "url": "https://www.canon-eagles.jp/news/info/20261014.html",
       "title": "2026.10.14 TEAM 大分合宿のお知らせ",

@@ -3,24 +3,54 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-15T00:38:37+09:00",
+  "checked_at": "2026-10-15T18:04:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "574498ff1b5dc42e"
+      "hash": "e5b9645993a03ba6"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "17d78141df17106c"
+      "hash": "79c364e9177ec585"
     }
   ],
   "items": [
     {
+      "url": "https://www.kurita-watergush.jp/stadium/%e5%8d%b0%e8%a5%bf%e5%b8%82%e6%9d%be%e5%b1%b1%e4%b8%8b%e5%85%ac%e5%9c%92%e9%99%b8%e4%b8%8a%e7%ab%b6%e6%8a%80%e5%a0%b4/",
+      "title": "アクセス",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/games/",
+      "title": "全ての試合情報はこちら",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/game/20261017-gw%e6%9d%b1%e8%91%9b-vswg%e6%98%ad%e5%b3%b6/",
+      "title": "このゲームの詳細情報はこちら",
+      "date": "2026-10-17"
+    },
+    {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-10-14"
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/category/news/",
+      "title": "お知らせ",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261015-3/",
+      "title": "お知らせ 2026/10/15 DAZN年間視聴パス（リーグワンクラブ）販売のお知らせ",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261015-2/",
+      "title": "私とウォーターガッシュ 2026/10/15 私とWATER GUSH #3 杉森健太郎 WTB 5歳からラグビー一筋。仕事と夢を両立しながら、今も積極的に挑み続ける",
+      "date": "2026-10-15"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261014-2/",
@@ -41,11 +71,6 @@
       "url": "https://www.kurita-watergush.jp/20261013-2/",
       "title": "私とウォーターガッシュ 2026/10/13 私とWATER GUSH #1 出渕賢史 PRダイエット目的で強制的に始めたラグビーが、人生に彩りを与えてくれた",
       "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/category/news/",
-      "title": "お知らせ",
-      "date": "2026-10-10"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261010-2/",
@@ -69,13 +94,8 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261001-2/",
-      "title": "地域貢献 2026/10/01 【地域活動報告】児童の登校見守り活動",
+      "title": "地域貢献 公開日：2026/10/01 【地域活動報告】児童の登校見守り活動 実施日：9月30日（水）実施場所：拝島二小南交差点 「秋の全国交通安全運動」期間に伴い、大型車両の通行… 続きを読む",
       "date": "2026-10-01"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260807-2-1/",
-      "title": "お知らせ 2026/09/30 2026-27シーズン プレシーズンマッチのお知らせ（※9月30日更新）",
-      "date": "2026-09-30"
     },
     {
       "url": "https://www.kurita-watergush.jp/20260929-2/",
@@ -120,6 +140,11 @@
     {
       "url": "https://www.kurita-watergush.jp/20260807-2-2/",
       "title": "お知らせ 公開日：2026/09/01 9/1より 2026-27シーズン ファンクラブ会員募集開始（9月1日更新） いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。9/1（火）10:00… 続きを読む",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20260807-2-1/",
+      "title": "お知らせ 公開日：2026/09/30 2026-27シーズン プレシーズンマッチのお知らせ（※9月30日更新） いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 2026-27シーズ… 続きを読む",
       "date": "2026-08-07"
     },
     {
@@ -211,16 +236,6 @@
       "url": "https://www.kurita-watergush.jp/20260331-2/",
       "title": "お知らせ 公開日：2026/03/31 第12節4月12日(日) 狭山セコムラガッツ戦 ホストゲームイベントのご案内（※4月13日更新） 4月12日(日) リーグワンD3 第12節 狭山セコムラガッツ戦のホストゲームイベントをお知らせいたします。 イ… 続きを読む",
       "date": "2026-03-31"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260309-2/",
-      "title": "お知らせ 公開日：2026/03/09 第10節3月21日(土) ヤクルトレビンズ戸田戦 ホストゲームイベントのご案内（※3月22日更新） 3月21日(土) リーグワンD3 第10節 ヤクルトレビンズ戸田戦のホストゲームイベントをお知らせいたします。… 続きを読む",
-      "date": "2026-03-09"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260213-2/",
-      "title": "お知らせ 公開日：2026/02/13 第8節3月1日(日) ルリーロ福岡戦 ホストゲームイベントのご案内（※3月1日更新） 3月1日(日) リーグワンD3 第8節 ルリーロ福岡戦のホストゲームイベントをお知らせいたします。 イベントに… 続きを読む",
-      "date": "2026-02-13"
     }
   ]
 }

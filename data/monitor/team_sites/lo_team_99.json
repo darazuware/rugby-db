@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-10-15T00:38:37+09:00",
+  "checked_at": "2026-10-15T18:04:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "142a8e4a7771c826"
+      "hash": "57b64630865e24ea"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "9d0343a853f7c5f0"
+      "hash": "8b20d6e8a9430767"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/daznnsp.html",
+      "title": "2026年 10月15日 DAZN年間視聴パス販売のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 東京サントリーサンゴリアスでは、202…",
+      "date": "2026-10-15"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/NJRLO2627TSA.html",
       "title": "2026年 10月14日 【チケット情報】NTT JAPAN RUGBY LEAGUE ONE 2026-27 東京サンゴリアスホストゲームチケット概要のご案内！ （2026/10/14 14:00情報更新） いつも東京サントリーサンゴリアスへの温かいご声援ありがとうござい…",
@@ -61,11 +66,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/jrlo2627msa.html",
       "title": "2026年 9月25日 NTT JAPAN RUGBY LEAGUE ONE 2026-27の日程が発表されました！（※9月25日情報更新） （※ 2026年9月25日時点の更新情報 → 第1節の試合日決定） いつも東京サンゴリアスへの温かいご声援あり…",
       "date": "2026-09-25"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/822.html",
-      "title": "2026年 9月23日 Day822 『網走合宿』",
-      "date": "2026-09-23"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/cmrf26vnzc.html",

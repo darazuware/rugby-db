@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-10-15T00:38:37+09:00",
+  "checked_at": "2026-10-15T18:04:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,10 +13,15 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "f6ea17f6eb8d6233"
+      "hash": "81e6f9c870823ed9"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-10-15/",
+      "title": "10/17 浦安戦 メンバーのお知らせ",
+      "date": "2026-10-15"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-10-14/",
       "title": "10月12日日野市スポーツ・レクリエーションフェスティバルに参加しました",
@@ -86,16 +91,6 @@
       "url": "https://hino-reddolphins.com/2026-09-02/",
       "title": "8/26、27日野市 自治会のラジオ体操に参加しました",
       "date": "2026-09-02"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-09-01/",
-      "title": "くいもの屋わん 豊田北口/南大沢店 九州魂 南大沢店 特別クーポン継続実施のお知らせ",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-08-27/",
-      "title": "8/26日野市 ふれあいラジオ体操に参加しました",
-      "date": "2026-08-27"
     }
   ]
 }
