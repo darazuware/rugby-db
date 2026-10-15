@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-10-15T18:04:06+09:00",
+  "checked_at": "2026-10-16T00:25:01+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "b6a0bd22286d1bd9"
+      "hash": "59c0257b1c64dae6"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "0d85d65f7aeae98c"
+      "hash": "af38306ea13fa506"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/1012",
+      "title": "地域・社会貢献 2026年10月15日 NEW JAPAN BASEでラグビークリニックを開催しました",
+      "date": "2026-10-15"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/998",
       "title": "お知らせ 2026年10月14日 NEW NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ(10/14更新)",
@@ -126,11 +131,6 @@
       "url": "https://www.kyudenvoltex.com/news/991",
       "title": "チーム 2026年06月30日 2025-26シーズン 退任スタッフのお知らせ(追加)",
       "date": "2026-06-30"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/993",
-      "title": "地域・社会貢献 2026年06月23日 清本鉄工株式会社 Presents ラグビーキャラバンの開催について",
-      "date": "2026-06-23"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/986",

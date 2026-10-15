@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-10-15T18:04:06+09:00",
+  "checked_at": "2026-10-16T00:25:01+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "b5b013c80de76a72"
+      "hash": "dab1811b2c7a152c"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "b9d62c9e27dcd1a1"
+      "hash": "bdcf46e034392d74"
     }
   ],
   "items": [
@@ -30,6 +30,11 @@
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2053.html",
       "title": "ゲーム 2026.10.15 【メンバー発表】2026-27シーズン プレシーズンマッチ② 日野レッドドルフィンズ戦（10月17日）",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2051.html",
+      "title": "ゲーム 2026.10.15 2026-27 観戦ルール・ご来場時の注意事項",
       "date": "2026-10-15"
     },
     {
@@ -54,7 +59,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2047.html",
-      "title": "ゲーム 2026.10.08 【メンバー発表】2026-27シーズン プレシーズンマッチ① 東京サントリーサンゴリアス戦（10月10日）",
+      "title": "2026.10.08 ニュース 【メンバー発表】2026-27シーズン プレシーズンマッチ① 東京サントリーサンゴリアス戦（10月10日）",
       "date": "2026-10-08"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/partner/index_2012.html",
       "title": "2026.08.31 ニュース 株式会社Dtimesとのオフィシャルサプライヤー契約締結のお知らせ",
       "date": "2026-08-31"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_2007.html",
-      "title": "2026.08.24 ニュース 【代表情報】男子日本代表選出のお知らせ",
-      "date": "2026-08-24"
     }
   ]
 }

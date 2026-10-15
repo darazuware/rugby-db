@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-15T18:04:06+09:00",
+  "checked_at": "2026-10-16T00:25:01+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "e5b9645993a03ba6"
+      "hash": "95378b01dd079efb"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "79c364e9177ec585"
+      "hash": "ba9475b30c763f3b"
     }
   ],
   "items": [
@@ -74,12 +74,12 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261010-2/",
-      "title": "お知らせ 2026/10/10 10月23日（金）日豪50周年フレンドシップマッチのご案内",
+      "title": "お知らせ 2026/10/10 10月23日（金）日豪50周年フレンドシップマッチのご案内（※10月15日更新）",
       "date": "2026-10-10"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261007-2/",
-      "title": "お知らせ 2026/10/07 10月31日（土）ライジング2026 ヤクルトレビンズ戸田戦イベントのご案内",
+      "title": "お知らせ 2026/10/07 10月31日（土）ライジング2026 ヤクルトレビンズ戸田戦イベントのご案内（※10月15日更新）",
       "date": "2026-10-07"
     },
     {
