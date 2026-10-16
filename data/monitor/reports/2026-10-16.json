@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-16T00:25:01+09:00",
+  "checked_at": "2026-10-16T17:56:28+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -11,10 +11,10 @@
       "item_count": 40,
       "new_items": [
         {
-          "url": "https://urayasu-d-rocks.com/news/game/index_2051.html",
-          "title": "ゲーム 2026.10.15 2026-27 観戦ルール・ご来場時の注意事項",
-          "date": "2026-10-15",
-          "category": null
+          "url": "https://urayasu-d-rocks.com/news/partner/index_2057.html",
+          "title": "パートナー 2026.10.16 株式会社やまたけとのネイビーパートナーシップ契約締結のお知らせ",
+          "date": "2026-10-16",
+          "category": "roster"
         }
       ],
       "changed_pages": [
@@ -31,10 +31,31 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35645/",
+          "title": "イベント コベルコ神戸スティーラーズフェスタ2026プログラム決定！ 2026/10/16",
+          "date": "2026-10-16",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35346/",
+          "title": "2026/10/16 お知らせ 2026-27シーズンの公開練習についてのお知らせ",
+          "date": "2026-10-16",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/",
+          "title": "2025/11/25 お知らせ チーム公式HPがより便利に！ニュース検索機能を追加しました",
+          "date": "2025-11-25",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kobesteelers.com/",
-        "https://www.kobesteelers.com/news/"
+        "https://www.kobesteelers.com/news/",
+        "https://www.kobesteelers.com/news/cat_news/information/",
+        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
       ],
       "rename_signals": []
     },
@@ -46,8 +67,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261016_01/",
+          "title": "ファンクラブ 2026年10月16日 2026-27ワイルドナイツファンクラブ新規入会キャンペーン実施のお知らせ ニュースを見る",
+          "date": "2026-10-16",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -58,8 +89,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/news/261016/",
+          "title": "10/17(土) 埼玉パナソニックワイルドナイツ戦 マッチデープログラム情報",
+          "date": "2026-10-16",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/20261016_1/",
+          "title": "【新設】 【ルーパス塾 川崎校 U12/U15クラス】",
+          "date": "2026-10-16",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.bravelupus.com/",
+        "https://www.bravelupus.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -70,8 +117,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4292/",
+          "title": "2026.10.16 普及・アカデミー トヨタヴェルブリッツアカデミー #16",
+          "date": "2026-10-16",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -108,9 +164,20 @@
       "official_url": "https://www.canon-eagles.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 17,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 16,
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20261016.html",
+          "title": "2026.10.16 TEAM 2026-27シーズン新入団選手（追加）および退団選手のお知らせ",
+          "date": "2026-10-16",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/",
+        "https://www.canon-eagles.jp/news/info/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -121,8 +188,23 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261016a.html",
+          "title": "株式会社明電舎とオフィシャルパートナー新規契約のお知らせ",
+          "date": "2026-10-16",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261015a.html",
+          "title": "10月17日(土) プレシーズンマッチ2026 花園近鉄ライナーズ戦 メンバーのお知らせ",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -134,7 +216,9 @@
       "first_run": false,
       "item_count": 55,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.kubota-spears.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -144,8 +228,27 @@
       "official_url": "https://www.shizuoka-bluerevs.com",
       "status": "ok",
       "first_run": false,
-      "item_count": 29,
-      "new_items": [],
+      "item_count": 30,
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3213",
+          "title": "2026.10.16[FRI] FAN CLUB CLUB REVSキッズ/親子会員限定＜エスコートキッズ＞の参加者募集",
+          "date": "2026-10-16",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3212",
+          "title": "2026.10.16[FRI] FAN CLUB CLUB REVS会員特典≪オフィシャルグッズクーポン≫の利用方法",
+          "date": "2026-10-16",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3206",
+          "title": "2026.10.16[FRI] FAN CLUB CLUB REVS会員特典≪ホームゲーム招待券≫の利用方法",
+          "date": "2026-10-16",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -160,8 +263,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2610-1038.html",
+          "title": "2026年 10月16日 #1038 田代 智史 -1『なんて素晴らしいチームなんだろう』",
+          "date": "2026-10-16",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -171,9 +284,26 @@
       "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": false,
-      "item_count": 18,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 20,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1016-02/",
+          "title": "TICKET 第1節 12月13日(日) 九州電力キューデンヴォルテクス戦 チケット販売について 2026.10.16",
+          "date": "2026-10-16",
+          "category": null
+        },
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1016-01/",
+          "title": "EVENT 2026-27ホストゲーム イベント概要について 2026.10.16",
+          "date": "2026-10-16",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/",
+        "https://www.jreast.co.jp/greenwarriors/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -186,9 +316,9 @@
       "item_count": 40,
       "new_items": [
         {
-          "url": "https://www.kyudenvoltex.com/news/1012",
-          "title": "地域・社会貢献 2026年10月15日 NEW JAPAN BASEでラグビークリニックを開催しました",
-          "date": "2026-10-15",
+          "url": "https://www.kyudenvoltex.com/news/1013",
+          "title": "地域・社会貢献 2026年10月16日 NEW 第4回香椎しょうぶ祭り2026に参加しました",
+          "date": "2026-10-16",
           "category": null
         }
       ],
@@ -206,9 +336,19 @@
       "status": "ok",
       "first_run": false,
       "item_count": 24,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://blue-sharks.jp/news/2026/10/25404/",
+          "title": "10月15日 「タグラグビー教室」開催のご報告",
+          "date": "2026-10-25",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://blue-sharks.jp/"
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
       ],
       "rename_signals": []
     },
@@ -277,9 +417,23 @@
       "status": "ok",
       "first_run": false,
       "item_count": 43,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8924",
+          "title": "お知らせ 2026年10月16日 2026-27シーズン リーダーズ・クラブリーダーズ決定のお知らせ",
+          "date": "2026-10-16",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8904",
+          "title": "お知らせ 2026年10月16日 【リリース】第2節12月19日（土曜） 「中央自動車工業プレゼンツCENTRALプレミアムマッチ」開催決定のお知らせ",
+          "date": "2026-10-16",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://docomo-rugby.jp/"
+        "https://docomo-rugby.jp/",
+        "https://docomo-rugby.jp/news/"
       ],
       "rename_signals": []
     },
@@ -291,7 +445,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 44,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261016-4/",
+          "title": "お知らせ 2026/10/16 2026-27シーズン キャプテン・バイスキャプテン決定のお知らせ",
+          "date": "2026-10-16",
+          "category": "roster"
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/20261016-3/",
+          "title": "お知らせ 2026/10/16 ヘッドコーチ交代のお知らせ",
+          "date": "2026-10-16",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/20261016-2/",
+          "title": "私とウォーターガッシュ 2026/10/16 私とWATER GUSH #4 中村謙吾10年間、自分への挑戦を続ける男。",
+          "date": "2026-10-16",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -307,7 +480,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -357,7 +533,10 @@
       "first_run": false,
       "item_count": 11,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://leriro-fukuoka.com/",
+        "https://leriro-fukuoka.com/news"
+      ],
       "rename_signals": []
     }
   ],
@@ -369,7 +548,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6213",
+          "title": "クラブ 横浜キヤノンイーグルス、2026-27シーズン新入団選手（追加）および退団選手のお知らせ 2026.10.16",
+          "date": "2026-10-16",
+          "category": "roster"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -379,7 +565,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54269",
+          "title": "～ラグビーにおける救命体制のさらなる充実に向けて～ 心肺蘇生法・AEDに関する啓発動画公開のお知らせ 2026.10.16 （金）",
+          "date": "2026-10-16",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -393,7 +586,36 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "浦安D-Rocks",
+      "url": "https://urayasu-d-rocks.com/news/partner/index_2057.html",
+      "title": "パートナー 2026.10.16 株式会社やまたけとのネイビーパートナーシップ契約締結のお知らせ",
+      "date": "2026-10-16",
+      "category": "roster"
+    },
+    {
+      "source": "横浜キヤノンイーグルス",
+      "url": "https://www.canon-eagles.jp/news/info/20261016.html",
+      "title": "2026.10.16 TEAM 2026-27シーズン新入団選手（追加）および退団選手のお知らせ",
+      "date": "2026-10-16",
+      "category": "roster"
+    },
+    {
+      "source": "クリタウォーターガッシュ昭島",
+      "url": "https://www.kurita-watergush.jp/20261016-4/",
+      "title": "お知らせ 2026/10/16 2026-27シーズン キャプテン・バイスキャプテン決定のお知らせ",
+      "date": "2026-10-16",
+      "category": "roster"
+    },
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6213",
+      "title": "クラブ 横浜キヤノンイーグルス、2026-27シーズン新入団選手（追加）および退団選手のお知らせ 2026.10.16",
+      "date": "2026-10-16",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "三重ホンダヒート: 到達できるページがない: http://www.honda-heat.jp"

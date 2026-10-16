@@ -3,29 +3,29 @@
   "league": "league-one-d3",
   "name": "ルリーロ福岡",
   "official_url": "https://leriro-fukuoka.com/",
-  "checked_at": "2026-10-16T00:25:01+09:00",
+  "checked_at": "2026-10-16T17:56:28+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://leriro-fukuoka.com/",
-      "hash": "38092eea5b1fc48c"
+      "hash": "99c32297ea8fad75"
     },
     {
       "url": "https://leriro-fukuoka.com/news",
-      "hash": "d6fa61ec54b443db"
+      "hash": "982bded685c0b0ba"
     }
   ],
   "items": [
     {
       "url": "https://leriro-fukuoka.com/news-detail?id=270",
       "title": "NTT JAPAN RUGUBY LEAGUE ONE 2026-27シーズン スケジュールのお知らせ",
-      "date": "2026-10-06"
+      "date": "2026-10-16"
     },
     {
       "url": "https://leriro-fukuoka.com/news",
       "title": "NEWS一覧",
-      "date": "2026-10-06"
+      "date": "2026-10-16"
     },
     {
       "url": "https://leriro-fukuoka.com/news-detail?id=281",

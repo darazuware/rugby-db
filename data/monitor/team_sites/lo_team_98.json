@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-10-16T00:25:01+09:00",
+  "checked_at": "2026-10-16T17:56:28+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "ed6a8753069d9c64"
+      "hash": "3473b9b030a22409"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "aa7eea8f894bf50f"
+      "hash": "598d0b2bfc89e598"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3213",
+      "title": "2026.10.16[FRI] FAN CLUB CLUB REVSキッズ/親子会員限定＜エスコートキッズ＞の参加者募集",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3212",
+      "title": "2026.10.16[FRI] FAN CLUB CLUB REVS会員特典≪オフィシャルグッズクーポン≫の利用方法",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3206",
+      "title": "2026.10.16[FRI] FAN CLUB CLUB REVS会員特典≪ホームゲーム招待券≫の利用方法",
+      "date": "2026-10-16"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3211",
       "title": "2026.10.15[THU] OTHERS ブルーレヴズ観るならDAZN！年間視聴パスの取扱開始！",
@@ -93,19 +108,9 @@
       "date": "2026-09-29"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3200",
-      "title": "2026.9.28[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（9/24～9/25）",
-      "date": "2026-09-28"
-    },
-    {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",
       "title": "SCHOOL 2026/9/28 秋の新規入会キャンペーン",
       "date": "2026-09-28"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3195",
-      "title": "2026.9.24[THU] GOODS 【9/26(土)販売開始】新グッズ情報／プレーヤーズグッズSALE開催（vs.トヨタヴェルブリッツ／ヤマハ大久保グラウンド）",
-      "date": "2026-09-24"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3190",

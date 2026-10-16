@@ -3,24 +3,34 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-10-16T00:25:01+09:00",
+  "checked_at": "2026-10-16T17:56:28+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "1ce811cb4430a49a"
+      "hash": "c0c0581114437f98"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "d8323d311a0984b4"
+      "hash": "9402bb9e0288e827"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "3adf215fce84b765"
+      "hash": "1a28022da4a34d01"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1016-02/",
+      "title": "TICKET 第1節 12月13日(日) 九州電力キューデンヴォルテクス戦 チケット販売について 2026.10.16",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1016-01/",
+      "title": "EVENT 2026-27ホストゲーム イベント概要について 2026.10.16",
+      "date": "2026-10-16"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1015-01/",
       "title": "TICKET DAZN年間視聴パス販売のお知らせ 2026.10.15",

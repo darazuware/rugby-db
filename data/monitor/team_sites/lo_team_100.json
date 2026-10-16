@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-10-16T00:25:01+09:00",
+  "checked_at": "2026-10-16T17:56:28+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "dab1811b2c7a152c"
+      "hash": "9426fc689c948a4f"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "bdcf46e034392d74"
+      "hash": "25274057e5726799"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/partner/index_2057.html",
+      "title": "パートナー 2026.10.16 株式会社やまたけとのネイビーパートナーシップ契約締結のお知らせ",
+      "date": "2026-10-16"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/index_2056.html",
       "title": "ニュース 2026.10.15 「DAZN年間視聴パス」販売のお知らせ",
@@ -79,7 +84,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2044.html",
-      "title": "イベント 2026.10.08 2026.10.6 笛吹警察署 一日警察署長・副署長を務めました",
+      "title": "2026.10.08 ニュース 2026.10.6 笛吹警察署 一日警察署長・副署長を務めました",
       "date": "2026-10-08"
     },
     {
@@ -210,11 +215,6 @@
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2011.html",
       "title": "2026.08.31 ニュース 新たなコーポレートスローガン「一枚岩の結束で、心揺さぶる感動を創る。」を制定しました",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/partner/index_2012.html",
-      "title": "2026.08.31 ニュース 株式会社Dtimesとのオフィシャルサプライヤー契約締結のお知らせ",
       "date": "2026-08-31"
     }
   ]

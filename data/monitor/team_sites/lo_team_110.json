@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-10-16T00:25:01+09:00",
+  "checked_at": "2026-10-16T17:56:28+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "59c0257b1c64dae6"
+      "hash": "beaa23be7dc8ef81"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "af38306ea13fa506"
+      "hash": "e8197d65e1b72e71"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/1013",
+      "title": "地域・社会貢献 2026年10月16日 NEW 第4回香椎しょうぶ祭り2026に参加しました",
+      "date": "2026-10-16"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/1012",
       "title": "地域・社会貢献 2026年10月15日 NEW JAPAN BASEでラグビークリニックを開催しました",
@@ -116,11 +121,6 @@
       "url": "https://www.kyudenvoltex.com/news/995",
       "title": "地域・社会貢献 2026年07月06日 平戸市立生月小学校でタグラグビー教室を開催しました",
       "date": "2026-07-06"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/994",
-      "title": "地域・社会貢献 2026年07月02日 「大分市佐賀関地域大規模火災に係る支援金」募金活動のご報告",
-      "date": "2026-07-02"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/992",

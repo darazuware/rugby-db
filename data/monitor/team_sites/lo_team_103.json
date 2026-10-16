@@ -3,38 +3,58 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-16T00:25:01+09:00",
+  "checked_at": "2026-10-16T17:56:28+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "abdf1c5d55d33a7f"
+      "hash": "7169528a2ae209e9"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "c50b17a425b74c23"
+      "hash": "b43bd9342a86425c"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/all_story/",
+      "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.206更新）",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261016/",
+      "title": "10/17(土) 埼玉パナソニックワイルドナイツ戦 マッチデープログラム情報",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260909/",
+      "title": "NTTジャパンラグビー リーグワン2026-27 ディビジョン1 試合日程・会場決定のお知らせ ※２節の会場が決定しました",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/20261016_1/",
+      "title": "【新設】 【ルーパス塾 川崎校 U12/U15クラス】",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/",
+      "title": "記事一覧",
+      "date": "2026-10-16"
+    },
     {
       "url": "https://www.bravelupus.com/news/261015/",
       "title": "2026-27レプリカジャージー先行予約販売のお知らせ",
       "date": "2026-10-15"
     },
     {
-      "url": "https://www.bravelupus.com/news/",
-      "title": "記事一覧",
+      "url": "https://www.bravelupus.com/news/260923/",
+      "title": "(10/16更新) 【プレシーズンマッチ】10/17（土）vs 埼玉パナソニックワイルドナイツ 観戦について",
       "date": "2026-10-15"
     },
     {
       "url": "https://www.bravelupus.com/news/261013fc/",
       "title": "★新規受付開始★【2026-27ファンクラブ】入会受付のご案内",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260923/",
-      "title": "(10/14更新) 【プレシーズンマッチ】10/17（土）vs 埼玉パナソニックワイルドナイツ 観戦について",
       "date": "2026-10-13"
     },
     {
@@ -46,11 +66,6 @@
       "url": "https://www.bravelupus.com/news/261009/",
       "title": "新製品グッズ販売のお知らせ",
       "date": "2026-10-09"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/all_story/",
-      "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.205更新）",
-      "date": "2026-10-08"
     },
     {
       "url": "https://www.bravelupus.com/news/261008/",
@@ -65,11 +80,6 @@
     {
       "url": "https://www.bravelupus.com/news/261006fc/",
       "title": "【お詫び】ゴールド会員2026-27ファンクラブ 先行入会について",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260909/",
-      "title": "NTTジャパンラグビー リーグワン2026-27 ディビジョン1 試合日程・会場決定のお知らせ ※1-3節キックオフ時間更新",
       "date": "2026-10-06"
     },
     {
@@ -163,11 +173,6 @@
       "date": "2026-08-31"
     },
     {
-      "url": "https://www.bravelupus.com/news/260827/",
-      "title": "募集中！！ 【必勝祈願バスツアー】狼を祀る三峯神社へ",
-      "date": "2026-08-27"
-    },
-    {
       "url": "https://www.bravelupus.com/news/260818/",
       "title": "男子セブンズ・デベロップメント・スコッド（SDS） 福岡合宿スケジュールと参加メンバーのお知らせ",
       "date": "2026-08-22"
@@ -216,11 +221,6 @@
       "url": "https://www.bravelupus.com/news/260716/",
       "title": "ネーションズチャンピオンシップ2026 日本代表 対 フランス代表 試合登録メンバーのお知らせ",
       "date": "2026-07-16"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260714/",
-      "title": "2025-26シーズンレプリカジャージー30％OFF販売のお知らせ",
-      "date": "2026-07-14"
     },
     {
       "url": "https://www.bravelupus.com/game/https-www-bravelupus-com-game-ntt-japan-rugby-league-one-2025-26-play-offs-quarterfinal/",

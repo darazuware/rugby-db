@@ -3,20 +3,30 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-10-16T00:25:01+09:00",
+  "checked_at": "2026-10-16T17:56:28+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "36f1ab8a5e7ed6bb"
+      "hash": "31af078fed0d0563"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "28c0b0321aa22f9a"
+      "hash": "2ac02fb0c9f03477"
     }
   ],
   "items": [
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8924",
+      "title": "お知らせ 2026年10月16日 2026-27シーズン リーダーズ・クラブリーダーズ決定のお知らせ",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8904",
+      "title": "お知らせ 2026年10月16日 【リリース】第2節12月19日（土曜） 「中央自動車工業プレゼンツCENTRALプレミアムマッチ」開催決定のお知らせ",
+      "date": "2026-10-16"
+    },
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8919",
       "title": "試合情報 2026年10月13日 プレシーズンマッチ 10月24日（土曜）豊田自動織機シャトルズ愛知戦のご案内",
@@ -211,16 +221,6 @@
       "url": "https://docomo-rugby.jp/news/detail.html?id=8670",
       "title": "お知らせ 2026年7月3日 きせかえ「dポイント」「d払い」でレッドハリケーンズ大阪を応援しよう！",
       "date": "2026-07-03"
-    },
-    {
-      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8695",
-      "title": "アカデミー 2026年7月2日 【U15クラス】6月活動レポート",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8690",
-      "title": "アカデミー 2026年7月2日 【U12アドバンスクラス】6月活動レポート",
-      "date": "2026-07-02"
     },
     {
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8386",

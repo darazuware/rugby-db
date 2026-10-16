@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-10-16T00:25:01+09:00",
+  "checked_at": "2026-10-16T17:56:28+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "616e9ef6422b8001"
+      "hash": "5a477eab0b7ad0e5"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "588e9c021c689996"
+      "hash": "8aacd8c139dd04c8"
     }
   ],
   "items": [
@@ -36,6 +36,11 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261017/",
       "title": "試合詳細",
       "date": "2026-10-17"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261016_01/",
+      "title": "ファンクラブ 2026年10月16日 2026-27ワイルドナイツファンクラブ新規入会キャンペーン実施のお知らせ ニュースを見る",
+      "date": "2026-10-16"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261015_02/",
@@ -191,11 +196,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2025/20251227_01/",
       "title": "ファンクラブ 2025年12月27日 12月21日（日）浦安D-Rocks戦のファンクラブ会員来場スタンプ押印に関する... ニュースを見る",
       "date": "2025-12-27"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2025/20251209_01/",
-      "title": "ファンクラブ 2025年12月09日 2025-26シーズンファンクラブ来場スタンプカード配布のお知らせ ニュースを見る",
-      "date": "2025-12-09"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2025/20251030_01/",

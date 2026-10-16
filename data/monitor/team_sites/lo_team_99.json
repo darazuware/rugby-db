@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-10-16T00:25:01+09:00",
+  "checked_at": "2026-10-16T17:56:28+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "57b64630865e24ea"
+      "hash": "36e6fb0afacfb549"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "8b20d6e8a9430767"
+      "hash": "bc42c0b8a3655ed6"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2610-1038.html",
+      "title": "2026年 10月16日 #1038 田代 智史 -1『なんて素晴らしいチームなんだろう』",
+      "date": "2026-10-16"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/daznnsp.html",
       "title": "2026年 10月15日 DAZN年間視聴パス販売のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 東京サントリーサンゴリアスでは、202…",
@@ -56,11 +61,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627tca.html",
       "title": "2026年 9月29日 2026-27シーズンキャプテンおよびスローガン決定のお知らせ いつも東京サンゴリアスへの温かいご声援ありがとうございます。 この度、2026-27シーズンのキャプテンおよび…",
       "date": "2026-09-29"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2609-1035.html",
-      "title": "2026年 9月25日 #1035 福島 秀法 『愚直な、地味な突破、身体を張ったプレー』",
-      "date": "2026-09-25"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/jrlo2627msa.html",
