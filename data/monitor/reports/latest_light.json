@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-16T15:41:47+09:00",
+  "checked_at": "2026-10-16T21:59:34+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,32 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6212",
-          "title": "クラブ レッドハリケーンズ大阪、第2節12月19日（土）「中央自動車工業プレゼンツCENTRALプレミアムマッチ」開催決定のお知らせ 2026.10.16",
-          "date": "2026-10-16",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6210",
-          "title": "クラブ 栃木ホンダヒート、2026-27シーズン キャプテンおよびリーダー決定のお知らせ 2026.10.16",
-          "date": "2026-10-16",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6209",
-          "title": "クラブ クリタウォーターガッシュ昭島、ヘッドコーチ交代のお知らせ 2026.10.16",
-          "date": "2026-10-16",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6208",
-          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 一部試合日程および会場追加決定のお知らせ 2026.10.16",
-          "date": "2026-10-16",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -44,20 +19,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54271",
-          "title": "レポート：女子セブンズ日本代表（サクラセブンズ）スリランカ遠征 2026.10.16 （金） 女子セブンズ日本代表 女子 セブンズ ARE7s ARESS2026",
-          "date": "2026-10-16",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54268",
-          "title": "日本ラグビーフットボール協会創立100周年記念ミューラル 制作決定のお知らせ 2026.10.16 （金） 15人制男子日本代表 15人制女子日本代表 100周年",
-          "date": "2026-10-16",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -71,29 +33,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6210",
-      "title": "クラブ 栃木ホンダヒート、2026-27シーズン キャプテンおよびリーダー決定のお知らせ 2026.10.16",
-      "date": "2026-10-16",
-      "category": "roster"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54271",
-      "title": "レポート：女子セブンズ日本代表（サクラセブンズ）スリランカ遠征 2026.10.16 （金） 女子セブンズ日本代表 女子 セブンズ ARE7s ARESS2026",
-      "date": "2026-10-16",
-      "category": "squad"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54268",
-      "title": "日本ラグビーフットボール協会創立100周年記念ミューラル 制作決定のお知らせ 2026.10.16 （金） 15人制男子日本代表 15人制女子日本代表 100周年",
-      "date": "2026-10-16",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": []
 }
