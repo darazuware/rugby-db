@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-10-16T17:56:28+09:00",
+  "checked_at": "2026-10-17T00:04:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "aeae9b30458a704c"
+      "hash": "ca18777099d1c237"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "d5a79d8146a518dc"
+      "hash": "5474a0f839982df0"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "7962a005850c42b6"
+      "hash": "3303949111943cbd"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/society/32962/",
+      "title": "普及・社会貢献 2026.10.16 特殊詐欺等被害防止啓発活動に参加しました",
+      "date": "2026-10-16"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/info/32917/",
       "title": "お知らせ 2026.10.15 「DAZN年間視聴パス」販売のお知らせ（早期購入特典有り）",
@@ -74,11 +79,6 @@
     {
       "url": "https://kamaishi-seawaves.com/news/game/32414/",
       "title": "試合情報 2026.9.14 2026プレシーズンマッチ 第2戦／栃木ホンダヒート戦",
-      "date": "2026-09-14"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/game/32401/",
-      "title": "試合情報 2026.9.14 ジャパンラグビー リーグワン ライジング 2026 第1戦／日野レッドドルフィンズ戦",
       "date": "2026-09-14"
     },
     {

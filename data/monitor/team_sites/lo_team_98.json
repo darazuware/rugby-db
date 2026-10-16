@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-10-16T17:56:28+09:00",
+  "checked_at": "2026-10-17T00:04:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "3473b9b030a22409"
+      "hash": "5d9dced8a3f1f432"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "598d0b2bfc89e598"
+      "hash": "77310e147ddf014e"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3227",
+      "title": "2026.10.16[FRI] GOODS レプリカジャージ1stを数量限定で受注販売！ネーム＆ナンバー加工にも対応！",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3226",
+      "title": "2026.10.16[FRI] TEAM ユニフォームパートナー(2026-27シーズン)決定のお知らせ",
+      "date": "2026-10-16"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3213",
       "title": "2026.10.16[FRI] FAN CLUB CLUB REVSキッズ/親子会員限定＜エスコートキッズ＞の参加者募集",
@@ -96,16 +106,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3201",
       "title": "2026.10.1[THU] TICKET 大漁旗・フラッグ応援エリアを新設",
       "date": "2026-10-01"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3198",
-      "title": "2026.9.29[TUE] SDGs スポーツ庁のSOIP推進事業に採択。アプリを起点とした地域共創プロジェクトを推進",
-      "date": "2026-09-29"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3189",
-      "title": "2026.9.29[TUE] EVENT ホーム開幕戦で13,000名様にSHIZUOKA PRIDEシャツをプレゼント！",
-      "date": "2026-09-29"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",

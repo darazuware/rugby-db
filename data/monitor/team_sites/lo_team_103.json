@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-16T17:56:28+09:00",
+  "checked_at": "2026-10-17T00:04:46+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "7169528a2ae209e9"
+      "hash": "2396e7f01ec8fefd"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "b43bd9342a86425c"
+      "hash": "940bb2d0ec99bd4a"
     }
   ],
   "items": [
@@ -25,6 +25,11 @@
     {
       "url": "https://www.bravelupus.com/news/261016/",
       "title": "10/17(土) 埼玉パナソニックワイルドナイツ戦 マッチデープログラム情報",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261016-2/",
+      "title": "チケットラグビー・DAZN年間視聴パス 販売のお知らせ",
       "date": "2026-10-16"
     },
     {
@@ -216,11 +221,6 @@
       "url": "https://www.bravelupus.com/news/260721/",
       "title": "8/2(日)ポップアップストアでのイベント参加選手のお知らせ",
       "date": "2026-07-21"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260716/",
-      "title": "ネーションズチャンピオンシップ2026 日本代表 対 フランス代表 試合登録メンバーのお知らせ",
-      "date": "2026-07-16"
     },
     {
       "url": "https://www.bravelupus.com/game/https-www-bravelupus-com-game-ntt-japan-rugby-league-one-2025-26-play-offs-quarterfinal/",
