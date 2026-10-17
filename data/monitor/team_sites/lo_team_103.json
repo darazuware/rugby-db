@@ -3,13 +3,13 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-17T17:28:07+09:00",
+  "checked_at": "2026-10-17T22:59:51+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "50393433655119cd"
+      "hash": "f80caf96ad59935d"
     },
     {
       "url": "https://www.bravelupus.com/news/",
@@ -17,6 +17,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/game/pewgame_261017/",
+      "title": "結果詳細",
+      "date": "2026-10-17"
+    },
     {
       "url": "https://www.bravelupus.com/news/all_story/",
       "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.206更新）",
@@ -221,11 +226,6 @@
       "url": "https://www.bravelupus.com/news/260721/",
       "title": "8/2(日)ポップアップストアでのイベント参加選手のお知らせ",
       "date": "2026-07-21"
-    },
-    {
-      "url": "https://www.bravelupus.com/game/https-www-bravelupus-com-game-ntt-japan-rugby-league-one-2025-26-play-offs-quarterfinal/",
-      "title": "結果詳細",
-      "date": "2026-05-24"
     }
   ]
 }

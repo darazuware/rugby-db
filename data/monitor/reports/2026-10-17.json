@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-17T17:28:07+09:00",
+  "checked_at": "2026-10-17T22:59:51+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -36,10 +36,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://panasonic.co.jp/sports/wildknights/",
-        "https://panasonic.co.jp/sports/wildknights/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -50,7 +47,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/game/pewgame_261017/",
+          "title": "結果詳細",
+          "date": "2026-10-17",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.bravelupus.com/"
       ],
@@ -139,14 +143,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 30,
-      "new_items": [
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3220",
-          "title": "2026.10.17[SAT] HOST AREA ＜ラグビーディスカバリー supported by しずぎん＞を浜松市で開催しました",
-          "date": "2026-10-17",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -241,14 +238,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 26,
-      "new_items": [
-        {
-          "url": "https://hanazono-liners.jp/result/%e8%8a%b1%e5%9c%92%e8%bf%91%e9%89%84%e3%83%a9%e3%82%a4%e3%83%8a%e3%83%bc%e3%82%ba-2026-27%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3-%e3%83%97%e3%83%ac%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3%e3%83%9e%e3%83%83/",
-          "title": "結果詳細を見る",
-          "date": "2026-10-17",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -288,11 +278,29 @@
       "official_url": "https://www.kurita-watergush.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 41,
+      "item_count": 44,
       "new_items": [
         {
-          "url": "https://www.kurita-watergush.jp/20261017-2/",
-          "title": "私とウォーターガッシュ 2026/10/17 私とWATER GUSH #5 デーモン・レエスアス LO「ここが、僕の新しいホームだ」",
+          "url": "https://www.kurita-watergush.jp/stadium/%e6%a0%97%e7%94%b0%e5%b7%a5%e6%a5%ad%e6%98%ad%e5%b3%b6%e3%82%b0%e3%83%a9%e3%82%a6%e3%83%b3%e3%83%89/",
+          "title": "アクセス",
+          "date": "2026-10-23",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/games/",
+          "title": "全ての試合情報はこちら",
+          "date": "2026-10-23",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261023-wg%e6%98%ad%e5%b3%b6-vs%e5%b7%9d%e8%b6%8a%e7%8b%ad%e5%b1%b1rg/",
+          "title": "このゲームの詳細情報はこちら",
+          "date": "2026-10-23",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261017-gw%e6%9d%b1%e8%91%9b-vswg%e6%98%ad%e5%b3%b6/",
+          "title": "試合詳細結果",
           "date": "2026-10-17",
           "category": null
         }
@@ -386,14 +394,8 @@
       "item_count": 9,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54274",
-          "title": "女子セブンズ日本代表（サクラセブンズ） アジアラグビーエミレーツセブンズシリーズ2026 スリランカ大会 登録メンバーと1日目試合スケジュールのお知らせ 2026.10.17 （土） 女子セブンズ日本代表 女子 セブンズ ARE7s アジアラグビーエミレーツセブンズシリーズ",
-          "date": "2026-10-17",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54273",
-          "title": "（10/17更新 ）リポビタンDチャレンジカップ2026 フィジー代表来日メンバーのお知らせ 2026.10.17 （土） 15人制男子日本代表 JRFU リポビタンDチャレンジカップ2026",
+          "url": "https://www.rugby-japan.jp/news/54275",
+          "title": "男子セブンズ日本代表 アジアラグビーエミレーツセブンズシリーズ2026スリランカ大会 1日目試合結果と2日目試合スケジュールのお知らせ 2026.10.17 （土） 男子セブンズ日本代表 セブンズ ARESS2026 アジアラグビーエミレーツセブンズシリーズ2026 男子 男子セブンズ",
           "date": "2026-10-17",
           "category": "squad"
         }
@@ -414,15 +416,8 @@
   "highlights": [
     {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54274",
-      "title": "女子セブンズ日本代表（サクラセブンズ） アジアラグビーエミレーツセブンズシリーズ2026 スリランカ大会 登録メンバーと1日目試合スケジュールのお知らせ 2026.10.17 （土） 女子セブンズ日本代表 女子 セブンズ ARE7s アジアラグビーエミレーツセブンズシリーズ",
-      "date": "2026-10-17",
-      "category": "squad"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54273",
-      "title": "（10/17更新 ）リポビタンDチャレンジカップ2026 フィジー代表来日メンバーのお知らせ 2026.10.17 （土） 15人制男子日本代表 JRFU リポビタンDチャレンジカップ2026",
+      "url": "https://www.rugby-japan.jp/news/54275",
+      "title": "男子セブンズ日本代表 アジアラグビーエミレーツセブンズシリーズ2026スリランカ大会 1日目試合結果と2日目試合スケジュールのお知らせ 2026.10.17 （土） 男子セブンズ日本代表 セブンズ ARESS2026 アジアラグビーエミレーツセブンズシリーズ2026 男子 男子セブンズ",
       "date": "2026-10-17",
       "category": "squad"
     }
