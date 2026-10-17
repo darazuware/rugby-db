@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-10-17T00:04:46+09:00",
+  "checked_at": "2026-10-17T17:28:07+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "5d9dced8a3f1f432"
+      "hash": "4c143681e7641c0e"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "77310e147ddf014e"
+      "hash": "5f61b671a55fd6fc"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3220",
+      "title": "2026.10.17[SAT] HOST AREA ＜ラグビーディスカバリー supported by しずぎん＞を浜松市で開催しました",
+      "date": "2026-10-17"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3227",
       "title": "2026.10.16[FRI] GOODS レプリカジャージ1stを数量限定で受注販売！ネーム＆ナンバー加工にも対応！",
@@ -121,11 +126,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3188",
       "title": "EVENT 2026/9/16 愛車で静岡とホーム開幕戦を青く染めよう！",
       "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3181",
-      "title": "2026.9.10[THU] EVENT 10/12(月・祝)に＜ラグビーディスカバリー supported by しずぎん＞を浜松市で開催！",
-      "date": "2026-09-10"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3165",

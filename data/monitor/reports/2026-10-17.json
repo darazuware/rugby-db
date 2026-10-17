@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-17T00:04:46+09:00",
+  "checked_at": "2026-10-17T17:28:07+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -10,7 +10,9 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -34,7 +36,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -45,17 +50,9 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [
-        {
-          "url": "https://www.bravelupus.com/news/261016-2/",
-          "title": "チケットラグビー・DAZN年間視聴パス 販売のお知らせ",
-          "date": "2026-10-16",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
-        "https://www.bravelupus.com/",
-        "https://www.bravelupus.com/news/"
+        "https://www.bravelupus.com/"
       ],
       "rename_signals": []
     },
@@ -68,9 +65,7 @@
       "first_run": false,
       "item_count": 10,
       "new_items": [],
-      "changed_pages": [
-        "https://verblitz.toyotatimes-sports.toyota/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -146,15 +141,9 @@
       "item_count": 30,
       "new_items": [
         {
-          "url": "https://www.shizuoka-bluerevs.com/news/3227",
-          "title": "2026.10.16[FRI] GOODS レプリカジャージ1stを数量限定で受注販売！ネーム＆ナンバー加工にも対応！",
-          "date": "2026-10-16",
-          "category": null
-        },
-        {
-          "url": "https://www.shizuoka-bluerevs.com/news/3226",
-          "title": "2026.10.16[FRI] TEAM ユニフォームパートナー(2026-27シーズン)決定のお知らせ",
-          "date": "2026-10-16",
+          "url": "https://www.shizuoka-bluerevs.com/news/3220",
+          "title": "2026.10.17[SAT] HOST AREA ＜ラグビーディスカバリー supported by しずぎん＞を浜松市で開催しました",
+          "date": "2026-10-17",
           "category": null
         }
       ],
@@ -197,10 +186,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kyudenvoltex.com/",
-        "https://www.kyudenvoltex.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -239,14 +225,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 18,
-      "new_items": [
-        {
-          "url": "https://kamaishi-seawaves.com/news/society/32962/",
-          "title": "普及・社会貢献 2026.10.16 特殊詐欺等被害防止啓発活動に参加しました",
-          "date": "2026-10-16",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://kamaishi-seawaves.com/",
         "https://kamaishi-seawaves.com/news/",
@@ -262,7 +241,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 26,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/result/%e8%8a%b1%e5%9c%92%e8%bf%91%e9%89%84%e3%83%a9%e3%82%a4%e3%83%8a%e3%83%bc%e3%82%ba-2026-27%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3-%e3%83%97%e3%83%ac%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3%e3%83%9e%e3%83%83/",
+          "title": "結果詳細を見る",
+          "date": "2026-10-17",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -303,7 +289,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 41,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261017-2/",
+          "title": "私とウォーターガッシュ 2026/10/17 私とWATER GUSH #5 デーモン・レエスアス LO「ここが、僕の新しいホームだ」",
+          "date": "2026-10-17",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -319,9 +312,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.rugguts.secom.co.jp/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -392,8 +383,21 @@
       "url": "https://www.rugby-japan.jp/news/",
       "status": "ok",
       "first_run": false,
-      "item_count": 10,
-      "new_items": [],
+      "item_count": 9,
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54274",
+          "title": "女子セブンズ日本代表（サクラセブンズ） アジアラグビーエミレーツセブンズシリーズ2026 スリランカ大会 登録メンバーと1日目試合スケジュールのお知らせ 2026.10.17 （土） 女子セブンズ日本代表 女子 セブンズ ARE7s アジアラグビーエミレーツセブンズシリーズ",
+          "date": "2026-10-17",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54273",
+          "title": "（10/17更新 ）リポビタンDチャレンジカップ2026 フィジー代表来日メンバーのお知らせ 2026.10.17 （土） 15人制男子日本代表 JRFU リポビタンDチャレンジカップ2026",
+          "date": "2026-10-17",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -407,7 +411,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54274",
+      "title": "女子セブンズ日本代表（サクラセブンズ） アジアラグビーエミレーツセブンズシリーズ2026 スリランカ大会 登録メンバーと1日目試合スケジュールのお知らせ 2026.10.17 （土） 女子セブンズ日本代表 女子 セブンズ ARE7s アジアラグビーエミレーツセブンズシリーズ",
+      "date": "2026-10-17",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54273",
+      "title": "（10/17更新 ）リポビタンDチャレンジカップ2026 フィジー代表来日メンバーのお知らせ 2026.10.17 （土） 15人制男子日本代表 JRFU リポビタンDチャレンジカップ2026",
+      "date": "2026-10-17",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "三重ホンダヒート: 到達できるページがない: http://www.honda-heat.jp"

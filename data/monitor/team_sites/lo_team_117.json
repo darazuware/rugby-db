@@ -3,24 +3,29 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-17T00:04:46+09:00",
+  "checked_at": "2026-10-17T17:28:07+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "ad35591dd8214e98"
+      "hash": "7b1634e711e62cda"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "6da73984ac30dbc4"
+      "hash": "1271e1c8da014e31"
     }
   ],
   "items": [
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-10-16"
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261017-2/",
+      "title": "私とウォーターガッシュ 2026/10/17 私とWATER GUSH #5 デーモン・レエスアス LO「ここが、僕の新しいホームだ」",
+      "date": "2026-10-17"
     },
     {
       "url": "https://www.kurita-watergush.jp/category/news/",
@@ -69,7 +74,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261013-3/",
-      "title": "地域貢献 2026/10/13 【地域活動報告】昭島駅周辺清掃活動",
+      "title": "地域貢献 公開日：2026/10/13 【地域活動報告】昭島駅周辺清掃活動 実施日：10月12日（月祝）実施場所：昭島駅周辺 地域活動の一環として、選手・スタッフ総勢60名で昭島駅周… 続きを読む",
       "date": "2026-10-13"
     },
     {
@@ -216,11 +221,6 @@
       "url": "https://www.kurita-watergush.jp/20260506-2/",
       "title": "お知らせ 公開日：2026/05/06 2025-26シーズン 退団選手のお知らせ（※5月9日更新） いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。この度、2025-26… 続きを読む",
       "date": "2026-05-06"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260428-2/",
-      "title": "お知らせ 公開日：2026/04/28 公式戦50キャップ達成記念Tシャツ限定販売のお知らせ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 NTTジャパンラ… 続きを読む",
-      "date": "2026-04-28"
     }
   ]
 }
