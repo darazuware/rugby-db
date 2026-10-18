@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-18T17:46:30+09:00",
+  "checked_at": "2026-10-18T23:12:43+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -58,9 +58,7 @@
       "first_run": false,
       "item_count": 10,
       "new_items": [],
-      "changed_pages": [
-        "https://verblitz.toyotatimes-sports.toyota/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -111,7 +109,9 @@
       "first_run": false,
       "item_count": 5,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -174,10 +174,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kyudenvoltex.com/",
-        "https://www.kyudenvoltex.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -273,14 +270,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 44,
-      "new_items": [
-        {
-          "url": "https://www.kurita-watergush.jp/20261018-2/",
-          "title": "私とウォーターガッシュ 2026/10/18 私とWATER GUSH #6 中尾泰星 FL 3歳からラグビー一筋。前を向いて生きること。",
-          "date": "2026-10-18",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -370,9 +360,9 @@
       "item_count": 9,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54277",
-          "title": "女子セブンズ日本代表（サクラセブンズ） アジアラグビーエミレーツセブンズシリーズ 2026 スリランカ大会 1 日目試合結果と 2 日目試合スケジュールのお知らせ 2026.10.17 （土） 女子セブンズ日本代表 女子 セブンズ ARE7s",
-          "date": "2026-10-17",
+          "url": "https://www.rugby-japan.jp/news/54278",
+          "title": "リポビタンDチャレンジカップ2026 女子ウェールズ代表来日メンバーのお知らせ 2026.10.18 （日） 15人制女子日本代表 リポビタンDチャレンジカップ2026",
+          "date": "2026-10-18",
           "category": "squad"
         }
       ],
@@ -392,9 +382,9 @@
   "highlights": [
     {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54277",
-      "title": "女子セブンズ日本代表（サクラセブンズ） アジアラグビーエミレーツセブンズシリーズ 2026 スリランカ大会 1 日目試合結果と 2 日目試合スケジュールのお知らせ 2026.10.17 （土） 女子セブンズ日本代表 女子 セブンズ ARE7s",
-      "date": "2026-10-17",
+      "url": "https://www.rugby-japan.jp/news/54278",
+      "title": "リポビタンDチャレンジカップ2026 女子ウェールズ代表来日メンバーのお知らせ 2026.10.18 （日） 15人制女子日本代表 リポビタンDチャレンジカップ2026",
+      "date": "2026-10-18",
       "category": "squad"
     }
   ],
