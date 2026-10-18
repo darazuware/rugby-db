@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-10-17T22:59:51+09:00",
+  "checked_at": "2026-10-18T17:46:30+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "cdd8993e08f342a7"
+      "hash": "35b5829fc5fccfe1"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "868475c882974aa4"
+      "hash": "8264fd4cdf496f8f"
     }
   ],
   "items": [
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1012",
-      "title": "地域・社会貢献 2026年10月15日 NEW JAPAN BASEでラグビークリニックを開催しました",
+      "title": "地域・社会貢献 2026年10月15日 JAPAN BASEでラグビークリニックを開催しました",
       "date": "2026-10-15"
     },
     {

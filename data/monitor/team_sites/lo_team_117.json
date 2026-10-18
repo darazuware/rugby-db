@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-17T22:59:51+09:00",
+  "checked_at": "2026-10-18T17:46:30+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "3d1f84d3ae4552b8"
+      "hash": "2e4591083d0c4eda"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "f64061e275897ae7"
+      "hash": "4428205b50d1c674"
     }
   ],
   "items": [
@@ -33,13 +33,18 @@
       "date": "2026-10-23"
     },
     {
-      "url": "https://www.kurita-watergush.jp/game/20261017-gw%e6%9d%b1%e8%91%9b-vswg%e6%98%ad%e5%b3%b6/",
-      "title": "試合詳細結果",
-      "date": "2026-10-17"
-    },
-    {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
+      "date": "2026-10-18"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261018-2/",
+      "title": "私とウォーターガッシュ 2026/10/18 私とWATER GUSH #6 中尾泰星 FL 3歳からラグビー一筋。前を向いて生きること。",
+      "date": "2026-10-18"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/game/20261017-gw%e6%9d%b1%e8%91%9b-vswg%e6%98%ad%e5%b3%b6/",
+      "title": "試合詳細結果",
       "date": "2026-10-17"
     },
     {
@@ -84,7 +89,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261014-2/",
-      "title": "私とウォーターガッシュ 2026/10/14 私とWATER GUSH #2 菅沼神兵 SO11年間、仕事と夢を両立し続けた男――SO菅沼神兵が語る、クリタへの想いとDiv2への誓い",
+      "title": "私とウォーターガッシュ 公開日：2026/10/14 私とWATER GUSH #2 菅沼神兵 SO11年間、仕事と夢を両立し続けた男――SO菅沼神兵が語る、クリタへの想いとDiv2への誓い クリタウォーターガッシュ昭島の選手のラグビーとの出会い、クリタでラグビーをする想いにせまる”私とWATE… 続きを読む",
       "date": "2026-10-14"
     },
     {
@@ -231,11 +236,6 @@
       "url": "https://www.kurita-watergush.jp/20260512-2-2/",
       "title": "お知らせ 公開日：2026/05/12 2025ｰ26シーズンの御礼 クリタウォーターガッシュ昭島は、「NTTジャパンラグビーリーグワン2025ｰ26シーズン」をDiv.3・3位という… 続きを読む",
       "date": "2026-05-12"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260506-2/",
-      "title": "お知らせ 公開日：2026/05/06 2025-26シーズン 退団選手のお知らせ（※5月9日更新） いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。この度、2025-26… 続きを読む",
-      "date": "2026-05-06"
     }
   ]
 }
