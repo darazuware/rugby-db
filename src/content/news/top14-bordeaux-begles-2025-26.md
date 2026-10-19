@@ -25,7 +25,7 @@ tags: ["Top14", "チーム紹介", "2025-26", "ボルドー・ベグル"]
 | :--- | :--- | :--- | :--- | ---: |
 | Damian PENAUD | ダミアン・ポノー | ウィング | [フランス代表](/national-teams/france/) | 59 |
 | Matthieu JALIBERT | マチュー・ジャリベール | フライハーフ | [フランス代表](/national-teams/france/) | 39 |
-| Maxime LUCU | マキシム・リュキュ | スクラムハーフ | フランス代表 | 30 |
+| Maxime LUCU | マキシム・リュキュ | スクラムハーフ | [フランス代表](/national-teams/france/) | 30 |
 | Cameron WOKI | カメロン・ウォキ | バックロー | フランス代表 | 33 |
 | Louis BIELLE-BIARREY | ルイ・ビエル＝ビアレー | ウィング | フランス代表 | 27 |
 

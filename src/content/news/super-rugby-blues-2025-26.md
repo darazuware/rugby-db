@@ -27,7 +27,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "ブルーズ"]
 | Ofa TU'UNGAFASI | オファ・トゥウンガファシ | プロップ | [ニュージーランド代表](/national-teams/new-zealand/) | 68 |
 | Patrick TUIPULOTU | パトリック・トゥイプロトゥ | ロック | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Hoskins SOTUTU | ホスキンス・ソトゥトゥ | フランカー/No8 | [ニュージーランド代表](/national-teams/new-zealand/) | — |
-| Dalton PAPALI'I | ダルトン・パパリイ | フランカー/No8 | ニュージーランド代表 | — |
+| Dalton PAPALI'I | ダルトン・パパリイ | フランカー/No8 | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Finlay CHRISTIE | フィンレー・クリスティ | スクラムハーフ | ニュージーランド代表 | 28 |
 | Beauden BARRETT | ボーデン・バレット | スタンドオフ | ニュージーランド代表 | 146 |
 | Pita AHKI | ピタ・アーキ | センター | [トンガ代表](/national-teams/tonga/) | — |

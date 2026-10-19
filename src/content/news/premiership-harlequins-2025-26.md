@@ -26,7 +26,7 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "ハーレクイ�
 | :--- | :--- | :--- | :--- | ---: |
 | Marcus SMITH | マーカス・スミス | フライハーフ | [イングランド代表](/national-teams/england/) | 53 |
 | Joe LAUNCHBURY | ジョー・ランチベリー | ロック | [イングランド代表](/national-teams/england/) | 70 |
-| Alex DOMBRANDT | アレックス・ドンブラント | No.8 | イングランド代表 | 23 |
+| Alex DOMBRANDT | アレックス・ドンブラント | No.8 | [イングランド代表](/national-teams/england/) | 23 |
 | Guido PETTI | ギード・ペッティ | フランカー | [アルゼンチン代表](/national-teams/argentina/) | 97 |
 | George TURNER | ジョージ・ターナー | フッカー | [スコットランド代表](/national-teams/scotland/) | 50 |
 | Chandler CUNNINGHAM-SOUTH | チャンドラー・カニンガム=サウス | フランカー | イングランド代表 | 23 |

@@ -29,7 +29,7 @@ tags: ["Top14", "チーム紹介", "2025-26", "ラ・ロシェル"]
 | Jonathan DANTY | ジョナタン・ダンティ | センター | [フランス代表](/national-teams/france/) | 29 |
 | Ultan DILLANE | ウルタン・ディレイン | セカンドロー | [アイルランド代表](/national-teams/ireland/) | 19 |
 | Will SKELTON | ウィル・スケルトン | セカンドロー | [オーストラリア代表](/national-teams/australia/) | 32 |
-| Antoine HASTOY | アントワーヌ・アストワ | フライハーフ | フランス代表 | 10 |
+| Antoine HASTOY | アントワーヌ・アストワ | フライハーフ | [フランス代表](/national-teams/france/) | 10 |
 
 ## その他在籍選手（2025-26シーズン）
 

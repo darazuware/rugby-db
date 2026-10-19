@@ -11,7 +11,7 @@ draft: false
 
 ## URC：新加入（88件）
 
-2026年9月にURCの所属選手データで新たな所属先が確認された選手は88名。チーム別で最も多かったのはエミレーツ・ライオンズ（13名）、ゼブレ・パルマ（11名）、ハリウッドベッツ・シャークス（10名）。前所属は各選手の経歴データに基づく。
+2026年9月にURCの所属選手データで新たな所属先が確認された選手は88名。チーム別で最も多かったのは[エミレーツ・ライオンズ](/teams/urc/emirates-lions/)（13名）、[ゼブレ・パルマ](/teams/urc/zebre-parma/)（11名）、[ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks/)（10名）。前所属は各選手の経歴データに基づく。
 
 ### [エミレーツ・ライオンズ](/teams/urc/emirates-lions/)（13名）
 
@@ -73,7 +73,7 @@ draft: false
 - [Chay MULLINS](/teams/urc/ulster-rugby/#p-chay-mullins)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入（前所属: Connacht Rugby）
 - [Daniel HAWKSHAW](/teams/urc/ulster-rugby/#p-daniel-hawkshaw)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入（前所属: Clontarf Rugby）
 - [Eduardo BELLO](/teams/urc/ulster-rugby/#p-eduardo-bello)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入（前所属: Newcastle）
-- [Eli SNYMAN](/teams/urc/ulster-rugby/#p-eli-snyman)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入（前所属: Benetton Rugby Trévise）
+- [Eli SNYMAN](/teams/urc/ulster-rugby/#p-eli-snyman)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入（前所属: Benetton Rugby [Trévise](/teams/urc/benetton-rugby-trevise/)）
 - [Jamie BENSON](/teams/urc/ulster-rugby/#p-jamie-benson)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入（前所属: Harlequins）
 - [Keynan KNOX](/teams/urc/ulster-rugby/#p-keynan-knox)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入（前所属: USON Nevers Rugby）
 - [Mahon RONAN](/teams/urc/ulster-rugby/#p-mahon-ronan)が[アルスター・ラグビー](/teams/urc/ulster-rugby/)に加入（前所属: Leinster Rugby）
@@ -148,7 +148,7 @@ draft: false
 
 ## プレミアシップ：新加入（4件）
 
-2026年9月にプレミアシップの所属選手データで新たな所属先が確認された選手は4名。チーム別で最も多かったのはハーレクインズ（2名）。前所属は各選手の経歴データに基づく。
+2026年9月にプレミアシップの所属選手データで新たな所属先が確認された選手は4名。チーム別で最も多かったのは[ハーレクインズ](/teams/premiership/harlequins/)（2名）。前所属は各選手の経歴データに基づく。
 
 ### [ハーレクインズ](/teams/premiership/harlequins/)（2名）
 

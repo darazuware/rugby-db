@@ -28,7 +28,7 @@ noindex: true
 | グロスター | キングスホルム（グロスター） | 1873年 | 0回 |
 | [ハーレクインズ](/teams/premiership/harlequins/) | トゥイッケナム・ストゥープ（ロンドン） | 1866年 | 2回 |
 | [レスター・タイガーズ](/teams/premiership/leicester-tigers/) | ウェルフォード・ロード（レスター） | 1880年 | 11回 |
-| ニューカッスル・レッドブルズ（旧ファルコンズ） | キングストン・パーク（ニューカッスル） | 1877年 | 1回 |
+| [ニューカッスル・レッドブルズ](/teams/premiership/newcastle-red-bulls/)（旧ファルコンズ） | キングストン・パーク（ニューカッスル） | 1877年 | 1回 |
 | [ノーサンプトン・セインツ](/teams/premiership/northampton-saints/) | フランクリンズ・ガーデンズ（ノーサンプトン） | 1880年 | 2回 |
 | [セール・シャークス](/teams/premiership/sale-sharks/) | コーパック・スタジアム（サルフォード） | 1861年 | 1回 |
 | [サラセンズ](/teams/premiership/saracens/) | StoneXスタジアム（ロンドン） | 1876年 | 6回 |

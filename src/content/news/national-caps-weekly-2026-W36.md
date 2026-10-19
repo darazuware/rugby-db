@@ -10,9 +10,9 @@ source_diff: "2026-08-31_national.json"
 
 2026-W36に代表キャップ数の更新が確認された選手は9名（代表の選手データに基づく）。
 
-- [Agustín MOYANO](/national-teams/argentina/#p-agustin-moyano): アルゼンチン代表 10→11キャップ
-- [Charlie CALE](/national-teams/australia/#p-charlie-cale): オーストラリア代表 4→5キャップ
-- [Ethan HOOKER](/national-teams/south-africa/#p-ethan-hooker): 南アフリカ代表 10→11キャップ
+- [Agustín MOYANO](/national-teams/argentina/#p-agustin-moyano): [アルゼンチン代表](/national-teams/argentina/) 10→11キャップ
+- [Charlie CALE](/national-teams/australia/#p-charlie-cale): [オーストラリア代表](/national-teams/australia/) 4→5キャップ
+- [Ethan HOOKER](/national-teams/south-africa/#p-ethan-hooker): [南アフリカ代表](/national-teams/south-africa/) 10→11キャップ
 - [Francisco MORENO](/national-teams/argentina/#p-francisco-moreno): アルゼンチン代表 1→2キャップ
 - [Jeremy WILLIAMS](/national-teams/australia/#p-jeremy-williams): オーストラリア代表 30→31キャップ
 - [Jesse KRIEL](/national-teams/south-africa/#p-jesse-kriel): 南アフリカ代表 91→92キャップ

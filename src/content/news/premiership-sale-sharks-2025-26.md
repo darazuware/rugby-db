@@ -27,7 +27,7 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "セール・シ�
 | George FORD | ジョージ・フォード | フライハーフ | [イングランド代表](/national-teams/england/) | 108 |
 | Tom CURRY | トム・カリー | フランカー | [イングランド代表](/national-teams/england/) | 71 |
 | Luke COWAN-DICKIE | ルーク・コーワン=ディッキー | フッカー | [イングランド代表](/national-teams/england/) | 61 |
-| Ben CURRY | ベン・カリー | フランカー | イングランド代表 | 14 |
+| Ben CURRY | ベン・カリー | フランカー | [イングランド代表](/national-teams/england/) | 14 |
 | Tom ROEBUCK | トム・ローバック | ウィング | イングランド代表 | 12 |
 | Bevan RODD | ベヴァン・ロッド | プロップ | イングランド代表 | 10 |
 | Raffi QUIRKE | ラフィ・クワーク | スクラムハーフ | イングランド代表 | 2 |

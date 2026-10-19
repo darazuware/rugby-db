@@ -10,7 +10,7 @@ draft: false
 
 ## リーグワン：新加入（40件）
 
-2026年8月に新シーズンに向けた加入が確認された選手は40名。チーム別で最も多かったのは横浜キヤノンイーグルス（7名）、東芝ブレイブルーパス武蔵（6名）、静岡ブルーレヴズ（5名）。
+2026年8月に新シーズンに向けた加入が確認された選手は40名。チーム別で最も多かったのは[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（7名）、[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)（6名）、[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（5名）。
 
 - [アキ・トゥイバイララ](/teams/league-one/shizuoka-blue-revs/#p-aki-tuivailala)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。
 - [アントニオ・シャルフーン](/players/antonio-shalfoon/)が[静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/)（リーグワン）に加入した。
@@ -28,7 +28,7 @@ draft: false
 - [ジェームス・ロウ](/players/james-lowe/)が[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/)（リーグワン）に加入した。
 - [ジョナ・ロウ](/players/jonah-lowe/)が[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
 - [ジョセフ・ギャビガン](/teams/league-one/toshiba-brave-lupus-tokyo/#p-joseph-gavigan)が[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)（リーグワン）に加入した。
-- [小倉 順平](/players/jumpei-ogura/)が栃木ホンダヒート（リーグワン）に加入した。
+- [小倉 順平](/players/jumpei-ogura/)が[栃木ホンダヒート](/teams/league-one/tochigi-honda-heat/)（リーグワン）に加入した。
 - [安藤 啓太](/players/keita-ando/)が[三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/)（リーグワン）に加入した。
 - [俵 啓斗](/teams/league-one/yokohama-canon-eagles/#p-keito-tawara)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
 - [キーラン・ヴァンスターダン](/teams/league-one/kubota-spears-funabashi-tokyo-bay/#p-keran-van-staden)が[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)（リーグワン）に加入した。
@@ -63,7 +63,7 @@ draft: false
 
 ## 注目移籍・発表
 
-### 濱野隼大、コベルコ神戸スティーラーズを離れ三菱重工相模原ダイナボアーズへ移籍
+### [濱野隼大](/players/junta-hamano-483951/)、[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)を離れ[三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/)へ移籍
 
 ### [濱野隼大](/players/junta-hamano-483951/)、王者神戸から相模原へ
 
@@ -73,7 +73,7 @@ WTB/CTBの[濱野隼大](/players/junta-hamano-483951/)（2001年5月2日生、1
 
 移籍後の詳しい戦力構想は[三菱重工相模原ダイナボアーズの新加入選手発表記事](/news/league-one-2026-27-new-signings/)で紹介している。
 
-### 高城勝一、東芝ブレイブルーパス武蔵を離れ三菱重工相模原ダイナボアーズへ移籍
+### [高城勝一](/players/shoichi-takagi-484372/)、東芝ブレイブルーパス武蔵を離れ三菱重工[相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/)へ移籍
 
 ### [高城勝一](/players/shoichi-takagi-484372/)、[東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/)から相模原へ
 
@@ -83,7 +83,7 @@ WTB/CTBの[濱野隼大](/players/junta-hamano-483951/)（2001年5月2日生、1
 
 移籍後の詳しい戦力構想は[三菱重工相模原ダイナボアーズの新加入選手発表記事](/news/league-one-2026-27-new-signings/)で紹介している。
 
-### 齋藤直人、スタッド・トゥールーザンを離れ日本へ。2026-27シーズンはサンゴリアス復帰
+### [齋藤直人](/players/naoto-saito/)、スタッド・トゥールーザンを離れ日本へ。2026-27シーズンはサンゴリアス復帰
 
 ### [齋藤直人](/players/naoto-saito/)、[トゥールーズ](/teams/top14/toulouse/)での2年間を終え日本へ
 

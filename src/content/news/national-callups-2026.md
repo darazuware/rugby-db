@@ -8,7 +8,7 @@ source_diff: ""
 draft: false
 ---
 
-2026年に発表された男子日本代表の招集・合宿メンバーを、新しい発表から順にまとめた（4件）。最新の発表は所属・キャップ数付きで全メンバーを、それ以前の発表はメンバー名を載せている。各選手名のリンクから選手ページに進める。
+2026年に発表された男子[日本代表](/national-teams/japan/)の招集・合宿メンバーを、新しい発表から順にまとめた（4件）。最新の発表は所属・キャップ数付きで全メンバーを、それ以前の発表はメンバー名を載せている。各選手名のリンクから選手ページに進める。
 
 <!-- callup:54139 2026-08-25 -->
 ## 男子日本代表 宮崎（大阪）合宿参加メンバー（34名）
@@ -153,11 +153,11 @@ draft: false
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DbI0VXhD0Uk/" data-instgrm-version="14" style="max-width:540px;width:100%;margin:1.5rem auto;"></blockquote>
 
 **前回招集から新たに選出**
-[祝原 涼介](/players/ryosuke-iwaihara-484849/)、佐藤 健次、[稲場 巧](/players/takumi-inaba-510660/)、[ルアン・ボタ](/players/jrfu_callup_ruan-botha/)、[武内 慎](/players/jrfu_callup_shin-takeuchi/)、[福田 健太](/players/kenta-fukuda-485714/)、[藤原 忍](/players/shinobu-fujiwara-485500/)、[廣瀬 雄也](/players/yuya-hirose-483785/)、植田 和磨、[長田 智希](/players/tomoki-osada-484045/)、[サム・グリーン](/players/sam-greene-484173/)
+[祝原 涼介](/players/ryosuke-iwaihara-484849/)、[佐藤 健次](/players/kenji-sato-484033/)、[稲場 巧](/players/takumi-inaba-510660/)、[ルアン・ボタ](/players/jrfu_callup_ruan-botha/)、[武内 慎](/players/jrfu_callup_shin-takeuchi/)、[福田 健太](/players/kenta-fukuda-485714/)、[藤原 忍](/players/shinobu-fujiwara-485500/)、[廣瀬 雄也](/players/yuya-hirose-483785/)、[植田 和磨](/players/kazuma-ueda-483933/)、[長田 智希](/players/tomoki-osada-484045/)、[サム・グリーン](/players/sam-greene-484173/)
 
 **その後の追加選出**（日本ラグビーフットボール協会の更新発表分）
 - 加藤 一希（FW / [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) / 0キャップ）
-- 古畑 翔（FW / [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 1キャップ）
+- [古畑 翔](/players/sho-furuhata-484058/)（FW / [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) / 1キャップ）
 - 木村 星南（FW / [東芝ブレイブルーパス武蔵](/teams/league-one/toshiba-brave-lupus-tokyo/) / 3キャップ）
 - 武藤 ゆらぎ（BK / [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/) / 0キャップ）
 
@@ -177,8 +177,8 @@ draft: false
 [池田 悠希](/players/yuki-ikeda-484880/)
 
 **その後の追加選出**（日本ラグビーフットボール協会の更新発表分）
-- 稲場 巧（FW / [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/) / 0キャップ）
-- サム・グリーン（BK / 静岡ブルーレブズ / 7キャップ）
+- [稲場 巧](/players/takumi-inaba-484154/)（FW / [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs/) / 0キャップ）
+- [サム・グリーン](/players/sam-greene-484173/)（BK / 静岡ブルーレブズ / 7キャップ）
 
 <!-- callup:53968 2026-08-07 -->
 ## （8/6更新）男子日本代表 宮崎合宿 参加メンバー（35名）
@@ -211,4 +211,4 @@ draft: false
 **BK（バックス）**: [上村 樹輝](/players/itsuki-kamimura-483934/)、[齋藤 直人](/players/naoto-saito/)、[渡邊 晴斗](/players/haruto-watanabe-506359/)、[伊藤 龍之介](/players/ryunosuke-ito-497504/)、[平 翔太](/players/shota-taira-506503/)、[サミソニ・トゥア](/players/samisoni-tua-483497/)、[ディラン・ライリー](/players/dylan-riley-484057/)、[石田 吉平](/players/kippei-ishida-484853/)、[植田 和磨](/players/kazuma-ueda-483933/)、[木田 晴斗](/players/jrfu_callup_haruto-kida/)、[イノケ・ブルア](/players/inoke-burua-506369/)、[メイン 平](/players/taira-main-484885/)、[上ノ坊 駿介](/players/shunsuke-uenobo-493618/)、[松永 拓朗](/players/takuro-matsunaga-484365/)、[矢崎 由高](/players/univ-早稲田大学-矢崎由高/)
 
 **その後の追加選出**（日本ラグビーフットボール協会の更新発表分）
-- 池田 悠希（BK / [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo/) / 2キャップ）
+- [池田 悠希](/players/yuki-ikeda-484880/)（BK / [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo/) / 2キャップ）

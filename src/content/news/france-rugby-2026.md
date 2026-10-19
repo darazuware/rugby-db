@@ -56,7 +56,7 @@ tags: ["フランス", "レ・ブルー", "RWC2027", "ワールドカップ2027"
 |:---|:---|:---|:---|
 | Antoine Dupont | **[アントワーヌ・デュポン](/teams/top14/toulouse/#p-antoine-dupont)**（主将） | SH | [トゥールーズ](/teams/top14/toulouse/) |
 | Romain Ntamack | **[ロマン・ンタマック](/teams/top14/toulouse/#p-romain-ntamack)** | SO | [トゥールーズ](/teams/top14/toulouse/) |
-| Thomas Ramos | **[トマ・ラモス](/teams/top14/toulouse/#p-thomas-ramos)** | FB | トゥールーズ |
+| Thomas Ramos | **[トマ・ラモス](/teams/top14/toulouse/#p-thomas-ramos)** | FB | [トゥールーズ](/teams/top14/toulouse/) |
 | Damian Penaud | **[ダミアン・プノー](/teams/top14/bordeaux/#p-damian-penaud)** | WTB | [ボルドー・ベグル](/teams/top14/bordeaux/) |
 | Matthieu Jalibert | **[マチュー・ジャリベール](/teams/top14/bordeaux/#p-matthieu-jalibert)** | SO | [ボルドー・ベグル](/teams/top14/bordeaux/) |
 | Gaël Fickou | **[ガエル・フィクー](/teams/top14/toulon/#p-gael-fickou)** | CTB | [ラシン92](/teams/top14/racing-92/) |
@@ -69,7 +69,7 @@ tags: ["フランス", "レ・ブルー", "RWC2027", "ワールドカップ2027"
 
 [フランス代表](/national-teams/france/)のもう一つの特徴が、**所属クラブの徹底した国内集中**です。
 
-RUGBY PICKSの名鑑データで現役[フランス代表](/national-teams/france/)を集計すると、**63人全員が国内のトップ14**でプレーしていました。1人の例外もありません。海外リーグでプレーするフランス代表は、事実上ゼロです。
+RUGBY PICKSの名鑑データで現役[フランス代表](/national-teams/france/)を集計すると、**63人全員が国内のトップ14**でプレーしていました。1人の例外もありません。海外リーグでプレーする[フランス代表](/national-teams/france/)は、事実上ゼロです。
 
 理由は明快で、**トップ14が世界一の資金力を持つリーグだから**。世界中のスター選手がフランスに集まる時代に、フランス人がわざわざ国外に出る理由はありません。
 

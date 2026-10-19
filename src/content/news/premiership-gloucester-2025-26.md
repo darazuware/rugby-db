@@ -30,7 +30,7 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "グロスター"]
 | Jack SINGLETON | ジャック・シングルトン | フッカー | [イングランド代表](/national-teams/england/) | 4 |
 | Josh HATHAWAY | ジョシュ・ハサウェイ | フルバック | [ウェールズ代表](/national-teams/wales/) | 1 |
 | Max LLEWELLYN | マックス・ルウェリン | センター | [ウェールズ代表](/national-teams/wales/) | 13 |
-| Freddie THOMAS | フレディ・トーマス | フランカー | ウェールズ代表 | 8 |
+| Freddie THOMAS | フレディ・トーマス | フランカー | [ウェールズ代表](/national-teams/wales/) | 8 |
 
 ## その他在籍選手（2025-26シーズン）
 

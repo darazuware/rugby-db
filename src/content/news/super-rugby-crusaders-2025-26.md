@@ -26,7 +26,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "クルセイ�
 | Fletcher NEWELL | フレッチャー・ニュエル | プロップ | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Tamaiti WILLIAMS | タマイティ・ウィリアムズ | プロップ | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Codie TAYLOR | コーディ・テイラー | フッカー | [ニュージーランド代表](/national-teams/new-zealand/) | 112 |
-| Cullen GRACE | カレン・グレース | ロック | ニュージーランド代表 | — |
+| Cullen GRACE | カレン・グレース | ロック | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Scott BARRETT | スコット・バレット | ロック | ニュージーランド代表 | 90 |
 | Christian LIO-WILLIE | クリスチャン・リオ・ウィリー | フランカー/No8 | ニュージーランド代表 | — |
 | Ethan BLACKADDER | イーサン・ブラックアダー | フランカー/No8 | ニュージーランド代表 | 15 |

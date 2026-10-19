@@ -6,7 +6,7 @@ category: "COLUMN"
 tags: ["リーグワン", "2025-26シーズン", "順位表", "ワイルドナイツ", "スピアーズ", "近鉄ライナーズ", "スカイアクティブズ広島", "プレーオフ", "優勝予想"]
 ---
 
-> **【追記 2026-07-20】** シーズンは既に終了し、[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)がレギュラーシーズンを勝点75の1位（2位・[埼玉ワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/)と勝点1差）で終え、プレーオフ決勝でクボタスピアーズ船橋・東京ベイを22-13で破って初優勝となりました。詳細は[優勝速報記事](/news/league-one-2025-26-kobe-champions)をご覧ください。本記事は第12節終了時点の戦況分析です。
+> **【追記 2026-07-20】** シーズンは既に終了し、[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)がレギュラーシーズンを勝点75の1位（2位・[埼玉ワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/)と勝点1差）で終え、プレーオフ決勝で[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)を22-13で破って初優勝となりました。詳細は[優勝速報記事](/news/league-one-2025-26-kobe-champions)をご覧ください。本記事は第12節終了時点の戦況分析です。
 
 ## シーズンも後半戦へ。見えてきた「本物」の力
 

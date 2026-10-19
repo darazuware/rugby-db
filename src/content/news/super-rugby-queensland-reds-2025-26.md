@@ -27,7 +27,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "クイーン�
 | Aidan ROSS | エイダン・ロス | プロップ | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Zane NONGGORR | ゼイン・ノングガー | プロップ | [オーストラリア代表](/national-teams/australia/) | 20 |
 | Matt FAESSLER | マット・フェスラー | フッカー | [オーストラリア代表](/national-teams/australia/) | — |
-| Lukhan SALAKAIA-LOTO | ルカン・サラカイア・ロト | ロック | オーストラリア代表 | 48 |
+| Lukhan SALAKAIA-LOTO | ルカン・サラカイア・ロト | ロック | [オーストラリア代表](/national-teams/australia/) | 48 |
 | Fraser MCREIGHT | フレイザー・マクライト | フランカー/No8 | オーストラリア代表 | 47 |
 | Harry WILSON | ハリー・ウィルソン | フランカー/No8 | オーストラリア代表 | — |
 | Tate MCDERMOTT | テイト・マクダーモット | スクラムハーフ | オーストラリア代表 | 56 |

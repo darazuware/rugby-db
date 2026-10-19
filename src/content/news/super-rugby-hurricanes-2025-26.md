@@ -27,7 +27,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "ハリケー�
 | Pasilio TOSI | パシリオ・トシ | プロップ | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Asafo AUMUA | アサフォ・アウムア | フッカー | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Warner DEARNS | ウォーナー・ディアンズ | ロック | [日本代表](/national-teams/japan/) | 37 |
-| Du'Plessis KIRIFI | デュプレシス・キリフィ | フランカー/No8 | ニュージーランド代表 | — |
+| Du'Plessis KIRIFI | デュプレシス・キリフィ | フランカー/No8 | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Brad SHIELDS | ブラッド・シールズ | フランカー/No8 | [イングランド代表](/national-teams/england/) | — |
 | Peter LAKAI | ピーター・ラカイ | フランカー/No8 | ニュージーランド代表 | — |
 | Ere ENARI | エレ・エナリ | スクラムハーフ | [サモア代表](/national-teams/samoa/) | 11 |

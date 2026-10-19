@@ -28,13 +28,13 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "モアナパ�
 | Sam MOLI | サム・モリ | フッカー | [トンガ代表](/national-teams/tonga/) | 25 |
 | Miracle FAI'ILAGI | ミラクル・ファイラギ | フランカー/No8 | [サモア代表](/national-teams/samoa/) | 9 |
 | Semisi PAEA | セミシ・パエア | フランカー/No8 | [トンガ代表](/national-teams/tonga/) | 13 |
-| Tupou MA'AFU-AFUNGIA | トゥポウ・マアフ・アフンギア | フランカー/No8 | トンガ代表 | — |
+| Tupou MA'AFU-AFUNGIA | トゥポウ・マアフ・アフンギア | フランカー/No8 | [トンガ代表](/national-teams/tonga/) | — |
 | Augustine PULU | オーガスティン・プル | スクラムハーフ | トンガ代表 | 10 |
 | Melani MATAVAO | メラニ・マタバオ | スクラムハーフ | [サモア代表](/national-teams/samoa/) | — |
 | Jonathan TAUMATEINE | ジョナサン・タウマテイン | スクラムハーフ | [サモア代表](/national-teams/samoa/) | — |
 | Pat PELLEGRINI | パット・ペレグリーニ | スタンドオフ | [トンガ代表](/national-teams/tonga/) | — |
 | Julian SAVEA | ジュリアン・サベア | センター | [ニュージーランド代表](/national-teams/new-zealand/) | — |
-| Ngani LAUMAPE | ンガニ・ラウマペ | センター | ニュージーランド代表 | — |
+| Ngani LAUMAPE | ンガニ・ラウマペ | センター | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 
 ## その他在籍選手（2025-26シーズン）
 

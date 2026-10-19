@@ -28,9 +28,9 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "バース"]
 | Ollie LAWRENCE | オリー・ローレンス | センター | [イングランド代表](/national-teams/england/) | 37 |
 | Will STUART | ウィル・スチュアート | プロップ | [イングランド代表](/national-teams/england/) | 53 |
 | Charlie EWELS | チャーリー・エウェルズ | ロック | [イングランド代表](/national-teams/england/) | 35 |
-| Sam UNDERHILL | サム・アンダーヒル | フランカー | イングランド代表 | 50 |
+| Sam UNDERHILL | サム・アンダーヒル | フランカー | [イングランド代表](/national-teams/england/) | 50 |
 | Chris HARRIS | クリス・ハリス | センター | [スコットランド代表](/national-teams/scotland/) | 46 |
-| Cameron REDPATH | キャメロン・レッドパス | センター | スコットランド代表 | 15 |
+| Cameron REDPATH | キャメロン・レッドパス | センター | [スコットランド代表](/national-teams/scotland/) | 15 |
 | Josh BAYLISS | ジョシュ・ベイリス | フランカー | スコットランド代表 | 18 |
 | Joe COKANASIGA | ジョー・コカナシガ | ウィング | イングランド代表 | 16 |
 | Henry ARUNDELL | ヘンリー・アランデル | フルバック | イングランド代表 | 13 |

@@ -44,7 +44,7 @@ draft: false
 - [JJ SCHEEPERS](/teams/premiership/sale-sharks/#p-jj-scheepers)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入（前所属: Pumas）
 - [Joe JENKINS](/teams/premiership/leicester-tigers/#p-joe-jenkins)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入（前所属: Bristol Bears）
 - [Joe JOYCE](/teams/premiership/gloucester-rugby/#p-joe-joyce)が[グロスター・ラグビー](/teams/premiership/gloucester-rugby/)に加入（前所属: Connacht Rugby）
-- [Joe MARCHANT（ジョー・マーチャント）](/teams/premiership/sale-sharks/#p-joe-marchant)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入（前所属: Stade Français Paris Rugby）
+- [Joe MARCHANT（ジョー・マーチャント）](/teams/premiership/sale-sharks/#p-joe-marchant)が[セール・シャークス](/teams/premiership/sale-sharks/)に加入（前所属: [Stade Français](/teams/top14/paris/) Paris Rugby）
 - [Joel SCLAVI（ジョエル・スクラヴィ）](/teams/premiership/leicester-tigers/#p-joel-sclavi)が[レスター・タイガーズ](/teams/premiership/leicester-tigers/)に加入（前所属: Stade Rochelais）
 - [Jordan ELS](/teams/premiership/northampton-saints/#p-jordan-els)が[ノーサンプトン・セインツ](/teams/premiership/northampton-saints/)に加入（前所属: Harlequins）
 - [Josh CAULFIELD](/teams/premiership/bristol-bears/#p-josh-caulfield)が[ブリストル・ベアーズ](/teams/premiership/bristol-bears/)に加入（前所属: Ealing Trailfinders）

@@ -31,7 +31,7 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "サラセンズ"]
 | Eroni MAWI | エロニ・マウィ | プロップ | [フィジー代表](/national-teams/fiji/) | 50 |
 | Max MALINS | マックス・マリンズ | ウィング | [イングランド代表](/national-teams/england/) | 22 |
 | Lucio CINTI | ルシオ・チンティ | センター | [アルゼンチン代表](/national-teams/argentina/) | 39 |
-| Nick ISIEKWE | ニック・イシェクウェ | ロック | イングランド代表 | 15 |
+| Nick ISIEKWE | ニック・イシェクウェ | ロック | [イングランド代表](/national-teams/england/) | 15 |
 | Theo MCFARLAND | テオ・マクファーランド | フランカー | [サモア代表](/national-teams/samoa/) | 19 |
 | Theo DAN | テオ・ダン | フッカー | イングランド代表 | 20 |
 | Alex LOZOWSKI | アレックス・ロゾウスキー | センター | イングランド代表 | 5 |

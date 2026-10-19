@@ -27,7 +27,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "ACTブラン�
 | James SLIPPER | ジェームズ・スリッパー | プロップ | [オーストラリア代表](/national-teams/australia/) | 154 |
 | Blake SCHOUPP | ブレイク・スコップ | プロップ | [オーストラリア代表](/national-teams/australia/) | — |
 | Allan ALAALATOA | アラン・アラアラトア | プロップ | [オーストラリア代表](/national-teams/australia/) | 94 |
-| Nick FROST | ニック・フロスト | ロック | オーストラリア代表 | — |
+| Nick FROST | ニック・フロスト | ロック | [オーストラリア代表](/national-teams/australia/) | — |
 | Rob VALETINI | ロブ・バレティーニ | フランカー/No8 | オーストラリア代表 | 69 |
 | Ryan LONERGAN | ライアン・ロナーガン | スクラムハーフ | オーストラリア代表 | — |
 | Tane EDMED | タネ・エドメッド | スタンドオフ | オーストラリア代表 | — |

@@ -10,12 +10,12 @@ source_diff: "2026-09-28_urc.json"
 
 2026-W40に代表キャップ数の更新が確認された選手は22名（URCの選手データに基づく）。
 
-- [Akker VAN DER MERWE](/teams/urc/vodacom-bulls/#p-armand--van-der-merwe): 南アフリカ代表 2→3キャップ
-- [Calvin NASH](/teams/urc/munster-rugby/#p-calvin-nash): アイルランド代表 11→12キャップ
+- [Akker VAN DER MERWE](/teams/urc/vodacom-bulls/#p-armand--van-der-merwe): [南アフリカ代表](/national-teams/south-africa/) 2→3キャップ
+- [Calvin NASH](/teams/urc/munster-rugby/#p-calvin-nash): [アイルランド代表](/national-teams/ireland/) 11→12キャップ
 - [Ciarán FRAWLEY](/teams/urc/connacht-rugby/#p-ciaran-frawley): アイルランド代表 14→15キャップ
-- [David ODIASE](/teams/urc/zebre-parma/#p-david-odiase): イタリア代表 5→6キャップ
-- [Evan LLOYD](/teams/urc/vodacom-bulls/#p-evan-lloyd-): ウェールズ代表 6→8キャップ
-- [Freddy DOUGLAS](/teams/urc/edinburgh-rugby/#p-freddy-douglas): スコットランド代表 2→3キャップ
+- [David ODIASE](/teams/urc/zebre-parma/#p-david-odiase): [イタリア代表](/national-teams/italy/) 5→6キャップ
+- [Evan LLOYD](/teams/urc/vodacom-bulls/#p-evan-lloyd-): [ウェールズ代表](/national-teams/wales/) 6→8キャップ
+- [Freddy DOUGLAS](/teams/urc/edinburgh-rugby/#p-freddy-douglas): [スコットランド代表](/national-teams/scotland/) 2→3キャップ
 - [Glen YOUNG](/teams/urc/edinburgh-rugby/#p-glen-young): スコットランド代表 3→4キャップ
 - [Hame FAIVA](/teams/premiership/newcastle-red-bulls/#p-hame-faiva): イタリア代表 11→12キャップ
 - [Harri O'CONNOR](/teams/urc/scarlets/#p-harri-o-connor): ウェールズ代表 8→9キャップ

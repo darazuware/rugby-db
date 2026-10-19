@@ -12,7 +12,7 @@ tags: ["リーグワン", "コベルコ神戸スティーラーズ", "優勝", "
 
 シーズン最終盤まで熾烈なデッドヒートを繰り広げた**コベルコ[神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)**と**[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/)**。両者ともにレギュラーシーズンで「16勝2敗」という驚異的な成績を残す中、レギュラーシーズン1位を分けたのはボーナスポイントの積み重ねによる、わずか**「勝点1」**の差でした。
 
-レギュラーシーズン最終結果、[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)が**勝点75**、埼玉[パナソニック](/teams/league-one/saitama-panasonic-wild-knights/)ワイルドナイツが**勝点74**。そして2026年6月7日、MUFGスタジアム（国立競技場）で行われたプレーオフ決勝でクボタスピアーズ船橋・東京ベイを22-13で破りました。
+レギュラーシーズン最終結果、[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)が**勝点75**、埼玉[パナソニック](/teams/league-one/saitama-panasonic-wild-knights/)ワイルドナイツが**勝点74**。そして2026年6月7日、MUFGスタジアム（国立競技場）で行われたプレーオフ決勝で[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)を22-13で破りました。
 
 かつて日本選手権7連覇という黄金時代を築き上げ、関西ラグビーの象徴として君臨し続けた「赤の王者」が、リーグワン発足後初となる悲願の戴冠を成し遂げました。
 
@@ -72,4 +72,4 @@ tags: ["リーグワン", "コベルコ神戸スティーラーズ", "優勝", "
 **神戸の皆さん、そしてコベルコ[神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)の選手・スタッフの皆さん、本当におめでとうございます！**
 
 ---
-*コベルコ神戸スティーラーズの優勝メンバーや最新の選手スタッツは、[選手名鑑ページ](/players/)、および[コベルコ神戸スティーラーズ詳細](/teams/league-one/kobelco-kobe-steelers)からご確認いただけます。*
+*[コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/)の優勝メンバーや最新の選手スタッツは、[選手名鑑ページ](/players/)、および[コベルコ神戸スティーラーズ詳細](/teams/league-one/kobelco-kobe-steelers)からご確認いただけます。*

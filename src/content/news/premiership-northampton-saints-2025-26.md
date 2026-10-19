@@ -26,7 +26,7 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "ノーサンプ�
 | :--- | :--- | :--- | :--- | ---: |
 | Alex MITCHELL | アレックス・ミッチェル | スクラムハーフ | [イングランド代表](/national-teams/england/) | 32 |
 | Tommy FREEMAN | トミー・フリーマン | ウィング | [イングランド代表](/national-teams/england/) | 30 |
-| Fin SMITH | フィン・スミス | フライハーフ | イングランド代表 | 19 |
+| Fin SMITH | フィン・スミス | フライハーフ | [イングランド代表](/national-teams/england/) | 19 |
 | George FURBANK | ジョージ・ファーバンク | フルバック | イングランド代表 | 14 |
 | Alex COLES | アレックス・コールズ | ロック | イングランド代表 | 22 |
 | Ollie SLEIGHTHOLME | オリー・スレイトホルム | ウィング | イングランド代表 | 8 |
