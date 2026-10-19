@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T16:15:36+09:00",
+  "checked_at": "2026-10-20T00:14:38+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,20 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6216",
-          "title": "クラブ 三菱重工相模原ダイナボアーズ、[Alexandros]との3年目のコラボ企画は「ドロスくん」のロンT！ 2026.10.19",
-          "date": "2026-10-19",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6215",
-          "title": "クラブ マツダスカイアクティブズ広島、2026-27シーズン入団選手（追加）のお知らせ 2026.10.19",
-          "date": "2026-10-19",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -31,24 +18,12 @@
       "url": "https://www.rugby-japan.jp/news/",
       "status": "ok",
       "first_run": false,
-      "item_count": 9,
+      "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54280",
-          "title": "（10/19更新）女子セブンズ日本代表（サクラセブンズ） アジアラグビーエミレーツセブンズシリーズ 2026 スリランカ大会 2日目（最終日）試合結果とコメントのお知らせ 2026.10.19 （月） 女子セブンズ日本代表 女子 セブンズ ARE7s",
+          "url": "https://www.rugby-japan.jp/news/54282",
+          "title": "女子日本代表 熊谷合宿 参加メンバーのお知らせ 2026.10.19 （月） 15人制女子日本代表 女子",
           "date": "2026-10-19",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54272",
-          "title": "女子ラグビー認知度調査（2026年度）実施のお知らせ 2026.10.19 （月） 15人制女子日本代表 女子 女子セブンズ",
-          "date": "2026-10-19",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54276",
-          "title": "男子セブンズ日本代表 アジアラグビーエミレーツセブンズシリーズ2026 スリランカ大会 2日目試合結果とコメントのお知らせ 2026.10.18 （日） 男子セブンズ日本代表 セブンズ ARESS2026 アジアラグビーエミレーツセブンズシリーズ2026 男子 男子セブンズ",
-          "date": "2026-10-18",
           "category": "squad"
         }
       ],
@@ -67,30 +42,9 @@
   ],
   "highlights": [
     {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6215",
-      "title": "クラブ マツダスカイアクティブズ広島、2026-27シーズン入団選手（追加）のお知らせ 2026.10.19",
-      "date": "2026-10-19",
-      "category": "roster"
-    },
-    {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54276",
-      "title": "男子セブンズ日本代表 アジアラグビーエミレーツセブンズシリーズ2026 スリランカ大会 2日目試合結果とコメントのお知らせ 2026.10.18 （日） 男子セブンズ日本代表 セブンズ ARESS2026 アジアラグビーエミレーツセブンズシリーズ2026 男子 男子セブンズ",
-      "date": "2026-10-18",
-      "category": "squad"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54280",
-      "title": "（10/19更新）女子セブンズ日本代表（サクラセブンズ） アジアラグビーエミレーツセブンズシリーズ 2026 スリランカ大会 2日目（最終日）試合結果とコメントのお知らせ 2026.10.19 （月） 女子セブンズ日本代表 女子 セブンズ ARE7s",
-      "date": "2026-10-19",
-      "category": "squad"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54272",
-      "title": "女子ラグビー認知度調査（2026年度）実施のお知らせ 2026.10.19 （月） 15人制女子日本代表 女子 女子セブンズ",
+      "url": "https://www.rugby-japan.jp/news/54282",
+      "title": "女子日本代表 熊谷合宿 参加メンバーのお知らせ 2026.10.19 （月） 15人制女子日本代表 女子",
       "date": "2026-10-19",
       "category": "squad"
     }
