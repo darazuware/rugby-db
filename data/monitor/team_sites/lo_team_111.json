@@ -3,28 +3,33 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-10-18T23:12:43+09:00",
+  "checked_at": "2026-10-19T18:47:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "671584b7cb14a7c6"
+      "hash": "104ef179ce365496"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "4eb5e3cbb3896c2b"
+      "hash": "7662c9e5c39a9b2f"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "50f2bfc921620245"
+      "hash": "c710eb0d98e15219"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "1eb6a37db56bdef7"
+      "hash": "d3c855300ef37bb1"
     }
   ],
   "items": [
+    {
+      "url": "https://blue-sharks.jp/news/2026/10/25410/",
+      "title": "◇静岡ブルーレヴズ戦マッチレポート",
+      "date": "2026-10-25"
+    },
     {
       "url": "https://blue-sharks.jp/news/2026/10/25404/",
       "title": "10月15日 「タグラグビー教室」開催のご報告",
@@ -42,7 +47,7 @@
     },
     {
       "url": "https://blue-sharks.jp/news/2026/10/25375/",
-      "title": "１０月７日 「タグラグビー教室」開催のご報告",
+      "title": "お知らせ 2026/10/08 １０月７日 「タグラグビー教室」開催のご報告",
       "date": "2026-10-25"
     },
     {
@@ -63,7 +68,7 @@
     {
       "url": "https://blue-sharks.jp/information/",
       "title": "もっと見る",
-      "date": "2026-10-16"
+      "date": "2026-10-19"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/09/25313/",
@@ -103,11 +108,6 @@
     {
       "url": "https://blue-sharks.jp/news/2026/08/25227/",
       "title": "お知らせ 2026/08/17 ヤローズタラナキブルズ研修レポート Vol.6 (松尾磨人)",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/08/25194/",
-      "title": "お知らせ 2026/08/10 2026-27シーズン 新加入選手のお知らせ",
       "date": "2026-08-25"
     },
     {

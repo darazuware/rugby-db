@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-10-18T23:12:43+09:00",
+  "checked_at": "2026-10-19T18:47:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "c0c0581114437f98"
+      "hash": "78927dcb8ece5973"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "9402bb9e0288e827"
+      "hash": "224578b1a3a9984d"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "1a28022da4a34d01"
+      "hash": "0a18dbe81b7ee369"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1014-01/",
+      "title": "EVENT 松戸まつり 2026.10.19",
+      "date": "2026-10-19"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1016-02/",
       "title": "TICKET 第1節 12月13日(日) 九州電力キューデンヴォルテクス戦 チケット販売について 2026.10.16",

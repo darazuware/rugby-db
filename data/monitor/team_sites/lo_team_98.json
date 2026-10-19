@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-10-18T23:12:43+09:00",
+  "checked_at": "2026-10-19T18:47:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "8ef1b186b6caab00"
+      "hash": "dadfd053d6ebfdb4"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "153ee6bedbfe2fc6"
+      "hash": "6d9c45754079ed60"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3233",
+      "title": "2026.10.19[MON] HOST AREA 【ホストエリア活動】湖西市 令和8年度新規採用職員・令和9年度内定者合同研修にてタグラグビーでのチームビルディングを実施しました",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3232",
+      "title": "2026.10.19[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（10/13～10/16）",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3207",
+      "title": "2026.10.19[MON] SCHOOL 【ラグビースクール釜石遠征レポート】今年も釜石遠征へ行ってきました！",
+      "date": "2026-10-19"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3220",
       "title": "2026.10.17[SAT] HOST AREA ＜ラグビーディスカバリー supported by しずぎん＞を浜松市で開催しました",
@@ -96,21 +111,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3208",
       "title": "2026.10.4[SUN] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（9/29～10/2）",
       "date": "2026-10-04"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3203",
-      "title": "2026.10.2[FRI] HOST AREA ＜ラグビーディスカバリー supported by しずぎん＞を沼津市で開催しました",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3205",
-      "title": "2026.10.1[THU] HOST AREA 赤い羽根共同募金運動にレヴズくんが参加しました",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3201",
-      "title": "2026.10.1[THU] TICKET 大漁旗・フラッグ応援エリアを新設",
-      "date": "2026-10-01"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",

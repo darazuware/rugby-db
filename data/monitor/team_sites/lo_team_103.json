@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-18T23:12:43+09:00",
+  "checked_at": "2026-10-19T18:47:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "f80caf96ad59935d"
+      "hash": "00eaab63c477500e"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "940bb2d0ec99bd4a"
+      "hash": "e95f7199eee0b877"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/261019/",
+      "title": "【プレシーズンマッチ】10/24（土）vs 清水建設江東ブルーシャークス 観戦について",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/",
+      "title": "記事一覧",
+      "date": "2026-10-19"
+    },
     {
       "url": "https://www.bravelupus.com/game/pewgame_261017/",
       "title": "結果詳細",
@@ -45,11 +55,6 @@
     {
       "url": "https://www.bravelupus.com/news/20261016_1/",
       "title": "【新設】 【ルーパス塾 川崎校 U12/U15クラス】",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/",
-      "title": "記事一覧",
       "date": "2026-10-16"
     },
     {
@@ -221,11 +226,6 @@
       "url": "https://www.bravelupus.com/news/260723/",
       "title": "2026-27シーズン新体制、新加入スタッフのお知らせ",
       "date": "2026-07-23"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260721/",
-      "title": "8/2(日)ポップアップストアでのイベント参加選手のお知らせ",
-      "date": "2026-07-21"
     }
   ]
 }

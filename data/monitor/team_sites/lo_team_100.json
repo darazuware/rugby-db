@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-10-18T23:12:43+09:00",
+  "checked_at": "2026-10-19T18:47:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "9426fc689c948a4f"
+      "hash": "83a467161cd082d1"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "25274057e5726799"
+      "hash": "96e2170a5070ced2"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2054.html",
+      "title": "イベント 2026.10.19 「D-Rockersクラファン」第1弾 宮崎合宿の食事支援 開始のお知らせ",
+      "date": "2026-10-19"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2057.html",
       "title": "パートナー 2026.10.16 株式会社やまたけとのネイビーパートナーシップ契約締結のお知らせ",
@@ -79,7 +84,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2046.html",
-      "title": "イベント 2026.10.08 2026.10.10「わくわくハッピー本棚」との連携協定に基づく 初のブックドライブ（古本回収）実施のお知らせ",
+      "title": "2026.10.08 ニュース 2026.10.10「わくわくハッピー本棚」との連携協定に基づく 初のブックドライブ（古本回収）実施のお知らせ",
       "date": "2026-10-08"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_2014.html",
       "title": "2026.09.01 ニュース 浦安 D-Rocksファンクラブ「Club D-Rockers」2026-27 シーズン会員募集のお知らせ",
       "date": "2026-09-01"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_2011.html",
-      "title": "2026.08.31 ニュース 新たなコーポレートスローガン「一枚岩の結束で、心揺さぶる感動を創る。」を制定しました",
-      "date": "2026-08-31"
     }
   ]
 }

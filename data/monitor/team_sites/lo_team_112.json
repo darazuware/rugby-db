@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-10-18T23:12:43+09:00",
+  "checked_at": "2026-10-19T18:47:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "bde3a67614ab0b05"
+      "hash": "1a6c37b2575cd2d2"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "e91b866bf61b6bca"
+      "hash": "d68197da9883feb9"
     }
   ],
   "items": [
+    {
+      "url": "https://shuttles-aichi.com/news/2026-10-17-sat-japan-rugby-league-one-rising-2026-vs-yakultrevins-toda-photo-gallery/",
+      "title": "フォトギャラリー 26年10月19日 2026/10/17(土)JAPAN RUGBY LEAGUE ONE RISING 2026 vsヤクルトレビンズ戸田 フォトギャラリー",
+      "date": "2026-10-17"
+    },
     {
       "url": "https://shuttles-aichi.com/news/2026-10-17-sat-japan-rugby-league-one-rising-2026-vs-yakult-levins-toda-match-squad/",
       "title": "お知らせ 26年10月15日 2026/10/17(土) ジャパンラグビーリーグワン ライジング2026 vs ヤクルトレビンズ戸田 出場メンバー",

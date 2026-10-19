@@ -3,23 +3,33 @@
   "league": "league-one-d3",
   "name": "ヤクルトレビンズ戸田",
   "official_url": "https://www.yakult.co.jp/sports/rugby/",
-  "checked_at": "2026-10-18T23:12:43+09:00",
+  "checked_at": "2026-10-19T18:47:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.yakult.co.jp/sports/rugby/",
-      "hash": "79607b311c07cd8b"
+      "hash": "ebcc3d499992ff51"
     },
     {
       "url": "https://www.yakult.co.jp/sports/rugby/topics/",
-      "hash": "1b5b827abe5e2d08"
+      "hash": "4b8837b9fab514cf"
     }
   ],
   "items": [
     {
       "url": "https://www.yakult.co.jp/sports/rugby/result/index.html",
       "title": "大会日程",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1479",
+      "title": "＜ジャパンラグビーリーグワンライジング2026＞豊田自動織機シャトルズ愛知戦の試合結果",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.yakult.co.jp/sports/rugby/topics/",
+      "title": "MORE",
       "date": "2026-10-17"
     },
     {
@@ -30,11 +40,6 @@
     {
       "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1476",
       "title": "＜ジャパンラグビーリーグワンライジング2026＞豊田自動織機シャトルズ愛知戦メンバーについて",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/",
-      "title": "MORE",
       "date": "2026-10-15"
     },
     {
@@ -71,11 +76,6 @@
       "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1464",
       "title": "NTTジャパンラグビーリーグワン ディビジョン3 2026-27シーズンの試合日程について",
       "date": "2026-08-06"
-    },
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1462",
-      "title": "2026-27シーズン 公式ファンクラブ概要について",
-      "date": "2026-07-22"
     }
   ]
 }
