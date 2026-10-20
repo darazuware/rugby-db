@@ -1,7 +1,13 @@
 {
-  "checked_at": "2026-10-20T02:16:21+09:00",
+  "checked_at": "2026-10-20T16:05:52+09:00",
   "url": "https://league-one.jp/news/",
   "items": [
+    {
+      "url": "https://league-one.jp/news/6219",
+      "title": "クラブ 静岡ブルーレヴズ、クワッガ・スミス選手 契約終了のお知らせ 2026.10.20",
+      "date": "2026-10-20",
+      "category": null
+    },
     {
       "url": "https://league-one.jp/news/6216",
       "title": "クラブ 三菱重工相模原ダイナボアーズ、[Alexandros]との3年目のコラボ企画は「ドロスくん」のロンT！ 2026.10.19",
@@ -46,11 +52,6 @@
       "url": "https://league-one.jp/news/6205",
       "title": "クラブ 日野レッドドルフィンズ、新加入選手（2名）のお知らせ 2026.10.15",
       "date": "2026-10-15"
-    },
-    {
-      "url": "https://league-one.jp/news/6204",
-      "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 一部試合日程および会場追加決定のお知らせ 2026.10.14",
-      "date": "2026-10-14"
     }
   ]
 }
