@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-10-20T02:16:21+09:00",
+  "checked_at": "2026-10-20T18:20:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "874312bd4a7b1604"
+      "hash": "9ea4b15cfec5f61a"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "2408e448d683cacf"
+      "hash": "c80fd1764aa9741d"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,16 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35697/",
+      "title": "2026/10/20 イベント 【イベントレポート】ミスター・ラグビー メモリアルイベント タグラグビー『平尾誠二杯』に参加しました",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35676/",
+      "title": "2026/10/20 イベント 10月25日(日)「KOBE JAM 2026」でラグビー体験を実施します",
+      "date": "2026-10-20"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35645/",
       "title": "イベント コベルコ神戸スティーラーズフェスタ2026プログラム決定！ 2026/10/16",
@@ -133,11 +143,6 @@
     {
       "url": "https://www.kobesteelers.com/news/post35468/",
       "title": "2026/9/30 イベント 【レポート】9月26日(土)に神戸三宮センター街1丁目で開催された「SANNOMIYA COLLECTION 2026A/W」にブースを出展しました",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35466/",
-      "title": "2026/9/30 イベント 【選手イベント参加情報】10月3日(土)に開催される「第2回 神戸大綱引き大会」に参加します",
       "date": "2026-09-30"
     },
     {
@@ -318,11 +323,6 @@
     {
       "url": "https://www.kobesteelers.com/news/post29666/",
       "title": "2025/11/25 お知らせ 神戸三宮センター街でのチームPR活動実施について",
-      "date": "2025-11-25"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/",
-      "title": "2025/11/25 お知らせ チーム公式HPがより便利に！ニュース検索機能を追加しました",
       "date": "2025-11-25"
     }
   ]

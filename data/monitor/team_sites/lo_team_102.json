@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-10-20T02:16:21+09:00",
+  "checked_at": "2026-10-20T18:20:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "984bad7127bdc690"
+      "hash": "a7d869e7ffb9d960"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "20d9201ddf21df5a"
+      "hash": "178762181dcb6529"
     }
   ],
   "items": [
@@ -31,6 +31,11 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
       "title": "試合日程一覧",
       "date": "2026-10-31"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261020_01/",
+      "title": "チーム 2026年10月20日 2026-27シーズン ジャージデザイン決定 ニュースを見る",
+      "date": "2026-10-20"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261017/",
@@ -91,11 +96,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261005_01/",
       "title": "チケット 2026年10月06日 【大切なお知らせ】車いす席および車いす用駐車券の購入方法変更について ニュースを見る",
       "date": "2026-10-06"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261003/",
-      "title": "チーム 2026年10月03日 10月3日(土) 強化試合 3戦目 東京サンゴリアス戦 試合結果 ニュースを見る",
-      "date": "2026-10-03"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260930_01/",

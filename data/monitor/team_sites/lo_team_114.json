@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-10-20T02:16:21+09:00",
+  "checked_at": "2026-10-20T18:20:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "b8ef0eaa9ca85c22"
+      "hash": "88f7c1fac5e16cd3"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "b404ee88d271a35a"
+      "hash": "b81de151eb53a8a7"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/10/20/sep-report/",
+      "title": "2026.10.20 その他 【地域連携・普及活動】 2026 年 9月レポート",
+      "date": "2026-10-20"
+    },
     {
       "url": "https://hanazono-liners.jp/shiaiyotei-kekka/",
       "title": "試合日程を見る",
@@ -54,7 +59,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/10/10/2026-27-season-communication/",
-      "title": "2026.10.10 その他 2026-27シーズン コミュニケーションメッセージ決定のお知らせ ​",
+      "title": "2026-10-10 その他 2026-27シーズン コミュニケーションメッセージ決定のお知らせ ​",
       "date": "2026-10-10"
     },
     {
@@ -96,11 +101,6 @@
       "url": "https://hanazono-liners.jp/2026/09/30/10-3-live-pv/",
       "title": "2026-09-30 その他 10月3日(土)クボタスピアーズ船橋・東京ベイ戦 ライブ配信＆パブリックビューイング開催のお知らせ。",
       "date": "2026-09-30"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/09/28/2026-27new-player/",
-      "title": "2026-09-28 チーム情報 2026-27シーズン新加入選手（追加）のお知らせ",
-      "date": "2026-09-28"
     },
     {
       "url": "https://hanazono-liners.jp/2026/09/07/liners-fanclub-3/",

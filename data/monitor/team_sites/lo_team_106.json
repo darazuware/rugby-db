@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-10-20T02:16:21+09:00",
+  "checked_at": "2026-10-20T18:20:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "291b623a286a834e"
+      "hash": "3b3d8a591f13b6f2"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "ffa534433892aa14"
+      "hash": "53453ce8887ea3c1"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/tm2026-1",
+      "title": "2026-10-20 日程更新｜11/14(土)の練習試合（vs東芝ブレイブルーパス武蔵）は13:00キックオフ",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/kanshasai2026",
+      "title": "2026-10-20 ダイナボアーズ地域感謝祭 supported by 奥村組 11/14(土)開催決定！",
+      "date": "2026-10-20"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261019.html",
       "title": "2026-10-19 [Alexandros]×ダイナボアーズ 3年目のコラボはラガーマン「ドロスくん」のロンT！",
@@ -49,12 +59,12 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261008.html",
-      "title": "2026-10-08 15人制男子日本代表｜別府合宿参加メンバーにチャーリー・ローレンス選手が選出",
+      "title": "2026-10-08 [ チーム ] [ メディア ] 15人制男子日本代表｜別府合宿参加メンバーにチャーリー・ローレンス選手が選出",
       "date": "2026-10-08"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule#3",
-      "title": "2026-10-05 日程更新｜12/13(日)のリーグワン開幕戦・神奈川ダービーは13:40キックオフ！",
+      "title": "2026-10-05 [ イベント ] 日程更新｜12/13(日)のリーグワン開幕戦・神奈川ダービーは13:40キックオフ！",
       "date": "2026-10-05"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260723.html",
       "title": "2026-08-05 [ チーム ] 日本代表｜平翔太選手の男子日本代表網走合宿 離脱について",
       "date": "2026-08-05"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260804.html",
-      "title": "2026-08-04 [ チーム ] 竹澤正祥選手 加入のお知らせ",
-      "date": "2026-08-04"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260802.html",
-      "title": "2026-08-02 [ チーム ] [ メディア ] 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部選手・吉本選手が選出",
-      "date": "2026-08-02"
     }
   ]
 }

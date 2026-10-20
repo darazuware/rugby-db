@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-10-20T02:16:21+09:00",
+  "checked_at": "2026-10-20T18:20:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "b412c0cf91db2444"
+      "hash": "d2b49d9efd790ff5"
     }
   ],
   "items": [
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4293/",
+      "title": "2026.10.20 チケット・ファンクラブ 【試合情報・チケット】タンドラスペシャルシート販売のお知らせ",
+      "date": "2026-10-20"
+    },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4294/",
       "title": "2026.10.18 イベント 【パートナー】ヴェルブリッツパートナー交流会を実施しました",
@@ -47,11 +52,6 @@
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4289/",
       "title": "2026.10.12 イベント 【パートナー】10/25（日）CANTERBURY 名古屋店にて『一日店長イベント』開催のお知らせ",
       "date": "2026-10-12"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4288/",
-      "title": "2026.10.9 コラム 2026-27シーズン新加入選手",
-      "date": "2026-10-09"
     },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4271",

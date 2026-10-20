@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T02:16:21+09:00",
+  "checked_at": "2026-10-20T18:20:06+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -21,8 +21,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35697/",
+          "title": "2026/10/20 イベント 【イベントレポート】ミスター・ラグビー メモリアルイベント タグラグビー『平尾誠二杯』に参加しました",
+          "date": "2026-10-20",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35676/",
+          "title": "2026/10/20 イベント 10月25日(日)「KOBE JAM 2026」でラグビー体験を実施します",
+          "date": "2026-10-20",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -33,8 +49,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261020_01/",
+          "title": "チーム 2026年10月20日 2026-27シーズン ジャージデザイン決定 ニュースを見る",
+          "date": "2026-10-20",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -46,7 +72,10 @@
       "first_run": false,
       "item_count": 42,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.bravelupus.com/",
+        "https://www.bravelupus.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -57,8 +86,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4293/",
+          "title": "2026.10.20 チケット・ファンクラブ 【試合情報・チケット】タンドラスペシャルシート販売のお知らせ",
+          "date": "2026-10-20",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -81,7 +119,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/tm2026-1",
+          "title": "2026-10-20 日程更新｜11/14(土)の練習試合（vs東芝ブレイブルーパス武蔵）は13:00キックオフ",
+          "date": "2026-10-20",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/kanshasai2026",
+          "title": "2026-10-20 ダイナボアーズ地域感謝祭 supported by 奥村組 11/14(土)開催決定！",
+          "date": "2026-10-20",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -97,7 +148,9 @@
       "first_run": false,
       "item_count": 16,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/news/info/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -108,8 +161,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261020a.html",
+          "title": "2026-27シーズン 1stオーセンティックジャージー 受注販売のお知らせ",
+          "date": "2026-10-20",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -132,7 +194,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 30,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3229",
+          "title": "2026.10.20[TUE] TEAM クワッガ・スミス選手 契約終了のお知らせ",
+          "date": "2026-10-20",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -183,9 +252,19 @@
       "status": "ok",
       "first_run": false,
       "item_count": 24,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://blue-sharks.jp/news/2026/10/25424/",
+          "title": "10月17日 「ラグビー体験教室」開催のご報告",
+          "date": "2026-10-25",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://blue-sharks.jp/"
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
       ],
       "rename_signals": []
     },
@@ -227,7 +306,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 26,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/2026/10/20/sep-report/",
+          "title": "2026.10.20 その他 【地域連携・普及活動】 2026 年 9月レポート",
+          "date": "2026-10-20",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -242,8 +328,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 15,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-10-20/",
+          "title": "株式会社トランス・ウァールド・インダストリーとクラブパートナー契約を継続締結しました",
+          "date": "2026-10-20",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -268,7 +363,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 44,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261020-3/",
+          "title": "お知らせ 2026/10/20 ヴィリアミ・ヘル選手がアメリカ代表に選出されました！",
+          "date": "2026-10-20",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/20261020-2/",
+          "title": "私とウォーターガッシュ 2026/10/20 私とWATER GUSH #8 伊藤森心 FL 「自分が選んだ道をやり遂げたい」クリタへの誓いと大きな夢",
+          "date": "2026-10-20",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -284,7 +392,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -307,9 +418,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 45,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.skyactivs.com/news/2841",
+          "title": "2026.10.20[TUE] FAN CLUB 2026-27シーズン ファンクラブ会員募集開始のお知らせ",
+          "date": "2026-10-20",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://www.skyactivs.com/"
+        "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news",
+        "https://www.skyactivs.com/news/2091",
+        "https://www.skyactivs.com/news/2035",
+        "https://www.skyactivs.com/news/2001"
       ],
       "rename_signals": []
     },
@@ -334,7 +456,9 @@
       "first_run": false,
       "item_count": 11,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://leriro-fukuoka.com/"
+      ],
       "rename_signals": []
     }
   ],
@@ -356,7 +480,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54127",
+          "title": "（10/20更新）「ラグビーでつながる国際交流フェスタ2026」 in 横浜 開催のお知らせ 2026.10.20 （火） その他 普及育成",
+          "date": "2026-10-20",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -370,7 +501,15 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "クリタウォーターガッシュ昭島",
+      "url": "https://www.kurita-watergush.jp/20261020-3/",
+      "title": "お知らせ 2026/10/20 ヴィリアミ・ヘル選手がアメリカ代表に選出されました！",
+      "date": "2026-10-20",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "三重ホンダヒート: 到達できるページがない: http://www.honda-heat.jp"

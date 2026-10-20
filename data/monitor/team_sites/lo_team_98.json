@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-10-20T02:16:21+09:00",
+  "checked_at": "2026-10-20T18:20:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "38063d27fce679b4"
+      "hash": "1b03f25c563075be"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "4265856c96e3d84f"
+      "hash": "a7fd3e2d4736d020"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3229",
+      "title": "2026.10.20[TUE] TEAM クワッガ・スミス選手 契約終了のお知らせ",
+      "date": "2026-10-20"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3233",
       "title": "2026.10.19[MON] HOST AREA 【ホストエリア活動】湖西市 令和8年度新規採用職員・令和9年度内定者合同研修にてタグラグビーでのチームビルディングを実施しました",
@@ -106,11 +111,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3209",
       "title": "2026.10.6[TUE] HOST AREA 【ホストエリア活動】浜松市「三島町こども会」にてタグラグビー教室を実施しました",
       "date": "2026-10-06"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3208",
-      "title": "2026.10.4[SUN] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（9/29～10/2）",
-      "date": "2026-10-04"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",

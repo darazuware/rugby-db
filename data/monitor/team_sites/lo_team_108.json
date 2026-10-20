@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-10-20T02:16:21+09:00",
+  "checked_at": "2026-10-20T18:20:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "8af28844b89eb8b1"
+      "hash": "1b5c2551e1f465a7"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261020a.html",
+      "title": "2026-27シーズン 1stオーセンティックジャージー 受注販売のお知らせ",
+      "date": "2026-10-20"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20261019a.html",
       "title": "メールマガジン「ラム通」リニューアルおよび「Rams News」配信開始のお知らせ",
@@ -31,11 +36,6 @@
     {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261015d.html",
       "title": "「リーグワンDAZN年間視聴パス」販売開始および13か月プラン購入者限定プレゼントキャンペーンのお知らせ",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261015a.html",
-      "title": "10月17日(土) プレシーズンマッチ2026 花園近鉄ライナーズ戦 メンバーのお知らせ",
       "date": "2026-10-15"
     }
   ]

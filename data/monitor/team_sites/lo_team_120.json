@@ -3,36 +3,41 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-10-20T02:16:21+09:00",
+  "checked_at": "2026-10-20T18:20:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "5b867e4e3146c501"
+      "hash": "a64c4f4b36238c50"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "ac1a53b2499533c0"
+      "hash": "1e498393d1623119"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
-      "hash": "11810a33eeae6bf2"
+      "hash": "0f393f73ac03c747"
     },
     {
       "url": "https://www.skyactivs.com/news/2035",
-      "hash": "bb1ee92e9fa08cc6"
+      "hash": "c66a8aabc82a173c"
     },
     {
       "url": "https://www.skyactivs.com/news/2001",
-      "hash": "e696c3e5a6d7feeb"
+      "hash": "005c88405a071f9e"
     }
   ],
   "items": [
     {
       "url": "https://www.skyactivs.com/news/4910",
-      "title": "2026.10.19[MON] TEAM 2026-27シーズン入団選手（追加）のお知らせ",
-      "date": "2026-10-19"
+      "title": "2026.10.20[TUE] TEAM 2026-27シーズン入団選手（追加）のお知らせ",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/2841",
+      "title": "2026.10.20[TUE] FAN CLUB 2026-27シーズン ファンクラブ会員募集開始のお知らせ",
+      "date": "2026-10-20"
     },
     {
       "url": "https://www.skyactivs.com/news/4844",
@@ -223,11 +228,6 @@
       "url": "https://www.skyactivs.com/news/4225",
       "title": "2026.06.09[TUE] TEAM 『NTTジャパンラグビー リーグワン2025-26 アワード』 受賞者のお知らせ",
       "date": "2026-06-09"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/4217",
-      "title": "2026.06.08[MON] TEAM 『ジャパンラグビーリーグワン マスコット総選挙 2025-26』結果のお知らせ",
-      "date": "2026-06-08"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",

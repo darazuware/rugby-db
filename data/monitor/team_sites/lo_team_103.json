@@ -3,39 +3,39 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-20T02:16:21+09:00",
+  "checked_at": "2026-10-20T18:20:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "00eaab63c477500e"
+      "hash": "016182906396cba5"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "e95f7199eee0b877"
+      "hash": "c003902bbacbf57b"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/all_story/",
+      "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.206更新）",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/",
+      "title": "記事一覧",
+      "date": "2026-10-20"
+    },
     {
       "url": "https://www.bravelupus.com/news/261019/",
       "title": "【プレシーズンマッチ】10/24（土）vs 清水建設江東ブルーシャークス 観戦について",
       "date": "2026-10-19"
     },
     {
-      "url": "https://www.bravelupus.com/news/",
-      "title": "記事一覧",
-      "date": "2026-10-19"
-    },
-    {
       "url": "https://www.bravelupus.com/game/pewgame_261017/",
       "title": "結果詳細",
       "date": "2026-10-17"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/all_story/",
-      "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.206更新）",
-      "date": "2026-10-16"
     },
     {
       "url": "https://www.bravelupus.com/news/261016/",
@@ -79,7 +79,7 @@
     },
     {
       "url": "https://www.bravelupus.com/news/261009/",
-      "title": "新製品グッズ販売のお知らせ",
+      "title": "グッズ再販売のお知らせ",
       "date": "2026-10-09"
     },
     {
