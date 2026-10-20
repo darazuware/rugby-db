@@ -5,7 +5,7 @@ updatedDate: 2026-10-05
 category: "NEWS"
 tags: ["代表", "キャップ更新"]
 source_diff: "2026-09-28_national.json"
-draft: false
+draft: true
 ---
 
 2026-W40に代表キャップ数の更新が確認された選手は68名（代表の選手データに基づく）。
