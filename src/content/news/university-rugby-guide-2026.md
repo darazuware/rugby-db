@@ -169,8 +169,8 @@ Aリーグは**全7節の総当たり**で、9月13日に開幕しました。�
 <rect x="16" y="104" width="528" height="44" rx="6" fill="var(--accent-dim)" stroke="var(--border-color)"/><text x="30" y="132" font-weight="700">2回戦</text><text x="120" y="132">1回戦の勝者 ＋ 九州代表</text>
 <rect x="16" y="156" width="528" height="44" rx="6" fill="var(--accent-dim)" stroke="var(--border-color)"/><text x="30" y="184" font-weight="700">3回戦</text><text x="120" y="184">2回戦の勝者 ＋ 関東・関西の中位校</text>
 <rect x="16" y="208" width="528" height="44" rx="6" fill="var(--accent-dim)" stroke="var(--border-color)"/><text x="30" y="236" font-weight="700">準々決勝</text><text x="120" y="236">3回戦の勝者 ＋ シード4校</text>
-<rect x="16" y="260" width="528" height="44" rx="6" fill="var(--accent-dim)" stroke="var(--border-color)"/><text x="30" y="288" font-weight="700">準決勝</text><text x="120" y="288">国立競技場</text>
-<rect x="16" y="312" width="528" height="44" rx="6" fill="var(--accent-dim)" stroke="currentColor" stroke-width="2"/><text x="30" y="340" font-weight="700">決勝</text><text x="120" y="340">国立競技場</text>
+<rect x="16" y="260" width="528" height="44" rx="6" fill="var(--accent-dim)" stroke="var(--border-color)"/><text x="30" y="288" font-weight="700">準決勝</text><text x="120" y="288">準々決勝の勝者4校</text>
+<rect x="16" y="312" width="528" height="44" rx="6" fill="var(--accent-dim)" stroke="currentColor" stroke-width="2"/><text x="30" y="340" font-weight="700">決勝</text><text x="120" y="340">準決勝の勝者2校（日本一決定戦）</text>
 <text x="16" y="394" font-weight="700">シード4校（準々決勝から）</text>
 <text x="16" y="418">対抗戦1位・対抗戦2位・関西A1位・関東リーグ戦1位</text>
 <text x="16" y="448" font-size="13">同じリーグ同士は準決勝まで当たらない配置。決勝が同点なら両校優勝。</text>
