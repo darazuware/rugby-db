@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-21T15:59:01+09:00",
+  "checked_at": "2026-10-21T22:23:17+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,14 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6221",
-          "title": "クラブ JR東日本グリーンウォリアーズ東葛、2026-27シーズン新加入選手（追加）のお知らせ 2026.10.21",
-          "date": "2026-10-21",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -26,7 +19,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54287",
+          "title": "【Ticket RUGBY】緊急メンテナンスのお知らせ 2026.10.21 （水）",
+          "date": "2026-10-21",
+          "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54273",
+          "title": "（10/21更新 ）リポビタンDチャレンジカップ2026 フィジー代表来日メンバーのお知らせ 2026.10.21 （水） 15人制男子日本代表 JRFU リポビタンDチャレンジカップ2026",
+          "date": "2026-10-21",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -42,11 +48,11 @@
   ],
   "highlights": [
     {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6221",
-      "title": "クラブ JR東日本グリーンウォリアーズ東葛、2026-27シーズン新加入選手（追加）のお知らせ 2026.10.21",
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54273",
+      "title": "（10/21更新 ）リポビタンDチャレンジカップ2026 フィジー代表来日メンバーのお知らせ 2026.10.21 （水） 15人制男子日本代表 JRFU リポビタンDチャレンジカップ2026",
       "date": "2026-10-21",
-      "category": "roster"
+      "category": "squad"
     }
   ],
   "league_rename_news": [],
