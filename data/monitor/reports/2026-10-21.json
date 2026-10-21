@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-21T00:29:32+09:00",
+  "checked_at": "2026-10-21T18:17:11+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/game/index_2058.html",
+          "title": "ゲーム 2026.10.21 【メンバー発表】2026-27シーズン プレシーズンマッチ③ トヨタヴェルブリッツ戦（10月23日）",
+          "date": "2026-10-21",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -22,9 +32,7 @@
       "first_run": false,
       "item_count": 60,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kobesteelers.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -48,10 +56,7 @@
       "first_run": false,
       "item_count": 42,
       "new_items": [],
-      "changed_pages": [
-        "https://www.bravelupus.com/",
-        "https://www.bravelupus.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -63,7 +68,9 @@
       "first_run": false,
       "item_count": 10,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -113,8 +120,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261021a.html",
+          "title": "11月開催プレシーズンマッチ チケット情報のお知らせ",
+          "date": "2026-10-21",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -126,7 +142,9 @@
       "first_run": false,
       "item_count": 55,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.kubota-spears.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -137,7 +155,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 30,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3234",
+          "title": "2026.10.21[WED] HOST AREA 青いマックの日に2選手が参加しました",
+          "date": "2026-10-21",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3228",
+          "title": "2026.10.15[THU] OTHERS 取締役変更のお知らせ",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -163,9 +194,26 @@
       "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": false,
-      "item_count": 21,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 23,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1021-01/",
+          "title": "TEAM 2026-27シーズンの新加入選手（追加）のお知らせ 2026.10.21",
+          "date": "2026-10-21",
+          "category": "roster"
+        },
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1020-01/",
+          "title": "EVENT 我孫子グラウンド練習見学会 11月23日（月）開催！ 2026.10.21",
+          "date": "2026-10-21",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/",
+        "https://www.jreast.co.jp/greenwarriors/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -204,7 +252,8 @@
       "item_count": 7,
       "new_items": [],
       "changed_pages": [
-        "https://shuttles-aichi.com/"
+        "https://shuttles-aichi.com/",
+        "https://shuttles-aichi.com/news/"
       ],
       "rename_signals": []
     },
@@ -215,8 +264,33 @@
       "official_url": "https://kamaishi-seawaves.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 18,
-      "new_items": [],
+      "item_count": 19,
+      "new_items": [
+        {
+          "url": "https://kamaishi-seawaves.com/news/game/33028/",
+          "title": "試合情報 2026.10.21 2026トレーニングマッチ 第7戦／JR東日本グリーンウォリアーズ東葛戦",
+          "date": "2026-10-21",
+          "category": null
+        },
+        {
+          "url": "https://kamaishi-seawaves.com/news/game/33021/",
+          "title": "試合情報 2026.10.21 2026トレーニングマッチ 第6戦／川越狭山セコムラガッツ戦",
+          "date": "2026-10-21",
+          "category": null
+        },
+        {
+          "url": "https://kamaishi-seawaves.com/news/game/33018/",
+          "title": "試合情報 2026.10.21 2026トレーニングマッチ 第5戦／清水建設江東ブルーシャークス戦",
+          "date": "2026-10-21",
+          "category": null
+        },
+        {
+          "url": "https://kamaishi-seawaves.com/news/game/32988/",
+          "title": "試合情報 2026.10.21 2026トレーニングマッチ 第4戦／クリタウォーターガッシュ昭島戦",
+          "date": "2026-10-21",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://kamaishi-seawaves.com/",
         "https://kamaishi-seawaves.com/news/",
@@ -272,8 +346,21 @@
       "official_url": "https://www.kurita-watergush.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 44,
-      "new_items": [],
+      "item_count": 45,
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261023-wg%e6%98%ad%e5%b3%b6-vsstockman/",
+          "title": "このゲームの詳細情報はこちら",
+          "date": "2026-10-23",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/20261021-2/",
+          "title": "私とウォーターガッシュ 2026/10/21 私とWATER GUSH #9 小山田裕悟 SH 「結果で恩返しする」仕事とラグビーに全力で挑む1年目",
+          "date": "2026-10-21",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -289,7 +376,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -314,7 +404,8 @@
       "item_count": 45,
       "new_items": [],
       "changed_pages": [
-        "https://www.skyactivs.com/"
+        "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news/2091"
       ],
       "rename_signals": []
     },
@@ -363,8 +454,8 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54262",
-          "title": "（10/20更新）レポート：男子日本代表 別府合宿 2026.10.21 （水） 15人制男子日本代表",
+          "url": "https://www.rugby-japan.jp/news/54285",
+          "title": "レポート：女子日本代表候補 熊谷合宿 2026.10.21 （水） 15人制女子日本代表 女子",
           "date": "2026-10-21",
           "category": "squad"
         }
@@ -384,9 +475,16 @@
   ],
   "highlights": [
     {
+      "source": "NECグリーンロケッツ東葛",
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1021-01/",
+      "title": "TEAM 2026-27シーズンの新加入選手（追加）のお知らせ 2026.10.21",
+      "date": "2026-10-21",
+      "category": "roster"
+    },
+    {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54262",
-      "title": "（10/20更新）レポート：男子日本代表 別府合宿 2026.10.21 （水） 15人制男子日本代表",
+      "url": "https://www.rugby-japan.jp/news/54285",
+      "title": "レポート：女子日本代表候補 熊谷合宿 2026.10.21 （水） 15人制女子日本代表 女子",
       "date": "2026-10-21",
       "category": "squad"
     }

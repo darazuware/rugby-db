@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-10-21T00:29:32+09:00",
+  "checked_at": "2026-10-21T18:17:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "83a467161cd082d1"
+      "hash": "306b293140b4ae75"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "96e2170a5070ced2"
+      "hash": "7b7cd33d0f03d2ef"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2058.html",
+      "title": "ゲーム 2026.10.21 【メンバー発表】2026-27シーズン プレシーズンマッチ③ トヨタヴェルブリッツ戦（10月23日）",
+      "date": "2026-10-21"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2054.html",
       "title": "イベント 2026.10.19 「D-Rockersクラファン」第1弾 宮崎合宿の食事支援 開始のお知らせ",
@@ -64,7 +69,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2049.html",
-      "title": "ゲーム 2026.10.14 2026-27シーズン プレシーズンマッチ 日程更新のお知らせ",
+      "title": "2026.10.14 ニュース 2026-27シーズン プレシーズンマッチ 日程更新のお知らせ",
       "date": "2026-10-14"
     },
     {
@@ -210,11 +215,6 @@
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2010.html",
       "title": "2026.09.01 ニュース OWV 2026-27シーズン 浦安D-Rocks公式アンバサダー継続就任のお知らせ",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/fanclub/index_2014.html",
-      "title": "2026.09.01 ニュース 浦安 D-Rocksファンクラブ「Club D-Rockers」2026-27 シーズン会員募集のお知らせ",
       "date": "2026-09-01"
     }
   ]

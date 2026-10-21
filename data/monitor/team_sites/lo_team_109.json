@@ -3,24 +3,34 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-10-21T00:29:32+09:00",
+  "checked_at": "2026-10-21T18:17:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "78927dcb8ece5973"
+      "hash": "351e3f06e06820d2"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "224578b1a3a9984d"
+      "hash": "19c235b241425a8b"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "0a18dbe81b7ee369"
+      "hash": "08e6d5677bc5a87d"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1021-01/",
+      "title": "TEAM 2026-27シーズンの新加入選手（追加）のお知らせ 2026.10.21",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1020-01/",
+      "title": "EVENT 我孫子グラウンド練習見学会 11月23日（月）開催！ 2026.10.21",
+      "date": "2026-10-21"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1014-01/",
       "title": "EVENT 松戸まつり 2026.10.19",

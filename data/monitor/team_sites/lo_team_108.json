@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-10-21T00:29:32+09:00",
+  "checked_at": "2026-10-21T18:17:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "1b5c2551e1f465a7"
+      "hash": "cf50985bdf2f5889"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261021a.html",
+      "title": "11月開催プレシーズンマッチ チケット情報のお知らせ",
+      "date": "2026-10-21"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261020a.html",
       "title": "2026-27シーズン 1stオーセンティックジャージー 受注販売のお知らせ",
@@ -27,11 +32,6 @@
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261016a.html",
       "title": "株式会社明電舎とオフィシャルパートナー新規契約のお知らせ",
       "date": "2026-10-16"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261015c.html",
-      "title": "「秋のラグビー観戦＆防災デー」実施レポート",
-      "date": "2026-10-15"
     },
     {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261015d.html",

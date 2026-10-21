@@ -3,24 +3,44 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-10-21T00:29:32+09:00",
+  "checked_at": "2026-10-21T18:17:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "88121609bc499cab"
+      "hash": "19570c314dca0a8f"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "ed9b619a94107464"
+      "hash": "bd4a5a749e13fca4"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "4ba031cdc3e70b36"
+      "hash": "d67644c5064e295e"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/game/33028/",
+      "title": "試合情報 2026.10.21 2026トレーニングマッチ 第7戦／JR東日本グリーンウォリアーズ東葛戦",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://kamaishi-seawaves.com/news/game/33021/",
+      "title": "試合情報 2026.10.21 2026トレーニングマッチ 第6戦／川越狭山セコムラガッツ戦",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://kamaishi-seawaves.com/news/game/33018/",
+      "title": "試合情報 2026.10.21 2026トレーニングマッチ 第5戦／清水建設江東ブルーシャークス戦",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://kamaishi-seawaves.com/news/game/32988/",
+      "title": "試合情報 2026.10.21 2026トレーニングマッチ 第4戦／クリタウォーターガッシュ昭島戦",
+      "date": "2026-10-21"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/society/32962/",
       "title": "普及・社会貢献 2026.10.16 特殊詐欺等被害防止啓発活動に参加しました",
@@ -58,28 +78,13 @@
     },
     {
       "url": "https://kamaishi-seawaves.com/news/game/32522/",
-      "title": "試合情報 2026.9.23 2026プレシーズンマッチ 第3戦／埼玉パナソニックワイルドナイツ戦",
+      "title": "試合情報 2026.9.23 2026トレーニングマッチ 第3戦／埼玉パナソニックワイルドナイツ戦",
       "date": "2026-09-23"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/game/32514/",
-      "title": "試合情報 2026.9.23 ジャパンラグビー リーグワン ライジング 2026 第2戦／三菱重工相模原ダイナボアーズ戦",
-      "date": "2026-09-23"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/society/32461/",
-      "title": "普及・社会貢献 2026.9.16 釜石市立平田小学校 ラグビー出前授業が行われました",
-      "date": "2026-09-16"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/32434/",
       "title": "お知らせ 2026.9.15 2026-27シーズン キャプテン決定のお知らせ",
       "date": "2026-09-15"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/game/32414/",
-      "title": "試合情報 2026.9.14 2026プレシーズンマッチ 第2戦／栃木ホンダヒート戦",
-      "date": "2026-09-14"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/31656/",

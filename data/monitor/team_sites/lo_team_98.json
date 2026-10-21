@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-10-21T00:29:32+09:00",
+  "checked_at": "2026-10-21T18:17:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "03418aed7dc77341"
+      "hash": "091dc51796fe1554"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "55e72c6148af6cb4"
+      "hash": "689699cf85f0ac3a"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3234",
+      "title": "2026.10.21[WED] HOST AREA 青いマックの日に2選手が参加しました",
+      "date": "2026-10-21"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3229",
       "title": "2026.10.20[TUE] TEAM クワッガ・スミス選手 契約終了のお知らせ",
@@ -68,6 +73,11 @@
       "date": "2026-10-16"
     },
     {
+      "url": "https://www.shizuoka-bluerevs.com/news/3228",
+      "title": "2026.10.15[THU] OTHERS 取締役変更のお知らせ",
+      "date": "2026-10-15"
+    },
+    {
       "url": "https://www.shizuoka-bluerevs.com/news/3211",
       "title": "2026.10.15[THU] OTHERS ブルーレヴズ観るならDAZN！年間視聴パスの取扱開始！",
       "date": "2026-10-15"
@@ -98,19 +108,9 @@
       "date": "2026-10-11"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3210",
-      "title": "2026.10.7[WED] TEAM 田嶋 グン選手・佐藤 健人選手と本契約を締結",
-      "date": "2026-10-07"
-    },
-    {
       "url": "https://www.shizuoka-bluerevs.com/news/3202",
       "title": "2026.10.7[WED] OTHERS 令和8年熊本地震災害支援募金活動のご報告と御礼",
       "date": "2026-10-07"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3209",
-      "title": "2026.10.6[TUE] HOST AREA 【ホストエリア活動】浜松市「三島町こども会」にてタグラグビー教室を実施しました",
-      "date": "2026-10-06"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",

@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-10-21T00:29:32+09:00",
+  "checked_at": "2026-10-21T18:17:11+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "8b6dcc1ea8a8853c"
+      "hash": "d30aa50fe668b549"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "1a1230a4acb91d5d"
+      "hash": "0dc28690a85b9c39"
     }
   ],
   "items": [
@@ -29,7 +29,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261019.html",
-      "title": "2026-10-19 [Alexandros]×ダイナボアーズ 3年目のコラボはラガーマン「ドロスくん」のロンT！",
+      "title": "詳しく見る ›",
       "date": "2026-10-19"
     },
     {
