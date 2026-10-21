@@ -3,16 +3,26 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-10-21T18:17:11+09:00",
+  "checked_at": "2026-10-22T00:45:34+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "cf50985bdf2f5889"
+      "hash": "614869be0b81ce20"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261021b.html",
+      "title": "【重要】Ticket RUGBY緊急メンテナンスに伴う「ラムチケ」サービス停止のお知らせ",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261021a.html",
+      "title": "【重要】ブラックラムズ東京オンラインショップ 緊急システムメンテナンスのお知らせ",
+      "date": "2026-10-21"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261021a.html",
       "title": "11月開催プレシーズンマッチ チケット情報のお知らせ",
@@ -27,16 +37,6 @@
       "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20261019a.html",
       "title": "メールマガジン「ラム通」リニューアルおよび「Rams News」配信開始のお知らせ",
       "date": "2026-10-19"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261016a.html",
-      "title": "株式会社明電舎とオフィシャルパートナー新規契約のお知らせ",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261015d.html",
-      "title": "「リーグワンDAZN年間視聴パス」販売開始および13か月プラン購入者限定プレゼントキャンペーンのお知らせ",
-      "date": "2026-10-15"
     }
   ]
 }
