@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T22:16:52+09:00",
+  "checked_at": "2026-10-21T15:59:01+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6221",
+          "title": "クラブ JR東日本グリーンウォリアーズ東葛、2026-27シーズン新加入選手（追加）のお知らせ 2026.10.21",
+          "date": "2026-10-21",
+          "category": "roster"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +40,15 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6221",
+      "title": "クラブ JR東日本グリーンウォリアーズ東葛、2026-27シーズン新加入選手（追加）のお知らせ 2026.10.21",
+      "date": "2026-10-21",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }
