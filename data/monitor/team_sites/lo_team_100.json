@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-10-22T18:19:32+09:00",
+  "checked_at": "2026-10-23T00:44:36+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "b6121907cb4a855c"
+      "hash": "9e83238de6d26610"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "4df6d03b6c1bfb66"
+      "hash": "c697f54c1a22a53b"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/team/index_2064.html",
+      "title": "チーム 2026.10.22 ファンクラブ・チケット関連ページ メンテナンス完了および復旧のお知らせ",
+      "date": "2026-10-22"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_2060.html",
       "title": "ファンクラブ 2026.10.22 ファンクラブ・チケット関連ページ メンテナンスについて｜10月22日(木) 11:50時点",
@@ -54,7 +59,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2053.html",
-      "title": "ゲーム 2026.10.15 【メンバー発表】2026-27シーズン プレシーズンマッチ② 日野レッドドルフィンズ戦（10月17日）",
+      "title": "2026.10.15 ニュース 【メンバー発表】2026-27シーズン プレシーズンマッチ② 日野レッドドルフィンズ戦（10月17日）",
       "date": "2026-10-15"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/event/index_2016.html",
       "title": "2026.09.05 ニュース 2026.8.31 津別町長を表敬訪問しました",
       "date": "2026-09-05"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/partner/index_2015.html",
-      "title": "2026.09.02 ニュース わくわくはっぴー本棚との地域連携共創・相互支援に関する包括連携協定締結のお知らせ",
-      "date": "2026-09-02"
     }
   ]
 }
