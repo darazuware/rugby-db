@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-22T00:45:34+09:00",
+  "checked_at": "2026-10-22T18:19:32+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/fanclub/index_2060.html",
+          "title": "ファンクラブ 2026.10.22 ファンクラブ・チケット関連ページ メンテナンスについて｜10月22日(木) 11:50時点",
+          "date": "2026-10-22",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -21,8 +31,38 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35715/",
+          "title": "2026/10/22 普及 【レポート】京丹後市の小中学校でタグラグビー教室を実施しました",
+          "date": "2026-10-22",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35696/",
+          "title": "2026/10/22 チーム 10月24日(土)「リポビタンDチャレンジカップ2026」フィジー代表戦メンバー選出のお知らせ",
+          "date": "2026-10-22",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.kobesteelers.com/game/post34941/",
+          "title": "2026/10/22 試合 10月24日(土)プレシーズンマッチ クボタスピアーズ船橋・東京ベイ戦 出場メンバーのお知らせ",
+          "date": "2026-10-22",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/",
+          "title": "2025/11/25 お知らせ チーム公式HPがより便利に！ニュース検索機能を追加しました",
+          "date": "2025-11-25",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/",
+        "https://www.kobesteelers.com/news/cat_news/information/",
+        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+      ],
       "rename_signals": []
     },
     {
@@ -46,9 +86,7 @@
       "first_run": false,
       "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://www.bravelupus.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -59,7 +97,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4295",
+          "title": "緊急システムメンテナンスに伴う一部サービス一時停止のお知らせ グッズ チケット・ファンクラブ 2026.10.22",
+          "date": "2026-10-22",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4295/",
+          "title": "2026.10.22 グッズ チケット・ファンクラブ 緊急システムメンテナンスに伴う一部サービス一時停止のお知らせ",
+          "date": "2026-10-22",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://verblitz.toyotatimes-sports.toyota/"
       ],
@@ -84,8 +135,249 @@
       "official_url": "https://dynaboars.mhi.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
+      "item_count": 40,
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261022.html",
+          "title": "2026-10-22 日本代表｜チャーリー・ローレンス選手がフィジー代表戦（10/24）に12番で先発出場予定",
+          "date": "2026-10-22",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/tm2026-1",
+          "title": "2026-10-20 日程更新｜11/14(土)の練習試合（vs東芝ブレイブルーパス武蔵）は13:00キックオフ",
+          "date": "2026-10-20",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/kanshasai2026",
+          "title": "2026-10-20 ダイナボアーズ地域感謝祭 supported by 奥村組 11/14(土)開催決定！",
+          "date": "2026-10-20",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261019.html",
+          "title": "詳しく見る ›",
+          "date": "2026-10-19",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261015.html",
+          "title": "2026-10-15 DAZN年間視聴パス販売開始｜11/14までの購入で13か月視聴可能",
+          "date": "2026-10-15",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261014.html-0",
+          "title": "2026-10-14 男子セブンズ日本代表｜スリランカ遠征 参加メンバーに服部航大選手が選出",
+          "date": "2026-10-14",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/familyfesta2026",
+          "title": "2026-10-14 ボーノ相模大野 × ダイナボアーズ ファミリーフェスタ開催決定！",
+          "date": "2026-10-14",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/jrlr2026-1#member",
+          "title": "2026-10-09 リーグワン ライジング2026 日本製鉄釜石シーウェイブス 対 三菱重工相模原ダイナボアーズ｜試合メンバー更新",
+          "date": "2026-10-09",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261008.html-0",
+          "title": "2026-10-08 [ チーム ] [ メディア ] 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部航大選手が選出",
+          "date": "2026-10-08",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261008.html",
+          "title": "2026-10-08 [ チーム ] [ メディア ] 15人制男子日本代表｜別府合宿参加メンバーにチャーリー・ローレンス選手が選出",
+          "date": "2026-10-08",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule#3",
+          "title": "2026-10-05 [ イベント ] 日程更新｜12/13(日)のリーグワン開幕戦・神奈川ダービーは13:40キックオフ！",
+          "date": "2026-10-05",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/jrlr2026-2",
+          "title": "2026-10-02 [ イベント ] リーグワンライジング vsRH大阪 10/31（土）三菱重工相模原G｜観戦情報掲載",
+          "date": "2026-10-02",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260922.html",
+          "title": "2026-09-22 [ チーム ] ティム・カーダル選手加入のお知らせ",
+          "date": "2026-09-22",
+          "category": "roster"
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260908.html-0#2",
+          "title": "2026-09-19 [ イベント ] 9/22（火）相模原での一般公開練習は中止とさせていただきます",
+          "date": "2026-09-19",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260915.html",
+          "title": "2026-09-15 [ チーム ] [ メディア ] 男子セブンズ日本代表｜男子SDS別府合宿 参加メンバーに服部選手・吉本選手が選出",
+          "date": "2026-09-15",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/ticket.html",
+          "title": "2026-09-11 [ チーム ] 2026-27シーズン チケット情報を更新しました",
+          "date": "2026-09-11",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260911.html-0",
+          "title": "2026-09-11 [ ファンクラブ ] チケットランクアップ受付のご案内",
+          "date": "2026-09-11",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260911.html",
+          "title": "2026-09-11 [ ファンクラブ ] 2026-27シーズン シーズンシート発売のご案内",
+          "date": "2026-09-11",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260910.html-1",
+          "title": "2026-09-10 [ チーム ] 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（9/12）に14番で先発出場予定",
+          "date": "2026-09-10",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260910.html",
+          "title": "2026-09-10 [ チーム ] 2026-27プレシーズン 全5試合の日程が決定",
+          "date": "2026-09-10",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/2026-27OS",
+          "title": "2026-09-10 [ チーム ] 2026-27シーズン スタッフ体制・事業運営体制を更新しました",
+          "date": "2026-09-10",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260909.html",
+          "title": "2026-09-09 [ イベント ] NTTジャパンラグビー リーグワン2026-27 大会日程決定のお知らせ。開幕節は相模原で「神奈川ダービー」！",
+          "date": "2026-09-09",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260908.html-0",
+          "title": "2026-09-08 [ イベント ] 相模原・福岡で一般公開練習を実施します",
+          "date": "2026-09-08",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260908.html",
+          "title": "2026-09-08 [ ファンクラブ ] ダイナボアーズ公式ファンクラブ2026-27新規入会の受付を開始しました",
+          "date": "2026-09-08",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule#2",
+          "title": "2026-09-04 [ イベント ] 日程更新｜プレシーズンマッチ1試合（ビジター）の予定を公開",
+          "date": "2026-09-04",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260904.html",
+          "title": "2026-09-04 [ チーム ] [ メディア ] 男子セブンズ日本代表｜男子SDSスペイン遠征 参加メンバーに服部選手・吉本選手が選出",
+          "date": "2026-09-04",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260901.html-0",
+          "title": "2026-09-01 [ ファンクラブ ] ダイナボアーズ公式ファンクラブ2026-27継続入会の受付を開始しました",
+          "date": "2026-09-01",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260901.html",
+          "title": "2026-09-01 [ チーム ] 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（9/5）に14番で先発出場予定",
+          "date": "2026-09-01",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260828.html",
+          "title": "2026-08-28 [ チーム ] ジャック・ボーウェン選手加入のお知らせ",
+          "date": "2026-08-28",
+          "category": "roster"
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/dynaboarsfesta2026",
+          "title": "2026-08-28 [ イベント ] ダイナボアーズフェスタ2026｜選手出演情報更新",
+          "date": "2026-08-28",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260827.html",
+          "title": "2026-08-27 [ チーム ] [ メディア ] 男子セブンズ日本代表｜中国遠征参加メンバーに服部航大選手が選出",
+          "date": "2026-08-27",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260825.html",
+          "title": "2026-08-25 [ チーム ] 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（8/29）に14番で先発出場",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260824.html",
+          "title": "2026-08-24 [ チーム ] [ メディア ] 15人制男子日本代表｜日本代表 宮崎（大阪）合宿参加メンバーの発表について",
+          "date": "2026-08-24",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260821.html",
+          "title": "2026-08-21 [ チーム ] 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（8/22）に11番で先発出場",
+          "date": "2026-08-21",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260707.html",
+          "title": "2026-08-20 ジャパンラグビー リーグワン ライジング2026｜ホスト試合 キックオフ時間・観戦情報掲載",
+          "date": "2026-08-20",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260818.html-0",
+          "title": "2026-08-18 [ チーム ] [ メディア ] 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部選手・吉本選手が選出",
+          "date": "2026-08-18",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260818.html",
+          "title": "2026-08-18 [ チーム ] ルーク・ポーター選手加入のお知らせ",
+          "date": "2026-08-18",
+          "category": "roster"
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260817.html",
+          "title": "2026-08-17 [ イベント ] 専属チアチーム「ダイナスターズ」ワークショップ＆新規メンバー選考会開催のお知らせ",
+          "date": "2026-08-17",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260809.html",
+          "title": "2026-08-09 九州電力キューデンヴォルテクス サイモニ・ヴニランギ選手のご逝去について",
+          "date": "2026-08-09",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260706.html",
+          "title": "2026-08-06 [ イベント ] 選手と選手バスで行く全緑バスツアー｜佐川選手、高城選手の参加が決定！",
+          "date": "2026-08-06",
+          "category": null
+        }
+      ],
       "changed_pages": [],
       "rename_signals": []
     },
@@ -111,15 +403,27 @@
       "item_count": 5,
       "new_items": [
         {
-          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261021b.html",
-          "title": "【重要】Ticket RUGBY緊急メンテナンスに伴う「ラムチケ」サービス停止のお知らせ",
-          "date": "2026-10-21",
+          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261022b.html",
+          "title": "10月25日(日)「おどろきとどろき祭り2026」参加のお知らせ",
+          "date": "2026-10-22",
           "category": null
         },
         {
-          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261021a.html",
-          "title": "【重要】ブラックラムズ東京オンラインショップ 緊急システムメンテナンスのお知らせ",
-          "date": "2026-10-21",
+          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261022a.html",
+          "title": "10月25日(日)「PAPARU FESTIVAL」参加のお知らせ",
+          "date": "2026-10-22",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261022a.html",
+          "title": "トムス株式会社とオフィシャルパートナー契約継続のお知らせ",
+          "date": "2026-10-22",
+          "category": "roster"
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261022c.html",
+          "title": "【重要】豊田自動織機シャトルズ愛知戦 チケット先行販売延期のお知らせ",
+          "date": "2026-10-22",
           "category": null
         }
       ],
@@ -135,9 +439,18 @@
       "official_url": "http://www.kubota-spears.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 55,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 19,
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/news/2026/10/22/100000.html",
+          "title": "2026.10.22 ニュース・トピックス",
+          "date": "2026-10-22",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -145,14 +458,11 @@
       "league": "league-one-d1",
       "name": "静岡ブルーレヴズ",
       "official_url": "https://www.shizuoka-bluerevs.com",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 30,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://www.shizuoka-bluerevs.com/",
-        "https://www.shizuoka-bluerevs.com/news"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -164,7 +474,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -174,9 +487,20 @@
       "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": false,
-      "item_count": 23,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 24,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/#2026-10-22-01",
+          "title": "TEAM オフィシャルサイトお問合せフォームの停止について 2026.10.22",
+          "date": "2026-10-22",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/",
+        "https://www.jreast.co.jp/greenwarriors/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -188,7 +512,9 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.kyudenvoltex.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -201,7 +527,10 @@
       "item_count": 24,
       "new_items": [],
       "changed_pages": [
-        "https://blue-sharks.jp/"
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
       ],
       "rename_signals": []
     },
@@ -213,9 +542,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 7,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://shuttles-aichi.com/news/2026-10-24-saturday-pre-season-match-vs-red-hurricanes-osaka-participating-members/",
+          "title": "お知らせ 26年10月22日 2026/10/24(土) プレシーズンマッチ vs レッドハリケーンズ大阪 出場メンバー",
+          "date": "2026-10-24",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://shuttles-aichi.com/"
+        "https://shuttles-aichi.com/",
+        "https://shuttles-aichi.com/news/"
       ],
       "rename_signals": []
     },
@@ -243,7 +580,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 26,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/2026/10/22/fukuokacamp1/",
+          "title": "2026.10.22 その他 福岡合宿レポート1日目",
+          "date": "2026-10-22",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -259,7 +603,9 @@
       "first_run": false,
       "item_count": 15,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://hino-reddolphins.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -269,8 +615,267 @@
       "official_url": "https://docomo-rugby.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
+      "item_count": 43,
+      "new_items": [
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8941",
+          "title": "お知らせ 2026年10月22日 有料会員向けチケット先行販売開始延期のお知らせ",
+          "date": "2026-10-22",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/game/member.html?id=353",
+          "title": "試合情報 2026年10月22日 プレシーズンマッチ 豊田自動織機シャトルズ愛知 メンバー発表",
+          "date": "2026-10-22",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8924",
+          "title": "お知らせ 2026年10月16日 2026-27シーズン リーダーズ・クラブリーダーズ決定のお知らせ",
+          "date": "2026-10-16",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8904",
+          "title": "お知らせ 2026年10月16日 【リリース】第2節12月19日（土曜） 「中央自動車工業プレゼンツCENTRALプレミアムマッチ」開催決定のお知らせ",
+          "date": "2026-10-16",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8919",
+          "title": "試合情報 2026年10月13日 プレシーズンマッチ 10月24日（土曜）豊田自動織機シャトルズ愛知戦のご案内",
+          "date": "2026-10-13",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/game/report.html?id=336",
+          "title": "試合情報 2026年10月13日 【JAPAN RUGBY LEAGUE ONE RISING】JAPAN RUGBY LEAGUE ONE RISING 花園近鉄ライナーズ",
+          "date": "2026-10-13",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8917",
+          "title": "お知らせ 2026年10月8日 熱活GAMESにレッドハリケーンズ大阪が出場！",
+          "date": "2026-10-08",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/game/member.html?id=336",
+          "title": "試合情報 2026年10月8日 【JAPAN RUGBY LEAGUE ONE RISING】JAPAN RUGBY LEAGUE ONE RISING 花園近鉄ライナーズ メンバー発表",
+          "date": "2026-10-08",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8901",
+          "title": "お知らせ 2026年10月6日 ファンクラブ・チケット情報の更新について",
+          "date": "2026-10-06",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8900",
+          "title": "お知らせ 2026年10月5日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 DIVISION 2 第1節・2節キックオフ時間決定のお知らせ",
+          "date": "2026-10-05",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8898",
+          "title": "お知らせ 2026年10月2日 ホストタウン活動スケジュール更新のお知らせ（10月）",
+          "date": "2026-10-02",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8897",
+          "title": "【U15クラス】9月活動レポート 2026年10月1日",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8896",
+          "title": "【U12アドバンスクラス】9月活動レポート 2026年10月1日",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8894",
+          "title": "【U12エントリークラス】９月活動レポート 2026年10月1日",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/",
+          "title": "MORE",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/csr/detail.html?id=8886",
+          "title": "SUSTAINABILITY 2026年10月1日 【2026年9月】サステナNEWS",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8885",
+          "title": "お知らせ 2026年9月28日 ALESSA様の訃報に接して",
+          "date": "2026-09-28",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8881",
+          "title": "お知らせ 2026年9月24日 ラグビー体験イベント in イオンモール堺北花田 開催のお知らせ",
+          "date": "2026-09-24",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8879",
+          "title": "お知らせ 2026年9月15日 セタ・タマニバル選手 フィジー代表選出のお知らせ",
+          "date": "2026-09-15",
+          "category": "squad"
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8874",
+          "title": "お知らせ 2026年9月15日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 第3節 SA広島戦試合会場決定のお知らせ",
+          "date": "2026-09-15",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8870",
+          "title": "お知らせ 2026年9月8日 ホストタウン活動スケジュール掲載開始のお知らせ",
+          "date": "2026-09-08",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8867",
+          "title": "お知らせ 2026年9月7日 レッハリラグビー教室 in 和歌山 開催のお知らせ",
+          "date": "2026-09-07",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8866",
+          "title": "アカデミー 2026年9月1日 【U15クラス】8月活動レポート",
+          "date": "2026-09-01",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8865",
+          "title": "アカデミー 2026年9月1日 【U12アドバンスクラス】8月活動レポート",
+          "date": "2026-09-01",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8864",
+          "title": "アカデミー 2026年9月1日 【U12エントリークラス】８月活動レポート",
+          "date": "2026-09-01",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/csr/detail.html?id=8853",
+          "title": "SUSTAINABILITY 2026年9月1日 【2026年8月】サステナNEWS",
+          "date": "2026-09-01",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8849",
+          "title": "お知らせ 2026年8月27日 山口泰輝選手 7人制ラグビー日本代表選出のお知らせ",
+          "date": "2026-08-27",
+          "category": "squad"
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8845",
+          "title": "試合情報 2026年8月26日 2026-27シーズン プレシーズンマッチ追加決定および「OSAKA FUNtast!c SPORTS PROJECT」参画のお知らせ",
+          "date": "2026-08-26",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8814",
+          "title": "お知らせ 2026年8月25日 【リリース】2026-27シーズン新加入選手および退団選手（追加）のお知らせ",
+          "date": "2026-08-25",
+          "category": "roster"
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8815",
+          "title": "お知らせ 2026年8月20日 【リリース】リーグワン初※ 小中高生向け「レフリーアカデミー」を開講",
+          "date": "2026-08-20",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/game/",
+          "title": "お知らせ 2026年8月7日 2026プレシーズンマッチスケジュールのお知らせ",
+          "date": "2026-08-07",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8798",
+          "title": "お知らせ 2026年8月6日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 DIVISION 2 試合スケジュール決定のお知らせ",
+          "date": "2026-08-06",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8797",
+          "title": "お知らせ 2026年8月3日 【リリース】2025-26シーズン退団スタッフ（追加）のお知らせ",
+          "date": "2026-08-03",
+          "category": "roster"
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8795",
+          "title": "アカデミー 2026年8月1日 【U15クラス】7月活動レポート",
+          "date": "2026-08-01",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8794",
+          "title": "アカデミー 2026年8月1日 【U12アドバンスクラス】7月活動レポート",
+          "date": "2026-08-01",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8792",
+          "title": "アカデミー 2026年8月1日 【U12エントリークラス】7月活動レポート",
+          "date": "2026-08-01",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8588",
+          "title": "お知らせ 2026年7月29日 ※更新情報あり【リリース】レッドハリケーンズ大阪6月以降の選手参加イベントについて",
+          "date": "2026-07-29",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8764",
+          "title": "お知らせ 2026年7月20日 2026-27シーズン始動。新たなシーズンへ向けて",
+          "date": "2026-07-20",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8765",
+          "title": "お知らせ 2026年7月16日 サステナビリティページをリニューアルしました",
+          "date": "2026-07-16",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8744",
+          "title": "お知らせ 2026年7月13日 金子選手が「バレーボールネーションズリーグ2026」日本代表戦でコイントスセレモニーに参加",
+          "date": "2026-07-13",
+          "category": "squad"
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8661",
+          "title": "お知らせ 2026年7月7日 「ジャパンラグビー リーグワンライジング2026」 開催決定のお知らせ",
+          "date": "2026-07-07",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/csr/detail.html?id=8386",
+          "title": "SUSTAINABILITY 2025年12月3日 おおきに商店presents第16回ドコモカップ決勝トーナメント結果について",
+          "date": "2025-12-03",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/csr/detail.html?id=8366",
+          "title": "SUSTAINABILITY 2025年11月11日 おおきに商店presents第16回ドコモカップ予選結果について",
+          "date": "2025-11-11",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://docomo-rugby.jp/"
       ],
@@ -284,7 +889,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 45,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261022-4/",
+          "title": "地域貢献 2026/10/22 【地域活動報告】児童の登校見守り活動",
+          "date": "2026-10-22",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/20261022-3/",
+          "title": "お知らせ 2026/10/22 2026-27シーズン チケット販売スケジュールのお知らせ",
+          "date": "2026-10-22",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/20261022-2/",
+          "title": "私とウォーターガッシュ 2026/10/22 私とWATER GUSH #10 山口竜誠 FL/No8 悔しさを原動力に、仕事もラグビーも全力で。",
+          "date": "2026-10-22",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -300,7 +924,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -323,9 +950,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 45,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.skyactivs.com/news/4924",
+          "title": "2026.10.22[THU] GAME 【メンバー発表】vs中国電力レッドレグリオンズ",
+          "date": "2026-10-22",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news",
         "https://www.skyactivs.com/news/2091"
       ],
       "rename_signals": []
@@ -373,7 +1008,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54288",
+          "title": "櫻井 翔さん ラグビー日本代表オフィシャルアンバサダー就任のお知らせ 2026.10.22 （木） 15人制男子日本代表 WBB 日本代表",
+          "date": "2026-10-22",
+          "category": "roster"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -387,12 +1029,152 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "レッドハリケーンズ大阪",
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8797",
+      "title": "お知らせ 2026年8月3日 【リリース】2025-26シーズン退団スタッフ（追加）のお知らせ",
+      "date": "2026-08-03",
+      "category": "roster"
+    },
+    {
+      "source": "三菱重工相模原ダイナボアーズ",
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260818.html",
+      "title": "2026-08-18 [ チーム ] ルーク・ポーター選手加入のお知らせ",
+      "date": "2026-08-18",
+      "category": "roster"
+    },
+    {
+      "source": "レッドハリケーンズ大阪",
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8814",
+      "title": "お知らせ 2026年8月25日 【リリース】2026-27シーズン新加入選手および退団選手（追加）のお知らせ",
+      "date": "2026-08-25",
+      "category": "roster"
+    },
+    {
+      "source": "三菱重工相模原ダイナボアーズ",
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260828.html",
+      "title": "2026-08-28 [ チーム ] ジャック・ボーウェン選手加入のお知らせ",
+      "date": "2026-08-28",
+      "category": "roster"
+    },
+    {
+      "source": "三菱重工相模原ダイナボアーズ",
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260922.html",
+      "title": "2026-09-22 [ チーム ] ティム・カーダル選手加入のお知らせ",
+      "date": "2026-09-22",
+      "category": "roster"
+    },
+    {
+      "source": "リコーブラックラムズ東京",
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261022a.html",
+      "title": "トムス株式会社とオフィシャルパートナー契約継続のお知らせ",
+      "date": "2026-10-22",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54288",
+      "title": "櫻井 翔さん ラグビー日本代表オフィシャルアンバサダー就任のお知らせ 2026.10.22 （木） 15人制男子日本代表 WBB 日本代表",
+      "date": "2026-10-22",
+      "category": "roster"
+    },
+    {
+      "source": "レッドハリケーンズ大阪",
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8744",
+      "title": "お知らせ 2026年7月13日 金子選手が「バレーボールネーションズリーグ2026」日本代表戦でコイントスセレモニーに参加",
+      "date": "2026-07-13",
+      "category": "squad"
+    },
+    {
+      "source": "三菱重工相模原ダイナボアーズ",
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260818.html-0",
+      "title": "2026-08-18 [ チーム ] [ メディア ] 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部選手・吉本選手が選出",
+      "date": "2026-08-18",
+      "category": "squad"
+    },
+    {
+      "source": "三菱重工相模原ダイナボアーズ",
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260824.html",
+      "title": "2026-08-24 [ チーム ] [ メディア ] 15人制男子日本代表｜日本代表 宮崎（大阪）合宿参加メンバーの発表について",
+      "date": "2026-08-24",
+      "category": "squad"
+    },
+    {
+      "source": "三菱重工相模原ダイナボアーズ",
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260827.html",
+      "title": "2026-08-27 [ チーム ] [ メディア ] 男子セブンズ日本代表｜中国遠征参加メンバーに服部航大選手が選出",
+      "date": "2026-08-27",
+      "category": "squad"
+    },
+    {
+      "source": "レッドハリケーンズ大阪",
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8849",
+      "title": "お知らせ 2026年8月27日 山口泰輝選手 7人制ラグビー日本代表選出のお知らせ",
+      "date": "2026-08-27",
+      "category": "squad"
+    },
+    {
+      "source": "三菱重工相模原ダイナボアーズ",
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260904.html",
+      "title": "2026-09-04 [ チーム ] [ メディア ] 男子セブンズ日本代表｜男子SDSスペイン遠征 参加メンバーに服部選手・吉本選手が選出",
+      "date": "2026-09-04",
+      "category": "squad"
+    },
+    {
+      "source": "三菱重工相模原ダイナボアーズ",
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260915.html",
+      "title": "2026-09-15 [ チーム ] [ メディア ] 男子セブンズ日本代表｜男子SDS別府合宿 参加メンバーに服部選手・吉本選手が選出",
+      "date": "2026-09-15",
+      "category": "squad"
+    },
+    {
+      "source": "レッドハリケーンズ大阪",
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8879",
+      "title": "お知らせ 2026年9月15日 セタ・タマニバル選手 フィジー代表選出のお知らせ",
+      "date": "2026-09-15",
+      "category": "squad"
+    },
+    {
+      "source": "三菱重工相模原ダイナボアーズ",
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261008.html-0",
+      "title": "2026-10-08 [ チーム ] [ メディア ] 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部航大選手が選出",
+      "date": "2026-10-08",
+      "category": "squad"
+    },
+    {
+      "source": "三菱重工相模原ダイナボアーズ",
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261008.html",
+      "title": "2026-10-08 [ チーム ] [ メディア ] 15人制男子日本代表｜別府合宿参加メンバーにチャーリー・ローレンス選手が選出",
+      "date": "2026-10-08",
+      "category": "squad"
+    },
+    {
+      "source": "三菱重工相模原ダイナボアーズ",
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261014.html-0",
+      "title": "2026-10-14 男子セブンズ日本代表｜スリランカ遠征 参加メンバーに服部航大選手が選出",
+      "date": "2026-10-14",
+      "category": "squad"
+    },
+    {
+      "source": "コベルコ神戸スティーラーズ",
+      "url": "https://www.kobesteelers.com/news/post35696/",
+      "title": "2026/10/22 チーム 10月24日(土)「リポビタンDチャレンジカップ2026」フィジー代表戦メンバー選出のお知らせ",
+      "date": "2026-10-22",
+      "category": "squad"
+    },
+    {
+      "source": "三菱重工相模原ダイナボアーズ",
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261022.html",
+      "title": "2026-10-22 日本代表｜チャーリー・ローレンス選手がフィジー代表戦（10/24）に12番で先発出場予定",
+      "date": "2026-10-22",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "東芝ブレイブルーパス東京: 記事リンクを抽出できない（JS描画の可能性）: https://www.bravelupus.com/",
     "三重ホンダヒート: 到達できるページがない: http://www.honda-heat.jp",
-    "三菱重工相模原ダイナボアーズ: 記事リンクを抽出できない（JS描画の可能性）: https://dynaboars.mhi.com/",
-    "レッドハリケーンズ大阪: 記事リンクを抽出できない（JS描画の可能性）: https://docomo-rugby.jp/"
+    "静岡ブルーレヴズ: 到達できるページがない: https://www.shizuoka-bluerevs.com"
   ]
 }

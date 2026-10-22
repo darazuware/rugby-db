@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-10-22T00:45:34+09:00",
+  "checked_at": "2026-10-22T18:19:32+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "c2fe595313bdbc6d"
+      "hash": "c11ddeb957357209"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "4d9c6c52ecbf5889"
+      "hash": "54764e4c192de777"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/10/22/fukuokacamp1/",
+      "title": "2026.10.22 その他 福岡合宿レポート1日目",
+      "date": "2026-10-22"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/10/20/sep-report/",
       "title": "2026.10.20 その他 【地域連携・普及活動】 2026 年 9月レポート",
@@ -91,11 +96,6 @@
       "url": "https://hanazono-liners.jp/2026/10/01/10-3member/",
       "title": "2026.10.01 試合関連 チーム情報 【10月3日(土)クボタスピアーズ船橋・東京ベイ戦】メンバーのご案内",
       "date": "2026-10-01"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/09/30/capvicecap/",
-      "title": "2026-09-30 チーム情報 キャプテン・バイスキャプテン および 2026-27シーズン チームスローガン決定のお知らせ",
-      "date": "2026-09-30"
     },
     {
       "url": "https://hanazono-liners.jp/2026/09/30/10-3-live-pv/",

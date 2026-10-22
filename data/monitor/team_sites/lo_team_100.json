@@ -3,23 +3,33 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-10-22T00:45:34+09:00",
+  "checked_at": "2026-10-22T18:19:32+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "306b293140b4ae75"
+      "hash": "b6121907cb4a855c"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "7b7cd33d0f03d2ef"
+      "hash": "4df6d03b6c1bfb66"
     }
   ],
   "items": [
     {
+      "url": "https://urayasu-d-rocks.com/news/fanclub/index_2060.html",
+      "title": "ファンクラブ 2026.10.22 ファンクラブ・チケット関連ページ メンテナンスについて｜10月22日(木) 11:50時点",
+      "date": "2026-10-22"
+    },
+    {
       "url": "https://urayasu-d-rocks.com/news/game/index_2058.html",
       "title": "ゲーム 2026.10.21 【メンバー発表】2026-27シーズン プレシーズンマッチ③ トヨタヴェルブリッツ戦（10月23日）",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2045.html",
+      "title": "ゲーム 2026.10.21 【更新】10月23日(金) プレシーズンマッチ vs トヨタヴェルブリッツ ホストゲーム情報",
       "date": "2026-10-21"
     },
     {
@@ -54,7 +64,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2034.html",
-      "title": "ゲーム 2026.10.15 【更新】10月17日(土) プレシーズンマッチ vs 日野レッドドルフィンズ ホストゲーム情報",
+      "title": "2026.10.15 ニュース 【更新】10月17日(土) プレシーズンマッチ vs 日野レッドドルフィンズ ホストゲーム情報",
       "date": "2026-10-15"
     },
     {
@@ -64,7 +74,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2050.html",
-      "title": "イベント 2026.10.15 2026.10.11 「浦安市スポーツフェア 2026」に参加しました",
+      "title": "2026.10.15 ニュース 2026.10.11 「浦安市スポーツフェア 2026」に参加しました",
       "date": "2026-10-15"
     },
     {
@@ -75,11 +85,6 @@
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2047.html",
       "title": "2026.10.08 ニュース 【メンバー発表】2026-27シーズン プレシーズンマッチ① 東京サントリーサンゴリアス戦（10月10日）",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_2045.html",
-      "title": "2026.10.08 ニュース 10月23日(金) プレシーズンマッチ vs トヨタヴェルブリッツ ホストゲーム情報",
       "date": "2026-10-08"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/partner/index_2015.html",
       "title": "2026.09.02 ニュース わくわくはっぴー本棚との地域連携共創・相互支援に関する包括連携協定締結のお知らせ",
       "date": "2026-09-02"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_2010.html",
-      "title": "2026.09.01 ニュース OWV 2026-27シーズン 浦安D-Rocks公式アンバサダー継続就任のお知らせ",
-      "date": "2026-09-01"
     }
   ]
 }

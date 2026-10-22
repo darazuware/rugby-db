@@ -3,21 +3,21 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-10-22T00:45:34+09:00",
+  "checked_at": "2026-10-22T18:19:32+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "247cb5c0fad38ff3"
+      "hash": "e6023a07d0c40a1c"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "1e498393d1623119"
+      "hash": "4746a231f3fdcb44"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
-      "hash": "0f393f73ac03c747"
+      "hash": "2dc91fc2b359e5f4"
     },
     {
       "url": "https://www.skyactivs.com/news/2035",
@@ -30,6 +30,11 @@
   ],
   "items": [
     {
+      "url": "https://www.skyactivs.com/news/4924",
+      "title": "2026.10.22[THU] GAME 【メンバー発表】vs中国電力レッドレグリオンズ",
+      "date": "2026-10-22"
+    },
+    {
       "url": "https://www.skyactivs.com/news/4910",
       "title": "2026.10.20[TUE] TEAM 2026-27シーズン入団選手（追加）のお知らせ",
       "date": "2026-10-20"
@@ -41,7 +46,7 @@
     },
     {
       "url": "https://www.skyactivs.com/news/4844",
-      "title": "2026.10.15[THU] GAME 【当日情報】vs 中国電力レッドレグリオンズ",
+      "title": "2026.10.15[THU] GAME 【当日情報】vs 中国電力レッドレグリオンズ（10/22更新）",
       "date": "2026-10-15"
     },
     {
@@ -223,11 +228,6 @@
       "url": "https://www.skyactivs.com/news/4239",
       "title": "2026.06.10[WED] TEAM 2025-26シーズン終了のご挨拶",
       "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/4225",
-      "title": "2026.06.09[TUE] TEAM 『NTTジャパンラグビー リーグワン2025-26 アワード』 受賞者のお知らせ",
-      "date": "2026-06-09"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",

@@ -3,40 +3,40 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-10-22T00:45:34+09:00",
+  "checked_at": "2026-10-22T18:19:32+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "614869be0b81ce20"
+      "hash": "9c0f2bb368e747c4"
     }
   ],
   "items": [
     {
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261022b.html",
+      "title": "10月25日(日)「おどろきとどろき祭り2026」参加のお知らせ",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261022a.html",
+      "title": "10月25日(日)「PAPARU FESTIVAL」参加のお知らせ",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261022a.html",
+      "title": "トムス株式会社とオフィシャルパートナー契約継続のお知らせ",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261022c.html",
+      "title": "【重要】豊田自動織機シャトルズ愛知戦 チケット先行販売延期のお知らせ",
+      "date": "2026-10-22"
+    },
+    {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261021b.html",
       "title": "【重要】Ticket RUGBY緊急メンテナンスに伴う「ラムチケ」サービス停止のお知らせ",
       "date": "2026-10-21"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261021a.html",
-      "title": "【重要】ブラックラムズ東京オンラインショップ 緊急システムメンテナンスのお知らせ",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261021a.html",
-      "title": "11月開催プレシーズンマッチ チケット情報のお知らせ",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261020a.html",
-      "title": "2026-27シーズン 1stオーセンティックジャージー 受注販売のお知らせ",
-      "date": "2026-10-20"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20261019a.html",
-      "title": "メールマガジン「ラム通」リニューアルおよび「Rams News」配信開始のお知らせ",
-      "date": "2026-10-19"
     }
   ]
 }

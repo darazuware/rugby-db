@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-10-22T00:45:34+09:00",
+  "checked_at": "2026-10-22T18:19:32+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "835e05d9abaf5c9b"
+      "hash": "a6afcb5e7428b029"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "fca229f0eb1e5b63"
+      "hash": "c011bbf2bb6741e7"
     }
   ],
   "items": [
+    {
+      "url": "https://shuttles-aichi.com/news/2026-10-24-saturday-pre-season-match-vs-red-hurricanes-osaka-participating-members/",
+      "title": "お知らせ 26年10月22日 2026/10/24(土) プレシーズンマッチ vs レッドハリケーンズ大阪 出場メンバー",
+      "date": "2026-10-24"
+    },
     {
       "url": "https://shuttles-aichi.com/news/2026-10-17-sat-japan-rugby-league-one-rising-2026-vs-yakultrevins-toda-photo-gallery/",
       "title": "フォトギャラリー 26年10月19日 2026/10/17(土)JAPAN RUGBY LEAGUE ONE RISING 2026 vsヤクルトレビンズ戸田 フォトギャラリー",
@@ -40,11 +45,6 @@
     {
       "url": "https://shuttles-aichi.com/news/section-1-section-2-notice-of-kick-off-time-decision/",
       "title": "お知らせ 2026.10.05 第1節・第2節 キックオフ時間決定のお知らせ",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/notice-mizuho-3-game-pack-now-on-sale1/",
-      "title": "お知らせ 2026.10.05 瑞穂3試合パック販売開始のお知らせ",
       "date": "2026-10-05"
     },
     {

@@ -3,16 +3,26 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-10-22T00:45:34+09:00",
+  "checked_at": "2026-10-22T18:19:32+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "e57c6e771ae99c44"
+      "hash": "98b5b7a54e023353"
     }
   ],
   "items": [
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4295",
+      "title": "緊急システムメンテナンスに伴う一部サービス一時停止のお知らせ グッズ チケット・ファンクラブ 2026.10.22",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4295/",
+      "title": "2026.10.22 グッズ チケット・ファンクラブ 緊急システムメンテナンスに伴う一部サービス一時停止のお知らせ",
+      "date": "2026-10-22"
+    },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4293/",
       "title": "2026.10.20 チケット・ファンクラブ 【試合情報・チケット】タンドラスペシャルシート販売のお知らせ",
@@ -49,19 +59,9 @@
       "date": "2026-10-13"
     },
     {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4289/",
-      "title": "2026.10.12 イベント 【パートナー】10/25（日）CANTERBURY 名古屋店にて『一日店長イベント』開催のお知らせ",
-      "date": "2026-10-12"
-    },
-    {
       "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4271",
       "title": "【試合情報・チケット】10/31(土) トヨタヴェルブリッツ VS 日野レッドドルフィンズ 試合情報 チケット・ファンクラブ 2026.09.18",
       "date": "2026-09-18"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4240",
-      "title": "NTTジャパンラグビー リーグワン2026-27 大会日程決定のお知らせ 試合情報 PICK UP 2026.09.09",
-      "date": "2026-09-09"
     }
   ]
 }

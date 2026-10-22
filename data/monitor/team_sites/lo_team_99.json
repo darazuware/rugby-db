@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-10-22T00:45:34+09:00",
+  "checked_at": "2026-10-22T18:19:32+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "36e6fb0afacfb549"
+      "hash": "216ed610d872ec76"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "bc42c0b8a3655ed6"
+      "hash": "a2819324f65fe6a7"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/NJRLO2627TSA.html",
+      "title": "2026年 10月22日 【チケット情報】東京サンゴリアスホストゲームチケット概要のご案内（10月22日情報更新） （2026/10/22 15:00情報更新）phpの脆弱性に対応するためのチケゴリの緊急メンテナンス実施のため…",
+      "date": "2026-10-22"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2610-1038.html",
       "title": "2026年 10月16日 #1038 田代 智史 -1『なんて素晴らしいチームなんだろう』",
@@ -26,11 +31,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/daznnsp.html",
       "title": "2026年 10月15日 DAZN年間視聴パス販売のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 東京サントリーサンゴリアスでは、202…",
       "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/NJRLO2627TSA.html",
-      "title": "2026年 10月14日 【チケット情報】NTT JAPAN RUGBY LEAGUE ONE 2026-27 東京サンゴリアスホストゲームチケット概要のご案内！ （2026/10/14 14:00情報更新） いつも東京サントリーサンゴリアスへの温かいご声援ありがとうござい…",
-      "date": "2026-10-14"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMvUDRvudp.html",

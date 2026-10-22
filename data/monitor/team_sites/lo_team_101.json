@@ -3,28 +3,43 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-10-22T00:45:34+09:00",
+  "checked_at": "2026-10-22T18:19:32+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "a4631f61544adb54"
+      "hash": "197577911ba33dcf"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "c80fd1764aa9741d"
+      "hash": "1723a24c9f115297"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "8fc105ed7eab48f8"
+      "hash": "d36c2e11ae446025"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "ecccf4b289749485"
+      "hash": "51c2e6e2c73fa57b"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35715/",
+      "title": "2026/10/22 普及 【レポート】京丹後市の小中学校でタグラグビー教室を実施しました",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35696/",
+      "title": "2026/10/22 チーム 10月24日(土)「リポビタンDチャレンジカップ2026」フィジー代表戦メンバー選出のお知らせ",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://www.kobesteelers.com/game/post34941/",
+      "title": "2026/10/22 試合 10月24日(土)プレシーズンマッチ クボタスピアーズ船橋・東京ベイ戦 出場メンバーのお知らせ",
+      "date": "2026-10-22"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35697/",
       "title": "2026/10/20 イベント 【イベントレポート】ミスター・ラグビー メモリアルイベント タグラグビー『平尾誠二杯』に参加しました",
@@ -141,11 +156,6 @@
       "date": "2026-10-01"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35468/",
-      "title": "2026/9/30 イベント 【レポート】9月26日(土)に神戸三宮センター街1丁目で開催された「SANNOMIYA COLLECTION 2026A/W」にブースを出展しました",
-      "date": "2026-09-30"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35412/",
       "title": "2026/9/30 イベント 10月4日(日)「KOBE AUTUMN FESTIVAL 2026」にてラグビー体験を実施します",
       "date": "2026-09-30"
@@ -216,24 +226,9 @@
       "date": "2026-09-17"
     },
     {
-      "url": "https://www.kobesteelers.com/interview/post35296/",
-      "title": "2026/9/14 チーム 【Road to RWC2027】「アサヒスーパードライ パシフィックネーションズカップ2026」日本代表 vsアメリカ代表レポート",
-      "date": "2026-09-14"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35287/",
       "title": "2026/9/11 普及 【レポート】神戸市立御蔵小学校でタグラグビー教室を実施しました",
       "date": "2026-09-11"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35225/",
-      "title": "2026/9/11 グッズ 2026-27シーズン オフィシャルグッズ第1弾発売のお知らせ",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35256/",
-      "title": "2026/9/10 社会貢献 神戸市が取り組む「こうべ木陰プロジェクト」のPRに協力します",
-      "date": "2026-09-10"
     },
     {
       "url": "https://www.kobesteelers.com/news/post35142/",
@@ -323,6 +318,11 @@
     {
       "url": "https://www.kobesteelers.com/news/post29666/",
       "title": "2025/11/25 お知らせ 神戸三宮センター街でのチームPR活動実施について",
+      "date": "2025-11-25"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/",
+      "title": "2025/11/25 お知らせ チーム公式HPがより便利に！ニュース検索機能を追加しました",
       "date": "2025-11-25"
     }
   ]
