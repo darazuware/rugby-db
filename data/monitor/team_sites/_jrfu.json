@@ -1,7 +1,13 @@
 {
-  "checked_at": "2026-10-22T18:19:32+09:00",
+  "checked_at": "2026-10-22T22:24:22+09:00",
   "url": "https://www.rugby-japan.jp/news/",
   "items": [
+    {
+      "url": "https://www.rugby-japan.jp/news/54290",
+      "title": "リポビタンDチャレンジカップ2026 女子ウェールズ代表戦 試合登録メンバーのお知らせ 2026.10.22 （木） 15人制女子日本代表 女子",
+      "date": "2026-10-22",
+      "category": "squad"
+    },
     {
       "url": "https://www.rugby-japan.jp/news/54289",
       "title": "女子日本代表、JRFU創立100周年記念のテストマッチ100戦目でウェールズ代表と対戦、初勝利なるか 2026.10.22 （木） 15人制女子日本代表 女子 日本代表コラムシリーズ",
@@ -10,8 +16,12 @@
     {
       "url": "https://www.rugby-japan.jp/news/54288",
       "title": "櫻井 翔さん ラグビー日本代表オフィシャルアンバサダー就任のお知らせ 2026.10.22 （木） 15人制男子日本代表 WBB 日本代表",
-      "date": "2026-10-22",
-      "category": "roster"
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://www.rugby-japan.jp/news/54287",
+      "title": "（10/22更新） 【Ticket RUGBY】緊急メンテナンスのお知らせ 2026.10.22 （木）",
+      "date": "2026-10-22"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54286",
@@ -29,11 +39,6 @@
       "date": "2026-10-22"
     },
     {
-      "url": "https://www.rugby-japan.jp/news/54287",
-      "title": "【Ticket RUGBY】緊急メンテナンスのお知らせ 2026.10.21 （水）",
-      "date": "2026-10-21"
-    },
-    {
       "url": "https://www.rugby-japan.jp/news/54285",
       "title": "レポート：女子日本代表候補 熊谷合宿 2026.10.21 （水） 15人制女子日本代表 女子",
       "date": "2026-10-21"
@@ -46,11 +51,6 @@
     {
       "url": "https://www.rugby-japan.jp/news/54271",
       "title": "（10/21更新）レポート：女子セブンズ日本代表（サクラセブンズ）スリランカ遠征 2026.10.21 （水） 女子セブンズ日本代表 女子 セブンズ ARE7s ARESS2026",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54262",
-      "title": "（10/20更新）レポート：男子日本代表 別府合宿 2026.10.21 （水） 15人制男子日本代表",
       "date": "2026-10-21"
     }
   ]
