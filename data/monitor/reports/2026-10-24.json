@@ -1,0 +1,767 @@
+{
+  "checked_at": "2026-10-24T00:32:44+09:00",
+  "teams": [
+    {
+      "team_id": "lo_team_100",
+      "league": "league-one-d1",
+      "name": "浦安D-Rocks",
+      "official_url": "https://urayasu-d-rocks.com",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 40,
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/fanclub/index_2065.html",
+          "title": "ファンクラブ 2026.10.23 2026.10.29「第2回 Club D-Rockers交流会」開催のお知らせ",
+          "date": "2026-10-23",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_101",
+      "league": "league-one-d1",
+      "name": "コベルコ神戸スティーラーズ",
+      "official_url": "https://www.kobesteelers.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 60,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_102",
+      "league": "league-one-d1",
+      "name": "埼玉パナソニックワイルドナイツ",
+      "official_url": "https://panasonic.co.jp/sports/wildknights/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 39,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_103",
+      "league": "league-one-d1",
+      "name": "東芝ブレイブルーパス東京",
+      "official_url": "https://www.bravelupus.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 42,
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/news/all_story/",
+          "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.207更新）",
+          "date": "2026-10-20",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/",
+          "title": "記事一覧",
+          "date": "2026-10-20",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/261019/",
+          "title": "【プレシーズンマッチ】10/24（土）vs 清水建設江東ブルーシャークス 観戦について",
+          "date": "2026-10-19",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/game/pewgame_261017/",
+          "title": "結果詳細",
+          "date": "2026-10-17",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/261016/",
+          "title": "10/17(土) 埼玉パナソニックワイルドナイツ戦 マッチデープログラム情報",
+          "date": "2026-10-16",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/261016-2/",
+          "title": "チケットラグビー・DAZN年間視聴パス 販売のお知らせ",
+          "date": "2026-10-16",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260909/",
+          "title": "NTTジャパンラグビー リーグワン2026-27 ディビジョン1 試合日程・会場決定のお知らせ ※２節の会場が決定しました",
+          "date": "2026-10-16",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/20261016_1/",
+          "title": "【新設】 【ルーパス塾 川崎校 U12/U15クラス】",
+          "date": "2026-10-16",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/261015/",
+          "title": "2026-27レプリカジャージー先行予約販売のお知らせ",
+          "date": "2026-10-15",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260923/",
+          "title": "(10/16更新) 【プレシーズンマッチ】10/17（土）vs 埼玉パナソニックワイルドナイツ 観戦について",
+          "date": "2026-10-15",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/261013fc/",
+          "title": "★新規受付開始★【2026-27ファンクラブ】入会受付のご案内",
+          "date": "2026-10-13",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/261010/",
+          "title": "2026-27シーズン公式戦ジャージーデザイン、およびオフィシャルパートナー決定のお知らせ",
+          "date": "2026-10-10",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/261009/",
+          "title": "グッズ再販売のお知らせ",
+          "date": "2026-10-09",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/261008/",
+          "title": "男子日本代表 別府合宿参加メンバーのお知らせ",
+          "date": "2026-10-08",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.bravelupus.com/news/261007/",
+          "title": "東芝ブレイブルーパス武蔵 2026鹿児島キャンプ実施のお知らせ",
+          "date": "2026-10-07",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/261006fc/",
+          "title": "【お詫び】ゴールド会員2026-27ファンクラブ 先行入会について",
+          "date": "2026-10-06",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/261001_02/",
+          "title": "2026-27シーズン新加入スタッフ（追加）のお知らせ",
+          "date": "2026-10-01",
+          "category": "roster"
+        },
+        {
+          "url": "https://www.bravelupus.com/news/261001/",
+          "title": "本日より東芝ブレイブルーパス武蔵として活動して参ります。",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/221130_1/",
+          "title": "チームスピリット・チーム歌",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260928/",
+          "title": "東芝ブレイブルーパス東京 チーム名称変更のお知らせ",
+          "date": "2026-09-28",
+          "category": "rename"
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260928-2/",
+          "title": "2026-27シーズン新加入選手、スタッフ（追加）のお知らせ",
+          "date": "2026-09-28",
+          "category": "roster"
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260924/",
+          "title": "【アジアプロジェクト】タイ代表 Pachara Polpathapee選手がチーム活動に参加しました。",
+          "date": "2026-09-24",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260924-2/",
+          "title": "「ルーパス塾 夏期集中トレーニング2026」を実施しました",
+          "date": "2026-09-24",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260918/",
+          "title": "オフィシャルパートナー決定およびラッピングカー提供のお知らせ",
+          "date": "2026-09-18",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260917/",
+          "title": "アサヒスーパードライパシフィックネーションズカップ2026 決勝日本代表対フィジー代表試合登録メンバーのお知らせ",
+          "date": "2026-09-17",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260915/",
+          "title": "男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿スケジュールと参加メンバーのお知らせ",
+          "date": "2026-09-15",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.bravelupus.com/news/20260914/",
+          "title": "【本申込開始】 【ルーパス塾 U8/U10クラス】",
+          "date": "2026-09-14",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260910/",
+          "title": "アサヒスーパードライパシフィックネーションズカップ2026 準決勝日本代表対アメリカ代表試合登録メンバーのお知らせ",
+          "date": "2026-09-10",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260901/",
+          "title": "2026-27シーズン プレシーズンマッチのお知らせ※11/14、11/21の試合を更新しました。",
+          "date": "2026-09-10",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260909-2/",
+          "title": "アサヒスーパードライ パシフィックネーションズカップ2026 大会登録メンバーのお知らせ",
+          "date": "2026-09-09",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260903/",
+          "title": "リポビタンDチャレンジカップ2026 日本代表 対 カナダ代表 試合登録メンバーのお知らせ",
+          "date": "2026-09-03",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.bravelupus.com/news/%e3%80%902026-27%e3%83%95%e3%82%a1%e3%83%b3%e3%82%af%e3%83%a9%e3%83%96%e3%80%91%e5%85%a5%e4%bc%9a%e5%8f%97%e4%bb%98%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85/",
+          "title": "【2026-27ファンクラブ】入会受付のご案内（9/7更新）",
+          "date": "2026-09-03",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260831/",
+          "title": "川崎市、神奈川県ラグビーフットボール協会、川崎市ラグビーフットボール協会との連携協定締結について",
+          "date": "2026-08-31",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260824-2/",
+          "title": "男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ（8/31更新）",
+          "date": "2026-08-31",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260818/",
+          "title": "男子セブンズ・デベロップメント・スコッド（SDS） 福岡合宿スケジュールと参加メンバーのお知らせ",
+          "date": "2026-08-22",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260820/",
+          "title": "BL東京グッズ１0～50％OFF販売のお知らせ",
+          "date": "2026-08-20",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260813/",
+          "title": "リポビタンDツアー2026 日本代表 対 オーストラリア代表 試合登録メンバーのお知らせ",
+          "date": "2026-08-13",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260806/",
+          "title": "リポビタンDチャレンジカップ2026 日本代表 対 オーストラリア代表 試合登録メンバーのお知らせ",
+          "date": "2026-08-06",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260801/",
+          "title": "「東芝ブレイブルーパス東京×筋肉食堂」のタイアップが実現",
+          "date": "2026-08-01",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260727/",
+          "title": "カンタベリー×BL東京コラボグッズ30％OFF販売のお知らせ",
+          "date": "2026-07-27",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260723_2/",
+          "title": "2026-27シーズン新加入選手（追加）のお知らせ",
+          "date": "2026-07-23",
+          "category": "roster"
+        },
+        {
+          "url": "https://www.bravelupus.com/news/260723/",
+          "title": "2026-27シーズン新体制、新加入スタッフのお知らせ",
+          "date": "2026-07-23",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.bravelupus.com/"
+      ],
+      "rename_signals": [
+        {
+          "url": "https://www.bravelupus.com/news/260928/",
+          "title": "東芝ブレイブルーパス東京 チーム名称変更のお知らせ",
+          "date": "2026-09-28",
+          "category": "rename"
+        }
+      ]
+    },
+    {
+      "team_id": "lo_team_104",
+      "league": "league-one-d1",
+      "name": "トヨタヴェルブリッツ",
+      "official_url": "https://verblitz.toyotatimes-sports.toyota/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 10,
+      "new_items": [],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_105",
+      "league": "league-one-d1",
+      "name": "三重ホンダヒート",
+      "official_url": "http://www.honda-heat.jp",
+      "status": "unreachable",
+      "first_run": false,
+      "item_count": 0,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_106",
+      "league": "league-one-d1",
+      "name": "三菱重工相模原ダイナボアーズ",
+      "official_url": "https://dynaboars.mhi.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 40,
+      "new_items": [],
+      "changed_pages": [
+        "https://www.mhi.com/jp/company/sports/dynaboars/",
+        "https://www.mhi.com/jp/company/sports/dynaboars/news"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_107",
+      "league": "league-one-d1",
+      "name": "横浜キヤノンイーグルス",
+      "official_url": "https://www.canon-eagles.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 16,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_108",
+      "league": "league-one-d1",
+      "name": "リコーブラックラムズ東京",
+      "official_url": "https://blackrams-tokyo.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 4,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_97",
+      "league": "league-one-d1",
+      "name": "クボタスピアーズ船橋・東京ベイ",
+      "official_url": "http://www.kubota-spears.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 55,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_98",
+      "league": "league-one-d1",
+      "name": "静岡ブルーレヴズ",
+      "official_url": "https://www.shizuoka-bluerevs.com",
+      "status": "unreachable",
+      "first_run": false,
+      "item_count": 0,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_99",
+      "league": "league-one-d1",
+      "name": "東京サントリーサンゴリアス",
+      "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 40,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_109",
+      "league": "league-one-d2",
+      "name": "NECグリーンロケッツ東葛",
+      "official_url": "https://www.jreast.co.jp/greenwarriors/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 25,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_110",
+      "league": "league-one-d2",
+      "name": "九州電力キューデンヴォルテクス",
+      "official_url": "https://www.kyudenvoltex.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 40,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_111",
+      "league": "league-one-d2",
+      "name": "清水建設江東ブルーシャークス",
+      "official_url": "https://blue-sharks.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 24,
+      "new_items": [],
+      "changed_pages": [
+        "https://blue-sharks.jp/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_112",
+      "league": "league-one-d2",
+      "name": "豊田自動織機シャトルズ愛知",
+      "official_url": "https://shuttles-aichi.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 7,
+      "new_items": [
+        {
+          "url": "https://shuttles-aichi.com/news/tokai-city-mitsuike-elementary-school-tag-rugby-visiting-lesson-implementation-report/",
+          "title": "フォトギャラリー お知らせ 2026.10.23 東海市立三ツ池小学校 タグラグビー訪問授業 実施報告",
+          "date": "2026-10-23",
+          "category": null
+        },
+        {
+          "url": "https://shuttles-aichi.com/news/obu-city-kitayama-elementary-school-tag-rugby-visiting-class-activity-report/",
+          "title": "フォトギャラリー お知らせ 2026.10.23 大府市立北山小学校 タグラグビー訪問授業 実施報告",
+          "date": "2026-10-23",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://shuttles-aichi.com/",
+        "https://shuttles-aichi.com/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_113",
+      "league": "league-one-d2",
+      "name": "日本製鉄釜石シーウェイブス",
+      "official_url": "https://kamaishi-seawaves.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 18,
+      "new_items": [
+        {
+          "url": "https://kamaishi-seawaves.com/news/info/33038/",
+          "title": "お知らせ 2026.10.23 釜石鵜住居復興スタジアムで津波避難訓練を実施しました",
+          "date": "2026-10-23",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://kamaishi-seawaves.com/",
+        "https://kamaishi-seawaves.com/news/",
+        "https://kamaishi-seawaves.com/news/info/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_114",
+      "league": "league-one-d2",
+      "name": "花園近鉄ライナーズ",
+      "official_url": "https://hanazono-liners.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 26,
+      "new_items": [],
+      "changed_pages": [
+        "https://hanazono-liners.jp/",
+        "https://hanazono-liners.jp/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_115",
+      "league": "league-one-d2",
+      "name": "日野レッドドルフィンズ",
+      "official_url": "https://hino-reddolphins.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 15,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_116",
+      "league": "league-one-d2",
+      "name": "レッドハリケーンズ大阪",
+      "official_url": "https://docomo-rugby.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 44,
+      "new_items": [],
+      "changed_pages": [
+        "https://docomo-rugby.jp/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_117",
+      "league": "league-one-d3",
+      "name": "クリタウォーターガッシュ昭島",
+      "official_url": "https://www.kurita-watergush.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 44,
+      "new_items": [],
+      "changed_pages": [
+        "https://www.kurita-watergush.jp/",
+        "https://www.kurita-watergush.jp/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_118",
+      "league": "league-one-d3",
+      "name": "狭山セコムラガッツ",
+      "official_url": "https://www.rugguts.secom.co.jp/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 40,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_119",
+      "league": "league-one-d3",
+      "name": "中国電力レッドレグリオンズ",
+      "official_url": "https://rrrfc.red/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 16,
+      "new_items": [
+        {
+          "url": "https://rrrfc.red/game/game-6775/",
+          "title": "MORE",
+          "date": "2026-10-24",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://rrrfc.red/",
+        "https://rrrfc.red/blog/",
+        "https://rrrfc.red/categories/news/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_120",
+      "league": "league-one-d3",
+      "name": "マツダスカイアクティブズ広島",
+      "official_url": "https://www.skyactivs.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 45,
+      "new_items": [],
+      "changed_pages": [
+        "https://www.skyactivs.com/"
+      ],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_121",
+      "league": "league-one-d3",
+      "name": "ヤクルトレビンズ戸田",
+      "official_url": "https://www.yakult.co.jp/sports/rugby/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 12,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    },
+    {
+      "team_id": "lo_team_122",
+      "league": "league-one-d3",
+      "name": "ルリーロ福岡",
+      "official_url": "https://leriro-fukuoka.com/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 11,
+      "new_items": [],
+      "changed_pages": [],
+      "rename_signals": []
+    }
+  ],
+  "sources": [
+    {
+      "key": "league_one",
+      "name": "リーグワン公式",
+      "url": "https://league-one.jp/news/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 10,
+      "new_items": [],
+      "rename_signals": []
+    },
+    {
+      "key": "jrfu",
+      "name": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 10,
+      "new_items": [],
+      "rename_signals": []
+    },
+    {
+      "key": "pnc",
+      "name": "パシフィック・ネーションズカップ（World Rugby）",
+      "url": "https://www.world.rugby/news",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 1,
+      "new_items": [],
+      "rename_signals": []
+    }
+  ],
+  "highlights": [
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/260723_2/",
+      "title": "2026-27シーズン新加入選手（追加）のお知らせ",
+      "date": "2026-07-23",
+      "category": "roster"
+    },
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/260723/",
+      "title": "2026-27シーズン新体制、新加入スタッフのお知らせ",
+      "date": "2026-07-23",
+      "category": "roster"
+    },
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/260928-2/",
+      "title": "2026-27シーズン新加入選手、スタッフ（追加）のお知らせ",
+      "date": "2026-09-28",
+      "category": "roster"
+    },
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/261001_02/",
+      "title": "2026-27シーズン新加入スタッフ（追加）のお知らせ",
+      "date": "2026-10-01",
+      "category": "roster"
+    },
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/260806/",
+      "title": "リポビタンDチャレンジカップ2026 日本代表 対 オーストラリア代表 試合登録メンバーのお知らせ",
+      "date": "2026-08-06",
+      "category": "squad"
+    },
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/260813/",
+      "title": "リポビタンDツアー2026 日本代表 対 オーストラリア代表 試合登録メンバーのお知らせ",
+      "date": "2026-08-13",
+      "category": "squad"
+    },
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/260824-2/",
+      "title": "男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ（8/31更新）",
+      "date": "2026-08-31",
+      "category": "squad"
+    },
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/260903/",
+      "title": "リポビタンDチャレンジカップ2026 日本代表 対 カナダ代表 試合登録メンバーのお知らせ",
+      "date": "2026-09-03",
+      "category": "squad"
+    },
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/260910/",
+      "title": "アサヒスーパードライパシフィックネーションズカップ2026 準決勝日本代表対アメリカ代表試合登録メンバーのお知らせ",
+      "date": "2026-09-10",
+      "category": "squad"
+    },
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/260915/",
+      "title": "男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿スケジュールと参加メンバーのお知らせ",
+      "date": "2026-09-15",
+      "category": "squad"
+    },
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/260917/",
+      "title": "アサヒスーパードライパシフィックネーションズカップ2026 決勝日本代表対フィジー代表試合登録メンバーのお知らせ",
+      "date": "2026-09-17",
+      "category": "squad"
+    },
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/261008/",
+      "title": "男子日本代表 別府合宿参加メンバーのお知らせ",
+      "date": "2026-10-08",
+      "category": "squad"
+    }
+  ],
+  "league_rename_news": [],
+  "warnings": [
+    "三重ホンダヒート: 到達できるページがない: http://www.honda-heat.jp",
+    "静岡ブルーレヴズ: 到達できるページがない: https://www.shizuoka-bluerevs.com"
+  ]
+}

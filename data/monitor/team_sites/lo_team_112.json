@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-10-23T18:15:06+09:00",
+  "checked_at": "2026-10-24T00:32:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "a442fe2347b0df02"
+      "hash": "6e1a867996f0055e"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "f7b56cf72c362518"
+      "hash": "cc152eefd2052903"
     }
   ],
   "items": [
@@ -23,8 +23,18 @@
       "date": "2026-10-24"
     },
     {
+      "url": "https://shuttles-aichi.com/news/tokai-city-mitsuike-elementary-school-tag-rugby-visiting-lesson-implementation-report/",
+      "title": "フォトギャラリー お知らせ 2026.10.23 東海市立三ツ池小学校 タグラグビー訪問授業 実施報告",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/obu-city-kitayama-elementary-school-tag-rugby-visiting-class-activity-report/",
+      "title": "フォトギャラリー お知らせ 2026.10.23 大府市立北山小学校 タグラグビー訪問授業 実施報告",
+      "date": "2026-10-23"
+    },
+    {
       "url": "https://shuttles-aichi.com/news/notice-of-free-invitation-for-residents-of-aichi-prefecture/",
-      "title": "2026.10.23 愛知県民無料ご招待のお知らせ",
+      "title": "お知らせ 2026.10.23 愛知県民無料ご招待のお知らせ",
       "date": "2026-10-23"
     },
     {
@@ -36,16 +46,6 @@
       "url": "https://shuttles-aichi.com/news/2026-10-17-sat-japan-rugby-league-one-rising-2026-vs-yakult-levins-toda-match-squad/",
       "title": "お知らせ 26年10月15日 2026/10/17(土) ジャパンラグビーリーグワン ライジング2026 vs ヤクルトレビンズ戸田 出場メンバー",
       "date": "2026-10-17"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/tokai-city-tomikishima-elementary-school-tag-rugby-visiting-class-implementation-report/",
-      "title": "フォトギャラリー お知らせ 2026.10.06 東海市立富木島小学校 タグラグビー訪問授業 実施報告",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/gold-regular-member-only-fan-meeting-participants-decided/",
-      "title": "お知らせ イベント 2026.10.06 ゴールド・レギュラー会員限定！ファンミーティング参加メンバー決定！",
-      "date": "2026-10-06"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-10-3-satjapan-rugby-league-one-rising-2026-vs-shizuoka-bluerevs-photo-gallery/",

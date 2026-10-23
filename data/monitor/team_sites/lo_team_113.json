@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-10-23T18:15:06+09:00",
+  "checked_at": "2026-10-24T00:32:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "6359b92315adf918"
+      "hash": "41d8d4da9fd38799"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "ad0ac5b98f78a131"
+      "hash": "24ec92ccd8217779"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "f3fea4cad2354c1a"
+      "hash": "1a08e37ab2c4784c"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/33038/",
+      "title": "お知らせ 2026.10.23 釜石鵜住居復興スタジアムで津波避難訓練を実施しました",
+      "date": "2026-10-23"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/game/33028/",
       "title": "試合情報 2026.10.21 2026トレーニングマッチ 第7戦／JR東日本グリーンウォリアーズ東葛戦",
@@ -77,11 +82,6 @@
       "date": "2026-09-30"
     },
     {
-      "url": "https://kamaishi-seawaves.com/news/game/32522/",
-      "title": "試合情報 2026.9.23 2026トレーニングマッチ 第3戦／埼玉パナソニックワイルドナイツ戦",
-      "date": "2026-09-23"
-    },
-    {
       "url": "https://kamaishi-seawaves.com/news/info/32434/",
       "title": "お知らせ 2026.9.15 2026-27シーズン キャプテン決定のお知らせ",
       "date": "2026-09-15"
@@ -110,11 +110,6 @@
       "url": "https://kamaishi-seawaves.com/news/info/32202/",
       "title": "お知らせ 2026.9.2 短期インターン（普及活動・グラウンドサポート）受け入れのお知らせ",
       "date": "2026-09-02"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/32166/",
-      "title": "お知らせ 2026.8.31 2026-27シーズン 新加入選手・スタッフに関するお知らせ（追加）",
-      "date": "2026-08-31"
     }
   ]
 }

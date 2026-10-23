@@ -3,14 +3,229 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-23T18:15:06+09:00",
+  "checked_at": "2026-10-24T00:32:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "72979a36e21cb34b"
+      "hash": "025b4c421c03df76"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/",
+      "hash": "0f6fa4f5e50a6ce2"
     }
   ],
-  "items": []
+  "items": [
+    {
+      "url": "https://www.bravelupus.com/news/all_story/",
+      "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.207更新）",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/",
+      "title": "記事一覧",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261019/",
+      "title": "【プレシーズンマッチ】10/24（土）vs 清水建設江東ブルーシャークス 観戦について",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://www.bravelupus.com/game/pewgame_261017/",
+      "title": "結果詳細",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261016/",
+      "title": "10/17(土) 埼玉パナソニックワイルドナイツ戦 マッチデープログラム情報",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261016-2/",
+      "title": "チケットラグビー・DAZN年間視聴パス 販売のお知らせ",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260909/",
+      "title": "NTTジャパンラグビー リーグワン2026-27 ディビジョン1 試合日程・会場決定のお知らせ ※２節の会場が決定しました",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/20261016_1/",
+      "title": "【新設】 【ルーパス塾 川崎校 U12/U15クラス】",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261015/",
+      "title": "2026-27レプリカジャージー先行予約販売のお知らせ",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260923/",
+      "title": "(10/16更新) 【プレシーズンマッチ】10/17（土）vs 埼玉パナソニックワイルドナイツ 観戦について",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261013fc/",
+      "title": "★新規受付開始★【2026-27ファンクラブ】入会受付のご案内",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261010/",
+      "title": "2026-27シーズン公式戦ジャージーデザイン、およびオフィシャルパートナー決定のお知らせ",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261009/",
+      "title": "グッズ再販売のお知らせ",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261008/",
+      "title": "男子日本代表 別府合宿参加メンバーのお知らせ",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261007/",
+      "title": "東芝ブレイブルーパス武蔵 2026鹿児島キャンプ実施のお知らせ",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261006fc/",
+      "title": "【お詫び】ゴールド会員2026-27ファンクラブ 先行入会について",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261001_02/",
+      "title": "2026-27シーズン新加入スタッフ（追加）のお知らせ",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261001/",
+      "title": "本日より東芝ブレイブルーパス武蔵として活動して参ります。",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/221130_1/",
+      "title": "チームスピリット・チーム歌",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260928/",
+      "title": "東芝ブレイブルーパス東京 チーム名称変更のお知らせ",
+      "date": "2026-09-28"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260928-2/",
+      "title": "2026-27シーズン新加入選手、スタッフ（追加）のお知らせ",
+      "date": "2026-09-28"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260924/",
+      "title": "【アジアプロジェクト】タイ代表 Pachara Polpathapee選手がチーム活動に参加しました。",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260924-2/",
+      "title": "「ルーパス塾 夏期集中トレーニング2026」を実施しました",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260918/",
+      "title": "オフィシャルパートナー決定およびラッピングカー提供のお知らせ",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260917/",
+      "title": "アサヒスーパードライパシフィックネーションズカップ2026 決勝日本代表対フィジー代表試合登録メンバーのお知らせ",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260915/",
+      "title": "男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿スケジュールと参加メンバーのお知らせ",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/20260914/",
+      "title": "【本申込開始】 【ルーパス塾 U8/U10クラス】",
+      "date": "2026-09-14"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260910/",
+      "title": "アサヒスーパードライパシフィックネーションズカップ2026 準決勝日本代表対アメリカ代表試合登録メンバーのお知らせ",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260901/",
+      "title": "2026-27シーズン プレシーズンマッチのお知らせ※11/14、11/21の試合を更新しました。",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260909-2/",
+      "title": "アサヒスーパードライ パシフィックネーションズカップ2026 大会登録メンバーのお知らせ",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260903/",
+      "title": "リポビタンDチャレンジカップ2026 日本代表 対 カナダ代表 試合登録メンバーのお知らせ",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/%e3%80%902026-27%e3%83%95%e3%82%a1%e3%83%b3%e3%82%af%e3%83%a9%e3%83%96%e3%80%91%e5%85%a5%e4%bc%9a%e5%8f%97%e4%bb%98%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85/",
+      "title": "【2026-27ファンクラブ】入会受付のご案内（9/7更新）",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260831/",
+      "title": "川崎市、神奈川県ラグビーフットボール協会、川崎市ラグビーフットボール協会との連携協定締結について",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260824-2/",
+      "title": "男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ（8/31更新）",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260818/",
+      "title": "男子セブンズ・デベロップメント・スコッド（SDS） 福岡合宿スケジュールと参加メンバーのお知らせ",
+      "date": "2026-08-22"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260820/",
+      "title": "BL東京グッズ１0～50％OFF販売のお知らせ",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260813/",
+      "title": "リポビタンDツアー2026 日本代表 対 オーストラリア代表 試合登録メンバーのお知らせ",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260806/",
+      "title": "リポビタンDチャレンジカップ2026 日本代表 対 オーストラリア代表 試合登録メンバーのお知らせ",
+      "date": "2026-08-06"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260801/",
+      "title": "「東芝ブレイブルーパス東京×筋肉食堂」のタイアップが実現",
+      "date": "2026-08-01"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260727/",
+      "title": "カンタベリー×BL東京コラボグッズ30％OFF販売のお知らせ",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260723_2/",
+      "title": "2026-27シーズン新加入選手（追加）のお知らせ",
+      "date": "2026-07-23"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260723/",
+      "title": "2026-27シーズン新体制、新加入スタッフのお知らせ",
+      "date": "2026-07-23"
+    }
+  ]
 }
