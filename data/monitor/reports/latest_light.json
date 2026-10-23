@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-22T22:24:22+09:00",
+  "checked_at": "2026-10-23T15:54:01+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6223",
+          "title": "クラブ 清水建設江東ブルーシャークス、2026-27シーズン キャプテン・リーダーズ及びチームスローガン決定のお知らせ 2026.10.23",
+          "date": "2026-10-23",
+          "category": "roster"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -21,10 +28,10 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54290",
-          "title": "リポビタンDチャレンジカップ2026 女子ウェールズ代表戦 試合登録メンバーのお知らせ 2026.10.22 （木） 15人制女子日本代表 女子",
+          "url": "https://www.rugby-japan.jp/news/54292",
+          "title": "「ラグビージャーナル volume.6」（2027年3月発行） 掲載論文募集のお知らせ 2026.10.22 （木） ハイパフォーマンス",
           "date": "2026-10-22",
-          "category": "squad"
+          "category": null
         }
       ],
       "rename_signals": []
@@ -42,11 +49,11 @@
   ],
   "highlights": [
     {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54290",
-      "title": "リポビタンDチャレンジカップ2026 女子ウェールズ代表戦 試合登録メンバーのお知らせ 2026.10.22 （木） 15人制女子日本代表 女子",
-      "date": "2026-10-22",
-      "category": "squad"
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6223",
+      "title": "クラブ 清水建設江東ブルーシャークス、2026-27シーズン キャプテン・リーダーズ及びチームスローガン決定のお知らせ 2026.10.23",
+      "date": "2026-10-23",
+      "category": "roster"
     }
   ],
   "league_rename_news": [],
