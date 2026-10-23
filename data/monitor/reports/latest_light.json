@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-23T15:54:01+09:00",
+  "checked_at": "2026-10-23T22:02:52+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,14 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6223",
-          "title": "クラブ 清水建設江東ブルーシャークス、2026-27シーズン キャプテン・リーダーズ及びチームスローガン決定のお知らせ 2026.10.23",
-          "date": "2026-10-23",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -26,14 +19,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54292",
-          "title": "「ラグビージャーナル volume.6」（2027年3月発行） 掲載論文募集のお知らせ 2026.10.22 （木） ハイパフォーマンス",
-          "date": "2026-10-22",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -47,15 +33,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6223",
-      "title": "クラブ 清水建設江東ブルーシャークス、2026-27シーズン キャプテン・リーダーズ及びチームスローガン決定のお知らせ 2026.10.23",
-      "date": "2026-10-23",
-      "category": "roster"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": []
 }
