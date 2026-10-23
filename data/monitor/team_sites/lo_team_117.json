@@ -3,24 +3,49 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-23T00:44:36+09:00",
+  "checked_at": "2026-10-23T18:15:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "71255da4b12aa286"
+      "hash": "9bca40a507a79af4"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "af62f3727106b701"
+      "hash": "fa36016295cc6bb3"
     }
   ],
   "items": [
     {
+      "url": "https://www.kurita-watergush.jp/stadium/%e6%a0%97%e7%94%b0%e5%b7%a5%e6%a5%ad%e6%98%ad%e5%b3%b6%e3%82%b0%e3%83%a9%e3%82%a6%e3%83%b3%e3%83%89/",
+      "title": "アクセス",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/games/",
+      "title": "全ての試合情報はこちら",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/game/20261031-wg%e6%98%ad%e5%b3%b6-vsl%e6%88%b8%e7%94%b0/",
+      "title": "このゲームの詳細情報はこちら",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/game/20261023-wg%e6%98%ad%e5%b3%b6-vs%e5%b7%9d%e8%b6%8a%e7%8b%ad%e5%b1%b1rg/",
+      "title": "試合詳細結果",
+      "date": "2026-10-23"
+    },
+    {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-10-22"
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261023-2-2/",
+      "title": "私とウォーターガッシュ 2026/10/23 私とWATER GUSH #11 内藤基 FL 「信頼される選手に、社員に」",
+      "date": "2026-10-23"
     },
     {
       "url": "https://www.kurita-watergush.jp/category/news/",
@@ -64,7 +89,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261019-2/",
-      "title": "私とウォーターガッシュ 2026/10/19 私とWATER GUSH #7 新和田錬 SH 3歳からグラウンドを駆け回った少年が、リーグワンの舞台へ。",
+      "title": "私とウォーターガッシュ 公開日：2026/10/19 私とWATER GUSH #7 新和田錬 SH 3歳からグラウンドを駆け回った少年が、リーグワンの舞台へ。 選手のラグビーとの出会い、クリタでラグビーをする想いにせまる”私とWATER GUSH”。今回は2026-27SEASONに… 続きを読む",
       "date": "2026-10-19"
     },
     {
@@ -76,11 +101,6 @@
       "url": "https://www.kurita-watergush.jp/20261018-2/",
       "title": "私とウォーターガッシュ 公開日：2026/10/18 私とWATER GUSH #6 中尾泰星 FL 3歳からラグビー一筋。前を向いて生きること。 選手のラグビーとの出会い、クリタでラグビーをする想いにせまる”私とWATER GUSH”。今回は、2シーズンにわ… 続きを読む",
       "date": "2026-10-18"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/game/20261017-gw%e6%9d%b1%e8%91%9b-vswg%e6%98%ad%e5%b3%b6/",
-      "title": "試合詳細結果",
-      "date": "2026-10-17"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261017-2/",
@@ -216,11 +236,6 @@
       "url": "https://www.kurita-watergush.jp/20260724-2/",
       "title": "お知らせ 公開日：2026/07/24 2026-27シーズン 新加入選手のお知らせ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 この度、2026-2… 続きを読む",
       "date": "2026-07-24"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260707-2/",
-      "title": "お知らせ 公開日：2026/07/07 ジャパンラグビー リーグワン ライジング 2026開催のお知らせ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。昨年に続き「… 続きを読む",
-      "date": "2026-07-07"
     }
   ]
 }

@@ -3,20 +3,35 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-10-23T00:44:36+09:00",
+  "checked_at": "2026-10-23T18:15:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "b693f8e9ad8c9a1f"
+      "hash": "28bdc5f6516a15e6"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "39930aae74c0843b"
+      "hash": "202b042db20b7ff0"
     }
   ],
   "items": [
+    {
+      "url": "https://docomo-rugby.jp/campaign/2027/lp/20261219_no_inv.html",
+      "title": "12月19日（土）CENTRALプ レミアムマッチ特設サイト MORE",
+      "date": "2026-12-19"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8953",
+      "title": "お知らせ 2026年10月23日 2026-27シーズン ホストゲーム開幕戦（12月19日（土）CENTRALプ レミアムマッチ）特設サイト公開のお知らせ",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8946",
+      "title": "お知らせ 2026年10月23日 有料会員向けチケット先行販売開始日決定のお知らせ",
+      "date": "2026-10-23"
+    },
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8941",
       "title": "お知らせ 2026年10月22日 有料会員向けチケット先行販売開始延期のお知らせ",
@@ -211,16 +226,6 @@
       "url": "https://docomo-rugby.jp/news/detail.html?id=8765",
       "title": "お知らせ 2026年7月16日 サステナビリティページをリニューアルしました",
       "date": "2026-07-16"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8744",
-      "title": "お知らせ 2026年7月13日 金子選手が「バレーボールネーションズリーグ2026」日本代表戦でコイントスセレモニーに参加",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8661",
-      "title": "お知らせ 2026年7月7日 「ジャパンラグビー リーグワンライジング2026」 開催決定のお知らせ",
-      "date": "2026-07-07"
     },
     {
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8386",

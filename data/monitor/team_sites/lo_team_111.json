@@ -3,28 +3,33 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-10-23T00:44:36+09:00",
+  "checked_at": "2026-10-23T18:15:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "2725418d816b4aad"
+      "hash": "c332526e793f2588"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "d611ab0cf03203fd"
+      "hash": "51dfa2ebc057b85d"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "40a8d9f7c054b56f"
+      "hash": "5229d0b327093059"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "2280bc427d89c1e6"
+      "hash": "337f2506699445b4"
     }
   ],
   "items": [
+    {
+      "url": "https://blue-sharks.jp/news/2026/10/25429/",
+      "title": "2026-27シーズン キャプテン·リーダーズ及びチームスローガン決定のお知らせ",
+      "date": "2026-10-25"
+    },
     {
       "url": "https://blue-sharks.jp/news/2026/10/25424/",
       "title": "10月17日 「ラグビー体験教室」開催のご報告",
@@ -42,7 +47,7 @@
     },
     {
       "url": "https://blue-sharks.jp/news/2026/10/25399/",
-      "title": "DAZN年間視聴パス（リーグワンクラブ）販売のお知らせ",
+      "title": "お知らせ 2026/10/15 DAZN年間視聴パス（リーグワンクラブ）販売のお知らせ",
       "date": "2026-10-25"
     },
     {
@@ -73,7 +78,7 @@
     {
       "url": "https://blue-sharks.jp/information/",
       "title": "もっと見る",
-      "date": "2026-10-20"
+      "date": "2026-10-23"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/09/25313/",
@@ -103,11 +108,6 @@
     {
       "url": "https://blue-sharks.jp/news/2026/08/25236/",
       "title": "お知らせ 2026/08/19 ヤローズタラナキブルズ研修レポート Vol.7 (浦野龍基)",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/08/25233/",
-      "title": "お知らせ 2026/08/18 グロスターラグビー研修レポート Vol.7（西端玄汰）",
       "date": "2026-08-25"
     },
     {

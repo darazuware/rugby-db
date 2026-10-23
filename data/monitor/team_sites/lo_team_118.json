@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "狭山セコムラガッツ",
   "official_url": "https://www.rugguts.secom.co.jp/",
-  "checked_at": "2026-10-23T00:44:36+09:00",
+  "checked_at": "2026-10-23T18:15:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.rugguts.secom.co.jp/",
-      "hash": "9022751980c69adc"
+      "hash": "a47d881eafce77bf"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/news/",
-      "hash": "69789f2e135dabed"
+      "hash": "c4c7bf89351595c0"
     }
   ],
   "items": [
@@ -51,6 +51,11 @@
       "url": "https://www.rugguts.secom.co.jp/2026/08/ntt-2026-27-d2202686.html",
       "title": "NTTジャパンラグビー リーグワン2026-27 D2の試合日程のお知らせ（2026年10月5日更新） 2026.08.06 お知らせ",
       "date": "2026-10-05"
+    },
+    {
+      "url": "https://www.rugguts.secom.co.jp/2026/10/1.html",
+      "title": "シーズンシート1次先行販売開始延期のお知らせ",
+      "date": "2026-10-01"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/2026/09/post-27.html",
@@ -211,11 +216,6 @@
       "url": "https://www.rugguts.secom.co.jp/2026/03/330just-rugby.html",
       "title": "3月30日（月）藤原龍之丞選手、「JUST RUGBY」インタビュー記事掲載のお知らせ",
       "date": "2026-03-33"
-    },
-    {
-      "url": "https://www.rugguts.secom.co.jp/2026/03/327.html",
-      "title": "3月27日（金）ライチェル、テレビ埼玉「スポたま」出演のお知らせ",
-      "date": "2026-03-32"
     }
   ]
 }

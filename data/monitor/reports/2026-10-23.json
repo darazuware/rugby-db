@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-23T00:44:36+09:00",
+  "checked_at": "2026-10-23T18:15:06+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,18 +9,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://urayasu-d-rocks.com/news/team/index_2064.html",
-          "title": "チーム 2026.10.22 ファンクラブ・チケット関連ページ メンテナンス完了および復旧のお知らせ",
-          "date": "2026-10-22",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://urayasu-d-rocks.com/",
-        "https://urayasu-d-rocks.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -31,8 +21,30 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35730/",
+          "title": "2026/10/23 イベント 【レポート】「第10回タグラグビー大会記念－座談会－」に上村 樹輝選手が出演しました",
+          "date": "2026-10-23",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35729/",
+          "title": "2026/10/23 ファンクラブ プレミアム会員/ゴールド会員/リモート＋G会員限定「クラブハウスツアー」の実施と参加者募集について",
+          "date": "2026-10-23",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35714/",
+          "title": "2026/10/23 メディア 11月7日(土)山本 幸輝普及・アカデミーコーチ「第106回全国高校ラグビー兵庫県大会決勝戦」ゲスト解説のお知らせ",
+          "date": "2026-10-23",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -42,9 +54,12 @@
       "official_url": "https://panasonic.co.jp/sports/wildknights/",
       "status": "ok",
       "first_run": false,
-      "item_count": 40,
+      "item_count": 39,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -69,9 +84,21 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4285/",
-          "title": "2026.10.22 チケット・ファンクラブ イベント 【ファンクラブ全会員様対象】10月27日公開練習について",
-          "date": "2026-10-22",
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4297/",
+          "title": "2026.10.23 チケット・ファンクラブ グッズ 緊急システムメンテナンス終了のお知らせ",
+          "date": "2026-10-23",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4296/",
+          "title": "2026.10.23 普及・アカデミー トヨタヴェルブリッツアカデミー #17",
+          "date": "2026-10-23",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4240",
+          "title": "NTTジャパンラグビー リーグワン2026-27 大会日程決定のお知らせ 試合情報 PICK UP 2026.09.09",
+          "date": "2026-09-09",
           "category": null
         }
       ],
@@ -115,8 +142,19 @@
       "status": "ok",
       "first_run": false,
       "item_count": 16,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/academy/class/monthly_rugby.html",
+          "title": "2026.10.23 ACADEMY 横浜キヤノンイーグルス×新横浜公園 ラグビー教室（11月28日）",
+          "date": "2026-10-23",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/",
+        "https://www.canon-eagles.jp/news/info/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -126,9 +164,24 @@
       "official_url": "https://blackrams-tokyo.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 5,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 4,
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261023b.html",
+          "title": "【復旧報告】ブラックラムズ東京チケット販売ページ「ラムチケ」サービス再開のお知らせ",
+          "date": "2026-10-23",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261023a.html",
+          "title": "【復旧報告】ブラックラムズ東京オンラインショップ 10月23日(金) 17:00より販売再開のお知らせ",
+          "date": "2026-10-23",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -139,226 +192,10 @@
       "status": "ok",
       "first_run": false,
       "item_count": 55,
-      "new_items": [
-        {
-          "url": "https://www.kubota-spears.com/news/2026/09/25/140000.html",
-          "title": "2026.09.25 ニュース・トピックス",
-          "date": "2026-09-25",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/event/2026/08/21/120000.html",
-          "title": "2026.09.24 イベント情報",
-          "date": "2026-09-24",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/hostarea/2026/09/11/100000.html",
-          "title": "2026.09.11 ホストエリア活動",
-          "date": "2026-09-11",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/news/2026/09/09/140000.html",
-          "title": "2026.09.09 ニュース・トピックス",
-          "date": "2026-09-09",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/news/2026/09/09/120000.html",
-          "title": "2026.09.09 ニュース・トピックス",
-          "date": "2026-09-09",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/goods/2026/09/09/121500.html",
-          "title": "2026.09.09 グッズ",
-          "date": "2026-09-09",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/event/2026/09/08/120000.html",
-          "title": "2026.09.08 イベント情報",
-          "date": "2026-09-08",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/schedule/",
-          "title": "2026.09.01 ニュース・トピックス",
-          "date": "2026-09-01",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/news/2026/09/01/120000.html",
-          "title": "2026.09.01 ニュース・トピックス",
-          "date": "2026-09-01",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/news/2026/08/25/090000.html",
-          "title": "2026.08.25 ニュース・トピックス",
-          "date": "2026-08-25",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/news/2026/08/17/140000.html",
-          "title": "2026.08.17 ニュース・トピックス",
-          "date": "2026-08-17",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/news/2026/08/10/100000.html",
-          "title": "2026.08.10 ニュース・トピックス",
-          "date": "2026-08-10",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/news/2026/08/07/140000.html",
-          "title": "2026.08.07 ニュース・トピックス",
-          "date": "2026-08-07",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/academy_news/2026/08/07/120000.html",
-          "title": "2026.08.07 育成活動",
-          "date": "2026-08-07",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/news/2026/08/05/120000.html",
-          "title": "2026.08.05 ニュース・トピックス",
-          "date": "2026-08-05",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/news/2026/08/03/140000.html",
-          "title": "2026.08.03 ニュース・トピックス",
-          "date": "2026-08-03",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/academy_news/2026/07/14/120000.html",
-          "title": "2026.07.14 育成活動",
-          "date": "2026-07-14",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/social-contribution/2026/07/13/123000.html",
-          "title": "2026.07.13 CSR（社会貢献活動）",
-          "date": "2026-07-13",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/goods/2026/06/24/160000.html",
-          "title": "2026.06.24 グッズ",
-          "date": "2026-06-24",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/goods/2026/06/12/144500.html",
-          "title": "2026.06.12 グッズ",
-          "date": "2026-06-12",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/partner_news/2026/06/11/144500.html",
-          "title": "2026.06.11 パートナー",
-          "date": "2026-06-11",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/goods/2026/04/27/130000.html",
-          "title": "2026.04.27 グッズ",
-          "date": "2026-04-27",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/social-contribution/2026/04/08/120000.html",
-          "title": "2026.04.08 CSR（社会貢献活動）",
-          "date": "2026-04-08",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/academy_news/2026/04/06/120000.html",
-          "title": "2026.04.06 育成活動",
-          "date": "2026-04-06",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/partner_news/2026/03/10/130000.html",
-          "title": "2026.03.10 パートナー",
-          "date": "2026-03-10",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/goods/2026/03/04/120000.html",
-          "title": "2026.03.04 グッズ",
-          "date": "2026-03-04",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/academy_news/2026/02/25/153000.html",
-          "title": "2026.02.25 育成活動",
-          "date": "2026-02-25",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/partner_news/2026/02/17/120000.html",
-          "title": "2026.02.17 パートナー",
-          "date": "2026-02-17",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/goods/2026/02/13/120000.html",
-          "title": "2026.02.13 グッズ",
-          "date": "2026-02-13",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/partner_news/2026/01/22/130000.html",
-          "title": "2026.01.22 パートナー",
-          "date": "2026-01-22",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/partner_news/2025/12/04/120000.html",
-          "title": "2025.12.04 パートナー",
-          "date": "2025-12-04",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/social-contribution/2025/10/02/120000.html",
-          "title": "2025.10.02 CSR（社会貢献活動）",
-          "date": "2025-10-02",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/social-contribution/2025/07/04/120000.html",
-          "title": "2025.07.04 CSR（社会貢献活動）",
-          "date": "2025-07-04",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/social-contribution/2025/07/02/120000.html",
-          "title": "2025.07.02 CSR（社会貢献活動）",
-          "date": "2025-07-02",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/social-contribution/2025/04/30/100000.html",
-          "title": "2025.04.30 CSR（社会貢献活動）",
-          "date": "2025-04-30",
-          "category": null
-        },
-        {
-          "url": "https://www.kubota-spears.com/social-contribution/2023/04/24/100000.html",
-          "title": "2023.04.24 CSR（社会貢献活動）",
-          "date": "2023-04-24",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
-        "https://www.kubota-spears.com/"
+        "https://www.kubota-spears.com/",
+        "https://www.kubota-spears.com/news/"
       ],
       "rename_signals": []
     },
@@ -382,8 +219,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2610-1039.html",
+          "title": "2026年 10月23日 #1039 田代 智史 -2『常に自分に矢印を向けて、自分が成長すればチームは勝って行く』",
+          "date": "2026-10-23",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -393,9 +240,19 @@
       "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": false,
-      "item_count": 24,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 25,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/#2026-10-23-01",
+          "title": "TICKET 【重要】開幕戦(第1節・九州KV戦)のチケット販売延期について 2026.10.23",
+          "date": "2026-10-23",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/"
+      ],
       "rename_signals": []
     },
     {
@@ -406,9 +263,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kyudenvoltex.com/news/1014",
+          "title": "試合情報 2026年10月23日 NEW 【プレシーズンマッチ】10/30(金)横浜キヤノンイーグルス戦",
+          "date": "2026-10-23",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://www.kyudenvoltex.com/"
+        "https://www.kyudenvoltex.com/",
+        "https://www.kyudenvoltex.com/news/"
       ],
       "rename_signals": []
     },
@@ -420,9 +285,19 @@
       "status": "ok",
       "first_run": false,
       "item_count": 24,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://blue-sharks.jp/news/2026/10/25429/",
+          "title": "2026-27シーズン キャプテン·リーダーズ及びチームスローガン決定のお知らせ",
+          "date": "2026-10-25",
+          "category": "roster"
+        }
+      ],
       "changed_pages": [
-        "https://blue-sharks.jp/"
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
       ],
       "rename_signals": []
     },
@@ -434,9 +309,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 7,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://shuttles-aichi.com/news/notice-of-free-invitation-for-residents-of-aichi-prefecture/",
+          "title": "2026.10.23 愛知県民無料ご招待のお知らせ",
+          "date": "2026-10-23",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://shuttles-aichi.com/"
+        "https://shuttles-aichi.com/",
+        "https://shuttles-aichi.com/news/"
       ],
       "rename_signals": []
     },
@@ -464,7 +347,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 26,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/2026/10/23/ticket-schedule/",
+          "title": "2026.10.23 その他 NTT ジャパンラグビーリーグワン 2026-27シーズンホストゲーム販売スケジュールが決定しました。",
+          "date": "2026-10-23",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/10/23/fukuokacamp-day2/",
+          "title": "2026.10.23 その他 福岡合宿レポート2日目",
+          "date": "2026-10-23",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -480,7 +376,9 @@
       "first_run": false,
       "item_count": 15,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://hino-reddolphins.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -490,10 +388,30 @@
       "official_url": "https://docomo-rugby.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 43,
-      "new_items": [],
+      "item_count": 44,
+      "new_items": [
+        {
+          "url": "https://docomo-rugby.jp/campaign/2027/lp/20261219_no_inv.html",
+          "title": "12月19日（土）CENTRALプ レミアムマッチ特設サイト MORE",
+          "date": "2026-12-19",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8953",
+          "title": "お知らせ 2026年10月23日 2026-27シーズン ホストゲーム開幕戦（12月19日（土）CENTRALプ レミアムマッチ）特設サイト公開のお知らせ",
+          "date": "2026-10-23",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8946",
+          "title": "お知らせ 2026年10月23日 有料会員向けチケット先行販売開始日決定のお知らせ",
+          "date": "2026-10-23",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://docomo-rugby.jp/"
+        "https://docomo-rugby.jp/",
+        "https://docomo-rugby.jp/news/"
       ],
       "rename_signals": []
     },
@@ -504,8 +422,39 @@
       "official_url": "https://www.kurita-watergush.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 41,
-      "new_items": [],
+      "item_count": 44,
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/stadium/%e6%a0%97%e7%94%b0%e5%b7%a5%e6%a5%ad%e6%98%ad%e5%b3%b6%e3%82%b0%e3%83%a9%e3%82%a6%e3%83%b3%e3%83%89/",
+          "title": "アクセス",
+          "date": "2026-10-31",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/games/",
+          "title": "全ての試合情報はこちら",
+          "date": "2026-10-31",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261031-wg%e6%98%ad%e5%b3%b6-vsl%e6%88%b8%e7%94%b0/",
+          "title": "このゲームの詳細情報はこちら",
+          "date": "2026-10-31",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261023-wg%e6%98%ad%e5%b3%b6-vs%e5%b7%9d%e8%b6%8a%e7%8b%ad%e5%b1%b1rg/",
+          "title": "試合詳細結果",
+          "date": "2026-10-23",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/20261023-2-2/",
+          "title": "私とウォーターガッシュ 2026/10/23 私とWATER GUSH #11 内藤基 FL 「信頼される選手に、社員に」",
+          "date": "2026-10-23",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -520,8 +469,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.rugguts.secom.co.jp/2026/10/1.html",
+          "title": "シーズンシート1次先行販売開始延期のお知らせ",
+          "date": "2026-10-01",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -547,7 +506,7 @@
       "new_items": [],
       "changed_pages": [
         "https://www.skyactivs.com/",
-        "https://www.skyactivs.com/news/2091"
+        "https://www.skyactivs.com/news"
       ],
       "rename_signals": []
     },
@@ -594,7 +553,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54268",
+          "title": "（10/23更新）日本ラグビーフットボール協会創立100周年記念ミューラル 制作決定のお知らせ 2026.10.23 （金） 15人制男子日本代表 15人制女子日本代表 100周年",
+          "date": "2026-10-23",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -608,7 +574,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "清水建設江東ブルーシャークス",
+      "url": "https://blue-sharks.jp/news/2026/10/25429/",
+      "title": "2026-27シーズン キャプテン·リーダーズ及びチームスローガン決定のお知らせ",
+      "date": "2026-10-25",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54268",
+      "title": "（10/23更新）日本ラグビーフットボール協会創立100周年記念ミューラル 制作決定のお知らせ 2026.10.23 （金） 15人制男子日本代表 15人制女子日本代表 100周年",
+      "date": "2026-10-23",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "東芝ブレイブルーパス東京: 記事リンクを抽出できない（JS描画の可能性）: https://www.bravelupus.com/",

@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-10-23T00:44:36+09:00",
+  "checked_at": "2026-10-23T18:15:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "45d1a63b661c5564"
+      "hash": "597f13b46944b7d2"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "801fa6fa599fc754"
+      "hash": "78ca4e5277c43312"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/1014",
+      "title": "試合情報 2026年10月23日 NEW 【プレシーズンマッチ】10/30(金)横浜キヤノンイーグルス戦",
+      "date": "2026-10-23"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/1013",
       "title": "地域・社会貢献 2026年10月16日 第4回香椎しょうぶ祭り2026に参加しました",
@@ -181,11 +186,6 @@
       "url": "https://www.kyudenvoltex.com/news/971",
       "title": "試合情報 2026年03月28日 【リーグワン | ビジター】4/4(土)NECグリーンロケッツ東葛戦のお知らせ",
       "date": "2026-03-28"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/970",
-      "title": "試合情報 2026年03月15日 【リーグワン | ビジター】3/27(金)レッドハリケーンズ大阪戦のお知らせ",
-      "date": "2026-03-15"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/950",

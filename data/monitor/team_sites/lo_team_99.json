@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-10-23T00:44:36+09:00",
+  "checked_at": "2026-10-23T18:15:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "216ed610d872ec76"
+      "hash": "0ea6680fa5d67e66"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "a2819324f65fe6a7"
+      "hash": "9d35c9cada95f96e"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2610-1039.html",
+      "title": "2026年 10月23日 #1039 田代 智史 -2『常に自分に矢印を向けて、自分が成長すればチームは勝って行く』",
+      "date": "2026-10-23"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/NJRLO2627TSA.html",
       "title": "2026年 10月22日 【チケット情報】東京サンゴリアスホストゲームチケット概要のご案内（10月22日情報更新） （2026/10/22 15:00情報更新）phpの脆弱性に対応するためのチケゴリの緊急メンテナンス実施のため…",
@@ -211,11 +216,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/0404vgmhhfs.html",
       "title": "2026年 3月28日 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第14節 三重ホンダヒートvs東京サントリーサンゴリアス戦のご案内 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第14節 ※ビジターゲーム ■試合日…",
       "date": "2026-03-28"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/lor13rtpwkc.html",
-      "title": "2026年 3月22日 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第13節 東京サントリーサンゴリアスvs埼玉パナソニックワイルドナイツ戦のご案内 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第13節 ※ホストゲーム ■試合日時…",
-      "date": "2026-03-22"
     }
   ]
 }

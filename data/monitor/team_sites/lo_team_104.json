@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-10-23T00:44:36+09:00",
+  "checked_at": "2026-10-23T18:15:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "472e5345d22a9745"
+      "hash": "084e89fb2bc8b74d"
     }
   ],
   "items": [
     {
-      "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4295",
-      "title": "緊急システムメンテナンスに伴う一部サービス一時停止のお知らせ グッズ チケット・ファンクラブ 2026.10.22",
-      "date": "2026-10-22"
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4297/",
+      "title": "2026.10.23 チケット・ファンクラブ グッズ 緊急システムメンテナンス終了のお知らせ",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4296/",
+      "title": "2026.10.23 普及・アカデミー トヨタヴェルブリッツアカデミー #17",
+      "date": "2026-10-23"
     },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4295/",
@@ -44,16 +49,6 @@
       "date": "2026-10-16"
     },
     {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4290/",
-      "title": "2026.10.15 チケット・ファンクラブ DAZN年間視聴パス 販売のお知らせ",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4291/",
-      "title": "2026.10.14 チケット・ファンクラブ イベント 【ファンクラブゴールド会員様限定】10月31日（土）ライジング ウォーミングアップ見学について",
-      "date": "2026-10-14"
-    },
-    {
       "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4241",
       "title": "【試合情報・チケット】プレシーズンマッチ実施のお知らせ（10/13 更新） 試合情報 チケット・ファンクラブ 2026.10.13",
       "date": "2026-10-13"
@@ -62,6 +57,11 @@
       "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4271",
       "title": "【試合情報・チケット】10/31(土) トヨタヴェルブリッツ VS 日野レッドドルフィンズ 試合情報 チケット・ファンクラブ 2026.09.18",
       "date": "2026-09-18"
+    },
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4240",
+      "title": "NTTジャパンラグビー リーグワン2026-27 大会日程決定のお知らせ 試合情報 PICK UP 2026.09.09",
+      "date": "2026-09-09"
     }
   ]
 }

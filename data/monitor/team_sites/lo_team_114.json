@@ -3,20 +3,30 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-10-23T00:44:36+09:00",
+  "checked_at": "2026-10-23T18:15:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "c47ad9654223d549"
+      "hash": "513f6b9a8348ac17"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "5b69b6a049f07232"
+      "hash": "741b15a5bef2372f"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/10/23/ticket-schedule/",
+      "title": "2026.10.23 その他 NTT ジャパンラグビーリーグワン 2026-27シーズンホストゲーム販売スケジュールが決定しました。",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/10/23/fukuokacamp-day2/",
+      "title": "2026.10.23 その他 福岡合宿レポート2日目",
+      "date": "2026-10-23"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/10/22/fukuokacamp1/",
       "title": "2026.10.22 その他 福岡合宿レポート1日目",
@@ -49,12 +59,12 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/10/14/ju-report/",
-      "title": "2026.10.14 その他 【地域連携・普及活動】 2026 年 7 月レポート",
+      "title": "2026-10-14 その他 【地域連携・普及活動】 2026 年 7 月レポート",
       "date": "2026-10-14"
     },
     {
       "url": "https://hanazono-liners.jp/2026/10/14/au-report/",
-      "title": "2026.10.14 その他 【地域連携・普及活動】 2026 年 8月レポート",
+      "title": "2026-10-14 その他 【地域連携・普及活動】 2026 年 8月レポート",
       "date": "2026-10-14"
     },
     {
@@ -98,11 +108,6 @@
       "date": "2026-10-01"
     },
     {
-      "url": "https://hanazono-liners.jp/2026/09/30/10-3-live-pv/",
-      "title": "2026-09-30 その他 10月3日(土)クボタスピアーズ船橋・東京ベイ戦 ライブ配信＆パブリックビューイング開催のお知らせ。",
-      "date": "2026-09-30"
-    },
-    {
       "url": "https://hanazono-liners.jp/2026/09/07/liners-fanclub-3/",
       "title": "2026.09.07 ファンクラブ イベント 【LINERS FANCLUB】花園近鉄ライナーズ公式アプリ サービス終了に伴うデジタル会員証の利用について",
       "date": "2026-09-07"
@@ -136,11 +141,6 @@
       "url": "https://hanazono-liners.jp/2026/08/20/liners-fanclub2026-27-0/",
       "title": "2026.08.20 ファンクラブ イベント 【LINERS FANCLUB】2026-27 SEASON ファンクラブ詳細",
       "date": "2026-08-20"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub/",
-      "title": "2026.08.03 ファンクラブ イベント 【重要】LINERS FANCLUB 2026-27 自動継続入会について",
-      "date": "2026-08-03"
     },
     {
       "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub-2/",
