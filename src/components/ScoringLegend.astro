@@ -1,0 +1,41 @@
+---
+// 日本代表戦のプレビュー/レビュー記事の末尾に出す「得点の見方」。
+// 解説記事へのリンクは、公開済みの記事だけ出す（未公開・下書きの記事へはリンクしない）。
+import { getEntry } from "astro:content";
+import { isLive } from "../lib/news";
+
+const guides = [
+  { slug: "rugby-scoring-guide", label: "ラグビーの得点方法をまるごと解説" },
+  { slug: "rugby-penalty-goal-guide", label: "PG（ペナルティゴール）をくわしく" },
+  { slug: "rugby-conversion-guide", label: "TG（トライ後のゴール）をくわしく" },
+  { slug: "rugby-red-card-upgrade-guide", label: "イエロー→レッドの「格上げ」ルール" },
+];
+const live: { slug: string; label: string }[] = [];
+for (const g of guides) {
+  const e = await getEntry("news", g.slug);
+  if (e && isLive(e)) live.push(g);
+}
+---
+
+<aside class="fig" aria-label="得点の見方">
+  <p class="font-black mb-2">📖 得点の見方</p>
+  <ul class="grid gap-1 text-sm list-none p-0 m-0">
+    <li><span class="sc sc-t">T</span> <b>トライ</b>（5点）… 相手のインゴールにボールをグラウンディング</li>
+    <li><span class="sc sc-tg">TG</span> <b>トライ後のゴール</b>（2点）… トライの後に蹴る、ゴールポストへのキック</li>
+    <li><span class="sc sc-pg">PG</span> <b>ペナルティゴール</b>（3点）… 相手の反則で得た権利でゴールを狙うキック</li>
+    <li><span class="sc sc-dg">DG</span> <b>ドロップゴール</b>（3点）… 試合中、地面に一度弾ませたボールを蹴ってゴールを狙う</li>
+  </ul>
+  {
+    live.length > 0 && (
+      <p class="text-sm mt-3 mb-0">
+        もっと詳しく →{" "}
+        {live.map((g, i) => (
+          <>
+            {i > 0 && " ／ "}
+            <a href={`/news/${g.slug}/`}>{g.label}</a>
+          </>
+        ))}
+      </p>
+    )
+  }
+</aside>

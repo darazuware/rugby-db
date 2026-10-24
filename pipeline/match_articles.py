@@ -9,8 +9,9 @@
 03_VALIDATION 原則: 事実の創作禁止。記事に書くのは上記ページにある値と、そこからの機械的な
 差分（前回戦からの先発入替など）のみ。読み物としての論評は付けない（必要なら人/Claudeが後から加筆）。
 
-  プレビュー: 両チームの登録メンバー(23名)が出揃い、キックオフ前 → 公開(draft: false)
-  レビュー  : game_status == 2 かつスコア確定 → 得点経過が機械取得できないため draft: true で出力
+  プレビュー: 両チームの登録メンバー(23名)が出揃い、キックオフ前 → 下書き(draft: true)
+  レビュー  : game_status == 2 かつスコア確定 → 下書き(draft: true)
+  方針(2026-10-24〜恒久): 自動生成記事はすべて draft で出力し、人のレビュー後に公開する。作成時に Telegram 通知。
 
 冪等: 同じ slug のファイルが既にあれば何もしない（人が加筆した記事を上書きしない）。
 
@@ -376,7 +377,7 @@ def build_preview(g: dict, entry: dict, *, roster: dict[str, dict], prev_game: O
              "RUGBY PICKSの[選手名鑑](/players/)から。", "",
              "*※ 本記事のメンバー・日時・放送情報は日本ラグビーフットボール協会の公式発表に基づいています。*"]
     art = Article(slug=slug, title=title, body="\n".join(body), tags=["日本代表", opp_name, comp, "テストマッチ", "プレビュー", f"{ko.year}年"],
-                  pub_date=ko.strftime("%Y-%m-%d"), source_diff=f"jrfu_game_{g.get('game_id')}")
+                  pub_date=ko.strftime("%Y-%m-%d"), source_diff=f"jrfu_game_{g.get('game_id')}", draft=True)
     art.description = desc  # type: ignore[attr-defined]
     return art
 
@@ -484,9 +485,9 @@ def notify(made: list[tuple[str, Article]]) -> None:
     from pipeline import telegram_notify as tg
     for kind, art in made:
         if kind == "preview":
-            tg.send(f"日本代表戦プレビューを自動生成・公開しました（協会の公式データのみ）。\n{art.title}")
+            tg.send(f"日本代表戦プレビューの<b>下書き</b>ができました。レビュー待ちです（公開はまだです）。\n{art.title}\n→ Claudeに「公開して」か修正点を伝えてください。")
         else:
-            tg.send(f"日本代表戦レビューの<b>下書き</b>を作りました（draft）。得点経過の追記が必要です。\n{art.title}")
+            tg.send(f"日本代表戦レビューの<b>下書き</b>ができました。得点経過・所感の加筆とレビュー待ちです（公開はまだです）。\n{art.title}\n→ Claudeに「レビューして」と伝えてください。")
 
 
 def main(argv: Optional[list[str]] = None) -> int:

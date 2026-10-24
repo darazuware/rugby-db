@@ -81,7 +81,7 @@ def test_lineup_ready_requires_23_each():
 def test_build_preview_content_and_slug():
     art = ma.build_preview(_game(), ENTRY, roster={}, prev_game=None, links={"日本代表": "/national-teams/japan/"})
     assert art.filename() == "japan-vs-fiji-2026-10-24-preview.md"
-    assert not art.draft
+    assert art.draft  # 恒久方針: 自動生成は常に下書き
     for s in ("14:50キックオフ", "秩父宮ラグビー場", "日本テレビ系全国ネット／J SPORTS 1", "ニカ・アマシュケリ", "[日本代表](/national-teams/japan/)"):
         assert s in art.body
     assert "キャップ数は協会の登録メンバー発表の確認が取れ次第" in art.body  # roster 取得失敗時の注記

@@ -6,12 +6,13 @@ import { isLive } from "../../lib/news";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import MagazineBanner from "../../components/MagazineBanner.astro";
 import AffiliateSlot from "../../components/AffiliateSlot.astro";
+import ScoringLegend from "../../components/ScoringLegend.astro";
 
 export const prerender = true;
 
 export async function getStaticPaths() {
   // 公開判定は lib/news.ts の isLive に統一（一覧・トップと同じ基準）
-  const news = await getCollection("news", isLive);
+  const news = await getCollection("news", (e: CollectionEntry<"news">) => import.meta.env.DEV ? true : isLive(e));
   return news.map((entry: CollectionEntry<"news">) => ({
     params: { slug: entry.slug },
   }));
@@ -22,7 +23,7 @@ if (!slug) return Astro.redirect("/404");
 
 const entry = await getEntry("news", slug);
 
-if (!entry || entry.data.draft) {
+if (!entry || (entry.data.draft && !import.meta.env.DEV)) {
   return Astro.redirect("/404");
 }
 
@@ -34,6 +35,7 @@ const articleModifiedAt = (entry.data.updatedDate ?? entry.data.pubDate).toISOSt
 
 // 試合レビュー記事（slugが -review で終わる）には配信サービス枠を自動挿入
 const isMatchReview = /-review$/.test(slug);
+const isJapanMatch = /^japan-vs-.+-(preview|review)$/.test(slug);
 const slotKind = isMatchReview || /^how-to-watch/.test(slug) ? "watch" : /^rwc2027-travel/.test(slug) ? "travel" : /^rugby-gear/.test(slug) ? "gear" : null;
 
 // 本文に Instagram 埋め込みがあるときだけ embed.js を読み込む
@@ -113,6 +115,8 @@ const formatDate = (date: Date) => {
         >
           <Content />
         </div>
+
+        {isJapanMatch && <ScoringLegend />}
 
         {slotKind && <AffiliateSlot kind={slotKind} ids={isMatchReview ? ["jsports", "dazn"] : undefined} />}
 

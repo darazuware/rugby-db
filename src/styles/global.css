@@ -296,3 +296,96 @@
         scroll-behavior: auto !important;
     }
 }
+
+/* ---- 得点種別バッジ（RUGBY PICKS 独自の色分け）----
+   T=トライ(緑) / TG=トライ後のゴール(青) / PG=ペナルティゴール(紫) / DG=ドロップゴール(桃)
+   記事本文では <span class="sc sc-t">T</span> の形で使う。色は全記事共通。 */
+:root {
+    --sc-t: #059669;
+    --sc-tg: #0284c7;
+    --sc-pg: #7c3aed;
+    --sc-dg: #e11d48;
+    --sc-yc: #ca8a04;
+    --sc-rc: #dc2626;
+}
+:root.dark {
+    --sc-t: #34d399;
+    --sc-tg: #38bdf8;
+    --sc-pg: #a78bfa;
+    --sc-dg: #fb7185;
+    --sc-yc: #facc15;
+    --sc-rc: #f87171;
+}
+.sc {
+    display: inline-block;
+    min-width: 2.2em;
+    padding: 0.05em 0.5em;
+    border-radius: 999px;
+    font-size: 0.8em;
+    font-weight: 900;
+    line-height: 1.6;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #fff;
+    background: var(--sc-c);
+    white-space: nowrap;
+}
+:root.dark .sc { color: #0c0e14; }
+.sc-t { --sc-c: var(--sc-t); }
+.sc-tg { --sc-c: var(--sc-tg); }
+.sc-pg { --sc-c: var(--sc-pg); }
+.sc-dg { --sc-c: var(--sc-dg); }
+.sc-yc { --sc-c: var(--sc-yc); }
+.sc-rc { --sc-c: var(--sc-rc); }
+
+/* スコアボード */
+.scoreboard {
+    border: 1px solid var(--border-color);
+    background: var(--card-bg);
+    border-radius: 1rem;
+    padding: 1rem 1.25rem;
+    margin: 1.25rem 0;
+}
+.scoreboard .sb-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    font-weight: 900;
+    flex-wrap: wrap;
+}
+.scoreboard .sb-team { font-size: 1rem; }
+.scoreboard .sb-score { font-family: var(--font-display); font-size: 2.4rem; line-height: 1.1; }
+.scoreboard .sb-row {
+    display: flex;
+    justify-content: center;
+    gap: 0.4rem 1.25rem;
+    flex-wrap: wrap;
+    margin-top: 0.6rem;
+    font-size: 0.85rem;
+}
+.scoreboard .sb-row b { font-weight: 900; }
+.scoreboard .sb-meta { text-align: center; font-size: 0.75rem; opacity: 0.7; margin-top: 0.6rem; }
+
+/* 3行ポイント・図解カード */
+.takeaway {
+    border-left: 4px solid #facc15;
+    background: var(--card-bg);
+    border-radius: 0 0.75rem 0.75rem 0;
+    padding: 0.75rem 1rem;
+    margin: 1rem 0;
+}
+.takeaway p { margin: 0.25rem 0; }
+.fig {
+    margin: 1.25rem 0;
+    border: 1px solid var(--border-color);
+    background: var(--card-bg);
+    border-radius: 1rem;
+    padding: 0.75rem;
+}
+.fig svg { width: 100%; height: auto; display: block; }
+.fig figcaption { font-size: 0.8rem; opacity: 0.75; margin-top: 0.4rem; text-align: center; }
+.fig svg text { fill: var(--text-color); font-family: var(--font-sans); }
+.bars { display: grid; gap: 0.5rem; margin: 1rem 0; }
+.bars .bar { display: grid; grid-template-columns: 5.5rem 1fr 2.2rem; gap: 0.5rem; align-items: center; font-size: 0.9rem; font-weight: 700; }
+.bars .bar i { display: block; height: 1.1rem; border-radius: 999px; background: var(--c, #facc15); width: var(--w); }
