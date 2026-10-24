@@ -5,7 +5,7 @@ updatedDate: 2026-10-05
 category: "NEWS"
 tags: ["プレミアシップ", "加入"]
 source_diff: "2026-09-07_premiership.json"
-draft: false
+draft: true
 ---
 
 2026-W37にプレミアシップの所属選手データで、新たな所属先が確認された選手は64名。前所属は各選手の経歴データに基づく。

@@ -11,7 +11,6 @@ import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import JSONLD from "../../components/JSONLD.astro";
-import AdSenseUnit from "../../components/AdSenseUnit.astro";
 import AffiliateBanner from "../../components/AffiliateBanner.astro";
 import MagazineBanner from "../../components/MagazineBanner.astro";
 import PlayerAvatar from "../../components/PlayerAvatar.astro";
@@ -598,9 +597,6 @@ const nameVariantsText = nameVariants.length
 
         <div class="my-8">
           {showMagazineBanner ? <MagazineBanner /> : <AffiliateBanner />}
-        </div>
-        <div class="my-8">
-          <AdSenseUnit />
         </div>
 
         {/* 最終更新 */}

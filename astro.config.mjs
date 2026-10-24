@@ -20,6 +20,8 @@ const thinPaths = new Set([
   ...thinPages.teams,
   ...noindexNews,
   '/dream-team/', '/magazine/', '/sitemap/', '/notice/saimoni-vunilagi/',
+  // 出身校データ未整備の間は noindex（schools/index.astro）なのでサイトマップからも外す
+  '/schools/',
   // /teams/[league] と重複する noindex ページ
   ...['league-one', 'super-rugby', 'top14', 'premiership', 'urc'].map((l) => `/leagues/${l}/`),
 ]);
