@@ -1,6 +1,6 @@
 {
  "_note": "scripts/build_player_pages.py が生成。force_include/force_exclude のみ手編集可",
- "generated_at": "2026-10-24T11:21:40+00:00",
+ "generated_at": "2026-10-24T16:25:37+00:00",
  "criteria": "K1|K2|K3(mention>=2)",
  "force_include": [
   "lo_484310"
@@ -65,6 +65,13 @@
    "reasons": [
     "K1",
     "K2"
+   ]
+  },
+  {
+   "id": "ar_motikiai-murray",
+   "slug": "motikiai-murray",
+   "reasons": [
+    "K3"
    ]
   },
   {
@@ -144,7 +151,8 @@
    "id": "jrfu_national_511566",
    "slug": "ruan-botha-511566",
    "reasons": [
-    "K1"
+    "K1",
+    "K3"
    ]
   },
   {
@@ -388,7 +396,8 @@
    "id": "lo_484728",
    "slug": "charlie-lawrence-484728",
    "reasons": [
-    "K2"
+    "K2",
+    "K3"
    ]
   },
   {
@@ -504,6 +513,20 @@
    "reasons": [
     "K1",
     "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_485729",
+   "slug": "kavaia-tagivetaua-485729",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_485912",
+   "slug": "sanshiro-kihara-485912",
+   "reasons": [
     "K3"
    ]
   },
