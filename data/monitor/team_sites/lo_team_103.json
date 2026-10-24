@@ -3,39 +3,39 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-24T17:48:25+09:00",
+  "checked_at": "2026-10-24T23:10:32+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "9f9681128e0ab655"
+      "hash": "fca4401f2fb7f217"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "29bee5cc7d2a7e22"
+      "hash": "d275b14c1b8852f9"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/261024/",
+      "title": "【プレシーズンマッチ】11/28（土）vs クボタスピアーズ船橋・東京ベイ 観戦について",
+      "date": "2026-10-24"
+    },
     {
       "url": "https://www.bravelupus.com/news/261019/",
       "title": "【プレシーズンマッチ】10/24（土）vs 清水建設江東ブルーシャークス 観戦について",
       "date": "2026-10-24"
     },
     {
-      "url": "https://www.bravelupus.com/news/",
-      "title": "記事一覧",
+      "url": "https://www.bravelupus.com/game/pregame_261024/",
+      "title": "結果詳細",
       "date": "2026-10-24"
     },
     {
       "url": "https://www.bravelupus.com/news/all_story/",
       "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.207更新）",
       "date": "2026-10-20"
-    },
-    {
-      "url": "https://www.bravelupus.com/game/pewgame_261017/",
-      "title": "結果詳細",
-      "date": "2026-10-17"
     },
     {
       "url": "https://www.bravelupus.com/news/261016/",
@@ -220,11 +220,6 @@
     {
       "url": "https://www.bravelupus.com/news/260723_2/",
       "title": "2026-27シーズン新加入選手（追加）のお知らせ",
-      "date": "2026-07-23"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260723/",
-      "title": "2026-27シーズン新体制、新加入スタッフのお知らせ",
       "date": "2026-07-23"
     }
   ]

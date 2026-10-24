@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-24T17:48:25+09:00",
+  "checked_at": "2026-10-24T23:10:32+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,18 +9,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://urayasu-d-rocks.com/news/fanclub/index_2066.html",
-          "title": "ファンクラブ 2026.10.24 2026.10.30「D-Rockersテーマ別対話会（試合イベントの部）」開催のお知らせ",
-          "date": "2026-10-24",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://urayasu-d-rocks.com/",
-        "https://urayasu-d-rocks.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -32,9 +22,7 @@
       "first_run": false,
       "item_count": 60,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kobesteelers.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -45,24 +33,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261205/",
-          "title": "試合詳細",
-          "date": "2026-12-05",
-          "category": null
-        },
-        {
-          "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261205/#ticket",
-          "title": "チケット 2026年10月24日 12月5日(土) 強化試合 8戦目 栃木ホンダヒート戦 チケット情報 ニュースを見る",
-          "date": "2026-10-24",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://panasonic.co.jp/sports/wildknights/",
-        "https://panasonic.co.jp/sports/wildknights/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -72,8 +44,21 @@
       "official_url": "https://www.bravelupus.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 42,
-      "new_items": [],
+      "item_count": 41,
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/news/261024/",
+          "title": "【プレシーズンマッチ】11/28（土）vs クボタスピアーズ船橋・東京ベイ 観戦について",
+          "date": "2026-10-24",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/game/pregame_261024/",
+          "title": "結果詳細",
+          "date": "2026-10-24",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.bravelupus.com/",
         "https://www.bravelupus.com/news/"
@@ -255,14 +240,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 26,
-      "new_items": [
-        {
-          "url": "https://hanazono-liners.jp/2026/10/24/fukuokacamp-day3/",
-          "title": "2026.10.24 その他 福岡合宿レポート3日目",
-          "date": "2026-10-24",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -303,14 +281,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 44,
-      "new_items": [
-        {
-          "url": "https://www.kurita-watergush.jp/20261024-2/",
-          "title": "私とウォーターガッシュ 2026/10/24 私とWATER GUSH #12 楠大輝 LO 「おかげさまで」の気持ちを胸に。",
-          "date": "2026-10-24",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -338,7 +309,9 @@
       "first_run": false,
       "item_count": 16,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://rrrfc.red/"
+      ],
       "rename_signals": []
     },
     {
@@ -351,7 +324,8 @@
       "item_count": 45,
       "new_items": [],
       "changed_pages": [
-        "https://www.skyactivs.com/"
+        "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news/2091"
       ],
       "rename_signals": []
     },
@@ -400,8 +374,8 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54295",
-          "title": "「リポビタンDチャレンジカップ2026」 日本代表 対 フィジー代表 試合結果のお知らせ 2026.10.24 （土） 15人制男子日本代表 WBB リポビタンDチャレンジカップ2026 男子",
+          "url": "https://www.rugby-japan.jp/news/54296",
+          "title": "「リポビタンDチャレンジカップ2026」 女子日本代表 対 女子ウェールズ代表 試合結果のお知らせ 2026.10.24 （土） 15人制女子日本代表 女子",
           "date": "2026-10-24",
           "category": "squad"
         }
@@ -422,8 +396,8 @@
   "highlights": [
     {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54295",
-      "title": "「リポビタンDチャレンジカップ2026」 日本代表 対 フィジー代表 試合結果のお知らせ 2026.10.24 （土） 15人制男子日本代表 WBB リポビタンDチャレンジカップ2026 男子",
+      "url": "https://www.rugby-japan.jp/news/54296",
+      "title": "「リポビタンDチャレンジカップ2026」 女子日本代表 対 女子ウェールズ代表 試合結果のお知らせ 2026.10.24 （土） 15人制女子日本代表 女子",
       "date": "2026-10-24",
       "category": "squad"
     }
