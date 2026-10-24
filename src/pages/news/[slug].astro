@@ -10,12 +10,11 @@ import ScoringLegend from "../../components/ScoringLegend.astro";
 
 export const prerender = true;
 
-// 下書きは開発時とVercelのプレビュー環境(本番以外のブランチ)でだけ表示する。本番では出さない。
-const SHOW_DRAFTS = import.meta.env.DEV || process.env.VERCEL_ENV === "preview";
 
 export async function getStaticPaths() {
+  // 下書きは開発時とVercelプレビュー環境(本番以外のブランチ)でだけ表示。本番では出さない。
   // 公開判定は lib/news.ts の isLive に統一（一覧・トップと同じ基準）
-  const news = await getCollection("news", (e: CollectionEntry<"news">) => SHOW_DRAFTS ? true : isLive(e));
+  const news = await getCollection("news", (e: CollectionEntry<"news">) => (import.meta.env.DEV || process.env.VERCEL_ENV === "preview") ? true : isLive(e));
   return news.map((entry: CollectionEntry<"news">) => ({
     params: { slug: entry.slug },
   }));
@@ -26,7 +25,7 @@ if (!slug) return Astro.redirect("/404");
 
 const entry = await getEntry("news", slug);
 
-if (!entry || (entry.data.draft && !SHOW_DRAFTS)) {
+if (!entry || (entry.data.draft && !(import.meta.env.DEV || process.env.VERCEL_ENV === "preview"))) {
   return Astro.redirect("/404");
 }
 
