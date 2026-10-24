@@ -62,11 +62,19 @@ jobs:
         if: steps.scope.outputs.scope == 'sources'
         run: python3 scripts/monitor_team_sites.py --sources-only 2>&1 | tee monitor.log
 
+      # 日本代表戦: 登録メンバー発表→プレビュー公開、試合終了→レビュー下書き（協会の公式データのみ）。
+      # 対象試合が無ければ即終了。既存記事は上書きしない。Telegram secrets 未設定なら通知のみスキップ。
+      - name: Japan national match articles
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: python3 -m pipeline.match_articles 2>&1 | tee -a monitor.log
+
       - name: Commit and push
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/monitor
+          git add data/monitor src/content/news/japan-vs-*-preview.md src/content/news/japan-vs-*-review.md
           if git diff --cached --quiet; then
             echo "変更なし。コミットしない。"
           else
