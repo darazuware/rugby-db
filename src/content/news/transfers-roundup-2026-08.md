@@ -42,9 +42,9 @@ draft: false
 - [舛尾 緑](/teams/league-one/saitama-panasonic-wild-knights/#p-midori-masuo)が[埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/)（リーグワン）に加入した。
 - [齋藤 直人](/players/naoto-saito/)が[東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath/)（リーグワン）に加入した。
 - [パリパリ・パーキンソン](/teams/league-one/yokohama-canon-eagles/#p-pari-pari-parkinson)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
-- [丸山 凜太朗](/leagues/league-one/)が栃木ホンダヒート（リーグワン）に加入した。
+- 丸山 凜太朗が栃木ホンダヒート（リーグワン）に加入した。
 - [ルアン・ノルキエ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/#p-ruan-nortje)が[クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)（リーグワン）に加入した。
-- [亀井 亮依](/leagues/league-one/)が栃木ホンダヒート（リーグワン）に加入した。
+- 亀井 亮依が栃木ホンダヒート（リーグワン）に加入した。
 - [サミペニ・フィナウ](/players/samipeni-finau/)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
 - [田中 真一](/teams/league-one/yokohama-canon-eagles/#p-shinichi-tanaka)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
 - [スティーブン・ペロフェタ](/players/stephen-perofeta/)が[横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/)（リーグワン）に加入した。
