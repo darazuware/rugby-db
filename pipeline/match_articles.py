@@ -333,7 +333,7 @@ def build_preview(g: dict, entry: dict, *, roster: dict[str, dict], prev_game: O
     comp = ((g.get("games") or {}).get("name") or entry.get("competition_title") or "").strip()
     slug = f"japan-vs-{_slug_opp(opp_t, opp_name)}-{ko:%Y-%m-%d}-preview"
     venue = (g.get("stadium") or {}).get("name") or ""
-    title = f"【プレビュー】日本代表 vs {opp_name} {_title_date(ko)}{venue} ― 先発・リザーブ全23名、放送・キックオフ時刻"
+    title = f"【プレビュー】日本代表 vs {opp_name}｜先発・放送・キックオフ"
     desc = (f"{ko.year}年{ko.month}月{ko.day}日、{venue}で行われる{comp}・日本代表対{opp_name}。"
             f"両チームの先発とリザーブ全23名、キックオフ時刻、テレビ放送・配信、レフェリーをまとめました。")
 
@@ -376,7 +376,8 @@ def build_preview(g: dict, entry: dict, *, roster: dict[str, dict], prev_game: O
     body += ["---", "", "試合結果は、終了後にレビュー記事でお届けします。選手のプロフィールは"
              "RUGBY PICKSの[選手名鑑](/players/)から。", "",
              "*※ 本記事のメンバー・日時・放送情報は日本ラグビーフットボール協会の公式発表に基づいています。*"]
-    art = Article(slug=slug, title=title, body="\n".join(body), tags=["日本代表", opp_name, comp, "テストマッチ", "プレビュー", f"{ko.year}年"],
+    from pipeline.match_links import link_first, name_map
+    art = Article(slug=slug, title=title, body=link_first("\n".join(body), name_map(g)), tags=["日本代表", opp_name, comp, "テストマッチ", "プレビュー", f"{ko.year}年"],
                   pub_date=ko.strftime("%Y-%m-%d"), source_diff=f"jrfu_game_{g.get('game_id')}", draft=True)
     art.description = desc  # type: ignore[attr-defined]
     return art
@@ -408,7 +409,7 @@ def build_review(g: dict, entry: dict, *, links: dict[str, str]) -> Optional[Art
     comp = ((g.get("games") or {}).get("name") or entry.get("competition_title") or "").strip()
     result = "勝利" if jp_pts > opp_pts else ("敗戦" if jp_pts < opp_pts else "引き分け")
     slug = f"japan-vs-{_slug_opp(opp_t, opp_name)}-{ko:%Y-%m-%d}-review"
-    title = f"日本代表 {jp_pts}-{opp_pts} {opp_name} レビュー ― {venue}で{result}"
+    title = f"日本代表 {jp_pts}-{opp_pts} {opp_name} レビュー｜{venue}で{result}"
     h1 = (_int(g.get(f"{jp_side}_team_first_points")), _int(g.get(f"{opp_side}_team_first_points")))
     body = [f"{ko.year}年{ko.month}月{ko.day}日、{venue}。{comp}で{_team_md(jp_name, links)}は{_team_md(opp_name, links)}と対戦し、"
             f"**{jp_pts}-{opp_pts}** で{result}しました。", "", "---", "", "## 試合結果サマリー", "",
@@ -429,7 +430,8 @@ def build_review(g: dict, entry: dict, *, links: dict[str, str]) -> Optional[Art
         body += ["", "---", "", "## 得点経過・交代", "", tl_html]
     body += ["", "<!-- TODO: 所感・試合の流れを加筆。公開前に draft: false にする -->",
              "", "---", "", "*※ 本記事の試合結果・スコア・得点経過・交代は日本ラグビーフットボール協会の公式発表に基づいています。*"]
-    return Article(slug=slug, title=title, body="\n".join(body),
+    from pipeline.match_links import link_first, name_map
+    return Article(slug=slug, title=title, body=link_first("\n".join(body), name_map(g)),
                    tags=["日本代表", opp_name, comp, "テストマッチ", "レビュー", f"{ko.year}年"],
                    pub_date=ko.strftime("%Y-%m-%d"), source_diff=f"jrfu_game_{g.get('game_id')}", draft=True)
 
@@ -446,7 +448,8 @@ def _front(art: Article) -> str:
     return md
 
 
-def run(*, dry_run: bool = False, today: Optional[date] = None, news_dir: Path = NEWS_DIR) -> list[tuple[str, Article]]:
+def run(*, dry_run: bool = False, today: Optional[date] = None, news_dir: Path = NEWS_DIR,
+        game_ids: Optional[list[int]] = None) -> list[tuple[str, Article]]:
     """新規に作った (kind, Article) を返す。既存 slug はスキップ。"""
     today = today or datetime.now(JST).date()
     index = jrfu._get_json(jrfu._SCHEDULE_INDEX_URL)
@@ -457,7 +460,8 @@ def run(*, dry_run: bool = False, today: Optional[date] = None, news_dir: Path =
     made: list[tuple[str, Article]] = []
     all_japan = sorted((e for e in index if _BOX in (e.get("home"), e.get("away")) and index_date(e)),
                        key=lambda e: index_date(e))
-    for e in target_entries(index, today):
+    targets = [e for e in all_japan if e.get("id") in set(game_ids)] if game_ids else target_entries(index, today)
+    for e in targets:
         g = fetch_game(e["id"])
         time.sleep(jrfu._SLEEP)
         if not g or not sides(g):
@@ -498,8 +502,9 @@ def main(argv: Optional[list[str]] = None) -> int:
     ap = argparse.ArgumentParser(description="日本代表戦プレビュー/レビュー自動生成")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--no-notify", action="store_true")
+    ap.add_argument("--game-id", type=int, action="append", help="過去の試合のレビュー下書きを作る（バックフィル）")
     args = ap.parse_args(argv)
-    made = run(dry_run=args.dry_run)
+    made = run(dry_run=args.dry_run, game_ids=args.game_id)
     for kind, art in made:
         print(f"{'(dry) ' if args.dry_run else ''}{kind}: {art.filename()}")
     if not made:

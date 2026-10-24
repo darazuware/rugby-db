@@ -77,10 +77,12 @@ for t in json.load(open(ROOT/'data/national_teams_config.json')):
 # ---- リンク付与 -----------------------------------------------------------
 # 保護スパン（既存リンク・画像・HTMLタグ・コード・URL）は書き換えない
 PROTECT = re.compile(
-    r'!?\[[^\]]*\]\([^)]*\)'      # markdown link / image
+    r'<details class="mt">.*?</details>'  # 自動生成タイムライン（生成側で内部リンク済み）
+    r'|!?\[[^\]]*\]\([^)]*\)'      # markdown link / image
     r'|<[^>]+>'                    # html tag
     r'|`[^`]*`'                    # inline code
     r'|https?://\S+',              # bare url
+    flags=re.S,
 )
 
 def protected_spans(text):

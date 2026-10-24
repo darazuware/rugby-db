@@ -7,6 +7,7 @@ import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import MagazineBanner from "../../components/MagazineBanner.astro";
 import AffiliateSlot from "../../components/AffiliateSlot.astro";
 import ScoringLegend from "../../components/ScoringLegend.astro";
+import RelatedMatchArticles from "../../components/RelatedMatchArticles.astro";
 
 export const prerender = true;
 
@@ -118,6 +119,7 @@ const formatDate = (date: Date) => {
           <Content />
         </div>
 
+        {isJapanMatch && <RelatedMatchArticles slug={slug} />}
         {isJapanMatch && <ScoringLegend />}
 
         {slotKind && <AffiliateSlot kind={slotKind} ids={isMatchReview ? ["jsports", "dazn"] : undefined} />}

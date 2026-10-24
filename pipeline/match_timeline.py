@@ -2,18 +2,27 @@
 
 情報源は協会 game.php の info.timelines（得点・交代・カード）のみ。創作しない。
 Markdown に埋め込む HTML なので、ブロック内に空行・4スペース以上のインデントを入れない。
-新しい順（後半→前半）。T と直後の TG は1枚のカードにまとめる。
+時系列（前半→後半、古い順）。T と直後の TG は1枚のカードにまとめる。
 """
 from __future__ import annotations
 
 from html import escape
 from typing import Optional
 
+from pipeline.match_links import href_for
+
 
 def _name(p: Optional[dict]) -> str:
     if not p:
         return ""
     return f"{p.get('last_name', '')}{p.get('first_name', '')}".strip()
+
+
+def _who(p: Optional[dict]) -> str:
+    """氏名。サイト内に選手ページ/名簿があればリンク（全出現）。"""
+    nm = escape(_name(p))
+    h = href_for(p) if p else None
+    return f'<a href="{h}">{nm}</a>' if h and nm else nm
 
 
 def _card_label(ev: dict, remark: str) -> tuple[str, str]:
@@ -42,13 +51,20 @@ def _merge_points(events: list[dict]) -> list[dict]:
 
 def _card_html(ev: dict, remark: str) -> str:
     kind = ev["point_kind"]
-    who = escape(_name(ev.get("player")))
+    who = _who(ev.get("player"))
     if kind == "TG":
-        g = escape(_name(ev.get("goal_player")))
+        g = _who(ev.get("goal_player"))
         return (f'<div class="mt-ev mt-score"><div class="mt-pts"><span class="sc sc-t">T</span>'
                 f'<span class="sc sc-tg">TG</span><b>+{ev["points"]}</b></div>'
                 f'<div class="mt-who">{who}<small>トライ</small></div>'
                 f'<div class="mt-who">{g}<small>ゴール</small></div></div>')
+    miss = kind.endswith("x")
+    kind = kind.rstrip("x") if miss else kind
+    if miss:
+        label = {"PG": "PG", "DG": "DG", "G": "TG"}.get(kind, kind)
+        cls = {"PG": "sc-pg", "DG": "sc-dg", "G": "sc-tg"}.get(kind, "sc-tg")
+        return (f'<div class="mt-ev mt-score mt-miss"><div class="mt-pts"><span class="sc {cls}">{label}</span><b>失敗</b></div>'
+                f'<div class="mt-who">{who}</div></div>')
     cls = {"T": "sc-t", "PG": "sc-pg", "DG": "sc-dg", "G": "sc-tg"}.get(kind, "sc-t")
     label = {"T": "T", "PG": "PG", "DG": "DG", "G": "TG"}.get(kind, kind)
     jp = {"T": "トライ", "PG": "", "DG": "", "G": "ゴール"}.get(kind, "")
@@ -58,8 +74,8 @@ def _card_html(ev: dict, remark: str) -> str:
 
 
 def _sub_html(ev: dict) -> str:
-    return (f'<div class="mt-ev mt-sub"><div><span class="mt-in">IN</span>{escape(_name(ev.get("in_player")))}</div>'
-            f'<div><span class="mt-out">OUT</span>{escape(_name(ev.get("out_player")))}</div></div>')
+    return (f'<div class="mt-ev mt-sub"><div><span class="mt-in">IN</span>{_who(ev.get("in_player"))}</div>'
+            f'<div><span class="mt-out">OUT</span>{_who(ev.get("out_player"))}</div></div>')
 
 
 def _event_html(ev: dict, remark: str) -> str:
@@ -69,7 +85,7 @@ def _event_html(ev: dict, remark: str) -> str:
         return _sub_html(ev)
     if ev["type"] == "card":
         cls, label = _card_label(ev, remark)
-        who = escape(_name(ev.get("player")))
+        who = _who(ev.get("player"))
         why = escape(ev.get("content") or "")
         return (f'<div class="mt-ev mt-card"><div><span class="sc {cls}">{label}</span></div>'
                 f'<div class="mt-who">{who}<small>{why}</small></div></div>')
@@ -100,7 +116,7 @@ def build_timeline_html(g: dict, jp_side: str, jp_name: str, opp_name: str) -> s
              f'<small>日本 vs {escape(opp_name)}・タップで開閉</small></summary>',
              '<div class="mt-body">',
              f'<div class="mt-head"><span>🇯🇵 {escape(jp_name)}</span><span>時間</span><span>{escape(opp_name)}</span></div>']
-    for half, band_cls, icon, name, pts in ((1, "mt-h2", "🌙", "後半", h2), (0, "mt-h1", "☀️", "前半", h1)):
+    for half, band_cls, icon, name, pts in ((0, "mt-h1", "☀️", "前半", h1), (1, "mt-h2", "🌙", "後半", h2)):
         evs = [e for e in events if e.get("half_kind") == half]
         if not evs:
             continue
@@ -108,7 +124,7 @@ def build_timeline_html(g: dict, jp_side: str, jp_name: str, opp_name: str) -> s
         lines.append(f'<div class="mt-band {band_cls}"><span>{icon} {name}</span><span>{name}の得点 {ps}</span></div>')
         # 新しい順。同じ分は1行にまとめ、左=日本・右=相手
         by_min: dict[int, list[dict]] = {}
-        for e in sorted(evs, key=lambda x: (x["time_min"], x.get("point_sort", 0)), reverse=True):
+        for e in sorted(evs, key=lambda x: (x["time_min"], x.get("point_sort", 0))):
             by_min.setdefault(e["time_min"], []).append(e)
         for minute, group in by_min.items():
             left = "".join(_event_html(e, remark) for e in group if e["team_id"] == jp_team_id)

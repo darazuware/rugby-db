@@ -446,3 +446,5 @@
 .mt-in, .mt-out { display: inline-block; font-size: 0.65rem; font-weight: 900; padding: 0 0.4rem; border-radius: 4px; color: #fff; flex: none; }
 .mt-in { background: #059669; }
 .mt-out { background: #6b7280; }
+
+.mt-miss { opacity: 0.6; }

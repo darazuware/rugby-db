@@ -1,0 +1,47 @@
+---
+// 日本代表戦記事の関連記事を自動で出す（記事ファイルの編集不要）。
+// 同じ試合のプレビュー⇔レビュー、同じ相手の他の試合の記事。公開済み(または下書きを見せる環境では下書きも)だけ。
+import { getCollection } from "astro:content";
+import { isLive } from "../lib/news";
+
+const { slug } = Astro.props as { slug: string };
+const m = slug.match(/^japan-vs-([a-z0-9]+)-(.+)-(preview|review)$/);
+const showDrafts = import.meta.env.DEV || process.env.VERCEL_ENV === "preview";
+let same: { slug: string; title: string; draft: boolean }[] = [];
+let past: { slug: string; title: string; draft: boolean; date: number }[] = [];
+if (m) {
+  const [, opp, mid, kind] = m;
+  const all = await getCollection("news", (e) => e.slug.startsWith(`japan-vs-${opp}-`) && e.slug !== slug && (showDrafts || isLive(e)));
+  for (const e of all) {
+    const em = e.slug.match(/^japan-vs-([a-z0-9]+)-(.+)-(preview|review)$/);
+    if (!em) continue;
+    const item = { slug: e.slug, title: e.data.title, draft: !!e.data.draft, date: e.data.pubDate.valueOf() };
+    if (em[2] === mid && em[3] !== kind) same.push(item);
+    else past.push(item);
+  }
+  past.sort((a, b) => b.date - a.date);
+  past = past.slice(0, 4);
+}
+---
+
+{
+  (same.length > 0 || past.length > 0) && (
+    <aside class="fig" aria-label="関連記事">
+      <p class="font-black mb-2">🔗 関連記事</p>
+      <ul class="grid gap-2 text-sm list-none p-0 m-0">
+        {same.map((a) => (
+          <li>
+            <span class="sc sc-t">同じ試合</span> <a href={`/news/${a.slug}/`}>{a.title}</a>
+            {a.draft && <small> （下書き）</small>}
+          </li>
+        ))}
+        {past.map((a) => (
+          <li>
+            <span class="sc sc-tg">過去の対戦</span> <a href={`/news/${a.slug}/`}>{a.title}</a>
+            {a.draft && <small> （下書き）</small>}
+          </li>
+        ))}
+      </ul>
+    </aside>
+  )
+}
