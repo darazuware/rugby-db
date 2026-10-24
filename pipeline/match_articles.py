@@ -423,8 +423,12 @@ def build_review(g: dict, entry: dict, *, links: dict[str, str]) -> Optional[Art
         body.append(f"| 観衆 | {_int(g['audience_num']):,}人 |")
     if g.get("mom"):
         body.append(f"| プレーヤー・オブ・ザ・マッチ | {g['mom']} |")
-    body += ["", "<!-- TODO: 得点経過（トライ・ゴール・PG）と試合の流れは協会の試合レポートで確認して追記。公開前に draft: false にする -->",
-             "", "---", "", "*※ 本記事の試合結果・スコアは日本ラグビーフットボール協会の公式発表に基づいています。*"]
+    from pipeline.match_timeline import build_timeline_html
+    tl_html = build_timeline_html(g, jp_side, jp_name, opp_name)
+    if tl_html:
+        body += ["", "---", "", "## 得点経過・交代", "", tl_html]
+    body += ["", "<!-- TODO: 所感・試合の流れを加筆。公開前に draft: false にする -->",
+             "", "---", "", "*※ 本記事の試合結果・スコア・得点経過・交代は日本ラグビーフットボール協会の公式発表に基づいています。*"]
     return Article(slug=slug, title=title, body="\n".join(body),
                    tags=["日本代表", opp_name, comp, "テストマッチ", "レビュー", f"{ko.year}年"],
                    pub_date=ko.strftime("%Y-%m-%d"), source_diff=f"jrfu_game_{g.get('game_id')}", draft=True)

@@ -86,34 +86,33 @@ JRFU創立100周年記念試合。[日本代表](/national-teams/japan/)は[フ�
 
 ---
 
-## 資料：得点経過（新しい順）
+## 得点経過・交代
 
-<details>
-<summary>得点経過を開く</summary>
-
-| 時間 | | 内容 | 日本-フィジー |
-|:--:|:--:|:---|:--:|
-| 後69分 | <span class="sc sc-pg">PG</span> | ベン・ヴォラヴォラ（フィジー） | 28-34 |
-| 後60分 | <span class="sc sc-pg">PG</span> | ベン・ヴォラヴォラ（フィジー） | 28-31 |
-| 後54分 | <span class="sc sc-tg">TG</span> | 松永拓朗 | 28-28 |
-| 後53分 | <span class="sc sc-t">T</span> | ワーナー・ディアンズ | 26-28 |
-| 後45分 | <span class="sc sc-tg">TG</span> | アイザヤ・アームストロング-ラヴラ（フィジー） | 21-28 |
-| 後44分 | <span class="sc sc-t">T</span> | テリオ・タマニ（フィジー） | 21-26 |
-| 前36分 | <span class="sc sc-tg">TG</span> | 松永拓朗 | 21-21 |
-| 前35分 | <span class="sc sc-t">T</span> | マキシ ファウルア | 19-21 |
-| 前26分 | <span class="sc sc-tg">TG</span> | アームストロング-ラヴラ（フィジー） | 14-21 |
-| 前25分 | <span class="sc sc-t">T</span> | ツイドラキ・サムサムヴォドレ（フィジー） | 14-19 |
-| 前23分 | <span class="sc sc-tg">TG</span> | 松永拓朗 | 14-14 |
-| 前22分 | <span class="sc sc-t">T</span> | ワーナー・ディアンズ | 12-14 |
-| 前16分 | <span class="sc sc-tg">TG</span> | アームストロング-ラヴラ（フィジー） | 7-14 |
-| 前15分 | <span class="sc sc-t">T</span> | テヴィタ・イカニヴェレ（フィジー） | 7-12 |
-| 前10分 | <span class="sc sc-tg">TG</span> | アームストロング-ラヴラ（フィジー） | 7-7 |
-| 前10分 | <span class="sc sc-t">T</span> | キティオネ・サラワ（フィジー） | 7-5 |
-| 前7分 | <span class="sc sc-tg">TG</span> | 松永拓朗 | 7-0 |
-| 前6分 | <span class="sc sc-t">T</span> | 齋藤直人（モールから） | 5-0 |
-
-**日本代表の交代：** 45分 紙森陽太→大塚壮二郎／58分 為房慶次朗→木原三四郎／59分 マキシ ファウルア→マイケル・ストーバーグ／67分 ワーナー・ディアンズ→ルアン・ボタ、ベン・ガンター→エセイ・ハアンガナ、チャーリー・ローレンス→李智寿／68分 原田衛→佐藤健次、齋藤直人→藤原忍
-
+<details class="mt">
+<summary class="mt-sum"><span class="mt-arrow">▶</span><span>得点経過・交代を見る</span><small>日本 vs フィジー代表・タップで開閉</small></summary>
+<div class="mt-body">
+<div class="mt-head"><span>🇯🇵 日本代表</span><span>時間</span><span>フィジー代表</span></div>
+<div class="mt-band mt-h2"><span>🌙 後半</span><span>後半の得点 7-13</span></div>
+<div class="mt-row"><div class="mt-side mt-l"></div><div class="mt-min"><b>69'</b><small>28-34</small></div><div class="mt-side mt-r"><div class="mt-ev mt-score"><div class="mt-pts"><span class="sc sc-pg">PG</span><b>+3</b></div><div class="mt-who">ベン・ヴォラヴォラ</div></div></div></div>
+<div class="mt-row"><div class="mt-side mt-l"><div class="mt-ev mt-sub"><div><span class="mt-in">IN</span>佐藤健次</div><div><span class="mt-out">OUT</span>原田衛</div></div><div class="mt-ev mt-sub"><div><span class="mt-in">IN</span>藤原忍</div><div><span class="mt-out">OUT</span>齋藤直人</div></div></div><div class="mt-min"><b>68'</b><small>28-31</small></div><div class="mt-side mt-r"></div></div>
+<div class="mt-row"><div class="mt-side mt-l"><div class="mt-ev mt-sub"><div><span class="mt-in">IN</span>李智寿</div><div><span class="mt-out">OUT</span>チャーリー・ローレンス</div></div><div class="mt-ev mt-sub"><div><span class="mt-in">IN</span>ルアン・ボタ</div><div><span class="mt-out">OUT</span>ワーナー・ディアンズ</div></div><div class="mt-ev mt-sub"><div><span class="mt-in">IN</span>エセイ・ハアンガナ</div><div><span class="mt-out">OUT</span>ベン・ガンター</div></div></div><div class="mt-min"><b>67'</b><small>28-31</small></div><div class="mt-side mt-r"></div></div>
+<div class="mt-row"><div class="mt-side mt-l"></div><div class="mt-min"><b>61'</b><small>28-31</small></div><div class="mt-side mt-r"><div class="mt-ev mt-sub"><div><span class="mt-in">IN</span>メリ・トゥニ</div><div><span class="mt-out">OUT</span>ペニ・ラヴァイ</div></div><div class="mt-ev mt-sub"><div><span class="mt-in">IN</span>メサケ・ドンゲ</div><div><span class="mt-out">OUT</span>イノケ・ラヴイワサ</div></div><div class="mt-ev mt-sub"><div><span class="mt-in">IN</span>ペニ・ナルマ</div><div><span class="mt-out">OUT</span>メサケ・ヴォデヴォデ</div></div><div class="mt-ev mt-sub"><div><span class="mt-in">IN</span>フランク・ロマニ</div><div><span class="mt-out">OUT</span>テリオ・タマニ</div></div><div class="mt-ev mt-sub"><div><span class="mt-in">IN</span>カヴェキニ・ボセラワ</div><div><span class="mt-out">OUT</span>ツイドラキ・サムサムヴォドレ</div></div></div></div>
+<div class="mt-row"><div class="mt-side mt-l"></div><div class="mt-min"><b>60'</b><small>28-31</small></div><div class="mt-side mt-r"><div class="mt-ev mt-score"><div class="mt-pts"><span class="sc sc-pg">PG</span><b>+3</b></div><div class="mt-who">ベン・ヴォラヴォラ</div></div></div></div>
+<div class="mt-row"><div class="mt-side mt-l"><div class="mt-ev mt-sub"><div><span class="mt-in">IN</span>マイケル・ストーバーグ</div><div><span class="mt-out">OUT</span>マキシファウルア</div></div></div><div class="mt-min"><b>59'</b><small>28-28</small></div><div class="mt-side mt-r"></div></div>
+<div class="mt-row"><div class="mt-side mt-l"><div class="mt-ev mt-sub"><div><span class="mt-in">IN</span>木原三四郎</div><div><span class="mt-out">OUT</span>為房慶次朗</div></div></div><div class="mt-min"><b>58'</b><small>28-28</small></div><div class="mt-side mt-r"></div></div>
+<div class="mt-row"><div class="mt-side mt-l"></div><div class="mt-min"><b>54'</b><small>28-28</small></div><div class="mt-side mt-r"><div class="mt-ev mt-sub"><div><span class="mt-in">IN</span>カヴァイア・タギヴェタウア</div><div><span class="mt-out">OUT</span>テヴィタ・イカニヴェレ</div></div><div class="mt-ev mt-sub"><div><span class="mt-in">IN</span>ヴィリヴェ・ミラミラ</div><div><span class="mt-out">OUT</span>モティキアイ・マリー</div></div><div class="mt-ev mt-sub"><div><span class="mt-in">IN</span>ベン・ヴォラヴォラ</div><div><span class="mt-out">OUT</span>アイザヤ・アームストロング-ラヴラ</div></div></div></div>
+<div class="mt-row"><div class="mt-side mt-l"><div class="mt-ev mt-score"><div class="mt-pts"><span class="sc sc-t">T</span><span class="sc sc-tg">TG</span><b>+7</b></div><div class="mt-who">ワーナー・ディアンズ<small>トライ</small></div><div class="mt-who">松永拓朗<small>ゴール</small></div></div></div><div class="mt-min"><b>53'</b><small>28-28</small></div><div class="mt-side mt-r"></div></div>
+<div class="mt-row"><div class="mt-side mt-l"><div class="mt-ev mt-sub"><div><span class="mt-in">IN</span>大塚壮二郎</div><div><span class="mt-out">OUT</span>紙森陽太</div></div></div><div class="mt-min"><b>45'</b><small>21-28</small></div><div class="mt-side mt-r"></div></div>
+<div class="mt-row"><div class="mt-side mt-l"></div><div class="mt-min"><b>44'</b><small>21-28</small></div><div class="mt-side mt-r"><div class="mt-ev mt-score"><div class="mt-pts"><span class="sc sc-t">T</span><span class="sc sc-tg">TG</span><b>+7</b></div><div class="mt-who">テリオ・タマニ<small>トライ</small></div><div class="mt-who">アイザヤ・アームストロング-ラヴラ<small>ゴール</small></div></div></div></div>
+<div class="mt-band mt-h1"><span>☀️ 前半</span><span>前半の得点 21-21</span></div>
+<div class="mt-row"><div class="mt-side mt-l"><div class="mt-ev mt-score"><div class="mt-pts"><span class="sc sc-t">T</span><span class="sc sc-tg">TG</span><b>+7</b></div><div class="mt-who">マキシファウルア<small>トライ</small></div><div class="mt-who">松永拓朗<small>ゴール</small></div></div></div><div class="mt-min"><b>35'</b><small>21-21</small></div><div class="mt-side mt-r"></div></div>
+<div class="mt-row"><div class="mt-side mt-l"></div><div class="mt-min"><b>34'</b><small>14-21</small></div><div class="mt-side mt-r"><div class="mt-ev mt-card"><div><span class="sc sc-rc">レッドカード</span></div><div class="mt-who">モティキアイ・マリー<small>危険なプレー</small></div></div></div></div>
+<div class="mt-row"><div class="mt-side mt-l"></div><div class="mt-min"><b>25'</b><small>14-21</small></div><div class="mt-side mt-r"><div class="mt-ev mt-score"><div class="mt-pts"><span class="sc sc-t">T</span><span class="sc sc-tg">TG</span><b>+7</b></div><div class="mt-who">ツイドラキ・サムサムヴォドレ<small>トライ</small></div><div class="mt-who">アイザヤ・アームストロング-ラヴラ<small>ゴール</small></div></div></div></div>
+<div class="mt-row"><div class="mt-side mt-l"><div class="mt-ev mt-score"><div class="mt-pts"><span class="sc sc-t">T</span><span class="sc sc-tg">TG</span><b>+7</b></div><div class="mt-who">ワーナー・ディアンズ<small>トライ</small></div><div class="mt-who">松永拓朗<small>ゴール</small></div></div></div><div class="mt-min"><b>22'</b><small>14-14</small></div><div class="mt-side mt-r"></div></div>
+<div class="mt-row"><div class="mt-side mt-l"></div><div class="mt-min"><b>15'</b><small>7-14</small></div><div class="mt-side mt-r"><div class="mt-ev mt-score"><div class="mt-pts"><span class="sc sc-t">T</span><span class="sc sc-tg">TG</span><b>+7</b></div><div class="mt-who">テヴィタ・イカニヴェレ<small>トライ</small></div><div class="mt-who">アイザヤ・アームストロング-ラヴラ<small>ゴール</small></div></div></div></div>
+<div class="mt-row"><div class="mt-side mt-l"></div><div class="mt-min"><b>10'</b><small>7-7</small></div><div class="mt-side mt-r"><div class="mt-ev mt-score"><div class="mt-pts"><span class="sc sc-t">T</span><span class="sc sc-tg">TG</span><b>+7</b></div><div class="mt-who">キティオネ・サラワ<small>トライ</small></div><div class="mt-who">アイザヤ・アームストロング-ラヴラ<small>ゴール</small></div></div></div></div>
+<div class="mt-row"><div class="mt-side mt-l"><div class="mt-ev mt-score"><div class="mt-pts"><span class="sc sc-t">T</span><span class="sc sc-tg">TG</span><b>+7</b></div><div class="mt-who">齋藤直人<small>トライ</small></div><div class="mt-who">松永拓朗<small>ゴール</small></div></div></div><div class="mt-min"><b>6'</b><small>7-0</small></div><div class="mt-side mt-r"></div></div>
+</div>
 </details>
 
 *※ 試合結果・得点経過・交代・反則数は日本ラグビーフットボール協会の公式記録に基づきます。「編集部の観戦メモ」は編集部の所感です。*
