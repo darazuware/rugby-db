@@ -151,7 +151,7 @@ def is_indexable(p: dict) -> bool:
 
 
 def player_href(p: dict) -> Optional[str]:
-    """記事内リンク先。個別ページがあればそこ、チーム名簿に行があればアンカー、行き先が /players/ だけなら None（平文）。"""
+    """記事内リンク先。個別ページがあればそこ、チーム名簿に行があればアンカー、行き先が /players/ や /leagues/ だけなら None（平文）。"""
     if not p or not p.get("slug"):
         return None
     if is_indexable(p):
@@ -159,4 +159,5 @@ def player_href(p: dict) -> Optional[str]:
     if p.get("league") == "highschool":
         return None
     target = fallback_path(p)
-    return None if target == "/players/" else target
+    # 行き先がリーグ総合/選手一覧だけ＝その選手の行が無い。リンクすると別ページへ誤誘導になるので平文にする
+    return None if target == "/players/" or target.startswith("/leagues/") else target

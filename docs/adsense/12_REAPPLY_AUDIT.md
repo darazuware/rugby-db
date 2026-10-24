@@ -43,3 +43,10 @@
 
 再計測：サイトマップ202URL、800字未満16件＝7.9%。内部リンク切れ0。pytest 309件合格、vitest 65件合格。
 未対応：フィジー戦レビューの「ベン・ヴォラヴォラ」→ /leagues/super-rugby/ リンク3か所（記事修正のためレビュー待ち）。
+
+## 本番再計測（2026-10-24・rugbypick.com）
+- サイトマップ203URL（/schools/ 除外済み）、全て200。本文800字未満16件＝**7.9%**（目標10%以下）。数値 12_prod_textlen.tsv。内訳: 選手8・チーム5・contact/national-teams/terms。
+- /world-rankings/ 4,894字で正常。/terms/ は新文言（「公開情報をプログラムで定期的に収集・整理」）。`data-ad-slot` なしの ins は0。
+- 旧URL（8月まとめ宛て102件）とW37は301→200。ループ0。
+- 全ページの内部リンク516件を巡回: 404は **16件**（urc-league-guide-2025-26 の `./urc-xxx` 相対リンクが /news/urc-league-guide-2025-26/urc-xxx に解決）→ 絶対パス（チームページ）に修正。選手リンク4件は転送先まで200（検査器の誤検出）。tests/test_news_internal_links.py 合格。
+- フィジー戦レビューの「ベン・ヴォラヴォラ」: 原因は player_links.player_href が、チーム名簿に行がない選手を /leagues/{league}/ へフォールバックすること（ヴォラヴォラは retired slug・Reds ページ無し）。player_href を修正し以後は平文。同種が preview(1)・transfers-roundup-2026-08(2)・review(3)に残存（記事修正はレビュー待ち）。
