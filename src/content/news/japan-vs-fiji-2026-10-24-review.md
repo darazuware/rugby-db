@@ -1,6 +1,6 @@
 ---
 title: "日本代表 28-34 フィジー代表 レビュー ― 差は2本のPGだけ。好調だったモールと、最後のノックフォワード"
-description: "2026年10月24日、JRFU創立100周年記念試合。日本代表はフィジー代表に28-34で惜敗。トライもゴールも4本ずつで、差はPG2本。反則は11対3、モールは好調、そして最後のノックフォワードまで、図解つきでコンパクトに振り返ります。"
+description: "2026年10月24日、JRFU創立100周年記念試合。日本代表はフィジー代表に28-34で惜敗。トライもゴールも4本ずつで、差はPG2本。反則は11対3、モールは好調、そして最後のノックフォワードまで、コンパクトに振り返ります。"
 pubDate: 2026-10-24
 category: "NEWS"
 tags: ["日本代表", "フィジー代表", "リポビタンDチャレンジカップ", "テストマッチ", "レビュー", "2026年", "100周年"]
@@ -27,11 +27,6 @@ JRFU創立100周年記念試合。[日本代表](/national-teams/japan/)は[フ�
 
 トライ4本、ゴール4本は両チーム同じ。違ったのは、フィジーが後半に決めた2本の <span class="sc sc-pg">PG</span>（後半60分、69分）だけでした。最終スコアの6点差は、ちょうどそのぶんです。
 
-<div class="bars">
-<div class="bar"><span>🇯🇵 日本</span><i style="--w:100%;--c:var(--sc-rc)"></i><b>11</b></div>
-<div class="bar"><span>🇫🇯 フィジー</span><i style="--w:27%;--c:var(--sc-tg)"></i><b>3</b></div>
-</div>
-
 上は協会の記録による反則数です（前半は日本4・フィジー1、後半は日本7・フィジー2）。9月の決勝ではフィジーが前半だけで8つの反則を犯して日本が主導権を握りました。今回は立場が逆でした。
 
 ---
@@ -48,33 +43,6 @@ JRFU創立100周年記念試合。[日本代表](/national-teams/japan/)は[フ�
 ## 最後の攻撃 ― あと一歩だった連続フェーズ
 
 6点を追う終盤、日本は **敵陣22mのラインアウト** を得ます。ここから連続フェーズが始まります。
-
-<figure class="fig">
-<svg viewBox="0 0 640 290" role="img" aria-label="敵陣22mのラインアウトからの最後の攻撃の概念図">
-<defs><marker id="ar" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#d97706"/></marker></defs>
-<rect x="10" y="10" width="620" height="260" rx="8" fill="none" stroke="#9ca3af" stroke-width="2"/>
-<line x1="590" y1="10" x2="590" y2="270" stroke="#9ca3af" stroke-width="3"/>
-<line x1="300" y1="10" x2="300" y2="270" stroke="#9ca3af" stroke-width="2" stroke-dasharray="6 6"/>
-<text x="580" y="30" font-size="12" text-anchor="end">フィジーのトライライン →</text>
-<text x="292" y="262" font-size="12" text-anchor="end">22mライン</text>
-<text x="22" y="30" font-size="12">日本の攻撃方向 →（右がフィジー陣）</text>
-<text x="22" y="150" font-size="12" opacity="0.7">上の端 ＝ ラインアウトをした側</text>
-<text x="22" y="236" font-size="12" opacity="0.7">下の端 ＝ 逆サイド</text>
-<text x="425" y="51" font-size="14" font-weight="700" text-anchor="end">22mラインアウト（マイボール）</text>
-<path d="M450,70 L450,148" fill="none" stroke="#d97706" stroke-width="4" marker-end="url(#ar)"/>
-<text x="425" y="115" font-size="14" font-weight="700" text-anchor="end">キープして連続フェーズ</text>
-<path d="M450,160 C450,200 500,200 520,222" fill="none" stroke="#d97706" stroke-width="4" marker-end="url(#ar)"/>
-<text x="425" y="185" font-size="14" font-weight="700" text-anchor="end">逆サイドへ展開</text>
-<g stroke="#dc2626" stroke-width="6" stroke-linecap="round"><line x1="520" y1="236" x2="544" y2="260"/><line x1="544" y1="236" x2="520" y2="260"/></g>
-<text x="500" y="254" font-size="14" font-weight="900" text-anchor="end" style="fill:#dc2626">ノックフォワード</text>
-<g font-size="13" font-weight="900" text-anchor="middle" style="fill:#111">
-<circle cx="450" cy="46" r="12" fill="#facc15"/><text x="450" y="51">1</text>
-<circle cx="450" cy="110" r="12" fill="#facc15"/><text x="450" y="115">2</text>
-<circle cx="450" cy="170" r="12" fill="#facc15"/><text x="450" y="175">3</text>
-</g>
-</svg>
-<figcaption>概念図（位置・距離は目安で、実際の場所を正確に示すものではありません）</figcaption>
-</figure>
 
 22mからは一気にトライまでは届きませんでしたが、マイボールを **キープ** し、ラインアウトした場所の **逆サイドへ展開**。ここで[藤原忍](/players/shinobu-fujiwara-485500/)がノックフォワード。
 
