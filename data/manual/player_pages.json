@@ -1,6 +1,6 @@
 {
  "_note": "scripts/build_player_pages.py が生成。force_include/force_exclude のみ手編集可",
- "generated_at": "2026-10-24T04:37:12+00:00",
+ "generated_at": "2026-10-24T11:21:40+00:00",
  "criteria": "K1|K2|K3(mention>=2)",
  "force_include": [
   "lo_484310"
@@ -94,7 +94,8 @@
    "slug": "warner-dearns",
    "reasons": [
     "K1",
-    "K2"
+    "K2",
+    "K3"
    ]
   },
   {
@@ -160,7 +161,8 @@
    "slug": "samisoni-tua-483497",
    "reasons": [
     "K1",
-    "K2"
+    "K2",
+    "K3"
    ]
   },
   {
@@ -168,6 +170,20 @@
    "slug": "haruto-kida-483750",
    "reasons": [
     "K1"
+   ]
+  },
+  {
+   "id": "lo_483754",
+   "slug": "yota-kamimori-483754",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_483767",
+   "slug": "faulua-makisi-483767",
+   "reasons": [
+    "K3"
    ]
   },
   {
@@ -215,7 +231,8 @@
    "id": "lo_483940",
    "slug": "inoke-burua-483940",
    "reasons": [
-    "K1"
+    "K1",
+    "K3"
    ]
   },
   {
@@ -254,7 +271,8 @@
    "slug": "kenji-sato-484033",
    "reasons": [
     "K1",
-    "K2"
+    "K2",
+    "K3"
    ]
   },
   {
@@ -263,6 +281,13 @@
    "reasons": [
     "K1",
     "K2"
+   ]
+  },
+  {
+   "id": "lo_484053",
+   "slug": "esei-haangana-484053",
+   "reasons": [
+    "K3"
    ]
   },
   {
@@ -316,6 +341,13 @@
   {
    "id": "lo_484319",
    "slug": "kotaro-matsushima-484319",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_484344",
+   "slug": "michael-stolberg-484344",
    "reasons": [
     "K3"
    ]
@@ -414,7 +446,8 @@
    "slug": "shinobu-fujiwara-485500",
    "reasons": [
     "K1",
-    "K2"
+    "K2",
+    "K3"
    ]
   },
   {
@@ -479,7 +512,8 @@
    "slug": "keijiro-tamefusa-486437",
    "reasons": [
     "K1",
-    "K2"
+    "K2",
+    "K3"
    ]
   },
   {
