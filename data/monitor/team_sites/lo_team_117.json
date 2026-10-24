@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-24T00:32:44+09:00",
+  "checked_at": "2026-10-24T17:48:25+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "4617927daa84f661"
+      "hash": "c6a78e9c5c51294e"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "af2df65800d9bab3"
+      "hash": "d92513c0898a341d"
     }
   ],
   "items": [
@@ -33,13 +33,18 @@
       "date": "2026-10-31"
     },
     {
-      "url": "https://www.kurita-watergush.jp/game/20261023-wg%e6%98%ad%e5%b3%b6-vs%e5%b7%9d%e8%b6%8a%e7%8b%ad%e5%b1%b1rg/",
-      "title": "試合詳細結果",
-      "date": "2026-10-23"
-    },
-    {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
+      "date": "2026-10-24"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261024-2/",
+      "title": "私とウォーターガッシュ 2026/10/24 私とWATER GUSH #12 楠大輝 LO 「おかげさまで」の気持ちを胸に。",
+      "date": "2026-10-24"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/game/20261023-wg%e6%98%ad%e5%b3%b6-vs%e5%b7%9d%e8%b6%8a%e7%8b%ad%e5%b1%b1rg/",
+      "title": "試合詳細結果",
       "date": "2026-10-23"
     },
     {
@@ -90,11 +95,6 @@
     {
       "url": "https://www.kurita-watergush.jp/20261019-2/",
       "title": "私とウォーターガッシュ 公開日：2026/10/19 私とWATER GUSH #7 新和田錬 SH 3歳からグラウンドを駆け回った少年が、リーグワンの舞台へ。 選手のラグビーとの出会い、クリタでラグビーをする想いにせまる”私とWATER GUSH”。今回は2026-27SEASONに… 続きを読む",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261007-2/",
-      "title": "お知らせ 2026/10/19 10月31日（土）ライジング2026 ヤクルトレビンズ戸田戦イベントのご案内（※10月20日更新）",
       "date": "2026-10-19"
     },
     {
@@ -151,6 +151,11 @@
       "url": "https://www.kurita-watergush.jp/20261010-2/",
       "title": "お知らせ 公開日：2026/10/10 10月23日（金）日豪50周年フレンドシップマッチのご案内（※10月21日更新） ■タイムスケジュールについて 12:00 開場 13:00 第1試合KO（クリタウォーターガッシュ昭島 v 川越狭山セコ… 続きを読む",
       "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261007-2/",
+      "title": "お知らせ 公開日：2026/10/19 10月31日（土）ライジング2026 ヤクルトレビンズ戸田戦イベントのご案内（※10月20日更新） ■タイムスケジュールについて 11:30 開場（予定） 13:00 KO ※詳細は決まり次第お知らせいたします。 ■栗田… 続きを読む",
+      "date": "2026-10-07"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261001-2/",
@@ -231,11 +236,6 @@
       "url": "https://www.kurita-watergush.jp/20260730-2/",
       "title": "地域貢献 公開日：2026/07/30 【イベント報告】国内交流事業タグラグビー体験 実施日：7月29日（水）実施場所：昭島市立東小学校、栗田工業昭島グラウンド 昭島市が実施している岩手県… 続きを読む",
       "date": "2026-07-30"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260724-2/",
-      "title": "お知らせ 公開日：2026/07/24 2026-27シーズン 新加入選手のお知らせ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 この度、2026-2… 続きを読む",
-      "date": "2026-07-24"
     }
   ]
 }

@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-10-24T00:32:44+09:00",
+  "checked_at": "2026-10-24T17:48:25+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "c59d4ce4371ccc77"
+      "hash": "771788075a3952e7"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "8ec314bfec166682"
+      "hash": "8ceb7120e07ba384"
     }
   ],
   "items": [
@@ -21,6 +21,11 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/",
       "title": "試合日程一覧",
       "date": "2026-12-12"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261205/",
+      "title": "試合詳細",
+      "date": "2026-12-05"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/",
@@ -31,6 +36,11 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
       "title": "試合日程一覧",
       "date": "2026-10-31"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261205/#ticket",
+      "title": "チケット 2026年10月24日 12月5日(土) 強化試合 8戦目 栃木ホンダヒート戦 チケット情報 ニュースを見る",
+      "date": "2026-10-24"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/#ticket",
@@ -131,11 +141,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260504_01/",
       "title": "お知らせ 2026年05月05日 宮地 克実氏 追悼献花台の設置について ニュースを見る",
       "date": "2026-05-05"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260429_02/",
-      "title": "チケット 2026年04月29日 NTTジャパンラグビー リーグワン2025-26 プレーオフトーナメント準々決勝... ニュースを見る",
-      "date": "2026-04-29"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20260509/#event",

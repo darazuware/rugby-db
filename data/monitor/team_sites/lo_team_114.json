@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-10-24T00:32:44+09:00",
+  "checked_at": "2026-10-24T17:48:25+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "0e62a6bc4b432925"
+      "hash": "60ea3c3f4fe88ec0"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "a0d54cd36109862e"
+      "hash": "7bc4aeecee5642cd"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/10/24/fukuokacamp-day3/",
+      "title": "2026.10.24 その他 福岡合宿レポート3日目",
+      "date": "2026-10-24"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/10/23/ticket-schedule/",
       "title": "2026.10.23 その他 NTT ジャパンラグビーリーグワン 2026-27シーズンホストゲーム販売スケジュールが決定しました。",
@@ -95,11 +100,6 @@
     {
       "url": "https://hanazono-liners.jp/2026/10/01/off-itemae4/",
       "title": "2026-10-01 活動報告書 その他 【番組 オフもいてまえ！花園近鉄ライナーズ（4回目・10/1放送）】",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/10/01/brumbies-practice-tour/",
-      "title": "2026-10-01 ファンクラブ 【LINERS FANCLUB】ファンクラブ会員限定 ACTブランビーズ合同練習見学会開催のお知らせ",
       "date": "2026-10-01"
     },
     {

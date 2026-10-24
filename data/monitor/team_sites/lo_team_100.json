@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-10-24T00:32:44+09:00",
+  "checked_at": "2026-10-24T17:48:25+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "e31775f1d4afc133"
+      "hash": "279896572d71185c"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "8c487b1d6d9ae205"
+      "hash": "9565f250c2361a50"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/fanclub/index_2066.html",
+      "title": "ファンクラブ 2026.10.24 2026.10.30「D-Rockersテーマ別対話会（試合イベントの部）」開催のお知らせ",
+      "date": "2026-10-24"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_2065.html",
       "title": "ファンクラブ 2026.10.23 2026.10.29「第2回 Club D-Rockers交流会」開催のお知らせ",
@@ -59,7 +64,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2055.html",
-      "title": "ゲーム 2026.10.15 2026-27シーズン 試合配信に関するお知らせ",
+      "title": "2026.10.15 ニュース 2026-27シーズン 試合配信に関するお知らせ",
       "date": "2026-10-15"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/game/index_2009.html",
       "title": "2026.09.07 ニュース 2026-27シーズン プレシーズンマッチ開催および練習公開のお知らせ",
       "date": "2026-09-07"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_2017.html",
-      "title": "2026.09.05 ニュース 2026.9.2 津別町立津別小学校にてラグビークリニックを実施しました",
-      "date": "2026-09-05"
     }
   ]
 }
