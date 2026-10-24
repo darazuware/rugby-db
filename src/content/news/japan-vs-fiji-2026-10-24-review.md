@@ -4,10 +4,10 @@ description: "2026年10月24日、JRFU創立100周年記念試合。日本代表
 pubDate: 2026-10-24
 category: "NEWS"
 tags: ["日本代表", "フィジー代表", "リポビタンDチャレンジカップ", "テストマッチ", "レビュー", "2026年", "100周年"]
-draft: true
+draft: false
 ---
 
-JRFU創立100周年記念試合。[日本代表](/national-teams/japan/)は[フィジー代表](/national-teams/fiji/)に **28-34** で惜敗しました。[9月のPNC決勝（20-15）](/news/japan-vs-fiji-2026-09-19-review/)の再戦でしたが、連勝はなりませんでした。
+JRFU創立100周年記念試合。[日本代表](/national-teams/japan/)は[フィジー代表](/national-teams/fiji/)に **28-34** で惜敗しました。9月のPNC決勝（20-15）の再戦でしたが、連勝はなりませんでした。
 
 <div class="scoreboard">
 <div class="sb-main"><span class="sb-team">🇯🇵 [日本代表](/national-teams/japan/)</span><span class="sb-score">28 - 34</span><span class="sb-team">[フィジー代表](/national-teams/fiji/) 🇫🇯</span></div>
@@ -27,7 +27,7 @@ JRFU創立100周年記念試合。[日本代表](/national-teams/japan/)は[フ�
 
 トライ4本、ゴール4本は両チーム同じ。違ったのは、フィジーが後半に決めた2本の <span class="sc sc-pg">PG</span>（後半60分、69分）だけでした。最終スコアの6点差は、ちょうどそのぶんです。
 
-反則数は日本11、フィジー3（協会の記録。前半は日本4・フィジー1、後半は日本7・フィジー2）。[9月の決勝](/news/japan-vs-fiji-2026-09-19-review/)ではフィジーが前半だけで8つの反則を犯して日本が主導権を握りました。今回は立場が逆でした。
+反則数は日本11、フィジー3（協会の記録。前半は日本4・フィジー1、後半は日本7・フィジー2）。9月の決勝ではフィジーが前半だけで8つの反則を犯して日本が主導権を握りました。今回は立場が逆でした。
 
 ---
 
