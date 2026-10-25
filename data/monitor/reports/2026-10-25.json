@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T18:04:19+09:00",
+  "checked_at": "2026-10-25T23:42:00+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -194,17 +194,9 @@
       "status": "ok",
       "first_run": false,
       "item_count": 7,
-      "new_items": [
-        {
-          "url": "https://shuttles-aichi.com/news/2026-10-25-preseason-match-vs-red-hurricanes-osaka-photo-gallery/",
-          "title": "フォトギャラリー 26年10月25日 2026/10/25(日)プレシーズンマッチ vsレッドハリケーンズ大阪 フォトギャラリー",
-          "date": "2026-10-25",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
-        "https://shuttles-aichi.com/",
-        "https://shuttles-aichi.com/news/"
+        "https://shuttles-aichi.com/"
       ],
       "rename_signals": []
     },
@@ -231,8 +223,27 @@
       "official_url": "https://hanazono-liners.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 26,
-      "new_items": [],
+      "item_count": 27,
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/news/",
+          "title": "ニュース一覧を見る",
+          "date": "2026-10-25",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/10/25/fukuokacamp-day4/",
+          "title": "2026.10.25 その他 福岡合宿レポート4日目",
+          "date": "2026-10-25",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub/",
+          "title": "2026.08.03 ファンクラブ イベント 【重要】LINERS FANCLUB 2026-27 自動継続入会について",
+          "date": "2026-08-03",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -273,14 +284,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 44,
-      "new_items": [
-        {
-          "url": "https://www.kurita-watergush.jp/20261025-2/",
-          "title": "私とウォーターガッシュ 2026/10/25 私とWATER GUSH #13 桃田涼平 WTB/FB ボールを持って走る喜びを原点に。仕事もラグビーも100％の挑戦。",
-          "date": "2026-10-25",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -308,9 +312,7 @@
       "first_run": false,
       "item_count": 15,
       "new_items": [],
-      "changed_pages": [
-        "https://rrrfc.red/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -323,7 +325,8 @@
       "item_count": 45,
       "new_items": [],
       "changed_pages": [
-        "https://www.skyactivs.com/"
+        "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news/2091"
       ],
       "rename_signals": []
     },
