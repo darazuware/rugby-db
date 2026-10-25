@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-24T23:10:32+09:00",
+  "checked_at": "2026-10-25T18:04:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "23b490f6d8cf01be"
+      "hash": "937d63c2c6b20987"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "773fdf1a8cdcff3f"
+      "hash": "8eadca3788456b75"
     }
   ],
   "items": [
@@ -35,7 +35,12 @@
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-10-24"
+      "date": "2026-10-25"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261025-2/",
+      "title": "私とウォーターガッシュ 2026/10/25 私とWATER GUSH #13 桃田涼平 WTB/FB ボールを持って走る喜びを原点に。仕事もラグビーも100％の挑戦。",
+      "date": "2026-10-25"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261024-2/",
@@ -89,7 +94,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261020-2/",
-      "title": "私とウォーターガッシュ 2026/10/20 私とWATER GUSH #8 伊藤森心 FL 「自分が選んだ道をやり遂げたい」クリタへの誓いと大きな夢",
+      "title": "私とウォーターガッシュ 公開日：2026/10/20 私とWATER GUSH #8 伊藤森心 FL 「自分が選んだ道をやり遂げたい」クリタへの誓いと大きな夢 選手のラグビーとの出会い、クリタでラグビーをする想いにせまる”私とWATER GUSH”。2026年からチームへ加… 続きを読む",
       "date": "2026-10-20"
     },
     {
@@ -231,11 +236,6 @@
       "url": "https://www.kurita-watergush.jp/20260804-2/",
       "title": "地域貢献 公開日：2026/08/04 【イベント報告】昭島市内小学校タグラグビー体験 実施日：8月2日（日）実施場所：昭島市立玉川小学校 昭島市立玉川小学校体育館で、タグラグビー体験を実施… 続きを読む",
       "date": "2026-08-04"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260730-2/",
-      "title": "地域貢献 公開日：2026/07/30 【イベント報告】国内交流事業タグラグビー体験 実施日：7月29日（水）実施場所：昭島市立東小学校、栗田工業昭島グラウンド 昭島市が実施している岩手県… 続きを読む",
-      "date": "2026-07-30"
     }
   ]
 }
