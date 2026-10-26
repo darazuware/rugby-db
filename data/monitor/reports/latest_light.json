@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T16:22:12+09:00",
+  "checked_at": "2026-10-26T23:48:19+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,14 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6224",
-          "title": "クラブ クボタスピアーズ船橋・東京ベイ、2026-27シーズン ジャージーパートナーおよび最終デザイン決定のお知らせ 2026.10.26",
-          "date": "2026-10-26",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -28,14 +21,8 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54297",
-          "title": "男子日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ 2026.10.26 （月） 15人制男子日本代表 WBB 男子 日本代表 リポビタンＤツアー2026",
-          "date": "2026-10-26",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54294",
-          "title": "【10月31日 当日情報】太陽生命 JAPAN RUGBY CHALLENGE MATCH 2026 女子日本代表vs女子ウェールズ代表｜埼玉・熊谷スポーツ文化公園ラグビー場 2026.10.26 （月） 15人制女子日本代表 女子",
+          "url": "https://www.rugby-japan.jp/news/53612",
+          "title": "（10/26更新）女子セブンズ日本代表（サクラセブンズ） 2026年の活動スケジュールのお知らせ 2026.10.26 （月） 女子セブンズ日本代表 女子 セブンズ",
           "date": "2026-10-26",
           "category": "squad"
         }
@@ -56,15 +43,8 @@
   "highlights": [
     {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54297",
-      "title": "男子日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ 2026.10.26 （月） 15人制男子日本代表 WBB 男子 日本代表 リポビタンＤツアー2026",
-      "date": "2026-10-26",
-      "category": "squad"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54294",
-      "title": "【10月31日 当日情報】太陽生命 JAPAN RUGBY CHALLENGE MATCH 2026 女子日本代表vs女子ウェールズ代表｜埼玉・熊谷スポーツ文化公園ラグビー場 2026.10.26 （月） 15人制女子日本代表 女子",
+      "url": "https://www.rugby-japan.jp/news/53612",
+      "title": "（10/26更新）女子セブンズ日本代表（サクラセブンズ） 2026年の活動スケジュールのお知らせ 2026.10.26 （月） 女子セブンズ日本代表 女子 セブンズ",
       "date": "2026-10-26",
       "category": "squad"
     }
