@@ -282,9 +282,10 @@ def collect(division: str, *, light: bool = False) -> dict:
 
     # 出身校の正規表現分類→未判定分のみまとめてSonnetフォールバック（jrfu.py と同方針）。
     unresolved: set[str] = set()
-    for raw in raws_by_pid.values():
+    for pid, raw in raws_by_pid.items():
         for seg in raw.get("education_segments_raw", []):
-            if _classify_school_regex(seg) is None:
+            if (school_types.player_override(f"lo_{pid}", seg) is None
+                    and _classify_school_regex(seg) is None):
                 unresolved.add(seg)
     llm_result: dict[str, str] = {}
     if unresolved:
@@ -296,13 +297,14 @@ def collect(division: str, *, light: bool = False) -> dict:
                 f"いずれでもtype判定できず（例: {still_unresolved[:3]}）"
             )
 
-    def _type_of(name: str) -> Optional[str]:
-        return _classify_school_regex(name) or llm_result.get(name)
+    def _type_of(pid: str, name: str) -> Optional[str]:
+        return (school_types.player_override(f"lo_{pid}", name)
+                or _classify_school_regex(name) or llm_result.get(name))
 
-    for raw in raws_by_pid.values():
+    for pid, raw in raws_by_pid.items():
         education: list[dict] = []
         for seg in raw.get("education_segments_raw", []):
-            t = _type_of(seg)
+            t = _type_of(pid, seg)
             if t is not None:
                 education.append({"name_raw": seg, "type": t})
         raw["_education"] = education

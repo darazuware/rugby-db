@@ -89,7 +89,8 @@ def cmd_apply(cache: Path, dry_run: bool) -> int:
             by_name = {e.get("name_raw"): e for e in old}
             education = []
             for seg in entry["segments"]:
-                t = (lo._classify_school_regex(seg) or school_types.classify(seg)
+                t = (school_types.player_override(p["id"], seg)
+                     or lo._classify_school_regex(seg) or school_types.classify(seg)
                      or schools.get(seg.strip()))
                 if t is None:
                     unresolved.add(seg)

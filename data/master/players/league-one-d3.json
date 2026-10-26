@@ -996,6 +996,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "陸上自衛隊少年工科学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "関東学院大学",
         "type": "univ",
         "grad_year": null,
@@ -1618,6 +1626,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "SaintGeorge’sChurchofEnglandSchool",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "ケントカレッジ",
         "type": "hs",
         "grad_year": null,
@@ -2013,6 +2029,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "ホエスコール・ハ—スフォンテイン",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "ヨハナスブルク大学",
@@ -4442,6 +4466,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "都島工業",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "近畿大学",
         "type": "univ",
         "grad_year": null,
@@ -4656,7 +4688,16 @@
     "league_caps": 16,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "トゥウンバ文法学校",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764240344515-_-CR_24_Sebastian%20Sialau%20(2).jpg",
     "squad": null,
@@ -4767,6 +4808,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "報徳学園",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "立命館大学",
@@ -6505,7 +6554,16 @@
     "league_caps": 29,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "ケルビンサイドアカデミー",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764049955504-_-SH_29_Andrew_Davidson_%E2%91%A0.jpg",
     "squad": null,
@@ -6888,6 +6946,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "関西学院高等学部",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "関西学院大学",
         "type": "univ",
         "grad_year": null,
@@ -7267,6 +7333,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "佐賀工業",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "帝京大学",
@@ -8196,6 +8270,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "FaserCoastAnglican",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "立正大学",
@@ -12512,6 +12594,14 @@
     "education": [
       {
         "school_id": null,
+        "name_raw": "京都成章",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
+      {
+        "school_id": null,
         "name_raw": "立命館大学",
         "type": "univ",
         "grad_year": null,
@@ -13438,7 +13528,16 @@
     "league_caps": 13,
     "career": [],
     "season_stats": null,
-    "education": [],
+    "education": [
+      {
+        "school_id": null,
+        "name_raw": "マウントアルバートグラマーカレ",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      }
+    ],
     "instagram": null,
     "image_url": "https://assets.via-cloudflare.site/1764586953877-_-WA_45_Quinton_Nicholas_%E2%91%A0.jpg",
     "squad": null,
@@ -13549,6 +13648,14 @@
     "career": [],
     "season_stats": null,
     "education": [
+      {
+        "school_id": null,
+        "name_raw": "セントトーマスオブカンタベリー",
+        "type": "hs",
+        "grad_year": null,
+        "source_url": null,
+        "scraped_at": null
+      },
       {
         "school_id": null,
         "name_raw": "朝日大学",

@@ -48,7 +48,9 @@ _HS_TOKENS = (
     r"boys\s*h\.?\s*s\.?",
     r"boys\s*high",
     r"collegiate\s*school",
-    r"c[ao]llege",
+    r"c[ao]ll?[ae]ge",  # College の誤記 Collage/Callege も含む
+    r"state\s*high",
+    r"school",
     r"gymnasium",
     r"hoerskool",
     r"hoërskool",
@@ -56,8 +58,8 @@ _HS_TOKENS = (
     r"secondary\s*school",
 )
 _HS_EN_RE = re.compile(r"(?:%s)" % "|".join(_HS_TOKENS), re.IGNORECASE)
-_HS_KANA_RE = re.compile(r"(カレッジ|ハイスクール|グラマースクール|スクール|ジムナジアム)")
-_HS_JA_RE = re.compile(r"(高等学校|高等科|高等部|高校|高級学校|高級校|中等教育学校|高$)")
+_HS_KANA_RE = re.compile(r"(カレッジ|ハイスクール|グラマー|スクール|ジムナジアム|ボーイズ|ﾎﾞｰｲｽ|セカンダリ|ホエスコール)")
+_HS_JA_RE = re.compile(r"(高等学校|高等科|高等部|高等学部|文法学校|高校|高級学校|高級校|中等教育学校|高$)")
 
 _UNIV_EN_RE = re.compile(r"(university|universit|univ\.?)", re.IGNORECASE)
 _UNIV_JA_RE = re.compile(r"(大学校|大学|大$)")
@@ -85,6 +87,22 @@ def classify(name: str) -> Optional[str]:
     if _HS_EN_RE.search(s) or _HS_KANA_RE.search(s) or _HS_JA_RE.search(s):
         return "hs"
     return None
+
+
+def player_override(player_id: str, name_raw: str) -> Optional[str]:
+    """data/manual/school_type_overrides.json の選手別 type（一次ソースで裏取り済みのみ）。
+
+    形式: {"lo_483678": {"帝京": "univ"}}。同じ「帝京」でも高校/大学が選手ごとに違うため
+    表記単位の _EXPLICIT ではなく選手ID単位で持つ。根拠URLは docs/audit/school_fill.csv。
+    """
+    global _OVERRIDES
+    if _OVERRIDES is None:
+        from pipeline import io
+        _OVERRIDES = io.read_manual("school_type_overrides.json", {}) or {}
+    return (_OVERRIDES.get(player_id) or {}).get(name_raw.strip())
+
+
+_OVERRIDES: Optional[dict] = None
 
 
 def classify_all(names: list[str]) -> dict[str, str]:

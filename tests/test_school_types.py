@@ -21,6 +21,16 @@ from pipeline.scrape import league_one
     "日本航空高校石川",
     "関西学院高等部",
     "大阪朝鮮高級学校",
+    "TauharaCollage",
+    "SandbachSchool",
+    "Brisbane State High",
+    "ハミルトンボーイズ",
+    "ﾊﾟｰﾏｽﾄﾝﾉｰｽﾎﾞｰｲｽ",
+    "マウント・アルバート・グラマー",
+    "ボタニー・ダウンズ・セカンダリ",
+    "ホエスコール・ハ—スフォンテイン",
+    "トゥウンバ文法学校",
+    "関西学院高等学部",
 ])
 def test_hs(name):
     assert school_types.classify(name) == "hs"
@@ -53,3 +63,10 @@ def test_league_one_regex_falls_back_to_dict():
     assert league_one._classify_school_regex("AucklandGrammar") == "hs"
     assert league_one._classify_school_regex("フゲノート高校") == "hs"
     assert league_one._classify_school_regex("東芝ブレイブルーパス東京") is None
+
+
+def test_player_override(monkeypatch):
+    monkeypatch.setattr(school_types, "_OVERRIDES", {"lo_1": {"帝京": "univ"}})
+    assert school_types.player_override("lo_1", "帝京") == "univ"
+    assert school_types.player_override("lo_2", "帝京") is None
+    assert school_types.classify("帝京") is None
