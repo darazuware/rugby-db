@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "狭山セコムラガッツ",
   "official_url": "https://www.rugguts.secom.co.jp/",
-  "checked_at": "2026-10-25T23:42:00+09:00",
+  "checked_at": "2026-10-26T18:59:45+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.rugguts.secom.co.jp/",
-      "hash": "a47d881eafce77bf"
+      "hash": "ba59c2f8e241fa90"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/news/",
-      "hash": "c4c7bf89351595c0"
+      "hash": "80ee1c3acf5c9624"
     }
   ],
   "items": [
@@ -21,6 +21,11 @@
       "url": "https://www.rugguts.secom.co.jp/results/20261031.html",
       "title": "試合の詳細",
       "date": "2026-10-31"
+    },
+    {
+      "url": "https://www.rugguts.secom.co.jp/2026/10/post-32.html",
+      "title": "シーズンシート販売スケジュール決定のお知らせ",
+      "date": "2026-10-26"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/2026/10/2026-27-3.html",
@@ -211,11 +216,6 @@
       "url": "https://www.rugguts.secom.co.jp/2026/04/4-19.html",
       "title": "4 月19日（日）ライチェル、埼玉新聞「サイタマジン」インタビュー記事掲載のお知らせ",
       "date": "2026-04-04"
-    },
-    {
-      "url": "https://www.rugguts.secom.co.jp/2026/03/330just-rugby.html",
-      "title": "3月30日（月）藤原龍之丞選手、「JUST RUGBY」インタビュー記事掲載のお知らせ",
-      "date": "2026-03-33"
     }
   ]
 }

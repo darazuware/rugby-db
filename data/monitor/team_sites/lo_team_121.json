@@ -3,79 +3,14 @@
   "league": "league-one-d3",
   "name": "ヤクルトレビンズ戸田",
   "official_url": "https://www.yakult.co.jp/sports/rugby/",
-  "checked_at": "2026-10-25T23:42:00+09:00",
+  "checked_at": "2026-10-26T18:59:45+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
-      "url": "https://www.yakult.co.jp/sports/rugby/",
-      "hash": "ebcc3d499992ff51"
-    },
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/",
-      "hash": "4b8837b9fab514cf"
+      "url": "https://www.yakult.co.jp/maintenance/",
+      "hash": "369bf4efa03376eb"
     }
   ],
-  "items": [
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/result/index.html",
-      "title": "大会日程",
-      "date": "2026-10-31"
-    },
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1479",
-      "title": "＜ジャパンラグビーリーグワンライジング2026＞豊田自動織機シャトルズ愛知戦の試合結果",
-      "date": "2026-10-17"
-    },
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/",
-      "title": "MORE",
-      "date": "2026-10-17"
-    },
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1477",
-      "title": "DAZN年間視聴パス（リーグワンクラブ）販売のお知らせ",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1476",
-      "title": "＜ジャパンラグビーリーグワンライジング2026＞豊田自動織機シャトルズ愛知戦メンバーについて",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1474",
-      "title": "＜プレシーズンゲーム＞川越狭山セコムラガッツ戦メンバーについて",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1472",
-      "title": "＜プレシーズンゲーム ＞清水建設江東ブルーシャークス戦メンバーについて",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1473",
-      "title": "2026-27シーズン ヤクルトレビンズ戸田 公式ファンクラブ入会受付開始！",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1471",
-      "title": "2026-27シーズン新加入選手について",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1468",
-      "title": "2026-27シーズン ヤクルトレビンズ戸田 公式ファンクラブ概要決定のお知らせ",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1465",
-      "title": "2026-27プレシーズンの試合日程について",
-      "date": "2026-08-10"
-    },
-    {
-      "url": "https://www.yakult.co.jp/sports/rugby/topics/article.php?n=1464",
-      "title": "NTTジャパンラグビーリーグワン ディビジョン3 2026-27シーズンの試合日程について",
-      "date": "2026-08-06"
-    }
-  ]
+  "items": []
 }

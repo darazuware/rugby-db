@@ -3,23 +3,28 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-10-25T23:42:00+09:00",
+  "checked_at": "2026-10-26T18:59:45+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "597f13b46944b7d2"
+      "hash": "9ff589f9d32e179f"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "78ca4e5277c43312"
+      "hash": "7c8aea1ce9067a8e"
     }
   ],
   "items": [
     {
+      "url": "https://www.kyudenvoltex.com/news/1015",
+      "title": "お知らせ 2026年10月26日 NEW 大分合宿がスタートしました",
+      "date": "2026-10-26"
+    },
+    {
       "url": "https://www.kyudenvoltex.com/news/1014",
-      "title": "試合情報 2026年10月23日 NEW 【プレシーズンマッチ】10/30(金)横浜キヤノンイーグルス戦",
+      "title": "試合情報 2026年10月23日 【プレシーズンマッチ】10/30(金)横浜キヤノンイーグルス戦",
       "date": "2026-10-23"
     },
     {
@@ -136,11 +141,6 @@
       "url": "https://www.kyudenvoltex.com/news/991",
       "title": "チーム 2026年06月30日 2025-26シーズン 退任スタッフのお知らせ(追加)",
       "date": "2026-06-30"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/986",
-      "title": "お知らせ 2026年06月05日 【グッズ情報】2025-26シーズンありがとうセール",
-      "date": "2026-06-05"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/984",

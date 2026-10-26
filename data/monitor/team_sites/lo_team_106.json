@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-10-25T23:42:00+09:00",
+  "checked_at": "2026-10-26T18:59:45+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "fbbddc9844b3e7b7"
+      "hash": "94f4856a1f03b807"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "d849130f04d7304d"
+      "hash": "787ba63647b75905"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261026.html",
+      "title": "2026-10-26 15人制男子日本代表｜ヨーロッパ遠征参加メンバーにチャーリー・ローレンス選手が選出",
+      "date": "2026-10-26"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261022.html",
       "title": "2026-10-22 日本代表｜チャーリー・ローレンス選手がフィジー代表戦（10/24）に12番で先発出場予定",
@@ -54,7 +59,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/jrlr2026-1#member",
-      "title": "2026-10-09 リーグワン ライジング2026 日本製鉄釜石シーウェイブス 対 三菱重工相模原ダイナボアーズ｜試合メンバー更新",
+      "title": "2026-10-09 [ チーム ] リーグワン ライジング2026 日本製鉄釜石シーウェイブス 対 三菱重工相模原ダイナボアーズ｜試合メンバー更新",
       "date": "2026-10-09"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260809.html",
       "title": "2026-08-09 九州電力キューデンヴォルテクス サイモニ・ヴニランギ選手のご逝去について",
       "date": "2026-08-09"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260706.html",
-      "title": "2026-08-06 [ イベント ] 選手と選手バスで行く全緑バスツアー｜佐川選手、高城選手の参加が決定！",
-      "date": "2026-08-06"
     }
   ]
 }

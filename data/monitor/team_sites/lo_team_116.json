@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-10-25T23:42:00+09:00",
+  "checked_at": "2026-10-26T18:59:45+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "ef5b21cff1529fce"
+      "hash": "241efcbd12f4cb78"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "202b042db20b7ff0"
+      "hash": "763efd08393345cd"
     }
   ],
   "items": [
@@ -21,6 +21,11 @@
       "url": "https://docomo-rugby.jp/campaign/2027/lp/20261219_no_inv.html",
       "title": "12月19日（土）CENTRALプ レミアムマッチ特設サイト MORE",
       "date": "2026-12-19"
+    },
+    {
+      "url": "https://docomo-rugby.jp/game/report.html?id=353",
+      "title": "試合情報 2026年10月26日 【プレシーズンマッチ】 豊田自動織機シャトルズ愛知に勝利",
+      "date": "2026-10-26"
     },
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8953",
@@ -221,11 +226,6 @@
       "url": "https://docomo-rugby.jp/news/detail.html?id=8764",
       "title": "お知らせ 2026年7月20日 2026-27シーズン始動。新たなシーズンへ向けて",
       "date": "2026-07-20"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8765",
-      "title": "お知らせ 2026年7月16日 サステナビリティページをリニューアルしました",
-      "date": "2026-07-16"
     },
     {
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8386",

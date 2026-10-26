@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-10-25T23:42:00+09:00",
+  "checked_at": "2026-10-26T18:59:45+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "771788075a3952e7"
+      "hash": "203e322687ef174b"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "8ceb7120e07ba384"
+      "hash": "15786ec2a9460b90"
     }
   ],
   "items": [
@@ -36,6 +36,11 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
       "title": "試合日程一覧",
       "date": "2026-10-31"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261026_01/",
+      "title": "チーム 2026年10月26日 日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ ニュースを見る",
+      "date": "2026-10-26"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261205/#ticket",
@@ -85,11 +90,6 @@
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261008_02/",
       "title": "チーム 2026年10月08日 ワイルドナイツ ボランティア募集のお知らせ ニュースを見る",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261008_01/",
-      "title": "チーム 2026年10月08日 日本代表 別府合宿 参加メンバーのお知らせ ニュースを見る",
       "date": "2026-10-08"
     },
     {
