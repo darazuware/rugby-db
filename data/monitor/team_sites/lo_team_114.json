@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-10-26T18:59:45+09:00",
+  "checked_at": "2026-10-27T02:04:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "ccb3d8cb3cf87a51"
+      "hash": "d61cf22e68836c2d"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "75420fc9741ba8c3"
+      "hash": "0bee7575a04380e2"
     }
   ],
   "items": [
     {
       "url": "https://hanazono-liners.jp/news/",
       "title": "ニュース一覧を見る",
-      "date": "2026-10-25"
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/10/26/fukuokacamp-day5/",
+      "title": "2026.10.26 その他 福岡合宿レポート5日目",
+      "date": "2026-10-26"
     },
     {
       "url": "https://hanazono-liners.jp/2026/10/25/fukuokacamp-day4/",
@@ -49,7 +54,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/10/20/sep-report/",
-      "title": "2026.10.20 その他 【地域連携・普及活動】 2026 年 9月レポート",
+      "title": "2026-10-20 その他 【地域連携・普及活動】 2026 年 9月レポート",
       "date": "2026-10-20"
     },
     {
