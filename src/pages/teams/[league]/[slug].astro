@@ -313,6 +313,9 @@ const isThinPage = (thinPages.teams as string[]).includes(
     decodeURI(Astro.url.pathname).replace(/\/?$/, "/")
 );
 const leagueLabel = league.toUpperCase().replaceAll("-", " ");
+// 大学・高校など /teams/[league]/ 一覧ページを持たないリーグは全チーム一覧へ（リンク切れ防止）
+const LEAGUES_WITH_INDEX = ["league-one", "super-rugby", "top14", "urc", "premiership", "top-west-a", "top-west-b", "top-west-c", "top-east-a", "top-east-b", "top-east-c", "top-kyushu"];
+const leagueListHref = LEAGUES_WITH_INDEX.includes(league) ? `/teams/${league}/` : "/teams/";
 const teamStanding = leagueStandings.find((s: any) => 
     s.display_name === teamNameDisplay || 
     s.team_name === team.team_name || 
@@ -337,7 +340,7 @@ const teamStanding = leagueStandings.find((s: any) =>
 
         <div class="w-full max-w-7xl mx-auto relative z-10 px-4 sm:px-0">
             <Breadcrumbs items={[
-                { label: leagueLabel, href: `/teams/${league}` },
+                { label: leagueLabel, href: leagueListHref },
                 { label: teamNameDisplay }
             ]} />
             {/* クイックナビゲーション (Sticky Nav) */}
@@ -388,7 +391,7 @@ const teamStanding = leagueStandings.find((s: any) =>
                     <div class="relative z-10">
                         <div class="flex flex-wrap items-center justify-between gap-4 mb-6">
                             <a
-                                href={`/teams/${league}`}
+                                href={leagueListHref}
                                 class="inline-flex items-center text-yellow-400 font-bold hover:translate-x-1 transition-transform"
                             >
                                 ← {leagueLabel} チーム一覧

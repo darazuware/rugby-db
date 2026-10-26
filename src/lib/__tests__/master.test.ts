@@ -268,6 +268,12 @@ describe("getAllPlayers / getAllTeams（実データ読み込み）", () => {
     expect(new Set(slugs).size).toBe(slugs.length);
   });
 
+  it("統合後の全選手で slug が重複しない（getPlayerBySlug が別人を返さない）", async () => {
+    // ar_* と lo_announced_* の同一 slug は player_merges.json で統合済み（docs/audit/slug_dup_plan.md）
+    const slugs = (await getAllPlayers()).map((p) => p.slug);
+    expect(slugs.length - new Set(slugs).size).toBe(0);
+  });
+
   it("master のチームデータを例外なく読み込める", async () => {
     const teams = await getAllTeams();
     expect(Array.isArray(teams)).toBe(true);
