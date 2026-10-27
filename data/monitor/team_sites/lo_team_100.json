@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-10-27T02:04:20+09:00",
+  "checked_at": "2026-10-27T18:44:08+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "7a5a577aae657afb"
+      "hash": "b5e74774dcab0eb4"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "68b73a97b5edbf38"
+      "hash": "abf328e664f71efd"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/goods/index_2067.html",
+      "title": "グッズ 2026.10.27 浦安D-Rocks公式オンラインショップ リニューアルに伴う移行期間とサイト閉鎖のお知らせ",
+      "date": "2026-10-27"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2063.html",
       "title": "パートナー 2026.10.26 株式会社エヌ・エフ・ラボラトリーズとのネイビーパートナーシップ契約締結のお知らせ",
@@ -64,7 +69,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2057.html",
-      "title": "パートナー 2026.10.16 株式会社やまたけとのネイビーパートナーシップ契約締結のお知らせ",
+      "title": "2026.10.16 ニュース 株式会社やまたけとのネイビーパートナーシップ契約締結のお知らせ",
       "date": "2026-10-16"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/game/index_2004.html",
       "title": "2026.09.09 ニュース 2026-27シーズン 試合日程決定のお知らせ（10/1時点）",
       "date": "2026-09-09"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_2019.html",
-      "title": "2026.09.08 ニュース 2026.8.21 明海大学 浦安市立高洲中学校 特別講演会にて講演を行いました",
-      "date": "2026-09-08"
     }
   ]
 }

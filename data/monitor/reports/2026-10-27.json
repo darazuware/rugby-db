@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-27T02:04:20+09:00",
+  "checked_at": "2026-10-27T18:44:08+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/goods/index_2067.html",
+          "title": "グッズ 2026.10.27 浦安D-Rocks公式オンラインショップ リニューアルに伴う移行期間とサイト閉鎖のお知らせ",
+          "date": "2026-10-27",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -21,8 +31,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35767/",
+          "title": "2026/10/27 イベント 11月1日(日)「2026兵庫運河祭」にてコーロクンが出演します",
+          "date": "2026-10-27",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35765/",
+          "title": "2026/10/27 イベント 10月31日(土)「第10回神戸パン祭り」でラグビー体験を実施します",
+          "date": "2026-10-27",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/",
+        "https://www.kobesteelers.com/news/cat_news/information/",
+        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+      ],
       "rename_signals": []
     },
     {
@@ -34,7 +62,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -59,9 +90,15 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4301/",
-          "title": "2026.10.26 コラム 【プレシーズンマッチレポート】SH土永雷、ヴェルブリッツデビュー飾る。",
-          "date": "2026-10-26",
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4299/",
+          "title": "2026.10.27 グッズ 【グッズ】2026-27新企画「TRY IN ALL CAPS」シリーズがスタート！",
+          "date": "2026-10-27",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4298/",
+          "title": "2026.10.27 グッズ 【グッズ】全選手対応！プレイヤーズベア＆観戦アイテム",
+          "date": "2026-10-27",
           "category": null
         }
       ],
@@ -104,9 +141,20 @@
       "official_url": "https://www.canon-eagles.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 15,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 14,
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20261027.html",
+          "title": "2026.10.27 TEAM 「第一ライフグループ スペシャルマッチデー」の開催が決定しました",
+          "date": "2026-10-27",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/",
+        "https://www.canon-eagles.jp/news/info/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -138,11 +186,33 @@
       "league": "league-one-d1",
       "name": "静岡ブルーレヴズ",
       "official_url": "https://www.shizuoka-bluerevs.com",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 30,
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3231",
+          "title": "2026.10.27[TUE] SDGs 地域貢献活動≪SCRUM Action≫をリニューアル",
+          "date": "2026-10-27",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3216",
+          "title": "EVENT 2026/10/26 【12月20日(日)ホーム開幕戦】nobodyknows+さん来場決定",
+          "date": "2026-10-26",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3235",
+          "title": "2026.10.23[FRI] SPONSOR ホーム開幕戦のマッチデーパートナーに静岡マツダ株式会社が決定",
+          "date": "2026-10-23",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.shizuoka-bluerevs.com/",
+        "https://www.shizuoka-bluerevs.com/news"
+      ],
       "rename_signals": []
     },
     {
@@ -204,7 +274,10 @@
       "first_run": false,
       "item_count": 7,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://shuttles-aichi.com/",
+        "https://shuttles-aichi.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -214,8 +287,15 @@
       "official_url": "https://kamaishi-seawaves.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 18,
-      "new_items": [],
+      "item_count": 17,
+      "new_items": [
+        {
+          "url": "https://kamaishi-seawaves.com/news/info/33084/",
+          "title": "お知らせ 2026.10.27 事業部移転のお知らせ",
+          "date": "2026-10-27",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://kamaishi-seawaves.com/",
         "https://kamaishi-seawaves.com/news/",
@@ -231,14 +311,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 28,
-      "new_items": [
-        {
-          "url": "https://hanazono-liners.jp/2026/10/26/fukuokacamp-day5/",
-          "title": "2026.10.26 その他 福岡合宿レポート5日目",
-          "date": "2026-10-26",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -253,8 +326,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 15,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-10-27/",
+          "title": "11月3日（火・祝）スポーツフェスタ古河2026に参加します",
+          "date": "2026-10-27",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -279,7 +361,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 44,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261027-2/",
+          "title": "地域貢献 2026/10/27 【イベント報告】昭島市内小学生ラグビー体験教室",
+          "date": "2026-10-27",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -295,7 +384,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -320,8 +412,7 @@
       "item_count": 45,
       "new_items": [],
       "changed_pages": [
-        "https://www.skyactivs.com/",
-        "https://www.skyactivs.com/news/2091"
+        "https://www.skyactivs.com/"
       ],
       "rename_signals": []
     },
@@ -334,9 +425,7 @@
       "first_run": false,
       "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://www.yakult.co.jp/maintenance/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -370,7 +459,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54257",
+          "title": "（10/27更新）男子セブンズユース日本代表 第4回ユースオリンピック競技大会出場決定および直前合宿・遠征スケジュールと出場メンバーのお知らせ 2026.10.27 （火） セブンズ 高校 男子 男子セブンズ 男子セブンズユース日本代表 ユース日本代表 オリンピック",
+          "date": "2026-10-27",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -384,11 +480,18 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54257",
+      "title": "（10/27更新）男子セブンズユース日本代表 第4回ユースオリンピック競技大会出場決定および直前合宿・遠征スケジュールと出場メンバーのお知らせ 2026.10.27 （火） セブンズ 高校 男子 男子セブンズ 男子セブンズユース日本代表 ユース日本代表 オリンピック",
+      "date": "2026-10-27",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "三重ホンダヒート: 到達できるページがない: http://www.honda-heat.jp",
-    "静岡ブルーレヴズ: 到達できるページがない: https://www.shizuoka-bluerevs.com",
     "ヤクルトレビンズ戸田: 記事リンクを抽出できない（JS描画の可能性）: https://www.yakult.co.jp/sports/rugby/"
   ]
 }

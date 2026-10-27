@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-10-22T00:45:34+09:00",
+  "checked_at": "2026-10-27T18:44:08+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "1e3c609b1e3c68e0"
+      "hash": "ab312350166f6346"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "a7a3a862f0bb736f"
+      "hash": "bd47426209570312"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3231",
+      "title": "2026.10.27[TUE] SDGs 地域貢献活動≪SCRUM Action≫をリニューアル",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3216",
+      "title": "EVENT 2026/10/26 【12月20日(日)ホーム開幕戦】nobodyknows+さん来場決定",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3235",
+      "title": "2026.10.23[FRI] SPONSOR ホーム開幕戦のマッチデーパートナーに静岡マツダ株式会社が決定",
+      "date": "2026-10-23"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3234",
       "title": "2026.10.21[WED] HOST AREA 青いマックの日に2選手が参加しました",
@@ -96,21 +111,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3217",
       "title": "2026.10.14[WED] TICKET ホームゲーム全9試合で使える！お得な回数券を販売",
       "date": "2026-10-14"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3218",
-      "title": "2026.10.11[SUN] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（10/5～10/9）",
-      "date": "2026-10-11"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3215",
-      "title": "2026.10.11[SUN] HOST AREA 【ホストエリア活動】ラグビー経験者向けイベント「ブルーレヴズ ラグビー クリニック in 駿東」を実施しました",
-      "date": "2026-10-11"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3202",
-      "title": "2026.10.7[WED] OTHERS 令和8年熊本地震災害支援募金活動のご報告と御礼",
-      "date": "2026-10-07"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",

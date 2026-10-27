@@ -3,28 +3,38 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-10-27T02:04:20+09:00",
+  "checked_at": "2026-10-27T18:44:08+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "22204614095faa91"
+      "hash": "926407158e016b62"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "33d43bdf19ccf5cf"
+      "hash": "1acab7310c46875d"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "d36c2e11ae446025"
+      "hash": "a8b56454d930458a"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "51c2e6e2c73fa57b"
+      "hash": "f29b2fe79625782c"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35767/",
+      "title": "2026/10/27 イベント 11月1日(日)「2026兵庫運河祭」にてコーロクンが出演します",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35765/",
+      "title": "2026/10/27 イベント 10月31日(土)「第10回神戸パン祭り」でラグビー体験を実施します",
+      "date": "2026-10-27"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35782/",
       "title": "2026/10/26 チーム ⽇本代表 ヨーロッパ遠征「リポビタンDツアー2026」参加メンバーのお知らせ",
@@ -161,11 +171,6 @@
       "date": "2026-10-07"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35517/",
-      "title": "2026/10/6 イベント 10月11日(日)「のびのびプレイランドin東遊園地」でラグビー体験を実施します",
-      "date": "2026-10-06"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35506/",
       "title": "イベント 12月12日(土) ホストゲーム開幕戦で「シーズン記念Tシャツ」を先着15,000名様にプレゼントします！ 2026/10/5",
       "date": "2026-10-05"
@@ -219,11 +224,6 @@
       "url": "https://www.kobesteelers.com/news/post35302/",
       "title": "2026/9/25 パートナー NTTリーグワン2026-27 公式戦ジャージーパートナー決定のお知らせ",
       "date": "2026-09-25"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35354/",
-      "title": "2026/9/24 社会貢献 「One Fan,One Future ～みんなの応援が未来の森に～」菅平高原での植樹活動に参加しました",
-      "date": "2026-09-24"
     },
     {
       "url": "https://www.kobesteelers.com/news/post35142/",
