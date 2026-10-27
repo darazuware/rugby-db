@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-27T18:44:08+09:00",
+  "checked_at": "2026-10-28T01:07:15+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "eba149211ffc079e"
+      "hash": "ccc328173d276c00"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "b823c5b2194c7e59"
+      "hash": "1775053a688af74c"
     }
   ],
   "items": [
@@ -39,7 +39,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261027-2/",
-      "title": "地域貢献 2026/10/27 【イベント報告】昭島市内小学生ラグビー体験教室",
+      "title": "地域貢献 2026/10/27 【イベント報告】昭島市内小学生ラグビー体験",
       "date": "2026-10-27"
     },
     {
