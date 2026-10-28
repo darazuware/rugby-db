@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-27T22:54:20+09:00",
+  "checked_at": "2026-10-28T16:52:30+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6105",
+          "title": "お知らせ 一般社団法人ジャパンラグビーリーグワン 令和8年熊本地震に伴う支援募金 口座開設についてのお知らせ［10月28日更新］ 2026.10.28",
+          "date": "2026-10-28",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,14 +26,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54300",
-          "title": "女子セブンズ・デベロップメント・スコッド（SDS） ニュージーランド強化合宿スケジュールと参加メンバーのお知らせ 2026.10.27 （火） 女子セブンズ日本代表 女子 セブンズ セブンズ・デベロップメント・スコッド SDS",
-          "date": "2026-10-27",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -40,15 +40,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54300",
-      "title": "女子セブンズ・デベロップメント・スコッド（SDS） ニュージーランド強化合宿スケジュールと参加メンバーのお知らせ 2026.10.27 （火） 女子セブンズ日本代表 女子 セブンズ セブンズ・デベロップメント・スコッド SDS",
-      "date": "2026-10-27",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": []
 }
