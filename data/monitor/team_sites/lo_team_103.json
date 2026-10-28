@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-28T01:07:15+09:00",
+  "checked_at": "2026-10-28T19:29:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "7018ccd7f4013376"
+      "hash": "c32524e35098fb76"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "72e7c13a3a505c96"
+      "hash": "3b76b36836baf670"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/261028fc/",
+      "title": "【お詫び】2026-27ファンクラブ 会員特典の記載誤りについて",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/",
+      "title": "記事一覧",
+      "date": "2026-10-28"
+    },
     {
       "url": "https://www.bravelupus.com/news/261026/",
       "title": "男子日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ",
@@ -25,11 +35,6 @@
     {
       "url": "https://www.bravelupus.com/news/261026-2/",
       "title": "2026鹿児島キャンプがスタートしました",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/",
-      "title": "記事一覧",
       "date": "2026-10-26"
     },
     {
@@ -221,11 +226,6 @@
       "url": "https://www.bravelupus.com/news/260806/",
       "title": "リポビタンDチャレンジカップ2026 日本代表 対 オーストラリア代表 試合登録メンバーのお知らせ",
       "date": "2026-08-06"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260801/",
-      "title": "「東芝ブレイブルーパス東京×筋肉食堂」のタイアップが実現",
-      "date": "2026-08-01"
     }
   ]
 }

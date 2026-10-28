@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-10-28T01:07:15+09:00",
+  "checked_at": "2026-10-28T19:29:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "e212e94e74995076"
+      "hash": "7b7b5ad85bc71696"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "f6e47ebef8101d02"
+      "hash": "f85026550c29de9d"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261028.html-0",
+      "title": "2026-10-28 南アフリカ代表｜カート＝リー・アレンゼ選手がネーションズ・チャンピオンシップ後半戦のスコッドに選出",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261028.html",
+      "title": "2026-10-28 地域感謝祭｜ファンクラブ会員向け企画のお知らせ（選手入場花道・来場ポイント）",
+      "date": "2026-10-28"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261026.html",
       "title": "2026-10-26 15人制男子日本代表｜ヨーロッパ遠征参加メンバーにチャーリー・ローレンス選手が選出",
@@ -49,12 +59,12 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261014.html-0",
-      "title": "2026-10-14 男子セブンズ日本代表｜スリランカ遠征 参加メンバーに服部航大選手が選出",
+      "title": "2026-10-14 [ チーム ] [ メディア ] 男子セブンズ日本代表｜スリランカ遠征 参加メンバーに服部航大選手が選出",
       "date": "2026-10-14"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/familyfesta2026",
-      "title": "2026-10-14 ボーノ相模大野 × ダイナボアーズ ファミリーフェスタ開催決定！",
+      "title": "2026-10-14 [ イベント ] ボーノ相模大野 × ダイナボアーズ ファミリーフェスタ開催決定！",
       "date": "2026-10-14"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260818.html",
       "title": "2026-08-18 [ チーム ] ルーク・ポーター選手加入のお知らせ",
       "date": "2026-08-18"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260817.html",
-      "title": "2026-08-17 [ イベント ] 専属チアチーム「ダイナスターズ」ワークショップ＆新規メンバー選考会開催のお知らせ",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260809.html",
-      "title": "2026-08-09 九州電力キューデンヴォルテクス サイモニ・ヴニランギ選手のご逝去について",
-      "date": "2026-08-09"
     }
   ]
 }

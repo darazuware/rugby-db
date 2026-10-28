@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-28T01:07:15+09:00",
+  "checked_at": "2026-10-28T19:29:35+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/team/index_2069.html",
+          "title": "チーム 2026.10.28 2026.11 トレーニング公開日のお知らせ",
+          "date": "2026-10-28",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -21,8 +31,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35781/",
+          "title": "2026/10/28 メディア 【ライブ配信】11月7日(土)プレシーズンマッチ JR東日本グリーンウォリアーズ東葛戦 ライブ配信のお知らせ",
+          "date": "2026-10-28",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/interview/post35785/",
+          "title": "2026/10/28 チーム 2026-27シーズン新加入インタビュー SHグラント・ウィリアムズ選手",
+          "date": "2026-10-28",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/",
+        "https://www.kobesteelers.com/news/cat_news/information/",
+        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+      ],
       "rename_signals": []
     },
     {
@@ -45,8 +73,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/news/261028fc/",
+          "title": "【お詫び】2026-27ファンクラブ 会員特典の記載誤りについて",
+          "date": "2026-10-28",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.bravelupus.com/",
+        "https://www.bravelupus.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -58,7 +96,9 @@
       "first_run": false,
       "item_count": 10,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -81,7 +121,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261028.html-0",
+          "title": "2026-10-28 南アフリカ代表｜カート＝リー・アレンゼ選手がネーションズ・チャンピオンシップ後半戦のスコッドに選出",
+          "date": "2026-10-28",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261028.html",
+          "title": "2026-10-28 地域感謝祭｜ファンクラブ会員向け企画のお知らせ（選手入場花道・来場ポイント）",
+          "date": "2026-10-28",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -95,9 +148,26 @@
       "official_url": "https://www.canon-eagles.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 14,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 15,
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20261028.html",
+          "title": "2026.10.28 TEAM ホスト開幕戦 東京サンゴリアス戦の観戦情報を公開しました",
+          "date": "2026-10-28",
+          "category": null
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/gameinfo/20261028.html",
+          "title": "2026.10.28 GAME 練習試合 （10/30）九州電力キューデンヴォルテクス戦 出場選手",
+          "date": "2026-10-28",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/",
+        "https://www.canon-eagles.jp/news/info/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -108,7 +178,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 4,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261028a.html",
+          "title": "株式会社建設システム（KENTEM）とオフィシャルパートナー新規契約のお知らせ",
+          "date": "2026-10-28",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://blackrams-tokyo.com/"
       ],
@@ -122,8 +199,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 58,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/goods/2026/10/28/120000.html",
+          "title": "2026.10.28 グッズ",
+          "date": "2026-10-28",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -134,7 +220,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 30,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3241",
+          "title": "2026.10.28[WED] TICKET ホーム開幕2連戦は11月2日(月)から先行発売",
+          "date": "2026-10-28",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3230",
+          "title": "2026.10.28[WED] FAN CLUB ホーム開幕に向けて＜ポスター貼り隊＞を募集",
+          "date": "2026-10-28",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3238",
+          "title": "2026.10.27[TUE] SPONSOR 第3節のマッチデーパートナーに株式会社みずほフィナンシャルグループが決定",
+          "date": "2026-10-27",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -173,8 +278,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kyudenvoltex.com/game/p186",
+          "title": "メンバー",
+          "date": "2026-10-30",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kyudenvoltex.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -185,9 +299,19 @@
       "status": "ok",
       "first_run": false,
       "item_count": 24,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://blue-sharks.jp/news/2026/10/25446/",
+          "title": "◇東芝ブレイブルーパス武蔵戦マッチレポート",
+          "date": "2026-10-25",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://blue-sharks.jp/"
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
       ],
       "rename_signals": []
     },
@@ -199,8 +323,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 7,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://shuttles-aichi.com/news/supported-club-activities-for-the-nagoya-municipal-sakurada-junior-high-school-rugby-club/",
+          "title": "お知らせ 2026.10.28 名古屋市立桜田中学校ラグビー部への部活動支援を実施しました",
+          "date": "2026-10-28",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://shuttles-aichi.com/",
+        "https://shuttles-aichi.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -226,8 +360,15 @@
       "official_url": "https://hanazono-liners.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 28,
-      "new_items": [],
+      "item_count": 29,
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/2026/10/28/fukuokacamp-day67/",
+          "title": "2026.10.28 その他 福岡合宿レポート6日目・7日目",
+          "date": "2026-10-28",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -242,8 +383,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 15,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-10-28/",
+          "title": "株式会社大熊製作所とクラブパートナー契約を締結しました",
+          "date": "2026-10-28",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -268,7 +418,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 44,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261028-2/",
+          "title": "私とウォーターガッシュ 2026/10/28 私とWATER GUSH #15 八尾太介 HO 「かっこいい」が原点。ラグビーへの想いとクリタでの挑戦",
+          "date": "2026-10-28",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -284,7 +441,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -333,8 +493,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 11,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://leriro-fukuoka.com/news-detail?id=282",
+          "title": "11月参加イベントのお知らせ",
+          "date": "2026-10-28",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://leriro-fukuoka.com/",
+        "https://leriro-fukuoka.com/news"
+      ],
       "rename_signals": []
     }
   ],
@@ -353,7 +523,9 @@
       "key": "jrfu",
       "name": "日本ラグビー協会（ブレイブブロッサムズ）",
       "url": "https://www.rugby-japan.jp/news/",
-      "status": "unreachable",
+      "status": "ok",
+      "first_run": false,
+      "item_count": 10,
       "new_items": [],
       "rename_signals": []
     },
@@ -368,11 +540,18 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "コベルコ神戸スティーラーズ",
+      "url": "https://www.kobesteelers.com/interview/post35785/",
+      "title": "2026/10/28 チーム 2026-27シーズン新加入インタビュー SHグラント・ウィリアムズ選手",
+      "date": "2026-10-28",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
     "三重ホンダヒート: 到達できるページがない: http://www.honda-heat.jp",
-    "ヤクルトレビンズ戸田: 記事リンクを抽出できない（JS描画の可能性）: https://www.yakult.co.jp/sports/rugby/",
-    "日本ラグビー協会（ブレイブブロッサムズ）: ニュース一覧を取得できない"
+    "ヤクルトレビンズ戸田: 記事リンクを抽出できない（JS描画の可能性）: https://www.yakult.co.jp/sports/rugby/"
   ]
 }

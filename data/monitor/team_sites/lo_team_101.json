@@ -3,28 +3,38 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-10-28T01:07:15+09:00",
+  "checked_at": "2026-10-28T19:29:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "926407158e016b62"
+      "hash": "a49ba23f8d870aa2"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "1acab7310c46875d"
+      "hash": "5cee0e8291b97178"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "a8b56454d930458a"
+      "hash": "21a17784a7a68316"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "f29b2fe79625782c"
+      "hash": "aee04c42057ae742"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35781/",
+      "title": "2026/10/28 メディア 【ライブ配信】11月7日(土)プレシーズンマッチ JR東日本グリーンウォリアーズ東葛戦 ライブ配信のお知らせ",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://www.kobesteelers.com/interview/post35785/",
+      "title": "2026/10/28 チーム 2026-27シーズン新加入インタビュー SHグラント・ウィリアムズ選手",
+      "date": "2026-10-28"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35767/",
       "title": "2026/10/27 イベント 11月1日(日)「2026兵庫運河祭」にてコーロクンが出演します",
@@ -196,11 +206,6 @@
       "date": "2026-09-30"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35429/",
-      "title": "2026/9/29 チーム NZ派遣レポート Part.2 中嶋 大希選手",
-      "date": "2026-09-29"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35394/",
       "title": "2026/9/29 普及 【レポート】9月18日(金)神戸市立渚中学校で「トライやる・ウィーク」事前学習に協力しました",
       "date": "2026-09-29"
@@ -218,11 +223,6 @@
     {
       "url": "https://www.kobesteelers.com/news/post35347/",
       "title": "2026/9/25 ファンクラブ 会員システムの年次更新及びサーバーメンテナンス実施のお知らせ",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35302/",
-      "title": "2026/9/25 パートナー NTTリーグワン2026-27 公式戦ジャージーパートナー決定のお知らせ",
       "date": "2026-09-25"
     },
     {

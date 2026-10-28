@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-10-28T01:07:15+09:00",
+  "checked_at": "2026-10-28T19:29:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "b5e74774dcab0eb4"
+      "hash": "2a01a79c5da4f6e9"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "abf328e664f71efd"
+      "hash": "dbc2b9c540da9a28"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/team/index_2069.html",
+      "title": "チーム 2026.10.28 2026.11 トレーニング公開日のお知らせ",
+      "date": "2026-10-28"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/goods/index_2067.html",
       "title": "グッズ 2026.10.27 浦安D-Rocks公式オンラインショップ リニューアルに伴う移行期間とサイト閉鎖のお知らせ",
@@ -64,7 +69,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2054.html",
-      "title": "イベント 2026.10.19 「D-Rockersクラファン」第1弾 宮崎合宿の食事支援 開始のお知らせ",
+      "title": "2026.10.19 ニュース 「D-Rockersクラファン」第1弾 宮崎合宿の食事支援 開始のお知らせ",
       "date": "2026-10-19"
     },
     {
@@ -210,11 +215,6 @@
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2006.html",
       "title": "2026.09.09 ニュース 2026-27シーズン 浦安D-Rocks初となるMUFGスタジアム（国立競技場）での試合開催決定のお知らせ",
-      "date": "2026-09-09"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_2004.html",
-      "title": "2026.09.09 ニュース 2026-27シーズン 試合日程決定のお知らせ（10/1時点）",
       "date": "2026-09-09"
     }
   ]

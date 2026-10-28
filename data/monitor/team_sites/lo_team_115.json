@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-10-28T01:07:15+09:00",
+  "checked_at": "2026-10-28T19:29:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,10 +13,15 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "737b2fd6b24a139c"
+      "hash": "62b9a4edbcef15b0"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-10-28/",
+      "title": "株式会社大熊製作所とクラブパートナー契約を締結しました",
+      "date": "2026-10-28"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-10-27/",
       "title": "11月3日（火・祝）スポーツフェスタ古河2026に参加します",
@@ -86,11 +91,6 @@
       "url": "https://hino-reddolphins.com/2026-09-17/",
       "title": "【日野市】近隣中学校の職場体験を実施しました",
       "date": "2026-09-17"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-09-11/",
-      "title": "【9月26日 リーグワンライジング】暑さによる試合とイベントの中止について",
-      "date": "2026-09-11"
     }
   ]
 }

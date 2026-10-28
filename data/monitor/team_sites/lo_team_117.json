@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-28T01:07:15+09:00",
+  "checked_at": "2026-10-28T19:29:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "ccc328173d276c00"
+      "hash": "ba64333c6fd4e74e"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "1775053a688af74c"
+      "hash": "abf64546b3fda2b5"
     }
   ],
   "items": [
@@ -33,6 +33,26 @@
       "date": "2026-10-31"
     },
     {
+      "url": "https://www.kurita-watergush.jp/category/with-watergush/",
+      "title": "私とウォーターガッシュ",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/category/news/",
+      "title": "お知らせ",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261028-2/",
+      "title": "私とウォーターガッシュ 2026/10/28 私とWATER GUSH #15 八尾太介 HO 「かっこいい」が原点。ラグビーへの想いとクリタでの挑戦",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261007-2/",
+      "title": "お知らせ 2026/10/28 10月31日（土）ライジング2026 ヤクルトレビンズ戸田戦イベントのご案内（※10月28日更新）",
+      "date": "2026-10-28"
+    },
+    {
       "url": "https://www.kurita-watergush.jp/category/community/",
       "title": "地域貢献",
       "date": "2026-10-27"
@@ -43,23 +63,8 @@
       "date": "2026-10-27"
     },
     {
-      "url": "https://www.kurita-watergush.jp/category/with-watergush/",
-      "title": "私とウォーターガッシュ",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/category/news/",
-      "title": "お知らせ",
-      "date": "2026-10-26"
-    },
-    {
       "url": "https://www.kurita-watergush.jp/20261026-2/",
       "title": "私とウォーターガッシュ 2026/10/26 私とWATER GUSH #14 湯浅大心 PR 7歳からラグビー一筋、クリタで描く夢とこれから",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261007-2/",
-      "title": "お知らせ 2026/10/26 10月31日（土）ライジング2026 ヤクルトレビンズ戸田戦イベントのご案内（※10月27日更新）",
       "date": "2026-10-26"
     },
     {
@@ -89,7 +94,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261022-3/",
-      "title": "お知らせ 2026/10/22 2026-27シーズン チケット販売スケジュールのお知らせ",
+      "title": "お知らせ 公開日：2026/10/22 2026-27シーズン チケット販売スケジュールのお知らせ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 「NTTジャパン… 続きを読む",
       "date": "2026-10-22"
     },
     {
@@ -230,11 +235,6 @@
     {
       "url": "https://www.kurita-watergush.jp/20260806-2-2/",
       "title": "お知らせ 公開日：2026/10/16 NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ（※10月16日更新） いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。第9節の日程及び… 続きを読む",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260806-2-1/",
-      "title": "お知らせ 公開日：2026/08/06 2026-27シーズン新体制および2025-26シーズン退団スタッフのお知らせ 平素より格別のご高配を賜り、厚く御礼申し上げます。 この度、クリタウォーターガッシュ昭島の2026-27シ… 続きを読む",
       "date": "2026-08-06"
     }
   ]

@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-10-28T01:07:15+09:00",
+  "checked_at": "2026-10-28T19:29:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "744c4196ce674735"
+      "hash": "f13977085440e181"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "1dc73a2c454f48d9"
+      "hash": "bdc146ab8ee3db8a"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3241",
+      "title": "2026.10.28[WED] TICKET ホーム開幕2連戦は11月2日(月)から先行発売",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3230",
+      "title": "2026.10.28[WED] FAN CLUB ホーム開幕に向けて＜ポスター貼り隊＞を募集",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3238",
+      "title": "2026.10.27[TUE] SPONSOR 第3節のマッチデーパートナーに株式会社みずほフィナンシャルグループが決定",
+      "date": "2026-10-27"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3231",
       "title": "2026.10.27[TUE] SDGs 地域貢献活動≪SCRUM Action≫をリニューアル",
@@ -96,21 +111,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3211",
       "title": "2026.10.15[THU] OTHERS ブルーレヴズ観るならDAZN！年間視聴パスの取扱開始！",
       "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3222",
-      "title": "2026.10.14[WED] HOST AREA 【ホストエリア活動】「ジュビロ磐田 ヤマハ・ヤマハ発動機マッチデー」にて、親子スポーツ体験会を実施しました",
-      "date": "2026-10-14"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3221",
-      "title": "2026.10.14[WED] HOST AREA 【ホストエリア活動】磐田市「いわたホームタウンスポーツフェスティバル」にてラグビー体験を実施しました",
-      "date": "2026-10-14"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3217",
-      "title": "2026.10.14[WED] TICKET ホームゲーム全9試合で使える！お得な回数券を販売",
-      "date": "2026-10-14"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",

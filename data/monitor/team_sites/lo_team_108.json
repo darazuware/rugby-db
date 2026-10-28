@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-10-28T01:07:15+09:00",
+  "checked_at": "2026-10-28T19:29:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "b5ae052909526531"
+      "hash": "0a3eede874dfbea5"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261028a.html",
+      "title": "株式会社建設システム（KENTEM）とオフィシャルパートナー新規契約のお知らせ",
+      "date": "2026-10-28"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20261026a.html",
       "title": "『ヒツジのいらない枕®』が当たる！ブラックラムズ東京公式ファンクラブ『RAMOVE』新規入会キャンペーンのお知らせ",
@@ -21,11 +26,6 @@
     {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261023b.html",
       "title": "【復旧報告】ブラックラムズ東京チケット販売ページ「ラムチケ」サービス再開のお知らせ",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261023a.html",
-      "title": "【復旧報告】ブラックラムズ東京オンラインショップ 10月23日(金) 17:00より販売再開のお知らせ",
       "date": "2026-10-23"
     },
     {

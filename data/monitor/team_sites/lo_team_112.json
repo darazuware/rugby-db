@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-10-28T01:07:15+09:00",
+  "checked_at": "2026-10-28T19:29:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "df0d446e0dd27698"
+      "hash": "2a0b0856e44d31c3"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "1fe38e5b8867144b"
+      "hash": "b1fa259232511896"
     }
   ],
   "items": [
+    {
+      "url": "https://shuttles-aichi.com/news/supported-club-activities-for-the-nagoya-municipal-sakurada-junior-high-school-rugby-club/",
+      "title": "お知らせ 2026.10.28 名古屋市立桜田中学校ラグビー部への部活動支援を実施しました",
+      "date": "2026-10-28"
+    },
     {
       "url": "https://shuttles-aichi.com/news/2026-10-25-preseason-match-vs-red-hurricanes-osaka-photo-gallery/",
       "title": "フォトギャラリー 26年10月25日 2026/10/25(日)プレシーズンマッチ vsレッドハリケーンズ大阪 フォトギャラリー",
@@ -41,11 +46,6 @@
       "url": "https://shuttles-aichi.com/news/notice-of-free-invitation-for-residents-of-aichi-prefecture/",
       "title": "お知らせ 2026.10.23 愛知県民無料ご招待のお知らせ",
       "date": "2026-10-23"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/2026-10-17-sat-japan-rugby-league-one-rising-2026-vs-yakultrevins-toda-photo-gallery/",
-      "title": "フォトギャラリー 26年10月19日 2026/10/17(土)JAPAN RUGBY LEAGUE ONE RISING 2026 vsヤクルトレビンズ戸田 フォトギャラリー",
-      "date": "2026-10-17"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-10-3-satjapan-rugby-league-one-rising-2026-vs-shizuoka-bluerevs-photo-gallery/",
