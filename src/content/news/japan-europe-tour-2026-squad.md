@@ -4,7 +4,7 @@ description: "日本ラグビー協会が発表した欧州遠征メンバー35�
 pubDate: 2026-10-28
 category: "NEWS"
 tags: ["日本代表", "欧州遠征", "リポビタンDツアー", "ネーションズチャンピオンシップ", "メンバー発表", "2026年", "RWC2027"]
-draft: true
+draft: false
 ---
 
 <div class="team-flag" style="font-size:5rem;line-height:1.1;text-align:center;margin:0 0 1rem">🇯🇵</div>
@@ -66,16 +66,16 @@ SOの本職は[トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz
 |:---|:---|:---|
 | PR(1) | [岡部崇人](/players/takato-okabe-484847/) | [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles/) |
 | HO | [江良颯](/players/hayate-era-483786/) | [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) |
-| PR(3) | イジー・ソード | [クボタスピアーズ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/)船橋・東京ベイ |
+| PR(3) | イジー・ソード | [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay/) |
 | PR(1/3) | 古畑翔 | [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights/) |
 | LO | タイラー・ポール | クボタスピアーズ船橋・東京ベイ |
 | FL/NO8 | [リーチ マイケル](/players/michael-leitch-484358/) | 東芝ブレイブルーパス武蔵 |
 | FL/NO8 | ファカタヴァ アマト | [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo/) |
 | SH | [上村樹輝](/players/itsuki-kamimura-483934/) | [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/) |
-| SO | [李承信](/players/seungsin-lee-483953/) | コベルコ[神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers/) |
+| SO | [李承信](/players/seungsin-lee-483953/) | コベルコ神戸スティーラーズ |
 | CTB | [廣瀬雄也](/players/yuya-hirose-483785/) | クボタスピアーズ船橋・東京ベイ |
-| CTB | 中野将伍 | 東京[サントリー](/teams/league-one/tokyo-suntory-sungoliath/)サンゴリアス |
-| CTB/WTB | [長田智希](/players/tomoki-osada-484045/) | 埼玉[パナソニック](/teams/league-one/saitama-panasonic-wild-knights/)ワイルドナイツ |
+| CTB | 中野将伍 | 東京サントリーサンゴリアス |
+| CTB/WTB | [長田智希](/players/tomoki-osada-484045/) | 埼玉パナソニックワイルドナイツ |
 | WTB | [木田晴斗](/players/haruto-kida-483750/) | クボタスピアーズ船橋・東京ベイ |
 | WTB/FB | [メイン平](/players/taira-main-484885/) | リコーブラックラムズ東京 |
 | FB/SO | [サム・グリーン](/players/sam-greene-484173/) | [JR東日本グリーンウォリアーズ東葛](/teams/league-one/jr-east-green-warriors-tokatsu/) |
@@ -126,7 +126,7 @@ SOの本職は[トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz
 | CTB | [ディラン・ライリー](/players/dylan-riley-484057/) | 埼玉パナソニックワイルドナイツ | 187cm/102kg | 29 | 46 |
 | CTB | 李智寿 | 朝鮮大学校 | 180cm/82kg | 21 | 1 |
 | CTB | [チャーリー・ローレンス](/players/charlie-lawrence-484728/) | [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/) | 171cm/90kg | 28 | 10 |
-| WTB | [石田吉平](/players/kippei-ishida-484853/) | 横浜[キヤノン](/teams/league-one/yokohama-canon-eagles/)イーグルス | 167cm/75kg | 26 | 11 |
+| WTB | [石田吉平](/players/kippei-ishida-484853/) | 横浜キヤノンイーグルス | 167cm/75kg | 26 | 11 |
 | WTB | [植田和磨](/players/kazuma-ueda-483933/) | コベルコ神戸スティーラーズ | 177cm/87kg | 23 | 9 |
 | CTB/WTB | 時任凜空 | 東芝ブレイブルーパス武蔵 | 184cm/86kg | 23 | 0 |
 | WTB | 根塚洸雅 | クボタスピアーズ船橋・東京ベイ | 173cm/82kg | 28 | 3 |
@@ -150,7 +150,7 @@ SOの本職は[トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz
 | 栃木ホンダヒート | 4 |
 | 浦安D-Rocks | 3 |
 | コベルコ神戸スティーラーズ | 3 |
-| 横浜キヤノンイーグルス、リコーブラックラムズ東京、トヨタヴェルブリッツ、三菱重工[相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars/) | 各1 |
+| 横浜キヤノンイーグルス、リコーブラックラムズ東京、トヨタヴェルブリッツ、三菱重工相模原ダイナボアーズ | 各1 |
 | 関西学院大学、朝鮮大学校 | 各1 |
 
 リーグワンのクラブ所属は33名、大学所属が2名です。最多は東芝ブレイブルーパス武蔵の6名で、クボタスピアーズ船橋・東京ベイが5名で続きます。
@@ -175,6 +175,5 @@ SOの本職は[トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz
 ---
 
 関連記事：
-- [2026年 日本代表テストマッチ全結果](/news/japan-national-team-2026-results/)
 - [日本代表 2026年後半戦 全試合日程ガイド](/news/japan-2026-fixtures/)
 - [日本代表 vs フィジー代表（10月）レビュー](/news/japan-vs-fiji-2026-10-24-review/)
