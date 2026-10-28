@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-28T16:52:30+09:00",
+  "checked_at": "2026-10-28T23:49:07+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,14 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6105",
-          "title": "お知らせ 一般社団法人ジャパンラグビーリーグワン 令和8年熊本地震に伴う支援募金 口座開設についてのお知らせ［10月28日更新］ 2026.10.28",
-          "date": "2026-10-28",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
