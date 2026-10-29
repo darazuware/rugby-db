@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-10-29T01:54:47+09:00",
+  "checked_at": "2026-10-29T19:49:33+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "e63326b21212523c"
+      "hash": "2941c87af55a38ae"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "64014ae28d8cde5c"
+      "hash": "5599be0d4a33e53f"
     }
   ],
   "items": [
@@ -35,6 +35,11 @@
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
       "title": "試合日程一覧",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261031/",
+      "title": "試合詳細",
       "date": "2026-10-31"
     },
     {
@@ -86,11 +91,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261009_01/",
       "title": "ファンクラブ 2026年10月09日 10/18(日)開催『埼玉パナソニックワイルドナイツ ファンクラブイベント』詳細... ニュースを見る",
       "date": "2026-10-09"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261008_02/",
-      "title": "チーム 2026年10月08日 ワイルドナイツ ボランティア募集のお知らせ ニュースを見る",
-      "date": "2026-10-08"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261007_01/",

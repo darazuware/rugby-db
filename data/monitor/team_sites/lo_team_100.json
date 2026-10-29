@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-10-29T01:54:47+09:00",
+  "checked_at": "2026-10-29T19:49:33+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "2a01a79c5da4f6e9"
+      "hash": "7ac7aec90dbb845e"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "dbc2b9c540da9a28"
+      "hash": "1a96c06b01aca260"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/partner/index_2072.html",
+      "title": "パートナー 2026.10.29 アサヒグループ食品株式会社とのオフィシャルサプライヤー契約締結のお知らせ",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/index_2073.html",
+      "title": "ニュース 2026.10.29 お客様アンケートを踏まえた観戦環境改善の取り組みについて",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2071.html",
+      "title": "ゲーム 2026.10.29 11月21日(土) プレシーズンマッチ vs 東芝ブレイブルーパス武蔵 ホストゲーム情報",
+      "date": "2026-10-29"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2069.html",
       "title": "チーム 2026.10.28 2026.11 トレーニング公開日のお知らせ",
@@ -54,17 +69,17 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_2060.html",
-      "title": "ファンクラブ 2026.10.22 ファンクラブ・チケット関連ページ メンテナンスについて｜10月22日(木) 11:50時点",
+      "title": "2026.10.22 ニュース ファンクラブ・チケット関連ページ メンテナンスについて｜10月22日(木) 11:50時点",
       "date": "2026-10-22"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2058.html",
-      "title": "ゲーム 2026.10.21 【メンバー発表】2026-27シーズン プレシーズンマッチ③ トヨタヴェルブリッツ戦（10月23日）",
+      "title": "2026.10.21 ニュース 【メンバー発表】2026-27シーズン プレシーズンマッチ③ トヨタヴェルブリッツ戦（10月23日）",
       "date": "2026-10-21"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2045.html",
-      "title": "ゲーム 2026.10.21 【更新】10月23日(金) プレシーズンマッチ vs トヨタヴェルブリッツ ホストゲーム情報",
+      "title": "2026.10.21 ニュース 【更新】10月23日(金) プレシーズンマッチ vs トヨタヴェルブリッツ ホストゲーム情報",
       "date": "2026-10-21"
     },
     {
@@ -201,21 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/cheer/index_2025.html",
       "title": "2026.09.17 ニュース D-Rocks Cheerleaders 第5期メンバー決定のお知らせ",
       "date": "2026-09-17"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/team/index_2023.html",
-      "title": "2026.09.11 ニュース 2026‐27シーズンにおける長期療養のこどものスポーツチーム入団事業「TEAMMATES」募集について",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_2022.html",
-      "title": "2026.09.11 ニュース 2026.9.13 バルドラール浦安「KEIYO TEAM6+10周年イベント」参加のお知らせ",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_2006.html",
-      "title": "2026.09.09 ニュース 2026-27シーズン 浦安D-Rocks初となるMUFGスタジアム（国立競技場）での試合開催決定のお知らせ",
-      "date": "2026-09-09"
     }
   ]
 }

@@ -3,24 +3,24 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-10-07T02:00:09+09:00",
+  "checked_at": "2026-10-29T19:49:33+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "bfabeebf79a5a213"
+      "hash": "50a99956e0f77bf0"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "be94b7b14e634bac"
+      "hash": "02cdd372ad8d3e30"
     }
   ],
   "items": [
     {
-      "url": "https://www.honda-heat.jp/news/2461/",
-      "title": "トピックス 2026.10.6 新加入スタッフのお知らせ",
-      "date": "2026-10-06"
+      "url": "https://www.honda-heat.jp/news/2465/",
+      "title": "トピックス 2026.10.29 【ジャパンラグビーリーグワン ライジング2026 】10/31（土）川越狭山セコムラガッツ戦 試合案内",
+      "date": "2026-10-29"
     },
     {
       "url": "https://www.honda-heat.jp/news/2429/",
@@ -29,7 +29,7 @@
     },
     {
       "url": "https://www.honda-heat.jp/news/2462/",
-      "title": "2026/10/4 【ジャパンラグビーリーグワン ライジング2026 】10/11(日) クボタスピアーズ船橋・東京ベイ戦 試合案内",
+      "title": "トピックス 2026.10.4 【ジャパンラグビーリーグワン ライジング2026 】10/11(日) クボタスピアーズ船橋・東京ベイ戦 試合案内",
       "date": "2026-10-04"
     },
     {

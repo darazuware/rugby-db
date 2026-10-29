@@ -3,35 +3,40 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-10-29T01:54:47+09:00",
+  "checked_at": "2026-10-29T19:49:33+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "0a3eede874dfbea5"
+      "hash": "8505dfb1c6387db8"
     }
   ],
   "items": [
     {
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261029d.html",
+      "title": "11月3日(火・祝)「こまフェスタ」参加のお知らせ",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261029c.html",
+      "title": "10月31日(土)「みなみまつり」参加のお知らせ",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261029b.html",
+      "title": "11月3日(火・祝)「子どものけんりフェス」参加のお知らせ",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261029a.html",
+      "title": "11月1日(日)「第25回 東深沢スポーツ・文化フェスティバル」参加のお知らせ",
+      "date": "2026-10-29"
+    },
+    {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261028a.html",
       "title": "株式会社建設システム（KENTEM）とオフィシャルパートナー新規契約のお知らせ",
       "date": "2026-10-28"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20261026a.html",
-      "title": "『ヒツジのいらない枕®』が当たる！ブラックラムズ東京公式ファンクラブ『RAMOVE』新規入会キャンペーンのお知らせ",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261023b.html",
-      "title": "【復旧報告】ブラックラムズ東京チケット販売ページ「ラムチケ」サービス再開のお知らせ",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261022c.html",
-      "title": "(10/23更新)【重要】豊田自動織機シャトルズ愛知戦 チケット先行販売延期のお知らせ",
-      "date": "2026-10-22"
     }
   ]
 }

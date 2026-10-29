@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-10-29T01:54:47+09:00",
+  "checked_at": "2026-10-29T19:49:33+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "e2484f487bc2dc74"
+      "hash": "61f0fae2013019db"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "72070e2051f9bd5d"
+      "hash": "7acfcee861c5956d"
     }
   ],
   "items": [
@@ -26,6 +26,11 @@
       "url": "https://www.kyudenvoltex.com/game/p186",
       "title": "メンバー",
       "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/1016",
+      "title": "地域・社会貢献 2026年10月29日 NEW 北九州市立筒井小学校でラグビー体験授業を実施しました",
+      "date": "2026-10-29"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1015",
@@ -131,11 +136,6 @@
       "url": "https://www.kyudenvoltex.com/news/997",
       "title": "地域・社会貢献 2026年07月25日 都城ラグビークリニックを開催しました",
       "date": "2026-07-25"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/995",
-      "title": "地域・社会貢献 2026年07月06日 平戸市立生月小学校でタグラグビー教室を開催しました",
-      "date": "2026-07-06"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/992",

@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-10-29T01:54:47+09:00",
+  "checked_at": "2026-10-29T19:49:33+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "e216ecae2265eb9e"
+      "hash": "455f709f0be9da15"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "9359dc21324341d6"
+      "hash": "918f7718add86db7"
     }
   ],
   "items": [
     {
       "url": "https://hanazono-liners.jp/news/",
       "title": "ニュース一覧を見る",
-      "date": "2026-10-28"
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/10/29/brumbies-practice-tour-detail/",
+      "title": "2026.10.29 ファンクラブ 【LINERS FANCLUB】ファンクラブ会員限定 ACTブランビーズ合同練習見学会 参加方法および詳細決定のお知らせ",
+      "date": "2026-10-29"
     },
     {
       "url": "https://hanazono-liners.jp/2026/10/28/fukuokacamp-day67/",
@@ -158,8 +163,8 @@
       "date": "2026-08-20"
     },
     {
-      "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub-2/",
-      "title": "2026.08.03 ファンクラブ イベント 【LINERS FANCLUB】2026-27 SEASON ファンクラブ概要決定のお知らせ",
+      "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub/",
+      "title": "2026.08.03 ファンクラブ イベント 【重要】LINERS FANCLUB 2026-27 自動継続入会について",
       "date": "2026-08-03"
     }
   ]

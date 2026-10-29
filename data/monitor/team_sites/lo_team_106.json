@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-10-29T01:54:47+09:00",
+  "checked_at": "2026-10-29T19:49:33+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "8fc301698268c801"
+      "hash": "af1766c3031b9841"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "19db77a697f90e28"
+      "hash": "1bc42aa85905eb5f"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261029.html",
+      "title": "2026-10-29 2026-27シーズン公式戦ジャージー発表のお知らせ",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/JRLR2026-2",
+      "title": "2026-10-29 リーグワン ライジング2026 三菱重工相模原ダイナボアーズ 対 レッドハリケーンズ大阪｜試合メンバー等更新",
+      "date": "2026-10-29"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261028.html-0",
       "title": "2026-10-28 南アフリカ代表｜カート＝リー・アレンゼ選手がネーションズ・チャンピオンシップ後半戦のスコッドに選出",
@@ -54,7 +64,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261015.html",
-      "title": "2026-10-15 DAZN年間視聴パス販売開始｜11/14までの購入で13か月視聴可能",
+      "title": "2026-10-15 [ メディア ] DAZN年間視聴パス販売開始｜11/14までの購入で13か月視聴可能",
       "date": "2026-10-15"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260707.html",
       "title": "2026-08-20 ジャパンラグビー リーグワン ライジング2026｜ホスト試合 キックオフ時間・観戦情報掲載",
       "date": "2026-08-20"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260818.html-0",
-      "title": "2026-08-18 [ チーム ] [ メディア ] 男子セブンズ日本代表｜男子SDS福岡合宿 参加メンバーに服部選手・吉本選手が選出",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260818.html",
-      "title": "2026-08-18 [ チーム ] ルーク・ポーター選手加入のお知らせ",
-      "date": "2026-08-18"
     }
   ]
 }

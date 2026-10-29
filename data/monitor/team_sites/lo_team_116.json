@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-10-29T01:54:47+09:00",
+  "checked_at": "2026-10-29T19:49:33+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "6c5120a2c89aa21c"
+      "hash": "f853133b6a74fdac"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "763efd08393345cd"
+      "hash": "0320716b38e67239"
     }
   ],
   "items": [
@@ -21,6 +21,16 @@
       "url": "https://docomo-rugby.jp/campaign/2027/lp/20261219_no_inv.html",
       "title": "12月19日（土）CENTRALプ レミアムマッチ特設サイト MORE",
       "date": "2026-12-19"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8974",
+      "title": "お知らせ 2026年10月29日 「TEAMMATES」佐藤瑛音選手 入団記者会見を開催",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://docomo-rugby.jp/game/member.html?id=337",
+      "title": "試合情報 2026年10月29日 【JAPAN RUGBY LEAGUE ONE RISING】三菱重工相模原ダイナボアーズ戦 メンバー発表",
+      "date": "2026-10-29"
     },
     {
       "url": "https://docomo-rugby.jp/game/report.html?id=353",
@@ -216,16 +226,6 @@
       "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8792",
       "title": "アカデミー 2026年8月1日 【U12エントリークラス】7月活動レポート",
       "date": "2026-08-01"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8588",
-      "title": "お知らせ 2026年7月29日 ※更新情報あり【リリース】レッドハリケーンズ大阪6月以降の選手参加イベントについて",
-      "date": "2026-07-29"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8764",
-      "title": "お知らせ 2026年7月20日 2026-27シーズン始動。新たなシーズンへ向けて",
-      "date": "2026-07-20"
     },
     {
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8386",

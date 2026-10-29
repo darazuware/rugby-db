@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T01:54:47+09:00",
+  "checked_at": "2026-10-29T19:49:33+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,30 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/partner/index_2072.html",
+          "title": "パートナー 2026.10.29 アサヒグループ食品株式会社とのオフィシャルサプライヤー契約締結のお知らせ",
+          "date": "2026-10-29",
+          "category": "roster"
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/index_2073.html",
+          "title": "ニュース 2026.10.29 お客様アンケートを踏まえた観戦環境改善の取り組みについて",
+          "date": "2026-10-29",
+          "category": null
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/game/index_2071.html",
+          "title": "ゲーム 2026.10.29 11月21日(土) プレシーズンマッチ vs 東芝ブレイブルーパス武蔵 ホストゲーム情報",
+          "date": "2026-10-29",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -38,8 +60,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261031/",
+          "title": "試合詳細",
+          "date": "2026-10-31",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -62,8 +94,23 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4385/",
+          "title": "2026.10.29 グッズ 試合情報 【グッズ】10/31(土) 日野RD戦 ヴェルガチャ出店情報",
+          "date": "2026-10-29",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4384/",
+          "title": "2026.10.29 グッズ 試合情報 【グッズ】10/31(土) 日野RD戦 新商品情報",
+          "date": "2026-10-29",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -71,11 +118,21 @@
       "league": "league-one-d1",
       "name": "三重ホンダヒート",
       "official_url": "http://www.honda-heat.jp",
-      "status": "unreachable",
+      "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 24,
+      "new_items": [
+        {
+          "url": "https://www.honda-heat.jp/news/2465/",
+          "title": "トピックス 2026.10.29 【ジャパンラグビーリーグワン ライジング2026 】10/31（土）川越狭山セコムラガッツ戦 試合案内",
+          "date": "2026-10-29",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.honda-heat.jp/",
+        "https://www.honda-heat.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -86,7 +143,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261029.html",
+          "title": "2026-10-29 2026-27シーズン公式戦ジャージー発表のお知らせ",
+          "date": "2026-10-29",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/JRLR2026-2",
+          "title": "2026-10-29 リーグワン ライジング2026 三菱重工相模原ダイナボアーズ 対 レッドハリケーンズ大阪｜試合メンバー等更新",
+          "date": "2026-10-29",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -100,9 +170,19 @@
       "official_url": "https://www.canon-eagles.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 15,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 16,
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/news/supporters/20261029.html",
+          "title": "2026.10.29 SUPPORTER 11/10（火）練習見学会のお知らせ",
+          "date": "2026-10-29",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -112,9 +192,36 @@
       "official_url": "https://blackrams-tokyo.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 4,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 5,
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261029d.html",
+          "title": "11月3日(火・祝)「こまフェスタ」参加のお知らせ",
+          "date": "2026-10-29",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261029c.html",
+          "title": "10月31日(土)「みなみまつり」参加のお知らせ",
+          "date": "2026-10-29",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261029b.html",
+          "title": "11月3日(火・祝)「子どものけんりフェス」参加のお知らせ",
+          "date": "2026-10-29",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261029a.html",
+          "title": "11月1日(日)「第25回 東深沢スポーツ・文化フェスティバル」参加のお知らせ",
+          "date": "2026-10-29",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -137,7 +244,32 @@
       "status": "ok",
       "first_run": false,
       "item_count": 30,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3244",
+          "title": "2026.10.29[THU] TICKET 今シーズンも［ペア観戦シート］でゆったり観戦！",
+          "date": "2026-10-29",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3243",
+          "title": "2026.10.29[THU] TICKET ホーム開幕戦に特上鯛めし御膳付きテーブルシートが登場",
+          "date": "2026-10-29",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3242",
+          "title": "2026.10.29[THU] TICKET 年越しにぴったり！法多山厄除団子付きテーブルシートが登場！",
+          "date": "2026-10-29",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3239",
+          "title": "2026.10.29[THU] TICKET 記者と同じ目線で楽しめる［テーブルシート］が7試合に登場",
+          "date": "2026-10-29",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -152,8 +284,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMKSFTBv.html",
+          "title": "2026年 10月29日 2026 TRAINING MATCH vs クボタスピアーズ船橋・東京ベイ メンバー発表",
+          "date": "2026-10-29",
+          "category": null
+        },
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/lor13rtpwkc.html",
+          "title": "2026年 3月22日 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第13節 東京サントリーサンゴリアスvs埼玉パナソニックワイルドナイツ戦のご案内 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第13節 ※ホストゲーム ■試合日時…",
+          "date": "2026-03-22",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -163,9 +311,25 @@
       "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": false,
-      "item_count": 25,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 27,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1028-01/",
+          "title": "EVENT 柏市逆井小学校タグラグビー教室 2026.10.28",
+          "date": "2026-10-28",
+          "category": null
+        },
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1027-01/",
+          "title": "EVENT ふるさと田中みこし祭り 2026.10.28",
+          "date": "2026-10-28",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/"
+      ],
       "rename_signals": []
     },
     {
@@ -176,7 +340,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kyudenvoltex.com/news/1016",
+          "title": "地域・社会貢献 2026年10月29日 NEW 北九州市立筒井小学校でラグビー体験授業を実施しました",
+          "date": "2026-10-29",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kyudenvoltex.com/",
         "https://www.kyudenvoltex.com/news/"
@@ -193,7 +364,10 @@
       "item_count": 24,
       "new_items": [],
       "changed_pages": [
-        "https://blue-sharks.jp/"
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
       ],
       "rename_signals": []
     },
@@ -206,7 +380,10 @@
       "first_run": false,
       "item_count": 7,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://shuttles-aichi.com/",
+        "https://shuttles-aichi.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -232,8 +409,21 @@
       "official_url": "https://hanazono-liners.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 29,
-      "new_items": [],
+      "item_count": 30,
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/2026/10/29/brumbies-practice-tour-detail/",
+          "title": "2026.10.29 ファンクラブ 【LINERS FANCLUB】ファンクラブ会員限定 ACTブランビーズ合同練習見学会 参加方法および詳細決定のお知らせ",
+          "date": "2026-10-29",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub/",
+          "title": "2026.08.03 ファンクラブ イベント 【重要】LINERS FANCLUB 2026-27 自動継続入会について",
+          "date": "2026-08-03",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -248,8 +438,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 15,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-10-29/",
+          "title": "10/31 トヨタヴェルブリッツ戦 メンバーのお知らせ",
+          "date": "2026-10-29",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -260,9 +459,23 @@
       "status": "ok",
       "first_run": false,
       "item_count": 44,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8974",
+          "title": "お知らせ 2026年10月29日 「TEAMMATES」佐藤瑛音選手 入団記者会見を開催",
+          "date": "2026-10-29",
+          "category": "roster"
+        },
+        {
+          "url": "https://docomo-rugby.jp/game/member.html?id=337",
+          "title": "試合情報 2026年10月29日 【JAPAN RUGBY LEAGUE ONE RISING】三菱重工相模原ダイナボアーズ戦 メンバー発表",
+          "date": "2026-10-29",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://docomo-rugby.jp/"
+        "https://docomo-rugby.jp/",
+        "https://docomo-rugby.jp/news/"
       ],
       "rename_signals": []
     },
@@ -273,8 +486,33 @@
       "official_url": "https://www.kurita-watergush.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 41,
-      "new_items": [],
+      "item_count": 44,
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/stadium/%e6%a0%97%e7%94%b0%e5%b7%a5%e6%a5%ad%e6%98%ad%e5%b3%b6%e3%82%b0%e3%83%a9%e3%82%a6%e3%83%b3%e3%83%89/",
+          "title": "アクセス",
+          "date": "2026-10-31",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/games/",
+          "title": "全ての試合情報はこちら",
+          "date": "2026-10-31",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261031-wg%e6%98%ad%e5%b3%b6-vsl%e6%88%b8%e7%94%b0/",
+          "title": "このゲームの詳細情報はこちら",
+          "date": "2026-10-31",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/20261029-2/",
+          "title": "私とウォーターガッシュ 2026/10/29 私とWATER GUSH #16 テアレキ・ベン-ニコラス No.8 クック諸島のルーツ、ニュージーランドの魂、そして昭島への愛着",
+          "date": "2026-10-29",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -290,7 +528,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -302,7 +543,11 @@
       "first_run": false,
       "item_count": 15,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://rrrfc.red/",
+        "https://rrrfc.red/blog/",
+        "https://rrrfc.red/categories/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -315,7 +560,11 @@
       "item_count": 45,
       "new_items": [],
       "changed_pages": [
-        "https://www.skyactivs.com/"
+        "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news",
+        "https://www.skyactivs.com/news/2091",
+        "https://www.skyactivs.com/news/2035",
+        "https://www.skyactivs.com/news/2001"
       ],
       "rename_signals": []
     },
@@ -376,10 +625,24 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "浦安D-Rocks",
+      "url": "https://urayasu-d-rocks.com/news/partner/index_2072.html",
+      "title": "パートナー 2026.10.29 アサヒグループ食品株式会社とのオフィシャルサプライヤー契約締結のお知らせ",
+      "date": "2026-10-29",
+      "category": "roster"
+    },
+    {
+      "source": "レッドハリケーンズ大阪",
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8974",
+      "title": "お知らせ 2026年10月29日 「TEAMMATES」佐藤瑛音選手 入団記者会見を開催",
+      "date": "2026-10-29",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [],
   "warnings": [
-    "三重ホンダヒート: 到達できるページがない: http://www.honda-heat.jp",
     "ヤクルトレビンズ戸田: 記事リンクを抽出できない（JS描画の可能性）: https://www.yakult.co.jp/sports/rugby/"
   ]
 }

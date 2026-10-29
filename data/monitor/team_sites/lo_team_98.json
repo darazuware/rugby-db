@@ -3,20 +3,40 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-10-29T01:54:47+09:00",
+  "checked_at": "2026-10-29T19:49:33+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "aaf92894684683ea"
+      "hash": "aab0aa51504f4959"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "324315b02812ca49"
+      "hash": "a48d515b755108e2"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3244",
+      "title": "2026.10.29[THU] TICKET 今シーズンも［ペア観戦シート］でゆったり観戦！",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3243",
+      "title": "2026.10.29[THU] TICKET ホーム開幕戦に特上鯛めし御膳付きテーブルシートが登場",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3242",
+      "title": "2026.10.29[THU] TICKET 年越しにぴったり！法多山厄除団子付きテーブルシートが登場！",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3239",
+      "title": "2026.10.29[THU] TICKET 記者と同じ目線で楽しめる［テーブルシート］が7試合に登場",
+      "date": "2026-10-29"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3241",
       "title": "2026.10.28[WED] TICKET ホーム開幕2連戦は11月2日(月)から先行発売",
@@ -24,7 +44,7 @@
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3230",
-      "title": "2026.10.28[WED] FAN CLUB ホーム開幕に向けて＜ポスター貼り隊＞を募集",
+      "title": "FAN CLUB 2026/10/28 ホーム開幕に向けて＜ポスター貼り隊＞を募集",
       "date": "2026-10-28"
     },
     {
@@ -39,7 +59,7 @@
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3216",
-      "title": "EVENT 2026/10/26 【12月20日(日)ホーム開幕戦】nobodyknows+さん来場決定",
+      "title": "EVENT 2026/10/26 【12/20(日)ホーム開幕戦】nobodyknows+さん来場",
       "date": "2026-10-26"
     },
     {
@@ -88,11 +108,6 @@
       "date": "2026-10-16"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3213",
-      "title": "2026.10.16[FRI] FAN CLUB CLUB REVSキッズ/親子会員限定＜エスコートキッズ＞の参加者募集",
-      "date": "2026-10-16"
-    },
-    {
       "url": "https://www.shizuoka-bluerevs.com/news/3212",
       "title": "2026.10.16[FRI] FAN CLUB CLUB REVS会員特典≪オフィシャルグッズクーポン≫の利用方法",
       "date": "2026-10-16"
@@ -101,16 +116,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3206",
       "title": "2026.10.16[FRI] FAN CLUB CLUB REVS会員特典≪ホームゲーム招待券≫の利用方法",
       "date": "2026-10-16"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3228",
-      "title": "2026.10.15[THU] OTHERS 取締役変更のお知らせ",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3211",
-      "title": "2026.10.15[THU] OTHERS ブルーレヴズ観るならDAZN！年間視聴パスの取扱開始！",
-      "date": "2026-10-15"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",
@@ -126,11 +131,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3188",
       "title": "EVENT 2026/9/16 愛車で静岡とホーム開幕戦を青く染めよう！",
       "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3165",
-      "title": "2026.9.9[WED] TEAM ホーム開幕は12月20日！NTTジャパンラグビー リーグワン2026-27日程決定！",
-      "date": "2026-09-09"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3167",

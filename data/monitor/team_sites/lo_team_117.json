@@ -3,24 +3,44 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-29T01:54:47+09:00",
+  "checked_at": "2026-10-29T19:49:33+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "f933a4d0ce27808f"
+      "hash": "dff6286c5dfe358a"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "137c37d1f657ff71"
+      "hash": "c5ec982eda26843e"
     }
   ],
   "items": [
     {
+      "url": "https://www.kurita-watergush.jp/stadium/%e6%a0%97%e7%94%b0%e5%b7%a5%e6%a5%ad%e6%98%ad%e5%b3%b6%e3%82%b0%e3%83%a9%e3%82%a6%e3%83%b3%e3%83%89/",
+      "title": "アクセス",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/games/",
+      "title": "全ての試合情報はこちら",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/game/20261031-wg%e6%98%ad%e5%b3%b6-vsl%e6%88%b8%e7%94%b0/",
+      "title": "このゲームの詳細情報はこちら",
+      "date": "2026-10-31"
+    },
+    {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-10-28"
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261029-2/",
+      "title": "私とウォーターガッシュ 2026/10/29 私とWATER GUSH #16 テアレキ・ベン-ニコラス No.8 クック諸島のルーツ、ニュージーランドの魂、そして昭島への愛着",
+      "date": "2026-10-29"
     },
     {
       "url": "https://www.kurita-watergush.jp/category/news/",
@@ -74,7 +94,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261022-4/",
-      "title": "地域貢献 2026/10/22 【地域活動報告】児童の登校見守り活動",
+      "title": "地域貢献 公開日：2026/10/22 【地域活動報告】児童の登校見守り活動 実施日：10月22日（木）実施場所：拝島二小南交差点 先月に続き大型車両の通行が多い拝島二小南交差点で朝… 続きを読む",
       "date": "2026-10-22"
     },
     {
@@ -216,11 +236,6 @@
       "url": "https://www.kurita-watergush.jp/20260807-2-1/",
       "title": "お知らせ 公開日：2026/09/30 2026-27シーズン プレシーズンマッチのお知らせ（※9月30日更新） いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 2026-27シーズ… 続きを読む",
       "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260806-2-2/",
-      "title": "お知らせ 公開日：2026/10/16 NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ（※10月16日更新） いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。第9節の日程及び… 続きを読む",
-      "date": "2026-08-06"
     }
   ]
 }

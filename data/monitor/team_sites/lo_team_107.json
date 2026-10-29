@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-10-29T01:54:47+09:00",
+  "checked_at": "2026-10-29T19:49:33+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.canon-eagles.jp/",
-      "hash": "9c63512e046d327c"
+      "hash": "12063f0ee2a1b7e1"
     },
     {
       "url": "https://www.canon-eagles.jp/news/",
-      "hash": "42d220c0894f8dc2"
+      "hash": "87761fb02f8e9d65"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/2026.html",
@@ -21,6 +21,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.canon-eagles.jp/news/supporters/20261029.html",
+      "title": "2026.10.29 SUPPORTER 11/10（火）練習見学会のお知らせ",
+      "date": "2026-10-29"
+    },
     {
       "url": "https://www.canon-eagles.jp/news/info/20261028.html",
       "title": "2026.10.28 TEAM ホスト開幕戦 東京サンゴリアス戦の観戦情報を公開しました",

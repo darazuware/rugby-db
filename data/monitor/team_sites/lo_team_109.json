@@ -3,20 +3,30 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-10-29T01:54:47+09:00",
+  "checked_at": "2026-10-29T19:49:33+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "27aa4fa913aeb173"
+      "hash": "95c3e0e1fe69be37"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "f9aee5f0d4b2d3d6"
+      "hash": "448dbbf905d48ab9"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1028-01/",
+      "title": "EVENT 柏市逆井小学校タグラグビー教室 2026.10.28",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1027-01/",
+      "title": "EVENT ふるさと田中みこし祭り 2026.10.28",
+      "date": "2026-10-28"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/#2026-10-23-01",
       "title": "TICKET 【重要】開幕戦(第1節・九州KV戦)のチケット販売延期について 2026.10.23",

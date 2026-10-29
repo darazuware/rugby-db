@@ -3,25 +3,25 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-10-29T01:54:47+09:00",
+  "checked_at": "2026-10-29T19:49:33+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "3ba9ac28a664705a"
+      "hash": "16b10042408dc231"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "71b44b74924ca2f9"
+      "hash": "ee2b37c2d0221519"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "03070c3b324bd325"
+      "hash": "bcc1305a4818b22c"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "7e71dd67d9e44f5d"
+      "hash": "1bd9ccccf5d1dc43"
     }
   ],
   "items": [
