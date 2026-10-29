@@ -1,6 +1,6 @@
 {
  "_note": "scripts/build_player_pages.py が生成。force_include/force_exclude のみ手編集可",
- "generated_at": "2026-10-29T05:44:32+00:00",
+ "generated_at": "2026-10-29T13:29:08+00:00",
  "criteria": "K1|K2|K3(mention>=2)",
  "force_include": [
   "lo_484310"
@@ -283,6 +283,13 @@
    "reasons": [
     "K1",
     "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_484041",
+   "slug": "damian-de-allende-484041",
+   "reasons": [
     "K3"
    ]
   },
@@ -613,6 +620,13 @@
    ]
   },
   {
+   "id": "lo_announced_aphelele-fassi",
+   "slug": "aphelele-fassi",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
    "id": "lo_announced_ed-kasprowicz",
    "slug": "ed-kasprowicz",
    "reasons": [
@@ -622,6 +636,13 @@
   {
    "id": "lo_announced_george-bridge",
    "slug": "george-bridge",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_announced_grant-williams",
+   "slug": "grant-williams",
    "reasons": [
     "K3"
    ]
@@ -669,6 +690,13 @@
    ]
   },
   {
+   "id": "lo_announced_kurt-lee-arendse",
+   "slug": "kurt-lee-arendse",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
    "id": "lo_announced_mamoru-harada",
    "slug": "mamoru-harada",
    "reasons": [
@@ -682,6 +710,13 @@
    "reasons": [
     "K1",
     "K2",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_announced_ruan-nortje",
+   "slug": "ruan-nortje",
+   "reasons": [
     "K3"
    ]
   },
