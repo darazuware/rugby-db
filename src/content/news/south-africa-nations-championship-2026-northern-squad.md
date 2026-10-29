@@ -4,7 +4,7 @@ description: "南アフリカ代表スプリングボクスのラシー・エラ
 pubDate: 2026-10-29
 category: "NEWS"
 tags: ["南アフリカ代表", "スプリングボクス", "ネーションズチャンピオンシップ", "スコッド", "メンバー発表", "リーグワン", "2026年"]
-draft: true
+draft: false
 ---
 
 <div class="team-flag" style="font-size:5rem;line-height:1.1;text-align:center;margin:0 0 1rem">🇿🇦</div>
