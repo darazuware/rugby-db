@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-28T23:49:07+09:00",
+  "checked_at": "2026-10-29T16:57:37+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,32 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6230",
+          "title": "クラブ 丸和MOMOTARO‘S成田、2026-27シーズン 新加入選手追加のお知らせ 2026.10.29",
+          "date": "2026-10-29",
+          "category": "roster"
+        },
+        {
+          "url": "https://league-one.jp/news/6229",
+          "title": "クラブ 丸和MOMOTARO‘S成田、2026-27シーズン チーム新体制のお知らせ 2026.10.29",
+          "date": "2026-10-29",
+          "category": "roster"
+        },
+        {
+          "url": "https://league-one.jp/news/6228",
+          "title": "クラブ 三菱重工相模原ダイナボアーズ、2026-27シーズン公式戦ジャージー発表のお知らせ 2026.10.29",
+          "date": "2026-10-29",
+          "category": null
+        },
+        {
+          "url": "https://league-one.jp/news/6227",
+          "title": "お知らせ ジャパンラグビー リーグワン 2027-28シーズン以降の新規参入チームの受け入れについて 2026.10.29",
+          "date": "2026-10-29",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,7 +44,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54305",
+          "title": "「太陽生命 JAPAN RUGBY CHALLENGE MATCH 2026」女子ウェールズ代表戦 試合登録メンバーのお知らせ 2026.10.29 （木） 15人制女子日本代表 女子",
+          "date": "2026-10-29",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54304",
+          "title": "「危険なタックルに関する競技規則改正ならびに適用ガイドラインについて」（通達） 【競技運営】 2026.10.29 （木）",
+          "date": "2026-10-29",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +71,29 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6230",
+      "title": "クラブ 丸和MOMOTARO‘S成田、2026-27シーズン 新加入選手追加のお知らせ 2026.10.29",
+      "date": "2026-10-29",
+      "category": "roster"
+    },
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6229",
+      "title": "クラブ 丸和MOMOTARO‘S成田、2026-27シーズン チーム新体制のお知らせ 2026.10.29",
+      "date": "2026-10-29",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54305",
+      "title": "「太陽生命 JAPAN RUGBY CHALLENGE MATCH 2026」女子ウェールズ代表戦 試合登録メンバーのお知らせ 2026.10.29 （木） 15人制女子日本代表 女子",
+      "date": "2026-10-29",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }
