@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-30T17:00:24+09:00",
+  "checked_at": "2026-10-30T23:59:24+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,32 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6234",
-          "title": "クラブ クボタスピアーズ船橋・東京ベイ、マルコム・マークス選手 2026-27シーズンをもって契約満了のお知らせ 2026.10.30",
-          "date": "2026-10-30",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6233",
-          "title": "お知らせ 一部報道について 2026.10.30",
-          "date": "2026-10-30",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6232",
-          "title": "クラブ 東京サントリーサンゴリアス、『秩父宮みなとラグビーまつり2026』～PRIMEパートナー決定～ 2026.10.30",
-          "date": "2026-10-30",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6231",
-          "title": "クラブ ルリーロ福岡、2026-27シーズン 新加入選手のお知らせ（追加） 2026.10.30",
-          "date": "2026-10-30",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -46,16 +21,10 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54307",
-          "title": "レポート：女子セブンズ・デベロップメント・スコッド（SDS） ニュージーランド強化合宿 2026.10.30 （金） 女子セブンズ日本代表 女子 セブンズ セブンズ・デベロップメント・スコッド SDS",
-          "date": "2026-10-30",
+          "url": "https://www.rugby-japan.jp/news/54297",
+          "title": "男子日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ 2026.10.26 （月） 15人制男子日本代表 WBB 男子 日本代表 リポビタンＤツアー2026",
+          "date": "2026-10-26",
           "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54306",
-          "title": "機関誌『RUGBY FOOTBALL』Vol.76-2 発刊のお知らせ 2026.10.30 （金）",
-          "date": "2026-10-30",
-          "category": null
         }
       ],
       "rename_signals": []
@@ -73,24 +42,10 @@
   ],
   "highlights": [
     {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6234",
-      "title": "クラブ クボタスピアーズ船橋・東京ベイ、マルコム・マークス選手 2026-27シーズンをもって契約満了のお知らせ 2026.10.30",
-      "date": "2026-10-30",
-      "category": "roster"
-    },
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6231",
-      "title": "クラブ ルリーロ福岡、2026-27シーズン 新加入選手のお知らせ（追加） 2026.10.30",
-      "date": "2026-10-30",
-      "category": "roster"
-    },
-    {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54307",
-      "title": "レポート：女子セブンズ・デベロップメント・スコッド（SDS） ニュージーランド強化合宿 2026.10.30 （金） 女子セブンズ日本代表 女子 セブンズ セブンズ・デベロップメント・スコッド SDS",
-      "date": "2026-10-30",
+      "url": "https://www.rugby-japan.jp/news/54297",
+      "title": "男子日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ 2026.10.26 （月） 15人制男子日本代表 WBB 男子 日本代表 リポビタンＤツアー2026",
+      "date": "2026-10-26",
       "category": "squad"
     }
   ],
