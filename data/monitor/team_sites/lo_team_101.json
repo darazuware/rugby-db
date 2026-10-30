@@ -3,28 +3,53 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-10-30T02:12:42+09:00",
+  "checked_at": "2026-10-30T19:48:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "e93d74ed019baa45"
+      "hash": "1c904cd8c9965023"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "0081e9a4733c7207"
+      "hash": "854b4e7e28d547e3"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "2edbefdeaf35df12"
+      "hash": "3fc153af4d9d3326"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "1f018baa948fa0b8"
+      "hash": "912da522d5c2a3d2"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post35816/",
+      "title": "2026/10/30 チーム 【NZ派遣レポート最終回 中嶋 大希選手】",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35809/",
+      "title": "2026/10/30 普及 【レポート】第32回神鋼かこがわフェスティバルに参加しました",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35807/",
+      "title": "2026/10/30 チーム 2026-27シーズン プレシーズンマッチの観戦について",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35792/",
+      "title": "2026/10/30 イベント 【レポート】10月25日(日)「KOBE JAM2026」に参加しました",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35687/",
+      "title": "2026/10/30 グッズ NTTリーグワン2025-26 優勝記念グッズ 第3弾発売のお知らせ",
+      "date": "2026-10-30"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35781/",
       "title": "2026/10/28 メディア 【ライブ配信】11月7日(土)プレシーズンマッチ JR東日本グリーンウォリアーズ東葛戦 ライブ配信のお知らせ",
@@ -48,6 +73,11 @@
     {
       "url": "https://www.kobesteelers.com/news/post35782/",
       "title": "2026/10/26 チーム ⽇本代表 ヨーロッパ遠征「リポビタンDツアー2026」参加メンバーのお知らせ",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35735/",
+      "title": "2026/10/26 普及 【レポート】神戸(ホスト)ライオンズクラブ「第5回ラグビースクール交流会」に参加しました",
       "date": "2026-10-26"
     },
     {
@@ -176,11 +206,6 @@
       "date": "2026-10-08"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35525/",
-      "title": "2026/10/7 イベント 【イベントレポート】10月3日(土)スマハマプロジェクト「コベルコ神戸スティーラーズが須磨海岸にやってくる！」に参加しました",
-      "date": "2026-10-07"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35506/",
       "title": "イベント 12月12日(土) ホストゲーム開幕戦で「シーズン記念Tシャツ」を先着15,000名様にプレゼントします！ 2026/10/5",
       "date": "2026-10-05"
@@ -191,16 +216,6 @@
       "date": "2026-10-05"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35403/",
-      "title": "2026/10/1 チーム 2026-27シーズン退任スタッフおよび役職変更のお知らせ",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35401/",
-      "title": "2026/9/30 チーム 10月5日(月)～11日(日)宮崎キャンプ実施のお知らせ",
-      "date": "2026-09-30"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35399/",
       "title": "2026/9/30 お知らせ 2026-27シーズンテーマ決定のお知らせ",
       "date": "2026-09-30"
@@ -209,21 +224,6 @@
       "url": "https://www.kobesteelers.com/news/post35394/",
       "title": "2026/9/29 普及 【レポート】9月18日(金)神戸市立渚中学校で「トライやる・ウィーク」事前学習に協力しました",
       "date": "2026-09-29"
-    },
-    {
-      "url": "https://www.kobesteelers.com/interview/post35414/",
-      "title": "2026/9/28 試合 【試合レポート】 9月26日(土) ジャパンラグビー リーグワン ライジング2026 中国電力レッドレグリオンズ戦",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35365/",
-      "title": "2026/9/25 チケット NTT リーグワン2026-27 ホストゲームのチケット販売スケジュールのお知らせ",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35347/",
-      "title": "2026/9/25 ファンクラブ 会員システムの年次更新及びサーバーメンテナンス実施のお知らせ",
-      "date": "2026-09-25"
     },
     {
       "url": "https://www.kobesteelers.com/news/post35142/",

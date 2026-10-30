@@ -3,13 +3,13 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-10-30T02:12:42+09:00",
+  "checked_at": "2026-10-30T19:48:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "61f0fae2013019db"
+      "hash": "f3f50f62a961c1e1"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
@@ -53,21 +53,6 @@
       "date": "2026-10-14"
     },
     {
-      "url": "https://www.kyudenvoltex.com/news/1006",
-      "title": "チケット・ 試合情報",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/game/r169",
-      "title": "試合レポート",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/game/p169",
-      "title": "メンバー",
-      "date": "2026-10-10"
-    },
-    {
       "url": "https://www.kyudenvoltex.com/news/1011",
       "title": "チーム 2026年10月07日 2026年度 新加入スタッフのお知らせ",
       "date": "2026-10-07"
@@ -91,6 +76,11 @@
       "url": "https://www.kyudenvoltex.com/news/1007",
       "title": "チーム 2026年10月02日 2026-27 シーズンテーマおよび新キャプテン体制のお知らせ",
       "date": "2026-10-02"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/1006",
+      "title": "試合情報 2026年09月29日 【リーグワン ライジング|ホスト】10/10(土)中国RR戦のお知らせ",
+      "date": "2026-09-29"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/989",
@@ -216,6 +206,16 @@
       "url": "https://www.kyudenvoltex.com/news/931",
       "title": "アカデミー 2025年11月20日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第22回",
       "date": "2025-11-20"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/930",
+      "title": "アカデミー 2025年11月18日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第21回",
+      "date": "2025-11-18"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/929",
+      "title": "アカデミー 2025年11月17日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第20回",
+      "date": "2025-11-17"
     }
   ]
 }

@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-10-30T02:12:42+09:00",
+  "checked_at": "2026-10-30T19:48:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "1944fa647a943325"
+      "hash": "e2967cc72db7e744"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "66ff1b281af83147"
+      "hash": "dee4e845e6e4f632"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2610-1040.html",
+      "title": "2026年 10月30日 #1040 安田 昂平 『背中で見せられるような男』",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/dazn.html",
+      "title": "2026年 10月30日 秩父宮開催全試合で「DAZNエキサイトスタンド［立見席］」を販売！ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 東京サントリーサンゴリアスは、スポーツ…",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2026prime.html",
+      "title": "2026年 10月30日 『秩父宮みなとラグビーまつり2026』～PRIMEパートナー決定～ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 東京サントリーサンゴリアスとチーフス(…",
+      "date": "2026-10-30"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMKSFTBv.html",
       "title": "2026年 10月29日 2026 TRAINING MATCH vs クボタスピアーズ船橋・東京ベイ メンバー発表",
@@ -41,21 +56,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/daznnsp.html",
       "title": "2026年 10月15日 DAZN年間視聴パス販売のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 東京サントリーサンゴリアスでは、202…",
       "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMvUDRvudp.html",
-      "title": "2026年 10月10日 2026 TRAINING MATCH vs 浦安D-Rocks 試合結果",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2610-1037.html",
-      "title": "2026年 10月 9日 #1037 野中 健吾 『いちばん美しいスポーツ』",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026.html",
-      "title": "2026年 10月 5日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 第1節～第3節のキックオフ時間が決定しました！",
-      "date": "2026-10-05"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2627tca.html",

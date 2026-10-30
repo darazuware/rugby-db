@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-10-30T02:12:42+09:00",
+  "checked_at": "2026-10-30T19:48:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "10d3edd38b4ed6b2"
+      "hash": "e4fa40ac76ba47fe"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "9b413ed0ba6a13f5"
+      "hash": "61ceaf487027785d"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3247",
+      "title": "2026.10.30[FRI] TICKET レヴズスマイルキッズパスを今シーズンも実施！",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3246",
+      "title": "2026.10.30[FRI] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（10/19～10/23）",
+      "date": "2026-10-30"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3244",
       "title": "2026.10.29[THU] TICKET 今シーズンも［ペア観戦シート］でゆったり観戦！",
@@ -105,16 +115,6 @@
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3226",
       "title": "2026.10.16[FRI] TEAM ユニフォームパートナー(2026-27シーズン)決定のお知らせ",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3212",
-      "title": "2026.10.16[FRI] FAN CLUB CLUB REVS会員特典≪オフィシャルグッズクーポン≫の利用方法",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3206",
-      "title": "2026.10.16[FRI] FAN CLUB CLUB REVS会員特典≪ホームゲーム招待券≫の利用方法",
       "date": "2026-10-16"
     },
     {

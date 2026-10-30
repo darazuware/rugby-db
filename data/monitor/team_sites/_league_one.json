@@ -1,30 +1,32 @@
 {
-  "checked_at": "2026-10-30T17:00:24+09:00",
+  "checked_at": "2026-10-30T19:48:19+09:00",
   "url": "https://league-one.jp/news/",
   "items": [
     {
+      "url": "https://league-one.jp/news/6235",
+      "title": "クラブ 浦安D-Rocks、2026-27シーズン ジャージーデザイン決定のお知らせ 2026.10.30",
+      "date": "2026-10-30",
+      "category": null
+    },
+    {
       "url": "https://league-one.jp/news/6234",
       "title": "クラブ クボタスピアーズ船橋・東京ベイ、マルコム・マークス選手 2026-27シーズンをもって契約満了のお知らせ 2026.10.30",
-      "date": "2026-10-30",
-      "category": "roster"
+      "date": "2026-10-30"
     },
     {
       "url": "https://league-one.jp/news/6233",
       "title": "お知らせ 一部報道について 2026.10.30",
-      "date": "2026-10-30",
-      "category": null
+      "date": "2026-10-30"
     },
     {
       "url": "https://league-one.jp/news/6232",
       "title": "クラブ 東京サントリーサンゴリアス、『秩父宮みなとラグビーまつり2026』～PRIMEパートナー決定～ 2026.10.30",
-      "date": "2026-10-30",
-      "category": null
+      "date": "2026-10-30"
     },
     {
       "url": "https://league-one.jp/news/6231",
       "title": "クラブ ルリーロ福岡、2026-27シーズン 新加入選手のお知らせ（追加） 2026.10.30",
-      "date": "2026-10-30",
-      "category": "roster"
+      "date": "2026-10-30"
     },
     {
       "url": "https://league-one.jp/news/6230",
@@ -50,11 +52,6 @@
       "url": "https://league-one.jp/news/6105",
       "title": "お知らせ 一般社団法人ジャパンラグビーリーグワン 令和8年熊本地震に伴う支援募金 口座開設についてのお知らせ［10月28日更新］ 2026.10.28",
       "date": "2026-10-28"
-    },
-    {
-      "url": "https://league-one.jp/news/6224",
-      "title": "クラブ クボタスピアーズ船橋・東京ベイ、2026-27シーズン ジャージーパートナーおよび最終デザイン決定のお知らせ 2026.10.26",
-      "date": "2026-10-26"
     }
   ]
 }

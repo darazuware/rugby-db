@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-10-30T02:12:42+09:00",
+  "checked_at": "2026-10-30T19:48:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "8505dfb1c6387db8"
+      "hash": "d82ba27d6f8b5f6c"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261030a.html",
+      "title": "ブラックラムズ東京 2026-27シーズンシート発売のご案内",
+      "date": "2026-10-30"
+    },
     {
       "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261029d.html",
       "title": "11月3日(火・祝)「こまフェスタ」参加のお知らせ",
@@ -32,11 +37,6 @@
       "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261029a.html",
       "title": "11月1日(日)「第25回 東深沢スポーツ・文化フェスティバル」参加のお知らせ",
       "date": "2026-10-29"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261028a.html",
-      "title": "株式会社建設システム（KENTEM）とオフィシャルパートナー新規契約のお知らせ",
-      "date": "2026-10-28"
     }
   ]
 }

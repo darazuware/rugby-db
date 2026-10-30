@@ -3,20 +3,45 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-10-30T02:12:42+09:00",
+  "checked_at": "2026-10-30T19:48:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "7ac7aec90dbb845e"
+      "hash": "22f158e3b8f4c94a"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "1a96c06b01aca260"
+      "hash": "8909447be7731b52"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/team/index_2061.html",
+      "title": "チーム 2026.10.30 2026-27シーズン ジャージーデザイン決定のお知らせ",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/goods/index_2070.html",
+      "title": "グッズ 2026.10.30 2026-27シーズン レプリカジャージー受注販売開始のお知らせ",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/fanclub/index_2075.html",
+      "title": "ファンクラブ 2026.10.30 2026.11.14「第2回 Club D-Rockers交流会」開催のお知らせ",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/fanclub/index_2074.html",
+      "title": "ファンクラブ 2026.10.30 2026.11.14「D-Rockersテーマ別対話会（試合イベントの部）」開催のお知らせ",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2076.html",
+      "title": "イベント 2026.10.30 2026.10.18 浦安青年会議所×浦安D-Rocks 「すすめ！うらやす ONE TEAM ～みんなで創る防災フェス！～」を開催しました",
+      "date": "2026-10-30"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2072.html",
       "title": "パートナー 2026.10.29 アサヒグループ食品株式会社とのオフィシャルサプライヤー契約締結のお知らせ",
@@ -44,27 +69,27 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2063.html",
-      "title": "パートナー 2026.10.26 株式会社エヌ・エフ・ラボラトリーズとのネイビーパートナーシップ契約締結のお知らせ",
+      "title": "2026.10.26 ニュース 株式会社エヌ・エフ・ラボラトリーズとのネイビーパートナーシップ契約締結のお知らせ",
       "date": "2026-10-26"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2062.html",
-      "title": "ゲーム 2026.10.26 2026-27シーズン プレシーズンマッチ 日程更新のお知らせ（11/22 江東BS戦）",
+      "title": "2026.10.26 ニュース 2026-27シーズン プレシーズンマッチ 日程更新のお知らせ（11/22 江東BS戦）",
       "date": "2026-10-26"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_2066.html",
-      "title": "ファンクラブ 2026.10.24 2026.10.30「D-Rockersテーマ別対話会（試合イベントの部）」開催のお知らせ",
+      "title": "2026.10.24 ニュース 2026.10.30「D-Rockersテーマ別対話会（試合イベントの部）」開催のお知らせ",
       "date": "2026-10-24"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_2065.html",
-      "title": "ファンクラブ 2026.10.23 2026.10.29「第2回 Club D-Rockers交流会」開催のお知らせ",
+      "title": "2026.10.23 ニュース 2026.10.29「第2回 Club D-Rockers交流会」開催のお知らせ",
       "date": "2026-10-23"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2064.html",
-      "title": "チーム 2026.10.22 ファンクラブ・チケット関連ページ メンテナンス完了および復旧のお知らせ",
+      "title": "2026.10.22 ニュース ファンクラブ・チケット関連ページ メンテナンス完了および復旧のお知らせ",
       "date": "2026-10-22"
     },
     {
@@ -191,31 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/event/index_2035.html",
       "title": "2026.09.29 ニュース 2026.10.17 「試合のあとは、花火。浦安Dパークで花火を観よう！」実施のお知らせ",
       "date": "2026-09-29"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_2031.html",
-      "title": "2026.09.24 ニュース 2026-27シーズン プレシーズンマッチ 日程更新のお知らせ",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_2029.html",
-      "title": "2026.09.22 ニュース 2026.9.30 浦安Dパーク開放イベント「ウェルネスプロジェクト～ナイトヨガ～」実施のお知らせ",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_2026.html",
-      "title": "2026.09.18 ニュース 2026-27シーズン プレシーズンマッチ ホストゲーム無料ご招待のお知らせ",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/fanclub/index_2024.html",
-      "title": "2026.09.17 ニュース 【9/17追記】2026.9.25「D-Rockersテーマ別対話会」「Club D-Rockers交流会」開催のお知らせ",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/cheer/index_2025.html",
-      "title": "2026.09.17 ニュース D-Rocks Cheerleaders 第5期メンバー決定のお知らせ",
-      "date": "2026-09-17"
     }
   ]
 }

@@ -3,24 +3,34 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-10-30T02:12:42+09:00",
+  "checked_at": "2026-10-30T19:48:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.canon-eagles.jp/",
-      "hash": "12063f0ee2a1b7e1"
+      "hash": "79df22087c14d61b"
     },
     {
       "url": "https://www.canon-eagles.jp/news/",
-      "hash": "87761fb02f8e9d65"
+      "hash": "ee0615854a7d956c"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/2026.html",
-      "hash": "12be73a3514bb5fe"
+      "hash": "2bd71d1e8142d97c"
     }
   ],
   "items": [
+    {
+      "url": "https://www.canon-eagles.jp/news/event/20261009.html",
+      "title": "2026.10.30 EVENT 11/8（日）2026-27シーズン開幕前イベント「イーグルスパーク」開催決定！【更新】",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/activities/activity/20261030.html",
+      "title": "2026.10.30 TEAM 開幕戦に横浜市民の皆様をご招待いたします",
+      "date": "2026-10-30"
+    },
     {
       "url": "https://www.canon-eagles.jp/news/supporters/20261029.html",
       "title": "2026.10.29 SUPPORTER 11/10（火）練習見学会のお知らせ",
@@ -45,11 +55,6 @@
       "url": "https://www.canon-eagles.jp/news/info/20261026.html",
       "title": "2026.10.26 TEAM 横浜キヤノンイーグルスの選手の代表活動に関するお知らせ",
       "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/event/20261009.html",
-      "title": "2026.10.23 EVENT 11/8（日）2026-27シーズン開幕前イベント「イーグルスパーク」開催決定！【更新】",
-      "date": "2026-10-23"
     },
     {
       "url": "https://www.canon-eagles.jp/academy/class/monthly_rugby.html",
@@ -77,11 +82,6 @@
       "date": "2026-10-08"
     },
     {
-      "url": "https://www.canon-eagles.jp/news/gameinfo/20261008.html",
-      "title": "2026.10.08 GAME 練習試合 （10/10）埼玉パナソニックワイルドナイツ戦 出場選手",
-      "date": "2026-10-08"
-    },
-    {
       "url": "https://www.canon-eagles.jp/news/info/20261005.html",
       "title": "2026.10.05 TEAM キックオフ時間決定（第1～3節）のお知らせ",
       "date": "2026-10-05"
@@ -95,11 +95,6 @@
       "url": "https://www.canon-eagles.jp/news/info/20261001.html",
       "title": "2026.10.01 TEAM 横浜キヤノンイーグルス写真展 2026（キヤノンギャラリーS）のお知らせ",
       "date": "2026-10-01"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/info/20260930.html",
-      "title": "2026.09.30 TEAM 試合会場決定（第8・11・12・13節）のお知らせ",
-      "date": "2026-09-30"
     }
   ]
 }

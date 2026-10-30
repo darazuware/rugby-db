@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-10-30T02:12:42+09:00",
+  "checked_at": "2026-10-30T19:48:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "95c3e0e1fe69be37"
+      "hash": "f08295fddffe66cb"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "448dbbf905d48ab9"
+      "hash": "d11726331bbbe5c6"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1027-02/",
+      "title": "EVENT あびこカッパまつり 2026.10.29",
+      "date": "2026-10-29"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1028-01/",
       "title": "EVENT 柏市逆井小学校タグラグビー教室 2026.10.28",
@@ -149,7 +154,7 @@
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0701-01/",
-      "title": "EVENT JR東日本グリーンウォリアーズ東葛 発足式実施のご案内 2026.07.01",
+      "title": "記事の詳細を見る",
       "date": "2026-07-01"
     }
   ]
