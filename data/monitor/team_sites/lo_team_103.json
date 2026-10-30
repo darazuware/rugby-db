@@ -3,28 +3,33 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-10-30T19:48:19+09:00",
+  "checked_at": "2026-10-31T01:53:15+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "c32524e35098fb76"
+      "hash": "0a50c8eb8b48298f"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "3b76b36836baf670"
+      "hash": "5af8e73ca5ddc43a"
     }
   ],
   "items": [
     {
-      "url": "https://www.bravelupus.com/news/261028fc/",
-      "title": "【お詫び】2026-27ファンクラブ 会員特典の記載誤りについて",
-      "date": "2026-10-28"
+      "url": "https://www.bravelupus.com/news/all_story/",
+      "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.208更新）",
+      "date": "2026-10-30"
     },
     {
-      "url": "https://www.bravelupus.com/news/",
-      "title": "記事一覧",
+      "url": "https://www.bravelupus.com/news/261030-2/",
+      "title": "【クラウドファンディング】『One Team, One Place｜新たな拠点をみんなで』プロジェクト ご支援への御礼とご支援者様のご紹介",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261028fc/",
+      "title": "【お詫び】2026-27ファンクラブ 会員特典の記載誤りについて",
       "date": "2026-10-28"
     },
     {
@@ -51,11 +56,6 @@
       "url": "https://www.bravelupus.com/game/pregame_261024/",
       "title": "結果詳細",
       "date": "2026-10-24"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/all_story/",
-      "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.207更新）",
-      "date": "2026-10-20"
     },
     {
       "url": "https://www.bravelupus.com/news/261016/",
@@ -221,11 +221,6 @@
       "url": "https://www.bravelupus.com/news/260813/",
       "title": "リポビタンDツアー2026 日本代表 対 オーストラリア代表 試合登録メンバーのお知らせ",
       "date": "2026-08-13"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260806/",
-      "title": "リポビタンDチャレンジカップ2026 日本代表 対 オーストラリア代表 試合登録メンバーのお知らせ",
-      "date": "2026-08-06"
     }
   ]
 }
