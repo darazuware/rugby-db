@@ -3,20 +3,40 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-10-31T01:53:15+09:00",
+  "checked_at": "2026-10-31T19:17:27+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "91fd71d60e31e702"
+      "hash": "1356d6ed68da5f25"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "3d90be866c619a2e"
+      "hash": "f55c487d22548b8d"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kurita-watergush.jp/stadium/%e3%81%84%e3%82%8f%e3%81%8e%e3%82%93%e3%82%b9%e3%82%bf%e3%82%b8%e3%82%a2%e3%83%a0%e5%b2%a9%e6%89%8b/",
+      "title": "アクセス",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/games/",
+      "title": "全ての試合情報はこちら",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/game/20261107-%e9%87%9c%e7%9f%b3sw-vswg%e6%98%ad%e5%b3%b6/",
+      "title": "このゲームの詳細情報はこちら",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/game/20261031-wg%e6%98%ad%e5%b3%b6-vsl%e6%88%b8%e7%94%b0/",
+      "title": "試合詳細結果",
+      "date": "2026-10-31"
+    },
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
@@ -44,7 +64,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261007-2/",
-      "title": "お知らせ 2026/10/28 10月31日（土）ライジング2026 ヤクルトレビンズ戸田戦イベントのご案内（※10月28日更新）",
+      "title": "お知らせ 2026/10/28 10月31日（土）ライジング2026 ヤクルトレビンズ戸田戦イベントのご案内（※10月31日更新）",
       "date": "2026-10-28"
     },
     {
@@ -71,11 +91,6 @@
       "url": "https://www.kurita-watergush.jp/20261024-2/",
       "title": "私とウォーターガッシュ 2026/10/24 私とWATER GUSH #12 楠大輝 LO 「おかげさまで」の気持ちを胸に。",
       "date": "2026-10-24"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/game/20261023-wg%e6%98%ad%e5%b3%b6-vs%e5%b7%9d%e8%b6%8a%e7%8b%ad%e5%b1%b1rg/",
-      "title": "試合詳細結果",
-      "date": "2026-10-23"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261023-2-2/",

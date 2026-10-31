@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-10-31T01:53:15+09:00",
+  "checked_at": "2026-10-31T19:17:27+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "6cbf944dd099fab6"
+      "hash": "c19f0e4a38d76c1b"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "ba2610a6208fdd07"
+      "hash": "f58566164da0212f"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/JRLR2026-2#member",
+      "title": "2026-10-30 リーグワン ライジング2026 三菱重工相模原ダイナボアーズ 対 レッドハリケーンズ大阪｜メンバー変更あり",
+      "date": "2026-10-30"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261029.html",
       "title": "2026-10-29 2026-27シーズン公式戦ジャージー発表のお知らせ",
@@ -49,7 +54,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/tm2026-1",
-      "title": "2026-10-20 日程更新｜11/14(土)の練習試合（vs東芝ブレイブルーパス武蔵）は13:00キックオフ",
+      "title": "2026-10-20 [ イベント ] 日程更新｜11/14(土)の練習試合（vs東芝ブレイブルーパス武蔵）は13:00キックオフ",
       "date": "2026-10-20"
     },
     {
@@ -59,7 +64,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261019.html",
-      "title": "詳しく見る ›",
+      "title": "2026-10-19 [ メディア ] [Alexandros]×ダイナボアーズ 3年目のコラボはラガーマン「ドロスくん」のロンT！",
       "date": "2026-10-19"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260821.html",
       "title": "2026-08-21 [ チーム ] 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（8/22）に11番で先発出場",
       "date": "2026-08-21"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260707.html",
-      "title": "2026-08-20 ジャパンラグビー リーグワン ライジング2026｜ホスト試合 キックオフ時間・観戦情報掲載",
-      "date": "2026-08-20"
     }
   ]
 }

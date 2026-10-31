@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-31T01:53:15+09:00",
+  "checked_at": "2026-10-31T19:17:27+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -10,9 +10,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://urayasu-d-rocks.com/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -36,7 +34,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -47,18 +48,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 41,
-      "new_items": [
-        {
-          "url": "https://www.bravelupus.com/news/261030-2/",
-          "title": "【クラウドファンディング】『One Team, One Place｜新たな拠点をみんなで』プロジェクト ご支援への御礼とご支援者様のご紹介",
-          "date": "2026-10-30",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.bravelupus.com/",
-        "https://www.bravelupus.com/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -69,8 +60,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4387/",
+          "title": "2026.10.31 チケット・ファンクラブ イベント 試合情報 【ファンクラブ会員限定】12月19日（土）クボタスピアーズ戦 当日イベントのお知らせ",
+          "date": "2026-10-31",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -82,7 +82,9 @@
       "first_run": false,
       "item_count": 24,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.honda-heat.jp/"
+      ],
       "rename_signals": []
     },
     {
@@ -93,7 +95,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/JRLR2026-2#member",
+          "title": "2026-10-30 リーグワン ライジング2026 三菱重工相模原ダイナボアーズ 対 レッドハリケーンズ大阪｜メンバー変更あり",
+          "date": "2026-10-30",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -160,7 +169,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -210,7 +222,9 @@
       "first_run": false,
       "item_count": 7,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://shuttles-aichi.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -237,14 +251,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 30,
-      "new_items": [
-        {
-          "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub-2/",
-          "title": "2026.08.03 ファンクラブ イベント 【LINERS FANCLUB】2026-27 SEASON ファンクラブ概要決定のお知らせ",
-          "date": "2026-08-03",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -284,8 +291,33 @@
       "official_url": "https://www.kurita-watergush.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 41,
-      "new_items": [],
+      "item_count": 44,
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/stadium/%e3%81%84%e3%82%8f%e3%81%8e%e3%82%93%e3%82%b9%e3%82%bf%e3%82%b8%e3%82%a2%e3%83%a0%e5%b2%a9%e6%89%8b/",
+          "title": "アクセス",
+          "date": "2026-11-07",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/games/",
+          "title": "全ての試合情報はこちら",
+          "date": "2026-11-07",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261107-%e9%87%9c%e7%9f%b3sw-vswg%e6%98%ad%e5%b3%b6/",
+          "title": "このゲームの詳細情報はこちら",
+          "date": "2026-11-07",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261031-wg%e6%98%ad%e5%b3%b6-vsl%e6%88%b8%e7%94%b0/",
+          "title": "試合詳細結果",
+          "date": "2026-10-31",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -326,7 +358,8 @@
       "item_count": 45,
       "new_items": [],
       "changed_pages": [
-        "https://www.skyactivs.com/"
+        "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news/2091"
       ],
       "rename_signals": []
     },
@@ -339,9 +372,7 @@
       "first_run": false,
       "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://www.yakult.co.jp/maintenance/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -365,7 +396,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6236",
+          "title": "クラブ JR東日本グリーンウォリアーズ東葛、2026-27シーズン 新ジャージー/シーズンテーマ/キャプテン/バイスキャプテン発表のお知らせ 2026.10.31",
+          "date": "2026-10-31",
+          "category": "roster"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -377,10 +415,22 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54307",
-          "title": "（10/31更新）レポート：女子セブンズ・デベロップメント・スコッド（SDS） ニュージーランド強化合宿 2026.10.31 （土） 女子セブンズ日本代表 女子 セブンズ セブンズ・デベロップメント・スコッド SDS",
+          "url": "https://www.rugby-japan.jp/news/54308",
+          "title": "「太陽生命 JAPAN RUGBY CHALLENGE MATCH 2026」女子日本代表 対 女子ウェールズ代表 試合結果のお知らせ 2026.10.31 （土） 15人制女子日本代表",
           "date": "2026-10-31",
           "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54301",
+          "title": "男子セブンズユース日本代表 第4回ユースオリンピック競技大会 大会登録メンバーと1日目試合スケジュールのお知らせ 2026.10.31 （土） 男子セブンズ日本代表 セブンズ 高校 男子 男子セブンズ 男子セブンズユース日本代表 ユースオリンピック",
+          "date": "2026-10-31",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54252",
+          "title": "（10/31更新）太陽生命U18ウィメンズセブンズカップ2026 第9回全国U18女子セブンズラグビーフットボール大会 開催のお知らせ 2026.10.31 （土） 女子 セブンズ U18",
+          "date": "2026-10-31",
+          "category": null
         }
       ],
       "rename_signals": []
@@ -398,9 +448,23 @@
   ],
   "highlights": [
     {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6236",
+      "title": "クラブ JR東日本グリーンウォリアーズ東葛、2026-27シーズン 新ジャージー/シーズンテーマ/キャプテン/バイスキャプテン発表のお知らせ 2026.10.31",
+      "date": "2026-10-31",
+      "category": "roster"
+    },
+    {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54307",
-      "title": "（10/31更新）レポート：女子セブンズ・デベロップメント・スコッド（SDS） ニュージーランド強化合宿 2026.10.31 （土） 女子セブンズ日本代表 女子 セブンズ セブンズ・デベロップメント・スコッド SDS",
+      "url": "https://www.rugby-japan.jp/news/54308",
+      "title": "「太陽生命 JAPAN RUGBY CHALLENGE MATCH 2026」女子日本代表 対 女子ウェールズ代表 試合結果のお知らせ 2026.10.31 （土） 15人制女子日本代表",
+      "date": "2026-10-31",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54301",
+      "title": "男子セブンズユース日本代表 第4回ユースオリンピック競技大会 大会登録メンバーと1日目試合スケジュールのお知らせ 2026.10.31 （土） 男子セブンズ日本代表 セブンズ 高校 男子 男子セブンズ 男子セブンズユース日本代表 ユースオリンピック",
       "date": "2026-10-31",
       "category": "squad"
     }
