@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-10-31T19:17:27+09:00",
+  "checked_at": "2026-11-01T00:55:03+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "f3f50f62a961c1e1"
+      "hash": "8c92cdb5e371a73d"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "7acfcee861c5956d"
+      "hash": "3be9a1401bcfdd40"
     }
   ],
   "items": [
@@ -29,7 +29,7 @@
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1016",
-      "title": "地域・社会貢献 2026年10月29日 NEW 北九州市立筒井小学校でラグビー体験授業を実施しました",
+      "title": "地域・社会貢献 2026年10月29日 北九州市立筒井小学校でラグビー体験授業を実施しました",
       "date": "2026-10-29"
     },
     {
