@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-11-01T20:11:44+09:00",
+  "checked_at": "2026-11-02T01:57:36+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "33f3cd017cc665ab"
+      "hash": "d60630998e63d5a1"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "cb6dc2304f263d0c"
+      "hash": "8496f83e22f98601"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
@@ -30,9 +30,19 @@
   ],
   "items": [
     {
+      "url": "https://www.skyactivs.com/news/4956",
+      "title": "2026.11.01[SUN] ACTIVITY 「第42回西区民まつり」に参加しました",
+      "date": "2026-11-01"
+    },
+    {
       "url": "https://www.skyactivs.com/news/4940",
       "title": "2026.11.01[SUN] GAME 【当日情報】vs 九州電力キューデンヴォルテクス",
       "date": "2026-11-01"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/4972",
+      "title": "2026.10.31[SAT] ACTIVITY 「庚午小学校」にてタグラグビー教室を実施しました",
+      "date": "2026-10-31"
     },
     {
       "url": "https://www.skyactivs.com/news/4924",
@@ -48,6 +58,11 @@
       "url": "https://www.skyactivs.com/news/2841",
       "title": "2026.10.20[TUE] FAN CLUB 2026-27シーズン ファンクラブ会員募集開始のお知らせ",
       "date": "2026-10-20"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/4981",
+      "title": "2026.10.19[MON] ACTIVITY 動いて！食べて！笑って！繋がる！「ふくスポ2026」に参加しました",
+      "date": "2026-10-19"
     },
     {
       "url": "https://www.skyactivs.com/news/4844",
@@ -213,21 +228,6 @@
       "url": "https://www.skyactivs.com/news/4354",
       "title": "2026.06.15[MON] ACTIVITY 「はじまりのタグラグビー体験会」に参加しました",
       "date": "2026-06-15"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/4342",
-      "title": "2026.06.12[FRI] ACTIVITY ちゅピCOM「SPORTS ＆ LIFE」に出演しました",
-      "date": "2026-06-12"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/4327",
-      "title": "2026.06.10[WED] ACTIVITY マツダ短大ラグビー教室を実施しました",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/4248",
-      "title": "2026.06.10[WED] GAME 親善試合のお知らせ",
-      "date": "2026-06-10"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",
