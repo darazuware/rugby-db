@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-01T00:55:03+09:00",
+  "checked_at": "2026-11-01T20:11:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "abd9a95c8243dc06"
+      "hash": "3189645afb881e83"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "e56c25828004502b"
+      "hash": "aca2db05cdf348a8"
     }
   ],
   "items": [
@@ -33,14 +33,19 @@
       "date": "2026-11-07"
     },
     {
+      "url": "https://www.kurita-watergush.jp/category/with-watergush/",
+      "title": "私とウォーターガッシュ",
+      "date": "2026-11-01"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261101-2/",
+      "title": "私とウォーターガッシュ 2026/11/01 私とWATER GUSH #18 テビタ・オト FL/No.8クリタという”家族”とともに頂を目指す",
+      "date": "2026-11-01"
+    },
+    {
       "url": "https://www.kurita-watergush.jp/game/20261031-wg%e6%98%ad%e5%b3%b6-vsl%e6%88%b8%e7%94%b0/",
       "title": "試合詳細結果",
       "date": "2026-10-31"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/category/with-watergush/",
-      "title": "私とウォーターガッシュ",
-      "date": "2026-10-30"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261030-2/",
@@ -89,7 +94,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261024-2/",
-      "title": "私とウォーターガッシュ 2026/10/24 私とWATER GUSH #12 楠大輝 LO 「おかげさまで」の気持ちを胸に。",
+      "title": "私とウォーターガッシュ 公開日：2026/10/24 私とWATER GUSH #12 楠大輝 LO 「おかげさまで」の気持ちを胸に。 今回の”私とWATER GUSH”は、近畿大学から2026年に加入したルーキーの楠大輝選手です。9歳からラグビーを始… 続きを読む",
       "date": "2026-10-24"
     },
     {
@@ -231,11 +236,6 @@
       "url": "https://www.kurita-watergush.jp/20260818-2/",
       "title": "地域貢献 公開日：2026/08/18 【イベント報告】福島神社祭礼 神輿渡御参加 （左から：河井祐樹、細矢一颯。大谷晃生） 実施日：8月16日（日）実施場所：福島神社境内ほか 昭島市・福… 続きを読む",
       "date": "2026-08-18"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260807-2-2/",
-      "title": "お知らせ 公開日：2026/09/01 9/1より 2026-27シーズン ファンクラブ会員募集開始（9月1日更新） いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。9/1（火）10:00… 続きを読む",
-      "date": "2026-08-07"
     }
   ]
 }

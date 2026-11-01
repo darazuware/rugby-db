@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-11-01T00:55:03+09:00",
+  "checked_at": "2026-11-01T20:11:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "de1b2abe9bdf359d"
+      "hash": "33f3cd017cc665ab"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "8e96d149505a3912"
+      "hash": "cb6dc2304f263d0c"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
@@ -29,6 +29,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.skyactivs.com/news/4940",
+      "title": "2026.11.01[SUN] GAME 【当日情報】vs 九州電力キューデンヴォルテクス",
+      "date": "2026-11-01"
+    },
     {
       "url": "https://www.skyactivs.com/news/4924",
       "title": "2026.10.22[THU] GAME 【メンバー発表】vs中国電力レッドレグリオンズ",
@@ -222,11 +227,6 @@
     {
       "url": "https://www.skyactivs.com/news/4248",
       "title": "2026.06.10[WED] GAME 親善試合のお知らせ",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/4239",
-      "title": "2026.06.10[WED] TEAM 2025-26シーズン終了のご挨拶",
       "date": "2026-06-10"
     },
     {

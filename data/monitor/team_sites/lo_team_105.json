@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-11-01T00:55:03+09:00",
+  "checked_at": "2026-11-01T20:11:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "7716f8330f11fa75"
+      "hash": "c670d4c6669e5b69"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "02cdd372ad8d3e30"
+      "hash": "5192875a4d9df72c"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2470/",
+      "title": "トピックス 2026.11.1 新加入選手(追加)のお知らせ",
+      "date": "2026-11-01"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2465/",
       "title": "トピックス 2026.10.29 【ジャパンラグビーリーグワン ライジング2026 】10/31（土）川越狭山セコムラガッツ戦 試合案内",
@@ -131,11 +136,6 @@
       "url": "https://www.honda-heat.jp/news/2430/",
       "title": "トピックス 2026.9.9 平野叶翔、アサヒスーパードライ パシフィックネーションズカップ2026 大会登録メンバーに選出のお知らせ",
       "date": "2026-09-09"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2427/",
-      "title": "イベント 2026.9.4 2026-27プレシーズン マッチ対戦相手決定のお知らせ",
-      "date": "2026-09-04"
     }
   ]
 }

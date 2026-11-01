@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-01T00:55:03+09:00",
+  "checked_at": "2026-11-01T20:11:44+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "ef7896c714a90995"
+      "hash": "e82c9879cc6ddaf3"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "d22c196c529a59b8"
+      "hash": "65283a7a0d30bbd8"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3249",
+      "title": "2026.11.1[SUN] SCHOOL ＜スポーツの秋！ラグビーDAY＞を11/21(土)に開催",
+      "date": "2026-11-01"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3245",
+      "title": "2026.11.1[SUN] TEAM ジョック・キャンベル選手と契約締結",
+      "date": "2026-11-01"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3247",
       "title": "2026.10.30[FRI] TICKET レヴズスマイルキッズパスを今シーズンも実施！",
@@ -106,16 +116,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3220",
       "title": "2026.10.17[SAT] HOST AREA ＜ラグビーディスカバリー supported by しずぎん＞を浜松市で開催しました",
       "date": "2026-10-17"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3227",
-      "title": "2026.10.16[FRI] GOODS レプリカジャージ1stを数量限定で受注販売！ネーム＆ナンバー加工にも対応！",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3226",
-      "title": "2026.10.16[FRI] TEAM ユニフォームパートナー(2026-27シーズン)決定のお知らせ",
-      "date": "2026-10-16"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",
