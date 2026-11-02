@@ -1,7 +1,25 @@
 {
-  "checked_at": "2026-11-02T01:57:36+09:00",
+  "checked_at": "2026-11-02T17:48:54+09:00",
   "url": "https://league-one.jp/news/",
   "items": [
+    {
+      "url": "https://league-one.jp/news/6240",
+      "title": "クラブ JR東日本グリーンウォリアーズ東葛、下江康輔選手 長期離脱に関するお知らせ 2026.11.02",
+      "date": "2026-11-02",
+      "category": "roster"
+    },
+    {
+      "url": "https://league-one.jp/news/6239",
+      "title": "クラブ 清水建設江東ブルーシャークス、2026-27シーズンパートナー決定のお知らせ 2026.11.02",
+      "date": "2026-11-02",
+      "category": null
+    },
+    {
+      "url": "https://league-one.jp/news/6226",
+      "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 一部試合キックオフ時間変更および日程、会場追加決定のお知らせ 2026.11.02",
+      "date": "2026-11-02",
+      "category": null
+    },
     {
       "url": "https://league-one.jp/news/6238",
       "title": "クラブ 栃木ホンダヒート、新加入選手(追加)のお知らせ 2026.11.01",
@@ -36,21 +54,6 @@
       "url": "https://league-one.jp/news/6232",
       "title": "クラブ 東京サントリーサンゴリアス、『秩父宮みなとラグビーまつり2026』～PRIMEパートナー決定～ 2026.10.30",
       "date": "2026-10-30"
-    },
-    {
-      "url": "https://league-one.jp/news/6231",
-      "title": "クラブ ルリーロ福岡、2026-27シーズン 新加入選手のお知らせ（追加） 2026.10.30",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://league-one.jp/news/6230",
-      "title": "クラブ 丸和MOMOTARO‘S成田、2026-27シーズン 新加入選手追加のお知らせ 2026.10.29",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://league-one.jp/news/6229",
-      "title": "クラブ 丸和MOMOTARO‘S成田、2026-27シーズン チーム新体制のお知らせ 2026.10.29",
-      "date": "2026-10-29"
     }
   ]
 }
