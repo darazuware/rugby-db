@@ -3,32 +3,42 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-11-02T01:57:36+09:00",
+  "checked_at": "2026-11-03T05:35:02+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "fab195eb0540fb85"
+      "hash": "4484d9c11dd4040a"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "554c8532391c9485"
+      "hash": "6c77b81b1c98ba21"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "25853cf4123f9a8d"
+      "hash": "4e151ad4eba7394c"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "71afa42b0931d20e"
+      "hash": "19d2c5e3f2ed0efd"
     }
   ],
   "items": [
     {
+      "url": "https://blue-sharks.jp/news/2026/11/25488/",
+      "title": "◇JR東日本グリーンウォリアーズ東葛戦マッチレポート",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/11/25464/",
+      "title": "清水建設江東ブルーシャークス 2026-27シーズンパートナー決定のお知らせ",
+      "date": "2026-11-25"
+    },
+    {
       "url": "https://blue-sharks.jp/information/",
       "title": "もっと見る",
-      "date": "2026-10-28"
+      "date": "2026-11-02"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/10/25446/",
@@ -42,12 +52,12 @@
     },
     {
       "url": "https://blue-sharks.jp/news/2026/10/25424/",
-      "title": "10月17日 「ラグビー体験教室」開催のご報告",
+      "title": "お知らせ 2026/10/20 10月17日 「ラグビー体験教室」開催のご報告",
       "date": "2026-10-25"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/10/25410/",
-      "title": "◇静岡ブルーレヴズ戦マッチレポート",
+      "title": "お知らせ 2026/10/19 ◇静岡ブルーレヴズ戦マッチレポート",
       "date": "2026-10-25"
     },
     {
@@ -98,16 +108,6 @@
     {
       "url": "https://blue-sharks.jp/news/2026/08/25258/",
       "title": "お知らせ 2026/08/21 グロスターラグビー研修レポート Vol.9（長谷銀次朗）",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/08/25250/",
-      "title": "お知らせ 2026/08/20 グロスターラグビー研修レポート Vol.8（坂本和城）",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/08/25236/",
-      "title": "お知らせ 2026/08/19 ヤローズタラナキブルズ研修レポート Vol.7 (浦野龍基)",
       "date": "2026-08-25"
     },
     {
