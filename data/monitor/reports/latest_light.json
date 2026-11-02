@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-02T17:48:54+09:00",
+  "checked_at": "2026-11-03T04:57:19+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,26 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6240",
-          "title": "クラブ JR東日本グリーンウォリアーズ東葛、下江康輔選手 長期離脱に関するお知らせ 2026.11.02",
-          "date": "2026-11-02",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6239",
-          "title": "クラブ 清水建設江東ブルーシャークス、2026-27シーズンパートナー決定のお知らせ 2026.11.02",
-          "date": "2026-11-02",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6226",
-          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 一部試合キックオフ時間変更および日程、会場追加決定のお知らせ 2026.11.02",
-          "date": "2026-11-02",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -38,14 +19,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54302",
-          "title": "男子セブンズユース日本代表 第4回ユースオリンピック競技大会 大会1日目試合結果と2日目試合スケジュールのお知らせ 2026.11.02 （月） 男子セブンズ日本代表 セブンズ 高校 男子 男子セブンズ 男子セブンズユース日本代表 ユースオリンピック",
-          "date": "2026-11-02",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -59,22 +33,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6240",
-      "title": "クラブ JR東日本グリーンウォリアーズ東葛、下江康輔選手 長期離脱に関するお知らせ 2026.11.02",
-      "date": "2026-11-02",
-      "category": "roster"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54302",
-      "title": "男子セブンズユース日本代表 第4回ユースオリンピック競技大会 大会1日目試合結果と2日目試合スケジュールのお知らせ 2026.11.02 （月） 男子セブンズ日本代表 セブンズ 高校 男子 男子セブンズ 男子セブンズユース日本代表 ユースオリンピック",
-      "date": "2026-11-02",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": []
 }
