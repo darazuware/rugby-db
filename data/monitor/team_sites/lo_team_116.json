@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-11-02T01:57:36+09:00",
+  "checked_at": "2026-11-02T21:13:45+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "18e927f7c0633831"
+      "hash": "b25b24a4570361f5"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "e298f2dfc03ed445"
+      "hash": "5ad7e24c441c2846"
     }
   ],
   "items": [
@@ -21,6 +21,21 @@
       "url": "https://docomo-rugby.jp/campaign/2027/lp/20261219_no_inv.html",
       "title": "12月19日（土）CENTRALプ レミアムマッチ特設サイト MORE",
       "date": "2026-12-19"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8991",
+      "title": "お知らせ 2026年11月2日 レッドハリケーンズ大阪、欧州ラグビーサステナビリティ視察プログラム2026 参加のお知らせ",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://docomo-rugby.jp/game/report.html?id=337",
+      "title": "試合情報 2026年11月2日 【JAPAN RUGBY LEAGUE ONE RISING】JAPAN RUGBY LEAGUE ONE RISING 三菱重工相模原ダイナボアーズ",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://docomo-rugby.jp/csr/detail.html?id=8971",
+      "title": "SUSTAINABILITY 2026年11月2日 【2026年10月】サステナNEWS",
+      "date": "2026-11-02"
     },
     {
       "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8981",
@@ -211,26 +226,6 @@
       "url": "https://docomo-rugby.jp/news/detail.html?id=8814",
       "title": "お知らせ 2026年8月25日 【リリース】2026-27シーズン新加入選手および退団選手（追加）のお知らせ",
       "date": "2026-08-25"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8815",
-      "title": "お知らせ 2026年8月20日 【リリース】リーグワン初※ 小中高生向け「レフリーアカデミー」を開講",
-      "date": "2026-08-20"
-    },
-    {
-      "url": "https://docomo-rugby.jp/game/",
-      "title": "お知らせ 2026年8月7日 2026プレシーズンマッチスケジュールのお知らせ",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8798",
-      "title": "お知らせ 2026年8月6日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 DIVISION 2 試合スケジュール決定のお知らせ",
-      "date": "2026-08-06"
-    },
-    {
-      "url": "https://docomo-rugby.jp/csr/detail.html?id=8386",
-      "title": "SUSTAINABILITY 2025年12月3日 おおきに商店presents第16回ドコモカップ決勝トーナメント結果について",
-      "date": "2025-12-03"
     }
   ]
 }

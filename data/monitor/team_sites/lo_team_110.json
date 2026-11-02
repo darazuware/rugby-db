@@ -3,23 +3,38 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-11-02T01:57:36+09:00",
+  "checked_at": "2026-11-02T21:13:45+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "8c92cdb5e371a73d"
+      "hash": "c831c67ebdf0dbff"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "3be9a1401bcfdd40"
+      "hash": "40678935712eb2a6"
     }
   ],
   "items": [
     {
+      "url": "https://www.kyudenvoltex.com/news/998",
+      "title": "お知らせ 2026年11月02日 NEW NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ(11/2更新)",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/1017",
+      "title": "地域・社会貢献 2026年11月02日 NEW 唐津市立馬渡小中学校でタグラグビー教室を実施しました",
+      "date": "2026-11-02"
+    },
+    {
       "url": "https://www.kyudenvoltex.com/news/1014",
       "title": "チケット・ 試合情報",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/game/r186",
+      "title": "試合レポート",
       "date": "2026-10-30"
     },
     {
@@ -46,11 +61,6 @@
       "url": "https://www.kyudenvoltex.com/news/1012",
       "title": "地域・社会貢献 2026年10月15日 JAPAN BASEでラグビークリニックを開催しました",
       "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/998",
-      "title": "お知らせ 2026年10月14日 NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ(10/14更新)",
-      "date": "2026-10-14"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1011",
@@ -121,11 +131,6 @@
       "url": "https://www.kyudenvoltex.com/news/996",
       "title": "チーム 2026年08月03日 2026-27シーズン 新加入スタッフのお知らせ",
       "date": "2026-08-03"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/997",
-      "title": "地域・社会貢献 2026年07月25日 都城ラグビークリニックを開催しました",
-      "date": "2026-07-25"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/992",
@@ -211,11 +216,6 @@
       "url": "https://www.kyudenvoltex.com/news/930",
       "title": "アカデミー 2025年11月18日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第21回",
       "date": "2025-11-18"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/929",
-      "title": "アカデミー 2025年11月17日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第20回",
-      "date": "2025-11-17"
     }
   ]
 }

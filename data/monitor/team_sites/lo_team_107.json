@@ -3,24 +3,44 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-11-02T01:57:36+09:00",
+  "checked_at": "2026-11-02T21:13:45+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.canon-eagles.jp/",
-      "hash": "79df22087c14d61b"
+      "hash": "a9559e7f6fdbc4f6"
     },
     {
       "url": "https://www.canon-eagles.jp/news/",
-      "hash": "ee0615854a7d956c"
+      "hash": "da863408573f50a3"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/2026.html",
-      "hash": "0cdaffbfdf51d758"
+      "hash": "73de99cd28f1cf66"
     }
   ],
   "items": [
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20261102.html",
+      "title": "2026.11.02 TEAM ホストエリアパートナー契約締結のお知らせ セーフィー株式会社",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20261102-3.html",
+      "title": "2026.11.02 TEAM ホストエリアパートナー契約締結のお知らせ ミサワホーム九州株式会社",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20261102-2.html",
+      "title": "2026.11.02 TEAM ホストエリアパートナー契約締結のお知らせ Univelホールディングス株式会社",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/goods/20261102.html",
+      "title": "2026.11.02 GOODS 横浜市ふるさと納税の返礼品に、開幕戦のチケットが登場",
+      "date": "2026-11-02"
+    },
     {
       "url": "https://www.canon-eagles.jp/news/event/20261009.html",
       "title": "2026.10.30 EVENT 11/8（日）2026-27シーズン開幕前イベント「イーグルスパーク」開催決定！【更新】",
@@ -57,19 +77,9 @@
       "date": "2026-10-26"
     },
     {
-      "url": "https://www.canon-eagles.jp/academy/class/monthly_rugby.html",
-      "title": "2026.10.23 ACADEMY 横浜キヤノンイーグルス×新横浜公園 ラグビー教室（11月28日）",
-      "date": "2026-10-23"
-    },
-    {
       "url": "https://www.canon-eagles.jp/news/info/20261016.html",
       "title": "2026.10.16 TEAM 2026-27シーズン新入団選手（追加）および退団選手のお知らせ",
       "date": "2026-10-16"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/gameinfo/20261015.html",
-      "title": "2026.10.15 GAME 練習試合 （10/17）栃木ホンダヒート戦 出場選手",
-      "date": "2026-10-15"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/20261014.html",
@@ -80,21 +90,6 @@
       "url": "https://www.canon-eagles.jp/news/info/20261008.html",
       "title": "2026.10.08 TEAM 横浜キヤノンイーグルスの選手の代表活動に関するお知らせ",
       "date": "2026-10-08"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/info/20261005.html",
-      "title": "2026.10.05 TEAM キックオフ時間決定（第1～3節）のお知らせ",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/info/20261005-2.html",
-      "title": "2026.10.05 TEAM 2026-27シーズン チケット販売日程",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/info/20261001.html",
-      "title": "2026.10.01 TEAM 横浜キヤノンイーグルス写真展 2026（キヤノンギャラリーS）のお知らせ",
-      "date": "2026-10-01"
     }
   ]
 }

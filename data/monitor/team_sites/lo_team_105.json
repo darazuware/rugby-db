@@ -3,7 +3,7 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-11-02T01:57:36+09:00",
+  "checked_at": "2026-11-02T21:13:45+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,7 +13,7 @@
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "5192875a4d9df72c"
+      "hash": "6d4817f928ba730e"
     }
   ],
   "items": [
@@ -118,6 +118,16 @@
       "date": "2026-09-17"
     },
     {
+      "url": "https://www.honda-heat.jp/news/2441/",
+      "title": "社会貢献 2026.9.16 【普及活動】宇都宮市立平石北小学校にてヒート授業を開催しました",
+      "date": "2026-09-16"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2440/",
+      "title": "社会貢献 2026.9.16 【普及活動】宇都宮市立錦小学校にてヒート授業を開催しました",
+      "date": "2026-09-16"
+    },
+    {
       "url": "https://www.honda-heat.jp/news/2439/",
       "title": "トピックス 2026.9.16 男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿 参加のお知らせ",
       "date": "2026-09-16"
@@ -126,16 +136,6 @@
       "url": "https://www.honda-heat.jp/news/2438/",
       "title": "トピックス 2026.9.12 【トレーニングマッチ 】10/3(土) 日本製鉄釜石シーウェイブス戦 試合案内",
       "date": "2026-09-12"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2433/",
-      "title": "トピックス 2026.9.11 【チケット】2026-27シーズン チケット販売概要",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2430/",
-      "title": "トピックス 2026.9.9 平野叶翔、アサヒスーパードライ パシフィックネーションズカップ2026 大会登録メンバーに選出のお知らせ",
-      "date": "2026-09-09"
     }
   ]
 }

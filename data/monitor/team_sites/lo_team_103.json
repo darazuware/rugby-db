@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-11-02T01:57:36+09:00",
+  "checked_at": "2026-11-02T21:13:45+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "0a50c8eb8b48298f"
+      "hash": "e73a58753c066c19"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "5af8e73ca5ddc43a"
+      "hash": "3e59e6eb73d7c772"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/261102/",
+      "title": "チケットラグビー公式リセールサービス導入のお知らせ",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/",
+      "title": "記事一覧",
+      "date": "2026-11-02"
+    },
     {
       "url": "https://www.bravelupus.com/news/all_story/",
       "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.208更新）",
@@ -216,11 +226,6 @@
       "url": "https://www.bravelupus.com/news/260820/",
       "title": "BL東京グッズ１0～50％OFF販売のお知らせ",
       "date": "2026-08-20"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260813/",
-      "title": "リポビタンDツアー2026 日本代表 対 オーストラリア代表 試合登録メンバーのお知らせ",
-      "date": "2026-08-13"
     }
   ]
 }
