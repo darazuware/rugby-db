@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-03T20:49:02+09:00",
+  "checked_at": "2026-11-04T03:12:35+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "f63575d319dbc88c"
+      "hash": "99ab3bac88386efa"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "4fa8ae39fc7676c5"
+      "hash": "aa7e6a9c013018b0"
     }
   ],
   "items": [
@@ -79,7 +79,7 @@
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3230",
-      "title": "FAN CLUB 2026/10/28 ホーム開幕に向けて＜ポスター貼り隊＞を募集",
+      "title": "2026.10.28[WED] FAN CLUB ホーム開幕に向けて＜ポスター貼り隊＞を募集",
       "date": "2026-10-28"
     },
     {
