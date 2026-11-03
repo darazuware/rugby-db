@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-11-03T05:35:02+09:00",
+  "checked_at": "2026-11-03T20:49:02+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "c670d4c6669e5b69"
+      "hash": "4c48a0a4e1565d4b"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "6d4817f928ba730e"
+      "hash": "dd6f8d3204014c7c"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2473/",
+      "title": "トピックス 2026.11.3 【トレーニングマッチ】11/21（土）JR東日本グリーンウォリアーズ東葛戦 試合案内",
+      "date": "2026-11-03"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2470/",
       "title": "トピックス 2026.11.1 新加入選手(追加)のお知らせ",
@@ -131,11 +136,6 @@
       "url": "https://www.honda-heat.jp/news/2439/",
       "title": "トピックス 2026.9.16 男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿 参加のお知らせ",
       "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2438/",
-      "title": "トピックス 2026.9.12 【トレーニングマッチ 】10/3(土) 日本製鉄釜石シーウェイブス戦 試合案内",
-      "date": "2026-09-12"
     }
   ]
 }

@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-03T05:35:02+09:00",
+  "checked_at": "2026-11-03T20:49:02+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "2664bcfd4281edc4"
+      "hash": "f63575d319dbc88c"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "2e505e8a7daac065"
+      "hash": "4fa8ae39fc7676c5"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3254",
+      "title": "2026.11.3[TUE] HOST AREA 【ホストエリア活動】静岡市「ラグビー体験×足が速くなる教室×働く車フェスティバル」にてラグビー体験を実施しました",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3253",
+      "title": "2026.11.3[TUE] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（10/27～10/30）",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3219",
+      "title": "2026.11.3[TUE] EVENT 6試合で全24種類！計54,000名に＜青援タオル＞をプレゼント！",
+      "date": "2026-11-03"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3249",
       "title": "2026.11.1[SUN] SCHOOL ＜スポーツの秋！ラグビーDAY＞を11/21(土)に開催",
@@ -98,24 +113,9 @@
       "date": "2026-10-20"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3233",
-      "title": "2026.10.19[MON] HOST AREA 【ホストエリア活動】湖西市 令和8年度新規採用職員・令和9年度内定者合同研修にてタグラグビーでのチームビルディングを実施しました",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3232",
-      "title": "2026.10.19[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（10/13～10/16）",
-      "date": "2026-10-19"
-    },
-    {
       "url": "https://www.shizuoka-bluerevs.com/news/3207",
       "title": "2026.10.19[MON] SCHOOL 【ラグビースクール釜石遠征レポート】今年も釜石遠征へ行ってきました！",
       "date": "2026-10-19"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3220",
-      "title": "2026.10.17[SAT] HOST AREA ＜ラグビーディスカバリー supported by しずぎん＞を浜松市で開催しました",
-      "date": "2026-10-17"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",

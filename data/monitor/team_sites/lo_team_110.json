@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-11-03T05:35:02+09:00",
+  "checked_at": "2026-11-03T20:49:02+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "c831c67ebdf0dbff"
+      "hash": "a0716d1907e8b17d"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "40678935712eb2a6"
+      "hash": "683add6c9458522b"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/1019",
+      "title": "試合情報 2026年11月03日 NEW 【プレシーズンマッチ|ビジター】11/7(土)マツダスカイアクティブズ広島戦",
+      "date": "2026-11-03"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/998",
       "title": "お知らせ 2026年11月02日 NEW NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ(11/2更新)",
@@ -181,11 +186,6 @@
       "url": "https://www.kyudenvoltex.com/news/972",
       "title": "試合情報 2026年04月01日 【リーグワン | ホスト】4/12(日) 日本製鉄釜石シーウェイブス戦のお知らせ",
       "date": "2026-04-01"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/971",
-      "title": "試合情報 2026年03月28日 【リーグワン | ビジター】4/4(土)NECグリーンロケッツ東葛戦のお知らせ",
-      "date": "2026-03-28"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/950",

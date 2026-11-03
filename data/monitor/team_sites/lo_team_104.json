@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-11-03T05:35:02+09:00",
+  "checked_at": "2026-11-03T20:49:02+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "f2af140883a963b8"
+      "hash": "80e5ed80fdb397eb"
     }
   ],
   "items": [
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4392/",
+      "title": "2026.11.2 トピックス 【リーグワンライジング 日野戦マッチレポート】FB髙橋汰地が初ゲームキャプテン。 「大変さを思い知りました」",
+      "date": "2026-11-02"
+    },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4387/",
       "title": "2026.10.31 チケット・ファンクラブ イベント 試合情報 【ファンクラブ会員限定】12月19日（土）クボタスピアーズ戦 当日イベントのお知らせ",
@@ -41,11 +46,6 @@
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4299/",
       "title": "2026.10.27 グッズ 【グッズ】2026-27新企画「TRY IN ALL CAPS」シリーズがスタート！",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4298/",
-      "title": "2026.10.27 グッズ 【グッズ】全選手対応！プレイヤーズベア＆観戦アイテム",
       "date": "2026-10-27"
     },
     {

@@ -3,25 +3,25 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-11-03T05:35:02+09:00",
+  "checked_at": "2026-11-03T20:49:02+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "6f30835d4be37ec3"
+      "hash": "35a587a005179c74"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "4159245713e872bd"
+      "hash": "7ab94110be4c2ac0"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "979327a454ea05f7"
+      "hash": "023881ece520e844"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "012cd5877ea27255"
+      "hash": "d7c85c68ebfcc5ab"
     }
   ],
   "items": [
@@ -47,7 +47,7 @@
     },
     {
       "url": "https://www.kobesteelers.com/news/post35807/",
-      "title": "2026/10/30 チーム 2026-27シーズン プレシーズンマッチの観戦について",
+      "title": "チーム 2026-27シーズン プレシーズンマッチの観戦について 2026/10/30",
       "date": "2026-10-30"
     },
     {

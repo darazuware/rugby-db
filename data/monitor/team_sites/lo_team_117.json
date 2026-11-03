@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-03T05:35:02+09:00",
+  "checked_at": "2026-11-03T20:49:02+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "b9395d922a3cd39e"
+      "hash": "4dab9b82d1fc3d3f"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "b03eb83061b3c8b9"
+      "hash": "caec5c8437e10e04"
     }
   ],
   "items": [
@@ -35,7 +35,12 @@
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-02"
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261103-2/",
+      "title": "私とウォーターガッシュ 2026/11/03 私とWATER GUSH #20 北條耕太 HO 「楽な道が好きだもんな」の一言が火をつけた。",
+      "date": "2026-11-03"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261102-2/",
@@ -89,7 +94,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261026-2/",
-      "title": "私とウォーターガッシュ 2026/10/26 私とWATER GUSH #14 湯浅大心 PR 7歳からラグビー一筋、クリタで描く夢とこれから",
+      "title": "私とウォーターガッシュ 公開日：2026/10/26 私とWATER GUSH #14 湯浅大心 PR 7歳からラグビー一筋、クリタで描く夢とこれから 選手のラグビーとの出会い、クリタでラグビーをする想いにせまる”私とWATER GUSH”。今回ご紹介するのは、… 続きを読む",
       "date": "2026-10-26"
     },
     {
@@ -231,11 +236,6 @@
       "url": "https://www.kurita-watergush.jp/20260902-2/",
       "title": "地域貢献 公開日：2026/09/02 【イベント報告】第54回昭島市民くじら祭参加 実施日：8月29日（土）、8月30日（日）実施場所：昭和公園陸上競技場（昭島市）、江戸街道（昭島駅～昭和… 続きを読む",
       "date": "2026-09-02"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260820-2/",
-      "title": "地域貢献 公開日：2026/08/20 【イベント報告】イーストテラス・サブスリー 防災イベント参加 実施日：8月19日（水）実施場所：イーストテラス・サブスリー（昭島市） イーストテラス・サブスリー（市… 続きを読む",
-      "date": "2026-08-20"
     }
   ]
 }
