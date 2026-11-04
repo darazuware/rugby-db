@@ -448,3 +448,7 @@
 .mt-out { background: #6b7280; }
 
 .mt-miss { opacity: 0.6; }
+
+/* 見出し上の小ラベル（wad-no-wad.com/otaku-x 参考） */
+.eyebrow { display: flex; align-items: center; gap: 10px; margin-bottom: 6px; font-size: 12px; font-weight: 900; letter-spacing: .14em; color: #eab308; }
+.eyebrow::before { content: ""; width: 24px; height: 2px; background: currentColor; }
