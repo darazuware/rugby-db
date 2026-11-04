@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-11-04T03:12:35+09:00",
+  "checked_at": "2026-11-04T20:59:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,10 +13,15 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "636ce2d8d5ed28bb"
+      "hash": "a833ffc73b3bd4a6"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-11-04/",
+      "title": "11月14日（土）イオンモール多摩平の森『たまもりスポーツイベント』に参加します",
+      "date": "2026-11-04"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-10-30/",
       "title": "10月25日（日）2026太田スポーツ・レクリエーション祭に参加しました",
@@ -86,11 +91,6 @@
       "url": "https://hino-reddolphins.com/2026-09-23/",
       "title": "新加入選手（バイロン・スミス）のお知らせ",
       "date": "2026-09-23"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-09-22/",
-      "title": "オフィシャルオンラインショップを開設します",
-      "date": "2026-09-22"
     }
   ]
 }

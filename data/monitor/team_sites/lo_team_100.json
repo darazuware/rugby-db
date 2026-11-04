@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-11-04T03:12:35+09:00",
+  "checked_at": "2026-11-04T20:59:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "b54c7f1be3d3bdb9"
+      "hash": "eb41e086890ef29e"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "a8ec301416b212a4"
+      "hash": "5e621423f74c73b5"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/partner/index_2078.html",
+      "title": "パートナー 2026.11.04 株式会社Reg.andとのネイビーパートナーシップ契約締結のお知らせ",
+      "date": "2026-11-04"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2077.html",
       "title": "パートナー 2026.11.02 株式会社ねこのてとのネイビーパートナーシップ契約締結のお知らせ",
@@ -64,7 +69,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2069.html",
-      "title": "チーム 2026.10.28 2026.11 トレーニング公開日のお知らせ",
+      "title": "2026.10.28 ニュース 2026.11 トレーニング公開日のお知らせ",
       "date": "2026-10-28"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/event/index_2038.html",
       "title": "2026.09.30 ニュース 2026.10 トレーニング公開日のお知らせ",
       "date": "2026-09-30"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_2037.html",
-      "title": "2026.09.29 ニュース 2026.10.18 浦安青年会議所×浦安D-Rocks共同開催 「すすめ！うらやす ONE TEAM ～みんなで創る防災フェス！～」開催のお知らせ",
-      "date": "2026-09-29"
     }
   ]
 }

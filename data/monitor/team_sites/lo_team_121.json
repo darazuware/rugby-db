@@ -3,14 +3,30 @@
   "league": "league-one-d3",
   "name": "ヤクルトレビンズ戸田",
   "official_url": "https://www.yakult.co.jp/sports/rugby/",
-  "checked_at": "2026-11-04T03:12:35+09:00",
+  "checked_at": "2026-11-04T20:59:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.yakult.co.jp/maintenance/",
-      "hash": "afc242f83e34f290"
+      "hash": "1bc73bb6771e2310"
     }
   ],
-  "items": []
+  "items": [
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261104.pdf",
+      "title": "2026.11.04 当社ホームページへの不正アクセスによる個人情報漏えいに関するお詫びとお知らせ【第３報】",
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261030.pdf",
+      "title": "2026.10.30 当社ホームページへの不正アクセスによる個人情報漏えいに関するお詫びとお知らせ【第２報】",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261026.pdf",
+      "title": "2026.10.26 当社ホームページへの不正アクセスの発生について【第１報】",
+      "date": "2026-10-26"
+    }
+  ]
 }

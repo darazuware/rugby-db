@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-11-04T03:12:35+09:00",
+  "checked_at": "2026-11-04T20:59:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "63106ca5c0952081"
+      "hash": "c41ed3279ead80b4"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "d11726331bbbe5c6"
+      "hash": "9790bce7a785bb07"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1104-01/",
+      "title": "EVENT 鎌ヶ谷市立五本松小学校タグラグビー教室 2026.11.04",
+      "date": "2026-11-04"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1027-02/",
       "title": "EVENT あびこカッパまつり 2026.10.29",
@@ -139,7 +144,7 @@
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0710-01/",
-      "title": "EVENT 「グリウォリ祭り」8月8日（土）開催！ 2026.07.28",
+      "title": "記事の詳細を見る",
       "date": "2026-07-28"
     },
     {

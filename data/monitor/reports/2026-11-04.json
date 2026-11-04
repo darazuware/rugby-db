@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-04T03:12:35+09:00",
+  "checked_at": "2026-11-04T20:59:26+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/partner/index_2078.html",
+          "title": "パートナー 2026.11.04 株式会社Reg.andとのネイビーパートナーシップ契約締結のお知らせ",
+          "date": "2026-11-04",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -21,8 +31,32 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post35842/",
+          "title": "2026/11/4 イベント 【更新】コベルコ神戸スティーラーズフェスタ2026プログラム決定！",
+          "date": "2026-11-04",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35838/",
+          "title": "2026/11/4 お知らせ コベルコ神戸スティーラーズ ホストゲーム観戦ルール",
+          "date": "2026-11-04",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post35776/",
+          "title": "2026/11/4 チーム ドミニク・ロペティ選手2026-27シーズン新加入のお知らせ",
+          "date": "2026-11-04",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/",
+        "https://www.kobesteelers.com/news/cat_news/information/",
+        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+      ],
       "rename_signals": []
     },
     {
@@ -46,7 +80,10 @@
       "first_run": false,
       "item_count": 42,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.bravelupus.com/",
+        "https://www.bravelupus.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -59,9 +96,21 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4298/",
-          "title": "2026.10.27 グッズ 【グッズ】全選手対応！プレイヤーズベア＆観戦アイテム",
-          "date": "2026-10-27",
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4392/",
+          "title": "2026.11.4 トピックス 【リーグワンライジング 日野戦マッチレポート】FB髙橋汰地が初ゲームキャプテン。 「大変さを思い知りました」",
+          "date": "2026-11-04",
+          "category": "roster"
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4388/",
+          "title": "2026.11.4 トピックス 【トピックス】宮崎合宿における一般公開について",
+          "date": "2026-11-04",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4394/",
+          "title": "2026.11.3 トピックス English Content League One Rising Match Report vs Hino Red Dolphins",
+          "date": "2026-11-03",
           "category": null
         }
       ],
@@ -78,8 +127,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 24,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.honda-heat.jp/news/2438/",
+          "title": "トピックス 2026.9.12 【トレーニングマッチ 】10/3(土) 日本製鉄釜石シーウェイブス戦 試合案内",
+          "date": "2026-09-12",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.honda-heat.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -90,7 +148,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261103.html",
+          "title": "2026-11-03 南アフリカ代表｜カート＝リー・アレンゼ選手がネーションズ・チャンピオンシップ後半初戦の試合メンバーに選出",
+          "date": "2026-11-03",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -116,9 +181,18 @@
       "official_url": "https://blackrams-tokyo.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 5,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 4,
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261104a.html",
+          "title": "11月7日(土)「第49回 渋谷区くみんの広場 ふるさと渋谷フェスティバル2026」参加のお知らせ",
+          "date": "2026-11-04",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -129,8 +203,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/news/2026/11/06/120000.html",
+          "title": "2026.11.06 ニュース・トピックス",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://www.kubota-spears.com/news/2026/11/04/120000.html",
+          "title": "2026.11.04 ニュース・トピックス",
+          "date": "2026-11-04",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/",
+        "https://www.kubota-spears.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -157,7 +247,9 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/"
+      ],
       "rename_signals": []
     },
     {
@@ -167,9 +259,19 @@
       "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": false,
-      "item_count": 28,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 29,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1104-01/",
+          "title": "EVENT 鎌ヶ谷市立五本松小学校タグラグビー教室 2026.11.04",
+          "date": "2026-11-04",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/"
+      ],
       "rename_signals": []
     },
     {
@@ -181,7 +283,9 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.kyudenvoltex.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -205,9 +309,11 @@
       "official_url": "https://shuttles-aichi.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 7,
+      "item_count": 6,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://shuttles-aichi.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -234,14 +340,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 30,
-      "new_items": [
-        {
-          "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub/",
-          "title": "2026.08.03 ファンクラブ イベント 【重要】LINERS FANCLUB 2026-27 自動継続入会について",
-          "date": "2026-08-03",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://hanazono-liners.jp/",
         "https://hanazono-liners.jp/news/"
@@ -256,8 +355,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 15,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-11-04/",
+          "title": "11月14日（土）イオンモール多摩平の森『たまもりスポーツイベント』に参加します",
+          "date": "2026-11-04",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -281,8 +389,15 @@
       "official_url": "https://www.kurita-watergush.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 44,
-      "new_items": [],
+      "item_count": 41,
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261104-2/",
+          "title": "私とウォーターガッシュ 2026/11/04 私とWATER GUSH #21 林田拓朗 SO/CTB 「このチームをもっと良くしたい」",
+          "date": "2026-11-04",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -298,7 +413,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -334,9 +452,30 @@
       "official_url": "https://www.yakult.co.jp/sports/rugby/",
       "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 3,
+      "new_items": [
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261104.pdf",
+          "title": "2026.11.04 当社ホームページへの不正アクセスによる個人情報漏えいに関するお詫びとお知らせ【第３報】",
+          "date": "2026-11-04",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261030.pdf",
+          "title": "2026.10.30 当社ホームページへの不正アクセスによる個人情報漏えいに関するお詫びとお知らせ【第２報】",
+          "date": "2026-10-30",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261026.pdf",
+          "title": "2026.10.26 当社ホームページへの不正アクセスの発生について【第１報】",
+          "date": "2026-10-26",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.yakult.co.jp/maintenance/"
+      ],
       "rename_signals": []
     },
     {
@@ -384,9 +523,29 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "浦安D-Rocks",
+      "url": "https://urayasu-d-rocks.com/news/partner/index_2078.html",
+      "title": "パートナー 2026.11.04 株式会社Reg.andとのネイビーパートナーシップ契約締結のお知らせ",
+      "date": "2026-11-04",
+      "category": "roster"
+    },
+    {
+      "source": "コベルコ神戸スティーラーズ",
+      "url": "https://www.kobesteelers.com/news/post35776/",
+      "title": "2026/11/4 チーム ドミニク・ロペティ選手2026-27シーズン新加入のお知らせ",
+      "date": "2026-11-04",
+      "category": "roster"
+    },
+    {
+      "source": "トヨタヴェルブリッツ",
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4392/",
+      "title": "2026.11.4 トピックス 【リーグワンライジング 日野戦マッチレポート】FB髙橋汰地が初ゲームキャプテン。 「大変さを思い知りました」",
+      "date": "2026-11-04",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [],
-  "warnings": [
-    "ヤクルトレビンズ戸田: 記事リンクを抽出できない（JS描画の可能性）: https://www.yakult.co.jp/sports/rugby/"
-  ]
+  "warnings": []
 }

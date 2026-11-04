@@ -3,39 +3,29 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-04T03:12:35+09:00",
+  "checked_at": "2026-11-04T20:59:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "017d55a8b403f0ab"
+      "hash": "a49f51f230480426"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "7032ebd19633c102"
+      "hash": "4ad9980508729159"
     }
   ],
   "items": [
     {
-      "url": "https://www.kurita-watergush.jp/stadium/%e3%81%84%e3%82%8f%e3%81%8e%e3%82%93%e3%82%b9%e3%82%bf%e3%82%b8%e3%82%a2%e3%83%a0%e5%b2%a9%e6%89%8b/",
-      "title": "アクセス",
-      "date": "2026-11-07"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/games/",
-      "title": "全ての試合情報はこちら",
-      "date": "2026-11-07"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/game/20261107-%e9%87%9c%e7%9f%b3sw-vswg%e6%98%ad%e5%b3%b6/",
-      "title": "このゲームの詳細情報はこちら",
-      "date": "2026-11-07"
-    },
-    {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261104-2/",
+      "title": "私とウォーターガッシュ 2026/11/04 私とWATER GUSH #21 林田拓朗 SO/CTB 「このチームをもっと良くしたい」",
+      "date": "2026-11-04"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261103-2/",
@@ -89,7 +79,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261027-2/",
-      "title": "地域貢献 2026/10/27 【イベント報告】昭島市内小学生ラグビー体験",
+      "title": "地域貢献 公開日：2026/10/27 【イベント報告】昭島市内小学生ラグビー体験 （選手は小学生と一緒に記念撮影）後列左：菅沼神兵、後列右：椎名耀二 実施日：10月24日（土）実施場所：… 続きを読む",
       "date": "2026-10-27"
     },
     {
@@ -231,11 +221,6 @@
       "url": "https://www.kurita-watergush.jp/20260911-2/",
       "title": "お知らせ 公開日：2026/09/11 【イベント告知】チームPRイベントのお知らせ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 9月27日（日）… 続きを読む",
       "date": "2026-09-11"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260902-2/",
-      "title": "地域貢献 公開日：2026/09/02 【イベント報告】第54回昭島市民くじら祭参加 実施日：8月29日（土）、8月30日（日）実施場所：昭和公園陸上競技場（昭島市）、江戸街道（昭島駅～昭和… 続きを読む",
-      "date": "2026-09-02"
     }
   ]
 }
