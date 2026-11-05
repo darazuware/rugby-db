@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-11-05T21:08:17+09:00",
+  "checked_at": "2026-11-06T03:23:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "33ad685f893b7a47"
+      "hash": "9d0cd4785be01875"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "633852cab54e1f19"
+      "hash": "d275385ac967f63a"
     }
   ],
   "items": [
@@ -23,8 +23,8 @@
       "date": "2026-11-05"
     },
     {
-      "url": "https://www.bravelupus.com/news/",
-      "title": "記事一覧",
+      "url": "https://www.bravelupus.com/news/261105/",
+      "title": "ネーションズチャンピオンシップ2026 日本代表 対 ウェールズ代表 試合登録メンバーのお知らせ",
       "date": "2026-11-05"
     },
     {
@@ -221,11 +221,6 @@
       "url": "https://www.bravelupus.com/news/260824-2/",
       "title": "男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ（8/31更新）",
       "date": "2026-08-31"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260818/",
-      "title": "男子セブンズ・デベロップメント・スコッド（SDS） 福岡合宿スケジュールと参加メンバーのお知らせ",
-      "date": "2026-08-22"
     }
   ]
 }

@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-11-05T21:08:17+09:00",
+  "checked_at": "2026-11-06T03:23:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "59df1e10cf2c4319"
+      "hash": "67400e92859fa6e6"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "427256e8578a2f20"
+      "hash": "f7f28f016b22cde3"
     }
   ],
   "items": [
