@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-11-05T03:20:31+09:00",
+  "checked_at": "2026-11-05T21:08:17+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "c39bef8e42a5fefd"
+      "hash": "581b11d56dc94190"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "8496f83e22f98601"
+      "hash": "bf6be857e8b03f9b"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
@@ -29,6 +29,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.skyactivs.com/news/5010",
+      "title": "2026.11.05[THU] GAME 【メンバー発表】vs九州電力キューデンヴォルテクス",
+      "date": "2026-11-05"
+    },
     {
       "url": "https://www.skyactivs.com/news/4956",
       "title": "2026.11.01[SUN] ACTIVITY 「第42回西区民まつり」に参加しました",
@@ -223,11 +228,6 @@
       "url": "https://www.skyactivs.com/news/4261",
       "title": "2026.06.17[WED] TEAM 引退および退団選手のお知らせ",
       "date": "2026-06-17"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/4354",
-      "title": "2026.06.15[MON] ACTIVITY 「はじまりのタグラグビー体験会」に参加しました",
-      "date": "2026-06-15"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",

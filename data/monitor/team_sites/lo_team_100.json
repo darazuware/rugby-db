@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-11-05T03:20:31+09:00",
+  "checked_at": "2026-11-05T21:08:17+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "eb41e086890ef29e"
+      "hash": "c303ebb935b0b509"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "5e621423f74c73b5"
+      "hash": "a3afe145eb6b4a75"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2083.html",
+      "title": "イベント 2026.11.05 2026.11.1 宮崎市・都城市にてラグビークリニックを開催しました",
+      "date": "2026-11-05"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2078.html",
       "title": "パートナー 2026.11.04 株式会社Reg.andとのネイビーパートナーシップ契約締結のお知らせ",
@@ -54,7 +59,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2072.html",
-      "title": "パートナー 2026.10.29 アサヒグループ食品株式会社とのオフィシャルサプライヤー契約締結のお知らせ",
+      "title": "2026.10.29 ニュース アサヒグループ食品株式会社とのオフィシャルサプライヤー契約締結のお知らせ",
       "date": "2026-10-29"
     },
     {
@@ -210,11 +215,6 @@
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2036.html",
       "title": "2026.09.30 ニュース 2026-27シーズン 一部試合会場決定のお知らせ",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_2038.html",
-      "title": "2026.09.30 ニュース 2026.10 トレーニング公開日のお知らせ",
       "date": "2026-09-30"
     }
   ]

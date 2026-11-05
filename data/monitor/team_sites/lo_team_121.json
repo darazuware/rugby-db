@@ -3,16 +3,31 @@
   "league": "league-one-d3",
   "name": "ヤクルトレビンズ戸田",
   "official_url": "https://www.yakult.co.jp/sports/rugby/",
-  "checked_at": "2026-11-05T03:20:31+09:00",
+  "checked_at": "2026-11-05T21:08:17+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.yakult.co.jp/maintenance/",
-      "hash": "1bc73bb6771e2310"
+      "hash": "2c15ebe0cd0de2a8"
     }
   ],
   "items": [
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261105_3.pdf",
+      "title": "2026.11.05 Information Notification Regarding the Status of Share Repurchase as Treasury Stock",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261105_2.pdf",
+      "title": "2026.11.05 お知らせ 自己株式の取得状況に関するお知らせ",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261105.pdf",
+      "title": "2026.11.05 ニュースリリース 「ヤクルト戸田総合グラウンドおよび付属施設」の売却について",
+      "date": "2026-11-05"
+    },
     {
       "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261104.pdf",
       "title": "2026.11.04 当社ホームページへの不正アクセスによる個人情報漏えいに関するお詫びとお知らせ【第３報】",

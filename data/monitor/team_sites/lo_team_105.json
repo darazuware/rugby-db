@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-11-05T03:20:31+09:00",
+  "checked_at": "2026-11-05T21:08:17+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "4c48a0a4e1565d4b"
+      "hash": "8f614bb7bacda122"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "f20e9319721e3d27"
+      "hash": "f6ceda147a78e39e"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2475/",
+      "title": "トピックス 2026.11.5 スタンレー電気株式会社協賛によるオリジナルベースボールシャツを12/12開幕戦で先着10,000名様にプレゼント！",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2474/",
+      "title": "トピックス 2026.11.5 【チケット】開幕ヒートアップキャンペーンのご案内",
+      "date": "2026-11-05"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2473/",
       "title": "トピックス 2026.11.3 【トレーニングマッチ】11/21（土）JR東日本グリーンウォリアーズ東葛戦 試合案内",
@@ -126,16 +136,6 @@
       "url": "https://www.honda-heat.jp/news/2441/",
       "title": "社会貢献 2026.9.16 【普及活動】宇都宮市立平石北小学校にてヒート授業を開催しました",
       "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2439/",
-      "title": "トピックス 2026.9.16 男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿 参加のお知らせ",
-      "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2438/",
-      "title": "トピックス 2026.9.12 【トレーニングマッチ 】10/3(土) 日本製鉄釜石シーウェイブス戦 試合案内",
-      "date": "2026-09-12"
     }
   ]
 }

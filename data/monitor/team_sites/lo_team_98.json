@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-05T03:20:31+09:00",
+  "checked_at": "2026-11-05T21:08:17+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "4c7e658e352882cc"
+      "hash": "9d7f6a2d213fbe45"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "99cf38f1a7694cd6"
+      "hash": "200ec2c68e65cf96"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3256",
+      "title": "2026.11.5[THU] HOST AREA 【ホストエリア活動】令和8年度 第2回中堅職員研修会「未来塾シーズン2」にてタグラグビーでのチームビルディングを実施しました",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3255",
+      "title": "2026.11.5[THU] HOST AREA 【ホストエリア活動】磐田市 静岡県立袋井特別支援学校磐田見付分校にて教員向けタグラグビー講習を実施しました",
+      "date": "2026-11-05"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3254",
       "title": "2026.11.3[TUE] HOST AREA 【ホストエリア活動】静岡市「ラグビー体験×足が速くなる教室×働く車フェスティバル」にてラグビー体験を実施しました",
@@ -106,16 +116,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3234",
       "title": "2026.10.21[WED] HOST AREA 青いマックの日に2選手が参加しました",
       "date": "2026-10-21"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3229",
-      "title": "2026.10.20[TUE] TEAM クワッガ・スミス選手 契約終了のお知らせ",
-      "date": "2026-10-20"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3207",
-      "title": "2026.10.19[MON] SCHOOL 【ラグビースクール釜石遠征レポート】今年も釜石遠征へ行ってきました！",
-      "date": "2026-10-19"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",

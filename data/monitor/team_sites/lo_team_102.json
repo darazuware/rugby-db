@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-11-05T03:20:31+09:00",
+  "checked_at": "2026-11-05T21:08:17+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "2a35a042620a770c"
+      "hash": "1c7bcedf410c93a0"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "1940115c5cf5010f"
+      "hash": "d9e8c55f690a3ca1"
     }
   ],
   "items": [
@@ -35,6 +35,11 @@
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
       "title": "試合日程一覧",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261107/",
+      "title": "試合詳細",
       "date": "2026-11-07"
     },
     {
@@ -85,11 +90,6 @@
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261015_02/",
       "title": "お知らせ 2026年10月15日 チケットラグビー・DAZN年間視聴パス 販売のお知らせ ニュースを見る",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261015_01/",
-      "title": "チーム 2026年10月15日 新加入スタッフのお知らせ ニュースを見る",
       "date": "2026-10-15"
     },
     {

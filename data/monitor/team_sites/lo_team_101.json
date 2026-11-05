@@ -3,28 +3,43 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-11-05T03:20:31+09:00",
+  "checked_at": "2026-11-05T21:08:17+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "f2090347e541d274"
+      "hash": "ee569e2015de4016"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "641ee964edd0ae48"
+      "hash": "7c7a5bc3be68416a"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "3e29683f21b8a8d9"
+      "hash": "1ecc0f87b9103d84"
     },
     {
-      "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "547cac9c691b2d82"
+      "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/?doing_wp_cron=1793880513.4512269496917724609375",
+      "hash": "5145f8aa314fb314"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post36073/",
+      "title": "2026/11/5 メディア 11月6日(金) コベルコ神戸スティーラーズに関する特集放送のお知らせ",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36005/",
+      "title": "2026/11/5 普及 【レポート】KOBELCOスポーツパークでラグビー教室を実施しました",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.kobesteelers.com/game/post34942/",
+      "title": "2026/11/5 試合 11月7日(土)プレシーズンマッチJR東日本グリーンウォリアーズ東葛戦 出場メンバーのお知らせ",
+      "date": "2026-11-05"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post35842/",
       "title": "2026/11/4 イベント 【更新】コベルコ神戸スティーラーズフェスタ2026プログラム決定！",
@@ -211,16 +226,6 @@
       "date": "2026-10-08"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35573/",
-      "title": "2026/10/8 普及 【レポート】神戸市立名倉小学校でタグラグビー教室を実施しました",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://www.kobesteelers.com/game/post34697/",
-      "title": "2026/10/8 試合 10月10日(土) 「ジャパンラグビー リーグワン ライジング2026」ルリーロ福岡戦 出場メンバーのお知らせ",
-      "date": "2026-10-08"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35506/",
       "title": "イベント 12月12日(土) ホストゲーム開幕戦で「シーズン記念Tシャツ」を先着15,000名様にプレゼントします！ 2026/10/5",
       "date": "2026-10-05"
@@ -318,11 +323,6 @@
     {
       "url": "https://www.kobesteelers.com/news/post29666/",
       "title": "2025/11/25 お知らせ 神戸三宮センター街でのチームPR活動実施について",
-      "date": "2025-11-25"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/",
-      "title": "2025/11/25 お知らせ チーム公式HPがより便利に！ニュース検索機能を追加しました",
       "date": "2025-11-25"
     }
   ]

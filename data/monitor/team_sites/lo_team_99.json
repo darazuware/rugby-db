@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-11-05T03:20:31+09:00",
+  "checked_at": "2026-11-05T21:08:17+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "cde8a8ac21bb87de"
+      "hash": "cac415acec9b4dfd"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "a57ff66bd1c1eeae"
+      "hash": "69442f14490b922c"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/227n1jlr.html",
+      "title": "2026年 11月 5日 2026-27シーズン 新ジャージーデザイン決定のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 NTT JAPAN RUGBY LEA…",
+      "date": "2026-11-05"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/cmrf26jl.html",
       "title": "2026年 11月 2日 「秩父宮みなとラグビーまつり2026」チーフス戦着用ジャージデザインが決定！ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 東京サンゴリアスが、11月14日(土)…",
@@ -51,11 +56,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/NJRLO2627TSA.html",
       "title": "2026年 10月22日 【チケット情報】東京サンゴリアスホストゲームチケット概要のご案内（10月22日情報更新） （2026/10/22 15:00情報更新）phpの脆弱性に対応するためのチケゴリの緊急メンテナンス実施のため…",
       "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2610-1038.html",
-      "title": "2026年 10月16日 #1038 田代 智史 -1『なんて素晴らしいチームなんだろう』",
-      "date": "2026-10-16"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/daznnsp.html",

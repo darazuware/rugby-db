@@ -3,34 +3,39 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-11-05T03:20:31+09:00",
+  "checked_at": "2026-11-05T21:08:17+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "473f2c729e20c4bd"
+      "hash": "33ad685f893b7a47"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "fd5990ff21dc57c8"
+      "hash": "633852cab54e1f19"
     }
   ],
   "items": [
     {
-      "url": "https://www.bravelupus.com/news/261102/",
-      "title": "チケットラグビー公式リセールサービス導入のお知らせ",
-      "date": "2026-11-02"
+      "url": "https://www.bravelupus.com/news/all_story/",
+      "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.209更新）",
+      "date": "2026-11-05"
     },
     {
       "url": "https://www.bravelupus.com/news/",
       "title": "記事一覧",
-      "date": "2026-11-02"
+      "date": "2026-11-05"
     },
     {
-      "url": "https://www.bravelupus.com/news/all_story/",
-      "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.208更新）",
-      "date": "2026-10-30"
+      "url": "https://www.bravelupus.com/news/261104/",
+      "title": "男子日本代表 ネーションズチャンピオンシップ 大会登録メンバーのお知らせ",
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261102/",
+      "title": "チケットラグビー公式リセールサービス導入のお知らせ",
+      "date": "2026-11-02"
     },
     {
       "url": "https://www.bravelupus.com/news/261030-2/",
@@ -221,11 +226,6 @@
       "url": "https://www.bravelupus.com/news/260818/",
       "title": "男子セブンズ・デベロップメント・スコッド（SDS） 福岡合宿スケジュールと参加メンバーのお知らせ",
       "date": "2026-08-22"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260820/",
-      "title": "BL東京グッズ１0～50％OFF販売のお知らせ",
-      "date": "2026-08-20"
     }
   ]
 }

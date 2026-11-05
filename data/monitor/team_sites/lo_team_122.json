@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "ルリーロ福岡",
   "official_url": "https://leriro-fukuoka.com/",
-  "checked_at": "2026-11-05T03:20:31+09:00",
+  "checked_at": "2026-11-05T21:08:17+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://leriro-fukuoka.com/",
-      "hash": "f9ac3b42d2caef6c"
+      "hash": "1e0a866c81f62766"
     },
     {
       "url": "https://leriro-fukuoka.com/news",
-      "hash": "6c2bf85402d84aff"
+      "hash": "010515c975f04053"
     }
   ],
   "items": [
@@ -65,11 +65,6 @@
     {
       "url": "https://leriro-fukuoka.com/news-detail?id=276",
       "title": "NTTジャパンラグビー リーグワン2026-27 ホストゲーム キッチンカー出店者様募集",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://leriro-fukuoka.com/news-detail?id=275",
-      "title": "社会人向けの研修ツアー「大人の修学旅行！2026」開催",
       "date": "2026-09-07"
     }
   ]

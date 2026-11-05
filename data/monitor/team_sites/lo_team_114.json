@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-11-05T03:20:31+09:00",
+  "checked_at": "2026-11-05T21:08:17+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "54c2c07f64c460d8"
+      "hash": "3858d77e8cf280d5"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "1743b52b42140309"
+      "hash": "3d0e2f2bf2281909"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/11/05/manie-release/",
+      "title": "2026.11.05 その他 マニー・リボック選手 2026-27シーズンをもって契約満了のお知らせ",
+      "date": "2026-11-05"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/11/02/itemae-11-2/",
       "title": "2026.11.02 活動報告書 その他 【番組 いてまえ！花園近鉄ライナーズ（11/1放送）】",
@@ -44,7 +49,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/10/25/fukuokacamp-day4/",
-      "title": "2026.10.25 その他 福岡合宿レポート4日目",
+      "title": "2026-10-25 その他 福岡合宿レポート4日目",
       "date": "2026-10-25"
     },
     {
@@ -91,11 +96,6 @@
       "url": "https://hanazono-liners.jp/2026/10/15/dazn/",
       "title": "2026-10-15 その他 DAZN 年間視聴パス（リーグワンクラブ）販売のお知らせ",
       "date": "2026-10-15"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/10/14/ju-report/",
-      "title": "2026-10-14 その他 【地域連携・普及活動】 2026 年 7 月レポート",
-      "date": "2026-10-14"
     },
     {
       "url": "https://hanazono-liners.jp/2026/10/14/au-report/",
@@ -163,8 +163,8 @@
       "date": "2026-08-20"
     },
     {
-      "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub/",
-      "title": "2026.08.03 ファンクラブ イベント 【重要】LINERS FANCLUB 2026-27 自動継続入会について",
+      "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub-2/",
+      "title": "2026.08.03 ファンクラブ イベント 【LINERS FANCLUB】2026-27 SEASON ファンクラブ概要決定のお知らせ",
       "date": "2026-08-03"
     }
   ]
