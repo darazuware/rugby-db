@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-05T02:42:49+09:00",
+  "checked_at": "2026-11-05T17:54:48+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6248",
+          "title": "クラブ 花園近鉄ライナーズ、マニー・リボック選手 2026-27シーズンをもって契約満了のお知らせ 2026.11.05",
+          "date": "2026-11-05",
+          "category": "roster"
+        },
+        {
+          "url": "https://league-one.jp/news/6247",
+          "title": "クラブ 栃木ホンダヒート、開幕ヒートアップキャンペーン実施のお知らせ 2026.11.05",
+          "date": "2026-11-05",
+          "category": null
+        },
+        {
+          "url": "https://league-one.jp/news/6246",
+          "title": "クラブ 東京サントリーサンゴリアス、2026-27シーズン 新ジャージーデザイン決定のお知らせ 2026.11.05",
+          "date": "2026-11-05",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +52,15 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6248",
+      "title": "クラブ 花園近鉄ライナーズ、マニー・リボック選手 2026-27シーズンをもって契約満了のお知らせ 2026.11.05",
+      "date": "2026-11-05",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }
