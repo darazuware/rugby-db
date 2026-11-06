@@ -5,6 +5,7 @@ description: "マンスターの2025-26シーズン完全ガイド。チーム�
 pubDate: 2026-04-21
 category: "COLUMN"
 tags: ["URC", "チーム紹介", "2025-26", "マンスター"]
+noindex: true
 ---
 
 ## チーム概要

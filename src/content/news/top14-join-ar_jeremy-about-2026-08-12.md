@@ -5,6 +5,7 @@ category: "NEWS"
 tags: ["Top14", "加入"]
 source_diff: "2026-08-12_top14.json"
 draft: true
+noindex: true
 ---
 
 [Jérémy ABOUT](/teams/top14/toulouse/#p-jeremy-about)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。

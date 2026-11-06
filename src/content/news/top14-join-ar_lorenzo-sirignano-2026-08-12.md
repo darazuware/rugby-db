@@ -5,6 +5,7 @@ category: "NEWS"
 tags: ["Top14", "加入"]
 source_diff: "2026-08-12_top14.json"
 draft: true
+noindex: true
 ---
 
 [Lorenzo SIRIGNANO](/teams/top14/toulon/#p-lorenzo-sirignano)が[トゥーロン](/teams/top14/toulon/)（Top14）に加入した。

@@ -5,6 +5,7 @@ description: "エミレーツ・ライオンズの2025-26シーズン完全ガ�
 pubDate: 2026-04-21
 category: "COLUMN"
 tags: ["URC", "チーム紹介", "2025-26", "ライオンズ"]
+noindex: true
 ---
 
 ## チーム概要

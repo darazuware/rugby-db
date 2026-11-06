@@ -5,6 +5,7 @@ category: "NEWS"
 tags: ["Top14", "加入"]
 source_diff: "2026-07-30_top14.json"
 draft: true
+noindex: true
 ---
 
 [Ismaël FALEYRAS](/players/ismael-faleyras/)が[スタッド・フランセ](/teams/top14/paris/)（Top14）に加入した。

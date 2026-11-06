@@ -5,6 +5,7 @@ category: "NEWS"
 tags: ["Top14", "加入"]
 source_diff: "2026-08-11_top14.json"
 draft: true
+noindex: true
 ---
 
 [Terence ROUTIER](/teams/top14/vannes/#p-terence-routier)が[ヴァンヌ](/teams/top14/vannes/)（Top14）に加入した。

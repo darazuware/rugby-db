@@ -5,6 +5,7 @@ description: "コナハトの2025-26シーズン完全ガイド。チームの�
 pubDate: 2026-04-21
 category: "COLUMN"
 tags: ["URC", "チーム紹介", "2025-26", "コナハト"]
+noindex: true
 ---
 
 ## チーム概要
