@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-06T17:53:49+09:00",
+  "checked_at": "2026-11-07T02:08:12+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,38 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6253",
-          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 公式戦実施要項 2026.11.06",
-          "date": "2026-11-06",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6252",
-          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 入替戦の方式決定のお知らせ 2026.11.06",
-          "date": "2026-11-06",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6251",
-          "title": "クラブ 日本製鉄釜石シーウェイブス、2026-27シーズン 新ジャージー決定のお知らせ 2026.11.06",
-          "date": "2026-11-06",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6250",
-          "title": "クラブ トヨタヴェルブリッツ、ピーターステフ・デュトイ選手 退団のお知らせ 2026.11.06",
-          "date": "2026-11-06",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6249",
-          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 D1 第4-9節／D2 第3-7節／D3 第3-6節 キックオフ時間決定のお知らせ 2026.11.06",
-          "date": "2026-11-06",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -64,15 +33,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6250",
-      "title": "クラブ トヨタヴェルブリッツ、ピーターステフ・デュトイ選手 退団のお知らせ 2026.11.06",
-      "date": "2026-11-06",
-      "category": "roster"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": []
 }
