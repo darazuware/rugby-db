@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-11-06T03:23:39+09:00",
+  "checked_at": "2026-11-06T20:58:55+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "581b11d56dc94190"
+      "hash": "05cabd907fc433eb"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "bf6be857e8b03f9b"
+      "hash": "793a8377cc09735e"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
@@ -29,6 +29,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.skyactivs.com/news/5008",
+      "title": "2026.11.06[FRI] GAME 【駐車場情報】vs 川越狭山セコムラガッツ（2026-27 D2 第1節）",
+      "date": "2026-11-06"
+    },
     {
       "url": "https://www.skyactivs.com/news/5010",
       "title": "2026.11.05[THU] GAME 【メンバー発表】vs九州電力キューデンヴォルテクス",
@@ -223,11 +228,6 @@
       "url": "https://www.skyactivs.com/news/4303",
       "title": "2026.06.19[FRI] GAME 【メンバー発表】マツダスカイアクティブズ広島・シーライオンズ合同チーム",
       "date": "2026-06-19"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/4261",
-      "title": "2026.06.17[WED] TEAM 引退および退団選手のお知らせ",
-      "date": "2026-06-17"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",

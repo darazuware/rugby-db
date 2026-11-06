@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-06T03:23:39+09:00",
+  "checked_at": "2026-11-06T20:58:55+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "97d6261dca22224e"
+      "hash": "0845d26fe2e526b6"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "2779d4ca0d277f87"
+      "hash": "002742d19ff6ba6a"
     }
   ],
   "items": [
@@ -35,7 +35,22 @@
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-05"
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/category/news/",
+      "title": "お知らせ",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261106-2/",
+      "title": "私とWATER GUSH #23 中村翔 SH ラグビーへの純粋な愛と覚悟 2026/11/06",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20260806-2-2/",
+      "title": "お知らせ 2026/11/06 NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ（※11月6日更新）",
+      "date": "2026-11-06"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261105-2/",
@@ -74,13 +89,8 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261029-2/",
-      "title": "私とWATER GUSH #16 テアレキ・ベン-ニコラス No.8 クック諸島のルーツ、ニュージーランドの魂、そして昭島への愛着 2026/10/29",
+      "title": "私とウォーターガッシュ 公開日：2026/10/29 私とWATER GUSH #16 テアレキ・ベン-ニコラス No.8 クック諸島のルーツ、ニュージーランドの魂、そして昭島への愛着 今回の”私とWATER GUSH”はNo.8としてチームを力強く牽引するテアレキ・ベン・ニコラス選手。名前はクック… 続きを読む",
       "date": "2026-10-29"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/category/news/",
-      "title": "お知らせ",
-      "date": "2026-10-28"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261028-2/",
@@ -184,7 +194,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261015-3/",
-      "title": "お知らせ 2026/10/15 DAZN年間視聴パス（リーグワンクラブ）販売のお知らせ",
+      "title": "お知らせ 公開日：2026/10/15 DAZN年間視聴パス（リーグワンクラブ）販売のお知らせ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 クリタウォータ… 続きを読む",
       "date": "2026-10-15"
     },
     {
@@ -230,11 +240,6 @@
     {
       "url": "https://www.kurita-watergush.jp/20260924-3/",
       "title": "地域貢献 公開日：2026/09/24 【地域活動報告】児童の登校見守り活動① 実施日：9月24日（木）実施場所：拝島二小南交差点 「秋の全国交通安全運動」期間に伴い、大型車両の通行… 続きを読む",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260924-2/",
-      "title": "お知らせ 公開日：2026/09/24 菅平ミニキャンプを実施しました いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 令和8年8月、そ… 続きを読む",
       "date": "2026-09-24"
     }
   ]

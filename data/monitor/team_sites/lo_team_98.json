@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-06T03:23:39+09:00",
+  "checked_at": "2026-11-06T20:58:55+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "d3100a7ea5916049"
+      "hash": "9b94c37ab6ddc8a5"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "e68f7423c43996f5"
+      "hash": "e7970eaefd2d73ba"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3224",
+      "title": "2026.11.6[FRI] TICKET 浜松市にお住まいの250組500名様をご招待",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3223",
+      "title": "2026.11.6[FRI] TICKET 磐田市/湖西市にお住まいの250組500名様をホーム開幕戦にご招待",
+      "date": "2026-11-06"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3256",
       "title": "2026.11.5[THU] HOST AREA 【ホストエリア活動】令和8年度 第2回中堅職員研修会「未来塾シーズン2」にてタグラグビーでのチームビルディングを実施しました",
@@ -108,16 +118,6 @@
       "date": "2026-10-26"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3235",
-      "title": "2026.10.23[FRI] SPONSOR ホーム開幕戦のマッチデーパートナーに静岡マツダ株式会社が決定",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3234",
-      "title": "2026.10.21[WED] HOST AREA 青いマックの日に2選手が参加しました",
-      "date": "2026-10-21"
-    },
-    {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",
       "title": "SCHOOL 2026/9/28 秋の新規入会キャンペーン",
       "date": "2026-09-28"
@@ -131,6 +131,11 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3188",
       "title": "EVENT 2026/9/16 愛車で静岡とホーム開幕戦を青く染めよう！",
       "date": "2026-09-16"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3165",
+      "title": "2026.9.9[WED] TEAM ホーム開幕は12月20日！NTTジャパンラグビー リーグワン2026-27日程決定！",
+      "date": "2026-09-09"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3167",

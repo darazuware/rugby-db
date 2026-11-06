@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-11-06T03:23:39+09:00",
+  "checked_at": "2026-11-06T20:58:55+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "67400e92859fa6e6"
+      "hash": "f8fbb59a100e57df"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "f7f28f016b22cde3"
+      "hash": "acfea083aa1b7d31"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule#3",
+      "title": "2026-11-06 日程更新｜NTTリーグワン公式戦 第9節までのキックオフ時間が決定！",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261106.html-0",
+      "title": "2026-11-06 FMヨコハマ「FLAG」内コーナー「TRY！三菱重工相模原ダイナボアーズ」今季の放送スタート｜毎週金曜14:10頃",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261106.html",
+      "title": "2026-11-06 チケット本日発売｜12/13（日）開幕戦・神奈川ダービー（vs横浜E）ビッグTシャツ先着6,000名 ※一般販売11/11（水）",
+      "date": "2026-11-06"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261103.html",
       "title": "2026-11-03 南アフリカ代表｜カート＝リー・アレンゼ選手がネーションズ・チャンピオンシップ後半初戦の試合メンバーに選出",
@@ -44,17 +59,17 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261028.html-0",
-      "title": "2026-10-28 南アフリカ代表｜カート＝リー・アレンゼ選手がネーションズ・チャンピオンシップ後半戦のスコッドに選出",
+      "title": "2026-10-28 [ チーム ] [ メディア ] 南アフリカ代表｜カート＝リー・アレンゼ選手がネーションズ・チャンピオンシップ後半戦のスコッドに選出",
       "date": "2026-10-28"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261028.html",
-      "title": "2026-10-28 地域感謝祭｜ファンクラブ会員向け企画のお知らせ（選手入場花道・来場ポイント）",
+      "title": "2026-10-28 [ イベント ] 地域感謝祭｜ファンクラブ会員向け企画のお知らせ（選手入場花道・来場ポイント）",
       "date": "2026-10-28"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261026.html",
-      "title": "2026-10-26 15人制男子日本代表｜ヨーロッパ遠征参加メンバーにチャーリー・ローレンス選手が選出",
+      "title": "2026-10-26 [ チーム ] [ メディア ] 15人制男子日本代表｜ヨーロッパ遠征参加メンバーにチャーリー・ローレンス選手が選出",
       "date": "2026-10-26"
     },
     {
@@ -106,11 +121,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261008.html",
       "title": "2026-10-08 [ チーム ] [ メディア ] 15人制男子日本代表｜別府合宿参加メンバーにチャーリー・ローレンス選手が選出",
       "date": "2026-10-08"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule#3",
-      "title": "2026-10-05 [ イベント ] 日程更新｜12/13(日)のリーグワン開幕戦・神奈川ダービーは13:40キックオフ！",
-      "date": "2026-10-05"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/jrlr2026-2",
@@ -206,16 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/dynaboarsfesta2026",
       "title": "2026-08-28 [ イベント ] ダイナボアーズフェスタ2026｜選手出演情報更新",
       "date": "2026-08-28"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260827.html",
-      "title": "2026-08-27 [ チーム ] [ メディア ] 男子セブンズ日本代表｜中国遠征参加メンバーに服部航大選手が選出",
-      "date": "2026-08-27"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260825.html",
-      "title": "2026-08-25 [ チーム ] 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（8/29）に14番で先発出場",
-      "date": "2026-08-25"
     }
   ]
 }

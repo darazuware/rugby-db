@@ -3,28 +3,33 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-11-06T03:23:39+09:00",
+  "checked_at": "2026-11-06T20:58:55+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "ee569e2015de4016"
+      "hash": "a807cec8f3950aee"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "7c7a5bc3be68416a"
+      "hash": "70a5994b7d55b4ed"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "1ecc0f87b9103d84"
+      "hash": "dcf204d644b6d2e9"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "5145f8aa314fb314"
+      "hash": "b7201322e8618c88"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post36092/",
+      "title": "2026/11/6 普及 【レポート】神戸市立摩耶小学校でタグラグビー教室を実施しました",
+      "date": "2026-11-06"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post36073/",
       "title": "2026/11/5 メディア 11月6日(金) コベルコ神戸スティーラーズに関する特集放送のお知らせ",
@@ -33,6 +38,11 @@
     {
       "url": "https://www.kobesteelers.com/news/post36005/",
       "title": "2026/11/5 普及 【レポート】KOBELCOスポーツパークでラグビー教室を実施しました",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36004/",
+      "title": "2026/11/5 チーム 11月7日(土)「ネーションズチャンピオンシップ2026」ウェールズ代表戦メンバー選出のお知らせ",
       "date": "2026-11-05"
     },
     {
@@ -191,11 +201,6 @@
       "date": "2026-10-15"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35634/",
-      "title": "2026/10/13 チーム 10月13日(火) 三田市出身の上ノ坊 駿介選手が三田市長を表敬訪問しました",
-      "date": "2026-10-13"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35614/",
       "title": "2026/10/13 チーム 【中止】12月5日(土)プレシーズンマッチ トヨタヴェルブリッツ戦中止のお知らせ",
       "date": "2026-10-13"
@@ -219,11 +224,6 @@
       "url": "https://www.kobesteelers.com/news/post35552/",
       "title": "2026/10/9 グッズ 2026-27シーズン 背番号入りオーセンティックジャージー・レプリカジャージー受注販売のお知らせ",
       "date": "2026-10-09"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35584/",
-      "title": "2026/10/8 パートナー NTTリーグワン2026-27 法人シーズンシート販売のお知らせ",
-      "date": "2026-10-08"
     },
     {
       "url": "https://www.kobesteelers.com/news/post35506/",

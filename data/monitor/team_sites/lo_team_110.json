@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-11-06T03:23:39+09:00",
+  "checked_at": "2026-11-06T20:58:55+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "b11147b13d93d0ab"
+      "hash": "b0f5f3dcce892185"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "3067ee39e2a3b535"
+      "hash": "3468d93ea84f840d"
     }
   ],
   "items": [
@@ -29,8 +29,13 @@
     },
     {
       "url": "https://www.kyudenvoltex.com/news/998",
-      "title": "お知らせ 2026年11月02日 NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ(11/2更新)",
-      "date": "2026-11-02"
+      "title": "お知らせ 2026年11月06日 NEW NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ(11/6更新)",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/1020",
+      "title": "お知らせ 2026年11月06日 NEW 【NTTリーグワン2026-27】ホストゲーム チケット販売のお知らせ",
+      "date": "2026-11-06"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1017",
@@ -131,11 +136,6 @@
       "url": "https://www.kyudenvoltex.com/news/1001",
       "title": "お知らせ 2026年08月08日 サイモニ・ヴニランギ選手の逝去について",
       "date": "2026-08-08"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/1000",
-      "title": "お知らせ 2026年08月07日 【8/10募集開始!】2026-27シーズン ファンクラブのご案内",
-      "date": "2026-08-07"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/996",

@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "クボタスピアーズ船橋・東京ベイ",
   "official_url": "http://www.kubota-spears.com/",
-  "checked_at": "2026-11-06T03:23:39+09:00",
+  "checked_at": "2026-11-06T20:58:55+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kubota-spears.com/",
-      "hash": "2acb6ca3445dcf5c"
+      "hash": "ebda79c1f25cccfc"
     },
     {
       "url": "https://www.kubota-spears.com/news/",
-      "hash": "6878957736c24da0"
+      "hash": "045e3604665c12b0"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kubota-spears.com/partner_news/2026/11/06/150000.html",
+      "title": "2026.11.06 ニュース・トピックス",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/11/06/170000.html",
+      "title": "2026.11.06 ニュース・トピックス",
+      "date": "2026-11-06"
+    },
     {
       "url": "https://www.kubota-spears.com/news/2026/11/06/120000.html",
       "title": "2026.11.06 ニュース・トピックス",
@@ -306,16 +316,6 @@
       "url": "https://www.kubota-spears.com/partner_news/2026/01/22/130000.html",
       "title": "2026.01.22 パートナー",
       "date": "2026-01-22"
-    },
-    {
-      "url": "https://www.kubota-spears.com/partner_news/2025/12/04/120000.html",
-      "title": "2025.12.04 パートナー",
-      "date": "2025-12-04"
-    },
-    {
-      "url": "https://www.kubota-spears.com/social-contribution/2025/10/02/120000.html",
-      "title": "2025.10.02 CSR（社会貢献活動）",
-      "date": "2025-10-02"
     }
   ]
 }

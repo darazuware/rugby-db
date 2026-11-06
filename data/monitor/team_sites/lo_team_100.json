@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-11-06T03:23:39+09:00",
+  "checked_at": "2026-11-06T20:58:55+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "c303ebb935b0b509"
+      "hash": "b6886b83bb958101"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "a3afe145eb6b4a75"
+      "hash": "b6f0b4b4cb751704"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/index_2082.html",
+      "title": "ニュース 2026.11.06 2026-27シーズン 第4節〜第9節 キックオフ時間決定のお知らせ",
+      "date": "2026-11-06"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2083.html",
       "title": "イベント 2026.11.05 2026.11.1 宮崎市・都城市にてラグビークリニックを開催しました",
@@ -49,12 +54,12 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_2074.html",
-      "title": "ファンクラブ 2026.10.30 2026.11.14「D-Rockersテーマ別対話会（試合イベントの部）」開催のお知らせ",
+      "title": "2026.10.30 ニュース 2026.11.14「D-Rockersテーマ別対話会（試合イベントの部）」開催のお知らせ",
       "date": "2026-10-30"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2076.html",
-      "title": "イベント 2026.10.30 2026.10.18 浦安青年会議所×浦安D-Rocks 「すすめ！うらやす ONE TEAM ～みんなで創る防災フェス！～」を開催しました",
+      "title": "2026.10.30 ニュース 2026.10.18 浦安青年会議所×浦安D-Rocks 「すすめ！うらやす ONE TEAM ～みんなで創る防災フェス！～」を開催しました",
       "date": "2026-10-30"
     },
     {
@@ -64,12 +69,12 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/index_2073.html",
-      "title": "ニュース 2026.10.29 お客様アンケートを踏まえた観戦環境改善の取り組みについて",
+      "title": "2026.10.29 ニュース お客様アンケートを踏まえた観戦環境改善の取り組みについて",
       "date": "2026-10-29"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2071.html",
-      "title": "ゲーム 2026.10.29 11月21日(土) プレシーズンマッチ vs 東芝ブレイブルーパス武蔵 ホストゲーム情報",
+      "title": "2026.10.29 ニュース 11月21日(土) プレシーズンマッチ vs 東芝ブレイブルーパス武蔵 ホストゲーム情報",
       "date": "2026-10-29"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/partner/index_2039.html",
       "title": "2026.10.01 ニュース 株式会社NTTドコモ・フィナンシャルグループとのゴールドパートナーシップ契約締結のお知らせ",
       "date": "2026-10-01"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_2036.html",
-      "title": "2026.09.30 ニュース 2026-27シーズン 一部試合会場決定のお知らせ",
-      "date": "2026-09-30"
     }
   ]
 }

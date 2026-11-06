@@ -3,24 +3,44 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-11-06T03:23:39+09:00",
+  "checked_at": "2026-11-06T20:58:55+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "93ba111fb41a7f5a"
+      "hash": "db626889f808ab37"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "e07f3c62d4c81369"
+      "hash": "69ec25c1a3f27c22"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "2ac4be58da160942"
+      "hash": "ddec2cbc9fe2308a"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/33221/",
+      "title": "お知らせ 2026.11.6 【NTTリーグワン2026-27】ホストゲーム チケット販売スケジュールのお知らせ",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/33203/",
+      "title": "お知らせ 2026.11.6 【ファンクラブ】ファミリー・クリスタル会員特典「ホストゲーム無料観戦チケット」のご利用方法について",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/33112/",
+      "title": "お知らせ 2026.11.6 2026-27シーズン 新ジャージー決定のお知らせ",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/32026/",
+      "title": "お知らせ 2026.11.6 NTTジャパンラグビー リーグワン2026-27 ディビジョン3 試合日程・会場決定のお知らせ",
+      "date": "2026-11-06"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/info/33084/",
       "title": "お知らせ 2026.10.27 事業部移転のお知らせ",
@@ -72,11 +92,6 @@
       "date": "2026-10-08"
     },
     {
-      "url": "https://kamaishi-seawaves.com/news/info/32026/",
-      "title": "お知らせ 2026.10.6 NTTジャパンラグビー リーグワン2026-27 ディビジョン3 試合日程・会場決定のお知らせ",
-      "date": "2026-10-06"
-    },
-    {
       "url": "https://kamaishi-seawaves.com/news/info/32680/",
       "title": "お知らせ 2026.10.5 2026-27シーズン クラブスローガン決定のお知らせ",
       "date": "2026-10-05"
@@ -90,21 +105,6 @@
       "url": "https://kamaishi-seawaves.com/news/info/31656/",
       "title": "お知らせ 2026.9.12 「ジャパンラグビー リーグワン ライジング 2026」開催のお知らせ",
       "date": "2026-09-12"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/32342/",
-      "title": "お知らせ 2026.9.11 2026-27シーズン 新加入選手に関するお知らせ（追加）",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/32270/",
-      "title": "お知らせ 2026.9.4 2026プレシーズンマッチのお知らせ（追加）",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/32242/",
-      "title": "お知らせ 2026.9.3 2026-27シーズン 新体制のお知らせ",
-      "date": "2026-09-03"
     }
   ]
 }

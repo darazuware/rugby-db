@@ -3,16 +3,36 @@
   "league": "league-one-d3",
   "name": "ヤクルトレビンズ戸田",
   "official_url": "https://www.yakult.co.jp/sports/rugby/",
-  "checked_at": "2026-11-06T03:23:39+09:00",
+  "checked_at": "2026-11-06T20:58:55+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.yakult.co.jp/maintenance/",
-      "hash": "2c15ebe0cd0de2a8"
+      "hash": "c2aa481eee8f82cd"
     }
   ],
   "items": [
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261106_4.pdf",
+      "title": "2026.11.06 ニュースリリース ヤクルトカレンダー「２０２７年みんなの風景」を発行～大地の息吹を次世代へ継ぐ、ジオパークの風景～",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261106_3.pdf",
+      "title": "2026.11.06 お知らせ サステナビリティレポート２０２６",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261106_2.pdf",
+      "title": "2026.11.06 News Release Sustainability Report 2026 Released",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261106.pdf",
+      "title": "2026.11.06 ニュースリリース 「サステナビリティレポート２０２６」の公開について",
+      "date": "2026-11-06"
+    },
     {
       "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261105_3.pdf",
       "title": "2026.11.05 Information Notification Regarding the Status of Share Repurchase as Treasury Stock",

@@ -3,28 +3,33 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-11-06T03:23:39+09:00",
+  "checked_at": "2026-11-06T20:58:55+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "9aaaaa843a159b54"
+      "hash": "8273bd6eba32a4a4"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "6c77b81b1c98ba21"
+      "hash": "1930cf847302bb47"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "4e151ad4eba7394c"
+      "hash": "96597dd9ddddc4cc"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "19d2c5e3f2ed0efd"
+      "hash": "b395040b3d707470"
     }
   ],
   "items": [
+    {
+      "url": "https://blue-sharks.jp/news/2026/11/25513/",
+      "title": "11/22（日）出陣祭2026のご案内について",
+      "date": "2026-11-25"
+    },
     {
       "url": "https://blue-sharks.jp/news/2026/11/25488/",
       "title": "◇JR東日本グリーンウォリアーズ東葛戦マッチレポート",
@@ -38,7 +43,7 @@
     {
       "url": "https://blue-sharks.jp/information/",
       "title": "もっと見る",
-      "date": "2026-11-02"
+      "date": "2026-11-06"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/10/25446/",
@@ -47,7 +52,7 @@
     },
     {
       "url": "https://blue-sharks.jp/news/2026/10/25429/",
-      "title": "2026-27シーズン キャプテン·リーダーズ及びチームスローガン決定のお知らせ",
+      "title": "お知らせ 2026/10/23 2026-27シーズン キャプテン·リーダーズ及びチームスローガン決定のお知らせ",
       "date": "2026-10-25"
     },
     {
@@ -104,11 +109,6 @@
       "url": "https://blue-sharks.jp/news/2026/09/25284/",
       "title": "お知らせ 2026/09/15 ◇埼玉パナソニックワイルドナイツ戦マッチレポート",
       "date": "2026-09-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/08/25258/",
-      "title": "お知らせ 2026/08/21 グロスターラグビー研修レポート Vol.9（長谷銀次朗）",
-      "date": "2026-08-25"
     },
     {
       "url": "https://blue-sharks.jp/game-guide/2026-5-23-d1-d2%e5%85%a5%e6%9b%bf%e6%88%a6/",

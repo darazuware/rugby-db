@@ -3,20 +3,30 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-11-06T03:23:39+09:00",
+  "checked_at": "2026-11-06T20:58:55+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "0f15fc3f65e0e7b6"
+      "hash": "4222f9a5340c3030"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "3d0e2f2bf2281909"
+      "hash": "ca8ccab7c67b48eb"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/11/06/new-goods/",
+      "title": "2026.11.06 その他 新グッズ受注販売開始のお知らせ",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/11/06/3-7kickofftime/",
+      "title": "2026.11.06 試合関連 NTTジャパンラグビー リーグワン2026-27 第3~7節キックオフ時間について追加決定のお知らせ",
+      "date": "2026-11-06"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/11/05/manie-release/",
       "title": "2026.11.05 その他 マニー・リボック選手 2026-27シーズンをもって契約満了のお知らせ",
@@ -39,12 +49,12 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/10/28/fukuokacamp-day67/",
-      "title": "2026.10.28 その他 福岡合宿レポート6日目・7日目",
+      "title": "2026-10-28 その他 福岡合宿レポート6日目・7日目",
       "date": "2026-10-28"
     },
     {
       "url": "https://hanazono-liners.jp/2026/10/26/fukuokacamp-day5/",
-      "title": "2026.10.26 その他 福岡合宿レポート5日目",
+      "title": "2026-10-26 その他 福岡合宿レポート5日目",
       "date": "2026-10-26"
     },
     {
@@ -96,11 +106,6 @@
       "url": "https://hanazono-liners.jp/2026/10/15/dazn/",
       "title": "2026-10-15 その他 DAZN 年間視聴パス（リーグワンクラブ）販売のお知らせ",
       "date": "2026-10-15"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/10/14/au-report/",
-      "title": "2026-10-14 その他 【地域連携・普及活動】 2026 年 8月レポート",
-      "date": "2026-10-14"
     },
     {
       "url": "https://hanazono-liners.jp/2026/10/10/f2627-cmtowel/",

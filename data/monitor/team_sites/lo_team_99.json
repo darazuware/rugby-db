@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-11-06T03:23:39+09:00",
+  "checked_at": "2026-11-06T20:58:55+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "cac415acec9b4dfd"
+      "hash": "c716ec6fb5577487"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "69442f14490b922c"
+      "hash": "6b78567a8f073955"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2611-1041.html",
+      "title": "2026年 11月 6日 #1041 松島 幸太朗 『自分との戦い』",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026.html",
+      "title": "2026年 11月 6日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 第4節～第9節のキックオフ時間が決定しました！",
+      "date": "2026-11-06"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/227n1jlr.html",
       "title": "2026年 11月 5日 2026-27シーズン 新ジャージーデザイン決定のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 NTT JAPAN RUGBY LEA…",
@@ -206,16 +216,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/tsgkmts.html",
       "title": "2026年 4月 1日 サンゴリアス君 港区観光大使就任のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、東京サンゴリアスのチームマスコ…",
       "date": "2026-04-01"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/lor15khgspe.html",
-      "title": "2026年 3月30日 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第15節 東京サントリーサンゴリアスvsクボタスピアーズ船橋・東京ベイ戦のご案内 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第15節 ※ホストゲーム ■試合日時…",
-      "date": "2026-03-30"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/0404vgmhhfs.html",
-      "title": "2026年 3月28日 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第14節 三重ホンダヒートvs東京サントリーサンゴリアス戦のご案内 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第14節 ※ビジターゲーム ■試合日…",
-      "date": "2026-03-28"
     }
   ]
 }

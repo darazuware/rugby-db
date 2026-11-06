@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-11-06T03:23:39+09:00",
+  "checked_at": "2026-11-06T20:58:55+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "1c7bcedf410c93a0"
+      "hash": "b2a5279b5ebcae26"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "d9e8c55f690a3ca1"
+      "hash": "eec0062be183aa93"
     }
   ],
   "items": [
@@ -41,6 +41,11 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261107/",
       "title": "試合詳細",
       "date": "2026-11-07"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261106_01/",
+      "title": "チーム 2026年11月06日 宮崎合宿実施のお知らせ ニュースを見る",
+      "date": "2026-11-06"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/team/schedule/",
@@ -211,11 +216,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2025/20250421_01/",
       "title": "グッズ 2025年04月21日 We Are Wild Knights キャンペーンのお知らせ ニュースを見る",
       "date": "2025-04-21"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2024/20240420_01/",
-      "title": "グッズ 2024年04月20日 会場をワイルドナイツブル―に染めろ ～王座奪還キャンペーン～実施のお知らせ ニュースを見る",
-      "date": "2024-04-20"
     }
   ]
 }

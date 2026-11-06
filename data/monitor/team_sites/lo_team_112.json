@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-11-06T03:23:39+09:00",
+  "checked_at": "2026-11-06T20:58:55+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "a687998e6d108954"
+      "hash": "d8ab7b1b8d7956f6"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "114a8570125748ba"
+      "hash": "9a71be280b3260c2"
     }
   ],
   "items": [
@@ -21,6 +21,11 @@
       "url": "https://shuttles-aichi.com/news/2026-11-7-saturday-pre-season-match-vs-ricoh-black-rams-tokyo-participating-members/",
       "title": "お知らせ 26年11月05日 2026/11/7(土) プレシーズンマッチ vs リコーブラックラムズ東京 出場メンバー",
       "date": "2026-11-07"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/notice-of-the-decision-of-the-kick-off-time-of-section-3-section-4-section-5-section-6-section-7/",
+      "title": "お知らせ 2026.11.06 第3節・第4節 ・第5節・第6節・第7節キックオフ時間決定のお知らせ",
+      "date": "2026-11-06"
     },
     {
       "url": "https://shuttles-aichi.com/news/11-24feel-the-rugby-in-aeon-mall-higashiura/",
@@ -41,11 +46,6 @@
       "url": "https://shuttles-aichi.com/news/2026-10-25-preseason-match-vs-red-hurricanes-osaka-photo-gallery/",
       "title": "フォトギャラリー 26年10月25日 2026/10/25(日)プレシーズンマッチ vsレッドハリケーンズ大阪 フォトギャラリー",
       "date": "2026-10-25"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/obu-city-kitayama-elementary-school-tag-rugby-visiting-class-activity-report/",
-      "title": "フォトギャラリー お知らせ 2026.10.23 大府市立北山小学校 タグラグビー訪問授業 実施報告",
-      "date": "2026-10-23"
     }
   ]
 }

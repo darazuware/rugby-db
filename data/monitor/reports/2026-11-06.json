@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-06T03:23:39+09:00",
+  "checked_at": "2026-11-06T20:58:55+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/index_2082.html",
+          "title": "ニュース 2026.11.06 2026-27シーズン 第4節〜第9節 キックオフ時間決定のお知らせ",
+          "date": "2026-11-06",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -21,8 +31,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post36092/",
+          "title": "2026/11/6 普及 【レポート】神戸市立摩耶小学校でタグラグビー教室を実施しました",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36004/",
+          "title": "2026/11/5 チーム 11月7日(土)「ネーションズチャンピオンシップ2026」ウェールズ代表戦メンバー選出のお知らせ",
+          "date": "2026-11-05",
+          "category": "squad"
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/",
+        "https://www.kobesteelers.com/news/cat_news/information/",
+        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+      ],
       "rename_signals": []
     },
     {
@@ -33,8 +61,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261106_01/",
+          "title": "チーム 2026年11月06日 宮崎合宿実施のお知らせ ニュースを見る",
+          "date": "2026-11-06",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -45,14 +83,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 41,
-      "new_items": [
-        {
-          "url": "https://www.bravelupus.com/news/261105/",
-          "title": "ネーションズチャンピオンシップ2026 日本代表 対 ウェールズ代表 試合登録メンバーのお知らせ",
-          "date": "2026-11-05",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.bravelupus.com/",
         "https://www.bravelupus.com/news/"
@@ -67,8 +98,35 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4397/",
+          "title": "2026.11.6 チケット・ファンクラブ 【チケット】1/9 栃木H戦 ゴリけん・パラシュート部隊と一緒に試合を見れる企画チケットについて",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4396/",
+          "title": "2026.11.6 普及・アカデミー トヨタヴェルブリッツアカデミー #19",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4391/",
+          "title": "2026.11.6 トピックス ピーターステフ・デュトイ選手 退団のお知らせ",
+          "date": "2026-11-06",
+          "category": "roster"
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4390/",
+          "title": "2026.11.6 グッズ 【グッズ】選手退団に伴う公式グッズの販売について",
+          "date": "2026-11-06",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -79,8 +137,30 @@
       "status": "ok",
       "first_run": false,
       "item_count": 24,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.honda-heat.jp/news/2480/",
+          "title": "イベント 2026.11.6 【イベント活動】『第45回芳賀町民祭』 参加のお知らせ",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://www.honda-heat.jp/news/2478/",
+          "title": "トピックス 2026.11.6 「とちぎプロスポーツ応援フェスタ」に参加しました",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://www.honda-heat.jp/news/2477/",
+          "title": "イベント 2026.11.6 【イベント活動】『宮の市ストリートフェスティバル』 参加のお知らせ",
+          "date": "2026-11-06",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.honda-heat.jp/",
+        "https://www.honda-heat.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -91,7 +171,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261106.html-0",
+          "title": "2026-11-06 FMヨコハマ「FLAG」内コーナー「TRY！三菱重工相模原ダイナボアーズ」今季の放送スタート｜毎週金曜14:10頃",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261106.html",
+          "title": "2026-11-06 チケット本日発売｜12/13（日）開幕戦・神奈川ダービー（vs横浜E）ビッグTシャツ先着6,000名 ※一般販売11/11（水）",
+          "date": "2026-11-06",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -106,8 +199,43 @@
       "status": "ok",
       "first_run": false,
       "item_count": 14,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20261106.html",
+          "title": "2026.11.06 TEAM ネーションズチャンピオンシップ2026 ウェールズ代表戦に横浜キヤノンイーグルスの選手が選出されました",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20261106-2.html",
+          "title": "2026.11.06 TEAM キックオフ時間決定（第4～9節）のお知らせ",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/event/20261106.html",
+          "title": "2026.11.06 EVENT 11月のイベント出演予定",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20261104.html",
+          "title": "2026.11.04 TEAM 横浜キヤノンイーグルスの選手が南アフリカ代表としてイタリア代表戦に出場します",
+          "date": "2026-11-04",
+          "category": null
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20261029.html",
+          "title": "2026.10.29 TEAM 横浜キヤノンイーグルスの選手が南アフリカ代表メンバーに選出されました",
+          "date": "2026-10-29",
+          "category": "squad"
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/",
+        "https://www.canon-eagles.jp/news/info/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -119,7 +247,9 @@
       "first_run": false,
       "item_count": 4,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -130,8 +260,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/partner_news/2026/11/06/150000.html",
+          "title": "2026.11.06 ニュース・トピックス",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://www.kubota-spears.com/news/2026/11/06/170000.html",
+          "title": "2026.11.06 ニュース・トピックス",
+          "date": "2026-11-06",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/",
+        "https://www.kubota-spears.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -141,8 +287,27 @@
       "official_url": "https://www.shizuoka-bluerevs.com",
       "status": "ok",
       "first_run": false,
-      "item_count": 30,
-      "new_items": [],
+      "item_count": 31,
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3224",
+          "title": "2026.11.6[FRI] TICKET 浜松市にお住まいの250組500名様をご招待",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3223",
+          "title": "2026.11.6[FRI] TICKET 磐田市/湖西市にお住まいの250組500名様をホーム開幕戦にご招待",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3165",
+          "title": "2026.9.9[WED] TEAM ホーム開幕は12月20日！NTTジャパンラグビー リーグワン2026-27日程決定！",
+          "date": "2026-09-09",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -157,8 +322,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2611-1041.html",
+          "title": "2026年 11月 6日 #1041 松島 幸太朗 『自分との戦い』",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026.html",
+          "title": "2026年 11月 6日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 第4節～第9節のキックオフ時間が決定しました！",
+          "date": "2026-11-06",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -181,7 +362,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kyudenvoltex.com/news/1020",
+          "title": "お知らせ 2026年11月06日 NEW 【NTTリーグワン2026-27】ホストゲーム チケット販売のお知らせ",
+          "date": "2026-11-06",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kyudenvoltex.com/",
         "https://www.kyudenvoltex.com/news/"
@@ -196,9 +384,19 @@
       "status": "ok",
       "first_run": false,
       "item_count": 24,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://blue-sharks.jp/news/2026/11/25513/",
+          "title": "11/22（日）出陣祭2026のご案内について",
+          "date": "2026-11-25",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://blue-sharks.jp/"
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
       ],
       "rename_signals": []
     },
@@ -210,8 +408,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 6,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://shuttles-aichi.com/news/notice-of-the-decision-of-the-kick-off-time-of-section-3-section-4-section-5-section-6-section-7/",
+          "title": "お知らせ 2026.11.06 第3節・第4節 ・第5節・第6節・第7節キックオフ時間決定のお知らせ",
+          "date": "2026-11-06",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://shuttles-aichi.com/",
+        "https://shuttles-aichi.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -222,7 +430,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 17,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://kamaishi-seawaves.com/news/info/33221/",
+          "title": "お知らせ 2026.11.6 【NTTリーグワン2026-27】ホストゲーム チケット販売スケジュールのお知らせ",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://kamaishi-seawaves.com/news/info/33203/",
+          "title": "お知らせ 2026.11.6 【ファンクラブ】ファミリー・クリスタル会員特典「ホストゲーム無料観戦チケット」のご利用方法について",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://kamaishi-seawaves.com/news/info/33112/",
+          "title": "お知らせ 2026.11.6 2026-27シーズン 新ジャージー決定のお知らせ",
+          "date": "2026-11-06",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://kamaishi-seawaves.com/",
         "https://kamaishi-seawaves.com/news/",
@@ -237,10 +464,24 @@
       "official_url": "https://hanazono-liners.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 30,
-      "new_items": [],
+      "item_count": 31,
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/2026/11/06/new-goods/",
+          "title": "2026.11.06 その他 新グッズ受注販売開始のお知らせ",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/11/06/3-7kickofftime/",
+          "title": "2026.11.06 試合関連 NTTジャパンラグビー リーグワン2026-27 第3~7節キックオフ時間について追加決定のお知らせ",
+          "date": "2026-11-06",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://hanazono-liners.jp/"
+        "https://hanazono-liners.jp/",
+        "https://hanazono-liners.jp/news/"
       ],
       "rename_signals": []
     },
@@ -252,8 +493,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 15,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-11-06/",
+          "title": "11/21 プレシーズンマッチ ヤクルトレビンズ戸田戦 試合運営について",
+          "date": "2026-11-06",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -277,8 +527,21 @@
       "official_url": "https://www.kurita-watergush.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 44,
-      "new_items": [],
+      "item_count": 45,
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261106-2/",
+          "title": "私とWATER GUSH #23 中村翔 SH ラグビーへの純粋な愛と覚悟 2026/11/06",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/20260806-2-2/",
+          "title": "お知らせ 2026/11/06 NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ（※11月6日更新）",
+          "date": "2026-11-06",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -317,8 +580,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 45,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.skyactivs.com/news/5008",
+          "title": "2026.11.06[FRI] GAME 【駐車場情報】vs 川越狭山セコムラガッツ（2026-27 D2 第1節）",
+          "date": "2026-11-06",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news"
+      ],
       "rename_signals": []
     },
     {
@@ -328,9 +601,36 @@
       "official_url": "https://www.yakult.co.jp/sports/rugby/",
       "status": "ok",
       "first_run": false,
-      "item_count": 6,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 10,
+      "new_items": [
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261106_4.pdf",
+          "title": "2026.11.06 ニュースリリース ヤクルトカレンダー「２０２７年みんなの風景」を発行～大地の息吹を次世代へ継ぐ、ジオパークの風景～",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261106_3.pdf",
+          "title": "2026.11.06 お知らせ サステナビリティレポート２０２６",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261106_2.pdf",
+          "title": "2026.11.06 News Release Sustainability Report 2026 Released",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261106.pdf",
+          "title": "2026.11.06 ニュースリリース 「サステナビリティレポート２０２６」の公開について",
+          "date": "2026-11-06",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.yakult.co.jp/maintenance/"
+      ],
       "rename_signals": []
     },
     {
@@ -340,9 +640,19 @@
       "official_url": "https://leriro-fukuoka.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 10,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 11,
+      "new_items": [
+        {
+          "url": "https://leriro-fukuoka.com/news-detail?id=284",
+          "title": "『DAZN年間視聴パス』の販売のお知らせ",
+          "date": "2026-11-06",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://leriro-fukuoka.com/",
+        "https://leriro-fukuoka.com/news"
+      ],
       "rename_signals": []
     }
   ],
@@ -380,9 +690,30 @@
   ],
   "highlights": [
     {
-      "source": "東芝ブレイブルーパス東京",
-      "url": "https://www.bravelupus.com/news/261105/",
-      "title": "ネーションズチャンピオンシップ2026 日本代表 対 ウェールズ代表 試合登録メンバーのお知らせ",
+      "source": "トヨタヴェルブリッツ",
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4391/",
+      "title": "2026.11.6 トピックス ピーターステフ・デュトイ選手 退団のお知らせ",
+      "date": "2026-11-06",
+      "category": "roster"
+    },
+    {
+      "source": "トヨタヴェルブリッツ",
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4390/",
+      "title": "2026.11.6 グッズ 【グッズ】選手退団に伴う公式グッズの販売について",
+      "date": "2026-11-06",
+      "category": "roster"
+    },
+    {
+      "source": "横浜キヤノンイーグルス",
+      "url": "https://www.canon-eagles.jp/news/info/20261029.html",
+      "title": "2026.10.29 TEAM 横浜キヤノンイーグルスの選手が南アフリカ代表メンバーに選出されました",
+      "date": "2026-10-29",
+      "category": "squad"
+    },
+    {
+      "source": "コベルコ神戸スティーラーズ",
+      "url": "https://www.kobesteelers.com/news/post36004/",
+      "title": "2026/11/5 チーム 11月7日(土)「ネーションズチャンピオンシップ2026」ウェールズ代表戦メンバー選出のお知らせ",
       "date": "2026-11-05",
       "category": "squad"
     }
