@@ -5,6 +5,7 @@ category: "NEWS"
 tags: ["Top14", "加入"]
 source_diff: "2026-08-11_top14.json"
 draft: true
+noindex: true
 ---
 
 [Julien CATALA](/players/julien-catala/)が[カストル](/teams/top14/castres/)（Top14）に加入した。

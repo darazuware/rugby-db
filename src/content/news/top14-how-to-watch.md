@@ -5,6 +5,7 @@ pubDate: 2026-07-18
 category: "GUIDE"
 tags: ["TOP14", "視聴方法", "DAZN", "海外ラグビー"]
 draft: true
+noindex: true
 ---
 
 <p class="text-xs font-bold text-gray-500 border border-gray-300 rounded-full inline-block px-3 py-1 mb-6">※ 本ページにはプロモーションが含まれます</p>

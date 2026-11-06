@@ -5,6 +5,7 @@ category: "NEWS"
 tags: ["Top14", "加入"]
 source_diff: "2026-08-10_top14.json"
 draft: true
+noindex: true
 ---
 
 [Sacha CODORNIOU](/teams/top14/montpellier/#p-sacha-codorniou)が[モンペリエ](/teams/top14/montpellier/)（Top14）に加入した。

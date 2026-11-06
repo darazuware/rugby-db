@@ -5,6 +5,7 @@ category: "NEWS"
 tags: ["Top14", "加入"]
 source_diff: "2026-08-10_top14.json"
 draft: true
+noindex: true
 ---
 
 [Noham MAKHLOUFI](/teams/top14/montpellier/#p-noham-makhloufi)が[モンペリエ](/teams/top14/montpellier/)（Top14）に加入した。

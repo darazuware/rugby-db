@@ -5,6 +5,7 @@ category: "NEWS"
 tags: ["Top14", "加入"]
 source_diff: "2026-08-11_top14.json"
 draft: true
+noindex: true
 ---
 
 [Bertrand MISTRI](/teams/top14/montpellier/#p-bertrand-mistri)が[モンペリエ](/teams/top14/montpellier/)（Top14）に加入した。

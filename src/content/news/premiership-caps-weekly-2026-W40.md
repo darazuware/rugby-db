@@ -6,6 +6,7 @@ updatedDate: 2026-10-05
 category: "NEWS"
 tags: ["プレミアシップ", "キャップ更新"]
 source_diff: "2026-09-28_premiership.json"
+noindex: true
 ---
 
 2026-W40に代表キャップ数の更新が確認された選手は8名（プレミアシップの選手データに基づく）。

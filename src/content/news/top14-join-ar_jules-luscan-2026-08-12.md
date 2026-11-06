@@ -5,6 +5,7 @@ category: "NEWS"
 tags: ["Top14", "加入"]
 source_diff: "2026-08-12_top14.json"
 draft: true
+noindex: true
 ---
 
 [Jules LUSCAN](/teams/top14/toulouse/#p-jules-luscan)が[トゥールーズ](/teams/top14/toulouse/)（Top14）に加入した。
