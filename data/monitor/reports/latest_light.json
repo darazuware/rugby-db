@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-06T02:49:29+09:00",
+  "checked_at": "2026-11-06T17:53:49+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,38 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6253",
+          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 公式戦実施要項 2026.11.06",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://league-one.jp/news/6252",
+          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 入替戦の方式決定のお知らせ 2026.11.06",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://league-one.jp/news/6251",
+          "title": "クラブ 日本製鉄釜石シーウェイブス、2026-27シーズン 新ジャージー決定のお知らせ 2026.11.06",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://league-one.jp/news/6250",
+          "title": "クラブ トヨタヴェルブリッツ、ピーターステフ・デュトイ選手 退団のお知らせ 2026.11.06",
+          "date": "2026-11-06",
+          "category": "roster"
+        },
+        {
+          "url": "https://league-one.jp/news/6249",
+          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 D1 第4-9節／D2 第3-7節／D3 第3-6節 キックオフ時間決定のお知らせ 2026.11.06",
+          "date": "2026-11-06",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,14 +50,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54314",
-          "title": "ネーションズチャンピオンシップ2026 日本代表 対 ウェールズ代表 試合登録メンバーのお知らせ 2026.11.05 （木） 15人制男子日本代表 WBB 男子 日本代表 日本代表戦 ネーションズチャンピオンシップ",
-          "date": "2026-11-05",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -42,11 +66,11 @@
   ],
   "highlights": [
     {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54314",
-      "title": "ネーションズチャンピオンシップ2026 日本代表 対 ウェールズ代表 試合登録メンバーのお知らせ 2026.11.05 （木） 15人制男子日本代表 WBB 男子 日本代表 日本代表戦 ネーションズチャンピオンシップ",
-      "date": "2026-11-05",
-      "category": "squad"
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6250",
+      "title": "クラブ トヨタヴェルブリッツ、ピーターステフ・デュトイ選手 退団のお知らせ 2026.11.06",
+      "date": "2026-11-06",
+      "category": "roster"
     }
   ],
   "league_rename_news": [],
