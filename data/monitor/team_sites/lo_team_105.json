@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-11-06T20:58:55+09:00",
+  "checked_at": "2026-11-07T02:44:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "77665c2b715fd95f"
+      "hash": "c9e4fcf3d0b49893"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "d0492b95bb3009ba"
+      "hash": "1d09b4ac40c7c69c"
     }
   ],
   "items": [
@@ -30,6 +30,11 @@
     {
       "url": "https://www.honda-heat.jp/news/2477/",
       "title": "イベント 2026.11.6 【イベント活動】『宮の市ストリートフェスティバル』 参加のお知らせ",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2467/",
+      "title": "トピックス 2026.11.6 【チケット】2026-27シーズン企画チケット①TARPシート",
       "date": "2026-11-06"
     },
     {
@@ -131,11 +136,6 @@
       "url": "https://www.honda-heat.jp/news/2447/",
       "title": "トピックス 2026.9.21 栃木ホンダヒート2026-27シーズン 協賛パートナーならびにジャージーデザイン決定のお知らせ",
       "date": "2026-09-21"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2446/",
-      "title": "トピックス 2026.9.18 「しもつけ21フォーラム」に登壇しました",
-      "date": "2026-09-18"
     }
   ]
 }
