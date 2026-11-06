@@ -27,7 +27,7 @@ NSWワラターズの前身であるニューサウスウェールズラグビ�
 | Folau FAINGA'A | フォラウ・ファインガア | フッカー | [オーストラリア代表](/national-teams/australia/) | — |
 | Angus BLYTH | アンガス・ブライス | ロック | [オーストラリア代表](/national-teams/australia/) | — |
 | Matt PHILIP | マット・フィリップ | ロック | [オーストラリア代表](/national-teams/australia/) | — |
-| Pete SAMU | ピート・サム | フランカー/No8 | オーストラリア代表 | — |
+| Pete SAMU | ピート・サム | フランカー/No8 | [オーストラリア代表](/national-teams/australia/) | — |
 | Jake GORDON | ジェイク・ゴードン | スクラムハーフ | オーストラリア代表 | — |
 | Joseph SUA'ALI'I | ジョセフ・スアアリイ | センター | オーストラリア代表 | — |
 | Andrew KELLAWAY | アンドリュー・ケラウェイ | ウィング | オーストラリア代表 | — |

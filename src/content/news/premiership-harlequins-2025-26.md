@@ -29,7 +29,7 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "ハーレクイ�
 | Alex DOMBRANDT | アレックス・ドンブラント | No.8 | [イングランド代表](/national-teams/england/) | 23 |
 | Guido PETTI | ギード・ペッティ | フランカー | [アルゼンチン代表](/national-teams/argentina/) | 97 |
 | George TURNER | ジョージ・ターナー | フッカー | [スコットランド代表](/national-teams/scotland/) | 50 |
-| Chandler CUNNINGHAM-SOUTH | チャンドラー・カニンガム=サウス | フランカー | イングランド代表 | 23 |
+| Chandler CUNNINGHAM-SOUTH | チャンドラー・カニンガム=サウス | フランカー | [イングランド代表](/national-teams/england/) | 23 |
 | Jack WALKER | ジャック・ウォーカー | フッカー | イングランド代表 | 4 |
 | Titi LAMOSITELE | ティティ・ラモシテレ | プロップ | [アメリカ代表](/national-teams/usa/) | 32 |
 | Jarrod EVANS | ジャロッド・エヴァンス | フライハーフ | [ウェールズ代表](/national-teams/wales/) | 19 |

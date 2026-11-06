@@ -9,10 +9,11 @@ import { getLeagueStandings, type LeagueId } from "../lib/safeStandings";
 import { teamPageHref } from "../lib/teamPages";
 import teamsData from "../../data/teams.json";
 import teamNamesJp from "../../data/team_names_jp.json";
-import { getLiveNews } from "../lib/news";
+import { getIndexableNews, getFeaturedNews } from "../lib/news";
 import { findTeamNameMapping } from "../utils/team_utils";
 
-const allNews = await getLiveNews();
+const allNews = await getIndexableNews();
+const featuredNews = await getFeaturedNews(6);
 const latestNews = allNews.slice(0, 5);
 // ランダム表示用のプール（クライアント側でシャッフル）
 const newsPool = allNews.map(n => ({
@@ -151,6 +152,38 @@ const leagueStandings = [
         {/* 装飾用背景テキスト */}
         <div aria-hidden="true" class="absolute -bottom-10 -right-10 text-9xl font-black font-display italic opacity-[0.02] select-none whitespace-nowrap pointer-events-none uppercase">
             RUGBY
+        </div>
+    </section>
+
+    {/* 特集（独自分析のCOLUMN/GUIDE） */}
+    <section class="mb-16">
+        <div class="flex flex-wrap items-end justify-between gap-4 mb-8">
+            <div>
+                <h2 class="text-3xl md:text-4xl font-black font-display italic tracking-tighter uppercase">
+                    Featured <span class="text-yellow-400">Analysis</span>
+                </h2>
+                <p class="text-sm text-foreground/60 font-bold mt-2">
+                    RWC2027出場国の分析、日本代表の戦力整理など、RUGBY PICKSの独自コラム・ガイド。
+                </p>
+            </div>
+            <a href="/news/#columns" class="px-5 py-3 bg-yellow-400 text-black font-black text-[11px] rounded-xl uppercase tracking-widest hover:bg-white transition-all">
+                コラム・ガイド一覧 →
+            </a>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {featuredNews.map(item => (
+                <a href={`/news/${item.slug}/`} class="group bg-card rounded-[2rem] border-2 border-yellow-400/30 p-6 hover:border-yellow-400 transition-all flex flex-col h-full">
+                    <div class="flex items-center gap-3 mb-4">
+                        <span class="bg-yellow-400 text-black text-[10px] font-black px-2 py-0.5 rounded uppercase tracking-widest">{item.data.category}</span>
+                        <time class="text-xs text-foreground/40 font-bold font-mono">{item.data.pubDate.toLocaleDateString("ja-JP", { year: "numeric", month: "2-digit", day: "2-digit" })}</time>
+                    </div>
+                    <h3 class="text-lg font-black text-foreground group-hover:text-yellow-400 transition-colors mb-3 leading-tight">{item.data.title}</h3>
+                    <p class="text-sm text-foreground/60 line-clamp-3 mb-6">{item.data.description ?? ""}</p>
+                    <div class="mt-auto flex items-center justify-between text-[11px] font-black uppercase tracking-widest text-foreground/20 group-hover:text-yellow-400/60 transition-colors">
+                        <span>Read More</span><span>→</span>
+                    </div>
+                </a>
+            ))}
         </div>
     </section>
 

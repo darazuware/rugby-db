@@ -29,7 +29,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "ハリケー�
 | Warner DEARNS | ウォーナー・ディアンズ | ロック | [日本代表](/national-teams/japan/) | 37 |
 | Du'Plessis KIRIFI | デュプレシス・キリフィ | フランカー/No8 | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Brad SHIELDS | ブラッド・シールズ | フランカー/No8 | [イングランド代表](/national-teams/england/) | — |
-| Peter LAKAI | ピーター・ラカイ | フランカー/No8 | ニュージーランド代表 | — |
+| Peter LAKAI | ピーター・ラカイ | フランカー/No8 | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Ere ENARI | エレ・エナリ | スクラムハーフ | [サモア代表](/national-teams/samoa/) | 11 |
 | Cam ROIGARD | カム・ロワガード | スクラムハーフ | ニュージーランド代表 | 25 |
 | Brett CAMERON | ブレット・キャメロン | スタンドオフ | ニュージーランド代表 | — |

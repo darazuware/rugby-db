@@ -170,8 +170,11 @@ dicts = [('player', players), ('club', clubs), ('national', national)]
 total_links = 0
 per_kind = collections.Counter()
 changed_files = 0
+ONLY = next((a.split('=', 1)[1].split(',') for a in sys.argv if a.startswith('--only=')), None)  # 例: --only=slug1,slug2
 for fp in sorted(glob.glob(str(ROOT/'src/content/news/*.md'))):
     p = pathlib.Path(fp)
+    if ONLY and p.stem not in ONLY:
+        continue
     text = p.read_text(encoding='utf-8')
     fm, body = split_frontmatter(text)
     if FIX_DEAD:

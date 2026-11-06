@@ -196,7 +196,7 @@ Aリーグは全7節で、下位はBリーグとの入替で昇降格します�
 | 年度 | 参加校 |
 |:---|:---|
 | **2026-2027** | [早稲田大学](/teams/university/waseda-university/)、東海大学、[明治大学](/teams/university/meiji-university/)、筑波大学、[帝京大学](/teams/university/teikyo-university/) |
-| 2025-2026 | 早稲田大学、明治大学、帝京大学、東海大学、慶應義塾大学 |
+| 2025-2026 | [早稲田大学](/teams/university/waseda-university/)、[明治大学](/teams/university/meiji-university/)、[帝京大学](/teams/university/teikyo-university/)、東海大学、慶應義塾大学 |
 
 ---
 

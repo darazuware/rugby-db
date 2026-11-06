@@ -28,7 +28,7 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "セール・シ�
 | Tom CURRY | トム・カリー | フランカー | [イングランド代表](/national-teams/england/) | 71 |
 | Luke COWAN-DICKIE | ルーク・コーワン=ディッキー | フッカー | [イングランド代表](/national-teams/england/) | 61 |
 | Ben CURRY | ベン・カリー | フランカー | [イングランド代表](/national-teams/england/) | 14 |
-| Tom ROEBUCK | トム・ローバック | ウィング | イングランド代表 | 12 |
+| Tom ROEBUCK | トム・ローバック | ウィング | [イングランド代表](/national-teams/england/) | 12 |
 | Bevan RODD | ベヴァン・ロッド | プロップ | イングランド代表 | 10 |
 | Raffi QUIRKE | ラフィ・クワーク | スクラムハーフ | イングランド代表 | 2 |
 | Asher OPOKU-FORDJOUR | アッシャー・オポク=フォーダー | プロップ | イングランド代表 | 8 |

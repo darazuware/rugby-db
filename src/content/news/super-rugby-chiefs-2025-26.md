@@ -29,7 +29,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "チーフス"]
 | Simon PARKER | サイモン・パーカー | フランカー/No8 | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Samipeni FINAU | [サミペニ・フィナウ](/players/samipeni-finau/) | フランカー/No8 | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Luke JACOBSON | ルーク・ジェイコブソン | フランカー/No8 | [ニュージーランド代表](/national-teams/new-zealand/) | 29 |
-| Wallace SITITI | ウォレス・シティティ | フランカー/No8 | ニュージーランド代表 | — |
+| Wallace SITITI | ウォレス・シティティ | フランカー/No8 | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Cortez RATIMA | コルテス・ラティマ | スクラムハーフ | ニュージーランド代表 | — |
 | Te Toiroa TAHURIORANGI | テ・トイロア・タフリオランギ | スクラムハーフ | ニュージーランド代表 | — |
 | Damian MCKENZIE | デイミアン・マッケンジー | スタンドオフ | ニュージーランド代表 | 82 |

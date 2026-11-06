@@ -33,7 +33,7 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "サラセンズ"]
 | Lucio CINTI | ルシオ・チンティ | センター | [アルゼンチン代表](/national-teams/argentina/) | 39 |
 | Nick ISIEKWE | ニック・イシェクウェ | ロック | [イングランド代表](/national-teams/england/) | 15 |
 | Theo MCFARLAND | テオ・マクファーランド | フランカー | [サモア代表](/national-teams/samoa/) | 19 |
-| Theo DAN | テオ・ダン | フッカー | イングランド代表 | 20 |
+| Theo DAN | テオ・ダン | フッカー | [イングランド代表](/national-teams/england/) | 20 |
 | Alex LOZOWSKI | アレックス・ロゾウスキー | センター | イングランド代表 | 5 |
 
 ## その他在籍選手（2025-26シーズン）

@@ -1,8 +1,11 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import { getLiveNews } from "../../lib/news";
+import { getIndexableNews } from "../../lib/news";
 
-const news = await getLiveNews();
+const all = await getIndexableNews();
+const isFeature = (c?: string) => c === "COLUMN" || c === "GUIDE";
+const features = all.filter((e) => isFeature(e.data.category));
+const news = all.filter((e) => !isFeature(e.data.category));
 
 const formatDate = (date: Date) => {
   return date.toLocaleDateString("ja-JP", {
@@ -27,6 +30,47 @@ const formatDate = (date: Date) => {
       </p>
     </header>
 
+    <nav class="flex flex-wrap gap-3 mb-12" aria-label="カテゴリ">
+      <a href="#columns" class="px-5 py-3 bg-yellow-400 text-black font-black text-[11px] rounded-xl uppercase tracking-widest hover:bg-white transition-all">COLUMN / GUIDE ({features.length})</a>
+      <a href="#latest" class="px-5 py-3 bg-foreground/5 border border-border-dim text-foreground/70 font-black text-[11px] rounded-xl uppercase tracking-widest hover:bg-yellow-400 hover:text-black transition-all">NEWS ({news.length})</a>
+    </nav>
+
+    <section id="columns" class="mb-16 scroll-mt-24">
+      <h2 class="text-2xl font-black text-foreground italic tracking-tighter mb-2">コラム・ガイド</h2>
+      <p class="text-sm text-foreground/60 font-medium mb-6">RWC2027出場国の分析や日本代表の戦力整理など、独自視点の読みもの。</p>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-8">
+      {
+        features.map((item) => (
+          <a
+            href={`/news/${item.slug}/`}
+            class="group bg-card rounded-2xl border border-border-dim p-6 hover:border-yellow-400 transition-all hover:shadow-xl flex flex-col h-full"
+          >
+            <div class="flex items-center gap-3 mb-4">
+              <span class="bg-yellow-400 text-black text-[10px] font-black px-2 py-0.5 rounded uppercase tracking-widest">
+                {item.data.category || "NEWS"}
+              </span>
+              <time datetime={item.data.pubDate.toISOString()} class="text-xs text-foreground/60 font-bold font-mono">
+                {formatDate(item.data.pubDate)}
+              </time>
+            </div>
+            <h2 class="text-xl font-black text-foreground group-hover:text-yellow-400 transition-colors mb-3 leading-tight">
+              {item.data.title}
+            </h2>
+            <p class="text-sm text-foreground/60 line-clamp-3 mb-6">
+              {item.data.description ?? `${item.data.title}に関するRUGBY PICKSのニュース記事です。`}
+            </p>
+            <div class="mt-auto flex items-center justify-between text-xs font-bold uppercase tracking-widest text-foreground/20 group-hover:text-yellow-400/50 transition-colors">
+              <span>Read More</span>
+              <span>→</span>
+            </div>
+          </a>
+        ))
+      }
+    </div>
+    </section>
+    <section id="latest" class="mb-16 scroll-mt-24">
+      <h2 class="text-2xl font-black text-foreground italic tracking-tighter mb-2">ニュース</h2>
+      <p class="text-sm text-foreground/60 font-medium mb-6">試合レポート・移籍・代表発表などを新しい順に掲載。</p>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-8">
       {
         news.map((item) => (
@@ -56,5 +100,6 @@ const formatDate = (date: Date) => {
         ))
       }
     </div>
+    </section>
   </div>
 </Layout>

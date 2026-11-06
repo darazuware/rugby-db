@@ -4,7 +4,7 @@ import nationalTeamsConfig from "../../../data/national_teams_config.json";
 import nationalPlayersMap from "../../../data/national_players_map.json";
 import NationalPlayerList from "../../components/NationalPlayerList";
 import type { CollectionEntry } from "astro:content";
-import { getLiveNews } from "../../lib/news";
+import { getIndexableNews } from "../../lib/news";
 import { getPlayerHrefResolver, getPlayerSlugResolution } from "../../lib/master";
 
 export const prerender = true;
@@ -34,7 +34,7 @@ const players = ((nationalPlayersMap as any)[team.id] || []).map((p: any) => ({
 // その国の関連記事（news）。tag か title にチーム名（「代表」を除いた短縮名）を含むものを集める。
 // 未公開・下書きは除外（news/[slug] の生成条件と同じ lib/news.ts の基準。リンク切れ防止）。
 const countryTag = team.name.replace(/代表$/, "").trim();
-const allNews = await getLiveNews();
+const allNews = await getIndexableNews();
 // タイトルに国名を含む記事＝その国が主題（tag の substring 一致は
 // 「日本代表」タグを他国記事が持つため誤検知するので使わない）。
 // 先頭タグが国名と完全一致する場合も拾う（国別ガイドは先頭タグが国名）。

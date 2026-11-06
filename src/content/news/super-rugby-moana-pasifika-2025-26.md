@@ -29,7 +29,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "モアナパ�
 | Miracle FAI'ILAGI | ミラクル・ファイラギ | フランカー/No8 | [サモア代表](/national-teams/samoa/) | 9 |
 | Semisi PAEA | セミシ・パエア | フランカー/No8 | [トンガ代表](/national-teams/tonga/) | 13 |
 | Tupou MA'AFU-AFUNGIA | トゥポウ・マアフ・アフンギア | フランカー/No8 | [トンガ代表](/national-teams/tonga/) | — |
-| Augustine PULU | オーガスティン・プル | スクラムハーフ | トンガ代表 | 10 |
+| Augustine PULU | オーガスティン・プル | スクラムハーフ | [トンガ代表](/national-teams/tonga/) | 10 |
 | Melani MATAVAO | メラニ・マタバオ | スクラムハーフ | [サモア代表](/national-teams/samoa/) | — |
 | Jonathan TAUMATEINE | ジョナサン・タウマテイン | スクラムハーフ | [サモア代表](/national-teams/samoa/) | — |
 | Pat PELLEGRINI | パット・ペレグリーニ | スタンドオフ | [トンガ代表](/national-teams/tonga/) | — |

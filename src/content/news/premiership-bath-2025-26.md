@@ -31,8 +31,8 @@ tags: ["プレミアシップ", "チーム紹介", "2025-26", "バース"]
 | Sam UNDERHILL | サム・アンダーヒル | フランカー | [イングランド代表](/national-teams/england/) | 50 |
 | Chris HARRIS | クリス・ハリス | センター | [スコットランド代表](/national-teams/scotland/) | 46 |
 | Cameron REDPATH | キャメロン・レッドパス | センター | [スコットランド代表](/national-teams/scotland/) | 15 |
-| Josh BAYLISS | ジョシュ・ベイリス | フランカー | スコットランド代表 | 18 |
-| Joe COKANASIGA | ジョー・コカナシガ | ウィング | イングランド代表 | 16 |
+| Josh BAYLISS | ジョシュ・ベイリス | フランカー | [スコットランド代表](/national-teams/scotland/) | 18 |
+| Joe COKANASIGA | ジョー・コカナシガ | ウィング | [イングランド代表](/national-teams/england/) | 16 |
 | Henry ARUNDELL | ヘンリー・アランデル | フルバック | イングランド代表 | 13 |
 | Thomas DU TOIT | トーマス・デュ・トワ | プロップ | [南アフリカ代表](/national-teams/south-africa/) | 32 |
 | Ted HILL | テッド・ヒル | フランカー | イングランド代表 | 5 |

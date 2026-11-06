@@ -29,7 +29,7 @@ tags: ["スーパーラグビー", "チーム紹介", "2025-26", "ウェスタ�
 | Nic DOLLY | ニック・ドリー | フッカー | [イングランド代表](/national-teams/england/) | — |
 | Brandon PAENGA-AMOSA | ブランドン・ペンガ・アモサ | フッカー | [オーストラリア代表](/national-teams/australia/) | — |
 | Darcy SWAIN | ダーシー・スウェイン | ロック | [オーストラリア代表](/national-teams/australia/) | — |
-| Carlo TIZZANO | カルロ・ティッツァーノ | フランカー/No8 | オーストラリア代表 | — |
+| Carlo TIZZANO | カルロ・ティッツァーノ | フランカー/No8 | [オーストラリア代表](/national-teams/australia/) | — |
 | Ben DONALDSON | ベン・ドナルドソン | スタンドオフ | オーストラリア代表 | 26 |
 | George BRIDGE | [ジョージ・ブリッジ](/players/george-bridge/) | ウィング | [ニュージーランド代表](/national-teams/new-zealand/) | — |
 | Kurtley BEALE | カートリー・ビール | フルバック | [オーストラリア代表](/national-teams/australia/) | — |

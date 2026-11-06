@@ -94,4 +94,4 @@ RUGBY PICKSの名鑑データで現役[フランス代表](/national-teams/franc
 - 👉 [日本代表 2026年の試合日程](/news/japan-2026-fixtures/)
 - 👉 [ラグビーワールドカップ2027 完全ガイド](/news/rugby-world-cup-2027-guide/)
 
-フランス代表の現役選手は[出場国ページ](/national-teams/france/)から一覧できます。
+[フランス代表](/national-teams/france/)の現役選手は[出場国ページ](/national-teams/france/)から一覧できます。
