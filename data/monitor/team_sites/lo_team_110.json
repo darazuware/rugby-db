@@ -3,13 +3,13 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-11-07T02:44:58+09:00",
+  "checked_at": "2026-11-07T19:58:36+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "b0f5f3dcce892185"
+      "hash": "c0a68388ba13476c"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
@@ -43,21 +43,6 @@
       "date": "2026-11-02"
     },
     {
-      "url": "https://www.kyudenvoltex.com/news/1014",
-      "title": "チケット・ 試合情報",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/game/r186",
-      "title": "試合レポート",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/game/p186",
-      "title": "メンバー",
-      "date": "2026-10-30"
-    },
-    {
       "url": "https://www.kyudenvoltex.com/news/1016",
       "title": "地域・社会貢献 2026年10月29日 北九州市立筒井小学校でラグビー体験授業を実施しました",
       "date": "2026-10-29"
@@ -66,6 +51,11 @@
       "url": "https://www.kyudenvoltex.com/news/1015",
       "title": "お知らせ 2026年10月26日 大分合宿がスタートしました",
       "date": "2026-10-26"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/1014",
+      "title": "試合情報 2026年10月23日 【プレシーズンマッチ】10/30(金)横浜キヤノンイーグルス戦",
+      "date": "2026-10-23"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1013",
@@ -216,6 +206,16 @@
       "url": "https://www.kyudenvoltex.com/news/931",
       "title": "アカデミー 2025年11月20日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第22回",
       "date": "2025-11-20"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/930",
+      "title": "アカデミー 2025年11月18日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第21回",
+      "date": "2025-11-18"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/929",
+      "title": "アカデミー 2025年11月17日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第20回",
+      "date": "2025-11-17"
     }
   ]
 }

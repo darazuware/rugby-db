@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-07T02:44:58+09:00",
+  "checked_at": "2026-11-07T19:58:36+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -22,7 +22,9 @@
       "first_run": false,
       "item_count": 60,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.kobesteelers.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -33,8 +35,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/news/2024/20240420_01/",
+          "title": "グッズ 2024年04月20日 会場をワイルドナイツブル―に染めろ ～王座奪還キャンペーン～実施のお知らせ ニュースを見る",
+          "date": "2024-04-20",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -46,7 +58,9 @@
       "first_run": false,
       "item_count": 41,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.bravelupus.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -71,9 +85,9 @@
       "item_count": 24,
       "new_items": [
         {
-          "url": "https://www.honda-heat.jp/news/2467/",
-          "title": "トピックス 2026.11.6 【チケット】2026-27シーズン企画チケット①TARPシート",
-          "date": "2026-11-06",
+          "url": "https://www.honda-heat.jp/news/2466/",
+          "title": "トピックス 2026.11.7 【チケット】2026-27シーズン企画チケット②HAB ( HEAT AND BEER ) 立見席",
+          "date": "2026-11-07",
           "category": null
         }
       ],
@@ -118,17 +132,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 4,
-      "new_items": [
-        {
-          "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260909a.html",
-          "title": "(11/6更新) NTT JAPAN RUGBY LEAGUE ONE 2026-27 試合日程のお知らせ",
-          "date": "2026-09-09",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://blackrams-tokyo.com/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -190,8 +195,23 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kyudenvoltex.com/news/930",
+          "title": "アカデミー 2025年11月18日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第21回",
+          "date": "2025-11-18",
+          "category": null
+        },
+        {
+          "url": "https://www.kyudenvoltex.com/news/929",
+          "title": "アカデミー 2025年11月17日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第20回",
+          "date": "2025-11-17",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kyudenvoltex.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -199,13 +219,11 @@
       "league": "league-one-d2",
       "name": "清水建設江東ブルーシャークス",
       "official_url": "https://blue-sharks.jp/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 24,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://blue-sharks.jp/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -213,9 +231,9 @@
       "league": "league-one-d2",
       "name": "豊田自動織機シャトルズ愛知",
       "official_url": "https://shuttles-aichi.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 6,
+      "item_count": 0,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -225,15 +243,11 @@
       "league": "league-one-d2",
       "name": "日本製鉄釜石シーウェイブス",
       "official_url": "https://kamaishi-seawaves.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 17,
+      "item_count": 0,
       "new_items": [],
-      "changed_pages": [
-        "https://kamaishi-seawaves.com/",
-        "https://kamaishi-seawaves.com/news/",
-        "https://kamaishi-seawaves.com/news/info/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -246,14 +260,15 @@
       "item_count": 31,
       "new_items": [
         {
-          "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub/",
-          "title": "2026.08.03 ファンクラブ イベント 【重要】LINERS FANCLUB 2026-27 自動継続入会について",
+          "url": "https://hanazono-liners.jp/2026/08/03/liners-fanclub-2/",
+          "title": "2026.08.03 ファンクラブ イベント 【LINERS FANCLUB】2026-27 SEASON ファンクラブ概要決定のお知らせ",
           "date": "2026-08-03",
           "category": null
         }
       ],
       "changed_pages": [
-        "https://hanazono-liners.jp/"
+        "https://hanazono-liners.jp/",
+        "https://hanazono-liners.jp/news/"
       ],
       "rename_signals": []
     },
@@ -277,9 +292,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8999",
+          "title": "お知らせ 2026年11月7日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 DIVISION 2 第3-7節キックオフ時間決定のお知らせ",
+          "date": "2026-11-07",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://docomo-rugby.jp/"
+        "https://docomo-rugby.jp/",
+        "https://docomo-rugby.jp/news/"
       ],
       "rename_signals": []
     },
@@ -290,8 +313,33 @@
       "official_url": "https://www.kurita-watergush.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 42,
-      "new_items": [],
+      "item_count": 44,
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20271107-2/",
+          "title": "私とWATER GUSH #24 山本快 WTB 凡事徹底、やるならちゃんと 2026/11/07",
+          "date": "2027-11-07",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/games/",
+          "title": "全ての試合情報はこちら",
+          "date": "2026-11-14",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261114-wg%e6%98%ad%e5%b3%b6-vslr%e7%a6%8f%e5%b2%a1/",
+          "title": "このゲームの詳細情報はこちら",
+          "date": "2026-11-14",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261107-%e9%87%9c%e7%9f%b3sw-vswg%e6%98%ad%e5%b3%b6/",
+          "title": "試合詳細結果",
+          "date": "2026-11-07",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -315,22 +363,11 @@
       "league": "league-one-d3",
       "name": "中国電力レッドレグリオンズ",
       "official_url": "https://rrrfc.red/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 16,
-      "new_items": [
-        {
-          "url": "https://rrrfc.red/game/game-6777/",
-          "title": "MORE",
-          "date": "2026-11-07",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://rrrfc.red/",
-        "https://rrrfc.red/blog/",
-        "https://rrrfc.red/categories/news/"
-      ],
+      "item_count": 0,
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -342,7 +379,9 @@
       "first_run": false,
       "item_count": 45,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.skyactivs.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -362,9 +401,9 @@
       "league": "league-one-d3",
       "name": "ルリーロ福岡",
       "official_url": "https://leriro-fukuoka.com/",
-      "status": "ok",
+      "status": "unreachable",
       "first_run": false,
-      "item_count": 11,
+      "item_count": 0,
       "new_items": [],
       "changed_pages": [],
       "rename_signals": []
@@ -404,5 +443,11 @@
   ],
   "highlights": [],
   "league_rename_news": [],
-  "warnings": []
+  "warnings": [
+    "清水建設江東ブルーシャークス: 到達できるページがない: https://blue-sharks.jp/",
+    "豊田自動織機シャトルズ愛知: 到達できるページがない: https://shuttles-aichi.com/",
+    "日本製鉄釜石シーウェイブス: 到達できるページがない: https://kamaishi-seawaves.com/",
+    "中国電力レッドレグリオンズ: 到達できるページがない: https://rrrfc.red/",
+    "ルリーロ福岡: 到達できるページがない: https://leriro-fukuoka.com/"
+  ]
 }

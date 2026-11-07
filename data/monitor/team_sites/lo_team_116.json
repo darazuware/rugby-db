@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-11-07T02:44:58+09:00",
+  "checked_at": "2026-11-07T19:58:36+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "6601a73d21e58b5c"
+      "hash": "5affd3c4b6043674"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "7e0c9752a8974ac3"
+      "hash": "1be2dc6e650d2d80"
     }
   ],
   "items": [
@@ -21,6 +21,11 @@
       "url": "https://docomo-rugby.jp/campaign/2027/lp/20261219_no_inv.html",
       "title": "12月19日（土）CENTRALプ レミアムマッチ特設サイト MORE",
       "date": "2026-12-19"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8999",
+      "title": "お知らせ 2026年11月7日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 DIVISION 2 第3-7節キックオフ時間決定のお知らせ",
+      "date": "2026-11-07"
     },
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8997",
@@ -221,11 +226,6 @@
       "url": "https://docomo-rugby.jp/news/detail.html?id=8849",
       "title": "お知らせ 2026年8月27日 山口泰輝選手 7人制ラグビー日本代表選出のお知らせ",
       "date": "2026-08-27"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8845",
-      "title": "試合情報 2026年8月26日 2026-27シーズン プレシーズンマッチ追加決定および「OSAKA FUNtast!c SPORTS PROJECT」参画のお知らせ",
-      "date": "2026-08-26"
     }
   ]
 }

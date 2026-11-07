@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-11-07T02:44:58+09:00",
+  "checked_at": "2026-11-07T19:58:36+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "b2a5279b5ebcae26"
+      "hash": "1fa4a2cfe51f4b45"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "eec0062be183aa93"
+      "hash": "d00aff88704c0751"
     }
   ],
   "items": [
@@ -28,18 +28,18 @@
       "date": "2026-12-05"
     },
     {
+      "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
+      "title": "試合日程一覧",
+      "date": "2026-11-14"
+    },
+    {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/",
       "title": "試合詳細",
       "date": "2026-11-14"
     },
     {
-      "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
-      "title": "試合日程一覧",
-      "date": "2026-11-07"
-    },
-    {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261107/",
-      "title": "試合詳細",
+      "title": "結果詳細",
       "date": "2026-11-07"
     },
     {
@@ -81,11 +81,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261020_01/",
       "title": "チーム 2026年10月20日 2026-27シーズン ジャージデザイン決定 ニュースを見る",
       "date": "2026-10-20"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261017/",
-      "title": "結果詳細",
-      "date": "2026-10-17"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261016_01/",
@@ -216,6 +211,11 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2025/20250421_01/",
       "title": "グッズ 2025年04月21日 We Are Wild Knights キャンペーンのお知らせ ニュースを見る",
       "date": "2025-04-21"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2024/20240420_01/",
+      "title": "グッズ 2024年04月20日 会場をワイルドナイツブル―に染めろ ～王座奪還キャンペーン～実施のお知らせ ニュースを見る",
+      "date": "2024-04-20"
     }
   ]
 }

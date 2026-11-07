@@ -3,24 +3,44 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-07T02:44:58+09:00",
+  "checked_at": "2026-11-07T19:58:36+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "75ab156b39e563f5"
+      "hash": "24cc1d6e8952e771"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "e001a70bb7621ac1"
+      "hash": "5fd56a1ab056544e"
     }
   ],
   "items": [
     {
+      "url": "https://www.kurita-watergush.jp/20271107-2/",
+      "title": "私とWATER GUSH #24 山本快 WTB 凡事徹底、やるならちゃんと 2026/11/07",
+      "date": "2027-11-07"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/games/",
+      "title": "全ての試合情報はこちら",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/game/20261114-wg%e6%98%ad%e5%b3%b6-vslr%e7%a6%8f%e5%b2%a1/",
+      "title": "このゲームの詳細情報はこちら",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/game/20261107-%e9%87%9c%e7%9f%b3sw-vswg%e6%98%ad%e5%b3%b6/",
+      "title": "試合詳細結果",
+      "date": "2026-11-07"
+    },
+    {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-06"
+      "date": "2026-11-07"
     },
     {
       "url": "https://www.kurita-watergush.jp/category/news/",
@@ -63,13 +83,8 @@
       "date": "2026-11-01"
     },
     {
-      "url": "https://www.kurita-watergush.jp/game/20261031-wg%e6%98%ad%e5%b3%b6-vsl%e6%88%b8%e7%94%b0/",
-      "title": "試合詳細結果",
-      "date": "2026-10-31"
-    },
-    {
       "url": "https://www.kurita-watergush.jp/20261030-2/",
-      "title": "私とWATER GUSH #17 カウリ・ティペネ＝グレース FB/WTB パースから昭島へ。 2026/10/30",
+      "title": "私とウォーターガッシュ 公開日：2026/10/30 私とWATER GUSH #17 カウリ・ティペネ＝グレース FB/WTB パースから昭島へ。 今回の”私とWATER GUSH”はオーストラリア西部の都市パース出身のカウリ・ティペネ＝グレース選手。フルバ… 続きを読む",
       "date": "2026-10-30"
     },
     {
@@ -221,11 +236,6 @@
       "url": "https://www.kurita-watergush.jp/20260928-2/",
       "title": "地域貢献 公開日：2026/09/28 【イベント報告】モリタウン チームPR活動実施 （前列左から：河井祐樹、伊藤森心、横田大輝、山﨑海、後列左から：楠大輝、小山田裕悟、柳田翔吾、井口… 続きを読む",
       "date": "2026-09-28"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260924-3/",
-      "title": "地域貢献 公開日：2026/09/24 【地域活動報告】児童の登校見守り活動① 実施日：9月24日（木）実施場所：拝島二小南交差点 「秋の全国交通安全運動」期間に伴い、大型車両の通行… 続きを読む",
-      "date": "2026-09-24"
     }
   ]
 }
