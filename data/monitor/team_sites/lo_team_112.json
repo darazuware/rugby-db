@@ -3,23 +3,28 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-11-07T02:44:58+09:00",
+  "checked_at": "2026-11-08T01:41:33+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "d8ab7b1b8d7956f6"
+      "hash": "ec7e5a211ce587cc"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "9a71be280b3260c2"
+      "hash": "d75d1e5af55fcc73"
     }
   ],
   "items": [
     {
       "url": "https://shuttles-aichi.com/news/2026-11-7-saturday-pre-season-match-vs-ricoh-black-rams-tokyo-participating-members/",
       "title": "お知らせ 26年11月05日 2026/11/7(土) プレシーズンマッチ vs リコーブラックラムズ東京 出場メンバー",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/2026-11-7-sat-pre-season-match-vs-ricoh-black-rams-tokyo-photo-gallery/",
+      "title": "フォトギャラリー",
       "date": "2026-11-07"
     },
     {
@@ -41,11 +46,6 @@
       "url": "https://shuttles-aichi.com/news/supported-club-activities-for-the-nagoya-municipal-sakurada-junior-high-school-rugby-club/",
       "title": "お知らせ 2026.10.28 名古屋市立桜田中学校ラグビー部への部活動支援を実施しました",
       "date": "2026-10-28"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/2026-10-25-preseason-match-vs-red-hurricanes-osaka-photo-gallery/",
-      "title": "フォトギャラリー 26年10月25日 2026/10/25(日)プレシーズンマッチ vsレッドハリケーンズ大阪 フォトギャラリー",
-      "date": "2026-10-25"
     }
   ]
 }

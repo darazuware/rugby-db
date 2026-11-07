@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-11-07T02:44:58+09:00",
+  "checked_at": "2026-11-08T01:41:33+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "bff385a708ef5b22"
+      "hash": "c2b6b7d336ed9ca3"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "cf63f52097a28c3e"
+      "hash": "f1739affa7686965"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "3eb6e63b7b1ac306"
+      "hash": "75456ea8873b0587"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/33253/",
+      "title": "お知らせ 2026.11.7 2026トレーニングマッチ 第5戦 清水建設江東ブルーシャークス戦中止のお知らせ",
+      "date": "2026-11-07"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/info/33221/",
       "title": "お知らせ 2026.11.6 【NTTリーグワン2026-27】ホストゲーム チケット販売スケジュールのお知らせ",
@@ -100,11 +105,6 @@
       "url": "https://kamaishi-seawaves.com/news/info/32434/",
       "title": "お知らせ 2026.9.15 2026-27シーズン キャプテン決定のお知らせ",
       "date": "2026-09-15"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/31656/",
-      "title": "お知らせ 2026.9.12 「ジャパンラグビー リーグワン ライジング 2026」開催のお知らせ",
-      "date": "2026-09-12"
     }
   ]
 }

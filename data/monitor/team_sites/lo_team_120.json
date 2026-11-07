@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-11-07T19:58:36+09:00",
+  "checked_at": "2026-11-08T01:41:33+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "7ab63f76e157e9d9"
+      "hash": "21e3b4b2a7b2328f"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "793a8377cc09735e"
+      "hash": "879a2618e64ea0c7"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
@@ -29,6 +29,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.skyactivs.com/news/5047",
+      "title": "2026.11.06[FRI] GAME NTTジャパンラグビー リーグワン2026-27 D2 第3-7節 キックオフ時間決定のお知らせ",
+      "date": "2026-11-06"
+    },
     {
       "url": "https://www.skyactivs.com/news/5008",
       "title": "2026.11.06[FRI] GAME 【駐車場情報】vs 川越狭山セコムラガッツ（2026-27 D2 第1節）",
@@ -223,11 +228,6 @@
       "url": "https://www.skyactivs.com/news/4363",
       "title": "2026.07.01[WED] ACTIVITY 広島市長を表敬訪問しました（2026年7月1日）",
       "date": "2026-07-01"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/4303",
-      "title": "2026.06.19[FRI] GAME 【メンバー発表】マツダスカイアクティブズ広島・シーライオンズ合同チーム",
-      "date": "2026-06-19"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",
