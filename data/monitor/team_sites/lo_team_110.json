@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-11-08T20:12:48+09:00",
+  "checked_at": "2026-11-09T01:52:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "c0a68388ba13476c"
+      "hash": "f2ef331d058ece61"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "3468d93ea84f840d"
+      "hash": "a471aa0a1f98afa8"
     }
   ],
   "items": [
@@ -29,12 +29,12 @@
     },
     {
       "url": "https://www.kyudenvoltex.com/news/998",
-      "title": "お知らせ 2026年11月06日 NEW NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ(11/6更新)",
+      "title": "お知らせ 2026年11月06日 NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ(11/6更新)",
       "date": "2026-11-06"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1020",
-      "title": "お知らせ 2026年11月06日 NEW 【NTTリーグワン2026-27】ホストゲーム チケット販売のお知らせ",
+      "title": "お知らせ 2026年11月06日 【NTTリーグワン2026-27】ホストゲーム チケット販売のお知らせ",
       "date": "2026-11-06"
     },
     {
