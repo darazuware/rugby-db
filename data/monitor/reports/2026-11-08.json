@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-08T01:41:33+09:00",
+  "checked_at": "2026-11-08T20:12:48+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -70,7 +70,10 @@
       "first_run": false,
       "item_count": 24,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.honda-heat.jp/",
+        "https://www.honda-heat.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -132,7 +135,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 31,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3258",
+          "title": "2026.11.8[SUN] TICKET 日野 剛志選手が考案！今シーズンも＜ひのたけシート＞で子ども達をヤマハスタジアムにご招待！",
+          "date": "2026-11-08",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -147,8 +157,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/cmrf26svcfs.html",
+          "title": "2026年 11月 8日 秩父宮みなとラグビーまつり2026 supported by SMBC フレンドシップマッチ 東京サンゴリアスvsチーフス戦のご案内 秩父宮みなとラグビーまつり2026 supported by SMBCフレンドシップマッチ ■試合日時 2…",
+          "date": "2026-11-08",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -197,17 +217,9 @@
       "status": "ok",
       "first_run": false,
       "item_count": 6,
-      "new_items": [
-        {
-          "url": "https://shuttles-aichi.com/news/2026-11-7-sat-pre-season-match-vs-ricoh-black-rams-tokyo-photo-gallery/",
-          "title": "フォトギャラリー",
-          "date": "2026-11-07",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
-        "https://shuttles-aichi.com/",
-        "https://shuttles-aichi.com/news/"
+        "https://shuttles-aichi.com/"
       ],
       "rename_signals": []
     },
@@ -219,14 +231,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 17,
-      "new_items": [
-        {
-          "url": "https://kamaishi-seawaves.com/news/info/33253/",
-          "title": "お知らせ 2026.11.7 2026トレーニングマッチ 第5戦 清水建設江東ブルーシャークス戦中止のお知らせ",
-          "date": "2026-11-07",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://kamaishi-seawaves.com/",
         "https://kamaishi-seawaves.com/news/",
@@ -283,7 +288,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 44,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261108-2/",
+          "title": "私とWATER GUSH #25 大谷晃生 PR 仕事もラグビーも、全力で。 2026/11/08",
+          "date": "2026-11-08",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -311,9 +323,7 @@
       "first_run": false,
       "item_count": 15,
       "new_items": [],
-      "changed_pages": [
-        "https://rrrfc.red/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -324,17 +334,9 @@
       "status": "ok",
       "first_run": false,
       "item_count": 45,
-      "new_items": [
-        {
-          "url": "https://www.skyactivs.com/news/5047",
-          "title": "2026.11.06[FRI] GAME NTTジャパンラグビー リーグワン2026-27 D2 第3-7節 キックオフ時間決定のお知らせ",
-          "date": "2026-11-06",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
-        "https://www.skyactivs.com/",
-        "https://www.skyactivs.com/news"
+        "https://www.skyactivs.com/"
       ],
       "rename_signals": []
     },
@@ -381,7 +383,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54317",
+          "title": "ネーションズチャンピオンシップ2026 ウェールズ代表戦 試合後コメント 2026.11.08 （日） 15人制男子日本代表 WBB 男子 日本代表戦 ネーションズチャンピオンシップ",
+          "date": "2026-11-08",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54311",
+          "title": "「ネーションズチャンピオンシップ2026」日本代表 対 ウェールズ代表 試合結果のお知らせ 2026.11.08 （日） 15人制男子日本代表 WBB ネーションズチャンピオンシップ 日本代表戦",
+          "date": "2026-11-08",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54283",
+          "title": "（11/8更新）第63回全国大学ラグビーフットボール選手権大会 大会概要及び試合日程について 2026.11.08 （日） 大学",
+          "date": "2026-11-08",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -395,7 +416,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54317",
+      "title": "ネーションズチャンピオンシップ2026 ウェールズ代表戦 試合後コメント 2026.11.08 （日） 15人制男子日本代表 WBB 男子 日本代表戦 ネーションズチャンピオンシップ",
+      "date": "2026-11-08",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54311",
+      "title": "「ネーションズチャンピオンシップ2026」日本代表 対 ウェールズ代表 試合結果のお知らせ 2026.11.08 （日） 15人制男子日本代表 WBB ネーションズチャンピオンシップ 日本代表戦",
+      "date": "2026-11-08",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }

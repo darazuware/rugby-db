@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-08T01:41:33+09:00",
+  "checked_at": "2026-11-08T20:12:48+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "8e7a71bab8f78e7c"
+      "hash": "44e47a22a56e771d"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "0f20ac51aac9d641"
+      "hash": "becb3c0b45dc68d6"
     }
   ],
   "items": [
@@ -33,13 +33,18 @@
       "date": "2026-11-14"
     },
     {
-      "url": "https://www.kurita-watergush.jp/game/20261107-%e9%87%9c%e7%9f%b3sw-vswg%e6%98%ad%e5%b3%b6/",
-      "title": "試合詳細結果",
-      "date": "2026-11-07"
-    },
-    {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
+      "date": "2026-11-08"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261108-2/",
+      "title": "私とWATER GUSH #25 大谷晃生 PR 仕事もラグビーも、全力で。 2026/11/08",
+      "date": "2026-11-08"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/game/20261107-%e9%87%9c%e7%9f%b3sw-vswg%e6%98%ad%e5%b3%b6/",
+      "title": "試合詳細結果",
       "date": "2026-11-07"
     },
     {
@@ -79,7 +84,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261101-2/",
-      "title": "私とWATER GUSH #18 テビタ・オト FL/No.8クリタという”家族”とともに頂を目指す 2026/11/01",
+      "title": "私とウォーターガッシュ 公開日：2026/11/01 私とWATER GUSH #18 テビタ・オト FL/No.8クリタという”家族”とともに頂を目指す 今回の”私とWATER GUSH”はトンガから海を渡り、クリタで5シーズン目を迎えるテビタ・オト選手。（チーム内… 続きを読む",
       "date": "2026-11-01"
     },
     {
@@ -231,11 +236,6 @@
       "url": "https://www.kurita-watergush.jp/20260929-2/",
       "title": "地域貢献 公開日：2026/09/29 【地域活動報告】「踏切事故撲滅及びマナーアップキャンペーン」参加 （後列中央より：服部航平、中西貴則） 実施日：9月28日（月）実施場所：昭和飛行機前踏切 JR東日本 拝島… 続きを読む",
       "date": "2026-09-29"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260928-2/",
-      "title": "地域貢献 公開日：2026/09/28 【イベント報告】モリタウン チームPR活動実施 （前列左から：河井祐樹、伊藤森心、横田大輝、山﨑海、後列左から：楠大輝、小山田裕悟、柳田翔吾、井口… 続きを読む",
-      "date": "2026-09-28"
     }
   ]
 }

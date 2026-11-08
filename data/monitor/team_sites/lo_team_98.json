@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-08T01:41:33+09:00",
+  "checked_at": "2026-11-08T20:12:48+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "0370107e928bb081"
+      "hash": "ad02218766ac99f4"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "f7b38fb0269f733c"
+      "hash": "88ff5af9adbdad10"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3258",
+      "title": "2026.11.8[SUN] TICKET 日野 剛志選手が考案！今シーズンも＜ひのたけシート＞で子ども達をヤマハスタジアムにご招待！",
+      "date": "2026-11-08"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3224",
       "title": "2026.11.6[FRI] TICKET 浜松市にお住まいの250組500名様をご招待",
@@ -101,11 +106,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3230",
       "title": "2026.10.28[WED] FAN CLUB ホーム開幕に向けて＜ポスター貼り隊＞を募集",
       "date": "2026-10-28"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3238",
-      "title": "2026.10.27[TUE] SPONSOR 第3節のマッチデーパートナーに株式会社みずほフィナンシャルグループが決定",
-      "date": "2026-10-27"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3231",

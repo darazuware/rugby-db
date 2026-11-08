@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-11-08T01:41:33+09:00",
+  "checked_at": "2026-11-08T20:12:48+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "c716ec6fb5577487"
+      "hash": "0db9c3c11fbe43be"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "6b78567a8f073955"
+      "hash": "f8916f7224e60663"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/cmrf26svcfs.html",
+      "title": "2026年 11月 8日 秩父宮みなとラグビーまつり2026 supported by SMBC フレンドシップマッチ 東京サンゴリアスvsチーフス戦のご案内 秩父宮みなとラグビーまつり2026 supported by SMBCフレンドシップマッチ ■試合日時 2…",
+      "date": "2026-11-08"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2611-1041.html",
       "title": "2026年 11月 6日 #1041 松島 幸太朗 『自分との戦い』",
@@ -56,11 +61,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2026prime.html",
       "title": "2026年 10月30日 『秩父宮みなとラグビーまつり2026』～PRIMEパートナー決定～ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 東京サントリーサンゴリアスとチーフス(…",
       "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2610-1039.html",
-      "title": "2026年 10月23日 #1039 田代 智史 -2『常に自分に矢印を向けて、自分が成長すればチームは勝って行く』",
-      "date": "2026-10-23"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/NJRLO2627TSA.html",
