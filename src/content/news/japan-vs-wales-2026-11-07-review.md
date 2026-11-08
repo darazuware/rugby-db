@@ -4,7 +4,7 @@ pubDate: 2026-11-07
 category: "NEWS"
 tags: ["日本代表", "ウェールズ代表", "ネーションズチャンピオンシップ2026", "テストマッチ", "レビュー", "2026年"]
 source_diff: "jrfu_game_30145"
-draft: true
+draft: false
 ---
 
 2026年11月7日、Principality Stadium（ウェールズ）。ネーションズチャンピオンシップ2026で[日本代表](/national-teams/japan/)は[ウェールズ代表](/national-teams/wales/)と対戦し、**21-28** で敗戦しました。
