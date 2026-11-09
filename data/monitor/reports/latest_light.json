@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-09T18:01:35+09:00",
+  "checked_at": "2026-11-10T05:23:11+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,20 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6255",
-          "title": "クラブ 豊田自動織機シャトルズ愛知、2026-27シーズン チームスローガン及びリーダー決定のお知らせ 2026.11.09",
-          "date": "2026-11-09",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6254",
-          "title": "クラブ 埼玉パナソニックワイルドナイツ、2026年度 新加入選手のお知らせ 2026.11.09",
-          "date": "2026-11-09",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -34,10 +21,10 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54313",
-          "title": "【高校生以上誰でも参加可能!!】 2026年度「ラグビー・エンパワメント・プロジェクト」次世代リーダー育成事業 1dayセッション参加者募集のお知らせ 2026.11.09 （月） 大学 女子 高校 その他 JRFU 普及育成",
-          "date": "2026-11-09",
-          "category": null
+          "url": "https://www.rugby-japan.jp/news/54297",
+          "title": "（11/10更新）男子日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ 2026.11.10 （火） 15人制男子日本代表 WBB 男子 日本代表 リポビタンＤツアー2026",
+          "date": "2026-11-10",
+          "category": "squad"
         }
       ],
       "rename_signals": []
@@ -55,11 +42,11 @@
   ],
   "highlights": [
     {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6254",
-      "title": "クラブ 埼玉パナソニックワイルドナイツ、2026年度 新加入選手のお知らせ 2026.11.09",
-      "date": "2026-11-09",
-      "category": "roster"
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54297",
+      "title": "（11/10更新）男子日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ 2026.11.10 （火） 15人制男子日本代表 WBB 男子 日本代表 リポビタンＤツアー2026",
+      "date": "2026-11-10",
+      "category": "squad"
     }
   ],
   "league_rename_news": [],
