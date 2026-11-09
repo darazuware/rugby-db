@@ -3,28 +3,63 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-11-09T01:52:29+09:00",
+  "checked_at": "2026-11-09T21:44:04+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "62aacd7d9982e2a1"
+      "hash": "77d3ee2f908b3f8e"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "70a5994b7d55b4ed"
+      "hash": "2d0bc04ed74a18f0"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "dcf204d644b6d2e9"
+      "hash": "cfafda465f3b0569"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "b7201322e8618c88"
+      "hash": "aee9afb0cfaea7e4"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post36133/",
+      "title": "2026/11/9 イベント 11月7日(土)「コベルコ神戸スティーラーズフェスタ2026」を開催しました",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36112/",
+      "title": "2026/11/9 メディア 11月15日(日)糸井 嘉男のマッスル・スポーツチャレンジ ～ラグビー編～ 放送のお知らせ",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36077/",
+      "title": "2026/11/9 パートナー 【レポート】11月3日(火・祝)「2026-27シーズンパートナー決起集会」を開催しました",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36068/",
+      "title": "2026/11/9 イベント 【レポート】11月1日(日)「2026兵庫運河祭」にコーロクンが出演しました",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36063/",
+      "title": "2026/11/9 イベント 【レポート】10月31日(土)「第10回神戸パン祭り」に参加しました",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post35841/",
+      "title": "2026/11/9 ファンクラブ 11月28日(土)プレミアム会員/ゴールド会員/リモート＋G会員限定 プレシーズンマッチ観戦スタンド利用希望者募集のお知らせ",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://www.kobesteelers.com/interview/post36149/",
+      "title": "2026/11/9 チーム 【試合レポート】11月7日(土) プレシーズンマッチ JR東日本グリーンウォリアーズ東葛戦",
+      "date": "2026-11-09"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post36092/",
       "title": "2026/11/6 普及 【レポート】神戸市立摩耶小学校でタグラグビー教室を実施しました",
@@ -181,19 +216,9 @@
       "date": "2026-10-20"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35645/",
-      "title": "イベント コベルコ神戸スティーラーズフェスタ2026プログラム決定！ 2026/10/16",
-      "date": "2026-10-16"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35346/",
       "title": "2026/10/16 お知らせ 2026-27シーズンの公開練習についてのお知らせ",
       "date": "2026-10-16"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35630/",
-      "title": "2026/10/15 イベント 【レポート】「のびのびプレイランドin東遊園地」でラグビー体験を実施しました",
-      "date": "2026-10-15"
     },
     {
       "url": "https://www.kobesteelers.com/news/post35604/",
@@ -201,29 +226,9 @@
       "date": "2026-10-15"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35614/",
-      "title": "2026/10/13 チーム 【中止】12月5日(土)プレシーズンマッチ トヨタヴェルブリッツ戦中止のお知らせ",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35612/",
-      "title": "2026/10/13 イベント 【選手イベント参加情報】10月18日(日)下鴨神社で開催される「第10回タグラグビー大会記念－座談会－」に上村 樹輝選手、李 承信選手が出演します",
-      "date": "2026-10-13"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35547/",
       "title": "2026/10/13 お知らせ サーバーメンテナンスのお知らせ",
       "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.kobesteelers.com/interview/post35617/",
-      "title": "2026/10/13 試合 【試合レポート】 10月10日(土) ジャパンラグビー リーグワン ライジング2026 ルリーロ福岡戦",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35552/",
-      "title": "2026/10/9 グッズ 2026-27シーズン 背番号入りオーセンティックジャージー・レプリカジャージー受注販売のお知らせ",
-      "date": "2026-10-09"
     },
     {
       "url": "https://www.kobesteelers.com/news/post35506/",
@@ -319,11 +324,6 @@
       "url": "https://www.kobesteelers.com/news/post30086/",
       "title": "2025/12/5 お知らせ サーバーメンテナンスのお知らせ",
       "date": "2025-12-05"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post29666/",
-      "title": "2025/11/25 お知らせ 神戸三宮センター街でのチームPR活動実施について",
-      "date": "2025-11-25"
     }
   ]
 }

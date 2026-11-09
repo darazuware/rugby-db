@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-11-09T01:52:29+09:00",
+  "checked_at": "2026-11-09T21:44:04+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "814739bd9dbb6922"
+      "hash": "85fd3dc893e053ff"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "1be2dc6e650d2d80"
+      "hash": "b422a67b5b7a12f6"
     }
   ],
   "items": [
@@ -21,6 +21,11 @@
       "url": "https://docomo-rugby.jp/campaign/2027/lp/20261219_no_inv.html",
       "title": "12月19日（土）CENTRALプ レミアムマッチ特設サイト MORE",
       "date": "2026-12-19"
+    },
+    {
+      "url": "https://docomo-rugby.jp/csr/detail.html?id=8939",
+      "title": "SUSTAINABILITY 2026年11月9日 おおきに商店presents第17回ドコモカップ予選結果について",
+      "date": "2026-11-09"
     },
     {
       "url": "https://docomo-rugby.jp/news/detail.html?id=8999",
@@ -221,11 +226,6 @@
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8853",
       "title": "SUSTAINABILITY 2026年9月1日 【2026年8月】サステナNEWS",
       "date": "2026-09-01"
-    },
-    {
-      "url": "https://docomo-rugby.jp/news/detail.html?id=8849",
-      "title": "お知らせ 2026年8月27日 山口泰輝選手 7人制ラグビー日本代表選出のお知らせ",
-      "date": "2026-08-27"
     }
   ]
 }

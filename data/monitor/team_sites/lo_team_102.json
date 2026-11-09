@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-11-09T01:52:29+09:00",
+  "checked_at": "2026-11-09T21:44:04+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "1fa4a2cfe51f4b45"
+      "hash": "b5cd4d72f0d762ed"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "d00aff88704c0751"
+      "hash": "d02a1dac13624b22"
     }
   ],
   "items": [
@@ -36,6 +36,11 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/",
       "title": "試合詳細",
       "date": "2026-11-14"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261109_01/",
+      "title": "チーム 2026年11月09日 2026年度 新加入選手のお知らせ ニュースを見る",
+      "date": "2026-11-09"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261107/",
@@ -76,11 +81,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/#ticket",
       "title": "チケット 2026年10月23日 11月14日(土) グローバルラグビーフェスタ 2026 クイーンズランドレッズ... ニュースを見る",
       "date": "2026-10-23"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261020_01/",
-      "title": "チーム 2026年10月20日 2026-27シーズン ジャージデザイン決定 ニュースを見る",
-      "date": "2026-10-20"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261016_01/",

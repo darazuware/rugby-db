@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-11-09T01:52:29+09:00",
+  "checked_at": "2026-11-09T21:44:04+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "b6886b83bb958101"
+      "hash": "232d8bb71d232d1f"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "b6f0b4b4cb751704"
+      "hash": "eb959ee01019b2bd"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2084.html",
+      "title": "イベント 2026.11.09 2026.11.18 浦安Dパーク開放イベント「ウェルネスプロジェクト～アニマルフロー～」実施のお知らせ",
+      "date": "2026-11-09"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/index_2082.html",
       "title": "ニュース 2026.11.06 2026-27シーズン 第4節〜第9節 キックオフ時間決定のお知らせ",
@@ -49,7 +54,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_2075.html",
-      "title": "ファンクラブ 2026.10.30 2026.11.14「第2回 Club D-Rockers交流会」開催のお知らせ",
+      "title": "2026.10.30 ニュース 2026.11.14「第2回 Club D-Rockers交流会」開催のお知らせ",
       "date": "2026-10-30"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/game/index_2042.html",
       "title": "2026.10.05 ニュース 2026-27シーズン 第1節〜第3節 キックオフ時間決定のお知らせ",
       "date": "2026-10-05"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/partner/index_2039.html",
-      "title": "2026.10.01 ニュース 株式会社NTTドコモ・フィナンシャルグループとのゴールドパートナーシップ契約締結のお知らせ",
-      "date": "2026-10-01"
     }
   ]
 }

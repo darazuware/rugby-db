@@ -3,49 +3,59 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-11-09T01:52:29+09:00",
+  "checked_at": "2026-11-09T21:44:04+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "b75c850f98390072"
+      "hash": "dbf307cd4cbe3273"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "d75d1e5af55fcc73"
+      "hash": "337221ae017ab643"
     }
   ],
   "items": [
     {
-      "url": "https://shuttles-aichi.com/news/2026-11-7-saturday-pre-season-match-vs-ricoh-black-rams-tokyo-participating-members/",
-      "title": "お知らせ 26年11月05日 2026/11/7(土) プレシーズンマッチ vs リコーブラックラムズ東京 出場メンバー",
-      "date": "2026-11-07"
+      "url": "https://shuttles-aichi.com/news/tokai-city-watanoi-elementary-school-tag-rugby-visit-lesson-activity-report/",
+      "title": "お知らせ 2026.11.09 東海市立渡内小学校 タグラグビー訪問授業 実施報告",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/tokai-city-nawa-elementary-school-tag-rugby-visit-lesson-activity-report/",
+      "title": "フォトギャラリー お知らせ 2026.11.09 東海市立名和小学校 タグラグビー訪問授業 実施報告",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/tokai-city-kagiya-minami-elementary-school-tag-rugby-visit-lesson/",
+      "title": "フォトギャラリー お知らせ 2026.11.09 東海市立加木屋南小学校 タグラグビー訪問授業 実施報告",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/obu-city-higashiyama-elementary-school-tag-rugby-visiting-lesson-implementation-report/",
+      "title": "フォトギャラリー お知らせ 2026.11.09 大府市立東山小学校 タグラグビー訪問授業 実施報告",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/hekinan-city-central-elementary-school-tag-rugby-visit-lesson-activity-report/",
+      "title": "お知らせ 2026.11.09 碧南市立中央小学校 タグラグビー訪問授業 実施報告",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/2026-27-season-team-slogan-and-leadership-group-announced/",
+      "title": "お知らせ 2026.11.09 2026-27シーズン スローガンおよびリーダー体制発表！",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/",
+      "title": "もっと見る",
+      "date": "2026-11-09"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-11-7-sat-pre-season-match-vs-ricoh-black-rams-tokyo-photo-gallery/",
       "title": "フォトギャラリー",
       "date": "2026-11-07"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/notice-of-the-decision-of-the-kick-off-time-of-section-3-section-4-section-5-section-6-section-7/",
-      "title": "お知らせ 2026.11.06 第3節・第4節 ・第5節・第6節・第7節キックオフ時間決定のお知らせ",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/11-24feel-the-rugby-in-aeon-mall-higashiura/",
-      "title": "お知らせ イベント 2026.10.30 11/24（火）「ラグビーふれあいイベント Feel the Rugby in AEON MALL HIGASHIURA」開催のお知らせ",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/notice-of-free-invitation-for-residents-of-aichi-prefecture/",
-      "title": "お知らせ 2026.10.29 愛知県民無料ご招待のお知らせ",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/supported-club-activities-for-the-nagoya-municipal-sakurada-junior-high-school-rugby-club/",
-      "title": "お知らせ 2026.10.28 名古屋市立桜田中学校ラグビー部への部活動支援を実施しました",
-      "date": "2026-10-28"
     }
   ]
 }

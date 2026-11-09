@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-09T01:52:29+09:00",
+  "checked_at": "2026-11-09T21:44:04+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "3a12c9bb45c66df9"
+      "hash": "fd25b474ec7fe40f"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "c6ae81a2d7b1fe65"
+      "hash": "cbe7ee8ad661ae6a"
     }
   ],
   "items": [
@@ -35,7 +35,22 @@
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-08"
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/category/community/",
+      "title": "地域貢献",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261109-3/",
+      "title": "地域貢献 2026/11/09 【イベント報告】オフィシャルパートナー東亜DKK株式会社様社内イベント参加",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261109-2/",
+      "title": "私とWATER GUSH #26 榎本拓真 CTB この人に任せておけば 2026/11/09",
+      "date": "2026-11-09"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261108-2/",
@@ -79,7 +94,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261102-2/",
-      "title": "私とWATER GUSH #19 パパセーア・マテラウ No.820歳のNo.8が語るラグビーと夢 2026/11/02",
+      "title": "私とウォーターガッシュ 公開日：2026/11/02 私とWATER GUSH #19 パパセーア・マテラウ No.820歳のNo.8が語るラグビーと夢 はじめに 今回の”私とWATER GUSH”は、アメリカ・ユタ州ソルトレイクシティ出身の20歳、パパセーア・マテラ… 続きを読む",
       "date": "2026-11-02"
     },
     {
@@ -106,11 +121,6 @@
       "url": "https://www.kurita-watergush.jp/20261007-2/",
       "title": "お知らせ 2026/10/28 10月31日（土）ライジング2026 ヤクルトレビンズ戸田戦イベントのご案内（※10月31日更新）",
       "date": "2026-10-28"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/category/community/",
-      "title": "地域貢献",
-      "date": "2026-10-27"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261027-2/",
@@ -189,7 +199,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261016-3/",
-      "title": "お知らせ 2026/10/16 ヘッドコーチ交代のお知らせ",
+      "title": "お知らせ 公開日：2026/10/16 ヘッドコーチ交代のお知らせ 平素より格別のご高配を賜り、厚く御礼申し上げます。 この度、クリタウォーターガッシュ昭島は、グラント… 続きを読む",
       "date": "2026-10-16"
     },
     {
@@ -226,16 +236,6 @@
       "url": "https://www.kurita-watergush.jp/20261010-2/",
       "title": "お知らせ 公開日：2026/10/10 10月23日（金）日豪50周年フレンドシップマッチのご案内（※10月21日更新） ■タイムスケジュールについて 12:00 開場 13:00 第1試合KO（クリタウォーターガッシュ昭島 v 川越狭山セコ… 続きを読む",
       "date": "2026-10-10"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261001-2/",
-      "title": "地域貢献 公開日：2026/10/01 【地域活動報告】児童の登校見守り活動② 実施日：9月30日（水）実施場所：拝島二小南交差点 「秋の全国交通安全運動」期間に伴い、大型車両の通行… 続きを読む",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20260929-2/",
-      "title": "地域貢献 公開日：2026/09/29 【地域活動報告】「踏切事故撲滅及びマナーアップキャンペーン」参加 （後列中央より：服部航平、中西貴則） 実施日：9月28日（月）実施場所：昭和飛行機前踏切 JR東日本 拝島… 続きを読む",
-      "date": "2026-09-29"
     }
   ]
 }

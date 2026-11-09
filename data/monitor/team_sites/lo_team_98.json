@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-09T01:52:29+09:00",
+  "checked_at": "2026-11-09T21:44:04+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "e72ecf97003de863"
+      "hash": "da63ff2f4d6c3527"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "fefb16e25295abba"
+      "hash": "0a122bdb00159477"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3260",
+      "title": "2026.11.9[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（11/2～11/6）",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3257",
+      "title": "2026.11.9[MON] TICKET 団体観戦チケットでお得に観戦しよう！",
+      "date": "2026-11-09"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3258",
       "title": "2026.11.8[SUN] TICKET 日野 剛志選手が考案！今シーズンも＜ひのたけシート＞で子ども達をヤマハスタジアムにご招待！",
@@ -24,12 +34,12 @@
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3224",
-      "title": "2026.11.6[FRI] TICKET 浜松市にお住まいの250組500名様をご招待",
+      "title": "TICKET 2026/11/6 浜松市にお住まいの250組500名様をご招待",
       "date": "2026-11-06"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3223",
-      "title": "2026.11.6[FRI] TICKET 磐田市/湖西市にお住まいの250組500名様をホーム開幕戦にご招待",
+      "title": "TICKET 2026/11/6 磐田市/湖西市にお住まいの250組500名様をご招待",
       "date": "2026-11-06"
     },
     {
@@ -103,19 +113,14 @@
       "date": "2026-10-28"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3230",
-      "title": "2026.10.28[WED] FAN CLUB ホーム開幕に向けて＜ポスター貼り隊＞を募集",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3231",
-      "title": "2026.10.27[TUE] SDGs 地域貢献活動≪SCRUM Action≫をリニューアル",
-      "date": "2026-10-27"
-    },
-    {
       "url": "https://www.shizuoka-bluerevs.com/news/3216",
       "title": "EVENT 2026/10/26 【12/20(日)ホーム開幕戦】nobodyknows+さん来場",
       "date": "2026-10-26"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3189",
+      "title": "EVENT 2026/9/29 12/20(日)ホーム開幕戦でプレゼント！",
+      "date": "2026-09-29"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",

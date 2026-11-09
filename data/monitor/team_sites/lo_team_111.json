@@ -3,28 +3,33 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-11-09T01:52:29+09:00",
+  "checked_at": "2026-11-09T21:44:04+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "c05c9b6e59541ae0"
+      "hash": "a9fa654afe490b32"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "1930cf847302bb47"
+      "hash": "043e9cd713af8372"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "96597dd9ddddc4cc"
+      "hash": "7e0ad24d2f9ec645"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "b395040b3d707470"
+      "hash": "944434257ffe3a2e"
     }
   ],
   "items": [
+    {
+      "url": "https://blue-sharks.jp/news/2026/11/25529/",
+      "title": "9月30日・10月28日「ラグビー体験教室」開催のご報告",
+      "date": "2026-11-25"
+    },
     {
       "url": "https://blue-sharks.jp/news/2026/11/25513/",
       "title": "11/22（日）出陣祭2026のご案内について",
@@ -43,11 +48,11 @@
     {
       "url": "https://blue-sharks.jp/information/",
       "title": "もっと見る",
-      "date": "2026-11-06"
+      "date": "2026-11-09"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/10/25446/",
-      "title": "◇東芝ブレイブルーパス武蔵戦マッチレポート",
+      "title": "お知らせ 2026/10/28 ◇東芝ブレイブルーパス武蔵戦マッチレポート",
       "date": "2026-10-25"
     },
     {
@@ -103,11 +108,6 @@
     {
       "url": "https://blue-sharks.jp/news/2026/09/25313/",
       "title": "お知らせ 2026/09/24 Jヴィレッジラグビークリニックレポート",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/09/25284/",
-      "title": "お知らせ 2026/09/15 ◇埼玉パナソニックワイルドナイツ戦マッチレポート",
       "date": "2026-09-25"
     },
     {
