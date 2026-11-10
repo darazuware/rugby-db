@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-10T05:23:11+09:00",
+  "checked_at": "2026-11-10T18:10:11+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6256",
+          "title": "お知らせ ジャパンラグビー リーグワン ライジング2026 ベストライジングプレーヤーが決定！ そして「ファンが選ぶRISING of The Year」投票も実施 2026.11.10",
+          "date": "2026-11-10",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -21,10 +28,16 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54297",
-          "title": "（11/10更新）男子日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ 2026.11.10 （火） 15人制男子日本代表 WBB 男子 日本代表 リポビタンＤツアー2026",
+          "url": "https://www.rugby-japan.jp/news/54320",
+          "title": "女子セブンズ・デベロップメント・スコッド（SDS） 熊谷合宿スケジュールと参加メンバーのお知らせ 2026.11.10 （火） 女子セブンズ日本代表 女子 セブンズ セブンズ・デベロップメント・スコッド SDS",
           "date": "2026-11-10",
           "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54318",
+          "title": "未就学児向けラグビーキャラバン事業 「Canterbury Rugby Little Playfield in東大阪市花園ラグビー場」 実施のお知らせ 2026.11.10 （火）",
+          "date": "2026-11-10",
+          "category": null
         }
       ],
       "rename_signals": []
@@ -43,8 +56,8 @@
   "highlights": [
     {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54297",
-      "title": "（11/10更新）男子日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ 2026.11.10 （火） 15人制男子日本代表 WBB 男子 日本代表 リポビタンＤツアー2026",
+      "url": "https://www.rugby-japan.jp/news/54320",
+      "title": "女子セブンズ・デベロップメント・スコッド（SDS） 熊谷合宿スケジュールと参加メンバーのお知らせ 2026.11.10 （火） 女子セブンズ日本代表 女子 セブンズ セブンズ・デベロップメント・スコッド SDS",
       "date": "2026-11-10",
       "category": "squad"
     }
