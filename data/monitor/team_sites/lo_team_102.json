@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-11-10T06:12:30+09:00",
+  "checked_at": "2026-11-10T21:26:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "b5cd4d72f0d762ed"
+      "hash": "0e13fccab13c891a"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "d02a1dac13624b22"
+      "hash": "cf06714e7a82df91"
     }
   ],
   "items": [
@@ -36,6 +36,11 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/",
       "title": "試合詳細",
       "date": "2026-11-14"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/#event",
+      "title": "イベント 2026年11月10日 11月14日(土) グローバルラグビーフェスタ 2026 クイーンズランドレッズ... ニュースを見る",
+      "date": "2026-11-10"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261109_01/",
@@ -171,11 +176,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260330_01/",
       "title": "イベント 2026年03月30日 【埼玉パナソニックワイルドナイツ】クラウドファンディングを実施 〜誰もが、誰とで... ニュースを見る",
       "date": "2026-03-30"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20260404/#event",
-      "title": "イベント 2026年03月28日 4月4日(土) 第14節 横浜キヤノンイーグルス戦 イベント情報 ニュースを見る",
-      "date": "2026-03-28"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260101_01/",

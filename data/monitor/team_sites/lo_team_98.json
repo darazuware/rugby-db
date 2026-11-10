@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-10T06:12:30+09:00",
+  "checked_at": "2026-11-10T21:26:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "5b3922430b4a5cd9"
+      "hash": "d90abc4ba8a4de28"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "332559992f9bc25a"
+      "hash": "55567bee45b83d57"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3261",
+      "title": "2026.11.10[TUE] HOST AREA 【ホストエリア活動】藤枝市スポーツ少年団交流会にてラグビー体験を実施しました",
+      "date": "2026-11-10"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3260",
       "title": "2026.11.9[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（11/2～11/6）",
@@ -106,11 +111,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3239",
       "title": "2026.10.29[THU] TICKET 記者と同じ目線で楽しめる［テーブルシート］が7試合に登場",
       "date": "2026-10-29"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3241",
-      "title": "2026.10.28[WED] TICKET ホーム開幕2連戦は11月2日(月)から先行発売",
-      "date": "2026-10-28"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3216",

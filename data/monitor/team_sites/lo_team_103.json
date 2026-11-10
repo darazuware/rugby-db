@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-11-10T06:12:30+09:00",
+  "checked_at": "2026-11-10T21:26:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "8d99243a2ea8b759"
+      "hash": "32957904a43d2a93"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "ca7b63d3ddc12d26"
+      "hash": "da19a8dc4bf78c4d"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/261026/",
+      "title": "(11/10：更新)男子日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ",
+      "date": "2026-11-10"
+    },
     {
       "url": "https://www.bravelupus.com/news/260909/",
       "title": "NTTジャパンラグビー リーグワン2026-27 ディビジョン1 試合日程・会場決定のお知らせ ※4～9節のキックオフ時間が確定しました",
@@ -56,11 +61,6 @@
       "url": "https://www.bravelupus.com/news/261028fc/",
       "title": "【お詫び】2026-27ファンクラブ 会員特典の記載誤りについて",
       "date": "2026-10-28"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/261026/",
-      "title": "男子日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ",
-      "date": "2026-10-26"
     },
     {
       "url": "https://www.bravelupus.com/news/261026-2/",

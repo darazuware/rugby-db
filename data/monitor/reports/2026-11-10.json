@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-10T06:12:30+09:00",
+  "checked_at": "2026-11-10T21:26:58+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -21,8 +21,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post36096/",
+          "title": "2026/11/10 パートナー 【レポート】株式会社大林組様よりNTTリーグワン2025-26の優勝記念石碑を贈呈いただきました",
+          "date": "2026-11-10",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/",
+        "https://www.kobesteelers.com/news/cat_news/information/",
+        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+      ],
       "rename_signals": []
     },
     {
@@ -33,8 +45,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/#event",
+          "title": "イベント 2026年11月10日 11月14日(土) グローバルラグビーフェスタ 2026 クイーンズランドレッズ... ニュースを見る",
+          "date": "2026-11-10",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -46,7 +68,10 @@
       "first_run": false,
       "item_count": 41,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.bravelupus.com/",
+        "https://www.bravelupus.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -58,9 +83,7 @@
       "first_run": false,
       "item_count": 10,
       "new_items": [],
-      "changed_pages": [
-        "https://verblitz.toyotatimes-sports.toyota/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -71,8 +94,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 24,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.honda-heat.jp/news/2468/",
+          "title": "トピックス 2026.11.10 【チケット】2026-27シーズン企画チケット③秘密基地シート",
+          "date": "2026-11-10",
+          "category": null
+        },
+        {
+          "url": "https://www.honda-heat.jp/news/2461/",
+          "title": "トピックス 2026.10.6 新加入スタッフのお知らせ",
+          "date": "2026-10-06",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.honda-heat.jp/",
+        "https://www.honda-heat.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -110,8 +149,23 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261110b.html",
+          "title": "ブラックラムズ東京オンラインショップ 新グッズ販売のお知らせ",
+          "date": "2026-11-10",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261110a.html",
+          "title": "2026-27シーズン 1stオーセンティックジャージー 第2回受注販売のお知らせ",
+          "date": "2026-11-10",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -134,7 +188,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 32,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3261",
+          "title": "2026.11.10[TUE] HOST AREA 【ホストエリア活動】藤枝市スポーツ少年団交流会にてラグビー体験を実施しました",
+          "date": "2026-11-10",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -173,8 +234,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kyudenvoltex.com/news/1018",
+          "title": "地域・社会貢献 2026年11月10日 NEW スタージャンプ福岡2026 2ndに参加しました",
+          "date": "2026-11-10",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kyudenvoltex.com/",
+        "https://www.kyudenvoltex.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -200,7 +271,9 @@
       "first_run": false,
       "item_count": 8,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://shuttles-aichi.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -229,7 +302,8 @@
       "item_count": 29,
       "new_items": [],
       "changed_pages": [
-        "https://hanazono-liners.jp/"
+        "https://hanazono-liners.jp/",
+        "https://hanazono-liners.jp/news/"
       ],
       "rename_signals": []
     },
@@ -240,9 +314,18 @@
       "official_url": "https://hino-reddolphins.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 15,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 16,
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-11-10/",
+          "title": "11/4 日野市役所へ表敬訪問しました",
+          "date": "2026-11-10",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -266,8 +349,15 @@
       "official_url": "https://www.kurita-watergush.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 44,
-      "new_items": [],
+      "item_count": 45,
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261110-2/",
+          "title": "私とWATER GUSH #27 横山伊織 CTB 泣きながらでも続けてきた。 2026/11/10",
+          "date": "2026-11-10",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -283,7 +373,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -307,7 +400,9 @@
       "first_run": false,
       "item_count": 45,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.skyactivs.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -317,9 +412,18 @@
       "official_url": "https://www.yakult.co.jp/sports/rugby/",
       "status": "ok",
       "first_run": false,
-      "item_count": 10,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 11,
+      "new_items": [
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261110.pdf",
+          "title": "2026.11.10 ニュースリリース 世界初、ヒト腸内ビフィズス菌が周囲のＤＮＡを染色体に取り込み、新たな性質を獲得するしくみを発見",
+          "date": "2026-11-10",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.yakult.co.jp/maintenance/"
+      ],
       "rename_signals": []
     },
     {
@@ -331,7 +435,9 @@
       "first_run": false,
       "item_count": 11,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://leriro-fukuoka.com/"
+      ],
       "rename_signals": []
     }
   ],
@@ -367,7 +473,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "三重ホンダヒート",
+      "url": "https://www.honda-heat.jp/news/2461/",
+      "title": "トピックス 2026.10.6 新加入スタッフのお知らせ",
+      "date": "2026-10-06",
+      "category": "roster"
+    },
+    {
+      "source": "ヤクルトレビンズ戸田",
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261110.pdf",
+      "title": "2026.11.10 ニュースリリース 世界初、ヒト腸内ビフィズス菌が周囲のＤＮＡを染色体に取り込み、新たな性質を獲得するしくみを発見",
+      "date": "2026-11-10",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }

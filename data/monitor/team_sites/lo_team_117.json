@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-10T06:12:30+09:00",
+  "checked_at": "2026-11-10T21:26:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "fda32141cb094d19"
+      "hash": "a79c9ac29ea1d19d"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "ee6381c4cd8a3739"
+      "hash": "58bceb130400ae2d"
     }
   ],
   "items": [
@@ -35,7 +35,12 @@
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-09"
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261110-2/",
+      "title": "私とWATER GUSH #27 横山伊織 CTB 泣きながらでも続けてきた。 2026/11/10",
+      "date": "2026-11-10"
     },
     {
       "url": "https://www.kurita-watergush.jp/category/community/",
@@ -89,7 +94,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261103-2/",
-      "title": "私とWATER GUSH #20 北條耕太 HO 「楽な道が好きだもんな」の一言が火をつけた。 2026/11/03",
+      "title": "私とウォーターガッシュ 公開日：2026/11/03 私とWATER GUSH #20 北條耕太 HO 「楽な道が好きだもんな」の一言が火をつけた。 今回の”私とWATER GUSH”は2020年にチームに加わり、今シーズンで7年目を迎えるHOの北條耕太選手。スクラム… 続きを読む",
       "date": "2026-11-03"
     },
     {

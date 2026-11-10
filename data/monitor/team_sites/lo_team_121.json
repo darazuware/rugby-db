@@ -3,16 +3,21 @@
   "league": "league-one-d3",
   "name": "ヤクルトレビンズ戸田",
   "official_url": "https://www.yakult.co.jp/sports/rugby/",
-  "checked_at": "2026-11-10T06:12:30+09:00",
+  "checked_at": "2026-11-10T21:26:58+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.yakult.co.jp/maintenance/",
-      "hash": "c2aa481eee8f82cd"
+      "hash": "af73b3eeac2df4c8"
     }
   ],
   "items": [
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261110.pdf",
+      "title": "2026.11.10 ニュースリリース 世界初、ヒト腸内ビフィズス菌が周囲のＤＮＡを染色体に取り込み、新たな性質を獲得するしくみを発見",
+      "date": "2026-11-10"
+    },
     {
       "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261106_4.pdf",
       "title": "2026.11.06 ニュースリリース ヤクルトカレンダー「２０２７年みんなの風景」を発行～大地の息吹を次世代へ継ぐ、ジオパークの風景～",
