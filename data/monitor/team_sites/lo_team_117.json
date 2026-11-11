@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-11T20:47:37+09:00",
+  "checked_at": "2026-11-12T03:14:00+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "c727a8ded00d1b50"
+      "hash": "eb5cbdfafe30b0b1"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "7509e12543978c09"
+      "hash": "27bac5ebe09e356d"
     }
   ],
   "items": [
@@ -21,6 +21,11 @@
       "url": "https://www.kurita-watergush.jp/20271107-2/",
       "title": "私とWATER GUSH #24 山本快 WTB 凡事徹底、やるならちゃんと 2026/11/07",
       "date": "2027-11-07"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/stadium/%e7%a6%8f%e5%b1%b1%e9%bb%92%e9%85%a2-%e6%a1%b7%e5%bf%97%e7%94%b0%e3%83%91%e3%83%bc%e3%82%af%e6%a1%b7%e5%bf%97%e7%94%b0%e5%a4%9a%e7%9b%ae%e7%9a%84%e5%ba%83%e5%a0%b4%e9%b9%bf%e5%85%90%e5%b3%b6/",
+      "title": "アクセス",
+      "date": "2026-11-14"
     },
     {
       "url": "https://www.kurita-watergush.jp/games/",
