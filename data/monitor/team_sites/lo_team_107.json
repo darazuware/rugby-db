@@ -3,24 +3,34 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-11-11T03:22:58+09:00",
+  "checked_at": "2026-11-11T20:47:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.canon-eagles.jp/",
-      "hash": "0c7d52cffcbf9607"
+      "hash": "6a2f98a12a6c19e8"
     },
     {
       "url": "https://www.canon-eagles.jp/news/",
-      "hash": "fa1aff5cc2557eeb"
+      "hash": "176dd11f0dfe2cd0"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/2026.html",
-      "hash": "0fd1ec54ba5ba3cc"
+      "hash": "26e5af77dd476cf3"
     }
   ],
   "items": [
+    {
+      "url": "https://www.canon-eagles.jp/news/event/20261106.html",
+      "title": "2026.11.11 EVENT 【更新】11月のイベント出演予定",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20261110.html",
+      "title": "2026.11.10 TEAM ホストエリアパートナー契約締結のお知らせ キヤノンITソリューションズ株式会社",
+      "date": "2026-11-10"
+    },
     {
       "url": "https://www.canon-eagles.jp/news/info/20261106.html",
       "title": "2026.11.06 TEAM ネーションズチャンピオンシップ2026 ウェールズ代表戦に横浜キヤノンイーグルスの選手が選出されました",
@@ -29,11 +39,6 @@
     {
       "url": "https://www.canon-eagles.jp/news/info/20261106-2.html",
       "title": "2026.11.06 TEAM キックオフ時間決定（第4～9節）のお知らせ",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/event/20261106.html",
-      "title": "2026.11.06 EVENT 11月のイベント出演予定",
       "date": "2026-11-06"
     },
     {
@@ -67,29 +72,14 @@
       "date": "2026-11-02"
     },
     {
-      "url": "https://www.canon-eagles.jp/news/event/20261009.html",
-      "title": "2026.10.30 EVENT 11/8（日）2026-27シーズン開幕前イベント「イーグルスパーク」開催決定！【更新】",
-      "date": "2026-10-30"
-    },
-    {
       "url": "https://www.canon-eagles.jp/activities/activity/20261030.html",
       "title": "2026.10.30 TEAM 開幕戦に横浜市民の皆様をご招待いたします",
       "date": "2026-10-30"
     },
     {
-      "url": "https://www.canon-eagles.jp/news/supporters/20261029.html",
-      "title": "2026.10.29 SUPPORTER 11/10（火）練習見学会のお知らせ",
-      "date": "2026-10-29"
-    },
-    {
       "url": "https://www.canon-eagles.jp/news/info/20261029.html",
       "title": "2026.10.29 TEAM 横浜キヤノンイーグルスの選手が南アフリカ代表メンバーに選出されました",
       "date": "2026-10-29"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/info/20261028.html",
-      "title": "2026.10.28 TEAM ホスト開幕戦 東京サンゴリアス戦の観戦情報を公開しました",
-      "date": "2026-10-28"
     }
   ]
 }

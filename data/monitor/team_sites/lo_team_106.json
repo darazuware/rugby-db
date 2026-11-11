@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-11-11T03:22:58+09:00",
+  "checked_at": "2026-11-11T20:47:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "c6461c3349198993"
+      "hash": "1b517a5dfe5abc8f"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "d89f56fbb5a16d81"
+      "hash": "3cbdd704cc7509b2"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/sagamiono2026",
+      "title": "2026-11-11 相模大野全緑猪祭2026 11/29(日)開催決定！",
+      "date": "2026-11-11"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261109.html",
       "title": "2026-11-09 選手と行く！全緑応援バスツアー 第1弾 12/20（日）静岡戦 参加者募集※今季は3回開催します！",
@@ -59,7 +64,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/JRLR2026-2",
-      "title": "2026-10-29 リーグワン ライジング2026 三菱重工相模原ダイナボアーズ 対 レッドハリケーンズ大阪｜試合メンバー等更新",
+      "title": "2026-10-29 [ チーム ] リーグワン ライジング2026 三菱重工相模原ダイナボアーズ 対 レッドハリケーンズ大阪｜試合メンバー等更新",
       "date": "2026-10-29"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260901.html",
       "title": "2026-09-01 [ チーム ] 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（9/5）に14番で先発出場予定",
       "date": "2026-09-01"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260828.html",
-      "title": "2026-08-28 [ チーム ] ジャック・ボーウェン選手加入のお知らせ",
-      "date": "2026-08-28"
     }
   ]
 }

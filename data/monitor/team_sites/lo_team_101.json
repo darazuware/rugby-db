@@ -3,28 +3,43 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-11-11T03:22:58+09:00",
+  "checked_at": "2026-11-11T20:47:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "158ca40d89ffa918"
+      "hash": "e6c6a975adc19424"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "f01a66af366c4f5a"
+      "hash": "fb8f5505a583b005"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "605ca58480992fc6"
+      "hash": "f75b89f5cdcf5019"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "c3d7e12b251d1045"
+      "hash": "22060455b3aeb837"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/photolibrary/post36174/",
+      "title": "2026/11/11 お知らせ 「コベルコ神戸スティーラーズフェスタ2026」フォトライブラリーを公開しました！",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36259/",
+      "title": "2026/11/11 イベント 【レポート】11月8日(日)「まちあそび人生ゲームin神戸元町」に参加しました",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36062/",
+      "title": "2026/11/11 チケット NTTリーグワン2026-27 ノエビアスタジアム神戸 地下駐車場チケット販売のお知らせ",
+      "date": "2026-11-11"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post36096/",
       "title": "2026/11/10 パートナー 【レポート】株式会社大林組様よりNTTリーグワン2025-26の優勝記念石碑を贈呈いただきました",
@@ -211,16 +226,6 @@
       "date": "2026-10-22"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35697/",
-      "title": "2026/10/20 イベント 【イベントレポート】ミスター・ラグビー メモリアルイベント タグラグビー『平尾誠二杯』に参加しました",
-      "date": "2026-10-20"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35676/",
-      "title": "2026/10/20 イベント 10月25日(日)「KOBE JAM 2026」でラグビー体験を実施します",
-      "date": "2026-10-20"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35346/",
       "title": "2026/10/16 お知らせ 2026-27シーズンの公開練習についてのお知らせ",
       "date": "2026-10-16"
@@ -319,11 +324,6 @@
       "url": "https://www.kobesteelers.com/news/post30112/",
       "title": "2025/12/10 お知らせ 【レポート】神戸三宮センター街でのチームPR活動実施しました",
       "date": "2025-12-10"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post30174/",
-      "title": "2025/12/9 お知らせ NTTリーグワン2025-26の開幕に向け、チームとして各PR活動を展開中",
-      "date": "2025-12-09"
     }
   ]
 }

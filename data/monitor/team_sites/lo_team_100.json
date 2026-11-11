@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-11-11T03:22:58+09:00",
+  "checked_at": "2026-11-11T20:47:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "232d8bb71d232d1f"
+      "hash": "c078bbf753d94a07"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "eb959ee01019b2bd"
+      "hash": "e687d87ed055a339"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2085.html",
+      "title": "イベント 2026.11.11 2026.11.9 「青少年館まつり」に参加しました",
+      "date": "2026-11-11"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2084.html",
       "title": "イベント 2026.11.09 2026.11.18 浦安Dパーク開放イベント「ウェルネスプロジェクト～アニマルフロー～」実施のお知らせ",
@@ -44,7 +49,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2061.html",
-      "title": "チーム 2026.10.30 2026-27シーズン ジャージーデザイン決定のお知らせ",
+      "title": "2026.10.30 ニュース 2026-27シーズン ジャージーデザイン決定のお知らせ",
       "date": "2026-10-30"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/event/index_2043.html",
       "title": "2026.10.07 ニュース 2026-27シーズン ホストゲーム会場限定「キッズスタンプカード」実施のお知らせ",
       "date": "2026-10-07"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_2042.html",
-      "title": "2026.10.05 ニュース 2026-27シーズン 第1節〜第3節 キックオフ時間決定のお知らせ",
-      "date": "2026-10-05"
     }
   ]
 }

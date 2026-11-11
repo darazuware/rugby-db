@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-11-11T03:22:58+09:00",
+  "checked_at": "2026-11-11T20:47:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "7528bdfcd730668a"
+      "hash": "e53965752c124360"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "dc4d59454fa1e18b"
+      "hash": "474143506b69edaa"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1112-01/",
+      "title": "EVENT スポーツドリームかしわ2026 2026.11.11",
+      "date": "2026-11-11"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1105-02/",
       "title": "TEAM 下江康輔選手、長期離脱に関するお知らせ 2026.11.05",
@@ -99,7 +104,7 @@
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1001-01/",
-      "title": "EVENT かしわスポーツフェスティバル 2026.10.01",
+      "title": "記事の詳細を見る",
       "date": "2026-10-01"
     },
     {

@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-11T03:22:58+09:00",
+  "checked_at": "2026-11-11T20:47:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "68d2dfcfa82fee80"
+      "hash": "2f124534d0ea3d83"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "12338456004ec743"
+      "hash": "82151f63c09161ad"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3258",
+      "title": "TICKET 2026/11/11 ひのたけシートで親子ペアをご招待",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3249",
+      "title": "SCHOOL 2026/11/11 11/21 ラグビーDAYで無料スクール体験会",
+      "date": "2026-11-11"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3261",
       "title": "2026.11.10[TUE] HOST AREA 【ホストエリア活動】藤枝市スポーツ少年団交流会にてラグビー体験を実施しました",
@@ -33,18 +43,13 @@
       "date": "2026-11-09"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3258",
-      "title": "2026.11.8[SUN] TICKET 日野 剛志選手が考案！今シーズンも＜ひのたけシート＞で子ども達をヤマハスタジアムにご招待！",
-      "date": "2026-11-08"
-    },
-    {
       "url": "https://www.shizuoka-bluerevs.com/news/3224",
-      "title": "TICKET 2026/11/6 浜松市にお住まいの250組500名様をご招待",
+      "title": "TICKET 2026/11/6 【公式LINEで応募】浜松市の方を250組ご招待",
       "date": "2026-11-06"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3223",
-      "title": "TICKET 2026/11/6 磐田市/湖西市にお住まいの250組500名様をご招待",
+      "title": "TICKET 2026/11/6 【公式LINEで応募】磐田・湖西の方を250組ご招待",
       "date": "2026-11-06"
     },
     {
@@ -71,11 +76,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3219",
       "title": "2026.11.3[TUE] EVENT 6試合で全24種類！計54,000名に＜青援タオル＞をプレゼント！",
       "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3249",
-      "title": "2026.11.1[SUN] SCHOOL ＜スポーツの秋！ラグビーDAY＞を11/21(土)に開催",
-      "date": "2026-11-01"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3245",
@@ -113,16 +113,6 @@
       "date": "2026-10-29"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3216",
-      "title": "EVENT 2026/10/26 【12/20(日)ホーム開幕戦】nobodyknows+さん来場",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3189",
-      "title": "EVENT 2026/9/29 12/20(日)ホーム開幕戦でプレゼント！",
-      "date": "2026-09-29"
-    },
-    {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",
       "title": "SCHOOL 2026/9/28 秋の新規入会キャンペーン",
       "date": "2026-09-28"
@@ -144,17 +134,12 @@
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3167",
-      "title": "TEAM 2026/8/25 トレーニング一般公開のお知らせ",
+      "title": "TEAM 2026/8/25 【11月】トレーニングを一般公開",
       "date": "2026-08-25"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3140",
-      "title": "TICKET 2026/7/14 ヤマハスタジアムの座席・販売価格について",
-      "date": "2026-07-14"
-    },
-    {
       "url": "https://www.shizuoka-bluerevs.com/news/3141",
-      "title": "TICKET 2026/7/13 法人チケットオーナーズの販売開始",
+      "title": "TICKET 2026/7/13 法人チケットオーナーズの販売中",
       "date": "2026-07-13"
     },
     {
