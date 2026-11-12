@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-12T18:12:29+09:00",
+  "checked_at": "2026-11-13T02:53:16+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,20 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6260",
-          "title": "イベント NTTジャパンラグビー リーグワン2026-27 プレーヤー・オブ・ザ・マッチ presented by NTTのプレゼンター募集！ 2026.11.12",
-          "date": "2026-11-12",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6259",
-          "title": "お知らせ ジャパンラグビーリーグワン アスリートの考え方を学んだAIで「非認知能力」を育む実証事業を開始 2026.11.12",
-          "date": "2026-11-12",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
