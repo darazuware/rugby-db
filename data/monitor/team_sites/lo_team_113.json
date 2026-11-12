@@ -3,24 +3,34 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-11-12T03:14:00+09:00",
+  "checked_at": "2026-11-12T21:30:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "6c7709a2aaa54ad9"
+      "hash": "ad8c229c1273b72f"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "c6b4d67f53d82316"
+      "hash": "94ddb6d5886481ef"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "2795c27c166c0e9d"
+      "hash": "c5d3741f981df006"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/society/33263/",
+      "title": "普及・社会貢献 2026.11.12 9月・10月普及活動レポート",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/33342/",
+      "title": "お知らせ 2026.11.12 11月・12月 ホストゲーム運営ボランティアスタッフ募集のお知らせ",
+      "date": "2026-11-12"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/info/33253/",
       "title": "お知らせ 2026.11.7 2026トレーニングマッチ 第5戦 清水建設江東ブルーシャークス戦中止のお知らせ",
@@ -72,16 +82,6 @@
       "date": "2026-10-21"
     },
     {
-      "url": "https://kamaishi-seawaves.com/news/game/32988/",
-      "title": "試合情報 2026.10.21 2026トレーニングマッチ 第4戦／クリタウォーターガッシュ昭島戦",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/society/32962/",
-      "title": "普及・社会貢献 2026.10.16 特殊詐欺等被害防止啓発活動に参加しました",
-      "date": "2026-10-16"
-    },
-    {
       "url": "https://kamaishi-seawaves.com/news/info/32917/",
       "title": "お知らせ 2026.10.15 「DAZN年間視聴パス」販売のお知らせ（早期購入特典有り）",
       "date": "2026-10-15"
@@ -100,11 +100,6 @@
       "url": "https://kamaishi-seawaves.com/news/info/32680/",
       "title": "お知らせ 2026.10.5 2026-27シーズン クラブスローガン決定のお知らせ",
       "date": "2026-10-05"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/32434/",
-      "title": "お知らせ 2026.9.15 2026-27シーズン キャプテン決定のお知らせ",
-      "date": "2026-09-15"
     }
   ]
 }

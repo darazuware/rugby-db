@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-11-12T03:14:00+09:00",
+  "checked_at": "2026-11-12T21:30:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "9eb2697b23f9d02a"
+      "hash": "a4dec96d19f870b1"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "b422a67b5b7a12f6"
+      "hash": "d66008ce59d722b3"
     }
   ],
   "items": [
@@ -21,6 +21,11 @@
       "url": "https://docomo-rugby.jp/campaign/2027/lp/20261219_no_inv.html",
       "title": "12月19日（土）CENTRALプ レミアムマッチ特設サイト MORE",
       "date": "2026-12-19"
+    },
+    {
+      "url": "https://docomo-rugby.jp/game/member.html?id=356",
+      "title": "試合情報 2026年11月12日 【プレシーズンマッチ】 栃木ホンダヒート メンバー発表",
+      "date": "2026-11-12"
     },
     {
       "url": "https://docomo-rugby.jp/csr/detail.html?id=8939",
@@ -220,11 +225,6 @@
     {
       "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8864",
       "title": "アカデミー 2026年9月1日 【U12エントリークラス】８月活動レポート",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://docomo-rugby.jp/csr/detail.html?id=8853",
-      "title": "SUSTAINABILITY 2026年9月1日 【2026年8月】サステナNEWS",
       "date": "2026-09-01"
     }
   ]

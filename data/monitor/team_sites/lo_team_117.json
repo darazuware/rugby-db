@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-12T03:14:00+09:00",
+  "checked_at": "2026-11-12T21:30:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "eb5cbdfafe30b0b1"
+      "hash": "7a87a5599bf94d70"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "27bac5ebe09e356d"
+      "hash": "417b3183e4c1164e"
     }
   ],
   "items": [
@@ -23,24 +23,14 @@
       "date": "2027-11-07"
     },
     {
-      "url": "https://www.kurita-watergush.jp/stadium/%e7%a6%8f%e5%b1%b1%e9%bb%92%e9%85%a2-%e6%a1%b7%e5%bf%97%e7%94%b0%e3%83%91%e3%83%bc%e3%82%af%e6%a1%b7%e5%bf%97%e7%94%b0%e5%a4%9a%e7%9b%ae%e7%9a%84%e5%ba%83%e5%a0%b4%e9%b9%bf%e5%85%90%e5%b3%b6/",
-      "title": "アクセス",
-      "date": "2026-11-14"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/games/",
-      "title": "全ての試合情報はこちら",
-      "date": "2026-11-14"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/game/20261114-wg%e6%98%ad%e5%b3%b6-vslr%e7%a6%8f%e5%b2%a1/",
-      "title": "このゲームの詳細情報はこちら",
-      "date": "2026-11-14"
-    },
-    {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-10"
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261112-2/",
+      "title": "私とWATER GUSH #28 河井祐樹 PR ラグビーが嫌いだった少年が、プレーで語れる選手を目指す 2026/11/12",
+      "date": "2026-11-12"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261110-2/",
@@ -94,7 +84,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261104-2/",
-      "title": "私とWATER GUSH #21 林田拓朗 SO/CTB 「このチームをもっと良くしたい」 2026/11/04",
+      "title": "私とウォーターガッシュ 公開日：2026/11/04 私とWATER GUSH #21 林田拓朗 SO/CTB 「このチームをもっと良くしたい」 今回の”私とWATER GUSH”はSO/CTBを担う林田拓朗選手。加入7年目を迎えた今シーズン、仕事でもラグビーでも… 続きを読む",
       "date": "2026-11-04"
     },
     {
@@ -241,11 +231,6 @@
       "url": "https://www.kurita-watergush.jp/20261013-2/",
       "title": "私とウォーターガッシュ 公開日：2026/10/13 私とWATER GUSH #1 出渕賢史 PRダイエット目的で強制的に始めたラグビーが、人生に彩りを与えてくれた はじめに クリタウォーターガッシュ昭島の選手たちが、なぜラグビーを始めたのか、なぜクリタウォーターガ… 続きを読む",
       "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261010-2/",
-      "title": "お知らせ 公開日：2026/10/10 10月23日（金）日豪50周年フレンドシップマッチのご案内（※10月21日更新） ■タイムスケジュールについて 12:00 開場 13:00 第1試合KO（クリタウォーターガッシュ昭島 v 川越狭山セコ… 続きを読む",
-      "date": "2026-10-10"
     }
   ]
 }

@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-11-12T03:14:00+09:00",
+  "checked_at": "2026-11-12T21:30:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "0e13fccab13c891a"
+      "hash": "a0d69a87970dcb31"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "cf06714e7a82df91"
+      "hash": "662bf7d006d428a2"
     }
   ],
   "items": [
@@ -74,7 +74,7 @@
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261026_01/",
-      "title": "チーム 2026年10月26日 日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ ニュースを見る",
+      "title": "チーム 2026年10月26日 日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ ▶︎",
       "date": "2026-10-26"
     },
     {

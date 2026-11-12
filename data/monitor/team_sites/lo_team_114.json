@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-11-12T03:14:00+09:00",
+  "checked_at": "2026-11-12T21:30:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "719bef4c01123b37"
+      "hash": "9f13e500c808f647"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "c49f612e82af1ecb"
+      "hash": "6f0264b8b19ca755"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/11/12/brumbies-member/",
+      "title": "2026.11.12 試合関連 チーム情報 【11月14日(土)ACT ブランビーズ戦】メンバーのご案内",
+      "date": "2026-11-12"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/11/09/kikakutikeltuto/",
       "title": "2026.11.09 チケット 企画チケット概要",
@@ -49,7 +54,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/11/06/3-7kickofftime/",
-      "title": "2026.11.06 試合関連 NTTジャパンラグビー リーグワン2026-27 第3~7節キックオフ時間について追加決定のお知らせ",
+      "title": "2026-11-06 試合関連 NTTジャパンラグビー リーグワン2026-27 第3~7節キックオフ時間について追加決定のお知らせ",
       "date": "2026-11-06"
     },
     {
@@ -86,11 +91,6 @@
       "url": "https://hanazono-liners.jp/2026/10/25/fukuokacamp-day4/",
       "title": "2026-10-25 その他 福岡合宿レポート4日目",
       "date": "2026-10-25"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/10/24/fukuokacamp-day3/",
-      "title": "2026-10-24 その他 福岡合宿レポート3日目",
-      "date": "2026-10-24"
     },
     {
       "url": "https://hanazono-liners.jp/2026/10/23/ticket-schedule/",
@@ -156,11 +156,6 @@
       "url": "https://hanazono-liners.jp/2026/08/24/news-osaka-funtastc-sports-project/",
       "title": "2026.08.24 試合関連 2026-27 プレシーズンマッチ【追加】および9/2(水)『OSAKA FUNtast!c SPORTS PROJECT』キックオフイベント選手参加のお知らせ",
       "date": "2026-08-24"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/08/20/liners-fanclub2026-27-0/",
-      "title": "2026.08.20 ファンクラブ イベント 【LINERS FANCLUB】2026-27 SEASON ファンクラブ詳細",
-      "date": "2026-08-20"
     }
   ]
 }

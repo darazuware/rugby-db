@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-11-12T03:14:00+09:00",
+  "checked_at": "2026-11-12T21:30:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "3a8588ec35683e30"
+      "hash": "bfe5feea1cebd2f5"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "d047133850373573"
+      "hash": "0e0682a775d2fd76"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/CMRF26vCFSc.html",
+      "title": "2026年 11月12日 秩父宮みなとラグビーまつり2026 vs チーフス メンバー発表！",
+      "date": "2026-11-12"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2026cmrftv.html",
       "title": "2026年 11月 9日 『秩父宮みなとラグビーまつり2026』 ～フレンドシップマッチ放送・配信のお知らせ～ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 東京サンゴリアスとチーフス(ニュージー…",
@@ -51,11 +56,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMKSFTBv.html",
       "title": "2026年 10月31日 2026 TRAINING MATCH vs クボタスピアーズ船橋・東京ベイ 試合結果",
       "date": "2026-10-31"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2610-1040.html",
-      "title": "2026年 10月30日 #1040 安田 昂平 『背中で見せられるような男』",
-      "date": "2026-10-30"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/dazn.html",

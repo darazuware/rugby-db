@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-11-12T03:14:00+09:00",
+  "checked_at": "2026-11-12T21:30:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "3b9af13405c5c228"
+      "hash": "9127f6dd9733927f"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "8381019925481a69"
+      "hash": "c445335ac3059880"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/261112/",
+      "title": "ネーションズチャンピオンシップ2026 日本代表 対 イングランド代表 試合登録メンバーのお知らせ",
+      "date": "2026-11-12"
+    },
     {
       "url": "https://www.bravelupus.com/news/261026/",
       "title": "男子日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ（11/10更新）",
@@ -215,11 +220,6 @@
     {
       "url": "https://www.bravelupus.com/news/260831/",
       "title": "川崎市、神奈川県ラグビーフットボール協会、川崎市ラグビーフットボール協会との連携協定締結について",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260824-2/",
-      "title": "男子日本代表 宮崎（大阪）合宿参加メンバーのお知らせ（8/31更新）",
       "date": "2026-08-31"
     }
   ]

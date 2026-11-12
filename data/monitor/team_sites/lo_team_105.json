@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-11-12T03:14:00+09:00",
+  "checked_at": "2026-11-12T21:30:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "9220da4b966a024c"
+      "hash": "1c5d1e8ec6d228a8"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "08d95dbc634fecff"
+      "hash": "5c653c3cb0ea6431"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2487/",
+      "title": "トピックス 2026.11.12 【OSAKA熱活GAMES 】11/14(土) レッドハリケーンズ大阪戦 試合案内",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2479/",
+      "title": "トピックス 2026.11.12 2026-27シーズン KV公開のお知らせ",
+      "date": "2026-11-12"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2483/",
       "title": "トピックス 2026.11.11 白坂 佑太選手「ベストライジングプレーヤー」受賞のお知らせ",
@@ -128,18 +138,8 @@
       "date": "2026-09-29"
     },
     {
-      "url": "https://www.honda-heat.jp/news/2457/",
-      "title": "トピックス 2026.9.28 【ファンクラブ】公式ファンクラブCLUB HEAT 2026-27シーズン入会手順のご案内",
-      "date": "2026-09-28"
-    },
-    {
       "url": "https://www.honda-heat.jp/news/2451/",
       "title": "2026/9/28 「ホンダヒート ゆいの杜ラグビーパーク」での練習見学に関するお願い",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2445/",
-      "title": "トピックス 2026.9.28 【トレーニングマッチ 】10/3(土) 日本製鉄釜石シーウェイブス戦 試合案内",
       "date": "2026-09-28"
     }
   ]

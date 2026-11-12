@@ -3,28 +3,53 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-11-12T03:14:00+09:00",
+  "checked_at": "2026-11-12T21:30:20+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "e6c6a975adc19424"
+      "hash": "68d71781e1db822f"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "fb8f5505a583b005"
+      "hash": "b42cff89d6fa85d7"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "f75b89f5cdcf5019"
+      "hash": "196d510c12372694"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "22060455b3aeb837"
+      "hash": "2f467a71a334810e"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post36264/",
+      "title": "2026/11/12 イベント 【選手イベント参加情報】11月21日(土) 御影クラッセにコベルコ神戸スティーラーズがやってくる！",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36247/",
+      "title": "2026/11/12 メディア 11月15日(日)大下 貴志選手「第106回全国高校ラグビー大会 大阪地区決勝」ゲスト解説のお知らせ",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36243/",
+      "title": "2026/11/12 チーム 11月14日(土)「ネーションズチャンピオンシップ2026」イングランド代表戦メンバー選出のお知らせ",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.kobesteelers.com/interview/post36336/",
+      "title": "2026/11/12 チーム 2026-27シーズン新加入インタビュー FLドミニク・ロペティ選手",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.kobesteelers.com/game/post34943/",
+      "title": "2026/11/12 試合 11月14日(土)プレシーズンマッチ 静岡ブルーレヴズ戦 出場メンバーのお知らせ",
+      "date": "2026-11-12"
+    },
     {
       "url": "https://www.kobesteelers.com/photolibrary/post36174/",
       "title": "2026/11/11 お知らせ 「コベルコ神戸スティーラーズフェスタ2026」フォトライブラリーを公開しました！",
@@ -191,11 +216,6 @@
       "date": "2026-10-26"
     },
     {
-      "url": "https://www.kobesteelers.com/interview/post35746/",
-      "title": "2026/10/26 チーム 【試合レポート】 10月24日(土) プレシーズンマッチ クボタスピアーズ船橋・東京ベイ戦",
-      "date": "2026-10-26"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35730/",
       "title": "2026/10/23 イベント 【レポート】「第10回タグラグビー大会記念－座談会－」に上村 樹輝選手が出演しました",
       "date": "2026-10-23"
@@ -204,26 +224,6 @@
       "url": "https://www.kobesteelers.com/news/post35729/",
       "title": "2026/10/23 ファンクラブ プレミアム会員/ゴールド会員/リモート＋G会員限定「クラブハウスツアー」の実施と参加者募集について",
       "date": "2026-10-23"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35714/",
-      "title": "2026/10/23 メディア 11月7日(土)山本 幸輝普及・アカデミーコーチ「第106回全国高校ラグビー兵庫県大会決勝戦」ゲスト解説のお知らせ",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35715/",
-      "title": "2026/10/22 普及 【レポート】京丹後市の小中学校でタグラグビー教室を実施しました",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35696/",
-      "title": "2026/10/22 チーム 10月24日(土)「リポビタンDチャレンジカップ2026」フィジー代表戦メンバー選出のお知らせ",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.kobesteelers.com/game/post34941/",
-      "title": "2026/10/22 試合 10月24日(土)プレシーズンマッチ クボタスピアーズ船橋・東京ベイ戦 出場メンバーのお知らせ",
-      "date": "2026-10-22"
     },
     {
       "url": "https://www.kobesteelers.com/news/post35346/",
