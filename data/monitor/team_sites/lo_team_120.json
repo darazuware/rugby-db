@@ -3,21 +3,21 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-11-12T21:30:20+09:00",
+  "checked_at": "2026-11-13T03:39:07+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "b214d3595d682a2f"
+      "hash": "a701f9a790cb1434"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "1e9d46d0250ce607"
+      "hash": "bd5069ae5eddbb9d"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
-      "hash": "0507c2c602204cf2"
+      "hash": "70df7a15a16b8596"
     },
     {
       "url": "https://www.skyactivs.com/news/2035",
@@ -29,6 +29,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.skyactivs.com/news/5064",
+      "title": "2026.11.09[MON] ACTIVITY 「やってみようタグラグビー体験会」を開催しました",
+      "date": "2026-11-09"
+    },
     {
       "url": "https://www.skyactivs.com/news/5054",
       "title": "2026.11.09[MON] GAME 【当日情報】vs 丸和MOMOTARO’S成田",
@@ -222,11 +227,6 @@
     {
       "url": "https://www.skyactivs.com/news/4382",
       "title": "2026.07.01[WED] GAME NTTジャパンラグビー リーグワン2026-27ディビジョン編成および大会日程のお知らせ",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/4369",
-      "title": "2026.07.01[WED] ACTIVITY 中黒瀬小学校でタグラグビー教室を実施しました",
       "date": "2026-07-01"
     },
     {

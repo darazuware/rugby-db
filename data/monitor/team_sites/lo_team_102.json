@@ -3,13 +3,13 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-11-12T21:30:20+09:00",
+  "checked_at": "2026-11-13T03:39:07+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "a0d69a87970dcb31"
+      "hash": "19498a7d8c5913af"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
@@ -30,6 +30,11 @@
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
       "title": "試合日程一覧",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/#ticket",
+      "title": "チケット情報",
       "date": "2026-11-14"
     },
     {
@@ -81,11 +86,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261205/#ticket",
       "title": "チケット 2026年10月24日 12月5日(土) 強化試合 8戦目 栃木ホンダヒート戦 チケット情報 ニュースを見る",
       "date": "2026-10-24"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/#ticket",
-      "title": "チケット 2026年10月23日 11月14日(土) グローバルラグビーフェスタ 2026 クイーンズランドレッズ... ニュースを見る",
-      "date": "2026-10-23"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261016_01/",
