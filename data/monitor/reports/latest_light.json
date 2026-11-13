@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-13T18:01:42+09:00",
+  "checked_at": "2026-11-14T02:28:48+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,44 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6266",
-          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 J SPORTSとDAZNで全試合ライブ配信決定のお知らせ 2026.11.13",
-          "date": "2026-11-13",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6265",
-          "title": "クラブ JR東日本グリーンウォリアーズ東葛、マスコットキャラクター決定のお知らせ 2026.11.13",
-          "date": "2026-11-13",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6264",
-          "title": "クラブ クボタスピアーズ船橋・東京ベイ、「はじめてのラグビー観戦」企画 開催のお知らせ 2026.11.13",
-          "date": "2026-11-13",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6263",
-          "title": "クラブ クリタウォーターガッシュ昭島、新加入選手及び新加入スタッフのお知らせ 2026.11.13",
-          "date": "2026-11-13",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6262",
-          "title": "クラブ 三菱重工相模原ダイナボアーズ、2026-27シーズン キャプテンおよびクラブスローガン決定のお知らせ 2026.11.13",
-          "date": "2026-11-13",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6261",
-          "title": "お知らせ ラグビーでつながる国際交流フェスタ2026 in 横浜 開催レポート 2026.11.13",
-          "date": "2026-11-13",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -56,26 +19,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54330",
-          "title": "レポート：男子日本代表 ヨーロッパ遠征（リポビタンDツアー2026）イングランド戦週 2026.11.13 （金） 15人制男子日本代表",
-          "date": "2026-11-13",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54329",
-          "title": "第63回全国大学ラグビーフットボール選手権大会 放送・配信予定のお知らせ 2026.11.13 （金） 15人制男子日本代表 WBB",
-          "date": "2026-11-13",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54322",
-          "title": "【チケット情報】第63回全国大学ラグビーフットボール選手権大会 3回戦・準々決勝 2026.11.13 （金） 大学 チケット 大学選手権",
-          "date": "2026-11-13",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -89,36 +33,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6263",
-      "title": "クラブ クリタウォーターガッシュ昭島、新加入選手及び新加入スタッフのお知らせ 2026.11.13",
-      "date": "2026-11-13",
-      "category": "roster"
-    },
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6262",
-      "title": "クラブ 三菱重工相模原ダイナボアーズ、2026-27シーズン キャプテンおよびクラブスローガン決定のお知らせ 2026.11.13",
-      "date": "2026-11-13",
-      "category": "roster"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54330",
-      "title": "レポート：男子日本代表 ヨーロッパ遠征（リポビタンDツアー2026）イングランド戦週 2026.11.13 （金） 15人制男子日本代表",
-      "date": "2026-11-13",
-      "category": "squad"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54329",
-      "title": "第63回全国大学ラグビーフットボール選手権大会 放送・配信予定のお知らせ 2026.11.13 （金） 15人制男子日本代表 WBB",
-      "date": "2026-11-13",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": []
 }
