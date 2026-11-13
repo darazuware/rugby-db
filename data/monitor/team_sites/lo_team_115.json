@@ -3,94 +3,14 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-11-13T21:03:26+09:00",
+  "checked_at": "2026-11-14T03:18:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hino-reddolphins.com/",
       "hash": "e30dcdbfba3911b6"
-    },
-    {
-      "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "f8aff5058b8c3d72"
     }
   ],
-  "items": [
-    {
-      "url": "https://hino-reddolphins.com/2026-11-13/",
-      "title": "【個人パートナー】Microsoft 365のシステム障害による配信メールの遅延について",
-      "date": "2026-11-13"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-11-12/",
-      "title": "株式会社foredgeとクラブパートナー契約を継続締結しました",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-11-11/",
-      "title": "11月3日（火・祝）スポーツフェスタ古河2026に参加しました",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-11-10/",
-      "title": "11/4 日野市役所へ表敬訪問しました",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-11-09/",
-      "title": "11/21 プレシーズンマッチ ヤクルトレビンズ戸田戦 アクセス情報のお知らせ",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-11-06/",
-      "title": "11/21 プレシーズンマッチ ヤクルトレビンズ戸田戦 試合運営について",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-11-05/",
-      "title": "11月15日（日）日野市産業まつりに参加します",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-11-04/",
-      "title": "11月14日（土）イオンモール多摩平の森『たまもりスポーツイベント』に参加します",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-10-30/",
-      "title": "10月25日（日）2026太田スポーツ・レクリエーション祭に参加しました",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-10-29/",
-      "title": "10/31 トヨタヴェルブリッツ戦 メンバーのお知らせ",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-10-28/",
-      "title": "株式会社大熊製作所とクラブパートナー契約を締結しました",
-      "date": "2026-10-28"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-10-27/",
-      "title": "11月3日（火・祝）スポーツフェスタ古河2026に参加します",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-10-20/",
-      "title": "株式会社トランス・ウァールド・インダストリーとクラブパートナー契約を継続締結しました",
-      "date": "2026-10-20"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-10-19/",
-      "title": "10月12日羽村市市民スポーツまつり（はむリンピック）に参加しました",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-10-15/",
-      "title": "10/17 浦安戦 メンバーのお知らせ",
-      "date": "2026-10-15"
-    }
-  ]
+  "items": []
 }
