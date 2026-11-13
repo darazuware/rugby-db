@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-11-13T03:39:07+09:00",
+  "checked_at": "2026-11-13T21:03:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "473574af506973b8"
+      "hash": "ef6e8ee1bba4e5bc"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "5bd41494d89a7309"
+      "hash": "bfdf2c63aece490e"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/partner/index_2087.html",
+      "title": "パートナー 2026.11.13 2026.10.30 浦安D-Rocks 2026-27シーズン キックオフパーティーを開催しました",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/partner/index_2086.html",
+      "title": "パートナー 2026.11.13 オリックス株式会社とのシルバーパートナーシップ契約締結のお知らせ",
+      "date": "2026-11-13"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/index_2041.html",
       "title": "ニュース 2026.11.12 【11.12 議事録追記】2026.9.25「D-Rockersテーマ別対話会（応援）」「Club D-Rockers交流会」を開催しました",
@@ -44,12 +54,12 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2078.html",
-      "title": "パートナー 2026.11.04 株式会社Reg.andとのネイビーパートナーシップ契約締結のお知らせ",
+      "title": "2026.11.04 ニュース 株式会社Reg.andとのネイビーパートナーシップ契約締結のお知らせ",
       "date": "2026-11-04"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2077.html",
-      "title": "パートナー 2026.11.02 株式会社ねこのてとのネイビーパートナーシップ契約締結のお知らせ",
+      "title": "2026.11.02 ニュース 株式会社ねこのてとのネイビーパートナーシップ契約締結のお知らせ",
       "date": "2026-11-02"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/event/index_2046.html",
       "title": "2026.10.08 ニュース 2026.10.10「わくわくハッピー本棚」との連携協定に基づく 初のブックドライブ（古本回収）実施のお知らせ",
       "date": "2026-10-08"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_2044.html",
-      "title": "2026.10.08 ニュース 2026.10.6 笛吹警察署 一日警察署長・副署長を務めました",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_2043.html",
-      "title": "2026.10.07 ニュース 2026-27シーズン ホストゲーム会場限定「キッズスタンプカード」実施のお知らせ",
-      "date": "2026-10-07"
     }
   ]
 }

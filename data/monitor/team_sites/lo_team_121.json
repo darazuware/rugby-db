@@ -3,16 +3,106 @@
   "league": "league-one-d3",
   "name": "ヤクルトレビンズ戸田",
   "official_url": "https://www.yakult.co.jp/sports/rugby/",
-  "checked_at": "2026-11-13T03:39:07+09:00",
+  "checked_at": "2026-11-13T21:03:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.yakult.co.jp/maintenance/",
-      "hash": "af73b3eeac2df4c8"
+      "hash": "70ec0bb68cec25a8"
     }
   ],
   "items": [
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_9.pdf",
+      "title": "2026.11.13 News Release ＩＲ Information Notification Regarding the Formulation of Management Policy for Enhancing Corporate Value",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_8.pdf",
+      "title": "2026.11.13 ニュースリリース ＩＲ情報 企業価値向上の実現に向けた経営方針の策定に関するお知らせ",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_7.pdf",
+      "title": "2026.11.13 ＩＲ Information \"Number of bottles of dairy products sold each day in Japan\" updated",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_6.pdf",
+      "title": "2026.11.13 ＩＲ情報 2026年9月度国内乳製品月次データ",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_5.pdf",
+      "title": "2026.11.13 ＩＲ Information ”Executive Summary” updated",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_4.pdf",
+      "title": "2026.11.13 ＩＲ情報 決算説明",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_3.pdf",
+      "title": "2026.11.13 ＩＲ Information ”Supplementary Materials\" updated",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_2.pdf",
+      "title": "2026.11.13 ＩＲ情報 決算短信補足説明資料",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_17.pdf",
+      "title": "2026.11.13 お知らせ 中間配当のお知らせ",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_16.pdf",
+      "title": "2026.11.13 ニュースリリース 清涼飲料および食品の価格改定について",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_15.pdf",
+      "title": "2026.11.13 News Release Further Strengthening Yakult’s Global R&D FrameworkEstablishment of Yakult Americas R&D Center Inc. in the United States",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_14.pdf",
+      "title": "2026.11.13 ニュースリリース グローバルＲ＆Ｄ体制をさらに強化欧州に続き米国に「Yakult Americas R&D Center Inc.」を設立",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_13.pdf",
+      "title": "2026.11.13 News Release Notification Regarding Transition to a Company with an Audit & Supervisory Committee",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_12.pdf",
+      "title": "2026.11.13 ニュースリリース 監査等委員会設置会社への移行に関するお知らせ",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_11.pdf",
+      "title": "2026.11.13 News Release Notification Regarding a Fixed Asset Transfer",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_10.pdf",
+      "title": "2026.11.13 ニュースリリース 固定資産の譲渡に関するお知らせ",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_1.pdf",
+      "title": "2026.11.13 News Release ＩＲ Information ”Financial Report” updated",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113.pdf",
+      "title": "2026.11.13 ニュースリリース ＩＲ情報 決算短信",
+      "date": "2026-11-13"
+    },
     {
       "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261110.pdf",
       "title": "2026.11.10 ニュースリリース 世界初、ヒト腸内ビフィズス菌が周囲のＤＮＡを染色体に取り込み、新たな性質を獲得するしくみを発見",

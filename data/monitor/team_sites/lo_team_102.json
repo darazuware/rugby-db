@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-11-13T03:39:07+09:00",
+  "checked_at": "2026-11-13T21:03:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "19498a7d8c5913af"
+      "hash": "dc0c83ee6c810014"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "662bf7d006d428a2"
+      "hash": "712e4b12f88114ac"
     }
   ],
   "items": [
@@ -21,6 +21,11 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/",
       "title": "試合日程一覧",
       "date": "2026-12-12"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261205/#ticket",
+      "title": "チケット情報",
+      "date": "2026-12-05"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261205/",
@@ -41,6 +46,11 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/",
       "title": "試合詳細",
       "date": "2026-11-14"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261113_01/",
+      "title": "イベント 2026年11月13日 【無料招待】2026-27シーズンホストゲーム開幕戦学生無料招待実施のお知らせ ニュースを見る",
+      "date": "2026-11-13"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/#event",
@@ -78,16 +88,6 @@
       "date": "2026-10-31"
     },
     {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261026_01/",
-      "title": "チーム 2026年10月26日 日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ ▶︎",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261205/#ticket",
-      "title": "チケット 2026年10月24日 12月5日(土) 強化試合 8戦目 栃木ホンダヒート戦 チケット情報 ニュースを見る",
-      "date": "2026-10-24"
-    },
-    {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261016_01/",
       "title": "ファンクラブ 2026年10月16日 2026-27ワイルドナイツファンクラブ新規入会キャンペーン実施のお知らせ ニュースを見る",
       "date": "2026-10-16"
@@ -106,11 +106,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261007_01/",
       "title": "活動レポート 2026年10月07日 留学記：NZ編 齊藤誉哉⑥ ニュースを見る",
       "date": "2026-10-07"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261005_02/",
-      "title": "チケット 2026年10月06日 【ご案内】シーズンシート継続購入プランについて ニュースを見る",
-      "date": "2026-10-06"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261005_01/",
@@ -171,11 +166,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260324_01/",
       "title": "イベント 2026年04月03日 4月3日更新【4月25日相模原DB戦】学生（小中高）2,000名無料招待申込開始... ニュースを見る",
       "date": "2026-04-03"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260330_01/",
-      "title": "イベント 2026年03月30日 【埼玉パナソニックワイルドナイツ】クラウドファンディングを実施 〜誰もが、誰とで... ニュースを見る",
-      "date": "2026-03-30"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260101_01/",

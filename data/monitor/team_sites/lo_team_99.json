@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-11-13T03:39:07+09:00",
+  "checked_at": "2026-11-13T21:03:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "bfe5feea1cebd2f5"
+      "hash": "55abbb97d717143d"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "0e0682a775d2fd76"
+      "hash": "d1a62f55545470e7"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2611-1042.html",
+      "title": "2026年 11月13日 #1042 平生 翔大 『誰よりもひたむきに泥臭くプレーする』",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/djinr.html",
+      "title": "2026年 11月13日 DAZN Japan Investment合同会社とオフィシャルパートナー契約締結のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026年11月1日付で東京サ…",
+      "date": "2026-11-13"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/CMRF26vCFSc.html",
       "title": "2026年 11月12日 秩父宮みなとラグビーまつり2026 vs チーフス メンバー発表！",
@@ -206,16 +216,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/260502tvfs.html",
       "title": "2026年 4月26日 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第17節 トヨタヴェルブリッツvs東京サントリーサンゴリアス戦のご案内 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第17節 ※ビジターゲーム ■試合日…",
       "date": "2026-04-26"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/042416ksfs.html",
-      "title": "2026年 4月18日 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第16節 コベルコ神戸スティーラーズvs東京サントリーサンゴリアス戦のご案内 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第16節 ※ビジターゲーム ■試合日…",
-      "date": "2026-04-18"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/516fd.html",
-      "title": "2026年 4月 3日 「サンゴリアス・フレンズデー」5月16日開催！ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 サンゴリアス・フレンズ（ファンクラブ）…",
-      "date": "2026-04-03"
     }
   ]
 }

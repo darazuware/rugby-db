@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-13T03:39:07+09:00",
+  "checked_at": "2026-11-13T21:03:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "dab7c81d54ea14c2"
+      "hash": "08eb4cea10d75a1e"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "2108bac705394bd1"
+      "hash": "c224a22f9e237a0b"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3259",
+      "title": "2026.11.13[FRI] EVENT 開幕戦はイオンモール浜松市野でパブリックビューイングを開催",
+      "date": "2026-11-13"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3258",
       "title": "TICKET 2026/11/11 ひのたけシートで親子ペアをご招待",
@@ -93,11 +98,6 @@
       "date": "2026-10-30"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3244",
-      "title": "2026.10.29[THU] TICKET 今シーズンも［ペア観戦シート］でゆったり観戦！",
-      "date": "2026-10-29"
-    },
-    {
       "url": "https://www.shizuoka-bluerevs.com/news/3243",
       "title": "2026.10.29[THU] TICKET ホーム開幕戦に特上鯛めし御膳付きテーブルシートが登場",
       "date": "2026-10-29"
@@ -136,11 +136,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3167",
       "title": "TEAM 2026/8/25 【11月】トレーニングを一般公開",
       "date": "2026-08-25"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3141",
-      "title": "TICKET 2026/7/13 法人チケットオーナーズの販売中",
-      "date": "2026-07-13"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3039",

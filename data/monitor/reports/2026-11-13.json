@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-13T03:39:07+09:00",
+  "checked_at": "2026-11-13T21:03:26+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,9 +9,23 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/partner/index_2087.html",
+          "title": "パートナー 2026.11.13 2026.10.30 浦安D-Rocks 2026-27シーズン キックオフパーティーを開催しました",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/partner/index_2086.html",
+          "title": "パートナー 2026.11.13 オリックス株式会社とのシルバーパートナーシップ契約締結のお知らせ",
+          "date": "2026-11-13",
+          "category": "roster"
+        }
+      ],
       "changed_pages": [
-        "https://urayasu-d-rocks.com/"
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
       ],
       "rename_signals": []
     },
@@ -23,8 +37,44 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post36410/",
+          "title": "2026/11/13 社会貢献 【選手イベント参加情報】11月18日(水)兵庫県東灘警察署の一日署長に山下 裕史選手が任命されました",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36334/",
+          "title": "2026/11/13 お知らせ 11月20日(金)「コベルコ神戸スティーラーズ ドライブ応援キャンペーン」募集開始のお知らせ",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36269/",
+          "title": "2026/11/13 グッズ 2026-27シーズン 第1回 プレーヤーズネームタオル 受注販売のお知らせ",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36258/",
+          "title": "2026/11/13 チケット ラグビー観戦が初めての方へ！おすすめの観戦席をご紹介",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/leagueone-2026_27/round01/",
+          "title": "2026/11/13 試合 NTTリーグワン2026-27 ホストゲーム第1節 特設ページを公開いたしました！",
+          "date": "2026-11-13",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/",
+        "https://www.kobesteelers.com/news/cat_news/information/",
+        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+      ],
       "rename_signals": []
     },
     {
@@ -34,10 +84,18 @@
       "official_url": "https://panasonic.co.jp/sports/wildknights/",
       "status": "ok",
       "first_run": false,
-      "item_count": 40,
-      "new_items": [],
+      "item_count": 38,
+      "new_items": [
+        {
+          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261113_01/",
+          "title": "イベント 2026年11月13日 【無料招待】2026-27シーズンホストゲーム開幕戦学生無料招待実施のお知らせ ニュースを見る",
+          "date": "2026-11-13",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://panasonic.co.jp/sports/wildknights/"
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
       ],
       "rename_signals": []
     },
@@ -50,7 +108,10 @@
       "first_run": false,
       "item_count": 41,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.bravelupus.com/",
+        "https://www.bravelupus.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -61,8 +122,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4398/",
+          "title": "2026.11.13 チケット・ファンクラブ 【試合情報・チケット】1/9(土)栃木H戦 3階スペシャルシート with ゴリパラ 販売決定！",
+          "date": "2026-11-13",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -73,8 +143,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 25,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.honda-heat.jp/news/2489/",
+          "title": "イベント 2026.11.13 【イベント活動】『第40回宇都宮マラソン大会』 参加のお知らせ",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.honda-heat.jp/news/2488/",
+          "title": "イベント 2026.11.13 【イベント活動】『宮コレ！2026』 記念パレード参加のお知らせ",
+          "date": "2026-11-13",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.honda-heat.jp/",
+        "https://www.honda-heat.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -85,7 +171,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261113.html-0",
+          "title": "2026-11-13 トレーニングマッチ vs横浜キヤノンイーグルス,11/28(土)｜ファンクラブ会員限定観戦のご案内（抽選100名）",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261113.html",
+          "title": "2026-11-13 2026-27シーズン クラブスローガン『STRONG FINISH』決定、吉田杏選手がキャプテン2季目",
+          "date": "2026-11-13",
+          "category": "roster"
+        }
+      ],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -100,8 +199,31 @@
       "status": "ok",
       "first_run": false,
       "item_count": 14,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20261113.html",
+          "title": "2026.11.13 TEAM 12月20日（日）ホスト開幕戦 スペシャルゲストに「T.N.T」来場決定！",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20261112.html",
+          "title": "2026.11.12 TEAM ネーションズチャンピオンシップ2026 イングランド代表戦に横浜キヤノンイーグルスの選手が選出されました",
+          "date": "2026-11-12",
+          "category": null
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20261110-2.html",
+          "title": "2026.11.10 TEAM ホストエリアパートナー契約締結のお知らせ キヤノンITソリューションズ株式会社",
+          "date": "2026-11-10",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/",
+        "https://www.canon-eagles.jp/news/info/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -112,8 +234,35 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261113c.html",
+          "title": "11月15日(日)「SETAGATA LIFE SELECTION -クラフトビール＆肉の章-」参加のお知らせ",
+          "date": "2026-11-13",
+          "category": "squad"
+        },
+        {
+          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261113b.html",
+          "title": "11月15日(日)「第50回 狛江市民まつり」参加のお知らせ",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261113a.html",
+          "title": "11月14日(土)「第17回 二子玉川大山みちフェスティバル」参加のお知らせ",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261113d.html",
+          "title": "NTT JAPAN RUGBY LEAGUE ONE 2026-27 ホストゲームチケット販売日程及び価格のご案内",
+          "date": "2026-11-13",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -124,8 +273,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/news/2026/11/13/120000.html",
+          "title": "2026.11.13 ニュース・トピックス",
+          "date": "2026-11-13",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/",
+        "https://www.kubota-spears.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -135,8 +294,15 @@
       "official_url": "https://www.shizuoka-bluerevs.com",
       "status": "ok",
       "first_run": false,
-      "item_count": 29,
-      "new_items": [],
+      "item_count": 28,
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3259",
+          "title": "2026.11.13[FRI] EVENT 開幕戦はイオンモール浜松市野でパブリックビューイングを開催",
+          "date": "2026-11-13",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -151,8 +317,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2611-1042.html",
+          "title": "2026年 11月13日 #1042 平生 翔大 『誰よりもひたむきに泥臭くプレーする』",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/djinr.html",
+          "title": "2026年 11月13日 DAZN Japan Investment合同会社とオフィシャルパートナー契約締結のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026年11月1日付で東京サ…",
+          "date": "2026-11-13",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -162,9 +344,25 @@
       "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": false,
-      "item_count": 32,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 34,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1113-02/",
+          "title": "TEAM マスコットキャラクター決定に関するお知らせ 2026.11.13",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1113-01/",
+          "title": "EVENT 第1節12月13日（日） 九州電力キューデンヴォルテクス戦 イベント情報 2026.11.13",
+          "date": "2026-11-13",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/"
+      ],
       "rename_signals": []
     },
     {
@@ -176,10 +374,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kyudenvoltex.com/",
-        "https://www.kyudenvoltex.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -205,7 +400,9 @@
       "first_run": false,
       "item_count": 8,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://shuttles-aichi.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -215,8 +412,15 @@
       "official_url": "https://kamaishi-seawaves.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 16,
-      "new_items": [],
+      "item_count": 15,
+      "new_items": [
+        {
+          "url": "https://kamaishi-seawaves.com/news/info/33384/",
+          "title": "お知らせ 2026.11.13 日本製鉄釜石シーウェイブス 2026-27シーズン 出陣式開催のお知らせ",
+          "date": "2026-11-13",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://kamaishi-seawaves.com/",
         "https://kamaishi-seawaves.com/news/",
@@ -231,10 +435,18 @@
       "official_url": "https://hanazono-liners.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 28,
-      "new_items": [],
+      "item_count": 27,
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/2026/11/13/11-21-pregame/",
+          "title": "2026.11.13 試合関連 11月21日(土)豊田自動織機シャトルズ戦についてのお知らせ",
+          "date": "2026-11-13",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://hanazono-liners.jp/"
+        "https://hanazono-liners.jp/",
+        "https://hanazono-liners.jp/news/"
       ],
       "rename_signals": []
     },
@@ -245,9 +457,18 @@
       "official_url": "https://hino-reddolphins.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 16,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 15,
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-11-13/",
+          "title": "【個人パートナー】Microsoft 365のシステム障害による配信メールの遅延について",
+          "date": "2026-11-13",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -271,8 +492,39 @@
       "official_url": "https://www.kurita-watergush.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 43,
-      "new_items": [],
+      "item_count": 46,
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/stadium/%e7%a6%8f%e5%b1%b1%e9%bb%92%e9%85%a2-%e6%a1%b7%e5%bf%97%e7%94%b0%e3%83%91%e3%83%bc%e3%82%af%e6%a1%b7%e5%bf%97%e7%94%b0%e5%a4%9a%e7%9b%ae%e7%9a%84%e5%ba%83%e5%a0%b4%e9%b9%bf%e5%85%90%e5%b3%b6/",
+          "title": "アクセス",
+          "date": "2026-11-14",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/games/",
+          "title": "全ての試合情報はこちら",
+          "date": "2026-11-14",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261114-wg%e6%98%ad%e5%b3%b6-vslr%e7%a6%8f%e5%b2%a1/",
+          "title": "このゲームの詳細情報はこちら",
+          "date": "2026-11-14",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/20261113-3/",
+          "title": "お知らせ 2026/11/13 2026-27シーズン 新加入選手及び新加入スタッフのお知らせ",
+          "date": "2026-11-13",
+          "category": "roster"
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/20261113-2/",
+          "title": "私とWATER GUSH #29 栗山塁 PR 野球少年がプロップになるまで 2026/11/13",
+          "date": "2026-11-13",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -288,7 +540,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -313,8 +568,8 @@
       "item_count": 45,
       "new_items": [
         {
-          "url": "https://www.skyactivs.com/news/5064",
-          "title": "2026.11.09[MON] ACTIVITY 「やってみようタグラグビー体験会」を開催しました",
+          "url": "https://www.skyactivs.com/news/5075",
+          "title": "2026.11.09[MON] ACTIVITY 「草津保育園」にてラグビー体験会を実施しました",
           "date": "2026-11-09",
           "category": null
         }
@@ -333,9 +588,120 @@
       "official_url": "https://www.yakult.co.jp/sports/rugby/",
       "status": "ok",
       "first_run": false,
-      "item_count": 11,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 29,
+      "new_items": [
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_9.pdf",
+          "title": "2026.11.13 News Release ＩＲ Information Notification Regarding the Formulation of Management Policy for Enhancing Corporate Value",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_8.pdf",
+          "title": "2026.11.13 ニュースリリース ＩＲ情報 企業価値向上の実現に向けた経営方針の策定に関するお知らせ",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_7.pdf",
+          "title": "2026.11.13 ＩＲ Information \"Number of bottles of dairy products sold each day in Japan\" updated",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_6.pdf",
+          "title": "2026.11.13 ＩＲ情報 2026年9月度国内乳製品月次データ",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_5.pdf",
+          "title": "2026.11.13 ＩＲ Information ”Executive Summary” updated",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_4.pdf",
+          "title": "2026.11.13 ＩＲ情報 決算説明",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_3.pdf",
+          "title": "2026.11.13 ＩＲ Information ”Supplementary Materials\" updated",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_2.pdf",
+          "title": "2026.11.13 ＩＲ情報 決算短信補足説明資料",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_17.pdf",
+          "title": "2026.11.13 お知らせ 中間配当のお知らせ",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_16.pdf",
+          "title": "2026.11.13 ニュースリリース 清涼飲料および食品の価格改定について",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_15.pdf",
+          "title": "2026.11.13 News Release Further Strengthening Yakult’s Global R&D FrameworkEstablishment of Yakult Americas R&D Center Inc. in the United States",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_14.pdf",
+          "title": "2026.11.13 ニュースリリース グローバルＲ＆Ｄ体制をさらに強化欧州に続き米国に「Yakult Americas R&D Center Inc.」を設立",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_13.pdf",
+          "title": "2026.11.13 News Release Notification Regarding Transition to a Company with an Audit & Supervisory Committee",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_12.pdf",
+          "title": "2026.11.13 ニュースリリース 監査等委員会設置会社への移行に関するお知らせ",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_11.pdf",
+          "title": "2026.11.13 News Release Notification Regarding a Fixed Asset Transfer",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_10.pdf",
+          "title": "2026.11.13 ニュースリリース 固定資産の譲渡に関するお知らせ",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_1.pdf",
+          "title": "2026.11.13 News Release ＩＲ Information ”Financial Report” updated",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113.pdf",
+          "title": "2026.11.13 ニュースリリース ＩＲ情報 決算短信",
+          "date": "2026-11-13",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.yakult.co.jp/maintenance/"
+      ],
       "rename_signals": []
     },
     {
@@ -346,8 +712,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 11,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://leriro-fukuoka.com/news-detail?id=285",
+          "title": "公開練習・出陣式のお知らせ",
+          "date": "2026-11-13",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://leriro-fukuoka.com/",
+        "https://leriro-fukuoka.com/news"
+      ],
       "rename_signals": []
     }
   ],
@@ -359,7 +735,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6267",
+          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 D1 第1-3節／D2・D3 第1-2節 放送予定のお知らせ 2026.11.13",
+          "date": "2026-11-13",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -383,7 +766,50 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "横浜キヤノンイーグルス",
+      "url": "https://www.canon-eagles.jp/news/info/20261110-2.html",
+      "title": "2026.11.10 TEAM ホストエリアパートナー契約締結のお知らせ キヤノンITソリューションズ株式会社",
+      "date": "2026-11-10",
+      "category": "roster"
+    },
+    {
+      "source": "浦安D-Rocks",
+      "url": "https://urayasu-d-rocks.com/news/partner/index_2086.html",
+      "title": "パートナー 2026.11.13 オリックス株式会社とのシルバーパートナーシップ契約締結のお知らせ",
+      "date": "2026-11-13",
+      "category": "roster"
+    },
+    {
+      "source": "三菱重工相模原ダイナボアーズ",
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261113.html",
+      "title": "2026-11-13 2026-27シーズン クラブスローガン『STRONG FINISH』決定、吉田杏選手がキャプテン2季目",
+      "date": "2026-11-13",
+      "category": "roster"
+    },
+    {
+      "source": "東京サントリーサンゴリアス",
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/djinr.html",
+      "title": "2026年 11月13日 DAZN Japan Investment合同会社とオフィシャルパートナー契約締結のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026年11月1日付で東京サ…",
+      "date": "2026-11-13",
+      "category": "roster"
+    },
+    {
+      "source": "クリタウォーターガッシュ昭島",
+      "url": "https://www.kurita-watergush.jp/20261113-3/",
+      "title": "お知らせ 2026/11/13 2026-27シーズン 新加入選手及び新加入スタッフのお知らせ",
+      "date": "2026-11-13",
+      "category": "roster"
+    },
+    {
+      "source": "リコーブラックラムズ東京",
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261113c.html",
+      "title": "11月15日(日)「SETAGATA LIFE SELECTION -クラフトビール＆肉の章-」参加のお知らせ",
+      "date": "2026-11-13",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }

@@ -3,20 +3,30 @@
   "league": "league-one-d3",
   "name": "ルリーロ福岡",
   "official_url": "https://leriro-fukuoka.com/",
-  "checked_at": "2026-11-13T03:39:07+09:00",
+  "checked_at": "2026-11-13T21:03:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://leriro-fukuoka.com/",
-      "hash": "83d7d60608a412a2"
+      "hash": "40552f62b1225260"
     },
     {
       "url": "https://leriro-fukuoka.com/news",
-      "hash": "e59ecfd58dd19b52"
+      "hash": "8d009996ebbe94d9"
     }
   ],
   "items": [
+    {
+      "url": "https://leriro-fukuoka.com/news-detail?id=285",
+      "title": "公開練習・出陣式のお知らせ",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://leriro-fukuoka.com/news",
+      "title": "NEWS一覧",
+      "date": "2026-11-13"
+    },
     {
       "url": "https://leriro-fukuoka.com/news-detail?id=284",
       "title": "『DAZN年間視聴パス』の販売のお知らせ",
@@ -24,12 +34,7 @@
     },
     {
       "url": "https://leriro-fukuoka.com/news-detail?id=270",
-      "title": "NTT JAPAN RUGUBY LEAGUE ONE 2026-27シーズン スケジュールのお知らせ",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://leriro-fukuoka.com/news",
-      "title": "NEWS一覧",
+      "title": "NTT JAPAN RUGBY LEAGUE ONE 2026-27シーズン スケジュールのお知らせ",
       "date": "2026-11-06"
     },
     {
@@ -66,11 +71,6 @@
       "url": "https://leriro-fukuoka.com/news-detail?id=277",
       "title": "2026-27シーズン プレイヤーズ体制/スローガンのお知らせ",
       "date": "2026-09-10"
-    },
-    {
-      "url": "https://leriro-fukuoka.com/news-detail?id=276",
-      "title": "NTTジャパンラグビー リーグワン2026-27 ホストゲーム キッチンカー出店者様募集",
-      "date": "2026-09-07"
     }
   ]
 }

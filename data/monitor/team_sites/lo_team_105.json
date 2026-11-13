@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-11-13T03:39:07+09:00",
+  "checked_at": "2026-11-13T21:03:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "1c5d1e8ec6d228a8"
+      "hash": "8a0bf01032e30223"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "5c653c3cb0ea6431"
+      "hash": "50a3561fdaeba721"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2489/",
+      "title": "イベント 2026.11.13 【イベント活動】『第40回宇都宮マラソン大会』 参加のお知らせ",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2488/",
+      "title": "イベント 2026.11.13 【イベント活動】『宮コレ！2026』 記念パレード参加のお知らせ",
+      "date": "2026-11-13"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2487/",
       "title": "トピックス 2026.11.12 【OSAKA熱活GAMES 】11/14(土) レッドハリケーンズ大阪戦 試合案内",
@@ -34,17 +44,17 @@
     },
     {
       "url": "https://www.honda-heat.jp/news/2482/",
-      "title": "トピックス 2026.11.11 【チケット】2026-27シーズン企画チケット④HEATERS SUITE",
+      "title": "チケット 2026.11.11 【チケット】2026-27シーズン企画チケット④HEATERS SUITE",
       "date": "2026-11-11"
     },
     {
       "url": "https://www.honda-heat.jp/news/2468/",
-      "title": "トピックス 2026.11.10 【チケット】2026-27シーズン企画チケット③秘密基地シート",
+      "title": "チケット 2026.11.10 【チケット】2026-27シーズン企画チケット③秘密基地シート",
       "date": "2026-11-10"
     },
     {
       "url": "https://www.honda-heat.jp/news/2466/",
-      "title": "トピックス 2026.11.7 【チケット】2026-27シーズン企画チケット②HAB ( HEAT AND BEER ) 立見席",
+      "title": "チケット 2026.11.7 【チケット】2026-27シーズン企画チケット②HAB ( HEAT AND BEER ) 立見席",
       "date": "2026-11-07"
     },
     {
@@ -64,7 +74,7 @@
     },
     {
       "url": "https://www.honda-heat.jp/news/2467/",
-      "title": "トピックス 2026.11.6 【チケット】2026-27シーズン企画チケット①TARPシート",
+      "title": "チケット 2026.11.6 【チケット】2026-27シーズン企画チケット①TARPシート",
       "date": "2026-11-06"
     },
     {
@@ -109,7 +119,7 @@
     },
     {
       "url": "https://www.honda-heat.jp/news/2460/",
-      "title": "トピックス 2026.10.1 【チケット】2026-27シーズン シーズンシート販売のご案内",
+      "title": "チケット 2026.10.1 【チケット】2026-27シーズン シーズンシート販売のご案内",
       "date": "2026-10-01"
     },
     {
@@ -123,19 +133,9 @@
       "date": "2026-09-30"
     },
     {
-      "url": "https://www.honda-heat.jp/news/2455/",
-      "title": "トピックス 2026.9.30 退団スタッフのお知らせ",
-      "date": "2026-09-30"
-    },
-    {
       "url": "https://www.honda-heat.jp/news/2434/",
-      "title": "トピックス 2026.9.30 チケット、ファンクラブに関するお問い合わせ先変更のご案内",
+      "title": "ファンクラブ 2026.9.30 チケット、ファンクラブに関するお問い合わせ先変更のご案内",
       "date": "2026-09-30"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2453/",
-      "title": "選手紹介 2026.9.29 【選手インタビュー】怪我を越え、いよいよピッチへ。山村和也×宮下 晃毅 座談会",
-      "date": "2026-09-29"
     },
     {
       "url": "https://www.honda-heat.jp/news/2451/",

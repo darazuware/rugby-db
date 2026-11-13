@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-11-13T03:39:07+09:00",
+  "checked_at": "2026-11-13T21:03:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "66b37d70bfc77aa3"
+      "hash": "f914049da2f74159"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "506f0f6c23fcd99d"
+      "hash": "3c674e9651fa6093"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261113.html-0",
+      "title": "2026-11-13 トレーニングマッチ vs横浜キヤノンイーグルス,11/28(土)｜ファンクラブ会員限定観戦のご案内（抽選100名）",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261113.html",
+      "title": "2026-11-13 2026-27シーズン クラブスローガン『STRONG FINISH』決定、吉田杏選手がキャプテン2季目",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/kanshasai2026",
+      "title": "2026-11-13 ダイナボアーズ地域感謝祭｜いよいよ明日開催！各種イベント情報更新しました",
+      "date": "2026-11-13"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/tm2026-3",
       "title": "2026-11-12 トレーニングマッチ vs日野レッドドルフィンズ,12/4(金)｜試合情報掲載 ※非公開となります",
@@ -44,17 +59,17 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule#3",
-      "title": "2026-11-06 日程更新｜NTTリーグワン公式戦 第9節までのキックオフ時間が決定！",
+      "title": "2026-11-06 [ イベント ] 日程更新｜NTTリーグワン公式戦 第9節までのキックオフ時間が決定！",
       "date": "2026-11-06"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261106.html-0",
-      "title": "2026-11-06 FMヨコハマ「FLAG」内コーナー「TRY！三菱重工相模原ダイナボアーズ」今季の放送スタート｜毎週金曜14:10頃",
+      "title": "2026-11-06 [ メディア ] FMヨコハマ「FLAG」内コーナー「TRY！三菱重工相模原ダイナボアーズ」今季の放送スタート｜毎週金曜14:10頃",
       "date": "2026-11-06"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261106.html",
-      "title": "2026-11-06 チケット本日発売｜12/13（日）開幕戦・神奈川ダービー（vs横浜E）ビッグTシャツ先着6,000名 ※一般販売11/11（水）",
+      "title": "2026-11-06 [ イベント ] チケット本日発売｜12/13（日）開幕戦・神奈川ダービー（vs横浜E）ビッグTシャツ先着6,000名 ※一般販売11/11（水）",
       "date": "2026-11-06"
     },
     {
@@ -101,11 +116,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261022.html",
       "title": "2026-10-22 [ チーム ] [ メディア ] 日本代表｜チャーリー・ローレンス選手がフィジー代表戦（10/24）に12番で先発出場予定",
       "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/kanshasai2026",
-      "title": "2026-10-20 [ イベント ] ダイナボアーズ地域感謝祭 supported by 奥村組 11/14(土)開催決定！",
-      "date": "2026-10-20"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261019.html",
@@ -206,16 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260908.html",
       "title": "2026-09-08 [ ファンクラブ ] ダイナボアーズ公式ファンクラブ2026-27新規入会の受付を開始しました",
       "date": "2026-09-08"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/schedule#2",
-      "title": "2026-09-04 [ イベント ] 日程更新｜プレシーズンマッチ1試合（ビジター）の予定を公開",
-      "date": "2026-09-04"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260904.html",
-      "title": "2026-09-04 [ チーム ] [ メディア ] 男子セブンズ日本代表｜男子SDSスペイン遠征 参加メンバーに服部選手・吉本選手が選出",
-      "date": "2026-09-04"
     }
   ]
 }

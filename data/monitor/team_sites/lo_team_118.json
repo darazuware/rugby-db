@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "狭山セコムラガッツ",
   "official_url": "https://www.rugguts.secom.co.jp/",
-  "checked_at": "2026-11-13T03:39:07+09:00",
+  "checked_at": "2026-11-13T21:03:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.rugguts.secom.co.jp/",
-      "hash": "df8350236847add5"
+      "hash": "07e9a0019331f5be"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/news/",
-      "hash": "b9c6723b41f01fae"
+      "hash": "918ffcd5755a7184"
     }
   ],
   "items": [
@@ -26,6 +26,11 @@
       "url": "https://www.rugguts.secom.co.jp/results/20261212.html",
       "title": "試合の詳細",
       "date": "2026-12-12"
+    },
+    {
+      "url": "https://www.rugguts.secom.co.jp/2026/08/ntt-2026-27-d2202686.html",
+      "title": "NTTジャパンラグビー リーグワン2026-27 D2の試合日程のお知らせ（2026年11月13日更新） 2026.08.06 お知らせ",
+      "date": "2026-11-13"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/results/20261031.html",
@@ -61,11 +66,6 @@
       "url": "https://www.rugguts.secom.co.jp/2026/10/post-28.html",
       "title": "ホストゲームシーズンシート販売のお知らせ",
       "date": "2026-10-07"
-    },
-    {
-      "url": "https://www.rugguts.secom.co.jp/2026/08/ntt-2026-27-d2202686.html",
-      "title": "NTTジャパンラグビー リーグワン2026-27 D2の試合日程のお知らせ（2026年10月5日更新） 2026.08.06 お知らせ",
-      "date": "2026-10-05"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/2026/10/1.html",

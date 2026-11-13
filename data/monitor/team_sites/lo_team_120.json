@@ -3,21 +3,21 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-11-13T03:39:07+09:00",
+  "checked_at": "2026-11-13T21:03:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "a701f9a790cb1434"
+      "hash": "16850a70bdd10812"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "bd5069ae5eddbb9d"
+      "hash": "2cab8bb1d2944209"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
-      "hash": "70df7a15a16b8596"
+      "hash": "0507c2c602204cf2"
     },
     {
       "url": "https://www.skyactivs.com/news/2035",
@@ -30,13 +30,18 @@
   ],
   "items": [
     {
-      "url": "https://www.skyactivs.com/news/5064",
-      "title": "2026.11.09[MON] ACTIVITY 「やってみようタグラグビー体験会」を開催しました",
+      "url": "https://www.skyactivs.com/news/5054",
+      "title": "2026.11.10[TUE] GAME 【当日情報】vs 丸和MOMOTARO’S成田",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://www.skyactivs.com/news/5075",
+      "title": "2026.11.09[MON] ACTIVITY 「草津保育園」にてラグビー体験会を実施しました",
       "date": "2026-11-09"
     },
     {
-      "url": "https://www.skyactivs.com/news/5054",
-      "title": "2026.11.09[MON] GAME 【当日情報】vs 丸和MOMOTARO’S成田",
+      "url": "https://www.skyactivs.com/news/5064",
+      "title": "2026.11.09[MON] ACTIVITY 「やってみようタグラグビー体験会」を開催しました",
       "date": "2026-11-09"
     },
     {
@@ -223,11 +228,6 @@
       "url": "https://www.skyactivs.com/news/4396",
       "title": "2026.07.07[TUE] TEAM 2026-27シーズン入団選手およびスタッフのお知らせ",
       "date": "2026-07-07"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/4382",
-      "title": "2026.07.01[WED] GAME NTTジャパンラグビー リーグワン2026-27ディビジョン編成および大会日程のお知らせ",
-      "date": "2026-07-01"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",

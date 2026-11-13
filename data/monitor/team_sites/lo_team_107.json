@@ -3,21 +3,21 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-11-13T03:39:07+09:00",
+  "checked_at": "2026-11-13T21:03:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.canon-eagles.jp/",
-      "hash": "71f55f2e6555d48e"
+      "hash": "8dc6a9b60cbea895"
     },
     {
       "url": "https://www.canon-eagles.jp/news/",
-      "hash": "d475c58743cf6165"
+      "hash": "ef7c304de2337a35"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/2026.html",
-      "hash": "70d837f4edbde9de"
+      "hash": "6ed57bd32bb3e087"
     }
   ],
   "items": [
@@ -25,6 +25,16 @@
       "url": "https://www.canon-eagles.jp/gameinfo/info/2026-2027/20261114.html",
       "title": "詳細・チケット情報",
       "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20261113.html",
+      "title": "2026.11.13 TEAM 12月20日（日）ホスト開幕戦 スペシャルゲストに「T.N.T」来場決定！",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20261112.html",
+      "title": "2026.11.12 TEAM ネーションズチャンピオンシップ2026 イングランド代表戦に横浜キヤノンイーグルスの選手が選出されました",
+      "date": "2026-11-12"
     },
     {
       "url": "https://www.canon-eagles.jp/news/gameinfo/20261112.html",
@@ -38,6 +48,11 @@
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/20261110.html",
+      "title": "2026.11.10 TEAM 横浜キヤノンイーグルスの選手が南アフリカ代表としてイタリア代表戦に出場します",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20261110-2.html",
       "title": "2026.11.10 TEAM ホストエリアパートナー契約締結のお知らせ キヤノンITソリューションズ株式会社",
       "date": "2026-11-10"
     },
@@ -67,11 +82,6 @@
       "date": "2026-11-02"
     },
     {
-      "url": "https://www.canon-eagles.jp/news/info/20261102-3.html",
-      "title": "2026.11.02 TEAM ホストエリアパートナー契約締結のお知らせ ミサワホーム九州株式会社",
-      "date": "2026-11-02"
-    },
-    {
       "url": "https://www.canon-eagles.jp/news/info/20261102-2.html",
       "title": "2026.11.02 TEAM ホストエリアパートナー契約締結のお知らせ Univelホールディングス株式会社",
       "date": "2026-11-02"
@@ -80,16 +90,6 @@
       "url": "https://www.canon-eagles.jp/news/goods/20261102.html",
       "title": "2026.11.02 GOODS 横浜市ふるさと納税の返礼品に、開幕戦のチケットが登場",
       "date": "2026-11-02"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/activities/activity/20261030.html",
-      "title": "2026.10.30 TEAM 開幕戦に横浜市民の皆様をご招待いたします",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/info/20261029.html",
-      "title": "2026.10.29 TEAM 横浜キヤノンイーグルスの選手が南アフリカ代表メンバーに選出されました",
-      "date": "2026-10-29"
     }
   ]
 }

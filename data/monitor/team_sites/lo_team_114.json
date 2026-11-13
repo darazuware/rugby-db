@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-11-13T03:39:07+09:00",
+  "checked_at": "2026-11-13T21:03:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "218525cb43096330"
+      "hash": "4c7a887bb3bc2574"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "6f0264b8b19ca755"
+      "hash": "ee22faec4eb46184"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/11/13/11-21-pregame/",
+      "title": "2026.11.13 試合関連 11月21日(土)豊田自動織機シャトルズ戦についてのお知らせ",
+      "date": "2026-11-13"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/11/12/brumbies-member/",
       "title": "2026.11.12 試合関連 チーム情報 【11月14日(土)ACT ブランビーズ戦】メンバーのご案内",
@@ -88,11 +93,6 @@
       "date": "2026-10-26"
     },
     {
-      "url": "https://hanazono-liners.jp/2026/10/25/fukuokacamp-day4/",
-      "title": "2026-10-25 その他 福岡合宿レポート4日目",
-      "date": "2026-10-25"
-    },
-    {
       "url": "https://hanazono-liners.jp/2026/10/23/ticket-schedule/",
       "title": "2026.10.23 その他 NTT ジャパンラグビーリーグワン 2026-27シーズンホストゲーム販売スケジュールが決定しました。",
       "date": "2026-10-23"
@@ -146,11 +146,6 @@
       "url": "https://hanazono-liners.jp/2026/09/07/app-fin/",
       "title": "2026.09.07 その他 花園近鉄ライナーズ公式アプリ サービス終了のお知らせおよび公式LINEアカウント一時休止のご案内",
       "date": "2026-09-07"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/08/24/rising-timeschedule/",
-      "title": "2026.08.24 試合関連 ジャパンラグビー リーグワン ライジング2026 試合時間決定【追加】のお知らせ",
-      "date": "2026-08-24"
     },
     {
       "url": "https://hanazono-liners.jp/2026/08/24/news-osaka-funtastc-sports-project/",

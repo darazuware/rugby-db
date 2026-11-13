@@ -3,28 +3,53 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-11-13T03:39:07+09:00",
+  "checked_at": "2026-11-13T21:03:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "68d71781e1db822f"
+      "hash": "4a25d75b9e50a69a"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "b42cff89d6fa85d7"
+      "hash": "d476bf3c78c10bf0"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "196d510c12372694"
+      "hash": "53d9ebe9280ef570"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "2f467a71a334810e"
+      "hash": "7cda6fd7f628ade8"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post36410/",
+      "title": "2026/11/13 社会貢献 【選手イベント参加情報】11月18日(水)兵庫県東灘警察署の一日署長に山下 裕史選手が任命されました",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36334/",
+      "title": "2026/11/13 お知らせ 11月20日(金)「コベルコ神戸スティーラーズ ドライブ応援キャンペーン」募集開始のお知らせ",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36269/",
+      "title": "2026/11/13 グッズ 2026-27シーズン 第1回 プレーヤーズネームタオル 受注販売のお知らせ",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36258/",
+      "title": "2026/11/13 チケット ラグビー観戦が初めての方へ！おすすめの観戦席をご紹介",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.kobesteelers.com/leagueone-2026_27/round01/",
+      "title": "2026/11/13 試合 NTTリーグワン2026-27 ホストゲーム第1節 特設ページを公開いたしました！",
+      "date": "2026-11-13"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post36264/",
       "title": "2026/11/12 イベント 【選手イベント参加情報】11月21日(土) 御影クラッセにコベルコ神戸スティーラーズがやってくる！",
@@ -199,31 +224,6 @@
       "url": "https://www.kobesteelers.com/news/post35765/",
       "title": "2026/10/27 イベント 10月31日(土)「第10回神戸パン祭り」でラグビー体験を実施します",
       "date": "2026-10-27"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35782/",
-      "title": "2026/10/26 チーム ⽇本代表 ヨーロッパ遠征「リポビタンDツアー2026」参加メンバーのお知らせ",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35735/",
-      "title": "2026/10/26 普及 【レポート】神戸(ホスト)ライオンズクラブ「第5回ラグビースクール交流会」に参加しました",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.kobesteelers.com/interview/post35758/",
-      "title": "2026/10/26 チーム 【Road to RWC2027】「リポビタンDチャレンジカップ2026」日本代表 vsフィジー代表レポート",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35730/",
-      "title": "2026/10/23 イベント 【レポート】「第10回タグラグビー大会記念－座談会－」に上村 樹輝選手が出演しました",
-      "date": "2026-10-23"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35729/",
-      "title": "2026/10/23 ファンクラブ プレミアム会員/ゴールド会員/リモート＋G会員限定「クラブハウスツアー」の実施と参加者募集について",
-      "date": "2026-10-23"
     },
     {
       "url": "https://www.kobesteelers.com/news/post35346/",

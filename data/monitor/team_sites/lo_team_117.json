@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-13T03:39:07+09:00",
+  "checked_at": "2026-11-13T21:03:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "a7b34740d1d7efab"
+      "hash": "79003ff009564562"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "7650037c4035e967"
+      "hash": "a68cb53ab637f22e"
     }
   ],
   "items": [
@@ -23,9 +23,39 @@
       "date": "2027-11-07"
     },
     {
+      "url": "https://www.kurita-watergush.jp/stadium/%e7%a6%8f%e5%b1%b1%e9%bb%92%e9%85%a2-%e6%a1%b7%e5%bf%97%e7%94%b0%e3%83%91%e3%83%bc%e3%82%af%e6%a1%b7%e5%bf%97%e7%94%b0%e5%a4%9a%e7%9b%ae%e7%9a%84%e5%ba%83%e5%a0%b4%e9%b9%bf%e5%85%90%e5%b3%b6/",
+      "title": "アクセス",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/games/",
+      "title": "全ての試合情報はこちら",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/game/20261114-wg%e6%98%ad%e5%b3%b6-vslr%e7%a6%8f%e5%b2%a1/",
+      "title": "このゲームの詳細情報はこちら",
+      "date": "2026-11-14"
+    },
+    {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-12"
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/category/news/",
+      "title": "お知らせ",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261113-3/",
+      "title": "お知らせ 2026/11/13 2026-27シーズン 新加入選手及び新加入スタッフのお知らせ",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261113-2/",
+      "title": "私とWATER GUSH #29 栗山塁 PR 野球少年がプロップになるまで 2026/11/13",
+      "date": "2026-11-13"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261112-2/",
@@ -63,11 +93,6 @@
       "date": "2026-11-07"
     },
     {
-      "url": "https://www.kurita-watergush.jp/category/news/",
-      "title": "お知らせ",
-      "date": "2026-11-06"
-    },
-    {
       "url": "https://www.kurita-watergush.jp/20261106-2/",
       "title": "私とWATER GUSH #23 中村翔 SH ラグビーへの純粋な愛と覚悟 2026/11/06",
       "date": "2026-11-06"
@@ -79,7 +104,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261105-2/",
-      "title": "私とWATER GUSH #22 渋谷圭 PR 仕事も、家族も、ラグビーも全力で駆け抜ける 2026/11/05",
+      "title": "私とウォーターガッシュ 公開日：2026/11/05 私とWATER GUSH #22 渋谷圭 PR 仕事も、家族も、ラグビーも全力で駆け抜ける 今回の”私とWATER GUSH”はPRとして活躍する渋谷圭選手。加入から7年目を迎えるベテランの彼は、仕事・ラグ… 続きを読む",
       "date": "2026-11-05"
     },
     {
@@ -194,7 +219,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261016-4/",
-      "title": "お知らせ 2026/10/16 2026-27シーズン キャプテン・バイスキャプテン決定のお知らせ",
+      "title": "お知らせ 公開日：2026/10/16 2026-27シーズン キャプテン・バイスキャプテン決定のお知らせ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 2026-27シーズ… 続きを読む",
       "date": "2026-10-16"
     },
     {
@@ -221,16 +246,6 @@
       "url": "https://www.kurita-watergush.jp/20261014-2/",
       "title": "私とウォーターガッシュ 公開日：2026/10/14 私とWATER GUSH #2 菅沼神兵 SO11年間、仕事と夢を両立し続けた男――SO菅沼神兵が語る、クリタへの想いとDiv2への誓い クリタウォーターガッシュ昭島の選手のラグビーとの出会い、クリタでラグビーをする想いにせまる”私とWATE… 続きを読む",
       "date": "2026-10-14"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261013-3/",
-      "title": "地域貢献 公開日：2026/10/13 【地域活動報告】昭島駅周辺清掃活動 実施日：10月12日（月祝）実施場所：昭島駅周辺 地域活動の一環として、選手・スタッフ総勢60名で昭島駅周… 続きを読む",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261013-2/",
-      "title": "私とウォーターガッシュ 公開日：2026/10/13 私とWATER GUSH #1 出渕賢史 PRダイエット目的で強制的に始めたラグビーが、人生に彩りを与えてくれた はじめに クリタウォーターガッシュ昭島の選手たちが、なぜラグビーを始めたのか、なぜクリタウォーターガ… 続きを読む",
-      "date": "2026-10-13"
     }
   ]
 }

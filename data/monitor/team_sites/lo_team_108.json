@@ -3,40 +3,40 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-11-13T03:39:07+09:00",
+  "checked_at": "2026-11-13T21:03:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "fc8014b6eb8c19ab"
+      "hash": "ba91413b29633f81"
     }
   ],
   "items": [
     {
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261113c.html",
+      "title": "11月15日(日)「SETAGATA LIFE SELECTION -クラフトビール＆肉の章-」参加のお知らせ",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261113b.html",
+      "title": "11月15日(日)「第50回 狛江市民まつり」参加のお知らせ",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261113a.html",
+      "title": "11月14日(土)「第17回 二子玉川大山みちフェスティバル」参加のお知らせ",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261113d.html",
+      "title": "NTT JAPAN RUGBY LEAGUE ONE 2026-27 ホストゲームチケット販売日程及び価格のご案内",
+      "date": "2026-11-13"
+    },
+    {
       "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261112a.html",
       "title": "11月14日(土) プレシーズンマッチ2026 横浜キヤノンイーグルス戦 メンバーのお知らせ",
       "date": "2026-11-12"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261110b.html",
-      "title": "ブラックラムズ東京オンラインショップ 新グッズ販売のお知らせ",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261110a.html",
-      "title": "2026-27シーズン 1stオーセンティックジャージー 第2回受注販売のお知らせ",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261109a.html",
-      "title": "11月15日(日)「第38回 桜丘区民センターまつり」参加のお知らせ",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260909a.html",
-      "title": "(11/6更新) NTT JAPAN RUGBY LEAGUE ONE 2026-27 試合日程のお知らせ",
-      "date": "2026-09-09"
     }
   ]
 }

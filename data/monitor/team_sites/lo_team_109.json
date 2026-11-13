@@ -3,20 +3,34 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-11-13T03:39:07+09:00",
+  "checked_at": "2026-11-13T21:03:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "e53965752c124360"
+      "hash": "6ba2e8746be72709"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "474143506b69edaa"
+      "hash": "5589c1d1bff8f527"
+    },
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/",
+      "hash": "db3b41d37712adc9"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1113-02/",
+      "title": "TEAM マスコットキャラクター決定に関するお知らせ 2026.11.13",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1113-01/",
+      "title": "EVENT 第1節12月13日（日） 九州電力キューデンヴォルテクス戦 イベント情報 2026.11.13",
+      "date": "2026-11-13"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1112-01/",
       "title": "EVENT スポーツドリームかしわ2026 2026.11.11",
@@ -84,7 +98,7 @@
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1016-01/",
-      "title": "EVENT 2026-27ホストゲーム イベント概要について 2026.10.16",
+      "title": "記事の詳細を見る",
       "date": "2026-10-16"
     },
     {
@@ -149,7 +163,7 @@
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-0818-01/",
-      "title": "TEAM 株式会社WRS JAPAN（BLK）とオフィシャルサプライヤー契約締結のお知らせ 2026.08.18",
+      "title": "記事の詳細を見る",
       "date": "2026-08-18"
     },
     {
