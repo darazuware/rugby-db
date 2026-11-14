@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-14T03:18:06+09:00",
+  "checked_at": "2026-11-14T20:21:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "15710ec2f8709ca3"
+      "hash": "82635261ab648ee6"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "8a80f4430b375fcc"
+      "hash": "c76f4b6dd055d57e"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3269",
+      "title": "EVENT 2026/11/14 ファンミーティング開催を11/29(日)に開催",
+      "date": "2026-11-14"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3259",
       "title": "2026.11.13[FRI] EVENT 開幕戦はイオンモール浜松市野でパブリックビューイングを開催",
@@ -105,11 +110,6 @@
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3242",
       "title": "2026.10.29[THU] TICKET 年越しにぴったり！法多山厄除団子付きテーブルシートが登場！",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3239",
-      "title": "2026.10.29[THU] TICKET 記者と同じ目線で楽しめる［テーブルシート］が7試合に登場",
       "date": "2026-10-29"
     },
     {

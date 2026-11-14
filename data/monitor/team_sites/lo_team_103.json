@@ -3,13 +3,13 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-11-14T03:18:06+09:00",
+  "checked_at": "2026-11-14T20:21:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "27ef67f9e1dbcbc4"
+      "hash": "6c5be1b990e33a95"
     },
     {
       "url": "https://www.bravelupus.com/news/",
@@ -17,6 +17,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/game/pregame_261114/",
+      "title": "結果詳細",
+      "date": "2026-11-14"
+    },
     {
       "url": "https://www.bravelupus.com/news/261112/",
       "title": "ネーションズチャンピオンシップ2026 日本代表 対 イングランド代表 試合登録メンバーのお知らせ",
@@ -80,11 +85,6 @@
     {
       "url": "https://www.bravelupus.com/news/261019/",
       "title": "【プレシーズンマッチ】10/24（土）vs 清水建設江東ブルーシャークス 観戦について",
-      "date": "2026-10-24"
-    },
-    {
-      "url": "https://www.bravelupus.com/game/pregame_261024/",
-      "title": "結果詳細",
       "date": "2026-10-24"
     },
     {

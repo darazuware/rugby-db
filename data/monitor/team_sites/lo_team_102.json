@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-11-14T03:18:06+09:00",
+  "checked_at": "2026-11-14T20:21:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "dc0c83ee6c810014"
+      "hash": "06280e4416e1cb45"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "712e4b12f88114ac"
+      "hash": "94ff16cadf408e7b"
     }
   ],
   "items": [
@@ -21,6 +21,11 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/",
       "title": "試合日程一覧",
       "date": "2026-12-12"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
+      "title": "試合日程一覧",
+      "date": "2026-12-05"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261205/#ticket",
@@ -33,18 +38,8 @@
       "date": "2026-12-05"
     },
     {
-      "url": "https://panasonic.co.jp/sports/wildknights/match/games/other/",
-      "title": "試合日程一覧",
-      "date": "2026-11-14"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/#ticket",
-      "title": "チケット情報",
-      "date": "2026-11-14"
-    },
-    {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/",
-      "title": "試合詳細",
+      "title": "結果詳細",
       "date": "2026-11-14"
     },
     {
@@ -84,8 +79,13 @@
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261031/",
-      "title": "結果詳細",
+      "title": "チーム 2026年10月31日 10月31日(土) 強化試合 6戦目 日本製鉄釜石シーウェイブス戦 試合結果 ニュースを見る",
       "date": "2026-10-31"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/#ticket",
+      "title": "チケット 2026年10月23日 11月14日(土) グローバルラグビーフェスタ 2026 クイーンズランドレッズ... ニュースを見る",
+      "date": "2026-10-23"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261016_01/",

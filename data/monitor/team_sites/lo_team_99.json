@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-11-14T03:18:06+09:00",
+  "checked_at": "2026-11-14T20:21:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "55abbb97d717143d"
+      "hash": "4bee8c61792246e1"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "d1a62f55545470e7"
+      "hash": "a6ee49135dab1646"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/CMRF26vCFSc.html",
+      "title": "2026年 11月14日 秩父宮みなとラグビーまつり2026 vs チーフス 試合結果",
+      "date": "2026-11-14"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2611-1042.html",
       "title": "2026年 11月13日 #1042 平生 翔大 『誰よりもひたむきに泥臭くプレーする』",
@@ -26,11 +31,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/djinr.html",
       "title": "2026年 11月13日 DAZN Japan Investment合同会社とオフィシャルパートナー契約締結のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026年11月1日付で東京サ…",
       "date": "2026-11-13"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/CMRF26vCFSc.html",
-      "title": "2026年 11月12日 秩父宮みなとラグビーまつり2026 vs チーフス メンバー発表！",
-      "date": "2026-11-12"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2026cmrftv.html",

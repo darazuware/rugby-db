@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-14T03:18:06+09:00",
+  "checked_at": "2026-11-14T20:21:39+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -22,7 +22,9 @@
       "first_run": false,
       "item_count": 60,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.kobesteelers.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -34,7 +36,10 @@
       "first_run": false,
       "item_count": 38,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -45,8 +50,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 41,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/game/pregame_261114/",
+          "title": "結果詳細",
+          "date": "2026-11-14",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.bravelupus.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -132,7 +146,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 28,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3269",
+          "title": "EVENT 2026/11/14 ファンミーティング開催を11/29(日)に開催",
+          "date": "2026-11-14",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -148,7 +169,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -198,7 +222,9 @@
       "first_run": false,
       "item_count": 8,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://shuttles-aichi.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -225,9 +251,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 27,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/result/11%e6%9c%8814%e6%97%a5%e5%9c%9f-%e3%83%96%e3%83%a9%e3%83%b3%e3%83%93%e3%83%bc%e3%82%ba/",
+          "title": "結果詳細を見る",
+          "date": "2026-11-14",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://hanazono-liners.jp/"
+        "https://hanazono-liners.jp/",
+        "https://hanazono-liners.jp/news/"
       ],
       "rename_signals": []
     },
@@ -238,8 +272,99 @@
       "official_url": "https://hino-reddolphins.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
+      "item_count": 15,
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-11-13/",
+          "title": "【個人パートナー】Microsoft 365のシステム障害による配信メールの遅延について",
+          "date": "2026-11-13",
+          "category": null
+        },
+        {
+          "url": "https://hino-reddolphins.com/2026-11-12/",
+          "title": "株式会社foredgeとクラブパートナー契約を継続締結しました",
+          "date": "2026-11-12",
+          "category": null
+        },
+        {
+          "url": "https://hino-reddolphins.com/2026-11-11/",
+          "title": "11月3日（火・祝）スポーツフェスタ古河2026に参加しました",
+          "date": "2026-11-11",
+          "category": null
+        },
+        {
+          "url": "https://hino-reddolphins.com/2026-11-10/",
+          "title": "11/4 日野市役所へ表敬訪問しました",
+          "date": "2026-11-10",
+          "category": null
+        },
+        {
+          "url": "https://hino-reddolphins.com/2026-11-09/",
+          "title": "11/21 プレシーズンマッチ ヤクルトレビンズ戸田戦 アクセス情報のお知らせ",
+          "date": "2026-11-09",
+          "category": null
+        },
+        {
+          "url": "https://hino-reddolphins.com/2026-11-06/",
+          "title": "11/21 プレシーズンマッチ ヤクルトレビンズ戸田戦 試合運営について",
+          "date": "2026-11-06",
+          "category": null
+        },
+        {
+          "url": "https://hino-reddolphins.com/2026-11-05/",
+          "title": "11月15日（日）日野市産業まつりに参加します",
+          "date": "2026-11-05",
+          "category": null
+        },
+        {
+          "url": "https://hino-reddolphins.com/2026-11-04/",
+          "title": "11月14日（土）イオンモール多摩平の森『たまもりスポーツイベント』に参加します",
+          "date": "2026-11-04",
+          "category": null
+        },
+        {
+          "url": "https://hino-reddolphins.com/2026-10-30/",
+          "title": "10月25日（日）2026太田スポーツ・レクリエーション祭に参加しました",
+          "date": "2026-10-30",
+          "category": null
+        },
+        {
+          "url": "https://hino-reddolphins.com/2026-10-29/",
+          "title": "10/31 トヨタヴェルブリッツ戦 メンバーのお知らせ",
+          "date": "2026-10-29",
+          "category": null
+        },
+        {
+          "url": "https://hino-reddolphins.com/2026-10-28/",
+          "title": "株式会社大熊製作所とクラブパートナー契約を締結しました",
+          "date": "2026-10-28",
+          "category": null
+        },
+        {
+          "url": "https://hino-reddolphins.com/2026-10-27/",
+          "title": "11月3日（火・祝）スポーツフェスタ古河2026に参加します",
+          "date": "2026-10-27",
+          "category": null
+        },
+        {
+          "url": "https://hino-reddolphins.com/2026-10-20/",
+          "title": "株式会社トランス・ウァールド・インダストリーとクラブパートナー契約を継続締結しました",
+          "date": "2026-10-20",
+          "category": null
+        },
+        {
+          "url": "https://hino-reddolphins.com/2026-10-19/",
+          "title": "10月12日羽村市市民スポーツまつり（はむリンピック）に参加しました",
+          "date": "2026-10-19",
+          "category": null
+        },
+        {
+          "url": "https://hino-reddolphins.com/2026-10-15/",
+          "title": "10/17 浦安戦 メンバーのお知らせ",
+          "date": "2026-10-15",
+          "category": null
+        }
+      ],
       "changed_pages": [],
       "rename_signals": []
     },
@@ -264,8 +389,39 @@
       "official_url": "https://www.kurita-watergush.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 43,
-      "new_items": [],
+      "item_count": 46,
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/stadium/%e6%a0%97%e7%94%b0%e5%b7%a5%e6%a5%ad%e6%98%ad%e5%b3%b6%e3%82%b0%e3%83%a9%e3%82%a6%e3%83%b3%e3%83%89/",
+          "title": "アクセス",
+          "date": "2026-11-28",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/games/",
+          "title": "全ての試合情報はこちら",
+          "date": "2026-11-28",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261128-wg%e6%98%ad%e5%b3%b6-vs%e4%b8%ad%e5%9b%bdrr/",
+          "title": "このゲームの詳細情報はこちら",
+          "date": "2026-11-28",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261114-wg%e6%98%ad%e5%b3%b6-vslr%e7%a6%8f%e5%b2%a1/",
+          "title": "試合詳細結果",
+          "date": "2026-11-14",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/20261114-2/",
+          "title": "私とWATER GUSH #30 杉山祐太 WTB/FB 自分が選んだ道と成長 2026/11/14",
+          "date": "2026-11-14",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -306,7 +462,7 @@
       "item_count": 45,
       "new_items": [],
       "changed_pages": [
-        "https://www.skyactivs.com/news/2091"
+        "https://www.skyactivs.com/"
       ],
       "rename_signals": []
     },
@@ -353,7 +509,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54331",
+          "title": "レポート：女子セブンズ・デベロップメント・スコッド（SDS）熊谷合宿 2026.11.14 （土） 女子セブンズ日本代表 女子 セブンズ セブンズ・デベロップメント・スコッド SDS",
+          "date": "2026-11-14",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -367,9 +530,15 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54331",
+      "title": "レポート：女子セブンズ・デベロップメント・スコッド（SDS）熊谷合宿 2026.11.14 （土） 女子セブンズ日本代表 女子 セブンズ セブンズ・デベロップメント・スコッド SDS",
+      "date": "2026-11-14",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
-  "warnings": [
-    "日野レッドドルフィンズ: 記事リンクを抽出できない（JS描画の可能性）: https://hino-reddolphins.com/"
-  ]
+  "warnings": []
 }
