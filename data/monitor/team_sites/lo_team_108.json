@@ -3,13 +3,13 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-11-14T20:21:39+09:00",
+  "checked_at": "2026-11-15T01:47:48+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "ba91413b29633f81"
+      "hash": "04d65c128f1ce894"
     }
   ],
   "items": [
@@ -34,9 +34,9 @@
       "date": "2026-11-13"
     },
     {
-      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261112a.html",
-      "title": "11月14日(土) プレシーズンマッチ2026 横浜キヤノンイーグルス戦 メンバーのお知らせ",
-      "date": "2026-11-12"
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261109a.html",
+      "title": "【雨天予報のため中止】11月15日(日)「第38回 桜丘区民センターまつり」参加のお知らせ",
+      "date": "2026-11-09"
     }
   ]
 }
