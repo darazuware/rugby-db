@@ -1,6 +1,6 @@
 {
  "_note": "scripts/build_player_pages.py が生成。force_include/force_exclude のみ手編集可",
- "generated_at": "2026-11-14T05:56:55+00:00",
+ "generated_at": "2026-11-14T13:36:21+00:00",
  "criteria": "K1|K2|K3(mention>=2)",
  "force_include": [
   "lo_484310"
@@ -455,6 +455,13 @@
    ]
   },
   {
+   "id": "lo_484842",
+   "slug": "jesse-kriel-484842",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
    "id": "lo_484847",
    "slug": "takato-okabe-484847",
    "reasons": [
@@ -598,10 +605,24 @@
    ]
   },
   {
+   "id": "lo_486438",
+   "slug": "malcolm-marx-486438",
+   "reasons": [
+    "K3"
+   ]
+  },
+  {
    "id": "lo_486439",
    "slug": "shinya-komura-486439",
    "reasons": [
     "K1",
+    "K3"
+   ]
+  },
+  {
+   "id": "lo_486517",
+   "slug": "manie-libbok-486517",
+   "reasons": [
     "K3"
    ]
   },
