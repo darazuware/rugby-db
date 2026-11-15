@@ -3,23 +3,23 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-15T01:47:48+09:00",
+  "checked_at": "2026-11-15T20:52:25+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "5630679210291815"
+      "hash": "279a712fe42b3d98"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "63676de935aef944"
+      "hash": "496da2eaa8228f0b"
     }
   ],
   "items": [
     {
       "url": "https://www.kurita-watergush.jp/20271107-2/",
-      "title": "私とWATER GUSH #24 山本快 WTB 凡事徹底、やるならちゃんと 2026/11/07",
+      "title": "私とウォーターガッシュ 公開日：2026/11/07 私とWATER GUSH #24 山本快 WTB 凡事徹底、やるならちゃんと 今回の”私とWATER GUSH”はWTBとして鋭い走りでチームを牽引する山本快選手。ラグビーへの向き合い方、仕事… 続きを読む",
       "date": "2027-11-07"
     },
     {
@@ -38,13 +38,18 @@
       "date": "2026-11-28"
     },
     {
-      "url": "https://www.kurita-watergush.jp/game/20261114-wg%e6%98%ad%e5%b3%b6-vslr%e7%a6%8f%e5%b2%a1/",
-      "title": "試合詳細結果",
-      "date": "2026-11-14"
-    },
-    {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
+      "date": "2026-11-15"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261115-2/",
+      "title": "私とWATER GUSH #31 細矢一颯 PR仕事・家族・ラグビー、三足の草鞋で挑む 2026/11/15",
+      "date": "2026-11-15"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/game/20261114-wg%e6%98%ad%e5%b3%b6-vslr%e7%a6%8f%e5%b2%a1/",
+      "title": "試合詳細結果",
       "date": "2026-11-14"
     },
     {
@@ -240,11 +245,6 @@
     {
       "url": "https://www.kurita-watergush.jp/20261015-3/",
       "title": "お知らせ 公開日：2026/10/15 DAZN年間視聴パス（リーグワンクラブ）販売のお知らせ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 クリタウォータ… 続きを読む",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261015-2/",
-      "title": "私とウォーターガッシュ 公開日：2026/10/15 私とWATER GUSH #3 杉森健太郎 WTB5歳からラグビー一筋。仕事と夢を両立しながら、今も積極的に挑み続ける クリタウォーターガッシュ昭島の選手のラグビーとの出会い、クリタでラグビーをする想いにせまる”私とWATE… 続きを読む",
       "date": "2026-10-15"
     }
   ]

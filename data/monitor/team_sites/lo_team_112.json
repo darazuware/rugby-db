@@ -3,33 +3,38 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-11-15T01:47:48+09:00",
+  "checked_at": "2026-11-15T20:52:25+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "8e055ff8cd6ddb9c"
+      "hash": "24d30e6b9526de35"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "337221ae017ab643"
+      "hash": "d57ca1d2be850462"
     }
   ],
   "items": [
     {
+      "url": "https://shuttles-aichi.com/news/matchday-program-vol-1/",
+      "title": "お知らせ 2026.11.15 マッチデープログラム vol.1",
+      "date": "2026-11-15"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/",
+      "title": "もっと見る",
+      "date": "2026-11-15"
+    },
+    {
       "url": "https://shuttles-aichi.com/news/tokai-city-watanoi-elementary-school-tag-rugby-visit-lesson-activity-report/",
-      "title": "お知らせ 2026.11.09 東海市立渡内小学校 タグラグビー訪問授業 実施報告",
+      "title": "フォトギャラリー お知らせ 2026.11.09 東海市立渡内小学校 タグラグビー訪問授業 実施報告",
       "date": "2026-11-09"
     },
     {
       "url": "https://shuttles-aichi.com/news/tokai-city-nawa-elementary-school-tag-rugby-visit-lesson-activity-report/",
       "title": "フォトギャラリー お知らせ 2026.11.09 東海市立名和小学校 タグラグビー訪問授業 実施報告",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/tokai-city-kagiya-minami-elementary-school-tag-rugby-visit-lesson/",
-      "title": "フォトギャラリー お知らせ 2026.11.09 東海市立加木屋南小学校 タグラグビー訪問授業 実施報告",
       "date": "2026-11-09"
     },
     {
@@ -45,11 +50,6 @@
     {
       "url": "https://shuttles-aichi.com/news/2026-27-season-team-slogan-and-leadership-group-announced/",
       "title": "お知らせ 2026.11.09 2026-27シーズン スローガンおよびリーダー体制発表！",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/",
-      "title": "もっと見る",
       "date": "2026-11-09"
     },
     {

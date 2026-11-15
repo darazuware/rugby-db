@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-11-15T01:47:48+09:00",
+  "checked_at": "2026-11-15T20:52:25+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.canon-eagles.jp/",
-      "hash": "8dc6a9b60cbea895"
+      "hash": "3abafa186f7869a4"
     },
     {
       "url": "https://www.canon-eagles.jp/news/",
-      "hash": "ef7c304de2337a35"
+      "hash": "773103f03b85424e"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/2026.html",
@@ -21,6 +21,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.canon-eagles.jp/news/supporters/20261115.html",
+      "title": "2026.11.15 SUPPORTER サポーターズクラブ会員限定企画：大分ホストゲーム観戦ツアー",
+      "date": "2026-11-15"
+    },
     {
       "url": "https://www.canon-eagles.jp/gameinfo/info/2026-2027/20261114.html",
       "title": "詳細・チケット情報",
@@ -84,11 +89,6 @@
     {
       "url": "https://www.canon-eagles.jp/news/info/20261102-2.html",
       "title": "2026.11.02 TEAM ホストエリアパートナー契約締結のお知らせ Univelホールディングス株式会社",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/goods/20261102.html",
-      "title": "2026.11.02 GOODS 横浜市ふるさと納税の返礼品に、開幕戦のチケットが登場",
       "date": "2026-11-02"
     }
   ]

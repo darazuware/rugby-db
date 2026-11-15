@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-15T01:47:48+09:00",
+  "checked_at": "2026-11-15T20:52:25+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -70,7 +70,9 @@
       "first_run": false,
       "item_count": 25,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.honda-heat.jp/"
+      ],
       "rename_signals": []
     },
     {
@@ -96,8 +98,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 14,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/news/supporters/20261115.html",
+          "title": "2026.11.15 SUPPORTER サポーターズクラブ会員限定企画：大分ホストゲーム観戦ツアー",
+          "date": "2026-11-15",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -108,17 +120,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [
-        {
-          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261109a.html",
-          "title": "【雨天予報のため中止】11月15日(日)「第38回 桜丘区民センターまつり」参加のお知らせ",
-          "date": "2026-11-09",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://blackrams-tokyo.com/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -206,8 +209,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 8,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://shuttles-aichi.com/news/matchday-program-vol-1/",
+          "title": "お知らせ 2026.11.15 マッチデープログラム vol.1",
+          "date": "2026-11-15",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://shuttles-aichi.com/",
+        "https://shuttles-aichi.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -275,7 +288,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 46,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261115-2/",
+          "title": "私とWATER GUSH #31 細矢一颯 PR仕事・家族・ラグビー、三足の草鞋で挑む 2026/11/15",
+          "date": "2026-11-15",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -363,7 +383,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54327",
+          "title": "ネーションズチャンピオンシップ2026 イングランド代表戦 試合後コメント 2026.11.15 （日） 15人制男子日本代表 WBB 男子 日本代表戦 ネーションズチャンピオンシップ",
+          "date": "2026-11-15",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54324",
+          "title": "「ネーションズチャンピオンシップ2026」日本代表 対 イングランド代表 試合結果のお知らせ 2026.11.15 （日） 15人制男子日本代表 WBB ネーションズチャンピオンシップ 日本代表戦",
+          "date": "2026-11-15",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54283",
+          "title": "（11/15更新）第63回全国大学ラグビーフットボール選手権大会 大会概要及び試合日程について 2026.11.15 （日） 大学",
+          "date": "2026-11-15",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -377,7 +416,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54327",
+      "title": "ネーションズチャンピオンシップ2026 イングランド代表戦 試合後コメント 2026.11.15 （日） 15人制男子日本代表 WBB 男子 日本代表戦 ネーションズチャンピオンシップ",
+      "date": "2026-11-15",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54324",
+      "title": "「ネーションズチャンピオンシップ2026」日本代表 対 イングランド代表 試合結果のお知らせ 2026.11.15 （日） 15人制男子日本代表 WBB ネーションズチャンピオンシップ 日本代表戦",
+      "date": "2026-11-15",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }
