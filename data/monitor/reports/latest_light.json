@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-14T02:28:48+09:00",
+  "checked_at": "2026-11-16T17:57:39+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6269",
+          "title": "クラブ リコーブラックラムズ東京、2026-27シーズン キャプテン・バイスキャプテンのお知らせ 2026.11.16",
+          "date": "2026-11-16",
+          "category": "roster"
+        },
+        {
+          "url": "https://league-one.jp/news/6268",
+          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 一部試合キックオフ時間追加決定のお知らせ 2026.11.16",
+          "date": "2026-11-16",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,7 +32,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54332",
+          "title": "「もう一度、あのグラウンドへ！〜九州ウィメンズタッチフット〜」開催のお知らせ 2026.11.16 （月） 女子 タッチフット イベント",
+          "date": "2026-11-16",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -33,7 +53,15 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6269",
+      "title": "クラブ リコーブラックラムズ東京、2026-27シーズン キャプテン・バイスキャプテンのお知らせ 2026.11.16",
+      "date": "2026-11-16",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }
