@@ -3,29 +3,29 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-11-16T02:30:09+09:00",
+  "checked_at": "2026-11-16T21:36:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "04d65c128f1ce894"
+      "hash": "2c376a8655c88de1"
     }
   ],
   "items": [
     {
+      "url": "https://blackrams-tokyo.com/news/team/2026-2027/20261116a.html",
+      "title": "2026-27シーズン キャプテン及びバイスキャプテンのお知らせ",
+      "date": "2026-11-16"
+    },
+    {
       "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261113c.html",
-      "title": "11月15日(日)「SETAGATA LIFE SELECTION -クラフトビール＆肉の章-」参加のお知らせ",
+      "title": "【雨天予報のため中止】11月15日(日)「SETAGATA LIFE SELECTION -クラフトビール＆肉の章-」参加のお知らせ",
       "date": "2026-11-13"
     },
     {
       "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261113b.html",
       "title": "11月15日(日)「第50回 狛江市民まつり」参加のお知らせ",
-      "date": "2026-11-13"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261113a.html",
-      "title": "11月14日(土)「第17回 二子玉川大山みちフェスティバル」参加のお知らせ",
       "date": "2026-11-13"
     },
     {

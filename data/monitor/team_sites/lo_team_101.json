@@ -3,28 +3,38 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-11-16T02:30:09+09:00",
+  "checked_at": "2026-11-16T21:36:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "8861dc86f5ca319c"
+      "hash": "6520c59288abdc1a"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "d476bf3c78c10bf0"
+      "hash": "64b04ddddd375bf2"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "53d9ebe9280ef570"
+      "hash": "a792150f82b7dabb"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "7cda6fd7f628ade8"
+      "hash": "2c3f71e4e27598c2"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post36400/",
+      "title": "2026/11/16 パートナー 【レポート】11月6日(金) 大和ハウス工業株式会社「石橋信夫記念館・総合技術研究所」を訪問しました",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://www.kobesteelers.com/interview/post36520/",
+      "title": "2026/11/16 チーム 【試合レポート】 11月14日(土) プレシーズンマッチ 静岡ブルーレヴズ戦",
+      "date": "2026-11-16"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post36410/",
       "title": "2026/11/13 社会貢献 【選手イベント参加情報】11月18日(水)兵庫県東灘警察署の一日署長に山下 裕史選手が任命されました",
@@ -214,16 +224,6 @@
       "url": "https://www.kobesteelers.com/interview/post35785/",
       "title": "2026/10/28 チーム 2026-27シーズン新加入インタビュー SHグラント・ウィリアムズ選手",
       "date": "2026-10-28"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35767/",
-      "title": "2026/10/27 イベント 11月1日(日)「2026兵庫運河祭」にてコーロクンが出演します",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35765/",
-      "title": "2026/10/27 イベント 10月31日(土)「第10回神戸パン祭り」でラグビー体験を実施します",
-      "date": "2026-10-27"
     },
     {
       "url": "https://www.kobesteelers.com/news/post35346/",

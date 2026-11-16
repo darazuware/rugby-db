@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-11-16T02:30:09+09:00",
+  "checked_at": "2026-11-16T21:36:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,10 +13,15 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "f8aff5058b8c3d72"
+      "hash": "02ea0d096fe37390"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-11-16/",
+      "title": "12/26 第３節 丸和MOMOTARO’S成田戦 試合運営について",
+      "date": "2026-11-16"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-11-13/",
       "title": "【個人パートナー】Microsoft 365のシステム障害による配信メールの遅延について",
@@ -81,16 +86,6 @@
       "url": "https://hino-reddolphins.com/2026-10-20/",
       "title": "株式会社トランス・ウァールド・インダストリーとクラブパートナー契約を継続締結しました",
       "date": "2026-10-20"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-10-19/",
-      "title": "10月12日羽村市市民スポーツまつり（はむリンピック）に参加しました",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-10-15/",
-      "title": "10/17 浦安戦 メンバーのお知らせ",
-      "date": "2026-10-15"
     }
   ]
 }

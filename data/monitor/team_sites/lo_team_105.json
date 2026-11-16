@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-11-16T02:30:09+09:00",
+  "checked_at": "2026-11-16T21:36:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "46e8ef56e3d565be"
+      "hash": "cca7425823f60017"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "50a3561fdaeba721"
+      "hash": "787889d5d00a3972"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/news/2491/",
+      "title": "トピックス 2026.11.16 栃木ホンダヒート2026-27シーズン 協賛パートナー決定のお知らせ（追加）",
+      "date": "2026-11-16"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2489/",
       "title": "イベント 2026.11.13 【イベント活動】『第40回宇都宮マラソン大会』 参加のお知らせ",
@@ -125,11 +130,6 @@
     {
       "url": "https://www.honda-heat.jp/news/2459/",
       "title": "2026/9/30 【ファンクラブ】よくいただくお問い合わせ",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2458/",
-      "title": "イベント 2026.9.30 「栃木ホンダヒート特設ブース」が宇都宮駅前に登場！",
       "date": "2026-09-30"
     },
     {

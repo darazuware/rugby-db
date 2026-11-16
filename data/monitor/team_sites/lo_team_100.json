@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-11-16T02:30:09+09:00",
+  "checked_at": "2026-11-16T21:36:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "ef6e8ee1bba4e5bc"
+      "hash": "fe245e516bf2562f"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "bfdf2c63aece490e"
+      "hash": "7fa9f2d105f4d042"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2071.html",
+      "title": "ゲーム 2026.11.16 【更新】11月21日(土) プレシーズンマッチ vs 東芝ブレイブルーパス武蔵 ホストゲーム情報",
+      "date": "2026-11-16"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2087.html",
       "title": "パートナー 2026.11.13 2026.10.30 浦安D-Rocks 2026-27シーズン キックオフパーティーを開催しました",
@@ -49,7 +54,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2083.html",
-      "title": "イベント 2026.11.05 2026.11.1 宮崎市・都城市にてラグビークリニックを開催しました",
+      "title": "2026.11.05 ニュース 2026.11.1 宮崎市・都城市にてラグビークリニックを開催しました",
       "date": "2026-11-05"
     },
     {
@@ -95,11 +100,6 @@
     {
       "url": "https://urayasu-d-rocks.com/news/index_2073.html",
       "title": "2026.10.29 ニュース お客様アンケートを踏まえた観戦環境改善の取り組みについて",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_2071.html",
-      "title": "2026.10.29 ニュース 11月21日(土) プレシーズンマッチ vs 東芝ブレイブルーパス武蔵 ホストゲーム情報",
       "date": "2026-10-29"
     },
     {

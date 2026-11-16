@@ -3,16 +3,21 @@
   "league": "league-one-d3",
   "name": "ヤクルトレビンズ戸田",
   "official_url": "https://www.yakult.co.jp/sports/rugby/",
-  "checked_at": "2026-11-16T02:30:09+09:00",
+  "checked_at": "2026-11-16T21:36:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.yakult.co.jp/maintenance/",
-      "hash": "70ec0bb68cec25a8"
+      "hash": "13248be2a7bd9177"
     }
   ],
   "items": [
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261116.pdf",
+      "title": "2026.11.16 ＩＲ情報 半期報告書を掲載しました",
+      "date": "2026-11-16"
+    },
     {
       "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113_9.pdf",
       "title": "2026.11.13 News Release ＩＲ Information Notification Regarding the Formulation of Management Policy for Enhancing Corporate Value",

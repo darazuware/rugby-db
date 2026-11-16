@@ -3,33 +3,33 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-11-16T02:30:09+09:00",
+  "checked_at": "2026-11-16T21:36:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.canon-eagles.jp/",
-      "hash": "3abafa186f7869a4"
+      "hash": "edfee3f1af29b61d"
     },
     {
       "url": "https://www.canon-eagles.jp/news/",
-      "hash": "773103f03b85424e"
+      "hash": "2e93bd3d3ed09f42"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/2026.html",
-      "hash": "6ed57bd32bb3e087"
+      "hash": "7fe3e4c06329ef9f"
     }
   ],
   "items": [
     {
+      "url": "https://www.canon-eagles.jp/news/info/20261116.html",
+      "title": "2026.11.16 TEAM 横浜市交通局とのタイアップ企画による『横浜キヤノンイーグルス 応援チケット』販売のお知らせ",
+      "date": "2026-11-16"
+    },
+    {
       "url": "https://www.canon-eagles.jp/news/supporters/20261115.html",
       "title": "2026.11.15 SUPPORTER サポーターズクラブ会員限定企画：大分ホストゲーム観戦ツアー",
       "date": "2026-11-15"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/gameinfo/info/2026-2027/20261114.html",
-      "title": "詳細・チケット情報",
-      "date": "2026-11-14"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/20261113.html",
@@ -84,11 +84,6 @@
     {
       "url": "https://www.canon-eagles.jp/news/info/20261102.html",
       "title": "2026.11.02 TEAM ホストエリアパートナー契約締結のお知らせ セーフィー株式会社",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/info/20261102-2.html",
-      "title": "2026.11.02 TEAM ホストエリアパートナー契約締結のお知らせ Univelホールディングス株式会社",
       "date": "2026-11-02"
     }
   ]

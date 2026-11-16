@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-16T02:30:09+09:00",
+  "checked_at": "2026-11-16T21:36:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "f410994d36fdd90f"
+      "hash": "31e5af2c2b45001d"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "2fe1d4930de912f8"
+      "hash": "72a87d330aa3ac92"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3272",
+      "title": "2026.11.16[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（11/9～11/14）",
+      "date": "2026-11-16"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3269",
       "title": "EVENT 2026/11/14 ファンミーティング開催を11/29(日)に開催",
@@ -101,11 +106,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3246",
       "title": "2026.10.30[FRI] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（10/19～10/23）",
       "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3243",
-      "title": "2026.10.29[THU] TICKET ホーム開幕戦に特上鯛めし御膳付きテーブルシートが登場",
-      "date": "2026-10-29"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3242",

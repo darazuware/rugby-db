@@ -3,28 +3,33 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-11-16T02:30:09+09:00",
+  "checked_at": "2026-11-16T21:36:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "3a2ad80966969290"
+      "hash": "3e2a2bfaf7c6b66c"
     },
     {
       "url": "https://blue-sharks.jp/information/",
-      "hash": "043e9cd713af8372"
+      "hash": "7143def2f6cd5788"
     },
     {
       "url": "https://blue-sharks.jp/news/",
-      "hash": "7e0ad24d2f9ec645"
+      "hash": "00bec527f32bdf63"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "944434257ffe3a2e"
+      "hash": "b4a9e332129fd1ef"
     }
   ],
   "items": [
+    {
+      "url": "https://blue-sharks.jp/news/2026/11/25548/",
+      "title": "11月13日「タグラグビー教室」開催のご報告",
+      "date": "2026-11-25"
+    },
     {
       "url": "https://blue-sharks.jp/news/2026/11/25529/",
       "title": "9月30日・10月28日「ラグビー体験教室」開催のご報告",
@@ -42,13 +47,13 @@
     },
     {
       "url": "https://blue-sharks.jp/news/2026/11/25464/",
-      "title": "清水建設江東ブルーシャークス 2026-27シーズンパートナー決定のお知らせ",
+      "title": "お知らせ 2026/11/02 清水建設江東ブルーシャークス 2026-27シーズンパートナー決定のお知らせ",
       "date": "2026-11-25"
     },
     {
       "url": "https://blue-sharks.jp/information/",
       "title": "もっと見る",
-      "date": "2026-11-09"
+      "date": "2026-11-16"
     },
     {
       "url": "https://blue-sharks.jp/news/2026/10/25446/",
@@ -104,11 +109,6 @@
       "url": "https://blue-sharks.jp/news/2026/10/25338/",
       "title": "お知らせ 2026/10/05 退任スタッフのお知らせ",
       "date": "2026-10-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/09/25313/",
-      "title": "お知らせ 2026/09/24 Jヴィレッジラグビークリニックレポート",
-      "date": "2026-09-25"
     },
     {
       "url": "https://blue-sharks.jp/game-guide/2026-5-23-d1-d2%e5%85%a5%e6%9b%bf%e6%88%a6/",

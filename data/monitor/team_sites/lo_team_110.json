@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-11-16T02:30:09+09:00",
+  "checked_at": "2026-11-16T21:36:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "13b238a1eb9b3255"
+      "hash": "05b080db3aca76c3"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "83d0d627add03b50"
+      "hash": "fc725507188fe5bb"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/1021",
+      "title": "お知らせ 2026年11月16日 NEW 【リーグワン】無料招待&特別優待 ミクニワールドスタジアム北九州開催試合",
+      "date": "2026-11-16"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/1018",
       "title": "地域・社会貢献 2026年11月10日 スタージャンプ福岡2026 2ndに参加しました",
@@ -126,11 +131,6 @@
       "url": "https://www.kyudenvoltex.com/news/1002",
       "title": "お知らせ 2026年08月24日 【ご報告】サイモニ・ヴ二ランギ選手の帰国につきまして",
       "date": "2026-08-24"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/1001",
-      "title": "お知らせ 2026年08月08日 サイモニ・ヴニランギ選手の逝去について",
-      "date": "2026-08-08"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/996",

@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-11-16T02:30:09+09:00",
+  "checked_at": "2026-11-16T21:36:22+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "82be3a9c483cb5b6"
+      "hash": "f718cac487b43c54"
     }
   ],
   "items": [
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4404/",
+      "title": "2026.11.16 チケット・ファンクラブ 試合情報 【ファミリー会員限定】キッズガチャ実施のお知らせ",
+      "date": "2026-11-16"
+    },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4398/",
       "title": "2026.11.13 チケット・ファンクラブ 【試合情報・チケット】1/9(土)栃木H戦 3階スペシャルシート with ゴリパラ 販売決定！",
@@ -37,11 +42,6 @@
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4390/",
       "title": "2026.11.6 グッズ 【グッズ】選手退団に伴う公式グッズの販売について",
       "date": "2026-11-06"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4392/",
-      "title": "2026.11.4 トピックス 【リーグワンライジング 日野戦マッチレポート】FB髙橋汰地が初ゲームキャプテン。 「大変さを思い知りました」",
-      "date": "2026-11-04"
     },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4388/",
