@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-17T04:58:59+09:00",
+  "checked_at": "2026-11-17T19:05:51+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6270",
+          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 一部試合日程および会場追加決定のお知らせ 2026.11.17",
+          "date": "2026-11-17",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -19,7 +26,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54248",
+          "title": "（11/17更新）X-エリアユースラグビー 〜ノーサイド・フェス in 浦安〜 to the NEXT STAGE 開催のお知らせ 2026.11.17 （火） 高校 JRFU 普及育成 ユース",
+          "date": "2026-11-17",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
