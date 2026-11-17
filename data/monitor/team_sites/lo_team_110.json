@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-11-17T05:44:47+09:00",
+  "checked_at": "2026-11-17T22:03:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "05b080db3aca76c3"
+      "hash": "82ca507167aaafb1"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "fc725507188fe5bb"
+      "hash": "8280d7dd2c0fb4d7"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/1023",
+      "title": "地域・社会貢献 2026年11月17日 NEW 「川内聖母幼稚園ラグビー体験教室」を行いました",
+      "date": "2026-11-17"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/1021",
       "title": "お知らせ 2026年11月16日 NEW 【リーグワン】無料招待&特別優待 ミクニワールドスタジアム北九州開催試合",
@@ -96,11 +101,6 @@
       "url": "https://www.kyudenvoltex.com/news/1009",
       "title": "地域・社会貢献 2026年10月06日 「春日市スポーツフェスタ フットボールフェスタ」に参加しました",
       "date": "2026-10-06"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/1008",
-      "title": "地域・社会貢献 2026年10月05日 福岡文化幼稚園でラグビー体験教室を開催しました",
-      "date": "2026-10-05"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1007",

@@ -3,20 +3,45 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-17T05:44:47+09:00",
+  "checked_at": "2026-11-17T22:03:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "1e624738680029f4"
+      "hash": "36de88a2a0bb0625"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "0d66d5713aa34a93"
+      "hash": "05467444a3dd1b07"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3277",
+      "title": "2026.11.17[TUE] SDGs 磐田市資源循環アワードを受賞",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3275",
+      "title": "2026.11.17[TUE] HOST AREA 【ホストエリア活動】菊川市 令和8年度新規採用職員・令和9年度内定者合同研修にてタグラグビーでのチームビルディングを実施しました",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3274",
+      "title": "2026.11.17[TUE] HOST AREA 【ホストエリア活動】平野ビニール工業株式会社 社員向けチームビルディング研修にてタグラグビーを実施しました",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3259",
+      "title": "EVENT 2026/11/17 12/13 開幕戦PV 浜松市野で観覧無料",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3257",
+      "title": "TICKET 2026/11/17 10名以上で10%お得 団体観戦チケット",
+      "date": "2026-11-17"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3272",
       "title": "2026.11.16[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（11/9～11/14）",
@@ -24,13 +49,8 @@
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3269",
-      "title": "EVENT 2026/11/14 ファンミーティング開催を11/29(日)に開催",
+      "title": "EVENT 2026/11/14 11/29 ファンミーティング 参加者募集",
       "date": "2026-11-14"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3259",
-      "title": "2026.11.13[FRI] EVENT 開幕戦はイオンモール浜松市野でパブリックビューイングを開催",
-      "date": "2026-11-13"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3258",
@@ -50,11 +70,6 @@
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3260",
       "title": "2026.11.9[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（11/2～11/6）",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3257",
-      "title": "2026.11.9[MON] TICKET 団体観戦チケットでお得に観戦しよう！",
       "date": "2026-11-09"
     },
     {
@@ -98,21 +113,6 @@
       "date": "2026-11-01"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3247",
-      "title": "2026.10.30[FRI] TICKET レヴズスマイルキッズパスを今シーズンも実施！",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3246",
-      "title": "2026.10.30[FRI] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（10/19～10/23）",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3242",
-      "title": "2026.10.29[THU] TICKET 年越しにぴったり！法多山厄除団子付きテーブルシートが登場！",
-      "date": "2026-10-29"
-    },
-    {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",
       "title": "SCHOOL 2026/9/28 秋の新規入会キャンペーン",
       "date": "2026-09-28"
@@ -139,12 +139,12 @@
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3039",
-      "title": "SPONSOR 2026/4/16 ［静岡ブルーレヴズ応援米］が新発売！",
+      "title": "SPONSOR 2026/4/16 静岡ブルーレヴズ応援米 販売中",
       "date": "2026-04-16"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3019",
-      "title": "SCHOOL 2026/4/8 ＜ブルーレヴズSPO☆CULラグビークラブ＞が始動",
+      "title": "SCHOOL 2026/4/8 SPO☆CULラグビークラブ 部員募集中",
       "date": "2026-04-08"
     },
     {

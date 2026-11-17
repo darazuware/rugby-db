@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-17T05:44:47+09:00",
+  "checked_at": "2026-11-17T22:03:29+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -21,8 +21,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post36405/",
+          "title": "2026/11/17 普及 【レポート】神戸市立月が丘小学校でタグラグビー教室を実施しました",
+          "date": "2026-11-17",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36333/",
+          "title": "2026/11/17 ファンクラブ 12月4日(金)プレミアム会員/ゴールド会員/リモート＋G会員限定 プレシーズンマッチ観戦スタンド利用希望者募集のお知らせ",
+          "date": "2026-11-17",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/",
+        "https://www.kobesteelers.com/news/cat_news/information/",
+        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+      ],
       "rename_signals": []
     },
     {
@@ -34,7 +52,10 @@
       "first_run": false,
       "item_count": 38,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -58,7 +79,9 @@
       "first_run": false,
       "item_count": 10,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -69,8 +92,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 25,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.honda-heat.jp/news/2492/",
+          "title": "トピックス 2026.11.17 【11/16更新】2026-27トレーニングマッチ追加のお知らせ",
+          "date": "2026-11-17",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.honda-heat.jp/",
+        "https://www.honda-heat.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -81,7 +114,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261117.html",
+          "title": "2026-11-17 南アフリカ代表｜カート＝リー・アレンゼ選手が3試合連続でスターティングメンバーに選出（アイルランド代表戦）",
+          "date": "2026-11-17",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -96,8 +136,19 @@
       "status": "ok",
       "first_run": false,
       "item_count": 13,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20261117.html",
+          "title": "2026.11.17 TEAM ホストエリアパートナー契約締結のお知らせ 楽天モバイル株式会社",
+          "date": "2026-11-17",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/",
+        "https://www.canon-eagles.jp/news/info/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -108,8 +159,29 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261117c.html",
+          "title": "プレシーズンマッチ 東京サントリーサンゴリアス戦 新グッズ販売のお知らせ",
+          "date": "2026-11-17",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261117b.html",
+          "title": "株式会社セキュアとオフィシャルパートナー新規契約のお知らせ",
+          "date": "2026-11-17",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261117a.html",
+          "title": "ピー・シー・エー株式会社とオフィシャルパートナー契約継続のお知らせ",
+          "date": "2026-11-17",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -120,8 +192,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/news/2026/11/16/170000.html",
+          "title": "2026.11.16 ニュース・トピックス",
+          "date": "2026-11-16",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/",
+        "https://www.kubota-spears.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -132,7 +214,26 @@
       "status": "ok",
       "first_run": false,
       "item_count": 28,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3277",
+          "title": "2026.11.17[TUE] SDGs 磐田市資源循環アワードを受賞",
+          "date": "2026-11-17",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3275",
+          "title": "2026.11.17[TUE] HOST AREA 【ホストエリア活動】菊川市 令和8年度新規採用職員・令和9年度内定者合同研修にてタグラグビーでのチームビルディングを実施しました",
+          "date": "2026-11-17",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3274",
+          "title": "2026.11.17[TUE] HOST AREA 【ホストエリア活動】平野ビニール工業株式会社 社員向けチームビルディング研修にてタグラグビーを実施しました",
+          "date": "2026-11-17",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -147,8 +248,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/hgkcba.html",
+          "title": "2026年 11月17日 ホストゲームでの\"サントリーの工場直送ビール\"を今シーズンも販売決定！ ～府中を拠点とするサントリーのビール工場とラグビーチームによる、ここでしか味わえないコラボレーションを今年も実…",
+          "date": "2026-11-17",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -171,8 +282,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kyudenvoltex.com/news/1023",
+          "title": "地域・社会貢献 2026年11月17日 NEW 「川内聖母幼稚園ラグビー体験教室」を行いました",
+          "date": "2026-11-17",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kyudenvoltex.com/",
+        "https://www.kyudenvoltex.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -183,9 +304,19 @@
       "status": "ok",
       "first_run": false,
       "item_count": 24,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://blue-sharks.jp/news/2026/11/25572/",
+          "title": "◇丸和MOMOTARO’S成田戦マッチレポート",
+          "date": "2026-11-25",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://blue-sharks.jp/"
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/information/",
+        "https://blue-sharks.jp/news/",
+        "https://blue-sharks.jp/category/news/"
       ],
       "rename_signals": []
     },
@@ -198,7 +329,9 @@
       "first_run": false,
       "item_count": 8,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://shuttles-aichi.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -208,8 +341,15 @@
       "official_url": "https://kamaishi-seawaves.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 15,
-      "new_items": [],
+      "item_count": 14,
+      "new_items": [
+        {
+          "url": "https://kamaishi-seawaves.com/news/info/33428/",
+          "title": "お知らせ 2026.11.17 2026-27シーズン プレイヤーズタオルの受注販売のお知らせ",
+          "date": "2026-11-17",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://kamaishi-seawaves.com/",
         "https://kamaishi-seawaves.com/news/",
@@ -227,7 +367,8 @@
       "item_count": 27,
       "new_items": [],
       "changed_pages": [
-        "https://hanazono-liners.jp/"
+        "https://hanazono-liners.jp/",
+        "https://hanazono-liners.jp/news/"
       ],
       "rename_signals": []
     },
@@ -251,9 +392,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://docomo-rugby.jp/csr/detail.html?id=9003",
+          "title": "SUSTAINABILITY 2026年11月17日 おおきに商店presents第17回ドコモカップ決勝トーナメント結果について",
+          "date": "2026-11-17",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://docomo-rugby.jp/"
+        "https://docomo-rugby.jp/",
+        "https://docomo-rugby.jp/news/"
       ],
       "rename_signals": []
     },
@@ -265,7 +414,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 46,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261117-2/",
+          "title": "私とWATER GUSH #32 半田裕己 SO 仕事もラグビーも100％ 2026/11/17",
+          "date": "2026-11-17",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -281,7 +437,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -305,7 +464,9 @@
       "first_run": false,
       "item_count": 45,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.skyactivs.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -315,9 +476,18 @@
       "official_url": "https://www.yakult.co.jp/sports/rugby/",
       "status": "ok",
       "first_run": false,
-      "item_count": 30,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 31,
+      "new_items": [
+        {
+          "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261117.pdf",
+          "title": "2026.11.17 ニュースリリース アーティスティックスイミング日本代表選手向けに「健康セミナー」および「内外美容セミナー」を実施",
+          "date": "2026-11-17",
+          "category": "squad"
+        }
+      ],
+      "changed_pages": [
+        "https://www.yakult.co.jp/maintenance/"
+      ],
       "rename_signals": []
     },
     {
@@ -365,7 +535,29 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "横浜キヤノンイーグルス",
+      "url": "https://www.canon-eagles.jp/news/info/20261117.html",
+      "title": "2026.11.17 TEAM ホストエリアパートナー契約締結のお知らせ 楽天モバイル株式会社",
+      "date": "2026-11-17",
+      "category": "roster"
+    },
+    {
+      "source": "リコーブラックラムズ東京",
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261117a.html",
+      "title": "ピー・シー・エー株式会社とオフィシャルパートナー契約継続のお知らせ",
+      "date": "2026-11-17",
+      "category": "roster"
+    },
+    {
+      "source": "ヤクルトレビンズ戸田",
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261117.pdf",
+      "title": "2026.11.17 ニュースリリース アーティスティックスイミング日本代表選手向けに「健康セミナー」および「内外美容セミナー」を実施",
+      "date": "2026-11-17",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [],
   "warnings": []
 }

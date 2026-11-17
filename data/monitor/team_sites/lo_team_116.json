@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-11-17T05:44:47+09:00",
+  "checked_at": "2026-11-17T22:03:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "6565471f24547238"
+      "hash": "e1f405dd06096353"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "b9e8b3326a091d97"
+      "hash": "d4fad6074ea69fba"
     }
   ],
   "items": [
@@ -21,6 +21,11 @@
       "url": "https://docomo-rugby.jp/campaign/2027/lp/20261219_no_inv.html",
       "title": "12月19日（土）CENTRALプ レミアムマッチ特設サイト MORE",
       "date": "2026-12-19"
+    },
+    {
+      "url": "https://docomo-rugby.jp/csr/detail.html?id=9003",
+      "title": "SUSTAINABILITY 2026年11月17日 おおきに商店presents第17回ドコモカップ決勝トーナメント結果について",
+      "date": "2026-11-17"
     },
     {
       "url": "https://docomo-rugby.jp/game/report.html?id=356",
@@ -220,11 +225,6 @@
     {
       "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8866",
       "title": "アカデミー 2026年9月1日 【U15クラス】8月活動レポート",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8865",
-      "title": "アカデミー 2026年9月1日 【U12アドバンスクラス】8月活動レポート",
       "date": "2026-09-01"
     }
   ]

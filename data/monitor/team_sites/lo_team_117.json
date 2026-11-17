@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-17T05:44:47+09:00",
+  "checked_at": "2026-11-17T22:03:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "d82a5d04b74656d7"
+      "hash": "a4aaca4f716acb5d"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "40071376c39ccf1d"
+      "hash": "524a208e68a238d2"
     }
   ],
   "items": [
@@ -40,7 +40,12 @@
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-15"
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261117-2/",
+      "title": "私とWATER GUSH #32 半田裕己 SO 仕事もラグビーも100％ 2026/11/17",
+      "date": "2026-11-17"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261115-2/",
@@ -99,7 +104,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261108-2/",
-      "title": "私とWATER GUSH #25 大谷晃生 PR 仕事もラグビーも、全力で。 2026/11/08",
+      "title": "私とウォーターガッシュ 公開日：2026/11/08 私とWATER GUSH #25 大谷晃生 PR 仕事もラグビーも、全力で。 今回の”私とWATER GUSH”は今シーズンで2年目を迎えるPRの大谷晃生選手。ポジションはプロップ。ラグビーと… 続きを読む",
       "date": "2026-11-08"
     },
     {
@@ -241,11 +246,6 @@
       "url": "https://www.kurita-watergush.jp/20261016-2/",
       "title": "私とウォーターガッシュ 公開日：2026/10/16 私とWATER GUSH #4 中村謙吾10年間、自分への挑戦を続ける男。 クリタウォーターガッシュ昭島の選手のラグビーとの出会い、クリタでラグビーをする想いにせまる”私とWATE… 続きを読む",
       "date": "2026-10-16"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261015-3/",
-      "title": "お知らせ 公開日：2026/10/15 DAZN年間視聴パス（リーグワンクラブ）販売のお知らせ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 クリタウォータ… 続きを読む",
-      "date": "2026-10-15"
     }
   ]
 }

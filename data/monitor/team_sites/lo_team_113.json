@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-11-17T05:44:47+09:00",
+  "checked_at": "2026-11-17T22:03:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "5e1d20c7ee3dcd79"
+      "hash": "75edeb17ccdad44c"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "78ebd50e4281b21c"
+      "hash": "daecc3e9d8260f33"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "f7a871f06fc4cd1e"
+      "hash": "1df22c9577afce27"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/33428/",
+      "title": "お知らせ 2026.11.17 2026-27シーズン プレイヤーズタオルの受注販売のお知らせ",
+      "date": "2026-11-17"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/info/33384/",
       "title": "お知らせ 2026.11.13 日本製鉄釜石シーウェイブス 2026-27シーズン 出陣式開催のお知らせ",
@@ -77,11 +82,6 @@
       "date": "2026-10-21"
     },
     {
-      "url": "https://kamaishi-seawaves.com/news/game/33021/",
-      "title": "試合情報 2026.10.21 2026トレーニングマッチ 第6戦／川越狭山セコムラガッツ戦",
-      "date": "2026-10-21"
-    },
-    {
       "url": "https://kamaishi-seawaves.com/news/info/32917/",
       "title": "お知らせ 2026.10.15 「DAZN年間視聴パス」販売のお知らせ（早期購入特典有り）",
       "date": "2026-10-15"
@@ -90,11 +90,6 @@
       "url": "https://kamaishi-seawaves.com/news/info/32703/",
       "title": "お知らせ 2026.10.9 観て、食べて、応援！開幕戦まで楽しみがつながる「HOP STEP JUMP! キャンペーン」実施のお知らせ",
       "date": "2026-10-09"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/32815/",
-      "title": "お知らせ 2026.10.8 ベンジャミン・ニーニー選手 サモア代表選出のお知らせ",
-      "date": "2026-10-08"
     }
   ]
 }

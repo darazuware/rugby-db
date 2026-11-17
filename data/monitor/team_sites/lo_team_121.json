@@ -3,16 +3,21 @@
   "league": "league-one-d3",
   "name": "ヤクルトレビンズ戸田",
   "official_url": "https://www.yakult.co.jp/sports/rugby/",
-  "checked_at": "2026-11-17T05:44:47+09:00",
+  "checked_at": "2026-11-17T22:03:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.yakult.co.jp/maintenance/",
-      "hash": "13248be2a7bd9177"
+      "hash": "a4dafe470dd340e2"
     }
   ],
   "items": [
+    {
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261117.pdf",
+      "title": "2026.11.17 ニュースリリース アーティスティックスイミング日本代表選手向けに「健康セミナー」および「内外美容セミナー」を実施",
+      "date": "2026-11-17"
+    },
     {
       "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261116.pdf",
       "title": "2026.11.16 ＩＲ情報 半期報告書を掲載しました",

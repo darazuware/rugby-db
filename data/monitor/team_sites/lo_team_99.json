@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-11-17T05:44:47+09:00",
+  "checked_at": "2026-11-17T22:03:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "4bee8c61792246e1"
+      "hash": "18fd3e90bdf7884c"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "a6ee49135dab1646"
+      "hash": "915c53c08dad508a"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/hgkcba.html",
+      "title": "2026年 11月17日 ホストゲームでの\"サントリーの工場直送ビール\"を今シーズンも販売決定！ ～府中を拠点とするサントリーのビール工場とラグビーチームによる、ここでしか味わえないコラボレーションを今年も実…",
+      "date": "2026-11-17"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/CMRF26vCFSc.html",
       "title": "2026年 11月14日 秩父宮みなとラグビーまつり2026 vs チーフス 試合結果",
@@ -53,6 +58,11 @@
       "date": "2026-11-06"
     },
     {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/NJRLO2627TSA.html",
+      "title": "2026年 11月 6日 【チケット情報】東京サンゴリアスホストゲームチケット概要のご案内（11月6日情報更新） （2026/11/6 情報更新）第4節～第9節のキックオフ時間が決定しましたので更新しました。 -------…",
+      "date": "2026-11-06"
+    },
+    {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/227n1jlr.html",
       "title": "2026年 11月 5日 2026-27シーズン 新ジャージーデザイン決定のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 NTT JAPAN RUGBY LEA…",
       "date": "2026-11-05"
@@ -63,11 +73,6 @@
       "date": "2026-11-02"
     },
     {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMKSFTBv.html",
-      "title": "2026年 10月31日 2026 TRAINING MATCH vs クボタスピアーズ船橋・東京ベイ 試合結果",
-      "date": "2026-10-31"
-    },
-    {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/dazn.html",
       "title": "2026年 10月30日 秩父宮開催全試合で「DAZNエキサイトスタンド［立見席］」を販売！ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 東京サントリーサンゴリアスは、スポーツ…",
       "date": "2026-10-30"
@@ -76,11 +81,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2026prime.html",
       "title": "2026年 10月30日 『秩父宮みなとラグビーまつり2026』～PRIMEパートナー決定～ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 東京サントリーサンゴリアスとチーフス(…",
       "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/NJRLO2627TSA.html",
-      "title": "2026年 10月22日 【チケット情報】東京サンゴリアスホストゲームチケット概要のご案内（10月22日情報更新） （2026/10/22 15:00情報更新）phpの脆弱性に対応するためのチケゴリの緊急メンテナンス実施のため…",
-      "date": "2026-10-22"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/daznnsp.html",

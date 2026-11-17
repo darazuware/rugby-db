@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-11-17T05:44:47+09:00",
+  "checked_at": "2026-11-17T22:03:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "d22833d2a7a5185f"
+      "hash": "3f8d4b0fe3090313"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "2d848666cad3041d"
+      "hash": "9be1f633bc0f0c57"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261117.html",
+      "title": "2026-11-17 南アフリカ代表｜カート＝リー・アレンゼ選手が3試合連続でスターティングメンバーに選出（アイルランド代表戦）",
+      "date": "2026-11-17"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261113.html-0",
       "title": "2026-11-13 トレーニングマッチ vs横浜キヤノンイーグルス,11/28(土)｜ファンクラブ会員限定観戦のご案内（抽選100名）",
@@ -210,11 +215,6 @@
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260908.html-0",
       "title": "2026-09-08 [ イベント ] 相模原・福岡で一般公開練習を実施します",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260908.html",
-      "title": "2026-09-08 [ ファンクラブ ] ダイナボアーズ公式ファンクラブ2026-27新規入会の受付を開始しました",
       "date": "2026-09-08"
     }
   ]
