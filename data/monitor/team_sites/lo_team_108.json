@@ -3,13 +3,13 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-11-17T22:03:29+09:00",
+  "checked_at": "2026-11-18T04:29:30+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "beac5ace96952b20"
+      "hash": "f50dcd02901c6a69"
     }
   ],
   "items": [
@@ -34,9 +34,9 @@
       "date": "2026-11-16"
     },
     {
-      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261113c.html",
-      "title": "【雨天予報のため中止】11月15日(日)「SETAGATA LIFE SELECTION -クラフトビール＆肉の章-」参加のお知らせ",
-      "date": "2026-11-13"
+      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260909a.html",
+      "title": "(11/16更新) NTT JAPAN RUGBY LEAGUE ONE 2026-27 試合日程のお知らせ",
+      "date": "2026-09-09"
     }
   ]
 }
