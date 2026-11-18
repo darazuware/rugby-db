@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-18T21:54:56+09:00",
+  "checked_at": "2026-11-19T04:11:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "5c31aa23207ca1cd"
+      "hash": "874e1999df1cf295"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "8cf0474f3462d067"
+      "hash": "2938f6987d704db5"
     }
   ],
   "items": [
@@ -65,11 +65,6 @@
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3258",
       "title": "TICKET 2026/11/11 ひのたけシートで親子ペアをご招待",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3249",
-      "title": "SCHOOL 2026/11/11 11/21 ラグビーDAYで無料スクール体験会",
       "date": "2026-11-11"
     },
     {

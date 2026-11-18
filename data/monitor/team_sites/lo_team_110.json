@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-11-18T21:54:56+09:00",
+  "checked_at": "2026-11-19T04:11:47+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "b963147c40a9a1e2"
+      "hash": "9868490eef604973"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "1438f64fb5da8b1f"
+      "hash": "f3cc794299deaebc"
     }
   ],
   "items": [
@@ -29,7 +29,7 @@
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1021",
-      "title": "お知らせ 2026年11月16日 NEW 【リーグワン】無料招待&特別優待 ミクニワールドスタジアム北九州開催試合",
+      "title": "お知らせ 2026年11月16日 【リーグワン】無料招待&特別優待 ミクニワールドスタジアム北九州開催試合",
       "date": "2026-11-16"
     },
     {
