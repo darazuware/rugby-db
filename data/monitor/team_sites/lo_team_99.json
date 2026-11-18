@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-11-18T04:29:30+09:00",
+  "checked_at": "2026-11-18T21:54:56+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "18fd3e90bdf7884c"
+      "hash": "e3de41efe51fdb18"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "915c53c08dad508a"
+      "hash": "bfbe02bde7498ac4"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/823.html",
+      "title": "2026年 11月18日 Day823 『CHIEFS WEEK』",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/jrlo2627r1fs.html",
+      "title": "2026年 11月18日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 第1節 東京サントリーサンゴリアスvsリコーブラックラムズ東京戦のご案内 NTT JAPAN RUGBY LEAGUE ONE 2026-27 第1節 ※ホストゲーム開幕戦 ■試合…",
+      "date": "2026-11-18"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/hgkcba.html",
       "title": "2026年 11月17日 ホストゲームでの\"サントリーの工場直送ビール\"を今シーズンも販売決定！ ～府中を拠点とするサントリーのビール工場とラグビーチームによる、ここでしか味わえないコラボレーションを今年も実…",
@@ -46,11 +56,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/cmrf26svcfs.html",
       "title": "2026年 11月 8日 秩父宮みなとラグビーまつり2026 supported by SMBC フレンドシップマッチ 東京サンゴリアスvsチーフス戦のご案内 秩父宮みなとラグビーまつり2026 supported by SMBCフレンドシップマッチ ■試合日時 2…",
       "date": "2026-11-08"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2611-1041.html",
-      "title": "2026年 11月 6日 #1041 松島 幸太朗 『自分との戦い』",
-      "date": "2026-11-06"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026.html",
@@ -211,11 +216,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/dfzsnr.html",
       "title": "2026年 4月27日 【東京サンゴリアス×DAZN】ホスト最終戦で特別企画「DAZN FAN ZONE STAND」を開催 いつも東京サントリーサンゴリアスへの暖かご声援ありがとうございます。 東京サンゴリアスは、スポーツ・チャンネル…",
       "date": "2026-04-27"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/260502tvfs.html",
-      "title": "2026年 4月26日 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第17節 トヨタヴェルブリッツvs東京サントリーサンゴリアス戦のご案内 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第17節 ※ビジターゲーム ■試合日…",
-      "date": "2026-04-26"
     }
   ]
 }

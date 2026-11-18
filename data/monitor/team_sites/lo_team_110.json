@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-11-18T04:29:30+09:00",
+  "checked_at": "2026-11-18T21:54:56+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "82ca507167aaafb1"
+      "hash": "b963147c40a9a1e2"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "8280d7dd2c0fb4d7"
+      "hash": "1438f64fb5da8b1f"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/1024",
+      "title": "お知らせ 2026年11月18日 NEW 宮崎合宿がスタートしました",
+      "date": "2026-11-18"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/1023",
       "title": "地域・社会貢献 2026年11月17日 NEW 「川内聖母幼稚園ラグビー体験教室」を行いました",
@@ -126,11 +131,6 @@
       "url": "https://www.kyudenvoltex.com/news/1003",
       "title": "お知らせ 2026年09月01日 今後のチーム活動に関するお知らせ",
       "date": "2026-09-01"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/1002",
-      "title": "お知らせ 2026年08月24日 【ご報告】サイモニ・ヴ二ランギ選手の帰国につきまして",
-      "date": "2026-08-24"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/996",

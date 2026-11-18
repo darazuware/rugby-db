@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-11-18T04:29:30+09:00",
+  "checked_at": "2026-11-18T21:54:56+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "fe245e516bf2562f"
+      "hash": "0374c109d4e9f40a"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "7fa9f2d105f4d042"
+      "hash": "293b989b0a79677c"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/team/index_2090.html",
+      "title": "チーム 2026.11.18 2026-27シーズン 新加入選手（追加）のお知らせ",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/goods/index_2092.html",
+      "title": "グッズ 2026.11.18 選手プロデュース チームグッズブランド『D-ESSENCE』新体制決定および新商品販売のお知らせ",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/fanclub/index_2089.html",
+      "title": "ファンクラブ 2026.11.18 「D-Rockersクラファン」第1弾 宮崎合宿の食事支援 ご支援の総額と使い道のご報告",
+      "date": "2026-11-18"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2071.html",
       "title": "ゲーム 2026.11.16 【更新】11月21日(土) プレシーズンマッチ vs 東芝ブレイブルーパス武蔵 ホストゲーム情報",
@@ -201,21 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/game/index_2049.html",
       "title": "2026.10.14 ニュース 2026-27シーズン プレシーズンマッチ 日程更新のお知らせ",
       "date": "2026-10-14"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_2047.html",
-      "title": "2026.10.08 ニュース 【メンバー発表】2026-27シーズン プレシーズンマッチ① 東京サントリーサンゴリアス戦（10月10日）",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_2033.html",
-      "title": "2026.10.08 ニュース 【更新】10月10日(土) プレシーズンマッチ vs 東京サントリーサンゴリアス ホストゲーム情報",
-      "date": "2026-10-08"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_2046.html",
-      "title": "2026.10.08 ニュース 2026.10.10「わくわくハッピー本棚」との連携協定に基づく 初のブックドライブ（古本回収）実施のお知らせ",
-      "date": "2026-10-08"
     }
   ]
 }

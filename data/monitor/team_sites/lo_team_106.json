@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-11-18T04:29:30+09:00",
+  "checked_at": "2026-11-18T21:54:56+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "0491b42e08abb3de"
+      "hash": "f8b086169f9352c6"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "e3de6308406a9688"
+      "hash": "afcaf547aa5df55e"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261118.html",
+      "title": "2026-11-18 日本代表｜淺岡俊亮選手がヨーロッパ遠征ならびにネーションズチャンピオンシップの大会登録メンバーに選出",
+      "date": "2026-11-18"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261117.html",
       "title": "2026-11-17 南アフリカ代表｜カート＝リー・アレンゼ選手が3試合連続でスターティングメンバーに選出（アイルランド代表戦）",
@@ -54,7 +59,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/sagamiono2026",
-      "title": "2026-11-11 相模大野全緑猪祭2026 11/29(日)開催決定！",
+      "title": "2026-11-11 [ イベント ] 相模大野全緑猪祭2026 11/29(日)開催決定！",
       "date": "2026-11-11"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260909.html",
       "title": "2026-09-09 [ イベント ] NTTジャパンラグビー リーグワン2026-27 大会日程決定のお知らせ。開幕節は相模原で「神奈川ダービー」！",
       "date": "2026-09-09"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260908.html-0",
-      "title": "2026-09-08 [ イベント ] 相模原・福岡で一般公開練習を実施します",
-      "date": "2026-09-08"
     }
   ]
 }

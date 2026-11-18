@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-11-18T04:29:30+09:00",
+  "checked_at": "2026-11-18T21:54:56+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,10 +13,15 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "02ea0d096fe37390"
+      "hash": "7f98dd77368fa4b3"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-11-18/",
+      "title": "株式会社平山とクラブパートナー契約を継続締結しました",
+      "date": "2026-11-18"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-11-16/",
       "title": "12/26 第３節 丸和MOMOTARO’S成田戦 試合運営について",
@@ -76,16 +81,6 @@
       "url": "https://hino-reddolphins.com/2026-10-28/",
       "title": "株式会社大熊製作所とクラブパートナー契約を締結しました",
       "date": "2026-10-28"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-10-27/",
-      "title": "11月3日（火・祝）スポーツフェスタ古河2026に参加します",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-10-20/",
-      "title": "株式会社トランス・ウァールド・インダストリーとクラブパートナー契約を継続締結しました",
-      "date": "2026-10-20"
     }
   ]
 }

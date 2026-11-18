@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-11-18T04:29:30+09:00",
+  "checked_at": "2026-11-18T21:54:56+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "6ba2e8746be72709"
+      "hash": "2bcb3a9fe28c56f5"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "5589c1d1bff8f527"
+      "hash": "1df9423084bc4fb3"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "db3b41d37712adc9"
+      "hash": "69730207ec0c17d0"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1016-01/",
+      "title": "EVENT 【更新】各試合イベント／ホストタウンデーについて 2026.11.18",
+      "date": "2026-11-18"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1113-02/",
       "title": "TEAM マスコットキャラクター決定に関するお知らせ 2026.11.13",
@@ -88,17 +93,12 @@
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1014-01/",
-      "title": "EVENT 松戸まつり 2026.10.19",
+      "title": "記事の詳細を見る",
       "date": "2026-10-19"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1016-02/",
       "title": "TICKET 第1節 12月13日(日) 九州電力キューデンヴォルテクス戦 チケット販売について 2026.10.16",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1016-01/",
-      "title": "記事の詳細を見る",
       "date": "2026-10-16"
     },
     {

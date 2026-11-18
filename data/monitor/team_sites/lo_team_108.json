@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-11-18T04:29:30+09:00",
+  "checked_at": "2026-11-18T21:54:56+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "f50dcd02901c6a69"
+      "hash": "337319577af1e7b6"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261118a.html",
+      "title": "第2節 コベルコ神戸スティーラーズ戦 チケット販売及びRAMOVE会員限定イベントのお知らせ",
+      "date": "2026-11-18"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261117c.html",
       "title": "プレシーズンマッチ 東京サントリーサンゴリアス戦 新グッズ販売のお知らせ",
@@ -27,11 +32,6 @@
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261117a.html",
       "title": "ピー・シー・エー株式会社とオフィシャルパートナー契約継続のお知らせ",
       "date": "2026-11-17"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/team/2026-2027/20261116a.html",
-      "title": "2026-27シーズン キャプテン及びバイスキャプテンのお知らせ",
-      "date": "2026-11-16"
     },
     {
       "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260909a.html",

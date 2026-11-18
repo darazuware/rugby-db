@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-18T04:29:30+09:00",
+  "checked_at": "2026-11-18T21:54:56+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "faf7366e41d95a9a"
+      "hash": "8d29446b86018046"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "94905af3d8fec7b5"
+      "hash": "513ea973b0b0657b"
     }
   ],
   "items": [
@@ -40,7 +40,12 @@
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-17"
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261118-2/",
+      "title": "私とWATER GUSH #33 椎名耀二 LO/FL”成果で示す”ラグビー人生 2026/11/18",
+      "date": "2026-11-18"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261117-2/",
@@ -99,7 +104,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261109-2/",
-      "title": "私とWATER GUSH #26 榎本拓真 CTB この人に任せておけば 2026/11/09",
+      "title": "私とウォーターガッシュ 公開日：2026/11/09 私とWATER GUSH #26 榎本拓真 CTB この人に任せておけば 今回の”私とWATER GUSH”は加入2年目のCTB榎本拓真選手。CTBの攻守の要を担うポジションで、チームに欠かせ… 続きを読む",
       "date": "2026-11-09"
     },
     {
@@ -240,11 +245,6 @@
     {
       "url": "https://www.kurita-watergush.jp/20261016-3/",
       "title": "お知らせ 公開日：2026/10/16 ヘッドコーチ交代のお知らせ 平素より格別のご高配を賜り、厚く御礼申し上げます。 この度、クリタウォーターガッシュ昭島は、グラント… 続きを読む",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261016-2/",
-      "title": "私とウォーターガッシュ 公開日：2026/10/16 私とWATER GUSH #4 中村謙吾10年間、自分への挑戦を続ける男。 クリタウォーターガッシュ昭島の選手のラグビーとの出会い、クリタでラグビーをする想いにせまる”私とWATE… 続きを読む",
       "date": "2026-10-16"
     }
   ]

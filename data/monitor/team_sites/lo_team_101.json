@@ -3,28 +3,33 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-11-18T04:29:30+09:00",
+  "checked_at": "2026-11-18T21:54:56+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "96ef0e8abe976c76"
+      "hash": "753387fd0f6d492c"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "9e98dbe165838a0e"
+      "hash": "eb70a8657b39bf33"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "0bb795909361c7d3"
+      "hash": "45626ea6dbfdfc13"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "23a4453a35b6eab4"
+      "hash": "66f247765a0a374a"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post36799/",
+      "title": "2026/11/18 ファンクラブ プレミアム・ゴールド・リモート＋G会員限定イベント「クラブハウスツアー2026秋」を実施しました",
+      "date": "2026-11-18"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post36405/",
       "title": "2026/11/17 普及 【レポート】神戸市立月が丘小学校でタグラグビー教室を実施しました",
@@ -218,11 +223,6 @@
     {
       "url": "https://www.kobesteelers.com/news/post35792/",
       "title": "2026/10/30 イベント 【レポート】10月25日(日)「KOBE JAM2026」に参加しました",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35687/",
-      "title": "2026/10/30 グッズ NTTリーグワン2025-26 優勝記念グッズ 第3弾発売のお知らせ",
       "date": "2026-10-30"
     },
     {

@@ -3,24 +3,34 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-18T04:29:30+09:00",
+  "checked_at": "2026-11-18T21:54:56+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "ff0c0c89570d15d6"
+      "hash": "5c31aa23207ca1cd"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "e1b386d38bd742e7"
+      "hash": "8cf0474f3462d067"
     }
   ],
   "items": [
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3277",
-      "title": "2026.11.17[TUE] SDGs 磐田市資源循環アワードを受賞",
-      "date": "2026-11-17"
+      "title": "2026.11.18[WED] SDGs 磐田市資源循環アワードを受賞",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3268",
+      "title": "2026.11.18[WED] TEAM チーム名変更に関するお知らせ",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3266",
+      "title": "2026.11.18[WED] SPONSOR 第5節のマッチデーパートナーに西静岡ヤクルト販売株式会社が決定",
+      "date": "2026-11-18"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3275",
@@ -106,11 +116,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3219",
       "title": "2026.11.3[TUE] EVENT 6試合で全24種類！計54,000名に＜青援タオル＞をプレゼント！",
       "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3245",
-      "title": "2026.11.1[SUN] TEAM ジョック・キャンベル選手と契約締結",
-      "date": "2026-11-01"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",
