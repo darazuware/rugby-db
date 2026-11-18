@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-17T19:05:51+09:00",
+  "checked_at": "2026-11-18T18:41:01+09:00",
   "teams": [],
   "sources": [
     {
@@ -11,13 +11,26 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://league-one.jp/news/6270",
-          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 一部試合日程および会場追加決定のお知らせ 2026.11.17",
-          "date": "2026-11-17",
-          "category": null
+          "url": "https://league-one.jp/news/6273",
+          "title": "クラブ 浦安D-Rocks、2026-27シーズン 新加入選手（追加）のお知らせ 2026.11.18",
+          "date": "2026-11-18",
+          "category": "roster"
+        },
+        {
+          "url": "https://league-one.jp/news/6272",
+          "title": "クラブ 静岡ブルーレヴズ、チーム名変更に関するお知らせ 2026.11.18",
+          "date": "2026-11-18",
+          "category": "rename"
         }
       ],
-      "rename_signals": []
+      "rename_signals": [
+        {
+          "url": "https://league-one.jp/news/6272",
+          "title": "クラブ 静岡ブルーレヴズ、チーム名変更に関するお知らせ 2026.11.18",
+          "date": "2026-11-18",
+          "category": "rename"
+        }
+      ]
     },
     {
       "key": "jrfu",
@@ -28,10 +41,34 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54248",
-          "title": "（11/17更新）X-エリアユースラグビー 〜ノーサイド・フェス in 浦安〜 to the NEXT STAGE 開催のお知らせ 2026.11.17 （火） 高校 JRFU 普及育成 ユース",
-          "date": "2026-11-17",
+          "url": "https://www.rugby-japan.jp/news/54337",
+          "title": "第63回全国大学ラグビーフットボール選手権大会 1回戦 当日情報 2026.11.18 （水） 大学 大学選手権",
+          "date": "2026-11-18",
           "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54325",
+          "title": "第32回全国ジュニアラグビーフットボール 開催のお知らせ 2026.11.18 （水） 中学 普及育成 全国ジュニア大会 男子 女子",
+          "date": "2026-11-18",
+          "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54323",
+          "title": "2026年度 日本協会A級公認レフリーのお知らせ 2026.11.18 （水）",
+          "date": "2026-11-18",
+          "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54310",
+          "title": "（11/18更新）男子日本代表 ネーションズチャンピオンシップ 大会登録メンバーのお知らせ 2026.11.18 （水） 15人制男子日本代表 WBB 男子 日本代表 ネーションズチャンピオンシップ",
+          "date": "2026-11-18",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54297",
+          "title": "（11/18更新）男子日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ 2026.11.18 （水） 15人制男子日本代表 WBB 男子 日本代表 リポビタンＤツアー2026",
+          "date": "2026-11-18",
+          "category": "squad"
         }
       ],
       "rename_signals": []
@@ -47,7 +84,36 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
-  "league_rename_news": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6273",
+      "title": "クラブ 浦安D-Rocks、2026-27シーズン 新加入選手（追加）のお知らせ 2026.11.18",
+      "date": "2026-11-18",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54310",
+      "title": "（11/18更新）男子日本代表 ネーションズチャンピオンシップ 大会登録メンバーのお知らせ 2026.11.18 （水） 15人制男子日本代表 WBB 男子 日本代表 ネーションズチャンピオンシップ",
+      "date": "2026-11-18",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54297",
+      "title": "（11/18更新）男子日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ 2026.11.18 （水） 15人制男子日本代表 WBB 男子 日本代表 リポビタンＤツアー2026",
+      "date": "2026-11-18",
+      "category": "squad"
+    }
+  ],
+  "league_rename_news": [
+    {
+      "url": "https://league-one.jp/news/6272",
+      "title": "クラブ 静岡ブルーレヴズ、チーム名変更に関するお知らせ 2026.11.18",
+      "date": "2026-11-18",
+      "category": "rename"
+    }
+  ],
   "warnings": []
 }
