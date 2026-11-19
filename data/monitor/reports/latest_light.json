@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19T03:37:00+09:00",
+  "checked_at": "2026-11-19T18:49:16+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6274",
+          "title": "クラブ 東芝ブレイブルーパス武蔵、2026-27シーズン新加入選手（追加）のお知らせ 2026.11.19",
+          "date": "2026-11-19",
+          "category": "roster"
+        }
+      ],
       "rename_signals": [
         {
           "url": "https://league-one.jp/news/6272",
@@ -25,7 +32,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54336",
+          "title": "レポート：JENESYS 日本・ASEANスポーツ（ラグビー）×SDGs交流プログラム 2026.11.19 （木） その他 普及育成",
+          "date": "2026-11-19",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -39,7 +53,15 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "リーグワン公式",
+      "url": "https://league-one.jp/news/6274",
+      "title": "クラブ 東芝ブレイブルーパス武蔵、2026-27シーズン新加入選手（追加）のお知らせ 2026.11.19",
+      "date": "2026-11-19",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [
     {
       "url": "https://league-one.jp/news/6272",
