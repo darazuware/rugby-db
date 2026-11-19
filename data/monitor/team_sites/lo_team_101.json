@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-11-19T04:11:47+09:00",
+  "checked_at": "2026-11-19T21:48:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "753387fd0f6d492c"
+      "hash": "7f2cc3b389613f42"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "eb70a8657b39bf33"
+      "hash": "45a12d2cd775bbc7"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,31 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post36849/",
+      "title": "2026/11/19 メディア 11月19日(木)「NEWS×情報 キャッチ＋」出演のお知らせ",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36841/",
+      "title": "2026/11/19 普及 【レポート】神戸市立藍那小学校でタグラグビー教室を実施しました",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36823/",
+      "title": "2026/11/19 イベント 【イベントレポート】「第11回 Kobeっこ親善ラグビー大会」にコーロクンが参加しました",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36819/",
+      "title": "2026/11/19 イベント 【イベントレポート】「神戸マラソンEXPO 2026」にてチームPRを行いました",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36533/",
+      "title": "2026/11/19 チーム 11月21日(土)「ネーションズチャンピオンシップ2026」スコットランド代表戦メンバー選出のお知らせ",
+      "date": "2026-11-19"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post36799/",
       "title": "2026/11/18 ファンクラブ プレミアム・ゴールド・リモート＋G会員限定イベント「クラブハウスツアー2026秋」を実施しました",
@@ -201,28 +226,8 @@
       "date": "2026-11-02"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35799/",
-      "title": "2026/11/2 パートナー 2026-27シーズンパートナー決定のお知らせ",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35816/",
-      "title": "2026/10/30 チーム NZ派遣レポート最終回 中嶋 大希選手",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35809/",
-      "title": "2026/10/30 普及 【レポート】第32回神鋼かこがわフェスティバルに参加しました",
-      "date": "2026-10-30"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35807/",
       "title": "チーム 2026-27シーズン プレシーズンマッチの観戦について 2026/10/30",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35792/",
-      "title": "2026/10/30 イベント 【レポート】10月25日(日)「KOBE JAM2026」に参加しました",
       "date": "2026-10-30"
     },
     {
@@ -319,11 +324,6 @@
       "url": "https://www.kobesteelers.com/news/post30548/",
       "title": "2025/12/23 お知らせ 年末年始のお問い合わせ窓口休業期間のお知らせ",
       "date": "2025-12-23"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post30112/",
-      "title": "2025/12/10 お知らせ 【レポート】神戸三宮センター街でのチームPR活動実施しました",
-      "date": "2025-12-10"
     }
   ]
 }

@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-11-19T04:11:47+09:00",
+  "checked_at": "2026-11-19T21:48:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "337319577af1e7b6"
+      "hash": "b8583f3f2d411f9c"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261119a.html",
+      "title": "11月21日(土) プレシーズンマッチ2026 東京サントリーサンゴリアス戦 メンバーのお知らせ",
+      "date": "2026-11-19"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261118a.html",
       "title": "第2節 コベルコ神戸スティーラーズ戦 チケット販売及びRAMOVE会員限定イベントのお知らせ",
@@ -32,11 +37,6 @@
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261117a.html",
       "title": "ピー・シー・エー株式会社とオフィシャルパートナー契約継続のお知らせ",
       "date": "2026-11-17"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/game/2026-2027/20260909a.html",
-      "title": "(11/16更新) NTT JAPAN RUGBY LEAGUE ONE 2026-27 試合日程のお知らせ",
-      "date": "2026-09-09"
     }
   ]
 }

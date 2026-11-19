@@ -1,12 +1,17 @@
 {
-  "checked_at": "2026-11-19T18:49:16+09:00",
+  "checked_at": "2026-11-19T21:48:26+09:00",
   "url": "https://www.rugby-japan.jp/news/",
   "items": [
     {
       "url": "https://www.rugby-japan.jp/news/54336",
       "title": "レポート：JENESYS 日本・ASEANスポーツ（ラグビー）×SDGs交流プログラム 2026.11.19 （木） その他 普及育成",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://www.rugby-japan.jp/news/54316",
+      "title": "「ネーションズチャンピオンシップ2026」 日本代表 対 スコットランド代表 試合登録メンバーのお知らせ 2026.11.19 （木） 15人制男子日本代表 WBB 男子 日本代表戦 ネーションズチャンピオンシップ",
       "date": "2026-11-19",
-      "category": null
+      "category": "squad"
     },
     {
       "url": "https://www.rugby-japan.jp/news/54310",
@@ -47,11 +52,6 @@
       "url": "https://www.rugby-japan.jp/news/54332",
       "title": "「もう一度、あのグラウンドへ！〜九州ウィメンズタッチフット〜」開催のお知らせ 2026.11.16 （月） 女子 タッチフット イベント",
       "date": "2026-11-16"
-    },
-    {
-      "url": "https://www.rugby-japan.jp/news/54283",
-      "title": "（11/15更新）第63回全国大学ラグビーフットボール選手権大会 大会概要及び試合日程について 2026.11.15 （日） 大学",
-      "date": "2026-11-15"
     }
   ]
 }

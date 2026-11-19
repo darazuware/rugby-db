@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-11-19T04:11:47+09:00",
+  "checked_at": "2026-11-19T21:48:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "2bcb3a9fe28c56f5"
+      "hash": "04728574c1c2339e"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "1df9423084bc4fb3"
+      "hash": "613c604358895222"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "69730207ec0c17d0"
+      "hash": "232922ed728593b8"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1113-03/",
+      "title": "EVENT 天王台地区市民まつり 2026.11.19",
+      "date": "2026-11-19"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1016-01/",
       "title": "EVENT 【更新】各試合イベント／ホストタウンデーについて 2026.11.18",
@@ -88,7 +93,7 @@
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1020-01/",
-      "title": "EVENT 我孫子グラウンド練習見学会 11月23日（月）開催！ 2026.10.21",
+      "title": "記事の詳細を見る",
       "date": "2026-10-21"
     },
     {

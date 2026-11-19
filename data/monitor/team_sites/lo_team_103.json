@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-11-19T04:11:47+09:00",
+  "checked_at": "2026-11-19T21:48:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "c7362f4ed71120cc"
+      "hash": "3cab2f24c6a1f07a"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "634c3a583bcc8d3b"
+      "hash": "f6af69bc1c46ad0b"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/261119/",
+      "title": "2026-27シーズン 新加入選手（追加）のお知らせ",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261119-2/",
+      "title": "ネーションズチャンピオンシップ2026 日本代表 対スコットランド代表 試合登録メンバーのお知らせ",
+      "date": "2026-11-19"
+    },
     {
       "url": "https://www.bravelupus.com/game/pregame_261114/",
       "title": "結果詳細",
@@ -211,16 +221,6 @@
       "url": "https://www.bravelupus.com/news/260903/",
       "title": "リポビタンDチャレンジカップ2026 日本代表 対 カナダ代表 試合登録メンバーのお知らせ",
       "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/%e3%80%902026-27%e3%83%95%e3%82%a1%e3%83%b3%e3%82%af%e3%83%a9%e3%83%96%e3%80%91%e5%85%a5%e4%bc%9a%e5%8f%97%e4%bb%98%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85/",
-      "title": "【2026-27ファンクラブ】入会受付のご案内（9/7更新）",
-      "date": "2026-09-03"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260831/",
-      "title": "川崎市、神奈川県ラグビーフットボール協会、川崎市ラグビーフットボール協会との連携協定締結について",
-      "date": "2026-08-31"
     }
   ]
 }

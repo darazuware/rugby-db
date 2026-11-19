@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-19T04:11:47+09:00",
+  "checked_at": "2026-11-19T21:48:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "d26618928fd94ace"
+      "hash": "4e7f1283887e5599"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "5708dda4de052ec4"
+      "hash": "474d8a04c7eef8d8"
     }
   ],
   "items": [
@@ -40,7 +40,12 @@
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-18"
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261119-2/",
+      "title": "私とWATER GUSH #34 石塚勝己 CTB/WTB1日1日を大切に、今この瞬間に全力を 2026/11/19",
+      "date": "2026-11-19"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261118-2/",
@@ -89,7 +94,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261110-2/",
-      "title": "私とWATER GUSH #27 横山伊織 CTB 泣きながらでも続けてきた。 2026/11/10",
+      "title": "私とウォーターガッシュ 公開日：2026/11/10 私とWATER GUSH #27 横山伊織 CTB 泣きながらでも続けてきた。 今回の”私とWATER GUSH”は加入2年目のCTB横山伊織選手。若手として日々仕事とラグビーに全力で向き合って… 続きを読む",
       "date": "2026-11-10"
     },
     {
@@ -240,11 +245,6 @@
     {
       "url": "https://www.kurita-watergush.jp/20261016-4/",
       "title": "お知らせ 公開日：2026/10/16 2026-27シーズン キャプテン・バイスキャプテン決定のお知らせ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 2026-27シーズ… 続きを読む",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261016-3/",
-      "title": "お知らせ 公開日：2026/10/16 ヘッドコーチ交代のお知らせ 平素より格別のご高配を賜り、厚く御礼申し上げます。 この度、クリタウォーターガッシュ昭島は、グラント… 続きを読む",
       "date": "2026-10-16"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19T04:11:47+09:00",
+  "checked_at": "2026-11-19T21:48:26+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,30 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/game/index_2094.html",
+          "title": "ゲーム 2026.11.19 【メンバー発表】2026-27シーズン プレシーズンマッチ④ 東芝ブレイブルーパス武蔵戦（11月21日）",
+          "date": "2026-11-19",
+          "category": null
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/fanclub/index_2095.html",
+          "title": "ファンクラブ 2026.11.19 2026.12.5「第3回 Club D-Rockers交流会」開催のお知らせ",
+          "date": "2026-11-19",
+          "category": null
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/fanclub/index_2093.html",
+          "title": "ファンクラブ 2026.11.19 2026.12.5「D-Rockersテーマ別対話会（グッズの部）」開催のお知らせ",
+          "date": "2026-11-19",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -21,8 +43,42 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post36849/",
+          "title": "2026/11/19 メディア 11月19日(木)「NEWS×情報 キャッチ＋」出演のお知らせ",
+          "date": "2026-11-19",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36841/",
+          "title": "2026/11/19 普及 【レポート】神戸市立藍那小学校でタグラグビー教室を実施しました",
+          "date": "2026-11-19",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36823/",
+          "title": "2026/11/19 イベント 【イベントレポート】「第11回 Kobeっこ親善ラグビー大会」にコーロクンが参加しました",
+          "date": "2026-11-19",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36819/",
+          "title": "2026/11/19 イベント 【イベントレポート】「神戸マラソンEXPO 2026」にてチームPRを行いました",
+          "date": "2026-11-19",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36533/",
+          "title": "2026/11/19 チーム 11月21日(土)「ネーションズチャンピオンシップ2026」スコットランド代表戦メンバー選出のお知らせ",
+          "date": "2026-11-19",
+          "category": "squad"
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -34,7 +90,10 @@
       "first_run": false,
       "item_count": 38,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -45,8 +104,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 41,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/news/261119/",
+          "title": "2026-27シーズン 新加入選手（追加）のお知らせ",
+          "date": "2026-11-19",
+          "category": "roster"
+        },
+        {
+          "url": "https://www.bravelupus.com/news/261119-2/",
+          "title": "ネーションズチャンピオンシップ2026 日本代表 対スコットランド代表 試合登録メンバーのお知らせ",
+          "date": "2026-11-19",
+          "category": "squad"
+        }
+      ],
+      "changed_pages": [
+        "https://www.bravelupus.com/",
+        "https://www.bravelupus.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -58,7 +133,9 @@
       "first_run": false,
       "item_count": 10,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -95,9 +172,32 @@
       "official_url": "https://www.canon-eagles.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 13,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 15,
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/gameinfo/info/2026-2027/20261121.html",
+          "title": "詳細・チケット情報",
+          "date": "2026-11-21",
+          "category": null
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/gameinfo/20261119.html",
+          "title": "2026.11.19 GAME 練習試合 （11/21）クボタスピアーズ船橋・東京ベイ戦 出場選手",
+          "date": "2026-11-19",
+          "category": null
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20261117-2.html",
+          "title": "2026.11.17 TEAM ホストエリアパートナー契約締結のお知らせ 楽天モバイル株式会社",
+          "date": "2026-11-17",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/",
+        "https://www.canon-eagles.jp/news/info/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -108,8 +208,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261119a.html",
+          "title": "11月21日(土) プレシーズンマッチ2026 東京サントリーサンゴリアス戦 メンバーのお知らせ",
+          "date": "2026-11-19",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -147,8 +256,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMvRBRTV.html",
+          "title": "2026年 11月19日 2026 TRAINING MATCH vs リコーブラックラムズ東京 メンバー発表！",
+          "date": "2026-11-19",
+          "category": null
+        },
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/jrlo2627r3yhgfs.html",
+          "title": "2026年 11月19日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 第3節 東京サントリーサンゴリアスvsコベルコ神戸スティーラーズ戦のご案内 NTT JAPAN RUGBY LEAGUE ONE 2026-27 第3節 ※山梨開催ホストゲーム ■試…",
+          "date": "2026-11-19",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -158,9 +283,20 @@
       "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": false,
-      "item_count": 34,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 35,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1113-03/",
+          "title": "EVENT 天王台地区市民まつり 2026.11.19",
+          "date": "2026-11-19",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/",
+        "https://www.jreast.co.jp/greenwarriors/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -172,10 +308,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kyudenvoltex.com/",
-        "https://www.kyudenvoltex.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -186,7 +319,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 24,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://blue-sharks.jp/news/2026/11/25574/",
+          "title": "11月19日「ラグビー交流教室」開催のご報告",
+          "date": "2026-11-25",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://blue-sharks.jp/",
         "https://blue-sharks.jp/information/",
@@ -203,8 +343,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 8,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://shuttles-aichi.com/news/2026-11-21-sat-pre-season-match-vs-hanazono-kintetsu-liners-participating-members/",
+          "title": "お知らせ 26年11月19日 2026/11/21(土) プレシーズンマッチ vs 花園近鉄ライナーズ 出場メンバー",
+          "date": "2026-11-21",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://shuttles-aichi.com/",
+        "https://shuttles-aichi.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -230,10 +380,18 @@
       "official_url": "https://hanazono-liners.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 27,
-      "new_items": [],
+      "item_count": 26,
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/2026/11/19/11-21-member/",
+          "title": "2026.11.19 試合関連 チーム情報 【11月21日(土)豊田自動織機シャトルズ愛知戦】メンバーのご案内",
+          "date": "2026-11-19",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://hanazono-liners.jp/"
+        "https://hanazono-liners.jp/",
+        "https://hanazono-liners.jp/news/"
       ],
       "rename_signals": []
     },
@@ -244,9 +402,18 @@
       "official_url": "https://hino-reddolphins.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 13,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 12,
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-11-19/",
+          "title": "株式会社ジャパンクリエイトとクラブパートナー契約を継続締結しました",
+          "date": "2026-11-19",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -271,7 +438,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 46,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261119-2/",
+          "title": "私とWATER GUSH #34 石塚勝己 CTB/WTB1日1日を大切に、今この瞬間に全力を 2026/11/19",
+          "date": "2026-11-19",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -287,7 +461,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -299,7 +476,11 @@
       "first_run": false,
       "item_count": 15,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://rrrfc.red/",
+        "https://rrrfc.red/blog/",
+        "https://rrrfc.red/categories/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -310,13 +491,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 45,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.skyactivs.com/news/5092",
+          "title": "2026.11.19[THU] GAME 【メンバー発表】vs丸和MOMOTARO’S成田",
+          "date": "2026-11-19",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.skyactivs.com/",
-        "https://www.skyactivs.com/news",
-        "https://www.skyactivs.com/news/2091",
-        "https://www.skyactivs.com/news/2035",
-        "https://www.skyactivs.com/news/2001"
+        "https://www.skyactivs.com/news"
       ],
       "rename_signals": []
     },
@@ -369,7 +554,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54316",
+          "title": "「ネーションズチャンピオンシップ2026」 日本代表 対 スコットランド代表 試合登録メンバーのお知らせ 2026.11.19 （木） 15人制男子日本代表 WBB 男子 日本代表戦 ネーションズチャンピオンシップ",
+          "date": "2026-11-19",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -383,7 +575,43 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "横浜キヤノンイーグルス",
+      "url": "https://www.canon-eagles.jp/news/info/20261117-2.html",
+      "title": "2026.11.17 TEAM ホストエリアパートナー契約締結のお知らせ 楽天モバイル株式会社",
+      "date": "2026-11-17",
+      "category": "roster"
+    },
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/261119/",
+      "title": "2026-27シーズン 新加入選手（追加）のお知らせ",
+      "date": "2026-11-19",
+      "category": "roster"
+    },
+    {
+      "source": "コベルコ神戸スティーラーズ",
+      "url": "https://www.kobesteelers.com/news/post36533/",
+      "title": "2026/11/19 チーム 11月21日(土)「ネーションズチャンピオンシップ2026」スコットランド代表戦メンバー選出のお知らせ",
+      "date": "2026-11-19",
+      "category": "squad"
+    },
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/261119-2/",
+      "title": "ネーションズチャンピオンシップ2026 日本代表 対スコットランド代表 試合登録メンバーのお知らせ",
+      "date": "2026-11-19",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54316",
+      "title": "「ネーションズチャンピオンシップ2026」 日本代表 対 スコットランド代表 試合登録メンバーのお知らせ 2026.11.19 （木） 15人制男子日本代表 WBB 男子 日本代表戦 ネーションズチャンピオンシップ",
+      "date": "2026-11-19",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [
     {
       "url": "https://league-one.jp/news/6272",

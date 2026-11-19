@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-11-19T04:11:47+09:00",
+  "checked_at": "2026-11-19T21:48:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "e3de41efe51fdb18"
+      "hash": "75c67a89aeda8b1a"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "bfbe02bde7498ac4"
+      "hash": "2aa25159a628425e"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMvRBRTV.html",
+      "title": "2026年 11月19日 2026 TRAINING MATCH vs リコーブラックラムズ東京 メンバー発表！",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/jrlo2627r3yhgfs.html",
+      "title": "2026年 11月19日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 第3節 東京サントリーサンゴリアスvsコベルコ神戸スティーラーズ戦のご案内 NTT JAPAN RUGBY LEAGUE ONE 2026-27 第3節 ※山梨開催ホストゲーム ■試…",
+      "date": "2026-11-19"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/823.html",
       "title": "2026年 11月18日 Day823 『CHIEFS WEEK』",
@@ -56,11 +66,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/cmrf26svcfs.html",
       "title": "2026年 11月 8日 秩父宮みなとラグビーまつり2026 supported by SMBC フレンドシップマッチ 東京サンゴリアスvsチーフス戦のご案内 秩父宮みなとラグビーまつり2026 supported by SMBCフレンドシップマッチ ■試合日時 2…",
       "date": "2026-11-08"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026.html",
-      "title": "2026年 11月 6日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 第4節～第9節のキックオフ時間が決定しました！",
-      "date": "2026-11-06"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/NJRLO2627TSA.html",
@@ -211,11 +216,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/2526pottsg.html",
       "title": "2026年 5月 2日 プレーオフトーナメントのチケット販売について （※第17節終了時点でのご案内となります） 第18節終了後の最新情報はこちら いつも東京サンゴリアスへの温かい…",
       "date": "2026-05-02"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/dfzsnr.html",
-      "title": "2026年 4月27日 【東京サンゴリアス×DAZN】ホスト最終戦で特別企画「DAZN FAN ZONE STAND」を開催 いつも東京サントリーサンゴリアスへの暖かご声援ありがとうございます。 東京サンゴリアスは、スポーツ・チャンネル…",
-      "date": "2026-04-27"
     }
   ]
 }

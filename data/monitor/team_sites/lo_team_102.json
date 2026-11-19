@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-11-19T04:11:47+09:00",
+  "checked_at": "2026-11-19T21:48:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "34c78e7390d8daa9"
+      "hash": "2bb9e35a206d22e2"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "fca59d9be4f2168f"
+      "hash": "0bfcef705a51f5f8"
     }
   ],
   "items": [
@@ -36,6 +36,11 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261205/",
       "title": "試合詳細",
       "date": "2026-12-05"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261106_01/",
+      "title": "チーム 2026年11月19日 宮崎合宿実施のお知らせ ニュースを見る",
+      "date": "2026-11-19"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/",
@@ -61,11 +66,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261107/",
       "title": "結果詳細",
       "date": "2026-11-07"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261106_01/",
-      "title": "チーム 2026年11月06日 宮崎合宿実施のお知らせ ニュースを見る",
-      "date": "2026-11-06"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/team/schedule/",

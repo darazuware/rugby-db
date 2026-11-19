@@ -3,54 +3,54 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-11-19T04:11:47+09:00",
+  "checked_at": "2026-11-19T21:48:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "275360f7b767bcc9"
+      "hash": "61b5eaa08de78b33"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "d57ca1d2be850462"
+      "hash": "006d41409f43962e"
     }
   ],
   "items": [
     {
-      "url": "https://shuttles-aichi.com/news/matchday-program-vol-1/",
-      "title": "お知らせ 2026.11.15 マッチデープログラム vol.1",
-      "date": "2026-11-15"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/",
-      "title": "もっと見る",
-      "date": "2026-11-15"
-    },
-    {
       "url": "https://shuttles-aichi.com/news/tokai-city-watanoi-elementary-school-tag-rugby-visit-lesson-activity-report/",
-      "title": "フォトギャラリー お知らせ 2026.11.09 東海市立渡内小学校 タグラグビー訪問授業 実施報告",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://shuttles-aichi.com/news/tokai-city-nawa-elementary-school-tag-rugby-visit-lesson-activity-report/",
-      "title": "フォトギャラリー お知らせ 2026.11.09 東海市立名和小学校 タグラグビー訪問授業 実施報告",
-      "date": "2026-11-09"
+      "title": "フォトギャラリー お知らせ 26年11月09日 東海市立渡内小学校 タグラグビー訪問授業 実施報告",
+      "date": "2026-11-21"
     },
     {
       "url": "https://shuttles-aichi.com/news/obu-city-higashiyama-elementary-school-tag-rugby-visiting-lesson-implementation-report/",
-      "title": "フォトギャラリー お知らせ 2026.11.09 大府市立東山小学校 タグラグビー訪問授業 実施報告",
-      "date": "2026-11-09"
+      "title": "フォトギャラリー お知らせ 26年11月09日 大府市立東山小学校 タグラグビー訪問授業 実施報告",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/matchday-program-vol-1/",
+      "title": "お知らせ 26年11月15日 マッチデープログラム vol.1",
+      "date": "2026-11-21"
     },
     {
       "url": "https://shuttles-aichi.com/news/hekinan-city-central-elementary-school-tag-rugby-visit-lesson-activity-report/",
-      "title": "お知らせ 2026.11.09 碧南市立中央小学校 タグラグビー訪問授業 実施報告",
-      "date": "2026-11-09"
+      "title": "お知らせ 26年11月09日 碧南市立中央小学校 タグラグビー訪問授業 実施報告",
+      "date": "2026-11-21"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-27-season-team-slogan-and-leadership-group-announced/",
-      "title": "お知らせ 2026.11.09 2026-27シーズン スローガンおよびリーダー体制発表！",
-      "date": "2026-11-09"
+      "title": "お知らせ 26年11月09日 2026-27シーズン スローガンおよびリーダー体制発表！",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/2026-11-21-sat-pre-season-match-vs-hanazono-kintetsu-liners-participating-members/",
+      "title": "お知らせ 26年11月19日 2026/11/21(土) プレシーズンマッチ vs 花園近鉄ライナーズ 出場メンバー",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/",
+      "title": "ニュース一覧",
+      "date": "2026-11-21"
     },
     {
       "url": "https://shuttles-aichi.com/news/2026-11-7-sat-pre-season-match-vs-ricoh-black-rams-tokyo-photo-gallery/",

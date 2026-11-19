@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-11-19T04:11:47+09:00",
+  "checked_at": "2026-11-19T21:48:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "a826289a29b592b0"
+      "hash": "4d09298b05719e93"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "fc2a0a254509d952"
+      "hash": "00b84cf4edef8865"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/11/19/11-21-member/",
+      "title": "2026.11.19 試合関連 チーム情報 【11月21日(土)豊田自動織機シャトルズ愛知戦】メンバーのご案内",
+      "date": "2026-11-19"
+    },
     {
       "url": "https://hanazono-liners.jp/shiaiyotei-kekka/",
       "title": "試合日程を見る",
@@ -44,7 +49,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/11/09/261212-fcgiveaway/",
-      "title": "2026.11.09 ファンクラブ 【12/12 RH大阪戦】ファンクラブ来場特典のお知らせ",
+      "title": "2026-11-09 ファンクラブ 【12/12 RH大阪戦】ファンクラブ来場特典のお知らせ",
       "date": "2026-11-09"
     },
     {
@@ -98,11 +103,6 @@
       "date": "2026-10-28"
     },
     {
-      "url": "https://hanazono-liners.jp/2026/10/26/fukuokacamp-day5/",
-      "title": "2026-10-26 その他 福岡合宿レポート5日目",
-      "date": "2026-10-26"
-    },
-    {
       "url": "https://hanazono-liners.jp/2026/10/23/ticket-schedule/",
       "title": "2026.10.23 その他 NTT ジャパンラグビーリーグワン 2026-27シーズンホストゲーム販売スケジュールが決定しました。",
       "date": "2026-10-23"
@@ -146,11 +146,6 @@
       "url": "https://hanazono-liners.jp/2026/09/07/app-fin/",
       "title": "2026.09.07 その他 花園近鉄ライナーズ公式アプリ サービス終了のお知らせおよび公式LINEアカウント一時休止のご案内",
       "date": "2026-09-07"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/08/24/news-osaka-funtastc-sports-project/",
-      "title": "2026.08.24 試合関連 2026-27 プレシーズンマッチ【追加】および9/2(水)『OSAKA FUNtast!c SPORTS PROJECT』キックオフイベント選手参加のお知らせ",
-      "date": "2026-08-24"
     }
   ]
 }

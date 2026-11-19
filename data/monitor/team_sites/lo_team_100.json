@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-11-19T04:11:47+09:00",
+  "checked_at": "2026-11-19T21:48:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "0374c109d4e9f40a"
+      "hash": "14e9434bab5c9739"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "293b989b0a79677c"
+      "hash": "7a44f7fc9c28f53f"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2094.html",
+      "title": "ゲーム 2026.11.19 【メンバー発表】2026-27シーズン プレシーズンマッチ④ 東芝ブレイブルーパス武蔵戦（11月21日）",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/fanclub/index_2095.html",
+      "title": "ファンクラブ 2026.11.19 2026.12.5「第3回 Club D-Rockers交流会」開催のお知らせ",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/fanclub/index_2093.html",
+      "title": "ファンクラブ 2026.11.19 2026.12.5「D-Rockersテーマ別対話会（グッズの部）」開催のお知らせ",
+      "date": "2026-11-19"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2090.html",
       "title": "チーム 2026.11.18 2026-27シーズン 新加入選手（追加）のお知らせ",
@@ -54,17 +69,17 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2085.html",
-      "title": "イベント 2026.11.11 2026.11.9 「青少年館まつり」に参加しました",
+      "title": "2026.11.11 ニュース 2026.11.9 「青少年館まつり」に参加しました",
       "date": "2026-11-11"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2084.html",
-      "title": "イベント 2026.11.09 2026.11.18 浦安Dパーク開放イベント「ウェルネスプロジェクト～アニマルフロー～」実施のお知らせ",
+      "title": "2026.11.09 ニュース 2026.11.18 浦安Dパーク開放イベント「ウェルネスプロジェクト～アニマルフロー～」実施のお知らせ",
       "date": "2026-11-09"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/index_2082.html",
-      "title": "ニュース 2026.11.06 2026-27シーズン 第4節〜第9節 キックオフ時間決定のお知らせ",
+      "title": "2026.11.06 ニュース 2026-27シーズン 第4節〜第9節 キックオフ時間決定のお知らせ",
       "date": "2026-11-06"
     },
     {
@@ -201,21 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/game/index_2034.html",
       "title": "2026.10.15 ニュース 【更新】10月17日(土) プレシーズンマッチ vs 日野レッドドルフィンズ ホストゲーム情報",
       "date": "2026-10-15"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_2052.html",
-      "title": "2026.10.15 ニュース 2026.10.23 浦安Dパーク開放イベント「ウェルネスプロジェクト～ヨガイベント～」実施のお知らせ",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/event/index_2050.html",
-      "title": "2026.10.15 ニュース 2026.10.11 「浦安市スポーツフェア 2026」に参加しました",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_2049.html",
-      "title": "2026.10.14 ニュース 2026-27シーズン プレシーズンマッチ 日程更新のお知らせ",
-      "date": "2026-10-14"
     }
   ]
 }
