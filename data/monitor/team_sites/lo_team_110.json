@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-11-19T21:48:26+09:00",
+  "checked_at": "2026-11-20T04:16:07+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "9868490eef604973"
+      "hash": "736b8617380a9b41"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "f3cc794299deaebc"
+      "hash": "e4ec39fe3e930040"
     }
   ],
   "items": [
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1023",
-      "title": "地域・社会貢献 2026年11月17日 NEW 「川内聖母幼稚園ラグビー体験教室」を行いました",
+      "title": "地域・社会貢献 2026年11月17日 「川内聖母幼稚園ラグビー体験教室」を行いました",
       "date": "2026-11-17"
     },
     {

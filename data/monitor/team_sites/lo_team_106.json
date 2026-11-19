@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-11-19T21:48:26+09:00",
+  "checked_at": "2026-11-20T04:16:07+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "70b84a01b59b45d0"
+      "hash": "62e78deb5359fef8"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "2fed007af8ec9900"
+      "hash": "eaf297ede6219600"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261119.html",
+      "title": "2026-11-19 日本代表｜チャーリー・ローレンス選手がネーションズチャンピオンシップ2026 スコットランド代表戦の試合メンバーに選出",
+      "date": "2026-11-19"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261118.html",
       "title": "2026-11-18 日本代表｜淺岡俊亮選手がヨーロッパ遠征ならびにネーションズチャンピオンシップの大会登録メンバーに選出",
@@ -49,7 +54,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/tm2026-1",
-      "title": "2026-11-12 トレーニングマッチ 三菱重工相模原ダイナボアーズ 対 東芝ブレイブルーパス武蔵｜試合メンバー・アクセス情報更新",
+      "title": "2026-11-12 [ チーム ] トレーニングマッチ 三菱重工相模原ダイナボアーズ 対 東芝ブレイブルーパス武蔵｜試合メンバー・アクセス情報更新",
       "date": "2026-11-12"
     },
     {
@@ -211,11 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/2026-27OS",
       "title": "2026-09-10 [ チーム ] 2026-27シーズン スタッフ体制・事業運営体制を更新しました",
       "date": "2026-09-10"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260909.html",
-      "title": "2026-09-09 [ イベント ] NTTジャパンラグビー リーグワン2026-27 大会日程決定のお知らせ。開幕節は相模原で「神奈川ダービー」！",
-      "date": "2026-09-09"
     }
   ]
 }
