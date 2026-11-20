@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-11-20T04:16:07+09:00",
+  "checked_at": "2026-11-20T21:42:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "62e78deb5359fef8"
+      "hash": "f79292edad394216"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "eaf297ede6219600"
+      "hash": "6215697c4ce831bf"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261120.html",
+      "title": "2026-11-20 チケット本日発売｜12/27（日）NIGITAで年越しマッチデー（vsB武蔵）試合後に花火 ※一般販売11/25（水）",
+      "date": "2026-11-20"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261119.html",
       "title": "2026-11-19 日本代表｜チャーリー・ローレンス選手がネーションズチャンピオンシップ2026 スコットランド代表戦の試合メンバーに選出",
@@ -59,7 +64,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261112.html-1",
-      "title": "2026-11-12 南アフリカ代表｜カート＝リー・アレンゼ選手が2試合連続でスターティングメンバーに選出（フランス代表戦）",
+      "title": "2026-11-12 [ チーム ] [ メディア ] 南アフリカ代表｜カート＝リー・アレンゼ選手が2試合連続でスターティングメンバーに選出（フランス代表戦）",
       "date": "2026-11-12"
     },
     {
@@ -210,11 +215,6 @@
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260910.html",
       "title": "2026-09-10 [ チーム ] 2026-27プレシーズン 全5試合の日程が決定",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/2026-27OS",
-      "title": "2026-09-10 [ チーム ] 2026-27シーズン スタッフ体制・事業運営体制を更新しました",
       "date": "2026-09-10"
     }
   ]

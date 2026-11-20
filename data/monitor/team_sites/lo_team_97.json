@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "クボタスピアーズ船橋・東京ベイ",
   "official_url": "http://www.kubota-spears.com/",
-  "checked_at": "2026-11-20T04:16:07+09:00",
+  "checked_at": "2026-11-20T21:42:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kubota-spears.com/",
-      "hash": "28b7345f1717522a"
+      "hash": "852e0f4556f3746e"
     },
     {
       "url": "https://www.kubota-spears.com/news/",
-      "hash": "7787f4b893d7bd1c"
+      "hash": "c4fa46384846b51c"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kubota-spears.com/partner_news/2026/11/20/150000.html",
+      "title": "2026.11.20 ニュース・トピックス",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://www.kubota-spears.com/news/2026/11/20/110000.html",
+      "title": "2026.11.20 ニュース・トピックス",
+      "date": "2026-11-20"
+    },
     {
       "url": "https://www.kubota-spears.com/news/2026/11/16/170000.html",
       "title": "2026.11.16 ニュース・トピックス",
@@ -59,11 +69,6 @@
     },
     {
       "url": "https://www.kubota-spears.com/schedule/index.php",
-      "title": "2026.11.02 ニュース・トピックス",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://www.kubota-spears.com/photo/",
       "title": "2026.11.02 ニュース・トピックス",
       "date": "2026-11-02"
     },
@@ -156,6 +161,11 @@
       "url": "https://www.kubota-spears.com/calendar/league01_rising/2026/1003/1200_00.html",
       "title": "2026.10.05 ニュース・トピックス",
       "date": "2026-10-05"
+    },
+    {
+      "url": "https://www.kubota-spears.com/photo/",
+      "title": "2026.10.02 イベント情報",
+      "date": "2026-10-02"
     },
     {
       "url": "https://www.kubota-spears.com/event/2026/10/02/120000.html",
@@ -306,16 +316,6 @@
       "url": "https://www.kubota-spears.com/academy_news/2026/04/06/120000.html",
       "title": "2026.04.06 育成活動",
       "date": "2026-04-06"
-    },
-    {
-      "url": "https://www.kubota-spears.com/partner_news/2026/03/10/130000.html",
-      "title": "2026.03.10 パートナー",
-      "date": "2026-03-10"
-    },
-    {
-      "url": "https://www.kubota-spears.com/goods/2026/03/04/120000.html",
-      "title": "2026.03.04 グッズ",
-      "date": "2026-03-04"
     }
   ]
 }

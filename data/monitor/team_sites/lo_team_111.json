@@ -3,147 +3,258 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-11-20T04:16:07+09:00",
+  "checked_at": "2026-11-20T21:42:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "1dcc504476de20eb"
+      "hash": "6eb9f9883f2bb846"
     },
     {
-      "url": "https://blue-sharks.jp/information/",
-      "hash": "cec89a69c5812f8e"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/",
-      "hash": "3397d0fd3c963304"
+      "url": "https://blue-sharks.jp/topics/",
+      "hash": "68fd220a5153c16d"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "e541e26ac263a983"
+      "hash": "43710b6b5ab9940b"
     }
   ],
   "items": [
     {
-      "url": "https://blue-sharks.jp/news/2026/11/25574/",
+      "url": "https://blue-sharks.jp/tickets/",
+      "title": "チケット情報",
+      "date": "2026-12-12"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/11/27116/",
+      "title": "新加入・役職変更・退団スタッフのお知らせ",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://blue-sharks.jp/match-report/2026/11/27108/",
+      "title": "マッチレポート",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://blue-sharks.jp/activity/2026/11/27114/",
       "title": "11月19日「ラグビー交流教室」開催のご報告",
-      "date": "2026-11-25"
+      "date": "2026-11-27"
     },
     {
-      "url": "https://blue-sharks.jp/news/2026/11/25572/",
-      "title": "◇丸和MOMOTARO’S成田戦マッチレポート",
-      "date": "2026-11-25"
+      "url": "https://blue-sharks.jp/news/2026/11/26456/",
+      "title": "清水建設江東ブルーシャークス 2026-27シーズンパートナー決定のお知らせ",
+      "date": "2026-11-26"
     },
     {
-      "url": "https://blue-sharks.jp/news/2026/11/25548/",
+      "url": "https://blue-sharks.jp/match-report/2026/11/26480/",
+      "title": "マッチレポート",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://blue-sharks.jp/event/2026/11/26625/",
+      "title": "11/22（日）出陣祭2026のご案内について",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://blue-sharks.jp/activity/2026/11/26979/",
       "title": "11月13日「タグラグビー教室」開催のご報告",
-      "date": "2026-11-25"
+      "date": "2026-11-26"
     },
     {
-      "url": "https://blue-sharks.jp/news/2026/11/25529/",
+      "url": "https://blue-sharks.jp/activity/2026/11/26643/",
       "title": "9月30日・10月28日「ラグビー体験教室」開催のご報告",
-      "date": "2026-11-25"
+      "date": "2026-11-26"
     },
     {
-      "url": "https://blue-sharks.jp/news/2026/11/25513/",
-      "title": "お知らせ 2026/11/06 11/22（日）出陣祭2026のご案内について",
-      "date": "2026-11-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/11/25488/",
-      "title": "お知らせ 2026/11/02 ◇JR東日本グリーンウォリアーズ東葛戦マッチレポート",
-      "date": "2026-11-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/11/25464/",
-      "title": "お知らせ 2026/11/02 清水建設江東ブルーシャークス 2026-27シーズンパートナー決定のお知らせ",
-      "date": "2026-11-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/information/",
-      "title": "もっと見る",
-      "date": "2026-11-19"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/10/25446/",
-      "title": "お知らせ 2026/10/28 ◇東芝ブレイブルーパス武蔵戦マッチレポート",
+      "url": "https://blue-sharks.jp/news/2026/10/25714/",
+      "title": "2026-27シーズン キャプテン·リーダーズ及びチームスローガン決定のお知らせ",
       "date": "2026-10-25"
     },
     {
-      "url": "https://blue-sharks.jp/news/2026/10/25429/",
-      "title": "お知らせ 2026/10/23 2026-27シーズン キャプテン·リーダーズ及びチームスローガン決定のお知らせ",
+      "url": "https://blue-sharks.jp/news/2026/10/25587/",
+      "title": "DAZN年間視聴パス（リーグワンクラブ）販売のお知らせ",
       "date": "2026-10-25"
     },
     {
-      "url": "https://blue-sharks.jp/news/2026/10/25424/",
-      "title": "お知らせ 2026/10/20 10月17日 「ラグビー体験教室」開催のご報告",
+      "url": "https://blue-sharks.jp/news/2026/10/25575/",
+      "title": "2026-27シーズン 新加入選手（追加）のお知らせ",
       "date": "2026-10-25"
     },
     {
-      "url": "https://blue-sharks.jp/news/2026/10/25410/",
-      "title": "お知らせ 2026/10/19 ◇静岡ブルーレヴズ戦マッチレポート",
+      "url": "https://blue-sharks.jp/news/2026/10/25493/",
+      "title": "ニュース 退任スタッフのお知らせ",
       "date": "2026-10-25"
     },
     {
-      "url": "https://blue-sharks.jp/news/2026/10/25404/",
-      "title": "お知らせ 2026/10/16 10月15日 「タグラグビー教室」開催のご報告",
+      "url": "https://blue-sharks.jp/match-report/2026/10/25967/",
+      "title": "◇東芝ブレイブルーパス武蔵戦マッチレポート",
       "date": "2026-10-25"
     },
     {
-      "url": "https://blue-sharks.jp/news/2026/10/25399/",
-      "title": "お知らせ 2026/10/15 DAZN年間視聴パス（リーグワンクラブ）販売のお知らせ",
+      "url": "https://blue-sharks.jp/match-report/2026/10/25678/",
+      "title": "◇静岡ブルーレヴズ戦マッチレポート",
       "date": "2026-10-25"
     },
     {
-      "url": "https://blue-sharks.jp/news/2026/10/25392/",
-      "title": "お知らせ 2026/10/15 2026-27シーズン 新加入選手（追加）のお知らせ",
+      "url": "https://blue-sharks.jp/match-report/2026/10/25508/",
+      "title": "◇ヤクルトレビンズ戸田戦マッチレポート",
       "date": "2026-10-25"
     },
     {
-      "url": "https://blue-sharks.jp/news/2026/10/25375/",
-      "title": "お知らせ 2026/10/08 １０月７日 「タグラグビー教室」開催のご報告",
+      "url": "https://blue-sharks.jp/activity/2026/10/25692/",
+      "title": "10月17日 「ラグビー体験教室」開催のご報告",
       "date": "2026-10-25"
     },
     {
-      "url": "https://blue-sharks.jp/news/2026/10/25368/",
-      "title": "お知らせ 2026/10/07 ９月２５日 「ラグビー体験教室」開催のご報告",
+      "url": "https://blue-sharks.jp/activity/2026/10/25617/",
+      "title": "10月15日 「タグラグビー教室」開催のご報告",
       "date": "2026-10-25"
     },
     {
-      "url": "https://blue-sharks.jp/game-guide/2026-5-23-d1-d2%e5%85%a5%e6%9b%bf%e6%88%a6/",
-      "title": "D1/D2入替戦",
-      "date": "2026-05-23"
+      "url": "https://blue-sharks.jp/news/2026/09/25502/",
+      "title": "ニュース Jヴィレッジラグビークリニックレポート",
+      "date": "2026-09-25"
     },
     {
-      "url": "https://blue-sharks.jp/game-guide/2026-5-2-%e3%83%9b%e3%82%b9%e3%83%88%e3%82%b2%e3%83%bc%e3%83%a0%e6%9c%80%e7%b5%82/",
-      "title": "ホストゲーム最終",
-      "date": "2026-05-02"
+      "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25222/",
+      "title": "試合情報",
+      "date": "2026-08-25"
     },
     {
-      "url": "https://blue-sharks.jp/match-guide/2026-03-14-%e9%9d%92%e9%ae%ab%e7%a5%ad%e3%82%8a2026/",
-      "title": "青鮫祭り2026",
-      "date": "2026-03-14"
+      "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25217/",
+      "title": "試合情報",
+      "date": "2026-08-25"
     },
     {
-      "url": "https://blue-sharks.jp/game-guide/2026-2-28-%e7%ac%ac4%e6%88%a6%e3%83%9b%e3%82%b9%e3%83%88%e3%82%b2%e3%83%bc%e3%83%a0/",
-      "title": "第4戦ホストゲーム",
-      "date": "2026-02-28"
+      "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25212/",
+      "title": "試合情報",
+      "date": "2026-08-25"
     },
     {
-      "url": "https://blue-sharks.jp/game-guide/2026-2-7-%e7%ac%ac3%e6%88%a6%e3%83%9b%e3%82%b9%e3%83%88%e3%82%b2%e3%83%bc%e3%83%a0/",
-      "title": "第3戦ホストゲーム",
-      "date": "2026-02-07"
+      "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25107/",
+      "title": "試合情報",
+      "date": "2026-08-25"
     },
     {
-      "url": "https://blue-sharks.jp/game-guide/2026-1-10-%e7%ac%ac2%e6%88%a6%e3%83%9b%e3%82%b9%e3%83%88%e3%82%b2%e3%83%bc%e3%83%a0/",
-      "title": "第2戦ホストゲーム",
-      "date": "2026-01-10"
+      "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25101/",
+      "title": "試合情報",
+      "date": "2026-08-25"
     },
     {
-      "url": "https://blue-sharks.jp/game-guide/2025-12-13-%e7%ac%ac1%e6%88%a6%e3%83%9b%e3%82%b9%e3%83%88%e3%82%b2%e3%83%bc%e3%83%a0/",
-      "title": "第1戦ホストゲーム",
-      "date": "2025-12-13"
+      "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25095/",
+      "title": "試合情報",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25089/",
+      "title": "試合情報",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25082/",
+      "title": "試合情報",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25077/",
+      "title": "試合情報",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25067/",
+      "title": "試合情報",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/08/25258/",
+      "title": "グロスターラグビー研修レポート Vol.9（長谷銀次朗）",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/08/25250/",
+      "title": "グロスターラグビー研修レポート Vol.8（坂本和城）",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/08/25244/",
+      "title": "ニュース 神輿を担いで、地元とつながる 8月16日深川八幡祭りに参加",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/08/25236/",
+      "title": "ヤローズタラナキブルズ研修レポート Vol.7 (浦野龍基)",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/08/25233/",
+      "title": "グロスターラグビー研修レポート Vol.7（西端玄汰）",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/08/25227/",
+      "title": "ヤローズタラナキブルズ研修レポート Vol.6 (松尾磨人)",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/08/25194/",
+      "title": "ニュース 2026-27シーズン 新加入選手のお知らせ",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/08/25186/",
+      "title": "ニュース 2026-27 シーズンプレシーズンマッチスケジュール決定のお知らせ",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/08/25063/",
+      "title": "ニュース 2026-27シーズン新体制のお知らせ",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/08/25060/",
+      "title": "ニュース NTTジャパンラグビーリーグワン 2026-27 大会日程決定のお知らせ",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/05/24753/",
+      "title": "NTTジャパンラグビー リーグワン2025-26D1/D2入替戦進出のお知らせ",
+      "date": "2026-05-24"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/05/24695/",
+      "title": "リーグワン2025-26ディビジョン2第14節日本製鉄釜石シーウェイブス戦開催会場変更のお知らせ",
+      "date": "2026-05-24"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/05/24580/",
+      "title": "ファン感謝祭2025-26 イベント内容変更のご案内",
+      "date": "2026-05-24"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2026/03/24403/",
+      "title": "3/14（土）青鮫祭り2026「小島よしおステージショー」",
+      "date": "2026-03-24"
+    },
+    {
+      "url": "https://blue-sharks.jp/news/2025/11/23835/",
+      "title": "1/10（土）ホストゲーム第2戦情報",
+      "date": "2025-11-23"
+    },
+    {
+      "url": "https://blue-sharks.jp/members/standoff/2025/11/23577/",
+      "title": "ビリー・バーンズ",
+      "date": "2025-11-23"
+    },
+    {
+      "url": "https://blue-sharks.jp/members/flanker/2025/11/23465/",
+      "title": "シオネ・タリトゥイ",
+      "date": "2025-11-23"
+    },
+    {
+      "url": "https://blue-sharks.jp/members/center/2025/11/23603/",
+      "title": "マリティノ・ネマニ",
+      "date": "2025-11-23"
     }
   ]
 }

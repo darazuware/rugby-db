@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-11-20T04:16:07+09:00",
+  "checked_at": "2026-11-20T21:42:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "7f2cc3b389613f42"
+      "hash": "01ad8374fca7913f"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "45a12d2cd775bbc7"
+      "hash": "67e9ef064e9f9a61"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,21 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post36869/",
+      "title": "2026/11/20 社会貢献 【レポート】山下 裕史選手が兵庫県東灘警察署の一日署長として「年末事件事故防止」の啓発活動を行いました",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36834/",
+      "title": "2026/11/20 ファンクラブ ファンクラブ会員限定 サポートステーション紹介キャンペーンのお知らせ",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36812/",
+      "title": "2026/11/20 社会貢献 【レポート】日和佐 篤選手、田中 大治郎チームメディアマネージャーがKOBELCOグループ「情報システム交流会」で講演しました",
+      "date": "2026-11-20"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post36849/",
       "title": "2026/11/19 メディア 11月19日(木)「NEWS×情報 キャッチ＋」出演のお知らせ",
@@ -216,16 +231,6 @@
       "date": "2026-11-04"
     },
     {
-      "url": "https://www.kobesteelers.com/news/post35776/",
-      "title": "2026/11/4 チーム ドミニク・ロペティ選手2026-27シーズン新加入のお知らせ",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35820/",
-      "title": "2026/11/2 グッズ 2026-27シーズン Body of Steel BIGシルエットパーカー先行予約販売のお知らせ",
-      "date": "2026-11-02"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post35807/",
       "title": "チーム 2026-27シーズン プレシーズンマッチの観戦について 2026/10/30",
       "date": "2026-10-30"
@@ -319,11 +324,6 @@
       "url": "https://www.kobesteelers.com/news/post31091/",
       "title": "2026/1/15 お知らせ 阪神・淡路大震災メッセージ動画公開のお知らせ",
       "date": "2026-01-15"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post30548/",
-      "title": "2025/12/23 お知らせ 年末年始のお問い合わせ窓口休業期間のお知らせ",
-      "date": "2025-12-23"
     }
   ]
 }

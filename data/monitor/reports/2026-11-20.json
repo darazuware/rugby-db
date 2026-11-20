@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-20T04:16:07+09:00",
+  "checked_at": "2026-11-20T21:42:29+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,30 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/team/index_2091.html",
+          "title": "チーム 2026.11.20 2026-27シーズン プロモーションビデオ公開のお知らせ",
+          "date": "2026-11-20",
+          "category": null
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/goods/index_2099.html",
+          "title": "グッズ 2026.11.20 「D-Rocks ONLINE STORE」リニューアルオープンのお知らせ",
+          "date": "2026-11-20",
+          "category": null
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/game/index_2098.html",
+          "title": "ゲーム 2026.11.20 【メンバー発表】2026-27シーズン プレシーズンマッチ⑤ 清水建設江東ブルーシャークス（11月22日）",
+          "date": "2026-11-20",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -21,8 +43,30 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post36869/",
+          "title": "2026/11/20 社会貢献 【レポート】山下 裕史選手が兵庫県東灘警察署の一日署長として「年末事件事故防止」の啓発活動を行いました",
+          "date": "2026-11-20",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36834/",
+          "title": "2026/11/20 ファンクラブ ファンクラブ会員限定 サポートステーション紹介キャンペーンのお知らせ",
+          "date": "2026-11-20",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36812/",
+          "title": "2026/11/20 社会貢献 【レポート】日和佐 篤選手、田中 大治郎チームメディアマネージャーがKOBELCOグループ「情報システム交流会」で講演しました",
+          "date": "2026-11-20",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -34,7 +78,9 @@
       "first_run": false,
       "item_count": 38,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/"
+      ],
       "rename_signals": []
     },
     {
@@ -57,8 +103,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4408/",
+          "title": "2026.11.20 普及・アカデミー トヨタヴェルブリッツアカデミー #21",
+          "date": "2026-11-20",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -68,9 +123,31 @@
       "official_url": "http://www.honda-heat.jp",
       "status": "ok",
       "first_run": false,
-      "item_count": 25,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 27,
+      "new_items": [
+        {
+          "url": "https://www.honda-heat.jp/hostgame/2026_27/20261212.html",
+          "title": "スライダー再生 スライダー停止",
+          "date": "2026-12-12",
+          "category": null
+        },
+        {
+          "url": "https://www.honda-heat.jp/news/2496/",
+          "title": "トピックス 2026.11.20 【ホストゲームイベント】HEATERの声を、選手たちの力に！ 「WALL OF VOICES」",
+          "date": "2026-11-20",
+          "category": null
+        },
+        {
+          "url": "https://www.honda-heat.jp/news/2485/",
+          "title": "ファンクラブ 2026.11.20 【ファンクラブ】12/12(土)開幕戦 CLUB HEAT会員の方にご利用いただける特典のご案内",
+          "date": "2026-11-20",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.honda-heat.jp/",
+        "https://www.honda-heat.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -83,10 +160,10 @@
       "item_count": 40,
       "new_items": [
         {
-          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261119.html",
-          "title": "2026-11-19 日本代表｜チャーリー・ローレンス選手がネーションズチャンピオンシップ2026 スコットランド代表戦の試合メンバーに選出",
-          "date": "2026-11-19",
-          "category": "squad"
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261120.html",
+          "title": "2026-11-20 チケット本日発売｜12/27（日）NIGITAで年越しマッチデー（vsB武蔵）試合後に花火 ※一般販売11/25（水）",
+          "date": "2026-11-20",
+          "category": null
         }
       ],
       "changed_pages": [
@@ -115,8 +192,41 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261120c.html",
+          "title": "11月22日(日)「駒澤大学スポーツフェスティバル2026」参加のお知らせ",
+          "date": "2026-11-20",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261120b.html",
+          "title": "11月21日(土)「二子玉川アクティブチャレンジデイ2026」参加のお知らせ",
+          "date": "2026-11-20",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261120e.html",
+          "title": "【重要】プレシーズンマッチ 東京サントリーサンゴリアス戦 入場開始時間のお知らせ",
+          "date": "2026-11-20",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261120a.html",
+          "title": "プレシーズンマッチ 浦安D-Rocks戦 \"会場限定特典TJ・ペレナラ選手ブロマイド付!\" ラグビーマガジン発売のお知らせ",
+          "date": "2026-11-20",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20261120d.html",
+          "title": "ブラックラムズ東京ファンクラブ『RAMOVE』2026-27シーズン開幕記念！入会キャンペーンのお知らせ",
+          "date": "2026-11-20",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -127,8 +237,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/partner_news/2026/11/20/150000.html",
+          "title": "2026.11.20 ニュース・トピックス",
+          "date": "2026-11-20",
+          "category": null
+        },
+        {
+          "url": "https://www.kubota-spears.com/news/2026/11/20/110000.html",
+          "title": "2026.11.20 ニュース・トピックス",
+          "date": "2026-11-20",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/",
+        "https://www.kubota-spears.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -139,7 +265,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 28,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3265",
+          "title": "2026.11.20[FRI] SCHOOL ＜女性・女子向けタグラグビー体験会＞REVS WOMEN'S RUGBY DAY を12/11(金)開催！",
+          "date": "2026-11-20",
+          "category": null
+        },
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3262",
+          "title": "2026.11.20[FRI] FAN CLUB 12/20(日)ホーム開幕戦を選手の近くで！CLUB REVS会員限定イベントの参加者募集",
+          "date": "2026-11-20",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -154,8 +293,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2611-1043.html",
+          "title": "2026年 11月20日 #1043 サム・ケイン 歴代キャプテンが語るサンゴリアス史 『サンゴリアスのキャプテンになれたということを本当に誇りに思います』",
+          "date": "2026-11-20",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -165,9 +314,20 @@
       "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": false,
-      "item_count": 35,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 36,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1120-01/",
+          "title": "TICKET 第3節1月10日（日）豊田自動織機シャトルズ愛知戦のチケット販売について 2026.11.20",
+          "date": "2026-11-20",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/",
+        "https://www.jreast.co.jp/greenwarriors/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -178,7 +338,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kyudenvoltex.com/news/1025",
+          "title": "試合情報 2026年11月20日 NEW 【プレシーズンマッチ】11/28(土)川越狭山RG戦のお知らせ",
+          "date": "2026-11-20",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kyudenvoltex.com/",
         "https://www.kyudenvoltex.com/news/"
@@ -192,10 +359,294 @@
       "official_url": "https://blue-sharks.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 24,
-      "new_items": [],
+      "item_count": 47,
+      "new_items": [
+        {
+          "url": "https://blue-sharks.jp/tickets/",
+          "title": "チケット情報",
+          "date": "2026-12-12",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/11/27116/",
+          "title": "新加入・役職変更・退団スタッフのお知らせ",
+          "date": "2026-11-27",
+          "category": "roster"
+        },
+        {
+          "url": "https://blue-sharks.jp/match-report/2026/11/27108/",
+          "title": "マッチレポート",
+          "date": "2026-11-27",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/activity/2026/11/27114/",
+          "title": "11月19日「ラグビー交流教室」開催のご報告",
+          "date": "2026-11-27",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/11/26456/",
+          "title": "清水建設江東ブルーシャークス 2026-27シーズンパートナー決定のお知らせ",
+          "date": "2026-11-26",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/match-report/2026/11/26480/",
+          "title": "マッチレポート",
+          "date": "2026-11-26",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/event/2026/11/26625/",
+          "title": "11/22（日）出陣祭2026のご案内について",
+          "date": "2026-11-26",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/activity/2026/11/26979/",
+          "title": "11月13日「タグラグビー教室」開催のご報告",
+          "date": "2026-11-26",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/activity/2026/11/26643/",
+          "title": "9月30日・10月28日「ラグビー体験教室」開催のご報告",
+          "date": "2026-11-26",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/10/25714/",
+          "title": "2026-27シーズン キャプテン·リーダーズ及びチームスローガン決定のお知らせ",
+          "date": "2026-10-25",
+          "category": "roster"
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/10/25587/",
+          "title": "DAZN年間視聴パス（リーグワンクラブ）販売のお知らせ",
+          "date": "2026-10-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/10/25575/",
+          "title": "2026-27シーズン 新加入選手（追加）のお知らせ",
+          "date": "2026-10-25",
+          "category": "roster"
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/10/25493/",
+          "title": "ニュース 退任スタッフのお知らせ",
+          "date": "2026-10-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/match-report/2026/10/25967/",
+          "title": "◇東芝ブレイブルーパス武蔵戦マッチレポート",
+          "date": "2026-10-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/match-report/2026/10/25678/",
+          "title": "◇静岡ブルーレヴズ戦マッチレポート",
+          "date": "2026-10-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/match-report/2026/10/25508/",
+          "title": "◇ヤクルトレビンズ戸田戦マッチレポート",
+          "date": "2026-10-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/activity/2026/10/25692/",
+          "title": "10月17日 「ラグビー体験教室」開催のご報告",
+          "date": "2026-10-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/activity/2026/10/25617/",
+          "title": "10月15日 「タグラグビー教室」開催のご報告",
+          "date": "2026-10-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/09/25502/",
+          "title": "ニュース Jヴィレッジラグビークリニックレポート",
+          "date": "2026-09-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25222/",
+          "title": "試合情報",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25217/",
+          "title": "試合情報",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25212/",
+          "title": "試合情報",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25107/",
+          "title": "試合情報",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25101/",
+          "title": "試合情報",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25095/",
+          "title": "試合情報",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25089/",
+          "title": "試合情報",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25082/",
+          "title": "試合情報",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25077/",
+          "title": "試合情報",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25067/",
+          "title": "試合情報",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/08/25258/",
+          "title": "グロスターラグビー研修レポート Vol.9（長谷銀次朗）",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/08/25250/",
+          "title": "グロスターラグビー研修レポート Vol.8（坂本和城）",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/08/25244/",
+          "title": "ニュース 神輿を担いで、地元とつながる 8月16日深川八幡祭りに参加",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/08/25236/",
+          "title": "ヤローズタラナキブルズ研修レポート Vol.7 (浦野龍基)",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/08/25233/",
+          "title": "グロスターラグビー研修レポート Vol.7（西端玄汰）",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/08/25227/",
+          "title": "ヤローズタラナキブルズ研修レポート Vol.6 (松尾磨人)",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/08/25194/",
+          "title": "ニュース 2026-27シーズン 新加入選手のお知らせ",
+          "date": "2026-08-25",
+          "category": "roster"
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/08/25186/",
+          "title": "ニュース 2026-27 シーズンプレシーズンマッチスケジュール決定のお知らせ",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/08/25063/",
+          "title": "ニュース 2026-27シーズン新体制のお知らせ",
+          "date": "2026-08-25",
+          "category": "roster"
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/08/25060/",
+          "title": "ニュース NTTジャパンラグビーリーグワン 2026-27 大会日程決定のお知らせ",
+          "date": "2026-08-25",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/05/24753/",
+          "title": "NTTジャパンラグビー リーグワン2025-26D1/D2入替戦進出のお知らせ",
+          "date": "2026-05-24",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/05/24695/",
+          "title": "リーグワン2025-26ディビジョン2第14節日本製鉄釜石シーウェイブス戦開催会場変更のお知らせ",
+          "date": "2026-05-24",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/05/24580/",
+          "title": "ファン感謝祭2025-26 イベント内容変更のご案内",
+          "date": "2026-05-24",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2026/03/24403/",
+          "title": "3/14（土）青鮫祭り2026「小島よしおステージショー」",
+          "date": "2026-03-24",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/news/2025/11/23835/",
+          "title": "1/10（土）ホストゲーム第2戦情報",
+          "date": "2025-11-23",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/members/standoff/2025/11/23577/",
+          "title": "ビリー・バーンズ",
+          "date": "2025-11-23",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/members/flanker/2025/11/23465/",
+          "title": "シオネ・タリトゥイ",
+          "date": "2025-11-23",
+          "category": null
+        },
+        {
+          "url": "https://blue-sharks.jp/members/center/2025/11/23603/",
+          "title": "マリティノ・ネマニ",
+          "date": "2025-11-23",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://blue-sharks.jp/"
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/category/news/"
       ],
       "rename_signals": []
     },
@@ -208,7 +659,9 @@
       "first_run": false,
       "item_count": 8,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://shuttles-aichi.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -234,10 +687,48 @@
       "official_url": "https://hanazono-liners.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 26,
-      "new_items": [],
+      "item_count": 24,
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/2026/11/20/shotai-tenrishi/",
+          "title": "2026.11.20 その他 『カワモリ産業 presents 大阪府ダービー』天理市民招待キャンペーンのお知らせ",
+          "date": "2026-11-20",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/11/20/shotai-osakafu/",
+          "title": "2026.11.20 その他 『カワモリ産業 presents 大阪府ダービー』大阪府民招待キャンペーンのお知らせ",
+          "date": "2026-11-20",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/11/20/shotai-narashi/",
+          "title": "2026.11.20 その他 『カワモリ産業 presents 大阪府ダービー』奈良市民招待キャンペーンのお知らせ",
+          "date": "2026-11-20",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/11/20/shotai-moto/",
+          "title": "2026.11.20 その他 花園近鉄ライナーズご招待企画 大阪府・東大阪市・枚方市・奈良市・天理市",
+          "date": "2026-11-20",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/11/20/shotai-higashiosakashi/",
+          "title": "2026.11.20 その他 ジャパンラグビー リーグワン2026-27 ホストゲーム東大阪市民招待キャンペーンのお知らせ",
+          "date": "2026-11-20",
+          "category": null
+        },
+        {
+          "url": "https://hanazono-liners.jp/2026/11/20/new-12-12/",
+          "title": "2026.11.20 試合関連 【更新】カワモリ産業 presents 大阪ダービー 試合情報",
+          "date": "2026-11-20",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://hanazono-liners.jp/"
+        "https://hanazono-liners.jp/",
+        "https://hanazono-liners.jp/news/"
       ],
       "rename_signals": []
     },
@@ -249,8 +740,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 12,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-11-20/",
+          "title": "株式会社フィールド・パートナーズとクラブパートナー契約を継続締結しました",
+          "date": "2026-11-20",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -260,8 +760,261 @@
       "official_url": "https://docomo-rugby.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 0,
-      "new_items": [],
+      "item_count": 42,
+      "new_items": [
+        {
+          "url": "https://docomo-rugby.jp/campaign/2027/lp/20261219_no_inv.html",
+          "title": "12月19日（土）CENTRALプ レミアムマッチ特設サイト MORE",
+          "date": "2026-12-19",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/csr/detail.html?id=9003",
+          "title": "SUSTAINABILITY 2026年11月17日 おおきに商店presents第17回ドコモカップ決勝トーナメント結果について",
+          "date": "2026-11-17",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/game/report.html?id=356",
+          "title": "試合情報 2026年11月16日 【プレシーズンマッチ】 栃木ホンダヒート",
+          "date": "2026-11-16",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/game/member.html?id=356",
+          "title": "試合情報 2026年11月12日 【プレシーズンマッチ】 栃木ホンダヒート メンバー発表",
+          "date": "2026-11-12",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/csr/detail.html?id=8939",
+          "title": "SUSTAINABILITY 2026年11月9日 おおきに商店presents第17回ドコモカップ予選結果について",
+          "date": "2026-11-09",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8999",
+          "title": "お知らせ 2026年11月7日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 DIVISION 2 第3-7節キックオフ時間決定のお知らせ",
+          "date": "2026-11-07",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8997",
+          "title": "お知らせ 2026年11月5日 ホストゲーム開幕戦 清水建設江東ブルーシャークス戦 来場者プレゼントについて",
+          "date": "2026-11-05",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8991",
+          "title": "お知らせ 2026年11月2日 レッドハリケーンズ大阪、欧州ラグビーサステナビリティ視察プログラム2026 参加のお知らせ",
+          "date": "2026-11-02",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/game/report.html?id=337",
+          "title": "試合情報 2026年11月2日 【JAPAN RUGBY LEAGUE ONE RISING】JAPAN RUGBY LEAGUE ONE RISING 三菱重工相模原ダイナボアーズ",
+          "date": "2026-11-02",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/csr/detail.html?id=8971",
+          "title": "SUSTAINABILITY 2026年11月2日 【2026年10月】サステナNEWS",
+          "date": "2026-11-02",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8981",
+          "title": "【U15クラス】10月活動レポート 2026年10月30日",
+          "date": "2026-10-30",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8980",
+          "title": "【U12アドバンスクラス】10月活動レポート 2026年10月30日",
+          "date": "2026-10-30",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8978",
+          "title": "【U12エントリークラス】10月活動レポート 2026年10月30日",
+          "date": "2026-10-30",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/",
+          "title": "MORE",
+          "date": "2026-10-30",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8974",
+          "title": "お知らせ 2026年10月29日 「TEAMMATES」佐藤瑛音選手 入団記者会見を開催",
+          "date": "2026-10-29",
+          "category": "roster"
+        },
+        {
+          "url": "https://docomo-rugby.jp/game/member.html?id=337",
+          "title": "試合情報 2026年10月29日 【JAPAN RUGBY LEAGUE ONE RISING】三菱重工相模原ダイナボアーズ戦 メンバー発表",
+          "date": "2026-10-29",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/csr/detail.html?id=8938",
+          "title": "SUSTAINABILITY 2026年10月28日 おおきに商店presents第17回ドコモカップの開催について",
+          "date": "2026-10-28",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/game/report.html?id=353",
+          "title": "試合情報 2026年10月26日 【プレシーズンマッチ】 豊田自動織機シャトルズ愛知に勝利",
+          "date": "2026-10-26",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8953",
+          "title": "お知らせ 2026年10月23日 2026-27シーズン ホストゲーム開幕戦（12月19日（土）CENTRALプ レミアムマッチ）特設サイト公開のお知らせ",
+          "date": "2026-10-23",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8946",
+          "title": "お知らせ 2026年10月23日 有料会員向けチケット先行販売開始日決定のお知らせ",
+          "date": "2026-10-23",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8941",
+          "title": "お知らせ 2026年10月22日 有料会員向けチケット先行販売開始延期のお知らせ",
+          "date": "2026-10-22",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/game/member.html?id=353",
+          "title": "試合情報 2026年10月22日 プレシーズンマッチ 豊田自動織機シャトルズ愛知 メンバー発表",
+          "date": "2026-10-22",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8924",
+          "title": "お知らせ 2026年10月16日 2026-27シーズン リーダーズ・クラブリーダーズ決定のお知らせ",
+          "date": "2026-10-16",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8904",
+          "title": "お知らせ 2026年10月16日 【リリース】第2節12月19日（土曜） 「中央自動車工業プレゼンツCENTRALプレミアムマッチ」開催決定のお知らせ",
+          "date": "2026-10-16",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8919",
+          "title": "試合情報 2026年10月13日 プレシーズンマッチ 10月24日（土曜）豊田自動織機シャトルズ愛知戦のご案内",
+          "date": "2026-10-13",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/game/report.html?id=336",
+          "title": "試合情報 2026年10月13日 【JAPAN RUGBY LEAGUE ONE RISING】JAPAN RUGBY LEAGUE ONE RISING 花園近鉄ライナーズ",
+          "date": "2026-10-13",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8917",
+          "title": "お知らせ 2026年10月8日 熱活GAMESにレッドハリケーンズ大阪が出場！",
+          "date": "2026-10-08",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/game/member.html?id=336",
+          "title": "試合情報 2026年10月8日 【JAPAN RUGBY LEAGUE ONE RISING】JAPAN RUGBY LEAGUE ONE RISING 花園近鉄ライナーズ メンバー発表",
+          "date": "2026-10-08",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8901",
+          "title": "お知らせ 2026年10月6日 ファンクラブ・チケット情報の更新について",
+          "date": "2026-10-06",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8900",
+          "title": "お知らせ 2026年10月5日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 DIVISION 2 第1節・2節キックオフ時間決定のお知らせ",
+          "date": "2026-10-05",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8898",
+          "title": "お知らせ 2026年10月2日 ホストタウン活動スケジュール更新のお知らせ（10月）",
+          "date": "2026-10-02",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8897",
+          "title": "アカデミー 2026年10月1日 【U15クラス】9月活動レポート",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8896",
+          "title": "アカデミー 2026年10月1日 【U12アドバンスクラス】9月活動レポート",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8894",
+          "title": "アカデミー 2026年10月1日 【U12エントリークラス】９月活動レポート",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/csr/detail.html?id=8886",
+          "title": "SUSTAINABILITY 2026年10月1日 【2026年9月】サステナNEWS",
+          "date": "2026-10-01",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8885",
+          "title": "お知らせ 2026年9月28日 ALESSA様の訃報に接して",
+          "date": "2026-09-28",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8881",
+          "title": "お知らせ 2026年9月24日 ラグビー体験イベント in イオンモール堺北花田 開催のお知らせ",
+          "date": "2026-09-24",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8879",
+          "title": "お知らせ 2026年9月15日 セタ・タマニバル選手 フィジー代表選出のお知らせ",
+          "date": "2026-09-15",
+          "category": "squad"
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8874",
+          "title": "お知らせ 2026年9月15日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 第3節 SA広島戦試合会場決定のお知らせ",
+          "date": "2026-09-15",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8870",
+          "title": "お知らせ 2026年9月8日 ホストタウン活動スケジュール掲載開始のお知らせ",
+          "date": "2026-09-08",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=8867",
+          "title": "お知らせ 2026年9月7日 レッハリラグビー教室 in 和歌山 開催のお知らせ",
+          "date": "2026-09-07",
+          "category": null
+        },
+        {
+          "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8866",
+          "title": "アカデミー 2026年9月1日 【U15クラス】8月活動レポート",
+          "date": "2026-09-01",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://docomo-rugby.jp/"
       ],
@@ -275,7 +1028,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 46,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261120-3/",
+          "title": "お知らせ 2026/11/20 11月28日（土）プレシーズンマッチ 中国電力レッドレグリオンズ戦イベントのご案内",
+          "date": "2026-11-20",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/20261120-2/",
+          "title": "私とWATER GUSH #35 細元亮 WTB 悔しさがラグビー人生を変えた 2026/11/20",
+          "date": "2026-11-20",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -291,7 +1057,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -316,6 +1085,8 @@
       "item_count": 45,
       "new_items": [],
       "changed_pages": [
+        "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news",
         "https://www.skyactivs.com/news/2091"
       ],
       "rename_signals": []
@@ -329,7 +1100,9 @@
       "first_run": false,
       "item_count": 31,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.yakult.co.jp/maintenance/"
+      ],
       "rename_signals": []
     },
     {
@@ -369,7 +1142,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54344",
+          "title": "レポート：男子日本代表 ヨーロッパ遠征（リポビタンDツアー2026）スコットランド戦週 2026.11.20 （金） 15人制男子日本代表",
+          "date": "2026-11-20",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -385,10 +1165,66 @@
   ],
   "highlights": [
     {
-      "source": "三菱重工相模原ダイナボアーズ",
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261119.html",
-      "title": "2026-11-19 日本代表｜チャーリー・ローレンス選手がネーションズチャンピオンシップ2026 スコットランド代表戦の試合メンバーに選出",
-      "date": "2026-11-19",
+      "source": "清水建設江東ブルーシャークス",
+      "url": "https://blue-sharks.jp/news/2026/08/25194/",
+      "title": "ニュース 2026-27シーズン 新加入選手のお知らせ",
+      "date": "2026-08-25",
+      "category": "roster"
+    },
+    {
+      "source": "清水建設江東ブルーシャークス",
+      "url": "https://blue-sharks.jp/news/2026/08/25063/",
+      "title": "ニュース 2026-27シーズン新体制のお知らせ",
+      "date": "2026-08-25",
+      "category": "roster"
+    },
+    {
+      "source": "清水建設江東ブルーシャークス",
+      "url": "https://blue-sharks.jp/news/2026/10/25714/",
+      "title": "2026-27シーズン キャプテン·リーダーズ及びチームスローガン決定のお知らせ",
+      "date": "2026-10-25",
+      "category": "roster"
+    },
+    {
+      "source": "清水建設江東ブルーシャークス",
+      "url": "https://blue-sharks.jp/news/2026/10/25575/",
+      "title": "2026-27シーズン 新加入選手（追加）のお知らせ",
+      "date": "2026-10-25",
+      "category": "roster"
+    },
+    {
+      "source": "レッドハリケーンズ大阪",
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8974",
+      "title": "お知らせ 2026年10月29日 「TEAMMATES」佐藤瑛音選手 入団記者会見を開催",
+      "date": "2026-10-29",
+      "category": "roster"
+    },
+    {
+      "source": "東京サントリーサンゴリアス",
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2611-1043.html",
+      "title": "2026年 11月20日 #1043 サム・ケイン 歴代キャプテンが語るサンゴリアス史 『サンゴリアスのキャプテンになれたということを本当に誇りに思います』",
+      "date": "2026-11-20",
+      "category": "roster"
+    },
+    {
+      "source": "清水建設江東ブルーシャークス",
+      "url": "https://blue-sharks.jp/news/2026/11/27116/",
+      "title": "新加入・役職変更・退団スタッフのお知らせ",
+      "date": "2026-11-27",
+      "category": "roster"
+    },
+    {
+      "source": "レッドハリケーンズ大阪",
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8879",
+      "title": "お知らせ 2026年9月15日 セタ・タマニバル選手 フィジー代表選出のお知らせ",
+      "date": "2026-09-15",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54344",
+      "title": "レポート：男子日本代表 ヨーロッパ遠征（リポビタンDツアー2026）スコットランド戦週 2026.11.20 （金） 15人制男子日本代表",
+      "date": "2026-11-20",
       "category": "squad"
     }
   ],
@@ -400,7 +1236,6 @@
     }
   ],
   "warnings": [
-    "レッドハリケーンズ大阪: 記事リンクを抽出できない（JS描画の可能性）: https://docomo-rugby.jp/",
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
   ]
 }

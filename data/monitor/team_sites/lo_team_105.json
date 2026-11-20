@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-11-20T04:16:07+09:00",
+  "checked_at": "2026-11-20T21:42:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "f91a24c228a7ba8a"
+      "hash": "4e8dd932297ade19"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "a629af362dca57ee"
+      "hash": "d9c5bb899528285b"
     }
   ],
   "items": [
+    {
+      "url": "https://www.honda-heat.jp/hostgame/2026_27/20261212.html",
+      "title": "スライダー再生 スライダー停止",
+      "date": "2026-12-12"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2496/",
+      "title": "トピックス 2026.11.20 【ホストゲームイベント】HEATERの声を、選手たちの力に！ 「WALL OF VOICES」",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2485/",
+      "title": "ファンクラブ 2026.11.20 【ファンクラブ】12/12(土)開幕戦 CLUB HEAT会員の方にご利用いただける特典のご案内",
+      "date": "2026-11-20"
+    },
     {
       "url": "https://www.honda-heat.jp/news/2492/",
       "title": "試合概要 2026.11.17 【11/16更新】2026-27トレーニングマッチ追加のお知らせ",
@@ -126,11 +141,6 @@
       "url": "https://www.honda-heat.jp/news/2462/",
       "title": "試合概要 2026.10.4 【ジャパンラグビーリーグワン ライジング2026 】10/11(日) クボタスピアーズ船橋・東京ベイ戦 試合案内",
       "date": "2026-10-04"
-    },
-    {
-      "url": "https://www.honda-heat.jp/news/2460/",
-      "title": "チケット 2026.10.1 【チケット】2026-27シーズン シーズンシート販売のご案内",
-      "date": "2026-10-01"
     },
     {
       "url": "https://www.honda-heat.jp/news/2459/",

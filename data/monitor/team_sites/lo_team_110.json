@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-11-20T04:16:07+09:00",
+  "checked_at": "2026-11-20T21:42:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "736b8617380a9b41"
+      "hash": "3d12b9eee631be9a"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "e4ec39fe3e930040"
+      "hash": "233d6013961b8235"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kyudenvoltex.com/news/1025",
+      "title": "試合情報 2026年11月20日 NEW 【プレシーズンマッチ】11/28(土)川越狭山RG戦のお知らせ",
+      "date": "2026-11-20"
+    },
     {
       "url": "https://www.kyudenvoltex.com/news/1024",
       "title": "お知らせ 2026年11月18日 NEW 宮崎合宿がスタートしました",
@@ -181,11 +186,6 @@
       "url": "https://www.kyudenvoltex.com/news/978",
       "title": "チーム 2026年04月13日 2025-26シーズン退団選手のお知らせ(4/13)",
       "date": "2026-04-13"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/972",
-      "title": "試合情報 2026年04月01日 【リーグワン | ホスト】4/12(日) 日本製鉄釜石シーウェイブス戦のお知らせ",
-      "date": "2026-04-01"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/950",

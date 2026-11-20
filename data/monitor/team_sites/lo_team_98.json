@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-20T04:16:07+09:00",
+  "checked_at": "2026-11-20T21:42:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "861ed84bc129b0fd"
+      "hash": "ac87632527d852ec"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "cf3179d356f052aa"
+      "hash": "0846430fb68bf75b"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3265",
+      "title": "2026.11.20[FRI] SCHOOL ＜女性・女子向けタグラグビー体験会＞REVS WOMEN'S RUGBY DAY を12/11(金)開催！",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3262",
+      "title": "2026.11.20[FRI] FAN CLUB 12/20(日)ホーム開幕戦を選手の近くで！CLUB REVS会員限定イベントの参加者募集",
+      "date": "2026-11-20"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3277",
       "title": "2026.11.18[WED] SDGs 磐田市資源循環アワードを受賞",
@@ -100,16 +110,6 @@
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3254",
       "title": "2026.11.3[TUE] HOST AREA 【ホストエリア活動】静岡市「ラグビー体験×足が速くなる教室×働く車フェスティバル」にてラグビー体験を実施しました",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3253",
-      "title": "2026.11.3[TUE] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（10/27～10/30）",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3219",
-      "title": "2026.11.3[TUE] EVENT 6試合で全24種類！計54,000名に＜青援タオル＞をプレゼント！",
       "date": "2026-11-03"
     },
     {

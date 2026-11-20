@@ -3,14 +3,229 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-11-20T04:16:07+09:00",
+  "checked_at": "2026-11-20T21:42:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "d2cb5818933e8df7"
+      "hash": "360df477a1ab5392"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/",
+      "hash": "d4fad6074ea69fba"
     }
   ],
-  "items": []
+  "items": [
+    {
+      "url": "https://docomo-rugby.jp/campaign/2027/lp/20261219_no_inv.html",
+      "title": "12月19日（土）CENTRALプ レミアムマッチ特設サイト MORE",
+      "date": "2026-12-19"
+    },
+    {
+      "url": "https://docomo-rugby.jp/csr/detail.html?id=9003",
+      "title": "SUSTAINABILITY 2026年11月17日 おおきに商店presents第17回ドコモカップ決勝トーナメント結果について",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://docomo-rugby.jp/game/report.html?id=356",
+      "title": "試合情報 2026年11月16日 【プレシーズンマッチ】 栃木ホンダヒート",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://docomo-rugby.jp/game/member.html?id=356",
+      "title": "試合情報 2026年11月12日 【プレシーズンマッチ】 栃木ホンダヒート メンバー発表",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://docomo-rugby.jp/csr/detail.html?id=8939",
+      "title": "SUSTAINABILITY 2026年11月9日 おおきに商店presents第17回ドコモカップ予選結果について",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8999",
+      "title": "お知らせ 2026年11月7日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 DIVISION 2 第3-7節キックオフ時間決定のお知らせ",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8997",
+      "title": "お知らせ 2026年11月5日 ホストゲーム開幕戦 清水建設江東ブルーシャークス戦 来場者プレゼントについて",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8991",
+      "title": "お知らせ 2026年11月2日 レッドハリケーンズ大阪、欧州ラグビーサステナビリティ視察プログラム2026 参加のお知らせ",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://docomo-rugby.jp/game/report.html?id=337",
+      "title": "試合情報 2026年11月2日 【JAPAN RUGBY LEAGUE ONE RISING】JAPAN RUGBY LEAGUE ONE RISING 三菱重工相模原ダイナボアーズ",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://docomo-rugby.jp/csr/detail.html?id=8971",
+      "title": "SUSTAINABILITY 2026年11月2日 【2026年10月】サステナNEWS",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8981",
+      "title": "【U15クラス】10月活動レポート 2026年10月30日",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8980",
+      "title": "【U12アドバンスクラス】10月活動レポート 2026年10月30日",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8978",
+      "title": "【U12エントリークラス】10月活動レポート 2026年10月30日",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://docomo-rugby.jp/kids/",
+      "title": "MORE",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8974",
+      "title": "お知らせ 2026年10月29日 「TEAMMATES」佐藤瑛音選手 入団記者会見を開催",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://docomo-rugby.jp/game/member.html?id=337",
+      "title": "試合情報 2026年10月29日 【JAPAN RUGBY LEAGUE ONE RISING】三菱重工相模原ダイナボアーズ戦 メンバー発表",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://docomo-rugby.jp/csr/detail.html?id=8938",
+      "title": "SUSTAINABILITY 2026年10月28日 おおきに商店presents第17回ドコモカップの開催について",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://docomo-rugby.jp/game/report.html?id=353",
+      "title": "試合情報 2026年10月26日 【プレシーズンマッチ】 豊田自動織機シャトルズ愛知に勝利",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8953",
+      "title": "お知らせ 2026年10月23日 2026-27シーズン ホストゲーム開幕戦（12月19日（土）CENTRALプ レミアムマッチ）特設サイト公開のお知らせ",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8946",
+      "title": "お知らせ 2026年10月23日 有料会員向けチケット先行販売開始日決定のお知らせ",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8941",
+      "title": "お知らせ 2026年10月22日 有料会員向けチケット先行販売開始延期のお知らせ",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://docomo-rugby.jp/game/member.html?id=353",
+      "title": "試合情報 2026年10月22日 プレシーズンマッチ 豊田自動織機シャトルズ愛知 メンバー発表",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8924",
+      "title": "お知らせ 2026年10月16日 2026-27シーズン リーダーズ・クラブリーダーズ決定のお知らせ",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8904",
+      "title": "お知らせ 2026年10月16日 【リリース】第2節12月19日（土曜） 「中央自動車工業プレゼンツCENTRALプレミアムマッチ」開催決定のお知らせ",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8919",
+      "title": "試合情報 2026年10月13日 プレシーズンマッチ 10月24日（土曜）豊田自動織機シャトルズ愛知戦のご案内",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://docomo-rugby.jp/game/report.html?id=336",
+      "title": "試合情報 2026年10月13日 【JAPAN RUGBY LEAGUE ONE RISING】JAPAN RUGBY LEAGUE ONE RISING 花園近鉄ライナーズ",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8917",
+      "title": "お知らせ 2026年10月8日 熱活GAMESにレッドハリケーンズ大阪が出場！",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://docomo-rugby.jp/game/member.html?id=336",
+      "title": "試合情報 2026年10月8日 【JAPAN RUGBY LEAGUE ONE RISING】JAPAN RUGBY LEAGUE ONE RISING 花園近鉄ライナーズ メンバー発表",
+      "date": "2026-10-08"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8901",
+      "title": "お知らせ 2026年10月6日 ファンクラブ・チケット情報の更新について",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8900",
+      "title": "お知らせ 2026年10月5日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 DIVISION 2 第1節・2節キックオフ時間決定のお知らせ",
+      "date": "2026-10-05"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8898",
+      "title": "お知らせ 2026年10月2日 ホストタウン活動スケジュール更新のお知らせ（10月）",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8897",
+      "title": "アカデミー 2026年10月1日 【U15クラス】9月活動レポート",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8896",
+      "title": "アカデミー 2026年10月1日 【U12アドバンスクラス】9月活動レポート",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8894",
+      "title": "アカデミー 2026年10月1日 【U12エントリークラス】９月活動レポート",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://docomo-rugby.jp/csr/detail.html?id=8886",
+      "title": "SUSTAINABILITY 2026年10月1日 【2026年9月】サステナNEWS",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8885",
+      "title": "お知らせ 2026年9月28日 ALESSA様の訃報に接して",
+      "date": "2026-09-28"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8881",
+      "title": "お知らせ 2026年9月24日 ラグビー体験イベント in イオンモール堺北花田 開催のお知らせ",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8879",
+      "title": "お知らせ 2026年9月15日 セタ・タマニバル選手 フィジー代表選出のお知らせ",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8874",
+      "title": "お知らせ 2026年9月15日 NTT JAPAN RUGBY LEAGUE ONE 2026-27 第3節 SA広島戦試合会場決定のお知らせ",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8870",
+      "title": "お知らせ 2026年9月8日 ホストタウン活動スケジュール掲載開始のお知らせ",
+      "date": "2026-09-08"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=8867",
+      "title": "お知らせ 2026年9月7日 レッハリラグビー教室 in 和歌山 開催のお知らせ",
+      "date": "2026-09-07"
+    },
+    {
+      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8866",
+      "title": "アカデミー 2026年9月1日 【U15クラス】8月活動レポート",
+      "date": "2026-09-01"
+    }
+  ]
 }

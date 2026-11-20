@@ -3,20 +3,50 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-11-20T04:16:07+09:00",
+  "checked_at": "2026-11-20T21:42:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "862705edcacbf5a4"
+      "hash": "fd3f0cdd8a108b44"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "00b84cf4edef8865"
+      "hash": "7f51e4f8aa74d32c"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/11/20/shotai-tenrishi/",
+      "title": "2026.11.20 その他 『カワモリ産業 presents 大阪府ダービー』天理市民招待キャンペーンのお知らせ",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/11/20/shotai-osakafu/",
+      "title": "2026.11.20 その他 『カワモリ産業 presents 大阪府ダービー』大阪府民招待キャンペーンのお知らせ",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/11/20/shotai-narashi/",
+      "title": "2026.11.20 その他 『カワモリ産業 presents 大阪府ダービー』奈良市民招待キャンペーンのお知らせ",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/11/20/shotai-moto/",
+      "title": "2026.11.20 その他 花園近鉄ライナーズご招待企画 大阪府・東大阪市・枚方市・奈良市・天理市",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/11/20/shotai-higashiosakashi/",
+      "title": "2026.11.20 その他 ジャパンラグビー リーグワン2026-27 ホストゲーム東大阪市民招待キャンペーンのお知らせ",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://hanazono-liners.jp/2026/11/20/new-12-12/",
+      "title": "2026.11.20 試合関連 【更新】カワモリ産業 presents 大阪ダービー 試合情報",
+      "date": "2026-11-20"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/11/19/11-21-member/",
       "title": "2026.11.19 試合関連 チーム情報 【11月21日(土)豊田自動織機シャトルズ愛知戦】メンバーのご案内",
@@ -64,43 +94,13 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/11/09/%e5%85%ac%e5%bc%8fline%e5%86%8d%e9%96%8b%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
-      "title": "2026.11.09 その他 公式LINE再開のお知らせ",
+      "title": "2026-11-09 その他 公式LINE再開のお知らせ",
       "date": "2026-11-09"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/11/06/new-goods/",
-      "title": "2026-11-06 グッズ 新グッズ受注販売開始のお知らせ",
-      "date": "2026-11-06"
     },
     {
       "url": "https://hanazono-liners.jp/2026/11/06/3-7kickofftime/",
       "title": "2026-11-06 試合関連 NTTジャパンラグビー リーグワン2026-27 第3~7節キックオフ時間について追加決定のお知らせ",
       "date": "2026-11-06"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/11/05/manie-release/",
-      "title": "2026-11-05 その他 マニー・リボック選手 2026-27シーズンをもって契約満了のお知らせ",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/11/02/itemae-11-2/",
-      "title": "2026-11-02 活動報告書 その他 【番組 いてまえ！花園近鉄ライナーズ（11/1放送）】",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/11/02/15setsuniltutei/",
-      "title": "2026-11-02 試合関連 NTTジャパンラグビー リーグワン2026-27 第13節試合日程について追加決定のお知らせ",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/10/29/brumbies-practice-tour-detail/",
-      "title": "2026-10-29 ファンクラブ 【LINERS FANCLUB】ファンクラブ会員限定 ACTブランビーズ合同練習見学会 参加方法および詳細決定のお知らせ",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/10/28/fukuokacamp-day67/",
-      "title": "2026-10-28 その他 福岡合宿レポート6日目・7日目",
-      "date": "2026-10-28"
     },
     {
       "url": "https://hanazono-liners.jp/2026/10/23/ticket-schedule/",
@@ -136,16 +136,6 @@
       "url": "https://hanazono-liners.jp/2026/10/01/10-3member/",
       "title": "2026.10.01 試合関連 チーム情報 【10月3日(土)クボタスピアーズ船橋・東京ベイ戦】メンバーのご案内",
       "date": "2026-10-01"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/09/07/liners-fanclub-3/",
-      "title": "2026.09.07 ファンクラブ イベント 【LINERS FANCLUB】花園近鉄ライナーズ公式アプリ サービス終了に伴うデジタル会員証の利用について",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/09/07/app-fin/",
-      "title": "2026.09.07 その他 花園近鉄ライナーズ公式アプリ サービス終了のお知らせおよび公式LINEアカウント一時休止のご案内",
-      "date": "2026-09-07"
     }
   ]
 }

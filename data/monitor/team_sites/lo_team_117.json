@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-20T04:16:07+09:00",
+  "checked_at": "2026-11-20T21:42:29+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "ddb8d792c6654f4b"
+      "hash": "dabcc5b547f7a30a"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "f2bc11be2fd27e23"
+      "hash": "cfe0bfcabd93f2ff"
     }
   ],
   "items": [
@@ -40,7 +40,22 @@
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/category/news/",
+      "title": "お知らせ",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261120-3/",
+      "title": "お知らせ 2026/11/20 11月28日（土）プレシーズンマッチ 中国電力レッドレグリオンズ戦イベントのご案内",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261120-2/",
+      "title": "私とWATER GUSH #35 細元亮 WTB 悔しさがラグビー人生を変えた 2026/11/20",
+      "date": "2026-11-20"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261119-2/",
@@ -73,11 +88,6 @@
       "date": "2026-11-14"
     },
     {
-      "url": "https://www.kurita-watergush.jp/category/news/",
-      "title": "お知らせ",
-      "date": "2026-11-13"
-    },
-    {
       "url": "https://www.kurita-watergush.jp/20261113-3/",
       "title": "お知らせ 2026/11/13 2026-27シーズン 新加入選手及び新加入スタッフのお知らせ",
       "date": "2026-11-13"
@@ -89,7 +99,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261112-2/",
-      "title": "私とWATER GUSH #28 河井祐樹 PR ラグビーが嫌いだった少年が、プレーで語れる選手を目指す 2026/11/12",
+      "title": "私とウォーターガッシュ 公開日：2026/11/12 私とWATER GUSH #28 河井祐樹 PR ラグビーが嫌いだった少年が、プレーで語れる選手を目指す 今回の”私とWATER GUSH”は愛知県出身24歳のPR、河井祐樹選手。「ラグビーを辞めようとしていた自分にラグ… 続きを読む",
       "date": "2026-11-12"
     },
     {
@@ -219,7 +229,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261020-3/",
-      "title": "お知らせ 2026/10/20 ヴィリアミ・ヘル選手がアメリカ代表に選出されました！",
+      "title": "お知らせ 公開日：2026/10/20 ヴィリアミ・ヘル選手がアメリカ代表に選出されました！ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 10月24日、30日… 続きを読む",
       "date": "2026-10-20"
     },
     {
@@ -236,16 +246,6 @@
       "url": "https://www.kurita-watergush.jp/20261018-2/",
       "title": "私とウォーターガッシュ 公開日：2026/10/18 私とWATER GUSH #6 中尾泰星 FL 3歳からラグビー一筋。前を向いて生きること。 選手のラグビーとの出会い、クリタでラグビーをする想いにせまる”私とWATER GUSH”。今回は、2シーズンにわ… 続きを読む",
       "date": "2026-10-18"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261017-2/",
-      "title": "私とウォーターガッシュ 公開日：2026/10/17 私とWATER GUSH #5 デーモン・レエスアス LO「ここが、僕の新しいホームだ」 クリタウォーターガッシュ昭島の選手のラグビーとの出会い、クリタでラグビーをする想いにせまる”私とWATE… 続きを読む",
-      "date": "2026-10-17"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261016-4/",
-      "title": "お知らせ 公開日：2026/10/16 2026-27シーズン キャプテン・バイスキャプテン決定のお知らせ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 2026-27シーズ… 続きを読む",
-      "date": "2026-10-16"
     }
   ]
 }
