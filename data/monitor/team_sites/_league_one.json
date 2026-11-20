@@ -1,7 +1,13 @@
 {
-  "checked_at": "2026-11-20T04:16:07+09:00",
+  "checked_at": "2026-11-20T18:36:31+09:00",
   "url": "https://league-one.jp/news/",
   "items": [
+    {
+      "url": "https://league-one.jp/news/6275",
+      "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 BS-TBS 放送予定追加のお知らせ 2026.11.20",
+      "date": "2026-11-20",
+      "category": null
+    },
     {
       "url": "https://league-one.jp/news/6274",
       "title": "クラブ 東芝ブレイブルーパス武蔵、2026-27シーズン新加入選手（追加）のお知らせ 2026.11.19",
@@ -45,11 +51,6 @@
     {
       "url": "https://league-one.jp/news/6266",
       "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 J SPORTSとDAZNで全試合ライブ配信決定のお知らせ 2026.11.13",
-      "date": "2026-11-13"
-    },
-    {
-      "url": "https://league-one.jp/news/6265",
-      "title": "クラブ JR東日本グリーンウォリアーズ東葛、マスコットキャラクター決定のお知らせ 2026.11.13",
       "date": "2026-11-13"
     }
   ]
