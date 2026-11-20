@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-11-20T21:42:29+09:00",
+  "checked_at": "2026-11-21T03:55:26+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "3d12b9eee631be9a"
+      "hash": "01555e818aba9fa1"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "233d6013961b8235"
+      "hash": "7cc1dac207be5293"
     }
   ],
   "items": [
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1024",
-      "title": "お知らせ 2026年11月18日 NEW 宮崎合宿がスタートしました",
+      "title": "お知らせ 2026年11月18日 宮崎合宿がスタートしました",
       "date": "2026-11-18"
     },
     {
