@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-20T18:36:31+09:00",
+  "checked_at": "2026-11-21T03:15:36+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,14 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6275",
-          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 BS-TBS 放送予定追加のお知らせ 2026.11.20",
-          "date": "2026-11-20",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": [
         {
           "url": "https://league-one.jp/news/6272",
@@ -32,26 +25,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://www.rugby-japan.jp/news/54343",
-          "title": "女子セブンズ日本代表（サクラセブンズ） UAE・南アフリカ遠征参加メンバーのお知らせ 2026.11.20 （金） 女子セブンズ日本代表 女子 セブンズ HSBC SVNS",
-          "date": "2026-11-20",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54339",
-          "title": "第115回女子セブンズユースアカデミー実施のお知らせ 2026.11.20 （金） アカデミー・強化育成 女子 セブンズ",
-          "date": "2026-11-20",
-          "category": null
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54338",
-          "title": "第13回全国女子ラグビーフットボール選手権大会実施概要 および決勝の冠スポンサー決定のお知らせ 2026.11.20 （金） 15人制女子日本代表 女子",
-          "date": "2026-11-20",
-          "category": "squad"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -65,22 +39,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54343",
-      "title": "女子セブンズ日本代表（サクラセブンズ） UAE・南アフリカ遠征参加メンバーのお知らせ 2026.11.20 （金） 女子セブンズ日本代表 女子 セブンズ HSBC SVNS",
-      "date": "2026-11-20",
-      "category": "squad"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54338",
-      "title": "第13回全国女子ラグビーフットボール選手権大会実施概要 および決勝の冠スポンサー決定のお知らせ 2026.11.20 （金） 15人制女子日本代表 女子",
-      "date": "2026-11-20",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [
     {
       "url": "https://league-one.jp/news/6272",
