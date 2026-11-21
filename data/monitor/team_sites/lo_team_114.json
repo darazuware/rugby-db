@@ -3,20 +3,30 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-11-21T03:55:26+09:00",
+  "checked_at": "2026-11-21T21:24:21+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "02fd89560ddd0686"
+      "hash": "df285685de0b03e1"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "7f51e4f8aa74d32c"
+      "hash": "8ea481861acb948b"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/shiaiyotei-kekka/",
+      "title": "試合日程を見る",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://hanazono-liners.jp/result/1121%e3%83%97%e3%83%ac%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3%e3%83%9e%e3%83%83%e3%83%81-vs%e8%b1%8a%e7%94%b0%e8%87%aa%e5%8b%95%e7%b9%94%e6%a9%9f%e3%82%b7%e3%83%a3%e3%83%88%e3%83%ab%e3%82%ba%e6%84%9b/",
+      "title": "結果詳細を見る",
+      "date": "2026-11-21"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/11/20/shotai-tenrishi/",
       "title": "2026.11.20 その他 『カワモリ産業 presents 大阪府ダービー』天理市民招待キャンペーンのお知らせ",
@@ -51,16 +61,6 @@
       "url": "https://hanazono-liners.jp/2026/11/19/11-21-member/",
       "title": "2026.11.19 試合関連 チーム情報 【11月21日(土)豊田自動織機シャトルズ愛知戦】メンバーのご案内",
       "date": "2026-11-19"
-    },
-    {
-      "url": "https://hanazono-liners.jp/shiaiyotei-kekka/",
-      "title": "試合日程を見る",
-      "date": "2026-11-14"
-    },
-    {
-      "url": "https://hanazono-liners.jp/result/11%e6%9c%8814%e6%97%a5%e5%9c%9f-%e3%83%96%e3%83%a9%e3%83%b3%e3%83%93%e3%83%bc%e3%82%ba/",
-      "title": "結果詳細を見る",
-      "date": "2026-11-14"
     },
     {
       "url": "https://hanazono-liners.jp/2026/11/13/11-21-pregame/",

@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-21T03:55:26+09:00",
+  "checked_at": "2026-11-21T21:24:21+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "5abcdd7461b13f51"
+      "hash": "0b54d5dac157f481"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "50c115eb9ac10d45"
+      "hash": "15d9cdbaecf8627d"
     }
   ],
   "items": [
@@ -40,7 +40,12 @@
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-20"
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261121-2/",
+      "title": "私とWATER GUSH #36 池澤佑尽 SO/CTB/FB幼稚園からラグビー一筋。 2026/11/21",
+      "date": "2026-11-21"
     },
     {
       "url": "https://www.kurita-watergush.jp/category/news/",
@@ -94,7 +99,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261113-2/",
-      "title": "私とWATER GUSH #29 栗山塁 PR 野球少年がプロップになるまで 2026/11/13",
+      "title": "私とウォーターガッシュ 公開日：2026/11/13 私とWATER GUSH #29 栗山塁 PR 野球少年がプロップになるまで 今回の”私とWATER GUSH”はPRとしてチームのスクラムを支える栗山塁選手。野球少年だった中学時代から、担… 続きを読む",
       "date": "2026-11-13"
     },
     {
@@ -241,11 +246,6 @@
       "url": "https://www.kurita-watergush.jp/20261019-2/",
       "title": "私とウォーターガッシュ 公開日：2026/10/19 私とWATER GUSH #7 新和田錬 SH 3歳からグラウンドを駆け回った少年が、リーグワンの舞台へ。 選手のラグビーとの出会い、クリタでラグビーをする想いにせまる”私とWATER GUSH”。今回は2026-27SEASONに… 続きを読む",
       "date": "2026-10-19"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261018-2/",
-      "title": "私とウォーターガッシュ 公開日：2026/10/18 私とWATER GUSH #6 中尾泰星 FL 3歳からラグビー一筋。前を向いて生きること。 選手のラグビーとの出会い、クリタでラグビーをする想いにせまる”私とWATER GUSH”。今回は、2シーズンにわ… 続きを読む",
-      "date": "2026-10-18"
     }
   ]
 }

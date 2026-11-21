@@ -3,29 +3,29 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-11-21T03:55:26+09:00",
+  "checked_at": "2026-11-21T21:24:21+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "df678f90a36d2341"
+      "hash": "5de7e4dd3cc4a4c9"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "e8bd1518ffb099d8"
+      "hash": "60824a3727b31d97"
     }
   ],
   "items": [
     {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMvRBRTV.html",
+      "title": "2026年 11月21日 2026 TRAINING MATCH vs リコーブラックラムズ東京 試合結果",
+      "date": "2026-11-21"
+    },
+    {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2611-1043.html",
       "title": "2026年 11月20日 #1043 サム・ケイン 歴代キャプテンが語るサンゴリアス史 『サンゴリアスのキャプテンになれたということを本当に誇りに思います』",
       "date": "2026-11-20"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMvRBRTV.html",
-      "title": "2026年 11月19日 2026 TRAINING MATCH vs リコーブラックラムズ東京 メンバー発表！",
-      "date": "2026-11-19"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/jrlo2627r3yhgfs.html",
