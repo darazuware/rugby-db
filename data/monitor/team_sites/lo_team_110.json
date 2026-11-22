@@ -3,23 +3,23 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-11-22T21:27:10+09:00",
+  "checked_at": "2026-11-23T03:09:15+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "01555e818aba9fa1"
+      "hash": "d7faf760f078cfa9"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "7cc1dac207be5293"
+      "hash": "ae1eb73c62a88ba7"
     }
   ],
   "items": [
     {
       "url": "https://www.kyudenvoltex.com/news/1025",
-      "title": "試合情報 2026年11月20日 NEW 【プレシーズンマッチ】11/28(土)川越狭山RG戦のお知らせ",
+      "title": "試合情報 2026年11月20日 【プレシーズンマッチ】11/28(土)川越狭山RG戦のお知らせ",
       "date": "2026-11-20"
     },
     {
