@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-11-22T02:49:52+09:00",
+  "checked_at": "2026-11-22T21:27:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "3db4f6af3a835dd5"
+      "hash": "c5fcacfd2d252eca"
     }
   ],
   "items": [
+    {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4410/",
+      "title": "2026.11.22 イベント 【パートナー】12/19(土) グッズ交換で豪華景品をゲット！リレーユース体験ブース supported by KOMEHYO 実施！",
+      "date": "2026-11-22"
+    },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4408/",
       "title": "2026.11.20 普及・アカデミー トヨタヴェルブリッツアカデミー #21",
@@ -46,11 +51,6 @@
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4397/",
       "title": "2026.11.6 チケット・ファンクラブ 【チケット】1/9 栃木H戦 ゴリけん・パラシュート部隊と一緒に試合を見れる企画チケットについて",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4391/",
-      "title": "2026.11.6 トピックス ピーターステフ・デュトイ選手 退団のお知らせ",
       "date": "2026-11-06"
     },
     {

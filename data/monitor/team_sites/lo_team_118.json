@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "狭山セコムラガッツ",
   "official_url": "https://www.rugguts.secom.co.jp/",
-  "checked_at": "2026-11-22T02:49:52+09:00",
+  "checked_at": "2026-11-22T21:27:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.rugguts.secom.co.jp/",
-      "hash": "e5654e3b7c079458"
+      "hash": "f63240c71a12c70f"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/news/",
-      "hash": "0f088684c24d8234"
+      "hash": "c6ad6b8e5d06e72e"
     }
   ],
   "items": [
@@ -31,11 +31,6 @@
       "url": "https://www.rugguts.secom.co.jp/2026/08/ntt-2026-27-d2202686.html",
       "title": "NTTジャパンラグビー リーグワン2026-27 D2の試合日程のお知らせ（2026年11月13日更新） 2026.08.06 お知らせ",
       "date": "2026-11-13"
-    },
-    {
-      "url": "https://www.rugguts.secom.co.jp/results/20261031.html",
-      "title": "view more",
-      "date": "2026-10-31"
     },
     {
       "url": "https://www.rugguts.secom.co.jp/2026/10/post-32.html",
@@ -216,6 +211,11 @@
       "url": "https://www.rugguts.secom.co.jp/results/20260405.html",
       "title": "NTTジャパンラグビー リーグワン 2025-26 D3 第11節 の試合結果を掲載しました。",
       "date": "2026-04-05"
+    },
+    {
+      "url": "https://www.rugguts.secom.co.jp/2026/04/4-27.html",
+      "title": "4 月27日（月）ライチェル、日本経済新聞インタビュー記事掲載のお知らせ",
+      "date": "2026-04-04"
     }
   ]
 }
