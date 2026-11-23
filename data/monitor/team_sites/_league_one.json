@@ -1,7 +1,13 @@
 {
-  "checked_at": "2026-11-23T03:09:15+09:00",
+  "checked_at": "2026-11-23T19:14:05+09:00",
   "url": "https://league-one.jp/news/",
   "items": [
+    {
+      "url": "https://league-one.jp/news/6276",
+      "title": "お知らせ ジャパンラグビー リーグワン ライジング2026 「ファンが選ぶRISING of The Year」受賞者決定のお知らせ 2026.11.23",
+      "date": "2026-11-23",
+      "category": null
+    },
     {
       "url": "https://league-one.jp/news/6275",
       "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 BS-TBS 放送予定追加のお知らせ 2026.11.20",
@@ -45,11 +51,6 @@
     {
       "url": "https://league-one.jp/news/6267",
       "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 D1 第1-3節／D2・D3 第1-2節 放送予定のお知らせ 2026.11.13",
-      "date": "2026-11-13"
-    },
-    {
-      "url": "https://league-one.jp/news/6266",
-      "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 J SPORTSとDAZNで全試合ライブ配信決定のお知らせ 2026.11.13",
       "date": "2026-11-13"
     }
   ]

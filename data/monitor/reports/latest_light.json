@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-21T03:15:36+09:00",
+  "checked_at": "2026-11-23T19:14:05+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6276",
+          "title": "お知らせ ジャパンラグビー リーグワン ライジング2026 「ファンが選ぶRISING of The Year」受賞者決定のお知らせ 2026.11.23",
+          "date": "2026-11-23",
+          "category": null
+        }
+      ],
       "rename_signals": [
         {
           "url": "https://league-one.jp/news/6272",
@@ -25,7 +32,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54350",
+          "title": "第19回U18合同チーム東西対抗戦 出場予定選手のお知らせ 2026.11.23 （月） 高校",
+          "date": "2026-11-23",
+          "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54349",
+          "title": "令和8年度全国高等学校総合体育大会 第106回全国高等学校ラグビーフットボール大会 開催のお知らせ 2026.11.23 （月） 高校",
+          "date": "2026-11-23",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
