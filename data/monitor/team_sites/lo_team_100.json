@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-11-23T03:09:15+09:00",
+  "checked_at": "2026-11-23T23:21:05+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "3d237789faadbaf2"
+      "hash": "9dcd7d365846731b"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "49d11c380dfad4d2"
+      "hash": "b861d6efc2a68652"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2100.html",
+      "title": "ゲーム 2026.11.23 12月4日(金) プレシーズンマッチ vs 横浜キヤノンイーグルス ホストゲーム情報",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2088.html",
+      "title": "イベント 2026.11.23 【1月9日(土) BR東京戦】TVアニメ『SAKAMOTO DAYS』×浦安D-Rocks コラボマッチ開催決定のお知らせ",
+      "date": "2026-11-23"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2091.html",
       "title": "チーム 2026.11.20 2026-27シーズン プロモーションビデオ公開のお知らせ",
@@ -49,7 +59,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2090.html",
-      "title": "チーム 2026.11.18 2026-27シーズン 新加入選手（追加）のお知らせ",
+      "title": "2026.11.18 ニュース 2026-27シーズン 新加入選手（追加）のお知らせ",
       "date": "2026-11-18"
     },
     {
@@ -64,7 +74,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2071.html",
-      "title": "ゲーム 2026.11.16 【更新】11月21日(土) プレシーズンマッチ vs 東芝ブレイブルーパス武蔵 ホストゲーム情報",
+      "title": "2026.11.16 ニュース 【更新】11月21日(土) プレシーズンマッチ vs 東芝ブレイブルーパス武蔵 ホストゲーム情報",
       "date": "2026-11-16"
     },
     {
@@ -206,16 +216,6 @@
       "url": "https://urayasu-d-rocks.com/news/partner/index_2057.html",
       "title": "2026.10.16 ニュース 株式会社やまたけとのネイビーパートナーシップ契約締結のお知らせ",
       "date": "2026-10-16"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/index_2056.html",
-      "title": "2026.10.15 ニュース 「DAZN年間視聴パス」販売のお知らせ",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_2055.html",
-      "title": "2026.10.15 ニュース 2026-27シーズン 試合配信に関するお知らせ",
-      "date": "2026-10-15"
     }
   ]
 }

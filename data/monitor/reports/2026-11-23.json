@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-23T03:09:15+09:00",
+  "checked_at": "2026-11-23T23:21:05+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/game/index_2100.html",
+          "title": "ゲーム 2026.11.23 12月4日(金) プレシーズンマッチ vs 横浜キヤノンイーグルス ホストゲーム情報",
+          "date": "2026-11-23",
+          "category": null
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/event/index_2088.html",
+          "title": "イベント 2026.11.23 【1月9日(土) BR東京戦】TVアニメ『SAKAMOTO DAYS』×浦安D-Rocks コラボマッチ開催決定のお知らせ",
+          "date": "2026-11-23",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -57,8 +73,23 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4411/",
+          "title": "2026.11.23 Pre-season Match Report vs Yamaha Shizuoka Blue Revs",
+          "date": "2026-11-23",
+          "category": null
+        },
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4258",
+          "title": "【チケット】2026-27シーズン ホストゲームチケット価格 チケット・ファンクラブ 2026.08.19",
+          "date": "2026-08-19",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -69,8 +100,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 27,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.honda-heat.jp/news/2495/",
+          "title": "トピックス 2026.11.23 負傷にともなう長期離脱選手のお知らせ",
+          "date": "2026-11-23",
+          "category": "roster"
+        }
+      ],
+      "changed_pages": [
+        "https://www.honda-heat.jp/",
+        "https://www.honda-heat.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -132,7 +173,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 28,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3284",
+          "title": "2026.11.23[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（11/16～11/20）",
+          "date": "2026-11-23",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -158,9 +206,20 @@
       "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": false,
-      "item_count": 36,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 37,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1123-01/",
+          "title": "FAN CLUB CLUB GREEN WARRIORS 開幕直前入会キャンペーンのお知らせ 2026.11.23",
+          "date": "2026-11-23",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/",
+        "https://www.jreast.co.jp/greenwarriors/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -172,10 +231,7 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [
-        "https://www.kyudenvoltex.com/",
-        "https://www.kyudenvoltex.com/news/"
-      ],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -186,16 +242,11 @@
       "status": "ok",
       "first_run": false,
       "item_count": 47,
-      "new_items": [
-        {
-          "url": "https://blue-sharks.jp/schedule-and-result/2026/08/25113/",
-          "title": "試合情報",
-          "date": "2026-08-25",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
-        "https://blue-sharks.jp/"
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/topics/",
+        "https://blue-sharks.jp/category/news/"
       ],
       "rename_signals": []
     },
@@ -208,7 +259,9 @@
       "first_run": false,
       "item_count": 7,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://shuttles-aichi.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -237,7 +290,8 @@
       "item_count": 24,
       "new_items": [],
       "changed_pages": [
-        "https://hanazono-liners.jp/"
+        "https://hanazono-liners.jp/",
+        "https://hanazono-liners.jp/news/"
       ],
       "rename_signals": []
     },
@@ -275,7 +329,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 46,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261123-2/",
+          "title": "私とWATER GUSH #38 江本洸志 FB ゲームがきっかけにラグビーへ 2026/11/23",
+          "date": "2026-11-23",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -315,7 +376,9 @@
       "first_run": false,
       "item_count": 45,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.skyactivs.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -367,7 +430,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.rugby-japan.jp/news/54352",
+          "title": "伊藤龍之介選手 「ワールドラグビー 男子15人制ブレイクスルー・プレイヤー・オブ・ザ・イヤー2026」 へノミネートのお知らせ 2026.11.23 （月） 15人制男子日本代表",
+          "date": "2026-11-23",
+          "category": "squad"
+        }
+      ],
       "rename_signals": []
     },
     {
@@ -381,7 +451,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "三重ホンダヒート",
+      "url": "https://www.honda-heat.jp/news/2495/",
+      "title": "トピックス 2026.11.23 負傷にともなう長期離脱選手のお知らせ",
+      "date": "2026-11-23",
+      "category": "roster"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54352",
+      "title": "伊藤龍之介選手 「ワールドラグビー 男子15人制ブレイクスルー・プレイヤー・オブ・ザ・イヤー2026」 へノミネートのお知らせ 2026.11.23 （月） 15人制男子日本代表",
+      "date": "2026-11-23",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [
     {
       "url": "https://league-one.jp/news/6272",

@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-11-23T03:09:15+09:00",
+  "checked_at": "2026-11-23T23:21:05+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "16fd1161f4e78bc4"
+      "hash": "8d1036e7890cab73"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "116d299cb63670c0"
+      "hash": "d96f69ed89c3b3f8"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "3195e9b26342af22"
+      "hash": "eaabd05443e1dc71"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1123-01/",
+      "title": "FAN CLUB CLUB GREEN WARRIORS 開幕直前入会キャンペーンのお知らせ 2026.11.23",
+      "date": "2026-11-23"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1120-01/",
       "title": "TICKET 第3節1月10日（日）豊田自動織機シャトルズ愛知戦のチケット販売について 2026.11.20",

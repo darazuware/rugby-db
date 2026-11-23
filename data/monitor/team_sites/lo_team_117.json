@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-23T03:09:15+09:00",
+  "checked_at": "2026-11-23T23:21:05+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "13f3f8a71c1e7d8c"
+      "hash": "90bf40e9226fa068"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "19626355cdf592d7"
+      "hash": "578a0a170d352e3e"
     }
   ],
   "items": [
@@ -40,7 +40,12 @@
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-22"
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261123-2/",
+      "title": "私とWATER GUSH #38 江本洸志 FB ゲームがきっかけにラグビーへ 2026/11/23",
+      "date": "2026-11-23"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261122-2/",
@@ -84,7 +89,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261115-2/",
-      "title": "私とWATER GUSH #31 細矢一颯 PR仕事・家族・ラグビー、三足の草鞋で挑む 2026/11/15",
+      "title": "私とウォーターガッシュ 公開日：2026/11/15 私とWATER GUSH #31 細矢一颯 PR仕事・家族・ラグビー、三足の草鞋で挑む 今回の”私とWATER GUSH”はPRとして活躍する細矢一颯選手。スクラムの最前列でチームを支えるまさに「チー… 続きを読む",
       "date": "2026-11-15"
     },
     {
@@ -240,11 +245,6 @@
     {
       "url": "https://www.kurita-watergush.jp/20261020-3/",
       "title": "お知らせ 公開日：2026/10/20 ヴィリアミ・ヘル選手がアメリカ代表に選出されました！ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 10月24日、30日… 続きを読む",
-      "date": "2026-10-20"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261020-2/",
-      "title": "私とウォーターガッシュ 公開日：2026/10/20 私とWATER GUSH #8 伊藤森心 FL 「自分が選んだ道をやり遂げたい」クリタへの誓いと大きな夢 選手のラグビーとの出会い、クリタでラグビーをする想いにせまる”私とWATER GUSH”。2026年からチームへ加… 続きを読む",
       "date": "2026-10-20"
     }
   ]
