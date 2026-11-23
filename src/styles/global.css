@@ -448,3 +448,15 @@
 .mt-out { background: #6b7280; }
 
 .mt-miss { opacity: 0.6; }
+
+/* 高校ラグビー：学校カード（花園記事） */
+.hs-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr)); gap: 0.5rem; margin: 1rem 0 1.5rem; }
+.hs-grid.hs-wide { grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: 0.75rem; }
+.hs-c { border: 1px solid var(--border-color); border-left: 4px solid #036bc2; border-radius: 0.6rem; padding: 0.5rem 0.7rem; background: var(--card-bg); line-height: 1.35; }
+.hs-c b { display: block; font-size: 1.05rem; font-weight: 900; }
+.hs-c i { display: block; font-style: normal; font-size: 0.72rem; font-weight: 700; opacity: 0.6; }
+.hs-c span { display: block; font-size: 0.8rem; margin-top: 0.15rem; }
+.hs-c span em { font-style: normal; font-weight: 700; opacity: 0.6; margin-right: 0.3rem; font-size: 0.72rem; }
+.hs-c.hs-no { border-left-color: #ef4444; }
+.hs-c .hs-tag { display: inline-block; margin-top: 0.25rem; font-size: 0.65rem; font-weight: 900; color: #fff; background: #ef4444; border-radius: 4px; padding: 0 0.4rem; }
+.hs-c span u { text-decoration: none; white-space: nowrap; display: inline-block; margin-right: 0.7em; }
