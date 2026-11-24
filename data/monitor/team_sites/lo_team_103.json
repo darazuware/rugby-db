@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-11-24T07:19:02+09:00",
+  "checked_at": "2026-11-24T23:44:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "5b8dcd18d35ebc84"
+      "hash": "b8b178b958492f9e"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "f6af69bc1c46ad0b"
+      "hash": "eb654d4e971ba237"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/261124/",
+      "title": "新商品グッズ数量限定先行販売のお知らせ",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/",
+      "title": "記事一覧",
+      "date": "2026-11-24"
+    },
     {
       "url": "https://www.bravelupus.com/game/pregame_261121/",
       "title": "結果詳細",
@@ -216,11 +226,6 @@
       "url": "https://www.bravelupus.com/news/260909-2/",
       "title": "アサヒスーパードライ パシフィックネーションズカップ2026 大会登録メンバーのお知らせ",
       "date": "2026-09-09"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260903/",
-      "title": "リポビタンDチャレンジカップ2026 日本代表 対 カナダ代表 試合登録メンバーのお知らせ",
-      "date": "2026-09-03"
     }
   ]
 }

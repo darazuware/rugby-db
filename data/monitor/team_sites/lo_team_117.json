@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-24T07:19:02+09:00",
+  "checked_at": "2026-11-24T23:44:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "e8dc429e929bde79"
+      "hash": "4bf5758a3ffd8d6d"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "479523504187bacc"
+      "hash": "f792661cd8324c23"
     }
   ],
   "items": [
@@ -40,7 +40,12 @@
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-23"
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261124-2/",
+      "title": "私とWATER GUSH #39 田草川恵 PR「これがクリタだ！」と言える戦いを 2026/11/24",
+      "date": "2026-11-24"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261123-2/",
@@ -64,7 +69,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261120-3/",
-      "title": "お知らせ 2026/11/20 11月28日（土）プレシーズンマッチ 中国電力レッドレグリオンズ戦イベントのご案内",
+      "title": "お知らせ 2026/11/20 11月28日（土）プレシーズンマッチ 中国電力レッドレグリオンズ戦イベントのご案内（※11月24日更新）",
       "date": "2026-11-20"
     },
     {
@@ -84,7 +89,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261117-2/",
-      "title": "私とWATER GUSH #32 半田裕己 SO 仕事もラグビーも100％ 2026/11/17",
+      "title": "私とウォーターガッシュ 公開日：2026/11/17 私とWATER GUSH #32 半田裕己 SO 仕事もラグビーも100％ 今回の”私とWATER GUSH”はSOを担う半田裕己選手。幼いころから体を動かすことが好きだった半田選手が、ラ… 続きを読む",
       "date": "2026-11-17"
     },
     {
@@ -241,11 +246,6 @@
       "url": "https://www.kurita-watergush.jp/20261021-2/",
       "title": "私とウォーターガッシュ 公開日：2026/10/21 私とWATER GUSH #9 小山田裕悟 SH 「結果で恩返しする」仕事とラグビーに全力で挑む1年目 選手のラグビーとの出会い、クリタでラグビーをする想いにせまる”私とWATER GUSH”。今回ご紹介するのは、2… 続きを読む",
       "date": "2026-10-21"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261020-3/",
-      "title": "お知らせ 公開日：2026/10/20 ヴィリアミ・ヘル選手がアメリカ代表に選出されました！ いつもクリタウォーターガッシュ昭島に温かいご声援をいただき誠にありがとうございます。 10月24日、30日… 続きを読む",
-      "date": "2026-10-20"
     }
   ]
 }

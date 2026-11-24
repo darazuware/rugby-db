@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "レッドハリケーンズ大阪",
   "official_url": "https://docomo-rugby.jp/",
-  "checked_at": "2026-11-24T07:19:02+09:00",
+  "checked_at": "2026-11-24T23:44:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://docomo-rugby.jp/",
-      "hash": "7a4368f3be81ba50"
+      "hash": "05cff0d58314d075"
     },
     {
       "url": "https://docomo-rugby.jp/news/",
-      "hash": "d4fad6074ea69fba"
+      "hash": "3e6b991c2e197b6e"
     }
   ],
   "items": [
@@ -21,6 +21,11 @@
       "url": "https://docomo-rugby.jp/campaign/2027/lp/20261219_no_inv.html",
       "title": "12月19日（土）CENTRALプ レミアムマッチ特設サイト MORE",
       "date": "2026-12-19"
+    },
+    {
+      "url": "https://docomo-rugby.jp/news/detail.html?id=9004",
+      "title": "お知らせ 2026年11月24日 ラグビー体験イベント in ららぽーと堺 開催のお知らせ",
+      "date": "2026-11-24"
     },
     {
       "url": "https://docomo-rugby.jp/csr/detail.html?id=9003",
@@ -221,11 +226,6 @@
       "url": "https://docomo-rugby.jp/news/detail.html?id=8867",
       "title": "お知らせ 2026年9月7日 レッハリラグビー教室 in 和歌山 開催のお知らせ",
       "date": "2026-09-07"
-    },
-    {
-      "url": "https://docomo-rugby.jp/kids/academy/report/detail.html?id=8866",
-      "title": "アカデミー 2026年9月1日 【U15クラス】8月活動レポート",
-      "date": "2026-09-01"
     }
   ]
 }

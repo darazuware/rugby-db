@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-24T07:19:02+09:00",
+  "checked_at": "2026-11-24T23:44:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "898b5bd65786c8e7"
+      "hash": "929ed7e3b5f1b998"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "538aac2f5c0faa05"
+      "hash": "321ca1a99e7fea63"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3285",
+      "title": "2026.11.24[TUE] TEAM 2026-27シーズンのキャプテンとリーダーが決定",
+      "date": "2026-11-24"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3284",
       "title": "2026.11.23[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（11/16～11/20）",
@@ -74,7 +79,7 @@
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3269",
-      "title": "EVENT 2026/11/14 11/29 ファンミーティング 参加者募集",
+      "title": "2026.11.14[SAT] EVENT ファンミーティング開催のお知らせ",
       "date": "2026-11-14"
     },
     {
@@ -105,11 +110,6 @@
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3256",
       "title": "2026.11.5[THU] HOST AREA 【ホストエリア活動】令和8年度 第2回中堅職員研修会「未来塾シーズン2」にてタグラグビーでのチームビルディングを実施しました",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3255",
-      "title": "2026.11.5[THU] HOST AREA 【ホストエリア活動】磐田市 静岡県立袋井特別支援学校磐田見付分校にて教員向けタグラグビー講習を実施しました",
       "date": "2026-11-05"
     },
     {

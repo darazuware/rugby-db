@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-24T07:19:02+09:00",
+  "checked_at": "2026-11-24T23:44:06+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -9,8 +9,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://urayasu-d-rocks.com/news/partner/index_2097.html",
+          "title": "パートナー 2026.11.24 東亜道路工業株式会社との ネイビーパートナーシップ契約締結のお知らせ",
+          "date": "2026-11-24",
+          "category": "roster"
+        },
+        {
+          "url": "https://urayasu-d-rocks.com/news/event/index_2102.html",
+          "title": "イベント 2026.11.24 2026.11.11「浦安まちづくりネット衣服回収」に参加しました",
+          "date": "2026-11-24",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://urayasu-d-rocks.com/",
+        "https://urayasu-d-rocks.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -21,8 +37,62 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kobesteelers.com/news/post36946/",
+          "title": "2026/11/24 社会貢献 令和8年度「第19回 U18合同チーム東西対抗戦」担当コーチ派遣のお知らせ",
+          "date": "2026-11-24",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36945/",
+          "title": "2026/11/24 チーム 大町 佳生選手が「ファンが選ぶRISING of The Year」を受賞しました",
+          "date": "2026-11-24",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36937/",
+          "title": "2026/11/24 メディア 11月27日(金)・12月4日(金) FM COCOLO「M’s Groove Friday」大畑 大介アンバサダーのコーナー「Tide&Try」に上ノ坊 駿介選手が出演します！",
+          "date": "2026-11-24",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36881/",
+          "title": "2026/11/24 お知らせ サーバーメンテナンスのお知らせ",
+          "date": "2026-11-24",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36876/",
+          "title": "2026/11/24 イベント 【選手イベント参加情報】神戸三宮センター街でチームPR活動を実施します",
+          "date": "2026-11-24",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36862/",
+          "title": "2026/11/24 普及 【レポート】神戸市立小部東小学校でタグラグビー教室を実施しました",
+          "date": "2026-11-24",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36858/",
+          "title": "2026/11/24 グッズ 2026-27シーズン 会場受取サービス実施のお知らせ",
+          "date": "2026-11-24",
+          "category": null
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36854/",
+          "title": "2026/11/24 イベント NTTリーグワン2026-27 ホストゲームでの「お楽しみLINE抽選会」実施のお知らせ",
+          "date": "2026-11-24",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kobesteelers.com/",
+        "https://www.kobesteelers.com/news/",
+        "https://www.kobesteelers.com/news/cat_news/information/",
+        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
+      ],
       "rename_signals": []
     },
     {
@@ -44,9 +114,25 @@
       "official_url": "https://www.bravelupus.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 41,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 42,
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/news/261124/",
+          "title": "新商品グッズ数量限定先行販売のお知らせ",
+          "date": "2026-11-24",
+          "category": null
+        },
+        {
+          "url": "https://www.bravelupus.com/news/",
+          "title": "記事一覧",
+          "date": "2026-11-24",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.bravelupus.com/",
+        "https://www.bravelupus.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -57,8 +143,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4412/",
+          "title": "2026.11.22 コラム プレシーズン静岡BR戦マッチレポート",
+          "date": "2026-11-22",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -69,8 +164,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 27,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.honda-heat.jp/news/2499/",
+          "title": "試合概要 2026.11.24 【トレーニングマッチ】12/5(土) 埼玉パナソニックワイルドナイツ戦 試合案内",
+          "date": "2026-11-24",
+          "category": null
+        },
+        {
+          "url": "https://www.honda-heat.jp/news/2498/",
+          "title": "試合概要 2026.11.24 【トレーニングマッチ：非公開試合】12月4日 ヤクルトレビンズ戸田戦 試合案内",
+          "date": "2026-11-24",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.honda-heat.jp/",
+        "https://www.honda-heat.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -81,7 +192,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261124.html",
+          "title": "2026-11-24 南アフリカ代表｜アレンゼ選手、スプリングボクスの一員として決勝へ 背番号14で4試合連続先発",
+          "date": "2026-11-24",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.mhi.com/jp/company/sports/dynaboars/",
         "https://www.mhi.com/jp/company/sports/dynaboars/news"
@@ -95,9 +213,32 @@
       "official_url": "https://www.canon-eagles.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 15,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 13,
+      "new_items": [
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20261124.html",
+          "title": "2026.11.24 TEAM 古川聖人選手の一時離脱について",
+          "date": "2026-11-24",
+          "category": "roster"
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20261124-2.html",
+          "title": "2026.11.24 TEAM 11/28（土）練習試合をYouTubeで配信します",
+          "date": "2026-11-24",
+          "category": null
+        },
+        {
+          "url": "https://www.canon-eagles.jp/news/info/20261123.html",
+          "title": "2026.11.23 TEAM 横浜キヤノンイーグルスの選手が南アフリカ代表としてフランス代表戦に出場します",
+          "date": "2026-11-23",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.canon-eagles.jp/",
+        "https://www.canon-eagles.jp/news/",
+        "https://www.canon-eagles.jp/news/info/2026.html"
+      ],
       "rename_signals": []
     },
     {
@@ -108,8 +249,23 @@
       "status": "ok",
       "first_run": false,
       "item_count": 5,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261124a.html",
+          "title": "令和8年度 東京都都民安全総合対策本部長 感謝状を受賞しました",
+          "date": "2026-11-24",
+          "category": null
+        },
+        {
+          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261124b.html",
+          "title": "プレシーズンマッチ 浦安D-Rocks戦 新グッズ販売のお知らせ",
+          "date": "2026-11-24",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blackrams-tokyo.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -120,8 +276,24 @@
       "status": "ok",
       "first_run": false,
       "item_count": 60,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kubota-spears.com/calendar/006/2026/1121/1300_00.html",
+          "title": "2026.11.24 ニュース・トピックス",
+          "date": "2026-11-24",
+          "category": null
+        },
+        {
+          "url": "https://www.kubota-spears.com/goods/2026/11/24/150000.html",
+          "title": "2026.10.28 グッズ",
+          "date": "2026-10-28",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kubota-spears.com/",
+        "https://www.kubota-spears.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -132,7 +304,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 28,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.shizuoka-bluerevs.com/news/3285",
+          "title": "2026.11.24[TUE] TEAM 2026-27シーズンのキャプテンとリーダーが決定",
+          "date": "2026-11-24",
+          "category": "roster"
+        }
+      ],
       "changed_pages": [
         "https://www.shizuoka-bluerevs.com/",
         "https://www.shizuoka-bluerevs.com/news"
@@ -171,8 +350,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.kyudenvoltex.com/news/1026",
+          "title": "地域・社会貢献 2026年11月24日 NEW QTnetラグビー体験会に参加しました",
+          "date": "2026-11-24",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.kyudenvoltex.com/",
+        "https://www.kyudenvoltex.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -183,8 +372,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 47,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blue-sharks.jp/activity/2026/10/25546/",
+          "title": "１０月７日 「タグラグビー教室」開催のご報告",
+          "date": "2026-10-25",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/topics/"
+      ],
       "rename_signals": []
     },
     {
@@ -227,7 +426,8 @@
       "item_count": 24,
       "new_items": [],
       "changed_pages": [
-        "https://hanazono-liners.jp/"
+        "https://hanazono-liners.jp/",
+        "https://hanazono-liners.jp/news/"
       ],
       "rename_signals": []
     },
@@ -239,8 +439,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 12,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-11-24/",
+          "title": "千代田運輸株式会社とクラブパートナー契約を継続締結しました",
+          "date": "2026-11-24",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/",
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -251,9 +461,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 42,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://docomo-rugby.jp/news/detail.html?id=9004",
+          "title": "お知らせ 2026年11月24日 ラグビー体験イベント in ららぽーと堺 開催のお知らせ",
+          "date": "2026-11-24",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://docomo-rugby.jp/"
+        "https://docomo-rugby.jp/",
+        "https://docomo-rugby.jp/news/"
       ],
       "rename_signals": []
     },
@@ -265,7 +483,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 46,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kurita-watergush.jp/20261124-2/",
+          "title": "私とWATER GUSH #39 田草川恵 PR「これがクリタだ！」と言える戦いを 2026/11/24",
+          "date": "2026-11-24",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -281,7 +506,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -304,8 +532,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 45,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.skyactivs.com/news/5102",
+          "title": "2026.11.24[TUE] FAN CLUB プレミアム会員、レギュラー会員特典 ホスト試合解説付き特別席についてのご案内",
+          "date": "2026-11-24",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news"
+      ],
       "rename_signals": []
     },
     {
@@ -329,7 +567,9 @@
       "first_run": false,
       "item_count": 11,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://leriro-fukuoka.com/"
+      ],
       "rename_signals": []
     }
   ],
@@ -371,7 +611,29 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "浦安D-Rocks",
+      "url": "https://urayasu-d-rocks.com/news/partner/index_2097.html",
+      "title": "パートナー 2026.11.24 東亜道路工業株式会社との ネイビーパートナーシップ契約締結のお知らせ",
+      "date": "2026-11-24",
+      "category": "roster"
+    },
+    {
+      "source": "横浜キヤノンイーグルス",
+      "url": "https://www.canon-eagles.jp/news/info/20261124.html",
+      "title": "2026.11.24 TEAM 古川聖人選手の一時離脱について",
+      "date": "2026-11-24",
+      "category": "roster"
+    },
+    {
+      "source": "静岡ブルーレヴズ",
+      "url": "https://www.shizuoka-bluerevs.com/news/3285",
+      "title": "2026.11.24[TUE] TEAM 2026-27シーズンのキャプテンとリーダーが決定",
+      "date": "2026-11-24",
+      "category": "roster"
+    }
+  ],
   "league_rename_news": [
     {
       "url": "https://league-one.jp/news/6272",

@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "トヨタヴェルブリッツ",
   "official_url": "https://verblitz.toyotatimes-sports.toyota/",
-  "checked_at": "2026-11-24T07:19:02+09:00",
+  "checked_at": "2026-11-24T23:44:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/",
-      "hash": "08b874c6aab13daa"
+      "hash": "4b4ab81684f8e032"
     }
   ],
   "items": [
     {
+      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4412/",
+      "title": "2026.11.22 コラム プレシーズン静岡BR戦マッチレポート",
+      "date": "2026-11-22"
+    },
+    {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4411/",
-      "title": "2026.11.23 Pre-season Match Report vs Yamaha Shizuoka Blue Revs",
-      "date": "2026-11-23"
+      "title": "2026.11.22 Pre-season Match Report vs Yamaha Shizuoka Blue Revs",
+      "date": "2026-11-22"
     },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4410/",
@@ -42,11 +47,6 @@
       "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4404/",
       "title": "2026.11.16 チケット・ファンクラブ 試合情報 【ファミリー会員限定】キッズガチャ実施のお知らせ",
       "date": "2026-11-16"
-    },
-    {
-      "url": "https://verblitz.toyotatimes-sports.toyota/contents/news/team_feed-verblitz-blog-4398/",
-      "title": "2026.11.13 チケット・ファンクラブ 【試合情報・チケット】1/9(土)栃木H戦 3階スペシャルシート with ゴリパラ 販売決定！",
-      "date": "2026-11-13"
     },
     {
       "url": "https://verblitz.toyotatimes-sports.toyota/teams/contents/verblitz/news/team_feed-verblitz-blog-4241",

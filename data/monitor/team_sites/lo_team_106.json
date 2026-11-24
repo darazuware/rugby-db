@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-11-24T07:19:02+09:00",
+  "checked_at": "2026-11-24T23:44:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "2fcc25aec798c60c"
+      "hash": "b56dfa506e700550"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "6a4229fc4ad6be92"
+      "hash": "a5f65daf3636eb01"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261124.html",
+      "title": "2026-11-24 南アフリカ代表｜アレンゼ選手、スプリングボクスの一員として決勝へ 背番号14で4試合連続先発",
+      "date": "2026-11-24"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261120.html",
       "title": "2026-11-20 チケット本日発売｜12/27（日）NIGITAで年越しマッチデー（vsB武蔵）試合後に花火 ※一般販売11/25（水）",
@@ -54,7 +59,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/tm2026-3",
-      "title": "2026-11-12 トレーニングマッチ vs日野レッドドルフィンズ,12/4(金)｜試合情報掲載 ※非公開となります",
+      "title": "2026-11-12 [ チーム ] トレーニングマッチ vs日野レッドドルフィンズ,12/4(金)｜試合情報掲載 ※非公開となります",
       "date": "2026-11-12"
     },
     {
@@ -210,11 +215,6 @@
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260910.html-1",
       "title": "2026-09-10 [ チーム ] 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（9/12）に14番で先発出場予定",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260910.html",
-      "title": "2026-09-10 [ チーム ] 2026-27プレシーズン 全5試合の日程が決定",
       "date": "2026-09-10"
     }
   ]

@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-11-24T07:19:02+09:00",
+  "checked_at": "2026-11-24T23:44:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "e8338d9fd591a499"
+      "hash": "08a6bc2bd77e63f1"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "037d652e12d05c87"
+      "hash": "bdd95091b6dd9dac"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
@@ -29,6 +29,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.skyactivs.com/news/5102",
+      "title": "2026.11.24[TUE] FAN CLUB プレミアム会員、レギュラー会員特典 ホスト試合解説付き特別席についてのご案内",
+      "date": "2026-11-24"
+    },
     {
       "url": "https://www.skyactivs.com/news/5092",
       "title": "2026.11.19[THU] GAME 【メンバー発表】vs丸和MOMOTARO’S成田",
@@ -222,11 +227,6 @@
     {
       "url": "https://www.skyactivs.com/news/4415",
       "title": "2026.07.08[WED] OTHERS 2025-26シーズン パートナー様「感謝の会」を開催しました",
-      "date": "2026-07-08"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/4409",
-      "title": "2026.07.08[WED] GAME 「ジャパンラグビー リーグワン ライジング2026」開催決定のお知らせ",
       "date": "2026-07-08"
     },
     {

@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-11-24T07:19:02+09:00",
+  "checked_at": "2026-11-24T23:44:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "d7faf760f078cfa9"
+      "hash": "aef2469d941bd25f"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "ae1eb73c62a88ba7"
+      "hash": "7fa47d452b678615"
     }
   ],
   "items": [
     {
       "url": "https://www.kyudenvoltex.com/news/1025",
-      "title": "試合情報 2026年11月20日 【プレシーズンマッチ】11/28(土)川越狭山RG戦のお知らせ",
-      "date": "2026-11-20"
+      "title": "チケット・ 試合情報",
+      "date": "2026-11-28"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/1026",
+      "title": "地域・社会貢献 2026年11月24日 NEW QTnetラグビー体験会に参加しました",
+      "date": "2026-11-24"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1024",
@@ -106,11 +111,6 @@
       "url": "https://www.kyudenvoltex.com/news/1010",
       "title": "地域・社会貢献 2026年10月07日 「福岡市認知症月間特別企画 ラグビーイベント/喜連選手講演会」",
       "date": "2026-10-07"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/1009",
-      "title": "地域・社会貢献 2026年10月06日 「春日市スポーツフェスタ フットボールフェスタ」に参加しました",
-      "date": "2026-10-06"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1007",

@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-11-24T07:19:02+09:00",
+  "checked_at": "2026-11-24T23:44:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "6c7488a79449a569"
+      "hash": "0209f6b21c9d9bc0"
     },
     {
       "url": "https://blue-sharks.jp/topics/",
-      "hash": "b3881d16df0bc3d6"
+      "hash": "8fcf9352f4773dbb"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
@@ -34,11 +34,6 @@
     {
       "url": "https://blue-sharks.jp/match-report/2026/11/27108/",
       "title": "マッチレポート",
-      "date": "2026-11-27"
-    },
-    {
-      "url": "https://blue-sharks.jp/activity/2026/11/27114/",
-      "title": "11月19日「ラグビー交流教室」開催のご報告",
       "date": "2026-11-27"
     },
     {
@@ -109,6 +104,11 @@
     {
       "url": "https://blue-sharks.jp/activity/2026/10/25617/",
       "title": "10月15日 「タグラグビー教室」開催のご報告",
+      "date": "2026-10-25"
+    },
+    {
+      "url": "https://blue-sharks.jp/activity/2026/10/25546/",
+      "title": "１０月７日 「タグラグビー教室」開催のご報告",
       "date": "2026-10-25"
     },
     {

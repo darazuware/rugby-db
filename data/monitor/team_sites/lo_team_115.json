@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-11-24T07:19:02+09:00",
+  "checked_at": "2026-11-24T23:44:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hino-reddolphins.com/",
-      "hash": "e30dcdbfba3911b6"
+      "hash": "5ae999d200b9e5b1"
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "b64f92d5bde82f02"
+      "hash": "ad6b873b2dbc4545"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-11-24/",
+      "title": "千代田運輸株式会社とクラブパートナー契約を継続締結しました",
+      "date": "2026-11-24"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-11-20/",
       "title": "株式会社フィールド・パートナーズとクラブパートナー契約を継続締結しました",
@@ -71,11 +76,6 @@
       "url": "https://hino-reddolphins.com/2026-11-05/",
       "title": "11月15日（日）日野市産業まつりに参加します",
       "date": "2026-11-05"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-11-04/",
-      "title": "11月14日（土）イオンモール多摩平の森『たまもりスポーツイベント』に参加します",
-      "date": "2026-11-04"
     }
   ]
 }

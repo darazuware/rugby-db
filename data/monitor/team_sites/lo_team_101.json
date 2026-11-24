@@ -3,28 +3,68 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-11-24T07:19:02+09:00",
+  "checked_at": "2026-11-24T23:44:06+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "01ad8374fca7913f"
+      "hash": "ad97778d6e47602d"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "67e9ef064e9f9a61"
+      "hash": "cd8f40e6c0bf77b6"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "45626ea6dbfdfc13"
+      "hash": "866c898f7b3c040f"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "66f247765a0a374a"
+      "hash": "1c1c150025d9535b"
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post36946/",
+      "title": "2026/11/24 社会貢献 令和8年度「第19回 U18合同チーム東西対抗戦」担当コーチ派遣のお知らせ",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36945/",
+      "title": "2026/11/24 チーム 大町 佳生選手が「ファンが選ぶRISING of The Year」を受賞しました",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36937/",
+      "title": "2026/11/24 メディア 11月27日(金)・12月4日(金) FM COCOLO「M’s Groove Friday」大畑 大介アンバサダーのコーナー「Tide&Try」に上ノ坊 駿介選手が出演します！",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36881/",
+      "title": "2026/11/24 お知らせ サーバーメンテナンスのお知らせ",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36876/",
+      "title": "2026/11/24 イベント 【選手イベント参加情報】神戸三宮センター街でチームPR活動を実施します",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36862/",
+      "title": "2026/11/24 普及 【レポート】神戸市立小部東小学校でタグラグビー教室を実施しました",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36858/",
+      "title": "2026/11/24 グッズ 2026-27シーズン 会場受取サービス実施のお知らせ",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36854/",
+      "title": "2026/11/24 イベント NTTリーグワン2026-27 ホストゲームでの「お楽しみLINE抽選会」実施のお知らせ",
+      "date": "2026-11-24"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post36869/",
       "title": "2026/11/20 社会貢献 【レポート】山下 裕史選手が兵庫県東灘警察署の一日署長として「年末事件事故防止」の啓発活動を行いました",
@@ -184,46 +224,6 @@
       "url": "https://www.kobesteelers.com/news/post36063/",
       "title": "2026/11/9 イベント 【レポート】10月31日(土)「第10回神戸パン祭り」に参加しました",
       "date": "2026-11-09"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35841/",
-      "title": "2026/11/9 ファンクラブ 11月28日(土)プレミアム会員/ゴールド会員/リモート＋G会員限定 プレシーズンマッチ観戦スタンド利用希望者募集のお知らせ",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://www.kobesteelers.com/interview/post36149/",
-      "title": "2026/11/9 チーム 【試合レポート】11月7日(土) プレシーズンマッチ JR東日本グリーンウォリアーズ東葛戦",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post36092/",
-      "title": "2026/11/6 普及 【レポート】神戸市立摩耶小学校でタグラグビー教室を実施しました",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post36073/",
-      "title": "2026/11/5 メディア 11月6日(金) コベルコ神戸スティーラーズに関する特集放送のお知らせ",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post36005/",
-      "title": "2026/11/5 普及 【レポート】KOBELCOスポーツパークでラグビー教室を実施しました",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post36004/",
-      "title": "2026/11/5 チーム 11月7日(土)「ネーションズチャンピオンシップ2026」ウェールズ代表戦メンバー選出のお知らせ",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://www.kobesteelers.com/game/post34942/",
-      "title": "2026/11/5 試合 11月7日(土)プレシーズンマッチJR東日本グリーンウォリアーズ東葛戦 出場メンバーのお知らせ",
-      "date": "2026-11-05"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post35842/",
-      "title": "2026/11/4 イベント 【更新】コベルコ神戸スティーラーズフェスタ2026プログラム決定！",
-      "date": "2026-11-04"
     },
     {
       "url": "https://www.kobesteelers.com/news/post35838/",
