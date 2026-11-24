@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-23T19:14:05+09:00",
+  "checked_at": "2026-11-24T20:57:36+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,14 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6276",
-          "title": "お知らせ ジャパンラグビー リーグワン ライジング2026 「ファンが選ぶRISING of The Year」受賞者決定のお知らせ 2026.11.23",
-          "date": "2026-11-23",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": [
         {
           "url": "https://league-one.jp/news/6272",
@@ -34,16 +27,40 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54350",
-          "title": "第19回U18合同チーム東西対抗戦 出場予定選手のお知らせ 2026.11.23 （月） 高校",
-          "date": "2026-11-23",
+          "url": "https://www.rugby-japan.jp/news/54357",
+          "title": "（通達）「こども性暴力防止法」の施行に向けた制度の周知について 2026.11.24 （火） 通達",
+          "date": "2026-11-24",
           "category": null
         },
         {
-          "url": "https://www.rugby-japan.jp/news/54349",
-          "title": "令和8年度全国高等学校総合体育大会 第106回全国高等学校ラグビーフットボール大会 開催のお知らせ 2026.11.23 （月） 高校",
-          "date": "2026-11-23",
+          "url": "https://www.rugby-japan.jp/news/54356",
+          "title": "（通達）「2026コンプライアンスアンケート」実施結果について 2026.11.24 （火） 通達",
+          "date": "2026-11-24",
           "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54355",
+          "title": "未就学児向けラグビーキャラバン事業 「Canterbury Rugby Little Playfield in 新潟市東総合スポーツセンター」 実施のお知らせ 2026.11.24 （火）",
+          "date": "2026-11-24",
+          "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54354",
+          "title": "レポート：女子セブンズ日本代表（サクラセブンズ）UAE遠征 2026.11.24 （火） 女子セブンズ日本代表 女子 セブンズ HSBC SVNS",
+          "date": "2026-11-24",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54348",
+          "title": "（11/24更新）レポート：第80回男子セブンズユースアカデミー 2026.11.24 （火） アカデミー・強化育成 セブンズ 高校 男子 男子セブンズ セブンズユース ユースアカデミー",
+          "date": "2026-11-24",
+          "category": null
+        },
+        {
+          "url": "https://www.rugby-japan.jp/news/54312",
+          "title": "（11/24更新）ネーションズチャンピオンシップ2026 放送・配信予定（11月）のお知らせ 2026.11.24 （火） 15人制男子日本代表 WBB",
+          "date": "2026-11-24",
+          "category": "squad"
         }
       ],
       "rename_signals": []
@@ -59,7 +76,22 @@
       "rename_signals": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54354",
+      "title": "レポート：女子セブンズ日本代表（サクラセブンズ）UAE遠征 2026.11.24 （火） 女子セブンズ日本代表 女子 セブンズ HSBC SVNS",
+      "date": "2026-11-24",
+      "category": "squad"
+    },
+    {
+      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
+      "url": "https://www.rugby-japan.jp/news/54312",
+      "title": "（11/24更新）ネーションズチャンピオンシップ2026 放送・配信予定（11月）のお知らせ 2026.11.24 （火） 15人制男子日本代表 WBB",
+      "date": "2026-11-24",
+      "category": "squad"
+    }
+  ],
   "league_rename_news": [
     {
       "url": "https://league-one.jp/news/6272",
