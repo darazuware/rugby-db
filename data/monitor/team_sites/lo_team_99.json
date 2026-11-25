@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-11-25T05:56:51+09:00",
+  "checked_at": "2026-11-25T20:03:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "5de7e4dd3cc4a4c9"
+      "hash": "31e90f5a2b638054"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "60824a3727b31d97"
+      "hash": "e33fa8491022d69b"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/824.html",
+      "title": "2026年 11月25日 Day824 『 ファンクラブ限定＜練習見学イベント＞開催♪ 』",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/NJRLO2627TSA.html",
+      "title": "2026年 11月25日 【チケット情報】東京サンゴリアスホストゲームチケット概要のご案内（11月25日情報更新） （2026/11/25 情報更新）第10節の試合日程および試合会場が決定しましたので更新しました。 -----…",
+      "date": "2026-11-25"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMvRBRTV.html",
       "title": "2026年 11月21日 2026 TRAINING MATCH vs リコーブラックラムズ東京 試合結果",
@@ -53,11 +63,6 @@
       "date": "2026-11-14"
     },
     {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2611-1042.html",
-      "title": "2026年 11月13日 #1042 平生 翔大 『誰よりもひたむきに泥臭くプレーする』",
-      "date": "2026-11-13"
-    },
-    {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/djinr.html",
       "title": "2026年 11月13日 DAZN Japan Investment合同会社とオフィシャルパートナー契約締結のお知らせ いつも東京サントリーサンゴリアスへの温かいご声援ありがとうございます。 この度、2026年11月1日付で東京サ…",
       "date": "2026-11-13"
@@ -71,11 +76,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/cmrf26svcfs.html",
       "title": "2026年 11月 8日 秩父宮みなとラグビーまつり2026 supported by SMBC フレンドシップマッチ 東京サンゴリアスvsチーフス戦のご案内 秩父宮みなとラグビーまつり2026 supported by SMBCフレンドシップマッチ ■試合日時 2…",
       "date": "2026-11-08"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/NJRLO2627TSA.html",
-      "title": "2026年 11月 6日 【チケット情報】東京サンゴリアスホストゲームチケット概要のご案内（11月6日情報更新） （2026/11/6 情報更新）第4節～第9節のキックオフ時間が決定しましたので更新しました。 -------…",
-      "date": "2026-11-06"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/227n1jlr.html",

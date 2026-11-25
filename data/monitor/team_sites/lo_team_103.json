@@ -3,28 +3,38 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-11-25T05:56:51+09:00",
+  "checked_at": "2026-11-25T20:03:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "b8b178b958492f9e"
+      "hash": "b08cf3506ac3a024"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "eb654d4e971ba237"
+      "hash": "cacd65bd6085b067"
     }
   ],
   "items": [
     {
-      "url": "https://www.bravelupus.com/news/261124/",
-      "title": "新商品グッズ数量限定先行販売のお知らせ",
-      "date": "2026-11-24"
+      "url": "https://www.bravelupus.com/news/all_story/",
+      "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.209更新）",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/260909/",
+      "title": "NTTジャパンラグビー リーグワン2026-27 ディビジョン1 試合日程・会場決定のお知らせ ※14節の会場が発表されました",
+      "date": "2026-11-25"
     },
     {
       "url": "https://www.bravelupus.com/news/",
       "title": "記事一覧",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261124/",
+      "title": "新商品グッズ数量限定先行販売のお知らせ",
       "date": "2026-11-24"
     },
     {
@@ -53,19 +63,9 @@
       "date": "2026-11-10"
     },
     {
-      "url": "https://www.bravelupus.com/news/260909/",
-      "title": "NTTジャパンラグビー リーグワン2026-27 ディビジョン1 試合日程・会場決定のお知らせ ※4～9節のキックオフ時間が確定しました",
-      "date": "2026-11-06"
-    },
-    {
       "url": "https://www.bravelupus.com/news/260901/",
       "title": "2026-27シーズン プレシーズンマッチのお知らせ※11/14(土)・11/21(土) キックオフ時間更新しました。",
       "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/all_story/",
-      "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.209更新）",
-      "date": "2026-11-05"
     },
     {
       "url": "https://www.bravelupus.com/news/261105/",

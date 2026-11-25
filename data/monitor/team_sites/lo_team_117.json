@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-25T05:56:51+09:00",
+  "checked_at": "2026-11-25T20:03:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "814d27979386e5df"
+      "hash": "5cd65725c74cb7f3"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "3459e424a9dad2c3"
+      "hash": "c1c8adae33cb4e07"
     }
   ],
   "items": [
@@ -40,7 +40,12 @@
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-24"
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261125-2/",
+      "title": "私とWATER GUSH #40 杉原駿 SH 幼稚園から続くラグビー一筋の道 2026/11/25",
+      "date": "2026-11-25"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261124-2/",
@@ -69,7 +74,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261120-3/",
-      "title": "お知らせ 2026/11/20 11月28日（土）プレシーズンマッチ 中国電力レッドレグリオンズ戦イベントのご案内（※11月24日更新）",
+      "title": "お知らせ 2026/11/20 11月28日（土）プレシーズンマッチ 中国電力レッドレグリオンズ戦イベントのご案内（※11月25日更新）",
       "date": "2026-11-20"
     },
     {
@@ -84,7 +89,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261118-2/",
-      "title": "私とWATER GUSH #33 椎名耀二 LO/FL”成果で示す”ラグビー人生 2026/11/18",
+      "title": "私とウォーターガッシュ 公開日：2026/11/18 私とWATER GUSH #33 椎名耀二 LO/FL”成果で示す”ラグビー人生 今回の”私とWATER GUSH”は加入して3年目を迎えるLO/FLの椎名耀二選手。フォワードの中でも運動量とフィジ… 続きを読む",
       "date": "2026-11-18"
     },
     {
@@ -241,11 +246,6 @@
       "url": "https://www.kurita-watergush.jp/20261022-2/",
       "title": "私とウォーターガッシュ 公開日：2026/10/22 私とWATER GUSH #10 山口竜誠 FL/No8 悔しさを原動力に、仕事もラグビーも全力で。 今回の”私とWATER GUSH”は、2026年に帝京大学からチームに加わった山口竜誠選手。入団から半年が経過し、… 続きを読む",
       "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261021-2/",
-      "title": "私とウォーターガッシュ 公開日：2026/10/21 私とWATER GUSH #9 小山田裕悟 SH 「結果で恩返しする」仕事とラグビーに全力で挑む1年目 選手のラグビーとの出会い、クリタでラグビーをする想いにせまる”私とWATER GUSH”。今回ご紹介するのは、2… 続きを読む",
-      "date": "2026-10-21"
     }
   ]
 }

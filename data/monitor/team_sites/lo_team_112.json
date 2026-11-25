@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-11-25T05:56:51+09:00",
+  "checked_at": "2026-11-25T20:03:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "a0dc49fb6cde1a77"
+      "hash": "5b3ee83c069e0c08"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "077a9be6a2da1e7e"
+      "hash": "54788c7666ce5842"
     }
   ],
   "items": [

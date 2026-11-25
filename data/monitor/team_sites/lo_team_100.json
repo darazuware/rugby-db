@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-11-25T05:56:51+09:00",
+  "checked_at": "2026-11-25T20:03:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "3eef5dd504ef3446"
+      "hash": "e9f1d438e80155f7"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "8fc0492474c4bbac"
+      "hash": "885b591fc44392d7"
     }
   ],
   "items": [
+    {
+      "url": "https://urayasu-d-rocks.com/news/game/index_2103.html",
+      "title": "ゲーム 2026.11.25 2026-27シーズン 第16節 日程および会場決定のお知らせ",
+      "date": "2026-11-25"
+    },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2097.html",
       "title": "パートナー 2026.11.24 東亜道路工業株式会社との ネイビーパートナーシップ契約締結のお知らせ",
@@ -54,7 +59,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2094.html",
-      "title": "ゲーム 2026.11.19 【メンバー発表】2026-27シーズン プレシーズンマッチ④ 東芝ブレイブルーパス武蔵戦（11月21日）",
+      "title": "2026.11.19 ニュース 【メンバー発表】2026-27シーズン プレシーズンマッチ④ 東芝ブレイブルーパス武蔵戦（11月21日）",
       "date": "2026-11-19"
     },
     {
@@ -69,32 +74,32 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2090.html",
-      "title": "2026.11.18 チーム 2026-27シーズン 新加入選手（追加）のお知らせ",
+      "title": "2026.11.18 ニュース 2026-27シーズン 新加入選手（追加）のお知らせ",
       "date": "2026-11-18"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/goods/index_2092.html",
-      "title": "2026.11.18 グッズ 選手プロデュース チームグッズブランド『D-ESSENCE』新体制決定および新商品販売のお知らせ",
+      "title": "2026.11.18 ニュース 選手プロデュース チームグッズブランド『D-ESSENCE』新体制決定および新商品販売のお知らせ",
       "date": "2026-11-18"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_2089.html",
-      "title": "2026.11.18 ファンクラブ 「D-Rockersクラファン」第1弾 宮崎合宿の食事支援 ご支援の総額と使い道のご報告",
+      "title": "2026.11.18 ニュース 「D-Rockersクラファン」第1弾 宮崎合宿の食事支援 ご支援の総額と使い道のご報告",
       "date": "2026-11-18"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2071.html",
-      "title": "2026.11.16 ゲーム 【更新】11月21日(土) プレシーズンマッチ vs 東芝ブレイブルーパス武蔵 ホストゲーム情報",
+      "title": "2026.11.16 ニュース 【更新】11月21日(土) プレシーズンマッチ vs 東芝ブレイブルーパス武蔵 ホストゲーム情報",
       "date": "2026-11-16"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2087.html",
-      "title": "2026.11.13 パートナー 2026.10.30 浦安D-Rocks 2026-27シーズン キックオフパーティーを開催しました",
+      "title": "2026.11.13 ニュース 2026.10.30 浦安D-Rocks 2026-27シーズン キックオフパーティーを開催しました",
       "date": "2026-11-13"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2086.html",
-      "title": "2026.11.13 パートナー オリックス株式会社とのシルバーパートナーシップ契約締結のお知らせ",
+      "title": "2026.11.13 ニュース オリックス株式会社とのシルバーパートナーシップ契約締結のお知らせ",
       "date": "2026-11-13"
     },
     {
@@ -104,12 +109,12 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2085.html",
-      "title": "2026.11.11 イベント 2026.11.9 「青少年館まつり」に参加しました",
+      "title": "2026.11.11 ニュース 2026.11.9 「青少年館まつり」に参加しました",
       "date": "2026-11-11"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2084.html",
-      "title": "2026.11.09 イベント 2026.11.18 浦安Dパーク開放イベント「ウェルネスプロジェクト～アニマルフロー～」実施のお知らせ",
+      "title": "2026.11.09 ニュース 2026.11.18 浦安Dパーク開放イベント「ウェルネスプロジェクト～アニマルフロー～」実施のお知らせ",
       "date": "2026-11-09"
     },
     {
@@ -119,47 +124,47 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2083.html",
-      "title": "2026.11.05 イベント 2026.11.1 宮崎市・都城市にてラグビークリニックを開催しました",
+      "title": "2026.11.05 ニュース 2026.11.1 宮崎市・都城市にてラグビークリニックを開催しました",
       "date": "2026-11-05"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2078.html",
-      "title": "2026.11.04 パートナー 株式会社Reg.andとのネイビーパートナーシップ契約締結のお知らせ",
+      "title": "2026.11.04 ニュース 株式会社Reg.andとのネイビーパートナーシップ契約締結のお知らせ",
       "date": "2026-11-04"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2077.html",
-      "title": "2026.11.02 パートナー 株式会社ねこのてとのネイビーパートナーシップ契約締結のお知らせ",
+      "title": "2026.11.02 ニュース 株式会社ねこのてとのネイビーパートナーシップ契約締結のお知らせ",
       "date": "2026-11-02"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2061.html",
-      "title": "2026.10.30 チーム 2026-27シーズン ジャージーデザイン決定のお知らせ",
+      "title": "2026.10.30 ニュース 2026-27シーズン ジャージーデザイン決定のお知らせ",
       "date": "2026-10-30"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/goods/index_2070.html",
-      "title": "2026.10.30 グッズ 2026-27シーズン レプリカジャージー受注販売開始のお知らせ",
+      "title": "2026.10.30 ニュース 2026-27シーズン レプリカジャージー受注販売開始のお知らせ",
       "date": "2026-10-30"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_2075.html",
-      "title": "2026.10.30 ファンクラブ 2026.11.14「第2回 Club D-Rockers交流会」開催のお知らせ",
+      "title": "2026.10.30 ニュース 2026.11.14「第2回 Club D-Rockers交流会」開催のお知らせ",
       "date": "2026-10-30"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_2074.html",
-      "title": "2026.10.30 ファンクラブ 2026.11.14「D-Rockersテーマ別対話会（試合イベントの部）」開催のお知らせ",
+      "title": "2026.10.30 ニュース 2026.11.14「D-Rockersテーマ別対話会（試合イベントの部）」開催のお知らせ",
       "date": "2026-10-30"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/event/index_2076.html",
-      "title": "2026.10.30 イベント 2026.10.18 浦安青年会議所×浦安D-Rocks 「すすめ！うらやす ONE TEAM ～みんなで創る防災フェス！～」を開催しました",
+      "title": "2026.10.30 ニュース 2026.10.18 浦安青年会議所×浦安D-Rocks 「すすめ！うらやす ONE TEAM ～みんなで創る防災フェス！～」を開催しました",
       "date": "2026-10-30"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2072.html",
-      "title": "2026.10.29 パートナー アサヒグループ食品株式会社とのオフィシャルサプライヤー契約締結のお知らせ",
+      "title": "2026.10.29 ニュース アサヒグループ食品株式会社とのオフィシャルサプライヤー契約締結のお知らせ",
       "date": "2026-10-29"
     },
     {
@@ -169,52 +174,47 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2069.html",
-      "title": "2026.10.28 チーム 2026.11 トレーニング公開日のお知らせ",
+      "title": "2026.10.28 ニュース 2026.11 トレーニング公開日のお知らせ",
       "date": "2026-10-28"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/goods/index_2067.html",
-      "title": "2026.10.27 グッズ 浦安D-Rocks公式オンラインショップ リニューアルに伴う移行期間とサイト閉鎖のお知らせ",
+      "title": "2026.10.27 ニュース 浦安D-Rocks公式オンラインショップ リニューアルに伴う移行期間とサイト閉鎖のお知らせ",
       "date": "2026-10-27"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/partner/index_2063.html",
-      "title": "2026.10.26 パートナー 株式会社エヌ・エフ・ラボラトリーズとのネイビーパートナーシップ契約締結のお知らせ",
+      "title": "2026.10.26 ニュース 株式会社エヌ・エフ・ラボラトリーズとのネイビーパートナーシップ契約締結のお知らせ",
       "date": "2026-10-26"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2062.html",
-      "title": "2026.10.26 ゲーム 2026-27シーズン プレシーズンマッチ 日程更新のお知らせ（11/22 江東BS戦）",
+      "title": "2026.10.26 ニュース 2026-27シーズン プレシーズンマッチ 日程更新のお知らせ（11/22 江東BS戦）",
       "date": "2026-10-26"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_2066.html",
-      "title": "2026.10.24 ファンクラブ 2026.10.30「D-Rockersテーマ別対話会（試合イベントの部）」開催のお知らせ",
+      "title": "2026.10.24 ニュース 2026.10.30「D-Rockersテーマ別対話会（試合イベントの部）」開催のお知らせ",
       "date": "2026-10-24"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_2065.html",
-      "title": "2026.10.23 ファンクラブ 2026.10.29「第2回 Club D-Rockers交流会」開催のお知らせ",
+      "title": "2026.10.23 ニュース 2026.10.29「第2回 Club D-Rockers交流会」開催のお知らせ",
       "date": "2026-10-23"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2064.html",
-      "title": "2026.10.22 チーム ファンクラブ・チケット関連ページ メンテナンス完了および復旧のお知らせ",
+      "title": "2026.10.22 ニュース ファンクラブ・チケット関連ページ メンテナンス完了および復旧のお知らせ",
       "date": "2026-10-22"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_2060.html",
-      "title": "2026.10.22 ファンクラブ ファンクラブ・チケット関連ページ メンテナンスについて｜10月22日(木) 11:50時点",
+      "title": "2026.10.22 ニュース ファンクラブ・チケット関連ページ メンテナンスについて｜10月22日(木) 11:50時点",
       "date": "2026-10-22"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2058.html",
-      "title": "2026.10.21 ゲーム 【メンバー発表】2026-27シーズン プレシーズンマッチ③ トヨタヴェルブリッツ戦（10月23日）",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/game/index_2045.html",
-      "title": "2026.10.21 ゲーム 【更新】10月23日(金) プレシーズンマッチ vs トヨタヴェルブリッツ ホストゲーム情報",
+      "title": "2026.10.21 ニュース 【メンバー発表】2026-27シーズン プレシーズンマッチ③ トヨタヴェルブリッツ戦（10月23日）",
       "date": "2026-10-21"
     }
   ]

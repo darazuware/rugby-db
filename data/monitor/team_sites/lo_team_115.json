@@ -3,7 +3,7 @@
   "league": "league-one-d2",
   "name": "日野レッドドルフィンズ",
   "official_url": "https://hino-reddolphins.com/",
-  "checked_at": "2026-11-25T05:56:51+09:00",
+  "checked_at": "2026-11-25T20:03:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
@@ -13,10 +13,15 @@
     },
     {
       "url": "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20",
-      "hash": "ad6b873b2dbc4545"
+      "hash": "d080670638bcf150"
     }
   ],
   "items": [
+    {
+      "url": "https://hino-reddolphins.com/2026-11-25/",
+      "title": "11/11 羽村市役所へ表敬訪問しました",
+      "date": "2026-11-25"
+    },
     {
       "url": "https://hino-reddolphins.com/2026-11-24/",
       "title": "千代田運輸株式会社とクラブパートナー契約を継続締結しました",
@@ -71,11 +76,6 @@
       "url": "https://hino-reddolphins.com/2026-11-06/",
       "title": "11/21 プレシーズンマッチ ヤクルトレビンズ戸田戦 試合運営について",
       "date": "2026-11-06"
-    },
-    {
-      "url": "https://hino-reddolphins.com/2026-11-05/",
-      "title": "11月15日（日）日野市産業まつりに参加します",
-      "date": "2026-11-05"
     }
   ]
 }

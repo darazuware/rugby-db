@@ -3,20 +3,45 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-25T05:56:51+09:00",
+  "checked_at": "2026-11-25T20:03:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "2f3a52d05cc8b6a8"
+      "hash": "a974236186db7e7e"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "0983d2f5c4d72eed"
+      "hash": "ebf8ae17b644fe1f"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3282",
+      "title": "2026.11.25[WED] TICKET 1月16日(土)も［ペア観戦シート］でゆったり観戦！",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3281",
+      "title": "2026.11.25[WED] TICKET 新年恒例企画！ ガチャチケットで運だめし！",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3280",
+      "title": "2026.11.25[WED] TICKET 今年も登場！ いちご付きテーブルシート",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3279",
+      "title": "2026.11.25[WED] TICKET 1月と2月開催のホームゲーム2試合は11/30(月)から先行発売",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3278",
+      "title": "2026.11.25[WED] SPONSOR 第7節のマッチデーパートナーに日本軽金属ホールディングス株式会社が決定",
+      "date": "2026-11-25"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3285",
       "title": "2026.11.24[TUE] TEAM 2026-27シーズンのキャプテンとリーダーが決定",
@@ -108,11 +133,6 @@
       "date": "2026-11-06"
     },
     {
-      "url": "https://www.shizuoka-bluerevs.com/news/3256",
-      "title": "2026.11.5[THU] HOST AREA 【ホストエリア活動】令和8年度 第2回中堅職員研修会「未来塾シーズン2」にてタグラグビーでのチームビルディングを実施しました",
-      "date": "2026-11-05"
-    },
-    {
       "url": "https://www.shizuoka-bluerevs.com/news/3199",
       "title": "SCHOOL 2026/9/28 秋の新規入会キャンペーン",
       "date": "2026-09-28"
@@ -126,11 +146,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3188",
       "title": "EVENT 2026/9/16 愛車で静岡とホーム開幕戦を青く染めよう！",
       "date": "2026-09-16"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3165",
-      "title": "2026.9.9[WED] TEAM ホーム開幕は12月20日！NTTジャパンラグビー リーグワン2026-27日程決定！",
-      "date": "2026-09-09"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3167",

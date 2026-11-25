@@ -3,20 +3,25 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-11-25T05:56:51+09:00",
+  "checked_at": "2026-11-25T20:03:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "bed7a4f4a02fd0ae"
+      "hash": "9644c0374f1f3333"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
-      "hash": "6054ff37c4fb3185"
+      "hash": "042bf84e452de518"
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/2026/11/25/1113-pleace/",
+      "title": "2026.11.25 試合関連 NTTジャパンラグビー リーグワン2026-27 第11・13節試合会場について追加決定のお知らせ",
+      "date": "2026-11-25"
+    },
     {
       "url": "https://hanazono-liners.jp/shiaiyotei-kekka/",
       "title": "試合日程を見る",
@@ -39,7 +44,7 @@
     },
     {
       "url": "https://hanazono-liners.jp/2026/11/20/shotai-narashi/",
-      "title": "2026.11.20 その他 『カワモリ産業 presents 大阪府ダービー』奈良市民招待キャンペーンのお知らせ",
+      "title": "2026-11-20 その他 『カワモリ産業 presents 大阪府ダービー』奈良市民招待キャンペーンのお知らせ",
       "date": "2026-11-20"
     },
     {
@@ -96,11 +101,6 @@
       "url": "https://hanazono-liners.jp/2026/11/09/%e5%85%ac%e5%bc%8fline%e5%86%8d%e9%96%8b%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
       "title": "2026-11-09 その他 公式LINE再開のお知らせ",
       "date": "2026-11-09"
-    },
-    {
-      "url": "https://hanazono-liners.jp/2026/11/06/3-7kickofftime/",
-      "title": "2026-11-06 試合関連 NTTジャパンラグビー リーグワン2026-27 第3~7節キックオフ時間について追加決定のお知らせ",
-      "date": "2026-11-06"
     },
     {
       "url": "https://hanazono-liners.jp/2026/10/23/ticket-schedule/",

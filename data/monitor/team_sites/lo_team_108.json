@@ -3,16 +3,31 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-11-25T05:56:51+09:00",
+  "checked_at": "2026-11-25T20:03:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "4ea1526436fbddfb"
+      "hash": "2a110af4d6e43f3a"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261125b.html",
+      "title": "11月29日(日)「第11回 若林クラブフェスティバル」参加のお知らせ",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261125a.html",
+      "title": "11月28日(土)「2026駒沢ファンタジア」参加のお知らせ",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20261125c.html",
+      "title": "2026-27ブラックラムズ東京ファンクラブ『RAMOVE』来場登録のお知らせ",
+      "date": "2026-11-25"
+    },
     {
       "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261124a.html",
       "title": "令和8年度 東京都都民安全総合対策本部長 感謝状を受賞しました",
@@ -22,21 +37,6 @@
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261124b.html",
       "title": "プレシーズンマッチ 浦安D-Rocks戦 新グッズ販売のお知らせ",
       "date": "2026-11-24"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261120e.html",
-      "title": "【重要】プレシーズンマッチ 東京サントリーサンゴリアス戦 入場開始時間のお知らせ",
-      "date": "2026-11-20"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261120a.html",
-      "title": "プレシーズンマッチ 浦安D-Rocks戦 \"会場限定特典TJ・ペレナラ選手ブロマイド付!\" ラグビーマガジン発売のお知らせ",
-      "date": "2026-11-20"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20261120d.html",
-      "title": "ブラックラムズ東京ファンクラブ『RAMOVE』2026-27シーズン開幕記念！入会キャンペーンのお知らせ",
-      "date": "2026-11-20"
     }
   ]
 }

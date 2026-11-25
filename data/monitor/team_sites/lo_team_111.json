@@ -3,21 +3,21 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-11-25T05:56:51+09:00",
+  "checked_at": "2026-11-25T20:03:37+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "0209f6b21c9d9bc0"
+      "hash": "f2bc8983cd0aebd9"
     },
     {
       "url": "https://blue-sharks.jp/topics/",
-      "hash": "8fcf9352f4773dbb"
+      "hash": "85cf3f9e7f55f8ae"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "2d972088d190d145"
+      "hash": "c87efdd05e7dfb69"
     }
   ],
   "items": [
@@ -27,13 +27,28 @@
       "date": "2026-12-12"
     },
     {
+      "url": "https://blue-sharks.jp/news/2026/11/27172/",
+      "title": "【重要】ブルーシャークスアプリ システムメンテナンスのお知らせ（11/26〜12/2）",
+      "date": "2026-11-27"
+    },
+    {
       "url": "https://blue-sharks.jp/news/2026/11/27116/",
       "title": "新加入・役職変更・退団スタッフのお知らせ",
       "date": "2026-11-27"
     },
     {
+      "url": "https://blue-sharks.jp/match-report/2026/11/27164/",
+      "title": "マッチレポート",
+      "date": "2026-11-27"
+    },
+    {
       "url": "https://blue-sharks.jp/match-report/2026/11/27108/",
       "title": "マッチレポート",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://blue-sharks.jp/activity/2026/11/27167/",
+      "title": "11月19日「ラグビー交流教室」開催のご報告",
       "date": "2026-11-27"
     },
     {
@@ -73,7 +88,7 @@
     },
     {
       "url": "https://blue-sharks.jp/news/2026/10/25575/",
-      "title": "2026-27シーズン 新加入選手（追加）のお知らせ",
+      "title": "ニュース 2026-27シーズン 新加入選手（追加）のお知らせ",
       "date": "2026-10-25"
     },
     {
@@ -92,11 +107,6 @@
       "date": "2026-10-25"
     },
     {
-      "url": "https://blue-sharks.jp/match-report/2026/10/25508/",
-      "title": "◇ヤクルトレビンズ戸田戦マッチレポート",
-      "date": "2026-10-25"
-    },
-    {
       "url": "https://blue-sharks.jp/activity/2026/10/25692/",
       "title": "10月17日 「ラグビー体験教室」開催のご報告",
       "date": "2026-10-25"
@@ -104,11 +114,6 @@
     {
       "url": "https://blue-sharks.jp/activity/2026/10/25617/",
       "title": "10月15日 「タグラグビー教室」開催のご報告",
-      "date": "2026-10-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/activity/2026/10/25546/",
-      "title": "１０月７日 「タグラグビー教室」開催のご報告",
       "date": "2026-10-25"
     },
     {
@@ -204,11 +209,6 @@
     {
       "url": "https://blue-sharks.jp/news/2026/08/25186/",
       "title": "ニュース 2026-27 シーズンプレシーズンマッチスケジュール決定のお知らせ",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://blue-sharks.jp/news/2026/08/25063/",
-      "title": "ニュース 2026-27シーズン新体制のお知らせ",
       "date": "2026-08-25"
     },
     {
