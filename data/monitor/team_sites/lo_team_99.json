@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-11-25T23:07:04+09:00",
+  "checked_at": "2026-11-26T13:14:32+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "31e90f5a2b638054"
+      "hash": "0ecc4255a1de30d4"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "e33fa8491022d69b"
+      "hash": "28518bf56fb44178"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMSBRV.html",
+      "title": "2026年 11月26日 2026 TRAINING MATCH vs ヤマハ静岡ブルーレヴズ メンバー発表",
+      "date": "2026-11-26"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/smilecafe/2026c/824.html",
       "title": "2026年 11月25日 Day824 『 ファンクラブ限定＜練習見学イベント＞開催♪ 』",
@@ -211,11 +216,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/poqfta.html",
       "title": "2026年 5月10日 プレーオフトーナメントのチケット販売について（決定報） （※第18節終了時点でのご案内となります） いつも東京サンゴリアスへの温かいご声援ありがとうございます。 5月…",
       "date": "2026-05-10"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/lor18lhgrbrc.html",
-      "title": "2026年 5月 3日 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第18節 東京サントリーサンゴリアスvsリコーブラックラムズ東京戦のご案内 NTT JAPAN RUGBY LEAGUE ONE 2025-26 第18節 ※ホスト最終戦 ■試合日時…",
-      "date": "2026-05-03"
     }
   ]
 }

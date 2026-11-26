@@ -3,25 +3,20 @@
   "league": "league-one-d2",
   "name": "豊田自動織機シャトルズ愛知",
   "official_url": "https://shuttles-aichi.com/",
-  "checked_at": "2026-11-25T23:07:04+09:00",
+  "checked_at": "2026-11-26T13:14:32+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://shuttles-aichi.com/",
-      "hash": "5b3ee83c069e0c08"
+      "hash": "da1da6ef3c8b3eed"
     },
     {
       "url": "https://shuttles-aichi.com/news/",
-      "hash": "54788c7666ce5842"
+      "hash": "412b1d8540eabe09"
     }
   ],
   "items": [
-    {
-      "url": "https://shuttles-aichi.com/news/tokai-city-watanoi-elementary-school-tag-rugby-visit-lesson-activity-report/",
-      "title": "フォトギャラリー お知らせ 26年11月09日 東海市立渡内小学校 タグラグビー訪問授業 実施報告",
-      "date": "2026-11-21"
-    },
     {
       "url": "https://shuttles-aichi.com/news/obu-city-higashiyama-elementary-school-tag-rugby-visiting-lesson-implementation-report/",
       "title": "フォトギャラリー お知らせ 26年11月09日 大府市立東山小学校 タグラグビー訪問授業 実施報告",
@@ -45,6 +40,16 @@
     {
       "url": "https://shuttles-aichi.com/news/2026-11-21-sat-pre-season-match-vs-hanazono-kintetsu-liners-participating-members/",
       "title": "お知らせ 26年11月19日 2026/11/21(土) プレシーズンマッチ vs 花園近鉄ライナーズ 出場メンバー",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/12-4-notice-of-match-information/",
+      "title": "お知らせ 26年11月26日 12/4(金)試合情報のお知らせ",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://shuttles-aichi.com/news/",
+      "title": "ニュース一覧",
       "date": "2026-11-21"
     },
     {

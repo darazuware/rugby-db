@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "マツダスカイアクティブズ広島",
   "official_url": "https://www.skyactivs.com/",
-  "checked_at": "2026-11-25T23:07:04+09:00",
+  "checked_at": "2026-11-26T13:14:32+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.skyactivs.com/",
-      "hash": "de087f7de9a6f0e3"
+      "hash": "9723181436f315bc"
     },
     {
       "url": "https://www.skyactivs.com/news",
-      "hash": "bdd95091b6dd9dac"
+      "hash": "25126e3ee19df77a"
     },
     {
       "url": "https://www.skyactivs.com/news/2091",
@@ -29,6 +29,11 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.skyactivs.com/news/5107",
+      "title": "2026.11.26[THU] GAME 【メンバー発表】vsトヨタヴェルブリッツ",
+      "date": "2026-11-26"
+    },
     {
       "url": "https://www.skyactivs.com/news/5102",
       "title": "2026.11.24[TUE] FAN CLUB プレミアム会員、レギュラー会員特典 ホスト試合解説付き特別席についてのご案内",
@@ -223,11 +228,6 @@
       "url": "https://www.skyactivs.com/news/4430",
       "title": "2026.07.11[SAT] ACTIVITY 夏の交通安全運動（JR横川駅前）に参加しました",
       "date": "2026-07-11"
-    },
-    {
-      "url": "https://www.skyactivs.com/news/4415",
-      "title": "2026.07.08[WED] OTHERS 2025-26シーズン パートナー様「感謝の会」を開催しました",
-      "date": "2026-07-08"
     },
     {
       "url": "https://www.skyactivs.com/20250308STARTINGMEMBERS.pdf",

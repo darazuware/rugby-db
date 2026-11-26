@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-11-25T23:07:04+09:00",
+  "checked_at": "2026-11-26T13:14:32+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "12bb7ec362c57059"
+      "hash": "57fb4b39806a173f"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "9507359c4d84486f"
+      "hash": "fcb324a777428459"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261126.html",
+      "title": "2026-11-26 ダイナボアーズが「LEADS TO THE OCEAN」に参画 第1回は全緑猪祭でブラッド・ウェバー選手とゴミ拾い",
+      "date": "2026-11-26"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261124.html",
       "title": "2026-11-24 南アフリカ代表｜アレンゼ選手、スプリングボクスの一員として決勝へ 背番号14で4試合連続先発",
@@ -211,11 +216,6 @@
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260911.html",
       "title": "2026-09-11 [ ファンクラブ ] 2026-27シーズン シーズンシート発売のご案内",
       "date": "2026-09-11"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260910.html-1",
-      "title": "2026-09-10 [ チーム ] 南アフリカ代表｜カート＝リー・アレンゼ選手がニュージーランド代表戦（9/12）に14番で先発出場予定",
-      "date": "2026-09-10"
     }
   ]
 }

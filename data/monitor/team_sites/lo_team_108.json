@@ -3,16 +3,26 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-11-25T23:07:04+09:00",
+  "checked_at": "2026-11-26T13:14:32+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "2a110af4d6e43f3a"
+      "hash": "a706b100451d9c6d"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261126b.html",
+      "title": "【重要】プレシーズンマッチ 浦安D-Rocks戦 入場開始時間のお知らせ",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261126a.html",
+      "title": "株式会社FROMとオフィシャルパートナー新規契約のお知らせ",
+      "date": "2026-11-26"
+    },
     {
       "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261125b.html",
       "title": "11月29日(日)「第11回 若林クラブフェスティバル」参加のお知らせ",
@@ -27,16 +37,6 @@
       "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20261125c.html",
       "title": "2026-27ブラックラムズ東京ファンクラブ『RAMOVE』来場登録のお知らせ",
       "date": "2026-11-25"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261124a.html",
-      "title": "令和8年度 東京都都民安全総合対策本部長 感謝状を受賞しました",
-      "date": "2026-11-24"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261124b.html",
-      "title": "プレシーズンマッチ 浦安D-Rocks戦 新グッズ販売のお知らせ",
-      "date": "2026-11-24"
     }
   ]
 }

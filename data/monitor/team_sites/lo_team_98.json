@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-25T23:07:04+09:00",
+  "checked_at": "2026-11-26T13:14:32+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "d9d0914c6774e489"
+      "hash": "c4c76153608d28c4"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "c530bc1367bb972a"
+      "hash": "964efd7051c82754"
     }
   ],
   "items": [
@@ -29,7 +29,7 @@
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3280",
-      "title": "2026.11.25[WED] TICKET 今年も登場！ いちご付きテーブルシート",
+      "title": "2026.11.25[WED] TICKET 今シーズンも登場！ いちご付きテーブルシート",
       "date": "2026-11-25"
     },
     {

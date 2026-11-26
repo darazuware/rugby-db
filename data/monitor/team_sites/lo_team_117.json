@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-25T23:07:04+09:00",
+  "checked_at": "2026-11-26T13:14:32+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "7f5a4131638461a8"
+      "hash": "d8809960a65fe767"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "01566a40680d4348"
+      "hash": "4dd79edd9d6a7634"
     }
   ],
   "items": [
@@ -40,7 +40,12 @@
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-25"
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261126-2/",
+      "title": "私とWATER GUSH #41 辻村翔平 PR 「やるのみ」 2026/11/26",
+      "date": "2026-11-26"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261125-2/",
@@ -84,7 +89,7 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261119-2/",
-      "title": "私とWATER GUSH #34 石塚勝己 CTB/WTB1日1日を大切に、今この瞬間に全力を 2026/11/19",
+      "title": "私とウォーターガッシュ 公開日：2026/11/19 私とWATER GUSH #34 石塚勝己 CTB/WTB1日1日を大切に、今この瞬間に全力を 今回の”私とWATER GUSH”は加入3年目でCTB/WTBとして活躍する石塚勝己選手。桐蔭学園、明治大学という名門… 続きを読む",
       "date": "2026-11-19"
     },
     {
@@ -240,11 +245,6 @@
     {
       "url": "https://www.kurita-watergush.jp/20261022-3/",
       "title": "お知らせ 2026/10/22 2026-27シーズン チケット販売スケジュールのお知らせ",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261022-2/",
-      "title": "私とウォーターガッシュ 公開日：2026/10/22 私とWATER GUSH #10 山口竜誠 FL/No8 悔しさを原動力に、仕事もラグビーも全力で。 今回の”私とWATER GUSH”は、2026年に帝京大学からチームに加わった山口竜誠選手。入団から半年が経過し、… 続きを読む",
       "date": "2026-10-22"
     }
   ]
