@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-26T11:08:21+09:00",
+  "checked_at": "2026-11-26T13:07:24+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,14 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6284",
-          "title": "クラブ 三菱重工相模原ダイナボアーズ、「LEADS TO THE OCEAN -海につづくプロジェクト-」参画のお知らせ 2026.11.26",
-          "date": "2026-11-26",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -28,9 +21,9 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54358",
-          "title": "U18花園女子15人制 出場予定選手のお知らせ 2026.11.26 （木） 女子 高校",
-          "date": "2026-11-26",
+          "url": "https://www.rugby-japan.jp/news/54356",
+          "title": "（通達）「2026コンプライアンスアンケート」実施結果について 2026.11.24 （火） 通達",
+          "date": "2026-11-24",
           "category": null
         }
       ],
