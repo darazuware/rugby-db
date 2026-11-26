@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-25T19:49:41+09:00",
+  "checked_at": "2026-11-26T11:08:21+09:00",
   "teams": [],
   "sources": [
     {
@@ -11,37 +11,13 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://league-one.jp/news/6283",
-          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 レフリーパネル決定のお知らせ 2026.11.25",
-          "date": "2026-11-25",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6281",
-          "title": "クラブ トヨタヴェルブリッツ、新加入スタッフ（小野晃征スポットコーチ）のお知らせ 2026.11.25",
-          "date": "2026-11-25",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6280",
-          "title": "クラブ コベルコ神戸スティーラーズ、バラ オリバー選手 2026-27シーズン新加入のお知らせ 2026.11.25",
-          "date": "2026-11-25",
-          "category": "roster"
-        },
-        {
-          "url": "https://league-one.jp/news/6277",
-          "title": "お知らせ NTTジャパンラグビー リーグワン2026-27 一部試合日程および会場追加決定のお知らせ 2026.11.25",
-          "date": "2026-11-25",
+          "url": "https://league-one.jp/news/6284",
+          "title": "クラブ 三菱重工相模原ダイナボアーズ、「LEADS TO THE OCEAN -海につづくプロジェクト-」参画のお知らせ 2026.11.26",
+          "date": "2026-11-26",
           "category": null
         }
       ],
-      "rename_signals": [
-        {
-          "url": "https://league-one.jp/news/6272",
-          "title": "クラブ 静岡ブルーレヴズ、チーム名変更に関するお知らせ 2026.11.18",
-          "date": "2026-11-18"
-        }
-      ]
+      "rename_signals": []
     },
     {
       "key": "jrfu",
@@ -52,22 +28,10 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54351",
-          "title": "第63回全国大学ラグビーフットボール選手権大会 2回戦 当日情報 2026.11.25 （水） 大学 大学選手権",
-          "date": "2026-11-25",
+          "url": "https://www.rugby-japan.jp/news/54358",
+          "title": "U18花園女子15人制 出場予定選手のお知らせ 2026.11.26 （木） 女子 高校",
+          "date": "2026-11-26",
           "category": null
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54310",
-          "title": "（11/25更新）男子日本代表 ネーションズチャンピオンシップ 大会登録メンバーのお知らせ 2026.11.25 （水） 15人制男子日本代表 WBB 男子 日本代表 ネーションズチャンピオンシップ",
-          "date": "2026-11-25",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54297",
-          "title": "（11/25更新）男子日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ 2026.11.25 （水） 15人制男子日本代表 WBB 男子 日本代表 リポビタンＤツアー2026",
-          "date": "2026-11-25",
-          "category": "squad"
         }
       ],
       "rename_signals": []
@@ -83,43 +47,8 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6281",
-      "title": "クラブ トヨタヴェルブリッツ、新加入スタッフ（小野晃征スポットコーチ）のお知らせ 2026.11.25",
-      "date": "2026-11-25",
-      "category": "roster"
-    },
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6280",
-      "title": "クラブ コベルコ神戸スティーラーズ、バラ オリバー選手 2026-27シーズン新加入のお知らせ 2026.11.25",
-      "date": "2026-11-25",
-      "category": "roster"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54310",
-      "title": "（11/25更新）男子日本代表 ネーションズチャンピオンシップ 大会登録メンバーのお知らせ 2026.11.25 （水） 15人制男子日本代表 WBB 男子 日本代表 ネーションズチャンピオンシップ",
-      "date": "2026-11-25",
-      "category": "squad"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54297",
-      "title": "（11/25更新）男子日本代表 ヨーロッパ遠征「リポビタンDツアー2026」 参加メンバーのお知らせ 2026.11.25 （水） 15人制男子日本代表 WBB 男子 日本代表 リポビタンＤツアー2026",
-      "date": "2026-11-25",
-      "category": "squad"
-    }
-  ],
-  "league_rename_news": [
-    {
-      "url": "https://league-one.jp/news/6272",
-      "title": "クラブ 静岡ブルーレヴズ、チーム名変更に関するお知らせ 2026.11.18",
-      "date": "2026-11-18"
-    }
-  ],
+  "highlights": [],
+  "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
   ]
