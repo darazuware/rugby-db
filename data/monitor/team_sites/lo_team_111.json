@@ -3,27 +3,32 @@
   "league": "league-one-d2",
   "name": "清水建設江東ブルーシャークス",
   "official_url": "https://blue-sharks.jp/",
-  "checked_at": "2026-11-26T13:14:32+09:00",
+  "checked_at": "2026-11-26T20:03:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blue-sharks.jp/",
-      "hash": "f2bc8983cd0aebd9"
+      "hash": "6a163a547d371a7d"
     },
     {
       "url": "https://blue-sharks.jp/topics/",
-      "hash": "85cf3f9e7f55f8ae"
+      "hash": "e4e355c7996b835d"
     },
     {
       "url": "https://blue-sharks.jp/category/news/",
-      "hash": "c87efdd05e7dfb69"
+      "hash": "c2d400cce0b109f7"
     }
   ],
   "items": [
     {
       "url": "https://blue-sharks.jp/tickets/",
       "title": "チケット情報",
+      "date": "2026-12-12"
+    },
+    {
+      "url": "https://blue-sharks.jp/game-guide/2026-12-12-%e6%b5%b7%e5%b9%95%e6%88%a6/",
+      "title": "2026海幕戦",
       "date": "2026-12-12"
     },
     {
@@ -249,11 +254,6 @@
     {
       "url": "https://blue-sharks.jp/members/flanker/2025/11/23465/",
       "title": "シオネ・タリトゥイ",
-      "date": "2025-11-23"
-    },
-    {
-      "url": "https://blue-sharks.jp/members/center/2025/11/23603/",
-      "title": "マリティノ・ネマニ",
       "date": "2025-11-23"
     }
   ]

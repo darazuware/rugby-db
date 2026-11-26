@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-11-26T13:14:32+09:00",
+  "checked_at": "2026-11-26T20:03:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "169194186877eba2"
+      "hash": "b8a9646460e9d059"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "0bfcef705a51f5f8"
+      "hash": "8943dc92e8fe333a"
     }
   ],
   "items": [
@@ -38,6 +38,11 @@
       "date": "2026-12-05"
     },
     {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261113_01/",
+      "title": "イベント 2026年11月26日 （更新）【無料招待】2026-27シーズンホストゲーム開幕戦学生無料招待受付開始... ニュースを見る",
+      "date": "2026-11-26"
+    },
+    {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261106_01/",
       "title": "チーム 2026年11月19日 宮崎合宿実施のお知らせ ニュースを見る",
       "date": "2026-11-19"
@@ -46,11 +51,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/",
       "title": "結果詳細",
       "date": "2026-11-14"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261113_01/",
-      "title": "イベント 2026年11月13日 【無料招待】2026-27シーズンホストゲーム開幕戦学生無料招待実施のお知らせ ニュースを見る",
-      "date": "2026-11-13"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/#event",
@@ -106,11 +106,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261007_01/",
       "title": "活動レポート 2026年10月07日 留学記：NZ編 齊藤誉哉⑥ ニュースを見る",
       "date": "2026-10-07"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261005_01/",
-      "title": "チケット 2026年10月06日 【大切なお知らせ】車いす席および車いす用駐車券の購入方法変更について ニュースを見る",
-      "date": "2026-10-06"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20260930_01/",

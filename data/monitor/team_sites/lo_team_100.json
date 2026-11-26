@@ -3,23 +3,28 @@
   "league": "league-one-d1",
   "name": "浦安D-Rocks",
   "official_url": "https://urayasu-d-rocks.com",
-  "checked_at": "2026-11-26T13:14:32+09:00",
+  "checked_at": "2026-11-26T20:03:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://urayasu-d-rocks.com/",
-      "hash": "b50f19613432c0fc"
+      "hash": "92d0cfd8efe01828"
     },
     {
       "url": "https://urayasu-d-rocks.com/news/",
-      "hash": "7b9d1171794bd1fe"
+      "hash": "a8cb3242b94e77b7"
     }
   ],
   "items": [
     {
       "url": "https://urayasu-d-rocks.com/news/game/index_2107.html",
       "title": "ゲーム 2026.11.26 【メンバー発表】2026-27シーズン プレシーズンマッチ⑥ vs リコーブラックラムズ東京（11月28日）",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://urayasu-d-rocks.com/news/event/index_2104.html",
+      "title": "イベント 2026.11.26 浦安D-Rocks × URAYASU Diner コラボバーガー販売のお知らせ",
       "date": "2026-11-26"
     },
     {
@@ -69,7 +74,7 @@
     },
     {
       "url": "https://urayasu-d-rocks.com/news/fanclub/index_2095.html",
-      "title": "ファンクラブ 2026.11.19 2026.12.5「第3回 Club D-Rockers交流会」開催のお知らせ",
+      "title": "2026.11.19 ニュース 2026.12.5「第3回 Club D-Rockers交流会」開催のお知らせ",
       "date": "2026-11-19"
     },
     {
@@ -210,11 +215,6 @@
     {
       "url": "https://urayasu-d-rocks.com/news/team/index_2064.html",
       "title": "2026.10.22 ニュース ファンクラブ・チケット関連ページ メンテナンス完了および復旧のお知らせ",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://urayasu-d-rocks.com/news/fanclub/index_2060.html",
-      "title": "2026.10.22 ニュース ファンクラブ・チケット関連ページ メンテナンスについて｜10月22日(木) 11:50時点",
       "date": "2026-10-22"
     }
   ]

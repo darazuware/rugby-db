@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-11-26T13:14:32+09:00",
+  "checked_at": "2026-11-26T20:03:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "c3f3b8b9a724aaca"
+      "hash": "4618895a2238043f"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "7fa47d452b678615"
+      "hash": "818da979d7c78779"
     }
   ],
   "items": [
@@ -26,6 +26,11 @@
       "url": "https://www.kyudenvoltex.com/game/p188",
       "title": "メンバー",
       "date": "2026-11-28"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/1027",
+      "title": "地域・社会貢献 2026年11月26日 NEW 『ナナイロプリズム福岡』の練習に参加しました",
+      "date": "2026-11-26"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1026",
@@ -110,11 +115,6 @@
     {
       "url": "https://www.kyudenvoltex.com/news/1011",
       "title": "チーム 2026年10月07日 2026年度 新加入スタッフのお知らせ",
-      "date": "2026-10-07"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/news/1010",
-      "title": "地域・社会貢献 2026年10月07日 「福岡市認知症月間特別企画 ラグビーイベント/喜連選手講演会」",
       "date": "2026-10-07"
     },
     {

@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-11-26T13:14:32+09:00",
+  "checked_at": "2026-11-26T20:03:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "57fb4b39806a173f"
+      "hash": "47e6b54abea2c88c"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "fcb324a777428459"
+      "hash": "fb225f9ae3dbc066"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/tm2026-2",
+      "title": "2026-11-26 トレーニングマッチ（2026プレシーズン）｜横浜キヤノンイーグルス 対 三菱重工相模原ダイナボアーズ｜試合メンバー更新",
+      "date": "2026-11-26"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261126.html",
       "title": "2026-11-26 ダイナボアーズが「LEADS TO THE OCEAN」に参画 第1回は全緑猪祭でブラッド・ウェバー選手とゴミ拾い",
@@ -59,7 +64,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/kanshasai2026",
-      "title": "2026-11-13 ダイナボアーズ地域感謝祭｜いよいよ明日開催！各種イベント情報更新しました",
+      "title": "2026-11-13 [ イベント ] ダイナボアーズ地域感謝祭｜いよいよ明日開催！各種イベント情報更新しました",
       "date": "2026-11-13"
     },
     {
@@ -210,11 +215,6 @@
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260911.html-0",
       "title": "2026-09-11 [ ファンクラブ ] チケットランクアップ受付のご案内",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260911.html",
-      "title": "2026-09-11 [ ファンクラブ ] 2026-27シーズン シーズンシート発売のご案内",
       "date": "2026-09-11"
     }
   ]

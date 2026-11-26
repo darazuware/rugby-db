@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-11-26T13:14:32+09:00",
+  "checked_at": "2026-11-26T20:03:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "b08cf3506ac3a024"
+      "hash": "dfb99ed7b7c92f5e"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "cacd65bd6085b067"
+      "hash": "e2a0ae70287a4485"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/261126/",
+      "title": "ネーションズチャンピオンシップ2026 日本代表 対ウエールズ代表 試合登録メンバーのお知らせ",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261024/",
+      "title": "(11/26更新) 【プレシーズンマッチ】11/28（土）vs クボタスピアーズ船橋・東京ベイ 観戦について",
+      "date": "2026-11-26"
+    },
     {
       "url": "https://www.bravelupus.com/news/all_story/",
       "title": "【連載企画】東芝ブレイブルーパス武蔵「物語り」（Vol.209更新）",
@@ -25,11 +35,6 @@
     {
       "url": "https://www.bravelupus.com/news/260909/",
       "title": "NTTジャパンラグビー リーグワン2026-27 ディビジョン1 試合日程・会場決定のお知らせ ※14節の会場が発表されました",
-      "date": "2026-11-25"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/",
-      "title": "記事一覧",
       "date": "2026-11-25"
     },
     {
@@ -96,11 +101,6 @@
       "url": "https://www.bravelupus.com/news/261026-2/",
       "title": "2026鹿児島キャンプがスタートしました",
       "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/261024/",
-      "title": "【プレシーズンマッチ】11/28（土）vs クボタスピアーズ船橋・東京ベイ 観戦について",
-      "date": "2026-10-24"
     },
     {
       "url": "https://www.bravelupus.com/news/261019/",
@@ -221,11 +221,6 @@
       "url": "https://www.bravelupus.com/news/260910/",
       "title": "アサヒスーパードライパシフィックネーションズカップ2026 準決勝日本代表対アメリカ代表試合登録メンバーのお知らせ",
       "date": "2026-09-10"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260909-2/",
-      "title": "アサヒスーパードライ パシフィックネーションズカップ2026 大会登録メンバーのお知らせ",
-      "date": "2026-09-09"
     }
   ]
 }

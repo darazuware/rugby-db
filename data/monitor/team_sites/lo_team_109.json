@@ -3,24 +3,29 @@
   "league": "league-one-d2",
   "name": "NECグリーンロケッツ東葛",
   "official_url": "https://www.jreast.co.jp/greenwarriors/",
-  "checked_at": "2026-11-26T13:14:32+09:00",
+  "checked_at": "2026-11-26T20:03:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.jreast.co.jp/greenwarriors/",
-      "hash": "8d1036e7890cab73"
+      "hash": "1e70521d51ff1257"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/",
-      "hash": "d96f69ed89c3b3f8"
+      "hash": "45c373d97ddc3d6e"
     },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/",
-      "hash": "eaabd05443e1dc71"
+      "hash": "176f716e46ea57e0"
     }
   ],
   "items": [
+    {
+      "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1126-01/",
+      "title": "FAN CLUB 12月13日（日） CLUB GREEN WARRIORS 会員限定イベントのお知らせ 2026.11.26",
+      "date": "2026-11-26"
+    },
     {
       "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1123-01/",
       "title": "FAN CLUB CLUB GREEN WARRIORS 開幕直前入会キャンペーンのお知らせ 2026.11.23",

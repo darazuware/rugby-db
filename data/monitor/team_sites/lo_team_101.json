@@ -3,31 +3,41 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-11-26T13:14:32+09:00",
+  "checked_at": "2026-11-26T20:03:19+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "51d3df1b86d0c2ea"
+      "hash": "0faee3123440affe"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "ef60255683f93ff1"
+      "hash": "0dff92bd44b2cd90"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "9aabe590a341e8c0"
+      "hash": "70071c78d17e2b29"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "b241a435da7c4d8a"
+      "hash": "968e559ff25d751d"
     }
   ],
   "items": [
     {
       "url": "https://www.kobesteelers.com/news/post36948/",
       "title": "2026/11/26 普及 【レポート】神戸市立多聞の丘小学校でタグラグビー教室を実施しました",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36893/",
+      "title": "2026/11/26 チーム 11月28日(土)「ネーションズチャンピオンシップ2026」ウェールズ代表戦メンバー選出のお知らせ",
+      "date": "2026-11-26"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36850/",
+      "title": "2026/11/26 パートナー コベルコ神戸スティーラーズ×淡路屋 「コベルコ神戸スティーラーズひっぱりだこ飯」のご紹介",
       "date": "2026-11-26"
     },
     {
@@ -214,16 +224,6 @@
       "url": "https://www.kobesteelers.com/news/post36259/",
       "title": "2026/11/11 イベント 【レポート】11月8日(日)「まちあそび人生ゲームin神戸元町」に参加しました",
       "date": "2026-11-11"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post36062/",
-      "title": "2026/11/11 チケット NTTリーグワン2026-27 ノエビアスタジアム神戸 地下駐車場チケット販売のお知らせ",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post36096/",
-      "title": "2026/11/10 パートナー 【レポート】株式会社大林組様よりNTTリーグワン2025-26の優勝記念石碑を贈呈いただきました",
-      "date": "2026-11-10"
     },
     {
       "url": "https://www.kobesteelers.com/news/post35838/",

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-26T13:14:32+09:00",
+  "checked_at": "2026-11-26T20:03:19+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -11,8 +11,8 @@
       "item_count": 40,
       "new_items": [
         {
-          "url": "https://urayasu-d-rocks.com/news/game/index_2107.html",
-          "title": "ゲーム 2026.11.26 【メンバー発表】2026-27シーズン プレシーズンマッチ⑥ vs リコーブラックラムズ東京（11月28日）",
+          "url": "https://urayasu-d-rocks.com/news/event/index_2104.html",
+          "title": "イベント 2026.11.26 浦安D-Rocks × URAYASU Diner コラボバーガー販売のお知らせ",
           "date": "2026-11-26",
           "category": null
         }
@@ -33,15 +33,23 @@
       "item_count": 60,
       "new_items": [
         {
-          "url": "https://www.kobesteelers.com/news/post36948/",
-          "title": "2026/11/26 普及 【レポート】神戸市立多聞の丘小学校でタグラグビー教室を実施しました",
+          "url": "https://www.kobesteelers.com/news/post36893/",
+          "title": "2026/11/26 チーム 11月28日(土)「ネーションズチャンピオンシップ2026」ウェールズ代表戦メンバー選出のお知らせ",
+          "date": "2026-11-26",
+          "category": "squad"
+        },
+        {
+          "url": "https://www.kobesteelers.com/news/post36850/",
+          "title": "2026/11/26 パートナー コベルコ神戸スティーラーズ×淡路屋 「コベルコ神戸スティーラーズひっぱりだこ飯」のご紹介",
           "date": "2026-11-26",
           "category": null
         }
       ],
       "changed_pages": [
         "https://www.kobesteelers.com/",
-        "https://www.kobesteelers.com/news/"
+        "https://www.kobesteelers.com/news/",
+        "https://www.kobesteelers.com/news/cat_news/information/",
+        "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/"
       ],
       "rename_signals": []
     },
@@ -52,9 +60,12 @@
       "official_url": "https://panasonic.co.jp/sports/wildknights/",
       "status": "ok",
       "first_run": false,
-      "item_count": 38,
+      "item_count": 37,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://panasonic.co.jp/sports/wildknights/",
+        "https://panasonic.co.jp/sports/wildknights/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -64,9 +75,19 @@
       "official_url": "https://www.bravelupus.com/",
       "status": "ok",
       "first_run": false,
-      "item_count": 42,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 41,
+      "new_items": [
+        {
+          "url": "https://www.bravelupus.com/news/261126/",
+          "title": "ネーションズチャンピオンシップ2026 日本代表 対ウエールズ代表 試合登録メンバーのお知らせ",
+          "date": "2026-11-26",
+          "category": "squad"
+        }
+      ],
+      "changed_pages": [
+        "https://www.bravelupus.com/",
+        "https://www.bravelupus.com/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -78,7 +99,9 @@
       "first_run": false,
       "item_count": 10,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://verblitz.toyotatimes-sports.toyota/"
+      ],
       "rename_signals": []
     },
     {
@@ -89,8 +112,18 @@
       "status": "ok",
       "first_run": false,
       "item_count": 27,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://www.honda-heat.jp/news/2500/",
+          "title": "ファンクラブ 2026.11.26 【ファンクラブ】「2026-27シーズン開幕直前メディアカンファレンス」CLUB HEAT会員様特別ご招待のご案内（要お申込み）",
+          "date": "2026-11-26",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.honda-heat.jp/",
+        "https://www.honda-heat.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -103,8 +136,8 @@
       "item_count": 40,
       "new_items": [
         {
-          "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261126.html",
-          "title": "2026-11-26 ダイナボアーズが「LEADS TO THE OCEAN」に参画 第1回は全緑猪祭でブラッド・ウェバー選手とゴミ拾い",
+          "url": "https://www.mhi.com/jp/company/sports/dynaboars/tm2026-2",
+          "title": "2026-11-26 トレーニングマッチ（2026プレシーズン）｜横浜キヤノンイーグルス 対 三菱重工相模原ダイナボアーズ｜試合メンバー更新",
           "date": "2026-11-26",
           "category": null
         }
@@ -122,18 +155,17 @@
       "official_url": "https://www.canon-eagles.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 13,
+      "item_count": 14,
       "new_items": [
         {
-          "url": "https://www.canon-eagles.jp/news/gameinfo/20261126.html",
-          "title": "2026.11.26 GAME 練習試合 （11/28）三菱重工相模原ダイナボアーズ戦 出場選手",
-          "date": "2026-11-26",
+          "url": "https://www.canon-eagles.jp/gameinfo/info/2026-2027/20261128.html",
+          "title": "詳細・チケット情報",
+          "date": "2026-11-28",
           "category": null
         }
       ],
       "changed_pages": [
-        "https://www.canon-eagles.jp/",
-        "https://www.canon-eagles.jp/news/"
+        "https://www.canon-eagles.jp/"
       ],
       "rename_signals": []
     },
@@ -147,14 +179,8 @@
       "item_count": 5,
       "new_items": [
         {
-          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261126b.html",
-          "title": "【重要】プレシーズンマッチ 浦安D-Rocks戦 入場開始時間のお知らせ",
-          "date": "2026-11-26",
-          "category": null
-        },
-        {
-          "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261126a.html",
-          "title": "株式会社FROMとオフィシャルパートナー新規契約のお知らせ",
+          "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261126a.html",
+          "title": "11月28日(土) プレシーズンマッチ2026 浦安D-Rocks戦 メンバーのお知らせ",
           "date": "2026-11-26",
           "category": null
         }
@@ -199,18 +225,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [
-        {
-          "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMSBRV.html",
-          "title": "2026年 11月26日 2026 TRAINING MATCH vs ヤマハ静岡ブルーレヴズ メンバー発表",
-          "date": "2026-11-26",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.suntory.co.jp/culture-sports/sungoliath/",
-        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -220,9 +236,20 @@
       "official_url": "https://www.jreast.co.jp/greenwarriors/",
       "status": "ok",
       "first_run": false,
-      "item_count": 37,
-      "new_items": [],
-      "changed_pages": [],
+      "item_count": 38,
+      "new_items": [
+        {
+          "url": "https://www.jreast.co.jp/greenwarriors/news/2026/2026-1126-01/",
+          "title": "FAN CLUB 12月13日（日） CLUB GREEN WARRIORS 会員限定イベントのお知らせ 2026.11.26",
+          "date": "2026-11-26",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://www.jreast.co.jp/greenwarriors/",
+        "https://www.jreast.co.jp/greenwarriors/news/2026/",
+        "https://www.jreast.co.jp/greenwarriors/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -235,14 +262,15 @@
       "item_count": 40,
       "new_items": [
         {
-          "url": "https://www.kyudenvoltex.com/game/p188",
-          "title": "メンバー",
-          "date": "2026-11-28",
+          "url": "https://www.kyudenvoltex.com/news/1027",
+          "title": "地域・社会貢献 2026年11月26日 NEW 『ナナイロプリズム福岡』の練習に参加しました",
+          "date": "2026-11-26",
           "category": null
         }
       ],
       "changed_pages": [
-        "https://www.kyudenvoltex.com/"
+        "https://www.kyudenvoltex.com/",
+        "https://www.kyudenvoltex.com/news/"
       ],
       "rename_signals": []
     },
@@ -254,8 +282,19 @@
       "status": "ok",
       "first_run": false,
       "item_count": 47,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://blue-sharks.jp/game-guide/2026-12-12-%e6%b5%b7%e5%b9%95%e6%88%a6/",
+          "title": "2026海幕戦",
+          "date": "2026-12-12",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://blue-sharks.jp/",
+        "https://blue-sharks.jp/topics/",
+        "https://blue-sharks.jp/category/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -266,23 +305,9 @@
       "status": "ok",
       "first_run": false,
       "item_count": 8,
-      "new_items": [
-        {
-          "url": "https://shuttles-aichi.com/news/12-4-notice-of-match-information/",
-          "title": "お知らせ 26年11月26日 12/4(金)試合情報のお知らせ",
-          "date": "2026-11-21",
-          "category": null
-        },
-        {
-          "url": "https://shuttles-aichi.com/news/",
-          "title": "ニュース一覧",
-          "date": "2026-11-21",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
-        "https://shuttles-aichi.com/",
-        "https://shuttles-aichi.com/news/"
+        "https://shuttles-aichi.com/"
       ],
       "rename_signals": []
     },
@@ -312,8 +337,7 @@
       "item_count": 24,
       "new_items": [],
       "changed_pages": [
-        "https://hanazono-liners.jp/",
-        "https://hanazono-liners.jp/news/"
+        "https://hanazono-liners.jp/"
       ],
       "rename_signals": []
     },
@@ -325,8 +349,17 @@
       "status": "ok",
       "first_run": false,
       "item_count": 12,
-      "new_items": [],
-      "changed_pages": [],
+      "new_items": [
+        {
+          "url": "https://hino-reddolphins.com/2026-11-26/",
+          "title": "11/16 太田市役所へ表敬訪問しました",
+          "date": "2026-11-26",
+          "category": null
+        }
+      ],
+      "changed_pages": [
+        "https://hino-reddolphins.com/api/wp/v2/posts?per_page=20"
+      ],
       "rename_signals": []
     },
     {
@@ -351,14 +384,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 46,
-      "new_items": [
-        {
-          "url": "https://www.kurita-watergush.jp/20261126-2/",
-          "title": "私とWATER GUSH #41 辻村翔平 PR 「やるのみ」 2026/11/26",
-          "date": "2026-11-26",
-          "category": null
-        }
-      ],
+      "new_items": [],
       "changed_pages": [
         "https://www.kurita-watergush.jp/",
         "https://www.kurita-watergush.jp/news/"
@@ -397,18 +423,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 45,
-      "new_items": [
-        {
-          "url": "https://www.skyactivs.com/news/5107",
-          "title": "2026.11.26[THU] GAME 【メンバー発表】vsトヨタヴェルブリッツ",
-          "date": "2026-11-26",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.skyactivs.com/",
-        "https://www.skyactivs.com/news"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -420,7 +436,9 @@
       "first_run": false,
       "item_count": 0,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.yakult.co.jp/maintenance/"
+      ],
       "rename_signals": []
     },
     {
@@ -456,8 +474,8 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54354",
-          "title": "（11/26）レポート：女子セブンズ日本代表（サクラセブンズ）UAE遠征 2026.11.26 （木） 女子セブンズ日本代表 女子 セブンズ HSBC SVNS",
+          "url": "https://www.rugby-japan.jp/news/54335",
+          "title": "「ネーションズチャンピオンシップ2026 ＜ファイナルズ・ウィークエンド＞ （南半球5位 対 北半球5位）」日本代表 対 ウェールズ代表 試合登録メンバーのお知らせ 2026.11.26 （木） 15人制男子日本代表 WBB 日本代表戦 ネーションズチャンピオンシップ",
           "date": "2026-11-26",
           "category": "squad"
         }
@@ -477,9 +495,23 @@
   ],
   "highlights": [
     {
+      "source": "コベルコ神戸スティーラーズ",
+      "url": "https://www.kobesteelers.com/news/post36893/",
+      "title": "2026/11/26 チーム 11月28日(土)「ネーションズチャンピオンシップ2026」ウェールズ代表戦メンバー選出のお知らせ",
+      "date": "2026-11-26",
+      "category": "squad"
+    },
+    {
+      "source": "東芝ブレイブルーパス東京",
+      "url": "https://www.bravelupus.com/news/261126/",
+      "title": "ネーションズチャンピオンシップ2026 日本代表 対ウエールズ代表 試合登録メンバーのお知らせ",
+      "date": "2026-11-26",
+      "category": "squad"
+    },
+    {
       "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54354",
-      "title": "（11/26）レポート：女子セブンズ日本代表（サクラセブンズ）UAE遠征 2026.11.26 （木） 女子セブンズ日本代表 女子 セブンズ HSBC SVNS",
+      "url": "https://www.rugby-japan.jp/news/54335",
+      "title": "「ネーションズチャンピオンシップ2026 ＜ファイナルズ・ウィークエンド＞ （南半球5位 対 北半球5位）」日本代表 対 ウェールズ代表 試合登録メンバーのお知らせ 2026.11.26 （木） 15人制男子日本代表 WBB 日本代表戦 ネーションズチャンピオンシップ",
       "date": "2026-11-26",
       "category": "squad"
     }
