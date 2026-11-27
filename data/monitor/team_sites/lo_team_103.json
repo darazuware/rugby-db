@@ -3,20 +3,30 @@
   "league": "league-one-d1",
   "name": "東芝ブレイブルーパス東京",
   "official_url": "https://www.bravelupus.com/",
-  "checked_at": "2026-11-26T20:03:19+09:00",
+  "checked_at": "2026-11-27T13:14:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.bravelupus.com/",
-      "hash": "dfb99ed7b7c92f5e"
+      "hash": "79dbf55d7e44ad37"
     },
     {
       "url": "https://www.bravelupus.com/news/",
-      "hash": "e2a0ae70287a4485"
+      "hash": "d8a9c7d899a0fffd"
     }
   ],
   "items": [
+    {
+      "url": "https://www.bravelupus.com/news/261127/",
+      "title": "11/28(土) クボタスピアーズ船橋・東京ベイ戦 マッチデープログラム情報",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://www.bravelupus.com/news/261127-2/",
+      "title": "新商品グッズ販売のお知らせ",
+      "date": "2026-11-27"
+    },
     {
       "url": "https://www.bravelupus.com/news/261126/",
       "title": "ネーションズチャンピオンシップ2026 日本代表 対ウエールズ代表 試合登録メンバーのお知らせ",
@@ -211,16 +221,6 @@
       "url": "https://www.bravelupus.com/news/260915/",
       "title": "男子セブンズ日本代表・男子セブンズ・デベロップメント・スコッド（SDS）別府合宿スケジュールと参加メンバーのお知らせ",
       "date": "2026-09-15"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/20260914/",
-      "title": "【本申込開始】 【ルーパス塾 U8/U10クラス】",
-      "date": "2026-09-14"
-    },
-    {
-      "url": "https://www.bravelupus.com/news/260910/",
-      "title": "アサヒスーパードライパシフィックネーションズカップ2026 準決勝日本代表対アメリカ代表試合登録メンバーのお知らせ",
-      "date": "2026-09-10"
     }
   ]
 }

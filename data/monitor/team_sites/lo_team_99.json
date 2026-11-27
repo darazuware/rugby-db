@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "東京サントリーサンゴリアス",
   "official_url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-  "checked_at": "2026-11-26T20:03:19+09:00",
+  "checked_at": "2026-11-27T13:14:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
-      "hash": "0ecc4255a1de30d4"
+      "hash": "7500aef5f818a931"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html",
-      "hash": "28518bf56fb44178"
+      "hash": "50cd5a0946ced457"
     }
   ],
   "items": [
+    {
+      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/spirits/2611-1044.html",
+      "title": "2026年 11月27日 #1044 流 大 『自分も常に成長する』",
+      "date": "2026-11-27"
+    },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/26TMSBRV.html",
       "title": "2026年 11月26日 2026 TRAINING MATCH vs ヤマハ静岡ブルーレヴズ メンバー発表",
@@ -61,11 +66,6 @@
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/hgkcba.html",
       "title": "2026年 11月17日 ホストゲームでの\"サントリーの工場直送ビール\"を今シーズンも販売決定！ ～府中を拠点とするサントリーのビール工場とラグビーチームによる、ここでしか味わえないコラボレーションを今年も実…",
       "date": "2026-11-17"
-    },
-    {
-      "url": "https://www.suntory.co.jp/culture-sports/sungoliath/result/2026/CMRF26vCFSc.html",
-      "title": "2026年 11月14日 秩父宮みなとラグビーまつり2026 vs チーフス 試合結果",
-      "date": "2026-11-14"
     },
     {
       "url": "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026c/djinr.html",

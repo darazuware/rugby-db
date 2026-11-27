@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-26T20:03:19+09:00",
+  "checked_at": "2026-11-27T13:14:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "f09166dd84c74cf6"
+      "hash": "10ffb54d6b587357"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "c53455c69cec6d6a"
+      "hash": "215d01b6f14b4647"
     }
   ],
   "items": [
@@ -40,7 +40,22 @@
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-26"
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/category/news/",
+      "title": "お知らせ",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261127-3/",
+      "title": "お知らせ 2026/11/27 2026-27シーズン 新加入選手（追加）のお知らせ",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261127-2/",
+      "title": "私とWATER GUSH #42 横田大輝 CTB 背中で語れる選手に 2026/11/27",
+      "date": "2026-11-27"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261126-2/",
@@ -73,18 +88,13 @@
       "date": "2026-11-21"
     },
     {
-      "url": "https://www.kurita-watergush.jp/category/news/",
-      "title": "お知らせ",
-      "date": "2026-11-20"
-    },
-    {
       "url": "https://www.kurita-watergush.jp/20261120-3/",
-      "title": "お知らせ 2026/11/20 11月28日（土）プレシーズンマッチ 中国電力レッドレグリオンズ戦イベントのご案内（※11月25日更新）",
+      "title": "お知らせ 2026/11/20 11月28日（土）プレシーズンマッチ 中国電力レッドレグリオンズ戦イベントのご案内（※11月26日更新）",
       "date": "2026-11-20"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261120-2/",
-      "title": "私とWATER GUSH #35 細元亮 WTB 悔しさがラグビー人生を変えた 2026/11/20",
+      "title": "私とウォーターガッシュ 公開日：2026/11/20 私とWATER GUSH #35 細元亮 WTB 悔しさがラグビー人生を変えた 今回の”私とWATER GUSH”はWTBとして在籍3年目を迎えた細元亮選手。九州から上京し、社員選手としてクリタ… 続きを読む",
       "date": "2026-11-20"
     },
     {
@@ -240,11 +250,6 @@
     {
       "url": "https://www.kurita-watergush.jp/20261022-4/",
       "title": "地域貢献 2026/10/22 【地域活動報告】児童の登校見守り活動③",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261022-3/",
-      "title": "お知らせ 2026/10/22 2026-27シーズン チケット販売スケジュールのお知らせ",
       "date": "2026-10-22"
     }
   ]

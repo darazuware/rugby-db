@@ -3,17 +3,17 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-11-26T20:03:19+09:00",
+  "checked_at": "2026-11-27T13:14:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "4618895a2238043f"
+      "hash": "df1c5258e9a911e5"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
-      "hash": "818da979d7c78779"
+      "hash": "df59f0641dfc5ba3"
     }
   ],
   "items": [
@@ -34,7 +34,7 @@
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1026",
-      "title": "地域・社会貢献 2026年11月24日 NEW QTnetラグビー体験会に参加しました",
+      "title": "地域・社会貢献 2026年11月24日 QTnetラグビー体験会に参加しました",
       "date": "2026-11-24"
     },
     {

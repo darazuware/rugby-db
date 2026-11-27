@@ -3,16 +3,21 @@
   "league": "league-one-d1",
   "name": "リコーブラックラムズ東京",
   "official_url": "https://blackrams-tokyo.com/",
-  "checked_at": "2026-11-26T20:03:19+09:00",
+  "checked_at": "2026-11-27T13:14:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://blackrams-tokyo.com/",
-      "hash": "a99290972138bdc9"
+      "hash": "2a4f62a5135b2909"
     }
   ],
   "items": [
+    {
+      "url": "https://blackrams-tokyo.com/news/team/2026-2027/20261127a.html",
+      "title": "2026-27シーズン スローガン及びキービジュアルのお知らせ",
+      "date": "2026-11-27"
+    },
     {
       "url": "https://blackrams-tokyo.com/news/information/2026-2027/20261126b.html",
       "title": "【重要】プレシーズンマッチ 浦安D-Rocks戦 入場開始時間のお知らせ",
@@ -27,11 +32,6 @@
       "url": "https://blackrams-tokyo.com/news/game/2026-2027/20261126a.html",
       "title": "11月28日(土) プレシーズンマッチ2026 浦安D-Rocks戦 メンバーのお知らせ",
       "date": "2026-11-26"
-    },
-    {
-      "url": "https://blackrams-tokyo.com/sdgs/news/2026-2027/20261125b.html",
-      "title": "11月29日(日)「第11回 若林クラブフェスティバル」参加のお知らせ",
-      "date": "2026-11-25"
     },
     {
       "url": "https://blackrams-tokyo.com/news/fanzone/2026-2027/20261125c.html",

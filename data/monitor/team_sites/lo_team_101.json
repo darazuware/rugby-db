@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-11-26T20:03:19+09:00",
+  "checked_at": "2026-11-27T13:14:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "0faee3123440affe"
+      "hash": "a7640d6b559594bb"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "0dff92bd44b2cd90"
+      "hash": "9ac699fe199faa17"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
@@ -25,6 +25,26 @@
     }
   ],
   "items": [
+    {
+      "url": "https://www.kobesteelers.com/news/post36994/",
+      "title": "2026/11/27 メディア ラジオ関西 コベルコ神戸スティーラーズ応援番組「Kobe Steelers Girls Talk」放送開始のお知らせ",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36980/",
+      "title": "2026/11/27 イベント 【レポート】11月21日(土)御影クラッセにてチームPRを行いました",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36975/",
+      "title": "2026/11/27 普及 【レポート】神戸市立つつじが丘小学校でタグラグビー教室を実施しました",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://www.kobesteelers.com/game/post34945/",
+      "title": "2026/11/27 試合 11月28日(土)プレシーズンマッチ 花園近鉄ライナーズ戦 出場メンバーのお知らせ",
+      "date": "2026-11-27"
+    },
     {
       "url": "https://www.kobesteelers.com/news/post36948/",
       "title": "2026/11/26 普及 【レポート】神戸市立多聞の丘小学校でタグラグビー教室を実施しました",
@@ -206,23 +226,8 @@
       "date": "2026-11-12"
     },
     {
-      "url": "https://www.kobesteelers.com/interview/post36336/",
-      "title": "2026/11/12 チーム 2026-27シーズン新加入インタビュー FLドミニク・ロペティ選手",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://www.kobesteelers.com/game/post34943/",
-      "title": "2026/11/12 試合 11月14日(土)プレシーズンマッチ 静岡ブルーレヴズ戦 出場メンバーのお知らせ",
-      "date": "2026-11-12"
-    },
-    {
       "url": "https://www.kobesteelers.com/photolibrary/post36174/",
       "title": "2026/11/11 お知らせ 「コベルコ神戸スティーラーズフェスタ2026」フォトライブラリーを公開しました！",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post36259/",
-      "title": "2026/11/11 イベント 【レポート】11月8日(日)「まちあそび人生ゲームin神戸元町」に参加しました",
       "date": "2026-11-11"
     },
     {
@@ -319,11 +324,6 @@
       "url": "https://www.kobesteelers.com/news/post30504/",
       "title": "2026/1/23 お知らせ サーバーメンテナンスのお知らせ",
       "date": "2026-01-23"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post31091/",
-      "title": "2026/1/15 お知らせ 阪神・淡路大震災メッセージ動画公開のお知らせ",
-      "date": "2026-01-15"
     }
   ]
 }

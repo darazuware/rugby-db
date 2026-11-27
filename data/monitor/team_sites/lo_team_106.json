@@ -3,20 +3,25 @@
   "league": "league-one-d1",
   "name": "三菱重工相模原ダイナボアーズ",
   "official_url": "https://dynaboars.mhi.com/",
-  "checked_at": "2026-11-26T20:03:19+09:00",
+  "checked_at": "2026-11-27T13:14:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/",
-      "hash": "47e6b54abea2c88c"
+      "hash": "7e5f0a440ca08970"
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news",
-      "hash": "fb225f9ae3dbc066"
+      "hash": "1bf92e819db96251"
     }
   ],
   "items": [
+    {
+      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261127.html",
+      "title": "2026-11-27 日本代表｜チャーリー・ローレンス選手、淺岡俊亮選手がウェールズ代表戦の試合登録メンバーに選出",
+      "date": "2026-11-27"
+    },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/tm2026-2",
       "title": "2026-11-26 トレーニングマッチ（2026プレシーズン）｜横浜キヤノンイーグルス 対 三菱重工相模原ダイナボアーズ｜試合メンバー更新",
@@ -54,7 +59,7 @@
     },
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20261113.html-0",
-      "title": "2026-11-13 トレーニングマッチ vs横浜キヤノンイーグルス,11/28(土)｜ファンクラブ会員限定観戦のご案内（抽選100名）",
+      "title": "2026-11-13 [ ファンクラブ ] [ イベント ] トレーニングマッチ vs横浜キヤノンイーグルス,11/28(土)｜ファンクラブ会員限定観戦のご案内（抽選100名）",
       "date": "2026-11-13"
     },
     {
@@ -210,11 +215,6 @@
     {
       "url": "https://www.mhi.com/jp/company/sports/dynaboars/ticket.html",
       "title": "2026-09-11 [ チーム ] 2026-27シーズン チケット情報を更新しました",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://www.mhi.com/jp/company/sports/dynaboars/news/20260911.html-0",
-      "title": "2026-09-11 [ ファンクラブ ] チケットランクアップ受付のご案内",
       "date": "2026-09-11"
     }
   ]

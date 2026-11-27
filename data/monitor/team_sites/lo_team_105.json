@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "三重ホンダヒート",
   "official_url": "http://www.honda-heat.jp",
-  "checked_at": "2026-11-26T20:03:19+09:00",
+  "checked_at": "2026-11-27T13:14:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.honda-heat.jp/",
-      "hash": "0301a70a27f82fcc"
+      "hash": "e2672fa1ad6ba309"
     },
     {
       "url": "https://www.honda-heat.jp/news/",
-      "hash": "2229c13b7f804a3a"
+      "hash": "71d6deaeae86558f"
     }
   ],
   "items": [
@@ -21,6 +21,11 @@
       "url": "https://www.honda-heat.jp/hostgame/2026_27/20261212.html",
       "title": "スライダー再生 スライダー停止",
       "date": "2026-12-12"
+    },
+    {
+      "url": "https://www.honda-heat.jp/news/2502/",
+      "title": "トピックス 2026.11.27 12月27日(日) NTTリーグワン 第3節 『足利銀行 Presents マッチデー』開催のお知らせ",
+      "date": "2026-11-27"
     },
     {
       "url": "https://www.honda-heat.jp/news/2500/",

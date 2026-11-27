@@ -3,24 +3,34 @@
   "league": "league-one-d2",
   "name": "日本製鉄釜石シーウェイブス",
   "official_url": "https://kamaishi-seawaves.com/",
-  "checked_at": "2026-11-26T20:03:19+09:00",
+  "checked_at": "2026-11-27T13:14:10+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://kamaishi-seawaves.com/",
-      "hash": "1808d20f72a32b3f"
+      "hash": "c21708bb634c8251"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/",
-      "hash": "fae59a1a30df41cf"
+      "hash": "7395168ba2fec672"
     },
     {
       "url": "https://kamaishi-seawaves.com/news/info/",
-      "hash": "c0d5fe6606195d60"
+      "hash": "a583ef3eb67998ca"
     }
   ],
   "items": [
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/33562/",
+      "title": "お知らせ 2026.11.27 NTTリーグワン2026-27 ホストゲーム 福島県いわき市 自治体連携ご招待キャンペーンのお知らせ",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://kamaishi-seawaves.com/news/info/33463/",
+      "title": "お知らせ 2026.11.27 NTTリーグワン2026-27 ホストゲーム 岩手県内 自治体連携ご招待キャンペーンのお知らせ",
+      "date": "2026-11-27"
+    },
     {
       "url": "https://kamaishi-seawaves.com/news/info/33428/",
       "title": "お知らせ 2026.11.17 2026-27シーズン プレイヤーズタオルの受注販売のお知らせ",
@@ -75,21 +85,6 @@
       "url": "https://kamaishi-seawaves.com/news/info/33038/",
       "title": "お知らせ 2026.10.23 釜石鵜住居復興スタジアムで津波避難訓練を実施しました",
       "date": "2026-10-23"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/game/33028/",
-      "title": "試合情報 2026.10.21 2026トレーニングマッチ 第7戦／JR東日本グリーンウォリアーズ東葛戦",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/32917/",
-      "title": "お知らせ 2026.10.15 「DAZN年間視聴パス」販売のお知らせ（早期購入特典有り）",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://kamaishi-seawaves.com/news/info/32703/",
-      "title": "お知らせ 2026.10.9 観て、食べて、応援！開幕戦まで楽しみがつながる「HOP STEP JUMP! キャンペーン」実施のお知らせ",
-      "date": "2026-10-09"
     }
   ]
 }
