@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-27T13:07:28+09:00",
+  "checked_at": "2026-11-27T15:10:34+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,20 +9,7 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [
-        {
-          "url": "https://league-one.jp/news/6287",
-          "title": "クラブ 栃木ホンダヒート、第3節マッチデーパートナー/マッチデータイトル決定のお知らせ 2026.11.27",
-          "date": "2026-11-27",
-          "category": null
-        },
-        {
-          "url": "https://league-one.jp/news/6286",
-          "title": "クラブ クリタウォーターガッシュ昭島、新加入選手(追加)のお知らせ 2026.11.27",
-          "date": "2026-11-27",
-          "category": "roster"
-        }
-      ],
+      "new_items": [],
       "rename_signals": []
     },
     {
@@ -46,15 +33,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "リーグワン公式",
-      "url": "https://league-one.jp/news/6286",
-      "title": "クラブ クリタウォーターガッシュ昭島、新加入選手(追加)のお知らせ 2026.11.27",
-      "date": "2026-11-27",
-      "category": "roster"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": [
     "パシフィック・ネーションズカップ（World Rugby）: 記事リンクを抽出できない（JS描画の可能性）"
