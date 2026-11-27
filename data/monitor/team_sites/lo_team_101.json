@@ -3,25 +3,25 @@
   "league": "league-one-d1",
   "name": "コベルコ神戸スティーラーズ",
   "official_url": "https://www.kobesteelers.com/",
-  "checked_at": "2026-11-27T13:14:10+09:00",
+  "checked_at": "2026-11-27T20:03:07+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kobesteelers.com/",
-      "hash": "a7640d6b559594bb"
+      "hash": "86b36a4a37153969"
     },
     {
       "url": "https://www.kobesteelers.com/news/",
-      "hash": "9ac699fe199faa17"
+      "hash": "0586f78ade5da416"
     },
     {
       "url": "https://www.kobesteelers.com/news/cat_news/information/",
-      "hash": "70071c78d17e2b29"
+      "hash": "0023348ab7e7aa90"
     },
     {
       "url": "https://www.kobesteelers.com/news/information-2011-09-108-vs-1/",
-      "hash": "968e559ff25d751d"
+      "hash": "c9cec60d4174b883"
     }
   ],
   "items": [
@@ -38,6 +38,16 @@
     {
       "url": "https://www.kobesteelers.com/news/post36975/",
       "title": "2026/11/27 普及 【レポート】神戸市立つつじが丘小学校でタグラグビー教室を実施しました",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://www.kobesteelers.com/news/post36837/",
+      "title": "2026/11/27 メディア 12月5日(土)李 承信選手、上ノ坊 駿介選手「あすリート」出演のお知らせ",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://www.kobesteelers.com/leagueone-2026_27/round01/",
+      "title": "2026/11/27 試合 【更新】NTTリーグワン2026-27 ホストゲーム第1節 特設ページを公開いたしました！",
       "date": "2026-11-27"
     },
     {
@@ -206,11 +216,6 @@
       "date": "2026-11-13"
     },
     {
-      "url": "https://www.kobesteelers.com/leagueone-2026_27/round01/",
-      "title": "2026/11/13 試合 NTTリーグワン2026-27 ホストゲーム第1節 特設ページを公開いたしました！",
-      "date": "2026-11-13"
-    },
-    {
       "url": "https://www.kobesteelers.com/news/post36264/",
       "title": "2026/11/12 イベント 【選手イベント参加情報】11月21日(土) 御影クラッセにコベルコ神戸スティーラーズがやってくる！",
       "date": "2026-11-12"
@@ -218,11 +223,6 @@
     {
       "url": "https://www.kobesteelers.com/news/post36247/",
       "title": "2026/11/12 メディア 11月15日(日)大下 貴志選手「第106回全国高校ラグビー大会 大阪地区決勝」ゲスト解説のお知らせ",
-      "date": "2026-11-12"
-    },
-    {
-      "url": "https://www.kobesteelers.com/news/post36243/",
-      "title": "2026/11/12 チーム 11月14日(土)「ネーションズチャンピオンシップ2026」イングランド代表戦メンバー選出のお知らせ",
       "date": "2026-11-12"
     },
     {

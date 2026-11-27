@@ -3,20 +3,35 @@
   "league": "league-one-d1",
   "name": "静岡ブルーレヴズ",
   "official_url": "https://www.shizuoka-bluerevs.com",
-  "checked_at": "2026-11-27T13:14:10+09:00",
+  "checked_at": "2026-11-27T20:03:07+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.shizuoka-bluerevs.com/",
-      "hash": "299f19f908bcc02a"
+      "hash": "15eebe3f02749524"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news",
-      "hash": "836839b3defe1e5b"
+      "hash": "7d2441de167c54d0"
     }
   ],
   "items": [
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3290",
+      "title": "2026.11.27[FRI] HOST AREA 【ホストエリア活動】第29回ジュビロ磐田メモリアルマラソンにてラグビークリニックを実施しました",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3289",
+      "title": "2026.11.27[FRI] HOST AREA 【ホストエリア活動】湖西市 コーちゃんフェスタにてラグビー体験を実施しました",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://www.shizuoka-bluerevs.com/news/3288",
+      "title": "2026.11.27[FRI] GOODS 2027卓上カレンダー販売開始！新グッズ情報（vs.東京サントリーサンゴリアス／ヤマハ大久保グラウンド）",
+      "date": "2026-11-27"
+    },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3282",
       "title": "2026.11.25[WED] TICKET 1月16日(土)も［ペア観戦シート］でゆったり観戦！",
@@ -111,16 +126,6 @@
       "url": "https://www.shizuoka-bluerevs.com/news/3258",
       "title": "TICKET 2026/11/11 ひのたけシートで親子ペアをご招待",
       "date": "2026-11-11"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3261",
-      "title": "2026.11.10[TUE] HOST AREA 【ホストエリア活動】藤枝市スポーツ少年団交流会にてラグビー体験を実施しました",
-      "date": "2026-11-10"
-    },
-    {
-      "url": "https://www.shizuoka-bluerevs.com/news/3260",
-      "title": "2026.11.9[MON] HOST AREA REVSキャラバン supported by 大興金属 ウィークリーレポート（11/2～11/6）",
-      "date": "2026-11-09"
     },
     {
       "url": "https://www.shizuoka-bluerevs.com/news/3224",
