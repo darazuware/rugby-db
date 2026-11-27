@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-26T19:06:11+09:00",
+  "checked_at": "2026-11-27T11:08:32+09:00",
   "teams": [],
   "sources": [
     {
@@ -9,7 +9,14 @@
       "status": "ok",
       "first_run": false,
       "item_count": 10,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://league-one.jp/news/6285",
+          "title": "クラブ リコーブラックラムズ東京、2025-26シーズンスローガン及びキービジュアルのお知らせ 2026.11.27",
+          "date": "2026-11-27",
+          "category": null
+        }
+      ],
       "rename_signals": []
     },
     {
