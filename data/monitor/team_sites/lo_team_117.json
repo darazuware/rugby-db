@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-28T13:13:39+09:00",
+  "checked_at": "2026-11-28T20:03:14+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "5db17f221ba01f25"
+      "hash": "ad3d137f48bfbeaa"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "171c457ba77ffc08"
+      "hash": "788ed9839311f816"
     }
   ],
   "items": [
@@ -21,6 +21,26 @@
       "url": "https://www.kurita-watergush.jp/20271107-2/",
       "title": "私とウォーターガッシュ 公開日：2026/11/07 私とWATER GUSH #24 山本快 WTB 凡事徹底、やるならちゃんと 今回の”私とWATER GUSH”はWTBとして鋭い走りでチームを牽引する山本快選手。ラグビーへの向き合い方、仕事… 続きを読む",
       "date": "2027-11-07"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/stadium/%e5%8e%9a%e6%9c%a8%e5%b8%82%e8%8d%bb%e9%87%8e%e9%81%8b%e5%8b%95%e5%85%ac%e5%9c%92%e7%ab%b6%e6%8a%80%e5%a0%b4/",
+      "title": "アクセス",
+      "date": "2026-12-12"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/games/",
+      "title": "全ての試合情報はこちら",
+      "date": "2026-12-12"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/game/20261212-wg%e6%98%ad%e5%b3%b6-vs%e6%97%a5%e9%87%8erd/",
+      "title": "このゲームの詳細情報はこちら",
+      "date": "2026-12-12"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/game/20261128-wg%e6%98%ad%e5%b3%b6-vs%e4%b8%ad%e5%9b%bdrr/",
+      "title": "試合詳細結果",
+      "date": "2026-11-28"
     },
     {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
@@ -106,11 +126,6 @@
       "url": "https://www.kurita-watergush.jp/20261115-2/",
       "title": "私とウォーターガッシュ 公開日：2026/11/15 私とWATER GUSH #31 細矢一颯 PR仕事・家族・ラグビー、三足の草鞋で挑む 今回の”私とWATER GUSH”はPRとして活躍する細矢一颯選手。スクラムの最前列でチームを支えるまさに「チー… 続きを読む",
       "date": "2026-11-15"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/game/20261114-wg%e6%98%ad%e5%b3%b6-vslr%e7%a6%8f%e5%b2%a1/",
-      "title": "試合詳細結果",
-      "date": "2026-11-14"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261114-2/",

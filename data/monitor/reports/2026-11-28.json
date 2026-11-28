@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-28T13:13:39+09:00",
+  "checked_at": "2026-11-28T20:03:14+09:00",
   "teams": [
     {
       "team_id": "lo_team_100",
@@ -24,7 +24,9 @@
       "first_run": false,
       "item_count": 60,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.kobesteelers.com/"
+      ],
       "rename_signals": []
     },
     {
@@ -35,30 +37,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 39,
-      "new_items": [
-        {
-          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261127_03/",
-          "title": "チケット 2026年11月27日 2026-27シーズン テラスシートチケットご購入の皆さまへ ニュースを見る",
-          "date": "2026-11-27",
-          "category": null
-        },
-        {
-          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261127_02/",
-          "title": "チケット 2026年11月27日 2026-27シーズン 車いす席をご購入の皆さまへ ニュースを見る",
-          "date": "2026-11-27",
-          "category": null
-        },
-        {
-          "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261127_01/",
-          "title": "チケット 2026年11月27日 2026-27シーズン ピッチシートチケットご購入の皆さまへ ニュースを見る",
-          "date": "2026-11-27",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://panasonic.co.jp/sports/wildknights/",
-        "https://panasonic.co.jp/sports/wildknights/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -95,18 +75,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 28,
-      "new_items": [
-        {
-          "url": "https://www.honda-heat.jp/news/2505/",
-          "title": "イベント 2026.11.27 【イベント活動】『小山市立体育館スポーツフェスタ』 参加のお知らせ",
-          "date": "2026-11-27",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.honda-heat.jp/",
-        "https://www.honda-heat.jp/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -132,19 +102,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 14,
-      "new_items": [
-        {
-          "url": "https://www.canon-eagles.jp/news/info/20261127.html",
-          "title": "2026.11.27 TEAM 12/26 vs 栃木H 練習試合のお知らせ",
-          "date": "2026-11-27",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://www.canon-eagles.jp/",
-        "https://www.canon-eagles.jp/news/",
-        "https://www.canon-eagles.jp/news/info/2026.html"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -196,7 +155,8 @@
       "item_count": 40,
       "new_items": [],
       "changed_pages": [
-        "https://www.suntory.co.jp/culture-sports/sungoliath/"
+        "https://www.suntory.co.jp/culture-sports/sungoliath/",
+        "https://www.suntory.co.jp/culture-sports/sungoliath/news/2026.html"
       ],
       "rename_signals": []
     },
@@ -220,7 +180,20 @@
       "status": "ok",
       "first_run": false,
       "item_count": 40,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://www.kyudenvoltex.com/news/930",
+          "title": "アカデミー 2025年11月18日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第21回",
+          "date": "2025-11-18",
+          "category": null
+        },
+        {
+          "url": "https://www.kyudenvoltex.com/news/929",
+          "title": "アカデミー 2025年11月17日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第20回",
+          "date": "2025-11-17",
+          "category": null
+        }
+      ],
       "changed_pages": [
         "https://www.kyudenvoltex.com/"
       ],
@@ -276,10 +249,16 @@
       "status": "ok",
       "first_run": false,
       "item_count": 25,
-      "new_items": [],
+      "new_items": [
+        {
+          "url": "https://hanazono-liners.jp/result/11%e6%9c%8828%e6%97%a5%e5%9c%9fvs%e3%82%b3%e3%83%99%e3%83%ab%e3%82%b3%e7%a5%9e%e6%88%b8%e3%82%b9%e3%83%86%e3%82%a3%e3%83%bc%e3%83%a9%e3%83%bc%e3%82%ba/",
+          "title": "結果詳細を見る",
+          "date": "2026-11-28",
+          "category": null
+        }
+      ],
       "changed_pages": [
-        "https://hanazono-liners.jp/",
-        "https://hanazono-liners.jp/news/"
+        "https://hanazono-liners.jp/"
       ],
       "rename_signals": []
     },
@@ -316,11 +295,29 @@
       "official_url": "https://www.kurita-watergush.jp/",
       "status": "ok",
       "first_run": false,
-      "item_count": 44,
+      "item_count": 47,
       "new_items": [
         {
-          "url": "https://www.kurita-watergush.jp/20261128-2/",
-          "title": "私とWATER GUSH #43 松島聡 CTB 虫取り少年がプロに挑む 2026/11/28",
+          "url": "https://www.kurita-watergush.jp/stadium/%e5%8e%9a%e6%9c%a8%e5%b8%82%e8%8d%bb%e9%87%8e%e9%81%8b%e5%8b%95%e5%85%ac%e5%9c%92%e7%ab%b6%e6%8a%80%e5%a0%b4/",
+          "title": "アクセス",
+          "date": "2026-12-12",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/games/",
+          "title": "全ての試合情報はこちら",
+          "date": "2026-12-12",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261212-wg%e6%98%ad%e5%b3%b6-vs%e6%97%a5%e9%87%8erd/",
+          "title": "このゲームの詳細情報はこちら",
+          "date": "2026-12-12",
+          "category": null
+        },
+        {
+          "url": "https://www.kurita-watergush.jp/game/20261128-wg%e6%98%ad%e5%b3%b6-vs%e4%b8%ad%e5%9b%bdrr/",
+          "title": "試合詳細結果",
           "date": "2026-11-28",
           "category": null
         }
@@ -340,7 +337,10 @@
       "first_run": false,
       "item_count": 40,
       "new_items": [],
-      "changed_pages": [],
+      "changed_pages": [
+        "https://www.rugguts.secom.co.jp/",
+        "https://www.rugguts.secom.co.jp/news/"
+      ],
       "rename_signals": []
     },
     {
@@ -351,19 +351,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 16,
-      "new_items": [
-        {
-          "url": "https://rrrfc.red/game/game-6776/",
-          "title": "MORE",
-          "date": "2026-11-28",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://rrrfc.red/",
-        "https://rrrfc.red/blog/",
-        "https://rrrfc.red/categories/news/"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     },
     {
@@ -376,7 +365,8 @@
       "item_count": 45,
       "new_items": [],
       "changed_pages": [
-        "https://www.skyactivs.com/"
+        "https://www.skyactivs.com/",
+        "https://www.skyactivs.com/news/2091"
       ],
       "rename_signals": []
     },
@@ -400,18 +390,8 @@
       "status": "ok",
       "first_run": false,
       "item_count": 11,
-      "new_items": [
-        {
-          "url": "https://leriro-fukuoka.com/news-detail?id=286",
-          "title": "うきは市補助金の返納に関するご報告とお詫び",
-          "date": "2026-11-27",
-          "category": null
-        }
-      ],
-      "changed_pages": [
-        "https://leriro-fukuoka.com/",
-        "https://leriro-fukuoka.com/news"
-      ],
+      "new_items": [],
+      "changed_pages": [],
       "rename_signals": []
     }
   ],
@@ -435,16 +415,10 @@
       "item_count": 10,
       "new_items": [
         {
-          "url": "https://www.rugby-japan.jp/news/54360",
-          "title": "女子セブンズ日本代表（サクラセブンズ） HSBC SVNS 2027 ドバイ大会 登録メンバーと1日目試合スケジュールのお知らせ 2026.11.28 （土） 女子セブンズ日本代表 女子 セブンズ HSBC SVNS",
+          "url": "https://www.rugby-japan.jp/news/54325",
+          "title": "（11/28更新）第32回全国ジュニアラグビーフットボール大会 開催のお知らせ 2026.11.28 （土） 中学 普及育成 全国ジュニア大会 男子 女子",
           "date": "2026-11-28",
-          "category": "squad"
-        },
-        {
-          "url": "https://www.rugby-japan.jp/news/54353",
-          "title": "レポート：男子日本代表 ヨーロッパ遠征（リポビタンDツアー2026）ファイナルウィーク ウェールズ戦週 2026.11.27 （金） 15人制男子日本代表",
-          "date": "2026-11-27",
-          "category": "squad"
+          "category": null
         }
       ],
       "rename_signals": []
@@ -460,22 +434,7 @@
       "rename_signals": []
     }
   ],
-  "highlights": [
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54353",
-      "title": "レポート：男子日本代表 ヨーロッパ遠征（リポビタンDツアー2026）ファイナルウィーク ウェールズ戦週 2026.11.27 （金） 15人制男子日本代表",
-      "date": "2026-11-27",
-      "category": "squad"
-    },
-    {
-      "source": "日本ラグビー協会（ブレイブブロッサムズ）",
-      "url": "https://www.rugby-japan.jp/news/54360",
-      "title": "女子セブンズ日本代表（サクラセブンズ） HSBC SVNS 2027 ドバイ大会 登録メンバーと1日目試合スケジュールのお知らせ 2026.11.28 （土） 女子セブンズ日本代表 女子 セブンズ HSBC SVNS",
-      "date": "2026-11-28",
-      "category": "squad"
-    }
-  ],
+  "highlights": [],
   "league_rename_news": [],
   "warnings": [
     "ヤクルトレビンズ戸田: 記事リンクを抽出できない（JS描画の可能性）: https://www.yakult.co.jp/sports/rugby/",

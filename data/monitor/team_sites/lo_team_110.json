@@ -3,13 +3,13 @@
   "league": "league-one-d2",
   "name": "九州電力キューデンヴォルテクス",
   "official_url": "https://www.kyudenvoltex.com/",
-  "checked_at": "2026-11-28T13:13:39+09:00",
+  "checked_at": "2026-11-28T20:03:14+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kyudenvoltex.com/",
-      "hash": "f5fb1ac109d957c2"
+      "hash": "14c16a415333a9dd"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/",
@@ -58,21 +58,6 @@
       "date": "2026-11-10"
     },
     {
-      "url": "https://www.kyudenvoltex.com/news/1019",
-      "title": "チケット・ 試合情報",
-      "date": "2026-11-07"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/game/r184",
-      "title": "試合レポート",
-      "date": "2026-11-07"
-    },
-    {
-      "url": "https://www.kyudenvoltex.com/game/p184",
-      "title": "メンバー",
-      "date": "2026-11-07"
-    },
-    {
       "url": "https://www.kyudenvoltex.com/news/998",
       "title": "お知らせ 2026年11月06日 NTT ジャパンラグビー リーグワン 2026-27 大会日程決定のお知らせ(11/6更新)",
       "date": "2026-11-06"
@@ -81,6 +66,11 @@
       "url": "https://www.kyudenvoltex.com/news/1020",
       "title": "お知らせ 2026年11月06日 【NTTリーグワン2026-27】ホストゲーム チケット販売のお知らせ",
       "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/1019",
+      "title": "試合情報 2026年11月03日 【プレシーズンマッチ|ビジター】11/7(土)マツダスカイアクティブズ広島戦",
+      "date": "2026-11-03"
     },
     {
       "url": "https://www.kyudenvoltex.com/news/1017",
@@ -216,6 +206,16 @@
       "url": "https://www.kyudenvoltex.com/news/931",
       "title": "アカデミー 2025年11月20日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第22回",
       "date": "2025-11-20"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/930",
+      "title": "アカデミー 2025年11月18日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第21回",
+      "date": "2025-11-18"
+    },
+    {
+      "url": "https://www.kyudenvoltex.com/news/929",
+      "title": "アカデミー 2025年11月17日 第四期 キューデンヴォルテクス・ジュニアラグビーアカデミー 第20回",
+      "date": "2025-11-17"
     }
   ]
 }

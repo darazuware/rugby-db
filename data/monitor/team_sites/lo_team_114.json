@@ -3,13 +3,13 @@
   "league": "league-one-d2",
   "name": "花園近鉄ライナーズ",
   "official_url": "https://hanazono-liners.jp/",
-  "checked_at": "2026-11-28T13:13:39+09:00",
+  "checked_at": "2026-11-28T20:03:14+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://hanazono-liners.jp/",
-      "hash": "b46d438c2fd626e7"
+      "hash": "c08f85a95f2b9901"
     },
     {
       "url": "https://hanazono-liners.jp/news/",
@@ -17,6 +17,16 @@
     }
   ],
   "items": [
+    {
+      "url": "https://hanazono-liners.jp/shiaiyotei-kekka/",
+      "title": "試合日程を見る",
+      "date": "2026-11-28"
+    },
+    {
+      "url": "https://hanazono-liners.jp/result/11%e6%9c%8828%e6%97%a5%e5%9c%9fvs%e3%82%b3%e3%83%99%e3%83%ab%e3%82%b3%e7%a5%9e%e6%88%b8%e3%82%b9%e3%83%86%e3%82%a3%e3%83%bc%e3%83%a9%e3%83%bc%e3%82%ba/",
+      "title": "結果詳細を見る",
+      "date": "2026-11-28"
+    },
     {
       "url": "https://hanazono-liners.jp/2026/11/27/fanbook-2627/",
       "title": "2026.11.27 ファンクラブ 【LINERS FANCLUB】パッセンジャー必見！2026-27シーズン ファンブック！",
@@ -31,16 +41,6 @@
       "url": "https://hanazono-liners.jp/2026/11/25/1113-pleace/",
       "title": "2026.11.25 試合関連 NTTジャパンラグビー リーグワン2026-27 第11・13節試合会場について追加決定のお知らせ",
       "date": "2026-11-25"
-    },
-    {
-      "url": "https://hanazono-liners.jp/shiaiyotei-kekka/",
-      "title": "試合日程を見る",
-      "date": "2026-11-21"
-    },
-    {
-      "url": "https://hanazono-liners.jp/result/1121%e3%83%97%e3%83%ac%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3%e3%83%9e%e3%83%83%e3%83%81-vs%e8%b1%8a%e7%94%b0%e8%87%aa%e5%8b%95%e7%b9%94%e6%a9%9f%e3%82%b7%e3%83%a3%e3%83%88%e3%83%ab%e3%82%ba%e6%84%9b/",
-      "title": "結果詳細を見る",
-      "date": "2026-11-21"
     },
     {
       "url": "https://hanazono-liners.jp/2026/11/20/shotai-tenrishi/",
