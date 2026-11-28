@@ -3,17 +3,17 @@
   "league": "league-one-d3",
   "name": "クリタウォーターガッシュ昭島",
   "official_url": "https://www.kurita-watergush.jp/",
-  "checked_at": "2026-11-27T20:03:07+09:00",
+  "checked_at": "2026-11-28T13:13:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.kurita-watergush.jp/",
-      "hash": "2efcb21e8a2a1011"
+      "hash": "5db17f221ba01f25"
     },
     {
       "url": "https://www.kurita-watergush.jp/news/",
-      "hash": "f7aa29d50308e928"
+      "hash": "171c457ba77ffc08"
     }
   ],
   "items": [
@@ -23,24 +23,14 @@
       "date": "2027-11-07"
     },
     {
-      "url": "https://www.kurita-watergush.jp/stadium/%e6%a0%97%e7%94%b0%e5%b7%a5%e6%a5%ad%e6%98%ad%e5%b3%b6%e3%82%b0%e3%83%a9%e3%82%a6%e3%83%b3%e3%83%89/",
-      "title": "アクセス",
-      "date": "2026-11-28"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/games/",
-      "title": "全ての試合情報はこちら",
-      "date": "2026-11-28"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/game/20261128-wg%e6%98%ad%e5%b3%b6-vs%e4%b8%ad%e5%9b%bdrr/",
-      "title": "このゲームの詳細情報はこちら",
-      "date": "2026-11-28"
-    },
-    {
       "url": "https://www.kurita-watergush.jp/category/with-watergush/",
       "title": "私とウォーターガッシュ",
-      "date": "2026-11-27"
+      "date": "2026-11-28"
+    },
+    {
+      "url": "https://www.kurita-watergush.jp/20261128-2/",
+      "title": "私とWATER GUSH #43 松島聡 CTB 虫取り少年がプロに挑む 2026/11/28",
+      "date": "2026-11-28"
     },
     {
       "url": "https://www.kurita-watergush.jp/category/news/",
@@ -84,12 +74,12 @@
     },
     {
       "url": "https://www.kurita-watergush.jp/20261121-2/",
-      "title": "私とWATER GUSH #36 池澤佑尽 SO/CTB/FB幼稚園からラグビー一筋。 2026/11/21",
+      "title": "私とウォーターガッシュ 公開日：2026/11/21 私とWATER GUSH #36 池澤佑尽 SO/CTB/FB幼稚園からラグビー一筋。 今回の”私とWATER GUSH”は在籍3年目を迎えた池澤佑尽選手。SO・CTB・FBとバックス全般をこなすユーティリ… 続きを読む",
       "date": "2026-11-21"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261120-3/",
-      "title": "お知らせ 2026/11/20 11月28日（土）プレシーズンマッチ 中国電力レッドレグリオンズ戦イベントのご案内（※11月26日更新）",
+      "title": "お知らせ 2026/11/20 11月28日（土）プレシーズンマッチ 中国電力レッドレグリオンズ戦イベントのご案内（※11月28日更新）",
       "date": "2026-11-20"
     },
     {
@@ -241,11 +231,6 @@
       "url": "https://www.kurita-watergush.jp/20261024-2/",
       "title": "私とウォーターガッシュ 公開日：2026/10/24 私とWATER GUSH #12 楠大輝 LO 「おかげさまで」の気持ちを胸に。 今回の”私とWATER GUSH”は、近畿大学から2026年に加入したルーキーの楠大輝選手です。9歳からラグビーを始… 続きを読む",
       "date": "2026-10-24"
-    },
-    {
-      "url": "https://www.kurita-watergush.jp/20261023-2-2/",
-      "title": "私とウォーターガッシュ 公開日：2026/10/23 私とWATER GUSH #11 内藤基 FL 「信頼される選手に、社員に」 今回の”私とWATER GUSH”は、今シーズンからクリタウォーターガッシュ昭島に加入した内藤基選手。1年目なが… 続きを読む",
-      "date": "2026-10-23"
     },
     {
       "url": "https://www.kurita-watergush.jp/20261022-4/",

@@ -3,17 +3,17 @@
   "league": "league-one-d1",
   "name": "埼玉パナソニックワイルドナイツ",
   "official_url": "https://panasonic.co.jp/sports/wildknights/",
-  "checked_at": "2026-11-27T20:03:07+09:00",
+  "checked_at": "2026-11-28T13:13:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://panasonic.co.jp/sports/wildknights/",
-      "hash": "b8a9646460e9d059"
+      "hash": "3876b4f215ada78f"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/",
-      "hash": "8943dc92e8fe333a"
+      "hash": "05d30b7f9a4d2f1b"
     }
   ],
   "items": [
@@ -36,6 +36,21 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261205/",
       "title": "試合詳細",
       "date": "2026-12-05"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261127_03/",
+      "title": "チケット 2026年11月27日 2026-27シーズン テラスシートチケットご購入の皆さまへ ニュースを見る",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261127_02/",
+      "title": "チケット 2026年11月27日 2026-27シーズン 車いす席をご購入の皆さまへ ニュースを見る",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261127_01/",
+      "title": "チケット 2026年11月27日 2026-27シーズン ピッチシートチケットご購入の皆さまへ ニュースを見る",
+      "date": "2026-11-27"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261113_01/",
@@ -81,11 +96,6 @@
       "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261031/",
       "title": "チーム 2026年10月31日 10月31日(土) 強化試合 6戦目 日本製鉄釜石シーウェイブス戦 試合結果 ニュースを見る",
       "date": "2026-10-31"
-    },
-    {
-      "url": "https://panasonic.co.jp/sports/wildknights/match/games/20261114/#ticket",
-      "title": "チケット 2026年10月23日 11月14日(土) グローバルラグビーフェスタ 2026 クイーンズランドレッズ... ニュースを見る",
-      "date": "2026-10-23"
     },
     {
       "url": "https://panasonic.co.jp/sports/wildknights/news/2026/20261016_01/",

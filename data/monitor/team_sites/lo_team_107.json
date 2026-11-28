@@ -3,21 +3,21 @@
   "league": "league-one-d1",
   "name": "横浜キヤノンイーグルス",
   "official_url": "https://www.canon-eagles.jp/",
-  "checked_at": "2026-11-27T20:03:07+09:00",
+  "checked_at": "2026-11-28T13:13:39+09:00",
   "status": "ok",
   "relocated_to": null,
   "pages": [
     {
       "url": "https://www.canon-eagles.jp/",
-      "hash": "4162f7ed62a21989"
+      "hash": "13f112ab1e633f52"
     },
     {
       "url": "https://www.canon-eagles.jp/news/",
-      "hash": "7e79d23bf66df5db"
+      "hash": "9f5a06cd331f3f3d"
     },
     {
       "url": "https://www.canon-eagles.jp/news/info/2026.html",
-      "hash": "fb30029b456e4622"
+      "hash": "d63208d3cb2f0803"
     }
   ],
   "items": [
@@ -25,6 +25,11 @@
       "url": "https://www.canon-eagles.jp/gameinfo/info/2026-2027/20261128.html",
       "title": "詳細・チケット情報",
       "date": "2026-11-28"
+    },
+    {
+      "url": "https://www.canon-eagles.jp/news/info/20261127.html",
+      "title": "2026.11.27 TEAM 12/26 vs 栃木H 練習試合のお知らせ",
+      "date": "2026-11-27"
     },
     {
       "url": "https://www.canon-eagles.jp/news/gameinfo/20261126.html",
@@ -85,11 +90,6 @@
       "url": "https://www.canon-eagles.jp/news/info/20261112.html",
       "title": "2026.11.12 TEAM ネーションズチャンピオンシップ2026 イングランド代表戦に横浜キヤノンイーグルスの選手が選出されました",
       "date": "2026-11-12"
-    },
-    {
-      "url": "https://www.canon-eagles.jp/news/info/20261110-2.html",
-      "title": "2026.11.10 TEAM ホストエリアパートナー契約締結のお知らせ キヤノンITソリューションズ株式会社",
-      "date": "2026-11-10"
     }
   ]
 }
